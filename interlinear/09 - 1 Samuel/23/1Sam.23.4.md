@@ -1,4 +1,4 @@
-**1 Samuel 23:4** 
+**1 Samuel 23:4**<big><big>[[1Sam.23.1 David Delivers Keilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David inquired of the LORD yet again. And the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once again, David inquired of the LORD, and the LORD answered him: “Go at once
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.3|<< 1 Samuel 23:3]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.5|1 Samuel 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יּ֨וֹסֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֤וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:2** 
 <small><sub>**LXX:**</sub></small>
 Then said David, No one is to lift the ark  of God except the Levites; for the <span class="smallcaps">lord</span> chose them to lift the ark of \[the\] <span class="smallcaps">lord</span>, and to officiate to him unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.
-<small><sub>**BSB:**</sub></small>
-Then David said, “No one but the Levites may carry the ark of God, because the LORD has chosen them to carry the ark of the LORD and to minister before Him forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.1|<< 1 Chronicles 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.3|1 Chronicles 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

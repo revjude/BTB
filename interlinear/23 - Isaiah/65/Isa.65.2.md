@@ -1,4 +1,4 @@
-**Isaiah 65:2** 
+**Isaiah 65:2**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have spread out my hands all the day unto a rebellious people, which walketh in a way [that was] not good, after their own thoughts;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All day long I have held out My hands to an obstinate people who walk in the wro
 > $\quad$ referenced by: [[Rom.10.21|Rom 10:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I spread out  |**<big>&#8207;[[H6566\|פֵּרַ֧שְׂתִּי]]&#8207; </big>**| pe.Ras.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands my  |**<big>&#8207;[[H3027G\|יָדַ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

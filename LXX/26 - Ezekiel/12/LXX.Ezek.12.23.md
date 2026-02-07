@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:23** 
 <small><sub>**LXX:**</sub></small>
 On account of this, say to them! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Even I will turn back  this parable, and no longer should the house of Israel speak this parable. For you shall say to them, The days have approached, and \[the\] matter of every vision. 
-<small><sub>**KJV:**</sub></small>
-Tell them therefore, Thus saith the Lord GOD; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision.
-<small><sub>**BSB:**</sub></small>
-Therefore tell them that this is what the Lord GOD says: ‘I will put an end to this proverb, and in Israel they will no longer recite it.’ But say to them: ‘The days are at hand when every vision will be fulfilled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.22|<< Ezekiel 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.24|Ezekiel 12:24 >>]]</td></tr></table>
 
 | Translation | Greek |

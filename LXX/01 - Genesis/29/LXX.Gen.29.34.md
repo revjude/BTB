@@ -1,10 +1,7 @@
 **LXX Genesis 29:34** 
 <small><sub>**LXX:**</sub></small>
 And she conceived again and bore a son. And she said, In the present time my husband will be by me, for I bore to him three sons. On account of this she called  his name, Levi. 
-<small><sub>**KJV:**</sub></small>
-And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.
-<small><sub>**BSB:**</sub></small>
-Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.33|<< Genesis 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.35|Genesis 29:35 >>]]</td></tr></table>
 
 | Translation | Greek |

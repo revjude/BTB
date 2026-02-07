@@ -1,4 +1,4 @@
-**Jeremiah 51:27** 
+**Jeremiah 51:27**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set ye up a standard in the land, blow the trumpet among the nations, prepare the nations against her, call together against her the kingdoms of Ararat, Minni, and Ashchenaz; appoint a captain against her; cause the horses to come up as the rough caterpillers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set ye up a standard in the land, blow the trumpet among the nations, prepare th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375G\|שְׂאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a standard  |**<big>&#8207;[[H5251H\|נֵ֣ס]]&#8207; </big>**| nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

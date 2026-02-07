@@ -1,12 +1,12 @@
-**John 3:32
-**<small><sub>**KJV:**</sub></small>
+**John 3:32**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.
 <small><sub>**BSB:**</sub></small>
 He testifies to what He has seen and heard, yet no one accepts His testimony.
 <small><sub>**Literal:**</sub></small>
 and What He has seen and heard, this He testifies, and the testimony of Him no [one] receives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.31|<< John 3:31]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.33|John 3:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | What |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

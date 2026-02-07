@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:24** 
 <small><sub>**LXX:**</sub></small>
 And David was sitting between the two gates, and the watchman went onto the roof of the gate \[house\], unto the wall; and he lifted  his eyes and saw, and behold, \[there was\] a man running alone before him. 
-<small><sub>**KJV:**</sub></small>
-And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
-<small><sub>**BSB:**</sub></small>
-Now David was sitting between the two gates when the watchman went up to the roof of the gateway by the wall, looked out, and saw a man running alone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.23|<< 2 Samuel 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.25|2 Samuel 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

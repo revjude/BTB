@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> led us from there, that he should bring us, to give to us  this land which \[the\] <span class="smallcaps">lord</span> our God swore by an oath \[to\] our fathers to give to us. 
-<small><sub>**KJV:**</sub></small>
-And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
-<small><sub>**BSB:**</sub></small>
-But He brought us out from there to lead us in and give us the land that He had sworn to our fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.22|<< Deuteronomy 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.24|Deuteronomy 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

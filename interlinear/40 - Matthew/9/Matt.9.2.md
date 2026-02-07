@@ -1,12 +1,12 @@
-**Matthew 9:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:2**<big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.
 <small><sub>**BSB:**</sub></small>
 Just then some men brought to Him a paralytic lying on a mat. When Jesus saw their faith, He said to the paralytic, “Take courage, son; your sins are forgiven.”
 <small><sub>**Literal:**</sub></small>
 And behold they were bringing to Him a paralytic on a bed lain down. And having seen <the> Jesus the faith of them He said to the paralytic; Take courage son, are forgiven to you of you the sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.1|<< Matthew 9:1]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.3|Matthew 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

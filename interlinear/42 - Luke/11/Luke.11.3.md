@@ -1,12 +1,12 @@
-**Luke 11:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:3**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Give us day by day our daily bread.
 <small><sub>**BSB:**</sub></small>
 Give us each day our daily bread.
 <small><sub>**Literal:**</sub></small>
 The bread of us <the> daily do give us <the> each day;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.2|<< Luke 11:2]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.4|Luke 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | bread |**<big>[[G0740\|ἄρτον]]</big>**  |arton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

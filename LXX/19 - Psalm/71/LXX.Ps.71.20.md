@@ -1,10 +1,7 @@
 **LXX Psalm 71:20** 
 <small><sub>**LXX:**</sub></small>
 As much as you showed to me -- many afflictions and bad \[things\]; but turning, you restored life to me; and from out of the abysses of the earth you led me. 
-<small><sub>**KJV:**</sub></small>
-[Thou], which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.
-<small><sub>**BSB:**</sub></small>
-Though You have shown me many troubles and misfortunes, You will revive me once again. Even from the depths of the earth You will bring me back up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.19|<< Psalm 71:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.21|Psalm 71:21 >>]]</td></tr></table>
 
 | Translation | Greek |

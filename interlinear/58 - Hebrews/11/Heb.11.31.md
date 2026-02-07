@@ -1,5 +1,5 @@
-**Hebrews 11:31
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:31**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.
 <small><sub>**BSB:**</sub></small>
 By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient.
@@ -10,7 +10,7 @@ By faith Rahab the prostitute not did perish with those having disobeyed having 
 > $\quad$ alluding to: [[LXX.Josh.2.1|Josh 2:1]] ☩ [[LXX.Josh.6.17|Josh 6:17]] ☩ [[LXX.Josh.6.23|Josh 6:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Rahab |**<big>[[G4460\|Ῥαὰβ]]</big>**  [^1] |Rhaab <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

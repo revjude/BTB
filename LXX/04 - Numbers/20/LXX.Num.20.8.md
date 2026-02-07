@@ -1,10 +1,7 @@
 **LXX Numbers 20:8** 
 <small><sub>**LXX:**</sub></small>
 Take the rod, and call an assembly of the congregation, you and Aaron  your brother! And speak to the rock before them! and it shall give  of its waters; and you shall bring forth to them water from out of the rock, and you shall give to drink the congregation and  their cattle. 
-<small><sub>**KJV:**</sub></small>
-Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.
-<small><sub>**BSB:**</sub></small>
-“Take the staff and assemble the congregation. You and your brother Aaron are to speak to the rock while they watch, and it will pour out its water. You will bring out water from the rock and provide drink for the congregation and their livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.7|<< Numbers 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.9|Numbers 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

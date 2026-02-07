@@ -1,4 +1,4 @@
-**Genesis 5:21** 
+**Genesis 5:21**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Enoch lived sixty and five years, and begat Methuselah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Enoch was 65 years old, he became the father of Methuselah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.20|<< Genesis 5:20]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.22|Genesis 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Enoch  |**<big>&#8207;[[H2585H\|חֲנ֔וֹךְ]]&#8207; </big>**| cha.Nokh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

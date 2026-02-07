@@ -1,12 +1,12 @@
-**Romans 1:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:21**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because that, when they knew God, they glorified [him] not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.
 <small><sub>**BSB:**</sub></small>
 For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts.
 <small><sub>**Literal:**</sub></small>
 For having known <the> God not as God they glorified [Him] or were thankful, but they became futile in the thinking of them, and was darkened the foolish of them heart;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.20|<< Romans 1:20]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.22|Romans 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having known |**<big>[[G1097\|γνόντες]]</big>**  |gnontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

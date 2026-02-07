@@ -1,4 +1,4 @@
-**Ezra 4:22** 
+**Ezra 4:22**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed now that ye fail not to do this: why should damage grow to the hurt of the kings?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See that you do not neglect this matter. Why allow this threat to increase and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.21|<< Ezra 4:21]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.23|Ezra 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cautious  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2095\|זְהִירִ֥ין]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ze.hi.Rin<small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be  |**<big>&#8207;[[H1934\|הֱו֛וֹ]]&#8207; </big>**| he.Vo<small><sup>[[AVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

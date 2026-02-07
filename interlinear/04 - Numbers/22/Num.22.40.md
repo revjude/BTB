@@ -1,4 +1,4 @@
-**Numbers 22:40** 
+**Numbers 22:40**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak offered oxen and sheep, and sent to Balaam, and to the princes that [were] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Balak sacrificed cattle and sheep, and he gave portions to Balaam and the prince
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.39|<< Numbers 22:39]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.41|Numbers 22:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Balak  |**<big>&#8207;[[H1111\|בָּלָ֖ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

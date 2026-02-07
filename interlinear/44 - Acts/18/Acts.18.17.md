@@ -1,12 +1,12 @@
-**Acts 18:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:17**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat [him] before the judgment seat. And Gallio cared for none of those things.
 <small><sub>**BSB:**</sub></small>
 At this, the crowd seized Sosthenes the synagogue leader and beat him in front of the judgment seat. But none of this was of concern to Gallio.
 <small><sub>**Literal:**</sub></small>
 Having seized then all [of them] the Greeks Sosthenes the ruler of the synagogue they were beating [him] before the judgment seat; And no [thing] about these things <the> to Gallio was concerning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.16|<< Acts 18:16]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.18|Acts 18:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seized |**<big>[[G1949\|Ἐπιλαβόμενοι]]</big>**  |Epilabomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

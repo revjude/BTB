@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:26** 
 <small><sub>**LXX:**</sub></small>
 And Saul went, and  his men by the side  of this mountain, and David and  his men by the \[other\] side  of this mountain. And David was sheltering to go from \[the\] face of Saul. And Saul and  his men camped by David and  his men --  to seize them. 
-<small><sub>**KJV:**</sub></small>
-And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them.
-<small><sub>**BSB:**</sub></small>
-Saul was proceeding along one side of the mountain, and David and his men along the other side. Even though David was hurrying to get away, Saul and his men were closing in on David and his men to capture them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.25|<< 1 Samuel 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.27|1 Samuel 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 4:25** 
+**Genesis 4:25**<big><big>[[Gen.4.25 Seth and Enosh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam knew his wife again; and she bare a son, and called his name Seth: For God, [said she], hath appointed me another seed instead of Abel, whom Cain slew.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Adam again had relations with his wife, and she gave birth to a son and name
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.24|<< Genesis 4:24]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.26|Genesis 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּ֨דַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adam  |**<big>&#8207;[[H0121G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

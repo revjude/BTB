@@ -1,12 +1,12 @@
-**Mark 10:52
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:52**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.
 <small><sub>**BSB:**</sub></small>
 “Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road.
 <small><sub>**Literal:**</sub></small>
 And <the> now Jesus said to him; do go, the faith of you has healed you. And immediately he received sight and he was following Him Jesus on the way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.51|<< Mark 10:51]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.1|Mark 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">no</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

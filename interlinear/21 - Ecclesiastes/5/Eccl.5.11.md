@@ -1,4 +1,4 @@
-**Ecclesiastes 5:11** (5:10)
+**Ecclesiastes 5:11**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When goods increase, they are increased that eat them: and what good [is there] to the owners thereof, saving the beholding [of them] with their eyes?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When good things increase, so do those who consume them; what then is the profit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.10|<< Ecclesiastes 5:10]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.12|Ecclesiastes 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when increases  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7235A\|רְבוֹת֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.Vot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the good  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896C\|טּוֹבָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> to.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

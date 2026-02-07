@@ -1,4 +1,4 @@
-**1 Chronicles 20:7** 
+**1 Chronicles 20:7**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he defied Israel, Jonathan the son of Shimea David’s brother slew him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when he taunted Israel, Jonathan the son of David’s brother Shimei killed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.6|<< 1 Chronicles 20:6]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.8|1 Chronicles 20:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he taunted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2778A\|יְחָרֵ֖ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Ref<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

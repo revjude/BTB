@@ -1,5 +1,5 @@
-**2 Peter 3:6
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:6**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereby the world that then was, being overflowed with water, perished:
 <small><sub>**BSB:**</sub></small>
 through which the world of that time perished in the flood.
@@ -10,7 +10,7 @@ through [means of] those [waters] the at that time world with water having been 
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [means of] those [waters] [^1] [^2] |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPN]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg+TR+Byz">NK(O)</abbr> | |

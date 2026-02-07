@@ -1,10 +1,7 @@
 **LXX Genesis 49:16** 
 <small><sub>**LXX:**</sub></small>
 Dan will judge  his people, as even one tribe in Israel. 
-<small><sub>**KJV:**</sub></small>
-Dan shall judge his people, as one of the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-Dan shall provide justice for his people as one of the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.15|<< Genesis 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.17|Genesis 49:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Thessalonians 2:1
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:1**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For yourselves, brethren, know our entrance in unto you, that it was not in vain:
 <small><sub>**BSB:**</sub></small>
 You yourselves know, brothers, that our visit to you was not in vain.
 <small><sub>**Literal:**</sub></small>
 You yourselves for know, brothers, the coming of us <the> to you that not in vain has been;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.10|<< 1 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.2|1 Thessalonians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G0846\|Αὐτοὶ]]</big>**  |Autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

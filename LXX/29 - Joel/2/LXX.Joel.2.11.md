@@ -1,10 +1,7 @@
 **LXX Joel 2:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall give forth his voice from in front of his force; for his camp is exceedingly great; for his words are strong works; for great \[is\] the day of \[the\] <span class="smallcaps">lord</span>, exceedingly apparent, and who will be fit for it? 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall utter his voice before his army: for his camp [is] very great: for [he is] strong that executeth his word: for the day of the LORD [is] great and very terrible; and who can abide it?
-<small><sub>**BSB:**</sub></small>
-The LORD raises His voice in the presence of His army. Indeed, His camp is very large, for mighty are those who obey His command. For the Day of the LORD is great and very dreadful. Who can endure it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.10|<< Joel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.12|Joel 2:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:11** is...

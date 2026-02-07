@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:28** 
 <small><sub>**LXX:**</sub></small>
 You should not fear, my child, Jacob, says \[the\] <span class="smallcaps">lord</span>, For I am with you. For I will appoint consummation among every nation in which I led you out of there. But you in no way will I appoint to cease, and I will correct you in judgment; but I will not acquit you as innocent. 
-<small><sub>**KJV:**</sub></small>
-Fear thou not, O Jacob my servant, saith the LORD: for I [am] with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished.
-<small><sub>**BSB:**</sub></small>
-And you, My servant Jacob, do not be afraid, declares the LORD, for I am with you. Though I will completely destroy all the nations to which I have banished you, I will not completely destroy you. Yet I will discipline you justly, and will by no means leave you unpunished.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
 
 | Translation | Greek |

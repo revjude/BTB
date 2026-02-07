@@ -1,4 +1,4 @@
-**1 Chronicles 1:19** 
+**1 Chronicles 1:19**<big><big>[[1Chr.1.1 From Adam to Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Eber were born two sons: the name of the one [was] Peleg; because in his days the earth was divided: and his brother’s name [was] Joktan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two sons were born to Eber: One was named Peleg, because in his days the earth w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.18|<< 1 Chronicles 1:18]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.20|1 Chronicles 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Eber  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5677G\|עֵ֥בֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was born  |**<big>&#8207;[[H3205\|יֻלַּ֖ד]]&#8207; </big>**| yu.Lad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

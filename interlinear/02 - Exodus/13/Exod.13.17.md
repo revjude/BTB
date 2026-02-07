@@ -1,4 +1,4 @@
-**Exodus 13:17** 
+**Exodus 13:17**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Pharaoh had let the people go, that God led them not [through] the way of the land of the Philistines, although that [was] near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Pharaoh let the people go, God did not lead them along the road through the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.16|<< Exodus 13:16]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.18|Exodus 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when let go  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7971H\|שַׁלַּ֣ח]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Lach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

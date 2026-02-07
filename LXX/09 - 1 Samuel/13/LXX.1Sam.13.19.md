@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:19** 
 <small><sub>**LXX:**</sub></small>
 And a fabricator of iron was not found in all the land of Israel, for the Philistines said, Perhaps the Hebrews will make a broadsword and spear. 
-<small><sub>**KJV:**</sub></small>
-Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make [them] swords or spears:
-<small><sub>**BSB:**</sub></small>
-And no blacksmith could be found in all the land of Israel, because the Philistines had said, “The Hebrews must not be allowed to make swords or spears.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.18|<< 1 Samuel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.20|1 Samuel 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

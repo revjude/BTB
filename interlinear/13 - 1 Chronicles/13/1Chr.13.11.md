@@ -1,4 +1,4 @@
-**1 Chronicles 13:11** 
+**1 Chronicles 13:11**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David became angry because the LORD had burst forth against Uzzah. So he na
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.10|<< 1 Chronicles 13:10]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.12|1 Chronicles 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּ֣חַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֔יד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

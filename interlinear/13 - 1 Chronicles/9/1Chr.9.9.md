@@ -1,4 +1,4 @@
-**1 Chronicles 9:9** 
+**1 Chronicles 9:9**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren, according to their generations, nine hundred and fifty and six. All these men [were] chief of the fathers in the house of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and 956 of their relatives according to their genealogy. All these men were head
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.8|<< 1 Chronicles 9:8]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.10|1 Chronicles 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to generations their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8435\|תֹ֣לְדוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> To.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

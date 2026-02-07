@@ -1,4 +1,4 @@
-**Psalms 24:4** 
+**Psalms 24:4**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who has clean hands and a pure heart, who does not lift up his soul to an ido
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.3|<< Psalms 24:3]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.5|Psalms 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a [person] innocent of  |**<big>&#8207;[[H5355A\|נְקִ֥י]]&#8207; </big>**| ne.Ki<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands  |**<big>&#8207;[[H3709G\|כַפַּ֗יִם]]&#8207; </big>**| kha.Pa.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

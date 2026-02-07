@@ -1,10 +1,7 @@
 **LXX Numbers 17:5** 
 <small><sub>**LXX:**</sub></small>
 And it shall be the man who ever I should choose him,  his rod shall sprout forth. And I will remove from you the grumbling of \[the\] sons of Israel, as much as they grumble against you. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
-<small><sub>**BSB:**</sub></small>
-The staff belonging to the man I choose will sprout, and I will rid Myself of the constant grumbling of the Israelites against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.4|<< Numbers 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.6|Numbers 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

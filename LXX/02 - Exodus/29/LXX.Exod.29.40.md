@@ -1,10 +1,7 @@
 **LXX Exodus 29:40** 
 <small><sub>**LXX:**</sub></small>
 And a tenth \[measure\] of fine flour being mixed with olive oil being beaten to the fourth \[part\]  \[of a\] hin; and a libation -- the fourth \[part\] of the hin of wine to the lamb -- to the \[first\] one. 
-<small><sub>**KJV:**</sub></small>
-And with the one lamb a tenth deal of flour mingled with the fourth part of an hin of beaten oil; and the fourth part of an hin of wine [for] a drink offering.
-<small><sub>**BSB:**</sub></small>
-With the first lamb offer a tenth of an ephah of fine flour, mixed with a quarter hin of oil from pressed olives, and a drink offering of a quarter hin of wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.39|<< Exodus 29:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.41|Exodus 29:41 >>]]</td></tr></table>
 
 | Translation | Greek |

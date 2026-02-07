@@ -1,12 +1,12 @@
-**Luke 4:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:21**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he began to say unto them, This day is this scripture fulfilled in your ears.
 <small><sub>**BSB:**</sub></small>
 and He began by saying, “Today this Scripture is fulfilled in your hearing.”
 <small><sub>**Literal:**</sub></small>
 He began then to say to them that Today has been fulfilled <the> Scripture this in the hearing of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.20|<< Luke 4:20]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.22|Luke 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He began |**<big>[[G0757\|ἤρξατο]]</big>**  |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

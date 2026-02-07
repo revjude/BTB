@@ -1,4 +1,4 @@
-**Ezekiel 23:8** 
+**Ezekiel 23:8**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither left she her whoredoms [brought] from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She did not give up the prostitution she began in Egypt, when men slept with her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.7|<< Ezekiel 23:7]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.9|Ezekiel 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prostitution\<s> her  |**<big>&#8207;[[H8457\|תַּזְנוּתֶ֤י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| taz.nu.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

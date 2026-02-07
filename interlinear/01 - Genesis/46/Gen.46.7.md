@@ -1,4 +1,4 @@
-**Genesis 46:7** 
+**Genesis 46:7**<big><big>[[Gen.46.7 Those Who Went to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jacob took with him to Egypt his sons and grandsons, and his daughters and grand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.6|<< Genesis 46:6]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.8|Genesis 46:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sons his  |**<big>&#8207;[[H1121A\|בָּנָ֞י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ba.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

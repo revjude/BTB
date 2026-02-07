@@ -1,10 +1,7 @@
 **LXX Numbers 3:18** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the names of the sons of Gershon according to their peoples -- Libni and Shimei. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the names of the sons of Gershon by their families; Libni, and Shimei.
-<small><sub>**BSB:**</sub></small>
-These were the names of the sons of Gershon by their clans: Libni and Shimei.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.17|<< Numbers 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.19|Numbers 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

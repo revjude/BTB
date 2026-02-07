@@ -1,10 +1,7 @@
 **LXX Leviticus 13:55** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look after the washing the infection; and thus the infection in no way should turn  of its appearance, and the infection did not diffuse, it is unclean; in fire you shall incinerate \[it\]; it is fixed firm in the garment, or in the warp, or in the woof. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall look on the plague, after that it is washed: and, behold, [if] the plague have not changed his colour, and the plague be not spread; it [is] unclean; thou shalt burn it in the fire; it [is] fret inward, [whether] it [be] bare within or without.
-<small><sub>**BSB:**</sub></small>
-After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn it, whether the rot is on the front or back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.54|<< Leviticus 13:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.56|Leviticus 13:56 >>]]</td></tr></table>
 
 | Translation | Greek |

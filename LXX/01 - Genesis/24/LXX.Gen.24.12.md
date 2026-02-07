@@ -1,10 +1,7 @@
 **LXX Genesis 24:12** 
 <small><sub>**LXX:**</sub></small>
 And he said, O <span class="smallcaps">lord</span>  God  of my master Abraham, prosper the way before me today, and perform mercy with  my master Abraham! 
-<small><sub>**KJV:**</sub></small>
-And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.
-<small><sub>**BSB:**</sub></small>
-“O LORD, God of my master Abraham,” he prayed, “please grant me success today, and show kindness to my master Abraham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.11|<< Genesis 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.13|Genesis 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 29:9** 
+**1 Samuel 29:9**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Achish answered and said to David, I know that thou [art] good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Achish replied, “I know that you are as pleasing in my sight as an angel of Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֣עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Achish  |**<big>&#8207;[[H0397\|אָכִישׁ֮]]&#8207; </big>**| 'a.Khish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

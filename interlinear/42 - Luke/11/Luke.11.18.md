@@ -1,12 +1,12 @@
-**Luke 11:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:18**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
 <small><sub>**BSB:**</sub></small>
 If Satan is divided against himself, how can his kingdom stand? After all, you say that I drive out demons by Beelzebul.
 <small><sub>**Literal:**</sub></small>
 If now even <the> Satan against himself is divided, how will stand the kingdom of him? For you say by Beelzebul [am] casting out I the demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.17|<< Luke 11:17]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.19|Luke 11:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

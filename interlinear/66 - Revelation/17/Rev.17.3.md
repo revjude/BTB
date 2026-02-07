@@ -1,5 +1,5 @@
-**Revelation 17:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:3**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 <small><sub>**BSB:**</sub></small>
 And the angel carried me away in the Spirit into a wilderness, where I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.
@@ -10,7 +10,7 @@ and he carried away me into a wilderness in [the] Spirit. and I saw a woman sitt
 > $\quad$ possibly alluding to: [[LXX.Dan.7.7|Dan 7:7-8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he carried away |**<big>[[G0667\|ἀπήνεγκέν]]</big>**  |apēnegken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

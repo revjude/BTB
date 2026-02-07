@@ -1,12 +1,12 @@
-**2 Corinthians 2:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:5**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.
 <small><sub>**BSB:**</sub></small>
 Now if anyone has caused grief, he has not grieved me but all of you—to some degree, not to overstate it.
 <small><sub>**Literal:**</sub></small>
 If however anyone has caused grief, not me myself has he grieved but in part — that not I may burden all you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.4|<< 2 Corinthians 2:4]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.6|2 Corinthians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

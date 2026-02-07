@@ -1,5 +1,5 @@
-**Mark 11:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:9**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that went before, and they that followed, cried, saying, Hosanna; Blessed [is] he that cometh in the name of the Lord:
 <small><sub>**BSB:**</sub></small>
 The ones who went ahead and those who followed were shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!”
@@ -10,7 +10,7 @@ And those going before and those following were crying out saying: Hosanna! Bles
 > $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

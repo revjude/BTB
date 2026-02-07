@@ -1,10 +1,7 @@
 **LXX Numbers 13:18** 
 <small><sub>**LXX:**</sub></small>
 And you will behold the land, what it is, and the people  lying in wait upon it, if \[they are\] strong or weak; or \[if\] they are few, or many. 
-<small><sub>**KJV:**</sub></small>
-And see the land, what it [is]; and the people that dwelleth therein, whether they [be] strong or weak, few or many;
-<small><sub>**BSB:**</sub></small>
-See what the land is like and whether its people are strong or weak, few or many.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.17|<< Numbers 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.19|Numbers 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

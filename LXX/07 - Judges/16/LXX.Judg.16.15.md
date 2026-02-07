@@ -1,10 +1,7 @@
 **LXX Judges 16:15** 
 <small><sub>**LXX:**</sub></small>
 And Delilah said to him, How do you say, I love you, and  your heart is not with me? This third \[time\] you misled me, and did not report to me by what \[means\]  your great strength \[is\]. 
-<small><sub>**KJV:**</sub></small>
-And she said unto him, How canst thou say, I love thee, when thine heart [is] not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength [lieth].
-<small><sub>**BSB:**</sub></small>
-“How can you say, ‘I love you,’” she asked, “when your heart is not with me? This is the third time you have mocked me and failed to reveal to me the source of your great strength!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.14|<< Judges 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.16|Judges 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 7:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:28**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children’s crumbs.
 <small><sub>**BSB:**</sub></small>
 “Yes, Lord,” she replied, “even the dogs under the table eat the children’s crumbs.”
 <small><sub>**Literal:**</sub></small>
 <the> But she answered and she says to Him; yes Lord, even for the dogs under the table eat of the crumbs of the children.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.27|<< Mark 7:27]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.29|Mark 7:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 24:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:32**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?
 <small><sub>**BSB:**</sub></small>
 They asked each other, “Were not our hearts burning within us as He spoke with us on the road and opened the Scriptures to us?”
 <small><sub>**Literal:**</sub></small>
 And they said to one another; Surely the heart of us burning it was within us as He was speaking with us on the road and as He was opening to us the Scriptures?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.31|<< Luke 24:31]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.33|Luke 24:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

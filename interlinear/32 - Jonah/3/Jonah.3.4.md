@@ -1,4 +1,4 @@
-**Jonah 3:4** 
+**Jonah 3:4**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On the first day of his journey, Jonah set out into the city and proclaimed, “
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he began  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2490C\|יָּ֤חֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.chel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonah  |**<big>&#8207;[[H3124\|יוֹנָה֙]]&#8207; </big>**| yo.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

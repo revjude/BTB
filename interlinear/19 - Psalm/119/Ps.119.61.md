@@ -1,4 +1,4 @@
-**Psalms 119:61** 
+**Psalms 119:61**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The bands of the wicked have robbed me: [but] I have not forgotten thy law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though the ropes of the wicked bind me, I do not forget Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.60|<< Psalms 119:60]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.62|Psalms 119:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] ropes of  |**<big>&#8207;[[H2256M\|חֶבְלֵ֣י]]&#8207; </big>**| chev.Lei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

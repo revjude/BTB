@@ -1,4 +1,4 @@
-**Joshua 7:15** 
+**Joshua 7:15**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one who is caught with the things devoted to destruction must be burned, alo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.14|<< Joshua 7:14]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.16|Joshua 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] is taken by lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3920\|נִּלְכָּ֣ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nil.Kad<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

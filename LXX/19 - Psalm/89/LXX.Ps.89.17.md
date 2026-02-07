@@ -1,10 +1,7 @@
 **LXX Psalm 89:17** 
 <small><sub>**LXX:**</sub></small>
 For you are the boast of their power; and by  your benevolence our horn shall be raised up high. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] the glory of their strength: and in thy favour our horn shall be exalted.
-<small><sub>**BSB:**</sub></small>
-For You are the glory of their strength, and by Your favor our horn is exalted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.16|<< Psalm 89:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.18|Psalm 89:18 >>]]</td></tr></table>
 
 | Translation | Greek |

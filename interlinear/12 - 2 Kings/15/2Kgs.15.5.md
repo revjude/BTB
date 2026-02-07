@@ -1,4 +1,4 @@
-**2 Kings 15:5** 
+**2 Kings 15:5**<big><big>[[2Kgs.15.1 Azariah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD smote the king, so that he was a leper unto the day of his death, and dwelt in a several house. And Jotham the king’s son [was] over the house, judging the people of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD afflicted the king with leprosy until the day he died, so that he l
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.4|<< 2 Kings 15:4]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.6|2 Kings 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5060\|יְנַגַּ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.Ga'<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

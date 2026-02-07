@@ -1,12 +1,12 @@
-**Matthew 7:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:24**<big><big>[[Matt.7.24 The House on the Rock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 <small><sub>**BSB:**</sub></small>
 Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.
 <small><sub>**Literal:**</sub></small>
 Everyone therefore whoever hears My <the> words these and does them, he will be like a man wise who built his <the> house upon the rock.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.23|<< Matthew 7:23]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.25|Matthew 7:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

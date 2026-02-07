@@ -1,4 +1,4 @@
-**2 Chronicles 36:16** 
+**2 Chronicles 36:16**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till [there was] no remedy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they mocked the messengers of God, despising His words and scoffing at His p
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.15|<< 2 Chronicles 36:15]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.17|2 Chronicles 36:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְי֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deriding  |**<big>&#8207;[[H3931\|מַלְעִבִים֙]]&#8207; </big>**| mal.'i.Vim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

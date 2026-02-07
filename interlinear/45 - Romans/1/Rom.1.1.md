@@ -1,12 +1,12 @@
-**Romans 1:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:1**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, a servant of Jesus Christ, called [to be] an apostle, separated unto the gospel of God,
 <small><sub>**BSB:**</sub></small>
 Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God—
 <small><sub>**Literal:**</sub></small>
 Paul a servant of Christ Jesus a called apostle set apart for [the] gospel of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.31|<< Acts 28:31]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.2|Romans 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a servant |**<big>[[G1401\|δοῦλος]]</big>**  |doulos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

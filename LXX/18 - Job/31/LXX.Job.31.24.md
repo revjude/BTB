@@ -1,10 +1,7 @@
 **LXX Job 31:24** 
 <small><sub>**LXX:**</sub></small>
 If I ordered up gold for my strength; and if even I relied upon very costly stone; 
-<small><sub>**KJV:**</sub></small>
-If I have made gold my hope, or have said to the fine gold, [Thou art] my confidence;
-<small><sub>**BSB:**</sub></small>
-If I have put my trust in gold or called pure gold my security,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.23|<< Job 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.25|Job 31:25 >>]]</td></tr></table>
 
 | Translation | Greek |

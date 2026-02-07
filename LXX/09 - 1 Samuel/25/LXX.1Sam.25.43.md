@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:43** 
 <small><sub>**LXX:**</sub></small>
 And  David took Ahinoam of Jezreel; and both were his wives. 
-<small><sub>**KJV:**</sub></small>
-David also took Ahinoam of Jezreel; and they were also both of them his wives.
-<small><sub>**BSB:**</sub></small>
-David had also married Ahinoam of Jezreel. So she and Abigail were both his wives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.42|<< 1 Samuel 25:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.44|1 Samuel 25:44 >>]]</td></tr></table>
 
 | Translation | Greek |

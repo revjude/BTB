@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:18** 
 <small><sub>**LXX:**</sub></small>
 On account of this, the nations heard, and the ones tending  their flocks. 
-<small><sub>**KJV:**</sub></small>
-Therefore hear, ye nations, and know, O congregation, what [is] among them.
-<small><sub>**BSB:**</sub></small>
-Therefore hear, O nations, and learn, O congregations, what will happen to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.17|<< Jeremiah 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.19|Jeremiah 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

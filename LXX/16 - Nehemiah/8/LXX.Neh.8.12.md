@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:12** 
 <small><sub>**LXX:**</sub></small>
 And all the people went forth to eat, and to drink, and to send portions, and to make great gladness; for they perceived  the words which he made known to them. 
-<small><sub>**KJV:**</sub></small>
-And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.
-<small><sub>**BSB:**</sub></small>
-Then all the people began to eat and drink, to send out portions, and to rejoice greatly, because they understood the words that had been made known to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.11|<< Nehemiah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.13|Nehemiah 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

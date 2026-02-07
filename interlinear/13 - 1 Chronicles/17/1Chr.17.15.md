@@ -1,4 +1,4 @@
-**1 Chronicles 17:15** 
+**1 Chronicles 17:15**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to all these words, and according to all this vision, so did Nathan speak unto David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Nathan relayed to David all the words of this entire revelation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.14|<< 1 Chronicles 17:14]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.16|1 Chronicles 17:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the words  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דְּבָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

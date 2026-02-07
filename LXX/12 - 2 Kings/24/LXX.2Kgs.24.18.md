@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:18** 
 <small><sub>**LXX:**</sub></small>
 Zedekiah \[was\] a son \[being\] twenty and one years \[old\] in  his taking reign. And eleven years he reigned in Jerusalem. And \[the\] name \[to\] his mother \[was\] Hamutal, daughter of Jeremiah of Libnah. 
-<small><sub>**KJV:**</sub></small>
-Zedekiah [was] twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name [was] Hamutal, the daughter of Jeremiah of Libnah.
-<small><sub>**BSB:**</sub></small>
-Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.17|<< 2 Kings 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.19|2 Kings 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

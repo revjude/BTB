@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:14** 
 <small><sub>**LXX:**</sub></small>
 And I said, By no means, O <span class="smallcaps">lord</span>  God  of Israel, since  my soul has not been defiled in uncleanness; and I have not eaten decaying flesh and that taken by wild beasts from my birth until the present; nor any profane meat entered into my mouth. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
-<small><sub>**BSB:**</sub></small>
-“Ah, Lord GOD,” I said, “I have never defiled myself. From my youth until now I have not eaten anything found dead or mauled by wild beasts. No unclean meat has ever entered my mouth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

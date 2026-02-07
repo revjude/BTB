@@ -1,4 +1,4 @@
-**Psalms 27:12** 
+**Psalms 27:12**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not hand me over to the will of my foes, for false witnesses rise up against 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.11|<< Psalms 27:11]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.13|Psalms 27:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you give me  |**<big>&#8207;[[H5414G\|תִּ֭תְּנֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ti.te.ne.<small><sup>[[HVqj2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

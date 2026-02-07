@@ -1,4 +1,4 @@
-**Deuteronomy 26:17** 
+**Deuteronomy 26:17**<big><big>[[Deut.26.16 Obey the LORD’s Commands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Today you have proclaimed that the LORD is your God and that you will walk in Hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.16|<< Deuteronomy 26:16]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.18|Deuteronomy 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

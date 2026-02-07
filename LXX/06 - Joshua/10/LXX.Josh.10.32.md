@@ -1,10 +1,7 @@
 **LXX Joshua 10:32** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> delivered  Lachish into the hands of Israel. And he took it on the second day, and he slaughtered it by \[the\] mouth of \[the\] sword, and utterly destroyed it in which manner he did  to Libna. 
-<small><sub>**KJV:**</sub></small>
-And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
-<small><sub>**BSB:**</sub></small>
-And the LORD delivered Lachish into the hand of Israel, and Joshua captured it on the second day. He put all the people to the sword, just as he had done to Libnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.31|<< Joshua 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.33|Joshua 10:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 37:27** 
+**Ezekiel 37:27**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My dwelling place will be with them; I will be their God, and they will be My pe
 > $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16]] ☩ [[Rev.21.3|Rev 21:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dwelling place my  |**<big>&#8207;[[H4908\|מִשְׁכָּנִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| mish.ka.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

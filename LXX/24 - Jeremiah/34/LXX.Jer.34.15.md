@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:15** 
 <small><sub>**LXX:**</sub></small>
 And they turned today to do the right \[thing\] before my eyes,  for each to call for a release  for his neighbor; and they completed a covenant in front of me, in the house of which my name is called upon in it. 
-<small><sub>**KJV:**</sub></small>
-And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour; and ye had made a covenant before me in the house which is called by my name:
-<small><sub>**BSB:**</sub></small>
-Recently you repented and did what pleased Me; each of you proclaimed freedom for his neighbor. You made a covenant before Me in the house that bears My Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.14|<< Jeremiah 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.16|Jeremiah 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

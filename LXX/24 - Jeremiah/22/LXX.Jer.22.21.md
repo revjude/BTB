@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:21** 
 <small><sub>**LXX:**</sub></small>
 I spoke to you in  your transgression, and you said, I will not hearken. This  \[is\] your way from your youth, you hearkened not to  my voice. 
-<small><sub>**KJV:**</sub></small>
-I spake unto thee in thy prosperity; [but] thou saidst, I will not hear. This [hath been] thy manner from thy youth, that thou obeyedst not my voice.
-<small><sub>**BSB:**</sub></small>
-I warned you when you were secure. You said, ‘I will not listen.’ This has been your way from youth, that you have not obeyed My voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.20|<< Jeremiah 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.22|Jeremiah 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

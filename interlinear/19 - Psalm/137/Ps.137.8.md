@@ -1,4 +1,4 @@
-**Psalms 137:8** 
+**Psalms 137:8**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O daughter of Babylon, who art to be destroyed; happy [shall he be], that rewardeth thee as thou hast served us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O Daughter of Babylon, doomed to destruction, blessed is he who repays you as yo
 > $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֗ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:34** 
 <small><sub>**LXX:**</sub></small>
 And it happened when Esau heard the words  of his father Isaac, he yelled out with a great and exceedingly bitter voice. And he said, You bless indeed also me father! 
-<small><sub>**KJV:**</sub></small>
-And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, [even] me also, O my father.
-<small><sub>**BSB:**</sub></small>
-When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.33|<< Genesis 27:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.35|Genesis 27:35 >>]]</td></tr></table>
 
 | Translation | Greek |

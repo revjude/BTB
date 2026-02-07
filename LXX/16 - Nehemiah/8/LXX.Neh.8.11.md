@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:11** 
 <small><sub>**LXX:**</sub></small>
 And the Levites quelled all the people, saying, Keep silent, for \[the\] day \[is\] holy, and do not fall down! 
-<small><sub>**KJV:**</sub></small>
-So the Levites stilled all the people, saying, Hold your peace, for the day [is] holy; neither be ye grieved.
-<small><sub>**BSB:**</sub></small>
-And the Levites calmed all the people, saying, “Be still, since today is holy. Do not grieve.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.10|<< Nehemiah 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.12|Nehemiah 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

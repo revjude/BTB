@@ -1,4 +1,4 @@
-**Isaiah 25:8** 
+**Isaiah 25:8**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will swallow up death forever. The Lord GOD will wipe away the tears from eve
 > $\quad$ referenced by: [[1Cor.15.54|1Cor 15:54]] ☩ [[Rev.7.17|Rev 7:17]] ☩ [[Rev.21.4|Rev 21:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will swallow up  |**<big>&#8207;[[H1104\|בִּלַּ֤ע]]&#8207; </big>**| bi.La'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> death  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4194\|מָּ֙וֶת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

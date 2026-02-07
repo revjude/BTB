@@ -1,4 +1,4 @@
-**Judges 4:4** 
+**Judges 4:4**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that tim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.3|<< Judges 4:3]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.5|Judges 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Deborah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1683H\|דְבוֹרָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.vo.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a woman  |**<big>&#8207;[[H0802H\|אִשָּׁ֣ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

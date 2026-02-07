@@ -1,12 +1,12 @@
-**1 Corinthians 9:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:20**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
 <small><sub>**BSB:**</sub></small>
 To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law.
 <small><sub>**Literal:**</sub></small>
 And I became to the Jews like a Jew so that Jews I may win; To those under [the] Law as under [the] law not being myself under [the] law so that those under [the] law I may win;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.19|<< 1 Corinthians 9:19]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.21|1 Corinthians 9:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I became |**<big>[[G1096\|ἐγενόμην]]</big>**  |egenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

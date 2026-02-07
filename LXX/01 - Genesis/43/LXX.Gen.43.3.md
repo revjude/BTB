@@ -1,10 +1,7 @@
 **LXX Genesis 43:3** 
 <small><sub>**LXX:**</sub></small>
 And Judah said to him, saying, The man bore witness by testifying to us, the master of the land, saying, You shall not see  my face if your younger brother should not come with you. 
-<small><sub>**KJV:**</sub></small>
-And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother [be] with you.
-<small><sub>**BSB:**</sub></small>
-But Judah replied, “The man solemnly warned us, ‘You will not see my face again unless your brother is with you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.2|<< Genesis 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.4|Genesis 43:4 >>]]</td></tr></table>
 
 | Translation | Greek |

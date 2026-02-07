@@ -1,12 +1,12 @@
-**Luke 20:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:36**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 <small><sub>**BSB:**</sub></small>
 In fact, they can no longer die, because they are like the angels. And since they are sons of the resurrection, they are sons of God.
 <small><sub>**Literal:**</sub></small>
 neither for to die any more are they able, like [the] angels for they are, and sons they are <the> of God of the resurrection sons being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.35|<< Luke 20:35]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.37|Luke 20:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | neither [^1] |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

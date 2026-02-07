@@ -1,4 +1,4 @@
-**Jeremiah 14:6** 
+**Jeremiah 14:6**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because [there was] no grass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wild donkeys stand on barren heights; they pant for air like jackals; their eyes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.5|<< Jeremiah 14:5]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.7|Jeremiah 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and wild donkeys  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6501\|פְרָאִים֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.ra.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have stood  |**<big>&#8207;[[H5975G\|עָמְד֣וּ]]&#8207; </big>**| 'a.me.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

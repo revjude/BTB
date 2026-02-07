@@ -1,10 +1,7 @@
 **LXX Numbers 27:2** 
 <small><sub>**LXX:**</sub></small>
 And standing before Moses, and before Eleazar the priest, and before the rulers, and before all \[the\] congregation at the door of the tent of the testimony, they say, 
-<small><sub>**KJV:**</sub></small>
-And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, [by] the door of the tabernacle of the congregation, saying,
-<small><sub>**BSB:**</sub></small>
-the entrance to the Tent of Meeting, stood before Moses, Eleazar the priest, the leaders, and the whole congregation, and said,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.1|<< Numbers 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.3|Numbers 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

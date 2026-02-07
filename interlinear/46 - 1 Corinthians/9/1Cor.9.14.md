@@ -1,12 +1,12 @@
-**1 Corinthians 9:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:14**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
 <small><sub>**BSB:**</sub></small>
 In the same way, the Lord has prescribed that those who preach the gospel should receive their living from the gospel.
 <small><sub>**Literal:**</sub></small>
 So also the Lord has prescribed to those the gospel proclaiming from the gospel to live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.13|<< 1 Corinthians 9:13]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.15|1 Corinthians 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:8** 
 <small><sub>**LXX:**</sub></small>
 And I will not proceed to shake the foot of Israel from the land which I gave \[to\] their fathers; only if they should guard  to do according to all which I gave charge to them, according to every  law which Moses my servant gave charge to them. 
-<small><sub>**KJV:**</sub></small>
-Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
-<small><sub>**BSB:**</sub></small>
-I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them—the whole Law that My servant Moses commanded them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

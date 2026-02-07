@@ -1,4 +1,4 @@
-**Jeremiah 11:12** 
+**Jeremiah 11:12**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the cities of Judah and inhabitants of Jerusalem go, and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the cities of Judah and the residents of Jerusalem will go and cry out to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.11|<< Jeremiah 11:11]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.13|Jeremiah 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָֽלְכ֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.le.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cities of  |**<big>&#8207;[[H5892B\|עָרֵ֣י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

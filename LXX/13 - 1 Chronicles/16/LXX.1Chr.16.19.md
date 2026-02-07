@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:19** 
 <small><sub>**LXX:**</sub></small>
 in the being of them very few in number, as few and sojourners in it. 
-<small><sub>**KJV:**</sub></small>
-When ye were but few, even a few, and strangers in it.
-<small><sub>**BSB:**</sub></small>
-When they were few in number, few indeed, and strangers in the land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.18|<< 1 Chronicles 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.20|1 Chronicles 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:23** 
 <small><sub>**LXX:**</sub></small>
 until of which \[time\] \[the\] <span class="smallcaps">lord</span> removed  Israel from his face, as \[the\] <span class="smallcaps">lord</span> spoke by \[the\] hand of all  his servants the prophets. And Israel was resettled from  its land into Assyria until  this day. 
-<small><sub>**KJV:**</sub></small>
-Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day.
-<small><sub>**BSB:**</sub></small>
-Finally, the LORD removed Israel from His presence, as He had declared through all His servants the prophets. So Israel was exiled from their homeland into Assyria, where they are to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.22|<< 2 Kings 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.24|2 Kings 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

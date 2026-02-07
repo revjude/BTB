@@ -1,4 +1,4 @@
-**Jeremiah 50:20** 
+**Jeremiah 50:20**<big><big>[[Jer.50.17 Redemption for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and [there shall be] none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In those days and at that time, declares the LORD, a search will be made for Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.19|<< Jeremiah 50:19]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.21|Jeremiah 50:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> those  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H1992\|הֵם֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

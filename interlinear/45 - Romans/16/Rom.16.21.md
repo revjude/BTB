@@ -1,12 +1,12 @@
-**Romans 16:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:21**<big><big>[[Rom.16.21 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 <small><sub>**BSB:**</sub></small>
 Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow countrymen.
 <small><sub>**Literal:**</sub></small>
 Greets you Timothy the fellow worker of mine also Lucius and Jason and Sosipater the kinsmen of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.20|<< Romans 16:20]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.22|Romans 16:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greets [^1] |**<big>[[G0782\|Ἀσπάζεται]]</big>**  |Aspazetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

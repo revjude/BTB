@@ -1,12 +1,12 @@
-**Acts 10:44
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:44**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.
 <small><sub>**BSB:**</sub></small>
 While Peter was still speaking these words, the Holy Spirit fell upon all who heard his message.
 <small><sub>**Literal:**</sub></small>
 Still when is speaking <the> Peter <the> declarations these fell the Spirit <the> Holy upon all those hearing the word.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.43|<< Acts 10:43]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.45|Acts 10:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Still |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is speaking |**<big>[[G2980\|λαλοῦντος]]</big>**  |lalountos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

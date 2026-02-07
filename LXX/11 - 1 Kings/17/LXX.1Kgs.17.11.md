@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:11** 
 <small><sub>**LXX:**</sub></small>
 And she went to take, and Elijah yelled out after her, and said to her, Give indeed to me \[the\] morsel of bread in  your hand, and I will eat. 
-<small><sub>**KJV:**</sub></small>
-And as she was going to fetch [it], he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.
-<small><sub>**BSB:**</sub></small>
-And as she was going to get it, he called to her and said, “Please bring me a piece of bread.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.10|<< 1 Kings 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.12|1 Kings 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

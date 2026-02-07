@@ -1,4 +1,4 @@
-**2 Chronicles 21:10** 
+**2 Chronicles 21:10**<big><big>[[2Chr.21.8 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Edomites revolted from under the hand of Judah unto this day. The same time [also] did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So to this day Edom has been in rebellion against the hand of Judah. Likewise, L
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.9|<< 2 Chronicles 21:9]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.11|2 Chronicles 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has rebelled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6586\|יִּפְשַׁ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Sha'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֜וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

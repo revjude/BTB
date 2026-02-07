@@ -1,4 +1,4 @@
-**Job 27:13** 
+**Job 27:13**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the portion of a wicked man with God, and the heritage of oppressors, [which] they shall receive of the Almighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the wicked man’s portion from God—the heritage the ruthless receive 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.12|<< Job 27:12]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.14|Job 27:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] portion of  |**<big>&#8207;[[H2506A\|חֵֽלֶק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| che.lek-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

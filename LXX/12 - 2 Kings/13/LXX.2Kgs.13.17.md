@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:17** 
 <small><sub>**LXX:**</sub></small>
 And he said, Open the window according to \[the\] east! And he opened. And Elisha said, Shoot! And he shot. And he said, \[The\] arrow of deliverance  \[of the\] <span class="smallcaps">lord</span>, and \[the\] arrow of deliverance in Syria. And you shall strike  Syria in Aphek until completion. 
-<small><sub>**KJV:**</sub></small>
-And he said, Open the window eastward. And he opened [it]. Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’S deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed [them].
-<small><sub>**BSB:**</sub></small>
-“Open the east window,” said Elisha. So he opened it and Elisha said, “Shoot!” So he shot. And Elisha declared: “This is the LORD’s arrow of victory, the arrow of victory over Aram, for you shall strike the Arameans in Aphek until you have put an end to them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.16|<< 2 Kings 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.18|2 Kings 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 36:3** 
+**Numbers 36:3**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if they be married to any of the sons of the [other] tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if they marry any of the men from the other tribes of Israel, their inherita
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.2|<< Numbers 36:2]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.4|Numbers 36:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will belong  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to one  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0259\|אֶחָ֞ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 108:10** (108:11)
+**Psalms 108:10**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who will bring me into the strong city? who will lead me into Edom?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who will bring me to the fortified city? Who will lead me to Edom?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.9|<< Psalms 108:9]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.11|Psalms 108:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he bring me  |**<big>&#8207;[[H2986\|יֹ֭בִלֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Yoi.le.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

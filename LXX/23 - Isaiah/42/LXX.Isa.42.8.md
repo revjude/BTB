@@ -1,10 +1,7 @@
 **LXX Isaiah 42:8** 
 <small><sub>**LXX:**</sub></small>
 I \[am the\] <span class="smallcaps">lord</span>  God; this is my  name;  I will not give my glory to another, nor  my virtues to the carvings. 
-<small><sub>**KJV:**</sub></small>
-I [am] the LORD: that [is] my name: and my glory will I not give to another, neither my praise to graven images.
-<small><sub>**BSB:**</sub></small>
-I am the LORD; that is My name! I will not yield My glory to another or My praise to idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.7|<< Isaiah 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.9|Isaiah 42:9 >>]]</td></tr></table>
 
 | Translation | Greek |

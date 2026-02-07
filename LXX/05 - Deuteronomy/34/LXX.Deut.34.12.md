@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:12** 
 <small><sub>**LXX:**</sub></small>
 and the great wonders, and all by the fortified hand which Moses executed before all Israel. 
-<small><sub>**KJV:**</sub></small>
-And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
-<small><sub>**BSB:**</sub></small>
-and no prophet who performed all the mighty acts of power and awesome deeds that Moses did in the sight of all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.11|<< Deuteronomy 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.1|Joshua 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 22:21** 
+**Proverbs 22:21**<big><big>[[Prov.22.17 Saying 1|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to show you true and reliable words, that you may soundly answer those who sent 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.20|<< Proverbs 22:20]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.22|Proverbs 22:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to make known to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3045\|הוֹדִֽיעֲ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.di.'a.<small><sup>[[HVhcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] truth of  |**<big>&#8207;[[H7189B\|קֹ֭שְׁטְ]]&#8207; </big>**| Ko.shet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

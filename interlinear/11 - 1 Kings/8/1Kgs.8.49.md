@@ -1,4 +1,4 @@
-**1 Kings 8:49** 
+**1 Kings 8:49**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may You hear from heaven, Your dwelling place, their prayer and petition, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמַעְתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.ma'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֙יִם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

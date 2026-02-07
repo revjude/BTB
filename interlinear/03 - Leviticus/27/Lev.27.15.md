@@ -1,4 +1,4 @@
-**Leviticus 27:15** 
+**Leviticus 27:15**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he that sanctified it will redeem his house, then he shall add the fifth [part] of the money of thy estimation unto it, and it shall be his.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if he who consecrated his house redeems it, he must add a fifth to the asses
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.14|<< Leviticus 27:14]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.16|Leviticus 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֨ם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] sets apart as holy  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6942H\|מַּקְדִּ֔ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mak.Dish<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

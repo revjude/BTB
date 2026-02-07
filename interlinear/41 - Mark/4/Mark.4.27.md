@@ -1,12 +1,12 @@
-**Mark 4:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:27**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.
 <small><sub>**BSB:**</sub></small>
 Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how.
 <small><sub>**Literal:**</sub></small>
 and he may sleep and he may be risen night and day, and the seed may sprout and it may grow how not knows he himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.26|<< Mark 4:26]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.28|Mark 4:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he may sleep |**<big>[[G2518\|καθεύδῃ]]</big>**  |katheudē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

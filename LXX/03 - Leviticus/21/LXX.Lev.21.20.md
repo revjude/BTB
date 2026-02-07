@@ -1,10 +1,7 @@
 **LXX Leviticus 21:20** 
 <small><sub>**LXX:**</sub></small>
 or humpback, or peeling, or hairless of the eyes, or a man in which ever might be in him a wild mange, or scabbed, or having one testicle. 
-<small><sub>**KJV:**</sub></small>
-Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
-<small><sub>**BSB:**</sub></small>
-or who is a hunchback or dwarf, or who has an eye defect, a festering rash, scabs, or a crushed testicle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.19|<< Leviticus 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.21|Leviticus 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

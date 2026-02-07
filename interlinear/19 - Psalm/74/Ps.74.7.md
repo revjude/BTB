@@ -1,4 +1,4 @@
-**Psalms 74:7** 
+**Psalms 74:7**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have cast fire into thy sanctuary, they have defiled [by casting down] the dwelling place of thy name to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have burned Your sanctuary to the ground; they have defiled the dwelling pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.6|<< Psalms 74:6]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.8|Psalms 74:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they sent  |**<big>&#8207;[[H7971L\|שִׁלְח֣וּ]]&#8207; </big>**| shil.Chu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> fire  |**<big>&#8207;[[H9003\|בָ֭]]&#8207;&#8207;[[H0784\|אֵשׁ]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

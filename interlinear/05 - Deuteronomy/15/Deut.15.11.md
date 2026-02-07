@@ -1,4 +1,4 @@
-**Deuteronomy 15:11** 
+**Deuteronomy 15:11**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For there will never cease to be poor in the land; that is why I am commanding y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.10|<< Deuteronomy 15:10]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.12|Deuteronomy 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

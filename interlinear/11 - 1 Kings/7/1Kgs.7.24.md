@@ -1,4 +1,4 @@
-**1 Kings 7:24** 
+**1 Kings 7:24**<big><big>[[1Kgs.7.23 The Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under the brim of it round about [there were] knops compassing it, ten in a cubit, compassing the sea round about: the knops [were] cast in two rows, when it was cast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Below the rim, ornamental buds encircled it, ten per cubit all the way around th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.23|<< 1 Kings 7:23]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.25|1 Kings 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and gourds  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6497\|פְקָעִים֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.ka.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] from under  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8478G\|תַּ֨חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ta.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

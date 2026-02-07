@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David; a change of state.
 
 <small><sub>**LXX:**</sub></small>
 Upon you, O <span class="smallcaps">lord</span>, I hoped. May I not be disgraced into the eon. In  your righteousness rescue me, and take me out! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.12|<< Psalm 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.2|Psalm 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

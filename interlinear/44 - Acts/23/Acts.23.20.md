@@ -1,12 +1,12 @@
-**Acts 23:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:20**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would inquire somewhat of him more perfectly.
 <small><sub>**BSB:**</sub></small>
 He answered, “The Jews have agreed to ask you to bring Paul to the Sanhedrin tomorrow on the pretext of acquiring more information about him.
 <small><sub>**Literal:**</sub></small>
 He said then that The Jews have agreed <the> to ask you that tomorrow <the> Paul you may bring down into the Council as it being about something more earnestly to inquire about him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.19|<< Acts 23:19]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.21|Acts 23:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 8:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:14**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now [the disciples] had forgotten to take bread, neither had they in the ship with them more than one loaf.
 <small><sub>**BSB:**</sub></small>
 Now the disciples had forgotten to take bread, except for one loaf they had with them in the boat.
 <small><sub>**Literal:**</sub></small>
 And they forgot to take loaves and only except one loaf not they had with themselves in the boat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.13|<< Mark 8:13]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.15|Mark 8:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they forgot |**<big>[[G1950\|ἐπελάθοντο]]</big>**  |epelathonto <small><sup>[[V-2ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

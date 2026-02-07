@@ -1,12 +1,12 @@
-**Acts 13:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:25**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as John fulfilled his course, he said, Whom think ye that I am? I am not [he]. But, behold, there cometh one after me, whose shoes of [his] feet I am not worthy to loose.
 <small><sub>**BSB:**</sub></small>
 As John was completing his course, he said, ‘Who do you suppose I am? I am not that One. But there is One coming after me whose sandals I am not worthy to untie.’
 <small><sub>**Literal:**</sub></small>
 While then was fulfilling <the> John the course he was saying; whom me myself do you suppose to be? Not am [he] I myself; but behold He comes after me myself of whom not I am worthy the sandal of the feet to untie.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.24|<< Acts 13:24]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.26|Acts 13:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 2:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:11**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say unto thee, Arise, and take up thy bed, and go thy way into thine house.
 <small><sub>**BSB:**</sub></small>
 “I tell you, get up, pick up your mat, and go home.”
 <small><sub>**Literal:**</sub></small>
 To you I say; do arise and do take up the mat of you and do go to the home of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.10|<< Mark 2:10]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.12|Mark 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To you |**<big>[[G4771\|σοὶ]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say; |**<big>[[G3004G\|λέγω·]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

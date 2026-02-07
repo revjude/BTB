@@ -1,10 +1,7 @@
 **LXX Genesis 37:34** 
 <small><sub>**LXX:**</sub></small>
 And Jacob tore  his clothes, and placed sackcloth upon  his loin, and mourned \[for\]  his son many days. 
-<small><sub>**KJV:**</sub></small>
-And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
-<small><sub>**BSB:**</sub></small>
-Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.33|<< Genesis 37:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.35|Genesis 37:35 >>]]</td></tr></table>
 
 | Translation | Greek |

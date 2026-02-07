@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:22** 
 <small><sub>**LXX:**</sub></small>
 and behold, these being left behind in it -- the ones escaping from it, the ones who shall lead out of it sons and daughters; behold, they shall go forth to you, and you shall see  their ways, and  their thoughts; and you shall be repentant over the hurts which I brought upon Jerusalem, for all which I brought upon it. 
-<small><sub>**KJV:**</sub></small>
-Yet, behold, therein shall be left a remnant that shall be brought forth, [both] sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, [even] concerning all that I have brought upon it.
-<small><sub>**BSB:**</sub></small>
-Yet, behold, some survivors will be left in it—sons and daughters who will be brought out. They will come out to you, and when you see their conduct and actions, you will be comforted regarding the disaster I have brought upon Jerusalem—all that I have brought upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.21|<< Ezekiel 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.23|Ezekiel 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 19:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:43**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
 <small><sub>**BSB:**</sub></small>
 For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side.
 <small><sub>**Literal:**</sub></small>
 For will come days upon you that will cast around the enemies of you a barricade you and they will surround you and they will hem in you on every side<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.42|<< Luke 19:42]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.44|Luke 19:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will come |**<big>[[G2240\|ἥξουσιν]]</big>**  |hēxousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

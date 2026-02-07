@@ -1,10 +1,7 @@
 **LXX Genesis 2:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God built the rib which he took from  Adam into \[a\] woman. And he led her to  Adam. 
-<small><sub>**KJV:**</sub></small>
-And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.
-<small><sub>**BSB:**</sub></small>
-And from the rib that the LORD God had taken from the man, He made a woman and brought her to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.21|<< Genesis 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.23|Genesis 2:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 2:22** is...

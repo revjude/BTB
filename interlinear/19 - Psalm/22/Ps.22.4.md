@@ -1,4 +1,4 @@
-**Psalms 22:4** (22:5)
+**Psalms 22:4**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our fathers trusted in thee: they trusted, and thou didst deliver them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In You our fathers trusted; they trusted and You delivered them.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in you  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they trusted  |**<big>&#8207;[[H0982\|בָּטְח֣וּ]]&#8207; </big>**| ba.te.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

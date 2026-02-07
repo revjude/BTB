@@ -1,5 +1,5 @@
-**1 Corinthians 3:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:20**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, The Lord knoweth the thoughts of the wise, that they are vain.
 <small><sub>**BSB:**</sub></small>
 And again, “The Lord knows that the thoughts of the wise are futile.”
@@ -10,7 +10,7 @@ And again; [The] Lord knows the thoughts of the wise that they are futile.<br><t
 > $\quad$ referencing: [[LXX.Ps.94.11|Ps 94:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again; |**<big>[[G3825\|πάλιν·]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

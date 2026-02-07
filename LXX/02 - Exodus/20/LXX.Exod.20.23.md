@@ -1,10 +1,7 @@
 **LXX Exodus 20:23** 
 <small><sub>**LXX:**</sub></small>
 You shall not make to yourselves gods of silver, and gods of gold; you shall not make them to yourselves. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.
-<small><sub>**BSB:**</sub></small>
-You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.22|<< Exodus 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.24|Exodus 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

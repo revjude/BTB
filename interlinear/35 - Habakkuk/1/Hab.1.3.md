@@ -1,4 +1,4 @@
-**Habakkuk 1:3** 
+**Habakkuk 1:3**<big><big>[[Hab.1.1 Habakkuk’s First Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why dost thou shew me iniquity, and cause [me] to behold grievance? for spoiling and violence [are] before me: and there are [that] raise up strife and contention.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do You make me see iniquity? Why do You tolerate wrongdoing? Destruction and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.2|<< Habakkuk 1:2]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.4|Habakkuk 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you make see me  |**<big>&#8207;[[H7200G\|תַרְאֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| tar.'E.<small><sup>[[HVhi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

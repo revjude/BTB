@@ -1,12 +1,12 @@
-**Mark 13:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:29**<big><big>[[Mark.13.28 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So ye in like manner, when ye shall see these things come to pass, know that it is nigh, [even] at the doors.
 <small><sub>**BSB:**</sub></small>
 So also, when you see these things happening, know that He is near, right at the door.
 <small><sub>**Literal:**</sub></small>
 So also you yourselves, when you may see these things coming to pass, do know that near He is at [the] doors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.28|<< Mark 13:28]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.30|Mark 13:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

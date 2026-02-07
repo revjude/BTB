@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:23** 
 <small><sub>**LXX:**</sub></small>
 sons of Babylon and all the Chaldeans -- Pekod, and Shoa, and Koa, and all \[the\] sons of \[the\] Assyrians with them; choice young men, governors and commandants, all tribunes, and famous ones riding upon horses. 
-<small><sub>**KJV:**</sub></small>
-The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses.
-<small><sub>**BSB:**</sub></small>
-the Babylonians and all the Chaldeans, the men of Pekod, Shoa, and Koa, and all the Assyrians with them—all desirable young men, governors and commanders, officers and men of renown, mounted on horses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.22|<< Ezekiel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.24|Ezekiel 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

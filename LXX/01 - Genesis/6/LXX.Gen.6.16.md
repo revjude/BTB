@@ -1,10 +1,7 @@
 **LXX Genesis 6:16** 
 <small><sub>**LXX:**</sub></small>
 By an assembling, you shall make the ark; and by a cubit you shall complete it from above; but the door of the ark you shall make from out of \[the\] side. You shall make it with ground second stories and third stories. 
-<small><sub>**KJV:**</sub></small>
-A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; [with] lower, second, and third [stories] shalt thou make it.
-<small><sub>**BSB:**</sub></small>
-You are to make a roof for the ark, finish its walls a cubit from the top, place a door in the side of the ark, and build lower, middle, and upper decks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.15|<< Genesis 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.17|Genesis 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

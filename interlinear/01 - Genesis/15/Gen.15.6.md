@@ -1,4 +1,4 @@
-**Genesis 15:6** 
+**Genesis 15:6**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he believed in the LORD; and he counted it to him for righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Abram believed the LORD, and it was credited to him as righteousness.
 > $\quad$ referenced by: [[Rom.4.3|Rom 4:3]] ☩ [[Rom.4.9|Rom 4:9]] ☩ [[Rom.4.22|Rom 4:22]] ☩ [[Gal.3.6|Gal 3:6]] ☩ [[Jas.2.23|Jas 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he believed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0539\|הֶאֱמִ֖ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Min<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Yahweh  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

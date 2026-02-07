@@ -1,10 +1,7 @@
 **LXX Ezra 8:33** 
 <small><sub>**LXX:**</sub></small>
 And on the fourth day we set the silver, and the gold, and the vessels in \[the\] house  of our God into \[the\] hand of Meremoth son of Uriah the priest; and with him \[was\] Eleazar son of Phinehas; and with them \[was\] Jozabad son of Jeshua, and Noadiah son of Binnui -- the Levites. 
-<small><sub>**KJV:**</sub></small>
-Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him [was] Eleazar the son of Phinehas; and with them [was] Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
-<small><sub>**BSB:**</sub></small>
-On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, along with the Levites Jozabad son of Jeshua and Noadiah son of Binnui.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.32|<< Ezra 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.34|Ezra 8:34 >>]]</td></tr></table>
 
 | Translation | Greek |

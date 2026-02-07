@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:16** 
 <small><sub>**LXX:**</sub></small>
 They were as a wall for us, both  day and  night, all the days of our being with them and tending the flocks. 
-<small><sub>**KJV:**</sub></small>
-They were a wall unto us both by night and day, all the while we were with them keeping the sheep.
-<small><sub>**BSB:**</sub></small>
-They were a wall around us, both day and night, the whole time we were herding our sheep near them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.15|<< 1 Samuel 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.17|1 Samuel 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

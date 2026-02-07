@@ -1,4 +1,4 @@
-**Psalms 98:7** 
+**Psalms 98:7**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the sea roar, and the fulness thereof; the world, and they that dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the sea resound, and all that fills it, the world, and all who dwell in it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.6|<< Psalms 98:6]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.8|Psalms 98:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it thunder  |**<big>&#8207;[[H7481\|יִרְעַ֣ם]]&#8207; </big>**| yir.'Am<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sea  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3220G\|יָּם]]&#8207; </big>**| Hai.<small><sup>[[HTd]]</sup></small> yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

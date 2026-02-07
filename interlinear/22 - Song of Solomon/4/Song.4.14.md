@@ -1,4 +1,4 @@
-**Song of Solomon 4:14** 
+**Song of Solomon 4:14**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with nard and saffron, with calamus and cinnamon, with every kind of frankincens
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.13|<< Song of Solomon 4:13]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.15|Song of Solomon 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nard  |**<big>&#8207;[[H5373\|נֵ֣רְדְּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ne.red<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and saffron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3750\|כַרְכֹּ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khar.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

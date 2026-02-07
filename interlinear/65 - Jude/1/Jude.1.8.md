@@ -1,12 +1,12 @@
-**Jude 1:8
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:8**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise also these [filthy] dreamers defile the flesh, despise dominion, and speak evil of dignities.
 <small><sub>**BSB:**</sub></small>
 Yet in the same way these dreamers defile their bodies, reject authority, and slander glorious beings.
 <small><sub>**Literal:**</sub></small>
 Likewise yet also these dreaming [ones] [the] flesh indeed defile, authority however they set aside, glorious [ones] however they blaspheme.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.7|<< Jude 1:7]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.9|Jude 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|ὁμοίως]]</big>**  |homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yet |**<big>[[G3305\|μέντοι]]</big>**  |mentoi <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

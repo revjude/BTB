@@ -1,10 +1,7 @@
 **LXX Genesis 49:4** 
 <small><sub>**LXX:**</sub></small>
 Overflowing as water, you should not erupt. For you ascended upon the marriage-bed  of your father. Then you defiled the strewn bed of which you ascended. 
-<small><sub>**KJV:**</sub></small>
-Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou [it]: he went up to my couch.
-<small><sub>**BSB:**</sub></small>
-Uncontrolled as the waters, you will no longer excel, because you went up to your father’s bed, onto my couch, and defiled it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.3|<< Genesis 49:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.5|Genesis 49:5 >>]]</td></tr></table>
 
 | Translation | Greek |

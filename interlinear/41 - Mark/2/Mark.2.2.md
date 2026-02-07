@@ -1,12 +1,12 @@
-**Mark 2:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:2**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway many were gathered together, insomuch that there was no room to receive [them], no, not so much as about the door: and he preached the word unto them.
 <small><sub>**BSB:**</sub></small>
 they gathered in such large numbers that there was no more room, not even outside the door, as Jesus spoke the word to them.
 <small><sub>**Literal:**</sub></small>
 And immediately were gathered together many so that no more to have space not even [space] <the> at the door, and He was speaking to them the word.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.1|<< Mark 2:1]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.3|Mark 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately [^1] |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="Treg+TR+Byz">KO</abbr> | |

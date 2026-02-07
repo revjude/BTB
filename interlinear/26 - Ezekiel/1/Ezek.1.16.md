@@ -1,4 +1,4 @@
-**Ezekiel 1:16** 
+**Ezekiel 1:16**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The appearance of the wheels and their work [was] like unto the colour of a beryl: and they four had one likeness: and their appearance and their work [was] as it were a wheel in the middle of a wheel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The workmanship of the wheels looked like the gleam of beryl, and all four had t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.15|<< Ezekiel 1:15]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.17|Ezekiel 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] appearance of  |**<big>&#8207;[[H4758\|מַרְאֵ֨ה]]&#8207; </big>**| mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wheels  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0212\|אוֹפַנִּ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

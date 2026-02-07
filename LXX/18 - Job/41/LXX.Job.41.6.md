@@ -1,10 +1,7 @@
 **LXX Job 41:6** 
 <small><sub>**LXX:**</sub></small>
 And \[do\] nations feed in him? And do \[the\] nations \[of the\] Phoenicians partition him? 
-<small><sub>**KJV:**</sub></small>
-Shall the companions make a banquet of him? shall they part him among the merchants?
-<small><sub>**BSB:**</sub></small>
-Will traders barter for him or divide him among the merchants?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.5|<< Job 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.7|Job 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 19:49** 
+**Joshua 19:49**<big><big>[[Josh.19.49 Joshua’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had finished distributing the land into its territories, the Israelite
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.48|<< Joshua 19:48]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.50|Joshua 19:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַלּ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.kha.Lu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to divide for possession  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5157\|נְחֹל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.chol-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

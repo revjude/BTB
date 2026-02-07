@@ -1,12 +1,12 @@
-**Hebrews 6:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:20**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whither the forerunner is for us entered, [even] Jesus, made an high priest for ever after the order of Melchisedec.
 <small><sub>**BSB:**</sub></small>
 where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek.
 <small><sub>**Literal:**</sub></small>
 where [the] forerunner for us has entered Jesus according to the order of Melchizedek a high priest having become to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.19|<< Hebrews 6:19]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.1|Hebrews 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] forerunner |**<big>[[G4274\|πρόδρομος]]</big>**  |prodromos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:17** 
 <small><sub>**LXX:**</sub></small>
 You should not \[be\] super impious, and do not become hard, that you should not die in  your time! 
-<small><sub>**KJV:**</sub></small>
-Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?
-<small><sub>**BSB:**</sub></small>
-Do not be excessively wicked, and do not be a fool. Why should you die before your time?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.16|<< Ecclesiastes 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.18|Ecclesiastes 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

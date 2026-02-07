@@ -1,12 +1,12 @@
-**Luke 10:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:29**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he, willing to justify himself, said unto Jesus, And who is my neighbour?
 <small><sub>**BSB:**</sub></small>
 But wanting to justify himself, he asked Jesus, “And who is my neighbor?”
 <small><sub>**Literal:**</sub></small>
 <the> But desiring to justify himself he said to <the> Jesus; And who is my neighbour?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.28|<< Luke 10:28]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.30|Luke 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

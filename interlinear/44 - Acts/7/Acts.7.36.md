@@ -1,5 +1,5 @@
-**Acts 7:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:36**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
 <small><sub>**BSB:**</sub></small>
 He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.
@@ -10,7 +10,7 @@ this one led out them having done wonders and signs in [the] land of Egypt and i
 > $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Exod.14.21|Exod 14:21]] ☩ [[LXX.Exod.15.23|Exod 15:23]] ☩ [[LXX.Exod.16.1|Exod 16:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this one |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | led out |**<big>[[G1806\|ἐξήγαγεν]]</big>**  |exēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

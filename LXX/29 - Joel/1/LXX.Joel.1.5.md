@@ -1,10 +1,7 @@
 **LXX Joel 1:5** 
 <small><sub>**LXX:**</sub></small>
 Sober up, O ones being intoxicated from their wine! Weep and wail all  drinking the wine unto intoxication! for it was lifted away from your mouth. 
-<small><sub>**KJV:**</sub></small>
-Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
-<small><sub>**BSB:**</sub></small>
-Wake up, you drunkards, and weep; wail, all you drinkers of wine, because of the sweet wine, for it has been cut off from your mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.4|<< Joel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.6|Joel 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

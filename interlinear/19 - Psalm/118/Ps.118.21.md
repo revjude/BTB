@@ -1,4 +1,4 @@
-**Psalms 118:21** 
+**Psalms 118:21**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise thee: for thou hast heard me, and art become my salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will give You thanks, for You have answered me, and You have become my salvati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.20|<< Psalms 118:20]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.22|Psalms 118:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give thanks to you  |**<big>&#8207;[[H3034\|א֭וֹדְ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'od.<small><sup>[[HVhi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

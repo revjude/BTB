@@ -1,4 +1,4 @@
-**Daniel 5:7** 
+**Daniel 5:7**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. [And] the king spake, and said to the wise [men] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and [have] a chain of gold about his neck, and shall be the third ruler in the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king called out for the enchanters, astrologers, and diviners to be brought 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] calling  |**<big>&#8207;[[H7123\|קָרֵ֤א]]&#8207; </big>**| ka.Re'<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

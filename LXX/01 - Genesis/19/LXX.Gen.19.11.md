@@ -1,10 +1,7 @@
 **LXX Genesis 19:11** 
 <small><sub>**LXX:**</sub></small>
 And the men  being at the door of the house were struck with inability to see, from small unto great, and they were disabled \[in\] seeking the door. 
-<small><sub>**KJV:**</sub></small>
-And they smote the men that [were] at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
-<small><sub>**BSB:**</sub></small>
-And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.10|<< Genesis 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.12|Genesis 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

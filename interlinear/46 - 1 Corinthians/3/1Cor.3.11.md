@@ -1,12 +1,12 @@
-**1 Corinthians 3:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:11**<big><big>[[1Cor.3.10 Christ Our Foundation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For other foundation can no man lay than that is laid, which is Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For no one can lay a foundation other than the one already laid, which is Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Foundation for another no [one] is able to lay besides the [one] being already laid, which is Jesus <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.10|<< 1 Corinthians 3:10]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.12|1 Corinthians 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Foundation |**<big>[[G2310\|θεμέλιον]]</big>**  |themelion <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 97:12** 
+**Psalms 97:12**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rejoice in the LORD, you righteous ones, and praise His holy name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.11|<< Psalms 97:11]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.0|Psalms 98:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rejoice  |**<big>&#8207;[[H8055\|שִׂמְח֣וּ]]&#8207; </big>**| sim.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

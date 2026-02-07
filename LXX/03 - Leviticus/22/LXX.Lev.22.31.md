@@ -1,10 +1,7 @@
 **LXX Leviticus 22:31** 
 <small><sub>**LXX:**</sub></small>
 And you shall keep  my commandments, and you shall observe them. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall ye keep my commandments, and do them: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You are to keep My commandments and practice them. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.30|<< Leviticus 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.32|Leviticus 22:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 11:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:33**<big><big>[[Luke.11.33 The Lamp of the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man, when he hath lighted a candle, putteth [it] in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.
 <small><sub>**BSB:**</sub></small>
 No one lights a lamp and puts it in a cellar or under a basket. Instead, he sets it on a stand, so those who enter can see the light.
 <small><sub>**Literal:**</sub></small>
 But no [one] now a lamp having lit in a cellar sets it nor [sets it] under the basket but upon the lampstand that those entering in the light may see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.32|<< Luke 11:32]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.34|Luke 11:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But no [one] |**<big>[[G3762\|Οὐδεὶς]]</big>**  |Oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

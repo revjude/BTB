@@ -1,4 +1,4 @@
-**2 Kings 18:10** 
+**2 Kings 18:10**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the end of three years they took it: [even] in the sixth year of Hezekiah, that [is] the ninth year of Hoshea king of Israel, Samaria was taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And at the end of three years, the Assyrians captured it. So Samaria was capture
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.9|<< 2 Kings 18:9]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.11|2 Kings 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they captured it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּדֻ֗]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du.<small><sup>[[HVqw3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7097A\|קְצֵה֙]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

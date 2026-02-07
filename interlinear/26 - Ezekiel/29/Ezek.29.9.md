@@ -1,4 +1,4 @@
-**Ezekiel 29:9** 
+**Ezekiel 29:9**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land of Egypt shall be desolate and waste; and they shall know that I [am] the LORD: because he hath said, The river [is] mine, and I have made [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The land of Egypt will become a desolate wasteland. Then they will know that I a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.8|<< Ezekiel 29:8]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.10|Ezekiel 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶֽרֶץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

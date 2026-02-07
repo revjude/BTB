@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when our enemies heard that it was made known to us, that God effaced  their counsel, that we all returned to the wall, \[every\] man to  his work. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work.
-<small><sub>**BSB:**</sub></small>
-When our enemies heard that we were aware of their scheme and that God had frustrated it, each of us returned to his own work on the wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.14|<< Nehemiah 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.16|Nehemiah 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

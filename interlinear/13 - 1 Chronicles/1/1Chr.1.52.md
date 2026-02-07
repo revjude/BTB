@@ -1,4 +1,4 @@
-**1 Chronicles 1:52** 
+**1 Chronicles 1:52**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Duke Aholibamah, duke Elah, duke Pinon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Oholibamah, Elah, Pinon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.51|<< 1 Chronicles 1:51]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.53|1 Chronicles 1:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chief  |**<big>&#8207;[[H0441B\|אַלּ֧וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Oholibamah  |**<big>&#8207;[[H0173\|אָהֳלִיבָמָ֛ה]]&#8207; </big>**| 'o.ho.li.va.Mah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

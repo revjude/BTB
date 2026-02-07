@@ -1,4 +1,4 @@
-**1 Kings 9:12** 
+**1 Kings 9:12**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Hiram went out from Tyre to inspect the towns that Solomon had given him, but
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.11|<< 1 Kings 9:11]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.13|1 Kings 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hiram  |**<big>&#8207;[[H2438G\|חִירָם֙]]&#8207; </big>**| chi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

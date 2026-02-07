@@ -1,10 +1,7 @@
 **LXX Isaiah 43:9** 
 <small><sub>**LXX:**</sub></small>
 All the nations were brought together, and rulers from them shall be brought together. Who will announce these \[things\]? Or the \[things\] from \[the\] beginning, who will announce? Let them bring forth  their witnesses, and let them be justified, and let them hear, and let them speak truth! 
-<small><sub>**KJV:**</sub></small>
-Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, [It is] truth.
-<small><sub>**BSB:**</sub></small>
-All the nations gather together and the peoples assemble. Who among them can declare this, and proclaim to us the former things? Let them present their witnesses to vindicate them, so that others may hear and say, “It is true.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.8|<< Isaiah 43:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.10|Isaiah 43:10 >>]]</td></tr></table>
 
 | Translation | Greek |

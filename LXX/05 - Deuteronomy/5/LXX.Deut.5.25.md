@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:25** 
 <small><sub>**LXX:**</sub></small>
 And now lest at any time we die, for this great fire shall completely consume us, if ourselves should have added to hear the voice of \[the\] <span class="smallcaps">lord</span>  our God any more -- then we shall die. 
-<small><sub>**KJV:**</sub></small>
-Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.
-<small><sub>**BSB:**</sub></small>
-But now, why should we die? For this great fire will consume us, and we will die, if we hear the voice of the LORD our God any longer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.24|<< Deuteronomy 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.26|Deuteronomy 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

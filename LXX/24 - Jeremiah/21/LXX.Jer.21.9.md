@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:9** 
 <small><sub>**LXX:**</sub></small>
 The one being settled in  this city shall die by \[the\] sword and by famine; and the one going forth to join with the Chaldeans, the ones hemming you in, shall live; and his life will be for spoils, he shall live. 
-<small><sub>**KJV:**</sub></small>
-He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.
-<small><sub>**BSB:**</sub></small>
-Whoever stays in this city will die by sword and famine and plague, but whoever goes out and surrenders to the Chaldeans who besiege you will live; he will retain his life like a spoil of war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.8|<< Jeremiah 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.10|Jeremiah 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

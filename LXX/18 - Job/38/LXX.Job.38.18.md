@@ -1,10 +1,7 @@
 **LXX Job 38:18** 
 <small><sub>**LXX:**</sub></small>
 And have you been admonished about the breadth  under heaven? Announce it indeed to me! how great it is. 
-<small><sub>**KJV:**</sub></small>
-Hast thou perceived the breadth of the earth? declare if thou knowest it all.
-<small><sub>**BSB:**</sub></small>
-Have you surveyed the extent of the earth? Tell Me, if you know all this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.17|<< Job 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.19|Job 38:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Philippians 1:11
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:11**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
 <small><sub>**BSB:**</sub></small>
 filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.
 <small><sub>**Literal:**</sub></small>
 filled with [the] fruit of righteousness that [is] through Jesus Christ to [the] glory and praise of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.10|<< Philippians 1:10]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.12|Philippians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | filled |**<big>[[G4137\|πεπληρωμένοι]]</big>**  |peplērōmenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with [the] fruit [^1] [^2] |**<big>[[G2590\|καρπὸν]]</big>**  |karpon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

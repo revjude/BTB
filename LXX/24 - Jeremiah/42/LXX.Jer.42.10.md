@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:10** 
 <small><sub>**LXX:**</sub></small>
 If staying you should stay in  this land, then I will build you, and in no way shall I demolish; and I will plant you, and in no way pluck. For I have caused rest over the hurts which I did to you. 
-<small><sub>**KJV:**</sub></small>
-If ye will still abide in this land, then will I build you, and not pull [you] down, and I will plant you, and not pluck [you] up: for I repent me of the evil that I have done unto you.
-<small><sub>**BSB:**</sub></small>
-‘If you will indeed stay in this land, then I will build you up and not tear you down; I will plant you and not uproot you, for I will relent of the disaster I have brought upon you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.9|<< Jeremiah 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.11|Jeremiah 42:11 >>]]</td></tr></table>
 
 | Translation | Greek |

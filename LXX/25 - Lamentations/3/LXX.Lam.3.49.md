@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΦΗ</p>
 
  My eye was swallowed down and I shall not be quiet,  to not be sober, 
-<small><sub>**KJV:**</sub></small>
-Mine eye trickleth down, and ceaseth not, without any intermission,
-<small><sub>**BSB:**</sub></small>
-My eyes overflow unceasingly, without relief,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.48|<< Lamentations 3:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.50|Lamentations 3:50 >>]]</td></tr></table>
 
 | Translation | Greek |

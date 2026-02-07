@@ -1,4 +1,4 @@
-**Numbers 26:9** 
+**Numbers 26:9**<big><big>[[Num.26.5 The Tribe of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Eliab; Nemuel, and Dathan, and Abiram. This [is that] Dathan and Abiram, [which were] famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the sons of Eliab were Nemuel, Dathan, and Abiram. It was Dathan and Abiram,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.8|<< Numbers 26:8]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.10|Numbers 26:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eliab  |**<big>&#8207;[[H0446H\|אֱלִיאָ֔ב]]&#8207; </big>**| 'e.li.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

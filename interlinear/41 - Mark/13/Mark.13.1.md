@@ -1,12 +1,12 @@
-**Mark 13:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:1**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings [are here]!
 <small><sub>**BSB:**</sub></small>
 As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!”
 <small><sub>**Literal:**</sub></small>
 And when is going forth He out of the temple says to Him one of the disciples of Him; Teacher, behold what stones and what buildings!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.44|<< Mark 12:44]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.2|Mark 13:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is going forth |**<big>[[G1607\|ἐκπορευομένου]]</big>**  |ekporeuomenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

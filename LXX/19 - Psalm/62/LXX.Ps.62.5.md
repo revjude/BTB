@@ -1,10 +1,7 @@
 **LXX Psalm 62:5** 
 <small><sub>**LXX:**</sub></small>
 But be submitted \[to\] God, O my soul! for my endurance \[is\] by him. 
-<small><sub>**KJV:**</sub></small>
-My soul, wait thou only upon God; for my expectation [is] from him.
-<small><sub>**BSB:**</sub></small>
-Rest in God alone, O my soul, for my hope comes from Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.4|<< Psalm 62:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.6|Psalm 62:6 >>]]</td></tr></table>
 
 | Translation | Greek |

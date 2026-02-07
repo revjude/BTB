@@ -1,4 +1,4 @@
-**Numbers 4:8** 
+**Numbers 4:8**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers’ skins, and shall put in the staves thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they shall spread a scarlet cloth over them, cover them with fine leather, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.7|<< Numbers 4:7]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.9|Numbers 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will spread out  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6566\|פָרְשׂ֣וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.re.Su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

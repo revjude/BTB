@@ -1,4 +1,4 @@
-**Psalms 34:14** (34:15)
+**Psalms 34:14**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from evil, and do good; seek peace, and pursue it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Turn away from evil and do good; seek peace and pursue it.
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn away  |**<big>&#8207;[[H5493G\|ס֣וּר]]&#8207; </big>**| sur<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from evil  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H7451B\|רָע]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> ro'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

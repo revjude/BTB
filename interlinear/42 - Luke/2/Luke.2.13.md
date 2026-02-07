@@ -1,12 +1,12 @@
-**Luke 2:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:13**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,
 <small><sub>**BSB:**</sub></small>
 And suddenly there appeared with the angel a great multitude of the heavenly host, praising God and saying:
 <small><sub>**Literal:**</sub></small>
 And suddenly there came with the angel a multitude of [the] host heavenly praising <the> God and saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.12|<< Luke 2:12]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.14|Luke 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | suddenly |**<big>[[G1810\|ἐξαίφνης]]</big>**  [^1] |exaiphnēs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

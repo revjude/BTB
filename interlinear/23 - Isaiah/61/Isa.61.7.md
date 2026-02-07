@@ -1,4 +1,4 @@
-**Isaiah 61:7** 
+**Isaiah 61:7**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For your shame [ye shall have] double; and [for] confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead of shame, My people will have a double portion, and instead of humiliati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.6|<< Isaiah 61:6]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.8|Isaiah 61:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֤חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shame your  |**<big>&#8207;[[H1322\|בָּשְׁתְּ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| ba.she.te.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:14** 
 <small><sub>**LXX:**</sub></small>
 Except that, in provoking to anger, you provoked to anger the enemies of \[the\] <span class="smallcaps">lord</span> in  this thing, and indeed  your son, the one born to you, to death he will die. 
-<small><sub>**KJV:**</sub></small>
-Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also [that is] born unto thee shall surely die.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, because by this deed you have shown utter contempt for the word of the LORD, the son born to you will surely die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.13|<< 2 Samuel 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.15|2 Samuel 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 19:26** 
 <small><sub>**LXX:**</sub></small>
 and Alammelech, and Amad, and Misheal, and it shall join together \[with\] Carmel by \[the\] west, and  to Shihor, and Libnath. 
-<small><sub>**KJV:**</sub></small>
-And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;
-<small><sub>**BSB:**</sub></small>
-Allammelech, Amad, and Mishal. On the west the border touched Carmel and Shihor-libnath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.25|<< Joshua 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.27|Joshua 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

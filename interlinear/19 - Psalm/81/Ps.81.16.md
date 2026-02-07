@@ -1,4 +1,4 @@
-**Psalms 81:16** (81:17)
+**Psalms 81:16**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I would feed you the finest wheat; with honey from the rock I would satisfy 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.15|<< Psalms 81:15]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.0|Psalms 82:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fed him  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H0398\|יַּאֲכִילֵ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.khi.le.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] best of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2459\|חֵ֣לֶב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

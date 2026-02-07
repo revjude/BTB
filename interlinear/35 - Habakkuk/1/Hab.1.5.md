@@ -1,4 +1,4 @@
-**Habakkuk 1:5** 
+**Habakkuk 1:5**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold ye among the heathen, and regard, and wonder marvellously: for [I] will work a work in your days, [which] ye will not believe, though it be told [you].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold ye among the heathen, and regard, and wonder marvellously: for [I] will w
 > $\quad$ referenced by: [[Acts.13.41|Acts 13:41]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200G\|רְא֤וּ]]&#8207; </big>**| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1471A\|גּוֹיִם֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

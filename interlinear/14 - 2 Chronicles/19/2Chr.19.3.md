@@ -1,4 +1,4 @@
-**2 Chronicles 19:3** 
+**2 Chronicles 19:3**<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, some good is found in you, for you have removed the Asherah poles from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.2|<< 2 Chronicles 19:2]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.4|2 Chronicles 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but  |**<big>&#8207;[[H0061\|אֲבָ֕ל]]&#8207; </big>**| 'a.Val<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | things  |**<big>&#8207;[[H1697I\|דְּבָרִ֥ים]]&#8207; </big>**| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

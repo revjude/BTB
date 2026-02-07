@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:12** 
 <small><sub>**LXX:**</sub></small>
 And Saul feared from \[the\] face of David, for \[the\] <span class="smallcaps">lord</span> was with him. And he left from Saul. 
-<small><sub>**KJV:**</sub></small>
-And Saul was afraid of David, because the LORD was with him, and was departed from Saul.
-<small><sub>**BSB:**</sub></small>
-So Saul was afraid of David, because the LORD was with David but had departed from Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.11|<< 1 Samuel 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.13|1 Samuel 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

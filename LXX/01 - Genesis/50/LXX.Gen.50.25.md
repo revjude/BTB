@@ -1,10 +1,7 @@
 **LXX Genesis 50:25** 
 <small><sub>**LXX:**</sub></small>
 And Joseph bound by an oath the sons of Israel, saying, In the visitation in which God will visit you, even you shall join in carrying off  my bones from here with you. 
-<small><sub>**KJV:**</sub></small>
-And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
-<small><sub>**BSB:**</sub></small>
-And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.24|<< Genesis 50:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.26|Genesis 50:26 >>]]</td></tr></table>
 
 | Translation | Greek |

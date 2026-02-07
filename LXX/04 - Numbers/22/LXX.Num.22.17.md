@@ -1,10 +1,7 @@
 **LXX Numbers 22:17** 
 <small><sub>**LXX:**</sub></small>
 for highly valued I will esteem you, and as many \[things\] as you should say to me I will do for you. Now come, accurse for me  this people! 
-<small><sub>**KJV:**</sub></small>
-For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
-<small><sub>**BSB:**</sub></small>
-for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.16|<< Numbers 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.18|Numbers 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

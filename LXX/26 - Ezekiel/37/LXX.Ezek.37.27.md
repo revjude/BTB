@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:27** 
 <small><sub>**LXX:**</sub></small>
 And my shelter will be among them; and I will be to them God, and they will be my people. 
-<small><sub>**KJV:**</sub></small>
-My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.
-<small><sub>**BSB:**</sub></small>
-My dwelling place will be with them; I will be their God, and they will be My people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.26|<< Ezekiel 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.28|Ezekiel 37:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 37:27** is...

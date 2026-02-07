@@ -1,10 +1,7 @@
 **LXX Daniel 3:4** 
 <small><sub>**LXX:**</sub></small>
 And the herald yelled in strength, To you it is spoken, O nations, peoples, tribes, languages, 
-<small><sub>**KJV:**</sub></small>
-Then an herald cried aloud, To you it is commanded, O people, nations, and languages,
-<small><sub>**BSB:**</sub></small>
-Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.3|<< Daniel 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.5|Daniel 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 1:19** (2:2)
+**Zechariah 1:19**<big><big>[[Zech.1.18 The Vision of the Horns and the Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto the angel that talked with me, What [be] these? And he answered me, These [are] the horns which have scattered Judah, Israel, and Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I asked the angel who was speaking with me, “What are these?” And he told
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.18|<< Zechariah 1:18]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.20|Zechariah 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

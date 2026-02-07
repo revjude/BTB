@@ -1,10 +1,7 @@
 **LXX Leviticus 7:10** 
 <small><sub>**LXX:**</sub></small>
 And every sacrifice \[offering\] being prepared in olive oil, and not being prepared \[with olive oil\] -- all of it will be for the sons of Aaron, to each  equally. 
-<small><sub>**KJV:**</sub></small>
-And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one [as much] as another.
-<small><sub>**BSB:**</sub></small>
-and every grain offering, whether dry or mixed with oil, belongs equally to all the sons of Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.9|<< Leviticus 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.11|Leviticus 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

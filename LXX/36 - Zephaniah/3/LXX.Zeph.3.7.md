@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:7** 
 <small><sub>**LXX:**</sub></small>
 I said, Furthermore fear me, and receive instruction! and in no way shall you be utterly destroyed from before her eyes, for all as much vengeance as I brought upon her. Prepare! Rise early! all their gleaning is ruined. 
-<small><sub>**KJV:**</sub></small>
-I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, [and] corrupted all their doings.
-<small><sub>**BSB:**</sub></small>
-I said, ‘Surely you will fear Me and accept correction.’ Then her dwelling place would not be cut off despite all for which I punished her. But they rose early to corrupt all their deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.6|<< Zephaniah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.8|Zephaniah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 34:2** 
+**Isaiah 34:2**<big><big>[[Isa.34.1 Judgment on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the indignation of the LORD [is] upon all nations, and [his] fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is angry with all the nations and furious with all their armies. He wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.1|<< Isaiah 34:1]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.3|Isaiah 34:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wrath  |**<big>&#8207;[[H7110A\|קֶ֤צֶף]]&#8207; </big>**| Ke.tzef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

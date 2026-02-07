@@ -1,10 +1,7 @@
 **LXX Nahum 2:5** 
 <small><sub>**LXX:**</sub></small>
 And their great men shall be remembering, and shall flee by day; and they shall be weak in  their goings; and they shall hasten unto the walls, and they shall prepare  their advance guards. 
-<small><sub>**KJV:**</sub></small>
-He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
-<small><sub>**BSB:**</sub></small>
-He summons his nobles; they stumble as they advance. They race to its wall; the protective shield is set in place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

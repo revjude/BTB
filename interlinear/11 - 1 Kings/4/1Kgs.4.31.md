@@ -1,4 +1,4 @@
-**1 Kings 4:31** (5:11)
+**1 Kings 4:31**<big><big>[[1Kgs.4.29 Solomon’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was wiser than all men—wiser than Ethan the Ezrahite, and wiser than Heman,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.30|<< 1 Kings 4:30]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.32|1 Kings 4:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was wise  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2449\|יֶּחְכַּם֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yech.Kam<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than any  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

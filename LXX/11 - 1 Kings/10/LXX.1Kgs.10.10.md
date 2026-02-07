@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:10** 
 <small><sub>**LXX:**</sub></small>
 And she gave  to Solomon a hundred and twenty talents of gold, and exceedingly much spices, and valuable stone. There had not come as  those spices yet in multitude which \[the\] queen of Sheba gave  to king Solomon. 
-<small><sub>**KJV:**</sub></small>
-And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.
-<small><sub>**BSB:**</sub></small>
-Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. Never again were spices in such abundance brought in as those the queen of Sheba gave to King Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.9|<< 1 Kings 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.11|1 Kings 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

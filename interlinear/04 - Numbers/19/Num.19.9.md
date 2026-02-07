@@ -1,4 +1,4 @@
-**Numbers 19:9** 
+**Numbers 19:9**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man [that is] clean shall gather up the ashes of the heifer, and lay [them] up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it [is] a purification for sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a man who is ceremonially clean is to gather up the ashes of the heifer and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.8|<< Numbers 19:8]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.10|Numbers 19:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will gather  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0622\|אָסַ֣ף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Saf<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this he will cast his casting-net, and always to kill nations -- not sparing? 
-<small><sub>**KJV:**</sub></small>
-Shall they therefore empty their net, and not spare continually to slay the nations?
-<small><sub>**BSB:**</sub></small>
-Will he, therefore, empty his net and continue to slay nations without mercy?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.16|<< Habakkuk 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.1|Habakkuk 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

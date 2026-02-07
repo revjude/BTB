@@ -1,4 +1,4 @@
-**Ezekiel 1:21** 
+**Ezekiel 1:21**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When those went, [these] went; and when those stood, [these] stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the creatures moved, the wheels moved; when the creatures stood still, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when moved they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1980G\|לֶכְתָּ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lekh.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they moved  |**<big>&#8207;[[H1980G\|יֵלֵ֔כוּ]]&#8207; </big>**| ye.Le.khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

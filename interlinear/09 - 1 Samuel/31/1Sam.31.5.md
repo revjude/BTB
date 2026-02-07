@@ -1,4 +1,4 @@
-**1 Samuel 31:5** 
+**1 Samuel 31:5**<big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When his armor-bearer saw that Saul was dead, he too fell on his own sword and d
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.4|<< 1 Samuel 31:4]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.6|1 Samuel 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֥רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bearer of  |**<big>&#8207;[[H5375W\|נֹשֵֽׂא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| no.se'-<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

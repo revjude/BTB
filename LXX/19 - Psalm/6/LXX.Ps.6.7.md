@@ -1,10 +1,7 @@
 **LXX Psalm 6:7** 
 <small><sub>**LXX:**</sub></small>
 My eye is disturbed from rage. I grow old in all  my enemies. 
-<small><sub>**KJV:**</sub></small>
-Mine eye is consumed because of grief; it waxeth old because of all mine enemies.
-<small><sub>**BSB:**</sub></small>
-My eyes fail from grief; they grow dim because of all my foes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.6|<< Psalm 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.8|Psalm 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

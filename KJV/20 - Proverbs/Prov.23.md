@@ -1,54 +1,54 @@
 (KJV) **Proverbs 23**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22|<< Proverbs 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24|Proverbs 24 >>]]</td></tr></table>
 
-*Saying 7*&emsp;<small><sup>\[ [[1Tim.6|1 Timothy 6:17–19]] <big>†</big> [[Jas.5|James 5:1–6]] ]</sup></small> ^bsb1477
+<big><big>[[Prov.23.1 Saying 7|⥃]]</big></big>*Saying 7*&emsp;<small><sup>\[ [[1Tim.6|1 Timothy 6:17–19]] <big>†</big> [[Jas.5|James 5:1–6]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Prov.23.1|1]]**<span class="endversemarker">]</span> When thou sittest to eat with a ruler, consider diligently what \[is\] before thee:<small><small>[^1]</small></small> <span class="startversemarker">[</span>**[[Prov.23.2|2]]**<span class="endversemarker">]</span> And put a knife to thy throat, if thou \[be\] a man given to appetite.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Prov.23.3|3]]**<span class="endversemarker">]</span> Be not desirous of his dainties: for they \[are\] deceitful meat.<small><small>[^3]</small></small>
 
-*Saying 8* ^bsb1478
+<big><big>[[Prov.23.4 Saying 8|⥃]]</big></big>*Saying 8*
 
  <span class="startversemarker">[</span>**[[Prov.23.4|4]]**<span class="endversemarker">]</span> Labour<small><small>[^4]</small></small> not to be rich: cease<small><small>[^5]</small></small> from thine own wisdom. <span class="startversemarker">[</span>**[[Prov.23.5|5]]**<span class="endversemarker">]</span> Wilt thou<small><small>[^6]</small></small> set thine eyes upon<small><small>[^7]</small></small> that which<small><small>[^8]</small></small> is not? for \[riches<small><small>[^9]</small></small>\] certainly make themselves wings; they fly away as an eagle toward heaven.
 
-*Saying 9* ^bsb1479
+<big><big>[[Prov.23.6 Saying 9|⥃]]</big></big>*Saying 9*
 
  <span class="startversemarker">[</span>**[[Prov.23.6|6]]**<span class="endversemarker">]</span> Eat thou not the bread of \[him that hath\] an<small><small>[^10]</small></small> evil eye, neither desire<small><small>[^11]</small></small> thou his dainty meats: <span class="startversemarker">[</span>**[[Prov.23.7|7]]**<span class="endversemarker">]</span> For as<small><small>[^12]</small></small> he thinketh in his heart, so \[is\] he: Eat<small><small>[^13]</small></small> and drink, saith he to thee; but his heart \[is\] not with thee. <span class="startversemarker">[</span>**[[Prov.23.8|8]]**<span class="endversemarker">]</span> The morsel \[which\] thou hast eaten shalt thou vomit up, and lose thy sweet words.
 
-*Saying 10* ^bsb1480
+<big><big>[[Prov.23.9 Saying 10|⥃]]</big></big>*Saying 10*
 
  <span class="startversemarker">[</span>**[[Prov.23.9|9]]**<span class="endversemarker">]</span> Speak<small><small>[^14]</small></small> not in the<small><small>[^15]</small></small> ears of a fool: for he will despise the wisdom of thy words.
 
-*Saying 11* ^bsb1481
+<big><big>[[Prov.23.10 Saying 11|⥃]]</big></big>*Saying 11*
 
  <span class="startversemarker">[</span>**[[Prov.23.10|10]]**<span class="endversemarker">]</span> Remove<small><small>[^16]</small></small> not the old landmark<small><small>[^17]</small></small>; and enter not into the fields of the fatherless<small><small>[^18]</small></small>: <span class="startversemarker">[</span>**[[Prov.23.11|11]]**<span class="endversemarker">]</span> For their redeemer \[is\] mighty; he shall plead their cause with thee.<small><small>[^19]</small></small>
 
-*Saying 12* ^bsb1482
+<big><big>[[Prov.23.12 Saying 12|⥃]]</big></big>*Saying 12*
 
  <span class="startversemarker">[</span>**[[Prov.23.12|12]]**<span class="endversemarker">]</span> Apply thine heart unto instruction, and thine ears to the words of knowledge.<small><small>[^20]</small></small>
 
-*Saying 13* ^bsb1483
+<big><big>[[Prov.23.13 Saying 13|⥃]]</big></big>*Saying 13*
 
  <span class="startversemarker">[</span>**[[Prov.23.13|13]]**<span class="endversemarker">]</span> Withhold not correction from the child: for \[if\] thou beatest him with the rod, he shall not die.<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Prov.23.14|14]]**<span class="endversemarker">]</span> Thou shalt beat him with the rod, and shalt deliver his soul from hell.<small><small>[^22]</small></small>
 
-*Saying 14* ^bsb1484
+<big><big>[[Prov.23.15 Saying 14|⥃]]</big></big>*Saying 14*
 
  <span class="startversemarker">[</span>**[[Prov.23.15|15]]**<span class="endversemarker">]</span> My son<small><small>[^23]</small></small>, if<small><small>[^24]</small></small> thine heart be wise, my heart shall rejoice, even mine<small><small>[^25]</small></small>. <span class="startversemarker">[</span>**[[Prov.23.16|16]]**<span class="endversemarker">]</span> Yea, my reins shall rejoice, when thy<small><small>[^26]</small></small> lips speak right things.
 
-*Saying 15* ^bsb1485
+<big><big>[[Prov.23.17 Saying 15|⥃]]</big></big>*Saying 15*
 
  <span class="startversemarker">[</span>**[[Prov.23.17|17]]**<span class="endversemarker">]</span> Let not<small><small>[^27]</small></small> thine heart envy sinners: but \[be thou<small><small>[^28]</small></small>\] in the fear of the <span class="smallcaps">Lord</span> all the day long. <span class="startversemarker">[</span>**[[Prov.23.18|18]]**<span class="endversemarker">]</span> For surely<small><small>[^29]</small></small> there is an end<small><small>[^30]</small></small>; and thine<small><small>[^31]</small></small> expectation shall not be cut off.
 
-*Saying 16* ^bsb1486
+<big><big>[[Prov.23.19 Saying 16|⥃]]</big></big>*Saying 16*
 
  <span class="startversemarker">[</span>**[[Prov.23.19|19]]**<span class="endversemarker">]</span> Hear thou, my son, and be wise, and guide<small><small>[^32]</small></small> thine heart in the way<small><small>[^33]</small></small>. <span class="startversemarker">[</span>**[[Prov.23.20|20]]**<span class="endversemarker">]</span> Be not<small><small>[^34]</small></small> among winebibbers; among riotous eaters of flesh<small><small>[^35]</small></small>: <span class="startversemarker">[</span>**[[Prov.23.21|21]]**<span class="endversemarker">]</span> For the drunkard<small><small>[^36]</small></small> and the glutton shall come to poverty: and drowsiness<small><small>[^37]</small></small> shall clothe \[a man\] with rags.
 
-*Saying 17* ^bsb1487
+<big><big>[[Prov.23.22 Saying 17|⥃]]</big></big>*Saying 17*
 
  <span class="startversemarker">[</span>**[[Prov.23.22|22]]**<span class="endversemarker">]</span> Hearken<small><small>[^38]</small></small> unto thy father that begat thee, and despise<small><small>[^39]</small></small> not thy mother when she is old. <span class="startversemarker">[</span>**[[Prov.23.23|23]]**<span class="endversemarker">]</span> Buy<small><small>[^40]</small></small> the truth, and sell<small><small>[^41]</small></small> \[it\] not; \[also\] wisdom, and instruction, and understanding. <span class="startversemarker">[</span>**[[Prov.23.24|24]]**<span class="endversemarker">]</span> The father<small><small>[^42]</small></small> of the righteous shall greatly rejoice: and he that begetteth a wise \[child\] shall have<small><small>[^43]</small></small> joy of him. <span class="startversemarker">[</span>**[[Prov.23.25|25]]**<span class="endversemarker">]</span> Thy father and thy mother shall be glad, and she<small><small>[^44]</small></small> that bare thee shall rejoice.
 
-*Saying 18* ^bsb1488
+<big><big>[[Prov.23.26 Saying 18|⥃]]</big></big>*Saying 18*
 
  <span class="startversemarker">[</span>**[[Prov.23.26|26]]**<span class="endversemarker">]</span> My son<small><small>[^45]</small></small>, give<small><small>[^46]</small></small> me thine heart, and let<small><small>[^47]</small></small> thine eyes observe my ways. <span class="startversemarker">[</span>**[[Prov.23.27|27]]**<span class="endversemarker">]</span> For a whore \[is\] a deep ditch; and a strange woman \[is\] a narrow pit.<small><small>[^48]</small></small> <span class="startversemarker">[</span>**[[Prov.23.28|28]]**<span class="endversemarker">]</span> She also lieth in wait as \[for\] a prey<small><small>[^49]</small></small>, and increaseth<small><small>[^50]</small></small> the transgressors among men.
 
-*Saying 19* ^bsb1489
+<big><big>[[Prov.23.29 Saying 19|⥃]]</big></big>*Saying 19*
 
  <span class="startversemarker">[</span>**[[Prov.23.29|29]]**<span class="endversemarker">]</span> Who hath woe<small><small>[^51]</small></small>? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness<small><small>[^52]</small></small> of eyes? <span class="startversemarker">[</span>**[[Prov.23.30|30]]**<span class="endversemarker">]</span> They that tarry<small><small>[^53]</small></small> long at the wine; they that go to seek mixed<small><small>[^54]</small></small> wine. <span class="startversemarker">[</span>**[[Prov.23.31|31]]**<span class="endversemarker">]</span> Look not thou upon the wine when it is red, when it giveth his colour in the cup, \[when\] it moveth itself aright.<small><small>[^55]</small></small> <span class="startversemarker">[</span>**[[Prov.23.32|32]]**<span class="endversemarker">]</span> At<small><small>[^56]</small></small> the last it biteth<small><small>[^57]</small></small> like a serpent, and stingeth like an adder<small><small>[^58]</small></small>. <span class="startversemarker">[</span>**[[Prov.23.33|33]]**<span class="endversemarker">]</span> Thine eyes<small><small>[^59]</small></small> shall behold strange women, and<small><small>[^60]</small></small> thine heart shall utter perverse things. <span class="startversemarker">[</span>**[[Prov.23.34|34]]**<span class="endversemarker">]</span> Yea, thou<small><small>[^61]</small></small> shalt be as he that lieth down in the midst<small><small>[^62]</small></small> of the sea, or as he that lieth upon the top of a mast. <span class="startversemarker">[</span>**[[Prov.23.35|35]]**<span class="endversemarker">]</span> They have stricken<small><small>[^63]</small></small> me, \[shalt thou say\], \[and\] I was not sick; they have beaten me, \[and\] I felt \[it\] not<small><small>[^64]</small></small>: when shall I awake? I will<small><small>[^65]</small></small> seek it yet again. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22|<< Proverbs 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24|Proverbs 24 >>]]</td></tr></table>
 

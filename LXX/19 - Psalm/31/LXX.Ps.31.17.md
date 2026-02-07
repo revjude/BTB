@@ -1,10 +1,7 @@
 **LXX Psalm 31:17** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, may I not be disgraced, for I called upon you. the impious be ashamed, and led down into Hades. 
-<small><sub>**KJV:**</sub></small>
-Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, [and] let them be silent in the grave.
-<small><sub>**BSB:**</sub></small>
-O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.16|<< Psalm 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.18|Psalm 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

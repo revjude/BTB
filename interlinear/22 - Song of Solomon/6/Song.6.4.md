@@ -1,4 +1,4 @@
-**Song of Solomon 6:4** 
+**Song of Solomon 6:4**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as [an army] with banners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] beautiful  |**<big>&#8207;[[H3303\|יָפָ֨ה]]&#8207; </big>**| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859C\|אַ֤תְּ]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

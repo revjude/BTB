@@ -1,4 +1,4 @@
-**Ezekiel 1:5** 
+**Ezekiel 1:5**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also out of the midst thereof [came] the likeness of four living creatures. And this [was] their appearance; they had the likeness of a man.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and within it was the form of four living creatures. And this was their appearan
 > $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] from [the] middle of it  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ֨]]&#8207;&#8207;[[H8432\|תּוֹכָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a likeness of  |**<big>&#8207;[[H1823\|דְּמ֖וּת]]&#8207; </big>**| de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

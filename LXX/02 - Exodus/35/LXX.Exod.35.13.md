@@ -1,10 +1,7 @@
 **LXX Exodus 35:13** 
 <small><sub>**LXX:**</sub></small>
 and the table, and  \[its\] bearing poles, and all  \[its\] utensils, and the bread loaves of the place setting, 
-<small><sub>**KJV:**</sub></small>
-The table, and his staves, and all his vessels, and the shewbread,
-<small><sub>**BSB:**</sub></small>
-the table with its poles, all its utensils, and the Bread of the Presence;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.12|<< Exodus 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.14|Exodus 35:14 >>]]</td></tr></table>
 
 | Translation | Greek |

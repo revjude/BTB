@@ -1,4 +1,4 @@
-**2 Kings 23:12** 
+**2 Kings 23:12**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the altars that [were] on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake [them] down from thence, and cast the dust of them into the brook Kidron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He pulled down the altars that the kings of Judah had set up on the roof near th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.11|<< 2 Kings 23:11]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.13|2 Kings 23:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the altars  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4196\|מִּזְבְּח֡וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.be.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

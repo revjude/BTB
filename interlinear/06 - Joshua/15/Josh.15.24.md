@@ -1,4 +1,4 @@
-**Joshua 15:24** 
+**Joshua 15:24**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ziph, and Telem, and Bealoth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ziph, Telem, Bealoth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.23|<< Joshua 15:23]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.25|Joshua 15:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ziph  |**<big>&#8207;[[H2128G\|זִ֥יף]]&#8207; </big>**| zif<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Telem  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H2928G\|טֶ֖לֶם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Te.lem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

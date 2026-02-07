@@ -1,12 +1,12 @@
-**Acts 25:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:26**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.
 <small><sub>**BSB:**</sub></small>
 I have nothing definite to write to our sovereign about him. Therefore I have brought him before all of you, and especially before you, King Agrippa, so that after this inquiry I may have something to write.
 <small><sub>**Literal:**</sub></small>
 concerning whom definite anything to write <the> to [my] lord not I have, Therefore I have brought him before you all and especially before you, King Agrippa, so that when the examination having taken place I may have something I may write;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.25|<< Acts 25:25]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.27|Acts 25:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

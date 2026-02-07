@@ -1,4 +1,4 @@
-**Isaiah 44:11** 
+**Isaiah 44:11**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, all his fellows shall be ashamed: and the workmen, they [are] of men: let them all be gathered together, let them stand up; [yet] they shall fear, [and] they shall be ashamed together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, all his companions will be put to shame, for the craftsmen themselves ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

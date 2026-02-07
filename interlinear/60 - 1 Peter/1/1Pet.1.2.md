@@ -1,12 +1,12 @@
-**1 Peter 1:2
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:2**<big><big>[[1Pet.1.1 A Greeting from Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 <small><sub>**BSB:**</sub></small>
 according to the foreknowledge of God the Father and sanctified by the Spirit for obedience to Jesus Christ and sprinkling by His blood: Grace and peace be yours in abundance.
 <small><sub>**Literal:**</sub></small>
 according to [the] foreknowledge of God [the] Father by [the] sanctification of [the] Spirit unto [the] obedience and sprinkling of [the] blood of Jesus Christ: Grace to you and peace would be multiplied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.1|<< 1 Peter 1:1]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.3|1 Peter 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] foreknowledge |**<big>[[G4268\|πρόγνωσιν]]</big>**  |prognōsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

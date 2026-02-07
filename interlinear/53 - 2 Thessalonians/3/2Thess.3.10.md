@@ -1,12 +1,12 @@
-**2 Thessalonians 3:10
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:10**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 <small><sub>**BSB:**</sub></small>
 For even while we were with you, we gave you this command: “If anyone is unwilling to work, he shall not eat.”
 <small><sub>**Literal:**</sub></small>
 Even for when we were with you, this we were commanding you that if anyone not is willing to work neither he should eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.9|<< 2 Thessalonians 3:9]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.11|2 Thessalonians 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

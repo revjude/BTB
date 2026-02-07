@@ -1,10 +1,7 @@
 **LXX Isaiah 63:3** 
 <small><sub>**LXX:**</sub></small>
 full of \[that\] being trampled? And of the nations there is not a man with me. And I trampled them in my rage, and I broke them in pieces as ground, and led  their blood unto \[the\] ground. And all  my garments are defiled. 
-<small><sub>**KJV:**</sub></small>
-I have trodden the winepress alone; and of the people [there was] none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
-<small><sub>**BSB:**</sub></small>
-“I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.2|<< Isaiah 63:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.4|Isaiah 63:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 63:3** is...

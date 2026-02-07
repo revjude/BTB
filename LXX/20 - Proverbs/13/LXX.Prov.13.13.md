@@ -1,10 +1,7 @@
 **LXX Proverbs 13:13** 
 <small><sub>**LXX:**</sub></small>
 The one who disdains a matter, shall be disdained by it; but the one fearing a commandment, this one is in health. To a deceitful son nothing will be good; but a wise servant will be prosperous in actions, and his way shall prosper. 
-<small><sub>**KJV:**</sub></small>
-Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.
-<small><sub>**BSB:**</sub></small>
-He who despises instruction will pay the penalty, but the one who respects a command will be rewarded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.12|<< Proverbs 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.14|Proverbs 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

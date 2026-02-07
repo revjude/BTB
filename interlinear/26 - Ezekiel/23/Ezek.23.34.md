@@ -1,4 +1,4 @@
-**Ezekiel 23:34** 
+**Ezekiel 23:34**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt even drink it and suck [it] out, and thou shalt break the sherds thereof, and pluck off thine own breasts: for I have spoken [it], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will drink it and drain it; you will dash it to pieces, and tear your breast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.33|<< Ezekiel 23:33]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.35|Ezekiel 23:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will drink  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8354\|שָׁתִ֨ית]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Tit<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתָ֜]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

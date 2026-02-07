@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  his taking reign, in  his sitting upon  his throne, he struck \[the\] entire  house of Baasha. And he left not to it one urinating against the wall, even the relatives and his friends. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he began to reign, as soon as he sat on his throne, [that] he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.
-<small><sub>**BSB:**</sub></small>
-As soon as Zimri began to reign and was seated on the throne, he struck down the entire household of Baasha. He did not leave a single male, whether a kinsman or friend.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.10|<< 1 Kings 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.12|1 Kings 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

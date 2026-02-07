@@ -1,5 +1,5 @@
-**Hebrews 6:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:13**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when God made promise to Abraham, because he could swear by no greater, he sware by himself,
 <small><sub>**BSB:**</sub></small>
 When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself,
@@ -10,7 +10,7 @@ When God made His promise to Abraham, since He had no one greater to swear by, H
 > $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Timothy 3:10
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:10**<big><big>[[1Tim.3.8 Qualifications for Deacons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let these also first be proved; then let them use the office of a deacon, being [found] blameless.
 <small><sub>**BSB:**</sub></small>
 Additionally, they must first be tested. Then, if they are above reproach, let them serve as deacons.
 <small><sub>**Literal:**</sub></small>
 Also these now they should be tested first, then they should serve blameless being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.9|<< 1 Timothy 3:9]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.11|1 Timothy 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

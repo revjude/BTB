@@ -1,4 +1,4 @@
-**Numbers 31:21** 
+**Numbers 31:21**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the priest said unto the men of war which went to the battle, This [is] the ordinance of the law which the LORD commanded Moses;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Eleazar the priest said to the soldiers who had gone into battle, “This i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.20|<< Numbers 31:20]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.22|Numbers 31:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499G\|אֶלְעָזָ֤ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

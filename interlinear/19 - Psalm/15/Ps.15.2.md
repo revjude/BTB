@@ -1,4 +1,4 @@
-**Psalms 15:2** 
+**Psalms 15:2**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who walks with integrity and practices righteousness, who speaks the truth fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.1|<< Psalms 15:1]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.3|Psalms 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] walks  |**<big>&#8207;[[H1980I\|הוֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blameless  |**<big>&#8207;[[H8549H\|תָּ֭מִים]]&#8207; </big>**| Ta.mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

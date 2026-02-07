@@ -1,10 +1,7 @@
 **LXX Leviticus 20:18** 
 <small><sub>**LXX:**</sub></small>
 And a man who ever should go to bed with a woman sitting apart, and shall uncover  her indecency,  he uncovered her flow, and she uncovered the flow  of her blood; both shall be utterly destroyed from  their generation. 
-<small><sub>**KJV:**</sub></small>
-And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.
-<small><sub>**BSB:**</sub></small>
-If a man lies with a menstruating woman and has sexual relations with her, he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.17|<< Leviticus 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.19|Leviticus 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

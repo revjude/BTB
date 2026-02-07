@@ -1,10 +1,7 @@
 **LXX Genesis 37:15** 
 <small><sub>**LXX:**</sub></small>
 And a man found him wandering in the plain. And the man asked him, saying, What \[do\] you seek? 
-<small><sub>**KJV:**</sub></small>
-And a certain man found him, and, behold, [he was] wandering in the field: and the man asked him, saying, What seekest thou?
-<small><sub>**BSB:**</sub></small>
-a man found him wandering in the field and asked, “What are you looking for?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.14|<< Genesis 37:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.16|Genesis 37:16 >>]]</td></tr></table>
 
 | Translation | Greek |

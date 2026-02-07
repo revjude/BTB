@@ -1,4 +1,4 @@
-**Jeremiah 23:33** 
+**Jeremiah 23:33**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when this people, or the prophet, or a priest, shall ask thee, saying, What [is] the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when this people, or the prophet, or a priest, shall ask thee, saying, What 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.32|<< Jeremiah 23:32]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.34|Jeremiah 23:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will ask you  |**<big>&#8207;[[H7592\|יִשְׁאָלְ]]&#8207;&#8207;[[H9031\|ךָ֩]]&#8207; </big>**| yish.'a.le.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

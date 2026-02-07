@@ -1,12 +1,12 @@
-**1 Peter 1:9
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:9**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Receiving the end of your faith, [even] the salvation of [your] souls.
 <small><sub>**BSB:**</sub></small>
 now that you are receiving the goal of your faith, the salvation of your souls.
 <small><sub>**Literal:**</sub></small>
 receiving the outcome of the faith of you, [the] salvation of [your] souls;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.8|<< 1 Peter 1:8]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.10|1 Peter 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | receiving |**<big>[[G2865\|κομιζόμενοι]]</big>**  |komizomenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

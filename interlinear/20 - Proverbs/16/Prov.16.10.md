@@ -1,4 +1,4 @@
-**Proverbs 16:10** 
+**Proverbs 16:10**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A divine sentence [is] in the lips of the king: his mouth transgresseth not in judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A divine verdict is on the lips of a king; his mouth must not betray justice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.9|<< Proverbs 16:9]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.11|Proverbs 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | divination  |**<big>&#8207;[[H7081\|קֶ֤סֶם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ke.sem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

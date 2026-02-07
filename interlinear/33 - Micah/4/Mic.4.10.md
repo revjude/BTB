@@ -1,4 +1,4 @@
-**Micah 4:10** 
+**Micah 4:10**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go [even] to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will lea
 > $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | writhe in pain  |**<big>&#8207;[[H2342I\|ח֧וּלִי]]&#8207; </big>**| Chu.li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and burst forth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1518\|גֹ֛חִי]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Go.chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

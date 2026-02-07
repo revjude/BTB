@@ -1,4 +1,4 @@
-**Psalms 35:25** 
+**Psalms 35:25**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them not say in their hearts, “Aha, just what we wanted!” Let them not s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.24|<< Psalms 35:24]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.26|Psalms 35:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they say  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

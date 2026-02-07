@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:43** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to Jonathan, Report to me what you have done! And Jonathan reported to him, saying, In tasting, I tasted with \[the\] tip of the staff, the one in  my hand, a little honey; and behold, I die. 
-<small><sub>**KJV:**</sub></small>
-Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that [was] in mine hand, [and], lo, I must die.
-<small><sub>**BSB:**</sub></small>
-“Tell me what you have done,” Saul commanded him. So Jonathan told him, “I only tasted a little honey with the end of the staff that was in my hand. And now I must die?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.42|<< 1 Samuel 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.44|1 Samuel 14:44 >>]]</td></tr></table>
 
 | Translation | Greek |

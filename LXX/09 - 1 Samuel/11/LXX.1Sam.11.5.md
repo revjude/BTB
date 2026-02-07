@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:5** 
 <small><sub>**LXX:**</sub></small>
 And behold, Saul came from behind the oxen from out of \[the\] field. And Saul said, Why \[is it\] that the people weep? And they described to him the words of the men of Jabish. 
-<small><sub>**KJV:**</sub></small>
-And, behold, Saul came after the herd out of the field; and Saul said, What [aileth] the people that they weep? And they told him the tidings of the men of Jabesh.
-<small><sub>**BSB:**</sub></small>
-Just then Saul was returning from the field, behind his oxen. “What troubles the people?” asked Saul. “Why are they weeping?” And they relayed to him the words of the men from Jabesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.4|<< 1 Samuel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.6|1 Samuel 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 6:5** 
+**Ezra 6:5**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which [is] at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which [is] at Jerusalem, [every one] to his place, and place [them] in the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, the gold and silver articles of the house of God, which Nebuchadnez
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.4|<< Ezra 6:4]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.6|Ezra 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0638\|אַף]]&#8207; </big>**| Ve.<small><sup>[[AC]]</sup></small> 'af<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] vessels of  |**<big>&#8207;[[H3984\|מָאנֵ֣י]]&#8207; </big>**| ma.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

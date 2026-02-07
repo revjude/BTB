@@ -1,10 +1,7 @@
 **LXX Psalm 29:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] voice of \[the\] <span class="smallcaps">lord</span> \[is\] in strength. \[The\] voice of \[the\] <span class="smallcaps">lord</span> \[is\] in majesty. 
-<small><sub>**KJV:**</sub></small>
-The voice of the LORD [is] powerful; the voice of the LORD [is] full of majesty.
-<small><sub>**BSB:**</sub></small>
-The voice of the LORD is powerful; the voice of the LORD is majestic.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.3|<< Psalm 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.5|Psalm 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

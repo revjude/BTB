@@ -1,10 +1,7 @@
 **LXX Joshua 10:26** 
 <small><sub>**LXX:**</sub></small>
 And after this Joshua killed them, and put them to death, and hung them upon five trees. And they were hanging upon the trees until evening. 
-<small><sub>**KJV:**</sub></small>
-And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening.
-<small><sub>**BSB:**</sub></small>
-After this, Joshua struck down and killed the kings, and he hung their bodies on five trees and left them there until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.25|<< Joshua 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.27|Joshua 10:27 >>]]</td></tr></table>
 
 | Translation | Greek |

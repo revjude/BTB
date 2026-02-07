@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:11** 
 <small><sub>**LXX:**</sub></small>
 And Asa yelled to \[the\] <span class="smallcaps">lord</span> his God, and said, O <span class="smallcaps">lord</span>, it is not impossible for you to deliver by many or by few. Help us, O <span class="smallcaps">lord</span>  our God, for upon you we yield, and in  your name we came against  this vast multitude. O <span class="smallcaps">lord</span>  our God. You are the God. man prevail against you! 
-<small><sub>**KJV:**</sub></small>
-And Asa cried unto the LORD his God, and said, LORD, [it is] nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou [art] our God; let not man prevail against thee.
-<small><sub>**BSB:**</sub></small>
-Then Asa cried out to the LORD his God: “O LORD, there is no one besides You to help the powerless against the mighty. Help us, O LORD our God, for we rely on You, and in Your name we have come against this multitude. O LORD, You are our God. Do not let a mere mortal prevail against You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.10|<< 2 Chronicles 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.12|2 Chronicles 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

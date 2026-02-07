@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:46** 
 <small><sub>**LXX:**</sub></small>
 O son of man, firmly fix  your face against Teman, and look upon Daror, and prophesy against \[the\] grove leading to Negev! 
-<small><sub>**KJV:**</sub></small>
-Son of man, set thy face toward the south, and drop [thy word] toward the south, and prophesy against the forest of the south field;
-<small><sub>**BSB:**</sub></small>
-“Son of man, set your face toward the south, preach against it, and prophesy against the forest of the Negev.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.45|<< Ezekiel 20:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.47|Ezekiel 20:47 >>]]</td></tr></table>
 
 | Translation | Greek |

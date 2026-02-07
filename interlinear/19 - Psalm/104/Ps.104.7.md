@@ -1,4 +1,4 @@
-**Psalms 104:7** 
+**Psalms 104:7**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At thy rebuke they fled; at the voice of thy thunder they hasted away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At Your rebuke the waters fled; at the sound of Your thunder they hurried away�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.6|<< Psalms 104:6]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.8|Psalms 104:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rebuke your  |**<big>&#8207;[[H1606\|גַּעֲרָ֣תְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| ga.'a.Ra.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

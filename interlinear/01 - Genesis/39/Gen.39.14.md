@@ -1,4 +1,4 @@
-**Genesis 39:14** 
+**Genesis 39:14**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ she called her household servants. “Look,” she said, “this Hebrew has been
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.13|<< Genesis 39:13]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.15|Genesis 39:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|תִּקְרָ֞א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] men of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

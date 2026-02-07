@@ -1,12 +1,12 @@
-**2 Timothy 3:17
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:17**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the man of God may be perfect, throughly furnished unto all good works.
 <small><sub>**BSB:**</sub></small>
 so that the man of God may be complete, fully equipped for every good work.
 <small><sub>**Literal:**</sub></small>
 so that complete may be the <the> of God man, toward every work good fully equipped.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.16|<< 2 Timothy 3:16]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.1|2 Timothy 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | complete |**<big>[[G0739\|ἄρτιος]]</big>**  |artios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

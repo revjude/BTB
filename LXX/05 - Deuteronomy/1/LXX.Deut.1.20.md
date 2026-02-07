@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:20** 
 <small><sub>**LXX:**</sub></small>
 And I said to you, You came unto the mountain of the Amorite, the one \[the\] <span class="smallcaps">lord</span>  our God gives to you. 
-<small><sub>**KJV:**</sub></small>
-And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.
-<small><sub>**BSB:**</sub></small>
-I said: “You have reached the hill country of the Amorites, which the LORD our God is giving us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.19|<< Deuteronomy 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.21|Deuteronomy 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

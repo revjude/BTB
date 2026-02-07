@@ -1,12 +1,12 @@
-**Galatians 5:13
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:13**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For, brethren, ye have been called unto liberty; only [use] not liberty for an occasion to the flesh, but by love serve one another.
 <small><sub>**BSB:**</sub></small>
 For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love.
 <small><sub>**Literal:**</sub></small>
 You yourselves for to freedom were called, brothers; but not the freedom for an opportunity to the flesh, Rather through <the> love do serve one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.12|<< Galatians 5:12]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.14|Galatians 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

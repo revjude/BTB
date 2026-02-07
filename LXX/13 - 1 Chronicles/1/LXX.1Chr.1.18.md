@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:18** 
 <small><sub>**LXX:**</sub></small>
 And Arphaxad procreated  Cainan, and Cainan procreated  Shelah, and Shelah procreated  Eber. 
-<small><sub>**KJV:**</sub></small>
-And Arphaxad begat Shelah, and Shelah begat Eber.
-<small><sub>**BSB:**</sub></small>
-Arphaxad was the father of Shelah, and Shelah was the father of Eber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.17|<< 1 Chronicles 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.19|1 Chronicles 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

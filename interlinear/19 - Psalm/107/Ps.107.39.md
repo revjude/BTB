@@ -1,4 +1,4 @@
-**Psalms 107:39** 
+**Psalms 107:39**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, they are minished and brought low through oppression, affliction, and sorrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they are decreased and humbled by oppression, evil, and sorrow,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.38|<< Psalms 107:38]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.40|Psalms 107:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they became few  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4591\|יִּמְעֲט֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.'a.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7817\|יָּשֹׁ֑חוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sho.chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 4:20** 
+**Ezra 4:20**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There have been mighty kings also over Jerusalem, which have ruled over all [countries] beyond the river; and toll, tribute, and custom, was paid unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And mighty kings have ruled over Jerusalem and exercised authority over the whol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.19|<< Ezra 4:19]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.21|Ezra 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and kings  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4430\|מַלְכִ֣ין]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mal.Khin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strong  |**<big>&#8207;[[H8624\|תַּקִּיפִ֗ין]]&#8207; </big>**| ta.ki.Fin<small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

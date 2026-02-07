@@ -1,10 +1,7 @@
 **LXX Psalm 44:11** 
 <small><sub>**LXX:**</sub></small>
 You gave us as sheep for food; and among the nations you scattered us. 
-<small><sub>**KJV:**</sub></small>
-Thou hast given us like sheep [appointed] for meat; and hast scattered us among the heathen.
-<small><sub>**BSB:**</sub></small>
-You have given us up as sheep to be devoured; You have scattered us among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.10|<< Psalm 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.12|Psalm 44:12 >>]]</td></tr></table>
 
 | Translation | Greek |

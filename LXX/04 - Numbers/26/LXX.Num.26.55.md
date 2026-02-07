@@ -1,10 +1,7 @@
 **LXX Numbers 26:55** 
 <small><sub>**LXX:**</sub></small>
 By lots the land shall be portioned by the names; according to \[the\] tribes of their patrimony they shall inherit. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.
-<small><sub>**BSB:**</sub></small>
-Indeed, the land must be divided by lot; they shall receive their inheritance according to the names of the tribes of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.54|<< Numbers 26:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.56|Numbers 26:56 >>]]</td></tr></table>
 
 | Translation | Greek |

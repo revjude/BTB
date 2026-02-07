@@ -1,10 +1,7 @@
 **LXX Leviticus 8:21** 
 <small><sub>**LXX:**</sub></small>
 and the belly and the feet he washed in water. And Moses offered up \[the\] entire  ram upon the altar. It is a whole burnt-offering for a scent of pleasant aroma; it is a yield \[offering\] \[to the\] <span class="smallcaps">lord</span>, just as \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it [was] a burnt sacrifice for a sweet savour, [and] an offering made by fire unto the LORD; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-He washed the entrails and legs with water and burned the entire ram on the altar as a burnt offering, a pleasing aroma, a food offering to the LORD, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.20|<< Leviticus 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.22|Leviticus 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

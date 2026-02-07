@@ -1,10 +1,7 @@
 **LXX Daniel 3:29** 
 <small><sub>**LXX:**</sub></small>
 And I display a decree, Every people, tribe, language, which ever should speak blasphemy against the God of Shadrach, Meshach, Abed-nego, shall be for destruction, and  their houses for ravaging, in so far as there is no other God who shall be able to rescue thus. 
-<small><sub>**KJV:**</sub></small>
-Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.
-<small><sub>**BSB:**</sub></small>
-Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 46:9** (46:10)
+**Psalms 46:9**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He makes wars to cease throughout the earth; He breaks the bow and shatters the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.8|<< Psalms 46:8]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.10|Psalms 46:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] making cease  |**<big>&#8207;[[H7673A\|מַשְׁבִּ֥ית]]&#8207; </big>**| mash.Bit<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wars  |**<big>&#8207;[[H4421\|מִלְחָמוֹת֮]]&#8207; </big>**| mil.cha.mOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

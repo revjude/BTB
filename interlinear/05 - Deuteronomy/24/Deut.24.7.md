@@ -1,4 +1,4 @@
-**Deuteronomy 24:7** 
+**Deuteronomy 24:7**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If a man is caught kidnapping one of his Israelite brothers, whether he treats h
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be found  |**<big>&#8207;[[H4672\|יִמָּצֵ֣א]]&#8207; </big>**| yi.ma.Tze'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

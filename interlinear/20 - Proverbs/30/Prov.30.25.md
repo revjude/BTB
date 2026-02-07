@@ -1,4 +1,4 @@
-**Proverbs 30:25** 
+**Proverbs 30:25**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ants [are] a people not strong, yet they prepare their meat in the summer;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ants are creatures of little strength, yet they store up their food in the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.24|<< Proverbs 30:24]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.26|Proverbs 30:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the ants  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H5244\|נְּמָלִים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ne.ma.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a people  |**<big>&#8207;[[H5971A\|עַ֣ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

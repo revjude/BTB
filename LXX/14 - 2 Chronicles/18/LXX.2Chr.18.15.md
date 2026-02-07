@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:15** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, How often shall I bind you by an oath that you should not speak to me except the truth in \[the\] name of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of the LORD?
-<small><sub>**BSB:**</sub></small>
-But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.14|<< 2 Chronicles 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.16|2 Chronicles 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

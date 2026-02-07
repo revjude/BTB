@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:2** 
 <small><sub>**LXX:**</sub></small>
 And Ahaziah fell through the lattice  in  his upper room,  in Samaria, and was infirm. And he sent for messengers, and he said to them, Go and ask of  Baal \[the\] fly god of Ekron if I shall live through  this my infirmity! And they went to ask. 
-<small><sub>**KJV:**</sub></small>
-And Ahaziah fell down through a lattice in his upper chamber that [was] in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baalzebub the god of Ekron whether I shall recover of this disease.
-<small><sub>**BSB:**</sub></small>
-Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers and instructed them: “Go inquire of Baal-zebub, the god of Ekron, whether I will recover from this injury.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.1|<< 2 Kings 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.3|2 Kings 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

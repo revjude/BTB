@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Bela -- Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri -- five rulers of \[the\] houses of their families, strong ones in power; and  their genealogy -- twenty two thousand and thirty-four. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of [their] fathers, mighty men of valour; and were reckoned by their genealogies twenty and two thousand and thirty and four.
-<small><sub>**BSB:**</sub></small>
-The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, heads of their families—five in all. There were 22,034 mighty men of valor listed in their genealogies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.6|<< 1 Chronicles 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.8|1 Chronicles 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

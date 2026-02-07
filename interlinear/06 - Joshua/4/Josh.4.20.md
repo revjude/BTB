@@ -1,4 +1,4 @@
-**Joshua 4:20** 
+**Joshua 4:20**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there at Gilgal Joshua set up the twelve stones they had taken from the Jord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.19|<< Joshua 4:19]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.21|Joshua 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֨ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

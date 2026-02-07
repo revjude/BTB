@@ -1,12 +1,12 @@
-**Acts 15:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:30**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
 <small><sub>**BSB:**</sub></small>
 So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter.
 <small><sub>**Literal:**</sub></small>
 They indeed therefore having been sent off went to Antioch, and having gathered the multitude they delivered the letter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.29|<< Acts 15:29]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.31|Acts 15:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 31:9** 
+**Deuteronomy 31:9**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses wrote down this law and gave it to the priests, the sons of Levi, who c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.8|<< Deuteronomy 31:8]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.10|Deuteronomy 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wrote down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתֹּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.To<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֮]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

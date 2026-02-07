@@ -1,4 +1,4 @@
-**Numbers 25:1** 
+**Numbers 25:1**<big><big>[[Num.25.1 Moab Seduces Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ While Israel was staying in Shittim, the men began to indulge in sexual immorali
 > $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּ֥שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

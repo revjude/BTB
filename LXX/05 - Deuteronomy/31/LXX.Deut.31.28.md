@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:28** 
 <small><sub>**LXX:**</sub></small>
 Hold an assembly for me  of your tribal chiefs, and  your elders, and  your judicial recorders! that I should speak into  their ears all  these words; and I \[call to\] testify to them both the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
-<small><sub>**BSB:**</sub></small>
-Assemble before me all the elders of your tribes and all your officers so that I may speak these words in their hearing and call heaven and earth to witness against them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.27|<< Deuteronomy 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.29|Deuteronomy 31:29 >>]]</td></tr></table>
 
 | Translation | Greek |

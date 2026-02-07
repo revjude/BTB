@@ -1,12 +1,12 @@
-**Revelation 20:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:10**<big><big>[[Rev.20.7 Satan Cast into the Lake of Fire|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And the devil who had deceived them was thrown into the lake of fire and sulfur, into which the beast and the false prophet had already been thrown. There they will be tormented day and night forever and ever.
 <small><sub>**Literal:**</sub></small>
 And the devil who is deceiving them he was cast into the lake <the> of fire and of sulfur where [are] also the beast and the false prophet, and they will be tormented day and night to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.9|<< Revelation 20:9]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.11|Revelation 20:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

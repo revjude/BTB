@@ -1,10 +1,7 @@
 **LXX Numbers 16:49** 
 <small><sub>**LXX:**</sub></small>
 And the ones having died in the devastation were fourteen thousand and seven hundred, apart from the ones having died because of Korah. 
-<small><sub>**KJV:**</sub></small>
-Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah.
-<small><sub>**BSB:**</sub></small>
-But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.48|<< Numbers 16:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.50|Numbers 16:50 >>]]</td></tr></table>
 
 | Translation | Greek |

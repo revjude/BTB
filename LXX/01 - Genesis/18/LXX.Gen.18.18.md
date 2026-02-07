@@ -1,10 +1,7 @@
 **LXX Genesis 18:18** 
 <small><sub>**LXX:**</sub></small>
 But coming to pass to Abraham, he will be \[made\] into a great and populous nation, and all the nations of the earth shall be blessed by him. 
-<small><sub>**KJV:**</sub></small>
-Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?
-<small><sub>**BSB:**</sub></small>
-Abraham will surely become a great and powerful nation, and through him all the nations of the earth will be blessed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.17|<< Genesis 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.19|Genesis 18:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 18:18** is...

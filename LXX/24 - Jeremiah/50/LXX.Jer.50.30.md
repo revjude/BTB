@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:30** 
 <small><sub>**LXX:**</sub></small>
 On account of this her young men shall fall in  her squares, and all the men,  her warriors, shall be tossed down in  that day, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Therefore, her young men will fall in the streets, and all her warriors will be silenced in that day,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.29|<< Jeremiah 50:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.31|Jeremiah 50:31 >>]]</td></tr></table>
 
 | Translation | Greek |

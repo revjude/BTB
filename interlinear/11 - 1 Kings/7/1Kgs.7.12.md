@@ -1,4 +1,4 @@
-**1 Kings 7:12** 
+**1 Kings 7:12**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the great court round about [was] with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The great courtyard was surrounded by three rows of dressed stone and a row of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.11|<< 1 Kings 7:11]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.13|1 Kings 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] court  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691A\|חָצֵ֨ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גְּדוֹלָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

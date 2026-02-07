@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:14** 
 <small><sub>**LXX:**</sub></small>
 And the wagon entered into \[the\] field of Joshua, the \[one\] in Beth-shemesh, and it stood there by a great stone. And they split the wood of the wagon, and the oxen they offered for a whole burnt-offering to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the cart came into the field of Joshua, a Bethshemite, and stood there, where [there was] a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The cart came to the field of Joshua of Beth-shemesh and stopped there near a large rock. The people chopped up the cart and offered the cows as a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.13|<< 1 Samuel 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.15|1 Samuel 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall count out to yourself seven rests of years, seven years seven times. And they will be to you seven periods of seven of years, nine and forty years. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
-<small><sub>**BSB:**</sub></small>
-And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.7|<< Leviticus 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.9|Leviticus 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

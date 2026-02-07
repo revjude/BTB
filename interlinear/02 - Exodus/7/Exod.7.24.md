@@ -1,4 +1,4 @@
-**Exodus 7:24** 
+**Exodus 7:24**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the Egyptians dug around the Nile for water to drink, because they could 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.23|<< Exodus 7:23]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.25|Exodus 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dug  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2658\|יַּחְפְּר֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.pe.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

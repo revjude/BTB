@@ -1,10 +1,7 @@
 **LXX Ezra 10:8** 
 <small><sub>**LXX:**</sub></small>
 Every one who ever should not come for three days, according to the counsel of the rulers and of the elders, all his substance shall be devoted to consumption, and he shall be separated from \[the\] assembly of the resettlement. 
-<small><sub>**KJV:**</sub></small>
-And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
-<small><sub>**BSB:**</sub></small>
-Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.7|<< Ezra 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.9|Ezra 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

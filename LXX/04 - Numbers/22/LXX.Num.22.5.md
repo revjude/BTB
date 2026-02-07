@@ -1,10 +1,7 @@
 **LXX Numbers 22:5** 
 <small><sub>**LXX:**</sub></small>
 And he sent ambassadors to Balaam son of Beor, to Pethor, which is upon the river of \[the\] land of \[the\] sons of his people, to call him, saying, Behold, a people have come forth from out of Egypt. And behold, it covers up the appearance of the earth, and this \[people\] lie in wait next to me. 
-<small><sub>**KJV:**</sub></small>
-He sent messengers therefore unto Balaam the son of Beor to Pethor, which [is] by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
-<small><sub>**BSB:**</sub></small>
-he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people. “Behold, a people has come out of Egypt,” said Balak. “They cover the face of the land and have settled next to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.4|<< Numbers 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.6|Numbers 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

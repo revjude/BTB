@@ -1,4 +1,4 @@
-**Exodus 28:10** 
+**Exodus 28:10**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six of their names on one stone, and [the other] six names of the rest on the other stone, according to their birth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ six of their names on one stone and the remaining six on the other, in the order
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.9|<< Exodus 28:9]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.11|Exodus 28:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שִׁשָּׁה֙]]&#8207; </big>**| shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of names their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8034\|שְּׁמֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

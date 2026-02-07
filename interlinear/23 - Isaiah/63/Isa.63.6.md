@@ -1,4 +1,4 @@
-**Isaiah 63:6** 
+**Isaiah 63:6**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I trampled the nations in My anger; in My wrath I made them drunk and poured out
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.5|<< Isaiah 63:5]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.7|Isaiah 63:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I may tread down  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0947\|אָב֤וּס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Vus<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּים֙]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

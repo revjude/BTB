@@ -1,4 +1,4 @@
-**Numbers 19:5** 
+**Numbers 19:5**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the heifer must be burned in his sight. Its hide, its flesh, and its blood 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.4|<< Numbers 19:4]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.6|Numbers 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8313\|שָׂרַ֥ף]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Raf<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

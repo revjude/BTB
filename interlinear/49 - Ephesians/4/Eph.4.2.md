@@ -1,12 +1,12 @@
-**Ephesians 4:2
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:2**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 With all lowliness and meekness, with longsuffering, forbearing one another in love;
 <small><sub>**BSB:**</sub></small>
 with all humility and gentleness, with patience, bearing with one another in love,
 <small><sub>**Literal:**</sub></small>
 with all humility and gentleness, with patience, bearing with one another in love,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.1|<< Ephesians 4:1]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.3|Ephesians 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάσης]]</big>**  |pasēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:8** 
 <small><sub>**LXX:**</sub></small>
 \[But\] rage ascend for a punishment, to be punished I put  her blood upon a smooth rock, \[so as\] to not cover it. 
-<small><sub>**KJV:**</sub></small>
-That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.
-<small><sub>**BSB:**</sub></small>
-In order to stir up wrath and take vengeance, I have placed her blood on the bare rock, so that it would not be covered.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.7|<< Ezekiel 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.9|Ezekiel 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

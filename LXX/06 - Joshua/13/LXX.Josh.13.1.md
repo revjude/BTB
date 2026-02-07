@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua \[was\] older being advanced  of days; and \[the\] <span class="smallcaps">lord</span> said to Joshua, You are grown old, advanced  of days, and  much land \[is\] left exceedingly for inheritance. 
-<small><sub>**KJV:**</sub></small>
-Now Joshua was old [and] stricken in years; and the LORD said unto him, Thou art old [and] stricken in years, and there remaineth yet very much land to be possessed.
-<small><sub>**BSB:**</sub></small>
-Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.24|<< Joshua 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.2|Joshua 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

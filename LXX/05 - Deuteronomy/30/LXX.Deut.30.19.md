@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:19** 
 <small><sub>**LXX:**</sub></small>
 I call to testify to you today both the heaven and the earth. The life and  death I put before your face; the blessing and the curse; then choose the life, that you should live and  your seed; 
-<small><sub>**KJV:**</sub></small>
-I call heaven and earth to record this day against you, [that] I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:
-<small><sub>**BSB:**</sub></small>
-I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.18|<< Deuteronomy 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.20|Deuteronomy 30:20 >>]]</td></tr></table>
 
 | Translation | Greek |

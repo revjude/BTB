@@ -1,4 +1,4 @@
-**Deuteronomy 4:23** 
+**Deuteronomy 4:23**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, [or] the likeness of any [thing], which the LORD thy God hath forbidden thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be careful that you do not forget the covenant of the LORD your God that He made
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.22|<< Deuteronomy 4:22]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.24|Deuteronomy 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּׁמְר֣וּ]]&#8207; </big>**| hi.sha.me.Ru<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

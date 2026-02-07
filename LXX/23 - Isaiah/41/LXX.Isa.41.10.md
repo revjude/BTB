@@ -1,10 +1,7 @@
 **LXX Isaiah 41:10** 
 <small><sub>**LXX:**</sub></small>
 Do not fear! for I am with you. Do not wander! for I am  your God; the one strengthening you, and I will give help to you, and safeguard you  by my just right \[hand\]. 
-<small><sub>**KJV:**</sub></small>
-Fear thou not; for I [am] with thee: be not dismayed; for I [am] thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
-<small><sub>**BSB:**</sub></small>
-Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.9|<< Isaiah 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.11|Isaiah 41:11 >>]]</td></tr></table>
 
 | Translation | Greek |

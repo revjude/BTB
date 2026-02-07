@@ -1,5 +1,5 @@
-**Matthew 23:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:39**<big><big>[[Matt.23.37 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed [is] he that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
@@ -10,7 +10,7 @@ I say for to you; certainly not Me shall you see from now until when you may say
 > $\quad$ alluding to: [[LXX.Ps.118.26|Ps 118:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

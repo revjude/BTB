@@ -1,10 +1,7 @@
 **LXX Leviticus 7:12** 
 <small><sub>**LXX:**</sub></small>
 If indeed for praise \[a man\] should offer it, then he shall bring upon the sacrifice  of praise unleavened breads \[made\] of fine flour, being prepared in olive oil, and unleavened pancakes being smeared all over with olive oil, and fine flour being mixed with olive oil. 
-<small><sub>**KJV:**</sub></small>
-If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried.
-<small><sub>**BSB:**</sub></small>
-If he offers it in thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with olive oil, unleavened wafers coated with oil, and well-kneaded cakes of fine flour mixed with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.11|<< Leviticus 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.13|Leviticus 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

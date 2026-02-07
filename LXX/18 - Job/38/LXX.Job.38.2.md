@@ -1,10 +1,7 @@
 **LXX Job 38:2** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] this  hiding counsel, and constraining matters in heart, and imagines to hide from me? 
-<small><sub>**KJV:**</sub></small>
-Who [is] this that darkeneth counsel by words without knowledge?
-<small><sub>**BSB:**</sub></small>
-“Who is this who obscures My counsel by words without knowledge?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.1|<< Job 38:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.3|Job 38:3 >>]]</td></tr></table>
 
 | Translation | Greek |

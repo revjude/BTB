@@ -1,10 +1,7 @@
 **LXX Numbers 2:9** 
 <small><sub>**LXX:**</sub></small>
 All the ones being numbering from the camp of Judah \[were\] a hundred eighty thousand and six thousand and four hundred; with their force first they shall lift away. 
-<small><sub>**KJV:**</sub></small>
-All that were numbered in the camp of Judah [were] an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.
-<small><sub>**BSB:**</sub></small>
-The total number of men in the divisions of the camp of Judah is 186,400; they shall set out first.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.8|<< Numbers 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.10|Numbers 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

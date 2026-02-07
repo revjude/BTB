@@ -1,10 +1,7 @@
 **LXX Daniel 10:16** 
 <small><sub>**LXX:**</sub></small>
 And behold, as a likeness of a son of man touched  my lips, and I opened  my mouth, and I spoke, and said to the one standing before me, O lord, at the apparition of you my within turned in me, and I had not strength. 
-<small><sub>**KJV:**</sub></small>
-And, behold, [one] like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
-<small><sub>**BSB:**</sub></small>
-And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.15|<< Daniel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.17|Daniel 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 30:12** 
+**Proverbs 30:12**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation [that are] pure in their own eyes, and [yet] is not washed from their filthiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a generation of those who are pure in their own eyes and yet unwashed o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.11|<< Proverbs 30:11]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.13|Proverbs 30:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a generation  |**<big>&#8207;[[H1755\|דּ֭וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] pure  |**<big>&#8207;[[H2889\|טָה֣וֹר]]&#8207; </big>**| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 13:31** 
 <small><sub>**LXX:**</sub></small>
 even  half  of Gilead, and in Ashtaroth, and in Edrei, cities of \[the\] kingdom of Og in Bashan -- \[these were\] to the sons of Machir \[the\] son of Manasseh, and to the half \[of the\] sons of Machir \[the\] son of Manasseh according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, [were pertaining] unto the children of Machir the son of Manasseh, [even] to the one half of the children of Machir by their families.
-<small><sub>**BSB:**</sub></small>
-half of Gilead; and Ashtaroth and Edrei, the royal cities of Og in Bashan. All this was for the clans of the descendants of Machir son of Manasseh, that is, half of the descendants of Machir.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.30|<< Joshua 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.32|Joshua 13:32 >>]]</td></tr></table>
 
 | Translation | Greek |

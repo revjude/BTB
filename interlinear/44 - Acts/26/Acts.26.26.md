@@ -1,12 +1,12 @@
-**Acts 26:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:26**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.
 <small><sub>**BSB:**</sub></small>
 For the king knows about these matters, and I can speak freely to him. I am confident that none of this has escaped his notice, because it was not done in a corner.
 <small><sub>**Literal:**</sub></small>
 Understands for concerning these things the king to whom also using boldness I speak; Hiding for him any of these things not I am persuaded no [thing]; not for is in a corner done of these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.25|<< Acts 26:25]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.27|Acts 26:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Understands |**<big>[[G1987\|ἐπίσταται]]</big>**  |epistatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

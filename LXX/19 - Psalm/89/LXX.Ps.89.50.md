@@ -1,10 +1,7 @@
 **LXX Psalm 89:50** 
 <small><sub>**LXX:**</sub></small>
 Remember, O <span class="smallcaps">lord</span>, the scorning  of your servants! which I underwent in  my bosom, of many nations; 
-<small><sub>**KJV:**</sub></small>
-Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the reproach of] all the mighty people;
-<small><sub>**BSB:**</sub></small>
-Remember, O Lord, the reproach of Your servants, which I bear in my heart from so many people—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.49|<< Psalm 89:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.51|Psalm 89:51 >>]]</td></tr></table>
 
 | Translation | Greek |

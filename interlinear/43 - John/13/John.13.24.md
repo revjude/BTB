@@ -1,12 +1,12 @@
-**John 13:24
-**<small><sub>**KJV:**</sub></small>
+**John 13:24**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.
 <small><sub>**BSB:**</sub></small>
 So Simon Peter motioned to him to ask Jesus which one He was talking about.
 <small><sub>**Literal:**</sub></small>
 Motions therefore to him Simon Peter and says to him to ask who maybe it would be about whom He is speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.23|<< John 13:23]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.25|John 13:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Motions |**<big>[[G3506\|νεύει]]</big>**  |neuei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

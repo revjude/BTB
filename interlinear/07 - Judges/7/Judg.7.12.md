@@ -1,4 +1,4 @@
-**Judges 7:12** 
+**Judges 7:12**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels [were] without number, as the sand by the sea side for multitude.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Midianites, Amalekites, and all the other people of the east had settled
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.11|<< Judges 7:11]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.13|Judges 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Midian  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4080H\|מִדְיָ֨ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Amalek  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6002G\|עֲמָלֵ֤ק]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ma.Lek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

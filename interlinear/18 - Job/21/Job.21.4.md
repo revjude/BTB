@@ -1,4 +1,4 @@
-**Job 21:4** 
+**Job 21:4**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, [is] my complaint to man? and if [it were so], why should not my spirit be troubled?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is my complaint against a man? Then why should I not be impatient?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.3|<< Job 21:3]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.5|Job 21:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ I  |**<big>&#8207;[[H9008\|הֶ֭]]&#8207;&#8207;[[H0595\|אָנֹכִי]]&#8207; </big>**| He.<small><sup>[[HTi]]</sup></small> 'a.no.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to humankind  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

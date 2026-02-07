@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:5** 
 <small><sub>**LXX:**</sub></small>
 Why turned  this people in an impudent rejection, and they hold firmly \[to\] their resolve, and they do not want  to return? 
-<small><sub>**KJV:**</sub></small>
-Why [then] is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.
-<small><sub>**BSB:**</sub></small>
-Why then have these people turned away? Why does Jerusalem always turn away? They cling to deceit; they refuse to return.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.4|<< Jeremiah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.6|Jeremiah 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 19:17** 
 <small><sub>**LXX:**</sub></small>
 And Moses led the people for  a meeting with  God from the camp. And they stood by the mountain. 
-<small><sub>**KJV:**</sub></small>
-And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.
-<small><sub>**BSB:**</sub></small>
-Then Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.16|<< Exodus 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.18|Exodus 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

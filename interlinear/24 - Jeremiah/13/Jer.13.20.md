@@ -1,4 +1,4 @@
-**Jeremiah 13:20** 
+**Jeremiah 13:20**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your eyes, and behold them that come from the north: where [is] the flock [that] was given thee, thy beautiful flock?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up your eyes and see those coming from the north. Where is the flock entrus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  [^1]|**<big>&#8207;[[H5375M\|שְׂא֤וּ]]&#8207; </big>**[^2] | se.'i<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵֽינֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

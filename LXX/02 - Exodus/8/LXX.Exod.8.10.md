@@ -1,10 +1,7 @@
 **LXX Exodus 8:10** 
 <small><sub>**LXX:**</sub></small>
  And he said, During tomorrow. He said therefore, As you have said; that you might see that there is no other besides \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he said, To morrow. And he said, [Be it] according to thy word: that thou mayest know that [there is] none like unto the LORD our God.
-<small><sub>**BSB:**</sub></small>
-“Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.9|<< Exodus 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.11|Exodus 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 25:4** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Midian \[were\] Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were sons of Keturah. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these [were] the children of Keturah.
-<small><sub>**BSB:**</sub></small>
-The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were descendants of Keturah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.3|<< Genesis 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.5|Genesis 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

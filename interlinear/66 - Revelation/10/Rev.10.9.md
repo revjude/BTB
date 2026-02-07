@@ -1,5 +1,5 @@
-**Revelation 10:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:9**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take [it], and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
 <small><sub>**BSB:**</sub></small>
 And I went to the angel and said, “Give me the small scroll.” “Take it and eat it,” he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey.”
@@ -10,7 +10,7 @@ And I went to the angel saying to him to give me the little scroll. And he says 
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I went |**<big>[[G0565\|ἀπῆλθα]]</big>**  [^1] |apēltha <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

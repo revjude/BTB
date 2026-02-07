@@ -1,10 +1,7 @@
 **LXX Job 23:3** 
 <small><sub>**LXX:**</sub></small>
 But who is it that may know that I might find him, and \[that\] I might come to \[the\] end \[of the matter\]? 
-<small><sub>**KJV:**</sub></small>
-Oh that I knew where I might find him! [that] I might come [even] to his seat!
-<small><sub>**BSB:**</sub></small>
-If only I knew where to find Him, so that I could go to His seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.2|<< Job 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.4|Job 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

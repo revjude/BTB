@@ -1,4 +1,4 @@
-**Deuteronomy 16:8** 
+**Deuteronomy 16:8**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days thou shalt eat unleavened bread: and on the seventh day [shall be] a solemn assembly to the LORD thy God: thou shalt do no work [therein].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For six days you must eat unleavened bread, and on the seventh day you shall hol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.7|<< Deuteronomy 16:7]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.9|Deuteronomy 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֥שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֖ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

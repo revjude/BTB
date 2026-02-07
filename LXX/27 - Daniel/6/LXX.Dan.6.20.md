@@ -1,10 +1,7 @@
 **LXX Daniel 6:20** 
 <small><sub>**LXX:**</sub></small>
 And at  his approaching to the pit he yelled to Daniel a strong voice, Daniel, O servant of the living God,  your God in whom you serve continually, was he able to rescue you from out of \[the\] mouth of the lions? 
-<small><sub>**KJV:**</sub></small>
-And when he came to the den, he cried with a lamentable voice unto Daniel: [and] the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
-<small><sub>**BSB:**</sub></small>
-When he reached the den, he cried out in a voice of anguish, “O Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.19|<< Daniel 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.21|Daniel 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

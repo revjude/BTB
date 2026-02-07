@@ -1,4 +1,4 @@
-**1 Chronicles 8:12** 
+**1 Chronicles 8:12**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Elpaal: Eber, Misham, Shemed (who built Ono and Lod with its village
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.11|<< 1 Chronicles 8:11]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.13|1 Chronicles 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elpaal  |**<big>&#8207;[[H0508\|אֶלְפַּ֔עַל]]&#8207; </big>**| 'el.Pa.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 6:1** 
+**Esther 6:1**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That night sleep escaped the king; so he ordered the Book of Records, the Chroni
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.14|<< Esther 5:14]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.2|Esther 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the night  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3915\|לַּ֣יְלָה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

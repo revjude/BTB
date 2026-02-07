@@ -1,4 +1,4 @@
-**Leviticus 11:3** 
+**Leviticus 11:3**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever parteth the hoof, and is clovenfooted, [and] cheweth the cud, among the beasts, that shall ye eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may eat any animal that has a split hoof completely divided and that chews t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.2|<< Leviticus 11:2]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.4|Leviticus 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one which] divides in two  |**<big>&#8207;[[H6536\|מַפְרֶ֣סֶת]]&#8207; </big>**| maf.Re.set<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

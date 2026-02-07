@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And  king Solomon was fond of women, and he took alien wives, and the daughter of Pharaoh, and Moabitish, and Ammonitish, and Edomites, and Sidonians, and Hittites. 
-<small><sub>**KJV:**</sub></small>
-But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, [and] Hittites;
-<small><sub>**BSB:**</sub></small>
-King Solomon, however, loved many foreign women along with the daughter of Pharaoh—women of Moab, Ammon, Edom, and Sidon, as well as Hittite women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.29|<< 1 Kings 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.2|1 Kings 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

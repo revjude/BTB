@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:13** 
 <small><sub>**LXX:**</sub></small>
 and you shall remove the garments of her captivity from her, and you shall seat \[her\] in  your house, and she shall weep over her father and  mother for a month of days; and after this you shall enter to her, and you shall be living together with her, and she shall be your wife. 
-<small><sub>**KJV:**</sub></small>
-And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.
-<small><sub>**BSB:**</sub></small>
-and put aside the clothing of her captivity. After she has lived in your house a full month and mourned her father and mother, you may have relations with her and be her husband, and she shall be your wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.12|<< Deuteronomy 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.14|Deuteronomy 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

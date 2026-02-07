@@ -1,4 +1,4 @@
-**1 Chronicles 29:28** 
+**1 Chronicles 29:28**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He died at a ripe old age, full of years, riches, and honor, and his son Solomon
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.27|<< 1 Chronicles 29:27]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.29|1 Chronicles 29:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֙מָת֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in old age  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7872\|שֵׂיבָ֣ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sei.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

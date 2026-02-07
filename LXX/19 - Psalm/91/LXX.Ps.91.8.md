@@ -1,10 +1,7 @@
 **LXX Psalm 91:8** 
 <small><sub>**LXX:**</sub></small>
 Only \[with\] your eyes you shall contemplate; and you shall see \[the\] recompense of sinners. 
-<small><sub>**KJV:**</sub></small>
-Only with thine eyes shalt thou behold and see the reward of the wicked.
-<small><sub>**BSB:**</sub></small>
-You will only see it with your eyes and witness the punishment of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.7|<< Psalm 91:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.9|Psalm 91:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 3:22** 
 <small><sub>**LXX:**</sub></small>
 that your soul should live, and favor should be around your neck; and it will be healing \[to\] your flesh, and care \[to\] your bones; 
-<small><sub>**KJV:**</sub></small>
-So shall they be life unto thy soul, and grace to thy neck.
-<small><sub>**BSB:**</sub></small>
-They will be life to your soul and adornment to your neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.21|<< Proverbs 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.23|Proverbs 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 20:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:1**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after the uproar was ceased, Paul called unto [him] the disciples, and embraced [them], and departed for to go into Macedonia.
 <small><sub>**BSB:**</sub></small>
 When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia.
 <small><sub>**Literal:**</sub></small>
 After now <the> ceasing the uproar having summoned [him] <the> Paul the disciples and having encouraged having said farewell he departed to go to <the> Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.41|<< Acts 19:41]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.2|Acts 20:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

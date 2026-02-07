@@ -1,10 +1,7 @@
 **LXX Numbers 14:21** 
 <small><sub>**LXX:**</sub></small>
 but \[as\] I live, that the glory \[of the\] <span class="smallcaps">lord</span> will fill all the earth. 
-<small><sub>**KJV:**</sub></small>
-But [as] truly [as] I live, all the earth shall be filled with the glory of the LORD.
-<small><sub>**BSB:**</sub></small>
-“Yet as surely as I live and as surely as the whole earth is filled with the glory of the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.20|<< Numbers 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.22|Numbers 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

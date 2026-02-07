@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span> of the forces, Behold, I shall set them on fire, and try them. What will I act before \[the\] face of \[the\] wickedness of \[the\] daughter of my people? 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD of Hosts says: “Behold, I will refine them and test them, for what else can I do because of the daughter of My people?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.6|<< Jeremiah 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.8|Jeremiah 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

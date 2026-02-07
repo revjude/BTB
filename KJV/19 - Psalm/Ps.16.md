@@ -1,6 +1,6 @@
 (KJV) **Psalm 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15|<< Psalm 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17|Psalm 17 >>]]</td></tr></table>
 
-***The Presence of the LORD***&emsp;<small><sup>\[ [[Acts.2|Acts 2:14–36]] ]</sup></small> ^bsb1309
+<big><big>[[Ps.16.1 The Presence of the LORD|⥃]]</big></big>***The Presence of the LORD***&emsp;<small><sup>\[ [[Acts.2|Acts 2:14–36]] ]</sup></small>
 
 
 

@@ -1,10 +1,7 @@
 **LXX Numbers 6:15** 
 <small><sub>**LXX:**</sub></small>
 and a bin of unleavened fine flour breads being prepared in olive oil, and unleavened pancakes being anointed in olive oil, and their sacrifice, and their libation. 
-<small><sub>**KJV:**</sub></small>
-And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.
-<small><sub>**BSB:**</sub></small>
-together with their grain offerings and drink offerings—and a basket of unleavened cakes made from fine flour mixed with oil and unleavened wafers coated with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.14|<< Numbers 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.16|Numbers 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

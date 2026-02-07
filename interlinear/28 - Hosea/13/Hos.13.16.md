@@ -1,4 +1,4 @@
-**Hosea 13:16** (14:1)
+**Hosea 13:16**<big><big>[[Hos.13.15 Judgment on Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Samaria will bear her guilt because she has rebelled against her God. They will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.15|<< Hosea 13:15]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.1|Hosea 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be held guilty  |**<big>&#8207;[[H0816\|תֶּאְשַׁם֙]]&#8207; </big>**| te'.Sham<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samaria  |**<big>&#8207;[[H8111\|שֹֽׁמְר֔וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

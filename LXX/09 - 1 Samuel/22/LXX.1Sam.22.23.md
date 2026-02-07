@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:23** 
 <small><sub>**LXX:**</sub></small>
 You sit down with me! Do not fear! for where ever I seek  for my life, I shall seek also  a place for your life; for you are guarded by me. 
-<small><sub>**KJV:**</sub></small>
-Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou [shalt be] in safeguard.
-<small><sub>**BSB:**</sub></small>
-Stay with me; do not be afraid, for he who seeks your life is seeking mine as well. You will be safe with me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

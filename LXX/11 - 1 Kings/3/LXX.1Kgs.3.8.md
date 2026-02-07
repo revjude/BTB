@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:8** 
 <small><sub>**LXX:**</sub></small>
 And  your servant \[is\] in \[the\] midst  of your people whom you chose, a populous people who cannot be counted. 
-<small><sub>**KJV:**</sub></small>
-And thy servant [is] in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.
-<small><sub>**BSB:**</sub></small>
-Your servant is here among the people You have chosen, a people too numerous to count or number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.7|<< 1 Kings 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.9|1 Kings 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

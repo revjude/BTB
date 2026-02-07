@@ -1,12 +1,12 @@
-**John 11:42
-**<small><sub>**KJV:**</sub></small>
+**John 11:42**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I knew that thou hearest me always: but because of the people which stand by I said [it], that they may believe that thou hast sent me.
 <small><sub>**BSB:**</sub></small>
 I knew that You always hear Me, but I say this for the benefit of the people standing here, so they may believe that You sent Me.”
 <small><sub>**Literal:**</sub></small>
 I myself and knew that always Me You hear; but on account of the crowd which already standing around I said [it], that they may believe that You yourself Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.41|<< John 11:41]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.43|John 11:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

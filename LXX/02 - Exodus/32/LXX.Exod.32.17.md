@@ -1,10 +1,7 @@
 **LXX Exodus 32:17** 
 <small><sub>**LXX:**</sub></small>
 And Joshua hearing the voice of the people crying out, says to Moses, \[It is a\] sound of war in the camp. 
-<small><sub>**KJV:**</sub></small>
-And when Joshua heard the noise of the people as they shouted, he said unto Moses, [There is] a noise of war in the camp.
-<small><sub>**BSB:**</sub></small>
-When Joshua heard the sound of the people shouting, he said to Moses, “The sound of war is in the camp.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.16|<< Exodus 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.18|Exodus 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

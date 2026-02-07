@@ -1,10 +1,10 @@
 (KJV) **Exodus 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27|<< Exodus 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29|Exodus 29 >>]]</td></tr></table>
 
-***Garments for the Priests*** ^bsb223
+<big><big>[[Exod.28.1 Garments for the Priests|⥃]]</big></big>***Garments for the Priests***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.28.1|1]]**<span class="endversemarker">]</span> And take<small><small>[^2]</small></small> thou unto thee Aaron thy brother, and his sons with him, from among<small><small>[^3]</small></small> the children of Israel, that he may minister unto me in the priest’s office, \[even\] Aaron, Nadab<small><small>[^4]</small></small> and Abihu, Eleazar and Ithamar, Aaron’s sons. <span class="startversemarker">[</span>**[[Exod.28.2|2]]**<span class="endversemarker">]</span> And thou shalt make holy garments<small><small>[^5]</small></small> for Aaron thy brother for glory<small><small>[^6]</small></small> and for beauty. <span class="startversemarker">[</span>**[[Exod.28.3|3]]**<span class="endversemarker">]</span> And thou shalt speak unto all \[that are\] wise hearted<small><small>[^7]</small></small>, whom I have filled<small><small>[^8]</small></small> with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office. <span class="startversemarker">[</span>**[[Exod.28.4|4]]**<span class="endversemarker">]</span> And these \[are\] the garments which they shall make; a breastplate<small><small>[^9]</small></small>, and an ephod<small><small>[^10]</small></small>, and a robe<small><small>[^11]</small></small>, and a broidered<small><small>[^12]</small></small> coat, a mitre<small><small>[^13]</small></small>, and a girdle<small><small>[^14]</small></small>: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office. <span class="startversemarker">[</span>**[[Exod.28.5|5]]**<span class="endversemarker">]</span> And they shall take gold<small><small>[^15]</small></small>, and blue, and purple, and scarlet, and fine linen.
 
-***The Ephod***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:1–7]] ]</sup></small> ^bsb224
+<big><big>[[Exod.28.6 The Ephod|⥃]]</big></big>***The Ephod***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:1–7]] ]</sup></small>
 
  
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.28.6|6]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.28.13|13]]**<span class="endversemarker">]</span> [¶]And thou shalt make ouches \[of\] gold; <span class="startversemarker">[</span>**[[Exod.28.14|14]]**<span class="endversemarker">]</span> And two chains \[of<small><small>[^27]</small></small>\] pure gold at the ends; \[of\] wreathen<small><small>[^28]</small></small> work shalt thou make them, and fasten the wreathen chains to the ouches.
 
-***The Breastpiece***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:8–21]] ]</sup></small> ^bsb225
+<big><big>[[Exod.28.15 The Breastpiece|⥃]]</big></big>***The Breastpiece***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:8–21]] ]</sup></small>
 
  
 
@@ -24,7 +24,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.28.26|26]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.28.30|30]]**<span class="endversemarker">]</span> [¶]And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the <span class="smallcaps">Lord</span>: and Aaron shall bear the judgment<small><small>[^58]</small></small> of the children of Israel upon his heart<small><small>[^59]</small></small> before the <span class="smallcaps">Lord</span> continually.<small><small>[^60]</small></small><small><small>[^61]</small></small><small><small>[^62]</small></small>
 
-***Additional Priestly Garments***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:22–31]] ]</sup></small> ^bsb226
+<big><big>[[Exod.28.31 Additional Priestly Garments|⥃]]</big></big>***Additional Priestly Garments***&emsp;<small><sup>\[ [[Exod.39|Exodus 39:22–31]] ]</sup></small>
 
  
 

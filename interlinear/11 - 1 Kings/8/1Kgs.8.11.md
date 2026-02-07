@@ -1,4 +1,4 @@
-**1 Kings 8:11** 
+**1 Kings 8:11**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the priests could not stand to minister because of the cloud: for the glory of the LORD had filled the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ so that the priests could not stand there to minister because of the cloud. For 
 > $\quad$ referenced by: [[Rev.15.8|Rev 15:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were able  |**<big>&#8207;[[H3201\|יָכְל֧וּ]]&#8207; </big>**| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

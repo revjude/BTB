@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:16** 
 <small><sub>**LXX:**</sub></small>
 But money for a trespass \[offering\], and money for a sin \[offering\] was not carried into the house of \[the\] <span class="smallcaps">lord</span>, for it was to the priests. 
-<small><sub>**KJV:**</sub></small>
-The trespass money and sin money was not brought into the house of the LORD: it was the priests’.
-<small><sub>**BSB:**</sub></small>
-The money from the guilt offerings and sin offerings was not brought into the house of the LORD; it belonged to the priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.15|<< 2 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.17|2 Kings 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

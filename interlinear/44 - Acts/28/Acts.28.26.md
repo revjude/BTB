@@ -1,5 +1,5 @@
-**Acts 28:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:26**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:
 <small><sub>**BSB:**</sub></small>
 ‘Go to this people and say, “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.”
@@ -10,7 +10,7 @@ he is saying: do go to <the> people this and do say; In hearing you will hear an
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is saying: [^1] |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | do go |**<big>[[G4198\|πορεύθητι]]</big>**  |poreuthēti <small><sup>[[V-AOM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

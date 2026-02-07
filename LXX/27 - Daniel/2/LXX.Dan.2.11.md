@@ -1,10 +1,7 @@
 **LXX Daniel 2:11** 
 <small><sub>**LXX:**</sub></small>
 For the word which the king asks \[is\] heavy, and there is no other who shall announce it before the king, except the gods, which are not  dwelling with any flesh. 
-<small><sub>**KJV:**</sub></small>
-And [it is] a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
-<small><sub>**BSB:**</sub></small>
-What the king requests is so difficult that no one can tell it to him except the gods, whose dwelling is not with mortals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.10|<< Daniel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.12|Daniel 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

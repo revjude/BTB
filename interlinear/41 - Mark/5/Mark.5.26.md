@@ -1,12 +1,12 @@
-**Mark 5:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:26**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,
 <small><sub>**BSB:**</sub></small>
 She had borne much agony under the care of many physicians and had spent all she had, but to no avail. Instead, her condition had only grown worse.
 <small><sub>**Literal:**</sub></small>
 and much having suffered under many physicians and having spent the of her all and in no way having benefited but rather to the worse having come,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.25|<< Mark 5:25]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.27|Mark 5:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | much |**<big>[[G4183\|πολλὰ]]</big>**  |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

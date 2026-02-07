@@ -1,4 +1,4 @@
-**Daniel 6:6** (6:7)
+**Daniel 6:6**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the administrators and satraps went together to the king and said, “O King 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.5|<< Daniel 6:5]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.7|Daniel 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱ֠דַיִן]]&#8207; </big>**| 'E.da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | overseers the  |**<big>&#8207;[[H5632\|סָרְכַיָּ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| sa.re.khai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

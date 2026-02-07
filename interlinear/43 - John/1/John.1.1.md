@@ -1,12 +1,12 @@
-**John 1:1
-**<small><sub>**KJV:**</sub></small>
+**John 1:1**<big><big>[[John.1.1 The Beginning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the beginning was the Word, and the Word was with God, and the Word was God.
 <small><sub>**BSB:**</sub></small>
 In the beginning was the Word, and the Word was with God, and the Word was God.
 <small><sub>**Literal:**</sub></small>
 In [the] beginning was the Word, and the Word was with <the> God, and God was the Word.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.53|<< Luke 24:53]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.2|John 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In [the] |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | beginning |**<big>[[G0746\|ἀρχῇ]]</big>**  |archēa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

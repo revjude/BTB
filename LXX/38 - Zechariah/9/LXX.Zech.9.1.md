@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] concern of \[the\] word of \[the\] <span class="smallcaps">lord</span> against \[the\] land of Hadrach, and his sacrifice of Damascus. For \[the\] <span class="smallcaps">lord</span> inspects men, and all the tribes  of Israel; 
-<small><sub>**KJV:**</sub></small>
-The burden of the word of the LORD in the land of Hadrach, and Damascus [shall be] the rest thereof: when the eyes of man, as of all the tribes of Israel, [shall be] toward the LORD.
-<small><sub>**BSB:**</sub></small>
-This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.23|<< Zechariah 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.2|Zechariah 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 4:9** 
+**Job 4:9**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the blast of God they perish, and by the breath of his nostrils are they consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the breath of God they perish, and by the blast of His anger they are consume
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.8|<< Job 4:8]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.10|Job 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] breath of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5397\|נִּשְׁמַ֣ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> nish.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0433\|אֱל֣וֹהַ]]&#8207; </big>**| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

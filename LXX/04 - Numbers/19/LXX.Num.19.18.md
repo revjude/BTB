@@ -1,10 +1,7 @@
 **LXX Numbers 19:18** 
 <small><sub>**LXX:**</sub></small>
 And a clean man shall take hyssop and shall dip \[it\] into the water, and sprinkle about upon the house, and upon the utensils, and upon the souls, as many as might be there, and upon the one touching the bone  of mankind, or of the slain, or of the one having died, or of the tomb. 
-<small><sub>**KJV:**</sub></small>
-And a clean person shall take hyssop, and dip [it] in the water, and sprinkle [it] upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:
-<small><sub>**BSB:**</sub></small>
-Then a man who is ceremonially clean is to take some hyssop, dip it in the water, and sprinkle the tent, all the furnishings, and the people who were there. He is also to sprinkle the one who touched a bone, a grave, or a person who has died or been slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.17|<< Numbers 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.19|Numbers 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

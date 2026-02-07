@@ -1,5 +1,5 @@
-**Revelation 19:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:2**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
 <small><sub>**BSB:**</sub></small>
 For His judgments are true and just. He has judged the great prostitute who corrupted the earth with her immorality. He has avenged the blood of His servants that was poured out by her hand.”
@@ -10,7 +10,7 @@ For true and righteous [are] the judgments of Him, because He has judged the pro
 > $\quad$ alluding to: [[LXX.Deut.32.4|Deut 32:4]] ☩ [[LXX.Deut.32.43|Deut 32:43]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | true |**<big>[[G0228\|ἀληθιναὶ]]</big>**  |alēthinai <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

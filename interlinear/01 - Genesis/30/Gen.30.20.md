@@ -1,4 +1,4 @@
-**Genesis 30:20** 
+**Genesis 30:20**<big><big>[[Gen.30.17 Issachar, Zebulun, and Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Leah said, God hath endued me [with] a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Leah said, God hath endued me [with] a good dowry; now will my husband dwell
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.19|<< Genesis 30:19]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.21|Genesis 30:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Leah  |**<big>&#8207;[[H3812\|לֵאָ֗ה]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Go forth, ascend from here, you and  your people! whom you led from out of \[the\] land of Egypt, into the land which I swore by an oath \[to\] Abraham, and \[to\] Isaac, and \[to\] Jacob, saying, To your seed I will give it. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Depart, [and] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Leave this place, you and the people you brought up out of the land of Egypt, and go to the land that I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.35|<< Exodus 32:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.2|Exodus 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

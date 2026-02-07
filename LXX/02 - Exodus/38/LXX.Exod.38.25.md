@@ -1,10 +1,7 @@
 **LXX Exodus 38:25** 
 <small><sub>**LXX:**</sub></small>
 And of \[the\] silver and \[the\] choice-portion \[offering\] from the men being numbered of the congregation -- a hundred talents, and a thousand seven hundred seventy five shekels, one drachma  \[per\] head, the half  shekel, according to the holy shekel, 
-<small><sub>**KJV:**</sub></small>
-And the silver of them that were numbered of the congregation [was] an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
-<small><sub>**BSB:**</sub></small>
-The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.24|<< Exodus 38:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.26|Exodus 38:26 >>]]</td></tr></table>
 
 | Translation | Greek |

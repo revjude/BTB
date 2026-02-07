@@ -1,12 +1,12 @@
-**2 Corinthians 10:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:3**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though we walk in the flesh, we do not war after the flesh:
 <small><sub>**BSB:**</sub></small>
 For though we live in the flesh, we do not wage war according to the flesh.
 <small><sub>**Literal:**</sub></small>
 In flesh for walking not according to flesh do we wage war,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.2|<< 2 Corinthians 10:2]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.4|2 Corinthians 10:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | flesh |**<big>[[G4561\|σαρκὶ]]</big>**  |sarki <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

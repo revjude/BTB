@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:25** 
 <small><sub>**LXX:**</sub></small>
 And a carving \[was\] upon them, and upon the doorways of the temple -- cherubim and palms according to the carving of the holy places; and \[there were\] seasoned timbers in front of the columned porch outside. 
-<small><sub>**KJV:**</sub></small>
-And [there were] made on them, on the doors of the temple, cherubims and palm trees, like as [were] made upon the walls; and [there were] thick planks upon the face of the porch without.
-<small><sub>**BSB:**</sub></small>
-Cherubim and palm trees like those on the walls were carved on the doors of the outer sanctuary, and there was a wooden canopy outside, on the front of the portico.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.24|<< Ezekiel 41:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.26|Ezekiel 41:26 >>]]</td></tr></table>
 
 | Translation | Greek |

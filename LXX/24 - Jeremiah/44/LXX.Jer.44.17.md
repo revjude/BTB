@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:17** 
 <small><sub>**LXX:**</sub></small>
 For in doing we will do all the matter which shall come forth out of  our mouth to burn incense to the queen  of heaven, and to offer to her libations, as we did ourselves, and  our fathers, and  our kings, and  our rulers in \[the\] cities of Judah, and outside Jerusalem. And we were filled of bread loaves, and we were better \[off\], and we did not see bad \[things\]. 
-<small><sub>**KJV:**</sub></small>
-But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for [then] had we plenty of victuals, and were well, and saw no evil.
-<small><sub>**BSB:**</sub></small>
-Instead, we will do everything we vowed to do: We will burn incense to the Queen of Heaven and offer drink offerings to her, just as we, our fathers, our kings, and our officials did in the cities of Judah and in the streets of Jerusalem. At that time we had plenty of food and good things, and we saw no disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.16|<< Jeremiah 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.18|Jeremiah 44:18 >>]]</td></tr></table>
 
 | Translation | Greek |

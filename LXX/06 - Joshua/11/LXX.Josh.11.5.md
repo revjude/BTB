@@ -1,10 +1,7 @@
 **LXX Joshua 11:5** 
 <small><sub>**LXX:**</sub></small>
 And all these kings united, and came and camped together by the water of Merom to wage war \[against\] Israel. 
-<small><sub>**KJV:**</sub></small>
-And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.
-<small><sub>**BSB:**</sub></small>
-All these kings joined forces and encamped at the waters of Merom to fight against Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.4|<< Joshua 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.6|Joshua 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

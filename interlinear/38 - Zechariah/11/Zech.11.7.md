@@ -1,4 +1,4 @@
-**Zechariah 11:7** 
+**Zechariah 11:7**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will feed the flock of slaughter, [even] you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So I pastured the flock marked for slaughter, especially the afflicted of the fl
 > $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Ezek.34.8|Ezek 34:8-10]] ☩ [[Luke.11.49|Luke 11:49-50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I shepherded  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7462B\|אֶרְעֶה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

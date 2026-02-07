@@ -1,4 +1,4 @@
-**Genesis 42:13** 
+**Genesis 42:13**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Thy servants [are] twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest [is] this day with our father, and one [is] not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But they answered, “Your servants are twelve brothers, the sons of one man in 
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] two [plus]  |**<big>&#8207;[[H8147\|שְׁנֵ֣ים]]&#8207; </big>**| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

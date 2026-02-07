@@ -1,10 +1,7 @@
 **LXX Isaiah 59:17** 
 <small><sub>**LXX:**</sub></small>
 And he clothed himself \[with\] righteousness as a chest \[plate\]; and he put a helmet of deliverance upon \[his\] head. and he put around himself a cloak of vengeance -- even  a wrap-around garment, 
-<small><sub>**KJV:**</sub></small>
-For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance [for] clothing, and was clad with zeal as a cloke.
-<small><sub>**BSB:**</sub></small>
-He put on righteousness like a breastplate, and the helmet of salvation on His head; He put on garments of vengeance and wrapped Himself in a cloak of zeal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.16|<< Isaiah 59:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.18|Isaiah 59:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 59:17** is...

@@ -1,4 +1,4 @@
-**Nehemiah 3:1** 
+**Nehemiah 3:1**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the Sheep Gate, Eliashib the high priest and his fellow priests began rebuild
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.20|<< Nehemiah 2:20]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.2|Nehemiah 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֡קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eliashib  |**<big>&#8207;[[H0475M\|אֶלְיָשִׁיב֩]]&#8207; </big>**| 'el.ya.Shiv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

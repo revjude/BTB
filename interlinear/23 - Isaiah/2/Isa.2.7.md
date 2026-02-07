@@ -1,4 +1,4 @@
-**Isaiah 2:7** 
+**Isaiah 2:7**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their land also is full of silver and gold, neither [is there any] end of their treasures; their land is also full of horses, neither [is there any] end of their chariots:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their land is full of silver and gold, with no limit to their treasures; their l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.6|<< Isaiah 2:6]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.8|Isaiah 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has been filled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4390\|תִּמָּלֵ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ma.Le'<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | land its  |**<big>&#8207;[[H0776G\|אַרְצ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| 'ar.Tz<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

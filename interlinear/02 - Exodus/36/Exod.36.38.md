@@ -1,4 +1,4 @@
-**Exodus 36:38** 
+**Exodus 36:38**<big><big>[[Exod.36.37 The Curtain for the Entrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets [were of] brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ together with five posts and their hooks. He overlaid the tops of the posts and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.37|<< Exodus 36:37]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.1|Exodus 37:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pillars its  |**<big>&#8207;[[H5982G\|עַמּוּדָ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.mu.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

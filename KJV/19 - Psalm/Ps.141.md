@@ -1,6 +1,6 @@
 (KJV) **Psalm 141**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140|<< Psalm 140]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142|Psalm 142 >>]]</td></tr></table>
 
-***Come Quickly to Me***&emsp;<small><sup>\[ [[Ps.70|Psalms 70:1–5]] ]</sup></small> ^bsb1434
+<big><big>[[Ps.141.1 Come Quickly to Me|⥃]]</big></big>***Come Quickly to Me***&emsp;<small><sup>\[ [[Ps.70|Psalms 70:1–5]] ]</sup></small>
 
 
 

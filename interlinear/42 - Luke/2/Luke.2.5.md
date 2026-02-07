@@ -1,12 +1,12 @@
-**Luke 2:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:5**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To be taxed with Mary his espoused wife, being great with child.
 <small><sub>**BSB:**</sub></small>
 He went there to register with Mary, who was pledged to him in marriage and was expecting a child.
 <small><sub>**Literal:**</sub></small>
 to register with Mary who [was] betrothed to him wife she being with child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.4|<< Luke 2:4]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.6|Luke 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to register |**<big>[[G0583\|ἀπογράψασθαι]]</big>**  |apograpsasthai <small><sup>[[V-AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with |**<big>[[G4862\|σὺν]]</big>**  |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

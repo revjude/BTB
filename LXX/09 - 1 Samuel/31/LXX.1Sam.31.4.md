@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:4** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to the one carrying  his weapons, Unsheathe  your broadsword, and pierce me with it! lest these uncircumcised should come and should pierce me, and should mock against me. But the one carrying his weapons did not want to, for he feared exceedingly. And Saul took  his broadsword, and fell upon it. 
-<small><sub>**KJV:**</sub></small>
-Then said Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.
-<small><sub>**BSB:**</sub></small>
-Then Saul said to his armor-bearer, “Draw your sword and run me through with it, or these uncircumcised men will come and run me through and torture me!” But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.3|<< 1 Samuel 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.5|1 Samuel 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

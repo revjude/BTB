@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:9** 
 <small><sub>**LXX:**</sub></small>
 giving \[the thing\] vowed for to the one vowing. And he blessed \[the\] years of \[the\] just; for not by strength \[is\] man able. 
-<small><sub>**KJV:**</sub></small>
-He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.
-<small><sub>**BSB:**</sub></small>
-He guards the steps of His faithful ones, but the wicked perish in darkness; for by his own strength shall no man prevail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.8|<< 1 Samuel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.10|1 Samuel 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zephaniah 2:14** 
+**Zephaniah 2:14**<big><big>[[Zeph.2.12 Judgment on Cush and Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; [their] voice shall sing in the windows; desolation [shall be] in the thresholds: for he shall uncover the cedar work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Herds will lie down in her midst, creatures of every kind. Both the desert owl a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.13|<< Zephaniah 2:13]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.15|Zephaniah 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will lie down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7257\|רָבְצ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.ve.Tzu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] midst of it  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8432\|תוֹכָ֤]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

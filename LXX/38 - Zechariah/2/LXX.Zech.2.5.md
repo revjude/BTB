@@ -1,10 +1,7 @@
 **LXX Zechariah 2:5** 
 <small><sub>**LXX:**</sub></small>
 And I will be to her, says \[the\] <span class="smallcaps">lord</span>, a wall of fire round about, and I will be for glory in \[the\] midst of her. 
-<small><sub>**KJV:**</sub></small>
-For I, saith the LORD, will be unto her a wall of fire round about, and will be the glory in the midst of her.
-<small><sub>**BSB:**</sub></small>
-For I will be a wall of fire around it, declares the LORD, and I will be the glory within it.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.4|<< Zechariah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.6|Zechariah 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

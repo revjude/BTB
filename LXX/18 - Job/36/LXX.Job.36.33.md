@@ -1,10 +1,7 @@
 **LXX Job 36:33** 
 <small><sub>**LXX:**</sub></small>
 He will announce his friend concerning him -- \[for\] possession and for injustice. 
-<small><sub>**KJV:**</sub></small>
-The noise thereof sheweth concerning it, the cattle also concerning the vapour.
-<small><sub>**BSB:**</sub></small>
-The thunder declares His presence; even the cattle regard the rising storm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.32|<< Job 36:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.1|Job 37:1 >>]]</td></tr></table>
 
 | Translation | Greek |

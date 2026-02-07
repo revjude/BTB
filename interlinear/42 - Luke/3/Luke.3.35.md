@@ -1,12 +1,12 @@
-**Luke 3:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:35**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which was [the son] of Saruch, which was [the son] of Ragau, which was [the son] of Phalec, which was [the son] of Heber, which was [the son] of Sala,
 <small><sub>**BSB:**</sub></small>
 the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
 <small><sub>**Literal:**</sub></small>
 <the> of Serug <the> of Reu <the> of Peleg <the> of Heber <the> of Shelah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.34|<< Luke 3:34]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.36|Luke 3:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Serug |**<big>[[G4562\|Σεροὺχ]]</big>**  [^1] |Serouch <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

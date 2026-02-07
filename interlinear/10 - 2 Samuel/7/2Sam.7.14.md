@@ -1,4 +1,4 @@
-**2 Samuel 7:14** 
+**2 Samuel 7:14**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will be his Father, and he will be My son. When he does wrong, I will discipli
 > $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]] ☩ [[Heb.1.5|Heb 1:5]] ☩ [[Rev.21.7|Rev 21:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will become  |**<big>&#8207;[[H1961\|אֶהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'eh.yeh-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

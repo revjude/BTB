@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:19** 
 <small><sub>**LXX:**</sub></small>
 And all the kings the servants of Hadarezer beheld that they failed in front of Israel. And they deserted after Israel, and they served them. And Syria feared  to yet again deliver the sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And when all the kings [that were] servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.
-<small><sub>**BSB:**</sub></small>
-When all the kings who were subject to Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them. So the Arameans were afraid to help the Ammonites anymore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.18|<< 2 Samuel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.1|2 Samuel 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

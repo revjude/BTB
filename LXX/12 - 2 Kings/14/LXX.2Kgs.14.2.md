@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:2** 
 <small><sub>**LXX:**</sub></small>
 He was a son \[being\] twenty and five years \[old\] in  his reigning. And twenty and nine years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Jehoaddan of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother’s name [was] Jehoaddan of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.1|<< 2 Kings 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.3|2 Kings 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 Timothy 2:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:13**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Adam was first formed, then Eve.
 <small><sub>**BSB:**</sub></small>
 For Adam was formed first, and then Eve.
@@ -11,7 +11,7 @@ Adam for first was formed, then Eve.<br><table width="100%" border="0"><tr><td s
 > $\quad$ alluding to: [[LXX.Gen.2.7|Gen 2:7]] ☩ [[LXX.Gen.2.21|Gen 2:21-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Adam |**<big>[[G0076\|Ἀδὰμ]]</big>**  |Adam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

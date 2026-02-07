@@ -1,4 +1,4 @@
-**1 Chronicles 22:3** 
+**1 Chronicles 22:3**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David provided a large quantity of iron to make the nails for the doors of the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.2|<< 1 Chronicles 22:2]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.4|1 Chronicles 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and iron  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1270\|בַרְזֶ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to abundance  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H7230\|רֹב]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ro<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

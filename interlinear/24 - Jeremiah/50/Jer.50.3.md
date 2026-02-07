@@ -1,4 +1,4 @@
-**Jeremiah 50:3** 
+**Jeremiah 50:3**<big><big>[[Jer.50.1 A Prophecy against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a nation from the north will come against her; it will make her land a desol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.2|<< Jeremiah 50:2]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.4|Jeremiah 50:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go up  |**<big>&#8207;[[H5927G\|עָלָה֩]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

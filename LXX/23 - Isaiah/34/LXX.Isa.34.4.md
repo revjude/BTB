@@ -1,10 +1,7 @@
 **LXX Isaiah 34:4** 
 <small><sub>**LXX:**</sub></small>
 And all the powers of the heavens shall melt away. And the heaven shall coil up as a scroll, and all the stars shall fall as leaves \[fall\] from a grapevine, and as leaves fall from a fig-tree. 
-<small><sub>**KJV:**</sub></small>
-And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling [fig] from the fig tree.
-<small><sub>**BSB:**</sub></small>
-All the stars of heaven will be dissolved. The skies will be rolled up like a scroll, and all their stars will fall like withered leaves from the vine, like foliage from the fig tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 34:4** is...

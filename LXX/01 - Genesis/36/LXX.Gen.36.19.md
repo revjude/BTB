@@ -1,10 +1,7 @@
 **LXX Genesis 36:19** 
 <small><sub>**LXX:**</sub></small>
 These \[were\] \[the\] sons of Esau. And these \[were\] their princes. These are sons of Edom. 
-<small><sub>**KJV:**</sub></small>
-These [are] the sons of Esau, who [is] Edom, and these [are] their dukes.
-<small><sub>**BSB:**</sub></small>
-All these are the sons of Esau (that is, Edom), and they were their chiefs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.18|<< Genesis 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.20|Genesis 36:20 >>]]</td></tr></table>
 
 | Translation | Greek |

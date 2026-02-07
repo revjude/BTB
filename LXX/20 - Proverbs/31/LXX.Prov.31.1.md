@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  My words have been spoken by God; \[the\] divine answer by a king, whom his mother instructed. 
-<small><sub>**KJV:**</sub></small>
-The words of king Lemuel, the prophecy that his mother taught him.
-<small><sub>**BSB:**</sub></small>
-These are the words of King Lemuel—the burden that his mother taught him:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.33|<< Proverbs 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.2|Proverbs 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

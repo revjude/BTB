@@ -1,12 +1,12 @@
-**1 Timothy 5:5
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:5**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.
 <small><sub>**BSB:**</sub></small>
 The widow who is truly in need and left all alone puts her hope in God and continues night and day in her petitions and prayers.
 <small><sub>**Literal:**</sub></small>
 She who [is] now indeed a widow and abandoned she has hope in <the> God and she continues <the> in supplications and <the> in prayers by night and day;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.4|<< 1 Timothy 5:4]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.6|1 Timothy 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She who [is] |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

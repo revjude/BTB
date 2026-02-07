@@ -1,4 +1,4 @@
-**2 Samuel 8:8** 
+**2 Samuel 8:8**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from Betah and Berothai, cities of Hadadezer, King David took a large amount
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.7|<< 2 Samuel 8:7]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.9|2 Samuel 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from Betah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0984\|בֶּ֥טַח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Be.tach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and from Berothai  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1268B\|בֵּֽרֹתַ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> be.ro.Tai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

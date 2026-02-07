@@ -1,10 +1,7 @@
 **LXX Genesis 27:31** 
 <small><sub>**LXX:**</sub></small>
 And he made also himself food, and brought it near  his father. And he said to the father, Rise up  my father, and eat from the game  of his son! that your soul may bless me. 
-<small><sub>**KJV:**</sub></small>
-And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me.
-<small><sub>**BSB:**</sub></small>
-He too made some tasty food, brought it to his father, and said to him, “My father, sit up and eat of your son’s game, so that you may bless me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.30|<< Genesis 27:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.32|Genesis 27:32 >>]]</td></tr></table>
 
 | Translation | Greek |

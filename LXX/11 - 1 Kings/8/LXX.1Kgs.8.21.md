@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:21** 
 <small><sub>**LXX:**</sub></small>
 And I established there a place for the ark, in which is there \[the\] covenant of \[the\] <span class="smallcaps">lord</span>, which \[the\] <span class="smallcaps">lord</span> ordained with  our fathers, in  his leading them from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And I have set there a place for the ark, wherein [is] the covenant of the LORD, which he made with our fathers, when he brought them out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-And there I have provided a place for the ark, which contains the covenant of the LORD that He made with our fathers when He brought them out of the land of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.20|<< 1 Kings 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.22|1 Kings 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

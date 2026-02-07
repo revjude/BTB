@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there was a multitude of cattle to the sons of Reuben, and to the sons of Gad, an exceedingly great multitude. And they saw the place of Jazer, and the place of Gilead; and the place was a place of cattle. 
-<small><sub>**KJV:**</sub></small>
-Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place [was] a place for cattle;
-<small><sub>**BSB:**</sub></small>
-Now the Reubenites and Gadites, who had very large herds and flocks, surveyed the lands of Jazer and Gilead, and they saw that the region was suitable for livestock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.54|<< Numbers 31:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.2|Numbers 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

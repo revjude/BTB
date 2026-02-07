@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:15** 
 <small><sub>**LXX:**</sub></small>
 Why did he flee after  your chosen calf? He remained not, for \[the\] <span class="smallcaps">lord</span> disabled him. 
-<small><sub>**KJV:**</sub></small>
-Why are thy valiant [men] swept away? they stood not, because the LORD did drive them.
-<small><sub>**BSB:**</sub></small>
-Why have your warriors been laid low? They cannot stand, for the LORD has thrust them down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.14|<< Jeremiah 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.16|Jeremiah 46:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:17** 
 <small><sub>**LXX:**</sub></small>
 For I will lead up  your cure, I will treat you from a grievous wound; says \[the\] <span class="smallcaps">lord</span>, for you are called Her Having Been Sown; Zion, for there is no seeking her. 
-<small><sub>**KJV:**</sub></small>
-For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, [saying], This [is] Zion, whom no man seeketh after.
-<small><sub>**BSB:**</sub></small>
-But I will restore your health and heal your wounds, declares the LORD, because they call you an outcast, Zion, for whom no one cares.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

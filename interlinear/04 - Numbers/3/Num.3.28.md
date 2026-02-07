@@ -1,4 +1,4 @@
-**Numbers 3:28** 
+**Numbers 3:28**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the number of all the males, from a month old and upward, [were] eight thousand and six hundred, keeping the charge of the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The number of all the males a month old or more was 8,600. They were responsible
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.27|<< Numbers 3:27]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.29|Numbers 3:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] number of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4557\|מִסְפַּר֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

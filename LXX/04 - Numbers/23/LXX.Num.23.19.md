@@ -1,10 +1,7 @@
 **LXX Numbers 23:19** 
 <small><sub>**LXX:**</sub></small>
 God is not as a man to waver, nor as a son of man to be threatened. He in speaking, shall he not do? Shall he speak, and not adhere to? 
-<small><sub>**KJV:**</sub></small>
-God [is] not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do [it]? or hath he spoken, and shall he not make it good?
-<small><sub>**BSB:**</sub></small>
-God is not a man, that He should lie, or a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfill?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.18|<< Numbers 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.20|Numbers 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

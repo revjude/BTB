@@ -1,4 +1,4 @@
-**2 Chronicles 22:6** 
+**2 Chronicles 22:6**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he returned to Jezreel to recover from the wounds they had inflicted on him a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֜שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to get himself healed  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7495\|הִתְרַפֵּ֣א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hit.ra.Pe'<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 35:8** 
 <small><sub>**LXX:**</sub></small>
 And Deborah the nurse of Rebekah died, and they entombed \[her\] below Beth-el, under the acorn tree, and Jacob called the name of it, Acorn tree of Mourning. 
-<small><sub>**KJV:**</sub></small>
-But Deborah Rebekah’s nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.
-<small><sub>**BSB:**</sub></small>
-Now Deborah, Rebekah’s nurse, died and was buried under the oak below Bethel. So Jacob named it Allon-bacuth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.7|<< Genesis 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.9|Genesis 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

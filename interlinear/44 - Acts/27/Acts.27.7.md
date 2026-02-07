@@ -1,12 +1,12 @@
-**Acts 27:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:7**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;
 <small><sub>**BSB:**</sub></small>
 After sailing slowly for many days, we arrived off Cnidus. When the wind impeded us, we sailed to the lee of Crete, opposite Salmone.
 <small><sub>**Literal:**</sub></small>
 For many now days sailing slowly and with difficulty having arrived off <the> Cnidus not is permitting us the wind we sailed under <the> Crete off Salmone,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.6|<< Acts 27:6]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.8|Acts 27:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | many |**<big>[[G2425\|ἱκαναῖς]]</big>**  |hikanais <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

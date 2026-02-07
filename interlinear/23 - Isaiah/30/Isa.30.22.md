@@ -1,4 +1,4 @@
-**Isaiah 30:22** 
+**Isaiah 30:22**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you will desecrate your silver-plated idols and your gold-plated images. You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make unclean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2930A\|טִמֵּאתֶ֗ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ti.me.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

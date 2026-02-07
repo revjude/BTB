@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:15** 
 <small><sub>**LXX:**</sub></small>
 And the king did not hearken to the people. For he was converted from  God, that \[the\] <span class="smallcaps">lord</span> should establish  his word, which he spoke by \[the\] hand of Ahijah the Shilonite concerning Jeroboam son of Nebat. 
-<small><sub>**KJV:**</sub></small>
-So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
-<small><sub>**BSB:**</sub></small>
-So the king did not listen to the people, and indeed this turn of events was from God, in order that the LORD might fulfill the word that He had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.14|<< 2 Chronicles 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.16|2 Chronicles 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

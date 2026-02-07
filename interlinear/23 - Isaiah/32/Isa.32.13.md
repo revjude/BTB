@@ -1,4 +1,4 @@
-**Isaiah 32:13** 
+**Isaiah 32:13**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon the land of my people shall come up thorns [and] briers; yea, upon all the houses of joy [in] the joyous city:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and for the land of my people, overgrown with thorns and briers—even for every
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.12|<< Isaiah 32:12]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.14|Isaiah 32:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0127G\|אַדְמַ֣ת]]&#8207; </big>**| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

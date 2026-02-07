@@ -1,4 +1,4 @@
-**2 Chronicles 15:4** 
+**2 Chronicles 15:4**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But in their distress they turned to the LORD, the God of Israel, and sought Him
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.3|<< 2 Chronicles 15:3]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.5|2 Chronicles 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725I\|יָּ֙שָׁב֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when \<the> it was distress  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6862B\|צַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tzar-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

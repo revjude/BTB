@@ -1,4 +1,4 @@
-**Psalms 144:13** 
+**Psalms 144:13**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] our garners [may be] full, affording all manner of store: [that] our sheep may bring forth thousands and ten thousands in our streets:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our storehouses will be full, supplying all manner of produce; our flocks will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.12|<< Psalms 144:12]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.14|Psalms 144:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | granaries our  |**<big>&#8207;[[H4200\|מְזָוֵ֣י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| me.za.Vei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] full  |**<big>&#8207;[[H4392\|מְלֵאִים֮]]&#8207; </big>**| me.le.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

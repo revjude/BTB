@@ -1,4 +1,4 @@
-**1 Samuel 25:15** 
+**1 Samuel 25:15**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men [were] very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet these men were very good to us. When we were in the field, we were not haras
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.14|<< 1 Samuel 25:14]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.16|1 Samuel 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] good  |**<big>&#8207;[[H2896A\|טֹבִ֥ים]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

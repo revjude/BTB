@@ -1,10 +1,7 @@
 **LXX Ezra 2:42** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of the gatekeepers -- sons of Shallum, sons of Ater, sons of Telmon, sons of Akkub, sons of Hatita, sons of Shobai,  in all -- a hundred thirty-nine. 
-<small><sub>**KJV:**</sub></small>
-The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, [in] all an hundred thirty and nine.
-<small><sub>**BSB:**</sub></small>
-The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.41|<< Ezra 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.43|Ezra 2:43 >>]]</td></tr></table>
 
 | Translation | Greek |

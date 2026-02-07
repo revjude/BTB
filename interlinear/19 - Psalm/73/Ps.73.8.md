@@ -1,4 +1,4 @@
-**Psalms 73:8** 
+**Psalms 73:8**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are corrupt, and speak wickedly [concerning] oppression: they speak loftily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They mock and speak with malice; with arrogance they threaten oppression.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.7|<< Psalms 73:7]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.9|Psalms 73:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they mock  |**<big>&#8207;[[H4167\|יָמִ֤יקוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Mi.ku<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may speak  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1696G\|ידַבְּר֣וּ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> da.be.Ru<small><sup>[[HVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

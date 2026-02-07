@@ -1,10 +1,7 @@
 **LXX Isaiah 66:13** 
 <small><sub>**LXX:**</sub></small>
 As if any mother shall comfort, so also I shall comfort you; and in Jerusalem you shall be comforted. 
-<small><sub>**KJV:**</sub></small>
-As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-As a mother comforts her son, so will I comfort you, and you will be consoled over Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.12|<< Isaiah 66:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.14|Isaiah 66:14 >>]]</td></tr></table>
 
 | Translation | Greek |

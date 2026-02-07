@@ -1,12 +1,12 @@
-**John 4:22
-**<small><sub>**KJV:**</sub></small>
+**John 4:22**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye worship ye know not what: we know what we worship: for salvation is of the Jews.
 <small><sub>**BSB:**</sub></small>
 You worship what you do not know; we worship what we do know, for salvation is from the Jews.
 <small><sub>**Literal:**</sub></small>
 You yourselves worship what not you know, we ourselves worship what we know, for <the> salvation of the Jews is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.21|<< John 4:21]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.23|John 4:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | worship |**<big>[[G4352\|προσκυνεῖτε]]</big>**  |proskuneite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

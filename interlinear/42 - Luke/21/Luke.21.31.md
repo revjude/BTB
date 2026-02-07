@@ -1,12 +1,12 @@
-**Luke 21:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:31**<big><big>[[Luke.21.29 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.
 <small><sub>**BSB:**</sub></small>
 So also, when you see these things happening, know that the kingdom of God is near.
 <small><sub>**Literal:**</sub></small>
 So also you yourselves when you may see these things coming to pass, do know that near is the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.30|<< Luke 21:30]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.32|Luke 21:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

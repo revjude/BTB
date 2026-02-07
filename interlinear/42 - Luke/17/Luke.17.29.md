@@ -1,5 +1,5 @@
-**Luke 17:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:29**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed [them] all.
 <small><sub>**BSB:**</sub></small>
 But on the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.
@@ -10,7 +10,7 @@ in that then day went out Lot from Sodom, it rained fire and brimstone from heav
 > $\quad$ alluding to: [[LXX.Gen.19.16|Gen 19:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in that |**<big>[[G3739\|ᾗ]]</big>**  |hē <small><sup>[[R-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 28:4** 
+**Exodus 28:4**<big><big>[[Exod.28.1 Garments for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the garments that they shall make: a breastpiece, an ephod, a robe, a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.3|<< Exodus 28:3]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.5|Exodus 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the garments  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0899B\|בְּגָדִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

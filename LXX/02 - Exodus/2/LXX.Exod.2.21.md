@@ -1,10 +1,7 @@
 **LXX Exodus 2:21** 
 <small><sub>**LXX:**</sub></small>
 And Moses settled by the man. And he handed over Zipporah  his daughter to Moses as wife. 
-<small><sub>**KJV:**</sub></small>
-And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.
-<small><sub>**BSB:**</sub></small>
-Moses agreed to stay with the man, and he gave his daughter Zipporah to Moses in marriage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.20|<< Exodus 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.22|Exodus 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

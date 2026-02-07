@@ -1,4 +1,4 @@
-**Jeremiah 9:15** (9:14)
+**Jeremiah 9:15**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed them, [even] this people, with wormwood, and give them water of gall to drink.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore this is what the LORD of Hosts, the God of Israel, says: “Behold, I 
 > $\quad$ referenced by: [[Rev.8.11|Rev 8:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

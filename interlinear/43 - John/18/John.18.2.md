@@ -1,12 +1,12 @@
-**John 18:2
-**<small><sub>**KJV:**</sub></small>
+**John 18:2**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
 <small><sub>**BSB:**</sub></small>
 Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples.
 <small><sub>**Literal:**</sub></small>
 Knew now also Judas who is delivering up Him the place, because often gathered together <the> Jesus there with the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.1|<< John 18:1]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.3|John 18:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Knew |**<big>[[G1492I\|ἤιδει]]</big>**  [^1] |ēidei <small><sup>[[V-2LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

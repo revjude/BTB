@@ -1,10 +1,7 @@
 **LXX Exodus 21:32** 
 <small><sub>**LXX:**</sub></small>
 And if the bull should have gored a manservant or a maidservant, he shall give thirty double-drachmas of silver to their owner, and the bull shall be stoned. 
-<small><sub>**KJV:**</sub></small>
-If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.
-<small><sub>**BSB:**</sub></small>
-If the ox gores a manservant or maidservant, the owner must pay thirty shekels of silver to the master of that servant, and the ox must be stoned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.31|<< Exodus 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.33|Exodus 21:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 7:20** 
 <small><sub>**LXX:**</sub></small>
 taking a bundle of silver in his hands; for \[only after\] many days will he come back again to  his house. 
-<small><sub>**KJV:**</sub></small>
-He hath taken a bag of money with him, [and] will come home at the day appointed.
-<small><sub>**BSB:**</sub></small>
-He took with him a bag of money and will not return till the moon is full.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.19|<< Proverbs 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.21|Proverbs 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

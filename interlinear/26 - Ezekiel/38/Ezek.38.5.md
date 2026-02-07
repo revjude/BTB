@@ -1,4 +1,4 @@
-**Ezekiel 38:5** 
+**Ezekiel 38:5**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Persia, Ethiopia, and Libya with them; all of them with shield and helmet:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Persia, Cush, and Put will accompany them, all with shields and helmets,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.4|<< Ezekiel 38:4]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.6|Ezekiel 38:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Persia  |**<big>&#8207;[[H6539\|פָּרַ֛ס]]&#8207; </big>**| pa.Ras<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cush  |**<big>&#8207;[[H3568A\|כּ֥וּשׁ]]&#8207; </big>**| kush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

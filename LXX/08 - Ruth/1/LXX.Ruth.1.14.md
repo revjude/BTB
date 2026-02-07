@@ -1,10 +1,7 @@
 **LXX Ruth 1:14** 
 <small><sub>**LXX:**</sub></small>
 And they lifted up  their voice and wept again. And Orpah kissed  her mother-in-law, and turned back to  her people. But Ruth followed her. 
-<small><sub>**KJV:**</sub></small>
-And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.
-<small><sub>**BSB:**</sub></small>
-Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.13|<< Ruth 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.15|Ruth 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

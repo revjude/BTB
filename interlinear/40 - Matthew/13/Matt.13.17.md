@@ -1,12 +1,12 @@
-**Matthew 13:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:17**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For verily I say unto you, That many prophets and righteous [men] have desired to see [those things] which ye see, and have not seen [them]; and to hear [those things] which ye hear, and have not heard [them].
 <small><sub>**BSB:**</sub></small>
 For truly I tell you, many prophets and righteous men longed to see what you see but did not see it, and to hear what you hear but did not hear it.
 <small><sub>**Literal:**</sub></small>
 Amen for I say to you that many prophets and righteous [men] longed to see what you see, and not saw, and to hear what you hear, and not heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.16|<< Matthew 13:16]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.18|Matthew 13:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

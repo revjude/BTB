@@ -1,10 +1,7 @@
 **LXX Psalm 49:3** 
 <small><sub>**LXX:**</sub></small>
  My mouth speaks wisdom, and the meditation  of my heart understanding. 
-<small><sub>**KJV:**</sub></small>
-My mouth shall speak of wisdom; and the meditation of my heart [shall be] of understanding.
-<small><sub>**BSB:**</sub></small>
-My mouth will impart wisdom, and the meditation of my heart will bring understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.2|<< Psalm 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.4|Psalm 49:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 16:14** 
+**Job 16:14**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He breaketh me with breach upon breach, he runneth upon me like a giant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He breaks me with wound upon wound; He rushes me like a mighty warrior.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.13|<< Job 16:13]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.15|Job 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he breaks through me  |**<big>&#8207;[[H6555\|יִפְרְצֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yif.re.Tze.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a breach  |**<big>&#8207;[[H6556\|פֶ֭רֶץ]]&#8207; </big>**| Fe.retz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

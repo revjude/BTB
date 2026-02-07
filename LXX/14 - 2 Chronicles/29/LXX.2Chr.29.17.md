@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:17** 
 <small><sub>**LXX:**</sub></small>
 And they began on \[day\] one of the first month  to sanctify, and on the eighth day of the month they entered into the temple of \[the\] <span class="smallcaps">lord</span>; and they sanctified the house of \[the\] <span class="smallcaps">lord</span> in eight days, and on the sixteenth day of the first month they completed. 
-<small><sub>**KJV:**</sub></small>
-Now they began on the first [day] of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end.
-<small><sub>**BSB:**</sub></small>
-They began the consecration on the first day of the first month, and on the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the house of the LORD itself, finishing on the sixteenth day of the first month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.16|<< 2 Chronicles 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.18|2 Chronicles 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

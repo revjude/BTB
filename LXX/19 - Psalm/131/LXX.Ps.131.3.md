@@ -1,10 +1,7 @@
 **LXX Psalm 131:3** 
 <small><sub>**LXX:**</sub></small>
 Israel hope upon the <span class="smallcaps">lord</span>, from the present and unto the eon! 
-<small><sub>**KJV:**</sub></small>
-Let Israel hope in the LORD from henceforth and for ever.
-<small><sub>**BSB:**</sub></small>
-O Israel, put your hope in the LORD, both now and forevermore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.131.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.131.2|<< Psalm 131:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.1|Psalm 132:1 >>]]</td></tr></table>
 
 | Translation | Greek |

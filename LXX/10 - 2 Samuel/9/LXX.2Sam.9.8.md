@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:8** 
 <small><sub>**LXX:**</sub></small>
 And he did obeisance to him, and said, Who am I  your servant, that you looked upon the dying dog  likened to me. 
-<small><sub>**KJV:**</sub></small>
-And he bowed himself, and said, What [is] thy servant, that thou shouldest look upon such a dead dog as I [am]?
-<small><sub>**BSB:**</sub></small>
-Mephibosheth bowed down and said, “What is your servant, that you should show regard for a dead dog like me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.7|<< 2 Samuel 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.9|2 Samuel 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

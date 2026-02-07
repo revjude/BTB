@@ -1,4 +1,4 @@
-**Isaiah 32:4** 
+**Isaiah 32:4**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mind of the rash will know and understand, and the stammering tongue will sp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.3|<< Isaiah 32:3]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.5|Isaiah 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] heart of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3824\|לְבַ֥ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Vav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hasty [people]  |**<big>&#8207;[[H4116A\|נִמְהָרִ֖ים]]&#8207; </big>**| nim.ha.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Titus 1:6
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:6**<big><big>[[Titus.1.5 Appointing Elders on Crete|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
 <small><sub>**BSB:**</sub></small>
 An elder must be blameless, the husband of but one wife, having children who are believers and who are not open to accusation of indiscretion or insubordination.
 <small><sub>**Literal:**</sub></small>
 if anyone is blameless, of one wife [the] husband, children having believing, not under accusation of debauchery or insubordinate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.5|<< Titus 1:5]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.7|Titus 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

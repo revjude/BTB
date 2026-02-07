@@ -1,4 +1,4 @@
-**Numbers 8:24** 
+**Numbers 8:24**<big><big>[[Num.8.23 Retirement for Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is it] that [belongeth] unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This [is it] that [belongeth] unto the Levites: from twenty and five years old a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.23|<< Numbers 8:23]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.25|Numbers 8:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:32** 
 <small><sub>**LXX:**</sub></small>
 And David said to Abigail, Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God of Israel, who sent you in this day to meet me. 
-<small><sub>**KJV:**</sub></small>
-And David said to Abigail, Blessed [be] the LORD God of Israel, which sent thee this day to meet me:
-<small><sub>**BSB:**</sub></small>
-Then David said to Abigail, “Blessed be the LORD, the God of Israel, who sent you to meet me this day!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.31|<< 1 Samuel 25:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.33|1 Samuel 25:33 >>]]</td></tr></table>
 
 | Translation | Greek |

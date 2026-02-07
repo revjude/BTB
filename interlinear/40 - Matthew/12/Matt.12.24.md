@@ -1,12 +1,12 @@
-**Matthew 12:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:24**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the Pharisees heard [it], they said, This [fellow] doth not cast out devils, but by Beelzebub the prince of the devils.
 <small><sub>**BSB:**</sub></small>
 But when the Pharisees heard this, they said, “Only by Beelzebul, the prince of demons, does this man drive out demons.”
 <small><sub>**Literal:**</sub></small>
 <the> And the Pharisees having heard said; This [man] not casts out the demons only except by <the> Beelzebul prince of the demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.23|<< Matthew 12:23]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.25|Matthew 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

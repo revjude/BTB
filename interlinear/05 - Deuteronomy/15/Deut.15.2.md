@@ -1,4 +1,4 @@
-**Deuteronomy 15:2** 
+**Deuteronomy 15:2**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the manner of the release: Every creditor that lendeth [ought] unto his neighbour shall release [it]; he shall not exact [it] of his neighbour, or of his brother; because it is called the LORD’S release.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the manner of remission: Every creditor shall cancel what he has loaned 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.1|<< Deuteronomy 15:1]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.3|Deuteronomy 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶה֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] manner of  |**<big>&#8207;[[H1697O\|דְּבַ֣ר]]&#8207; </big>**| de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

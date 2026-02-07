@@ -1,10 +1,7 @@
 **LXX Judges 2:19** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the judge died, that they turned back, and again corrupted \[themselves\] above  their fathers, to go after other gods, and to serve them, and to do obeisance to them. They did not disown  their practices, and of  their recalcitrant way. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the judge was dead, [that] they returned, and corrupted [themselves] more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.
-<small><sub>**BSB:**</sub></small>
-But when the judge died, the Israelites became even more corrupt than their fathers, going after other gods to serve them and bow down to them. They would not give up their evil practices and stubborn ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.18|<< Judges 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.20|Judges 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

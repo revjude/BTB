@@ -1,4 +1,4 @@
-**Psalms 77:8** (77:9)
+**Psalms 77:8**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is his mercy clean gone for ever? doth [his] promise fail for evermore?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is His loving devotion gone forever? Has His promise failed for all time?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.7|<< Psalms 77:7]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.9|Psalms 77:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ has it come to an end  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H0656\|אָפֵ֣ס]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> 'a.Fes<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to perpetuity  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5331\|נֶ֣צַח]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

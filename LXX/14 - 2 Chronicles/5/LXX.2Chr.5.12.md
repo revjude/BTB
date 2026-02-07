@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:12** 
 <small><sub>**LXX:**</sub></small>
 and the Levites, the psalm singers, all with the sons of Asaph,  of Heman, \[to\] Jeduthun, and \[to\] their sons, and \[to\] their brethren of the ones putting on apparels of fine linen, with cymbals, and with stringed instruments, and with lutes, \[were\] standing over against the altar, and with them  a hundred and twenty priests trumpeting with the trumpets. 
-<small><sub>**KJV:**</sub></small>
-Also the Levites [which were] the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, [being] arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)
-<small><sub>**BSB:**</sub></small>
-all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps, and lyres, accompanied by 120 priests sounding trumpets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.11|<< 2 Chronicles 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.13|2 Chronicles 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

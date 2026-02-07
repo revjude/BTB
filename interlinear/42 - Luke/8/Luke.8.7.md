@@ -1,12 +1,12 @@
-**Luke 8:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:7**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some fell among thorns; and the thorns sprang up with it, and choked it.
 <small><sub>**BSB:**</sub></small>
 Other seed fell among thorns, which grew up with it and choked the seedlings.
 <small><sub>**Literal:**</sub></small>
 And other fell in [the] midst of the thorns, and having sprung up with [it] the thorns choked it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.6|<< Luke 8:6]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.8|Luke 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | other |**<big>[[G2087\|ἕτερον]]</big>**  |heteron <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

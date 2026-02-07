@@ -1,4 +1,4 @@
-**Job 5:12** 
+**Job 5:12**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He disappointeth the devices of the crafty, so that their hands cannot perform [their] enterprise.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He thwarts the schemes of the crafty, so that their hands find no success.
 > $\quad$ referenced by: [[1Cor.3.19|1Cor 3:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] frustrates  |**<big>&#8207;[[H6565A\|מֵ֭פֵר]]&#8207; </big>**| Me.fer<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] plans of  |**<big>&#8207;[[H4284\|מַחְשְׁב֣וֹת]]&#8207; </big>**| mach.she.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

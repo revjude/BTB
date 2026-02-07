@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:21** 
 <small><sub>**LXX:**</sub></small>
 And all the vessels, the ones \[used\] by  Solomon, were of gold. And bathing tubs of gold, and all the vessels of \[the\] house of \[the\] forest  of Lebanon were completely of gold. And there was no silver, for it was not thought \[anything\] in the days of Solomon. 
-<small><sub>**KJV:**</sub></small>
-And all king Solomon’s drinking vessels [were of] gold, and all the vessels of the house of the forest of Lebanon [were of] pure gold; none [were of] silver: it was nothing accounted of in the days of Solomon.
-<small><sub>**BSB:**</sub></small>
-All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.20|<< 1 Kings 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.22|1 Kings 10:22 >>]]</td></tr></table>
 
 | Translation | Greek |

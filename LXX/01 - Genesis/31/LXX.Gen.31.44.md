@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Now then, come here, we should ordain a covenant, I and you, and it will be a testimony between me and you. 
-<small><sub>**KJV:**</sub></small>
-Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
-<small><sub>**BSB:**</sub></small>
-Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.43|<< Genesis 31:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.45|Genesis 31:45 >>]]</td></tr></table>
 
 | Translation | Greek |

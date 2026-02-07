@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Israel said, Take  Michaiah and return \[him\] to Amon the ruler of the city, and to Joash \[the\] son of the king. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;
-<small><sub>**BSB:**</sub></small>
-And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.24|<< 2 Chronicles 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.26|2 Chronicles 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

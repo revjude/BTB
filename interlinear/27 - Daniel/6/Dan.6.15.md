@@ -1,4 +1,4 @@
-**Daniel 6:15** (6:16)
+**Daniel 6:15**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians [is], That no decree nor statute which the king establisheth may be changed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the men approached the king together and said to him, “Remember, O king, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.14|<< Daniel 6:14]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.16|Daniel 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֙יִן֙]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men the  |**<big>&#8207;[[H1400\|גֻּבְרַיָּ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 31:2** 
+**Numbers 31:2**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Avenge the children of Israel of the Midianites: afterward shalt thou be gathere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | avenge  |**<big>&#8207;[[H5358\|נְקֹ֗ם]]&#8207; </big>**| ne.Kom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] vengeance of  |**<big>&#8207;[[H5360\|נִקְמַת֙]]&#8207; </big>**| nik.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 26:13** 
+**Isaiah 26:13**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD our God, [other] lords beside thee have had dominion over us: [but] by thee only will we make mention of thy name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O LORD our God, other lords besides You have ruled over us, but Your name alone 
 > $\quad$ referenced by: [[2Tim.2.19|2Tim 2:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

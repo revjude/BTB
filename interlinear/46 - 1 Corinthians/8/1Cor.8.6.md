@@ -1,12 +1,12 @@
-**1 Corinthians 8:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:6**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
 <small><sub>**BSB:**</sub></small>
 yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist.
 <small><sub>**Literal:**</sub></small>
 yet to us [there is] one God the Father of whom [are] the [things] all and we ourselves for Him, and one Lord Jesus Christ through whom [are] the [things] all and we ourselves through Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.5|<< 1 Corinthians 8:5]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.7|1 Corinthians 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | yet |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to us |**<big>[[G3165\|ἡμῖν]]</big>**  |hēmin <small><sup>[[P-1DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

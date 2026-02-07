@@ -1,10 +1,7 @@
 **LXX Judges 7:22** 
 <small><sub>**LXX:**</sub></small>
 And they trumped the three hundred horns. And \[the\] <span class="smallcaps">lord</span> placed \[every\] man's sword against  his neighbor, even in \[the\] whole  camp. And the camp fled unto  Beth-shittah Zererath, unto \[the\] edge of Abel-meholah by Tabbath. 
-<small><sub>**KJV:**</sub></small>
-And the three hundred blew the trumpets, and the LORD set every man’s sword against his fellow, even throughout all the host: and the host fled to Bethshittah in Zererath, [and] to the border of Abelmeholah, unto Tabbath.
-<small><sub>**BSB:**</sub></small>
-And when the three hundred rams’ horns sounded, the LORD set all the men in the camp against one another with their swords. The army fled to Beth-shittah toward Zererah as far as the border of Abel-meholah near Tabbath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.21|<< Judges 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.23|Judges 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

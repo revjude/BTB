@@ -1,4 +1,4 @@
-**Leviticus 8:20** 
+**Leviticus 8:20**<big><big>[[Lev.8.18 The Priests’ Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He cut the ram into pieces and burned the head, the pieces, and the fat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.19|<< Leviticus 8:19]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.21|Leviticus 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ram  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0352A\|אַ֔יִל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:25** 
 <small><sub>**LXX:**</sub></small>
 And over the storehouses of the king \[was\] Azmaveth the \[son\] of Adiel. And over the storehouses  in \[the\] country, and in the cities, and in the towns, and in the estates, and in the towers, \[was\] Jehonathan the son of Uzziah. 
-<small><sub>**KJV:**</sub></small>
-And over the king’s treasures [was] Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, [was] Jehonathan the son of Uzziah:
-<small><sub>**BSB:**</sub></small>
-Azmaveth son of Adiel was in charge of the royal storehouses. Jonathan son of Uzziah was in charge of the storehouses in the country, in the cities, in the villages, and in the fortresses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.24|<< 1 Chronicles 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.26|1 Chronicles 27:26 >>]]</td></tr></table>
 
 | Translation | Greek |

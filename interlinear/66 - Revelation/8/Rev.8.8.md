@@ -1,5 +1,5 @@
-**Revelation 8:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:8**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
 <small><sub>**BSB:**</sub></small>
 Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood,
@@ -10,7 +10,7 @@ And the second angel sounded [his] trumpet, and [something] like a mountain grea
 > $\quad$ possibly alluding to: [[LXX.Exod.7.20|Exod 7:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

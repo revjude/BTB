@@ -1,4 +1,4 @@
-**Psalms 78:43** 
+**Psalms 78:43**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when He performed His signs in Egypt and His wonders in the fields of Zoan.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.42|<< Psalms 78:42]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.44|Psalms 78:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he performed  |**<big>&#8207;[[H7760H\|שָׂ֣ם]]&#8207; </big>**| sam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

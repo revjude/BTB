@@ -1,12 +1,12 @@
-**Luke 18:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:40**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,
 <small><sub>**BSB:**</sub></small>
 Jesus stopped and directed that the man be brought to Him. When he had come near, Jesus asked him,
 <small><sub>**Literal:**</sub></small>
 Having stopped then <the> Jesus commanded him to be brought to Him. When was approaching then he He asked him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.39|<< Luke 18:39]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.41|Luke 18:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having stopped |**<big>[[G2476\|Σταθεὶς]]</big>**  |Statheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

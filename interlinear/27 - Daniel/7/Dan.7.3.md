@@ -1,4 +1,4 @@
-**Daniel 7:3** 
+**Daniel 7:3**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And four great beasts came up from the sea, diverse one from another.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then four great beasts came up out of the sea, each one different from the other
 > $\quad$ referenced by: [[Rev.13.1|Rev 13:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0703\|אַרְבַּ֤ע]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'ar.Ba'<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beasts  |**<big>&#8207;[[H2423\|חֵיוָן֙]]&#8207; </big>**| chei.Van<small><sup>[[ANcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

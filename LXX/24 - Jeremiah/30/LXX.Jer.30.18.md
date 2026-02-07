@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>; Behold, I shall return the resettlement of Jacob, and  his captivity I will show mercy, and \[the\] city shall be built upon  her height, and the people shall sit according to his equity. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “I will restore the fortunes of Jacob’s tents and have compassion on his dwellings. And the city will be rebuilt on her own ruins, and the palace will stand in its rightful place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.17|<< Jeremiah 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.19|Jeremiah 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

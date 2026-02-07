@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:12** 
 <small><sub>**LXX:**</sub></small>
 And he will appoint them for himself as commanders of thousands, and commanders of hundreds,  to plow  his plowing, and to harvest his harvest, and to gather the vintage of his gathering the crops, and to make items for his warfare, and items for his chariots. 
-<small><sub>**KJV:**</sub></small>
-And he will appoint him captains over thousands, and captains over fifties; and [will set them] to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots.
-<small><sub>**BSB:**</sub></small>
-He will appoint some for himself as commanders of thousands and of fifties, and others to plow his ground, to reap his harvest, and to make his weapons of war and equipment for his chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.11|<< 1 Samuel 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.13|1 Samuel 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

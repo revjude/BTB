@@ -1,12 +1,12 @@
-**John 18:33
-**<small><sub>**KJV:**</sub></small>
+**John 18:33**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
 <small><sub>**BSB:**</sub></small>
 Pilate went back into the Praetorium, summoned Jesus, and asked Him, “Are You the King of the Jews?”
 <small><sub>**Literal:**</sub></small>
 Entered therefore again into the Praetorium <the> Pilate and he called <the> Jesus and said to Him; You yourself are the King of the Jews?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.32|<< John 18:32]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.34|John 18:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Entered |**<big>[[G1525\|Εἰσῆλθεν]]</big>**  |Eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

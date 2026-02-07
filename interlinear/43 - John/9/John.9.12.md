@@ -1,12 +1,12 @@
-**John 9:12
-**<small><sub>**KJV:**</sub></small>
+**John 9:12**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they unto him, Where is he? He said, I know not.
 <small><sub>**BSB:**</sub></small>
 “Where is He?” they asked. “I do not know,” he answered.
 <small><sub>**Literal:**</sub></small>
 And they said to him; Where is He? He says; Not I know.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.11|<< John 9:11]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.13|John 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | they said |**<big>[[G2036\|εἶπαν]]</big>**  [^2] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

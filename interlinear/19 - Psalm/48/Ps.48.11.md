@@ -1,4 +1,4 @@
-**Psalms 48:11** (48:12)
+**Psalms 48:11**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.10|<< Psalms 48:10]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.12|Psalms 48:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will rejoice  |**<big>&#8207;[[H8055\|יִשְׂמַ֤ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

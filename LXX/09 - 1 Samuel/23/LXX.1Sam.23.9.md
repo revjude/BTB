@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:9** 
 <small><sub>**LXX:**</sub></small>
 And David knew that Saul did not remain silent concerning him  for evil. And David said to Abiathar the priest, Bring the ephod! 
-<small><sub>**KJV:**</sub></small>
-And David knew that Saul secretly practised mischief against him; and he said to Abiathar the priest, Bring hither the ephod.
-<small><sub>**BSB:**</sub></small>
-When David learned that Saul was plotting evil against him, he said to Abiathar the priest, “Bring the ephod.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.8|<< 1 Samuel 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.10|1 Samuel 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 34:6** 
 <small><sub>**LXX:**</sub></small>
 And he lied in my judgment; my spear \[is\] violent without injustice. 
-<small><sub>**KJV:**</sub></small>
-Should I lie against my right? my wound [is] incurable without transgression.
-<small><sub>**BSB:**</sub></small>
-Would I lie about my case? My wound is incurable, though I am without transgression.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.5|<< Job 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.7|Job 34:7 >>]]</td></tr></table>
 
 | Translation | Greek |

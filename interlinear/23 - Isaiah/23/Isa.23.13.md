@@ -1,4 +1,4 @@
-**Isaiah 23:13** 
+**Isaiah 23:13**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the land of the Chaldeans; this people was not, [till] the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; [and] he brought it to ruin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look at the land of the Chaldeans—a people now of no account. The Assyrians de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.12|<< Isaiah 23:12]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.14|Isaiah 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

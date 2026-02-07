@@ -1,10 +1,7 @@
 **LXX Psalm 88:12** 
 <small><sub>**LXX:**</sub></small>
 Shall your wonders be made known in the darkness? and  your righteousness in a land being forgotten? 
-<small><sub>**KJV:**</sub></small>
-Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?
-<small><sub>**BSB:**</sub></small>
-Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.11|<< Psalm 88:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.13|Psalm 88:13 >>]]</td></tr></table>
 
 | Translation | Greek |

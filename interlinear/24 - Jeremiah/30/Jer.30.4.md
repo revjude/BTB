@@ -1,4 +1,4 @@
-**Jeremiah 30:4** 
+**Jeremiah 30:4**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the words that the LORD spake concerning Israel and concerning Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the words that the LORD spoke concerning Israel and Judah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.3|<< Jeremiah 30:3]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.5|Jeremiah 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the words  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דְּבָרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

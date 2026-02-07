@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:18** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam the king sent  Hadoram, the one over the tribute. And the sons of Israel stoned him with stones, and he died. And  king Rehoboam hastened  to ascend into the chariot  to flee unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then king Rehoboam sent Hadoram that [was] over the tribute; and the children of Israel stoned him with stones, that he died. But king Rehoboam made speed to get him up to [his] chariot, to flee to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Then King Rehoboam sent out Hadoram, who was in charge of the forced labor, but the Israelites stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.17|<< 2 Chronicles 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.19|2 Chronicles 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

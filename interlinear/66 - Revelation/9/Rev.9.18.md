@@ -1,12 +1,12 @@
-**Revelation 9:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:18**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
 <small><sub>**BSB:**</sub></small>
 A third of mankind was killed by the three plagues of fire, smoke, and sulfur that proceeded from their mouths.
 <small><sub>**Literal:**</sub></small>
 by <the> three plagues these was killed <the> a third <the> of mankind, by the fire and from the smoke and from the brimstone which is proceeding out of the mouths of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.17|<< Revelation 9:17]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.19|Revelation 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [^1] |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | \<the> |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

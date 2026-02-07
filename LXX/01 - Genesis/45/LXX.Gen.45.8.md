@@ -1,10 +1,7 @@
 **LXX Genesis 45:8** 
 <small><sub>**LXX:**</sub></small>
 Now then, you did not send me here, but  God. And he made me as father to Pharaoh, and master of all  his house, and ruler of all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-So now [it was] not you [that] sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Therefore it was not you who sent me here, but God, who has made me a father to Pharaoh—lord of all his household and ruler over all the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.7|<< Genesis 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.9|Genesis 45:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Revelation 9:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:3**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.
 <small><sub>**BSB:**</sub></small>
 And out of the smoke, locusts descended on the earth, and they were given power like that of the scorpions of the earth.
 <small><sub>**Literal:**</sub></small>
 And out of the smoke came forth locusts unto the earth, and was given to them power, like have power the scorpions of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.2|<< Revelation 9:2]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.4|Revelation 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

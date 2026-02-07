@@ -1,4 +1,4 @@
-**Jonah 1:3** 
+**Jonah 1:3**<big><big>[[Jonah.1.1 Jonah Flees from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.2|<< Jonah 1:2]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.4|Jonah 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֤קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonah  |**<big>&#8207;[[H3124\|יוֹנָה֙]]&#8207; </big>**| yo.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 John 2:23
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:23**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever denieth the Son, the same hath not the Father: [(but) he that acknowledgeth the Son hath the Father also].
 <small><sub>**BSB:**</sub></small>
 Whoever denies the Son does not have the Father, but whoever confesses the Son has the Father as well.
 <small><sub>**Literal:**</sub></small>
 Everyone who is denying the Son neither the Father has he; The [one] confessing the Son also the Father has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.22|<< 1 John 2:22]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.24|1 John 2:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

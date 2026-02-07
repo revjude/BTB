@@ -1,4 +1,4 @@
-**Habakkuk 3:9** 
+**Habakkuk 3:9**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy bow was made quite naked, [according] to the oaths of the tribes, [even thy] word. Selah. Thou didst cleave the earth with rivers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You brandished Your bow; You called for many arrows. Selah You split the earth w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.8|<< Habakkuk 3:8]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.10|Habakkuk 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bareness  |**<big>&#8207;[[H6181\|עֶרְיָ֤ה]]&#8207; </big>**| 'er.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is made bare  |**<big>&#8207;[[H5783\|תֵעוֹר֙]]&#8207; </big>**| te.'Or<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

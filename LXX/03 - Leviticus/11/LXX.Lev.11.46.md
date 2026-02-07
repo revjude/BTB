@@ -1,10 +1,7 @@
 **LXX Leviticus 11:46** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the law for the animals, and the winged creatures, and all life  moving in the water, and all life crawling upon the earth; 
-<small><sub>**KJV:**</sub></small>
-This [is] the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:
-<small><sub>**BSB:**</sub></small>
-This is the law regarding animals, birds, all living creatures that move in the water, and all creatures that crawl along the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.45|<< Leviticus 11:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.47|Leviticus 11:47 >>]]</td></tr></table>
 
 | Translation | Greek |

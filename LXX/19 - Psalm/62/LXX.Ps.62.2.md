@@ -1,10 +1,7 @@
 **LXX Psalm 62:2** 
 <small><sub>**LXX:**</sub></small>
 For even he \[is\] my God, and my deliverer, my shielder. In no way should I be shaken by many. 
-<small><sub>**KJV:**</sub></small>
-He only [is] my rock and my salvation; [he is] my defence; I shall not be greatly moved.
-<small><sub>**BSB:**</sub></small>
-He alone is my rock and my salvation. He is my fortress; I will never be shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.1|<< Psalm 62:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.3|Psalm 62:3 >>]]</td></tr></table>
 
 | Translation | Greek |

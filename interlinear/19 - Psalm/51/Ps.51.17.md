@@ -1,4 +1,4 @@
-**Psalms 51:17** (51:19)
+**Psalms 51:17**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sacrifices of God are a broken spirit; a broken and a contrite heart, O God,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.16|<< Psalms 51:16]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.18|Psalms 51:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sacrifices of  |**<big>&#8207;[[H2077\|זִֽבְחֵ֣י]]&#8207; </big>**| ziv.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֮]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

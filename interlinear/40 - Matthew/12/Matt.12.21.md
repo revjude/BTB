@@ -1,5 +1,5 @@
-**Matthew 12:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:21**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in his name shall the Gentiles trust.
 <small><sub>**BSB:**</sub></small>
 In His name the nations will put their hope.”
@@ -10,7 +10,7 @@ And in in the name of Him [the] Gentiles will hope.<br><table width="100%" borde
 > $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR">k</abbr> | |

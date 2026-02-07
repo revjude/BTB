@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:4** 
 <small><sub>**LXX:**</sub></small>
 Of these \[were\] foremen over the works of the house of \[the\] <span class="smallcaps">lord</span> -- twenty-four thousand; and scribes and judges -- six thousand; 
-<small><sub>**KJV:**</sub></small>
-Of which, twenty and four thousand [were] to set forward the work of the house of the LORD; and six thousand [were] officers and judges:
-<small><sub>**BSB:**</sub></small>
-“Of these,” said David, “24,000 are to oversee the work of the house of the LORD, 6,000 are to be officers and judges,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.3|<< 1 Chronicles 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.5|1 Chronicles 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 12:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:16**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
 <small><sub>**BSB:**</sub></small>
 Then He told them a parable: “The ground of a certain rich man produced an abundance.
 <small><sub>**Literal:**</sub></small>
 He spoke then a parable to them saying; Of a man certain rich brought forth abundantly the ground.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.15|<< Luke 12:15]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.17|Luke 12:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He spoke |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

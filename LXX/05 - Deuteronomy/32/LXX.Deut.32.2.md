@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:2** 
 <small><sub>**LXX:**</sub></small>
 Expect as \[the\] rain  my maxims, and my discourses go down as dew, as a heavy shower upon wild grass, and as snowflakes upon grass! 
-<small><sub>**KJV:**</sub></small>
-My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:
-<small><sub>**BSB:**</sub></small>
-Let my teaching fall like rain and my speech settle like dew, like gentle rain on new grass, like showers on tender plants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.1|<< Deuteronomy 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.3|Deuteronomy 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

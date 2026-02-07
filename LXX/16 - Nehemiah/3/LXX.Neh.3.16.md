@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:16** 
 <small><sub>**LXX:**</sub></small>
 After him Nehemiah repaired, son of Azabuk, ruler of half \[the\] place round about Beth-zur, unto \[the\] garden of \[the\] burying-place of David, and unto the pool  being \[built by man\], and unto \[the\] house of the mighty ones. 
-<small><sub>**KJV:**</sub></small>
-After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto [the place] over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
-<small><sub>**BSB:**</sub></small>
-Beyond him, Nehemiah son of Azbuk, ruler of a half-district of Beth-zur, made repairs up to a point opposite the tombs of David, as far as the artificial pool and the House of the Mighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

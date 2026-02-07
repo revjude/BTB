@@ -1,12 +1,12 @@
-**Philippians 1:6
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:6**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being confident of this very thing, that he which hath begun a good work in you will perform [it] until the day of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 having been persuaded of [the] very thing this, that the [One] having begun in you a work good will complete [it] until [the] day of Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.5|<< Philippians 1:5]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.7|Philippians 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having been persuaded of |**<big>[[G3982\|πεποιθὼς]]</big>**  |pepoithōs <small><sup>[[V-2RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] very thing |**<big>[[G0846\|αὐτὸ]]</big>**  |auto <small><sup>[[P-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 5:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:11**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed are ye, when [men] shall revile you, and persecute [you], and shall say all manner of evil against you falsely, for my sake.
 <small><sub>**BSB:**</sub></small>
 Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me.
 <small><sub>**Literal:**</sub></small>
 Blessed are you when they may insult you and they may persecute [you] and they may say all kinds of evil declaration against you lying on account of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.10|<< Matthew 5:10]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.12|Matthew 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed |**<big>[[G3107\|Μακάριοί]]</big>**  |Makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are you |**<big>[[G1510\|ἐστε,]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

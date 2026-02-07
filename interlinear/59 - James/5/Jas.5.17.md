@@ -1,5 +1,5 @@
-**James 5:17
-**<small><sub>**KJV:**</sub></small>
+**James 5:17**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
 <small><sub>**BSB:**</sub></small>
 Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years.
@@ -10,7 +10,7 @@ Elijah a man was of like nature to us and with fervent prayer he prayed [for it]
 > $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.18.41|1Kgs 18:41]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Elijah |**<big>[[G2243\|Ἠλίας]]</big>**  [^1] |Ēlias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a man |**<big>[[G0444\|ἄνθρωπος]]</big>**  |anthrōpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

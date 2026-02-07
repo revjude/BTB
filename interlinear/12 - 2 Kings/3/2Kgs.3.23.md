@@ -1,4 +1,4 @@
-**2 Kings 3:23** 
+**2 Kings 3:23**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, This [is] blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said, This [is] blood: the kings are surely slain, and they have smitte
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.22|<< 2 Kings 3:22]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.24|2 Kings 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּֽאמְרוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] blood  |**<big>&#8207;[[H1818\|דָּ֣ם]]&#8207; </big>**| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

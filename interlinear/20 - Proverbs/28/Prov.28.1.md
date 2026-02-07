@@ -1,4 +1,4 @@
-**Proverbs 28:1** 
+**Proverbs 28:1**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked flee when no man pursueth: but the righteous are bold as a lion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked flee when no one pursues, but the righteous are as bold as a lion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.27|<< Proverbs 27:27]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.2|Proverbs 28:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they flee  |**<big>&#8207;[[H5127\|נָ֣סוּ]]&#8207; </big>**| Na.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

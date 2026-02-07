@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Exult, O just ones, in the <span class="smallcaps">lord</span>! To the upright praise \[is\] becoming. 
-<small><sub>**KJV:**</sub></small>
-Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright.
-<small><sub>**BSB:**</sub></small>
-Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.11|<< Psalm 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.2|Psalm 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

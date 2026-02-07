@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:4** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, What \[is it\] to you that thus \[you are\] weak morning \[by\] morning, O son of the king? Will you not report it to me? And Amnon said to him, Tamar, the sister  of my brother Absalom, I love. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Why [art] thou, [being] the king’s son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom’s sister.
-<small><sub>**BSB:**</sub></small>
-and he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Won’t you tell me?” Amnon replied, “I am in love with Tamar, my brother Absalom’s sister.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.3|<< 2 Samuel 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.5|2 Samuel 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

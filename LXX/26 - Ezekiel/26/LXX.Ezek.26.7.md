@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:7** 
 <small><sub>**LXX:**</sub></small>
 For thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I bring against you, O Sor,  Nebuchadnezzar king of Babylon from the north he is king of kings) with horses, and chariots, and horsemen, and a gathering of many nations, exceedingly. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘Behold, I will bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with cavalry and a great company of troops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.6|<< Ezekiel 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.8|Ezekiel 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

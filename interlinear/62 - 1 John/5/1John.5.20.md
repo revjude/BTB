@@ -1,12 +1,12 @@
-**1 John 5:20
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:20**<big><big>[[1John.5.18 The True God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.
 <small><sub>**BSB:**</sub></small>
 And we know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true—in His Son Jesus Christ. He is the true God and eternal life.
 <small><sub>**Literal:**</sub></small>
 We know now that the Son <the> of God is come and has given us understanding so that we may know Him who [is] true, and we are in Him who [is] true, in the Son of Him Jesus Christ. He is the true God and <the> life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.19|<< 1 John 5:19]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.21|1 John 5:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

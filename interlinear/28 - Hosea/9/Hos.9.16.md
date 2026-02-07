@@ -1,4 +1,4 @@
-**Hosea 9:16** 
+**Hosea 9:16**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay [even] the beloved [fruit] of their womb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim is struck down; their root is withered; they cannot bear fruit. Even if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.15|<< Hosea 9:15]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.17|Hosea 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has been struck  |**<big>&#8207;[[H5221\|הֻכָּ֣ה]]&#8207; </big>**| hu.Kah<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֔יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

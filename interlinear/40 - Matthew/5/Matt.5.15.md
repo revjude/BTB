@@ -1,12 +1,12 @@
-**Matthew 5:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:15**<big><big>[[Matt.5.13 Salt and Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
 <small><sub>**BSB:**</sub></small>
 Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house.
 <small><sub>**Literal:**</sub></small>
 Nor do they light a lamp and put it under <the> a basket but upon the lampstand, and it shines for all those in the house.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.14|<< Matthew 5:14]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.16|Matthew 5:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nor |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do they light |**<big>[[G2545\|καίουσιν]]</big>**  |kaiousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 21:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:34**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and [so] that day come upon you unawares.
 <small><sub>**BSB:**</sub></small>
 But watch yourselves, or your hearts will be weighed down by dissipation, drunkenness, and the worries of life—and that day will spring upon you suddenly like a snare.
 <small><sub>**Literal:**</sub></small>
 do take heed now to yourselves otherwise may be burdened of you the hearts with dissipation and drunkenness and cares of life — and may come upon you suddenly <the> day that [very]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.33|<< Luke 21:33]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.35|Luke 21:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G4337\|Προσέχετε]]</big>**  |Prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

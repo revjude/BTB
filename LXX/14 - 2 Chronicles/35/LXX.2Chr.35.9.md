@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:9** 
 <small><sub>**LXX:**</sub></small>
 And Conaniah, and Shemaiah, and Nethaneel his brother, and Hashabiah, and Jehiel, and Jozabad, rulers of the Levites, dedicated to the Levites for the passover -- five thousand sheep, and five hundred calves. 
-<small><sub>**KJV:**</sub></small>
-Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand [small cattle], and five hundred oxen.
-<small><sub>**BSB:**</sub></small>
-Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, contributed to the Levites 5,000 Passover offerings and 500 bulls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.8|<< 2 Chronicles 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.10|2 Chronicles 35:10 >>]]</td></tr></table>
 
 | Translation | Greek |

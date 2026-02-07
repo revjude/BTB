@@ -1,10 +1,7 @@
 **LXX Daniel 9:15** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  our God, who led  your people from \[the\] land of Egypt by a fortified hand, and you made for yourself a name as \[it is\] this day -- we sinned, we acted lawlessly, we transgressed. 
-<small><sub>**KJV:**</sub></small>
-And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.
-<small><sub>**BSB:**</sub></small>
-Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.14|<< Daniel 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.16|Daniel 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

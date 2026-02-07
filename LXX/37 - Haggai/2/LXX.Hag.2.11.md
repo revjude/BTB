@@ -1,10 +1,7 @@
 **LXX Haggai 2:11** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, Ask indeed of the priests \[concerning the\] law! saying, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; Ask now the priests [concerning] the law, saying,
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts says: ‘Ask the priests for a ruling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.10|<< Haggai 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.12|Haggai 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

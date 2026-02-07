@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:2** 
 <small><sub>**LXX:**</sub></small>
 And near his hands men of Jericho constructed; and near his hands Zaccur son of Imri constructed. 
-<small><sub>**KJV:**</sub></small>
-And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
-<small><sub>**BSB:**</sub></small>
-The men of Jericho built next to Eliashib, and Zaccur son of Imri built next to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.1|<< Nehemiah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.3|Nehemiah 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

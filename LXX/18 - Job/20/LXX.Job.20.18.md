@@ -1,10 +1,7 @@
 **LXX Job 20:18** 
 <small><sub>**LXX:**</sub></small>
 For he tired for riches in emptiness and vanity, of which he shall not taste; \[it is\] as if tough, unchewable, \[and\] impotable. 
-<small><sub>**KJV:**</sub></small>
-That which he laboured for shall he restore, and shall not swallow [it] down: according to [his] substance [shall] the restitution [be], and he shall not rejoice [therein].
-<small><sub>**BSB:**</sub></small>
-He must return the fruit of his labor without consuming it; he cannot enjoy the profits of his trading.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.17|<< Job 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.19|Job 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

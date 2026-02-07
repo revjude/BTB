@@ -1,6 +1,6 @@
 (KJV) **Psalm 58**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57|<< Psalm 57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59|Psalm 59 >>]]</td></tr></table>
 
-***God Judges the Earth*** ^bsb1351
+<big><big>[[Ps.58.1 God Judges the Earth|⥃]]</big></big>***God Judges the Earth***
 
 
 

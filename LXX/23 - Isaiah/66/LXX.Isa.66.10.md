@@ -1,10 +1,7 @@
 **LXX Isaiah 66:10** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O Jerusalem, and all the ones loving her assemble for a festival in her! And the ones dwelling her rejoice in joy, all as many as mourn for her! 
-<small><sub>**KJV:**</sub></small>
-Rejoice ye with Jerusalem, and be glad with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:
-<small><sub>**BSB:**</sub></small>
-Be glad for Jerusalem and rejoice over her, all who love her. Rejoice greatly with her, all who mourn over her,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.9|<< Isaiah 66:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.11|Isaiah 66:11 >>]]</td></tr></table>
 
 | Translation | Greek |

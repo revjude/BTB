@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:17** 
 <small><sub>**LXX:**</sub></small>
 And these \[things\] were diminished before you,  O God; and you spoke about the house  of your servant from a long \[time\], and looked upon me as man's vision, and raised me up high, O <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-And [yet] this was a small thing in thine eyes, O God; for thou hast [also] spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God.
-<small><sub>**BSB:**</sub></small>
-And as if this was a small thing in Your eyes, O God, You have spoken about the future of the house of Your servant and have regarded me as a man of great distinction, O LORD God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.16|<< 1 Chronicles 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.18|1 Chronicles 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

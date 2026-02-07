@@ -1,12 +1,12 @@
-**Philippians 2:4
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:4**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Look not every man on his own things, but every man also on the things of others.
 <small><sub>**BSB:**</sub></small>
 Each of you should look not only to your own interests, but also to the interests of others.
 <small><sub>**Literal:**</sub></small>
 not the [things] their own each one considering but also the [things] of others everyone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.3|<< Philippians 2:3]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.5|Philippians 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [things] |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

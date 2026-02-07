@@ -1,4 +1,4 @@
-**Psalms 106:17** 
+**Psalms 106:17**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth opened and swallowed up Dathan, and covered the company of Abiram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth opened up and swallowed Dathan; it covered the assembly of Abiram.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.16|<< Psalms 106:16]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.18|Psalms 106:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it opened  |**<big>&#8207;[[H6605A\|תִּפְתַּח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tif.tach-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

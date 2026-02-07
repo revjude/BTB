@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the seventh year Jehoiada determined, and the commanders of hundreds took  Azariah son of Jehoram, and  Ishmael son of Jehohanan, and  Azariah son of Obed, and  Maaseiah son of Adaiah, and  Elishaphat son of Zichri, with him in covenant. 
-<small><sub>**KJV:**</sub></small>
-And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
-<small><sub>**BSB:**</sub></small>
-Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.12|<< 2 Chronicles 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.2|2 Chronicles 23:2 >>]]</td></tr></table>
 
 | Translation | Greek |

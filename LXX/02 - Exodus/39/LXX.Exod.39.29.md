@@ -1,10 +1,7 @@
 **LXX Exodus 39:29** 
 <small><sub>**LXX:**</sub></small>
 and  their belts from out of linen, and blue, and purple, and scarlet being spun, \[the\] work of an embroiderer, in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And a girdle [of] fine twined linen, and blue, and purple, and scarlet, [of] needlework; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-and the sash of finely spun linen, embroidered with blue, purple, and scarlet yarn, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.28|<< Exodus 39:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.30|Exodus 39:30 >>]]</td></tr></table>
 
 | Translation | Greek |

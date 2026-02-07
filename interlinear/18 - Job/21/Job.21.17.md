@@ -1,4 +1,4 @@
-**Job 21:17** 
+**Job 21:17**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How oft is the candle of the wicked put out! and [how oft] cometh their destruction upon them! [God] distributeth sorrows in his anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How often is the lamp of the wicked put out? Does disaster come upon them? Does 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.16|<< Job 21:16]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.18|Job 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how often?  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4100\|מָּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] lamp of  |**<big>&#8207;[[H5216A\|נֵר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ner-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

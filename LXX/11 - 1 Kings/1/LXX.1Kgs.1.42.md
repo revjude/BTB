@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:42** 
 <small><sub>**LXX:**</sub></small>
 While he was speaking, that behold, Jonathan son of Abiathar the priest came in. And Adonijah said, Enter, for you are a man of power, and \[for\] good you announce good news! 
-<small><sub>**KJV:**</sub></small>
-And while he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said unto him, Come in; for thou [art] a valiant man, and bringest good tidings.
-<small><sub>**BSB:**</sub></small>
-As he was speaking, suddenly Jonathan the son of Abiathar the priest arrived. “Come in,” said Adonijah, “for you are a man of valor. You must be bringing good news.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.41|<< 1 Kings 1:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.43|1 Kings 1:43 >>]]</td></tr></table>
 
 | Translation | Greek |

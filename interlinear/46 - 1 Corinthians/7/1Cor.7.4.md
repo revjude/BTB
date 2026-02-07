@@ -1,12 +1,12 @@
-**1 Corinthians 7:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:4**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 <small><sub>**BSB:**</sub></small>
 The wife does not have authority over her own body, but the husband. Likewise the husband does not have authority over his own body, but the wife.
 <small><sub>**Literal:**</sub></small>
 The wife <the> [her] own body not has authority over but the husband; likewise now also the husband <the> [his] own body not has authority over but the wife.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.3|<< 1 Corinthians 7:3]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.5|1 Corinthians 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wife |**<big>[[G1135H\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

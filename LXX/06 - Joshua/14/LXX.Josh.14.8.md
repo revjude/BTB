@@ -1,10 +1,7 @@
 **LXX Joshua 14:8** 
 <small><sub>**LXX:**</sub></small>
 But my brethren the ones ascending with me changed over the mind of the people. But I proceeded to follow after \[the\] <span class="smallcaps">lord</span>  my God. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God.
-<small><sub>**BSB:**</sub></small>
-Although my brothers who went with me made the hearts of the people melt with fear, I remained loyal to the LORD my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.7|<< Joshua 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.9|Joshua 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

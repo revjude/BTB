@@ -1,12 +1,12 @@
-**1 Corinthians 9:22
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:22**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To the weak became I as weak, that I might gain the weak: I am made all things to all [men], that I might by all means save some.
 <small><sub>**BSB:**</sub></small>
 To the weak I became weak, to win the weak. I have become all things to all people so that by all possible means I might save some.
 <small><sub>**Literal:**</sub></small>
 I became to the weak as weak that the weak I may win; The [things] to all I have become <the> all so that by all means some I may save.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.21|<< 1 Corinthians 9:21]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.23|1 Corinthians 9:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I became |**<big>[[G1096\|ἐγενόμην]]</big>**  |egenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

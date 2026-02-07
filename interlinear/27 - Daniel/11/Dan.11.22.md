@@ -1,4 +1,4 @@
-**Daniel 11:22** 
+**Daniel 11:22**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a flood of forces will be swept away before him and destroyed, along with a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.21|<< Daniel 11:21]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.23|Daniel 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] forces of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2220\|זְרֹע֥וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ze.ro.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the flood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7858\|שֶּׁ֛טֶף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> She.tef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

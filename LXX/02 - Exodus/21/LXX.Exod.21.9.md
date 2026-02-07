@@ -1,10 +1,7 @@
 **LXX Exodus 21:9** 
 <small><sub>**LXX:**</sub></small>
 And if \[to\] his son he solemnly promised her, according to the ordinance of the daughters he shall commit to her. 
-<small><sub>**KJV:**</sub></small>
-And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.
-<small><sub>**BSB:**</sub></small>
-And if he chooses her for his son, he must deal with her as with a daughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.8|<< Exodus 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.10|Exodus 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

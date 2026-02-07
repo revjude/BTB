@@ -1,4 +1,4 @@
-**Lamentations 2:22** 
+**Lamentations 2:22**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD’S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You summoned my terrors on every side, as for the day of an appointed feast. In 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.21|<< Lamentations 2:21]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.1|Lamentations 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have summoned  |**<big>&#8207;[[H7121G\|תִּקְרָא֩]]&#8207; </big>**| tik.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] day of  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3117G\|י֨וֹם]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

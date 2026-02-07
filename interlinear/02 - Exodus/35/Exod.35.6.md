@@ -1,4 +1,4 @@
-**Exodus 35:6** 
+**Exodus 35:6**<big><big>[[Exod.35.4 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blue, and purple, and scarlet, and fine linen, and goats’ [hair],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ blue, purple, and scarlet yarn; fine linen and goat hair;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.5|<< Exodus 35:5]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.7|Exodus 35:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and violet stuff  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8504\|תְכֵ֧לֶת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and purple  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0713\|אַרְגָּמָ֛ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ga.Man<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:13** 
 <small><sub>**LXX:**</sub></small>
 And  their sons, the ones who have not known, they shall hear, and shall learn to fear \[the\] <span class="smallcaps">lord</span>  your God all the days, as many as they live upon the land, into which you pass over the Jordan there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-And [that] their children, which have not known [any thing], may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.
-<small><sub>**BSB:**</sub></small>
-Then their children who do not know the law will listen and learn to fear the LORD your God, as long as you live in the land that you are crossing the Jordan to possess.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.12|<< Deuteronomy 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.14|Deuteronomy 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

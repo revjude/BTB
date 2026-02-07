@@ -1,10 +1,7 @@
 **LXX Numbers 26:59** 
 <small><sub>**LXX:**</sub></small>
 And the name  of his wife \[was\] Jochebed, daughter of Levi, who bore these  to Levi in Egypt. And she bore  to Amram --  Aaron and Moses and Miriam  their sister. 
-<small><sub>**KJV:**</sub></small>
-And the name of Amram’s wife [was] Jochebed, the daughter of Levi, whom [her mother] bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
-<small><sub>**BSB:**</sub></small>
-and Amram’s wife was named Jochebed. She was also a daughter of Levi, born to Levi in Egypt. To Amram she bore Aaron, Moses, and their sister Miriam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.58|<< Numbers 26:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.60|Numbers 26:60 >>]]</td></tr></table>
 
 | Translation | Greek |

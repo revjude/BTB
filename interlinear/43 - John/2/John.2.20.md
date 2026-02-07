@@ -1,12 +1,12 @@
-**John 2:20
-**<small><sub>**KJV:**</sub></small>
+**John 2:20**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
 <small><sub>**BSB:**</sub></small>
 “This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?”
 <small><sub>**Literal:**</sub></small>
 Said therefore the Jews; For forty and six years was built <the> temple this, and You yourself in three days will raise up it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.19|<< John 2:19]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.21|John 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

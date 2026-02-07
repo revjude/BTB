@@ -1,10 +1,7 @@
 **LXX Exodus 12:21** 
 <small><sub>**LXX:**</sub></small>
 And Moses called \[the\] whole council of elders of Israel. And he said to them, Going forth, take to yourselves a sheep according to your kin, and sacrifice the passover! 
-<small><sub>**KJV:**</sub></small>
-Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
-<small><sub>**BSB:**</sub></small>
-Then Moses summoned all the elders of Israel and told them, “Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.20|<< Exodus 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.22|Exodus 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

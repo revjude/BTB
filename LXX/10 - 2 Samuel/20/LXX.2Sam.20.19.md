@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:19** 
 <small><sub>**LXX:**</sub></small>
 I am peaceable of ones supporting Israel. But you seek to kill a city, even a mother-city in Israel. Why do you swallow down \[the\] inheritance of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-I [am one of them that are] peaceable [and] faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD?
-<small><sub>**BSB:**</sub></small>
-I am among the peaceable and faithful in Israel, but you are trying to destroy a city that is a mother in Israel. Why would you swallow up the LORD’s inheritance?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.18|<< 2 Samuel 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.20|2 Samuel 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

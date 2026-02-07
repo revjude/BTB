@@ -1,4 +1,4 @@
-**Ezekiel 1:15** 
+**Ezekiel 1:15**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I looked at the living creatures, I saw a wheel on the ground beside each c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.14|<< Ezekiel 1:14]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.16|Ezekiel 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֖רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the living creatures  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2416C\|חַיּ֑וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 68:35** 
 <small><sub>**LXX:**</sub></small>
 God \[is\] wonderful in  his holy \[places\]. The God of Israel -- he shall give power and fortification \[to\] his people. Blessed \[be\]  God. 
-<small><sub>**KJV:**</sub></small>
-O God, [thou art] terrible out of thy holy places: the God of Israel [is] he that giveth strength and power unto [his] people. Blessed [be] God.
-<small><sub>**BSB:**</sub></small>
-O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.34|<< Psalm 68:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.1|Psalm 69:1 >>]]</td></tr></table>
 
 | Translation | Greek |

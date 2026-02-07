@@ -1,4 +1,4 @@
-**Psalms 68:11** (68:12)
+**Psalms 68:11**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord gave the word: great [was] the company of those that published [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Lord gives the command; a great company of women proclaim it:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.10|<< Psalms 68:10]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.12|Psalms 68:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gives  |**<big>&#8207;[[H5414G\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.ten-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

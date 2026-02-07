@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:12** 
 <small><sub>**LXX:**</sub></small>
 And Solomon sat upon the throne of David  his father. And his kingdom was prepared exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.
-<small><sub>**BSB:**</sub></small>
-So Solomon sat on the throne of his father David, and his kingdom was firmly established.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.11|<< 1 Kings 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.13|1 Kings 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

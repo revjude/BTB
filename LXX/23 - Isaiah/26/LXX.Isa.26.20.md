@@ -1,10 +1,7 @@
 **LXX Isaiah 26:20** 
 <small><sub>**LXX:**</sub></small>
 Proceed, O my people! Enter into  your inner chambers! Lock  your door! Be concealed a little! as much as \[this\], as much as \[that\], until whenever the anger \[of the\] <span class="smallcaps">lord</span> should go by. 
-<small><sub>**KJV:**</sub></small>
-Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
-<small><sub>**BSB:**</sub></small>
-Go, my people, enter your rooms and shut your doors behind you. Hide yourselves a little while until the wrath has passed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.19|<< Isaiah 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.21|Isaiah 26:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 26:20** is...

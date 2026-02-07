@@ -1,10 +1,7 @@
 **LXX Daniel 9:7** 
 <small><sub>**LXX:**</sub></small>
 To you, O <span class="smallcaps">lord</span>, \[is\] righteousness, and to us the shame  of face, as  this day; to \[the\] man of Judah, and to the ones dwelling Jerusalem, and to all Israel, to the ones near, and to the ones far off in all the earth, of which you dispersed them there, for their rebellion in which they annulled \[covenant\] with you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-O Lord, righteousness [belongeth] unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, [that are] near, and [that are] far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.
-<small><sub>**BSB:**</sub></small>
-To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.6|<< Daniel 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.8|Daniel 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

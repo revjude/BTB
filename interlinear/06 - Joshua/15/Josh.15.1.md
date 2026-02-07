@@ -1,4 +1,4 @@
-**Joshua 15:1** 
+**Joshua 15:1**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This] then was the lot of the tribe of the children of Judah by their families; [even] to the border of Edom the wilderness of Zin southward [was] the uttermost part of the south coast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the allotment for the clans of the tribe of Judah extended to the border of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.15|<< Joshua 14:15]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.2|Joshua 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָ֗ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

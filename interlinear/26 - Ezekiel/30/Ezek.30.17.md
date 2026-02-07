@@ -1,4 +1,4 @@
-**Ezekiel 30:17** 
+**Ezekiel 30:17**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young men of Aven and of Pibeseth shall fall by the sword: and these [cities] shall go into captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The young men of On and Pi-beseth will fall by the sword, and those cities will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.16|<< Ezekiel 30:16]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.18|Ezekiel 30:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] young men of  |**<big>&#8207;[[H0970\|בַּח֥וּרֵי]]&#8207; </big>**| ba.Chu.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | On  |**<big>&#8207;[[H0204\|אָ֛וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 14:13** 
 <small><sub>**LXX:**</sub></small>
 For ought in Hades you guarded me, and hid me until whenever your anger should cease; and should have ordered for me a time in which you shall make mention of me. 
-<small><sub>**KJV:**</sub></small>
-O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!
-<small><sub>**BSB:**</sub></small>
-If only You would hide me in Sheol and conceal me until Your anger has passed! If only You would appoint a time for me and then remember me!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.12|<< Job 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.14|Job 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

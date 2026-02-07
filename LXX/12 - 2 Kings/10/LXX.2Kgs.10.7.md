@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the scroll came to them, that they took the sons of the king, and they slew them -- seventy men. And they put  their heads in baskets, and they sent to him in Jezreel. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the letter came to them, that they took the king’s sons, and slew seventy persons, and put their heads in baskets, and sent him [them] to Jezreel.
-<small><sub>**BSB:**</sub></small>
-And when the letter arrived, they took the sons of the king and slaughtered all seventy of them. They put their heads in baskets and sent them to Jehu at Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.6|<< 2 Kings 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.8|2 Kings 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

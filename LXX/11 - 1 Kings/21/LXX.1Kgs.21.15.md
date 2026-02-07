@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, as Jezebel heard the ones saying, Naboth has been stoned, and has died; Jezebel said to Ahab, Rise up, inherit the vineyard of Naboth the Jezreelite! for he did not give it to you for money, for Naboth is not living, but has died. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.
-<small><sub>**BSB:**</sub></small>
-When Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up and take possession of the vineyard of Naboth the Jezreelite, who refused to give it to you for silver. For Naboth is no longer alive, but dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.14|<< 1 Kings 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.16|1 Kings 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

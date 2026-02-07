@@ -1,4 +1,4 @@
-**Genesis 8:1** 
+**Genesis 8:1**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God remembered Noah, and every living thing, and all the cattle that [was] with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But God remembered Noah and all the animals and livestock that were with him in 
 > $\quad$ referenced by: [[2Pet.2.5|2Pet 2:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he remembered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2142\|יִּזְכֹּ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

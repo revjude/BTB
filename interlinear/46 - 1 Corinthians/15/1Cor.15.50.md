@@ -1,12 +1,12 @@
-**1 Corinthians 15:50
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:50**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 <small><sub>**BSB:**</sub></small>
 Now I declare to you, brothers, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
 <small><sub>**Literal:**</sub></small>
 This now I say, brothers, that flesh and blood [the] kingdom of God to inherit not is able, nor the decay the immortality does inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.49|<< 1 Corinthians 15:49]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.51|1 Corinthians 15:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

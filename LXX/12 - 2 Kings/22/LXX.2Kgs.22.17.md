@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:17** 
 <small><sub>**LXX:**</sub></small>
 because they abandoned me, and burned incense to other gods, that they should provoke me to anger in all the works  of their hands. And my rage shall burn against  this place, and shall not be extinguished. 
-<small><sub>**KJV:**</sub></small>
-Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.
-<small><sub>**BSB:**</sub></small>
-because they have forsaken Me and burned incense to other gods, that they might provoke Me to anger with all the works of their hands. My wrath will be kindled against this place and will not be quenched.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.16|<< 2 Kings 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.18|2 Kings 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

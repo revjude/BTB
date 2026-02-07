@@ -1,12 +1,12 @@
-**Mark 4:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:26**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, So is the kingdom of God, as if a man should cast seed into the ground;
 <small><sub>**BSB:**</sub></small>
 Jesus also said, “The kingdom of God is like a man who scatters seed on the ground.
 <small><sub>**Literal:**</sub></small>
 And He was saying; Thus is the kingdom <the> of God, as if a man shall cast the seed upon the earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.25|<< Mark 4:25]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.27|Mark 4:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying; |**<big>[[G3004G\|ἔλεγεν·]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Romans 15:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:11**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.
 <small><sub>**BSB:**</sub></small>
 And again: “Praise the Lord, all you Gentiles, and extol Him, all you peoples.”
@@ -10,7 +10,7 @@ And again: do praise all  you who [are] Gentiles the Lord, and they should prais
 > $\quad$ referencing: [[LXX.Ps.117.1|Ps 117:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again: |**<big>[[G3825\|πάλιν·]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 3:43** 
 <small><sub>**LXX:**</sub></small>
 And were all the first-born males, by number, and by name, from a month and up, from  their numbering -- two and twenty thousand and three and seventy and two hundred. 
-<small><sub>**KJV:**</sub></small>
-And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.
-<small><sub>**BSB:**</sub></small>
-The total number of the firstborn males a month old or more, listed by name, was 22,273.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.42|<< Numbers 3:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.44|Numbers 3:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 8:1** 
+**Job 8:1**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Bildad the Shuhite, and said,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Bildad the Shuhite replied:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.21|<< Job 7:21]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.2|Job 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H6030B\|יַּעַן]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bildad  |**<big>&#8207;[[H1085\|בִּלְדַּ֥ד]]&#8207; </big>**| bil.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

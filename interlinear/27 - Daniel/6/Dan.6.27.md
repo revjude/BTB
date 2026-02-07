@@ -1,4 +1,4 @@
-**Daniel 6:27** (6:28)
+**Daniel 6:27**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He delivers and rescues; He performs signs and wonders in the heavens and on the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.26|<< Daniel 6:26]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.28|Daniel 6:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] delivering  |**<big>&#8207;[[H7804\|מְשֵׁיזִ֣ב]]&#8207; </big>**| me.shei.Ziv<small><sup>[[AVermsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [he is] rescuing  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5338\|מַצִּ֗ל]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ma.Tzil<small><sup>[[AVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

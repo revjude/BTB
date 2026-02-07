@@ -1,4 +1,4 @@
-**Isaiah 11:4** 
+**Isaiah 11:4**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ but with righteousness He will judge the poor, and with equity He will decide fo
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]] ☩ [[2Thess.2.8|2Thess 2:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will judge  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָׁפַ֤ט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Fat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with righteousness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6664G\|צֶ֙דֶק֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[And this then is\] the word which the king sent to Rehum \[the\] master, and Shimshai \[the\] scribe, and to the rest of their fellow-servants of the ones living in Samaria, and the rest on the other side of the river, \[saying\], Peace. And says \[the king\], 
-<small><sub>**KJV:**</sub></small>
-[Then] sent the king an answer unto Rehum the chancellor, and [to] Shimshai the scribe, and [to] the rest of their companions that dwell in Samaria, and [unto] the rest beyond the river, Peace, and at such a time.
-<small><sub>**BSB:**</sub></small>
-Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.16|<< Ezra 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.18|Ezra 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

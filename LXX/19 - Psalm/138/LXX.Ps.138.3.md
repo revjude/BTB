@@ -1,10 +1,7 @@
 **LXX Psalm 138:3** 
 <small><sub>**LXX:**</sub></small>
 In what ever day I should call upon you, quickly heed me! You shall take great care of me in my soul by your power. 
-<small><sub>**KJV:**</sub></small>
-In the day when I cried thou answeredst me, [and] strengthenedst me [with] strength in my soul.
-<small><sub>**BSB:**</sub></small>
-On the day I called, You answered me; You emboldened me and strengthened my soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.138.2|<< Psalm 138:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.4|Psalm 138:4 >>]]</td></tr></table>
 
 | Translation | Greek |

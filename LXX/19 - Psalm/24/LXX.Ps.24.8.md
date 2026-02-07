@@ -1,10 +1,7 @@
 **LXX Psalm 24:8** 
 <small><sub>**LXX:**</sub></small>
 Who is this  king  of glory? \[The\] <span class="smallcaps">lord</span>, fortified and mighty; \[the\] <span class="smallcaps">lord</span> mighty in battle. 
-<small><sub>**KJV:**</sub></small>
-Who [is] this King of glory? The LORD strong and mighty, the LORD mighty in battle.
-<small><sub>**BSB:**</sub></small>
-Who is this King of Glory? The LORD strong and mighty, the LORD mighty in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.7|<< Psalm 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.9|Psalm 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

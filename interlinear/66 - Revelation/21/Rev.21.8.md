@@ -1,12 +1,12 @@
-**Revelation 21:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:8**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 <small><sub>**BSB:**</sub></small>
 But to the cowardly and unbelieving and abominable and murderers and sexually immoral and sorcerers and idolaters and all liars, their place will be in the lake that burns with fire and sulfur. This is the second death.”
 <small><sub>**Literal:**</sub></small>
 <the> But to [the] cowardly and to [the] unbelieving and to sinners and having made themselves abominable and to murderers and to the sexually immoral and to sorcerers and to idolaters and to all <the> liars, the portion of them [is] in the lake which is burning with fire and with brimstone, which is the death <the> second.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.7|<< Revelation 21:7]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.9|Revelation 21:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |

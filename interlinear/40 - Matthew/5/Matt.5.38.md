@@ -1,5 +1,5 @@
-**Matthew 5:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:38**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said, ‘Eye for eye and tooth for tooth.’
@@ -10,7 +10,7 @@ You have heard that it was said; Eye for eye and tooth for tooth.’<br><table w
 > $\quad$ referencing: [[LXX.Exod.21.24|Exod 21:24]] ☩ [[LXX.Lev.24.20|Lev 24:20]] ☩ [[LXX.Deut.19.21|Deut 19:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have heard |**<big>[[G0191\|Ἠκούσατε]]</big>**  |Ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

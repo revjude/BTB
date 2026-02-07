@@ -1,4 +1,4 @@
-**Joshua 18:13** 
+**Joshua 18:13**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went over from thence toward Luz, to the side of Luz, which [is] Bethel, southward; and the border descended to Atarothadar, near the hill that [lieth] on the south side of the nether Bethhoron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there the border crossed over to the southern slope of Luz (that is, Bethel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.12|<< Joshua 18:12]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.14|Joshua 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passes on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַר֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֨ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

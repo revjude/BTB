@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:11** 
 <small><sub>**LXX:**</sub></small>
 And a man stood by him, \[one\] of the servants of Joab. And he said, Who \[is\] the one wanting Joab, and who \[is\] the \[one wanting\] David? \[Be\] behind  Joab. 
-<small><sub>**KJV:**</sub></small>
-And one of Joab’s men stood by him, and said, He that favoureth Joab, and he that [is] for David, [let him go] after Joab.
-<small><sub>**BSB:**</sub></small>
-One of Joab’s young men stood near Amasa and said, “Whoever favors Joab, and whoever is for David, let him follow Joab!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.10|<< 2 Samuel 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.12|2 Samuel 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

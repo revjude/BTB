@@ -1,4 +1,4 @@
-**Exodus 20:9** 
+**Exodus 20:9**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days shalt thou labour, and do all thy work:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six days you shall labor and do all your work,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.8|<< Exodus 20:8]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.10|Exodus 20:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֤֣שֶׁת]]&#8207; </big>**[^1] | She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֣ים֙]]&#8207; </big>**[^2] | ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

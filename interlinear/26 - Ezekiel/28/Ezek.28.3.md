@@ -1,4 +1,4 @@
-**Ezekiel 28:3** 
+**Ezekiel 28:3**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou [art] wiser than Daniel; there is no secret that they can hide from thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, you are wiser than Daniel; no secret is hidden from you!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.2|<< Ezekiel 28:2]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.4|Ezekiel 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] wise  |**<big>&#8207;[[H2450\|חָכָ֛ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

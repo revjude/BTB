@@ -1,10 +1,7 @@
 **LXX Job 1:9** 
 <small><sub>**LXX:**</sub></small>
 And the devil answered, and said, Before the <span class="smallcaps">lord</span>, does Job freely fear  God? 
-<small><sub>**KJV:**</sub></small>
-Then Satan answered the LORD, and said, Doth Job fear God for nought?
-<small><sub>**BSB:**</sub></small>
-Satan answered the LORD, “Does Job fear God for nothing?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.8|<< Job 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.10|Job 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

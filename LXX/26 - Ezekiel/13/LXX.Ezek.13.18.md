@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Woe to the ones sewing together pillows under every elbow of \[the\] hand, and making coverings for every head of every stature  to pervert souls. The souls are perverted  of my people, and they protected souls. 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the Lord GOD; Woe to the [women] that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive [that come] unto you?
-<small><sub>**BSB:**</sub></small>
-and tell them that this is what the Lord GOD says: Woe to the women who sew magic charms on their wrists and make veils for the heads of people of every height, in order to ensnare their souls. Will you ensnare the souls of My people but preserve your own?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.17|<< Ezekiel 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.19|Ezekiel 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

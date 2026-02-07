@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as he reigned, he struck \[the\] entire  house of Jeroboam; and he left not any \[that\] breathed  of Jeroboam, until  utterly destroying him, (according to the saying of \[the\] <span class="smallcaps">lord</span>, which he spoke by \[the\] hand of his servant Ahijah the Shilonite,) 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he reigned, [that] he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:
-<small><sub>**BSB:**</sub></small>
-As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.28|<< 1 Kings 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.30|1 Kings 15:30 >>]]</td></tr></table>
 
 | Translation | Greek |

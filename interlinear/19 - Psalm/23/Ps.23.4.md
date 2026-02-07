@@ -1,4 +1,4 @@
-**Psalms 23:4** 
+**Psalms 23:4**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even though I walk through the valley of the shadow of death, I will fear no evi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.3|<< Psalms 23:3]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.5|Psalms 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

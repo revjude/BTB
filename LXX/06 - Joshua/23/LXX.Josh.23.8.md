@@ -1,10 +1,7 @@
 **LXX Joshua 23:8** 
 <small><sub>**LXX:**</sub></small>
 But \[to the\] <span class="smallcaps">lord</span>  your God you shall cleave, just as you did until  this day. 
-<small><sub>**KJV:**</sub></small>
-But cleave unto the LORD your God, as ye have done unto this day.
-<small><sub>**BSB:**</sub></small>
-Instead, you shall hold fast to the LORD your God, as you have done to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.7|<< Joshua 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.9|Joshua 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

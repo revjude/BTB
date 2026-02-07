@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:4** 
 <small><sub>**LXX:**</sub></small>
 And Hanun took the servants of David, and he shaved them, and removed  their uniforms  half \[way\] unto the wrapping. And he sent them \[away\]. 
-<small><sub>**KJV:**</sub></small>
-Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away.
-<small><sub>**BSB:**</sub></small>
-So Hanun took David’s servants, shaved their beards, cut off their garments at the hips, and sent them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.3|<< 1 Chronicles 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.5|1 Chronicles 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

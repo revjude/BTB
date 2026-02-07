@@ -1,4 +1,4 @@
-**2 Chronicles 17:10** 
+**2 Chronicles 17:10**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fear of the LORD fell upon all the kingdoms of the lands that [were] round about Judah, so that they made no war against Jehoshaphat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the dread of the LORD fell upon all the kingdoms of the lands that surrounde
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.9|<< 2 Chronicles 17:9]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.11|2 Chronicles 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] dread of  |**<big>&#8207;[[H6343\|פַּ֣חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 7:21
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:21**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Art thou called [being] a servant? care not for it: but if thou mayest be made free, use [it] rather.
 <small><sub>**BSB:**</sub></small>
 Were you a slave when you were called? Do not let it concern you—but if you can gain your freedom, take the opportunity.
 <small><sub>**Literal:**</sub></small>
 Slave [being] were you called? not you should it concern; but if even you are able free to become, rather do take advantage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.20|<< 1 Corinthians 7:20]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.22|1 Corinthians 7:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Slave [being] |**<big>[[G1401\|δοῦλος]]</big>**  |doulos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were you called? |**<big>[[G2564G\|ἐκλήθης;]]</big>**  |eklēthēs <small><sup>[[V-API-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 26:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:13**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, [there] shall also this, that this woman hath done, be told for a memorial of her.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, wherever this gospel is preached in all the world, what she has done will also be told in memory of her.”
 <small><sub>**Literal:**</sub></small>
 Amen I say to you; wherever if shall be proclaimed <the> gospel this in all the world, will be spoken of also that which did this [woman] for a memorial of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.12|<< Matthew 26:12]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.14|Matthew 26:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

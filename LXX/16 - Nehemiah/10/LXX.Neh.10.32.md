@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:32** 
 <small><sub>**LXX:**</sub></small>
 And we shall establish for us commandments to yield up for us a third of the double-drachma per year for \[the\] service of \[the\] house  of our God, 
-<small><sub>**KJV:**</sub></small>
-Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
-<small><sub>**BSB:**</sub></small>
-We also place ourselves under the obligation to contribute a third of a shekel yearly for the service of the house of our God:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.31|<< Nehemiah 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.33|Nehemiah 10:33 >>]]</td></tr></table>
 
 | Translation | Greek |

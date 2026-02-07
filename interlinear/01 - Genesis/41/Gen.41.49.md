@@ -1,4 +1,4 @@
-**Genesis 41:49** 
+**Genesis 41:49**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for [it was] without number.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joseph stored up grain in such abundance, like the sand of the sea, that he s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.48|<< Genesis 41:48]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.50|Genesis 41:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stored up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6651\|יִּצְבֹּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.Bor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֥ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

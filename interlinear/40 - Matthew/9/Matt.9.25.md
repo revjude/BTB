@@ -1,12 +1,12 @@
-**Matthew 9:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:25**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the people were put forth, he went in, and took her by the hand, and the maid arose.
 <small><sub>**BSB:**</sub></small>
 After the crowd had been put outside, Jesus went in and took the girl by the hand, and she got up.
 <small><sub>**Literal:**</sub></small>
 When now was put outside the crowd, having entered He took hold of the hand of her, and arose the girl.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.24|<< Matthew 9:24]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.26|Matthew 9:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

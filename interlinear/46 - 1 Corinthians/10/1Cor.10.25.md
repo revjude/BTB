@@ -1,12 +1,12 @@
-**1 Corinthians 10:25
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:25**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whatsoever is sold in the shambles, [that] eat, asking no question for conscience sake:
 <small><sub>**BSB:**</sub></small>
 Eat anything sold in the meat market without raising questions of conscience,
 <small><sub>**Literal:**</sub></small>
 Everything <the> in the meat market being sold do eat nothing inquiring on account of <the> conscience;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.24|<< 1 Corinthians 10:24]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.26|1 Corinthians 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everything |**<big>[[G3956\|Πᾶν]]</big>**  |Pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 17:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:15**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,
 <small><sub>**BSB:**</sub></small>
 When one of them saw that he was healed, he came back, praising God in a loud voice.
 <small><sub>**Literal:**</sub></small>
 one then of them having seen that he was healed, turned back with a voice loud glorifying <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.14|<< Luke 17:14]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.16|Luke 17:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

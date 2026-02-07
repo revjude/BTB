@@ -1,10 +1,7 @@
 **LXX Exodus 37:6** 
 <small><sub>**LXX:**</sub></small>
 And he made the atonement-seat lid of pure gold. Two cubits and a half \[was\] the length, and a cubit and a half \[was\] the width. 
-<small><sub>**KJV:**</sub></small>
-And he made the mercy seat [of] pure gold: two cubits and a half [was] the length thereof, and one cubit and a half the breadth thereof.
-<small><sub>**BSB:**</sub></small>
-He constructed a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.5|<< Exodus 37:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.7|Exodus 37:7 >>]]</td></tr></table>
 
 | Translation | Greek |

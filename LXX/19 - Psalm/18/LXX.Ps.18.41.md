@@ -1,10 +1,7 @@
 **LXX Psalm 18:41** 
 <small><sub>**LXX:**</sub></small>
 They cried out to \[the\] <span class="smallcaps">lord</span> and there was no one delivering, and he did not hear them. 
-<small><sub>**KJV:**</sub></small>
-They cried, but [there was] none to save [them: even] unto the LORD, but he answered them not.
-<small><sub>**BSB:**</sub></small>
-They cried for help, but there was no one to save them—to the LORD, but He did not answer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.40|<< Psalm 18:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.42|Psalm 18:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 31:3** 
 <small><sub>**LXX:**</sub></small>
 And I filled him a divine spirit of wisdom, and understanding, and higher knowledge, to consider in every work, 
-<small><sub>**KJV:**</sub></small>
-And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
-<small><sub>**BSB:**</sub></small>
-And I have filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.2|<< Exodus 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.4|Exodus 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

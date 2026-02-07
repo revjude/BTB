@@ -1,4 +1,4 @@
-**Judges 20:15** 
+**Judges 20:15**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.14|<< Judges 20:14]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.16|Judges 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were mustered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6485A\|יִּתְפָּֽקְדוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pa.ke.Du<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵ֨י]]&#8207; </big>**| ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

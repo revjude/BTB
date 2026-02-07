@@ -1,4 +1,4 @@
-**Psalms 125:3** 
+**Psalms 125:3**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the scepter of the wicked will not rest upon the land allotted to the righte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.2|<< Psalms 125:2]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.4|Psalms 125:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֪א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

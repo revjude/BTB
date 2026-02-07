@@ -1,10 +1,7 @@
 **LXX Exodus 15:11** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] likened to you among gods, O <span class="smallcaps">lord</span>? Who \[is\] likened to you, being glorified among holy ones, wonderful in glories, doing miracles? 
-<small><sub>**KJV:**</sub></small>
-Who [is] like unto thee, O LORD, among the gods? who [is] like thee, glorious in holiness, fearful [in] praises, doing wonders?
-<small><sub>**BSB:**</sub></small>
-Who among the gods is like You, O LORD? Who is like You—majestic in holiness, revered with praises, performing wonders?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.10|<< Exodus 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.12|Exodus 15:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 15:11** is...

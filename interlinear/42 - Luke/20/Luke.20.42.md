@@ -1,5 +1,5 @@
-**Luke 20:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:42**<big><big>[[Luke.20.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,
 <small><sub>**BSB:**</sub></small>
 For David himself says in the book of Psalms: ‘The Lord said to my Lord, “Sit at My right hand
@@ -10,7 +10,7 @@ and Himself for David says in [the] book of Psalms: Said the Lord to the Lord of
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

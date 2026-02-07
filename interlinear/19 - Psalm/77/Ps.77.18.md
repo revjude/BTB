@@ -1,4 +1,4 @@
-**Psalms 77:18** (77:19)
+**Psalms 77:18**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of thy thunder [was] in the heaven: the lightnings lightened the world: the earth trembled and shook.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your thunder resounded in the whirlwind; the lightning lit up the world; the ear
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.17|<< Psalms 77:17]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.19|Psalms 77:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963H\|ק֤וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thunder your  |**<big>&#8207;[[H7482\|רַעַמְ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.'am.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 99:1** 
+**Psalms 99:1**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD reigneth; let the people tremble: he sitteth [between] the cherubims; let the earth be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD reigns; let the nations tremble! He is enthroned above the cherubim; le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.9|<< Psalms 98:9]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.2|Psalms 99:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he reigns  |**<big>&#8207;[[H4427A\|מָ֭לָךְ]]&#8207; </big>**| Ma.lokh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

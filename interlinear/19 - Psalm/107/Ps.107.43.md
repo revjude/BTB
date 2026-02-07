@@ -1,4 +1,4 @@
-**Psalms 107:43** 
+**Psalms 107:43**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso [is] wise, and will observe these [things], even they shall understand the lovingkindness of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let him who is wise pay heed to these things and consider the loving devotion of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.42|<< Psalms 107:42]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.0|Psalms 108:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] wise  |**<big>&#8207;[[H2450\|חָכָ֥ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 1:1** 
+**Daniel 1:1**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.35|<< Ezekiel 48:35]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.2|Daniel 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שָׁל֔וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

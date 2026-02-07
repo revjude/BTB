@@ -1,10 +1,7 @@
 **LXX Exodus 5:22** 
 <small><sub>**LXX:**</sub></small>
 And Moses turned to \[the\] <span class="smallcaps">lord</span>, and said, O <span class="smallcaps">lord</span>, for why did you inflict evil on  this people? And why have you sent me? 
-<small><sub>**KJV:**</sub></small>
-And Moses returned unto the LORD, and said, Lord, wherefore hast thou [so] evil entreated this people? why [is] it [that] thou hast sent me?
-<small><sub>**BSB:**</sub></small>
-So Moses returned to the LORD and asked, “Lord, why have You brought trouble upon this people? Is this why You sent me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.21|<< Exodus 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.23|Exodus 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

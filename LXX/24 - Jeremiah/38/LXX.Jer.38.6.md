@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:6** 
 <small><sub>**LXX:**</sub></small>
 And they took  Jeremiah, and they tossed him into the pit of Malchiah, son of the king, which was in the courtyard of the guard. And they let him down with rough cords into the pit. And in the pit there was no water, but only mire, and he was in the mire. 
-<small><sub>**KJV:**</sub></small>
-Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that [was] in the court of the prison: and they let down Jeremiah with cords. And in the dungeon [there was] no water, but mire: so Jeremiah sunk in the mire.
-<small><sub>**BSB:**</sub></small>
-So they took Jeremiah and dropped him into the cistern of Malchiah, the king’s son, which was in the courtyard of the guard. They lowered Jeremiah with ropes into the cistern, which had no water but only mud, and Jeremiah sank down into the mud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.5|<< Jeremiah 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.7|Jeremiah 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

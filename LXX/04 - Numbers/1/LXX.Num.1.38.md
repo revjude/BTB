@@ -1,10 +1,7 @@
 **LXX Numbers 1:38** 
 <small><sub>**LXX:**</sub></small>
 To the sons of Dan, according to their kin, according to their peoples, according to \[the\] houses of their patrimony, according to \[the\] number of their names, all males from twenty years and up, every one  going forth in the force, 
-<small><sub>**KJV:**</sub></small>
-Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
-<small><sub>**BSB:**</sub></small>
-From the sons of Dan, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.37|<< Numbers 1:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.39|Numbers 1:39 >>]]</td></tr></table>
 
 | Translation | Greek |

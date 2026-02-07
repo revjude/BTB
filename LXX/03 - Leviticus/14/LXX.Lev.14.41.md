@@ -1,10 +1,7 @@
 **LXX Leviticus 14:41** 
 <small><sub>**LXX:**</sub></small>
 And they shall scrape the house from inside round about, and shall pour out the dust of the scraping outside the city into an unclean place. 
-<small><sub>**KJV:**</sub></small>
-And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
-<small><sub>**BSB:**</sub></small>
-And he shall have the inside of the house scraped completely and the plaster that is scraped off dumped into an unclean place outside the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.40|<< Leviticus 14:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.42|Leviticus 14:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:48** 
+**Deuteronomy 28:48**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all [things]: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you will serve your enemies the LORD will send against you in famine, thirst, na
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647G\|עָבַדְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.vad.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

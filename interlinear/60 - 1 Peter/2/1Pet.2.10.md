@@ -1,5 +1,5 @@
-**1 Peter 2:10
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:10**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which in time past [were] not a people, but [are] now the people of God: which had not obtained mercy, but now have obtained mercy.
 <small><sub>**BSB:**</sub></small>
 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
@@ -11,7 +11,7 @@ who once [were] not a people, now however [the] people of God, those [who] not r
 > $\quad$ alluding to: [[LXX.Hos.2.23|Hos 2:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἵ]]</big>**  |oi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | once [were] |**<big>[[G4218\|ποτε]]</big>**  |pote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

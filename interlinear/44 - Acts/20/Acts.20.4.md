@@ -1,12 +1,12 @@
-**Acts 20:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:4**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 <small><sub>**BSB:**</sub></small>
 Paul was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia.
 <small><sub>**Literal:**</sub></small>
 Was accompanied by then him until <the> Asia Sopater [son] of Pyrrhus a Berean, of the Thessalonians now Aristarchus and Secundus and Gaius of Derbe and Timothy; [the] Asians now Tychicus and Trophimus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.3|<< Acts 20:3]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.5|Acts 20:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was accompanied by |**<big>[[G4902\|συνείπετο]]</big>**  |suneipeto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

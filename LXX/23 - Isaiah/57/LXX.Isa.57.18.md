@@ -1,10 +1,7 @@
 **LXX Isaiah 57:18** 
 <small><sub>**LXX:**</sub></small>
  I have seen his ways, and I healed him, and comforted him, and gave to him true comfort. 
-<small><sub>**KJV:**</sub></small>
-I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners.
-<small><sub>**BSB:**</sub></small>
-I have seen his ways, but I will heal him; I will guide him and restore comfort to him and his mourners,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.17|<< Isaiah 57:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.19|Isaiah 57:19 >>]]</td></tr></table>
 
 | Translation | Greek |

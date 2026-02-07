@@ -1,10 +1,7 @@
 **LXX Numbers 25:18** 
 <small><sub>**LXX:**</sub></small>
 For with deceit they are hating you, \[with\] as many \[things\] they used deceit against you through Peor, even through Cozbi, daughter of \[the\] ruler of Midian, their sister, the one being struck in the day of the calamity on account of Peor. 
-<small><sub>**KJV:**</sub></small>
-For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake.
-<small><sub>**BSB:**</sub></small>
-For they assailed you deceitfully when they seduced you in the matter of Peor and their sister Cozbi, the daughter of the Midianite leader, the woman who was killed on the day the plague came because of Peor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.17|<< Numbers 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.1|Numbers 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

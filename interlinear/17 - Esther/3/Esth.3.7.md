@@ -1,4 +1,4 @@
-**Esther 3:7** 
+**Esther 3:7**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first month, that [is], the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that [is], the lot, before Haman from day to day, and from month to month, [to] the twelfth [month], that [is], the month Adar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelfth year of King Xerxes, in the first month, the month of Nisan, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.6|<< Esther 3:6]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.8|Esther 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹ֤דֶשׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.shOn<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

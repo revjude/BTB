@@ -1,10 +1,7 @@
 **LXX Judges 3:5** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel dwelt in \[the\] midst of the Canaanite, and the Hittite, and the Amorite, and the Perizzite, and the Hivite, and the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:
-<small><sub>**BSB:**</sub></small>
-Thus the Israelites continued to live among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.4|<< Judges 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.6|Judges 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

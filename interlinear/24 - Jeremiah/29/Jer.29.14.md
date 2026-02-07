@@ -1,4 +1,4 @@
-**Jeremiah 29:14** 
+**Jeremiah 29:14**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will be found by you, declares the LORD, and I will restore you from captivity
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.13|<< Jeremiah 29:13]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.15|Jeremiah 29:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will let myself be found  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4672\|נִמְצֵ֣אתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nim.Tze.ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֮]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 18:20** 
+**Jeremiah 18:20**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, [and] to turn away thy wrath from them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should good be repaid with evil? Yet they have dug a pit for me. Remember how I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.19|<< Jeremiah 18:19]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.21|Jeremiah 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will it be repaid  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H7999A\|יְשֻׁלַּ֤ם]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> y.shu.Lam<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in place of  |**<big>&#8207;[[H8478H\|תַּֽחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.chat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Amos 8:12** 
+**Amos 8:12**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ People will stagger from sea to sea and roam from north to east, seeking the wor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.11|<< Amos 8:11]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.13|Amos 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will stagger  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5128\|נָעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from sea  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3220G\|יָּ֣ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

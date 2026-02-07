@@ -1,5 +1,5 @@
-**Galatians 5:14
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:14**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all the law is fulfilled in one word, [even] in this; Thou shalt love thy neighbour as thyself.
 <small><sub>**BSB:**</sub></small>
 The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”
@@ -10,7 +10,7 @@ The entire law is fulfilled in a single decree: “Love your neighbor as yoursel
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 43:23** 
 <small><sub>**LXX:**</sub></small>
 You did not bring to me of your sheep, of the one of your whole offering; nor in  your sacrifices you glorified me. You were not enslaved in sacrifices, nor did you weary with frankincense. 
-<small><sub>**KJV:**</sub></small>
-Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.
-<small><sub>**BSB:**</sub></small>
-You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.22|<< Isaiah 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.24|Isaiah 43:24 >>]]</td></tr></table>
 
 | Translation | Greek |

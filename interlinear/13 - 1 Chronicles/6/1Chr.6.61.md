@@ -1,4 +1,4 @@
-**1 Chronicles 6:61** (6:46)
+**1 Chronicles 6:61**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto the sons of Kohath, [which were] left of the family of that tribe, [were cities given] out of the half tribe, [namely, out of] the half [tribe] of Manasseh, by lot, ten cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the rest of the Kohathites, ten cities were allotted from the half-tribe of M
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.60|<< 1 Chronicles 6:60]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.62|1 Chronicles 6:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] descendants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kohath  |**<big>&#8207;[[H6955\|קְהָ֜ת]]&#8207; </big>**| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

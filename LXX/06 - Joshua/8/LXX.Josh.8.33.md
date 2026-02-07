@@ -1,10 +1,7 @@
 **LXX Joshua 8:33** 
 <small><sub>**LXX:**</sub></small>
 And all Israel, and  their elders, and  their magistrates, and  their scribes, \[were\] coming near on this side and that side before the ark; and the priests and the Levites lifted the ark of the covenant of \[the\] <span class="smallcaps">lord</span>; and the foreigner and the native born were \[there\]; the halves of them neighboring mount Gerizim, and the halves neighboring mount Ebal, as Moses people Israel the attendant \[of the\] <span class="smallcaps">lord</span> gave charge at first to bless the. 
-<small><sub>**KJV:**</sub></small>
-And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel.
-<small><sub>**BSB:**</sub></small>
-All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.32|<< Joshua 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.34|Joshua 8:34 >>]]</td></tr></table>
 
 | Translation | Greek |

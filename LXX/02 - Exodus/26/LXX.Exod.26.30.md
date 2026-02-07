@@ -1,10 +1,7 @@
 **LXX Exodus 26:30** 
 <small><sub>**LXX:**</sub></small>
 And you shall raise the tent according to the form  being shown to you in the mountain. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt rear up the tabernacle according to the fashion thereof which was shewed thee in the mount.
-<small><sub>**BSB:**</sub></small>
-So you are to set up the tabernacle according to the pattern shown you on the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.29|<< Exodus 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.31|Exodus 26:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 26:30** is...

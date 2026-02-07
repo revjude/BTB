@@ -1,10 +1,7 @@
 **LXX Numbers 24:17** 
 <small><sub>**LXX:**</sub></small>
 I will show to him, but not now. I bless, and he does not approach. A star will arise from out of Jacob, and a man shall rise up from out of Israel, and he shall devastate the heads of Moab, and he shall despoil all of the sons of Sheth. 
-<small><sub>**KJV:**</sub></small>
-I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
-<small><sub>**BSB:**</sub></small>
-I see him, but not now; I behold him, but not near. A star will come forth from Jacob, and a scepter will arise from Israel. He will crush the skulls of Moab and strike down all the sons of Sheth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.16|<< Numbers 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.18|Numbers 24:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 24:17** is...

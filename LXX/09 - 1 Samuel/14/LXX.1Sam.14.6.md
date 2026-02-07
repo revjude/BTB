@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:6** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said to the servant-lad  carrying  his weapons, Come, and we should pass over into the support \[camp\]  of these uncircumcised, if \[perchance\] \[the\] <span class="smallcaps">lord</span> may commit to us; for the <span class="smallcaps">lord</span> is not holding back to deliver by many or by few. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan said to the young man that bare his armour, Come, and let us go over unto the garrison of these uncircumcised: it may be that the LORD will work for us: for [there is] no restraint to the LORD to save by many or by few.
-<small><sub>**BSB:**</sub></small>
-Jonathan said to the young man bearing his armor, “Come, let us cross over to the outpost of these uncircumcised men. Perhaps the LORD will work on our behalf. Nothing can hinder the LORD from saving, whether by many or by few.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.5|<< 1 Samuel 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.7|1 Samuel 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

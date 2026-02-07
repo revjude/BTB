@@ -1,12 +1,12 @@
-**Luke 7:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:3**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.
 <small><sub>**BSB:**</sub></small>
 When the centurion heard about Jesus, he sent some Jewish elders to ask Him to come and heal his servant.
 <small><sub>**Literal:**</sub></small>
 Having heard then about <the> Jesus he sent to Him elders of the Jews begging Him that having come He may save the servant of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.2|<< Luke 7:2]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.4|Luke 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

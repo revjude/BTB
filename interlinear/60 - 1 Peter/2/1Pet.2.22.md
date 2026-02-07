@@ -1,5 +1,5 @@
-**1 Peter 2:22
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:22**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who did no sin, neither was guile found in his mouth:
 <small><sub>**BSB:**</sub></small>
 “He committed no sin, and no deceit was found in His mouth.”
@@ -10,7 +10,7 @@ Who sin not committed, neither was found trickery in the mouth of Him,<br><table
 > $\quad$ referencing: [[LXX.Isa.53.9|Isa 53:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sin |**<big>[[G0266\|ἁμαρτίαν]]</big>**  |hamartian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

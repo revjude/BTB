@@ -1,12 +1,12 @@
-**Matthew 8:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:32**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.
 <small><sub>**BSB:**</sub></small>
 “Go!” He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters.
 <small><sub>**Literal:**</sub></small>
 And He said to them; do go. <the> And having gone out they went away into <the> herd <the> pigs, and behold rushed all the herd of the of pigs down the steep bank into the sea, and perished in the waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.31|<< Matthew 8:31]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.33|Matthew 8:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

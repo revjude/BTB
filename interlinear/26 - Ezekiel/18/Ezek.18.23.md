@@ -1,4 +1,4 @@
-**Ezekiel 18:23** 
+**Ezekiel 18:23**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have I any pleasure at all that the wicked should die? saith the Lord GOD: [and] not that he should return from his ways, and live?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.22|<< Ezekiel 18:22]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.24|Ezekiel 18:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ really \<to take pleasure>  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H2654A\|חָפֹ֤ץ]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> cha.Fotz<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do I take pleasure in  |**<big>&#8207;[[H2654A\|אֶחְפֹּץ֙]]&#8207; </big>**| 'ech.Potz<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

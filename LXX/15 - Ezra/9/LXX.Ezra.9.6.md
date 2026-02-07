@@ -1,10 +1,7 @@
 **LXX Ezra 9:6** 
 <small><sub>**LXX:**</sub></small>
 And I said, O <span class="smallcaps">lord</span>, I am ashamed and feel shame  to raise up, O my God,  my face to you; for  our lawlessnesses multiplied over our head, and  our trespasses are magnified unto the heaven. 
-<small><sub>**KJV:**</sub></small>
-And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over [our] head, and our trespass is grown up unto the heavens.
-<small><sub>**BSB:**</sub></small>
-and said: “O my God, I am ashamed and embarrassed to lift up my face to You, my God, because our iniquities are higher than our heads, and our guilt has reached the heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.5|<< Ezra 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.7|Ezra 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

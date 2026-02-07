@@ -1,10 +1,7 @@
 **LXX Judges 7:6** 
 <small><sub>**LXX:**</sub></small>
 And was the number of the ones lapping with  their tongue three hundred men. And all the remaining  people bent upon  their knees to drink water. 
-<small><sub>**KJV:**</sub></small>
-And the number of them that lapped, [putting] their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
-<small><sub>**BSB:**</sub></small>
-And the number of those who lapped the water with their hands to their mouths was three hundred men; all the others knelt to drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.5|<< Judges 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.7|Judges 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

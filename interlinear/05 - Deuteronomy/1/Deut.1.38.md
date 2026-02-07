@@ -1,4 +1,4 @@
-**Deuteronomy 1:38** 
+**Deuteronomy 1:38**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joshua son of Nun, who stands before you, will enter it. Encourage him, for he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.37|<< Deuteronomy 1:37]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.39|Deuteronomy 1:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֤עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בִּן]]&#8207; </big>**[^1] | bin-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |

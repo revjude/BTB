@@ -1,4 +1,4 @@
-**Isaiah 38:13** 
+**Isaiah 38:13**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I reckoned till morning, [that], as a lion, so will he break all my bones: from day [even] to night wilt thou make an end of me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I composed myself until the morning. Like a lion He breaks all my bones; from da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.12|<< Isaiah 38:12]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.14|Isaiah 38:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have lain down  |**<big>&#8207;[[H7737B\|שִׁוִּ֤יתִי]]&#8207; </big>**| shi.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

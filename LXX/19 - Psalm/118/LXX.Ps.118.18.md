@@ -1,10 +1,7 @@
 **LXX Psalm 118:18** 
 <small><sub>**LXX:**</sub></small>
 In correcting, the <span class="smallcaps">lord</span> corrected me; and he shall not deliver me \[to\] death. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath chastened me sore: but he hath not given me over unto death.
-<small><sub>**BSB:**</sub></small>
-The LORD disciplined me severely, but He has not given me over to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.17|<< Psalm 118:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.19|Psalm 118:19 >>]]</td></tr></table>
 
 | Translation | Greek |

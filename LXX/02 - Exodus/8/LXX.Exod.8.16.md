@@ -1,10 +1,7 @@
 **LXX Exodus 8:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Say to Aaron! Stretch out  \[with your\] hand  your rod, and strike the embankment of the land! and there will be midges in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.15|<< Exodus 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.17|Exodus 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

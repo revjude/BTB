@@ -1,10 +1,7 @@
 **LXX Numbers 30:16** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the ordinances, as many as \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses between a husband and between his wife, and between a father and daughter in youth in \[the\] house of her father. 
-<small><sub>**KJV:**</sub></small>
-These [are] the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, [being yet] in her youth in her father’s house.
-<small><sub>**BSB:**</sub></small>
-These are the statutes that the LORD commanded Moses concerning the relationship between a man and his wife, and between a father and a young daughter still in his home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.15|<< Numbers 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.1|Numbers 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

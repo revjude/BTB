@@ -1,10 +1,7 @@
 **LXX Leviticus 27:16** 
 <small><sub>**LXX:**</sub></small>
 And if a man should sanctify from the field of his possession to the <span class="smallcaps">lord</span>, then the value shall be according to  its sowing -- a cor of barley \[equals\] fifty double-drachmas of silver. 
-<small><sub>**KJV:**</sub></small>
-And if a man shall sanctify unto the LORD [some part] of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed [shall be valued] at fifty shekels of silver.
-<small><sub>**BSB:**</sub></small>
-If a man consecrates to the LORD a parcel of his land, then your valuation shall be proportional to the seed required for it—fifty shekels of silver for every homer of barley seed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.15|<< Leviticus 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.17|Leviticus 27:17 >>]]</td></tr></table>
 
 | Translation | Greek |

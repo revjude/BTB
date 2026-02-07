@@ -1,10 +1,7 @@
 **LXX Numbers 32:11** 
 <small><sub>**LXX:**</sub></small>
 Shall these men see (the \[men\] ascending from Egypt, from twenty years \[old\] and up, the ones having knowledge of the good and the bad) the land which I swore by an oath to Abraham, and Isaac, and Jacob, \[no\]. For they did not follow together after me, 
-<small><sub>**KJV:**</sub></small>
-Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
-<small><sub>**BSB:**</sub></small>
-‘Because they did not follow Me wholeheartedly, not one of the men twenty years of age or older who came out of Egypt will see the land that I swore to give Abraham, Isaac, and Jacob—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.10|<< Numbers 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.12|Numbers 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:14** 
 <small><sub>**LXX:**</sub></small>
 And behold, I \[am\] in your hands; do to me as is advantageous to you, and as best for you! 
-<small><sub>**KJV:**</sub></small>
-As for me, behold, I [am] in your hand: do with me as seemeth good and meet unto you.
-<small><sub>**BSB:**</sub></small>
-As for me, here I am in your hands; do to me what you think is good and right.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.13|<< Jeremiah 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.15|Jeremiah 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

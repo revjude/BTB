@@ -1,4 +1,4 @@
-**Psalms 79:8** 
+**Psalms 79:8**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not hold past sins against us; let Your compassion come quickly, for we are b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.7|<< Psalms 79:7]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.9|Psalms 79:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you remember  |**<big>&#8207;[[H2142\|תִּזְכָּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tiz.kor-<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

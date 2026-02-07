@@ -1,10 +1,7 @@
 **LXX Judges 19:22** 
 <small><sub>**LXX:**</sub></small>
 And they their heart good; and behold, the men of the city, sons of lawbreakers, encircled the house, and knocked upon the door; and they said to the man, the master of the house, the old man, saying, Lead out the man  entering into  your house, that we should know him. 
-<small><sub>**KJV:**</sub></small>
-[Now] as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, [and] beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
-<small><sub>**BSB:**</sub></small>
-While they were enjoying themselves, suddenly the wicked men of the city surrounded the house. Pounding on the door, they said to the old man who owned the house, “Bring out the man who came to your house, so we can have relations with him!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.21|<< Judges 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.23|Judges 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

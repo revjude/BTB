@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:13** 
 <small><sub>**LXX:**</sub></small>
 But it will not be good to the impious, and he shall not prolong \[his\] days \[which are\] as a shadow; for he is not fearing from before  God. 
-<small><sub>**KJV:**</sub></small>
-But it shall not be well with the wicked, neither shall he prolong [his] days, [which are] as a shadow; because he feareth not before God.
-<small><sub>**BSB:**</sub></small>
-Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.12|<< Ecclesiastes 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.14|Ecclesiastes 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

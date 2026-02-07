@@ -1,4 +1,4 @@
-**Isaiah 40:8** 
+**Isaiah 40:8**<big><big>[[Isa.40.6 The Enduring Word|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The grass withereth, the flower fadeth: but the word of our God shall stand for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The grass withers and the flowers fall, but the word of our God stands forever.�
 > $\quad$ referenced by: [[Mark.13.31|Mark 13:31]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it dries up  |**<big>&#8207;[[H3001\|יָבֵ֥שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grass  |**<big>&#8207;[[H2682A\|חָצִ֖יר]]&#8207; </big>**| cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

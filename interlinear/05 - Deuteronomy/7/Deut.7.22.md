@@ -1,4 +1,4 @@
-**Deuteronomy 7:22** 
+**Deuteronomy 7:22**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD your God will drive out these nations before you little by little. You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will clear away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5394\|נָשַׁל֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Shal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

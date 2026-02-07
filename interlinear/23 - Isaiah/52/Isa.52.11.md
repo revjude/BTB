@@ -1,4 +1,4 @@
-**Isaiah 52:11** 
+**Isaiah 52:11**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart ye, depart ye, go ye out from thence, touch no unclean [thing]; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Depart, depart, go out from there! Touch no unclean thing; come out from it, pur
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]] ☩ [[2Cor.6.16|2Cor 6:16-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | depart  |**<big>&#8207;[[H5493H\|ס֤וּרוּ]]&#8207; </big>**| Su.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | depart  |**<big>&#8207;[[H5493H\|ס֙וּרוּ֙]]&#8207; </big>**| su.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

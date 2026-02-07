@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:32** 
 <small><sub>**LXX:**</sub></small>
 By fire you will be a \[thing\] devoured;  your blood will be in \[the\] midst  of your land; in no way shall there be memory of you; for I \[the\] <span class="smallcaps">lord</span> have spoken. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no [more] remembered: for I the LORD have spoken [it].
-<small><sub>**BSB:**</sub></small>
-You will be fuel for the fire. Your blood will stain your own land. You will not be remembered, for I, the LORD, have spoken.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.31|<< Ezekiel 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.1|Ezekiel 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

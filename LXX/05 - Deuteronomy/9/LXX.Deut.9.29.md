@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:29** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] your people and your inheritance, of whom you led out of \[the\] land of Egypt by  your great strength and by  your high arm. 
-<small><sub>**KJV:**</sub></small>
-Yet they [are] thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm.
-<small><sub>**BSB:**</sub></small>
-But they are Your people, Your inheritance, whom You brought out by Your great power and outstretched arm.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.28|<< Deuteronomy 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.1|Deuteronomy 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

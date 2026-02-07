@@ -1,12 +1,12 @@
-**Luke 12:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:12**<big><big>[[Luke.12.8 Confessing Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Holy Ghost shall teach you in the same hour what ye ought to say.
 <small><sub>**BSB:**</sub></small>
 For at that time the Holy Spirit will teach you what you should say.”
 <small><sub>**Literal:**</sub></small>
 the for Holy Spirit will teach you in same the hour what it behooves [you] to say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.11|<< Luke 12:11]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.13|Luke 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

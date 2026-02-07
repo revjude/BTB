@@ -1,10 +1,7 @@
 **LXX Psalm 144:5** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, lean your heavens, and come down! Touch the mountains! and they shall smoke. 
-<small><sub>**KJV:**</sub></small>
-Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.
-<small><sub>**BSB:**</sub></small>
-Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.4|<< Psalm 144:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.6|Psalm 144:6 >>]]</td></tr></table>
 
 | Translation | Greek |

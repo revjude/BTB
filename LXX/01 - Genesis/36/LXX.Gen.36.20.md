@@ -1,10 +1,7 @@
 **LXX Genesis 36:20** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Seir the Horite, of the one dwelling the land -- Lotan, Shobal, Zibeon, Anah, 
-<small><sub>**KJV:**</sub></small>
-These [are] the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,
-<small><sub>**BSB:**</sub></small>
-These are the sons of Seir the Horite, who were living in the land: Lotan, Shobal, Zibeon, Anah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.19|<< Genesis 36:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.21|Genesis 36:21 >>]]</td></tr></table>
 
 | Translation | Greek |

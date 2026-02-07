@@ -1,10 +1,7 @@
 **LXX Psalm 148:5** 
 <small><sub>**LXX:**</sub></small>
 Praise the name of \[the\] <span class="smallcaps">lord</span>! For he spoke, and they existed. He gave charge, and they were created. 
-<small><sub>**KJV:**</sub></small>
-Let them praise the name of the LORD: for he commanded, and they were created.
-<small><sub>**BSB:**</sub></small>
-Let them praise the name of the LORD, for He gave the command and they were created.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.4|<< Psalm 148:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.6|Psalm 148:6 >>]]</td></tr></table>
 
 | Translation | Greek |

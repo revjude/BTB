@@ -1,4 +1,4 @@
-**Lamentations 2:9** 
+**Lamentations 2:9**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes [are] among the Gentiles: the law [is] no [more]; her prophets also find no vision from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her gates have sunk into the ground; He has destroyed and shattered their bars. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.8|<< Lamentations 2:8]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.10|Lamentations 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have sunk  |**<big>&#8207;[[H2883\|טָבְע֤וּ]]&#8207; </big>**| ta.ve.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the ground  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0776H\|אָ֙רֶץ֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

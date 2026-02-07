@@ -1,10 +1,7 @@
 **LXX Job 28:3** 
 <small><sub>**LXX:**</sub></small>
 He established an order for darkness, and every limit he determines exactly; darkness and \[the\] shadow of death \[is as\] a stone. 
-<small><sub>**KJV:**</sub></small>
-He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
-<small><sub>**BSB:**</sub></small>
-Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.4|Job 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

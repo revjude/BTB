@@ -1,4 +1,4 @@
-**Jeremiah 6:28** 
+**Jeremiah 6:28**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] all grievous revolters, walking with slanders: [they are] brass and iron; they [are] all corrupters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All are hardened rebels, walking around as slanderers. They are bronze and iron;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.27|<< Jeremiah 6:27]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.29|Jeremiah 6:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are those who] turn aside of  |**<big>&#8207;[[H5493I\|סָרֵ֣י]]&#8207; </big>**| sa.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

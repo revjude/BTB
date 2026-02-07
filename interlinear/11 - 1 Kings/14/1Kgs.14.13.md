@@ -1,4 +1,4 @@
-**1 Kings 14:13** 
+**1 Kings 14:13**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found [some] good thing toward the LORD God of Israel in the house of Jeroboam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All Israel will mourn for him and bury him. For this is the only one belonging t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.12|<< 1 Kings 14:12]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.14|1 Kings 14:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will mourn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5594\|סָֽפְדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.fe.du-<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for him  |**<big>&#8207;[[H9005\|ל֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:30** 
 <small><sub>**LXX:**</sub></small>
 \[is it\] not the ones lingering in wines? \[is it\] not the ones prowling where parties happen? Do not be intoxicated by wine, but consort with just men, and consort in \[the\] promenades! 
-<small><sub>**KJV:**</sub></small>
-They that tarry long at the wine; they that go to seek mixed wine.
-<small><sub>**BSB:**</sub></small>
-Those who linger over wine, who go to taste mixed drinks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.29|<< Proverbs 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.31|Proverbs 23:31 >>]]</td></tr></table>
 
 | Translation | Greek |

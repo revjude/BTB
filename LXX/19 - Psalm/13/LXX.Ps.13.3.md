@@ -1,10 +1,7 @@
 **LXX Psalm 13:3** 
 <small><sub>**LXX:**</sub></small>
 Look upon, hear me, O <span class="smallcaps">lord</span>  my God! Enlighten  my eyes! lest at any time I should sleep in death; 
-<small><sub>**KJV:**</sub></small>
-Consider [and] hear me, O LORD my God: lighten mine eyes, lest I sleep the [sleep of] death;
-<small><sub>**BSB:**</sub></small>
-Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.2|<< Psalm 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.4|Psalm 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

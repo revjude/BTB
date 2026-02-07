@@ -1,4 +1,4 @@
-**Isaiah 17:11** 
+**Isaiah 17:11**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: [but] the harvest [shall be] a heap in the day of grief and of desperate sorrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ though on the day you plant you make them grow, and on that morning you help you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.10|<< Isaiah 17:10]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.12|Isaiah 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֤וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | planting your  |**<big>&#8207;[[H5194\|נִטְעֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| nit.'e<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

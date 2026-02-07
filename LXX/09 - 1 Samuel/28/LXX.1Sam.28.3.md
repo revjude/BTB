@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:3** 
 <small><sub>**LXX:**</sub></small>
 And Samuel died, and all Israel lamented him, and they entombed him in Ramah, in  his city. And Saul removed the ones who deliver oracles, and the diviners from the land. 
-<small><sub>**KJV:**</sub></small>
-Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.
-<small><sub>**BSB:**</sub></small>
-Now by this time Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and spiritists from the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.2|<< 1 Samuel 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.4|1 Samuel 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

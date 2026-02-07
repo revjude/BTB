@@ -1,12 +1,12 @@
-**Luke 12:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:11**<big><big>[[Luke.12.8 Confessing Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they bring you unto the synagogues, and [unto] magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:
 <small><sub>**BSB:**</sub></small>
 When you are brought before synagogues, rulers, and authorities, do not worry about how to defend yourselves or what to say.
 <small><sub>**Literal:**</sub></small>
 When then they may bring in you before the synagogues and the rulers and the authorities, not may be anxious how or what you may present a defense or what you may say;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.10|<< Luke 12:10]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.12|Luke 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

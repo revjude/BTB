@@ -1,12 +1,12 @@
-**Acts 13:49
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:49**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the word of the Lord was published throughout all the region.
 <small><sub>**BSB:**</sub></small>
 And the word of the Lord spread throughout that region.
 <small><sub>**Literal:**</sub></small>
 Was carried then the word of the Lord through all the region.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.48|<< Acts 13:48]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.50|Acts 13:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was carried |**<big>[[G1308\|διεφέρετο]]</big>**  |diephereto <small><sup>[[V-IPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

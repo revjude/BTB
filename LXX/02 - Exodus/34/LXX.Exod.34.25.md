@@ -1,10 +1,7 @@
 **LXX Exodus 34:25** 
 <small><sub>**LXX:**</sub></small>
 You shall not slay \[the\] blood of my sacrifices with yeast; and that which is offered in sacrifices shall not remain through the night into the morning for \[the\] holiday of the passover. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.
-<small><sub>**BSB:**</sub></small>
-Do not offer the blood of a sacrifice to Me along with anything leavened, and do not let any of the sacrifice from the Passover Feast remain until morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.24|<< Exodus 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.26|Exodus 34:26 >>]]</td></tr></table>
 
 | Translation | Greek |

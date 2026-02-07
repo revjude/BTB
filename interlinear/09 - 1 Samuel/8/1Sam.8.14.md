@@ -1,4 +1,4 @@
-**1 Samuel 8:14** 
+**1 Samuel 8:14**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will take your fields, and your vineyards, and your oliveyards, [even] the best [of them], and give [them] to his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will take the best of your fields and vineyards and olive groves and give the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.13|<< 1 Samuel 8:13]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.15|1 Samuel 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.tS-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fields your  |**<big>&#8207;[[H7704G\|שְׂ֠דֽוֹתֵי]]&#8207;&#8207;[[H9026\|כֶם]]&#8207; </big>**| Se.Do.tei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 18:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:31**<big><big>[[Luke.18.31 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then he took [unto him] the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
 <small><sub>**BSB:**</sub></small>
 Then Jesus took the Twelve aside and said to them, “Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled.
 <small><sub>**Literal:**</sub></small>
 Having taken aside then the Twelve He said to them; Behold we go up to Jerusalem, and will be accomplished all things which written through the prophets about the Son <the> of Man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.30|<< Luke 18:30]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.32|Luke 18:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having taken aside |**<big>[[G3880\|Παραλαβὼν]]</big>**  |Paralabōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

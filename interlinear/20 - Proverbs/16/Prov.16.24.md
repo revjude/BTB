@@ -1,4 +1,4 @@
-**Proverbs 16:24** 
+**Proverbs 16:24**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pleasant words [are as] an honeycomb, sweet to the soul, and health to the bones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pleasant words are a honeycomb, sweet to the soul and healing to the bones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.23|<< Proverbs 16:23]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.25|Proverbs 16:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] a honeycomb of  |**<big>&#8207;[[H6688\|צוּף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tzuf-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | honey  |**<big>&#8207;[[H1706\|דְּ֭בַשׁ]]&#8207; </big>**| De.vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**James 2:18
-**<small><sub>**KJV:**</sub></small>
+**James 2:18**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.
 <small><sub>**BSB:**</sub></small>
 But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds.
 <small><sub>**Literal:**</sub></small>
 But will say someone; You yourself faith have, and I myself works have; do show me the faith of you without the works of you and I myself you will show by the works of mine the faith of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.17|<< James 2:17]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.19|James 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|Ἀλλ᾽]]</big>**  |All᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will say |**<big>[[G4483\|ἐρεῖ]]</big>**  |erei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

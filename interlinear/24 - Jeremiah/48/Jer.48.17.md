@@ -1,4 +1,4 @@
-**Jeremiah 48:17** 
+**Jeremiah 48:17**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, [and] the beautiful rod!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mourn for him, all you who surround him, everyone who knows his name; tell how t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.16|<< Jeremiah 48:16]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.18|Jeremiah 48:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show sympathy  |**<big>&#8207;[[H5110\|נֻ֤דוּ]]&#8207; </big>**| Nu.du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> it  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

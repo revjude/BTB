@@ -1,4 +1,4 @@
-**Amos 4:4** 
+**Amos 4:4**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, [and] your tithes after three years:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.3|<< Amos 4:3]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.5|Amos 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H0935G\|בֹּ֤אוּ]]&#8207; </big>**| Bo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Beth-  |**<big>&#8207;[[H1008G\|בֵֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

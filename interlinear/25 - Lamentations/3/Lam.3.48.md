@@ -1,4 +1,4 @@
-**Lamentations 3:48** 
+**Lamentations 3:48**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Streams of tears flow from my eyes over the destruction of the daughter of my pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.47|<< Lamentations 3:47]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.49|Lamentations 3:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | streams of  |**<big>&#8207;[[H6388\|פַּלְגֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pal.gei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֙יִם֙]]&#8207; </big>**| ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

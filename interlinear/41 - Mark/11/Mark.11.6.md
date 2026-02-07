@@ -1,12 +1,12 @@
-**Mark 11:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:6**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto them even as Jesus had commanded: and they let them go.
 <small><sub>**BSB:**</sub></small>
 The disciples answered as Jesus had instructed them, and the people gave them permission.
 <small><sub>**Literal:**</sub></small>
 <the> And they spoke to them even as had commanded <the> Jesus, and they allowed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.5|<< Mark 11:5]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.7|Mark 11:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

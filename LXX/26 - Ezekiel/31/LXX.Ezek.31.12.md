@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:12** 
 <small><sub>**LXX:**</sub></small>
 And strangers utterly destroyed him, pestilent ones from \[the\] nations. And they threw him down upon the mountains. In all the ravines his tender branches fell; and his trunks were broken in every plain of the land. And all the peoples of the nations went down from his protection, and they dashed him. 
-<small><sub>**KJV:**</sub></small>
-And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
-<small><sub>**BSB:**</sub></small>
-Foreigners, the most ruthless of the nations, cut it down and left it. Its branches have fallen on the mountains and in every valley; its boughs lay broken in all the earth’s ravines. And all the peoples of the earth left its shade and abandoned it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.11|<< Ezekiel 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.13|Ezekiel 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

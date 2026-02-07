@@ -1,10 +1,7 @@
 **LXX Daniel 10:15** 
 <small><sub>**LXX:**</sub></small>
 And in  his speaking with me according to  these words, I put  my face unto the ground, and was vexed. 
-<small><sub>**KJV:**</sub></small>
-And when he had spoken such words unto me, I set my face toward the ground, and I became dumb.
-<small><sub>**BSB:**</sub></small>
-While he was speaking these words to me, I set my face toward the ground and became speechless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.14|<< Daniel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.16|Daniel 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

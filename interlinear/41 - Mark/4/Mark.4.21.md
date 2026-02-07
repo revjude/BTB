@@ -1,12 +1,12 @@
-**Mark 4:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:21**<big><big>[[Mark.4.21 The Lesson of the Lamp|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?
 <small><sub>**BSB:**</sub></small>
 Jesus also said to them, “Does anyone bring in a lamp to put it under a basket or under a bed? Doesn’t he set it on a stand?
 <small><sub>**Literal:**</sub></small>
 And He was saying to them that: surely not ever is brought in the lamp so that under the basket it may be put or under the bed? Surely that upon the lampstand may it be put?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.20|<< Mark 4:20]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.22|Mark 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

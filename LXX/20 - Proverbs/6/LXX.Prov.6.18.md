@@ -1,10 +1,7 @@
 **LXX Proverbs 6:18** 
 <small><sub>**LXX:**</sub></small>
 and a heart contriving evil devices, and feet hurrying to do evil. 
-<small><sub>**KJV:**</sub></small>
-An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
-<small><sub>**BSB:**</sub></small>
-a heart that devises wicked schemes, feet that run swiftly to evil,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.17|<< Proverbs 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.19|Proverbs 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

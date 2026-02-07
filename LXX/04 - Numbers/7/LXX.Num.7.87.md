@@ -1,10 +1,7 @@
 **LXX Numbers 7:87** 
 <small><sub>**LXX:**</sub></small>
 All the livestock, for \[the\] whole burnt-offering -- twelve calves, twelve rams, twelve he-lambs of a year \[old\], and  their sacrifices, and  their libations, and twelve winter yearlings from \[the\] goats for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-All the oxen for the burnt offering [were] twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.
-<small><sub>**BSB:**</sub></small>
-All the livestock for the burnt offering totaled twelve bulls, twelve rams, and twelve male lambs a year old—together with their grain offerings—and twelve male goats for the sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.87|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.86|<< Numbers 7:86]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.88|Numbers 7:88 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:5** 
 <small><sub>**LXX:**</sub></small>
 so that he should bend away the house  of Israel according to  their hearts, the ones being separated from me in  their thoughts. 
-<small><sub>**KJV:**</sub></small>
-That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
-<small><sub>**BSB:**</sub></small>
-so that I may take hold of the hearts of the people of Israel. For because of their idols, they are all estranged from Me.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.4|<< Ezekiel 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.6|Ezekiel 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:4** 
 <small><sub>**LXX:**</sub></small>
 But on account of David \[the\] <span class="smallcaps">lord</span> his God gave to him a vestige in Jerusalem, that he should establish  his children after him, and establish  Jerusalem, 
-<small><sub>**KJV:**</sub></small>
-Nevertheless for David’s sake did the LORD his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:
-<small><sub>**BSB:**</sub></small>
-Nevertheless, for the sake of David, the LORD his God gave him a lamp in Jerusalem by raising up a son to succeed him and to make Jerusalem strong.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.3|<< 1 Kings 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.5|1 Kings 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

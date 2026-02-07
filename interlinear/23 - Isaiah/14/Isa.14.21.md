@@ -1,4 +1,4 @@
-**Isaiah 14:21** 
+**Isaiah 14:21**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prepare a place to slaughter his sons for the iniquities of their forefathers. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | prepare  |**<big>&#8207;[[H3559A\|הָכִ֧ינוּ]]&#8207; </big>**| ha.Khi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for sons his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בָנָ֛י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

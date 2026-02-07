@@ -1,12 +1,12 @@
-**John 19:34
-**<small><sub>**KJV:**</sub></small>
+**John 19:34**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
 <small><sub>**BSB:**</sub></small>
 Instead, one of the soldiers pierced His side with a spear, and immediately blood and water flowed out.
 <small><sub>**Literal:**</sub></small>
 But one of the soldiers with a spear of His <the> side pierced, and came out immediately blood and water.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.33|<< John 19:33]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.35|John 19:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

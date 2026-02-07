@@ -1,5 +1,5 @@
-**Luke 8:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:10**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
 <small><sub>**BSB:**</sub></small>
 He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’
@@ -10,7 +10,7 @@ He replied, “The knowledge of the mysteries of the kingdom of God has been giv
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

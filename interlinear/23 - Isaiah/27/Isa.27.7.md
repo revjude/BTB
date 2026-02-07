@@ -1,4 +1,4 @@
-**Isaiah 27:7** 
+**Isaiah 27:7**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath he smitten him, as he smote those that smote him? [or] is he slain according to the slaughter of them that are slain by him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Has the LORD struck Israel as He struck her oppressors? Was she killed like thos
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.6|<< Isaiah 27:6]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.8|Isaiah 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ like [the] striking? of  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4347\|מַכַּ֥ת]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ke.<small><sup>[[HR]]</sup></small> ma.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] [one who] struck it  |**<big>&#8207;[[H5221\|מַכֵּ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ma.Ke.<small><sup>[[HVhrmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

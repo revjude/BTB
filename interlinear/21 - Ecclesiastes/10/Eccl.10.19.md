@@ -1,4 +1,4 @@
-**Ecclesiastes 10:19** 
+**Ecclesiastes 10:19**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A feast is made for laughter, and wine maketh merry: but money answereth all [things].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A feast is prepared for laughter, and wine makes life merry, but money is the an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.18|<< Ecclesiastes 10:18]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.20|Ecclesiastes 10:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for laughter  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7814\|שְׂחוֹק֙]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> s.chOk<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [people are] making  |**<big>&#8207;[[H6213H\|עֹשִׂ֣ים]]&#8207; </big>**| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

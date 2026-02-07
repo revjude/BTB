@@ -1,10 +1,7 @@
 **LXX Psalm 55:14** 
 <small><sub>**LXX:**</sub></small>
 who together you sweetened foods; in the house  of God we went in concord. 
-<small><sub>**KJV:**</sub></small>
-We took sweet counsel together, [and] walked unto the house of God in company.
-<small><sub>**BSB:**</sub></small>
-We shared sweet fellowship together; we walked with the crowd into the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.13|<< Psalm 55:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.15|Psalm 55:15 >>]]</td></tr></table>
 
 | Translation | Greek |

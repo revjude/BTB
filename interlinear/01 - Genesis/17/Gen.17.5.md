@@ -1,4 +1,4 @@
-**Genesis 17:5** 
+**Genesis 17:5**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ No longer will you be called Abram, but your name will be Abraham, for I have ma
 > $\quad$ referenced by: [[Rom.4.17|Rom 4:17]] ☩ [[Rom.4.18|Rom 4:18]] ☩ [[Rom.11.25|Rom 11:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be called  |**<big>&#8207;[[H7121H\|יִקָּרֵ֥א]]&#8207; </big>**| yi.ka.Re'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

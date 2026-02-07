@@ -1,12 +1,12 @@
-**John 8:28
-**<small><sub>**KJV:**</sub></small>
+**John 8:28**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am [he], and [that] I do nothing of myself; but as my Father hath taught me, I speak these things.
 <small><sub>**BSB:**</sub></small>
 So Jesus said, “When you have lifted up the Son of Man, then you will know that I am He, and that I do nothing on My own, but speak exactly what the Father has taught Me.
 <small><sub>**Literal:**</sub></small>
 Said therefore to them <the> Jesus; When you may have lifted up the Son <the> of Man, then you will know that I myself am [He], and from Myself I do no [thing], but even as taught Me the Father of mine these things I speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.27|<< John 8:27]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.29|John 8:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

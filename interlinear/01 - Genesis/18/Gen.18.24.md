@@ -1,4 +1,4 @@
-**Genesis 18:24** 
+**Genesis 18:24**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that [are] therein?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What if there are fifty righteous ones in the city? Will You really sweep it awa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.23|<< Genesis 18:23]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.25|Genesis 18:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֥י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H3426\|יֵ֛שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

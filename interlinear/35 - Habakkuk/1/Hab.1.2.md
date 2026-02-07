@@ -1,4 +1,4 @@
-**Habakkuk 1:2** 
+**Habakkuk 1:2**<big><big>[[Hab.1.1 Habakkuk’s First Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, how long shall I cry, and thou wilt not hear! [even] cry out unto thee [of] violence, and thou wilt not save!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long, O LORD, must I call for help but You do not hear, or cry out to You, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.1|<< Habakkuk 1:1]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.3|Habakkuk 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H0575\|אָ֧נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

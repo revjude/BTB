@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:12** 
 <small><sub>**LXX:**</sub></small>
 And you O son of man, say to the sons  of your people! \[The\] righteousness of \[the\] just in no way should rescue him, in which ever day he should wander. And \[the\] lawlessness of \[the\] impious in no way shall afflict him in which ever day he should turn from  his lawlessness. But \[the\] just no way shall be able to be delivered in \[the\] day of his sin. 
-<small><sub>**KJV:**</sub></small>
-Therefore, thou son of man, say unto the children of thy people, The righteousness of the righteous shall not deliver him in the day of his transgression: as for the wickedness of the wicked, he shall not fall thereby in the day that he turneth from his wickedness; neither shall the righteous be able to live for his [righteousness] in the day that he sinneth.
-<small><sub>**BSB:**</sub></small>
-Therefore, son of man, say to your people: ‘The righteousness of the righteous man will not deliver him in the day of his transgression; neither will the wickedness of the wicked man cause him to stumble on the day he turns from his wickedness. Nor will the righteous man be able to survive by his righteousness on the day he sins.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.11|<< Ezekiel 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.13|Ezekiel 33:13 >>]]</td></tr></table>
 
 | Translation | Greek |

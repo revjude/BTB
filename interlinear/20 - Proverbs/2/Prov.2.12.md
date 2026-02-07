@@ -1,4 +1,4 @@
-**Proverbs 2:12** 
+**Proverbs 2:12**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To deliver thee from the way of the evil [man], from the man that speaketh froward things;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to deliver you from the way of evil, from the man who speaks perversity,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.11|<< Proverbs 2:11]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.13|Proverbs 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to deliver you  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H5337\|הַצִּ֣ילְ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Tzi.le.<small><sup>[[HVhcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a way  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 33:20** 
 <small><sub>**LXX:**</sub></small>
 Behold, Zion the city,  our deliverance.  Your eyes shall see Jerusalem, a rich city, tents which in no way shall be shaken, nor the stanchions of her tent be moved into the eon of time, nor  in any way shall her rough cords be torn up. 
-<small><sub>**KJV:**</sub></small>
-Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
-<small><sub>**BSB:**</sub></small>
-Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, a peaceful pasture, a tent that does not wander; its tent pegs will not be pulled up, nor will any of its cords be broken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

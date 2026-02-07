@@ -1,10 +1,7 @@
 **LXX Judges 3:7** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel acted  wickedly before \[the\] <span class="smallcaps">lord</span>, and they forgot \[the\] <span class="smallcaps">lord</span>  their God, and they served to the Baalim, and to the sacred groves. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves.
-<small><sub>**BSB:**</sub></small>
-So the Israelites did evil in the sight of the LORD; they forgot the LORD their God and served the Baals and the Asherahs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.6|<< Judges 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.8|Judges 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

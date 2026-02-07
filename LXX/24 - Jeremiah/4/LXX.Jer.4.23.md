@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:23** 
 <small><sub>**LXX:**</sub></small>
 I looked upon the earth, and behold -- nothing; and into the heaven, and its lights \[were\] not. 
-<small><sub>**KJV:**</sub></small>
-I beheld the earth, and, lo, [it was] without form, and void; and the heavens, and they [had] no light.
-<small><sub>**BSB:**</sub></small>
-I looked at the earth, and it was formless and void; I looked to the heavens, and they had no light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.22|<< Jeremiah 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.24|Jeremiah 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

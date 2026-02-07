@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:2** 
 <small><sub>**LXX:**</sub></small>
 Lift  your eyes unto \[the\] upright \[way\], and see where you have not been defiled! You have sat upon the ways for them as a crowbar having been made desolate, and defiled the land in  your harlotries, and in  your evils. 
-<small><sub>**KJV:**</sub></small>
-Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
-<small><sub>**BSB:**</sub></small>
-“Lift up your eyes to the barren heights and see. Is there any place where you have not been violated? You sat beside the highways waiting for your lovers, like a nomad in the desert. You have defiled the land with your prostitution and wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.1|<< Jeremiah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.3|Jeremiah 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

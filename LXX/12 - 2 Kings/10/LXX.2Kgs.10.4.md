@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:4** 
 <small><sub>**LXX:**</sub></small>
 And they feared exceedingly, and said, Behold, the two kings did not stand against his face, and how shall we stand? 
-<small><sub>**KJV:**</sub></small>
-But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?
-<small><sub>**BSB:**</sub></small>
-But they were terrified and reasoned, “If two kings could not stand against him, how can we?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.3|<< 2 Kings 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.5|2 Kings 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:14** 
 <small><sub>**LXX:**</sub></small>
 And \[as far as\] Moses \[the\] man  of God, his sons \[were\] called unto the tribe  of Levi. 
-<small><sub>**KJV:**</sub></small>
-Now [concerning] Moses the man of God, his sons were named of the tribe of Levi.
-<small><sub>**BSB:**</sub></small>
-As for Moses the man of God, his sons were named among the tribe of Levi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.13|<< 1 Chronicles 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.15|1 Chronicles 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:16** 
 <small><sub>**LXX:**</sub></small>
 And they shall drink, and vomit forth, and shall be driven mad from in front of the sword of which I shall send in the midst of them. 
-<small><sub>**KJV:**</sub></small>
-And they shall drink, and be moved, and be mad, because of the sword that I will send among them.
-<small><sub>**BSB:**</sub></small>
-And they will drink and stagger and go out of their minds, because of the sword that I will send among them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.15|<< Jeremiah 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.17|Jeremiah 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

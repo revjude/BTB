@@ -1,10 +1,7 @@
 **LXX Zechariah 8:3** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, I will return unto Zion, and I will encamp in \[the\] midst of Jerusalem. And Jerusalem will be called \[the\] true city, and the mountain of \[the\] <span class="smallcaps">lord</span> almighty, \[the\] holy mountain. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the LORD of hosts the holy mountain.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the City of Truth, and the mountain of the LORD of Hosts will be called the Holy Mountain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.2|<< Zechariah 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.4|Zechariah 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

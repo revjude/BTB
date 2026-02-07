@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:16** 
 <small><sub>**LXX:**</sub></small>
 and according to \[the\] fullness of \[the\] land in season, and the accepted \[things\]  being seen in the bush -- may they come upon \[the\] head of Joseph, and upon \[the\] top being glorified among brethren. 
-<small><sub>**KJV:**</sub></small>
-And for the precious things of the earth and fulness thereof, and [for] the good will of him that dwelt in the bush: let [the blessing] come upon the head of Joseph, and upon the top of the head of him [that was] separated from his brethren.
-<small><sub>**BSB:**</sub></small>
-with the choice gifts of the land and everything in it, and with the favor of Him who dwelt in the burning bush. May these rest on the head of Joseph and crown the brow of the prince of his brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.15|<< Deuteronomy 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.17|Deuteronomy 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

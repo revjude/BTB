@@ -1,10 +1,7 @@
 **LXX Job 8:12** 
 <small><sub>**LXX:**</sub></small>
 Yet being upon \[the\] root, and in no way harvested, shall it not be dried before the drinking of all pasturage? 
-<small><sub>**KJV:**</sub></small>
-Whilst it [is] yet in his greenness, [and] not cut down, it withereth before any [other] herb.
-<small><sub>**BSB:**</sub></small>
-While the shoots are still uncut, they dry up more quickly than grass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.11|<< Job 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.13|Job 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

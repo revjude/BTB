@@ -1,5 +1,5 @@
-**Romans 3:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:8**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not [rather], (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
 <small><sub>**BSB:**</sub></small>
 Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!
@@ -10,7 +10,7 @@ And surely even as we are denigrated and even as affirm some [that] we to say th
 > $\quad$ alluding to: [[LXX.Jer.17.6|Jer 17:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

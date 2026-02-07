@@ -1,4 +1,4 @@
-**Psalms 10:18** 
+**Psalms 10:18**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to vindicate the fatherless and oppressed, that the men of the earth may strike 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.17|<< Psalms 10:17]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.0|Psalms 11:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to vindicate  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8199\|שְׁפֹּ֥ט]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Pot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fatherless  |**<big>&#8207;[[H3490\|יָת֗וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

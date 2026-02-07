@@ -1,4 +1,4 @@
-**Deuteronomy 25:19** 
+**Deuteronomy 25:19**<big><big>[[Deut.25.17 Revenge on the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee [for] an inheritance to possess it, [that] thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD your God gives you rest from the enemies around you in the land th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.18|<< Deuteronomy 25:18]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.1|Deuteronomy 26:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when gives rest  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5117\|הָנִ֣יחַ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ha.Ni.ach<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

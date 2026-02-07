@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me in the days of Josiah the king, You saw what the house of Israel did to me. She went upon every high mountain, and underneath every tree of \[the\] woods, and she committed harlotry there. 
-<small><sub>**KJV:**</sub></small>
-The LORD said also unto me in the days of Josiah the king, Hast thou seen [that] which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot.
-<small><sub>**BSB:**</sub></small>
-Now in the days of King Josiah, the LORD said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every green tree to prostitute herself there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.5|<< Jeremiah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.7|Jeremiah 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

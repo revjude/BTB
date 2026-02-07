@@ -1,12 +1,12 @@
-**1 Corinthians 11:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:11**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
 <small><sub>**BSB:**</sub></small>
 In the Lord, however, woman is not independent of man, nor is man independent of woman.
 <small><sub>**Literal:**</sub></small>
 However neither [is] woman without man nor man without woman in [the] Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.10|<< 1 Corinthians 11:10]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.12|1 Corinthians 11:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | However |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | neither [is] |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

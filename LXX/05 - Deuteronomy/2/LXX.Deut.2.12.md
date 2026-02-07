@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:12** 
 <small><sub>**LXX:**</sub></small>
 And in Seir the Horite laid in wait the former one; and the sons of Esau destroyed them, and obliterated them from their face; and they settled in place of them in which manner Israel did \[to\] the land  of his inheritance, which \[the\] <span class="smallcaps">lord</span> gave to them. 
-<small><sub>**KJV:**</sub></small>
-The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.
-<small><sub>**BSB:**</sub></small>
-The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.11|<< Deuteronomy 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.13|Deuteronomy 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 5:6** 
 <small><sub>**LXX:**</sub></small>
 Therefore most of them were uncircumcised of the ones for combat, of the ones coming forth from out of \[the\] land of Egypt, the ones resisting the commandments of \[the\] <span class="smallcaps">lord</span>  God; and the ones whom \[the\] <span class="smallcaps">lord</span> separated to them, for them to not behold the land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] our fathers to give to us, a land flowing milk and honey. 
-<small><sub>**KJV:**</sub></small>
-For the children of Israel walked forty years in the wilderness, till all the people [that were] men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the LORD: unto whom the LORD sware that he would not shew them the land, which the LORD sware unto their fathers that he would give us, a land that floweth with milk and honey.
-<small><sub>**BSB:**</sub></small>
-For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the LORD. So the LORD vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.5|<< Joshua 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.7|Joshua 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:9** 
 <small><sub>**LXX:**</sub></small>
 And the well into which Ishmael tossed all whom he struck \[was a\] great well. This is the one which king Asa made from \[fear\] in front of Baasha king of Israel. This \[well\] Ishmael son of Nethaniah filled of slain ones. 
-<small><sub>**KJV:**</sub></small>
-Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, [was] it which Asa the king had made for fear of Baasha king of Israel: [and] Ishmael the son of Nethaniah filled it with [them that were] slain.
-<small><sub>**BSB:**</sub></small>
-Now the cistern into which Ishmael had thrown all the bodies of the men he had struck down along with Gedaliah was a large one that King Asa had made for fear of Baasha king of Israel. Ishmael son of Nethaniah filled it with the slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.8|<< Jeremiah 41:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.10|Jeremiah 41:10 >>]]</td></tr></table>
 
 | Translation | Greek |

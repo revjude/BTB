@@ -1,4 +1,4 @@
-**Song of Solomon 7:12** (7:13)
+**Song of Solomon 7:12**<big><big>[[Song.7.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us get up early to the vineyards; let us see if the vine flourish, [whether] the tender grape appear, [and] the pomegranates bud forth: there will I give thee my loves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let us go early to the vineyards to see if the vine has budded, if the blossom h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.11|<< Song of Solomon 7:11]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.13|Song of Solomon 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us rise early  |**<big>&#8207;[[H7925\|נַשְׁכִּ֙ימָה֙]]&#8207; </big>**| nash.Ki.mah<small><sup>[[HVhc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the vineyards  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3754\|כְּרָמִ֔ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ke.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

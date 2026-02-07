@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:21** 
 <small><sub>**LXX:**</sub></small>
 And the men of his city shall stone him with stones, and he shall die; and \[thus\] you shall lift away the wicked from you of them; and all Israel hearing, they shall be fearful. 
-<small><sub>**KJV:**</sub></small>
-And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
-<small><sub>**BSB:**</sub></small>
-Then all the men of his city will stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.20|<< Deuteronomy 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.22|Deuteronomy 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

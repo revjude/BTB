@@ -1,10 +1,7 @@
 **LXX Psalm 112:9** 
 <small><sub>**LXX:**</sub></small>
 He dispersed; he gave to the needy;  his righteousness abides into the eon of the eon;  his horn shall be raised up high in glory. 
-<small><sub>**KJV:**</sub></small>
-He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.
-<small><sub>**BSB:**</sub></small>
-He has scattered abroad his gifts to the poor; his righteousness endures forever; his horn will be lifted high in honor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.112.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.8|<< Psalm 112:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.10|Psalm 112:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 112:9** is...

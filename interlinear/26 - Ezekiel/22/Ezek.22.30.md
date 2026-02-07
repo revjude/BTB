@@ -1,4 +1,4 @@
-**Ezekiel 22:30** 
+**Ezekiel 22:30**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I searched for a man among them to repair the wall and stand in the gap before M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.29|<< Ezekiel 22:29]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.31|Ezekiel 22:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sought  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1245\|אֲבַקֵּ֣שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.va.Kesh<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֡ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

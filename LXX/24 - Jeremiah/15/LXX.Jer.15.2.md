@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:2** 
 <small><sub>**LXX:**</sub></small>
 And it will be if they should say to you, Where shall we go forth? then you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span>, As many as for death, to death; and as many as for sword, to sword; and as many as for famine, to famine; and as many as for captivity, to captivity. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the LORD; Such as [are] for death, to death; and such as [are] for the sword, to the sword; and such as [are] for the famine, to the famine; and such as [are] for the captivity, to the captivity.
-<small><sub>**BSB:**</sub></small>
-If they ask you, ‘Where shall we go?’ you are to tell them that this is what the LORD says: ‘Those destined for death, to death; those destined for the sword, to the sword; those destined for famine, to famine; and those destined for captivity, to captivity.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.1|<< Jeremiah 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.3|Jeremiah 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

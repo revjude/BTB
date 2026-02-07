@@ -1,4 +1,4 @@
-**1 Kings 1:13** 
+**1 Kings 1:13**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go at once to King David and say, ‘My lord the king, did you not swear to your
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.12|<< 1 Kings 1:12]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.14|1 Kings 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980G\|לְכִ֞י]]&#8207; </big>**| le.Khi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and go  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0935G\|בֹ֣אִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vo.'i<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

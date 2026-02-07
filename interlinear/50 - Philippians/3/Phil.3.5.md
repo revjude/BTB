@@ -1,12 +1,12 @@
-**Philippians 3:5
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:5**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Circumcised the eighth day, of the stock of Israel, [of] the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
 <small><sub>**BSB:**</sub></small>
 circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin; a Hebrew of Hebrews; as to the law, a Pharisee;
 <small><sub>**Literal:**</sub></small>
 circumcision on [the] eighth day, of [the] nation of Israel, of [the] tribe of Benjamin, a Hebrew of Hebrews, according to [the] Law a Pharisee,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.4|<< Philippians 3:4]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.6|Philippians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | circumcision |**<big>[[G4061\|περιτομῇ]]</big>**  |peritomēa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on [the] eighth day, |**<big>[[G3637\|ὀκταήμερος,]]</big>**  |oktaēmeros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

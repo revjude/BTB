@@ -1,5 +1,5 @@
-**Revelation 17:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:8**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
 <small><sub>**BSB:**</sub></small>
 The beast that you saw—it was, and now is no more, but is about to come up out of the Abyss and go to its destruction. And those who dwell on the earth whose names were not written in the Book of Life from the foundation of the world will marvel when they see the beast that was, and is not, and yet will be.
@@ -10,7 +10,7 @@ The beast that you saw was and not is and is about to come up out of the abyss a
 > $\quad$ possibly alluding to: [[LXX.Dan.7.11|Dan 7:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
 | beast |**<big>[[G2342\|θηρίον]]</big>**  |thērion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

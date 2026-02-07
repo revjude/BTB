@@ -1,10 +1,7 @@
 **LXX Job 31:27** 
 <small><sub>**LXX:**</sub></small>
 And if my heart was deceived in private; and if I was fond of placing my hand upon my mouth; 
-<small><sub>**KJV:**</sub></small>
-And my heart hath been secretly enticed, or my mouth hath kissed my hand:
-<small><sub>**BSB:**</sub></small>
-so that my heart was secretly enticed and my hand threw a kiss from my mouth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.26|<< Job 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.28|Job 31:28 >>]]</td></tr></table>
 
 | Translation | Greek |

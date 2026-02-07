@@ -1,12 +1,12 @@
-**1 Thessalonians 5:28
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:28**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of our Lord Jesus Christ be with you.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with you. Amen. to Thessalonica first It was written from Athens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.27|<< 1 Thessalonians 5:27]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.1|2 Thessalonians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

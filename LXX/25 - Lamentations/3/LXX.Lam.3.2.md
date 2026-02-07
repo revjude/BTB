@@ -1,10 +1,7 @@
 **LXX Lamentations 3:2** 
 <small><sub>**LXX:**</sub></small>
 He took me; he led me away into darkness, and not light. 
-<small><sub>**KJV:**</sub></small>
-He hath led me, and brought [me into] darkness, but not [into] light.
-<small><sub>**BSB:**</sub></small>
-He has driven me away and made me walk in darkness instead of light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.1|<< Lamentations 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.3|Lamentations 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

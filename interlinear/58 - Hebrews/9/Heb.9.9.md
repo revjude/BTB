@@ -1,12 +1,12 @@
-**Hebrews 9:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:9**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which [was] a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 <small><sub>**BSB:**</sub></small>
 It is an illustration for the present time, because the gifts and sacrifices being offered were unable to cleanse the conscience of the worshiper.
 <small><sub>**Literal:**</sub></small>
 which [is] a symbol for the time which being present, in which gifts both and sacrifices are offered not being able in regard to conscience to make perfect who is worshiping,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.8|<< Hebrews 9:8]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.10|Hebrews 9:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which [is] |**<big>[[G3748\|ἥτις]]</big>**  |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a symbol |**<big>[[G3850\|παραβολὴ]]</big>**  |parabolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

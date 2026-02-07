@@ -1,12 +1,12 @@
-**Romans 14:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:14**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know, and am persuaded by the Lord Jesus, that [there is] nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him [it is] unclean.
 <small><sub>**BSB:**</sub></small>
 I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean.
 <small><sub>**Literal:**</sub></small>
 I know and I have been persuaded in [the] Lord Jesus that nothing [is] unclean through itself, only except by the [one] reckoning anything unclean to be, to that one unclean [it is];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.13|<< Romans 14:13]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.15|Romans 14:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|Οἶδα]]</big>**  |Oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

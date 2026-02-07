@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:13** 
 <small><sub>**LXX:**</sub></small>
 And king Rehoboam grew strong in Jerusalem, and reigned. Rehoboam was a son of forty and one years \[old\] in  his taking reign. And seventeen years he reigned in Jerusalem, in the city which \[the\] <span class="smallcaps">lord</span> chose to name  his name there, from out of all \[the\] tribes of the sons of Israel. And the name \[to\] his mother \[was\] Naammah the Ammonitess. 
-<small><sub>**KJV:**</sub></small>
-So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam [was] one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother’s name [was] Naamah an Ammonitess.
-<small><sub>**BSB:**</sub></small>
-Thus King Rehoboam established himself in Jerusalem and reigned. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen from all the tribes of Israel in which to put His Name. His mother’s name was Naamah the Ammonite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.12|<< 2 Chronicles 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.14|2 Chronicles 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

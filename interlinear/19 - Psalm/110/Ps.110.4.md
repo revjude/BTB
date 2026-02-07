@@ -1,4 +1,4 @@
-**Psalms 110:4** 
+**Psalms 110:4**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath sworn, and will not repent, Thou [art] a priest for ever after the order of Melchizedek.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD has sworn and will not change His mind: “You are a priest forever in 
 > $\quad$ referenced by: [[John.12.34|John 12:34]] ☩ [[Heb.5.6|Heb 5:6]] ☩ [[Heb.7.17|Heb 7:17]] ☩ [[Heb.7.21|Heb 7:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has sworn an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּ֤ע]]&#8207; </big>**| nish.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

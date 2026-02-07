@@ -1,4 +1,4 @@
-**2 Chronicles 20:33** 
+**2 Chronicles 20:33**<big><big>[[2Chr.20.31 Summary of Jehoshaphat’s Reign|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The high places, however, were not removed; the people had not yet set their hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.32|<< 2 Chronicles 20:32]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.34|2 Chronicles 20:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֥ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the high places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1116\|בָּמ֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

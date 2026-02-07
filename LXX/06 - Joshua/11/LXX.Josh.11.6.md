@@ -1,10 +1,7 @@
 **LXX Joshua 11:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, You should not fear from their face, for tomorrow  at this hour I will deliver all of them being putting to flight before \[the\] sons Israel.  Their horses you shall hamstring, and  their chariots you shall incinerate by fire. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Joshua, “Do not be afraid of them, for by this time tomorrow I will deliver all of them slain before Israel. You are to hamstring their horses and burn up their chariots.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.5|<< Joshua 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.7|Joshua 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

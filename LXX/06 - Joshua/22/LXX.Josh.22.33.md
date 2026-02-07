@@ -1,10 +1,7 @@
 **LXX Joshua 22:33** 
 <small><sub>**LXX:**</sub></small>
 And the word was pleasing to the sons of Israel; and they blessed the God of \[the\] sons of Israel. And no longer they spoke to ascend to them for war, to utterly destroy the land of the sons of Reuben and the sons of Gad which they dwelt upon it. 
-<small><sub>**KJV:**</sub></small>
-And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
-<small><sub>**BSB:**</sub></small>
-The Israelites were satisfied with the report, and they blessed God and spoke no more about going to war against them to destroy the land where the Reubenites and Gadites lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.32|<< Joshua 22:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.34|Joshua 22:34 >>]]</td></tr></table>
 
 | Translation | Greek |

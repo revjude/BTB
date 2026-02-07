@@ -1,12 +1,12 @@
-**1 Peter 1:10
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:10**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of which salvation the prophets have inquired and searched diligently, who prophesied of the grace [that should come] unto you:
 <small><sub>**BSB:**</sub></small>
 Concerning this salvation, the prophets who foretold the grace to come to you searched and investigated carefully,
 <small><sub>**Literal:**</sub></small>
 Concerning this salvation sought out and searched out diligently [the] prophets <the> of the toward you grace having prophesied,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.9|<< 1 Peter 1:9]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.11|1 Peter 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3739\|ἧς]]</big>**  |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

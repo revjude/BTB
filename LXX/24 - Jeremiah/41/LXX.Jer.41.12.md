@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:12** 
 <small><sub>**LXX:**</sub></small>
 And he led all  their encamped army, and set out to wage war \[against\] him; and he found him at \[the\] water \[of the\] great \[pool\] in Gibeon. 
-<small><sub>**KJV:**</sub></small>
-Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that [are] in Gibeon.
-<small><sub>**BSB:**</sub></small>
-they took all their men and went to fight Ishmael son of Nethaniah. And they found him near the great pool in Gibeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.11|<< Jeremiah 41:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.13|Jeremiah 41:13 >>]]</td></tr></table>
 
 | Translation | Greek |

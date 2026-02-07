@@ -1,4 +1,4 @@
-**Leviticus 27:24** 
+**Leviticus 27:24**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year of the jubile the field shall return unto him of whom it was bought, [even] to him to whom the possession of the land [did belong].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the Year of Jubilee the field shall return to the one from whom it was bought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.23|<< Leviticus 27:23]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.25|Leviticus 27:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] year of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֤ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the jubilee  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3104\|יּוֹבֵל֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

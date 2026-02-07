@@ -1,4 +1,4 @@
-**Deuteronomy 11:21** 
+**Deuteronomy 11:21**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That your days may be multiplied, and the days of your children, in the land which the LORD sware unto your fathers to give them, as the days of heaven upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that as long as the heavens are above the earth, your days and those of your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.20|<< Deuteronomy 11:20]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.22|Deuteronomy 11:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֨עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may increase  |**<big>&#8207;[[H7235A\|יִרְבּ֤וּ]]&#8207; </big>**| yir.Bu<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

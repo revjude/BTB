@@ -1,12 +1,12 @@
-**Matthew 16:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:13**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
 <small><sub>**BSB:**</sub></small>
 When Jesus came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the Son of Man is?”
 <small><sub>**Literal:**</sub></small>
 Having come then <the> Jesus into the district of Caesarea <the> Philippi He was questioning the disciples of Him saying; Whom Me do pronounce <the> men to be the Son <the> of man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.12|<< Matthew 16:12]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.14|Matthew 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G2064\|Ἐλθὼν]]</big>**  |Elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

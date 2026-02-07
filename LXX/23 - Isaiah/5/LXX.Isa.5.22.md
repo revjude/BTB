@@ -1,10 +1,7 @@
 **LXX Isaiah 5:22** 
 <small><sub>**LXX:**</sub></small>
 Woe \[to\] your strong ones, the ones drinking  wine, and the mighty ones, the ones mixing  liquor; 
-<small><sub>**KJV:**</sub></small>
-Woe unto [them that are] mighty to drink wine, and men of strength to mingle strong drink:
-<small><sub>**BSB:**</sub></small>
-Woe to those who are heroes in drinking wine and champions in mixing strong drink,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.21|<< Isaiah 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.23|Isaiah 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

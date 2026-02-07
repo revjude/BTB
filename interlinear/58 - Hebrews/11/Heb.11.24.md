@@ -1,12 +1,12 @@
-**Hebrews 11:24
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:24**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
 <small><sub>**BSB:**</sub></small>
 By faith Moses, when he was grown, refused to be called the son of Pharaoh’s daughter.
 <small><sub>**Literal:**</sub></small>
 By faith Moses grown having become he refused to be named [the] son of [the] daughter of Pharaoh,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.23|<< Hebrews 11:23]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.25|Hebrews 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

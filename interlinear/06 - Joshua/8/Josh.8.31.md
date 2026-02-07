@@ -1,4 +1,4 @@
-**Joshua 8:31** 
+**Joshua 8:31**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up [any] iron: and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ just as Moses the servant of the LORD had commanded the Israelites. He built it 
 > $\quad$ referenced by: [[Deut.27.5|Deut 27:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּה֩]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

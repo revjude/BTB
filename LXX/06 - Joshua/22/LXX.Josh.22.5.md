@@ -1,10 +1,7 @@
 **LXX Joshua 22:5** 
 <small><sub>**LXX:**</sub></small>
 But guard exceedingly to do the commandments and the law, which Moses the servant \[of the\] <span class="smallcaps">lord</span> gave charge to you -- to love \[the\] <span class="smallcaps">lord</span>  your God, and to go by all  his ways, to guard  his commandments, and to lie near to them, and to serve him in all  your thought, and of your entire soul. 
-<small><sub>**KJV:**</sub></small>
-But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
-<small><sub>**BSB:**</sub></small>
-But be very careful to observe the commandment and the law that Moses the servant of the LORD gave you: to love the LORD your God, to walk in all His ways, to keep His commandments, to hold fast to Him, and to serve Him with all your heart and with all your soul.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.4|<< Joshua 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.6|Joshua 22:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 22:5** is...

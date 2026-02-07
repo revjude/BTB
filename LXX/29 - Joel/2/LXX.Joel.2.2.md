@@ -1,10 +1,7 @@
 **LXX Joel 2:2** 
 <small><sub>**LXX:**</sub></small>
 A day of darkness and dimness, a day of cloud and fog, as \[the\] dawn, there shall be poured upon the mountains a vast and strong people, likened to it has not happened from the eon, and after it there shall not be added unto years, for generations of generations. 
-<small><sub>**KJV:**</sub></small>
-A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, [even] to the years of many generations.
-<small><sub>**BSB:**</sub></small>
-a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.1|<< Joel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.3|Joel 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

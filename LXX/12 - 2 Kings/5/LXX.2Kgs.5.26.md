@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:26** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to him, \[Did\] not  my heart go with you when the man turned from  his chariot for meeting you? And now, you took the silver, and the garments, and you shall take with it gardens, and olive groves, and vineyards, and flocks, and herds, and bondmen and bondwomen. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Went not mine heart [with thee], when the man turned again from his chariot to meet thee? [Is it] a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?
-<small><sub>**BSB:**</sub></small>
-But Elisha questioned him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.25|<< 2 Kings 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.27|2 Kings 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

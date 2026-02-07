@@ -1,10 +1,7 @@
 **LXX Joshua 24:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> cast out all the nations, and the Amorite  dwelling in the land, from our face. But also we will serve to the <span class="smallcaps">lord</span>, for this one is  our God. 
-<small><sub>**KJV:**</sub></small>
-And the LORD drave out from before us all the people, even the Amorites which dwelt in the land: [therefore] will we also serve the LORD; for he [is] our God.
-<small><sub>**BSB:**</sub></small>
-And the LORD drove out before us all the nations, including the Amorites who lived in the land. We too will serve the LORD, because He is our God!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.17|<< Joshua 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.19|Joshua 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 10:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:8**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart: that is, the word of faith, which we preach;
 <small><sub>**BSB:**</sub></small>
 But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming:
@@ -10,7 +10,7 @@ But what says it? Near you the declaration is in the mouth of you and in the hea
 > $\quad$ referencing: [[LXX.Deut.30.14|Deut 30:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

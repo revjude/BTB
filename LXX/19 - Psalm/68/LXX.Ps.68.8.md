@@ -1,10 +1,7 @@
 **LXX Psalm 68:8** 
 <small><sub>**LXX:**</sub></small>
 \[the\] earth was shaken. For even the heavens dripped \[water\] before \[the\] face of the God  of Sinai; before \[the\] face of the God of Israel. 
-<small><sub>**KJV:**</sub></small>
-The earth shook, the heavens also dropped at the presence of God: [even] Sinai itself [was moved] at the presence of God, the God of Israel.
-<small><sub>**BSB:**</sub></small>
-the earth shook and the heavens poured down rain before God, the One on Sinai, before God, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.7|<< Psalm 68:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.9|Psalm 68:9 >>]]</td></tr></table>
 
 | Translation | Greek |

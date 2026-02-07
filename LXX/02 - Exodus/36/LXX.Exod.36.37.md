@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he made a draw curtain for the door of the tent of blue, and purple, and of scarlet being twined, and linen being twined, a work of an embroiderer; 
-<small><sub>**KJV:**</sub></small>
-And he made an hanging for the tabernacle door [of] blue, and purple, and scarlet, and fine twined linen, of needlework;
-<small><sub>**BSB:**</sub></small>
-For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.36|<< Exodus 36:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.38|Exodus 36:38 >>]]</td></tr></table>
 
 | Translation | Greek |

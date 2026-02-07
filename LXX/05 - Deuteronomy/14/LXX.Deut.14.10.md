@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:10** 
 <small><sub>**LXX:**</sub></small>
 And all as much as there is not fins and scales to them you shall not eat; these shall be unclean to you. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever hath not fins and scales ye may not eat; it [is] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-but you may not eat anything that does not have fins and scales; it is unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.9|<< Deuteronomy 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.11|Deuteronomy 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

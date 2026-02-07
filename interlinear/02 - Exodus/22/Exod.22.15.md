@@ -1,4 +1,4 @@
-**Exodus 22:15** (22:14)
+**Exodus 22:15**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] if the owner thereof [be] with it, he shall not make [it] good: if it [be] an hired [thing], it came for his hire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the owner was present, no restitution is required. If the animal was rented, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.14|<< Exodus 22:14]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.16|Exodus 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | owner\<s> its  |**<big>&#8207;[[H1167G\|בְּעָלָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.'a.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

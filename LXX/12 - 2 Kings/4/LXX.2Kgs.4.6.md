@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:6** 
 <small><sub>**LXX:**</sub></small>
 And she said to  her sons, Bring \[near\] to me a vessel! And they said to her, There \[is\] not yet a vessel. And the olive oil stopped. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, [There is] not a vessel more. And the oil stayed.
-<small><sub>**BSB:**</sub></small>
-When all the jars were full, she said to her son, “Bring me another.” But he replied, “There are no more jars.” Then the oil stopped flowing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.5|<< 2 Kings 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.7|2 Kings 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

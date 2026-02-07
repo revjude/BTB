@@ -1,4 +1,4 @@
-**Psalms 122:4** 
+**Psalms 122:4**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ where the tribes go up, the tribes of the LORD, as a testimony for Israel, to gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.3|<< Psalms 122:3]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.5|Psalms 122:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where there  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H8033G\|שָּׁ֨ם]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they went up  |**<big>&#8207;[[H5927G\|עָל֪וּ]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

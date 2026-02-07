@@ -1,4 +1,4 @@
-**Judges 11:22** 
+**Judges 11:22**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ seizing all the land from the Arnon to the Jabbok and from the wilderness to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.21|<< Judges 11:21]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.23|Judges 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took possession of  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3423H\|יִּ֣ירְשׁ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.re.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

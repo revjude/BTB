@@ -1,4 +1,4 @@
-**Proverbs 20:25** 
+**Proverbs 20:25**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] a snare to the man [who] devoureth [that which is] holy, and after vows to make inquiry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is a trap for a man to dedicate something rashly, only later to reconsider hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.24|<< Proverbs 20:24]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.26|Proverbs 20:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a snare of  |**<big>&#8207;[[H4170\|מוֹקֵ֣שׁ]]&#8207; </big>**| mo.Kesh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

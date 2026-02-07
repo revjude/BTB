@@ -1,4 +1,4 @@
-**Psalms 33:11** 
+**Psalms 33:11**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The counsel of the LORD standeth for ever, the thoughts of his heart to all generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The counsel of the LORD stands forever, the purposes of His heart to all generat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.10|<< Psalms 33:10]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.12|Psalms 33:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] counsel of  |**<big>&#8207;[[H6098\|עֲצַ֣ת]]&#8207; </big>**| 'a.Tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

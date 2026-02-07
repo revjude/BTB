@@ -1,10 +1,7 @@
 **LXX Zechariah 7:13** 
 <small><sub>**LXX:**</sub></small>
 And it will be in which manner I spoke, and they did not listen to him, so they shall cry out, and in no way shall I listen, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-Therefore it is come to pass, [that] as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts:
-<small><sub>**BSB:**</sub></small>
-And just as I had called and they would not listen, so when they called I would not listen, says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.12|<< Zechariah 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.14|Zechariah 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

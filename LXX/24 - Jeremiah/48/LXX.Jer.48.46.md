@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:46** 
 <small><sub>**LXX:**</sub></small>
 Woe to you Moab. the people of Chemosh were destroyed. For they took  your sons and  your daughters for captivity. 
-<small><sub>**KJV:**</sub></small>
-Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
-<small><sub>**BSB:**</sub></small>
-Woe to you, O Moab! The people of Chemosh have perished; for your sons have been taken into exile and your daughters have gone into captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.45|<< Jeremiah 48:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.47|Jeremiah 48:47 >>]]</td></tr></table>
 
 | Translation | Greek |

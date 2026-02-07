@@ -1,12 +1,12 @@
-**2 Corinthians 8:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:14**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But by an equality, [that] now at this time your abundance [may be a supply] for their want, that their abundance also may be [a supply] for your want: that there may be equality:
 <small><sub>**BSB:**</sub></small>
 At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. This way there will be equality.
 <small><sub>**Literal:**</sub></small>
 At the present time <the> your excess [will be] for the of those need, so that also <the> their excess may be for the of you need, so that there may become equality<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.13|<< 2 Corinthians 8:13]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.15|2 Corinthians 8:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 11:50
-**<small><sub>**KJV:**</sub></small>
+**John 11:50**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 <small><sub>**BSB:**</sub></small>
 You do not realize that it is better for you that one man die for the people than that the whole nation perish.”
 <small><sub>**Literal:**</sub></small>
 nor consider you that it is profitable for you that one man may die for the people, and not all the nation may perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.49|<< John 11:49]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.51|John 11:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | consider you [^1] |**<big>[[G3049\|λογίζεσθε]]</big>**  |logizesthe <small><sup>[[V-PNI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

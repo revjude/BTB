@@ -1,12 +1,12 @@
-**Mark 13:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:27**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
 <small><sub>**BSB:**</sub></small>
 And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven.
 <small><sub>**Literal:**</sub></small>
 And then He will send the angels of him and will gather together the elect of Him from the four winds from [the] end of earth until [the] end of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.26|<< Mark 13:26]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.28|Mark 13:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

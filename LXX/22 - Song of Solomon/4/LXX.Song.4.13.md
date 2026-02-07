@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:13** 
 <small><sub>**LXX:**</sub></small>
 Your dowries \[are\] a garden of pomegranates, with \[the\] fruit of fruit trees; camphor with spikenards. 
-<small><sub>**KJV:**</sub></small>
-Thy plants [are] an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,
-<small><sub>**BSB:**</sub></small>
-Your branches are an orchard of pomegranates with the choicest of fruits, with henna and nard,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.12|<< Song of Solomon 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.14|Song of Solomon 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 John 5:12
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:12**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that hath the Son hath life; [and] he that hath not the Son of God hath not life.
 <small><sub>**BSB:**</sub></small>
 Whoever has the Son has life; whoever does not have the Son of God does not have life.
 <small><sub>**Literal:**</sub></small>
 The [one] having the Son has <the> life; the [one] not having the Son <the> of God <the> life not has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.11|<< 1 John 5:11]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.13|1 John 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

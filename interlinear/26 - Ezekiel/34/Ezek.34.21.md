@@ -1,4 +1,4 @@
-**Ezekiel 34:21** 
+**Ezekiel 34:21**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since you shove with flank and shoulder, butting all the weak ones with your hor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.20|<< Ezekiel 34:20]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.22|Ezekiel 34:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with side  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6654\|צַ֤ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

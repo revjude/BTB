@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:5** 
 <small><sub>**LXX:**</sub></small>
 Support me with perfumes! Pile me with apples, for I \[am\] being pierced of love. 
-<small><sub>**KJV:**</sub></small>
-Stay me with flagons, comfort me with apples: for I [am] sick of love.
-<small><sub>**BSB:**</sub></small>
-Sustain me with raisins; refresh me with apples, for I am faint with love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.4|<< Song of Solomon 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.6|Song of Solomon 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

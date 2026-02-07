@@ -1,10 +1,7 @@
 **LXX Leviticus 9:8** 
 <small><sub>**LXX:**</sub></small>
 And Aaron came forward to the altar, and he slew the calf, the one for  his sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Aaron therefore went unto the altar, and slew the calf of the sin offering, which [was] for himself.
-<small><sub>**BSB:**</sub></small>
-So Aaron approached the altar and slaughtered the calf as a sin offering for himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.7|<< Leviticus 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.9|Leviticus 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

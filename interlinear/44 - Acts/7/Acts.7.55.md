@@ -1,12 +1,12 @@
-**Acts 7:55
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:55**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 <small><sub>**BSB:**</sub></small>
 But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God.
 <small><sub>**Literal:**</sub></small>
 He being however full of [the] Spirit Holy, having looked intently into <the> heaven saw [the] glory of God and Jesus already standing at [the] right hand <the> of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.54|<< Acts 7:54]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.56|Acts 7:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He being |**<big>[[G5225\|Ὑπάρχων]]</big>**  |Huparchōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

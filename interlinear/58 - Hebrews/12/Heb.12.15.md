@@ -1,5 +1,5 @@
-**Hebrews 12:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:15**<big><big>[[Heb.12.14 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble [you], and thereby many be defiled;
 <small><sub>**BSB:**</sub></small>
 See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many.
@@ -10,7 +10,7 @@ observing lest any be failing of the grace <the> of God, lest any root of bitter
 > $\quad$ referencing: [[LXX.Deut.29.18|Deut 29:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | observing |**<big>[[G1983\|ἐπισκοποῦντες]]</big>**  |episkopountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | lest |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

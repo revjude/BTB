@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Hear the word of \[the\] <span class="smallcaps">lord</span>, O kings of Judah, and O ones dwelling Jerusalem! Thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Behold, I bring upon  this place evils, so that all hearing them, his ears shall resound. 
-<small><sub>**KJV:**</sub></small>
-And say, Hear ye the word of the LORD, O kings of Judah, and inhabitants of Jerusalem; Thus saith the LORD of hosts, the God of Israel; Behold, I will bring evil upon this place, the which whosoever heareth, his ears shall tingle.
-<small><sub>**BSB:**</sub></small>
-saying, ‘Hear the word of the LORD, O kings of Judah and residents of Jerusalem. This is what the LORD of Hosts, the God of Israel, says: I am going to bring such disaster on this place that the ears of all who hear of it will ring,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.2|<< Jeremiah 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.4|Jeremiah 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

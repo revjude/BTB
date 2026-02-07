@@ -1,4 +1,4 @@
-**Deuteronomy 22:7** 
+**Deuteronomy 22:7**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and [that] thou mayest prolong [thy] days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may take the young, but be sure to let the mother go, so that it may be well
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.6|<< Deuteronomy 22:6]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.8|Deuteronomy 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<let go>  |**<big>&#8207;[[H7971H\|שַׁלֵּ֤חַ]]&#8207; </big>**| sha.Le.ach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will let go  |**<big>&#8207;[[H7971H\|תְּשַׁלַּח֙]]&#8207; </big>**| te.sha.Lach<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 16:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:4**<big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 As they went from town to town, they delivered the decisions handed down by the apostles and elders in Jerusalem for the people to obey.
 <small><sub>**Literal:**</sub></small>
 While then they were passing through the cities, they were delivering to them to keep the decrees which [were] decided on by the apostles and of the elders who [were] in Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.3|<< Acts 16:3]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.5|Acts 16:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

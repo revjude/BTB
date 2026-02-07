@@ -1,4 +1,4 @@
-**Hosea 11:9** 
+**Hosea 11:9**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I [am] God, and not man; the Holy One in the midst of thee: and I will not enter into the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will not execute the full fury of My anger; I will not destroy Ephraim again. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will carry out  |**<big>&#8207;[[H6213A\|אֶֽעֱשֶׂה֙]]&#8207; </big>**| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

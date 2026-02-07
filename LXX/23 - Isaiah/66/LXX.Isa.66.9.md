@@ -1,10 +1,7 @@
 **LXX Isaiah 66:9** 
 <small><sub>**LXX:**</sub></small>
 But I gave  this expectation, and you did not remember me, said \[the\] <span class="smallcaps">lord</span>. And behold, I made \[the one\] bearing and \[the one\] sterile, said  your God. 
-<small><sub>**KJV:**</sub></small>
-Shall I bring to the birth, and not cause to bring forth? saith the LORD: shall I cause to bring forth, and shut [the womb]? saith thy God.
-<small><sub>**BSB:**</sub></small>
-Shall I bring a baby to the point of birth and not deliver it?” says the LORD. “Or will I who deliver close the womb?” says your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.8|<< Isaiah 66:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.10|Isaiah 66:10 >>]]</td></tr></table>
 
 | Translation | Greek |

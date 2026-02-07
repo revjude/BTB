@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  Joab's guarding at the city, that he put  Uriah into the place where he knew that men of power \[were\] there. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Joab observed the city, that he assigned Uriah unto a place where he knew that valiant men [were].
-<small><sub>**BSB:**</sub></small>
-So as Joab besieged the city, he assigned Uriah to a place where he knew the strongest enemy soldiers were.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.15|<< 2 Samuel 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.17|2 Samuel 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

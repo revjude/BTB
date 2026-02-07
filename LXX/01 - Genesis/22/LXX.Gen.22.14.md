@@ -1,10 +1,7 @@
 **LXX Genesis 22:14** 
 <small><sub>**LXX:**</sub></small>
 And Abraham called the name  of that place, \[The\] <span class="smallcaps">lord</span> saw; that they may say today, \[the\] <span class="smallcaps">lord</span> was seen in the mountain. 
-<small><sub>**KJV:**</sub></small>
-And Abraham called the name of that place Jehovahjireh: as it is said [to] this day, In the mount of the LORD it shall be seen.
-<small><sub>**BSB:**</sub></small>
-And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.13|<< Genesis 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.15|Genesis 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

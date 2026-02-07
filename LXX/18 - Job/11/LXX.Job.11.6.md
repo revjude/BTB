@@ -1,10 +1,7 @@
 **LXX Job 11:6** 
 <small><sub>**LXX:**</sub></small>
 then he shall announce to you \[the\] power of wisdom, that it will be double to the \[things\] of yours? And then you shall know that \[what is\] worthy to you resulted from \[the\] <span class="smallcaps">lord</span> whom you have sinned. 
-<small><sub>**KJV:**</sub></small>
-And that he would shew thee the secrets of wisdom, that [they are] double to that which is! Know therefore that God exacteth of thee [less] than thine iniquity [deserveth].
-<small><sub>**BSB:**</sub></small>
-and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.7|Job 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

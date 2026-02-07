@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, firmly fix  your face against Pharaoh king of Egypt, and prophesy against him, and against entire Egypt! 
-<small><sub>**KJV:**</sub></small>
-Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
-<small><sub>**BSB:**</sub></small>
-“Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.1|<< Ezekiel 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.3|Ezekiel 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

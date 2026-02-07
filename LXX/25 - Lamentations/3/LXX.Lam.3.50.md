@@ -1,10 +1,7 @@
 **LXX Lamentations 3:50** 
 <small><sub>**LXX:**</sub></small>
 until of which \[time\] \[the\] <span class="smallcaps">lord</span> should look through and should behold from out of heaven. 
-<small><sub>**KJV:**</sub></small>
-Till the LORD look down, and behold from heaven.
-<small><sub>**BSB:**</sub></small>
-until the LORD looks down from heaven and sees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.49|<< Lamentations 3:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.51|Lamentations 3:51 >>]]</td></tr></table>
 
 | Translation | Greek |

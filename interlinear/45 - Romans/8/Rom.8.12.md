@@ -1,12 +1,12 @@
-**Romans 8:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:12**<big><big>[[Rom.8.12 Heirs with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, we have an obligation, but it is not to the flesh, to live according to it.
 <small><sub>**Literal:**</sub></small>
 So then, brothers, debtors we are not to the flesh <the> according to flesh to live;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.11|<< Romans 8:11]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.13|Romans 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|Ἄρα]]</big>**  |Ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then, |**<big>[[G3767\|οὖν,]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

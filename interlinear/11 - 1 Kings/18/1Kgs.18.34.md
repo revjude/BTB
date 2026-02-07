@@ -1,4 +1,4 @@
-**1 Kings 18:34** 
+**1 Kings 18:34**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Do [it] the second time. And they did [it] the second time. And he said, Do [it] the third time. And they did [it] the third time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said, “Fill four waterpots and pour the water on the offering and on the w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.33|<< 1 Kings 18:33]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.35|1 Kings 18:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do again  |**<big>&#8207;[[H8138B\|שְׁנוּ֙]]&#8207; </big>**| she.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

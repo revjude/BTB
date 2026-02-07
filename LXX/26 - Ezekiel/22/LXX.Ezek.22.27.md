@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:27** 
 <small><sub>**LXX:**</sub></small>
  Her rulers in her midst \[are\] as wolves seizing prey  to shed blood,  to destroy lives, so that their desire for wealth should overabound. 
-<small><sub>**KJV:**</sub></small>
-Her princes in the midst thereof [are] like wolves ravening the prey, to shed blood, [and] to destroy souls, to get dishonest gain.
-<small><sub>**BSB:**</sub></small>
-Her officials within her are like wolves tearing their prey, shedding blood, and destroying lives for dishonest gain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

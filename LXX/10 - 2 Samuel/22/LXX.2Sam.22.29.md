@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:29** 
 <small><sub>**LXX:**</sub></small>
 For you shall light my lamp, O <span class="smallcaps">lord</span>; and the <span class="smallcaps">lord</span> shall shine forth in my darkness. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] my lamp, O LORD: and the LORD will lighten my darkness.
-<small><sub>**BSB:**</sub></small>
-For You, O LORD, are my lamp; the LORD lights up my darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.28|<< 2 Samuel 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.30|2 Samuel 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

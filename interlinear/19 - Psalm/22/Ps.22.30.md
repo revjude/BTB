@@ -1,4 +1,4 @@
-**Psalms 22:30** (22:31)
+**Psalms 22:30**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A seed shall serve him; it shall be accounted to the Lord for a generation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Posterity will serve Him; they will declare the Lord to a new generation.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | offspring  |**<big>&#8207;[[H2233H\|זֶ֥רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will serve him  |**<big>&#8207;[[H5647H\|יַֽעַבְדֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ya.'av.De.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

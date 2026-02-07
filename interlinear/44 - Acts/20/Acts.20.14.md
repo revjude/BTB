@@ -1,12 +1,12 @@
-**Acts 20:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:14**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he met with us at Assos, we took him in, and came to Mitylene.
 <small><sub>**BSB:**</sub></small>
 And when he met us at Assos, we took him aboard and went on to Mitylene.
 <small><sub>**Literal:**</sub></small>
 When now he was meeting with us at <the> Assos, having taken in him we came to Mitylene;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.13|<< Acts 20:13]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.15|Acts 20:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 14:43
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:43**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.
 <small><sub>**BSB:**</sub></small>
 While Jesus was still speaking, Judas, one of the Twelve, arrived, accompanied by a crowd armed with swords and clubs, sent from the chief priests, scribes, and elders.
 <small><sub>**Literal:**</sub></small>
 And immediately while yet when he is speaking comes up <the> Judas, <the> Iscariot one being of the Twelve, and with Him a crowd great with swords and clubs from the chief priests and the scribes and the elders.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.42|<< Mark 14:42]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.44|Mark 14:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

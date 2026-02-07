@@ -1,10 +1,7 @@
 **LXX Joshua 3:8** 
 <small><sub>**LXX:**</sub></small>
 And now give charge to the priests  lifting the ark of the covenant! saying, As soon as you should enter upon a part of the water of the Jordan, then in the Jordan you shall stand. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan.
-<small><sub>**BSB:**</sub></small>
-Command the priests carrying the ark of the covenant: ‘When you reach the edge of the waters, stand in the Jordan.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.7|<< Joshua 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.9|Joshua 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

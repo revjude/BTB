@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  their affliction they will rise early to me, saying, We should go and return to \[the\] <span class="smallcaps">lord</span>  our God, for he snatched us away, and he will heal us. He shall strike, and he shall dress our wounds. 
-<small><sub>**KJV:**</sub></small>
-Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
-<small><sub>**BSB:**</sub></small>
-Come, let us return to the LORD. For He has torn us to pieces, but He will heal us; He has wounded us, but He will bind up our wounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.15|<< Hosea 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.2|Hosea 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

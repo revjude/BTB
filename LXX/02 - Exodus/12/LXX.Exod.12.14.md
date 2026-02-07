@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And this day shall be to you a memorial. And you shall solemnize it a holiday to \[the\] <span class="smallcaps">lord</span> unto  your generations; an eternal law you shall solemnize it. 
-<small><sub>**KJV:**</sub></small>
-And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.
-<small><sub>**BSB:**</sub></small>
-And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.13|<< Exodus 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.15|Exodus 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

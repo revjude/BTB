@@ -1,10 +1,7 @@
 **LXX Esther 7:10** 
 <small><sub>**LXX:**</sub></small>
 And Haman was hung upon the tree which he prepared for Mordecai. And then the king slackened from the rage. 
-<small><sub>**KJV:**</sub></small>
-So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.
-<small><sub>**BSB:**</sub></small>
-So they hanged Haman on the gallows he had prepared for Mordecai. Then the fury of the king subsided.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.9|<< Esther 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.1|Esther 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, prophesy and say! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Because  of you being dishonored, and being detested by the ones round about you,  for you to be for a possession to the rest of \[the\] nations, and you ascended \[as a\] tongue of discussion, and a scorn to nations. 
-<small><sub>**KJV:**</sub></small>
-Therefore prophesy and say, Thus saith the Lord GOD; Because they have made [you] desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and [are] an infamy of the people:
-<small><sub>**BSB:**</sub></small>
-therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.2|<< Ezekiel 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.4|Ezekiel 36:4 >>]]</td></tr></table>
 
 | Translation | Greek |

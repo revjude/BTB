@@ -1,12 +1,12 @@
-**Hebrews 11:26
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:26**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.
 <small><sub>**BSB:**</sub></small>
 He valued disgrace for Christ above the treasures of Egypt, for he was looking ahead to his reward.
 <small><sub>**Literal:**</sub></small>
 greater wealth having esteemed than that in Egypt treasures the reproach <the> of Christ; he was looking for toward the reward.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.25|<< Hebrews 11:25]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.27|Hebrews 11:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | greater |**<big>[[G3173\|μείζονα]]</big>**  |meizona <small><sup>[[A-ASM-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wealth |**<big>[[G4149\|πλοῦτον]]</big>**  |plouton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

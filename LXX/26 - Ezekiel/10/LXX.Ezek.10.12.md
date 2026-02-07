@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:12** 
 <small><sub>**LXX:**</sub></small>
 And all  their flesh, and  their backs, and  their hands, and  their wings, and the wheels \[were\] full of eyes round about to the four wheels of them. 
-<small><sub>**KJV:**</sub></small>
-And their whole body, and their backs, and their hands, and their wings, and the wheels, [were] full of eyes round about, [even] the wheels that they four had.
-<small><sub>**BSB:**</sub></small>
-Their entire bodies, including their backs, hands, and wings, were full of eyes all around, as were their four wheels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.11|<< Ezekiel 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.13|Ezekiel 10:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 10:12** is...

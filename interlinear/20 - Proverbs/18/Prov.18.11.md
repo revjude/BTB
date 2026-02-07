@@ -1,4 +1,4 @@
-**Proverbs 18:11** 
+**Proverbs 18:11**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich man’s wealth [is] his strong city, and as an high wall in his own conceit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A rich man’s wealth is his fortified city; it is like a high wall in his imagi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.10|<< Proverbs 18:10]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.12|Proverbs 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wealth of  |**<big>&#8207;[[H1952\|ה֣וֹן]]&#8207; </big>**| Hon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a rich [person]  |**<big>&#8207;[[H6223\|עָ֭שִׁיר]]&#8207; </big>**| 'A.shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 17:16** 
+**Proverbs 17:16**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore [is there] a price in the hand of a fool to get wisdom, seeing [he hath] no heart [to it]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should the fool have money in his hand with no intention of buying wisdom?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.15|<< Proverbs 17:15]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.17|Proverbs 17:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶּ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

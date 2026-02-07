@@ -1,4 +1,4 @@
-**Jeremiah 31:32** 
+**Jeremiah 31:32**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not according to the covenant that I made with their fathers in the day [that] I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ It will not be like the covenant I made with their fathers when I took them by t
 > $\quad$ referenced by: [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the covenant  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1285\|בְּרִ֗ית]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

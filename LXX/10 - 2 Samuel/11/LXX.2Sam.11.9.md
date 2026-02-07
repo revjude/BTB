@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:9** 
 <small><sub>**LXX:**</sub></small>
 And Uriah went to bed by the door of the house of the king with all the servants  of his master; and he did not go down to  his house. 
-<small><sub>**KJV:**</sub></small>
-But Uriah slept at the door of the king’s house with all the servants of his lord, and went not down to his house.
-<small><sub>**BSB:**</sub></small>
-But Uriah slept at the door of the palace with all his master’s servants; he did not go down to his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.8|<< 2 Samuel 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.10|2 Samuel 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

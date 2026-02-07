@@ -1,10 +1,7 @@
 **LXX Numbers 3:32** 
 <small><sub>**LXX:**</sub></small>
 And the ruler, the one over the rulers of the Levites \[was\] Eleazar the son of Aaron the priest being placed, to guard the watches of the holy \[places\]. 
-<small><sub>**KJV:**</sub></small>
-And Eleazar the son of Aaron the priest [shall be] chief over the chief of the Levites, [and have] the oversight of them that keep the charge of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-The chief of the leaders of the Levites was Eleazar son of Aaron the priest; he oversaw those responsible for the duties of the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.31|<< Numbers 3:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.33|Numbers 3:33 >>]]</td></tr></table>
 
 | Translation | Greek |

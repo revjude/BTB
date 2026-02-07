@@ -1,4 +1,4 @@
-**Psalms 119:37** 
+**Psalms 119:37**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn away mine eyes from beholding vanity; [and] quicken thou me in thy way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn my eyes away from worthless things; revive me with Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.36|<< Psalms 119:36]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.38|Psalms 119:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take away  |**<big>&#8207;[[H5674C\|הַעֲבֵ֣ר]]&#8207; </big>**| ha.'a.Ver<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes my  |**<big>&#8207;[[H5869A\|עֵ֭ינַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'Ei.na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

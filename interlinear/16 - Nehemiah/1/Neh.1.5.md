@@ -1,4 +1,4 @@
-**Nehemiah 1:5** 
+**Nehemiah 1:5**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I said: “O LORD, God of heaven, the great and awesome God who keeps His c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.4|<< Nehemiah 1:4]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.6|Nehemiah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I beg you  |**<big>&#8207;[[H0577\|אָֽנָּ֤א]]&#8207; </big>**| 'a.Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

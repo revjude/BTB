@@ -1,10 +1,7 @@
 **LXX Esther 9:21** 
 <small><sub>**LXX:**</sub></small>
 to establish  these days \[as\] good \[days\], and to celebrate both the fourteenth and the fifteenth  of Adar. 
-<small><sub>**KJV:**</sub></small>
-To stablish [this] among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,
-<small><sub>**BSB:**</sub></small>
-to establish among them an annual celebration on the fourteenth and fifteenth days of the month of Adar<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.20|<< Esther 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.22|Esther 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 56:11** 
 <small><sub>**LXX:**</sub></small>
 Yes, the impudent dogs not knowing fullness in the soul; and they are wicked, not knowing understanding; all  followed after their own ways; each according to  his own advantage from his uttermost, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-Yea, [they are] greedy dogs [which] can never have enough, and they [are] shepherds [that] cannot understand: they all look to their own way, every one for his gain, from his quarter.
-<small><sub>**BSB:**</sub></small>
-Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.10|<< Isaiah 56:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.12|Isaiah 56:12 >>]]</td></tr></table>
 
 | Translation | Greek |

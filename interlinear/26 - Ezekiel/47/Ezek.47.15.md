@@ -1,4 +1,4 @@
-**Ezekiel 47:15** 
+**Ezekiel 47:15**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [shall be] the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This shall be the boundary of the land: On the north side it will extend from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.14|<< Ezekiel 47:14]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.16|Ezekiel 47:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] boundary of  |**<big>&#8207;[[H1366G\|גְּב֣וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

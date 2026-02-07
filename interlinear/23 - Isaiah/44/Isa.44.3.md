@@ -1,4 +1,4 @@
-**Isaiah 44:3** 
+**Isaiah 44:3**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For I will pour water on the thirsty land, and currents on the dry ground. I wil
 > $\quad$ referenced by: [[John.7.38|John 7:38]] ☩ [[John.7.39|John 7:39]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will pour out  |**<big>&#8207;[[H3332G\|אֶצָּק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.tzok-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

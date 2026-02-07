@@ -1,10 +1,7 @@
 **LXX Hosea 7:4** 
 <small><sub>**LXX:**</sub></small>
 All committing adultery \[are\] as an oven burning for baking; burning from the flame, from mixing together of \[the\] fat until  its being leavened wholly. 
-<small><sub>**KJV:**</sub></small>
-They [are] all adulterers, as an oven heated by the baker, [who] ceaseth from raising after he hath kneaded the dough, until it be leavened.
-<small><sub>**BSB:**</sub></small>
-They are all adulterers, like an oven heated by a baker who needs not stoke the fire from the kneading to the rising of the dough.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.3|<< Hosea 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.5|Hosea 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

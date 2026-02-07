@@ -1,10 +1,7 @@
 **LXX Judges 11:9** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah said to the elders of Gilead, If you return me to yourselves to make war against the sons of Ammon, and \[the\] <span class="smallcaps">lord</span> should deliver them before me, I will be to you for head \[ruler\]. 
-<small><sub>**KJV:**</sub></small>
-And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?
-<small><sub>**BSB:**</sub></small>
-But Jephthah asked them, “If you take me back to fight the Ammonites and the LORD gives them to me, will I really be your leader?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.8|<< Judges 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.10|Judges 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

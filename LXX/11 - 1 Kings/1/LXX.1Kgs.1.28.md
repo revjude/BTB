@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:28** 
 <small><sub>**LXX:**</sub></small>
 And king David answered, and said, Call to me  Bath-sheba! And she entered before the king, and stood before him. 
-<small><sub>**KJV:**</sub></small>
-Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king.
-<small><sub>**BSB:**</sub></small>
-Then King David said, “Call in Bathsheba for me.” So she came into the king’s presence and stood before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.27|<< 1 Kings 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.29|1 Kings 1:29 >>]]</td></tr></table>
 
 | Translation | Greek |

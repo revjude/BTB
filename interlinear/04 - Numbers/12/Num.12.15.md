@@ -1,4 +1,4 @@
-**Numbers 12:15** 
+**Numbers 12:15**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in [again].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Miriam was confined outside the camp for seven days, and the people did not m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.14|<< Numbers 12:14]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.16|Numbers 12:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she was shut up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5462\|תִּסָּגֵ֥ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.sa.Ger<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Miriam  |**<big>&#8207;[[H4813G\|מִרְיָ֛ם]]&#8207; </big>**| mir.Yam<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

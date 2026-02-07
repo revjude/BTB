@@ -1,12 +1,12 @@
-**Acts 15:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:1**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And certain men which came down from Judaea taught the brethren, [and said], Except ye be circumcised after the manner of Moses, ye cannot be saved.
 <small><sub>**BSB:**</sub></small>
 Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”
 <small><sub>**Literal:**</sub></small>
 And certain ones having come down from <the> Judea were teaching the brothers that Only unless you shall become circumcised according to the custom <the> of Moses, [then] not you are able to be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.28|<< Acts 14:28]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.2|Acts 15:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καί]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certain ones |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

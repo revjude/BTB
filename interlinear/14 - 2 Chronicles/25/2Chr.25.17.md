@@ -1,4 +1,4 @@
-**2 Chronicles 25:17** 
+**2 Chronicles 25:17**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Amaziah king of Judah took counsel and sent word to the king of Israel Jeho
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.16|<< 2 Chronicles 25:16]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.18|2 Chronicles 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took counsel  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3289\|יִּוָּעַ֗ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.va.'Atz<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֙הוּ֙]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

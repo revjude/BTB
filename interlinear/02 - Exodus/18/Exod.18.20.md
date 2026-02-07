@@ -1,4 +1,4 @@
-**Exodus 18:20** 
+**Exodus 18:20**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Teach them the statutes and laws, and show them the way to live and the work the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.19|<< Exodus 18:19]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.21|Exodus 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will warn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2094B\|הִזְהַרְתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hiz.har.Tah<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

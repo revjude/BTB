@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:6** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel departed from Beeroth of \[the\] sons of Jaakin to Mosera; there Aaron died, and he was entombed there. And Eleazar his son officiated as priest instead of him. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead.
-<small><sub>**BSB:**</sub></small>
-The Israelites traveled from Beeroth Bene-jaakan to Moserah, where Aaron died and was buried, and Eleazar his son succeeded him as priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.5|<< Deuteronomy 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.7|Deuteronomy 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

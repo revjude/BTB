@@ -1,4 +1,4 @@
-**Genesis 37:4** 
+**Genesis 37:4**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When Joseph’s brothers saw that their father loved him more than any of them, 
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers his  |**<big>&#8207;[[H0251G\|אֶחָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

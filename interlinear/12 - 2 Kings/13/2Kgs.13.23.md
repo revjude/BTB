@@ -1,4 +1,4 @@
-**2 Kings 13:23** 
+**2 Kings 13:23**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD was gracious to Israel and had compassion on them, and He turned to
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.22|<< 2 Kings 13:22]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.24|2 Kings 13:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he showed favor to  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2603A\|יָּחָן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Chan<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

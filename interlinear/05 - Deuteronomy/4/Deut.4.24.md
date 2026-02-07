@@ -1,4 +1,4 @@
-**Deuteronomy 4:24** 
+**Deuteronomy 4:24**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God [is] a consuming fire, [even] a jealous God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD your God is a consuming fire, a jealous God.
 > $\quad$ referenced by: [[Heb.12.29|Heb 12:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

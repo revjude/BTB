@@ -1,12 +1,12 @@
-**Luke 17:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:34**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I tell you, in that night there shall be two [men] in one bed; the one shall be taken, and the other shall be left.
 <small><sub>**BSB:**</sub></small>
 I tell you, on that night two people will be in one bed: one will be taken and the other left.
 <small><sub>**Literal:**</sub></small>
 I say to you; in that <the> night there will be two upon bed one: The one will be taken, and the other will be left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.33|<< Luke 17:33]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.35|Luke 17:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you; |**<big>[[G4771\|ὑμῖν·]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

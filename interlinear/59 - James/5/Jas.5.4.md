@@ -1,5 +1,5 @@
-**James 5:4
-**<small><sub>**KJV:**</sub></small>
+**James 5:4**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 <small><sub>**BSB:**</sub></small>
 Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts.
@@ -11,7 +11,7 @@ Behold the wage of the workmen who having harvested the fields of you which kept
 > $\quad$ alluding to: [[LXX.Isa.5.9|Isa 5:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

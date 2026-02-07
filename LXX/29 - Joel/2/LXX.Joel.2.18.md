@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But \[the\] <span class="smallcaps">lord</span> was jealous  of his land, and spared  his people. 
-<small><sub>**KJV:**</sub></small>
-Then will the LORD be jealous for his land, and pity his people.
-<small><sub>**BSB:**</sub></small>
-Then the LORD became jealous for His land, and He spared His people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.17|<< Joel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.19|Joel 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

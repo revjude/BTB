@@ -1,4 +1,4 @@
-**Malachi 3:13** 
+**Malachi 3:13**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken [so much] against thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your words have been stout against me, saith the LORD. Yet ye say, What have we 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.12|<< Malachi 3:12]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.14|Malachi 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have been strong  |**<big>&#8207;[[H2388G\|חָזְק֥וּ]]&#8207; </big>**| cha.ze.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

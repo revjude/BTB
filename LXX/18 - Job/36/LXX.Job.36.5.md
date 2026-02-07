@@ -1,10 +1,7 @@
 **LXX Job 36:5** 
 <small><sub>**LXX:**</sub></small>
 But know! that the <span class="smallcaps">lord</span> in no way shall undo the guileless \[man\]; \[the\] mighty in strength of heart. 
-<small><sub>**KJV:**</sub></small>
-Behold, God [is] mighty, and despiseth not [any: he is] mighty in strength [and] wisdom.
-<small><sub>**BSB:**</sub></small>
-Indeed, God is mighty, but He despises no one; He is mighty in strength of understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.4|<< Job 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.6|Job 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

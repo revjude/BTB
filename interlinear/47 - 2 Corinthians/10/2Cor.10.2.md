@@ -1,12 +1,12 @@
-**2 Corinthians 10:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:2**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I beseech [you], that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
 <small><sub>**BSB:**</sub></small>
 I beg you that when I come I may not need to be as bold as I expect toward those who presume that we live according to the flesh.
 <small><sub>**Literal:**</sub></small>
 I implore [you] now that not being present to be bold with the confidence with which I reckon to be daring toward some those reckoning us as according to flesh walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.1|<< 2 Corinthians 10:1]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.3|2 Corinthians 10:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I implore [you] |**<big>[[G1189\|δέομαι]]</big>**  |deomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

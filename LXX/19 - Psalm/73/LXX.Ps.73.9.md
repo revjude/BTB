@@ -1,10 +1,7 @@
 **LXX Psalm 73:9** 
 <small><sub>**LXX:**</sub></small>
 They set their mouth against heaven, and  their tongue went through upon the earth. 
-<small><sub>**KJV:**</sub></small>
-They set their mouth against the heavens, and their tongue walketh through the earth.
-<small><sub>**BSB:**</sub></small>
-They set their mouths against the heavens, and their tongues strut across the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.8|<< Psalm 73:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.10|Psalm 73:10 >>]]</td></tr></table>
 
 | Translation | Greek |

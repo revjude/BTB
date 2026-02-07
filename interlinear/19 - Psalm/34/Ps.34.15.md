@@ -1,4 +1,4 @@
-**Psalms 34:15** (34:16)
+**Psalms 34:15**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eyes of the LORD [are] upon the righteous, and his ears [are open] unto their cry.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The eyes of the LORD are on the righteous, and His ears are inclined to their cr
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

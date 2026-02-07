@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a man of Ephraim said to him, What  \[is\] this thing you do to us,  to not call us when you went to deploy against Midian? And they quarreled with him forcefully. 
-<small><sub>**KJV:**</sub></small>
-And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.
-<small><sub>**BSB:**</sub></small>
-Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.25|<< Judges 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.2|Judges 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

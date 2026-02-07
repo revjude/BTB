@@ -1,10 +1,7 @@
 **LXX Joel 3:11** 
 <small><sub>**LXX:**</sub></small>
 Gather together and enter all  nations round about! And gather together there! Let the gentle one be a warrior! 
-<small><sub>**KJV:**</sub></small>
-Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.
-<small><sub>**BSB:**</sub></small>
-Come quickly, all you surrounding nations, and gather yourselves. Bring down Your mighty ones, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.10|<< Joel 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.12|Joel 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

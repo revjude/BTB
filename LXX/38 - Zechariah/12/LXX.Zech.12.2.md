@@ -1,10 +1,7 @@
 **LXX Zechariah 12:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, I appoint  Jerusalem as thresholds for shaking off all the peoples round about, and in  Judea there will be an encompassing about against Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah [and] against Jerusalem.
-<small><sub>**BSB:**</sub></small>
-“Behold, I will make Jerusalem a cup of drunkenness to all the surrounding peoples. Judah will be besieged, as well as Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.1|<< Zechariah 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.3|Zechariah 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 6:8** 
 <small><sub>**LXX:**</sub></small>
 For if \[only\] he might give and my requests might come, and \[that\]  the <span class="smallcaps">lord</span> might grant my hope. 
-<small><sub>**KJV:**</sub></small>
-Oh that I might have my request; and that God would grant [me] the thing that I long for!
-<small><sub>**BSB:**</sub></small>
-If only my request were granted and God would fulfill my hope:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.9|Job 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

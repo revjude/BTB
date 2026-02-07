@@ -1,4 +1,4 @@
-**Proverbs 1:19** 
+**Proverbs 1:19**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So [are] the ways of every one that is greedy of gain; [which] taketh away the life of the owners thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Such is the fate of all who are greedy, whose unjust gain takes the lives of its
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.18|<< Proverbs 1:18]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.20|Proverbs 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] thus  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] paths of  |**<big>&#8207;[[H0734\|אָ֭רְחוֹת]]&#8207; </big>**| 'A.re.chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

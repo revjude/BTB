@@ -1,4 +1,4 @@
-**Exodus 36:12** 
+**Exodus 36:12**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which [was] in the coupling of the second: the loops held one [curtain] to another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made fifty loops on one curtain and fifty loops on the end curtain of the sec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.11|<< Exodus 36:11]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.13|Exodus 36:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֣ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | loops  |**<big>&#8207;[[H3924\|לֻלָאֹ֗ת]]&#8207; </big>**| lu.la.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

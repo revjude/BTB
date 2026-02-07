@@ -1,10 +1,7 @@
 **LXX Genesis 20:5** 
 <small><sub>**LXX:**</sub></small>
 Said he not to me, She is my sister; and she said to me, He is my brother? With a clean heart, and with righteousness of hands I did this. 
-<small><sub>**KJV:**</sub></small>
-Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.
-<small><sub>**BSB:**</sub></small>
-Didn’t Abraham tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this in the integrity of my heart and the innocence of my hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.4|<< Genesis 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.6|Genesis 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

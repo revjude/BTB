@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:25** 
 <small><sub>**LXX:**</sub></small>
 Heard you not that far off I made her? From ancient days I formed her, and now I brought her. And she became for haughtiness of fortified cities of combative resettlements. 
-<small><sub>**KJV:**</sub></small>
-Hast thou not heard long ago [how] I have done it, [and] of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities [into] ruinous heaps.
-<small><sub>**BSB:**</sub></small>
-Have you not heard? Long ago I ordained it; in days of old I planned it. Now I have brought it to pass, that you should crush fortified cities into piles of rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.24|<< 2 Kings 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.26|2 Kings 19:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 78:51** 
 <small><sub>**LXX:**</sub></small>
 And he struck every first-born in \[the\] land of Egypt; first-fruit of all their toil in the tents of Ham. 
-<small><sub>**KJV:**</sub></small>
-And smote all the firstborn in Egypt; the chief of [their] strength in the tabernacles of Ham:
-<small><sub>**BSB:**</sub></small>
-He struck all the firstborn of Egypt, the virility in the tents of Ham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.50|<< Psalm 78:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.52|Psalm 78:52 >>]]</td></tr></table>
 
 | Translation | Greek |

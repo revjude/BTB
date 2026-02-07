@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:30** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Jehu, Because you did good  to do the upright \[thing\] in my eyes, and you did according to all the \[things\] in  my heart to the house of Ahab, sons \[unto the\] fourth \[generation\] shall sit down for you upon \[the\] throne of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Jehu, Because thou hast done well in executing [that which is] right in mine eyes, [and] hast done unto the house of Ahab according to all that [was] in mine heart, thy children of the fourth [generation] shall sit on the throne of Israel.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the LORD said to Jehu, “Because you have done well in carrying out what is right in My sight and have done to the house of Ahab all that was in My heart, four generations of your sons will sit on the throne of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.29|<< 2 Kings 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.31|2 Kings 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

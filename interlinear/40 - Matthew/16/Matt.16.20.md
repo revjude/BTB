@@ -1,12 +1,12 @@
-**Matthew 16:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:20**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then charged he his disciples that they should tell no man that he was Jesus the Christ.
 <small><sub>**BSB:**</sub></small>
 Then He admonished the disciples not to tell anyone that He was the Christ.
 <small><sub>**Literal:**</sub></small>
 Then he ordered the disciples of him that to no one they may say that He himself is Jesus the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.19|<< Matthew 16:19]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.21|Matthew 16:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he ordered [^1] [^2] |**<big>[[G1291\|διεστείλατο]]</big>**  |diesteilato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |

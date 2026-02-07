@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] holiday of tents you shall observe to yourself seven days, in  your bringing from  your threshing-floor, and from  your wine vat. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:
-<small><sub>**BSB:**</sub></small>
-You are to celebrate the Feast of Tabernacles for seven days after you have gathered the produce of your threshing floor and your winepress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.12|<< Deuteronomy 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.14|Deuteronomy 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

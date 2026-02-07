@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:23** 
 <small><sub>**LXX:**</sub></small>
 And when \[the\] <span class="smallcaps">lord</span> sent you from Kadesh Barnea, saying, Ascend and inherit the land which I give to you! that you resisted persuasion in the word of \[the\] <span class="smallcaps">lord</span>  your God, and did not trust him, and did not listen to  his voice. 
-<small><sub>**KJV:**</sub></small>
-Likewise when the LORD sent you from Kadeshbarnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of the LORD your God, and ye believed him not, nor hearkened to his voice.
-<small><sub>**BSB:**</sub></small>
-And when the LORD sent you out from Kadesh-barnea, He said, “Go up and possess the land that I have given you.” But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.22|<< Deuteronomy 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.24|Deuteronomy 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

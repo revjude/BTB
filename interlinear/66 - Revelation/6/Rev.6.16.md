@@ -1,5 +1,5 @@
-**Revelation 6:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:16**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:
 <small><sub>**BSB:**</sub></small>
 And they said to the mountains and the rocks, “Fall on us and hide us from the face of the One seated on the throne, and from the wrath of the Lamb.
@@ -11,7 +11,7 @@ And they say to the mountains and to the rocks; do fall on us and do hide us fro
 > $\quad$ alluding to: [[LXX.Ps.110.5|Ps 110:5]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hos.10.8|Hos 10:8]] ☩ [[LXX.Joel.2.11|Joel 2:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

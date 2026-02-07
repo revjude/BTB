@@ -1,4 +1,4 @@
-**Jeremiah 30:17** 
+**Jeremiah 30:17**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, [saying], This [is] Zion, whom no man seeketh after.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will restore your health and heal your wounds, declares the LORD, because 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will bring up  |**<big>&#8207;[[H5927H\|אַעֲלֶ֨ה]]&#8207; </big>**| 'a.'a.Leh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

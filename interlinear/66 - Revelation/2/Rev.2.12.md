@@ -1,12 +1,12 @@
-**Revelation 2:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:12**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Pergamum write: These are the words of the One who holds the sharp, double-edged sword.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Pergamum church do write: These things says the [One] having the sword <the> two-edged <the> sharp;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.11|<< Revelation 2:11]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.13|Revelation 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

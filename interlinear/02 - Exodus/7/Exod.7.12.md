@@ -1,4 +1,4 @@
-**Exodus 7:12** 
+**Exodus 7:12**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Each one threw down his staff, and it became a serpent. But Aaron’s staff swal
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they threw down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7993\|יַּשְׁלִ֙יכוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Li.khu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each one  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

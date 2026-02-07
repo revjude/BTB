@@ -1,10 +1,7 @@
 **LXX Isaiah 21:7** 
 <small><sub>**LXX:**</sub></small>
 And I saw riders -- two horsemen, a rider of a donkey, and a rider of a camel. Listen with great hearing! 
-<small><sub>**KJV:**</sub></small>
-And he saw a chariot [with] a couple of horsemen, a chariot of asses, [and] a chariot of camels; and he hearkened diligently with much heed:
-<small><sub>**BSB:**</sub></small>
-When he sees chariots with teams of horsemen, riders on donkeys, riders on camels, he must be alert, fully alert.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.6|<< Isaiah 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.8|Isaiah 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

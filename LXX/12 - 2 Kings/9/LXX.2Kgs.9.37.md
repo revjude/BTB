@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:37** 
 <small><sub>**LXX:**</sub></small>
 And the decaying flesh of Jezebel will be as dung upon \[the\] face of the field in the portion of Jezreel, so as to not say, This \[is\] Jezebel. 
-<small><sub>**KJV:**</sub></small>
-And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; [so] that they shall not say, This [is] Jezebel.
-<small><sub>**BSB:**</sub></small>
-And Jezebel’s body will lie like dung in the field on the plot of ground at Jezreel, so that no one can say: This is Jezebel.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.36|<< 2 Kings 9:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.1|2 Kings 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

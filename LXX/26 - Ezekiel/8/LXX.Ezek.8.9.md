@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Enter, and see the evil lawless deeds which these do here! 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Go in, and behold the wicked abominations that they do here.
-<small><sub>**BSB:**</sub></small>
-Then He said to me, “Go in and see the wicked abominations they are committing here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.8|<< Ezekiel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.10|Ezekiel 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

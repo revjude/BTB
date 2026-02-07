@@ -1,12 +1,12 @@
-**Luke 19:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:17**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
 <small><sub>**BSB:**</sub></small>
 His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’
 <small><sub>**Literal:**</sub></small>
 And He said to him; well done good servant! Because in very little faithful you were, do be having authority you are over ten cities.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.16|<< Luke 19:16]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.18|Luke 19:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

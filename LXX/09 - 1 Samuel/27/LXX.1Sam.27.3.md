@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:3** 
 <small><sub>**LXX:**</sub></small>
 And David sat with Achish in Gath, he and  his men, each also  \[with\] his house, and David and both  of his wives -- Ahinoam \[the\] Jezreelitess, and Abigail the wife of Nabal the Carmelite. 
-<small><sub>**KJV:**</sub></small>
-And David dwelt with Achish at Gath, he and his men, every man with his household, [even] David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.
-<small><sub>**BSB:**</sub></small>
-David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.2|<< 1 Samuel 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.4|1 Samuel 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

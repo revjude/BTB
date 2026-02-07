@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:21** 
 <small><sub>**LXX:**</sub></small>
 And Joash the king of Israel ascended. And they saw one another, he and Amaziah king of Judah, in Beth-shemesh, which is  of Judah. 
-<small><sub>**KJV:**</sub></small>
-So Joash the king of Israel went up; and they saw one another in the face, [both] he and Amaziah king of Judah, at Bethshemesh, which [belongeth] to Judah.
-<small><sub>**BSB:**</sub></small>
-So Jehoash king of Israel advanced, and he and Amaziah king of Judah faced each other at Beth-shemesh in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.20|<< 2 Chronicles 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.22|2 Chronicles 25:22 >>]]</td></tr></table>
 
 | Translation | Greek |

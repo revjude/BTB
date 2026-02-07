@@ -1,4 +1,4 @@
-**1 Samuel 22:15** 
+**1 Samuel 22:15**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did I then begin to inquire of God for him? be it far from me: let not the king impute [any] thing unto his servant, [nor] to all the house of my father: for thy servant knew nothing of all this, less or more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was that day the first time I inquired of God for him? Far be it from me! Let no
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.14|<< 1 Samuel 22:14]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.16|1 Samuel 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֧וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did I begin?  |**<big>&#8207;[[H2490C\|הַחִלֹּ֛תִי]]&#8207; </big>**| ha.chi.Lo.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

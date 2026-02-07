@@ -1,10 +1,7 @@
 **LXX Psalm 39:12** 
 <small><sub>**LXX:**</sub></small>
 Hear  my prayer, O <span class="smallcaps">lord</span>, and  my supplication! Give ear to  my tears! Be not silent! for I am a sojourner with you, and an immigrant, as all  my fathers. 
-<small><sub>**KJV:**</sub></small>
-Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I [am] a stranger with thee, [and] a sojourner, as all my fathers [were].
-<small><sub>**BSB:**</sub></small>
-Hear my prayer, O LORD, and give ear to my cry for help; do not be deaf to my weeping. For I am a foreigner dwelling with You, a stranger like all my fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.11|<< Psalm 39:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.13|Psalm 39:13 >>]]</td></tr></table>
 
 | Translation | Greek |

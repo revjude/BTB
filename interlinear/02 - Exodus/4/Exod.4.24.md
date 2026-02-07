@@ -1,4 +1,4 @@
-**Exodus 4:24** 
+**Exodus 4:24**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now at a lodging place along the way, the LORD met Moses and was about to kill h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.23|<< Exodus 4:23]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.25|Exodus 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the journey  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1870L\|דֶּ֖רֶךְ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 5:9
-**<small><sub>**KJV:**</sub></small>
+**John 5:9**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.
 <small><sub>**BSB:**</sub></small>
 Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day,
 <small><sub>**Literal:**</sub></small>
 And immediately became well the man and he took up the mat of him and was walking; It was now Sabbath on that [very] <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.8|<< John 5:8]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.10|John 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

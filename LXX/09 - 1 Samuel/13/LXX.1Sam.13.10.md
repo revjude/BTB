@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as he completed offering the whole burnt-offering, that behold, Samuel arrived. And Saul came forth to meet him, to bless him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that as soon as he had made an end of offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might salute him.
-<small><sub>**BSB:**</sub></small>
-Just as he finished offering the burnt offering, Samuel arrived, and Saul went out to greet him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.9|<< 1 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.11|1 Samuel 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

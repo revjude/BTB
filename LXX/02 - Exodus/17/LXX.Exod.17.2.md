@@ -1,10 +1,7 @@
 **LXX Exodus 17:2** 
 <small><sub>**LXX:**</sub></small>
 And the people reviled against Moses, saying, Give to us water! that we may drink. And Moses said to them, Why do you revile me? And why do you test \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?
-<small><sub>**BSB:**</sub></small>
-So the people contended with Moses, “Give us water to drink.” “Why do you contend with me?” Moses replied. “Why do you test the LORD?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.1|<< Exodus 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.3|Exodus 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

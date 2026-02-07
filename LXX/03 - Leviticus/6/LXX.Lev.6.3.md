@@ -1,10 +1,7 @@
 **LXX Leviticus 6:3** 
 <small><sub>**LXX:**</sub></small>
 or he found \[something\] lost and should lie concerning it, and should swear by an oath unjustly concerning \[any\] one of all which ever a man should do, so as to sin by these. 
-<small><sub>**KJV:**</sub></small>
-Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:
-<small><sub>**BSB:**</sub></small>
-or finds lost property and lies about it and swears falsely, or if he commits any such sin that a man might commit—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.2|<< Leviticus 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.4|Leviticus 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

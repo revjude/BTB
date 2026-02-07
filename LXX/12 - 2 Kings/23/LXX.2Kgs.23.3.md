@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:3** 
 <small><sub>**LXX:**</sub></small>
 And the king stood near the column, and he ordained the covenant before \[the\] <span class="smallcaps">lord</span>  to go after \[the\] <span class="smallcaps">lord</span>, and  to guard  his commandments, and  his testimonies, and  his orders, with a whole heart, and in \[the\] whole  in life,  to raise up the words  of this covenant  being written in  this scroll. And he established all the people in the covenant. 
-<small><sub>**KJV:**</sub></small>
-And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all [their] heart and all [their] soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.
-<small><sub>**BSB:**</sub></small>
-So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book. And all the people entered into the covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.2|<< 2 Kings 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.4|2 Kings 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

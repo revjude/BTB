@@ -1,4 +1,4 @@
-**2 Chronicles 36:7** 
+**2 Chronicles 36:7**<big><big>[[2Chr.36.5 Jehoiakim Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nebuchadnezzar also took to Babylon some of the articles from the house of the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.6|<< 2 Chronicles 36:6]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.8|2 Chronicles 36:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] articles of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3627\|כְּלֵי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

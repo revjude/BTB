@@ -1,4 +1,4 @@
-**Jeremiah 26:2** 
+**Jeremiah 26:2**<big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Stand in the court of the LORD’S house, and speak unto all the cities of Judah, which come to worship in the LORD’S house, all the words that I command thee to speak unto them; diminish not a word:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus saith the LORD; Stand in the court of the LORD’S house, and speak unto al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.1|<< Jeremiah 26:1]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.3|Jeremiah 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

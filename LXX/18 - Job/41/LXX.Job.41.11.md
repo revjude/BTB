@@ -1,10 +1,7 @@
 **LXX Job 41:11** 
 <small><sub>**LXX:**</sub></small>
 Or who shall oppose me and remain, since all  under heaven is mine? 
-<small><sub>**KJV:**</sub></small>
-Who hath prevented me, that I should repay [him? whatsoever is] under the whole heaven is mine.
-<small><sub>**BSB:**</sub></small>
-Who has given to Me that I should repay him? Everything under heaven is Mine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.10|<< Job 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.12|Job 41:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 41:11** is...

@@ -1,10 +1,7 @@
 **LXX Judges 17:11** 
 <small><sub>**LXX:**</sub></small>
 And the Levite went, and he began to sojourn by the man. And the young man became to him as one of his sons. 
-<small><sub>**KJV:**</sub></small>
-And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.
-<small><sub>**BSB:**</sub></small>
-and agreed to stay with him, and the young man became like a son to Micah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.10|<< Judges 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.12|Judges 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

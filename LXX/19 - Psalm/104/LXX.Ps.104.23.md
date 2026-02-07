@@ -1,10 +1,7 @@
 **LXX Psalm 104:23** 
 <small><sub>**LXX:**</sub></small>
 Man shall go forth unto  his work, even unto  his work until evening. 
-<small><sub>**KJV:**</sub></small>
-Man goeth forth unto his work and to his labour until the evening.
-<small><sub>**BSB:**</sub></small>
-Man goes forth to his work and to his labor until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.22|<< Psalm 104:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.24|Psalm 104:24 >>]]</td></tr></table>
 
 | Translation | Greek |

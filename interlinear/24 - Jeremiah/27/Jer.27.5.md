@@ -1,4 +1,4 @@
-**Jeremiah 27:5** 
+**Jeremiah 27:5**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made the earth, the man and the beast that [are] upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By My great power and outstretched arm, I made the earth and the men and beasts 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.4|<< Jeremiah 27:4]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.6|Jeremiah 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֞י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I made  |**<big>&#8207;[[H6213H\|עָשִׂ֣יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 21:13** 
+**2 Chronicles 21:13**<big><big>[[2Chr.21.12 Elijah’s Letter to Jehoram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house, [which were] better than thyself:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but you have walked in the ways of the kings of Israel and have caused Judah and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.12|<< 2 Chronicles 21:12]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.14|2 Chronicles 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have walked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980I\|תֵּ֗לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] way of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870G\|דֶ֙רֶךְ֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 32:6** 
 <small><sub>**LXX:**</sub></small>
 And the messengers returned to Jacob, saying, We came to  your brother Esau. And behold, he is coming to meet you, and four hundred men with him. 
-<small><sub>**KJV:**</sub></small>
-And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
-<small><sub>**BSB:**</sub></small>
-When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.5|<< Genesis 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.7|Genesis 32:7 >>]]</td></tr></table>
 
 | Translation | Greek |

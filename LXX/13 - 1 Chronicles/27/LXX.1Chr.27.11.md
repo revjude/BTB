@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:11** 
 <small><sub>**LXX:**</sub></small>
 The eighth \[ruler\] for the eighth month \[was\] Sibbecai the Hushathite to the Zarhites; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-The eighth [captain] for the eighth month [was] Sibbecai the Hushathite, of the Zarhites: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.10|<< 1 Chronicles 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.12|1 Chronicles 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

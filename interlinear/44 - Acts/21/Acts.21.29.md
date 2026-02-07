@@ -1,12 +1,12 @@
-**Acts 21:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:29**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)
 <small><sub>**BSB:**</sub></small>
 For they had previously seen Trophimus the Ephesian with him in the city, and they assumed that Paul had brought him into the temple.
 <small><sub>**Literal:**</sub></small>
 It was they for having foreseen Trophimus the Ephesian in the city with him, whom they were supposing that into the temple had brought <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.28|<< Acts 21:28]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.30|Acts 21:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was they |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

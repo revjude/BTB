@@ -1,5 +1,5 @@
-**Matthew 19:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:7**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
 <small><sub>**BSB:**</sub></small>
 “Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?”
@@ -10,7 +10,7 @@ They say to Him; Why then Moses did command to give a roll of divorce and to sen
 > $\quad$ alluding to: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They say |**<big>[[G3004G\|Λέγουσιν]]</big>**  |Legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him; |**<big>[[G0846\|αὐτῷ·]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 37:4** 
 <small><sub>**LXX:**</sub></small>
 After him a voice shall yell out; he shall thunder with \[the\] sound of his insult; and he shall not bargain them, that one shall hear his voice. 
-<small><sub>**KJV:**</sub></small>
-After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.
-<small><sub>**BSB:**</sub></small>
-Then there comes a roaring sound; He thunders with His majestic voice. He does not restrain the lightning when His voice resounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.3|<< Job 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.5|Job 37:5 >>]]</td></tr></table>
 
 | Translation | Greek |

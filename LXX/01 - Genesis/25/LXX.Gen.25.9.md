@@ -1,10 +1,7 @@
 **LXX Genesis 25:9** 
 <small><sub>**LXX:**</sub></small>
 And Isaac and Ishmael entombed him,  his two sons, in the double cave, in the field of Ephron the \[son\] of Zohar the Hittite, which is before Mamre; 
-<small><sub>**KJV:**</sub></small>
-And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which [is] before Mamre;
-<small><sub>**BSB:**</sub></small>
-His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.8|<< Genesis 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.10|Genesis 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 22:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:38**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Lord, behold, here [are] two swords. And he said unto them, It is enough.
 <small><sub>**BSB:**</sub></small>
 So they said, “Look, Lord, here are two swords.” “That is enough,” He answered.
 <small><sub>**Literal:**</sub></small>
 <the> And they said; Lord, behold swords here [are] two. <the> And He said to them; Enough it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.37|<< Luke 22:37]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.39|Luke 22:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Judges 4:22** 
+**Judges 4:22**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her [tent], behold, Sisera lay dead, and the nail [was] in his temples.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.21|<< Judges 4:21]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.23|Judges 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Barak  |**<big>&#8207;[[H1301\|בָרָק֮]]&#8207; </big>**| va.Rak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

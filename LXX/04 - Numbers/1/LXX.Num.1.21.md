@@ -1,10 +1,7 @@
 **LXX Numbers 1:21** 
 <small><sub>**LXX:**</sub></small>
 the numbering of them from out of the tribe of Reuben -- six and forty thousand and five hundred. 
-<small><sub>**KJV:**</sub></small>
-Those that were numbered of them, [even] of the tribe of Reuben, [were] forty and six thousand and five hundred.
-<small><sub>**BSB:**</sub></small>
-those registered to the tribe of Reuben numbered 46,500.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.20|<< Numbers 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.22|Numbers 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 80:13** (80:14)
+**Psalms 80:13**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The boar out of the wood doth waste it, and the wild beast of the field doth devour it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The boar from the forest ravages it, and the creatures of the field feed upon it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.12|<< Psalms 80:12]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.14|Psalms 80:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it eats away it  |**<big>&#8207;[[H3765\|יְכַרְסְמֶ֣]]&#8207;&#8207;[[H9034\|נָּֽה]]&#8207; </big>**| ye.khar.se.Me.<small><sup>[[HVpi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wild boar  |**<big>&#8207;[[H2386\|חֲזִ֣יר]]&#8207; </big>**| cha.Zir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 20:17** 
+**Ezekiel 20:17**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet I looked on them with pity and did not destroy them or bring them to an end 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.16|<< Ezekiel 20:16]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.18|Ezekiel 20:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it looked with compassion  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2347\|תָּ֧חָס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.chos<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eye my  |**<big>&#8207;[[H5869A\|עֵינִ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

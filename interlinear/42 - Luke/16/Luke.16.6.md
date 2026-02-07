@@ -1,12 +1,12 @@
-**Luke 16:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:6**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.
 <small><sub>**BSB:**</sub></small>
 ‘A hundred measures of olive oil,’ he answered. ‘Take your bill,’ said the manager, ‘sit down quickly, and write fifty.’
 <small><sub>**Literal:**</sub></small>
 <the> then he said; A hundred baths of oil. <the> then he said to him; do take your the bills and having sat down soon do write fifty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.5|<< Luke 16:5]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.7|Luke 16:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

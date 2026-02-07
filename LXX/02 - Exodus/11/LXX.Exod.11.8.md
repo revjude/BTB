@@ -1,10 +1,7 @@
 **LXX Exodus 11:8** 
 <small><sub>**LXX:**</sub></small>
 And all these your servants shall descend to me, and shall do obeisance to me, saying, You go forth, and all  your people whom you guide! and after these \[things\] I will go forth. And Moses went forth from Pharaoh with rage. 
-<small><sub>**KJV:**</sub></small>
-And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
-<small><sub>**BSB:**</sub></small>
-And all these officials of yours will come and bow before me, saying, ‘Go, you and all the people who follow you!’ After that, I will depart.” And hot with anger, Moses left Pharaoh’s presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.7|<< Exodus 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.9|Exodus 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

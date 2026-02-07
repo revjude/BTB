@@ -1,4 +1,4 @@
-**Genesis 47:13** 
+**Genesis 47:13**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] no bread in all the land; for the famine [was] very sore, so that the land of Egypt and [all] the land of Canaan fainted by reason of the famine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was no food, however, in all that region, because the famine was so severe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.12|<< Genesis 47:12]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.14|Genesis 47:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] food  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3899G\|לֶ֤חֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵין֙]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 4:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:11**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 <small><sub>**BSB:**</sub></small>
 Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience.
 <small><sub>**Literal:**</sub></small>
 We may be diligent therefore to enter into that [very] <the> rest, so that not by the same anyone example may fall <the> of disobedience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.10|<< Hebrews 4:10]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.12|Hebrews 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We may be diligent |**<big>[[G4704\|Σπουδάσωμεν]]</big>**  |Spoudasōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

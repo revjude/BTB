@@ -1,4 +1,4 @@
-**Deuteronomy 33:8** 
+**Deuteronomy 33:8**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Levi he said, [Let] thy Thummim and thy Urim [be] with thy holy one, whom thou didst prove at Massah, [and with] whom thou didst strive at the waters of Meribah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning Levi he said: “Give Your Thummim to Levi and Your Urim to Your godl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.7|<< Deuteronomy 33:7]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.9|Deuteronomy 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of Levi  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3878\|לֵוִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֔ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 4:7** (4:8)
+**Psalms 4:7**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast put gladness in my heart, more than in the time [that] their corn and their wine increased.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have filled my heart with more joy than when grain and new wine abound.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.6|<< Psalms 4:6]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.8|Psalms 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have put  |**<big>&#8207;[[H5414H\|נָתַ֣תָּה]]&#8207; </big>**| na.Ta.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | joy  |**<big>&#8207;[[H8057\|שִׂמְחָ֣ה]]&#8207; </big>**| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

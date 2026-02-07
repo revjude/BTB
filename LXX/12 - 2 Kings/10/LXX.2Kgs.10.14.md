@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said, Seize them alive! And they seized them, and slew them in Beth-akad -- forty and two men. And he did not leave a man of them. 
-<small><sub>**KJV:**</sub></small>
-And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, [even] two and forty men; neither left he any of them.
-<small><sub>**BSB:**</sub></small>
-Then Jehu ordered, “Take them alive.” So his men took them alive, then slaughtered them at the well of Beth-eked—forty-two men. He spared none of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.13|<< 2 Kings 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.15|2 Kings 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

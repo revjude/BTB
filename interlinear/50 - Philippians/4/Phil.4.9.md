@@ -1,12 +1,12 @@
-**Philippians 4:9
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:9**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 <small><sub>**BSB:**</sub></small>
 Whatever you have learned or received or heard from me, or seen in me, put it into practice. And the God of peace will be with you.
 <small><sub>**Literal:**</sub></small>
 What also you have learned and you have received and you heard and you have seen in me myself, these things do practice, and the God <the> of peace will be with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.8|<< Philippians 4:8]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.10|Philippians 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G3739\|ἃ]]</big>**  |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

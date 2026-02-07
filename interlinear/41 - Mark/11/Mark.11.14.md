@@ -1,12 +1,12 @@
-**Mark 11:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:14**<big><big>[[Mark.11.12 Jesus Curses the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard [it].
 <small><sub>**BSB:**</sub></small>
 Then He said to the tree, “May no one ever eat of your fruit again.” And His disciples heard this statement.
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus He said to it; No more to the age from you no one fruit would eat. And were listening the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.13|<< Mark 11:13]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.15|Mark 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

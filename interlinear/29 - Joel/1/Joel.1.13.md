@@ -1,4 +1,4 @@
-**Joel 1:13** 
+**Joel 1:13**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put on sackcloth and lament, O priests; wail, O ministers of the altar. Come, sp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.12|<< Joel 1:12]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.14|Joel 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gird yourselves  |**<big>&#8207;[[H2296\|חִגְר֨וּ]]&#8207; </big>**| chig.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and lament  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5594\|סִפְד֜וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sif.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

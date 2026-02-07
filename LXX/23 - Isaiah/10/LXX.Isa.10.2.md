@@ -1,10 +1,7 @@
 **LXX Isaiah 10:2** 
 <small><sub>**LXX:**</sub></small>
 turning aside equity \[of the\] poor, snatching away a judgment of \[the\] needy  of my people, so that a widow would be to them for ravaging, and an orphan for plunder. 
-<small><sub>**KJV:**</sub></small>
-To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and [that] they may rob the fatherless!
-<small><sub>**BSB:**</sub></small>
-to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

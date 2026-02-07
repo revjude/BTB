@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:4** 
 <small><sub>**LXX:**</sub></small>
  Your father hardened  our neck yoke. And you now, lighten of  the hard servitude of your father, and from  his heavy neck yoke! of which he put upon us, and we will serve to you. 
-<small><sub>**KJV:**</sub></small>
-Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
-<small><sub>**BSB:**</sub></small>
-“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.3|<< 1 Kings 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.5|1 Kings 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

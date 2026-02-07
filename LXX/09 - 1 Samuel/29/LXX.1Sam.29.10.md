@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:10** 
 <small><sub>**LXX:**</sub></small>
 And now, rise early in the morning, you and the servants  of your master, the ones having come with you, and go to the place where I placed you there! And you rise early in the journey, and \[when\] it gives light to you then go! 
-<small><sub>**KJV:**</sub></small>
-Wherefore now rise up early in the morning with thy master’s servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart.
-<small><sub>**BSB:**</sub></small>
-Now then, get up early in the morning, along with your master’s servants who came with you, and go as soon as it is light.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.9|<< 1 Samuel 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.11|1 Samuel 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

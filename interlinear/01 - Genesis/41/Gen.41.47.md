@@ -1,4 +1,4 @@
-**Genesis 41:47** 
+**Genesis 41:47**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the seven plenteous years the earth brought forth by handfuls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the seven years of abundance, the land brought forth bountifully.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.46|<< Genesis 41:46]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.48|Genesis 41:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it produced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|תַּ֣עַשׂ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'as<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

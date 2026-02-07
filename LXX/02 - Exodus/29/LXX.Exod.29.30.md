@@ -1,10 +1,7 @@
 **LXX Exodus 29:30** 
 <small><sub>**LXX:**</sub></small>
 Seven days he shall put them on -- the priest replacing him from  his sons, who shall enter into the tent of the testimony to officiate in the holy place. 
-<small><sub>**KJV:**</sub></small>
-[And] that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy [place].
-<small><sub>**BSB:**</sub></small>
-The son who succeeds him as priest and enters the Tent of Meeting to minister in the Holy Place must wear them for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.29|<< Exodus 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.31|Exodus 29:31 >>]]</td></tr></table>
 
 | Translation | Greek |

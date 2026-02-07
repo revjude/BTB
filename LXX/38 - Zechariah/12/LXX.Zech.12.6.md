@@ -1,10 +1,7 @@
 **LXX Zechariah 12:6** 
 <small><sub>**LXX:**</sub></small>
 In  that day I will make the commanders of thousands of Judah as a firebrand of fire among \[the\] wood, and as a lamp of fire among stubble; and they shall devour from \[the\] right, and from \[the\] left all the peoples round about. And Jerusalem shall dwell yet according to herself in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, [even] in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-On that day I will make the clans of Judah like a firepot in a woodpile, like a flaming torch among the sheaves; they will consume all the peoples around them on the right and on the left, while the people of Jerusalem remain secure there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.5|<< Zechariah 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.7|Zechariah 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

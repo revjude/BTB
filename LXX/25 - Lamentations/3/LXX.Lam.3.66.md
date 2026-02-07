@@ -1,10 +1,7 @@
 **LXX Lamentations 3:66** 
 <small><sub>**LXX:**</sub></small>
 You shall pursue them in anger, and shall completely consume them beneath the heaven, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Persecute and destroy them in anger from under the heavens of the LORD.
-<small><sub>**BSB:**</sub></small>
-You will pursue them in anger and exterminate them from under Your heavens, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.65|<< Lamentations 3:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.1|Lamentations 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

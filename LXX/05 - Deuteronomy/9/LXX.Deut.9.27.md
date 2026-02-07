@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:27** 
 <small><sub>**LXX:**</sub></small>
 Remember Abraham, and Isaac, and Jacob,  your attendants! ones to whom you swore by an oath according to yourself. You should not look upon the hardness  of this people, and upon  their acts of impiety, and  their sins; 
-<small><sub>**KJV:**</sub></small>
-Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin:
-<small><sub>**BSB:**</sub></small>
-Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of this people and the wickedness of their sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.26|<< Deuteronomy 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.28|Deuteronomy 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

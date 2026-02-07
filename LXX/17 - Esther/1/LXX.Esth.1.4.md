@@ -1,10 +1,7 @@
 **LXX Esther 1:4** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\], after the showing to them the riches  of his kingdom, and the glory  of his gladness for a hundred eighty days, 
-<small><sub>**KJV:**</sub></small>
-When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, [even] an hundred and fourscore days.
-<small><sub>**BSB:**</sub></small>
-And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.3|<< Esther 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.5|Esther 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

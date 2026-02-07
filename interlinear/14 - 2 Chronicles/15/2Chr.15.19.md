@@ -1,4 +1,4 @@
-**2 Chronicles 15:19** 
+**2 Chronicles 15:19**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was no [more] war unto the five and thirtieth year of the reign of Asa.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there was no war until the thirty-fifth year of Asa’s reign.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.18|<< 2 Chronicles 15:18]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.1|2 Chronicles 16:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and war  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4421\|מִלְחָמָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:32** 
 <small><sub>**LXX:**</sub></small>
 until whenever I should come, and I should take you into a land as  your land, a land of grain and wine and bread and vineyards, a land of olive oil and honey, and you shall live and you shall not die. And do not listen to Hezekiah! for he deceives you, saying, \[The\] <span class="smallcaps">lord</span> shall deliver you. 
-<small><sub>**KJV:**</sub></small>
-Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.
-<small><sub>**BSB:**</sub></small>
-until I come and take you away to a land like your own—a land of grain and new wine, a land of bread and vineyards, a land of olive trees and honey—so that you may live and not die. But do not listen to Hezekiah, for he misleads you when he says, ‘The LORD will deliver us.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.31|<< 2 Kings 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.33|2 Kings 18:33 >>]]</td></tr></table>
 
 | Translation | Greek |

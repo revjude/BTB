@@ -1,10 +1,7 @@
 **LXX Genesis 32:26** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, You send me \[away\]! for the dawn ascended.  And he said, No way will I send you away if bless not me. 
-<small><sub>**KJV:**</sub></small>
-And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
-<small><sub>**BSB:**</sub></small>
-Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.25|<< Genesis 32:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.27|Genesis 32:27 >>]]</td></tr></table>
 
 | Translation | Greek |

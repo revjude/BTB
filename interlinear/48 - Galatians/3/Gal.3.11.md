@@ -1,5 +1,5 @@
-**Galatians 3:11
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:11**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that no man is justified by the law in the sight of God, [it is] evident: for, The just shall live by faith.
 <small><sub>**BSB:**</sub></small>
 Now it is clear that no one is justified before God by the law, because, “The righteous will live by faith.”
@@ -10,7 +10,7 @@ for now by [the] law no [one] is justified before <the> God [is] evident, becaus
 > $\quad$ referencing: [[LXX.Hab.2.4|Hab 2:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

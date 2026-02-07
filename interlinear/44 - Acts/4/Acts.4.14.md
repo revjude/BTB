@@ -1,12 +1,12 @@
-**Acts 4:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:14**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And beholding the man which was healed standing with them, they could say nothing against it.
 <small><sub>**BSB:**</sub></small>
 And seeing the man who had been healed standing there with them, they had nothing to say in response.
 <small><sub>**Literal:**</sub></small>
 <the> And the man beholding with them already standing who healed, no [thing] they had to contradict.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.13|<< Acts 4:13]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.15|Acts 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τόν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

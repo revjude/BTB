@@ -1,4 +1,4 @@
-**1 Chronicles 2:31** 
+**1 Chronicles 2:31**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.30|<< 1 Chronicles 2:30]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.32|1 Chronicles 2:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Appaim  |**<big>&#8207;[[H0649\|אַפַּ֖יִם]]&#8207; </big>**| 'a.Pa.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

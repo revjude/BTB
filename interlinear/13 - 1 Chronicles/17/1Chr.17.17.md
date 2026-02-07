@@ -1,4 +1,4 @@
-**1 Chronicles 17:17** 
+**1 Chronicles 17:17**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [yet] this was a small thing in thine eyes, O God; for thou hast [also] spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as if this was a small thing in Your eyes, O God, You have spoken about the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.16|<< 1 Chronicles 17:16]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.18|1 Chronicles 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was small  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6994\|תִּקְטַ֨ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Tan<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֤את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

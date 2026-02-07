@@ -1,10 +1,7 @@
 **LXX Job 38:16** 
 <small><sub>**LXX:**</sub></small>
 Did you come unto \[the\] spring of \[the\] sea, and walk in \[the\] tracks of \[the\] deep? 
-<small><sub>**KJV:**</sub></small>
-Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?
-<small><sub>**BSB:**</sub></small>
-Have you journeyed to the vents of the sea or walked in the trenches of the deep?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.15|<< Job 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.17|Job 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:16** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, Stop  your voice from weeping, and  your eyes from tears, for there is a wage  for your works, says \[the\] <span class="smallcaps">lord</span>, and they shall return from out of \[the\] land of \[the\] enemies; 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.15|<< Jeremiah 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.17|Jeremiah 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

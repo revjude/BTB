@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall know today that not through  your works of righteousness \[the\] <span class="smallcaps">lord</span>  your God gives to you  this good land to inherit; for you are a hard-necked people. 
-<small><sub>**KJV:**</sub></small>
-Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou [art] a stiffnecked people.
-<small><sub>**BSB:**</sub></small>
-Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.5|<< Deuteronomy 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.7|Deuteronomy 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

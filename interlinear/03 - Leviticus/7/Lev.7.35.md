@@ -1,4 +1,4 @@
-**Leviticus 7:35** 
+**Leviticus 7:35**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is the portion] of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day [when] he presented them to minister unto the LORD in the priest’s office;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the portion of the food offerings to the LORD for Aaron and his sons sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.34|<< Leviticus 7:34]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.36|Leviticus 7:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] share of  |**<big>&#8207;[[H4888A\|מִשְׁחַ֤ת]]&#8207; </big>**| mish.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

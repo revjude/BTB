@@ -1,6 +1,6 @@
 (KJV) **Judges 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14|<< Judges 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16|Judges 16 >>]]</td></tr></table>
 
-***Samson’s Revenge*** ^bsb637
+<big><big>[[Judg.15.1 Samson’s Revenge|⥃]]</big></big>***Samson’s Revenge***
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.15.1|1]]**<span class="endversemarker">]</span> But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid<small><small>[^2]</small></small>; and he said, I will go<small><small>[^3]</small></small> in to my wife into the chamber. But her father would not suffer him to go in. <span class="startversemarker">[</span>**[[Judg.15.2|2]]**<span class="endversemarker">]</span> And her father said, I verily<small><small>[^4]</small></small> thought that thou hadst utterly hated her; therefore I gave<small><small>[^5]</small></small> her to thy companion: \[is\] not her younger sister fairer than she? take her<small><small>[^6]</small></small>, I pray thee, instead of her. 
 

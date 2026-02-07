@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:19** 
 <small><sub>**LXX:**</sub></small>
 and he said, Kindness to me, O God,  to do  this thing. Shall I drink blood of these men with their lives, \[no\]. For with  their lives they brought it, and I do not want to drink it. These \[things\] the three mighty men did. 
-<small><sub>**KJV:**</sub></small>
-And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with [the jeopardy of] their lives they brought it. Therefore he would not drink it. These things did these three mightiest.
-<small><sub>**BSB:**</sub></small>
-saying, “Far be it from me, my God, to do this! How can I drink the blood of these men who risked their lives?” Because they had brought it at the risk of their lives, David refused to drink it. Such were the exploits of the three mighty men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.18|<< 1 Chronicles 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.20|1 Chronicles 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

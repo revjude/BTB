@@ -1,10 +1,7 @@
 **LXX Leviticus 13:5** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall look at the infection on the seventh day; and behold, \[if\] the infection abides before him, \[and\] \[if\] the infection did not degenerate in the skin, then the priest shall separate him seven days the second \[time\]. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall look on him the seventh day: and, behold, [if] the plague in his sight be at a stay, [and] the plague spread not in the skin; then the priest shall shut him up seven days more:
-<small><sub>**BSB:**</sub></small>
-On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

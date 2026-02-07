@@ -1,4 +1,4 @@
-**Proverbs 21:28** 
+**Proverbs 21:28**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A false witness shall perish: but the man that heareth speaketh constantly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A lying witness will perish, but the man who listens to truth will speak forever
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.27|<< Proverbs 21:27]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.29|Proverbs 21:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a witness of  |**<big>&#8207;[[H5707\|עֵד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ed-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lies  |**<big>&#8207;[[H3577\|כְּזָבִ֥ים]]&#8207; </big>**| ke.za.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

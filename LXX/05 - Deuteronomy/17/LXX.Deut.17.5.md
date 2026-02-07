@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:5** 
 <small><sub>**LXX:**</sub></small>
 then you shall lead out  that man or  that woman, (the ones who made  this wicked order,) unto the gate. And you shall stone them with stones, and they shall come to an end. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou bring forth that man or that woman, which have committed that wicked thing, unto thy gates, [even] that man or that woman, and shalt stone them with stones, till they die.
-<small><sub>**BSB:**</sub></small>
-you must bring out to your gates the man or woman who has done this evil thing, and you must stone that person to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.4|<< Deuteronomy 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.6|Deuteronomy 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

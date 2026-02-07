@@ -1,10 +1,7 @@
 **LXX Judges 13:19** 
 <small><sub>**LXX:**</sub></small>
 And Manoah took the kid of the goats, and the sacrifice \[offering\], and he offered \[it\] upon the rock to the <span class="smallcaps">lord</span>, to the wonderful \[thing\] being done; and Manoah and  his wife were viewing. 
-<small><sub>**KJV:**</sub></small>
-So Manoah took a kid with a meat offering, and offered [it] upon a rock unto the LORD: and [the angel] did wondrously; and Manoah and his wife looked on.
-<small><sub>**BSB:**</sub></small>
-Then Manoah took a young goat and a grain offering and offered them on a rock to the LORD. And as Manoah and his wife looked on, the LORD did a marvelous thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.18|<< Judges 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.20|Judges 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

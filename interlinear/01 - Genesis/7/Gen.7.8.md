@@ -1,4 +1,4 @@
-**Genesis 7:8** 
+**Genesis 7:8**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of clean beasts, and of beasts that [are] not clean, and of fowls, and of every thing that creepeth upon the earth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The clean and unclean animals, the birds, and everything that crawls along the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.7|<< Genesis 7:7]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.9|Genesis 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the animal[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0929\|בְּהֵמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

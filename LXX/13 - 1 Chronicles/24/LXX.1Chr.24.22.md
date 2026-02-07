@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:22** 
 <small><sub>**LXX:**</sub></small>
 and  to Izhar -- Shelomoth; to the sons of Shelomoth -- Jahath; 
-<small><sub>**KJV:**</sub></small>
-Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.
-<small><sub>**BSB:**</sub></small>
-From the Izharites: Shelomoth; from the sons of Shelomoth: Jahath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.21|<< 1 Chronicles 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.23|1 Chronicles 24:23 >>]]</td></tr></table>
 
 | Translation | Greek |

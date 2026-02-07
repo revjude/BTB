@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And king Saul said, To death Ahimelech should die, you and all the house  of your father. 
-<small><sub>**KJV:**</sub></small>
-And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house.
-<small><sub>**BSB:**</sub></small>
-But the king replied, “You will surely die, Ahimelech, you and all your father’s house!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.15|<< 1 Samuel 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.17|1 Samuel 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

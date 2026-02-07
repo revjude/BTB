@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:13** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Go and say to \[the\] man of Judah! and to the ones dwelling Jerusalem. In no way will you take instruction to hear  my word, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts, the God of Israel, says: Go and tell the men of Judah and the residents of Jerusalem: ‘Will you not accept discipline and obey My words?’ declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.12|<< Jeremiah 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.14|Jeremiah 35:14 >>]]</td></tr></table>
 
 | Translation | Greek |

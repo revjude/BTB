@@ -1,12 +1,12 @@
-**1 Corinthians 10:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:18**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
 <small><sub>**BSB:**</sub></small>
 Consider the people of Israel: Are not those who eat the sacrifices fellow partakers in the altar?
 <small><sub>**Literal:**</sub></small>
 do consider <the> Israel according to flesh: Surely those eating the sacrifices fellow partakers in the altar are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.17|<< 1 Corinthians 10:17]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.19|1 Corinthians 10:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider |**<big>[[G0991\|βλέπετε]]</big>**  |blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

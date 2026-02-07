@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:7** 
 <small><sub>**LXX:**</sub></small>
 of the gods of the nations  surrounding you, of the ones near to you, or of the \[ones\] far from you, from \[the\] uttermost part of the earth, unto \[the\] uttermost part of the earth; 
-<small><sub>**KJV:**</sub></small>
-[Namely], of the gods of the people which [are] round about you, nigh unto thee, or far off from thee, from the [one] end of the earth even unto the [other] end of the earth;
-<small><sub>**BSB:**</sub></small>
-the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.6|<< Deuteronomy 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.8|Deuteronomy 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

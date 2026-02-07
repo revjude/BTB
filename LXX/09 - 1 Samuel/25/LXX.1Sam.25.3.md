@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] name of the man \[was\] Nabal, and \[the\] name  of his wife \[was\] Abigail. And  his wife \[had\] good understanding, and \[was\] good to the sight, exceedingly. And the man was recalcitrant, and wicked in practices, and the man \[was\] churlish. 
-<small><sub>**KJV:**</sub></small>
-Now the name of the man [was] Nabal; and the name of his wife Abigail: and [she was] a woman of good understanding, and of a beautiful countenance: but the man [was] churlish and evil in his doings; and he [was] of the house of Caleb.
-<small><sub>**BSB:**</sub></small>
-His name was Nabal, and his wife’s name was Abigail. She was an intelligent and beautiful woman, but her husband, a Calebite, was harsh and evil in his dealings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.2|<< 1 Samuel 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.4|1 Samuel 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

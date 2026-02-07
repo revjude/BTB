@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:5** 
 <small><sub>**LXX:**</sub></small>
 even the ones doing obeisance upon the roofs to the military of the heaven, and the ones doing obeisance and the ones swearing by an oath \[also\] according to the <span class="smallcaps">lord</span>; and the ones swearing an oath according to  their king; 
-<small><sub>**KJV:**</sub></small>
-And them that worship the host of heaven upon the housetops; and them that worship [and] that swear by the LORD, and that swear by Malcham;
-<small><sub>**BSB:**</sub></small>
-those who bow on the rooftops to worship the host of heaven, those who bow down and swear by the LORD but also swear by Milcom,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.4|<< Zephaniah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.6|Zephaniah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

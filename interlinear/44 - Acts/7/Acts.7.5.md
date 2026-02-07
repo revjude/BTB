@@ -1,5 +1,5 @@
-**Acts 7:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:5**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he gave him none inheritance in it, no, not [so much as] to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when [as yet] he had no child.
 <small><sub>**BSB:**</sub></small>
 He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.
@@ -11,7 +11,7 @@ And not He did give to him an inheritance in it not even [give] [the] length of 
 > $\quad$ referencing: [[LXX.Gen.17.8|Gen 17:8]] ☩ [[LXX.Gen.48.4|Gen 48:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Mark 16:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:19**<big><big>[[Mark.16.19 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.
 <small><sub>**BSB:**</sub></small>
 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God.
@@ -10,7 +10,7 @@ After the Lord Jesus had spoken to them, He was taken up into heaven and sat dow
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 21:5** 
+**1 Chronicles 21:5**<big><big>[[1Chr.21.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab gave the sum of the number of the people unto David. And all [they of] Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah [was] four hundred threescore and ten thousand men that drew sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joab reported to David the total number of the troops. In all Israel there w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.4|<< 1 Chronicles 21:4]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.6|1 Chronicles 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֵּ֥ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֛ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

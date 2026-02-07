@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:6** 
 <small><sub>**LXX:**</sub></small>
 \[For\] \[the\] <span class="smallcaps">lord</span> made audible in \[the\] camp of Syria a sound of chariots, and a sound of horses, and a sound of a great force. And \[each\] man said to  his neighbor, Behold, the king of Israel has hired against us the kings of the Hittites, and the kings of Egypt,  to come against us. 
-<small><sub>**KJV:**</sub></small>
-For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, [even] the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
-<small><sub>**BSB:**</sub></small>
-For the Lord had caused the Arameans to hear the sound of chariots, horses, and a great army, so that they said to one another, “Look, the king of Israel must have hired the kings of the Hittites and Egyptians to attack us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.5|<< 2 Kings 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.7|2 Kings 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 38:7** 
+**Ezekiel 38:7**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get ready; prepare yourself, you and all your company gathered around you; you w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.6|<< Ezekiel 38:6]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.8|Ezekiel 38:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be prepared  |**<big>&#8207;[[H3559A\|הִכֹּן֙]]&#8207; </big>**| hi.Kon<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and prepare  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3559A\|הָכֵ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Khen<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

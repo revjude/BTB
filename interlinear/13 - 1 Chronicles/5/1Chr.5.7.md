@@ -1,4 +1,4 @@
-**1 Chronicles 5:7** 
+**1 Chronicles 5:7**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren by their families, when the genealogy of their generations was reckoned, [were] the chief, Jeiel, and Zechariah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His relatives by their clans are recorded in their genealogy: Jeiel the chief, Z
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.6|<< 1 Chronicles 5:6]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.8|1 Chronicles 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to clans his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחֹתָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

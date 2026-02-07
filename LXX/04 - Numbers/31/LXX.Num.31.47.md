@@ -1,10 +1,7 @@
 **LXX Numbers 31:47** 
 <small><sub>**LXX:**</sub></small>
 And Moses took from the half of the sons of Israel, the one from \[every\]  fifty of the people, and of the cattle; and he gave them to the Levites  guarding the watches of the tent of \[the\] <span class="smallcaps">lord</span>, in which manner \[the\] <span class="smallcaps">lord</span> gave orders to Moses. 
-<small><sub>**KJV:**</sub></small>
-Even of the children of Israel’s half, Moses took one portion of fifty, [both] of man and of beast, and gave them unto the Levites, which kept the charge of the tabernacle of the LORD; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-From the Israelites’ half, Moses took one out of every fifty persons and animals and gave them to the Levites who kept charge of the tabernacle of the LORD, as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.46|<< Numbers 31:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.48|Numbers 31:48 >>]]</td></tr></table>
 
 | Translation | Greek |

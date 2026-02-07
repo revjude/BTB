@@ -1,4 +1,4 @@
-**Hosea 14:4** (14:5)
+**Hosea 14:4**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will heal their backsliding, I will love them freely: for mine anger is turned away from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will heal their apostasy; I will freely love them, for My anger has turned awa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.3|<< Hosea 14:3]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.5|Hosea 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will heal  |**<big>&#8207;[[H7495\|אֶרְפָּא֙]]&#8207; </big>**| 'er.Pa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | apostasy their  |**<big>&#8207;[[H4878\|מְשׁ֣וּבָתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| me.Shu.va.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

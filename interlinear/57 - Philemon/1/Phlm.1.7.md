@@ -1,12 +1,12 @@
-**Philemon 1:7
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:7**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.
 <small><sub>**BSB:**</sub></small>
 I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints.
 <small><sub>**Literal:**</sub></small>
 Joy for great I have and encouragement by occasion of the love of you, because the hearts of the saints have been refreshed through you, brother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.6|<< Philemon 1:6]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.8|Philemon 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Joy [^1] [^2] |**<big>[[G5479\|χαρὰν]]</big>**  |charan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NK(O)</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

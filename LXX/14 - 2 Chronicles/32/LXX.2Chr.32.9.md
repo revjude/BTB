@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:9** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] Sennacherib king of \[the\] Assyrians sent  his servants unto Jerusalem. And he \[was\] by Lachish, and all  his military with him. And he sent to Hezekiah king of Judah, and to all Judah  in Jerusalem, saying, 
-<small><sub>**KJV:**</sub></small>
-After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he [himself laid siege] against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that [were] at Jerusalem, saying,
-<small><sub>**BSB:**</sub></small>
-Later, as Sennacherib king of Assyria and all his forces besieged Lachish, he sent his servants to Jerusalem with a message for King Hezekiah of Judah and all the people of Judah who were in Jerusalem:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.8|<< 2 Chronicles 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.10|2 Chronicles 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

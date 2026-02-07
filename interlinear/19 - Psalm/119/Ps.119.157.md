@@ -1,4 +1,4 @@
-**Psalms 119:157** 
+**Psalms 119:157**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many [are] my persecutors and mine enemies; [yet] do I not decline from thy testimonies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though my persecutors and foes are many, I have not turned from Your testimonies
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.157|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.156|<< Psalms 119:156]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.158|Psalms 119:158 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] many  |**<big>&#8207;[[H7227A\|רַ֭בִּים]]&#8207; </big>**| Ra.bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] harass me  |**<big>&#8207;[[H7291\|רֹדְפַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ro.de.Fa<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

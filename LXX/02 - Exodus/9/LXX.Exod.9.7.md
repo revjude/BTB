@@ -1,10 +1,7 @@
 **LXX Exodus 9:7** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh seeing that none came to an end from all of the cattle of the sons of Israel -- not one, the heart of Pharaoh was oppressed, and he did not send out the people. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.
-<small><sub>**BSB:**</sub></small>
-Pharaoh sent officials and found that none of the livestock of the Israelites had died. But Pharaoh’s heart was hardened, and he would not let the people go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.6|<< Exodus 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.8|Exodus 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

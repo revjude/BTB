@@ -1,5 +1,5 @@
-**Revelation 13:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:1**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 <small><sub>**BSB:**</sub></small>
 Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
@@ -10,7 +10,7 @@ And I saw out of the sea a beast rising, having horns ten and heads seven and on
 > $\quad$ possibly alluding to: [[LXX.Dan.7.3|Dan 7:3]][[LXX.Dan.7.7|, 7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

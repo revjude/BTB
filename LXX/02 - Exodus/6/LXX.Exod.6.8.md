@@ -1,10 +1,7 @@
 **LXX Exodus 6:8** 
 <small><sub>**LXX:**</sub></small>
 And I will bring you into the land in which I stretched out  my hand to give it \[to\] Abraham, and Isaac, and Jacob. And I will give it to you by lot. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.7|<< Exodus 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.9|Exodus 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

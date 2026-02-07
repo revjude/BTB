@@ -1,4 +1,4 @@
-**1 Kings 1:34** 
+**1 Kings 1:34**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There Zadok the priest and Nathan the prophet are to anoint him king over Israel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.33|<< 1 Kings 1:33]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.35|1 Kings 1:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will anoint  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4886\|מָשַׁ֣ח]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Shach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:17** 
 <small><sub>**LXX:**</sub></small>
 from mount Halak, and the ascent into Seir, and unto Baal-gad, and the plain  of Lebanon under  mount  Hermon. And he took all their kings, and he did away with them, and killed them. 
-<small><sub>**KJV:**</sub></small>
-[Even] from the mount Halak, that goeth up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.
-<small><sub>**BSB:**</sub></small>
-from Mount Halak, which rises toward Seir, as far as Baal-gad in the Valley of Lebanon at the foot of Mount Hermon. He captured all their kings and struck them down, putting them to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.16|<< Joshua 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.18|Joshua 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

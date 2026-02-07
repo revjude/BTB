@@ -1,10 +1,7 @@
 **LXX Numbers 11:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Bring together to me seventy men from the elders of Israel! whom you yourself know. These are elders of the people, and their scribes. And you shall lead them to the tent of the testimony, and they shall stand there with you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Bring Me seventy of the elders of Israel known to you as leaders and officers of the people. Bring them to the Tent of Meeting and have them stand there with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.15|<< Numbers 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.17|Numbers 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

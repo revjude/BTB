@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses was tending the sheep of Jethro  his father-in-law, the priest of Midian. And he led the sheep by the wilderness. And he came unto the mountain  of God -- Horeb. 
-<small><sub>**KJV:**</sub></small>
-Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, [even] to Horeb.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.25|<< Exodus 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.2|Exodus 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

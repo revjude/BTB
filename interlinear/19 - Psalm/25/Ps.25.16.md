@@ -1,4 +1,4 @@
-**Psalms 25:16** 
+**Psalms 25:16**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn thee unto me, and have mercy upon me; for I [am] desolate and afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn to me and be gracious, for I am lonely and afflicted.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.15|<< Psalms 25:15]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.17|Psalms 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H6437G\|פְּנֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.neh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

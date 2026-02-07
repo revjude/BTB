@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:6** 
 <small><sub>**LXX:**</sub></small>
 And now, may \[the\] <span class="smallcaps">lord</span> perform mercy and truth with you; and indeed I will do with you  this good that you did  \[in\] this matter. 
-<small><sub>**KJV:**</sub></small>
-And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.
-<small><sub>**BSB:**</sub></small>
-Now may the LORD show you loving devotion and faithfulness, and I will also show you the same favor because you have done this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

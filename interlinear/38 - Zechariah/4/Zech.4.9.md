@@ -1,4 +1,4 @@
-**Zechariah 4:9** 
+**Zechariah 4:9**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the LORD of hosts hath sent me unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hands of Zerubbabel have laid the foundation of this house; his hands shall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.8|<< Zechariah 4:8]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.10|Zechariah 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] hands of  |**<big>&#8207;[[H3027G\|יְדֵ֣י]]&#8207; </big>**| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zerubbabel  |**<big>&#8207;[[H2216\|זְרֻבָּבֶ֗ל]]&#8207; </big>**| ze.ru.ba.Vel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 65:6** 
+**Isaiah 65:6**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [it is] written before me: I will not keep silence, but will recompense, even recompense into their bosom,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, it is written before Me: I will not keep silent, but I will repay; I wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.5|<< Isaiah 65:5]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.7|Isaiah 65:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [it is] written  |**<big>&#8207;[[H3789\|כְתוּבָ֖ה]]&#8207; </big>**| khe.tu.Vah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

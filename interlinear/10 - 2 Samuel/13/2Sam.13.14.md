@@ -1,4 +1,4 @@
-**2 Samuel 13:14** 
+**2 Samuel 13:14**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Amnon refused to listen to her, and being stronger, he violated her and lay 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.13|<< 2 Samuel 13:13]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.15|2 Samuel 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was willing  |**<big>&#8207;[[H0014\|אָבָ֖ה]]&#8207; </big>**| 'a.Vah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

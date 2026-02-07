@@ -1,4 +1,4 @@
-**Daniel 11:20** 
+**Daniel 11:20**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall stand up in his estate a raiser of taxes [in] the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In his place one will arise who will send out a tax collector for the glory of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.19|<< Daniel 11:19]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.21|Daniel 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will arise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975I\|עָמַ֧ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

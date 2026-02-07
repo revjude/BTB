@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:14** 
 <small><sub>**LXX:**</sub></small>
 Shall nipples fail from \[the\] rock, or snow from the Lebanon range? Will water being brought forcibly by a wind turn aside? 
-<small><sub>**KJV:**</sub></small>
-Will [a man] leave the snow of Lebanon [which cometh] from the rock of the field? [or] shall the cold flowing waters that come from another place be forsaken?
-<small><sub>**BSB:**</sub></small>
-Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flowing from a distance ever run dry?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.13|<< Jeremiah 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.15|Jeremiah 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

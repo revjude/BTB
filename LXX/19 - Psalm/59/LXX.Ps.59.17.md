@@ -1,10 +1,7 @@
 **LXX Psalm 59:17** 
 <small><sub>**LXX:**</sub></small>
 You are my helper, to you I shall strum; for you, O God, are my shielder,  my God  of my mercy. 
-<small><sub>**KJV:**</sub></small>
-Unto thee, O my strength, will I sing: for God [is] my defence, [and] the God of my mercy.
-<small><sub>**BSB:**</sub></small>
-To You, O my strength, I sing praises, for You, O God, are my fortress, my God of loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.16|<< Psalm 59:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.1|Psalm 60:1 >>]]</td></tr></table>
 
 | Translation | Greek |

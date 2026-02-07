@@ -1,4 +1,4 @@
-**1 Kings 19:19** 
+**1 Kings 19:19**<big><big>[[1Kgs.19.19 The Call of Elisha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he departed thence, and found Elisha the son of Shaphat, who [was] plowing [with] twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.18|<< 1 Kings 19:18]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.20|1 Kings 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ֠]]&#8207;&#8207;[[H8033G\|שָּׁם]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> shom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

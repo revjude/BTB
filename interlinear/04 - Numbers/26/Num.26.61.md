@@ -1,4 +1,4 @@
-**Numbers 26:61** 
+**Numbers 26:61**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nadab and Abihu died, when they offered strange fire before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but Nadab and Abihu died when they offered unauthorized fire before the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.62|Numbers 26:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֥מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nadab  |**<big>&#8207;[[H5070G\|נָדָ֖ב]]&#8207; </big>**| na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

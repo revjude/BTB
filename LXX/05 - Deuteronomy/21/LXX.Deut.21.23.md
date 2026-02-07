@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:23** 
 <small><sub>**LXX:**</sub></small>
 his body shall not rest upon the tree, but by burial you shall entomb him on  that day, for being cursed by God \[is\] every one hanging upon a tree; and in no way shall you defile the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot. 
-<small><sub>**KJV:**</sub></small>
-His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged [is] accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee [for] an inheritance.
-<small><sub>**BSB:**</sub></small>
-you must not leave the body on the tree overnight, but you must be sure to bury him that day, because anyone who is hung on a tree is under God’s curse. You must not defile the land that the LORD your God is giving you as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.22|<< Deuteronomy 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.1|Deuteronomy 22:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 21:23** is...

@@ -1,12 +1,12 @@
-**Luke 23:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:47**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.
 <small><sub>**BSB:**</sub></small>
 When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.”
 <small><sub>**Literal:**</sub></small>
 Having seen now the centurion that having taken place he was glorifying <the> God saying; Certainly <the> man this righteous was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.46|<< Luke 23:46]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.48|Luke 23:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

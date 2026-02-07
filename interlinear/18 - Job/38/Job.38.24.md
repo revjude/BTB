@@ -1,4 +1,4 @@
-**Job 38:24** 
+**Job 38:24**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By what way is the light parted, [which] scattereth the east wind upon the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In which direction is the lightning dispersed, or the east wind scattered over t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.23|<< Job 38:23]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.25|Job 38:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0335\|אֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ei-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

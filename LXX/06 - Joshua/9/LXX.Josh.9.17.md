@@ -1,10 +1,7 @@
 **LXX Joshua 9:17** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel departed, and came forth into  their cities the third day. And their cities \[were\] Gibeon, and Chephirah, and Beeroth, and cities of Jearim. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel journeyed, and came unto their cities on the third day. Now their cities [were] Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.
-<small><sub>**BSB:**</sub></small>
-So the Israelites set out and on the third day arrived at their cities—Gibeon, Chephirah, Beeroth, and Kiriath-jearim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.16|<< Joshua 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.18|Joshua 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

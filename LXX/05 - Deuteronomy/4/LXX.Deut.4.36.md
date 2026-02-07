@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:36** 
 <small><sub>**LXX:**</sub></small>
 From out of the heaven he made his voice audible to you, to correct you; and upon the earth he showed you  his great fire; and  his discourses you heard from \[the\] midst of the fire. 
-<small><sub>**KJV:**</sub></small>
-Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.
-<small><sub>**BSB:**</sub></small>
-He let you hear His voice from heaven to discipline you, and on earth He showed you His great fire, and you heard His words out of the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.35|<< Deuteronomy 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.37|Deuteronomy 4:37 >>]]</td></tr></table>
 
 | Translation | Greek |

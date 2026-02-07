@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] beginning  of your supplication the word went forth, and I came  to announce to you; for you are a man desired. And \[now\] reflect in the matter, and perceive in the apparition! 
-<small><sub>**KJV:**</sub></small>
-At the beginning of thy supplications the commandment came forth, and I am come to shew [thee]; for thou [art] greatly beloved: therefore understand the matter, and consider the vision.
-<small><sub>**BSB:**</sub></small>
-At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.22|<< Daniel 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.24|Daniel 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

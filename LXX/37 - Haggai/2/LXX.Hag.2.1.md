@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the seventh month, one and twentieth day of the month, came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Haggai the prophet, saying, 
-<small><sub>**KJV:**</sub></small>
-In the seventh [month], in the one and twentieth [day] of the month, came the word of the LORD by the prophet Haggai, saying,
-<small><sub>**BSB:**</sub></small>
-On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet, saying:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

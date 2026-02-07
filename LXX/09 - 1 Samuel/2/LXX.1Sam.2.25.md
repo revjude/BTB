@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:25** 
 <small><sub>**LXX:**</sub></small>
 If by sinning a man should sin against a man, then they shall pray for him to \[the\] <span class="smallcaps">lord</span>. But if a man sins against the <span class="smallcaps">lord</span>, who shall pray for him? But they did not hearken to the voice  of their father. For willing, \[the\] <span class="smallcaps">lord</span> preferred to utterly destroy them. 
-<small><sub>**KJV:**</sub></small>
-If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them.
-<small><sub>**BSB:**</sub></small>
-If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?” But they would not listen to their father, since the LORD intended to put them to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.24|<< 1 Samuel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.26|1 Samuel 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

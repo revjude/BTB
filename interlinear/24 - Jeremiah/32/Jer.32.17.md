@@ -1,4 +1,4 @@
-**Jeremiah 32:17** 
+**Jeremiah 32:17**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, [and] there is nothing too hard for thee:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power 
 > $\quad$ referenced by: [[Matt.19.26|Matt 19:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H0162\|אֲהָהּ֮]]&#8207; </big>**| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

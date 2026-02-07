@@ -1,10 +1,7 @@
 **LXX Numbers 4:37** 
 <small><sub>**LXX:**</sub></small>
 This is the numbering of \[the\] people of Kohath, every  one officiating in the tent of the testimony, as Moses and Aaron numbered by \[the\] voice of \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-These [were] they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-These were counted from the Kohathite clans, everyone who could serve at the Tent of Meeting. Moses and Aaron numbered them according to the command of the LORD through Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.36|<< Numbers 4:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.38|Numbers 4:38 >>]]</td></tr></table>
 
 | Translation | Greek |

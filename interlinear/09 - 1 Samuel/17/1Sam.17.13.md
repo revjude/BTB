@@ -1,4 +1,4 @@
-**1 Samuel 17:13** 
+**1 Samuel 17:13**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three eldest sons of Jesse went [and] followed Saul to the battle: and the names of his three sons that went to the battle [were] Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The three older sons of Jesse had followed Saul into battle: The firstborn was E
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.12|<< 1 Samuel 17:12]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.14|1 Samuel 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they had gone  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּ֨לְכ֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] three  |**<big>&#8207;[[H7969\|שְׁלֹ֤שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 25:21** 
+**Leviticus 25:21**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will send My blessing upon you in the sixth year, so that the land will yi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.20|<< Leviticus 25:20]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.22|Leviticus 25:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will command  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוִּ֤יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Vi.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

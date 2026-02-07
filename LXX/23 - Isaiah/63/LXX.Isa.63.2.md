@@ -1,10 +1,7 @@
 **LXX Isaiah 63:2** 
 <small><sub>**LXX:**</sub></small>
 Why \[are\] your clothes red, and  your garments as from a trampled wine vat, 
-<small><sub>**KJV:**</sub></small>
-Wherefore [art thou] red in thine apparel, and thy garments like him that treadeth in the winefat?
-<small><sub>**BSB:**</sub></small>
-Why are Your clothes red, and Your garments like one who treads the winepress?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.1|<< Isaiah 63:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.3|Isaiah 63:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:26** 
 <small><sub>**LXX:**</sub></small>
 And he went in all \[the\] way of Jeroboam son of Nebat, and in  his sins in which he led Israel into sin,  to provoke to anger the <span class="smallcaps">lord</span>  God of Israel in  their vanities. 
-<small><sub>**KJV:**</sub></small>
-For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the LORD God of Israel to anger with their vanities.
-<small><sub>**BSB:**</sub></small>
-For he walked in all the ways of Jeroboam son of Nebat and in his sins, which he caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.25|<< 1 Kings 16:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.27|1 Kings 16:27 >>]]</td></tr></table>
 
 | Translation | Greek |

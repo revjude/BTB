@@ -1,4 +1,4 @@
-**2 Chronicles 23:16** 
+**2 Chronicles 23:16**<big><big>[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’S people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoiada made a covenant between himself and the king and the people that t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.15|<< 2 Chronicles 23:15]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.17|2 Chronicles 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרֹ֤ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָע֙]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

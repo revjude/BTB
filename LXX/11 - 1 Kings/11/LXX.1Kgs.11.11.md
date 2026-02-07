@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Solomon, Because these \[things\] happened with you, and you did not guard  my commandments, and  my orders, which I gave charge to you, in tearing I will tear up  your kingdom from out of your hand, and I will give it \[to\] your servant. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the LORD said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Solomon, “Because you have done this and have not kept My covenant and My statutes, which I have commanded you, I will tear the kingdom away from you and give it to your servant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.10|<< 1 Kings 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.12|1 Kings 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

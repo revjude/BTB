@@ -1,4 +1,4 @@
-**Genesis 40:21** 
+**Genesis 40:21**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh restored the chief cupbearer to his position, so that he once again plac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.20|<< Genesis 40:20]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.22|Genesis 40:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he restored  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725H\|יָּ֛שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

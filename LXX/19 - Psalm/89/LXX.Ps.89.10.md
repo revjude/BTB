@@ -1,10 +1,7 @@
 **LXX Psalm 89:10** 
 <small><sub>**LXX:**</sub></small>
 You humbled \[the\] proud as slain; with the arm  of your might you dispersed  your enemies. 
-<small><sub>**KJV:**</sub></small>
-Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.
-<small><sub>**BSB:**</sub></small>
-You crushed Rahab like a carcass; You scattered Your enemies with Your mighty arm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.9|<< Psalm 89:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.11|Psalm 89:11 >>]]</td></tr></table>
 
 | Translation | Greek |

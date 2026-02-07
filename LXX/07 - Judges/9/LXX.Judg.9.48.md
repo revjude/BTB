@@ -1,10 +1,7 @@
 **LXX Judges 9:48** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech ascended into mount Zalmon, he and all the people  with him. And Abimelech took the axe in  his hand, and he cut a load of wood, and he took it, and put \[it\] upon  his shoulders. And he said to the people  with him, What you see me doing, quickly you do as also I! 
-<small><sub>**KJV:**</sub></small>
-And Abimelech gat him up to mount Zalmon, he and all the people that [were] with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid [it] on his shoulder, and said unto the people that [were] with him, What ye have seen me do, make haste, [and] do as I [have done].
-<small><sub>**BSB:**</sub></small>
-he and all his men went up to Mount Zalmon. Abimelech took his axe in his hand and cut a branch from the trees, which he lifted to his shoulder, saying to his men, “Hurry and do what you have seen me do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.47|<< Judges 9:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.49|Judges 9:49 >>]]</td></tr></table>
 
 | Translation | Greek |

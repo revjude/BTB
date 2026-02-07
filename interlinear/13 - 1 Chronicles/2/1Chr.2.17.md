@@ -1,4 +1,4 @@
-**1 Chronicles 2:17** 
+**1 Chronicles 2:17**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abigail bare Amasa: and the father of Amasa [was] Jether the Ishmeelite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.16|<< 1 Chronicles 2:16]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.18|1 Chronicles 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abigail  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0026H\|אֲבִיגַ֕יִל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she bore  |**<big>&#8207;[[H3205\|יָלְדָ֖ה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:36** 
 <small><sub>**LXX:**</sub></small>
 and the first-born of our sons, and of our cattle, as \[is\] written in the law, and the first-born  of our oxen, and of our flocks, to bring into \[the\] house of our God, for the priests, to the ones officiating in \[the\] house of our God. 
-<small><sub>**KJV:**</sub></small>
-Also the firstborn of our sons, and of our cattle, as [it is] written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:
-<small><sub>**BSB:**</sub></small>
-And we will bring the firstborn of our sons and our livestock, as it is written in the Law, and will bring the firstborn of our herds and flocks to the house of our God, to the priests who minister in the house of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.35|<< Nehemiah 10:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.37|Nehemiah 10:37 >>]]</td></tr></table>
 
 | Translation | Greek |

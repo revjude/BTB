@@ -1,4 +1,4 @@
-**1 Kings 11:8** 
+**1 Kings 11:8**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He did the same for all his foreign wives, who burned incense and sacrificed to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.7|<< 1 Kings 11:7]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.9|1 Kings 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3651C\|כֵ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he did  |**<big>&#8207;[[H6213A\|עָשָׂ֔ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 10:24** 
 <small><sub>**LXX:**</sub></small>
 And when they led them to Joshua, then Joshua called together every man of Israel, saying to them, and the ones commencing the war of the ones going with him, saying to them, Go forth and place  your feet upon  their necks! And coming forward, they placed  their feet upon  their necks. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.
-<small><sub>**BSB:**</sub></small>
-When they had brought the kings to Joshua, he summoned all the men of Israel and said to the army commanders who had accompanied him, “Come here and put your feet on the necks of these kings.” So the commanders came forward and put their feet on their necks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.23|<< Joshua 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.25|Joshua 10:25 >>]]</td></tr></table>
 
 | Translation | Greek |

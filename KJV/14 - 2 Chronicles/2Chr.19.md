@@ -1,10 +1,10 @@
 (KJV) **2 Chronicles 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18|<< 2 Chronicles 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20|2 Chronicles 20 >>]]</td></tr></table>
 
-***Jehoshaphat Reproved by Jehu*** ^bsb1105
+<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥃]]</big></big>***Jehoshaphat Reproved by Jehu***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Chr.19.1|1]]**<span class="endversemarker">]</span> And Jehoshaphat the king of Judah returned to his house in peace<small><small>[^2]</small></small> to Jerusalem.<small><small>[^3]</small></small> <span class="startversemarker">[</span>**[[2Chr.19.2|2]]**<span class="endversemarker">]</span> And Jehu<small><small>[^4]</small></small> the son of Hanani<small><small>[^5]</small></small> the seer<small><small>[^6]</small></small> went out to meet him, and said to king Jehoshaphat, Shouldest<small><small>[^7]</small></small> thou help the ungodly, and love them that hate the <span class="smallcaps">Lord<small><small>[^8]</small></small></span>? therefore \[is\] wrath<small><small>[^9]</small></small> upon thee from before the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[2Chr.19.3|3]]**<span class="endversemarker">]</span> Nevertheless there are good things<small><small>[^10]</small></small> found in thee, in that thou hast taken away the groves out of the land, and hast prepared<small><small>[^11]</small></small> thine heart to seek God.
 
-***Jehoshaphat’s Reforms*** ^bsb1106
+<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥃]]</big></big>***Jehoshaphat’s Reforms***
 
  <span class="startversemarker">[</span>**[[2Chr.19.4|4]]**<span class="endversemarker">]</span> And Jehoshaphat dwelt at Jerusalem: and he went out again<small><small>[^12]</small></small> through the people from Beer–sheba<small><small>[^13]</small></small> to mount<small><small>[^14]</small></small> Ephraim, and brought<small><small>[^15]</small></small> them back unto the <span class="smallcaps">Lord</span> God of their fathers. 
 

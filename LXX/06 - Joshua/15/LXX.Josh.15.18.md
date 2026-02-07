@@ -1,10 +1,7 @@
 **LXX Joshua 15:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  her going forth, that she advised him, saying, I will ask  my father \[for a\] field; and she yelled from the donkey. And Caleb said, What is it with you? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as she came [unto him], that she moved him to ask of her father a field: and she lighted off [her] ass; and Caleb said unto her, What wouldest thou?
-<small><sub>**BSB:**</sub></small>
-One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, “What do you desire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.17|<< Joshua 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.19|Joshua 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

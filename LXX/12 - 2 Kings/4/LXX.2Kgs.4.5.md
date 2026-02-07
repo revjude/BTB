@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:5** 
 <small><sub>**LXX:**</sub></small>
 And she went forth from him, and did thus. And she locked the door after herself and after  her sons, \[and\] they drew near to her; and she poured until the vessels were filled. 
-<small><sub>**KJV:**</sub></small>
-So she went from him, and shut the door upon her and upon her sons, who brought [the vessels] to her; and she poured out.
-<small><sub>**BSB:**</sub></small>
-So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.4|<< 2 Kings 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.6|2 Kings 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

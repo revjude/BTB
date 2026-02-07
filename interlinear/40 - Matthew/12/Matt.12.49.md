@@ -1,12 +1,12 @@
-**Matthew 12:49
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:49**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
 <small><sub>**BSB:**</sub></small>
 Pointing to His disciples, He said, “Here are My mother and My brothers.
 <small><sub>**Literal:**</sub></small>
 And having stretched out the hand of Him to the disciples of Him He said; Behold the mother of Mine and the brothers of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.48|<< Matthew 12:48]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.50|Matthew 12:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stretched out |**<big>[[G1614\|ἐκτείνας]]</big>**  |ekteinas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

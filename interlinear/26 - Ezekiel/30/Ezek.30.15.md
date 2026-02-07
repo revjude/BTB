@@ -1,4 +1,4 @@
-**Ezekiel 30:15** 
+**Ezekiel 30:15**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will pour out My wrath on Pelusium, the stronghold of Egypt, and cut off the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will pour out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8210G\|שָׁפַכְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage my  |**<big>&#8207;[[H2534\|חֲמָתִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

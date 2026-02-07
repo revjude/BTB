@@ -1,4 +1,4 @@
-**2 Chronicles 4:8** 
+**2 Chronicles 4:8**<big><big>[[2Chr.4.6 The Ten Basins, Lampstands, and Tables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made also ten tables, and placed [them] in the temple, five on the right side, and five on the left. And he made an hundred basons of gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Additionally, he made ten tables and placed them in the temple, five on the sout
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.7|<< 2 Chronicles 4:7]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.9|2 Chronicles 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tables  |**<big>&#8207;[[H7979\|שֻׁלְחָנוֹת֮]]&#8207; </big>**| shul.cha.nOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:4** 
 <small><sub>**LXX:**</sub></small>
 Because thus says \[the\] <span class="smallcaps">lord</span>, Behold, I give you for displacement with all  your friends. And they shall fall by \[the\] sword of their enemies, and  your eyes shall see \[it\]. And you and all Judah I will give into \[the\] hands of \[the\] king of Babylon; and they shall displace them, and shall cut them in pieces with swords. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold [it]: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: ‘I will make you a terror to yourself and to all your friends. They will fall by the sword of their enemies before your very eyes. And I will hand Judah over to the king of Babylon, and he will carry them away to Babylon and put them to the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.3|<< Jeremiah 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.5|Jeremiah 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 24:30** 
+**1 Chronicles 24:30**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons also of Mushi; Mahli, and Eder, and Jerimoth. These [were] the sons of the Levites after the house of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Lev
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.29|<< 1 Chronicles 24:29]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.31|1 Chronicles 24:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mushi  |**<big>&#8207;[[H4187\|מוּשִׁ֔י]]&#8207; </big>**| mu.Shi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

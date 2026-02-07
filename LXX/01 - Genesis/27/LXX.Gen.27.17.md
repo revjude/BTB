@@ -1,10 +1,7 @@
 **LXX Genesis 27:17** 
 <small><sub>**LXX:**</sub></small>
 And she gave the foods and the bread loaves which she made unto the hands of Jacob  her son. 
-<small><sub>**KJV:**</sub></small>
-And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.
-<small><sub>**BSB:**</sub></small>
-Then she handed her son Jacob the tasty food and bread she had made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.16|<< Genesis 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.18|Genesis 27:18 >>]]</td></tr></table>
 
 | Translation | Greek |

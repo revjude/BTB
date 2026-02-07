@@ -1,10 +1,7 @@
 **LXX Leviticus 25:7** 
 <small><sub>**LXX:**</sub></small>
 and to your cattle, and to the beasts  in  your land all of its produce shall be for food. 
-<small><sub>**KJV:**</sub></small>
-And for thy cattle, and for the beast that [are] in thy land, shall all the increase thereof be meat.
-<small><sub>**BSB:**</sub></small>
-and for your livestock and the wild animals in your land. All its growth may serve as food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 89:3** (89:4)
+**Psalms 89:3**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made a covenant with my chosen, I have sworn unto David my servant,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You said, “I have made a covenant with My chosen one, I have sworn to David My
 > $\quad$ referenced by: [[Acts.2.30|Acts 2:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have made  |**<big>&#8207;[[H3772H\|כָּרַ֣תִּֽי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a covenant  |**<big>&#8207;[[H1285\|בְ֭רִית]]&#8207; </big>**| Ve.rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

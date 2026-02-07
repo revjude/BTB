@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:8** 
 <small><sub>**LXX:**</sub></small>
 Remember indeed! the word which you gave charge to Moses, \[to\] your servant, saying, If You should break contract, I shall disperse you among the peoples. 
-<small><sub>**KJV:**</sub></small>
-Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, [If] ye transgress, I will scatter you abroad among the nations:
-<small><sub>**BSB:**</sub></small>
-Remember, I pray, the word that You commanded Your servant Moses when You said, ‘If you are unfaithful, I will scatter you among the nations,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.7|<< Nehemiah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.9|Nehemiah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

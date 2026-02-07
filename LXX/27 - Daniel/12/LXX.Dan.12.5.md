@@ -1,10 +1,7 @@
 **LXX Daniel 12:5** 
 <small><sub>**LXX:**</sub></small>
 And I beheld, I Daniel, and behold, two others stood, one here  \[on this\] bank of the river, and one here on the \[other\] bank of the river. 
-<small><sub>**KJV:**</sub></small>
-Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.
-<small><sub>**BSB:**</sub></small>
-Then I, Daniel, looked and saw two others standing there, one on this bank of the river and one on the opposite bank.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.4|<< Daniel 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.6|Daniel 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 7:7** 
+**Daniel 7:7**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it [was] diverse from all the beasts that [were] before it; and it had ten horns.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ After this, as I watched in my vision in the night, suddenly a fourth beast appe
 > $\quad$ referenced by: [[Rev.12.3|Rev 12:3]] ☩ [[Rev.13.1|Rev 13:1]] ☩ [[Rev.17.3|Rev 17:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0870\|בָּאתַ֣ר]]&#8207; </big>**| ba.Tar<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H1836\|דְּנָה֩]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

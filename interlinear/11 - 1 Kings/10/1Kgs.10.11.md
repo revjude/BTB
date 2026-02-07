@@ -1,4 +1,4 @@
-**1 Kings 10:11** 
+**1 Kings 10:11**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.10|<< 1 Kings 10:10]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.12|1 Kings 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ship[s] of  |**<big>&#8207;[[H0590\|אֳנִ֣י]]&#8207; </big>**| 'o.Ni<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

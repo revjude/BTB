@@ -1,10 +1,7 @@
 **LXX Zechariah 9:17** 
 <small><sub>**LXX:**</sub></small>
 For if anything \[be\] good of his, and if any be fair of his, \[the\] grain \[will be for the\] young men, and wine being fragrant for \[the\] virgins. 
-<small><sub>**KJV:**</sub></small>
-For how great [is] his goodness, and how great [is] his beauty! corn shall make the young men cheerful, and new wine the maids.
-<small><sub>**BSB:**</sub></small>
-How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.16|<< Zechariah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.1|Zechariah 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

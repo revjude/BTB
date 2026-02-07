@@ -1,4 +1,4 @@
-**Hosea 10:12** 
+**Hosea 10:12**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for [it is] time to seek the LORD, till he come and rain righteousness upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sow for yourselves righteousness and reap the fruit of loving devotion; break up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.11|<< Hosea 10:11]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.13|Hosea 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sow  |**<big>&#8207;[[H2232\|זִרְע֨וּ]]&#8207; </big>**| zir.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<for> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֤ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

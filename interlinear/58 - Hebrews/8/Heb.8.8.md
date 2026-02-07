@@ -1,5 +1,5 @@
-**Hebrews 8:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:8**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
 <small><sub>**BSB:**</sub></small>
 But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
@@ -10,7 +10,7 @@ Finding fault for with them He says: Behold [the] days are coming, says [the] Lo
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Finding fault |**<big>[[G3201\|μεμφόμενος]]</big>**  |memphomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

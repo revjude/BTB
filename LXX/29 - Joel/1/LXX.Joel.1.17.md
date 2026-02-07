@@ -1,10 +1,7 @@
 **LXX Joel 1:17** 
 <small><sub>**LXX:**</sub></small>
 Heifers leap in  their stables, treasures are obliterated, wine vats were razed, for \[the\] grain was dried up. 
-<small><sub>**KJV:**</sub></small>
-The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.
-<small><sub>**BSB:**</sub></small>
-The seeds lie shriveled beneath the clods; the storehouses are in ruins; the granaries are broken down, for the grain has withered away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.16|<< Joel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.18|Joel 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

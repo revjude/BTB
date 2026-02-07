@@ -1,4 +1,4 @@
-**Psalms 35:6** 
+**Psalms 35:6**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let their way be dark and slippery: and let the angel of the LORD persecute them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May their path be dark and slick, as the angel of the LORD pursues.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.5|<< Psalms 35:5]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.7|Psalms 35:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְֽהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | way their  |**<big>&#8207;[[H1870G\|דַרְכָּ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

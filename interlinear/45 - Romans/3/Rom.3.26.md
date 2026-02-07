@@ -1,12 +1,12 @@
-**Romans 3:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:26**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To declare, [I say], at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
 <small><sub>**BSB:**</sub></small>
 He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus.
 <small><sub>**Literal:**</sub></small>
 for of the showing forth the righteousness of Him in the present time for <the> to be Him just and justifying the [one] of faith of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.25|<< Romans 3:25]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.27|Romans 3:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

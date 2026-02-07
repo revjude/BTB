@@ -1,4 +1,4 @@
-**2 Chronicles 8:9** 
+**2 Chronicles 8:9**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the children of Israel did Solomon make no servants for his work; but they [were] men of war, and chief of his captains, and captains of his chariots and horsemen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Solomon did not consign any of the Israelites to slave labor, because they w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.8|<< 2 Chronicles 8:8]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.10|2 Chronicles 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵי֙]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

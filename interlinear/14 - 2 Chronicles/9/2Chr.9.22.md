@@ -1,4 +1,4 @@
-**2 Chronicles 9:22** 
+**2 Chronicles 9:22**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon passed all the kings of the earth in riches and wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So King Solomon surpassed all the kings of the earth in riches and wisdom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.21|<< 2 Chronicles 9:21]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.23|2 Chronicles 9:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he became great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יִּגְדַּל֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

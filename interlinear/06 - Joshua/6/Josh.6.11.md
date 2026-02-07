@@ -1,4 +1,4 @@
-**Joshua 6:11** 
+**Joshua 6:11**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the ark of the LORD compassed the city, going about [it] once: and they came into the camp, and lodged in the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he had the ark of the LORD carried around the city, circling it once. And the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.10|<< Joshua 6:10]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.12|Joshua 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he caused to go around  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437H\|יַּסֵּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ark of  |**<big>&#8207;[[H0727\|אֲרוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ron-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 40:13** 
 <small><sub>**LXX:**</sub></small>
 In yet three days and Pharaoh will remember  your office, and restore you to  your office of chief wine taster, and you will give the cup to Pharaoh, into  his hand according to  your former office, as you were of \[the\] wine servers. 
-<small><sub>**KJV:**</sub></small>
-Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.
-<small><sub>**BSB:**</sub></small>
-Within three days Pharaoh will lift up your head and restore your position. You will put Pharaoh’s cup in his hand, just as you did when you were his cupbearer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.12|<< Genesis 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.14|Genesis 40:14 >>]]</td></tr></table>
 
 | Translation | Greek |

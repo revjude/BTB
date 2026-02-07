@@ -1,12 +1,12 @@
-**Revelation 18:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:17**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
 <small><sub>**BSB:**</sub></small>
 For in a single hour such fabulous wealth has been destroyed!” Every shipmaster, passenger, and sailor, and all who make their living from the sea, will stand at a distance
 <small><sub>**Literal:**</sub></small>
 Since in one hour has been brought to desolation <the> so great wealth. And every shipmaster and every [one] who on a place of the sailing the multitudes and sailors and as many as the sea trade by at a distance stood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.16|<< Revelation 18:16]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.18|Revelation 18:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Since |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in one |**<big>[[G1520\|μιᾷ]]</big>**  |mia <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

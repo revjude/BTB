@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:8** 
 <small><sub>**LXX:**</sub></small>
 and by \[the\] hand of the entire house of Ahab. And you shall utterly destroy \[to\] Ahab \[the\] ones urinating against a wall, and \[the\] one being held and the one left \[free\] in Israel. 
-<small><sub>**KJV:**</sub></small>
-For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:
-<small><sub>**BSB:**</sub></small>
-The whole house of Ahab will perish, and I will cut off from Ahab every male, both slave and free, in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.7|<< 2 Kings 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.9|2 Kings 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

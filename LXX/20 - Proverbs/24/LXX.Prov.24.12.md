@@ -1,10 +1,7 @@
 **LXX Proverbs 24:12** 
 <small><sub>**LXX:**</sub></small>
 But if you should say, I do not know this; know that \[the\] <span class="smallcaps">lord</span> knows \[the\] heart of all; even the one shaping \[the\] breath in all, he knows all \[things\]. \[He is\] the one who renders to each according to  his works. 
-<small><sub>**KJV:**</sub></small>
-If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider [it]? and he that keepeth thy soul, doth [not] he know [it]? and shall [not] he render to [every] man according to his works?
-<small><sub>**BSB:**</sub></small>
-If you say, “Behold, we did not know about this,” does not He who weighs hearts consider it? Does not the One who guards your life know? Will He not repay a man according to his deeds?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.11|<< Proverbs 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.13|Proverbs 24:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 24:12** is...

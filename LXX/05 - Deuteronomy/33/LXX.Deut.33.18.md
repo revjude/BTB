@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:18** 
 <small><sub>**LXX:**</sub></small>
 And  to Zebulun he said, Be glad, O Zebulun, in your departure, and Issachar in  your tents! 
-<small><sub>**KJV:**</sub></small>
-And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.
-<small><sub>**BSB:**</sub></small>
-Concerning Zebulun he said: “Rejoice, Zebulun, in your journeys, and Issachar, in your tents.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.17|<< Deuteronomy 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.19|Deuteronomy 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

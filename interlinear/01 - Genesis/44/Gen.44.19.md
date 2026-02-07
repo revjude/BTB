@@ -1,4 +1,4 @@
-**Genesis 44:19** 
+**Genesis 44:19**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lord asked his servants, saying, Have ye a father, or a brother?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My lord asked his servants, ‘Do you have a father or a brother?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.18|<< Genesis 44:18]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.20|Genesis 44:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he asked  |**<big>&#8207;[[H7592\|שָׁאַ֔ל]]&#8207; </big>**| sha.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 17:25** 
+**Jeremiah 17:25**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then kings and princes will enter through the gates of this city. They will sit 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣אוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] gates of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8179G\|שַׁעֲרֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

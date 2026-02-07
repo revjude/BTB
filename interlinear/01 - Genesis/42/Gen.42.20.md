@@ -1,4 +1,4 @@
-**Genesis 42:20** 
+**Genesis 42:20**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then bring your youngest brother to me so that your words can be verified, that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.19|<< Genesis 42:19]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.21|Genesis 42:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother your  |**<big>&#8207;[[H0251G\|אֲחִי]]&#8207;&#8207;[[H9026\|כֶ֤ם]]&#8207; </big>**| 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

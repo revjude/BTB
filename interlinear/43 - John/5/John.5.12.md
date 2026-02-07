@@ -1,12 +1,12 @@
-**John 5:12
-**<small><sub>**KJV:**</sub></small>
+**John 5:12**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?
 <small><sub>**BSB:**</sub></small>
 “Who is this man who told you to pick it up and walk?” they asked.
 <small><sub>**Literal:**</sub></small>
 They asked therefore him; Who is the man <the> having said to you; do take up the mat of you and do walk?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.11|<< John 5:11]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.13|John 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They asked |**<big>[[G2065\|ἠρώτησαν]]</big>**  |ērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL+Treg+TR+Byz">KO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:7** 
 <small><sub>**LXX:**</sub></small>
 And Ebed-melech the Ethiopian eunuch man heard (and he was in the courtyard of the king) that they cast  Jeremiah into the pit; and the king was sitting down at the gate of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;
-<small><sub>**BSB:**</sub></small>
-Now Ebed-melech the Cushite, a court official in the royal palace, heard that Jeremiah had been put into the cistern. While the king was sitting at the Gate of Benjamin,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.6|<< Jeremiah 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.8|Jeremiah 38:8 >>]]</td></tr></table>
 
 | Translation | Greek |

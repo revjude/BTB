@@ -1,12 +1,12 @@
-**Galatians 4:23
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:23**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he [who was] of the bondwoman was born after the flesh; but he of the freewoman [was] by promise.
 <small><sub>**BSB:**</sub></small>
 His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise.
 <small><sub>**Literal:**</sub></small>
 But the [one] indeed of the slave woman according to flesh has been born, the [one] however of the free through the promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.22|<< Galatians 4:22]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.24|Galatians 4:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

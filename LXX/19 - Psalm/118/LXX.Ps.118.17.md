@@ -1,10 +1,7 @@
 **LXX Psalm 118:17** 
 <small><sub>**LXX:**</sub></small>
 I shall not die, but I shall live; and I shall describe the works of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I shall not die, but live, and declare the works of the LORD.
-<small><sub>**BSB:**</sub></small>
-I will not die, but I will live and proclaim what the LORD has done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.16|<< Psalm 118:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.18|Psalm 118:18 >>]]</td></tr></table>
 
 | Translation | Greek |

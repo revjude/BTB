@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:26** 
 <small><sub>**LXX:**</sub></small>
 There is not \[any\] as the God of the one being loved. The one mounting upon the heaven \[is\] your helper, even the majestic one of the firmament. 
-<small><sub>**KJV:**</sub></small>
-[There is] none like unto the God of Jeshurun, [who] rideth upon the heaven in thy help, and in his excellency on the sky.
-<small><sub>**BSB:**</sub></small>
-“There is none like the God of Jeshurun, who rides the heavens to your aid, and the clouds in His majesty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.25|<< Deuteronomy 33:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.27|Deuteronomy 33:27 >>]]</td></tr></table>
 
 | Translation | Greek |

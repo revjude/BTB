@@ -1,10 +1,7 @@
 **LXX Proverbs 26:23** 
 <small><sub>**LXX:**</sub></small>
 Silver given with treachery, \[is\] as a potsherd esteemed. Smooth lips cover a distressed heart. 
-<small><sub>**KJV:**</sub></small>
-Burning lips and a wicked heart [are like] a potsherd covered with silver dross.
-<small><sub>**BSB:**</sub></small>
-Like glaze covering an earthen vessel are burning lips and a wicked heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.22|<< Proverbs 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.24|Proverbs 26:24 >>]]</td></tr></table>
 
 | Translation | Greek |

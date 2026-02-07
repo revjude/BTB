@@ -1,4 +1,4 @@
-**Daniel 11:2** 
+**Daniel 11:2**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than [they] all: and by his strength through his riches he shall stir up all against the realm of Grecia.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now then, I will tell you the truth: Three more kings will arise in Persia, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.1|<< Daniel 11:1]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.3|Daniel 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | truth  |**<big>&#8207;[[H0571H\|אֱמֶ֖ת]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

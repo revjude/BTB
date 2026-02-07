@@ -1,4 +1,4 @@
-**2 Kings 5:6** 
+**2 Kings 5:6**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have [therewith] sent Naaman my servant to thee, that thou mayest recover him of his leprosy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the letter that he took to the king of Israel stated: “With this letter I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.5|<< 2 Kings 5:5]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.7|2 Kings 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the letter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5612A\|סֵּ֔פֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

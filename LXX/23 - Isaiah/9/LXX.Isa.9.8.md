@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> sent death upon Jacob, and it came upon Israel. 
-<small><sub>**KJV:**</sub></small>
-The Lord sent a word into Jacob, and it hath lighted upon Israel.
-<small><sub>**BSB:**</sub></small>
-The Lord has sent a message against Jacob, and it has fallen upon Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.7|<< Isaiah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.9|Isaiah 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

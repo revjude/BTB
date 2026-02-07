@@ -1,4 +1,4 @@
-**Joshua 13:14** 
+**Joshua 13:14**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire [are] their inheritance, as he said unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the tribe of Levi, however, Moses had given no inheritance. The food offering
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.13|<< Joshua 13:13]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.15|Joshua 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֚ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] tribe of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7626H\|שֵׁ֣בֶט]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

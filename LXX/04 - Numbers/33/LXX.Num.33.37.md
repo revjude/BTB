@@ -1,10 +1,7 @@
 **LXX Numbers 33:37** 
 <small><sub>**LXX:**</sub></small>
 And departing from Kadesh, and they camped in Hor the mountain neighboring \[the\] land of Edom. 
-<small><sub>**KJV:**</sub></small>
-And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
-<small><sub>**BSB:**</sub></small>
-They set out from Kadesh and camped at Mount Hor, on the outskirts of the land of Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.36|<< Numbers 33:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.38|Numbers 33:38 >>]]</td></tr></table>
 
 | Translation | Greek |

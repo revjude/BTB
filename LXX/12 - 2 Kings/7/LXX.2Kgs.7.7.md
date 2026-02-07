@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:7** 
 <small><sub>**LXX:**</sub></small>
 And they rose up, and ran away in the darkness. And they abandoned  their tents, and  their horses, and  their donkeys, as was in the camp; and they fled for  their lives. 
-<small><sub>**KJV:**</sub></small>
-Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it [was], and fled for their life.
-<small><sub>**BSB:**</sub></small>
-Thus the Arameans had arisen and fled at twilight, abandoning their tents and horses and donkeys. The camp was intact, and they had run for their lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.6|<< 2 Kings 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.8|2 Kings 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

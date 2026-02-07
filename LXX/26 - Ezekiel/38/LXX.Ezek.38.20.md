@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:20** 
 <small><sub>**LXX:**</sub></small>
 And the fishes of the sea shall shake before my face, and the birds of the heaven, and the wild beasts of the plain, and all the reptiles  crawling upon the earth, and all the men  upon \[the\] face of the earth. And the mountains shall tear, and the ravines shall fall, and every wall upon the land shall fall. 
-<small><sub>**KJV:**</sub></small>
-So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that [are] upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.
-<small><sub>**BSB:**</sub></small>
-The fish of the sea, the birds of the air, the beasts of the field, every creature that crawls upon the ground, and all mankind on the face of the earth will tremble at My presence. The mountains will be thrown down, the cliffs will collapse, and every wall will fall to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.19|<< Ezekiel 38:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.21|Ezekiel 38:21 >>]]</td></tr></table>
 
 | Translation | Greek |

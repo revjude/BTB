@@ -1,12 +1,12 @@
-**Acts 27:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:19**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the third [day] we cast out with our own hands the tackling of the ship.
 <small><sub>**BSB:**</sub></small>
 On the third day, they threw the ship’s tackle overboard with their own hands.
 <small><sub>**Literal:**</sub></small>
 and on the third [day] with [their] own hands the tackle of the ship they cast away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.18|<< Acts 27:18]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.20|Acts 27:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

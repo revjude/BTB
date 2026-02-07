@@ -1,4 +1,4 @@
-**Deuteronomy 21:5** 
+**Deuteronomy 21:5**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be [tried]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the priests, the sons of Levi, shall come forward, for the LORD your God has
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.4|<< Deuteronomy 21:4]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.6|Deuteronomy 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will draw near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5066G\|נִגְּשׁ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.ge.Shu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

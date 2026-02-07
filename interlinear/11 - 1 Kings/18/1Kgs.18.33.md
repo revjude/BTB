@@ -1,4 +1,4 @@
-**1 Kings 18:33** 
+**1 Kings 18:33**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the wood in order, and cut the bullock in pieces, and laid [him] on the wood, and said, Fill four barrels with water, and pour [it] on the burnt sacrifice, and on the wood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next, he arranged the wood, cut up the bull, placed it on the wood,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arranged  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6186A\|יַּעֲרֹ֖ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Rokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

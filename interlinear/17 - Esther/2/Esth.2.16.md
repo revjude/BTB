@@ -1,4 +1,4 @@
-**Esther 2:16** 
+**Esther 2:16**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which [is] the month Tebeth, in the seventh year of his reign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She was taken to King Xerxes in the royal palace in the tenth month, the month o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.17|Esther 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she was taken  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּלָּקַ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.la.Kach<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֜ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

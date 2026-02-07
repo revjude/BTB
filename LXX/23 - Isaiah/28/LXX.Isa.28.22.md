@@ -1,10 +1,7 @@
 **LXX Isaiah 28:22** 
 <small><sub>**LXX:**</sub></small>
 And you, may you not be glad, nor the bonds strengthen in you; because I heard \[the\] things being completed and being rendered concise by \[the\] <span class="smallcaps">lord</span> of Host, which he will do upon all the earth. 
-<small><sub>**KJV:**</sub></small>
-Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth.
-<small><sub>**BSB:**</sub></small>
-So now, do not mock, or your shackles will become heavier. Indeed, I have heard from the Lord GOD of Hosts a decree of destruction against the whole land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.21|<< Isaiah 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.23|Isaiah 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

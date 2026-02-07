@@ -1,4 +1,4 @@
-**Genesis 24:59** 
+**Genesis 24:59**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent away Rebekah their sister, and her nurse, and Abraham’s servant, and his men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they sent their sister Rebekah on her way, along with her nurse and Abraham�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.58|<< Genesis 24:58]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.60|Genesis 24:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent away  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יְשַׁלְּח֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.le.Chu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

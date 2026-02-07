@@ -1,4 +1,4 @@
-**Jeremiah 32:22** 
+**Jeremiah 32:22**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hast given them this land, which thou didst swear to their fathers to give them, a land flowing with milk and honey;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You gave them this land that You had sworn to give their fathers, a land flowing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.21|<< Jeremiah 32:21]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.23|Jeremiah 32:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|תִּתֵּ֤ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ten<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

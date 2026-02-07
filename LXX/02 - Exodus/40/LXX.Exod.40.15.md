@@ -1,10 +1,7 @@
 **LXX Exodus 40:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall anoint them in which manner you anointed  their father, and they shall officiate as priests to me. And it will be so as to be to them an anointing priesthood into the eon, unto  their generations. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations.
-<small><sub>**BSB:**</sub></small>
-Anoint them just as you anointed their father, so that they may also serve Me as priests. Their anointing will qualify them for a permanent priesthood throughout their generations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.14|<< Exodus 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.16|Exodus 40:16 >>]]</td></tr></table>
 
 | Translation | Greek |

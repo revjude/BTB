@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:17** 
 <small><sub>**LXX:**</sub></small>
 and he said, What \[is\]  that high rock which I see? And the men of the city said to him, The grave of the man  of God, of the one coming from out of  Judah, and calling  these words which you did against the altar  in Beth-el. 
-<small><sub>**KJV:**</sub></small>
-Then he said, What title [is] that that I see? And the men of the city told him, [It is] the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel.
-<small><sub>**BSB:**</sub></small>
-Then the king asked, “What is this monument I see?” And the men of the city replied, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.16|<< 2 Kings 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.18|2 Kings 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

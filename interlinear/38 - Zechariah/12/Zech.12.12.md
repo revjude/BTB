@@ -1,4 +1,4 @@
-**Zechariah 12:12** 
+**Zechariah 12:12**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The land will mourn, each clan on its own: the clan of the house of David and th
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will mourn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5594\|סָפְדָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.fe.Dah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

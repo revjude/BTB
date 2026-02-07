@@ -1,10 +1,7 @@
 **LXX Micah 3:4** 
 <small><sub>**LXX:**</sub></small>
 Thus they shall cry out to the <span class="smallcaps">lord</span>, and he will not listen to them. And he shall turn  his face from them in  that time, because they were wicked in  their practices. 
-<small><sub>**KJV:**</sub></small>
-Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.
-<small><sub>**BSB:**</sub></small>
-Then they will cry out to the LORD, but He will not answer them. At that time He will hide His face from them because of the evil they have done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.3|<< Micah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.5|Micah 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

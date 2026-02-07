@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:28** 
 <small><sub>**LXX:**</sub></small>
 And where are  your gods which you made for yourself? Shall they rise up and deliver you in \[the\] time  of your ill-treatment, \[no\]. For according to \[the\] number  of your cities were your gods, O Judah; and according to \[the\] number of \[the\] corridors  of Jerusalem, they sacrificed \[to\] Baal. 
-<small><sub>**KJV:**</sub></small>
-But where [are] thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for [according to] the number of thy cities are thy gods, O Judah.
-<small><sub>**BSB:**</sub></small>
-But where are the gods you made for yourselves? Let them rise up in your time of trouble and save you if they can; for your gods are as numerous as your cities, O Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
 | Translation | Greek |

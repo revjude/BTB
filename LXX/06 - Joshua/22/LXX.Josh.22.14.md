@@ -1,10 +1,7 @@
 **LXX Joshua 22:14** 
 <small><sub>**LXX:**</sub></small>
 and ten of the rulers of the ones with him; one ruler from a house of family, from all of the tribes of Israel, men rulers of \[the\] houses of \[the\] families -- they are commanders of thousands in Israel. 
-<small><sub>**KJV:**</sub></small>
-And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one [was] an head of the house of their fathers among the thousands of Israel.
-<small><sub>**BSB:**</sub></small>
-With him they sent ten chiefs—one family leader from each tribe of Israel, each the head of a family among the clans of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

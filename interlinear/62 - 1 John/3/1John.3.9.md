@@ -1,12 +1,12 @@
-**1 John 3:9
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:9**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
 <small><sub>**BSB:**</sub></small>
 Anyone born of God refuses to practice sin, because God’s seed abides in him; he cannot go on sinning, because he has been born of God.
 <small><sub>**Literal:**</sub></small>
 Anyone who born of <the> God sin not practices, because seed of Him in him abides; and not he is able to continue sinning, because of <the> God he has been born.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.8|<< 1 John 3:8]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.10|1 John 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Anyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:18** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Manasseh, and  his prayer  to  God, and \[the\] words of the seers, of the ones speaking to him in \[the\] name of \[the\] <span class="smallcaps">lord</span>  God of Israel, behold, \[they are\] upon \[the\] words of the kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they [are written] in the book of the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Manasseh, along with his prayer to his God and the words of the seers who spoke to him in the name of the LORD, the God of Israel, they are indeed written in the Chronicles of the Kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.17|<< 2 Chronicles 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.19|2 Chronicles 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

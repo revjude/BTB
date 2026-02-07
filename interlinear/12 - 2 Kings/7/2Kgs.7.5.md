@@ -1,4 +1,4 @@
-**2 Kings 7:5** 
+**2 Kings 7:5**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up in the twilight, to go unto the camp of the Syrians: and when they were come to the uttermost part of the camp of Syria, behold, [there was] no man there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they arose at twilight and went to the camp of the Arameans. But when they ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.4|<< 2 Kings 7:4]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.6|2 Kings 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּק֣וּמוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at \<the> twilight  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5399\|נֶּ֔שֶׁף]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Ne.shef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

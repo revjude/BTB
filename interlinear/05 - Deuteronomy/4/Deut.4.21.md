@@ -1,4 +1,4 @@
-**Deuteronomy 4:21** 
+**Deuteronomy 4:21**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee [for] an inheritance:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD, however, was angry with me on account of you, and He swore that I woul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.20|<< Deuteronomy 4:20]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.22|Deuteronomy 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֥ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was angry  |**<big>&#8207;[[H0599\|הִתְאַנֶּף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hit.'a.nef-<small><sup>[[HVtp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

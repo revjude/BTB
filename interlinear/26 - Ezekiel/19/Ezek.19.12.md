@@ -1,4 +1,4 @@
-**Ezekiel 19:12** 
+**Ezekiel 19:12**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But it was uprooted in fury, cast down to the ground, and the east wind dried up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.11|<< Ezekiel 19:11]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.13|Ezekiel 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was plucked up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5428\|תֻּתַּ֤שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tu.Tash<small><sup>[[HVHw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in rage  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2534\|חֵמָה֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

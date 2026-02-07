@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:14** 
 <small><sub>**LXX:**</sub></small>
 Deploy against Babylon round about, all stretching \[the\] bow! Shoot against her! Spare not against \[her\]  your bows! for against the <span class="smallcaps">lord</span> she sinned. 
-<small><sub>**KJV:**</sub></small>
-Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD.
-<small><sub>**BSB:**</sub></small>
-Line up in formation around Babylon, all you who draw the bow! Shoot at her! Spare no arrows! For she has sinned against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.13|<< Jeremiah 50:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.15|Jeremiah 50:15 >>]]</td></tr></table>
 
 | Translation | Greek |

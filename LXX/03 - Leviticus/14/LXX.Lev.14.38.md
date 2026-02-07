@@ -1,10 +1,7 @@
 **LXX Leviticus 14:38** 
 <small><sub>**LXX:**</sub></small>
 And the priest coming forth from out of the house, at the door of the house, and \[then\] the priest shall separate the house seven days. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall go out of the house to the door of the house, and shut up the house seven days:
-<small><sub>**BSB:**</sub></small>
-the priest shall go outside the doorway of the house and close it up for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.37|<< Leviticus 14:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.39|Leviticus 14:39 >>]]</td></tr></table>
 
 | Translation | Greek |

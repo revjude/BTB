@@ -1,10 +1,7 @@
 **LXX Isaiah 45:7** 
 <small><sub>**LXX:**</sub></small>
 I \[am\] the one carefully preparing light, and I made darkness; the one making peace, and \[the one\] creating bad \[things\]. I \[am\] \[the\] <span class="smallcaps">lord</span>  God, the one doing all these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-I form the light, and create darkness: I make peace, and create evil: I the LORD do all these [things].
-<small><sub>**BSB:**</sub></small>
-I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.6|<< Isaiah 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.8|Isaiah 45:8 >>]]</td></tr></table>
 
 | Translation | Greek |

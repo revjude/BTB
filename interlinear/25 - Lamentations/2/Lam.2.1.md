@@ -1,4 +1,4 @@
-**Lamentations 2:1** 
+**Lamentations 2:1**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How hath the Lord covered the daughter of Zion with a cloud in his anger, [and] cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How the Lord has covered the Daughter of Zion with the cloud of His anger! He ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.22|<< Lamentations 1:22]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.2|Lamentations 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349B\|אֵיכָה֩]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he covers with a cloud  |**<big>&#8207;[[H5743\|יָעִ֨יב]]&#8207; </big>**| ya.'Iv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

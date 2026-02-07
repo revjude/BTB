@@ -1,10 +1,7 @@
 **LXX Job 31:7** 
 <small><sub>**LXX:**</sub></small>
 if my foot turned aside from out of the way, or if even  my heart follows after my eye, and if even  my hands touched bribes; 
-<small><sub>**KJV:**</sub></small>
-If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;
-<small><sub>**BSB:**</sub></small>
-If my steps have turned from the path, if my heart has followed my eyes, or if impurity has stuck to my hands,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.6|<< Job 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.8|Job 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

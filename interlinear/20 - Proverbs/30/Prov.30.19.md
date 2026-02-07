@@ -1,4 +1,4 @@
-**Proverbs 30:19** 
+**Proverbs 30:19**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the way of an eagle in the sky, the way of a snake on a rock, the way of a ship 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.18|<< Proverbs 30:18]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.20|Proverbs 30:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] way of  |**<big>&#8207;[[H1870L\|דֶּ֤רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the eagle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5404\|נֶּ֨שֶׁר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

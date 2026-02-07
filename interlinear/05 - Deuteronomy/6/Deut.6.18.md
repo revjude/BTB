@@ -1,4 +1,4 @@
-**Deuteronomy 6:18** 
+**Deuteronomy 6:18**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt do [that which is] right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do what is right and good in the sight of the LORD, so that it may be well with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.17|<< Deuteronomy 6:17]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.19|Deuteronomy 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֛יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the right  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3477G\|יָּשָׁ֥ר]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

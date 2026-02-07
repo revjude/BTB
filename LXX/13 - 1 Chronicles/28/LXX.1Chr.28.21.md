@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:21** 
 <small><sub>**LXX:**</sub></small>
 And behold, the daily rotations of the priests and the Levites, \[are\] for all the ministration of the house  of God, and with you in every work all eager in every voluntary \[thing\], in wisdom according to every craft, and the rulers, and all the people for all  your words. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the courses of the priests and the Levites, [even they shall be with thee] for all the service of the house of God: and [there shall be] with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people [will be] wholly at thy commandment.
-<small><sub>**BSB:**</sub></small>
-The divisions of the priests and Levites are ready for all the service of the house of God, and every willing man of every skill will be at your disposal for the work. The officials and all the people are fully at your command.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.20|<< 1 Chronicles 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.1|1 Chronicles 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

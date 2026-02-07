@@ -1,10 +1,7 @@
 **LXX Exodus 35:32** 
 <small><sub>**LXX:**</sub></small>
 to supervise construction according to all the works of the construction; to prepare the gold, and the silver, and the brass, 
-<small><sub>**KJV:**</sub></small>
-And to devise curious works, to work in gold, and in silver, and in brass,
-<small><sub>**BSB:**</sub></small>
-to design artistic works in gold, silver, and bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.31|<< Exodus 35:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.33|Exodus 35:33 >>]]</td></tr></table>
 
 | Translation | Greek |

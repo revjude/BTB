@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:22** 
 <small><sub>**LXX:**</sub></small>
 For many fell slain, because the war was of God. And they dwelt \[there\] instead of them until the resettlement. 
-<small><sub>**KJV:**</sub></small>
-For there fell down many slain, because the war [was] of God. And they dwelt in their steads until the captivity.
-<small><sub>**BSB:**</sub></small>
-and many others fell slain, because the battle belonged to God. And they occupied the land until the exile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.21|<< 1 Chronicles 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.23|1 Chronicles 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

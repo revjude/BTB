@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:32** 
 <small><sub>**LXX:**</sub></small>
 And they lifted up  Asahel, and they entombed him in the burying-place  of his father in Beth-lehem. And Joab and his men went \[the\] entire night, and light shined through to them in Hebron. 
-<small><sub>**KJV:**</sub></small>
-And they took up Asahel, and buried him in the sepulchre of his father, which [was in] Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.
-<small><sub>**BSB:**</sub></small>
-And they took Asahel and buried him in his father’s tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.31|<< 2 Samuel 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.1|2 Samuel 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

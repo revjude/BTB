@@ -1,5 +1,5 @@
-**Colossians 2:11
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:11**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 <small><sub>**BSB:**</sub></small>
 In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands.
@@ -10,7 +10,7 @@ in whom also you were circumcised with [the] circumcision made without hands in 
 > $\quad$ alluding to: [[LXX.Deut.10.16|Deut 10:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

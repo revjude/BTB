@@ -1,10 +1,7 @@
 **LXX Psalm 39:3** 
 <small><sub>**LXX:**</sub></small>
 My heart heated within me; and in  my meditation a fire would burn away; I spoke with my tongue. 
-<small><sub>**KJV:**</sub></small>
-My heart was hot within me, while I was musing the fire burned: [then] spake I with my tongue,
-<small><sub>**BSB:**</sub></small>
-My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.2|<< Psalm 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.4|Psalm 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

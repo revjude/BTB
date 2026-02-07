@@ -1,4 +1,4 @@
-**Daniel 10:17** 
+**Daniel 10:17**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can I, your servant, speak with you, my lord? Now I have no strength, nor is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.16|<< Daniel 10:16]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.18|Daniel 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and how?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1963\|הֵ֣יךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Heikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | is he able  |**<big>&#8207;[[H3201\|יוּכַ֗ל]]&#8207; </big>**| yu.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 15:39
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:39**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.
 <small><sub>**BSB:**</sub></small>
 When the centurion standing there in front of Jesus saw how He had breathed His last, he said, “Truly this man was the Son of God!”
 <small><sub>**Literal:**</sub></small>
 Having seen then the centurion who having stood from opposite of Him that thus having cried out He breathed His last, he said; Truly this <the> man [the] Son of God was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.38|<< Mark 15:38]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.40|Mark 15:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

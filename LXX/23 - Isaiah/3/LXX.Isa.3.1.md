@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, indeed the master, \[the\] <span class="smallcaps">lord</span> of Hosts, he shall remove from Jerusalem and from  Judea \[the\] prevailing man and prevailing woman; \[the\] strength of bread and \[the\] strength of water; 
-<small><sub>**KJV:**</sub></small>
-For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,
-<small><sub>**BSB:**</sub></small>
-For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.22|<< Isaiah 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.2|Isaiah 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 41:4** 
+**Ezekiel 41:4**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he measured the length thereof, twenty cubits; and the breadth, twenty cubits, before the temple: and he said unto me, This [is] the most holy [place].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he measured the room adjacent to the inner sanctuary to be twenty cubits lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.3|<< Ezekiel 41:3]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.5|Ezekiel 41:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּ֨מָד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

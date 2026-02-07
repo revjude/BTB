@@ -1,10 +1,7 @@
 **LXX Numbers 29:23** 
 <small><sub>**LXX:**</sub></small>
 The fourth day -- ten calves, two rams, four and ten unblemished lambs of a year \[old\], 
-<small><sub>**KJV:**</sub></small>
-And on the fourth day ten bullocks, two rams, [and] fourteen lambs of the first year without blemish:
-<small><sub>**BSB:**</sub></small>
-On the fourth day you are to present ten bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.22|<< Numbers 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.24|Numbers 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

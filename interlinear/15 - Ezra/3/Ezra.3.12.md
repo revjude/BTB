@@ -1,4 +1,4 @@
-**Ezra 3:12** 
+**Ezra 3:12**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But many of the priests and Levites and chief of the fathers, [who were] ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But many of the older priests, Levites, and family heads who had seen the first 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.11|<< Ezra 3:11]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.13|Ezra 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and many  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7227A\|רַבִּ֡ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the priests  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֣ים]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

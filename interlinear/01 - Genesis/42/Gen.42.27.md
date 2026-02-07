@@ -1,4 +1,4 @@
-**Genesis 42:27** 
+**Genesis 42:27**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it [was] in his sack’s mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the place where they lodged for the night, one of them opened his sack to get
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.26|<< Genesis 42:26]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.28|Genesis 42:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|יִּפְתַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Tach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָ֜ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

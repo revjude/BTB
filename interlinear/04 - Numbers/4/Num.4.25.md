@@ -1,4 +1,4 @@
-**Numbers 4:25** 
+**Numbers 4:25**<big><big>[[Num.4.21 The Duties of the Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers’ skins that [is] above upon it, and the hanging for the door of the tabernacle of the congregation,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to carry the curtains of the tabernacle, the Tent of Meeting with the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.24|<< Numbers 4:24]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.26|Numbers 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will carry  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375H\|נָ֨שְׂא֜וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

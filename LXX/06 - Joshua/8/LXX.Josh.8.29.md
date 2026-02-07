@@ -1,10 +1,7 @@
 **LXX Joshua 8:29** 
 <small><sub>**LXX:**</sub></small>
 And the king  of Ai he hung upon a twin tree. And he was upon the tree until \[the\] time of the evening. And \[at the\] setting of the sun Joshua gave orders, and they lowered  his body from the tree, and they tossed him into the cesspool before the gate of the city, and set over him a large heap of stones until  this day. 
-<small><sub>**KJV:**</sub></small>
-And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, [that remaineth] unto this day.
-<small><sub>**BSB:**</sub></small>
-He hung the king of Ai on a tree until evening, and at sunset Joshua commanded that they take down the body from the tree and throw it down at the entrance of the city gate. And over it they raised a large pile of rocks, which remains to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.28|<< Joshua 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.30|Joshua 8:30 >>]]</td></tr></table>
 
 | Translation | Greek |

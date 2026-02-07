@@ -1,4 +1,4 @@
-**Psalms 80:6** (80:7)
+**Psalms 80:6**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You make us contend with our neighbors; our enemies mock us.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.5|<< Psalms 80:5]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.7|Psalms 80:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you make us  |**<big>&#8207;[[H7760A\|תְּשִׂימֵ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| te.si.Me.<small><sup>[[HVqi2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a contention  |**<big>&#8207;[[H4066\|מָ֭דוֹן]]&#8207; </big>**| Ma.don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 9:5** 
+**Zechariah 9:5**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ashkelon shall see [it], and fear; Gaza also [shall see it], and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ashkelon will see and fear; Gaza will writhe in agony, as will Ekron, for her ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.4|<< Zechariah 9:4]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.6|Zechariah 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will see  |**<big>&#8207;[[H7200G\|תֵּרֶ֨א]]&#8207; </big>**| te.Re'<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ashkelon  |**<big>&#8207;[[H0831\|אַשְׁקְל֜וֹן]]&#8207; </big>**| 'ash.ke.Lon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

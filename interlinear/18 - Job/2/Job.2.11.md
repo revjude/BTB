@@ -1,4 +1,4 @@
-**Job 2:11** 
+**Job 2:11**<big><big>[[Job.2.11 Job’s Three Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when Job’s three friends—Eliphaz the Temanite, Bildad the Shuhite, and Z
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.10|<< Job 2:10]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.12|Job 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they heard  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] three  |**<big>&#8207;[[H7969\|שְׁלֹ֣שֶׁת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

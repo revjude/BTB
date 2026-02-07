@@ -1,4 +1,4 @@
-**Isaiah 37:13** 
+**Isaiah 37:13**<big><big>[[Isa.37.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the king of Hamath, and the king of Arphad, and the king of the city of Sepharvaim, Hena, and Ivah?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.12|<< Isaiah 37:12]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.14|Isaiah 37:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֤ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

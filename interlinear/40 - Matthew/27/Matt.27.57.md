@@ -1,12 +1,12 @@
-**Matthew 27:57
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:57**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus’ disciple:
 <small><sub>**BSB:**</sub></small>
 When it was evening, there came a rich man from Arimathea named Joseph, who himself was a disciple of Jesus.
 <small><sub>**Literal:**</sub></small>
 When evening now having arrived came a man rich from Arimathea, named Joseph, who also himself was discipled <the> to Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.56|<< Matthew 27:56]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.58|Matthew 27:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When evening |**<big>[[G3798\|Ὀψίας]]</big>**  |Opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

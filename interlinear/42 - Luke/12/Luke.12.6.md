@@ -1,12 +1,12 @@
-**Luke 12:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:6**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Are not five sparrows sold for two farthings, and not one of them is forgotten before God?
 <small><sub>**BSB:**</sub></small>
 Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God.
 <small><sub>**Literal:**</sub></small>
 Surely five sparrows are being sold for assarion two? And one of them not is forgotten before <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.5|<< Luke 12:5]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.7|Luke 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | five |**<big>[[G4002\|πέντε]]</big>**  |pente <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

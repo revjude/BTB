@@ -1,4 +1,4 @@
-**Leviticus 14:53** 
+**Leviticus 14:53**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally, he is to release the live bird into the open fields outside the city. I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.52|<< Leviticus 14:52]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.54|Leviticus 14:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will let go  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971H\|שִׁלַּ֞ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Lach<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 8:15** 
+**Jeremiah 8:15**<big><big>[[Jer.8.14 The People Respond|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We looked for peace, but no good [came; and] for a time of health, and behold trouble!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We hoped for peace, but no good has come, for a time of healing, but there was o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.14|<< Jeremiah 8:14]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.16|Jeremiah 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we waited eagerly  |**<big>&#8207;[[H6960A\|קַוֵּ֥ה]]&#8207; </big>**| ka.Veh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for peace  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7965G\|שָׁל֖וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 19:21** 
 <small><sub>**LXX:**</sub></small>
 And God said to Moses, saying, Go down to testify to the people! lest at any time they should approach to  God to contemplate, and a multitude of them should fall. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.
-<small><sub>**BSB:**</sub></small>
-and the LORD said to him, “Go down and warn the people not to break through to see the LORD, lest many of them perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.20|<< Exodus 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.22|Exodus 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

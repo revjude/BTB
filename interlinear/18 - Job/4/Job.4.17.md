@@ -1,4 +1,4 @@
-**Job 4:17** 
+**Job 4:17**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall mortal man be more just than God? shall a man be more pure than his maker?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shall mortal man be more just than God? shall a man be more pure than his maker?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.16|<< Job 4:16]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.18|Job 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a person  |**<big>&#8207;[[H9008\|הַֽ֭]]&#8207;&#8207;[[H0582\|אֱנוֹשׁ]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> 'e.no.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from God  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0433\|אֱל֣וֹהַ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

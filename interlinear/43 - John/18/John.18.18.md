@@ -1,12 +1,12 @@
-**John 18:18
-**<small><sub>**KJV:**</sub></small>
+**John 18:18**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.
 <small><sub>**BSB:**</sub></small>
 Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself.
 <small><sub>**Literal:**</sub></small>
 Had been standing now the servants and the officers a fire of coals having made, for cold it was and they were warming themselves; Was now also <the> Peter with them having stood and warming himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.17|<< John 18:17]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.19|John 18:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had been standing |**<big>[[G2476\|εἱστήκεισαν]]</big>**  [^1] |heistēkeisan <small><sup>[[V-LAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

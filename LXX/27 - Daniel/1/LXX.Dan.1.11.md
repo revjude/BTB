@@ -1,10 +1,7 @@
 **LXX Daniel 1:11** 
 <small><sub>**LXX:**</sub></small>
 And Daniel said to Melzar, whom the chief eunuch placed over Daniel, and Hananiah, and Mishael, and Azariah. 
-<small><sub>**KJV:**</sub></small>
-Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
-<small><sub>**BSB:**</sub></small>
-Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.10|<< Daniel 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.12|Daniel 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

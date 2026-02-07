@@ -1,10 +1,7 @@
 **LXX Joel 2:20** 
 <small><sub>**LXX:**</sub></small>
 And the one from \[the\] north I will drive out from you, and I will push him into a waterless land, and I will obliterate  his face into the foremost sea, and the ones of his rear unto the latter sea. And his rottenness shall ascend, and his groaning shall ascend, for he magnified  his works. 
-<small><sub>**KJV:**</sub></small>
-But I will remove far off from you the northern [army], and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
-<small><sub>**BSB:**</sub></small>
-The northern army I will drive away from you, banishing it to a barren and desolate land, its front ranks into the Eastern Sea, and its rear guard into the Western Sea. And its stench will rise; its foul odor will ascend. For He has done great things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.19|<< Joel 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.21|Joel 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

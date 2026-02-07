@@ -1,10 +1,7 @@
 **LXX Ruth 1:22** 
 <small><sub>**LXX:**</sub></small>
 And Naomi returned, and Ruth the Moabitess,  her daughter-in-law, with her, to return from \[the\] country of Moab. And they came unto Beth-lehem at \[the\] beginning of barley harvest. 
-<small><sub>**KJV:**</sub></small>
-So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.
-<small><sub>**BSB:**</sub></small>
-So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.21|<< Ruth 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.1|Ruth 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

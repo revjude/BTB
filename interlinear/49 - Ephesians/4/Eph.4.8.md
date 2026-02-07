@@ -1,5 +1,5 @@
-**Ephesians 4:8
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:8**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.
 <small><sub>**BSB:**</sub></small>
 This is why it says: “When He ascended on high, He led captives away, and gave gifts to men.”
@@ -10,7 +10,7 @@ Therefore it says: Having ascended on high He led captive captivity, and he gave
 > $\quad$ referencing: [[LXX.Ps.68.18|Ps 68:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it says: |**<big>[[G3004G\|λέγει·]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

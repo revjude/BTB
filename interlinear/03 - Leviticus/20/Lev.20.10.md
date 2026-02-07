@@ -1,4 +1,4 @@
-**Leviticus 20:10** 
+**Leviticus 20:10**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man that committeth adultery with [another] man’s wife, [even he] that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If a man commits adultery with another man’s wife—with the wife of his neigh
 > $\quad$ referenced by: [[John.8.5|John 8:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֗ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

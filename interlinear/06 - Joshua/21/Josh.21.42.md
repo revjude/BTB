@@ -1,4 +1,4 @@
-**Joshua 21:42** 
+**Joshua 21:42**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These cities were every one with their suburbs round about them: thus [were] all these cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each of these cities had its own surrounding pasturelands; this was true for all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.41|<< Joshua 21:41]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.43|Joshua 21:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֙ינָה֙]]&#8207; </big>**| tih.Yei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cities  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֣ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

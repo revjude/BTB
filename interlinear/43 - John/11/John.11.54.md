@@ -1,12 +1,12 @@
-**John 11:54
-**<small><sub>**KJV:**</sub></small>
+**John 11:54**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
 <small><sub>**BSB:**</sub></small>
 As a result, Jesus no longer went about publicly among the Jews, but He withdrew to a town called Ephraim in an area near the wilderness. And He stayed there with the disciples.
 <small><sub>**Literal:**</sub></small>
 <the> Therefore Jesus no longer publicly was walking among the Jews, but went away from there into the region near the wilderness to Ephraim being named a city, And there He stayed with the disciples of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.53|<< John 11:53]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.55|John 11:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

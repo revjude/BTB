@@ -1,10 +1,7 @@
 **LXX Leviticus 10:14** 
 <small><sub>**LXX:**</sub></small>
 And the breast of the separation \[offering\], and the shoulder of the cut-away portion you shall eat in \[the\] holy place, you, and  your sons, and  your house with you -- a law to you, and a law \[to\] your sons it was given of the sacrifices of the deliverance \[offerings\] of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the wave breast and heave shoulder shall ye eat in a clean place; thou, and thy sons, and thy daughters with thee: for [they be] thy due, and thy sons’ due, [which] are given out of the sacrifices of peace offerings of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And you and your sons and daughters may eat the breast of the wave offering and the thigh of the contribution in a ceremonially clean place, because these portions have been assigned to you and your children from the peace offerings of the sons of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.13|<< Leviticus 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.15|Leviticus 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

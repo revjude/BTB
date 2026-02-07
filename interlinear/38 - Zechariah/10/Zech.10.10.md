@@ -1,4 +1,4 @@
-**Zechariah 10:10** 
+**Zechariah 10:10**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and [place] shall not be found for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bring them back from Egypt and gather them from Assyria. I will bring the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.9|<< Zechariah 10:9]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.11|Zechariah 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring back them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|הֲשִֽׁיבוֹתִי]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.vo.Ti<small><sup>[[HVhq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

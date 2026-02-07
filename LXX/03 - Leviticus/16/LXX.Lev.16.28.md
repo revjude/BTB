@@ -1,10 +1,7 @@
 **LXX Leviticus 16:28** 
 <small><sub>**LXX:**</sub></small>
 And the one incinerating them shall wash  his garments, and shall bathe  his body in water, and after these things he shall enter into the camp. 
-<small><sub>**KJV:**</sub></small>
-And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.
-<small><sub>**BSB:**</sub></small>
-The one who burns them must wash his clothes and bathe himself with water, and afterward he may reenter the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.27|<< Leviticus 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.29|Leviticus 16:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:17** 
 <small><sub>**LXX:**</sub></small>
 But if you should say in  your mind that, This nation \[is\] great; or, I, how shall I be able to utterly destroy them? 
-<small><sub>**KJV:**</sub></small>
-If thou shalt say in thine heart, These nations [are] more than I; how can I dispossess them?
-<small><sub>**BSB:**</sub></small>
-You may say in your heart, “These nations are greater than we are; how can we drive them out?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.16|<< Deuteronomy 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.18|Deuteronomy 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

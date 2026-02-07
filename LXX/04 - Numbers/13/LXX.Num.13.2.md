@@ -1,10 +1,7 @@
 **LXX Numbers 13:2** 
 <small><sub>**LXX:**</sub></small>
 Send for yourself men, and let them survey the land of the Canaanites! which I give to the sons of Israel for a possession. One man per tribe; according to \[the\] peoples of their patrimony you shall send them, all \[being\] chiefs of them. 
-<small><sub>**KJV:**</sub></small>
-Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
-<small><sub>**BSB:**</sub></small>
-“Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.1|<< Numbers 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.3|Numbers 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

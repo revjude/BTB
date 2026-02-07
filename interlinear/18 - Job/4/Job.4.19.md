@@ -1,4 +1,4 @@
-**Job 4:19** 
+**Job 4:19**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ how much more those who dwell in houses of clay, whose foundations are in the du
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.18|<< Job 4:18]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.20|Job 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַ֤ף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] dwell of  |**<big>&#8207;[[H7931\|שֹׁכְנֵ֬י]]&#8207; </big>**| sho.khe.Nei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 49:32** 
+**Genesis 49:32**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The purchase of the field and of the cave that [is] therein [was] from the children of Heth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The field and the cave that is in it were purchased from the Hittites.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.31|<< Genesis 49:31]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.33|Genesis 49:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] livestock of  |**<big>&#8207;[[H4735\|מִקְנֵ֧ה]]&#8207; </big>**| mik.Neh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

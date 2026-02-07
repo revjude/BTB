@@ -1,12 +1,12 @@
-**Matthew 25:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:2**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And five of them were wise, and five [were] foolish.
 <small><sub>**BSB:**</sub></small>
 Five of them were foolish, and five were wise.
 <small><sub>**Literal:**</sub></small>
 Five now of them were foolish and the [other] five wise;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.1|<< Matthew 25:1]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.3|Matthew 25:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Five |**<big>[[G4002\|πέντε]]</big>**  |pente <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

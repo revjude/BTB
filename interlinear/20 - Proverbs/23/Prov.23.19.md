@@ -1,4 +1,4 @@
-**Proverbs 23:19** 
+**Proverbs 23:19**<big><big>[[Prov.23.19 Saying 16|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear thou, my son, and be wise, and guide thine heart in the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen, my son, and be wise, and guide your heart on the right course.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.18|<< Proverbs 23:18]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.20|Proverbs 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שְׁמַע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.ma'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

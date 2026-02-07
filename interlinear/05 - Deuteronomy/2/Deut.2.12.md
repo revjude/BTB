@@ -1,4 +1,4 @@
-**Deuteronomy 2:12** 
+**Deuteronomy 2:12**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Horites used to live in Seir, but the descendants of Esau drove them out. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.11|<< Deuteronomy 2:11]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.13|Deuteronomy 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in Seir  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8165A\|שֵׂעִ֞יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> se.'Ir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they dwelt  |**<big>&#8207;[[H3427\|יָשְׁב֣וּ]]&#8207; </big>**| ya.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

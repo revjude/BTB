@@ -1,12 +1,12 @@
-**Romans 5:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:11**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not only [so], but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.
 <small><sub>**BSB:**</sub></small>
 Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 <small><sub>**Literal:**</sub></small>
 Not only [so] now, but also we are rejoicing in <the> God through the Lord of us Jesus Christ through whom now the reconciliation we have received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.10|<< Romans 5:10]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.12|Romans 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only [so] |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

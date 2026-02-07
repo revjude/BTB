@@ -1,4 +1,4 @@
-**Job 9:25** 
+**Job 9:25**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now my days are swifter than a post: they flee away, they see no good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My days are swifter than a runner; they flee without seeing good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.24|<< Job 9:24]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.26|Job 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and days my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3117G\|יָמַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been swift  |**<big>&#8207;[[H7043\|קַ֭לּוּ]]&#8207; </big>**| Ka.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

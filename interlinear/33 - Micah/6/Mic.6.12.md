@@ -1,4 +1,4 @@
-**Micah 6:12** 
+**Micah 6:12**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue [is] deceitful in their mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the wealthy of the city are full of violence, and its residents speak lies; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.11|<< Micah 6:11]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.13|Micah 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rich [people] its  |**<big>&#8207;[[H6223\|עֲשִׁירֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| 'a.shi.Rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

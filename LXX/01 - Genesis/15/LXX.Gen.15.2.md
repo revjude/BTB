@@ -1,10 +1,7 @@
 **LXX Genesis 15:2** 
 <small><sub>**LXX:**</sub></small>
 And Abram says, Master, O <span class="smallcaps">lord</span>, what will you give to me, for I am wasting away childless, but the son of Masek  of my native-born maid servant, this Damascus Eliezer \[is heir\]? 
-<small><sub>**KJV:**</sub></small>
-And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house [is] this Eliezer of Damascus?
-<small><sub>**BSB:**</sub></small>
-But Abram replied, “O Lord GOD, what can You give me, since I remain childless, and the heir of my house is Eliezer of Damascus?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.1|<< Genesis 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.3|Genesis 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

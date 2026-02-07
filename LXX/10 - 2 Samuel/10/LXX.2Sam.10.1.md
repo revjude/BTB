@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that the king of \[the\] sons of Ammon died, and Hanun his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-Some time later, the king of the Ammonites died and was succeeded by his son Hanun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.13|<< 2 Samuel 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.2|2 Samuel 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

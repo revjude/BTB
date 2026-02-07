@@ -1,10 +1,7 @@
 **LXX Psalm 86:11** 
 <small><sub>**LXX:**</sub></small>
 Guide me, O <span class="smallcaps">lord</span>, in  your way! and I will go in  your truth. my heart be glad  to fear  your name! 
-<small><sub>**KJV:**</sub></small>
-Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.
-<small><sub>**BSB:**</sub></small>
-Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.10|<< Psalm 86:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.12|Psalm 86:12 >>]]</td></tr></table>
 
 | Translation | Greek |

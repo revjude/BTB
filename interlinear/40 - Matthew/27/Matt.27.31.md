@@ -1,12 +1,12 @@
-**Matthew 27:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:31**<big><big>[[Matt.27.27 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify [him].
 <small><sub>**BSB:**</sub></small>
 After they had mocked Him, they removed the robe and put His own clothes back on Him. Then they led Him away to crucify Him.
 <small><sub>**Literal:**</sub></small>
 And when they had mocked Him, they took off Him the robe and they put on Him the garments of Him and led away Him to <the> to crucify [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.30|<< Matthew 27:30]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.32|Matthew 27:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

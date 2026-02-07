@@ -1,4 +1,4 @@
-**1 Kings 4:19** 
+**1 Kings 4:19**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Geber the son of Uri [was] in the country of Gilead, [in] the country of Sihon king of the Amorites, and of Og king of Bashan; and [he was] the only officer which [was] in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Geber son of Uri in the land of Gilead, including the territories of Sihon king 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.18|<< 1 Kings 4:18]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.20|1 Kings 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Geber  |**<big>&#8207;[[H1398\|גֶּ֥בֶר]]&#8207; </big>**| Ge.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

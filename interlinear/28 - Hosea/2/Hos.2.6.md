@@ -1,4 +1,4 @@
-**Hosea 2:6** (2:8)
+**Hosea 2:6**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, behold, I will hedge up her path with thorns; I will enclose her with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.5|<< Hosea 2:5]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.7|Hosea 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֛ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> ni-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

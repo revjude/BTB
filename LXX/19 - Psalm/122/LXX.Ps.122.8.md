@@ -1,10 +1,7 @@
 **LXX Psalm 122:8** 
 <small><sub>**LXX:**</sub></small>
 Because of  my brethren and  my neighbors I spoke indeed peace concerning you. 
-<small><sub>**KJV:**</sub></small>
-For my brethren and companions’ sakes, I will now say, Peace [be] within thee.
-<small><sub>**BSB:**</sub></small>
-For the sake of my brothers and friends, I will say, “Peace be within you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.122.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.122.7|<< Psalm 122:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.9|Psalm 122:9 >>]]</td></tr></table>
 
 | Translation | Greek |

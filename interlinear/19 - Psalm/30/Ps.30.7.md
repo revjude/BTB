@@ -1,4 +1,4 @@
-**Psalms 30:7** (30:8)
+**Psalms 30:7**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, [and] I was troubled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, You favored me; You made my mountain stand strong. When You hid Your fac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.6|<< Psalms 30:6]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.8|Psalms 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in favor your  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7522\|רְצוֹנְ]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.tzon.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

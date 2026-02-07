@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:19** 
 <small><sub>**LXX:**</sub></small>
 And  secondly, to whom shall I serve? \[Should I\] not \[serve\] before  his son? Just as I served before  your father, so I will be before you. 
-<small><sub>**KJV:**</sub></small>
-And again, whom should I serve? [should I] not [serve] in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence.
-<small><sub>**BSB:**</sub></small>
-Furthermore, whom should I serve if not his son? As I served in your father’s presence, so also I will serve in yours.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.18|<< 2 Samuel 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.20|2 Samuel 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

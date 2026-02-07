@@ -1,10 +1,7 @@
 **LXX Judges 14:2** 
 <small><sub>**LXX:**</sub></small>
 And he ascended, and reported \[to\] his father and \[to\] his mother. And he said, I have seen a woman in Timnath from the daughters of the Philistines. And now take her to me for wife! 
-<small><sub>**KJV:**</sub></small>
-And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife.
-<small><sub>**BSB:**</sub></small>
-So he returned and told his father and mother, “I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.1|<< Judges 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.3|Judges 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

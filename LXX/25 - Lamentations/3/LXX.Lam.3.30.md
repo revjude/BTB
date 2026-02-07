@@ -1,10 +1,7 @@
 **LXX Lamentations 3:30** 
 <small><sub>**LXX:**</sub></small>
 He will give \[his\] cheek to the one hitting him. He will be filled of scornings. 
-<small><sub>**KJV:**</sub></small>
-He giveth [his] cheek to him that smiteth him: he is filled full with reproach.
-<small><sub>**BSB:**</sub></small>
-Let him offer his cheek to the one who would strike him; let him be filled with reproach.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.29|<< Lamentations 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.31|Lamentations 3:31 >>]]</td></tr></table>
 
 | Translation | Greek |

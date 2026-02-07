@@ -1,10 +1,7 @@
 **LXX Isaiah 6:10** 
 <small><sub>**LXX:**</sub></small>
 For the heart of this people was thickened; and  they heard heavily with their ears, and the eyes closed eyelids, lest at any time they should behold with their eyes, and the ears should hear, and the heart should perceive, and they should turn, and I shall heal them. 
-<small><sub>**KJV:**</sub></small>
-Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
-<small><sub>**BSB:**</sub></small>
-Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.9|<< Isaiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.11|Isaiah 6:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 6:10** is...

@@ -1,12 +1,12 @@
-**Acts 9:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:21**<big><big>[[Acts.9.20 Saul Preaches at Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all that heard [him] were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?
 <small><sub>**BSB:**</sub></small>
 All who heard him were astounded and asked, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?”
 <small><sub>**Literal:**</sub></small>
 Were amazed then all those hearing and were saying; Surely this is the [one] having caused havoc in Jerusalem those calling on <the> name this? And here for this he had come that bound them he may bring to the chief priests.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.20|<< Acts 9:20]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.22|Acts 9:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were amazed |**<big>[[G1839\|ἐξίσταντο]]</big>**  |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

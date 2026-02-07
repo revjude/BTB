@@ -1,12 +1,12 @@
-**Acts 27:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:24**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.
 <small><sub>**BSB:**</sub></small>
 and said, ‘Do not be afraid, Paul; you must stand before Caesar. And look, God has granted you the lives of all who sail with you.’
 <small><sub>**Literal:**</sub></small>
 saying; Not do fear, Paul, to Caesar you it behooves to stand before, And behold has granted to you <the> God all those sailing with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.23|<< Acts 27:23]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.25|Acts 27:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

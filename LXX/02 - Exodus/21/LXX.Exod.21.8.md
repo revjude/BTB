@@ -1,10 +1,7 @@
 **LXX Exodus 21:8** 
 <small><sub>**LXX:**</sub></small>
 If she should not be well-pleasing \[to\] her master, who did not solemnly promise her; on payment of ransom he shall release her; but \[the\] master is not to sell her to an alien nation, for he disrespected  her. 
-<small><sub>**KJV:**</sub></small>
-If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.
-<small><sub>**BSB:**</sub></small>
-If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.7|<< Exodus 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.9|Exodus 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

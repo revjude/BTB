@@ -1,10 +1,7 @@
 **LXX Psalm 32:9** 
 <small><sub>**LXX:**</sub></small>
 Do not become as a horse and mule in which there is no understanding; \[but\] with muzzle and bridle  may you squeeze their jaws of the \[ones\] not approaching to you. 
-<small><sub>**KJV:**</sub></small>
-Be ye not as the horse, [or] as the mule, [which] have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.
-<small><sub>**BSB:**</sub></small>
-Do not be like the horse or mule, which have no understanding; they must be controlled with bit and bridle to make them come to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.8|<< Psalm 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.10|Psalm 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

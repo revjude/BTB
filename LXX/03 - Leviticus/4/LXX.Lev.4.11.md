@@ -1,10 +1,7 @@
 **LXX Leviticus 4:11** 
 <small><sub>**LXX:**</sub></small>
 And the skin of the calf, and all of its  flesh, with the head, and the extremities, and the belly, and the dung. 
-<small><sub>**KJV:**</sub></small>
-And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,
-<small><sub>**BSB:**</sub></small>
-But the hide of the bull and all its flesh, with its head and legs and its entrails and dung—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.10|<< Leviticus 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.12|Leviticus 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 34:9** 
 <small><sub>**LXX:**</sub></small>
 And the borders shall go forth to Ziphron, and its outer reaches will be Hazer-enan. This will be to you \[the\] borders from \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.
-<small><sub>**BSB:**</sub></small>
-continue to Ziphron, and end at Hazar-enan. This will be your boundary on the north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.8|<< Numbers 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.10|Numbers 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

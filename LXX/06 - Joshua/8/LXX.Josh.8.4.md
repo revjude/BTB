@@ -1,10 +1,7 @@
 **LXX Joshua 8:4** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to them, saying, See that you lie in wait the city, behind the city greatly! and you shall all be prepared. 
-<small><sub>**KJV:**</sub></small>
-And he commanded them, saying, Behold, ye shall lie in wait against the city, [even] behind the city: go not very far from the city, but be ye all ready:
-<small><sub>**BSB:**</sub></small>
-with these orders: “Pay attention. You are to lie in ambush behind the city, not too far from it. All of you must be ready.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

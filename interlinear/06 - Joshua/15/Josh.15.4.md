@@ -1,4 +1,4 @@
-**Joshua 15:4** 
+**Joshua 15:4**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [From thence] it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It proceeded to Azmon, joined the Brook of Egypt, and ended at the Sea. This was
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.3|<< Joshua 15:3]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.5|Joshua 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passes on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Azmon towards  |**<big>&#8207;[[H6111\|עַצְמ֗וֹנָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| atz.Mo.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

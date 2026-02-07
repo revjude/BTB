@@ -1,4 +1,4 @@
-**Ezekiel 36:10** 
+**Ezekiel 36:10**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will multiply men upon you, all the house of Israel, [even] all of it: and the cities shall be inhabited, and the wastes shall be builded:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will multiply the people upon you—the house of Israel in its entirety. The c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.9|<< Ezekiel 36:9]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.11|Ezekiel 36:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will multiply  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7235A\|הִרְבֵּיתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.bei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

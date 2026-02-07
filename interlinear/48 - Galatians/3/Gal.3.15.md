@@ -1,12 +1,12 @@
-**Galatians 3:15
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:15**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Brethren, I speak after the manner of men; Though [it be] but a man’s covenant, yet [if it be] confirmed, no man disannulleth, or addeth thereto.
 <small><sub>**BSB:**</sub></small>
 Brothers, let me put this in human terms. Even a human covenant, once it is ratified, cannot be canceled or amended.
 <small><sub>**Literal:**</sub></small>
 Brothers, according to man I am speaking. Even of man ratified a covenant no [one] sets aside or adds thereto.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.14|<< Galatians 3:14]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.16|Galatians 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

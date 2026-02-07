@@ -1,4 +1,4 @@
-**Judges 8:29** 
+**Judges 8:29**<big><big>[[Judg.8.28 Forty Years of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jerubbaal the son of Joash went and dwelt in his own house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he—Jerubbaal son of Joash—returned home and settled down.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.28|<< Judges 8:28]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.30|Judges 8:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֛לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerub-Baal  |**<big>&#8207;[[H3378\|יְרֻבַּ֥עַל]]&#8207; </big>**| ye.ru.Ba.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

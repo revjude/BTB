@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Helkiah went, and \[the ones\] who told the king, to Huldah the prophetess, wife of Shallum, son of Tikvath, son of Hazrah the keeper of the cloaks; and she dwelt in Jerusalem in \[the\] second section. And they spoke to her according to these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And Hilkiah, and [they] that the king [had appointed], went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that [effect].
-<small><sub>**BSB:**</sub></small>
-So Hilkiah and those the king had designated went and spoke to Huldah the prophetess, the wife of Shallum son of Tokhath, the son of Hasrah, the keeper of the wardrobe. She lived in Jerusalem, in the Second District.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.21|<< 2 Chronicles 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.23|2 Chronicles 34:23 >>]]</td></tr></table>
 
 | Translation | Greek |

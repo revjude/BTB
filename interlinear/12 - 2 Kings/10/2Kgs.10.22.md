@@ -1,4 +1,4 @@
-**2 Kings 10:22** 
+**2 Kings 10:22**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him that [was] over the vestry, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehu said to the keeper of the wardrobe, “Bring out garments for all the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.21|<< 2 Kings 10:21]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.23|2 Kings 10:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the one] who  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

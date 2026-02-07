@@ -1,12 +1,12 @@
-**1 John 2:1
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:1**<big><big>[[1John.2.1 Jesus Our Advocate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
 <small><sub>**BSB:**</sub></small>
 My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One.
 <small><sub>**Literal:**</sub></small>
 Little children of mine, these things I am writing to you so that not you may sin; And if anyone shall sin, an advocate we have with the Father, Jesus Christ [the] Righteous [One],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.10|<< 1 John 1:10]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.2|1 John 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Little children |**<big>[[G5040\|Τεκνία]]</big>**  |Teknia <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of mine, |**<big>[[G3165\|μου,]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 148:7** 
 <small><sub>**LXX:**</sub></small>
 Praise the <span class="smallcaps">lord</span> from the earth, O dragons and all abysses! 
-<small><sub>**KJV:**</sub></small>
-Praise the LORD from the earth, ye dragons, and all deeps:
-<small><sub>**BSB:**</sub></small>
-Praise the LORD from the earth, all great sea creatures and ocean depths,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.6|<< Psalm 148:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.8|Psalm 148:8 >>]]</td></tr></table>
 
 | Translation | Greek |

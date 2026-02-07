@@ -1,4 +1,4 @@
-**Nahum 1:8** 
+**Nahum 1:8**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But with an overwhelming flood He will make an end of Nineveh and pursue His ene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.7|<< Nahum 1:7]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.9|Nahum 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and with a flood  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7858\|שֶׁ֣טֶף]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> She.tef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] passes over  |**<big>&#8207;[[H5674A\|עֹבֵ֔ר]]&#8207; </big>**| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

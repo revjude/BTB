@@ -1,10 +1,7 @@
 **LXX Amos 3:9** 
 <small><sub>**LXX:**</sub></small>
 Announce it to \[the\] places among \[the\] Assyrians, and unto the places in \[the\] land of Egypt! And say, Gather together upon the mountain of Samaria, and behold many wonders in \[the\] midst of her, and \[the\] tyranny in her! 
-<small><sub>**KJV:**</sub></small>
-Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-Proclaim to the citadels of Ashdod and to the citadels of Egypt: “Assemble on the mountains of Samaria; see the great unrest in the city and the acts of oppression in her midst.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.8|<< Amos 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.10|Amos 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

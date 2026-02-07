@@ -1,12 +1,12 @@
-**Mark 6:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:41**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave [them] to his disciples to set before them; and the two fishes divided he among them all.
 <small><sub>**BSB:**</sub></small>
 Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all.
 <small><sub>**Literal:**</sub></small>
 And having taken the five loaves and the two fish, having looked up to the heaven He blessed and He broke the loaves and He was giving [them] to the disciples of Him that they may set before them, And the two fish He divided among all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.40|<< Mark 6:40]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.42|Mark 6:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G2983\|λαβὼν]]</big>**  |labōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

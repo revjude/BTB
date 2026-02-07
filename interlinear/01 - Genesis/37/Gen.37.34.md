@@ -1,4 +1,4 @@
-**Genesis 37:34** 
+**Genesis 37:34**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.33|<< Genesis 37:33]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.35|Genesis 37:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he tore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7167\|יִּקְרַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹב֙]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

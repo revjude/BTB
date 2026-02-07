@@ -1,10 +1,7 @@
 **LXX Exodus 32:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses beseeched in front of \[the\] <span class="smallcaps">lord</span>  God, and said, Why, O <span class="smallcaps">lord</span>, be enraged in anger against  your people, whom you led from out of \[the\] land of Egypt in great strength, and with  your high arm? 
-<small><sub>**KJV:**</sub></small>
-And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?
-<small><sub>**BSB:**</sub></small>
-But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your anger burn against Your people, whom You brought out of the land of Egypt with great power and a mighty hand?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.10|<< Exodus 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.12|Exodus 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 23:4** 
 <small><sub>**LXX:**</sub></small>
 For if even I should go in \[the\] midst of \[the\] shadow of death, I shall not be afraid of evils, for you are with me.  Your rod and  your staff, they comfort me. 
-<small><sub>**KJV:**</sub></small>
-Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.
-<small><sub>**BSB:**</sub></small>
-Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.3|<< Psalm 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.5|Psalm 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

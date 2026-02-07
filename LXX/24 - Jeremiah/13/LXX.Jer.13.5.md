@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:5** 
 <small><sub>**LXX:**</sub></small>
 And I went, and hid it by the Euphrates, as \[the\] <span class="smallcaps">lord</span> gave charge to me. 
-<small><sub>**KJV:**</sub></small>
-So I went, and hid it by Euphrates, as the LORD commanded me.
-<small><sub>**BSB:**</sub></small>
-So I went and hid it at Perath, as the LORD had commanded me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.4|<< Jeremiah 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.6|Jeremiah 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

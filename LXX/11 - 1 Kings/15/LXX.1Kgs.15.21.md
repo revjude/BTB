@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:21** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when Baasha heard, that he stopped the building  of Ramah, and he returned unto Tizrah. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Baasha heard [thereof], that he left off building of Ramah, and dwelt in Tirzah.
-<small><sub>**BSB:**</sub></small>
-When Baasha learned of this, he stopped fortifying Ramah and withdrew to Tirzah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.20|<< 1 Kings 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.22|1 Kings 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

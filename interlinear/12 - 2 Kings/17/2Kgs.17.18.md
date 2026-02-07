@@ -1,4 +1,4 @@
-**2 Kings 17:18** 
+**2 Kings 17:18**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD was very angry with Israel, and He removed them from His presence. O
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.17|<< 2 Kings 17:17]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.19|2 Kings 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0599\|יִּתְאַנַּ֨ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Naf<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 6:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:3**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Giving no offence in any thing, that the ministry be not blamed:
 <small><sub>**BSB:**</sub></small>
 We put no obstacle in anyone’s way, so that no one can discredit our ministry.
 <small><sub>**Literal:**</sub></small>
 Nothing before no one placing an obstacle, so that not may be blemished the ministry,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.2|<< 2 Corinthians 6:2]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.4|2 Corinthians 6:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nothing |**<big>[[G3367\|μηδεμίαν]]</big>**  |mēdemian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | before |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

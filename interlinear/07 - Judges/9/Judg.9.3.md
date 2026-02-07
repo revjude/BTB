@@ -1,4 +1,4 @@
-**Judges 9:3** 
+**Judges 9:3**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He [is] our brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when his mother’s brothers spoke all these words about him in the presence
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.4|Judges 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבְּר֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brothers of  |**<big>&#8207;[[H0251H\|אֲחֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

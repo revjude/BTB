@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:25** 
 <small><sub>**LXX:**</sub></small>
 For you, O <span class="smallcaps">lord</span>  my God, uncovered the ear  of your servant,  to build him a house. Because of this your servant found \[need\]  to pray before your face. 
-<small><sub>**KJV:**</sub></small>
-For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found [in his heart] to pray before thee.
-<small><sub>**BSB:**</sub></small>
-For You, my God, have revealed to Your servant that You will build a house for him. Therefore Your servant has found the courage to pray before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.24|<< 1 Chronicles 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.26|1 Chronicles 17:26 >>]]</td></tr></table>
 
 | Translation | Greek |

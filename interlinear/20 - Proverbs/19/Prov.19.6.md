@@ -1,4 +1,4 @@
-**Proverbs 19:6** 
+**Proverbs 19:6**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many will intreat the favour of the prince: and every man [is] a friend to him that giveth gifts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many seek the favor of the prince, and everyone is a friend of the gift giver.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.5|<< Proverbs 19:5]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.7|Proverbs 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many [people]  |**<big>&#8207;[[H7227A\|רַ֭בִּים]]&#8207; </big>**| Ra.bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they entreat  |**<big>&#8207;[[H2470B\|יְחַלּ֣וּ]]&#8207; </big>**| ye.cha.Lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

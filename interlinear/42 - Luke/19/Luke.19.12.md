@@ -1,12 +1,12 @@
-**Luke 19:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:12**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
 <small><sub>**BSB:**</sub></small>
 So He said, “A man of noble birth went to a distant country to lay claim to his kingship and then return.
 <small><sub>**Literal:**</sub></small>
 He said therefore; A man certain of noble birth proceeded to a country distant to receive for himself a kingdom and to return.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.11|<< Luke 19:11]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.13|Luke 19:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore; |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

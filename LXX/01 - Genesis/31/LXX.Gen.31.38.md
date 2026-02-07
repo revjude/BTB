@@ -1,10 +1,7 @@
 **LXX Genesis 31:38** 
 <small><sub>**LXX:**</sub></small>
 These  twenty years I am with you;  your flocks and  your goats were not barren, \[and\] \[the\] rams  of your flocks I did not eat. 
-<small><sub>**KJV:**</sub></small>
-This twenty years [have] I [been] with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.
-<small><sub>**BSB:**</sub></small>
-I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.37|<< Genesis 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.39|Genesis 31:39 >>]]</td></tr></table>
 
 | Translation | Greek |

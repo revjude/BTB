@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the outlets of the city, the ones towards \[the\] north -- four thousand and five hundred in measure. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the goings out of the city on the north side, four thousand and five hundred measures.
-<small><sub>**BSB:**</sub></small>
-“These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.29|<< Ezekiel 48:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.31|Ezekiel 48:31 >>]]</td></tr></table>
 
 | Translation | Greek |

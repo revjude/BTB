@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:20** 
 <small><sub>**LXX:**</sub></small>
 And I returned to them a word, and I said to them, The God  of heaven, he shall prosper the way for us. And we his servants are pure, and we shall arise and build, and to you there is no portion, \[nor\] judicial right, \[nor\] a memorial in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So I answered them and said, “The God of heaven is the One who will grant us success. We, His servants, will start rebuilding, but you have no portion, right, or claim in Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.19|<< Nehemiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.1|Nehemiah 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

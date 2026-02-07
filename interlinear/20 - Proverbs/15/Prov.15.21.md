@@ -1,4 +1,4 @@
-**Proverbs 15:21** 
+**Proverbs 15:21**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Folly [is] joy to [him that is] destitute of wisdom: but a man of understanding walketh uprightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Folly is joy to one who lacks judgment, but a man of understanding walks a strai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.20|<< Proverbs 15:20]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.22|Proverbs 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | foolishness  |**<big>&#8207;[[H0200\|אִ֭וֶּלֶת]]&#8207; </big>**| 'I.ve.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a joy  |**<big>&#8207;[[H8057\|שִׂמְחָ֣ה]]&#8207; </big>**| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 41:33** 
+**Genesis 41:33**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, therefore, Pharaoh should look for a discerning and wise man and set him ov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.32|<< Genesis 41:32]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.34|Genesis 41:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let him see  |**<big>&#8207;[[H7200J\|יֵרֶ֣א]]&#8207; </big>**| ye.Re'<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

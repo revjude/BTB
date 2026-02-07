@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Since you imputed  your heart as \[the\] heart of God; 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: Because you regard your heart as the heart of a god,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.5|<< Ezekiel 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.7|Ezekiel 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

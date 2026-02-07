@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the people \[were\] grumbling wickedly before \[the\] <span class="smallcaps">lord</span>. And \[the\] <span class="smallcaps">lord</span> heard, and he became enraged in anger; and there burned among them a fire by \[the\] <span class="smallcaps">lord</span>, and it devoured a certain part of the camp. 
-<small><sub>**KJV:**</sub></small>
-And [when] the people complained, it displeased the LORD: and the LORD heard [it]; and his anger was kindled; and the fire of the LORD burnt among them, and consumed [them that were] in the uttermost parts of the camp.
-<small><sub>**BSB:**</sub></small>
-Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.36|<< Numbers 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.2|Numbers 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

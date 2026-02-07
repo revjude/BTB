@@ -1,4 +1,4 @@
-**Job 37:2** 
+**Job 37:2**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear attentively the noise of his voice, and the sound [that] goeth out of his mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen closely to the thunder of His voice and the rumbling that comes from His 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.1|<< Job 37:1]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.3|Job 37:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | completely \<to listen>  |**<big>&#8207;[[H8085G\|שָׁמ֣וֹעַ]]&#8207; </big>**| sha.Mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

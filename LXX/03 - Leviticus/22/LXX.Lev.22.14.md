@@ -1,10 +1,7 @@
 **LXX Leviticus 22:14** 
 <small><sub>**LXX:**</sub></small>
 And a man who ever should eat holy \[things\] according to ignorance; then he shall add  his fifth part unto it, and shall give to the priest the holy \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-And if a man eat [of] the holy thing unwittingly, then he shall put the fifth [part] thereof unto it, and shall give [it] unto the priest with the holy thing.
-<small><sub>**BSB:**</sub></small>
-If anyone eats a sacred offering in error, he must add a fifth to its value and give the sacred offering to the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.13|<< Leviticus 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.15|Leviticus 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

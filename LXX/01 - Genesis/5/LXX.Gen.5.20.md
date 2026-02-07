@@ -1,10 +1,7 @@
 **LXX Genesis 5:20** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the days of Jared, two and sixty and nine hundred years, and he died. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Jared were nine hundred sixty and two years: and he died.
-<small><sub>**BSB:**</sub></small>
-So Jared lived a total of 962 years, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.19|<< Genesis 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.21|Genesis 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

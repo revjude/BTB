@@ -1,4 +1,4 @@
-**Genesis 43:34** 
+**Genesis 43:34**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took [and sent] messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the portions were served to them from Joseph’s table, Benjamin’s portio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.33|<< Genesis 43:33]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.1|Genesis 44:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375H\|יִּשָּׂ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | portions  |**<big>&#8207;[[H4864\|מַשְׂאֹ֜ת]]&#8207; </big>**| mas.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

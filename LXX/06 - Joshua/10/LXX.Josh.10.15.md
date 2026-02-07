@@ -1,10 +1,7 @@
 **LXX Joshua 10:15** 
 <small><sub>**LXX:**</sub></small>
 And Joshua returned, and all Israel with him to the camp in Gilgal. 
-<small><sub>**KJV:**</sub></small>
-And Joshua returned, and all Israel with him, unto the camp to Gilgal.
-<small><sub>**BSB:**</sub></small>
-Then Joshua returned with all Israel to the camp at Gilgal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.14|<< Joshua 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.16|Joshua 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

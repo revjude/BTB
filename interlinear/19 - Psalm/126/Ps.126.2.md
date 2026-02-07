@@ -1,4 +1,4 @@
-**Psalms 126:2** 
+**Psalms 126:2**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then our mouths were filled with laughter, our tongues with shouts of joy. Then 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.1|<< Psalms 126:1]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.3|Psalms 126:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was filled  |**<big>&#8207;[[H4390\|יִמָּלֵ֪א]]&#8207; </big>**| yi.ma.Le'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

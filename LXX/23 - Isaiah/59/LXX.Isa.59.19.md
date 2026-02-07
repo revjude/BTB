@@ -1,10 +1,7 @@
 **LXX Isaiah 59:19** 
 <small><sub>**LXX:**</sub></small>
 And the ones from \[the\] west shall fear the name of \[the\] <span class="smallcaps">lord</span>; and the ones from \[the\] east sun \[shall fear\] the honorable name. For the anger of \[the\] <span class="smallcaps">lord</span> shall come as a violent river; it shall come with rage. 
-<small><sub>**KJV:**</sub></small>
-So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.
-<small><sub>**BSB:**</sub></small>
-So shall they fear the name of the LORD where the sun sets, and His glory where it rises. For He will come like a raging flood, driven by the breath of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.18|<< Isaiah 59:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.20|Isaiah 59:20 >>]]</td></tr></table>
 
 | Translation | Greek |

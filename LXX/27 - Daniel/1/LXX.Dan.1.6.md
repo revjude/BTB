@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there existed among them from out of the sons of Judah, Daniel, and Hananiah, and Mishael, and Azariah. 
-<small><sub>**KJV:**</sub></small>
-Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
-<small><sub>**BSB:**</sub></small>
-Among these young men were some from Judah: Daniel, Hananiah, Mishael, and Azariah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.5|<< Daniel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.7|Daniel 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

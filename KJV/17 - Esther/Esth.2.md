@@ -1,10 +1,10 @@
 (KJV) **Esther 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1|<< Esther 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3|Esther 3 >>]]</td></tr></table>
 
-***Seeking Vashti’s Successor*** ^bsb1227
+<big><big>[[Esth.2.1 Seeking Vashti’s Successor|⥃]]</big></big>***Seeking Vashti’s Successor***
 
  $\quad$ <span class="startversemarker">[</span>**[[Esth.2.1|1]]**<span class="endversemarker">]</span> After these things, when the wrath of king Ahasuerus was appeased, he remembered<small><small>[^2]</small></small> Vashti, and what she had done, and what was decreed<small><small>[^3]</small></small> against her.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Esth.2.2|2]]**<span class="endversemarker">]</span> Then said the king’s servants<small><small>[^5]</small></small> that ministered unto him, Let there be<small><small>[^6]</small></small> fair young virgins sought for the king: <span class="startversemarker">[</span>**[[Esth.2.3|3]]**<span class="endversemarker">]</span> And let the king appoint officers in all the provinces<small><small>[^7]</small></small> of his kingdom, that they may gather<small><small>[^8]</small></small> together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody<small><small>[^9]</small></small> of Hege<small><small>[^10]</small></small> the king’s chamberlain<small><small>[^11]</small></small>, keeper of the women; and let their things<small><small>[^12]</small></small> for purification be given \[them\]: <span class="startversemarker">[</span>**[[Esth.2.4|4]]**<span class="endversemarker">]</span> And let the maiden<small><small>[^13]</small></small> which pleaseth the king be queen instead of Vashti. And the thing<small><small>[^14]</small></small> pleased the king; and he did so.
 
-***Esther Finds Favor*** ^bsb1228
+<big><big>[[Esth.2.5 Esther Finds Favor|⥃]]</big></big>***Esther Finds Favor***
 
  
 
@@ -16,11 +16,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Esth.2.12|12]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Esth.2.15|15]]**<span class="endversemarker">]</span> [¶]Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken<small><small>[^39]</small></small> her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king’s chamberlain, the keeper of the women, appointed. And Esther<small><small>[^40]</small></small> obtained favour in the sight of all them that looked upon her. <span class="startversemarker">[</span>**[[Esth.2.16|16]]**<span class="endversemarker">]</span> So Esther was taken unto king Ahasuerus into his house royal in the tenth month<small><small>[^41]</small></small>, which \[is\] the month Tebeth, in the seventh<small><small>[^42]</small></small> year of his reign.
 
-***Esther Becomes Queen*** ^bsb1229
+<big><big>[[Esth.2.17 Esther Becomes Queen|⥃]]</big></big>***Esther Becomes Queen***
 
  <span class="startversemarker">[</span>**[[Esth.2.17|17]]**<span class="endversemarker">]</span> And the king loved Esther above all the women, and she obtained grace and favour<small><small>[^43]</small></small> in his sight<small><small>[^44]</small></small> more than all the virgins; so that he set<small><small>[^45]</small></small> the royal crown upon her head, and made her queen instead of Vashti. <span class="startversemarker">[</span>**[[Esth.2.18|18]]**<span class="endversemarker">]</span> Then the king made a great<small><small>[^46]</small></small> feast unto all his princes and his servants, \[even\] Esther’s feast; and he made<small><small>[^47]</small></small> a release<small><small>[^48]</small></small> to the provinces, and gave gifts<small><small>[^49]</small></small>, according to the state of the king.<small><small>[^50]</small></small> <span class="startversemarker">[</span>**[[Esth.2.19|19]]**<span class="endversemarker">]</span> And when the virgins<small><small>[^51]</small></small> were gathered together the second time, then Mordecai sat in the king’s gate<small><small>[^52]</small></small>. <span class="startversemarker">[</span>**[[Esth.2.20|20]]**<span class="endversemarker">]</span> Esther had not \[yet\] shewed<small><small>[^53]</small></small> her kindred nor her people; as Mordecai had charged her: for Esther<small><small>[^54]</small></small> did the commandment of Mordecai, like as when she was brought up with him.
 
-***Mordecai Uncovers a Conspiracy*** ^bsb1230
+<big><big>[[Esth.2.21 Mordecai Uncovers a Conspiracy|⥃]]</big></big>***Mordecai Uncovers a Conspiracy***
 
  
 

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave charge to the people in  that day, saying, 
-<small><sub>**KJV:**</sub></small>
-And Moses charged the people the same day, saying,
-<small><sub>**BSB:**</sub></small>
-On that day Moses commanded the people:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.10|<< Deuteronomy 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.12|Deuteronomy 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

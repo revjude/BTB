@@ -1,10 +1,7 @@
 **LXX Exodus 28:4** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the apparels which they shall make; the breast-plate, and the shoulder-piece, and the foot length robe, and a fringed inner garment, and turban, and belt. And they shall make holy apparels for Aaron and \[to\] his sons for  officiating as priest to me. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.
-<small><sub>**BSB:**</sub></small>
-These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.3|<< Exodus 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.5|Exodus 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

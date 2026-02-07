@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:37** 
 <small><sub>**LXX:**</sub></small>
 and they should turn their heart in the land of which they were taken captive there, and they shall turn and should beseech you in the land of their captivity, saying, We sinned, we acted lawlessly, and we acted impiously; 
-<small><sub>**KJV:**</sub></small>
-Yet [if] they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;
-<small><sub>**BSB:**</sub></small>
-and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.36|<< 2 Chronicles 6:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.38|2 Chronicles 6:38 >>]]</td></tr></table>
 
 | Translation | Greek |

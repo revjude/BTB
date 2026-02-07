@@ -1,10 +1,7 @@
 **LXX Proverbs 17:15** 
 <small><sub>**LXX:**</sub></small>
 The one who judges the unjust \[as\] just, or the just \[as\] unjust, \[is\] unclean and abominable before God. 
-<small><sub>**KJV:**</sub></small>
-He that justifieth the wicked, and he that condemneth the just, even they both [are] abomination to the LORD.
-<small><sub>**BSB:**</sub></small>
-Acquitting the guilty and condemning the righteous—both are detestable to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.14|<< Proverbs 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.16|Proverbs 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

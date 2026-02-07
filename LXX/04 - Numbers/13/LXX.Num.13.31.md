@@ -1,10 +1,7 @@
 **LXX Numbers 13:31** 
 <small><sub>**LXX:**</sub></small>
 And the men, the ones going up with him said, We are not ascending; for in no way should we be able to ascend to that nation, for it is stronger rather than us. 
-<small><sub>**KJV:**</sub></small>
-But the men that went up with him said, We be not able to go up against the people; for they [are] stronger than we.
-<small><sub>**BSB:**</sub></small>
-But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.30|<< Numbers 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.32|Numbers 13:32 >>]]</td></tr></table>
 
 | Translation | Greek |

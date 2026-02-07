@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:25** 
 <small><sub>**LXX:**</sub></small>
 On  this day commence to give the trembling of you and the fear of you upon \[the\] face of all the nations of the ones underneath the heaven! Whoever hearing  your name shall be disturbed, and shall have pangs of anguish before your face. 
-<small><sub>**KJV:**</sub></small>
-This day will I begin to put the dread of thee and the fear of thee upon the nations [that are] under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.
-<small><sub>**BSB:**</sub></small>
-This very day I will begin to put the dread and fear of you upon all the nations under heaven. They will hear the reports of you and tremble in anguish because of you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.24|<< Deuteronomy 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.26|Deuteronomy 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 2:11** 
+**Daniel 2:11**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it is] a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What the king requests is so difficult that no one can tell it to him except the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.10|<< Daniel 2:10]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.12|Daniel 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and matter the  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4406\|מִלְּתָ֨]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.le.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H1768\|דִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

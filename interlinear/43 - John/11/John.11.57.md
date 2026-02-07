@@ -1,12 +1,12 @@
-**John 11:57
-**<small><sub>**KJV:**</sub></small>
+**John 11:57**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew [it], that they might take him.
 <small><sub>**BSB:**</sub></small>
 But the chief priests and Pharisees had given orders that anyone who knew where He was must report it, so that they could arrest Him.
 <small><sub>**Literal:**</sub></small>
 Had given now also the chief priests and the Pharisees commands that if anyone shall know where He is he shall show [it], so that they may seize Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.56|<< John 11:56]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.1|John 12:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had given |**<big>[[G1325\|δεδώκεισαν]]</big>**  |dedōkeisan <small><sup>[[V-LAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

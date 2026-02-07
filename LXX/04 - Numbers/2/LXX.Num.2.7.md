@@ -1,10 +1,7 @@
 **LXX Numbers 2:7** 
 <small><sub>**LXX:**</sub></small>
 And the ones camping being next to him \[was the\] tribe of Zebulun. And the ruler of the sons of Zebulun \[was\] Eliab son of Helon. 
-<small><sub>**KJV:**</sub></small>
-[Then] the tribe of Zebulun: and Eliab the son of Helon [shall be] captain of the children of Zebulun.
-<small><sub>**BSB:**</sub></small>
-Next will be the tribe of Zebulun. The leader of the Zebulunites is Eliab son of Helon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.6|<< Numbers 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.8|Numbers 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

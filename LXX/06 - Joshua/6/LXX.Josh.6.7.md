@@ -1,10 +1,7 @@
 **LXX Joshua 6:7** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, saying, Exhort the people to go around and circle the city, and let the ones for combat come near! arming themselves before the ark of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD.
-<small><sub>**BSB:**</sub></small>
-And he told the people, “Advance and march around the city, with the armed troops going ahead of the ark of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

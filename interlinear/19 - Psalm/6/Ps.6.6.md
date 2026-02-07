@@ -1,4 +1,4 @@
-**Psalms 6:6** (6:7)
+**Psalms 6:6**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am weary from groaning; all night I flood my bed with weeping and drench my co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.5|<< Psalms 6:5]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.7|Psalms 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have become weary  |**<big>&#8207;[[H3021\|יָגַ֤עְתִּי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Ga'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by groaning my  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H0585\|אַנְחָתִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'an.cha.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

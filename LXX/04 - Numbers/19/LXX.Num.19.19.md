@@ -1,10 +1,7 @@
 **LXX Numbers 19:19** 
 <small><sub>**LXX:**</sub></small>
 And the clean \[man\] shall sprinkle about upon the unclean on the third day, and on the seventh day; and he shall be purified on the seventh day; and he shall wash  his garments, and he shall bathe in water, and he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And the clean [person] shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even.
-<small><sub>**BSB:**</sub></small>
-The man who is ceremonially clean is to sprinkle the unclean person on the third day and on the seventh day. After he purifies the unclean person on the seventh day, the one being cleansed must wash his clothes and bathe in water, and that evening he will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.18|<< Numbers 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.20|Numbers 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

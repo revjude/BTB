@@ -1,12 +1,12 @@
-**Matthew 26:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:7**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat [at meat].
 <small><sub>**BSB:**</sub></small>
 a woman came to Him with an alabaster jar of expensive perfume, which she poured on His head as He reclined at the table.
 <small><sub>**Literal:**</sub></small>
 came to Him a woman having an alabaster flask of fragrant oil very costly and poured [it] on the head when he is reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.6|<< Matthew 26:6]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.8|Matthew 26:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | came |**<big>[[G4334\|προσῆλθεν]]</big>**  |prosēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

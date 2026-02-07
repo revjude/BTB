@@ -1,12 +1,12 @@
-**Luke 19:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:1**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [Jesus] entered and passed through Jericho.
 <small><sub>**BSB:**</sub></small>
 Then Jesus entered Jericho and was passing through.
 <small><sub>**Literal:**</sub></small>
 And having entered He was passing through <the> Jericho.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.43|<< Luke 18:43]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.2|Luke 19:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having entered |**<big>[[G1525\|εἰσελθὼν]]</big>**  |eiselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

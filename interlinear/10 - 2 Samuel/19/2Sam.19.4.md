@@ -1,4 +1,4 @@
-**2 Samuel 19:4** (19:5)
+**2 Samuel 19:4**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the king covered his face and cried out at the top of his voice, “O my son
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.3|<< 2 Samuel 19:3]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.5|2 Samuel 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the king  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֙לֶךְ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he covered  |**<big>&#8207;[[H3813\|לָאַ֣ט]]&#8207; </big>**| la.'At<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

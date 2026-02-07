@@ -1,10 +1,7 @@
 **LXX Leviticus 7:5** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer them upon the altar of \[the\] yield \[offering\] to the <span class="smallcaps">lord</span>; it is for a trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall burn them upon the altar [for] an offering made by fire unto the LORD: it [is] a trespass offering.
-<small><sub>**BSB:**</sub></small>
-The priest shall burn them on the altar as a food offering to the LORD; it is a guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.4|<< Leviticus 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.6|Leviticus 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

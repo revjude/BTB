@@ -1,4 +1,4 @@
-**Isaiah 46:6** 
+**Isaiah 46:6**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They lavish gold out of the bag, and weigh silver in the balance, [and] hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They pour out their bags of gold and weigh out silver on scales; they hire a gol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.5|<< Isaiah 46:5]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.7|Isaiah 46:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] pour out  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2107\|זָּלִ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָב֙]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

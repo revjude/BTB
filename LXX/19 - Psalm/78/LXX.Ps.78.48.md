@@ -1,10 +1,7 @@
 **LXX Psalm 78:48** 
 <small><sub>**LXX:**</sub></small>
 And he delivered up their cattle unto hail, and  their possessions to the fire. 
-<small><sub>**KJV:**</sub></small>
-He gave up their cattle also to the hail, and their flocks to hot thunderbolts.
-<small><sub>**BSB:**</sub></small>
-He abandoned their cattle to the hail and their livestock to bolts of lightning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.47|<< Psalm 78:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.49|Psalm 78:49 >>]]</td></tr></table>
 
 | Translation | Greek |

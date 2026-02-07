@@ -1,10 +1,7 @@
 **LXX Exodus 28:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall make two rings of gold. And you shall place \[them\] upon the  borders of the oracle, upon the tip from tip of the posterior of the shoulder-piece within. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which [is] in the side of the ephod inward.
-<small><sub>**BSB:**</sub></small>
-Make two more gold rings and attach them to the other two corners of the breastpiece, on the inside edge next to the ephod.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.25|<< Exodus 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.27|Exodus 28:27 >>]]</td></tr></table>
 
 | Translation | Greek |

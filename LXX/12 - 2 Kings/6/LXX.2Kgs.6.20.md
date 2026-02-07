@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, as he entered into Samaria, that Elisha said, O <span class="smallcaps">lord</span>, open the eyes of these, and let them see! And \[the\] <span class="smallcaps">lord</span> opened wide  their eyes, and they saw. And behold, they \[were\] in \[the\] midst of Samaria. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these [men], that they may see. And the LORD opened their eyes, and they saw; and, behold, [they were] in the midst of Samaria.
-<small><sub>**BSB:**</sub></small>
-When they had entered Samaria, Elisha said, “O LORD, open the eyes of these men that they may see.” Then the LORD opened their eyes, and they looked around and discovered that they were in Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.19|<< 2 Kings 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.21|2 Kings 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:9** 
 <small><sub>**LXX:**</sub></small>
 And it will be in that  day, says \[the\] <span class="smallcaps">lord</span>, the heart of the king shall perish, and the heart of the rulers; and the priests shall be amazed, and the prophets shall wonder. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass at that day, saith the LORD, [that] the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.
-<small><sub>**BSB:**</sub></small>
-“In that day,” declares the LORD, “the king and officials will lose their courage. The priests will tremble in fear, and the prophets will be astounded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.8|<< Jeremiah 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.10|Jeremiah 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

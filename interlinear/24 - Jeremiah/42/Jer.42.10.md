@@ -1,4 +1,4 @@
-**Jeremiah 42:10** 
+**Jeremiah 42:10**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye will still abide in this land, then will I build you, and not pull [you] down, and I will plant you, and not pluck [you] up: for I repent me of the evil that I have done unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If ye will still abide in this land, then will I build you, and not pull [you] d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.9|<< Jeremiah 42:9]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.11|Jeremiah 42:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly [if] \<to return>  |**<big>&#8207;[[H7725J\|שׁ֤וֹב]]&#8207; </big>**| Shov<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

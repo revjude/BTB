@@ -1,4 +1,4 @@
-**Ezekiel 11:23** 
+**Ezekiel 11:23**<big><big>[[Ezek.11.22 God’s Glory Leaves Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glory of the LORD went up from the midst of the city, and stood upon the mountain which [is] on the east side of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the glory of the LORD rose up from within the city and stood over the mounta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.22|<< Ezekiel 11:22]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.24|Ezekiel 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֙עַל֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּב֣וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

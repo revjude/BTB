@@ -1,10 +1,7 @@
 **LXX Zechariah 14:21** 
 <small><sub>**LXX:**</sub></small>
 And it will be every kettle in Jerusalem and in  Judah holy to the <span class="smallcaps">lord</span> almighty. And all the ones sacrificing shall come and shall take of them; and they shall cook with them. And there will not be any longer \[the\] Canaanite in the house of \[the\] <span class="smallcaps">lord</span> of the forces in  that day. 
-<small><sub>**KJV:**</sub></small>
-Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-Indeed, every pot in Jerusalem and Judah will be holy to the LORD of Hosts, and all who sacrifice will come and take some pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.20|<< Zechariah 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.1|Malachi 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

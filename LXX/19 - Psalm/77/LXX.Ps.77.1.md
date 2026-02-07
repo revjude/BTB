@@ -6,10 +6,7 @@ To the director; for Jeduthun; a psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 With my voice I cried out to \[the\] <span class="smallcaps">lord</span>; my voice to  God; and he heeded me. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, to Jeduthun, A Psalm of Asaph. I cried unto God with my voice, [even] unto God with my voice; and he gave ear unto me.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. According to Jeduthun. A Psalm of Asaph. I cried out to God; I cried aloud to God to hear me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.12|<< Psalm 76:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.2|Psalm 77:2 >>]]</td></tr></table>
 
 | Translation | Greek |

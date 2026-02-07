@@ -1,10 +1,7 @@
 **LXX Ruth 4:9** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said to the elders, and to all the people, You \[are\] witnesses today that I have acquired all the \[things\]  of Elimelech, and all as much as exists to  Chilion and  Mahlon, from \[the\] hand of Naomi. 
-<small><sub>**KJV:**</sub></small>
-And Boaz said unto the elders, and [unto] all the people, Ye [are] witnesses this day, that I have bought all that [was] Elimelech’s, and all that [was] Chilion’s and Mahlon’s, of the hand of Naomi.
-<small><sub>**BSB:**</sub></small>
-At this, Boaz said to the elders and all the people, “You are witnesses today that I am buying from Naomi all that belonged to Elimelech, Chilion, and Mahlon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.8|<< Ruth 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.10|Ruth 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

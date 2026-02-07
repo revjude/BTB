@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall say, Because they abandoned the covenant of \[the\] <span class="smallcaps">lord</span>  their God, and did obeisance to strange gods, and they served to them. 
-<small><sub>**KJV:**</sub></small>
-Then they shall answer, Because they have forsaken the covenant of the LORD their God, and worshipped other gods, and served them.
-<small><sub>**BSB:**</sub></small>
-Then people will reply, ‘Because they have forsaken the covenant of the LORD their God and have worshiped and served other gods.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.8|<< Jeremiah 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.10|Jeremiah 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

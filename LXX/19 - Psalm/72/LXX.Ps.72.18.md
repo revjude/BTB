@@ -1,10 +1,7 @@
 **LXX Psalm 72:18** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God  of Israel, the one doing wonders alone. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD God, the God of Israel, who only doeth wondrous things.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD God, the God of Israel, who alone does marvelous deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.17|<< Psalm 72:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.19|Psalm 72:19 >>]]</td></tr></table>
 
 | Translation | Greek |

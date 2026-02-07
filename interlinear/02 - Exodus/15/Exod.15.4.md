@@ -1,4 +1,4 @@
-**Exodus 15:4** 
+**Exodus 15:4**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh’s chariots and army He has cast into the sea; the finest of his office
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.3|<< Exodus 15:3]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.5|Exodus 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] chariots of  |**<big>&#8207;[[H4818\|מַרְכְּבֹ֥ת]]&#8207; </big>**| mar.ke.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֛ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 26:17** 
 <small><sub>**LXX:**</sub></small>
 And I will set  my face against you, and you shall fall before  your enemies; and the ones detesting you shall pursue you, and you shall flee \[with\] no one pursuing you. 
-<small><sub>**KJV:**</sub></small>
-And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.
-<small><sub>**BSB:**</sub></small>
-And I will set My face against you, so that you will be defeated by your enemies. Those who hate you will rule over you, and you will flee when no one pursues you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.16|<< Leviticus 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.18|Leviticus 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

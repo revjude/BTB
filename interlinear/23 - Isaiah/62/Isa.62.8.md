@@ -1,4 +1,4 @@
-**Isaiah 62:8** 
+**Isaiah 62:8**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn [to be] meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has sworn by His right hand and by His mighty arm: “Never again will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.7|<< Isaiah 62:7]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.9|Isaiah 62:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he swears an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּ֧ע]]&#8207; </big>**| nish.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

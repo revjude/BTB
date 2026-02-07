@@ -1,4 +1,4 @@
-**Daniel 9:3** 
+**Daniel 9:3**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I turned my attention to the Lord God to seek Him by prayer and petition, wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.2|<< Daniel 9:2]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.4|Daniel 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I set !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414H\|אֶתְּנָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.te.Na<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

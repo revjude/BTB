@@ -1,4 +1,4 @@
-**Nehemiah 11:25** 
+**Nehemiah 11:25**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the villages, with their fields, [some] of the children of Judah dwelt at Kirjatharba, and [in] the villages thereof, and at Dibon, and [in] the villages thereof, and at Jekabzeel, and [in] the villages thereof,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the villages with their fields, some of the people of Judah lived in Kiri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.24|<< Nehemiah 11:24]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.26|Nehemiah 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the villages  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2691B\|חֲצֵרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.tze.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

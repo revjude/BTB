@@ -1,4 +1,4 @@
-**Psalms 74:15** 
+**Psalms 74:15**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You broke open the fountain and the flood; You dried up the ever-flowing rivers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.14|<< Psalms 74:14]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.16|Psalms 74:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you broke open  |**<big>&#8207;[[H1234\|בָ֭קַעְתָּ]]&#8207; </big>**| Va.ka'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

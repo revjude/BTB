@@ -1,4 +1,4 @@
-**Psalms 73:16** 
+**Psalms 73:16**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I thought to know this, it [was] too painful for me;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I tried to understand all this, it was troublesome in my sight
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.15|<< Psalms 73:15]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.17|Psalms 73:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I thought !  |**<big>&#8207;[[H9001\|וָֽ֭]]&#8207;&#8207;[[H2803J\|אֲחַשְּׁבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> 'a.cha.she.va<small><sup>[[HVpw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to know  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3045\|דַ֣עַת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Da.'at<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

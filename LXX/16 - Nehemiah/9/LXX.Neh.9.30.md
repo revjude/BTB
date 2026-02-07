@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:30** 
 <small><sub>**LXX:**</sub></small>
 And you were long-suffering unto them many years, and drew out \[patience\] unto them many years, and attested to them by your spirit, by \[the\] hand of your prophets. But they did not give ear, and you gave them into \[the\] hand of \[the\] peoples of the land. 
-<small><sub>**KJV:**</sub></small>
-Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.
-<small><sub>**BSB:**</sub></small>
-You were patient with them for many years, and Your Spirit admonished them through Your prophets. Yet they would not listen, so You gave them into the hands of the neighboring peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.29|<< Nehemiah 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.31|Nehemiah 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

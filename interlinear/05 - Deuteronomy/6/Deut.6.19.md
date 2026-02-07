@@ -1,4 +1,4 @@
-**Deuteronomy 6:19** 
+**Deuteronomy 6:19**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To cast out all thine enemies from before thee, as the LORD hath spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ driving out all your enemies before you, as the LORD has said.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.18|<< Deuteronomy 6:18]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.20|Deuteronomy 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to drive out  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1920\|הֲדֹ֥ף]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.Dof<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

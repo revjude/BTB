@@ -1,4 +1,4 @@
-**Numbers 28:17** 
+**Numbers 28:17**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifteenth day of this month [is] the feast: seven days shall unleavened bread be eaten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fifteenth day of this month, there shall be a feast; for seven days unlea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.16|<< Numbers 28:16]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.18|Numbers 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [will be] on [the] fif-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עָשָׂ֥ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

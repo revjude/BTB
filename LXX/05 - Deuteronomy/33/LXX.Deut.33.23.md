@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:23** 
 <small><sub>**LXX:**</sub></small>
 And  to Naphtali he said, Naphtali a fullness of acceptable \[things\]; and let him be filled with blessing from \[the\] <span class="smallcaps">lord</span>! You shall inherit \[the\] west and \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the LORD: possess thou the west and the south.
-<small><sub>**BSB:**</sub></small>
-Concerning Naphtali he said: “Naphtali is abounding with favor, full of the blessing of the LORD; he shall take possession of the sea and the south.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.22|<< Deuteronomy 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.24|Deuteronomy 33:24 >>]]</td></tr></table>
 
 | Translation | Greek |

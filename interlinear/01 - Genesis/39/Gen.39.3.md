@@ -1,4 +1,4 @@
-**Genesis 39:3** 
+**Genesis 39:3**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his master saw that the LORD [was] with him, and that the LORD made all that he did to prosper in his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When his master saw that the LORD was with him and made him prosper in all he di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.2|<< Genesis 39:2]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.4|Genesis 39:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | master\<s> his  |**<big>&#8207;[[H0113\|אֲדֹנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

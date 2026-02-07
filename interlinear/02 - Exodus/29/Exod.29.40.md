@@ -1,4 +1,4 @@
-**Exodus 29:40** 
+**Exodus 29:40**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with the one lamb a tenth deal of flour mingled with the fourth part of an hin of beaten oil; and the fourth part of an hin of wine [for] a drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With the first lamb offer a tenth of an ephah of fine flour, mixed with a quarte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.39|<< Exodus 29:39]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.41|Exodus 29:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a tenth of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6241\|עִשָּׂרֹ֨ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.sa.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fine flour  |**<big>&#8207;[[H5560\|סֹ֜לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

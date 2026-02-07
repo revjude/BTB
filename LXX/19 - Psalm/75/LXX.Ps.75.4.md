@@ -1,10 +1,7 @@
 **LXX Psalm 75:4** 
 <small><sub>**LXX:**</sub></small>
 I said to the ones acting unlawfully, Do not act unlawfully! And to the sinners, Do not exalt \[the\] horn! 
-<small><sub>**KJV:**</sub></small>
-I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:
-<small><sub>**BSB:**</sub></small>
-I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up your horn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.75.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.3|<< Psalm 75:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.5|Psalm 75:5 >>]]</td></tr></table>
 
 | Translation | Greek |

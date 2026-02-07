@@ -1,12 +1,12 @@
-**Matthew 25:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:32**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth [his] sheep from the goats:
 <small><sub>**BSB:**</sub></small>
 All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats.
 <small><sub>**Literal:**</sub></small>
 And they will be gathered before Him all the nations, and He will separate them from one another as the shepherd separates the sheep from the goats,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.31|<< Matthew 25:31]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.33|Matthew 25:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will be gathered [^1] |**<big>[[G4863\|συναχθήσονται]]</big>**  |sunachthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

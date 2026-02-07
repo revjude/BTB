@@ -1,4 +1,4 @@
-**Psalms 73:5** 
+**Psalms 73:5**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] not in trouble [as other] men; neither are they plagued like [other] men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are free of the burdens others carry; they are not afflicted like other men
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.4|<< Psalms 73:4]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.6|Psalms 73:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] in [the] trouble of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5999\|עֲמַ֣ל]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Mal<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0582\|אֱנ֣וֹשׁ]]&#8207; </big>**| 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

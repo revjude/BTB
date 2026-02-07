@@ -1,4 +1,4 @@
-**Leviticus 19:26** 
+**Leviticus 19:26**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not eat [any thing] with the blood: neither shall ye use enchantment, nor observe times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not eat anything with blood still in it. You must not practice divinati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.25|<< Leviticus 19:25]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.27|Leviticus 19:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must eat  |**<big>&#8207;[[H0398\|תֹאכְל֖וּ]]&#8207; </big>**| to.khe.Lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

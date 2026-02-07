@@ -1,4 +1,4 @@
-**Job 39:28** 
+**Job 39:28**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He dwells on a cliff and lodges there; his stronghold is on a rocky crag.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.27|<< Job 39:27]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.29|Job 39:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a rock  |**<big>&#8207;[[H5553H\|סֶ֣לַע]]&#8207; </big>**| Se.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it dwells  |**<big>&#8207;[[H7931\|יִ֭שְׁכֹּן]]&#8207; </big>**| Yish.kon<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

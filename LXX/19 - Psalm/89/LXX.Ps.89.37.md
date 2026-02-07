@@ -1,10 +1,7 @@
 **LXX Psalm 89:37** 
 <small><sub>**LXX:**</sub></small>
 and as the moon being readied into the eon, and the trustworthy witness in heaven. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-It shall be established for ever as the moon, and [as] a faithful witness in heaven. Selah.
-<small><sub>**BSB:**</sub></small>
-like the moon, established forever, a faithful witness in the sky.” Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.36|<< Psalm 89:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.38|Psalm 89:38 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 89:37** is...

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:6** 
 <small><sub>**LXX:**</sub></small>
 And her rival provoked her to anger, and even a provocation to anger because of the treating her with contempt, for \[the\] <span class="smallcaps">lord</span> closed up the \[matters\] concerning  her womb  to not give to her a child. 
-<small><sub>**KJV:**</sub></small>
-And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb.
-<small><sub>**BSB:**</sub></small>
-Because the LORD had closed Hannah’s womb, her rival would provoke her viciously to taunt her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.5|<< 1 Samuel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.7|1 Samuel 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

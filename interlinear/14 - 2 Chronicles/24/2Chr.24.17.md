@@ -1,4 +1,4 @@
-**2 Chronicles 24:17** 
+**2 Chronicles 24:17**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now after the death of Jehoiada came the princes of Judah, and made obeisance to the king. Then the king hearkened unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the death of Jehoiada, however, the officials of Judah came and paid homag
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.16|<< 2 Chronicles 24:16]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.18|2 Chronicles 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַֽחֲרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] death of  |**<big>&#8207;[[H4194\|מוֹת֙]]&#8207; </big>**| mOt<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

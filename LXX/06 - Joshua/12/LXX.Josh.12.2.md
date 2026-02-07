@@ -1,10 +1,7 @@
 **LXX Joshua 12:2** 
 <small><sub>**LXX:**</sub></small>
  Sihon the king of the Amorites, who dwelt in Heshbon, dominating from Aroer, which is by the river bank in the ravine of Arnon, in \[the\] midst of the ravine, and the half  of Gilead, unto Jabbok the rushing stream, \[the\] borders of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Sihon king of the Amorites, who dwelt in Heshbon, [and] ruled from Aroer, which [is] upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, [which is] the border of the children of Ammon;
-<small><sub>**BSB:**</sub></small>
-Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.1|<< Joshua 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.3|Joshua 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

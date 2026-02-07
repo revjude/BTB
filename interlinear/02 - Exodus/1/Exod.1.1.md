@@ -1,4 +1,4 @@
-**Exodus 1:1** 
+**Exodus 1:1**<big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of the sons of Israel who went to Egypt with Jacob, each wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.26|<< Genesis 50:26]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.2|Exodus 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמוֹת֙]]&#8207; </big>**| she.mOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

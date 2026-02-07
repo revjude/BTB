@@ -1,10 +1,7 @@
 **LXX Psalm 9:13** 
 <small><sub>**LXX:**</sub></small>
 Show mercy on me, O <span class="smallcaps">lord</span>! Behold  my humiliation from  my enemies! O one raising me from the gates  of death. 
-<small><sub>**KJV:**</sub></small>
-Have mercy upon me, O LORD; consider my trouble [which I suffer] of them that hate me, thou that liftest me up from the gates of death:
-<small><sub>**BSB:**</sub></small>
-Be merciful to me, O LORD; see how my enemies afflict me! Lift me up from the gates of death,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.12|<< Psalm 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.14|Psalm 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

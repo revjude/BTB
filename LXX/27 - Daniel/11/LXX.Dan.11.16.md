@@ -1,10 +1,7 @@
 **LXX Daniel 11:16** 
 <small><sub>**LXX:**</sub></small>
 And the one entering shall do to him according to  his will, and there is not one standing against his face. And he shall stand in the land  of glory, and it shall be finished off entirely by  his hand. 
-<small><sub>**KJV:**</sub></small>
-But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.
-<small><sub>**BSB:**</sub></small>
-The invader will do as he pleases, and no one will stand against him. He will establish himself in the Beautiful Land, with destruction in his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.15|<< Daniel 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.17|Daniel 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

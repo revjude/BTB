@@ -1,4 +1,4 @@
-**2 Chronicles 35:24** 
+**2 Chronicles 35:24**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in [one of] the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So his servants took him out of his chariot, put him in his second chariot, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.23|<< 2 Chronicles 35:23]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.25|2 Chronicles 35:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took away him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674C\|יַּֽעֲבִירֻ֨]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.vi.Ru.<small><sup>[[HVhw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

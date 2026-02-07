@@ -1,10 +1,7 @@
 **LXX Psalm 32:10** 
 <small><sub>**LXX:**</sub></small>
 Many \[are\] the whips for the sinner; but mercy shall encircle the one hoping upon \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.
-<small><sub>**BSB:**</sub></small>
-Many are the sorrows of the wicked, but loving devotion surrounds him who trusts in the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.9|<< Psalm 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.11|Psalm 32:11 >>]]</td></tr></table>
 
 | Translation | Greek |

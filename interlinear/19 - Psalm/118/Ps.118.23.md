@@ -1,4 +1,4 @@
-**Psalms 118:23** 
+**Psalms 118:23**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This is the LORD’S doing; it [is] marvellous in our eyes.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is from the LORD, and it is marvelous in our eyes.
 > $\quad$ referenced by: [[Matt.21.42|Matt 21:42]] ☩ [[Mark.12.10|Mark 12:10-11]] ☩ [[Luke.20.17|Luke 20:17]] ☩ [[Acts.4.11|Acts 4:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֣ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

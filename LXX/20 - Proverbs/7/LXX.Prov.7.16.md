@@ -1,10 +1,7 @@
 **LXX Proverbs 7:16** 
 <small><sub>**LXX:**</sub></small>
 In trimming, I have stretched  my bed. I spread spreads  from Egypt. 
-<small><sub>**KJV:**</sub></small>
-I have decked my bed with coverings of tapestry, with carved [works], with fine linen of Egypt.
-<small><sub>**BSB:**</sub></small>
-I have decked my bed with coverings, with colored linen from Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.15|<< Proverbs 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.17|Proverbs 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

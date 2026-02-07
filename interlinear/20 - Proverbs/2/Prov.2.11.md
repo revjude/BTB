@@ -1,4 +1,4 @@
-**Proverbs 2:11** 
+**Proverbs 2:11**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Discretion shall preserve thee, understanding shall keep thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Discretion will watch over you, and understanding will guard you,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.10|<< Proverbs 2:10]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.12|Proverbs 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | discretion  |**<big>&#8207;[[H4209\|מְ֭זִמָּה]]&#8207; </big>**| Me.zi.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will watch  |**<big>&#8207;[[H8104H\|תִּשְׁמֹ֥ר]]&#8207; </big>**| tish.Mor<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

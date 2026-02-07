@@ -1,4 +1,4 @@
-**Psalms 45:7** (45:8)
+**Psalms 45:7**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You have loved righteousness and hated wickedness; therefore God, your God, has 
 > $\quad$ referenced by: [[Heb.1.8|Heb 1:8-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have loved  |**<big>&#8207;[[H0157G\|אָהַ֣בְתָּ]]&#8207; </big>**| 'a.Hav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶּדֶק֮]]&#8207; </big>**| tze.Dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

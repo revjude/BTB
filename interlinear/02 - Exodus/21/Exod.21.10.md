@@ -1,4 +1,4 @@
-**Exodus 21:10** 
+**Exodus 21:10**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he take him another [wife]; her food, her raiment, and her duty of marriage, shall he not diminish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he takes another wife, he must not reduce the food, clothing, or marital righ
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.9|<< Exodus 21:9]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.11|Exodus 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | another [woman]  |**<big>&#8207;[[H0312\|אַחֶ֖רֶת]]&#8207; </big>**| 'a.Che.ret<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

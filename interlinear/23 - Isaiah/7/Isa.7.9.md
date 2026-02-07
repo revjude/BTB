@@ -1,4 +1,4 @@
-**Isaiah 7:9** 
+**Isaiah 7:9**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the head of Ephraim [is] Samaria, and the head of Samaria [is] Remaliah’s son. If ye will not believe, surely ye shall not be established.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.8|<< Isaiah 7:8]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.10|Isaiah 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [is] [the] head of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218H\|רֹ֤אשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

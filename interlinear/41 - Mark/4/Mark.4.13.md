@@ -1,12 +1,12 @@
-**Mark 4:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:13**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Know ye not this parable? and how then will ye know all parables?
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?
 <small><sub>**Literal:**</sub></small>
 And He says to them; Not understand you <the> parable this? And how all the parables will you understand?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.12|<< Mark 4:12]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.14|Mark 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

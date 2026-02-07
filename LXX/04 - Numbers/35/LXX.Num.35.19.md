@@ -1,10 +1,7 @@
 **LXX Numbers 35:19** 
 <small><sub>**LXX:**</sub></small>
 The one acting as next of kin  for blood, this one shall kill the one man-slaying; whenever he meets him, this one shall kill him. 
-<small><sub>**KJV:**</sub></small>
-The revenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him.
-<small><sub>**BSB:**</sub></small>
-The avenger of blood is to put the murderer to death; when he finds him, he is to kill him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.18|<< Numbers 35:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.20|Numbers 35:20 >>]]</td></tr></table>
 
 | Translation | Greek |

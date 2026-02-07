@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses in the wilderness of Sinai, in the second year of their coming forth from out of \[the\] land of Egypt, in the first month, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
-<small><sub>**BSB:**</sub></small>
-In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.26|<< Numbers 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.2|Numbers 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

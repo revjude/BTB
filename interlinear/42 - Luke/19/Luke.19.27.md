@@ -1,12 +1,12 @@
-**Luke 19:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:27**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But those mine enemies, which would not that I should reign over them, bring hither, and slay [them] before me.
 <small><sub>**BSB:**</sub></small>
 And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”
 <small><sub>**Literal:**</sub></small>
 Furthermore the enemies of mine these those not having been willing [for] me to reign over them do bring here and do slay them before me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.26|<< Luke 19:26]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.28|Luke 19:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Furthermore |**<big>[[G4133\|Πλὴν]]</big>**  |Plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

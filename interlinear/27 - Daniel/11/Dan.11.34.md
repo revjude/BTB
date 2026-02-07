@@ -1,4 +1,4 @@
-**Daniel 11:34** 
+**Daniel 11:34**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when they fall, they will be granted a little help, but many will join them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.33|<< Daniel 11:33]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.35|Daniel 11:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when stumble they  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3782\|הִכָּ֣שְׁלָ֔]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> v.<small><sup>[[HR]]</sup></small> hi.Ka.she.La<small><sup>[[HVNcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be helped  |**<big>&#8207;[[H5826\|יֵעָזְר֖וּ]]&#8207; </big>**| ye.'a.ze.Ru<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 12:10** 
+**Daniel 12:10**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many will be purified, made spotless, and refined, but the wicked will continue 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.9|<< Daniel 12:9]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.11|Daniel 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will purge themselves  |**<big>&#8207;[[H1305\|יִ֠תְבָּֽרֲרוּ]]&#8207; </big>**| Yit.ba.ra.ru<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may purify themselves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3835A\|יִֽתְלַבְּנ֤וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.la.be.Nu<small><sup>[[HVtu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

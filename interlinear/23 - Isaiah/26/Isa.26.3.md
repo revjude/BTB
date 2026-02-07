@@ -1,4 +1,4 @@
-**Isaiah 26:3** 
+**Isaiah 26:3**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]: because he trusteth in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will keep in perfect peace the steadfast of mind, because he trusts in You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.2|<< Isaiah 26:2]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.4|Isaiah 26:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an inclination  |**<big>&#8207;[[H3336\|יֵ֣צֶר]]&#8207; </big>**| Ye.tzer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | firm  |**<big>&#8207;[[H5564\|סָמ֔וּךְ]]&#8207; </big>**| sa.Mukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

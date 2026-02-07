@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:22** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon answered and said \[to\] his mother, And why are you asking  Abishag \[for\] Adonijah? Then ask for him the kingdom, for this one  \[is\] my older brother over me, and with him \[are\] Abiathar the priest, and with him Joab son of Zeruiah commander-in-chief -- \[his\] companion. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he [is] mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah.
-<small><sub>**BSB:**</sub></small>
-King Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? Since he is my older brother, you might as well request the kingdom for him and for Abiathar the priest and for Joab son of Zeruiah!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.21|<< 1 Kings 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.23|1 Kings 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

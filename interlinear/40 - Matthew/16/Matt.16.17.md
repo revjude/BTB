@@ -1,12 +1,12 @@
-**Matthew 16:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:17**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed [it] unto thee, but my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Blessed are you, Simon son of Jonah! For this was not revealed to you by flesh and blood, but by My Father in heaven.
 <small><sub>**Literal:**</sub></small>
 and Answering now <the> Jesus said to him; Blessed are you, Simon Barjona! For flesh and blood not revealed [it] to you but the Father of Mine who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.16|<< Matthew 16:16]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.18|Matthew 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

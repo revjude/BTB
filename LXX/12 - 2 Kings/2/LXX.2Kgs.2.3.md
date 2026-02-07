@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the prophets in Bethel came to Elisha, and they said to him, Do you know that \[the\] <span class="smallcaps">lord</span> today takes  your master above  your head? And he said, Indeed even I knew, keep silent! 
-<small><sub>**KJV:**</sub></small>
-And the sons of the prophets that [were] at Bethel came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know [it]; hold ye your peace.
-<small><sub>**BSB:**</sub></small>
-Then the sons of the prophets at Bethel came out to Elisha and said, “Do you know that the LORD will take your master away from you today?” “Yes, I know,” he replied. “Do not speak of it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.2|<< 2 Kings 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.4|2 Kings 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

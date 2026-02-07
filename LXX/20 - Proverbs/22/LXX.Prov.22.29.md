@@ -1,10 +1,7 @@
 **LXX Proverbs 22:29** 
 <small><sub>**LXX:**</sub></small>
 An observant man, and one sharp in  his works must stand beside kings, and should not stand beside dull men. 
-<small><sub>**KJV:**</sub></small>
-Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean [men].
-<small><sub>**BSB:**</sub></small>
-Do you see a man skilled in his work? He will be stationed in the presence of kings; he will not stand before obscure men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.28|<< Proverbs 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.1|Proverbs 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

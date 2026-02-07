@@ -1,10 +1,7 @@
 **LXX Numbers 15:24** 
 <small><sub>**LXX:**</sub></small>
 that it shall be if from \[the\] eyes of the congregation it should happen unintentionally, then all the congregation shall offer one calf from \[the\] oxen, unblemished, for a whole burnt-offering, for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>, and this sacrifice \[offering\], and its libation, according to  its arrangement, and one winter yearling from out of \[the\] goats for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Then it shall be, if [ought] be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.
-<small><sub>**BSB:**</sub></small>
-and if it was done unintentionally without the knowledge of the congregation, then the whole congregation is to prepare one young bull as a burnt offering, a pleasing aroma to the LORD, with its grain offering and drink offering according to the regulation, and one male goat as a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.23|<< Numbers 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.25|Numbers 15:25 >>]]</td></tr></table>
 
 | Translation | Greek |

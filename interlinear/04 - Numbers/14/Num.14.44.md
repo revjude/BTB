@@ -1,4 +1,4 @@
-**Numbers 14:44** 
+**Numbers 14:44**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they dared to go up to the ridge of the hill country, though neither Moses n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.43|<< Numbers 14:43]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.45|Numbers 14:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they presumed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6075B\|יַּעְפִּ֕לוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya'.Pi.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to go up  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5927G\|עֲל֖וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

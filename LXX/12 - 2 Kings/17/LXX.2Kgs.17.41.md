@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:41** 
 <small><sub>**LXX:**</sub></small>
 And these nations were fearing the <span class="smallcaps">lord</span>, and they served \[to\] their carvings; even indeed  their sons, and the sons  of their sons -- they do as did their fathers unto  this day. 
-<small><sub>**KJV:**</sub></small>
-So these nations feared the LORD, and served their graven images, both their children, and their children’s children: as did their fathers, so do they unto this day.
-<small><sub>**BSB:**</sub></small>
-So these nations worshiped the LORD but also served their idols, and to this day their children and grandchildren continue to do as their fathers did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.40|<< 2 Kings 17:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.1|2 Kings 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

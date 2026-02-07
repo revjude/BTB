@@ -1,12 +1,12 @@
-**Romans 14:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:21**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [It is] good neither to eat flesh, nor to drink wine, nor [any thing] whereby thy brother stumbleth, or is offended, or is made weak.
 <small><sub>**BSB:**</sub></small>
 It is better not to eat meat or drink wine or to do anything to cause your brother to stumble.
 <small><sub>**Literal:**</sub></small>
 [It is] good <the> neither to eat meat nor to drink wine nor [anything] in which the brother of you stumbles or is led into sin or is weak<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.20|<< Romans 14:20]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.22|Romans 14:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] good |**<big>[[G2570G\|καλὸν]]</big>**  |kalon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

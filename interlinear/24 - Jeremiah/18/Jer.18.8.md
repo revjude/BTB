@@ -1,4 +1,4 @@
-**Jeremiah 18:8** 
+**Jeremiah 18:8**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if that nation I warned turns from its evil, then I will relent of the disas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will turn away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725I\|שָׁב֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the nation  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּ֣וֹי]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

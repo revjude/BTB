@@ -1,10 +1,7 @@
 **LXX Genesis 26:28** 
 <small><sub>**LXX:**</sub></small>
 And they said, Seeing, we have seen that \[the\] <span class="smallcaps">lord</span> was with you. And we said, Let there become an oath between us and between you! And we will ordain with you a covenant. 
-<small><sub>**KJV:**</sub></small>
-And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, [even] betwixt us and thee, and let us make a covenant with thee;
-<small><sub>**BSB:**</sub></small>
-“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.27|<< Genesis 26:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.29|Genesis 26:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 41:13** 
 <small><sub>**LXX:**</sub></small>
 For I \[am\]  your God, the one holding  your right \[hand\], the one saying to you, 
-<small><sub>**KJV:**</sub></small>
-For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.
-<small><sub>**BSB:**</sub></small>
-For I am the LORD your God, who takes hold of your right hand and tells you: Do not fear, I will help you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.12|<< Isaiah 41:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.14|Isaiah 41:14 >>]]</td></tr></table>
 
 | Translation | Greek |

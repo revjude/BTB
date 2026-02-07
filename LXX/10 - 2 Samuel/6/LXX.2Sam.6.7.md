@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was enraged in anger with  Uzzah; and God struck him there for the rashness; and he died there by the ark  of \[the\] <span class="smallcaps">lord</span> before  God. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was kindled against Uzzah; and God smote him there for [his] error; and there he died by the ark of God.
-<small><sub>**BSB:**</sub></small>
-And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence, and he died there beside the ark of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.6|<< 2 Samuel 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.8|2 Samuel 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

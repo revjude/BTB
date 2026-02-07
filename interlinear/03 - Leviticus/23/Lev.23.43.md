@@ -1,4 +1,4 @@
-**Leviticus 23:43** 
+**Leviticus 23:43**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that your descendants may know that I made the Israelites dwell in booths whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.42|<< Leviticus 23:42]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.44|Leviticus 23:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַעַן֮]]&#8207; </big>**| le.ma.'An<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<they> may know  |**<big>&#8207;[[H3045\|יֵדְע֣וּ]]&#8207; </big>**| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

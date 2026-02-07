@@ -1,4 +1,4 @@
-**Genesis 24:51** 
+**Genesis 24:51**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, Rebekah [is] before thee, take [her], and go, and let her be thy master’s son’s wife, as the LORD hath spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rebekah is here before you. Take her and go, and let her become the wife of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.50|<< Genesis 24:50]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.52|Genesis 24:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rebekah  |**<big>&#8207;[[H7259\|רִבְקָ֥ה]]&#8207; </big>**| riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

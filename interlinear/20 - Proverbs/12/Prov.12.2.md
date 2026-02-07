@@ -1,4 +1,4 @@
-**Proverbs 12:2** 
+**Proverbs 12:2**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A good [man] obtaineth favour of the LORD: but a man of wicked devices will he condemn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The good man obtains favor from the LORD, but the LORD condemns a man who devise
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.1|<< Proverbs 12:1]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.3|Proverbs 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a good [person]  |**<big>&#8207;[[H2896A\|ט֗וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he obtains  |**<big>&#8207;[[H6329\|יָפִ֣יק]]&#8207; </big>**| ya.Fik<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

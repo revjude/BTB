@@ -1,10 +1,7 @@
 **LXX Genesis 38:27** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when she was bearing, that thus there were twins in  her womb. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the time of her travail, that, behold, twins [were] in her womb.
-<small><sub>**BSB:**</sub></small>
-When the time came for Tamar to give birth, there were twins in her womb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.26|<< Genesis 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.28|Genesis 38:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, You have seen well; for I am vigilant over  my words  to do them. 
-<small><sub>**KJV:**</sub></small>
-Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it.
-<small><sub>**BSB:**</sub></small>
-“You have observed correctly,” said the LORD, “for I am watching over My word to accomplish it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.11|<< Jeremiah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.13|Jeremiah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jonah 1:10** 
 <small><sub>**LXX:**</sub></small>
 And the men feared a great fear, and they said to him, What is this you did? (because the men knew that he was fleeing from \[the\] face \[of the\] <span class="smallcaps">lord</span>, for he reported \[it\] to them.) 
-<small><sub>**KJV:**</sub></small>
-Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.
-<small><sub>**BSB:**</sub></small>
-Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.9|<< Jonah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.11|Jonah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

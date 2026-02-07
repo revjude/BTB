@@ -1,4 +1,4 @@
-**Psalms 11:4** 
+**Psalms 11:4**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] in his holy temple, the LORD’S throne [is] in heaven: his eyes behold, his eyelids try, the children of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is in His holy temple; the LORD is on His heavenly throne. His eyes are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.3|<< Psalms 11:3]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.5|Psalms 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] temple of  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H1964G\|הֵ֘יכַ֤ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Hei.Khal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

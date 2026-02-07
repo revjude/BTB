@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:26** 
 <small><sub>**LXX:**</sub></small>
 And you stood with  your broadswords, you did loathsome things, and each tainted the wife of his neighbor -- then shall you inherit the land? 
-<small><sub>**KJV:**</sub></small>
-Ye stand upon your sword, ye work abomination, and ye defile every one his neighbour’s wife: and shall ye possess the land?
-<small><sub>**BSB:**</sub></small>
-You have relied on your swords, you have committed detestable acts, and each of you has defiled his neighbor’s wife. Should you then possess the land?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.25|<< Ezekiel 33:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.27|Ezekiel 33:27 >>]]</td></tr></table>
 
 | Translation | Greek |

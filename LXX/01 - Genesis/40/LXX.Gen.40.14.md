@@ -1,10 +1,7 @@
 **LXX Genesis 40:14** 
 <small><sub>**LXX:**</sub></small>
 But remember me of yourself, whenever good happens to you, and you shall do with me \[an act of\] mercy. And you shall remind Pharaoh concerning me, and lead me from  this fortress. 
-<small><sub>**KJV:**</sub></small>
-But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
-<small><sub>**BSB:**</sub></small>
-But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.13|<< Genesis 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.15|Genesis 40:15 >>]]</td></tr></table>
 
 | Translation | Greek |

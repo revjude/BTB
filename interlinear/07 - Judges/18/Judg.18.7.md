@@ -1,4 +1,4 @@
-**Judges 18:7** 
+**Judges 18:7**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the five men departed, and came to Laish, and saw the people that [were] therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and [there was] no magistrate in the land, that might put [them] to shame in [any] thing; and they [were] far from the Zidonians, and had no business with [any] man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the five men departed and came to Laish, where they saw that the people were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.6|<< Judges 18:6]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.8|Judges 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] five  |**<big>&#8207;[[H2568\|חֲמֵ֣שֶׁת]]&#8207; </big>**| cha.Me.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

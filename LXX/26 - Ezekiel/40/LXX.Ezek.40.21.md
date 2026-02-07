@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:21** 
 <small><sub>**LXX:**</sub></small>
 and the vestibule -- three on this side and three on that side; and the portal, and the pediments, and  its palms. And it was according to the measures of the gate  looking according to \[the\] east; its length \[was\] fifty cubits, and its breadth twenty-five cubits. 
-<small><sub>**KJV:**</sub></small>
-And the little chambers thereof [were] three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof [was] fifty cubits, and the breadth five and twenty cubits.
-<small><sub>**BSB:**</sub></small>
-Its three gate chambers on each side, its side pillars, and its portico all had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.20|<< Ezekiel 40:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.22|Ezekiel 40:22 >>]]</td></tr></table>
 
 | Translation | Greek |

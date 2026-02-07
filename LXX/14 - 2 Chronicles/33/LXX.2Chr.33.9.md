@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:9** 
 <small><sub>**LXX:**</sub></small>
 And Manasseh misled  Judah and the ones dwelling in Jerusalem,  to act  wickedly above all the nations which \[the\] <span class="smallcaps">lord</span> removed from in front of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-So Manasseh made Judah and the inhabitants of Jerusalem to err, [and] to do worse than the heathen, whom the LORD had destroyed before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-So Manasseh led the people of Judah and Jerusalem astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.8|<< 2 Chronicles 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.10|2 Chronicles 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

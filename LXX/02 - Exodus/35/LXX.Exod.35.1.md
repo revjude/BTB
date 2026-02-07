@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses gathered together all \[the\] congregation of \[the\] sons of Israel. And he said to them, These \[are\] the words which \[the\] <span class="smallcaps">lord</span> told them to do. 
-<small><sub>**KJV:**</sub></small>
-And Moses gathered all the congregation of the children of Israel together, and said unto them, These [are] the words which the LORD hath commanded, that [ye] should do them.
-<small><sub>**BSB:**</sub></small>
-Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.35|<< Exodus 34:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.2|Exodus 35:2 >>]]</td></tr></table>
 
 | Translation | Greek |

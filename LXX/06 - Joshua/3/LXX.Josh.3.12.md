@@ -1,10 +1,7 @@
 **LXX Joshua 3:12** 
 <small><sub>**LXX:**</sub></small>
 And now handpick for yourselves twelve men from the sons of Israel, one from each tribe! 
-<small><sub>**KJV:**</sub></small>
-Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man.
-<small><sub>**BSB:**</sub></small>
-Now choose twelve men from the tribes of Israel, one from each tribe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.11|<< Joshua 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.13|Joshua 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

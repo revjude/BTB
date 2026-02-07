@@ -1,4 +1,4 @@
-**1 Chronicles 3:3** 
+**1 Chronicles 3:3**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the fifth was Shephatiah by Abital; and the sixth was Ithream by his wife Eglah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.2|<< 1 Chronicles 3:2]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.4|1 Chronicles 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִׁ֥י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shephatiah  |**<big>&#8207;[[H8203G\|שְׁפַטְיָ֖ה]]&#8207; </big>**| she.fat.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

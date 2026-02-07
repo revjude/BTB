@@ -1,10 +1,7 @@
 **LXX Psalm 10:3** 
 <small><sub>**LXX:**</sub></small>
 For the sinner applauds in the desires  of his soul; and the one doing wrong blesses \[himself\]. 
-<small><sub>**KJV:**</sub></small>
-For the wicked boasteth of his heart’s desire, and blesseth the covetous, [whom] the LORD abhorreth.
-<small><sub>**BSB:**</sub></small>
-For the wicked man boasts in the cravings of his heart; he blesses the greedy and reviles the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.2|<< Psalm 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.4|Psalm 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

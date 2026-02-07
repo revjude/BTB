@@ -1,10 +1,7 @@
 **LXX Psalm 50:19** 
 <small><sub>**LXX:**</sub></small>
  Your mouth abounded \[with\] evil, and  your tongue twisted \[with\] deceits. 
-<small><sub>**KJV:**</sub></small>
-Thou givest thy mouth to evil, and thy tongue frameth deceit.
-<small><sub>**BSB:**</sub></small>
-You unleash your mouth for evil and harness your tongue to deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.18|<< Psalm 50:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.20|Psalm 50:20 >>]]</td></tr></table>
 
 | Translation | Greek |

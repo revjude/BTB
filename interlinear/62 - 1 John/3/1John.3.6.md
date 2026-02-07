@@ -1,12 +1,12 @@
-**1 John 3:6
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:6**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.
 <small><sub>**BSB:**</sub></small>
 No one who remains in Him keeps on sinning. No one who continues to sin has seen Him or known Him.
 <small><sub>**Literal:**</sub></small>
 Anyone <the> in Him abiding not sins; anyone who is sinning not has seen Him nor has he known Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.5|<< 1 John 3:5]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.7|1 John 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Anyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

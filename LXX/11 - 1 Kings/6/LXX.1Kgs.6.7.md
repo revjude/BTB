@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:7** 
 <small><sub>**LXX:**</sub></small>
 And the house in the constructing it was built in whole chiseled stones. And a hammer, and hewing axe, and every item of iron, was not heard in the constructing it. 
-<small><sub>**KJV:**</sub></small>
-And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe [nor] any tool of iron heard in the house, while it was in building.
-<small><sub>**BSB:**</sub></small>
-The temple was constructed using finished stones cut at the quarry, so that no hammer or chisel or any other iron tool was heard in the temple while it was being built.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.6|<< 1 Kings 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.8|1 Kings 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

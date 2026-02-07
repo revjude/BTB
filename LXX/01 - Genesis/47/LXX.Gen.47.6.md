@@ -1,10 +1,7 @@
 **LXX Genesis 47:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, the land of Egypt is before you, in the best land settle  your father and  your brothers. Let them dwell in \[the\] land of Goshen! And if you should have knowledge that there are among them able men, you place them in charge  of my cattle! 
-<small><sub>**KJV:**</sub></small>
-The land of Egypt [is] before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest [any] men of activity among them, then make them rulers over my cattle.
-<small><sub>**BSB:**</sub></small>
-the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.5|<< Genesis 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.7|Genesis 47:7 >>]]</td></tr></table>
 
 | Translation | Greek |

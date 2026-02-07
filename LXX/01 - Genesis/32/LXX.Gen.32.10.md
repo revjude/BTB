@@ -1,10 +1,7 @@
 **LXX Genesis 32:10** 
 <small><sub>**LXX:**</sub></small>
 It is fit to me for all righteousness, and of all truth, of which you did to your servant; for with  this my rod I passed over  this Jordan, and now I exist in two camps. 
-<small><sub>**KJV:**</sub></small>
-I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
-<small><sub>**BSB:**</sub></small>
-I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.9|<< Genesis 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.11|Genesis 32:11 >>]]</td></tr></table>
 
 | Translation | Greek |

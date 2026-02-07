@@ -1,16 +1,16 @@
 (KJV) **Isaiah 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39|<< Isaiah 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41|Isaiah 41 >>]]</td></tr></table>
 
-***Prepare the Way for the LORD***&emsp;<small><sup>\[ [[Matt.3|Matthew 3:1–12]] <big>†</big> [[Mark.1|Mark 1:1–8]] <big>†</big> [[Luke.3|Luke 3:1–20]] <big>†</big> [[John.1|John 1:19–28]] ]</sup></small> ^bsb1646
+<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥃]]</big></big>***Prepare the Way for the LORD***&emsp;<small><sup>\[ [[Matt.3|Matthew 3:1–12]] <big>†</big> [[Mark.1|Mark 1:1–8]] <big>†</big> [[Luke.3|Luke 3:1–20]] <big>†</big> [[John.1|John 1:19–28]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Isa.40.1|1]]**<span class="endversemarker">]</span> Comfort<small><small>[^2]</small></small> ye, comfort ye my people, saith your God. <span class="startversemarker">[</span>**[[Isa.40.2|2]]**<span class="endversemarker">]</span> Speak ye comfortably<small><small>[^3]</small></small> to Jerusalem, and cry unto her, that her warfare<small><small>[^4]</small></small> is accomplished, that her iniquity<small><small>[^5]</small></small> is pardoned: for she hath received of the <span class="smallcaps">Lord’s</span> hand double<small><small>[^6]</small></small> for all her sins. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Isa.40.3|3]]**<span class="endversemarker">]</span> The voice<small><small>[^7]</small></small> of him that crieth in the wilderness, Prepare<small><small>[^8]</small></small> ye the way of the <span class="smallcaps">Lord</span>, make<small><small>[^9]</small></small> straight in the desert a highway for our God. <span class="startversemarker">[</span>**[[Isa.40.4|4]]**<span class="endversemarker">]</span> Every valley<small><small>[^10]</small></small> shall be exalted, and every mountain<small><small>[^11]</small></small> and hill shall be made low: and the<small><small>[^12]</small></small> crooked shall be made straight<small><small>[^13]</small></small>, and the rough places plain<small><small>[^14]</small></small>: <span class="startversemarker">[</span>**[[Isa.40.5|5]]**<span class="endversemarker">]</span> And the glory<small><small>[^15]</small></small> of the <span class="smallcaps">Lord</span> shall be revealed, and all flesh<small><small>[^16]</small></small> shall see \[it\] together: for the mouth<small><small>[^17]</small></small> of the <span class="smallcaps">Lord</span> hath spoken \[it\].
 
-***The Enduring Word***&emsp;<small><sup>\[ [[1Pet.1|1 Peter 1:22–25]] ]</sup></small> ^bsb1647
+<big><big>[[Isa.40.6 The Enduring Word|⥃]]</big></big>***The Enduring Word***&emsp;<small><sup>\[ [[1Pet.1|1 Peter 1:22–25]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Isa.40.6|6]]**<span class="endversemarker">]</span> The voice said, Cry<small><small>[^18]</small></small>. And he said, What shall I cry? All flesh<small><small>[^19]</small></small> \[is\] grass, and all the goodliness thereof \[is\] as the flower of the field: <span class="startversemarker">[</span>**[[Isa.40.7|7]]**<span class="endversemarker">]</span> The grass withereth, the flower fadeth: because the spirit of the <span class="smallcaps">Lord</span> bloweth upon it: surely the people \[is\] grass. <span class="startversemarker">[</span>**[[Isa.40.8|8]]**<span class="endversemarker">]</span> The grass withereth, the flower fadeth: but the word<small><small>[^20]</small></small> of our God shall stand for ever.
 
-***Here Is Your God!***&emsp;<small><sup>\[ [[Rom.11|Romans 11:33–36]] ]</sup></small> ^bsb1648
+<big><big>[[Isa.40.9 Here Is Your God!|⥃]]</big></big>***Here Is Your God!***&emsp;<small><sup>\[ [[Rom.11|Romans 11:33–36]] ]</sup></small>
 
  
 

@@ -1,12 +1,12 @@
-**Revelation 13:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:8**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.
 <small><sub>**Literal:**</sub></small>
 And will worship it all those dwelling on the earth, each of whom not have been written the name of him in the book <the> of life of the Lamb which slain from [the] founding of [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.7|<< Revelation 13:7]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.9|Revelation 13:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will worship |**<big>[[G4352\|προσκυνήσουσιν]]</big>**  |proskunēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

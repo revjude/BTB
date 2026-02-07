@@ -1,4 +1,4 @@
-**Joel 3:11** (4:11)
+**Joel 3:11**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come quickly, all you surrounding nations, and gather yourselves. Bring down You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.10|<< Joel 3:10]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.12|Joel 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hurry  |**<big>&#8207;[[H5789\|ע֣וּשׁוּ]]&#8207; </big>**| 'U.shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and come  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0935G\|בֹ֧אוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Vo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

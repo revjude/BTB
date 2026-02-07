@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:15** 
 <small><sub>**LXX:**</sub></small>
 And all Judah was glad on account of the oath; for from their entire soul they swore by an oath, and with all their volition they sought him; and he was found by them. And \[the\] <span class="smallcaps">lord</span> gave rest to them round about. 
-<small><sub>**KJV:**</sub></small>
-And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about.
-<small><sub>**BSB:**</sub></small>
-And all Judah rejoiced over the oath, for they had sworn it with all their heart. They had sought Him earnestly, and He was found by them. So the LORD gave them rest on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.14|<< 2 Chronicles 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.16|2 Chronicles 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

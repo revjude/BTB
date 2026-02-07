@@ -1,10 +1,7 @@
 **LXX Ezra 8:34** 
 <small><sub>**LXX:**</sub></small>
 By number and by weight  all \[were measured\]; and all the weight was written down at  that time. 
-<small><sub>**KJV:**</sub></small>
-By number [and] by weight of every one: and all the weight was written at that time.
-<small><sub>**BSB:**</sub></small>
-Everything was verified by number and weight, and the total weight was recorded at that time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.33|<< Ezra 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.35|Ezra 8:35 >>]]</td></tr></table>
 
 | Translation | Greek |

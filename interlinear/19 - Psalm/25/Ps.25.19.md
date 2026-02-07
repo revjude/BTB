@@ -1,4 +1,4 @@
-**Psalms 25:19** 
+**Psalms 25:19**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider mine enemies; for they are many; and they hate me with cruel hatred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consider my enemies, for they are many, and they hate me with vicious hatred.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.18|<< Psalms 25:18]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.20|Psalms 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consider  |**<big>&#8207;[[H7200H\|רְאֵֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies my  |**<big>&#8207;[[H0341\|אוֹיְבַ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

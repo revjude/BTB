@@ -1,4 +1,4 @@
-**Proverbs 4:18** 
+**Proverbs 4:18**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the path of the just [is] as the shining light, that shineth more and more unto the perfect day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The path of the righteous is like the first gleam of dawn, shining brighter and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.17|<< Proverbs 4:17]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.19|Proverbs 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] path of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0734\|אֹ֣רַח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

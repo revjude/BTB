@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:28** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever they should not want to take the cup from out of  your hand so as to drink, then you shall say, Thus said \[the\] <span class="smallcaps">lord</span> of the forces, By drinking you shall drink. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the LORD of hosts; Ye shall certainly drink.
-<small><sub>**BSB:**</sub></small>
-If they refuse to take the cup from your hand and drink it, you are to tell them that this is what the LORD of Hosts says: ‘You most certainly must drink it!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.27|<< Jeremiah 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.29|Jeremiah 25:29 >>]]</td></tr></table>
 
 | Translation | Greek |

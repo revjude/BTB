@@ -1,10 +1,7 @@
 **LXX Numbers 32:28** 
 <small><sub>**LXX:**</sub></small>
 And Moses stood together with them, \[with\] Eleazar the priest, and Joshua son of Nun, and the rulers of \[the\] patrimony of the tribes of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
-<small><sub>**BSB:**</sub></small>
-So Moses gave orders about them to Eleazar the priest, to Joshua son of Nun, and to the family leaders of the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.27|<< Numbers 32:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.29|Numbers 32:29 >>]]</td></tr></table>
 
 | Translation | Greek |

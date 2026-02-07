@@ -1,12 +1,12 @@
-**John 16:13
-**<small><sub>**KJV:**</sub></small>
+**John 16:13**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, [that] shall he speak: and he will shew you things to come.
 <small><sub>**BSB:**</sub></small>
 However, when the Spirit of truth comes, He will guide you into all truth. For He will not speak on His own, but He will speak what He hears, and He will declare to you what is to come.
 <small><sub>**Literal:**</sub></small>
 When however may come He, the Spirit <the> of truth, He will guide you into the truth all. not for He will speak from Himself, but as much as maybe He will hear He will speak and the [things] coming He will declare to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.12|<< John 16:12]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.14|John 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

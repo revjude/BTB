@@ -1,4 +1,4 @@
-**Numbers 2:29** 
+**Numbers 2:29**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the tribe of Naphtali: and the captain of the children of Naphtali [shall be] Ahira the son of Enan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next will be the tribe of Naphtali. The leader of the Naphtalites is Ahira son o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.28|<< Numbers 2:28]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.30|Numbers 2:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] tribe of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4294H\|מַטֵּ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֑י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 29:11** 
+**2 Chronicles 29:11**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My sons, be not now negligent: for the LORD hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, my sons, do not be negligent, for the LORD has chosen you to stand before H
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.10|<< 2 Chronicles 29:10]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.12|2 Chronicles 29:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O sons my  |**<big>&#8207;[[H1121A\|בָּנַ֕]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ba.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

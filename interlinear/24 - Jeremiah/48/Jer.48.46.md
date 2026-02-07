@@ -1,4 +1,4 @@
-**Jeremiah 48:46** 
+**Jeremiah 48:46**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you, O Moab! The people of Chemosh have perished; for your sons have been
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.45|<< Jeremiah 48:45]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.47|Jeremiah 48:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0188\|אוֹי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

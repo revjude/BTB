@@ -1,4 +1,4 @@
-**Psalms 49:9** (49:10)
+**Psalms 49:9**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he should still live for ever, [and] not see corruption.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that he should live on forever and not see decay.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.8|<< Psalms 49:8]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.10|Psalms 49:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may live  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H2421\|יחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> chi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

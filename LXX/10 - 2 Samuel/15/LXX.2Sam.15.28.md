@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:28** 
 <small><sub>**LXX:**</sub></small>
 Behold, I wait for you in \[the\] wilderness of the desert until the coming of a word by you  to report to me. 
-<small><sub>**KJV:**</sub></small>
-See, I will tarry in the plain of the wilderness, until there come word from you to certify me.
-<small><sub>**BSB:**</sub></small>
-See, I will wait at the fords of the wilderness until word comes from you to inform me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.27|<< 2 Samuel 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.29|2 Samuel 15:29 >>]]</td></tr></table>
 
 | Translation | Greek |

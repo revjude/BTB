@@ -1,10 +1,7 @@
 **LXX Exodus 32:3** 
 <small><sub>**LXX:**</sub></small>
 And all the people removed the gold ear-rings, the ones in  their ears, and they brought \[them\] to Aaron. 
-<small><sub>**KJV:**</sub></small>
-And all the people brake off the golden earrings which [were] in their ears, and brought [them] unto Aaron.
-<small><sub>**BSB:**</sub></small>
-Then all the people took off their gold earrings and brought them to Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.2|<< Exodus 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.4|Exodus 32:4 >>]]</td></tr></table>
 
 | Translation | Greek |

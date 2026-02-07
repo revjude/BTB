@@ -1,12 +1,12 @@
-**John 20:14
-**<small><sub>**KJV:**</sub></small>
+**John 20:14**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
 <small><sub>**BSB:**</sub></small>
 When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.
 <small><sub>**Literal:**</sub></small>
 and These things having said she turned to the back and she sees <the> Jesus already standing [there] and not knew that <the> Jesus it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.13|<< John 20:13]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.15|John 20:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Daniel 11:19** 
 <small><sub>**LXX:**</sub></small>
 And he shall turn  his face unto the strength  of his land. And he shall weaken, and shall fall, and shall not be found. 
-<small><sub>**KJV:**</sub></small>
-Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.
-<small><sub>**BSB:**</sub></small>
-After this, he will turn back toward the fortresses of his own land, but he will stumble and fall and be no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.18|<< Daniel 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.20|Daniel 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

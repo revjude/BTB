@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:5** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah the prophet said to Hananiah before \[the\] eyes of the priests, and before \[the\] eyes of all of the people  standing in \[the\] house of \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-Then the prophet Jeremiah said unto the prophet Hananiah in the presence of the priests, and in the presence of all the people that stood in the house of the LORD,
-<small><sub>**BSB:**</sub></small>
-Then the prophet Jeremiah replied to the prophet Hananiah in the presence of the priests and all the people who were standing in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.4|<< Jeremiah 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.6|Jeremiah 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

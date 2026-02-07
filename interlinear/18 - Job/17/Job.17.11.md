@@ -1,4 +1,4 @@
-**Job 17:11** 
+**Job 17:11**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My days are past, my purposes are broken off, [even] the thoughts of my heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My days have passed; my plans are broken off—even the desires of my heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.10|<< Job 17:10]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.12|Job 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | days my  |**<big>&#8207;[[H3117G\|יָמַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have passed  |**<big>&#8207;[[H5674A\|עָ֭בְרוּ]]&#8207; </big>**| 'A.ve.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

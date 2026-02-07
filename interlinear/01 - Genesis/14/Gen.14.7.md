@@ -1,4 +1,4 @@
-**Genesis 14:7** 
+**Genesis 14:7**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they returned, and came to Enmishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they turned back to invade En-mishpat (that is, Kadesh), and they conquered
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.6|<< Genesis 14:6]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.8|Genesis 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned back  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7725G\|יָּשֻׁבוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֜אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

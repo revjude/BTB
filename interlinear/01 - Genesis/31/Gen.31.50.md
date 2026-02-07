@@ -1,4 +1,4 @@
-**Genesis 31:50** 
+**Genesis 31:50**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt afflict my daughters, or if thou shalt take [other] wives beside my daughters, no man [is] with us; see, God [is] witness betwixt me and thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you mistreat my daughters or take other wives, although no one is with us, re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.49|<< Genesis 31:49]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.51|Genesis 31:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will mistreat  |**<big>&#8207;[[H6031B\|תְּעַנֶּ֣ה]]&#8207; </big>**| te.'a.Neh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

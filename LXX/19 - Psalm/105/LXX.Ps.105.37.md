@@ -1,10 +1,7 @@
 **LXX Psalm 105:37** 
 <small><sub>**LXX:**</sub></small>
 And he led them out with silver and gold; and there was not \[one\] among  their tribes  being weak. 
-<small><sub>**KJV:**</sub></small>
-He brought them forth also with silver and gold: and [there was] not one feeble [person] among their tribes.
-<small><sub>**BSB:**</sub></small>
-He brought Israel out with silver and gold, and none among His tribes stumbled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.36|<< Psalm 105:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.38|Psalm 105:38 >>]]</td></tr></table>
 
 | Translation | Greek |

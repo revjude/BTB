@@ -1,4 +1,4 @@
-**Deuteronomy 22:22** 
+**Deuteronomy 22:22**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man be found lying with a woman married to an husband, then they shall both of them die, [both] the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man is found lying with another man’s wife, both the man who slept with h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.21|<< Deuteronomy 22:21]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.23|Deuteronomy 22:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be found  |**<big>&#8207;[[H4672\|יִמָּצֵ֨א]]&#8207; </big>**| yi.ma.Tze'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

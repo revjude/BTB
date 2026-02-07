@@ -1,5 +1,5 @@
-**Revelation 21:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:5**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
 <small><sub>**BSB:**</sub></small>
 And the One seated on the throne said, “Behold, I make all things new.” Then He said, “Write this down, for these words are faithful and true.”
@@ -10,7 +10,7 @@ And said the [One] sitting on the throne; Behold new I make all things. And He s
 > $\quad$ alluding to: [[LXX.Isa.43.19|Isa 43:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Corinthians 7:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:5**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Defraud ye not one the other, except [it be] with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 <small><sub>**BSB:**</sub></small>
 Do not deprive each other, except by mutual consent and for a time, so you may devote yourselves to prayer. Then come together again, so that Satan will not tempt you through your lack of self-control.
 <small><sub>**Literal:**</sub></small>
 Not do deprive one another if surely even when by mutual agreement for a time, that you may be devoted <the> to fastings and <the> to prayer and again together the same may be, so that not may tempt you <the> Satan through the lack of self-control of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.4|<< 1 Corinthians 7:4]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.6|1 Corinthians 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do deprive |**<big>[[G0650\|ἀποστερεῖτε]]</big>**  |apostereite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 2:7** 
+**Genesis 2:7**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD God formed man from the dust of the ground and breathed the breath
 > $\quad$ referenced by: [[1Cor.15.45|1Cor 15:45]] ☩ [[1Cor.15.47|1Cor 15:47]] ☩ [[1Tim.2.13|1Tim 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he formed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3335G\|יִּיצֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tzer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

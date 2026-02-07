@@ -1,6 +1,6 @@
 (KJV) **Psalm 59**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58|<< Psalm 58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60|Psalm 60 >>]]</td></tr></table>
 
-***Deliver Me from My Enemies***&emsp;<small><sup>\[ [[1Sam.19|1 Samuel 19:1–24]] ]</sup></small> ^bsb1352
+<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥃]]</big></big>***Deliver Me from My Enemies***&emsp;<small><sup>\[ [[1Sam.19|1 Samuel 19:1–24]] ]</sup></small>
 
 
 

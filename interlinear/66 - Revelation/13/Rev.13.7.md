@@ -1,5 +1,5 @@
-**Revelation 13:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:7**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
 <small><sub>**BSB:**</sub></small>
 Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.
@@ -12,7 +12,7 @@ And there was given to it to make war with the saints and to overcome them And w
 > $\quad$ referencing: [[LXX.Dan.8.24|Dan 8:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there was given |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 9:4** 
 <small><sub>**LXX:**</sub></small>
 For you made  my case and  my cause. You sat upon \[the\] throne -- the one judging righteousness. 
-<small><sub>**KJV:**</sub></small>
-For thou hast maintained my right and my cause; thou satest in the throne judging right.
-<small><sub>**BSB:**</sub></small>
-For You have upheld my just cause; You sit on Your throne judging righteously.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.3|<< Psalm 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.5|Psalm 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

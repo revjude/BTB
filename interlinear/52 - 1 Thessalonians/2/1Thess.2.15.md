@@ -1,12 +1,12 @@
-**1 Thessalonians 2:15
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:15**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:
 <small><sub>**BSB:**</sub></small>
 who killed both the Lord Jesus and their own prophets and drove us out as well. They are displeasing to God and hostile to all men,
 <small><sub>**Literal:**</sub></small>
 who both the Lord having killed Jesus and <the> [their] own prophets and us having driven out and God not pleasing and to all men opposed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.14|<< 1 Thessalonians 2:14]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.16|1 Thessalonians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | both |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

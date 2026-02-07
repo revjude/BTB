@@ -1,4 +1,4 @@
-**Numbers 5:3** 
+**Numbers 5:3**<big><big>[[Num.5.1 Cleansing the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must send away male and female alike; send them outside the camp so they wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.2|<< Numbers 5:2]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.4|Numbers 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from male  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2145\|זָּכָ֤ר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unto  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

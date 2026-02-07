@@ -1,5 +1,5 @@
-**Luke 20:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:43**<big><big>[[Luke.20.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Till I make thine enemies thy footstool.
 <small><sub>**BSB:**</sub></small>
 until I make Your enemies a footstool for Your feet.”’
@@ -10,7 +10,7 @@ until when I may place the enemies of You [as] a footstool of the feet of You.<b
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until |**<big>[[G2193\|ἕως]]</big>**  |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G0302\|ἂν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

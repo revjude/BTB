@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall listen to the voice of \[the\] <span class="smallcaps">lord</span>  your God, and you shall observe all  his commandments, and  his ordinances, which I give charge to you today. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt therefore obey the voice of the LORD thy God, and do his commandments and his statutes, which I command thee this day.
-<small><sub>**BSB:**</sub></small>
-You shall therefore obey the voice of the LORD your God and follow His commandments and statutes I am giving you today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.9|<< Deuteronomy 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.11|Deuteronomy 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

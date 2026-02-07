@@ -1,12 +1,12 @@
-**Mark 1:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:16**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 <small><sub>**BSB:**</sub></small>
 As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen.
 <small><sub>**Literal:**</sub></small>
 And passing now by the Sea <the> of Galilee He saw Simon and Andrew the brother of him <the> of Simon net-casting a net into the sea; they were for fishermen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.15|<< Mark 1:15]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.17|Mark 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | passing [^1] |**<big>[[G3855\|παράγων]]</big>**  |paragōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

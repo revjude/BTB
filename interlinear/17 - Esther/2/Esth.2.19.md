@@ -1,4 +1,4 @@
-**Esther 2:19** 
+**Esther 2:19**<big><big>[[Esth.2.17 Esther Becomes Queen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the virgins were gathered together the second time, then Mordecai sat in the king’s gate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the virgins were assembled a second time, Mordecai was sitting at the king�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.18|<< Esther 2:18]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.20|Esther 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when were gathered  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6908\|הִקָּבֵ֥ץ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> hi.ka.Vetz<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | virgins  |**<big>&#8207;[[H1330\|בְּתוּל֖וֹת]]&#8207; </big>**| be.tu.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

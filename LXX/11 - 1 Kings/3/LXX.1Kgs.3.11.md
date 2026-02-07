@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, Because you asked  this thing from me, and you did not ask many days for yourself, and you did not ask \[for\] riches, nor asked for \[the\] lives  of your enemies; but you asked for yourself understanding  to hear judgment; 
-<small><sub>**KJV:**</sub></small>
-And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;
-<small><sub>**BSB:**</sub></small>
-So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.10|<< 1 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.12|1 Kings 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

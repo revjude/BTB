@@ -1,12 +1,12 @@
-**Jude 1:23
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:23**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And others save with fear, pulling [them] out of the fire; hating even the garment spotted by the flesh.
 <small><sub>**BSB:**</sub></small>
 save others by snatching them from the fire; and to still others show mercy tempered with fear, hating even the clothing stained by the flesh.
 <small><sub>**Literal:**</sub></small>
 others however do save from the fire snatching , to others then do show mercy with fear, hating even the by the flesh stained clothing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.22|<< Jude 1:22]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.24|Jude 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | others |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

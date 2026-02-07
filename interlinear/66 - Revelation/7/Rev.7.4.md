@@ -1,12 +1,12 @@
-**Revelation 7:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:4**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard the number of them which were sealed: [and there were] sealed an hundred [and] forty [and] four thousand of all the tribes of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And I heard the number of those who were sealed, 144,000 from all the tribes of Israel:
 <small><sub>**Literal:**</sub></small>
 And I heard the number of those sealed; one hundred and forty four thousand sealed out of every tribe of [the] sons of Israel:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.3|<< Revelation 7:3]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.5|Revelation 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

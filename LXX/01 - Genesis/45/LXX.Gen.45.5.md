@@ -1,10 +1,7 @@
 **LXX Genesis 45:5** 
 <small><sub>**LXX:**</sub></small>
 Now then do not fret, nor let it appear hard to you that you delivered me here; for God sent me for life in front of you. 
-<small><sub>**KJV:**</sub></small>
-Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
-<small><sub>**BSB:**</sub></small>
-And now, do not be distressed or angry with yourselves that you sold me into this place, because it was to save lives that God sent me before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.4|<< Genesis 45:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.6|Genesis 45:6 >>]]</td></tr></table>
 
 | Translation | Greek |

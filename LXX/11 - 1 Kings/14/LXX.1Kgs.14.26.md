@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:26** 
 <small><sub>**LXX:**</sub></small>
 And he took all the treasures of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and the treasures of \[the\] house of the king, even the whole he took, and the shields  of gold which Solomon made. 
-<small><sub>**KJV:**</sub></small>
-And he took away the treasures of the house of the LORD, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made.
-<small><sub>**BSB:**</sub></small>
-He seized the treasures of the house of the LORD and of the royal palace. He took everything, including all the gold shields that Solomon had made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.25|<< 1 Kings 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.27|1 Kings 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

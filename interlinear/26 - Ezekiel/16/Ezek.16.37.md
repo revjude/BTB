@@ -1,4 +1,4 @@
-**Ezekiel 16:37** 
+**Ezekiel 16:37**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all [them] that thou hast loved, with all [them] that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ therefore I will surely gather all the lovers with whom you found pleasure, all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.36|<< Ezekiel 16:36]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.38|Ezekiel 16:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H3651C\|כֵן]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

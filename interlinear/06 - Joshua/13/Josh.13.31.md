@@ -1,4 +1,4 @@
-**Joshua 13:31** 
+**Joshua 13:31**<big><big>[[Josh.13.29 Manasseh’s Eastern Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, [were pertaining] unto the children of Machir the son of Manasseh, [even] to the one half of the children of Machir by their families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ half of Gilead; and Ashtaroth and Edrei, the royal cities of Og in Bashan. All t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.30|<< Joshua 13:30]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.32|Joshua 13:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] half of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2677\|חֲצִ֤י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Gilead  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1568G\|גִּלְעָד֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

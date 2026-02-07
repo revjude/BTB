@@ -1,4 +1,4 @@
-**2 Samuel 1:23** 
+**2 Samuel 1:23**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul and Jonathan [were] lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul and Jonathan, beloved and delightful in life, were not divided in death. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.22|<< 2 Samuel 1:22]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.24|2 Samuel 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֣וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jonathan  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3083H\|יהוֹנָתָ֗ן]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

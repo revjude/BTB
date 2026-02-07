@@ -1,10 +1,7 @@
 **LXX Leviticus 22:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] daughter of a priest, if she becomes a widow or being cast out, and seed might not be in her, and she should return unto the house  of her father, as in  her youth; from the bread loaves  of her father she shall eat. And all of another race shall not eat of them. 
-<small><sub>**KJV:**</sub></small>
-But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof.
-<small><sub>**BSB:**</sub></small>
-But if a priest’s daughter with no children becomes widowed or divorced and returns to her father’s house, she may share her father’s food as in her youth. But no outsider may share it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.12|<< Leviticus 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.14|Leviticus 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

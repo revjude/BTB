@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΧΑΦ</p>
 
 All  her people \[are\] groaning seeking bread. They gave the desirable \[things\] of hers for food  to restore \[their\] soul. Behold, O <span class="smallcaps">lord</span>, and look upon! for she became as one being disgraced. 
-<small><sub>**KJV:**</sub></small>
-All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.
-<small><sub>**BSB:**</sub></small>
-All her people groan as they search for bread. They have traded their treasures for food to keep themselves alive. Look, O LORD, and consider, for I have become despised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.10|<< Lamentations 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.12|Lamentations 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

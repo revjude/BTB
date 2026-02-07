@@ -1,4 +1,4 @@
-**Psalms 91:12** 
+**Psalms 91:12**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall bear thee up in [their] hands, lest thou dash thy foot against a stone.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will lift you up in their hands, so that you will not strike your foot agai
 > $\quad$ referenced by: [[Matt.4.6|Matt 4:6]] ☩ [[Luke.4.10|Luke 4:10-11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands  |**<big>&#8207;[[H3709G\|כַּפַּ֥יִם]]&#8207; </big>**| ka.Pa.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 29:35** 
 <small><sub>**LXX:**</sub></small>
 And you shall do for Aaron and  his sons thus according to all as much as I gave charge to you. Seven days you shall perfect  their hands. 
-<small><sub>**KJV:**</sub></small>
-And thus shalt thou do unto Aaron, and to his sons, according to all [things] which I have commanded thee: seven days shalt thou consecrate them.
-<small><sub>**BSB:**</sub></small>
-This is what you are to do for Aaron and his sons based on all that I have commanded you, taking seven days to ordain them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.34|<< Exodus 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.36|Exodus 29:36 >>]]</td></tr></table>
 
 | Translation | Greek |

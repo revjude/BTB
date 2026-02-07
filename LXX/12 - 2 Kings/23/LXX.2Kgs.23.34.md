@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:34** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh Necho put to reign over them  Eliakim son of Josiah instead of Josiah  his father, and he turned  his name into Jehoiakim. And  he took Jehoahaz, and he led him away into Egypt, and he died there. 
-<small><sub>**KJV:**</sub></small>
-And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah, and he changed Eliakim’s name to Jehoiakim. But Neco took Jehoahaz and carried him off to Egypt, where he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.33|<< 2 Kings 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.35|2 Kings 23:35 >>]]</td></tr></table>
 
 | Translation | Greek |

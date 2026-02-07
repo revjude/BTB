@@ -1,4 +1,4 @@
-**1 Chronicles 13:12** 
+**1 Chronicles 13:12**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was afraid of God that day, saying, How shall I bring the ark of God [home] to me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That day David feared God and asked, “How can I ever bring the ark of God to m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.11|<< 1 Chronicles 13:11]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.13|1 Chronicles 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he feared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּירָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִיד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

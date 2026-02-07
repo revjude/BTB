@@ -1,4 +1,4 @@
-**Psalms 2:12** 
+**Psalms 2:12**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kiss the Son, lest he be angry, and ye perish [from] the way, when his wrath is kindled but a little. Blessed [are] all they that put their trust in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kiss the Son, lest He be angry and you perish in your rebellion, when His wrath 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.11|<< Psalms 2:11]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.0|Psalms 3:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | kiss  |**<big>&#8207;[[H5401A\|נַשְּׁקוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.she.ku-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son  |**<big>&#8207;[[H1121A\|בַ֡ר]]&#8207; </big>**| var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

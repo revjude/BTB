@@ -1,4 +1,4 @@
-**Zechariah 7:11** 
+**Zechariah 7:11**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they refused to pay attention and turned a stubborn shoulder; they stopped u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.10|<< Zechariah 7:10]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.12|Zechariah 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֲנ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'a.Nu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to pay attention  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7181\|הַקְשִׁ֔יב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hak.Shiv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

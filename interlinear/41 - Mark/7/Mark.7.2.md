@@ -1,12 +1,12 @@
-**Mark 7:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:2**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.
 <small><sub>**BSB:**</sub></small>
 and they saw some of His disciples eating with hands that were defiled—that is, unwashed.
 <small><sub>**Literal:**</sub></small>
 And they had seen some of the disciples of Him that with defiled hands, That is unwashed, are eating the bread they found fault;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.1|<< Mark 7:1]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.3|Mark 7:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they had seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

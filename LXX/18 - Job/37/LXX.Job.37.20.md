@@ -1,10 +1,7 @@
 **LXX Job 37:20** 
 <small><sub>**LXX:**</sub></small>
 Is there a book or scribe standing beside me, that standing I should quell a man? 
-<small><sub>**KJV:**</sub></small>
-Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.
-<small><sub>**BSB:**</sub></small>
-Should He be told that I want to speak? Would a man ask to be swallowed up?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.19|<< Job 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.21|Job 37:21 >>]]</td></tr></table>
 
 | Translation | Greek |

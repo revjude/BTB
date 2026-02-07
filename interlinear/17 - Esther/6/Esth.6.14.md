@@ -1,4 +1,4 @@
-**Esther 6:14** 
+**Esther 6:14**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while they [were] yet talking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While they were still speaking with Haman, the king’s eunuchs arrived and rush
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.13|<< Esther 6:13]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.1|Esther 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still they  |**<big>&#8207;[[H5750\|עוֹדָ]]&#8207;&#8207;[[H9048\|ם֙]]&#8207; </big>**| o.Da<small><sup>[[HAcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] speaking  |**<big>&#8207;[[H1696G\|מְדַבְּרִ֣ים]]&#8207; </big>**| me.da.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

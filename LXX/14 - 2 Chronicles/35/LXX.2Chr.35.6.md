@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:6** 
 <small><sub>**LXX:**</sub></small>
 And sacrifice the passover, and prepare the holy \[things\] for your brethren!  to observe according to the word of \[the\] <span class="smallcaps">lord</span>  by \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-So kill the passover, and sanctify yourselves, and prepare your brethren, that [they] may do according to the word of the LORD by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-Slaughter the Passover lambs, consecrate yourselves, and make preparations for your fellow countrymen to carry out the word of the LORD given by Moses.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.5|<< 2 Chronicles 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.7|2 Chronicles 35:7 >>]]</td></tr></table>
 
 | Translation | Greek |

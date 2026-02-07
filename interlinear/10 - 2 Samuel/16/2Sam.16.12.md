@@ -1,4 +1,4 @@
-**2 Samuel 16:12** 
+**2 Samuel 16:12**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It may be that the LORD will look on mine affliction, and that the LORD will requite me good for his cursing this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Perhaps the LORD will see my affliction and repay me with good for the cursing I
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.11|<< 2 Samuel 16:11]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.13|2 Samuel 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֛י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will look  |**<big>&#8207;[[H7200G\|יִרְאֶ֥ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

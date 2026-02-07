@@ -1,4 +1,4 @@
-**2 Kings 6:33** 
+**2 Kings 6:33**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil [is] of the LORD; what should I wait for the LORD any longer?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While Elisha was still speaking with them, the messenger came down to him. And t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.32|<< 2 Kings 6:32]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.1|2 Kings 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still he  |**<big>&#8207;[[H5750\|עוֹדֶ֙]]&#8207;&#8207;[[H9043\|נּוּ֙]]&#8207; </big>**| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] speaking  |**<big>&#8207;[[H1696G\|מְדַבֵּ֣ר]]&#8207; </big>**| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

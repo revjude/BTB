@@ -1,10 +1,7 @@
 **LXX Numbers 23:4** 
 <small><sub>**LXX:**</sub></small>
 And God appeared  to Balaam. And Balaam said to him, The seven shrines I prepared, and I brought a calf and ram unto the shrine. 
-<small><sub>**KJV:**</sub></small>
-And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon [every] altar a bullock and a ram.
-<small><sub>**BSB:**</sub></small>
-and God met with him. “I have set up seven altars,” Balaam said, “and on each altar I have offered a bull and a ram.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.3|<< Numbers 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.5|Numbers 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

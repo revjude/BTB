@@ -1,4 +1,4 @@
-**Song of Solomon 6:1** 
+**Song of Solomon 6:1**<big><big>[[Song.6.1 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where has your beloved gone, O most beautiful among women? Which way has he turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.16|<< Song of Solomon 5:16]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.2|Song of Solomon 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0575\|אָ֚נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he gone  |**<big>&#8207;[[H1980G\|הָלַ֣ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

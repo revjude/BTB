@@ -1,12 +1,12 @@
-**2 Thessalonians 3:18
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:18**<big><big>[[2Thess.3.16 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of our Lord Jesus Christ be with all of you.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with all of you Amen. to Thessalonica second it was written from Athens<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.17|<< 2 Thessalonians 3:17]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.1|1 Timothy 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

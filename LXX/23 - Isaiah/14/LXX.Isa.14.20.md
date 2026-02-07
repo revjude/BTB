@@ -1,10 +1,7 @@
 **LXX Isaiah 14:20** 
 <small><sub>**LXX:**</sub></small>
 In which manner a garment being befouled by blood shall not be clean, so not even shall you be clean; because  you destroyed my land, and  killed my people; in no way should you abide into the eon of time -- O evil seed. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not be joined with them in burial, because thou hast destroyed thy land, [and] slain thy people: the seed of evildoers shall never be renowned.
-<small><sub>**BSB:**</sub></small>
-You will not join them in burial, since you have destroyed your land and slaughtered your own people. The offspring of the wicked will never again be mentioned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

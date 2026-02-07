@@ -1,10 +1,7 @@
 **LXX Isaiah 5:5** 
 <small><sub>**LXX:**</sub></small>
 Now then I will announce to you what I will do \[to\] my vineyard. I will remove  its barrier, and it will be for ravaging. And I will demolish  its wall, and it will be for trampling. 
-<small><sub>**KJV:**</sub></small>
-And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; [and] break down the wall thereof, and it shall be trodden down:
-<small><sub>**BSB:**</sub></small>
-Now I will tell you what I am about to do to My vineyard: I will take away its hedge, and it will be consumed; I will tear down its wall, and it will be trampled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.4|<< Isaiah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.6|Isaiah 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

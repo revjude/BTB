@@ -1,4 +1,4 @@
-**Exodus 22:2** (22:1)
+**Exodus 22:2**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a thief be found breaking up, and be smitten that he die, [there shall] no blood [be shed] for him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If a thief is caught breaking in and is beaten to death, no one shall be guilty 
 > $\quad$ related to: [[Matt.24.43|Matt 24:43]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> breaking in  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4290\|מַּחְתֶּ֛רֶת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mach.Te.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

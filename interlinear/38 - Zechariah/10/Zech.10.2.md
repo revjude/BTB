@@ -1,4 +1,4 @@
-**Zechariah 10:2** 
+**Zechariah 10:2**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because [there was] no shepherd.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For idols speak deceit and diviners see illusions; they tell false dreams and of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the teraphim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8655\|תְּרָפִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ra.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

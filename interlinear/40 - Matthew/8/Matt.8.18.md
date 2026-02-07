@@ -1,12 +1,12 @@
-**Matthew 8:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:18**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea.
 <small><sub>**Literal:**</sub></small>
 Having seen now <the> Jesus great crowd around Him He commanded to depart to the other side.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.17|<< Matthew 8:17]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.19|Matthew 8:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

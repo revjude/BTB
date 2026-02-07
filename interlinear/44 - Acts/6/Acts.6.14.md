@@ -1,12 +1,12 @@
-**Acts 6:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:14**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
 <small><sub>**BSB:**</sub></small>
 For we have heard him say that Jesus of Nazareth will destroy this place and change the customs that Moses handed down to us.”
 <small><sub>**Literal:**</sub></small>
 we have heard for him saying that Jesus <the> of Nazareth this will destroy <the> place this and will change the customs that delivered to us Moses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.13|<< Acts 6:13]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.15|Acts 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have heard |**<big>[[G0191\|ἀκηκόαμεν]]</big>**  |akēkoamen <small><sup>[[V-2RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 30:18** 
+**2 Chronicles 30:18**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a multitude of the people, [even] many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A large number of the people—many from Ephraim, Manasseh, Issachar, and Zebulu
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.17|<< 2 Chronicles 30:17]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.19|2 Chronicles 30:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] greater part of  |**<big>&#8207;[[H4768\|מַרְבִּ֣ית]]&#8207; </big>**| mar.Bit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 1:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:10**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I was in the Spirit on the Lord’s day, and heard behind me a great voice, as of a trumpet,
 <small><sub>**BSB:**</sub></small>
 On the Lord’s day I was in the Spirit, and I heard behind me a loud voice like a trumpet,
 <small><sub>**Literal:**</sub></small>
 I was in [the] Spirit on the Lord’s day and I heard behind me a voice loud like that of a trumpet<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.9|<< Revelation 1:9]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.11|Revelation 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I was |**<big>[[G1096\|ἐγενόμην]]</big>**  |egenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

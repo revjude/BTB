@@ -1,12 +1,12 @@
-**Acts 21:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:9**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the same man had four daughters, virgins, which did prophesy.
 <small><sub>**BSB:**</sub></small>
 He had four unmarried daughters who prophesied.
 <small><sub>**Literal:**</sub></small>
 With this [man] now there were daughters four virgins prophesying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.8|<< Acts 21:8]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.10|Acts 21:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With this [man] |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 24:4** 
 <small><sub>**LXX:**</sub></small>
 Innocent hands and a pure  heart, who did not take \[hold\] upon vain \[things\]  for his soul, and did not swear by an oath with treachery \[against\] his neighbor. 
-<small><sub>**KJV:**</sub></small>
-He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.
-<small><sub>**BSB:**</sub></small>
-He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.3|<< Psalm 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.5|Psalm 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

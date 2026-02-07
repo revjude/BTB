@@ -1,4 +1,4 @@
-**1 Chronicles 21:29** 
+**1 Chronicles 21:29**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, [were] at that season in the high place at Gibeon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the tabernacle of the LORD that Moses had made in the wilderness and the alt
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.28|<< 1 Chronicles 21:28]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.30|1 Chronicles 21:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] tabernacle of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4908\|מִשְׁכַּ֣ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Kan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 2:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:18**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
 <small><sub>**BSB:**</sub></small>
 Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy.
@@ -10,7 +10,7 @@ and even upon the servants of Mine and upon the handmaidens of Mine in the days 
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καί]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G1065\|γε]]</big>**  |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

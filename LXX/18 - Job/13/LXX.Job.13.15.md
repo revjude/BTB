@@ -1,10 +1,7 @@
 **LXX Job 13:15** 
 <small><sub>**LXX:**</sub></small>
 Though the mighty one should lay hands against me, since even he begins,  in fact I shall speak and reprove before him. 
-<small><sub>**KJV:**</sub></small>
-Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.
-<small><sub>**BSB:**</sub></small>
-Though He slay me, I will hope in Him. I will still defend my ways to His face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.14|<< Job 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.16|Job 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

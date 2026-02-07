@@ -1,4 +1,4 @@
-**Daniel 3:4** 
+**Daniel 3:4**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then an herald cried aloud, To you it is commanded, O people, nations, and languages,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the herald loudly proclaimed, “O people of every nation and language, thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.3|<< Daniel 3:3]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.5|Daniel 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and herald the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3744\|כָרוֹזָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> kha.ro.Za<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] proclaiming  |**<big>&#8207;[[H7123\|קָרֵ֣א]]&#8207; </big>**| ka.Re'<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

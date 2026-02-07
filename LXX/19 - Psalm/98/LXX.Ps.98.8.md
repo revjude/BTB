@@ -1,10 +1,7 @@
 **LXX Psalm 98:8** 
 <small><sub>**LXX:**</sub></small>
 Rivers shall clap hand together. The mountains shall exult from \[the\] face of \[the\] <span class="smallcaps">lord</span>, for he comes. 
-<small><sub>**KJV:**</sub></small>
-Let the floods clap [their] hands: let the hills be joyful together
-<small><sub>**BSB:**</sub></small>
-Let the rivers clap their hands, let the mountains sing together for joy<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.98.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.7|<< Psalm 98:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.9|Psalm 98:9 >>]]</td></tr></table>
 
 | Translation | Greek |

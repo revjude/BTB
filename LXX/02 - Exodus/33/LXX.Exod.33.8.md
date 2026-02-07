@@ -1,10 +1,7 @@
 **LXX Exodus 33:8** 
 <small><sub>**LXX:**</sub></small>
 And whenever Moses entered into the tent outside the camp, all the people stood watching, each \[one\] by the door  of his tent. And they contemplated Moses' going away unto  his entering into the tent. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Moses went out unto the tabernacle, [that] all the people rose up, and stood every man [at] his tent door, and looked after Moses, until he was gone into the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Then, whenever Moses went out to the tent, all the people would stand at the entrances to their own tents and watch Moses until he entered the tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.7|<< Exodus 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.9|Exodus 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

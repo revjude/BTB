@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:11** 
 <small><sub>**LXX:**</sub></small>
 Bless, O <span class="smallcaps">lord</span>  his strength! And the works  of his hands receive! Break \[the\] loin of his enemies having risen up against \[him\]! And the ones detesting him let them not rise up! 
-<small><sub>**KJV:**</sub></small>
-Bless, LORD, his substance, and accept the work of his hands: smite through the loins of them that rise against him, and of them that hate him, that they rise not again.
-<small><sub>**BSB:**</sub></small>
-Bless his substance, O LORD, and accept the work of his hands. Smash the loins of those who rise against him, and of his foes so they can rise no more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.10|<< Deuteronomy 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.12|Deuteronomy 33:12 >>]]</td></tr></table>
 
 | Translation | Greek |

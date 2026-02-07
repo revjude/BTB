@@ -1,4 +1,4 @@
-**Isaiah 22:13** 
+**Isaiah 22:13**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But look, there is joy and gladness, butchering of cattle and slaughtering of sh
 > $\quad$ referenced by: [[1Cor.15.32|1Cor 15:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | joy  |**<big>&#8207;[[H8342\|שָׂשׂ֣וֹן]]&#8207; </big>**| sa.Son<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

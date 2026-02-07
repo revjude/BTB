@@ -1,4 +1,4 @@
-**Joshua 17:1** 
+**Joshua 17:1**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was also a lot for the tribe of Manasseh; for he [was] the firstborn of Joseph; [to wit], for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

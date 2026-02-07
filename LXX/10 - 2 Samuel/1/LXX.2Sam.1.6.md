@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:6** 
 <small><sub>**LXX:**</sub></small>
 And the servant-lad said  reporting to him, By chance I fell among the mountain  of Giboa; and behold, Saul was stayed upon  his spear; and behold, the chariots and the commanders of the cavalry joined together against him. 
-<small><sub>**KJV:**</sub></small>
-And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him.
-<small><sub>**BSB:**</sub></small>
-“I happened to be on Mount Gilboa,” he replied, “and there was Saul, leaning on his spear, with the chariots and the cavalry closing in on him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.5|<< 2 Samuel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.7|2 Samuel 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

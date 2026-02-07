@@ -1,4 +1,4 @@
-**Daniel 1:19** 
+**Daniel 1:19**<big><big>[[Dan.1.17 Daniel’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the king spoke with them, and among all the young men he found no one equal 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.18|<< Daniel 1:18]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.20|Daniel 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with them  |**<big>&#8207;[[H0854\|אִתָּ]]&#8207;&#8207;[[H9038\|ם֮]]&#8207; </big>**| 'i.Ta<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

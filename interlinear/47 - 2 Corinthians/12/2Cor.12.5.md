@@ -1,12 +1,12 @@
-**2 Corinthians 12:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:5**<big><big>[[2Cor.12.5 Paul’s Thorn and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.
 <small><sub>**BSB:**</sub></small>
 I will boast about such a man, but I will not boast about myself, except in my weaknesses.
 <small><sub>**Literal:**</sub></small>
 Concerning <the> such a man I will boast, concerning however myself not I will boast only except in the weaknesses of mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.4|<< 2 Corinthians 12:4]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.6|2 Corinthians 12:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

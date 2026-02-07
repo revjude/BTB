@@ -1,10 +1,7 @@
 **LXX Job 19:5** 
 <small><sub>**LXX:**</sub></small>
 But alas, for you magnify yourselves against me, and you assail me in scorn. 
-<small><sub>**KJV:**</sub></small>
-If indeed ye will magnify [yourselves] against me, and plead against me my reproach:
-<small><sub>**BSB:**</sub></small>
-If indeed you would exalt yourselves above me and use my disgrace against me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.4|<< Job 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.6|Job 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

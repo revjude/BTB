@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:18** 
 <small><sub>**LXX:**</sub></small>
 And she said, Your maidservant found favor in your eyes. And the woman went  her way, and ate with  her husband, and drank, and  her face was not downcast any longer. 
-<small><sub>**KJV:**</sub></small>
-And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more [sad].
-<small><sub>**BSB:**</sub></small>
-“May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.17|<< 1 Samuel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.19|1 Samuel 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

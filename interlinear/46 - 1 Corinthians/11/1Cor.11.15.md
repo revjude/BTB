@@ -1,12 +1,12 @@
-**1 Corinthians 11:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:15**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if a woman have long hair, it is a glory to her: for [her] hair is given her for a covering.
 <small><sub>**BSB:**</sub></small>
 but that if a woman has long hair, it is her glory? For long hair is given to her as a covering.
 <small><sub>**Literal:**</sub></small>
 a woman however if she shall have long hair, glory to her it is? For the long hair instead of a covering has been given to her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.14|<< 1 Corinthians 11:14]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.16|1 Corinthians 11:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a woman |**<big>[[G1135G\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

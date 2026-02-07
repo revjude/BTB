@@ -1,10 +1,7 @@
 **LXX Haggai 1:12** 
 <small><sub>**LXX:**</sub></small>
 And \[they\] heard (Zerubbabel the \[son of\] Shealtiel from \[the\] tribe of Judah, and Joshua the son of Josedech the great priest, and all the rest of the people) the voice of \[the\] <span class="smallcaps">lord</span>  their God, and the words  of Haggai the prophet, in so far as what \[the\] <span class="smallcaps">lord</span> their God sent him for them. And the people feared from in front of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Zerubbabel son of Shealtiel and Joshua son of Jehozadak, the high priest, as well as all the remnant of the people, obeyed the voice of the LORD their God and the words of the prophet Haggai, because the LORD their God had sent him. So the people feared the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.11|<< Haggai 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.13|Haggai 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

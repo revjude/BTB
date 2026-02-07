@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:29** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the land which you shall throw by lot to the tribes of Israel, and these \[are\]  their divisions, says \[the\] <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-This [is] the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these [are] their portions, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.28|<< Ezekiel 48:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.30|Ezekiel 48:30 >>]]</td></tr></table>
 
 | Translation | Greek |

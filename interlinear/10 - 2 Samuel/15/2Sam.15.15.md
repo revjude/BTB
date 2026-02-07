@@ -1,4 +1,4 @@
-**2 Samuel 15:15** 
+**2 Samuel 15:15**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king’s servants said unto the king, Behold, thy servants [are ready to do] whatsoever my lord the king shall appoint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king’s servants replied, “Whatever our lord the king decides, we are you
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'av.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

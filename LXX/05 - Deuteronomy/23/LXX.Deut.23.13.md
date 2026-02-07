@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:13** 
 <small><sub>**LXX:**</sub></small>
 and a trowel will be  upon  your belt, and it will be whenever you should sit separately outside, that you shall dig with it, and bringing it you shall cover  your indecency by it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:
-<small><sub>**BSB:**</sub></small>
-And you must have a digging tool in your equipment so that when you relieve yourself you can dig a hole and cover up your excrement.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

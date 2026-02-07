@@ -1,10 +1,7 @@
 **LXX Leviticus 25:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall sanctify the year -- the fiftieth year; and you shall proclaim forth a release upon the land to all the ones dwelling it. A year of release will be its indication to you. And you shall go forth each to  his possession, and you shall go forth each to his family. 
-<small><sub>**KJV:**</sub></small>
-And ye shall hallow the fiftieth year, and proclaim liberty throughout [all] the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
-<small><sub>**BSB:**</sub></small>
-So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.9|<< Leviticus 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.11|Leviticus 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

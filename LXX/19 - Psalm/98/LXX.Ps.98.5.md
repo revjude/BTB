@@ -1,10 +1,7 @@
 **LXX Psalm 98:5** 
 <small><sub>**LXX:**</sub></small>
 Strum to the <span class="smallcaps">lord</span> with a harp; with a harp and voice of a psalm! 
-<small><sub>**KJV:**</sub></small>
-Sing unto the LORD with the harp; with the harp, and the voice of a psalm.
-<small><sub>**BSB:**</sub></small>
-Sing praises to the LORD with the lyre, in melodious song with the harp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.98.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.4|<< Psalm 98:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.6|Psalm 98:6 >>]]</td></tr></table>
 
 | Translation | Greek |

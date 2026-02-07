@@ -1,10 +1,7 @@
 **LXX Malachi 1:5** 
 <small><sub>**LXX:**</sub></small>
 And  your eyes shall see, and you shall say, \[The\] <span class="smallcaps">lord</span> was magnified up above the borders  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And your eyes shall see, and ye shall say, The LORD will be magnified from the border of Israel.
-<small><sub>**BSB:**</sub></small>
-You will see this with your own eyes, and you yourselves will say, ‘The LORD is great—even beyond the borders of Israel.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.4|<< Malachi 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.6|Malachi 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

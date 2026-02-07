@@ -1,4 +1,4 @@
-**Ezekiel 23:10** 
+**Ezekiel 23:10**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These discovered her nakedness: they took her sons and her daughters, and slew her with the sword: and she became famous among women; for they had executed judgment upon her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They exposed her nakedness, seized her sons and daughters, and put her to the sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.9|<< Ezekiel 23:9]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.11|Ezekiel 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵמָּה֮]]&#8207; </big>**| he.Mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they uncovered  |**<big>&#8207;[[H1540I\|גִּלּ֣וּ]]&#8207; </big>**| gi.Lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

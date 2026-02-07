@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:6** 
 <small><sub>**LXX:**</sub></small>
 And the hand \[of the\] <span class="smallcaps">lord</span> was oppressive against \[the\] Ashdodites, and he tormented the Ashdodites, and he struck them in  their buttock -- the one from Ashdod and  their borders. 
-<small><sub>**KJV:**</sub></small>
-But the hand of the LORD was heavy upon them of Ashdod, and he destroyed them, and smote them with emerods, [even] Ashdod and the coasts thereof.
-<small><sub>**BSB:**</sub></small>
-Now the hand of the LORD was heavy on the people of Ashdod and its vicinity, ravaging them and afflicting them with tumors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.5|<< 1 Samuel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.7|1 Samuel 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

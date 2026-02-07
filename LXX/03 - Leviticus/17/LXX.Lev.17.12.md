@@ -1,10 +1,7 @@
 **LXX Leviticus 17:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this I have said to the sons of Israel, Every soul of you shall not eat blood; and the foreigner  lying near by to you shall not eat blood. 
-<small><sub>**KJV:**</sub></small>
-Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
-<small><sub>**BSB:**</sub></small>
-Therefore I say to the Israelites, ‘None of you may eat blood, nor may any foreigner living among you eat blood.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.11|<< Leviticus 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.13|Leviticus 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

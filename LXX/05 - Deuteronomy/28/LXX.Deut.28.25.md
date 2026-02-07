@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:25** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> appoint you for slaughter before  your enemies. In one way you shall go forth against them, and in seven ways you shall flee from their face. And you will be in dispersion among all kingdoms of the earth. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth.
-<small><sub>**BSB:**</sub></small>
-The LORD will cause you to be defeated before your enemies. You will march out against them in one direction but flee from them in seven. You will be an object of horror to all the kingdoms of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.24|<< Deuteronomy 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.26|Deuteronomy 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

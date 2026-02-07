@@ -1,10 +1,7 @@
 **LXX Daniel 10:5** 
 <small><sub>**LXX:**</sub></small>
 And I lifted  my eyes and looked. And behold, a man, one being clothed \[with\] linen clothes, and  his loin being girded in gold of Uphaz. 
-<small><sub>**KJV:**</sub></small>
-Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins [were] girded with fine gold of Uphaz:
-<small><sub>**BSB:**</sub></small>
-I lifted up my eyes, and behold, there was a certain man dressed in linen, with a belt of fine gold from Uphaz around his waist.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.4|<< Daniel 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.6|Daniel 10:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 10:5** is...

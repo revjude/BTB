@@ -1,4 +1,4 @@
-**Leviticus 6:21** (6:14)
+**Leviticus 6:21**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In a pan it shall be made with oil; [and when it is] baken, thou shalt bring it in: [and] the baken pieces of the meat offering shalt thou offer [for] a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It shall be prepared with oil on a griddle; you are to bring it well-kneaded and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.20|<< Leviticus 6:20]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.22|Leviticus 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a baking tray  |**<big>&#8207;[[H4227\|מַחֲבַ֗ת]]&#8207; </big>**| ma.cha.Vat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

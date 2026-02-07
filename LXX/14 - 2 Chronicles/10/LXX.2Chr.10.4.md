@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:4** 
 <small><sub>**LXX:**</sub></small>
  Your father hardened  our yoke; and now, you lighten from the hard servitude of your father, and from  his heavy yoke which he put upon us! and we will serve to you. 
-<small><sub>**KJV:**</sub></small>
-Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.
-<small><sub>**BSB:**</sub></small>
-“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.3|<< 2 Chronicles 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.5|2 Chronicles 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

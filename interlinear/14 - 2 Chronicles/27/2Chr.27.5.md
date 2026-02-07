@@ -1,4 +1,4 @@
-**2 Chronicles 27:5** 
+**2 Chronicles 27:5**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jotham waged war against the king of the Ammonites and defeated them, and that y
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.4|<< 2 Chronicles 27:4]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.6|2 Chronicles 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1931\|הוּא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he waged war  |**<big>&#8207;[[H3898A\|נִלְחַ֞ם]]&#8207; </big>**| nil.Cham<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

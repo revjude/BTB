@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear, O islands! and take heed, O nations! Through a long time it shall be established, says \[the\] <span class="smallcaps">lord</span>. From out of \[the\] belly of my mother he called  my name. 
-<small><sub>**KJV:**</sub></small>
-Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
-<small><sub>**BSB:**</sub></small>
-Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.22|<< Isaiah 48:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.2|Isaiah 49:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 49:1** is...

@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:17** 
 <small><sub>**LXX:**</sub></small>
 so that they should be lacking of bread and water; and a man and his brother shall be obliterated; and they shall melt away in  their iniquities. 
-<small><sub>**KJV:**</sub></small>
-That they may want bread and water, and be astonied one with another, and consume away for their iniquity.
-<small><sub>**BSB:**</sub></small>
-So they will lack food and water; they will be appalled at the sight of one another wasting away in their iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.16|<< Ezekiel 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.1|Ezekiel 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

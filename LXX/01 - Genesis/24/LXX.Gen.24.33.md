@@ -1,10 +1,7 @@
 **LXX Genesis 24:33** 
 <small><sub>**LXX:**</sub></small>
 And he placed near them bread loaves to eat. And he said, No way will I eat until  speaking   my words. And he said, Speak! 
-<small><sub>**KJV:**</sub></small>
-And there was set [meat] before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.
-<small><sub>**BSB:**</sub></small>
-Then a meal was set before the man, but he said, “I will not eat until I have told you what I came to say.” So Laban said, “Please speak.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.32|<< Genesis 24:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.34|Genesis 24:34 >>]]</td></tr></table>
 
 | Translation | Greek |

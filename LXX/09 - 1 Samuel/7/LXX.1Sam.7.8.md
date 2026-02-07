@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to Samuel, Do not remain silent from us!  to not yell to \[the\] <span class="smallcaps">lord</span>  your God, that he shall deliver us from out of \[the\] hand of \[the\] Philistines. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-and said to Samuel, “Do not stop crying out to the LORD our God for us, that He may save us from the hand of the Philistines.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.7|<< 1 Samuel 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.9|1 Samuel 7:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:8** is...

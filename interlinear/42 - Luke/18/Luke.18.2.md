@@ -1,12 +1,12 @@
-**Luke 18:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:2**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, There was in a city a judge, which feared not God, neither regarded man:
 <small><sub>**BSB:**</sub></small>
 “In a certain town there was a judge who neither feared God nor respected men.
 <small><sub>**Literal:**</sub></small>
 saying; A judge certain there was in a certain city <the> God not fearing and man not respecting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.1|<< Luke 18:1]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.3|Luke 18:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | A judge |**<big>[[G2923\|κριτής]]</big>**  |kritēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

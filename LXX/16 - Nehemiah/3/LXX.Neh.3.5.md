@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:5** 
 <small><sub>**LXX:**</sub></small>
 And near their hand the Tekoites took control; but their strong ones did not insert their neck into a service  of their Lord. 
-<small><sub>**KJV:**</sub></small>
-And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.
-<small><sub>**BSB:**</sub></small>
-Next to him, the Tekoites made repairs, but their nobles did not put their shoulders to the work under their supervisors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.4|<< Nehemiah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.6|Nehemiah 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

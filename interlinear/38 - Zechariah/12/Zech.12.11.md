@@ -1,4 +1,4 @@
-**Zechariah 12:11** 
+**Zechariah 12:11**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On that day the wailing in Jerusalem will be as great as the wailing of Hadad-ri
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 35:5** 
 <small><sub>**LXX:**</sub></small>
 Look up into the heaven, and behold! Study \[the\] clouds, how high \[they are\] from you! 
-<small><sub>**KJV:**</sub></small>
-Look unto the heavens, and see; and behold the clouds [which] are higher than thou.
-<small><sub>**BSB:**</sub></small>
-Look to the heavens and see; gaze at the clouds high above you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.4|<< Job 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.6|Job 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

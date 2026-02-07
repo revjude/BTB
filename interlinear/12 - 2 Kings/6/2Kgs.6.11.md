@@ -1,4 +1,4 @@
-**2 Kings 6:11** 
+**2 Kings 6:11**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us [is] for the king of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For this reason the king of Aram became enraged and called his servants to deman
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.10|<< 2 Kings 6:10]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.12|2 Kings 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was enraged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5590\|יִּסָּעֵר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa.'Er<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 7:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:34**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.
 <small><sub>**BSB:**</sub></small>
 And looking up to heaven, He sighed deeply and said to him, “Ephphatha!” (which means, “Be opened!”).
 <small><sub>**Literal:**</sub></small>
 and having looked up to <the> heaven He sighed deeply and He says to him; Ephphatha! that is do be opened<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.33|<< Mark 7:33]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.35|Mark 7:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked up |**<big>[[G0308\|ἀναβλέψας]]</big>**  |anablepsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

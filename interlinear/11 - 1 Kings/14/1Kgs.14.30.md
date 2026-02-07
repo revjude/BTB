@@ -1,4 +1,4 @@
-**1 Kings 14:30** 
+**1 Kings 14:30**<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war between Rehoboam and Jeroboam all [their] days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was war between Rehoboam and Jeroboam throughout their days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.29|<< 1 Kings 14:29]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.31|1 Kings 14:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and war  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4421\|מִלְחָמָ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיְתָ֧ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

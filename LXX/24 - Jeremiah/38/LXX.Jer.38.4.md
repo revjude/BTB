@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:4** 
 <small><sub>**LXX:**</sub></small>
 And the rulers said to the king, Do away with that man indeed, for he enfeebles the hands of the men  waging war of the ones being left in  this city, and the hands of all the people, by speaking to them according to  these words. For  this man does not speak oracles for peace \[to\] this people, but only evils. 
-<small><sub>**KJV:**</sub></small>
-Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.
-<small><sub>**BSB:**</sub></small>
-Then the officials said to the king, “This man ought to die, for he is discouraging the warriors who remain in this city, as well as all the people, by speaking such words to them; this man is not seeking the well-being of these people, but their ruin.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.3|<< Jeremiah 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.5|Jeremiah 38:5 >>]]</td></tr></table>
 
 | Translation | Greek |

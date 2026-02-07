@@ -1,10 +1,7 @@
 **LXX Proverbs 1:33** 
 <small><sub>**LXX:**</sub></small>
 But the one hearing me shall encamp with hope, and shall be tranquil without fear from all evil. 
-<small><sub>**KJV:**</sub></small>
-But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.
-<small><sub>**BSB:**</sub></small>
-But whoever listens to me will dwell in safety, secure from the fear of evil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.32|<< Proverbs 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.1|Proverbs 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

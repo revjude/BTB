@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:7** 
 <small><sub>**LXX:**</sub></small>
 And now, take and make one new wagon, and two oxen having given birth for the first time, without the offspring, upon which a yoke was not placed upon! And team up the oxen on the wagon, and  their offspring lead away from behind them to \[the\] house! 
-<small><sub>**KJV:**</sub></small>
-Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them:
-<small><sub>**BSB:**</sub></small>
-Now, therefore, prepare one new cart with two milk cows that have never been yoked. Hitch the cows to the cart, but take their calves away and pen them up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.6|<< 1 Samuel 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.8|1 Samuel 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

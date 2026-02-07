@@ -1,12 +1,12 @@
-**Matthew 12:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:27**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if I by Beelzebub cast out devils, by whom do your children cast [them] out? therefore they shall be your judges.
 <small><sub>**BSB:**</sub></small>
 And if I drive out demons by Beelzebul, by whom do your sons drive them out? So then, they will be your judges.
 <small><sub>**Literal:**</sub></small>
 And if I myself by Beelzebul cast out <the> demons, the sons of you by whom do they cast out? On account of this they themselves judges will be of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.26|<< Matthew 12:26]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.28|Matthew 12:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

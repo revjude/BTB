@@ -1,10 +1,7 @@
 **LXX Ruth 3:16** 
 <small><sub>**LXX:**</sub></small>
 And Ruth entered to  her mother-in-law. And she said, What is it, O daughter? And she reported to her all as much as the man did for her. 
-<small><sub>**KJV:**</sub></small>
-And when she came to her mother in law, she said, Who [art] thou, my daughter? And she told her all that the man had done to her.
-<small><sub>**BSB:**</sub></small>
-When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.15|<< Ruth 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.17|Ruth 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

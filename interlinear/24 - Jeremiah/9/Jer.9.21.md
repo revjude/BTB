@@ -1,4 +1,4 @@
-**Jeremiah 9:21** (9:20)
+**Jeremiah 9:21**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For death is come up into our windows, [and] is entered into our palaces, to cut off the children from without, [and] the young men from the streets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For death has climbed in through our windows; it has entered our fortresses to c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.20|<< Jeremiah 9:20]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.22|Jeremiah 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has come up  |**<big>&#8207;[[H5927G\|עָ֤לָה]]&#8207; </big>**| 'A.lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

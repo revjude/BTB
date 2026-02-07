@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:16** 
 <small><sub>**LXX:**</sub></small>
 And he made two capitals to put upon the heads of the molten columns of brass -- five cubits \[was\] the height of the one capital, and five cubits \[was\] the height of the second capital. 
-<small><sub>**KJV:**</sub></small>
-And he made two chapiters [of] molten brass, to set upon the tops of the pillars: the height of the one chapiter [was] five cubits, and the height of the other chapiter [was] five cubits:
-<small><sub>**BSB:**</sub></small>
-He also made two capitals of cast bronze to set on top of the pillars, each capital five cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.15|<< 1 Kings 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.17|1 Kings 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

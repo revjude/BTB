@@ -1,10 +1,7 @@
 **LXX Judges 14:6** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> straightened upon him, and he tore it apart as a kid of \[the\] goats, and nothing was in  his hand. And he did not report \[to\] his father and \[to\] his mother what he did. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and [he had] nothing in his hand: but he told not his father or his mother what he had done.
-<small><sub>**BSB:**</sub></small>
-and the Spirit of the LORD came powerfully upon him, and he tore the lion apart with his bare hands as one would tear a young goat. But he did not tell his father or mother what he had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.5|<< Judges 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.7|Judges 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

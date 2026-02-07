@@ -1,4 +1,4 @@
-**Amos 5:26** 
+**Amos 5:26**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You have taken along Sakkuth your king and Kaiwan your star god, the idols you m
 > $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will lift up  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5375G\|נְשָׂאתֶ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.sa.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

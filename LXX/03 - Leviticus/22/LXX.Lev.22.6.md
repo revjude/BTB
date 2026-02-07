@@ -1,10 +1,7 @@
 **LXX Leviticus 22:6** 
 <small><sub>**LXX:**</sub></small>
 \[the\] soul who ever should touch them will be unclean until evening; he shall not eat from the holy \[things\] if he should not have bathed  his body in water. 
-<small><sub>**KJV:**</sub></small>
-The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.
-<small><sub>**BSB:**</sub></small>
-the man who touches any of these will remain unclean until evening. He must not eat from the sacred offerings unless he has bathed himself with water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.5|<< Leviticus 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.7|Leviticus 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

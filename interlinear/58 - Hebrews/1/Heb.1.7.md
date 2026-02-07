@@ -1,5 +1,5 @@
-**Hebrews 1:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:7**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
 <small><sub>**BSB:**</sub></small>
 Now about the angels He says: “He makes His angels winds, His servants flames of fire.”
@@ -10,7 +10,7 @@ And as to indeed the angels He says: The [One] making the angels of Him winds an
 > $\quad$ referencing: [[LXX.Ps.104.4|Ps 104:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 18:7** 
 <small><sub>**LXX:**</sub></small>
 \[the\] least \[of men\] hunt  his possessions; and trip \[him\] his counsel. 
-<small><sub>**KJV:**</sub></small>
-The steps of his strength shall be straitened, and his own counsel shall cast him down.
-<small><sub>**BSB:**</sub></small>
-His vigorous stride is shortened, and his own schemes trip him up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.6|<< Job 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.8|Job 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

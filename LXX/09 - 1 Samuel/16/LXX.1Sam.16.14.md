@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:14** 
 <small><sub>**LXX:**</sub></small>
 And spirit of \[the\] <span class="smallcaps">lord</span> left from Saul, and a ferocious spirit from \[the\] <span class="smallcaps">lord</span> smothered him. 
-<small><sub>**KJV:**</sub></small>
-But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.
-<small><sub>**BSB:**</sub></small>
-Now the Spirit of the LORD departed from Saul, and a spirit of distress from the LORD began to torment him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.13|<< 1 Samuel 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.15|1 Samuel 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

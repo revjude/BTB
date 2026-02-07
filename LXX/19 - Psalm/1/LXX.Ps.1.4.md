@@ -1,10 +1,7 @@
 **LXX Psalm 1:4** 
 <small><sub>**LXX:**</sub></small>
 Not so the impious, not so; but \[is\] as dust which the wind casts forth from \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-The ungodly [are] not so: but [are] like the chaff which the wind driveth away.
-<small><sub>**BSB:**</sub></small>
-Not so the wicked! For they are like chaff driven off by the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.3|<< Psalm 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.5|Psalm 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

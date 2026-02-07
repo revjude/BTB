@@ -1,10 +1,7 @@
 **LXX Exodus 14:9** 
 <small><sub>**LXX:**</sub></small>
 And the Egyptians pursued after them. And they found them camping by the sea. And all the cavalry, and the chariots of Pharaoh, and the horsemen, and  his military \[were\] before the property right opposite Baal-zephon. 
-<small><sub>**KJV:**</sub></small>
-But the Egyptians pursued after them, all the horses [and] chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.
-<small><sub>**BSB:**</sub></small>
-The Egyptians—all Pharaoh’s horses and chariots, horsemen and troops—pursued the Israelites and overtook them as they camped by the sea near Pi-hahiroth, opposite Baal-zephon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.8|<< Exodus 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.10|Exodus 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 6:38
-**<small><sub>**KJV:**</sub></small>
+**John 6:38**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I came down from heaven, not to do mine own will, but the will of him that sent me.
 <small><sub>**BSB:**</sub></small>
 For I have come down from heaven, not to do My own will, but to do the will of Him who sent Me.
 <small><sub>**Literal:**</sub></small>
 For I have come down from <the> heaven not that I may do the will <the> of Me but the will of the [One who] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.37|<< John 6:37]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.39|John 6:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have come down |**<big>[[G2597\|καταβέβηκα]]</big>**  |katabebēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

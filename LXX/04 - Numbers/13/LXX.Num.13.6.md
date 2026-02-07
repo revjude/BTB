@@ -1,10 +1,7 @@
 **LXX Numbers 13:6** 
 <small><sub>**LXX:**</sub></small>
 Of the tribe of Judah \[was\] Caleb son of Jephunneh. 
-<small><sub>**KJV:**</sub></small>
-Of the tribe of Judah, Caleb the son of Jephunneh.
-<small><sub>**BSB:**</sub></small>
-from the tribe of Judah, Caleb son of Jephunneh;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.5|<< Numbers 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.7|Numbers 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

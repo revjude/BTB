@@ -1,4 +1,4 @@
-**Hosea 3:2** 
+**Hosea 3:2**<big><big>[[Hos.3.1 Hosea Redeems His Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I bought her to me for fifteen [pieces] of silver, and [for] an homer of barley, and an half homer of barley:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I bought her for fifteen shekels of silver and a homer and a lethech of barle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.3.1|<< Hosea 3:1]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.3|Hosea 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I bought her  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3739A\|אֶכְּרֶ֣]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.ke.Re.<small><sup>[[HVqw1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for myself  |**<big>&#8207;[[H9005\|לִּ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

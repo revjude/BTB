@@ -1,10 +1,7 @@
 **LXX Psalm 92:15** 
 <small><sub>**LXX:**</sub></small>
 that \[the\] <span class="smallcaps">lord</span> our God \[is\] upright, and there is no injustice in him. 
-<small><sub>**KJV:**</sub></small>
-To shew that the LORD [is] upright: [he is] my rock, and [there is] no unrighteousness in him.
-<small><sub>**BSB:**</sub></small>
-to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.92.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.14|<< Psalm 92:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.1|Psalm 93:1 >>]]</td></tr></table>
 
 | Translation | Greek |

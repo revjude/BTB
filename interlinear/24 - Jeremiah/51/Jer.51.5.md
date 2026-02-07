@@ -1,4 +1,4 @@
-**Jeremiah 51:5** 
+**Jeremiah 51:5**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Israel [hath] not [been] forsaken, nor Judah of his God, of the LORD of hosts; though their land was filled with sin against the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Israel and Judah have not been abandoned by their God, the LORD of Hosts, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.4|<< Jeremiah 51:4]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.6|Jeremiah 51:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

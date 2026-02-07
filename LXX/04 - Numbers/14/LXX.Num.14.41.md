@@ -1,10 +1,7 @@
 **LXX Numbers 14:41** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, Why do you violate the word of \[the\] <span class="smallcaps">lord</span>? it will not be prosperous for you. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.
-<small><sub>**BSB:**</sub></small>
-But Moses said, “Why are you transgressing the commandment of the LORD? This will not succeed!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.40|<< Numbers 14:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.42|Numbers 14:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 15:44
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:44**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
 <small><sub>**BSB:**</sub></small>
 It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
 <small><sub>**Literal:**</sub></small>
 It is sown a body natural, it is raised a body spiritual. If there is a body natural, there is also body spiritual.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.43|<< 1 Corinthians 15:43]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.45|1 Corinthians 15:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is sown |**<big>[[G4687\|σπείρεται]]</big>**  |speiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a body |**<big>[[G4983\|σῶμα]]</big>**  |sōma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

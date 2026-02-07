@@ -1,4 +1,4 @@
-**Isaiah 57:1** 
+**Isaiah 57:1**<big><big>[[Isa.57.1 The Blessed Death of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous perisheth, and no man layeth [it] to heart: and merciful men [are] taken away, none considering that the righteous is taken away from the evil [to come].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous perish, and no one takes it to heart; devout men are taken away, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.12|<< Isaiah 56:12]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.2|Isaiah 57:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the righteous [person]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6662\|צַּדִּ֣יק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has perished  |**<big>&#8207;[[H0006\|אָבָ֔ד]]&#8207; </big>**| 'a.Vad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

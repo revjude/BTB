@@ -1,4 +1,4 @@
-**Psalms 87:4** 
+**Psalms 87:4**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this [man] was born there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make mention of Rahab and Babylon to them that know me: behold Philistia,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.3|<< Psalms 87:3]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.5|Psalms 87:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will bring to remembrance  |**<big>&#8207;[[H2142\|אַזְכִּ֤יר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'az.Kir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rahab  |**<big>&#8207;[[H7293\|רַ֥הַב]]&#8207; </big>**| Ra.hav<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

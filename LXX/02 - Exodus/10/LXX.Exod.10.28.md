@@ -1,10 +1,7 @@
 **LXX Exodus 10:28** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh says, Go forth from me! Take heed to yourself yet to add to see my  face! for whatever day you should see me, you shall die. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in [that] day thou seest my face thou shalt die.
-<small><sub>**BSB:**</sub></small>
-“Depart from me!” Pharaoh said to Moses. “Make sure you never see my face again, for on the day you see my face, you will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.27|<< Exodus 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.29|Exodus 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

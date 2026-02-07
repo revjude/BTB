@@ -1,10 +1,7 @@
 **LXX Esther 1:8** 
 <small><sub>**LXX:**</sub></small>
  But this banquet took place not according to \[the\] law being situated; but thus the king wanted, and he gave orders to the managers to do  his will, and for the men. 
-<small><sub>**KJV:**</sub></small>
-And the drinking [was] according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.
-<small><sub>**BSB:**</sub></small>
-By order of the king, no limit was placed on the drinking, and every official of his household was to serve each man whatever he desired.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.7|<< Esther 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.9|Esther 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

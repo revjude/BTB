@@ -1,12 +1,12 @@
-**Hebrews 10:24
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:24**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let us consider one another to provoke unto love and to good works:
 <small><sub>**BSB:**</sub></small>
 And let us consider how to spur one another on to love and good deeds.
 <small><sub>**Literal:**</sub></small>
 And we may think one another toward stirring up to love and to good works<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.23|<< Hebrews 10:23]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.25|Hebrews 10:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we may think |**<big>[[G2657\|κατανοῶμεν]]</big>**  |katanoōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 8:58** 
+**1 Kings 8:58**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May He incline our hearts to Himself, to walk in all His ways and to keep the co
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.57|<< 1 Kings 8:57]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.59|1 Kings 8:59 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to incline  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5186\|הַטּ֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Tot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart our  |**<big>&#8207;[[H3824\|לְבָבֵ֖]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| le.va.Ve.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

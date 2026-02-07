@@ -1,10 +1,7 @@
 **LXX Leviticus 4:29** 
 <small><sub>**LXX:**</sub></small>
 And he shall place  his hand upon the head  of his sin \[offering\]; and they shall slay the yearling, the one of the sin \[offering\], in the place where they slay the whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.
-<small><sub>**BSB:**</sub></small>
-He is to lay his hand on the head of the sin offering and slaughter it at the place of the burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.28|<< Leviticus 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.30|Leviticus 4:30 >>]]</td></tr></table>
 
 | Translation | Greek |

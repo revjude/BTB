@@ -1,5 +1,5 @@
-**Mark 9:48
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:48**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where their worm dieth not, and the fire is not quenched.
 <small><sub>**BSB:**</sub></small>
 where ‘their worm never dies, and the fire is never quenched.’
@@ -10,7 +10,7 @@ where the worm of them not dies and the fire not is quenched.’<br><table width
 > $\quad$ referencing: [[LXX.Isa.66.24|Isa 66:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

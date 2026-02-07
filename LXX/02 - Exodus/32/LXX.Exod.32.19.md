@@ -1,10 +1,7 @@
 **LXX Exodus 32:19** 
 <small><sub>**LXX:**</sub></small>
 And when he approached the camp, he sees the calf and the company of dancers. And Moses being provoked to anger in rage tossed from  his hands the two tablets, and he broke them below the mountain. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.
-<small><sub>**BSB:**</sub></small>
-As Moses approached the camp and saw the calf and the dancing, he burned with anger and threw the tablets out of his hands, shattering them at the base of the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.18|<< Exodus 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.20|Exodus 32:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 32:19** is...

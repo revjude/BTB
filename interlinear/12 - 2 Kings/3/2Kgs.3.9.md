@@ -1,4 +1,4 @@
-**2 Kings 3:9** 
+**2 Kings 3:9**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king of Israel, the king of Judah, and the king of Edom set out, and afte
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.8|<< 2 Kings 3:8]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.10|2 Kings 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלֶךְ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.leKh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֨לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

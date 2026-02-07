@@ -1,10 +1,7 @@
 **LXX Leviticus 8:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses taking the breast, removed it for an increase \[offering\] before \[the\] <span class="smallcaps">lord</span>, from the ram of the consecration; and it became Moses'  portion, as \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And Moses took the breast, and waved it [for] a wave offering before the LORD: [for] of the ram of consecration it was Moses’ part; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-He also took the breast—Moses’ portion of the ram of ordination—and waved it before the LORD as a wave offering, as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.28|<< Leviticus 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.30|Leviticus 8:30 >>]]</td></tr></table>
 
 | Translation | Greek |

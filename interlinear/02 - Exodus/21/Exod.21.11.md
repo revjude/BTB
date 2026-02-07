@@ -1,4 +1,4 @@
-**Exodus 21:11** 
+**Exodus 21:11**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he do not these three unto her, then shall she go out free without money.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, however, he does not provide her with these three things, she is free to go 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.10|<< Exodus 21:10]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.12|Exodus 21:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three [things]  |**<big>&#8207;[[H7969\|שְׁלָ֨שׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.Lash-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:13** 
 <small><sub>**LXX:**</sub></small>
 And I will bring upon  that land all  my words which I spoke against it, all the \[things\] being written in  this scroll; 
-<small><sub>**KJV:**</sub></small>
-And I will bring upon that land all my words which I have pronounced against it, [even] all that is written in this book, which Jeremiah hath prophesied against all the nations.
-<small><sub>**BSB:**</sub></small>
-I will bring upon that land all the words I have pronounced against it, all that is written in this book, which Jeremiah has prophesied against all the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.12|<< Jeremiah 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.14|Jeremiah 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 48:35** 
+**Ezekiel 48:35**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It was] round about eighteen thousand [measures]: and the name of the city from [that] day [shall be], The LORD [is] there.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The perimeter of the city will be 18,000 cubits, and from that day on the name o
 > $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] circuit  |**<big>&#8207;[[H5439G\|סָבִ֕יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] eight-  |**<big>&#8207;[[H8083\|שְׁמֹנָ֥ה]]&#8207; </big>**| she.mo.Nah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

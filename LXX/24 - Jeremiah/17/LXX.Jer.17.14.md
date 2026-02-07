@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Heal me, O <span class="smallcaps">lord</span>! and I shall be healed. Deliver me! and I shall be delivered. For you are my boasting. 
-<small><sub>**KJV:**</sub></small>
-Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou [art] my praise.
-<small><sub>**BSB:**</sub></small>
-Heal me, O LORD, and I will be healed; save me, and I will be saved, for You are my praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.13|<< Jeremiah 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.15|Jeremiah 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

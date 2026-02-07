@@ -1,12 +1,12 @@
-**Matthew 25:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:6**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.
 <small><sub>**BSB:**</sub></small>
 At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’
 <small><sub>**Literal:**</sub></small>
 At middle then of [the] night a cry there was: Behold the bridegroom comes do go forth to meet him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.5|<< Matthew 25:5]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.7|Matthew 25:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At middle |**<big>[[G3319\|Μέσης]]</big>**  |Mesēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

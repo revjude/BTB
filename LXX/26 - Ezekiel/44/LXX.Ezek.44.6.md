@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the one rebelling, to the house of Israel, Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Let it be enough to you from all your lawless deeds, O house of Israel! 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say to the rebellious, [even] to the house of Israel, Thus saith the Lord GOD; O ye house of Israel, let it suffice you of all your abominations,
-<small><sub>**BSB:**</sub></small>
-Tell the rebellious house of Israel that this is what the Lord GOD says: ‘I have had enough of all your abominations, O house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.5|<< Ezekiel 44:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.7|Ezekiel 44:7 >>]]</td></tr></table>
 
 | Translation | Greek |

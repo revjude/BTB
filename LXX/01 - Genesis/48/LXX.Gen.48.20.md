@@ -1,10 +1,7 @@
 **LXX Genesis 48:20** 
 <small><sub>**LXX:**</sub></small>
 And he blessed them in  that day, saying, By you Israel shall be blessed, saying, God make you as Ephraim and as Manasseh! And he put  Ephraim in front of  Manasseh. 
-<small><sub>**KJV:**</sub></small>
-And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
-<small><sub>**BSB:**</sub></small>
-So that day Jacob blessed them and said: “By you shall Israel pronounce this blessing: ‘May God make you like Ephraim and Manasseh.’” So he put Ephraim before Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.19|<< Genesis 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.21|Genesis 48:21 >>]]</td></tr></table>
 
 | Translation | Greek |

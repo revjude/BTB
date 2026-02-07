@@ -1,12 +1,12 @@
-**1 Corinthians 10:33
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:33**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as I please all [men] in all [things], not seeking mine own profit, but the [profit] of many, that they may be saved.
 <small><sub>**BSB:**</sub></small>
 as I also try to please everyone in all I do. For I am not seeking my own good, but the good of many, that they may be saved.
 <small><sub>**Literal:**</sub></small>
 even as I myself also all in all things please not seeking the of myself profiting but that of the many that they may be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.32|<< 1 Corinthians 10:32]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.1|1 Corinthians 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself also |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

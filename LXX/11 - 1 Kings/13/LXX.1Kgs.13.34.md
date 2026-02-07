@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:34** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass  this thing became sin to the house of Jeroboam, and for ruin, and for extinction from \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-And this thing became sin unto the house of Jeroboam, even to cut [it] off, and to destroy [it] from off the face of the earth.
-<small><sub>**BSB:**</sub></small>
-And this was the sin of the house of Jeroboam that led to its extermination and destruction from the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.33|<< 1 Kings 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.1|1 Kings 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 8:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:24**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he looked up, and said, I see men as trees, walking.
 <small><sub>**BSB:**</sub></small>
 The man looked up and said, “I can see the people, but they look like trees walking around.”
 <small><sub>**Literal:**</sub></small>
 And having looked up he was saying; I see the men for as trees I see [them] walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.23|<< Mark 8:23]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.25|Mark 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked up |**<big>[[G0308\|ἀναβλέψας]]</big>**  |anablepsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

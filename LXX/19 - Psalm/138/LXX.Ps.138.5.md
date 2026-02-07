@@ -1,10 +1,7 @@
 **LXX Psalm 138:5** 
 <small><sub>**LXX:**</sub></small>
 And let them sing in the ways of \[the\] <span class="smallcaps">lord</span>, for great \[is\] the glory of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Yea, they shall sing in the ways of the LORD: for great [is] the glory of the LORD.
-<small><sub>**BSB:**</sub></small>
-They will sing of the ways of the LORD, for the glory of the LORD is great.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.138.4|<< Psalm 138:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.6|Psalm 138:6 >>]]</td></tr></table>
 
 | Translation | Greek |

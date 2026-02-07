@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, the God of Israel, Proceed to Zedekiah king of Judah! and you shall say to him, Thus said \[the\] <span class="smallcaps">lord</span>, In delivering up, I shall deliver up  this city into \[the\] hands of \[the\] king of Babylon, and he shall seize it, and shall burn it with fire. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:
-<small><sub>**BSB:**</sub></small>
-The LORD, the God of Israel, told Jeremiah to go and speak to Zedekiah king of Judah and tell him that this is what the LORD says: “Behold, I am about to deliver this city into the hand of the king of Babylon, and he will burn it down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.1|<< Jeremiah 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.3|Jeremiah 34:3 >>]]</td></tr></table>
 
 | Translation | Greek |

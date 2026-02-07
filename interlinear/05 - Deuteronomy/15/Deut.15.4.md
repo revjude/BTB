@@ -1,4 +1,4 @@
-**Deuteronomy 15:4** 
+**Deuteronomy 15:4**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee [for] an inheritance to possess it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There will be no poor among you, however, because the LORD will surely bless you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.3|<< Deuteronomy 15:3]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.5|Deuteronomy 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0657A\|אֶ֕פֶס]]&#8207; </big>**| 'E.fes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

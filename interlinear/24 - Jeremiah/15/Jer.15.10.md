@@ -1,4 +1,4 @@
-**Jeremiah 15:10** 
+**Jeremiah 15:10**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe is me, my mother, that thou hast borne me a man of strife and a man of contention to the whole earth! I have neither lent on usury, nor men have lent to me on usury; [yet] every one of them doth curse me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to me, my mother, that you have borne me, a man of strife and conflict in al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.9|<< Jeremiah 15:9]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.11|Jeremiah 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0188\|אֽוֹי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

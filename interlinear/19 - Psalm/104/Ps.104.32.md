@@ -1,4 +1,4 @@
-**Psalms 104:32** 
+**Psalms 104:32**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He looks on the earth, and it trembles; He touches the mountains, and they smold
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.31|<< Psalms 104:31]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.33|Psalms 104:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] looks  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5027\|מַּבִּ֣יט]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Bit<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the earth  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0776G\|אָרֶץ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'a.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

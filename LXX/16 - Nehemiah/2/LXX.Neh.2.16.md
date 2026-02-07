@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:16** 
 <small><sub>**LXX:**</sub></small>
 And the ones guarding did not know why I went, and what I was doing. And to the Jews, and to the priests, and to the important \[ones\], and to the commandants, and to the rest of the ones doing the works until then, I did not report. 
-<small><sub>**KJV:**</sub></small>
-And the rulers knew not whither I went, or what I did; neither had I as yet told [it] to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
-<small><sub>**BSB:**</sub></small>
-The officials did not know where I had gone or what I was doing, for I had not yet told the Jews or priests or nobles or officials or any other workers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.15|<< Nehemiah 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.17|Nehemiah 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

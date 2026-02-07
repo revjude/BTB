@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:2** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling prior in  their possessions in  their cities -- Israel, the priests, the Levites, and the ones appointed. 
-<small><sub>**KJV:**</sub></small>
-Now the first inhabitants that [dwelt] in their possessions in their cities [were], the Israelites, the priests, Levites, and the Nethinims.
-<small><sub>**BSB:**</sub></small>
-Now the first to resettle their own property in their cities were Israelites, priests, Levites, and temple servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.1|<< 1 Chronicles 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.3|1 Chronicles 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

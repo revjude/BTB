@@ -1,4 +1,4 @@
-**Esther 2:5** 
+**Esther 2:5**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] in Shushan the palace there was a certain Jew, whose name [was] Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there was at the citadel of Susa a Jewish man from the tribe of Benjamin nam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.4|<< Esther 2:4]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.6|Esther 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jewish  |**<big>&#8207;[[H3064\|יְהוּדִ֔י]]&#8207; </big>**| ye.hu.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

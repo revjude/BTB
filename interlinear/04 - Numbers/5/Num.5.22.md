@@ -1,4 +1,4 @@
-**Numbers 5:22** 
+**Numbers 5:22**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this water that causeth the curse shall go into thy bowels, to make [thy] belly to swell, and [thy] thigh to rot: And the woman shall say, Amen, amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May this water that brings a curse enter your stomach and cause your belly to sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.21|<< Numbers 5:21]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.23|Numbers 5:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go  |**<big>&#8207;[[H9001\|וּ֠]]&#8207;&#8207;[[H0935G\|בָאוּ]]&#8207; </big>**| U.<small><sup>[[Hc]]</sup></small> va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the waters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֨יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

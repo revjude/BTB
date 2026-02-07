@@ -1,4 +1,4 @@
-**Jeremiah 3:21** 
+**Jeremiah 3:21**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice was heard upon the high places, weeping [and] supplications of the children of Israel: for they have perverted their way, [and] they have forgotten the LORD their God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A voice is heard on the barren heights, the children of Israel weeping and beggi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.20|<< Jeremiah 3:20]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.22|Jeremiah 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sound  |**<big>&#8207;[[H6963A\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

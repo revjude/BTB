@@ -1,4 +1,4 @@
-**Ezekiel 21:14** (21:19)
+**Ezekiel 21:14**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou therefore, son of man, prophesy, and smite [thine] hands together, and let the sword be doubled the third time, the sword of the slain: it [is] the sword of the great [men that are] slain, which entereth into their privy chambers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou therefore, son of man, prophesy, and smite [thine] hands together, and let 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.13|<< Ezekiel 21:13]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.15|Ezekiel 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

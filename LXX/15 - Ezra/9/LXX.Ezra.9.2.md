@@ -1,10 +1,7 @@
 **LXX Ezra 9:2** 
 <small><sub>**LXX:**</sub></small>
 For they took of their daughters to themselves, and \[to\] their sons, and the holy seed mixed together among \[the\] peoples of the lands; even \[by the\] hand of the rulers and of the commandants in  this breach-of-contract in rule. 
-<small><sub>**KJV:**</sub></small>
-For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of [those] lands: yea, the hand of the princes and rulers hath been chief in this trespass.
-<small><sub>**BSB:**</sub></small>
-Indeed, the Israelites have taken some of their daughters as wives for themselves and their sons, so that the holy seed has been mixed with the people of the land. And the leaders and officials have taken the lead in this unfaithfulness!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.1|<< Ezra 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.3|Ezra 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

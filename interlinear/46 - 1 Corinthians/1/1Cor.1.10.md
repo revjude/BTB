@@ -1,12 +1,12 @@
-**1 Corinthians 1:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:10**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and [that] there be no divisions among you; but [that] ye be perfectly joined together in the same mind and in the same judgment.
 <small><sub>**BSB:**</sub></small>
 I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree together, so that there may be no divisions among you and that you may be united in mind and conviction.
 <small><sub>**Literal:**</sub></small>
 I exhort now you, brothers, through the name of the Lord of us Jesus Christ that the same thing you may speak all and not there may be among you divisions, you may be however knit together in the same mind and in the same judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.9|<< 1 Corinthians 1:9]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.11|1 Corinthians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I exhort |**<big>[[G3870\|Παρακαλῶ]]</big>**  |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

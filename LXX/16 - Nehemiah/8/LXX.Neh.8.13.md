@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:13** 
 <small><sub>**LXX:**</sub></small>
 And on the second day the rulers of the families gathered together \[with\] all the people, \[and\] the priests, and the Levites, to Ezra the scribe, to attend to all the words of the law. 
-<small><sub>**KJV:**</sub></small>
-And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.
-<small><sub>**BSB:**</sub></small>
-On the second day of the month, the heads of all the families, along with the priests and Levites, gathered around Ezra the scribe to study the words of the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.12|<< Nehemiah 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.14|Nehemiah 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

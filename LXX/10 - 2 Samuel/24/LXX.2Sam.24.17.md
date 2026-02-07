@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:17** 
 <small><sub>**LXX:**</sub></small>
 And David spoke to \[the\] <span class="smallcaps">lord</span> in  his beholding the angel  striking among the people, and he said, Behold, I sinned, and I the shepherd did evil, and these are the sheep, what did they do? your hand indeed come against me, and against the house  of my father! 
-<small><sub>**KJV:**</sub></small>
-And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house.
-<small><sub>**BSB:**</sub></small>
-When David saw the angel striking down the people, he said to the LORD, “Surely I, the shepherd, have sinned and acted wickedly. But these sheep, what have they done? Please, let Your hand fall upon me and my father’s house.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.16|<< 2 Samuel 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.18|2 Samuel 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

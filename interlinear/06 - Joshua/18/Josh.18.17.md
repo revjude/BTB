@@ -1,4 +1,4 @@
-**Joshua 18:17** 
+**Joshua 18:17**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which [is] over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there it curved northward and proceeded to En-shemesh and on to Geliloth fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.16|<< Joshua 18:16]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.18|Joshua 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8388A\|תָאַ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.'Ar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] north  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6828G\|צָּפ֗וֹן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Revelation 18:24
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:24**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.
 <small><sub>**BSB:**</sub></small>
 And there was found in her the blood of prophets and saints, and of all who had been slain on the earth.
@@ -10,7 +10,7 @@ And in her [the] blood of prophets and of saints was found and of all those slai
 > $\quad$ alluding to: [[LXX.Jer.51.49|Jer 51:49]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

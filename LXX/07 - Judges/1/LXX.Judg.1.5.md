@@ -1,10 +1,7 @@
 **LXX Judges 1:5** 
 <small><sub>**LXX:**</sub></small>
 And they found  Adoni-bezek in Bezek. And they waged war with him, and they struck the Canaanite and the Perizzite. 
-<small><sub>**KJV:**</sub></small>
-And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
-<small><sub>**BSB:**</sub></small>
-And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.4|<< Judges 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.6|Judges 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

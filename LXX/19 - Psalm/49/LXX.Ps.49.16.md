@@ -1,10 +1,7 @@
 **LXX Psalm 49:16** 
 <small><sub>**LXX:**</sub></small>
 Do not fear whenever a man should be enriched, or whenever the glory of his house should be multiplied, 
-<small><sub>**KJV:**</sub></small>
-Be not thou afraid when one is made rich, when the glory of his house is increased;
-<small><sub>**BSB:**</sub></small>
-Do not be afraid when a man grows rich, when the splendor of his house increases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.15|<< Psalm 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.17|Psalm 49:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 14:5** 
 <small><sub>**LXX:**</sub></small>
 if even his existence \[be\] one day upon the earth, and his months are counted by you. You appointed \[him\] for a time, and in no way shall he pass beyond. 
-<small><sub>**KJV:**</sub></small>
-Seeing his days [are] determined, the number of his months [are] with thee, thou hast appointed his bounds that he cannot pass;
-<small><sub>**BSB:**</sub></small>
-Since his days are determined and the number of his months is with You, and since You have set limits that he cannot exceed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.4|<< Job 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.6|Job 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

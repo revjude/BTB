@@ -1,10 +1,7 @@
 **LXX Leviticus 18:20** 
 <small><sub>**LXX:**</sub></small>
 And to the wife  of your neighbor you shall not give the marriage-bed of your semen,  to be thoroughly defiled with her. 
-<small><sub>**KJV:**</sub></small>
-Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.
-<small><sub>**BSB:**</sub></small>
-You must not lie carnally with your neighbor’s wife and thus defile yourself with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.19|<< Leviticus 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.21|Leviticus 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

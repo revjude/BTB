@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:3** 
 <small><sub>**LXX:**</sub></small>
 But good words were found in you, for you removed the sacred groves from the land of Judah, and straightened out  your heart to seek after the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.
-<small><sub>**BSB:**</sub></small>
-However, some good is found in you, for you have removed the Asherah poles from the land and have set your heart on seeking God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.2|<< 2 Chronicles 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.4|2 Chronicles 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

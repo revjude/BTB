@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:27** 
 <small><sub>**LXX:**</sub></small>
 if this people should ascend to offer a sacrifice in \[the\] house of \[the\] <span class="smallcaps">lord</span> in Jerusalem, then the heart of the people shall turn towards  their master, to Rehoboam king of Judah, and they shall kill me. 
-<small><sub>**KJV:**</sub></small>
-If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, [even] unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.
-<small><sub>**BSB:**</sub></small>
-If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.26|<< 1 Kings 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.28|1 Kings 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

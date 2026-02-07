@@ -1,4 +1,4 @@
-**Psalms 79:3** 
+**Psalms 79:3**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their blood have they shed like water round about Jerusalem; and [there was] none to bury [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have poured out their blood like water all around Jerusalem, and there is n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.2|<< Psalms 79:2]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.4|Psalms 79:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have poured out  |**<big>&#8207;[[H8210G\|שָׁפְכ֬וּ]]&#8207; </big>**| sha.fe.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood their  |**<big>&#8207;[[H1818\|דָמָ֨]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| da.Ma<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these are the commandments, and the ordinances, and the judgments, as many as \[the\] <span class="smallcaps">lord</span> our God gave charge to teach you to do thus in the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do [them] in the land whither ye go to possess it:
-<small><sub>**BSB:**</sub></small>
-These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.33|<< Deuteronomy 5:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.2|Deuteronomy 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

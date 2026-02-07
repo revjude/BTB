@@ -1,4 +1,4 @@
-**2 Chronicles 35:22** 
+**2 Chronicles 35:22**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Josiah, however, did not turn away from him; instead, in order to engage him in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.21|<< 2 Chronicles 35:21]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.23|2 Chronicles 35:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turned round  |**<big>&#8207;[[H5437G\|הֵסֵב֩]]&#8207; </big>**| he.Sev<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 12:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:50**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I have a baptism to be baptized with; and how am I straitened till it be accomplished!
 <small><sub>**BSB:**</sub></small>
 But I have a baptism to undergo, and how distressed I am until it is accomplished!
 <small><sub>**Literal:**</sub></small>
 Baptism however I have to be baptized [with] and how I am distressed until while it may be accomplished!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.49|<< Luke 12:49]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.51|Luke 12:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Baptism |**<big>[[G0908\|βάπτισμα]]</big>**  |baptisma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

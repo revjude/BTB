@@ -1,4 +1,4 @@
-**Leviticus 1:8** 
+**Leviticus 1:8**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order upon the wood that [is] on the fire which [is] upon the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Aaron’s sons the priests are to arrange the pieces, including the head an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.7|<< Leviticus 1:7]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.9|Leviticus 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will arrange  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6186A\|עָרְכ֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.re.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

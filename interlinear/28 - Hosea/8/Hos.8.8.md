@@ -1,4 +1,4 @@
-**Hosea 8:8** 
+**Hosea 8:8**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein [is] no pleasure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel is swallowed up! Now they are among the nations like a worthless vessel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.7|<< Hosea 8:7]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.9|Hosea 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be swallowed  |**<big>&#8207;[[H1104\|נִבְלַ֖ע]]&#8207; </big>**| niv.La'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 101:6** 
 <small><sub>**LXX:**</sub></small>
  My eyes \[are\] upon the trustworthy of the land,  for them to sit together with me, going in an unblemished way. This one officiated to me. 
-<small><sub>**KJV:**</sub></small>
-Mine eyes [shall be] upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.
-<small><sub>**BSB:**</sub></small>
-My eyes favor the faithful of the land, that they may dwell with me; he who walks in the way of integrity shall minister to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.101.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.5|<< Psalm 101:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.7|Psalm 101:7 >>]]</td></tr></table>
 
 | Translation | Greek |

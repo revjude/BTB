@@ -1,12 +1,12 @@
-**John 6:56
-**<small><sub>**KJV:**</sub></small>
+**John 6:56**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
 <small><sub>**BSB:**</sub></small>
 Whoever eats My flesh and drinks My blood remains in Me, and I in him.
 <small><sub>**Literal:**</sub></small>
 The [one] eating of My <the> flesh and drinking of My <the> blood in Me myself abides and I myself in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.55|<< John 6:55]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.57|John 6:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | eating |**<big>[[G5176\|τρώγων]]</big>**  |trōgōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

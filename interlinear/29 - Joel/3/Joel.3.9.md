@@ -1,4 +1,4 @@
-**Joel 3:9** (4:9)
+**Joel 3:9**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Proclaim this among the nations: “Prepare for war; rouse the mighty men; let a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.8|<< Joel 3:8]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.10|Joel 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | proclaim  |**<big>&#8207;[[H7121I\|קִרְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kir.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

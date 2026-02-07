@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:9** 
 <small><sub>**LXX:**</sub></small>
 Is not \[the\] cave of a hyena  my inheritance to me, the cave round about her against her? Proceed, bring together all the wild beasts of the field, and let them come  to eat her! 
-<small><sub>**KJV:**</sub></small>
-Mine heritage [is] unto me [as] a speckled bird, the birds round about [are] against her; come ye, assemble all the beasts of the field, come to devour.
-<small><sub>**BSB:**</sub></small>
-Is not My inheritance to Me like a speckled bird of prey with other birds of prey circling against her? Go, gather all the beasts of the field; bring them to devour her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.8|<< Jeremiah 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.10|Jeremiah 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

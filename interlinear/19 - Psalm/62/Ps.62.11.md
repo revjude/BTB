@@ -1,4 +1,4 @@
-**Psalms 62:11** (62:12)
+**Psalms 62:11**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath spoken once; twice have I heard this; that power [belongeth] unto God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God has spoken once; I have heard this twice: that power belongs to God,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.10|<< Psalms 62:10]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.12|Psalms 62:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one [time]  |**<big>&#8207;[[H0259\|אַחַ֤ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has spoken  |**<big>&#8207;[[H1696G\|דִּבֶּ֬ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

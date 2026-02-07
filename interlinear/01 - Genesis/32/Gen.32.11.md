@@ -1,4 +1,4 @@
-**Genesis 32:11** (32:12)
+**Genesis 32:11**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, [and] the mother with the children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please deliver me from the hand of my brother Esau, for I am afraid that he may 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.10|<< Genesis 32:10]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.12|Genesis 32:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deliver me  |**<big>&#8207;[[H5337\|הַצִּילֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ha.tzi.Le.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֛א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

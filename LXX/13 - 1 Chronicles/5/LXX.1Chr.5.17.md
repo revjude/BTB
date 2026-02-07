@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:17** 
 <small><sub>**LXX:**</sub></small>
 All the traced descent in \[the\] days of Jotham king of Judah, and in \[the\] days of Jeroboam king of Israel. 
-<small><sub>**KJV:**</sub></small>
-All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.
-<small><sub>**BSB:**</sub></small>
-All of them were recorded in the genealogies during the reigns of Jotham king of Judah and Jeroboam king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.16|<< 1 Chronicles 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.18|1 Chronicles 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

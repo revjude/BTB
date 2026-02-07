@@ -1,4 +1,4 @@
-**2 Kings 10:6** 
+**2 Kings 10:6**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he wrote a letter the second time to them, saying, If ye [be] mine, and [if] ye will hearken unto my voice, take ye the heads of the men your master’s sons, and come to me to Jezreel by to morrow this time. Now the king’s sons, [being] seventy persons, [were] with the great men of the city, which brought them up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehu wrote them a second letter and said: “If you are on my side, and if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.5|<< 2 Kings 10:5]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.7|2 Kings 10:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתֹּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.To<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶם֩]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

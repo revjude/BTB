@@ -1,10 +1,7 @@
 **LXX Genesis 38:18** 
 <small><sub>**LXX:**</sub></small>
 And he said, What  deposit shall I give to you?  And she said,  Your ring, and the pendant, and the rod  in  your hand. And he gave \[them\] to her, and he entered to her. And she conceived in \[the\] womb from him. 
-<small><sub>**KJV:**</sub></small>
-And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that [is] in thine hand. And he gave [it] her, and came in unto her, and she conceived by him.
-<small><sub>**BSB:**</sub></small>
-“What pledge should I give you?” he asked. She answered, “Your seal and your cord, and the staff in your hand.” So he gave them to her and slept with her, and she became pregnant by him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.17|<< Genesis 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.19|Genesis 38:19 >>]]</td></tr></table>
 
 | Translation | Greek |

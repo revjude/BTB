@@ -1,10 +1,7 @@
 **LXX Isaiah 44:27** 
 <small><sub>**LXX:**</sub></small>
 The one saying to the deep, You shall be made desolate, and  I will dry up your rivers. 
-<small><sub>**KJV:**</sub></small>
-That saith to the deep, Be dry, and I will dry up thy rivers:
-<small><sub>**BSB:**</sub></small>
-who says to the depths of the sea, ‘Be dry, and I will dry up your currents,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.26|<< Isaiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.28|Isaiah 44:28 >>]]</td></tr></table>
 
 | Translation | Greek |

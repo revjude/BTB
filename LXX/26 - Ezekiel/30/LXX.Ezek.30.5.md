@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:5** 
 <small><sub>**LXX:**</sub></small>
 Persians, and Cretans and Lydians, and Libyans, and Ethiopians, and all the intermixed \[peoples\], and of the sons  of my covenant shall fall by \[the\] \[\] sword with them. 
-<small><sub>**KJV:**</sub></small>
-Ethiopia, and Libya, and Lydia, and all the mingled people, and Chub, and the men of the land that is in league, shall fall with them by the sword.
-<small><sub>**BSB:**</sub></small>
-Cush, Put, and Lud, and all the various peoples, as well as Libya and the men of the covenant land, will fall with Egypt by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.4|<< Ezekiel 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.6|Ezekiel 30:6 >>]]</td></tr></table>
 
 | Translation | Greek |

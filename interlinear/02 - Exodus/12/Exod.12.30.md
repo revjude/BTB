@@ -1,4 +1,4 @@
-**Exodus 12:30** 
+**Exodus 12:30**<big><big>[[Exod.12.29 The Tenth Plague：Death of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for [there was] not a house where [there was] not one dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the night Pharaoh got up—he and all his officials and all the Egyptians
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.29|<< Exodus 12:29]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.31|Exodus 12:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֨קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֜ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

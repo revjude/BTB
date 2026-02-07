@@ -1,12 +1,12 @@
-**John 12:9
-**<small><sub>**KJV:**</sub></small>
+**John 12:9**<big><big>[[John.12.9 The Plot to Kill Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Much people of the Jews therefore knew that he was there: and they came not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.
 <small><sub>**BSB:**</sub></small>
 Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.
 <small><sub>**Literal:**</sub></small>
 Knew therefore <the> a crowd great of the Jews that there He is, and they came not because of <the> Jesus only but that also <the> Lazarus they may see whom He had raised out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.8|<< John 12:8]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.10|John 12:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Knew |**<big>[[G1097\|Ἔγνω]]</big>**  |Egnō <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 10:13** 
 <small><sub>**LXX:**</sub></small>
 And the sun and the moon stood in position until God repulsed  their enemies. Is this not written in \[the\] scroll of the upright? And the sun stood in \[the\] midst of the heaven, it did not go forth into descent for \[the\] completion of one day. 
-<small><sub>**KJV:**</sub></small>
-And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. [Is] not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
-<small><sub>**BSB:**</sub></small>
-So the sun stood still and the moon stopped until the nation took vengeance upon its enemies. Is this not written in the Book of Jashar? “So the sun stopped in the middle of the sky and delayed going down about a full day.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.12|<< Joshua 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.14|Joshua 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

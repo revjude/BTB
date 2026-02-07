@@ -1,4 +1,4 @@
-**Job 4:8** 
+**Job 4:8**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As I have observed, those who plow iniquity and those who sow trouble reap the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.7|<< Job 4:7]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.9|Job 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have seen  |**<big>&#8207;[[H7200G\|רָ֭אִיתִי]]&#8207; </big>**| Ra.'i.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

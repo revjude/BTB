@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:21** 
 <small><sub>**LXX:**</sub></small>
 And  Zedekiah king  of Judea, and  his rulers I will give into \[the\] hands of their enemies, and into \[the\] hands of ones seeking  their life, and into \[the\] hands of \[the\] force of \[the\] king of Babylon -- to the ones running from them. 
-<small><sub>**KJV:**</sub></small>
-And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon’s army, which are gone up from you.
-<small><sub>**BSB:**</sub></small>
-And I will deliver Zedekiah king of Judah and his officials into the hands of their enemies who seek their lives, to the army of the king of Babylon that had withdrawn from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.20|<< Jeremiah 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.22|Jeremiah 34:22 >>]]</td></tr></table>
 
 | Translation | Greek |

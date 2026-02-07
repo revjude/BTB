@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he sent to him a commander of fifty, and  his fifty. And he ascended to him. And he sat upon the top of the mountain. And the commander of fifty spoke to him, O man  of God, the king calls you, come down! 
-<small><sub>**KJV:**</sub></small>
-Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.
-<small><sub>**BSB:**</sub></small>
-Then King Ahaziah sent to Elijah a captain with his company of fifty men. So the captain went up to Elijah, who was sitting on top of a hill, and said to him, “Man of God, the king declares, ‘Come down!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.8|<< 2 Kings 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.10|2 Kings 1:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 1:9** is...

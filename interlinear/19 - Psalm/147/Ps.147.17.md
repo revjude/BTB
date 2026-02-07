@@ -1,4 +1,4 @@
-**Psalms 147:17** 
+**Psalms 147:17**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He casteth forth his ice like morsels: who can stand before his cold?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He casts forth His hail like pebbles. Who can withstand His icy blast?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.16|<< Psalms 147:16]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.18|Psalms 147:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the one who] throws  |**<big>&#8207;[[H7993\|מַשְׁלִ֣יךְ]]&#8207; </big>**| mash.Likh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ice his  |**<big>&#8207;[[H7140\|קַֽרְח֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| kar.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

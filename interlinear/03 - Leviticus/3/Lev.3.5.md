@@ -1,4 +1,4 @@
-**Leviticus 3:5** 
+**Leviticus 3:5**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which [is] upon the wood that [is] on the fire: [it is] an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Aaron’s sons are to burn it on the altar atop the burnt offering that is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.4|<< Leviticus 3:4]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.6|Leviticus 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will make smoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6999A\|הִקְטִ֨ירוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Ti.ru<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

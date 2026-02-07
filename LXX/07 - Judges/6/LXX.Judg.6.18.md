@@ -1,10 +1,7 @@
 **LXX Judges 6:18** 
 <small><sub>**LXX:**</sub></small>
 In no way should you separate from here until  my coming to you, and I shall bring  my sacrifice, and I shall sacrifice before you. And he said, I am settled until  you return. 
-<small><sub>**KJV:**</sub></small>
-Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set [it] before thee. And he said, I will tarry until thou come again.
-<small><sub>**BSB:**</sub></small>
-Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the LORD said, “I will stay until you return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.17|<< Judges 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.19|Judges 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

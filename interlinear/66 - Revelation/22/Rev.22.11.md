@@ -1,12 +1,12 @@
-**Revelation 22:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:11**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
 <small><sub>**BSB:**</sub></small>
 Let the unrighteous continue to be unrighteous, and the vile continue to be vile; let the righteous continue to practice righteousness, and the holy continue to be holy.”
 <small><sub>**Literal:**</sub></small>
 The [one] being unrighteous he should be unrighteous still, and he who filthy he should be defiled still, and he who [is] righteous righteousness he should practice still; and he who [is] holy he should be holy still.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.10|<< Revelation 22:10]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.12|Revelation 22:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being unrighteous |**<big>[[G0091\|ἀδικῶν]]</big>**  |adikōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

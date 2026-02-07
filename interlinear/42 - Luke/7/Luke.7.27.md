@@ -1,5 +1,5 @@
-**Luke 7:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:27**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is [he], of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 <small><sub>**BSB:**</sub></small>
 This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
@@ -10,7 +10,7 @@ This is he concerning whom it has been written: Behold I myself I send the messe
 > $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is he |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

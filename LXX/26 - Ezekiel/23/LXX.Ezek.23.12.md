@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:12** 
 <small><sub>**LXX:**</sub></small>
 She doted upon the sons of the Assyrians, \[the\] leaders, and commandants near her, ones being clothed elegantly, horsemen riding upon horses, young men, all choice. 
-<small><sub>**KJV:**</sub></small>
-She doted upon the Assyrians [her] neighbours, captains and rulers clothed most gorgeously, horsemen riding upon horses, all of them desirable young men.
-<small><sub>**BSB:**</sub></small>
-She too lusted after the Assyrians—governors and commanders, warriors dressed in splendor, horsemen riding on steeds, all desirable young men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.11|<< Ezekiel 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.13|Ezekiel 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

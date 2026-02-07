@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:4** 
 <small><sub>**LXX:**</sub></small>
 And they say, What \[thing\] for the torment shall we give for it? And they said, 
-<small><sub>**KJV:**</sub></small>
-Then said they, What [shall be] the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, [according to] the number of the lords of the Philistines: for one plague [was] on you all, and on your lords.
-<small><sub>**BSB:**</sub></small>
-“What guilt offering should we send back to Him?” asked the Philistines. “Five gold tumors and five gold rats,” they said, “according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.3|<< 1 Samuel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.5|1 Samuel 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

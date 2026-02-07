@@ -1,5 +1,5 @@
-**Mark 10:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:6**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But from the beginning of the creation God made them male and female.
 <small><sub>**BSB:**</sub></small>
 However, from the beginning of creation, ‘God made them male and female.’
@@ -10,7 +10,7 @@ From however [the] beginning of creation Male and female He made them’ <the> G
 > $\quad$ referencing: [[LXX.Gen.1.27|Gen 1:27]] ☩ [[LXX.Gen.5.2|Gen 5:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

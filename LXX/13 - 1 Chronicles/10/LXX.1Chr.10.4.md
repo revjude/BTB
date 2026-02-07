@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:4** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to the one carrying  his weapons, Unsheathe  your broadsword, and stab me with it! lest at any time these uncircumcised come and mock me. But the one carrying his weapons would not, for he feared exceedingly. And Saul took the broadsword, and fell upon it. 
-<small><sub>**KJV:**</sub></small>
-Then said Saul to his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and abuse me. But his armourbearer would not; for he was sore afraid. So Saul took a sword, and fell upon it.
-<small><sub>**BSB:**</sub></small>
-Then Saul said to his armor-bearer, “Draw your sword and run me through with it, or these uncircumcised men will come and torture me!” But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.3|<< 1 Chronicles 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.5|1 Chronicles 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

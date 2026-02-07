@@ -1,4 +1,4 @@
-**2 Kings 25:17** 
+**2 Kings 25:17**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The height of the one pillar [was] eighteen cubits, and the chapiter upon it [was] brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each pillar was eighteen cubits tall. The bronze capital atop one pillar was thr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.16|<< 2 Kings 25:16]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.18|2 Kings 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] eight-  |**<big>&#8207;[[H8083\|שְׁמֹנֶה֩]]&#8207; </big>**| she.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֨ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

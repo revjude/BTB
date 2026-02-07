@@ -1,10 +1,7 @@
 **LXX Genesis 41:35** 
 <small><sub>**LXX:**</sub></small>
 And let them bring together all the foods  of these coming seven good years! And let them bring together the grain under \[the\] hand of Pharaoh! foods to be guarded in the cities. 
-<small><sub>**KJV:**</sub></small>
-And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
-<small><sub>**BSB:**</sub></small>
-Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.34|<< Genesis 41:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.36|Genesis 41:36 >>]]</td></tr></table>
 
 | Translation | Greek |

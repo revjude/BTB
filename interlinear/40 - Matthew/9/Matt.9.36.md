@@ -1,5 +1,5 @@
-**Matthew 9:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:36**<big><big>[[Matt.9.35 The Lord of the Harvest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
 <small><sub>**BSB:**</sub></small>
 When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.
@@ -10,7 +10,7 @@ Having seen now the crowds He was moved with compassion for them because they we
 > $\quad$ referencing: [[LXX.Num.27.17|Num 27:17]] ☩ [[LXX.2Chr.18.16|2Chr 18:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 10:31
-**<small><sub>**KJV:**</sub></small>
+**John 10:31**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the Jews took up stones again to stone him.
 <small><sub>**BSB:**</sub></small>
 At this, the Jews again picked up stones to stone Him.
 <small><sub>**Literal:**</sub></small>
 Took up therefore again stones the Jews, that they may stone Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.30|<< John 10:30]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.32|John 10:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took up |**<big>[[G0941\|Ἐβάστασαν]]</big>**  |Ebastasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL+Treg+TR+Byz">KO</abbr> | |

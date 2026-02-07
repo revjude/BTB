@@ -1,4 +1,4 @@
-**Leviticus 14:11** 
+**Leviticus 14:11**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest that maketh [him] clean shall present the man that is to be made clean, and those things, before the LORD, [at] the door of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest who performs the cleansing shall present the one to be cleansed, toge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.10|<< Leviticus 14:10]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.12|Leviticus 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will station  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|הֶעֱמִ֞יד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Mid<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

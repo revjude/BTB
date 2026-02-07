@@ -1,12 +1,12 @@
-**Mark 14:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:4**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were some that had indignation within themselves, and said, Why was this waste of the ointment made?
 <small><sub>**BSB:**</sub></small>
 Some of those present, however, expressed their indignation to one another: “Why this waste of perfume?
 <small><sub>**Literal:**</sub></small>
 Were now some indignant within themselves and saying: To why <the> waste this of the fragrant oil has been made?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.3|<< Mark 14:3]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.5|Mark 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

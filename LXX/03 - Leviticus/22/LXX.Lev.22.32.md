@@ -1,10 +1,7 @@
 **LXX Leviticus 22:32** 
 <small><sub>**LXX:**</sub></small>
 And you shall not profane  my holy name; and I shall be sanctified in \[the\] midst of the sons of Israel. I \[am\] \[the\] <span class="smallcaps">lord</span>, the one sanctifying you, 
-<small><sub>**KJV:**</sub></small>
-Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I [am] the LORD which hallow you,
-<small><sub>**BSB:**</sub></small>
-You must not profane My holy name. I must be acknowledged as holy among the Israelites. I am the LORD who sanctifies you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.31|<< Leviticus 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.33|Leviticus 22:33 >>]]</td></tr></table>
 
 | Translation | Greek |

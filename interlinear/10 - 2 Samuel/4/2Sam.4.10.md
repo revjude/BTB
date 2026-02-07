@@ -1,4 +1,4 @@
-**2 Samuel 4:10** 
+**2 Samuel 4:10**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who [thought] that I would have given him a reward for his tidings:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when someone told me, ‘Look, Saul is dead,’ and thought he was a bearer of g
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.9|<< 2 Samuel 4:9]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.11|2 Samuel 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] told  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5046\|מַּגִּיד֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

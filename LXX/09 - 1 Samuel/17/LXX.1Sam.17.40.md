@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:40** 
 <small><sub>**LXX:**</sub></small>
 And he took  his rod in  his hand, and chose for himself five smooth stones from out of the rushing stream. And he put them in the canteen of the shepherd, the one being his, for a collection. And  his sling \[was\] in  his hand; and he went forward to the man, the Philistine. 
-<small><sub>**KJV:**</sub></small>
-And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling [was] in his hand: and he drew near to the Philistine.
-<small><sub>**BSB:**</sub></small>
-And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag. And with his sling in hand, he approached the Philistine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.39|<< 1 Samuel 17:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.41|1 Samuel 17:41 >>]]</td></tr></table>
 
 | Translation | Greek |

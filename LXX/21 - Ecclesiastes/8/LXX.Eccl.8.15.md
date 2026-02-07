@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:15** 
 <small><sub>**LXX:**</sub></small>
 And I praised with the gladness, because there is no good \[thing\] \[to\] man under the sun, were it not  to eat, and  to drink, and  to be glad. And it will adhere to him in his effort \[all the\] days of his life, as God gave to him under the sun. 
-<small><sub>**KJV:**</sub></small>
-Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.
-<small><sub>**BSB:**</sub></small>
-So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.14|<< Ecclesiastes 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.16|Ecclesiastes 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

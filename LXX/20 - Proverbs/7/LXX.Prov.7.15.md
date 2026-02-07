@@ -1,10 +1,7 @@
 **LXX Proverbs 7:15** 
 <small><sub>**LXX:**</sub></small>
 Because of this I come forth for meeting you; feeling the absence  of your face I have found you. 
-<small><sub>**KJV:**</sub></small>
-Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
-<small><sub>**BSB:**</sub></small>
-So I came out to meet you; I sought you, and I have found you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.14|<< Proverbs 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.16|Proverbs 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

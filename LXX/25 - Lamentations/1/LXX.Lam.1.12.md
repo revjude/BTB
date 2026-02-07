@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΛΑΜΕΔ</p>
 
 All the \[ones\] coming near to you in \[the\] way turn and see if there is a pain as my pain which happened \[to me\]. The one uttering a sound to me humbled me -- \[the\] <span class="smallcaps">lord</span> in a day of anger of his rage. 
-<small><sub>**KJV:**</sub></small>
-[Is it] nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted [me] in the day of his fierce anger.
-<small><sub>**BSB:**</sub></small>
-Is this nothing to you, all you who pass by? Look around and see! Is there any sorrow like mine, which was inflicted on me, which the LORD made me suffer on the day of His fierce anger?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.11|<< Lamentations 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.13|Lamentations 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

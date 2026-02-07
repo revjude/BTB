@@ -1,10 +1,7 @@
 **LXX Isaiah 37:7** 
 <small><sub>**LXX:**</sub></small>
 Behold, I shall put upon him a spirit, and hearing a message he shall return unto  his place, and he shall fall \[by the\] sword in  his land. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will send a blast upon him, and he shall hear a rumour, and return to his own land; and I will cause him to fall by the sword in his own land.
-<small><sub>**BSB:**</sub></small>
-Behold, I will put a spirit in him so that he will hear a rumor and return to his own land, where I will cause him to fall by the sword.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.6|<< Isaiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.8|Isaiah 37:8 >>]]</td></tr></table>
 
 | Translation | Greek |

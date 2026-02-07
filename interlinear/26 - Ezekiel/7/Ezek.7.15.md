@@ -1,4 +1,4 @@
-**Ezekiel 7:15** 
+**Ezekiel 7:15**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword [is] without, and the pestilence and the famine within: he that [is] in the field shall die with the sword; and he that [is] in the city, famine and pestilence shall devour him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sword is outside; plague and famine are within. Those in the country will di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.14|<< Ezekiel 7:14]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.16|Ezekiel 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the sword  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] on the outside  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|ח֔וּץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

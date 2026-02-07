@@ -1,10 +1,7 @@
 **LXX Esther 3:7** 
 <small><sub>**LXX:**</sub></small>
 And he made a referendum in \[the\] twelfth year of the kingdom of Artaxerxes. And he cast lots day by day, and month by month, so as to destroy in one day the race of Mordecai. And the lot fell on the fourteenth of the month, which is Adar. 
-<small><sub>**KJV:**</sub></small>
-In the first month, that [is], the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that [is], the lot, before Haman from day to day, and from month to month, [to] the twelfth [month], that [is], the month Adar.
-<small><sub>**BSB:**</sub></small>
-In the twelfth year of King Xerxes, in the first month, the month of Nisan, the Pur (that is, the lot) was cast before Haman to determine a day and month. And the lot fell on the twelfth month, the month of Adar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.6|<< Esther 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.8|Esther 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

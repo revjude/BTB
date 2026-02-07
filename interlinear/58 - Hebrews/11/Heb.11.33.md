@@ -1,5 +1,5 @@
-**Hebrews 11:33
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:33**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,
 <small><sub>**BSB:**</sub></small>
 who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions,
@@ -10,7 +10,7 @@ who through faith conquered kingdoms, administered justice, obtained promises, s
 > $\quad$ possibly alluding to: [[LXX.Dan.6.22|Dan 6:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:22** 
 <small><sub>**LXX:**</sub></small>
 All these being chosen for gatekeepers at the doorposts -- two hundred and twelve. These with  their properties  of their genealogy and  their distribution, these were counted. And David and Samuel the seer established \[them\] in  their trust. 
-<small><sub>**KJV:**</sub></small>
-All these [which were] chosen to be porters in the gates [were] two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
-<small><sub>**BSB:**</sub></small>
-The number of those chosen to be gatekeepers at the thresholds was 212. They were registered by genealogy in their villages. David and Samuel the seer had appointed them to their positions of trust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.21|<< 1 Chronicles 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.23|1 Chronicles 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

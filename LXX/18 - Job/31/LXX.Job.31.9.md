@@ -1,10 +1,7 @@
 **LXX Job 31:9** 
 <small><sub>**LXX:**</sub></small>
 If my heart followed after \[the\] wife of another man, and if I had laid in wait at her doors; 
-<small><sub>**KJV:**</sub></small>
-If mine heart have been deceived by a woman, or [if] I have laid wait at my neighbour’s door;
-<small><sub>**BSB:**</sub></small>
-If my heart has been enticed by my neighbor’s wife, or I have lurked at his door,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.8|<< Job 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.10|Job 31:10 >>]]</td></tr></table>
 
 | Translation | Greek |

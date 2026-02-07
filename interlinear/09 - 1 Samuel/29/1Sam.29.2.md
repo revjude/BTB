@@ -1,4 +1,4 @@
-**1 Samuel 29:2** 
+**1 Samuel 29:2**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the Philistine leaders marched out with their units of hundreds and thousands
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.1|<< 1 Samuel 29:1]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.3|1 Samuel 29:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rulers of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5633A\|סַרְנֵ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sar.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּים֙]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

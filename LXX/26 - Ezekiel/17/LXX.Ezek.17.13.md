@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:13** 
 <small><sub>**LXX:**</sub></small>
 And he shall take of the seed of the kingdom, and shall ordain with him a covenant, and shall bring him by an oath; and he shall take the governors of the land, 
-<small><sub>**KJV:**</sub></small>
-And hath taken of the king’s seed, and made a covenant with him, and hath taken an oath of him: he hath also taken the mighty of the land:
-<small><sub>**BSB:**</sub></small>
-He took a member of the royal family and made a covenant with him, putting him under oath. Then he carried away the leading men of the land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.12|<< Ezekiel 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.14|Ezekiel 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

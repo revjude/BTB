@@ -1,4 +1,4 @@
-**Deuteronomy 4:30** 
+**Deuteronomy 4:30**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou art in tribulation, and all these things are come upon thee, [even] in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you are in distress and all these things have happened to you, then in late
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.29|<< Deuteronomy 4:29]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.31|Deuteronomy 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when \<the> it is distress  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6862B\|צַּ֣ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Tzar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 7:23** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh turned to enter into  his house, and he did not set  his mind neither upon this \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh turned and went into his house, neither did he set his heart to this also.
-<small><sub>**BSB:**</sub></small>
-Instead, Pharaoh turned around, went into his palace, and did not take any of this to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.22|<< Exodus 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.24|Exodus 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> delivered  Hezekiah and the ones dwelling in Jerusalem from \[the\] hand of Sennacherib king of Assyria, and from \[the\] hand of all, and rested them round about. 
-<small><sub>**KJV:**</sub></small>
-Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all [other], and guided them on every side.
-<small><sub>**BSB:**</sub></small>
-So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Sennacherib of Assyria and all others, and He gave them rest on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.21|<< 2 Chronicles 32:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.23|2 Chronicles 32:23 >>]]</td></tr></table>
 
 | Translation | Greek |

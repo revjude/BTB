@@ -1,4 +1,4 @@
-**1 Kings 8:46** 
+**1 Kings 8:46**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they sin against thee, (for [there is] no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they sin against You—for there is no one who does not sin—and You becom
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.45|<< 1 Kings 8:45]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.47|1 Kings 8:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will sin  |**<big>&#8207;[[H2398\|יֶֽחֶטְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.chet.'u-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there came to him in writing \[words\] by Elijah the prophet, saying, Thus says \[the\] <span class="smallcaps">lord</span>, the God of David  your father, Because you did not go in \[the\] way of Jehoshaphat  your father, and in \[the\] ways of Asa king of Judah, 
-<small><sub>**KJV:**</sub></small>
-And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,
-<small><sub>**BSB:**</sub></small>
-Then a letter came to Jehoram from Elijah the prophet, which stated: “This is what the LORD, the God of your father David, says: ‘You have not walked in the ways of your father Jehoshaphat or of Asa king of Judah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.11|<< 2 Chronicles 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.13|2 Chronicles 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

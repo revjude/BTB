@@ -1,4 +1,4 @@
-**Leviticus 8:24** 
+**Leviticus 8:24**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses also presented Aaron’s sons and put some of the blood on their right ear
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.23|<< Leviticus 8:23]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.25|Leviticus 8:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he presented  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|יַּקְרֵ֞ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Rev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 2:32** 
+**Jeremiah 2:32**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a maid forget her ornaments, [or] a bride her attire? yet my people have forgotten me days without number.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does a maiden forget her jewelry or a bride her wedding sash? Yet My people have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.31|<< Jeremiah 2:31]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.33|Jeremiah 2:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will she forget  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7911\|תִשְׁכַּ֤ח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tish.Kach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a virgin  |**<big>&#8207;[[H1330\|בְּתוּלָה֙]]&#8207; </big>**| be.tu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

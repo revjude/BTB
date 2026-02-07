@@ -1,12 +1,12 @@
-**John 17:8
-**<small><sub>**KJV:**</sub></small>
+**John 17:8**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I have given unto them the words which thou gavest me; and they have received [them], and have known surely that I came out from thee, and they have believed that thou didst send me.
 <small><sub>**BSB:**</sub></small>
 For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me.
 <small><sub>**Literal:**</sub></small>
 for the declarations that You gave Me I have given to them; and they themselves received [them] and they knew truly that from You I came forth, and they believed that You yourself Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.7|<< John 17:7]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.9|John 17:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

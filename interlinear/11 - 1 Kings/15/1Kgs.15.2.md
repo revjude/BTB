@@ -1,4 +1,4 @@
-**1 Kings 15:2** 
+**1 Kings 15:2**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three years reigned he in Jerusalem. And his mother’s name [was] Maachah, the daughter of Abishalom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he reigned in Jerusalem three years. His mother’s name was Maacah daughter
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.1|<< 1 Kings 15:1]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.3|1 Kings 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁלֹ֣שׁ]]&#8207; </big>**| sha.Losh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִ֔ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

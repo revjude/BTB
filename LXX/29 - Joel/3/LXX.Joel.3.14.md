@@ -1,10 +1,7 @@
 **LXX Joel 3:14** 
 <small><sub>**LXX:**</sub></small>
 Sounds resounded in the valley  of punishment, for \[the\] day \[of the\] <span class="smallcaps">lord</span> \[is\] near in the valley  of punishment. 
-<small><sub>**KJV:**</sub></small>
-Multitudes, multitudes in the valley of decision: for the day of the LORD [is] near in the valley of decision.
-<small><sub>**BSB:**</sub></small>
-Multitudes, multitudes in the valley of decision! For the Day of the LORD is near in the valley of decision.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.13|<< Joel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.15|Joel 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

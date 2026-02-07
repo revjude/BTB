@@ -1,12 +1,12 @@
-**1 Thessalonians 3:3
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:3**<big><big>[[1Thess.3.1 Timothy’s Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
 <small><sub>**BSB:**</sub></small>
 so that none of you would be shaken by these trials. For you know that we are destined for this.
 <small><sub>**Literal:**</sub></small>
 <the> no one [is] to be moved by <the> tribulations these; Yourselves for you know that for this we are destined;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.2|<< 1 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.4|1 Thessalonians 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> [^1] |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | no one [is] |**<big>[[G3367\|μηδένα]]</big>**  |mēdena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

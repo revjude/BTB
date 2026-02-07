@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] month of Nisan, \[the\] twentieth year of Artaxerxes \[the\] king, that the wine was before him. And I took the wine and gave it to the king, and there was no other before him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, [that] wine [was] before him: and I took up the wine, and gave [it] unto the king. Now I had not been [beforetime] sad in his presence.
-<small><sub>**BSB:**</sub></small>
-Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.11|<< Nehemiah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.2|Nehemiah 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

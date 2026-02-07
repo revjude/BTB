@@ -1,12 +1,12 @@
-**Acts 5:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:14**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And believers were the more added to the Lord, multitudes both of men and women.)
 <small><sub>**BSB:**</sub></small>
 Yet more and more believers were brought to the Lord—large numbers of both men and women.
 <small><sub>**Literal:**</sub></small>
 more now were added believing in the Lord, multitudes of men both and women,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.13|<< Acts 5:13]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.15|Acts 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more |**<big>[[G3123G\|μᾶλλον]]</big>**  |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

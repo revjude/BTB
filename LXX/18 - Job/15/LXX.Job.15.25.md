@@ -1,10 +1,7 @@
 **LXX Job 15:25** 
 <small><sub>**LXX:**</sub></small>
 For he has lifted hands against the <span class="smallcaps">lord</span>, and before \[the\] almighty he stiffened his neck. 
-<small><sub>**KJV:**</sub></small>
-For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.
-<small><sub>**BSB:**</sub></small>
-For he has stretched out his hand against God and has vaunted himself against the Almighty,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.24|<< Job 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.26|Job 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

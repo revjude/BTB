@@ -1,12 +1,12 @@
-**Matthew 24:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:23**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then if any man shall say unto you, Lo, here [is] Christ, or there; believe [it] not.
 <small><sub>**BSB:**</sub></small>
 At that time, if anyone says to you, ‘Look, here is the Christ!’ or ‘There He is!’ do not believe it.
 <small><sub>**Literal:**</sub></small>
 Then if anyone to you may say; Behold here [is] the Christ or Here, not shall believe [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.22|<< Matthew 24:22]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.24|Matthew 24:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐάν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

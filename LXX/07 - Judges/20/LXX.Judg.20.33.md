@@ -1,10 +1,7 @@
 **LXX Judges 20:33** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel rose up from  his place, and deployed in Baal-tamar. And the ambush of Israel wrestled from out of  its place from \[the\] descent  of Gibeah. 
-<small><sub>**KJV:**</sub></small>
-And all the men of Israel rose up out of their place, and put themselves in array at Baaltamar: and the liers in wait of Israel came forth out of their places, [even] out of the meadows of Gibeah.
-<small><sub>**BSB:**</sub></small>
-So all the men of Israel got up from their places and arrayed themselves at Baal-tamar, and the Israelites in ambush charged from their positions west of Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.32|<< Judges 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.34|Judges 20:34 >>]]</td></tr></table>
 
 | Translation | Greek |

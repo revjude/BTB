@@ -1,4 +1,4 @@
-**Proverbs 30:30** 
+**Proverbs 30:30**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A lion [which is] strongest among beasts, and turneth not away for any;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a lion, mighty among beasts, refusing to retreat before anything;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.29|<< Proverbs 30:29]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.31|Proverbs 30:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a lion  |**<big>&#8207;[[H3918\|לַ֭יִשׁ]]&#8207; </big>**| La.yish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] mighty  |**<big>&#8207;[[H1368\|גִּבּ֣וֹר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

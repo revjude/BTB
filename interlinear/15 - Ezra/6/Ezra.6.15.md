@@ -1,4 +1,4 @@
-**Ezra 6:15** 
+**Ezra 6:15**<big><big>[[Ezra.6.13 The Temple Completed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this temple was completed on the third day of the month of Adar, in the sixt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.14|<< Ezra 6:14]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.16|Ezra 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was brought forth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3319\|שֵׁיצִיא֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> shei.Tzi'<small><sup>[[AVep3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | house the  |**<big>&#8207;[[H1005\|בַּיְתָ֣]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**| bay.Tah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

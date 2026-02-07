@@ -1,10 +1,7 @@
 **LXX Leviticus 25:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall observe all  my ordinances, and all  my judgments. And you shall keep, and you shall observe them. And you shall dwell upon the land complying. 
-<small><sub>**KJV:**</sub></small>
-Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.
-<small><sub>**BSB:**</sub></small>
-You are to keep My statutes and carefully observe My judgments, so that you may dwell securely in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.17|<< Leviticus 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.19|Leviticus 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

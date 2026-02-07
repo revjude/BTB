@@ -1,4 +1,4 @@
-**Psalms 33:1** 
+**Psalms 33:1**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.11|<< Psalms 32:11]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.2|Psalms 33:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רַנְּנ֣וּ]]&#8207; </big>**| ra.ne.Nu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

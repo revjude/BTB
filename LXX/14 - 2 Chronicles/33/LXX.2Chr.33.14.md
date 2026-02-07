@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:14** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\], he built a wall outside the city of David, from \[the\] southwest  of Gihon, by the rushing stream going forth by the fishing gate -- a circuit to the Ophel, and he raised it high exceedingly. And he placed rulers of \[the\] force in all the walled cities in Judah. 
-<small><sub>**KJV:**</sub></small>
-Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
-<small><sub>**BSB:**</sub></small>
-After this, Manasseh rebuilt the outer wall of the City of David from west of Gihon in the valley to the entrance of the Fish Gate, and he brought it around the hill of Ophel and heightened it considerably. He also stationed military commanders in all the fortified cities of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.13|<< 2 Chronicles 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.15|2 Chronicles 33:15 >>]]</td></tr></table>
 
 | Translation | Greek |

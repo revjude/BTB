@@ -1,4 +1,4 @@
-**Jeremiah 17:12** 
+**Jeremiah 17:12**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A glorious high throne from the beginning [is] the place of our sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A glorious throne, exalted from the beginning, is the place of our sanctuary.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.11|<< Jeremiah 17:11]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.13|Jeremiah 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a throne of  |**<big>&#8207;[[H3678G\|כִּסֵּ֣א]]&#8207; </big>**| ki.Se'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | glory  |**<big>&#8207;[[H3519\|כָב֔וֹד]]&#8207; </big>**| kha.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

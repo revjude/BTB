@@ -1,4 +1,4 @@
-**Ezekiel 21:21** (21:26)
+**Ezekiel 21:21**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made [his] arrows bright, he consulted with images, he looked in the liver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the king of Babylon stands at the fork in the road, at the junction of the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.20|<< Ezekiel 21:20]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.22|Ezekiel 21:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has stopped  |**<big>&#8207;[[H5975G\|עָמַ֨ד]]&#8207; </big>**| 'a.Mad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

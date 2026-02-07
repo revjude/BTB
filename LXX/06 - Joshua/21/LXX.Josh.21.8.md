@@ -1,10 +1,7 @@
 **LXX Joshua 21:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel gave to the Levites  these cities and  their outskirts, in which manner \[the\] <span class="smallcaps">lord</span> gave charge  to Moses by casting lots. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-So the Israelites allotted to the Levites these cities, together with their pasturelands, as the LORD had commanded through Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.7|<< Joshua 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.9|Joshua 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

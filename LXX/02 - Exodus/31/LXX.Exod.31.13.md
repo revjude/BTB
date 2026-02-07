@@ -1,10 +1,7 @@
 **LXX Exodus 31:13** 
 <small><sub>**LXX:**</sub></small>
 You also speak to the sons of Israel! saying, Perceive, and  guard my Sabbaths! For it is a sign by me and among you unto  your generations, that you might know that I \[the\] <span class="smallcaps">lord</span> \[am\] the one sanctifying you. 
-<small><sub>**KJV:**</sub></small>
-Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it [is] a sign between me and you throughout your generations; that [ye] may know that I [am] the LORD that doth sanctify you.
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites, ‘Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.12|<< Exodus 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.14|Exodus 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

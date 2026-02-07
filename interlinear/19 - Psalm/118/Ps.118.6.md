@@ -1,4 +1,4 @@
-**Psalms 118:6** 
+**Psalms 118:6**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] on my side; I will not fear: what can man do unto me?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is on my side; I will not be afraid. What can man do to me?
 > $\quad$ referenced by: [[Heb.13.6|Heb 13:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] for me  |**<big>&#8207;[[H9005\|לִ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:12** 
 <small><sub>**LXX:**</sub></small>
  This house which you construct, if you travel by  my orders, and  you should observe my judgments, and should keep all  my commandments, to pace in them; I will establish  my word with you which I spoke to David  your father; 
-<small><sub>**KJV:**</sub></small>
-[Concerning] this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:
-<small><sub>**BSB:**</sub></small>
-“As for this temple you are building, if you walk in My statutes, carry out My ordinances, and keep all My commandments by walking in them, I will fulfill through you the promise I made to your father David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.11|<< 1 Kings 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.13|1 Kings 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

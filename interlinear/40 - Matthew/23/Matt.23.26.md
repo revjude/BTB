@@ -1,12 +1,12 @@
-**Matthew 23:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:26**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Thou] blind Pharisee, cleanse first that [which is] within the cup and platter, that the outside of them may be clean also.
 <small><sub>**BSB:**</sub></small>
 Blind Pharisee! First clean the inside of the cup and dish, so that the outside may become clean as well.
 <small><sub>**Literal:**</sub></small>
 Pharisee blind! do cleanse first the inside of the cup and of the dish that may become also the outside of it clean.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.25|<< Matthew 23:25]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.27|Matthew 23:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Pharisee |**<big>[[G5330\|Φαρισαῖε]]</big>**  |Pharisaie <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blind! |**<big>[[G5185\|τυφλέ,]]</big>**  |tuphle <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 32:35** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> struck the people on account of the making of the calf, which Aaron made. 
-<small><sub>**KJV:**</sub></small>
-And the LORD plagued the people, because they made the calf, which Aaron made.
-<small><sub>**BSB:**</sub></small>
-And the LORD sent a plague on the people because of what they had done with the calf that Aaron had made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.34|<< Exodus 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.1|Exodus 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Timothy 4:17
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:17**<big><big>[[2Tim.4.16 The Lord Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and [that] all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 <small><sub>**BSB:**</sub></small>
 But the Lord stood by me and strengthened me, so that through me the message would be fully proclaimed, and all the Gentiles would hear it. So I was delivered from the mouth of the lion.
 <small><sub>**Literal:**</sub></small>
 <the> And the Lord me stood by and He strengthened me, so that through me the proclamation may be fully accomplished, and may hear all the Gentiles, And I was delivered out of [the] mouth of the lion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.16|<< 2 Timothy 4:16]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.18|2 Timothy 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

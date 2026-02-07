@@ -1,4 +1,4 @@
-**2 Kings 11:3** 
+**2 Kings 11:3**<big><big>[[2Kgs.11.1 Athaliah and Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was with her hid in the house of the LORD six years. And Athaliah did reign over the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joash remained hidden with his nurse in the house of the LORD for six years 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.2|<< 2 Kings 11:2]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.4|2 Kings 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with her  |**<big>&#8207;[[H0854\|אִתָּ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'i.Ta<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

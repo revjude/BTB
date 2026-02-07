@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, They found \[it\] hot in \[the\] wilderness with ones being destroyed by sword. Proceed! and you should not destroy  Israel. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, The people [which were] left of the sword found grace in the wilderness; [even] Israel, when I went to cause him to rest.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “The people who survived the sword found favor in the wilderness when Israel went to find rest.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.1|<< Jeremiah 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.3|Jeremiah 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 18:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:11**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican.
 <small><sub>**BSB:**</sub></small>
 The Pharisee stood by himself and prayed, ‘God, I thank You that I am not like other men—swindlers, evildoers, adulterers—or even like this tax collector.
 <small><sub>**Literal:**</sub></small>
 The Pharisee having stood toward himself these things was praying; O God, I thank You that not I am like the rest of the men — swindlers, unrighteous, adulterers — or even like this <the> tax collector.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.10|<< Luke 18:10]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.12|Luke 18:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Pharisee |**<big>[[G5330\|Φαρισαῖος]]</big>**  |Pharisaios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

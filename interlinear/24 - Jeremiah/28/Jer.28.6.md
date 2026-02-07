@@ -1,4 +1,4 @@
-**Jeremiah 28:6** 
+**Jeremiah 28:6**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even the prophet Jeremiah said, Amen: the LORD do so: the LORD perform thy words which thou hast prophesied, to bring again the vessels of the LORD’S house, and all that is carried away captive, from Babylon into this place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the prophet Jeremiah said, Amen: the LORD do so: the LORD perform thy words
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.5|<< Jeremiah 28:5]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.7|Jeremiah 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֣ה]]&#8207; </big>**| yir.me.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

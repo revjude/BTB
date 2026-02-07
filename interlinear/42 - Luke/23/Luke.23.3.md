@@ -1,12 +1,12 @@
-**Luke 23:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:3**<big><big>[[Luke.23.1 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest [it].
 <small><sub>**BSB:**</sub></small>
 So Pilate asked Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate asked Him saying; You yourself are the King of the Jews? <the> And answering him He was saying; You yourself say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.2|<< Luke 23:2]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.4|Luke 23:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

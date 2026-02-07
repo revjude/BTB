@@ -1,10 +1,7 @@
 **LXX Amos 3:3** 
 <small><sub>**LXX:**</sub></small>
 Shall two go together altogether if they do not make themselves known \[to each other\], \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Can two walk together, except they be agreed?
-<small><sub>**BSB:**</sub></small>
-Can two walk together without agreeing where to go?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.2|<< Amos 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.4|Amos 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

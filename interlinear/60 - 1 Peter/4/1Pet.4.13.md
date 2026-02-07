@@ -1,12 +1,12 @@
-**1 Peter 4:13
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:13**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
 <small><sub>**BSB:**</sub></small>
 But rejoice that you share in the sufferings of Christ, so that you may be overjoyed at the revelation of His glory.
 <small><sub>**Literal:**</sub></small>
 But as you have shared in the <the> of Christ sufferings do rejoice, so that also in the revelation of the glory of Him you may rejoice exulting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.12|<< 1 Peter 4:12]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.14|1 Peter 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G2526\|καθὸ]]</big>**  |katho <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

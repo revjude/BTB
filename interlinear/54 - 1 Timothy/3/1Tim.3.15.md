@@ -1,12 +1,12 @@
-**1 Timothy 3:15
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:15**<big><big>[[1Tim.3.14 The Mystery of Godliness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 <small><sub>**BSB:**</sub></small>
 in case I am delayed, so that you will know how each one must conduct himself in God’s household, which is the church of the living God, the pillar and foundation of the truth.
 <small><sub>**Literal:**</sub></small>
 if however I shall delay, so that you may know how it behooves [one] in [the] household of God to conduct oneself, which is [the] church of God [the] living, [the] pillar and base of the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.14|<< 1 Timothy 3:14]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.16|1 Timothy 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

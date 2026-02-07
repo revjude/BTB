@@ -1,10 +1,7 @@
 **LXX Daniel 8:24** 
 <small><sub>**LXX:**</sub></small>
 And his strength \[is\] fortified, and not by  his strength. And wonderfully he shall corrupt, and shall prosper, and shall perform, and shall corrupt strong ones, and a holy people. 
-<small><sub>**KJV:**</sub></small>
-And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
-<small><sub>**BSB:**</sub></small>
-His power will be great, but it will not be his own. He will cause terrible destruction and succeed in whatever he does. He will destroy the mighty men along with the holy people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 8:24** is...

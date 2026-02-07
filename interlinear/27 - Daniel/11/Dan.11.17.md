@@ -1,4 +1,4 @@
-**Daniel 11:17** 
+**Daniel 11:17**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand [on his side], neither be for him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will resolve to come with the strength of his whole kingdom, and will reach a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.16|<< Daniel 11:16]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.18|Daniel 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will set  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7760A\|יָשֵׂ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Sem<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face his  |**<big>&#8207;[[H6440H\|פָּ֠נָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Pa.na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

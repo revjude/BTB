@@ -1,4 +1,4 @@
-**Jeremiah 32:34** 
+**Jeremiah 32:34**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they set their abominations in the house, which is called by my name, to defile it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have placed their abominations in the house that bears My Name, and so have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.33|<< Jeremiah 32:33]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.35|Jeremiah 32:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּשִׂ֣ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | detestable things their  |**<big>&#8207;[[H8251\|שִׁקּֽוּצֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| shi.ku.tzei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

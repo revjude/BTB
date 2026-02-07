@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:4** 
 <small><sub>**LXX:**</sub></small>
 And his brightness will be as light, and horns in his hands. And he established a strong affection by his strength. 
-<small><sub>**KJV:**</sub></small>
-And [his] brightness was as the light; he had horns [coming] out of his hand: and there [was] the hiding of his power.
-<small><sub>**BSB:**</sub></small>
-His radiance was like the sunlight; rays flashed from His hand, where His power is hidden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.3|<< Habakkuk 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.5|Habakkuk 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

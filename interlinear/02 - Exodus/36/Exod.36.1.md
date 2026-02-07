@@ -1,4 +1,4 @@
-**Exodus 36:1** 
+**Exodus 36:1**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.35|<< Exodus 35:35]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.2|Exodus 36:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bezalel  |**<big>&#8207;[[H1212G\|בְצַלְאֵ֨ל]]&#8207; </big>**| ve.tzal.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

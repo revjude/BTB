@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the congregation sent there twelve thousand men from the sons of the force. And they gave charge to them, saying, Go and strike all the ones dwelling in Jabish Gilead by \[the\] mouth of \[the\] broadsword, even the women and the people! 
-<small><sub>**KJV:**</sub></small>
-And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
-<small><sub>**BSB:**</sub></small>
-So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.9|<< Judges 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.11|Judges 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

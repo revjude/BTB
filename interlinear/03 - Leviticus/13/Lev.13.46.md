@@ -1,4 +1,4 @@
-**Leviticus 13:46** 
+**Leviticus 13:46**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the days wherein the plague [shall be] in him he shall be defiled; he [is] unclean: he shall dwell alone; without the camp [shall] his habitation [be].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As long as he has the infection, he remains unclean. He must live alone in a pla
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.45|<< Leviticus 13:45]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.47|Leviticus 13:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days  |**<big>&#8207;[[H3117G\|יְמֵ֞י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**3 John 1:2
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:2**<big><big>[[3John.1.1 A Greeting from the Elder|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.
 <small><sub>**BSB:**</sub></small>
 Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers.
 <small><sub>**Literal:**</sub></small>
 Beloved, concerning all things I pray you to do well and to be in good health even as does well your <the> soul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.1|<< 3 John 1:1]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.3|3 John 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|ἀγαπητέ,]]</big>**  |agapēte <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

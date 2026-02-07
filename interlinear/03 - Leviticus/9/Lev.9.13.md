@@ -1,4 +1,4 @@
-**Leviticus 9:13** 
+**Leviticus 9:13**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt [them] upon the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They brought him the burnt offering piece by piece, including the head, and he b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.12|<< Leviticus 9:12]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.14|Leviticus 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

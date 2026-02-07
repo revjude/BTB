@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:8** 
 <small><sub>**LXX:**</sub></small>
 And his horses shall leap more than leopards, and \[are\] sharper than the wolves  of Arabia. And his horsemen shall ride forth, and shall advance far off; and they shall spread out as an eagle eager for \[something\]  to eat. 
-<small><sub>**KJV:**</sub></small>
-Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle [that] hasteth to eat.
-<small><sub>**BSB:**</sub></small>
-Their horses are swifter than leopards, fiercer than wolves of the night. Their horsemen charge ahead, and their cavalry comes from afar. They fly like a vulture, swooping down to devour.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.7|<< Habakkuk 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.9|Habakkuk 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

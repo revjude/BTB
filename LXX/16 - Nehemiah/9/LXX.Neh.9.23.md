@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:23** 
 <small><sub>**LXX:**</sub></small>
 And  their sons you multiplied as the stars of the heaven, and brought them into the land which you spoke \[to\] their fathers,  to enter and to inherit. 
-<small><sub>**KJV:**</sub></small>
-Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess [it].
-<small><sub>**BSB:**</sub></small>
-You multiplied their descendants like the stars of heaven and brought them to the land You had told their fathers to enter and possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.22|<< Nehemiah 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.24|Nehemiah 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

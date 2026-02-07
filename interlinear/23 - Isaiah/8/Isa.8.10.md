@@ -1,4 +1,4 @@
-**Isaiah 8:10** 
+**Isaiah 8:10**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God [is] with us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Devise a plan, but it will be thwarted; state a proposal, but it will not happen
 > $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | plan  |**<big>&#8207;[[H5779\|עֻ֥צוּ]]&#8207; </big>**| 'U.tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a plan  |**<big>&#8207;[[H6098\|עֵצָ֖ה]]&#8207; </big>**| 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

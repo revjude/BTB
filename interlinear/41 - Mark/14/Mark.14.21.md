@@ -1,5 +1,5 @@
-**Mark 14:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:21**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
 <small><sub>**BSB:**</sub></small>
 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”
@@ -10,7 +10,7 @@ For <the> indeed the Son <the> of Man goes even as it has been written concernin
 > $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

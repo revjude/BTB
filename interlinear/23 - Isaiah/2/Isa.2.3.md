@@ -1,4 +1,4 @@
-**Isaiah 2:3** 
+**Isaiah 2:3**<big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And many peoples will come and say: “Come, let us go up to the mountain of the
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1980H\|הָלְכ֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.le.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּ֣ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

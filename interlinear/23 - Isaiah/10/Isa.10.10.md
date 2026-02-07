@@ -1,4 +1,4 @@
-**Isaiah 10:10** 
+**Isaiah 10:10**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As my hand seized the idolatrous kingdoms whose images surpassed those of Jerusa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.9|<< Isaiah 10:9]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.11|Isaiah 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֙]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has found  |**<big>&#8207;[[H4672\|מָצְאָ֣ה]]&#8207; </big>**| ma.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

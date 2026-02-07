@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:8** 
 <small><sub>**LXX:**</sub></small>
 And the Mehunim gave gifts  to Uzziah. And his name was \[famous\] unto \[the\] entrance of Egypt, for he strengthened himself even higher. 
-<small><sub>**KJV:**</sub></small>
-And the Ammonites gave gifts to Uzziah: and his name spread abroad [even] to the entering in of Egypt; for he strengthened [himself] exceedingly.
-<small><sub>**BSB:**</sub></small>
-The Ammonites brought tribute to Uzziah, and his fame spread as far as the border of Egypt, for he had become exceedingly powerful.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.7|<< 2 Chronicles 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.9|2 Chronicles 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

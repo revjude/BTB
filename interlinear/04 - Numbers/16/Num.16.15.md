@@ -1,4 +1,4 @@
-**Numbers 16:15** 
+**Numbers 16:15**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses became very angry and said to the LORD, “Do not regard their offeri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.14|<< Numbers 16:14]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.16|Numbers 16:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּ֤חַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Moses  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

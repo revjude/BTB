@@ -1,4 +1,4 @@
-**Exodus 27:21** 
+**Exodus 27:21**<big><big>[[Exod.27.20 The Oil for the Lamps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the tabernacle of the congregation without the vail, which [is] before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: [it shall be] a statute for ever unto their generations on the behalf of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the Tent of Meeting, outside the veil that is in front of the Testimony, Aaro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.20|<< Exodus 27:20]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.1|Exodus 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | meeting  |**<big>&#8207;[[H4150I\|מוֹעֵד֩]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

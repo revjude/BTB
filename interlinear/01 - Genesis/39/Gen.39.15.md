@@ -1,4 +1,4 @@
-**Genesis 39:15** 
+**Genesis 39:15**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he heard me scream for help, he left his cloak beside me and ran out of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.14|<< Genesis 39:14]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.16|Genesis 39:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard he  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H8085G\|שָׁמְע֔]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> sha.me.'<small><sup>[[HVqcc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

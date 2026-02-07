@@ -1,4 +1,4 @@
-**Numbers 26:64** 
+**Numbers 26:64**<big><big>[[Num.26.63 Only Caleb and Joshua Remain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Among all these, however, there was not one who had been numbered by Moses and A
 > $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and among these  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

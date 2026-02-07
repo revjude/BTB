@@ -1,10 +1,7 @@
 **LXX Job 16:4** 
 <small><sub>**LXX:**</sub></small>
 I also could speak as you if indeed your life laid instead of  my \[life\]. So then I shall assail against you with words, and I will shake \[my\] head as you. 
-<small><sub>**KJV:**</sub></small>
-I also could speak as ye [do]: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
-<small><sub>**BSB:**</sub></small>
-I could also speak like you if you were in my place; I could heap up words against you and shake my head at you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.3|<< Job 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.5|Job 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

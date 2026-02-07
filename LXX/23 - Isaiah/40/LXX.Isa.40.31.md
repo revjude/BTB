@@ -1,10 +1,7 @@
 **LXX Isaiah 40:31** 
 <small><sub>**LXX:**</sub></small>
 But the ones waiting upon  God shall change in strength; they shall grow wings as eagles; they shall run and shall not tire; they shall proceed and shall not hunger. 
-<small><sub>**KJV:**</sub></small>
-But they that wait upon the LORD shall renew [their] strength; they shall mount up with wings as eagles; they shall run, and not be weary; [and] they shall walk, and not faint.
-<small><sub>**BSB:**</sub></small>
-But those who wait upon the LORD will renew their strength; they will mount up with wings like eagles; they will run and not grow weary, they will walk and not faint.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.30|<< Isaiah 40:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.1|Isaiah 41:1 >>]]</td></tr></table>
 
 | Translation | Greek |

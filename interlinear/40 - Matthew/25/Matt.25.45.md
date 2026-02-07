@@ -1,12 +1,12 @@
-**Matthew 25:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:45**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did [it] not to one of the least of these, ye did [it] not to me.
 <small><sub>**BSB:**</sub></small>
 Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’
 <small><sub>**Literal:**</sub></small>
 Then will He answer to them saying; Amen I say to you; to the extent as much as not you did [it] to one of these the least, neither to Me myself did you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.44|<< Matthew 25:44]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.46|Matthew 25:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will He answer |**<big>[[G0611\|ἀποκριθήσεται]]</big>**  |apokrithēsetai <small><sup>[[V-FOI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these were the sons of Noah, the ones coming forth from the ark, Shem, Ham, Japheth. And Ham was father of Canaan. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham [is] the father of Canaan.
-<small><sub>**BSB:**</sub></small>
-The sons of Noah who came out of the ark were Shem, Ham, and Japheth. And Ham was the father of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.17|<< Genesis 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.19|Genesis 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

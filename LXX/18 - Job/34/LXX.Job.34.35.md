@@ -1,10 +1,7 @@
 **LXX Job 34:35** 
 <small><sub>**LXX:**</sub></small>
 But Job spoke not with understanding;  and his words are not with higher knowledge. 
-<small><sub>**KJV:**</sub></small>
-Job hath spoken without knowledge, and his words [were] without wisdom.
-<small><sub>**BSB:**</sub></small>
-‘Job speaks without knowledge; his words lack insight.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.34|<< Job 34:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.36|Job 34:36 >>]]</td></tr></table>
 
 | Translation | Greek |

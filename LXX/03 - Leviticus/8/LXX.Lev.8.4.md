@@ -1,10 +1,7 @@
 **LXX Leviticus 8:4** 
 <small><sub>**LXX:**</sub></small>
 And Moses did in which manner \[the\] <span class="smallcaps">lord</span> ordered him. And he held an assembly \[of\] the congregation at the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-So Moses did as the LORD had commanded him, and the assembly gathered at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.3|<< Leviticus 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.5|Leviticus 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

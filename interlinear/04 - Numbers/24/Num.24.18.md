@@ -1,4 +1,4 @@
-**Numbers 24:18** 
+**Numbers 24:18**<big><big>[[Num.24.15 Balaam’s Fourth Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Edom will become a possession, as will Seir, his enemy; but Israel will perform 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.17|<< Numbers 24:17]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.19|Numbers 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֜וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

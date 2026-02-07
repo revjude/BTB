@@ -1,4 +1,4 @@
-**1 Samuel 25:42** 
+**1 Samuel 25:42**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Abigail hurried and got on a donkey, and attended by five of her maidens, she
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.41|<< 1 Samuel 25:41]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.43|1 Samuel 25:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she made haste  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|תְּמַהֵ֞ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ma.Her<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֣קָם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

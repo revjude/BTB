@@ -1,5 +1,5 @@
-**Revelation 3:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:17**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
 <small><sub>**BSB:**</sub></small>
 You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked.
@@ -10,7 +10,7 @@ For you say that Rich I am and I have grown rich and [of] no [thing] need I have
 > $\quad$ possibly alluding to: [[LXX.Hos.12.8|Hos 12:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you say |**<big>[[G3004G\|λέγεις]]</big>**  |legeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

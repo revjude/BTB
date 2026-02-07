@@ -1,12 +1,12 @@
-**John 13:14
-**<small><sub>**KJV:**</sub></small>
+**John 13:14**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If I then, [your] Lord and Master, have washed your feet; ye also ought to wash one another’s feet.
 <small><sub>**BSB:**</sub></small>
 So if I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet.
 <small><sub>**Literal:**</sub></small>
 If therefore I myself washed your <the> feet the Lord and the Teacher, also you yourselves ought of one another to wash the feet;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.13|<< John 13:13]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.15|John 13:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 37:11** 
+**Psalms 37:11**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But the meek will inherit the land and delight in abundant prosperity.
 > $\quad$ referenced by: [[Matt.5.5|Matt 5:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and humble [people]  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6035\|עֲנָוִ֥ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will possess  |**<big>&#8207;[[H3423G\|יִֽירְשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.re.shu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

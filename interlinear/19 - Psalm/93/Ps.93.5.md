@@ -1,4 +1,4 @@
-**Psalms 93:5** 
+**Psalms 93:5**<big><big>[[Ps.93.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your testimonies are fully confirmed; holiness adorns Your house, O LORD, for al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.93.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.93.4|<< Psalms 93:4]]</td><td align="center" style="border:none;">[[Ps.93|Psalms 93]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.1|Psalms 94:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | testimonies your  |**<big>&#8207;[[H5713B\|עֵֽדֹתֶ֨י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'e.do.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are reliable  |**<big>&#8207;[[H0539\|נֶאֶמְנ֬וּ]]&#8207; </big>**| ne.'em.Nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

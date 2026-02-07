@@ -1,12 +1,12 @@
-**Mark 14:54
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:54**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.
 <small><sub>**BSB:**</sub></small>
 Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire.
 <small><sub>**Literal:**</sub></small>
 And <the> Peter from afar off followed Him until within to the court of the high priest and he was sitting with the officers and warming himself at the fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.53|<< Mark 14:53]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.55|Mark 14:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

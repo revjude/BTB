@@ -1,10 +1,7 @@
 **LXX Leviticus 13:28** 
 <small><sub>**LXX:**</sub></small>
 But if the shining forth should stay in its place, and should not be diffused in the skin, but it should be faint, it is a discoloration of an inflammation, and the priest should declare him cleansed;  for it is an effect \[of\] an inflammation. 
-<small><sub>**KJV:**</sub></small>
-And if the bright spot stay in his place, [and] spread not in the skin, but it [be] somewhat dark; it [is] a rising of the burning, and the priest shall pronounce him clean: for it [is] an inflammation of the burning.
-<small><sub>**BSB:**</sub></small>
-But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
 | Translation | Greek |

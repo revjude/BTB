@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he gave it to him. And David rose up and fled in  that day from \[the\] presence of Saul. And David came to Achish king of Gath. 
-<small><sub>**KJV:**</sub></small>
-And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.
-<small><sub>**BSB:**</sub></small>
-That day David fled from Saul and went to Achish king of Gath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.9|<< 1 Samuel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.11|1 Samuel 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 65:13** 
 <small><sub>**LXX:**</sub></small>
 The rams of the sheep shall put on \[wool\], and the valleys shall multiply grain. They shall cry out, for even they will sing praise. 
-<small><sub>**KJV:**</sub></small>
-The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
-<small><sub>**BSB:**</sub></small>
-The pastures are clothed with flocks, and the valleys are decked with grain. They shout in triumph; indeed, they sing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.12|<< Psalm 65:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.1|Psalm 66:1 >>]]</td></tr></table>
 
 | Translation | Greek |

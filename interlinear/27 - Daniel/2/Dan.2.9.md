@@ -1,4 +1,4 @@
-**Daniel 2:9** 
+**Daniel 2:9**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not make known unto me the dream, [there is but] one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you do not tell me the dream, there is only one decree for you. You have cons
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.8|<< Daniel 2:8]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.10|Daniel 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H2006A\|הֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

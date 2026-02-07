@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:23** 
 <small><sub>**LXX:**</sub></small>
 And many brought gifts to the <span class="smallcaps">lord</span> in Jerusalem, and presents  to Hezekiah king of Judah. And he was elevated in \[the\] eyes of all the nations after these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.
-<small><sub>**BSB:**</sub></small>
-Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah king of Judah, and from then on he was exalted in the eyes of all nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.22|<< 2 Chronicles 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.24|2 Chronicles 32:24 >>]]</td></tr></table>
 
 | Translation | Greek |

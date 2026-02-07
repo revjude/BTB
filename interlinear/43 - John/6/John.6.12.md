@@ -1,12 +1,12 @@
-**John 6:12
-**<small><sub>**KJV:**</sub></small>
+**John 6:12**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.
 <small><sub>**BSB:**</sub></small>
 And when everyone was full, He said to His disciples, “Gather the pieces that are left over, so that nothing will be wasted.”
 <small><sub>**Literal:**</sub></small>
 When now they were filled He says to the disciples of Him; do gather together the having been over and above fragments so that nothing anything may be lost.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.11|<< John 6:11]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.13|John 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:39** 
 <small><sub>**LXX:**</sub></small>
 And  Zadok the priest, and  his brethren of the priests \[were\] before the tent of the <span class="smallcaps">lord</span> in  Bama, the one in Gibeon, 
-<small><sub>**KJV:**</sub></small>
-And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that [was] at Gibeon,
-<small><sub>**BSB:**</sub></small>
-And David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.38|<< 1 Chronicles 16:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.40|1 Chronicles 16:40 >>]]</td></tr></table>
 
 | Translation | Greek |

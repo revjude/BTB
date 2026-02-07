@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the ark of the covenant \[of the\] <span class="smallcaps">lord</span> came into the camp, that all Israel shouted aloud with a great voice, and the earth resounded. 
-<small><sub>**KJV:**</sub></small>
-And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again.
-<small><sub>**BSB:**</sub></small>
-When the ark of the covenant of the LORD entered the camp, all the Israelites raised such a great shout that the ground shook.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.4|<< 1 Samuel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.6|1 Samuel 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

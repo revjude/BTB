@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">Η</p>
 
 The ones eating the delicacies were removed in the streets. The ones having been suckled in scarlet were embracing dung. 
-<small><sub>**KJV:**</sub></small>
-They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
-<small><sub>**BSB:**</sub></small>
-Those who once ate delicacies are destitute in the streets; those brought up in crimson huddle in ash heaps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.4|<< Lamentations 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.6|Lamentations 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

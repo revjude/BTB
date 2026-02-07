@@ -1,10 +1,7 @@
 **LXX Numbers 10:30** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, I shall not go; but unto  my land, and unto  my family I will go. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.
-<small><sub>**BSB:**</sub></small>
-“I will not go,” Hobab replied. “Instead, I am going back to my own land and my own people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.29|<< Numbers 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.31|Numbers 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

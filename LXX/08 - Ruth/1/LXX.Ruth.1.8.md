@@ -1,10 +1,7 @@
 **LXX Ruth 1:8** 
 <small><sub>**LXX:**</sub></small>
 And Naomi said \[to\] her two daughters-in-law, Go please! each return to the house of her mother! \[May the\] <span class="smallcaps">lord</span> deal mercy with you, as you did with the ones having died, and with me. 
-<small><sub>**KJV:**</sub></small>
-And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.
-<small><sub>**BSB:**</sub></small>
-Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion, as you have shown to your dead and to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.7|<< Ruth 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.9|Ruth 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

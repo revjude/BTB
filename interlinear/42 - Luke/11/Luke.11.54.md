@@ -1,12 +1,12 @@
-**Luke 11:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:54**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 waiting to catch Him in something He might say.
 <small><sub>**Literal:**</sub></small>
 watching Him and seeking to catch in something out of the mouth of Him so that they may accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.53|<< Luke 11:53]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.1|Luke 12:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | watching |**<big>[[G1748\|ἐνεδρεύοντες]]</big>**  |enedreuontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

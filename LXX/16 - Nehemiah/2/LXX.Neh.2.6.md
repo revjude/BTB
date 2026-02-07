@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:6** 
 <small><sub>**LXX:**</sub></small>
 And the king said to me, and  \[his\] concubine  sitting next to him, For how long you be going, and when will you return? And it was good before the king. And he sent me, and I gave to him a confirmation. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.
-<small><sub>**BSB:**</sub></small>
-Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.5|<< Nehemiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.7|Nehemiah 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

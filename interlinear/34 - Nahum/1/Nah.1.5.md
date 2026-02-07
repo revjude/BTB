@@ -1,4 +1,4 @@
-**Nahum 1:5** 
+**Nahum 1:5**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains quake before Him, and the hills melt away; the earth trembles at H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.4|<< Nahum 1:4]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.6|Nahum 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they quake  |**<big>&#8207;[[H7493\|רָעֲשׁ֣וּ]]&#8207; </big>**| ra.'a.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

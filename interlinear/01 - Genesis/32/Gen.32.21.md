@@ -1,4 +1,4 @@
-**Genesis 32:21** (32:22)
+**Genesis 32:21**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So went the present over before him: and himself lodged that night in the company.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jacob’s gifts went on before him, while he spent the night in the camp.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.20|<< Genesis 32:20]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.22|Genesis 32:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passed on  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|תַּעֲבֹ֥ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Vor<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gift  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4503H\|מִּנְחָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

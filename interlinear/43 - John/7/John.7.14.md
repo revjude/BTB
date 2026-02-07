@@ -1,12 +1,12 @@
-**John 7:14
-**<small><sub>**KJV:**</sub></small>
+**John 7:14**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now about the midst of the feast Jesus went up into the temple, and taught.
 <small><sub>**BSB:**</sub></small>
 About halfway through the feast, Jesus went up to the temple courts and began to teach.
 <small><sub>**Literal:**</sub></small>
 Now also of the feast being in the middle went up <the> Jesus into the temple and was teaching.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.13|<< John 7:13]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.15|John 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G2235\|Ἤδη]]</big>**  |Ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:33** 
 <small><sub>**LXX:**</sub></small>
 And he ascended unto the altar which he made in the fifteenth day in the eighth month, in the holiday which he shaped out of his \[own\] heart. And he made \[the\] holiday for the sons of Israel, and he ascended unto the altar  to sacrifice upon it. 
-<small><sub>**KJV:**</sub></small>
-So he offered upon the altar which he had made in Bethel the fifteenth day of the eighth month, [even] in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.
-<small><sub>**BSB:**</sub></small>
-On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam offered sacrifices on the altar he had set up in Bethel. So he ordained a feast for the Israelites, offered sacrifices on the altar, and burned incense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.32|<< 1 Kings 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.1|1 Kings 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:32** 
 <small><sub>**LXX:**</sub></small>
 And you shall look upon new fortifications upon all the things which Israel shall do good. And there will not be an old man in  your house all the days. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt see an enemy [in my] habitation, in all [the wealth] which [God] shall give Israel: and there shall not be an old man in thine house for ever.
-<small><sub>**BSB:**</sub></small>
-You will see distress in My dwelling place. Despite all that is good in Israel, no one in your house will ever again reach old age.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.31|<< 1 Samuel 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.33|1 Samuel 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

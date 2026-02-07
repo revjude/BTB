@@ -1,10 +1,7 @@
 **LXX Psalm 70:3** 
 <small><sub>**LXX:**</sub></small>
 Let them be turned immediately, being shamed! the ones saying to me, Well done, well done! 
-<small><sub>**KJV:**</sub></small>
-Let them be turned back for a reward of their shame that say, Aha, aha.
-<small><sub>**BSB:**</sub></small>
-May those who say, “Aha, aha!” retreat because of their shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.70.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.70.2|<< Psalm 70:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.70.4|Psalm 70:4 >>]]</td></tr></table>
 
 | Translation | Greek |

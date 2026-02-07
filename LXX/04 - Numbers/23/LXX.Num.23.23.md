@@ -1,10 +1,7 @@
 **LXX Numbers 23:23** 
 <small><sub>**LXX:**</sub></small>
 For there is no omen in Jacob, nor divination in Israel. In time it shall be told to Jacob and \[to\] Israel what God shall complete. 
-<small><sub>**KJV:**</sub></small>
-Surely [there is] no enchantment against Jacob, neither [is there] any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!
-<small><sub>**BSB:**</sub></small>
-For there is no spell against Jacob and no divination against Israel. It will now be said of Jacob and Israel, ‘What great things God has done!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.22|<< Numbers 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.24|Numbers 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

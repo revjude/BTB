@@ -1,4 +1,4 @@
-**Deuteronomy 6:7** 
+**Deuteronomy 6:7**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall teach them diligently to your children and speak of them when you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.6|<< Deuteronomy 6:6]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.8|Deuteronomy 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will repeat them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8150\|שִׁנַּנְתָּ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.nan.Ta<small><sup>[[HVpq2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to children your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בָנֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

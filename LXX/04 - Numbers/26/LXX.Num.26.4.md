@@ -1,10 +1,7 @@
 **LXX Numbers 26:4** 
 <small><sub>**LXX:**</sub></small>
 \[This is the numbering\] from twenty years and up, in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. And the sons of Israel, the ones coming forth out of Egypt -- 
-<small><sub>**KJV:**</sub></small>
-[Take the sum of the people], from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-“Take a census of the men twenty years of age or older, as the LORD has commanded Moses.” And these were the Israelites who came out of the land of Egypt:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.3|<< Numbers 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.5|Numbers 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

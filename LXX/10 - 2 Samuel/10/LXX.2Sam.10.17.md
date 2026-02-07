@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:17** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to David, and he gathered together all Israel, and he passed over the Jordan, and he came to Helam. And Syria deployed before David, and he waged war with him. 
-<small><sub>**KJV:**</sub></small>
-And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him.
-<small><sub>**BSB:**</sub></small>
-When this was reported to David, he gathered all Israel, crossed the Jordan, and went to Helam. Then the Arameans arrayed themselves against David and fought against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.16|<< 2 Samuel 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.18|2 Samuel 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

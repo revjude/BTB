@@ -1,4 +1,4 @@
-**Exodus 1:19** 
+**Exodus 1:19**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian wom
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמַ֤רְןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Mar.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the midwives  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3205\|מְיַלְּדֹת֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.ya.le.Dot<small><sup>[[HVprfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

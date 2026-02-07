@@ -1,10 +1,7 @@
 **LXX Judges 19:7** 
 <small><sub>**LXX:**</sub></small>
 And the man rose up to depart. And his father-in-law forced him, and he stayed and lodged there. 
-<small><sub>**KJV:**</sub></small>
-And when the man rose up to depart, his father in law urged him: therefore he lodged there again.
-<small><sub>**BSB:**</sub></small>
-The man got up to depart, but his father-in-law persuaded him, so he stayed there that night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.6|<< Judges 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.8|Judges 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

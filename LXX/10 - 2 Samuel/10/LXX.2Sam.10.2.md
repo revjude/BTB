@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:2** 
 <small><sub>**LXX:**</sub></small>
 And David said, I will perform an act of kindness with Hanun son of Nahash, in which manner his father performed an act of kindness with me. And David sent to comfort him by \[the\] hand  of his servants concerning  his father. And the servants of David came into the land of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David’s servants came into the land of the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-And David said, “I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.1|<< 2 Samuel 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.3|2 Samuel 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

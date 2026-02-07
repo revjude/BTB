@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:30** 
 <small><sub>**LXX:**</sub></small>
 To the Hebronites -- Hashabiah and  his brethren, sons of power, a thousand and seven hundred, \[were\] the ones over the reviewing  of Israel on the other side of the Jordan to \[the\] west, for every ministration of \[the\] <span class="smallcaps">lord</span>, and work of the king. 
-<small><sub>**KJV:**</sub></small>
-[And] of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, [were] officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.
-<small><sub>**BSB:**</sub></small>
-From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.29|<< 1 Chronicles 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.31|1 Chronicles 26:31 >>]]</td></tr></table>
 
 | Translation | Greek |

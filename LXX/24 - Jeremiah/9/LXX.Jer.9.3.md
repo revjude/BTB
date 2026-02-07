@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:3** 
 <small><sub>**LXX:**</sub></small>
 And they stretched tight  their tongue as a bow; a lie and no trust grows in strength upon the earth. For they went from evils unto evils, and they knew me not, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they bend their tongues [like] their bow [for] lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“They bend their tongues like bows; lies prevail over truth in the land. For they proceed from evil to evil, and they do not take Me into account,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.2|<< Jeremiah 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.4|Jeremiah 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

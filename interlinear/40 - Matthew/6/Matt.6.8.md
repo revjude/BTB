@@ -1,12 +1,12 @@
-**Matthew 6:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:8**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
 <small><sub>**BSB:**</sub></small>
 Do not be like them, for your Father knows what you need before you ask Him.
 <small><sub>**Literal:**</sub></small>
 Not therefore may be like to them; has known for the God the Father of you of what things need you have before <the> your asking Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.7|<< Matthew 6:7]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.9|Matthew 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

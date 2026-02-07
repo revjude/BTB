@@ -1,4 +1,4 @@
-**Genesis 45:13** 
+**Genesis 45:13**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell my father about all my splendor in Egypt and everything you have seen. And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.12|<< Genesis 45:12]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.14|Genesis 45:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will tell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5046\|הִגַּדְתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.gad.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to father my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0001G\|אָבִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

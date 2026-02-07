@@ -1,10 +1,7 @@
 **LXX Job 4:11** 
 <small><sub>**LXX:**</sub></small>
 \[The\] small lion is destroyed by  not having game; and \[the\] cubs of lions forsook one another. 
-<small><sub>**KJV:**</sub></small>
-The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.
-<small><sub>**BSB:**</sub></small>
-The old lion perishes for lack of prey, and the cubs of the lioness are scattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.10|<< Job 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.12|Job 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

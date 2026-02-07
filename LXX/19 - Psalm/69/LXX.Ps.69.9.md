@@ -1,10 +1,7 @@
 **LXX Psalm 69:9** 
 <small><sub>**LXX:**</sub></small>
 For the zeal  of your house devoured me, and the scornings of the ones berating you fell upon me. 
-<small><sub>**KJV:**</sub></small>
-For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.
-<small><sub>**BSB:**</sub></small>
-because zeal for Your house has consumed me, and the insults of those who insult You have fallen on me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.8|<< Psalm 69:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.10|Psalm 69:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 69:9** is...

@@ -1,10 +1,7 @@
 **LXX Judges 17:9** 
 <small><sub>**LXX:**</sub></small>
 And Micah said to him, From what place come you? And he said to him, I am a Levite from Beth-lehem Judah, and I go to sojourn where ever I should find. 
-<small><sub>**KJV:**</sub></small>
-And Micah said unto him, Whence comest thou? And he said unto him, I [am] a Levite of Bethlehemjudah, and I go to sojourn where I may find [a place].
-<small><sub>**BSB:**</sub></small>
-“Where are you from?” Micah asked him. “I am a Levite from Bethlehem in Judah,” he replied, “and I am on my way to settle wherever I can find a place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.8|<< Judges 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.10|Judges 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 24:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:34**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, this generation will not pass away until all these things have happened.
 <small><sub>**Literal:**</sub></small>
 Amen I say to you that certainly not may have passed away <the> generation this until when all these things may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.33|<< Matthew 24:33]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.35|Matthew 24:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

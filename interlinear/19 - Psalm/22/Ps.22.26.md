@@ -1,4 +1,4 @@
-**Psalms 22:26** (22:27)
+**Psalms 22:26**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The poor will eat and be satisfied; those who seek the LORD will praise Him. May
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will eat  |**<big>&#8207;[[H0398\|יֹאכְל֬וּ]]&#8207; </big>**| yo.khe.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humble [people]  |**<big>&#8207;[[H6035\|עֲנָוִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

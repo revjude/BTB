@@ -1,10 +1,7 @@
 **LXX Leviticus 11:13** 
 <small><sub>**LXX:**</sub></small>
 And these you shall abhor from the winged creatures, and they shall not be eaten, it is an abomination -- the eagle, and the griffin, and the osprey, 
-<small><sub>**KJV:**</sub></small>
-And these [are they which] ye shall have in abomination among the fowls; they shall not be eaten, they [are] an abomination: the eagle, and the ossifrage, and the ospray,
-<small><sub>**BSB:**</sub></small>
-Additionally, you are to detest the following birds, and they must not be eaten because they are detestable: the eagle, the bearded vulture, the black vulture,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.12|<< Leviticus 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.14|Leviticus 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

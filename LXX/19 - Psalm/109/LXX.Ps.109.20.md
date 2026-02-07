@@ -1,10 +1,7 @@
 **LXX Psalm 109:20** 
 <small><sub>**LXX:**</sub></small>
 This is the work of the ones slandering me by \[the\] <span class="smallcaps">lord</span>, and the ones speaking evil against  my soul. 
-<small><sub>**KJV:**</sub></small>
-[Let] this [be] the reward of mine adversaries from the LORD, and of them that speak evil against my soul.
-<small><sub>**BSB:**</sub></small>
-May this be the LORD’s reward to my accusers, to those who speak evil against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.19|<< Psalm 109:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.21|Psalm 109:21 >>]]</td></tr></table>
 
 | Translation | Greek |

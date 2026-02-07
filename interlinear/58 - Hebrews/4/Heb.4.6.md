@@ -1,12 +1,12 @@
-**Hebrews 4:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:6**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
 <small><sub>**BSB:**</sub></small>
 Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience,
 <small><sub>**Literal:**</sub></small>
 Since therefore it remains [for] some to enter into it and those formerly having been evangelised not they did enter in because of disobedience,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.5|<< Hebrews 4:5]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.7|Hebrews 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Since |**<big>[[G1893\|ἐπεὶ]]</big>**  |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

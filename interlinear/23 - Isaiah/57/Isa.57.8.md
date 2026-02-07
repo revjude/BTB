@@ -1,4 +1,4 @@
-**Isaiah 57:8** 
+**Isaiah 57:8**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered [thyself to another] than me, and art gone up; thou hast enlarged thy bed, and made thee [a covenant] with them; thou lovedst their bed where thou sawest [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behind the door and doorpost you have set up your memorial. Forsaking Me, you un
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.7|<< Isaiah 57:7]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.9|Isaiah 57:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and behind  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the door  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1817C\|דֶּ֙לֶת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> De.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

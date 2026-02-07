@@ -1,10 +1,7 @@
 **LXX Exodus 16:17** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did so, and they collected together what \[was\]  much and what \[was\]  less. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did so, and gathered, some more, some less.
-<small><sub>**BSB:**</sub></small>
-So the Israelites did this. Some gathered more, and some less.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.16|<< Exodus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.18|Exodus 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

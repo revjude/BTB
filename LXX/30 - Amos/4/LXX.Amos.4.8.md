@@ -1,10 +1,7 @@
 **LXX Amos 4:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the inhabitants of\] two or three cities shall be gathered together to one city  to drink water; and in no way shall they be filled up. And you returned not to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So two [or] three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-People staggered from city to city for water to drink, but they were not satisfied; yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.7|<< Amos 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.9|Amos 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

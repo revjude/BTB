@@ -1,12 +1,12 @@
-**Matthew 18:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:30**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he would not: but went and cast him into prison, till he should pay the debt.
 <small><sub>**BSB:**</sub></small>
 But he refused. Instead, he went and had the man thrown into prison until he could pay his debt.
 <small><sub>**Literal:**</sub></small>
 <the> But not he was willing, but having gone he cast him into prison until what of him he may pay that which is being owed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.29|<< Matthew 18:29]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.31|Matthew 18:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

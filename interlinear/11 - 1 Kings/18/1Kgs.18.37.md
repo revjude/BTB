@@ -1,4 +1,4 @@
-**1 Kings 18:37** 
+**1 Kings 18:37**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me, O LORD, hear me, that this people may know that thou [art] the LORD God, and [that] thou hast turned their heart back again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Answer me, O LORD! Answer me, so that this people will know that You, the LORD, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.36|<< 1 Kings 18:36]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.38|1 Kings 18:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | answer me  |**<big>&#8207;[[H6030B\|עֲנֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.Ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

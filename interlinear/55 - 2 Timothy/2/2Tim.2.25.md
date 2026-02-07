@@ -1,12 +1,12 @@
-**2 Timothy 2:25
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:25**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
 <small><sub>**BSB:**</sub></small>
 He must gently reprove those who oppose him, in the hope that God may grant them repentance leading to a knowledge of the truth.
 <small><sub>**Literal:**</sub></small>
 in gentleness disciplining those opposing, otherwise he may give to them <the> God repentance unto a knowledge of [the] truth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.24|<< 2 Timothy 2:24]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.26|2 Timothy 2:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gentleness |**<big>[[G4236\|πραΰτητι]]</big>**  [^1] |prautēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

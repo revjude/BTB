@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:9** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel and Jehoshaphat king of Judah \[were\] sitting each upon his throne, being clothed with robes; they sat down in the broad space at the door of Samaria, and all the prophets were prophesying before them. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in [their] robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them.
-<small><sub>**BSB:**</sub></small>
-Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

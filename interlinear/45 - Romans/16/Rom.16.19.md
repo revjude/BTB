@@ -1,12 +1,12 @@
-**Romans 16:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:19**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For your obedience is come abroad unto all [men]. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.
 <small><sub>**BSB:**</sub></small>
 Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil.
 <small><sub>**Literal:**</sub></small>
 The for of you obedience to all has reached; <the> Over you therefore I rejoice. I wish however you wise indeed to be to <the> good innocent however to <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.18|<< Romans 16:18]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.20|Romans 16:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

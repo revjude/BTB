@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:23** 
 <small><sub>**LXX:**</sub></small>
 The whole amount Araunah gave to the king. And Araunah said to the king, \[The\] <span class="smallcaps">lord</span>  your God, may he bless you. 
-<small><sub>**KJV:**</sub></small>
-All these [things] did Araunah, [as] a king, give unto the king. And Araunah said unto the king, The LORD thy God accept thee.
-<small><sub>**BSB:**</sub></small>
-O king, Araunah gives all these to the king.” He also said to the king, “May the LORD your God accept you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.22|<< 2 Samuel 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.24|2 Samuel 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

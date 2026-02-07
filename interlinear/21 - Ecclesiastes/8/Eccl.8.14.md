@@ -1,4 +1,4 @@
-**Ecclesiastes 8:14** 
+**Ecclesiastes 8:14**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a vanity which is done upon the earth; that there be just [men], unto whom it happeneth according to the work of the wicked; again, there be wicked [men], to whom it happeneth according to the work of the righteous: I said that this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a futility that is done on the earth: There are righteous men who get w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.13|<< Ecclesiastes 8:13]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.15|Ecclesiastes 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] futility  |**<big>&#8207;[[H1892\|הֶבֶל֮]]&#8207; </big>**| he.Vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

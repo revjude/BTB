@@ -1,12 +1,12 @@
-**Luke 17:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:1**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he unto the disciples, It is impossible but that offences will come: but woe [unto him], through whom they come!
 <small><sub>**BSB:**</sub></small>
 Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come!
 <small><sub>**Literal:**</sub></small>
 He said then to the disciples of Him; Impossible it is that the stumbling blocks not to come, but woe [to him] through whom they come!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.31|<< Luke 16:31]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.2|Luke 17:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

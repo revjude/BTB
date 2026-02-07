@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that day God will bring on the holy and the great and the strong sword against the dragon, \[the\] fleeing serpent -- against the dragon, \[the\] crooked serpent. And he will do away with the dragon, the one in the sea. 
-<small><sub>**KJV:**</sub></small>
-In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that [is] in the sea.
-<small><sub>**BSB:**</sub></small>
-In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent—Leviathan the coiling serpent—and He will slay the dragon of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.21|<< Isaiah 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.2|Isaiah 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

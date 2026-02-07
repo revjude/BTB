@@ -1,10 +1,7 @@
 **LXX Malachi 3:11** 
 <small><sub>**LXX:**</sub></small>
 And I will draw apart to you for food, and in no way will I utterly destroy the fruit of the land; and in no way should it be weakened \[upon\] your  grapevine  in the field, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-I will rebuke the devourer for you, so that it will not destroy the fruits of your land, and the vine in your field will not fail to produce fruit,” says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.10|<< Malachi 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.12|Malachi 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

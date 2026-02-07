@@ -1,4 +1,4 @@
-**Numbers 15:14** 
+**Numbers 15:14**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a stranger sojourn with you, or whosoever [be] among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And for the generations to come, if a foreigner residing with you or someone els
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.13|<< Numbers 15:13]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.15|Numbers 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will sojourn  |**<big>&#8207;[[H1481A\|יָגוּר֩]]&#8207; </big>**| ya.Gur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

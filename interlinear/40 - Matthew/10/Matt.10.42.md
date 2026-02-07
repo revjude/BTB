@@ -1,12 +1,12 @@
-**Matthew 10:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:42**<big><big>[[Matt.10.40 The Reward of Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall give to drink unto one of these little ones a cup of cold [water] only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 <small><sub>**BSB:**</sub></small>
 And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.”
 <small><sub>**Literal:**</sub></small>
 And who[ever] maybe shall give to drink to one of the little ones of these a cup of cold [water] only in [the] name of a disciple, Amen I say to you; certainly not shall he lose the reward of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.41|<< Matthew 10:41]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.1|Matthew 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

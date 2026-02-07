@@ -1,12 +1,12 @@
-**Matthew 18:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:17**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if he shall neglect to hear them, tell [it] unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 <small><sub>**BSB:**</sub></small>
 If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.
 <small><sub>**Literal:**</sub></small>
 If now he shall fail to listen to them, do tell [it] to the church. If now also to the church he shall fail to listen, he should be to you as the pagan and the tax collector.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.16|<< Matthew 18:16]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.18|Matthew 18:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

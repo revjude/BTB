@@ -1,4 +1,4 @@
-**Judges 9:49** 
+**Judges 9:49**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people likewise cut down every man his bough, and followed Abimelech, and put [them] to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So each man also cut his own branch and followed Abimelech. Then they piled the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.48|<< Judges 9:48]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.50|Judges 9:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cut off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772G\|יִּכְרְת֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.re.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 56:6** 
 <small><sub>**LXX:**</sub></small>
 They will sojourn and hide; they  will guard my heel, just as they wait  for my life. 
-<small><sub>**KJV:**</sub></small>
-They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.
-<small><sub>**BSB:**</sub></small>
-They conspire, they lurk, they watch my steps while they wait to take my life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.5|<< Psalm 56:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.7|Psalm 56:7 >>]]</td></tr></table>
 
 | Translation | Greek |

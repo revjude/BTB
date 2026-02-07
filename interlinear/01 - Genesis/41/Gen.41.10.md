@@ -1,4 +1,4 @@
-**Genesis 41:10** 
+**Genesis 41:10**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, [both] me and the chief baker:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh was once angry with his servants, and he put me and the chief baker in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.9|<< Genesis 41:9]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.11|Genesis 41:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֖ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was angry  |**<big>&#8207;[[H7107\|קָצַ֣ף]]&#8207; </big>**| ka.Tzaf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

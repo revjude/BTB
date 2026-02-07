@@ -1,4 +1,4 @@
-**Deuteronomy 24:20** 
+**Deuteronomy 24:20**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you beat the olives from your trees, you must not go over the branches agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.19|<< Deuteronomy 24:19]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.21|Deuteronomy 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will beat  |**<big>&#8207;[[H2251\|תַחְבֹּט֙]]&#8207; </big>**| tach.Bot<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

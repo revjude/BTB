@@ -1,10 +1,7 @@
 **LXX Numbers 22:14** 
 <small><sub>**LXX:**</sub></small>
 And rising, the rulers of Moab came to Balak. And they said, Balaam does not want to go with us. 
-<small><sub>**KJV:**</sub></small>
-And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
-<small><sub>**BSB:**</sub></small>
-And the princes of Moab arose, returned to Balak, and said, “Balaam refused to come with us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.13|<< Numbers 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.15|Numbers 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

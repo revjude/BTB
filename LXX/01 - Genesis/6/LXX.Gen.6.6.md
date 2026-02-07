@@ -1,10 +1,7 @@
 **LXX Genesis 6:6** 
 <small><sub>**LXX:**</sub></small>
 and God pondered that he made the man upon the earth, and he considered \[it\]. 
-<small><sub>**KJV:**</sub></small>
-And it repented the LORD that he had made man on the earth, and it grieved him at his heart.
-<small><sub>**BSB:**</sub></small>
-And the LORD regretted that He had made man on the earth, and He was grieved in His heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.5|<< Genesis 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.7|Genesis 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 27:19** 
+**Ezekiel 27:19**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and casks of wine from Izal for your wares. Wrought iron, cassia, and sweet cane
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.18|<< Ezekiel 27:18]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.20|Ezekiel 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Vedan  |**<big>&#8207;[[H2051\|וְדָ֤ן]]&#8207; </big>**| ve.Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Javan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3120H\|יָוָן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Van<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

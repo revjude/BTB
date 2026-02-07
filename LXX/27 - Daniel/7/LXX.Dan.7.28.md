@@ -1,10 +1,7 @@
 **LXX Daniel 7:28** 
 <small><sub>**LXX:**</sub></small>
 Unto here \[is\] the end of the matter. I Daniel, very much the thoughts of mine disturbed me, and  my appearance changed upon me, and the matter I preserved in my heart. 
-<small><sub>**KJV:**</sub></small>
-Hitherto [is] the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
-<small><sub>**BSB:**</sub></small>
-Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my face turned pale. But I kept the matter to myself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.27|<< Daniel 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.1|Daniel 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

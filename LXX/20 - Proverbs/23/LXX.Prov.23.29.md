@@ -1,10 +1,7 @@
 **LXX Proverbs 23:29** 
 <small><sub>**LXX:**</sub></small>
 To whom \[is there\] woe? to whom a tumult? to whom litigations? to whom rancor and intrigue? to whom breaks without cause? to whom dark colored  eyes? 
-<small><sub>**KJV:**</sub></small>
-Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
-<small><sub>**BSB:**</sub></small>
-Who has woe? Who has sorrow? Who has contentions? Who has complaints? Who has needless wounds? Who has bloodshot eyes?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.28|<< Proverbs 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.30|Proverbs 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

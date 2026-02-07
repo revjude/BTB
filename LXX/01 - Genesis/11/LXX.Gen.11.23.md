@@ -1,10 +1,7 @@
 **LXX Genesis 11:23** 
 <small><sub>**LXX:**</sub></small>
 And Serug lived after  his procreating  Nahor, two hundred years, and he procreated sons and daughters, and he died. 
-<small><sub>**KJV:**</sub></small>
-And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Nahor, Serug lived 200 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.22|<< Genesis 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.24|Genesis 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 37:22** 
+**Isaiah 37:22**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the word which the LORD hath spoken concerning him; The virgin, the daughter of Zion, hath despised thee, [and] laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ this is the word that the LORD has spoken against him: ‘The Virgin Daughter of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.21|<< Isaiah 37:21]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.23|Isaiah 37:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

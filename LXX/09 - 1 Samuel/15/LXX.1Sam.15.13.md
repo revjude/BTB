@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samuel came to Saul. And Saul said to him, Blessed are you to the <span class="smallcaps">lord</span>. I established all as many \[things\] as \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-And Samuel came to Saul: and Saul said unto him, Blessed [be] thou of the LORD: I have performed the commandment of the LORD.
-<small><sub>**BSB:**</sub></small>
-When Samuel reached him, Saul said to him, “May the LORD bless you. I have carried out the LORD’s instructions.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.12|<< 1 Samuel 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.14|1 Samuel 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

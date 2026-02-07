@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:47** 
 <small><sub>**LXX:**</sub></small>
 For this \[is\] not an empty word for you, for this \[is\]  your life. And because of  this word you shall prolong your days upon the land into which you pass over the Jordan there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-For it [is] not a vain thing for you; because it [is] your life: and through this thing ye shall prolong [your] days in the land, whither ye go over Jordan to possess it.
-<small><sub>**BSB:**</sub></small>
-For they are not idle words to you, because they are your life, and by them you will live long in the land that you are crossing the Jordan to possess.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.46|<< Deuteronomy 32:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.48|Deuteronomy 32:48 >>]]</td></tr></table>
 
 | Translation | Greek |

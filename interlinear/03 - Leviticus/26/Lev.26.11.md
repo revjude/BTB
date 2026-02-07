@@ -1,4 +1,4 @@
-**Leviticus 26:11** 
+**Leviticus 26:11**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set my tabernacle among you: and my soul shall not abhor you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will make My dwelling place among you, and My soul will not despise you.
 > $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414I\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dwelling place my  |**<big>&#8207;[[H4908\|מִשְׁכָּנִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mish.ka.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

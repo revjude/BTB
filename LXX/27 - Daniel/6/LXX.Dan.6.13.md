@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then they responded, and they spoke before the king, \[saying\], Daniel, the one from the sons of the captivity  of Judea was not submitted \[to\] your decree; and three times of the day he asks of  his God the requests of his. 
-<small><sub>**KJV:**</sub></small>
-Then answered they and said before the king, That Daniel, which [is] of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.
-<small><sub>**BSB:**</sub></small>
-Then they told the king, “Daniel, one of the exiles from Judah, shows no regard for you, O king, or for the decree that you have signed. He still makes his petition three times a day.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.12|<< Daniel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.14|Daniel 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

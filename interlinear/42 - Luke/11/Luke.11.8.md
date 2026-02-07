@@ -1,12 +1,12 @@
-**Luke 11:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:8**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth.
 <small><sub>**BSB:**</sub></small>
 I tell you, even though he will not get up to provide for him because of his friendship, yet because of the man’s persistence, he will get up and give him as much as he needs.
 <small><sub>**Literal:**</sub></small>
 I say to you; if even not he will give to him having risen up because of <the> being friend of him because of yet the persistence of him having risen he will give to him as many as he needs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.7|<< Luke 11:7]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.9|Luke 11:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you; |**<big>[[G4771\|ὑμῖν·]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

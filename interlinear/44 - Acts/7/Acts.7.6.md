@@ -1,5 +1,5 @@
-**Acts 7:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:6**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat [them] evil four hundred years.
 <small><sub>**BSB:**</sub></small>
 God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.
@@ -10,7 +10,7 @@ Spoke however thus <the> God that will be the seed of him a sojourner in a land 
 > $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.2.22|Exod 2:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Spoke |**<big>[[G2980\|ἐλάλησεν]]</big>**  |elalēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

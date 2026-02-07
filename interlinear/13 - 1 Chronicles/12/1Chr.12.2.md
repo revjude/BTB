@@ -1,4 +1,4 @@
-**1 Chronicles 12:2** 
+**1 Chronicles 12:2**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They were] armed with bows, and could use both the right hand and the left in [hurling] stones and [shooting] arrows out of a bow, [even] of Saul’s brethren of Benjamin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ they were archers using both the right and left hands to sling stones and shoot 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.1|<< 1 Chronicles 12:1]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.3|1 Chronicles 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [they were] equipped of  |**<big>&#8207;[[H5401B\|נֹ֣שְׁקֵי]]&#8207; </big>**| No.she.kei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bow  |**<big>&#8207;[[H7198\|קֶ֗שֶׁת]]&#8207; </big>**| Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 25:27** 
+**Leviticus 25:27**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he shall calculate the years since its sale, repay the balance to the man to who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.26|<< Leviticus 25:26]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.28|Leviticus 25:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will calculate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2803H\|חִשַּׁב֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Shav<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

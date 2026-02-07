@@ -1,10 +1,7 @@
 **LXX Numbers 26:7** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the peoples of Reuben. And the number of them was three and forty thousand and seven hundred and thirty. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Reuben, and their registration numbered 43,730.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.6|<< Numbers 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.8|Numbers 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

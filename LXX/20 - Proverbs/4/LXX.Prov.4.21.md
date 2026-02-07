@@ -1,10 +1,7 @@
 **LXX Proverbs 4:21** 
 <small><sub>**LXX:**</sub></small>
 so that your springs should not fail you. Keep them in your heart! 
-<small><sub>**KJV:**</sub></small>
-Let them not depart from thine eyes; keep them in the midst of thine heart.
-<small><sub>**BSB:**</sub></small>
-Do not lose sight of them; keep them within your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.20|<< Proverbs 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.22|Proverbs 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

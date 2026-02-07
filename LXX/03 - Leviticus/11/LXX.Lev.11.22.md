@@ -1,10 +1,7 @@
 **LXX Leviticus 11:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat these from them -- the grasshopper, and the \[ones\] likened to it; and the hopping locust, and the \[ones\] likened to it; and crawling locust, and the \[ones\] likened to it; and the locust, and the \[ones\] likened to it. 
-<small><sub>**KJV:**</sub></small>
-[Even] these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
-<small><sub>**BSB:**</sub></small>
-Of these you may eat any kind of locust, katydid, cricket, or grasshopper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.21|<< Leviticus 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.23|Leviticus 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

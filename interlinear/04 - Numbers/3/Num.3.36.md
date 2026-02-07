@@ -1,4 +1,4 @@
-**Numbers 3:36** 
+**Numbers 3:36**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [under] the custody and charge of the sons of Merari [shall be] the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The duties assigned to the sons of Merari were the tabernacle’s frames, crossb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.35|<< Numbers 3:35]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.37|Numbers 3:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] office of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6486\|פְקֻדַּ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.ku.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] duty of  |**<big>&#8207;[[H4931\|מִשְׁמֶרֶת֮]]&#8207; </big>**| mish.me.Ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 6:7** 
 <small><sub>**LXX:**</sub></small>
 And now leave alone the work of \[the\] house  of God, \[and\] the ones guiding of the Jews, and the elders of the Jews! Let them build that house of God upon  its place! 
-<small><sub>**KJV:**</sub></small>
-Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
-<small><sub>**BSB:**</sub></small>
-Leave this work on the house of God alone. Let the governor and elders of the Jews rebuild this house of God on its original site.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.6|<< Ezra 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.8|Ezra 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

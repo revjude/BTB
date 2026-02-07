@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:45** 
 <small><sub>**LXX:**</sub></small>
 And all these curses shall come upon you, and they shall pursue you, and overtake you, until whenever they shall utterly destroy you, and until whenever they shall consume you. For you did not listen to the voice of \[the\] <span class="smallcaps">lord</span>  your God, to guard  his commandments, and  his ordinances, as many as I gave charge to you. 
-<small><sub>**KJV:**</sub></small>
-Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:
-<small><sub>**BSB:**</sub></small>
-All these curses will come upon you. They will pursue you and overtake you until you are destroyed, since you did not obey the LORD your God and keep the commandments and statutes He gave you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.44|<< Deuteronomy 28:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.46|Deuteronomy 28:46 >>]]</td></tr></table>
 
 | Translation | Greek |

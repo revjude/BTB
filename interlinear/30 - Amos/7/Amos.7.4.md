@@ -1,4 +1,4 @@
-**Amos 7:4** 
+**Amos 7:4**<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus hath the Lord GOD shewed unto me: and, behold, the Lord GOD called to contend by fire, and it devoured the great deep, and did eat up a part.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the Lord GOD showed me: The Lord GOD was calling for judgment by fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.3|<< Amos 7:3]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.5|Amos 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he showed me  |**<big>&#8207;[[H7200G\|הִרְאַ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| hir.'A.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

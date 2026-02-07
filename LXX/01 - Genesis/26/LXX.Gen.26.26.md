@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abimelech went to him from Gerar, and Ahuzzath  his groomsman, and Phichol the commander-in-chief  of his force. 
-<small><sub>**KJV:**</sub></small>
-Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.
-<small><sub>**BSB:**</sub></small>
-Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.25|<< Genesis 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.27|Genesis 26:27 >>]]</td></tr></table>
 
 | Translation | Greek |

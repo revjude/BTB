@@ -1,10 +1,7 @@
 **LXX Numbers 18:27** 
 <small><sub>**LXX:**</sub></small>
 And your cut-away portions shall be considered for you as grain from \[the\] threshing-floor, and as a cut-away portion from \[the\] wine-vat. 
-<small><sub>**KJV:**</sub></small>
-And [this] your heave offering shall be reckoned unto you, as though [it were] the corn of the threshingfloor, and as the fulness of the winepress.
-<small><sub>**BSB:**</sub></small>
-Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.26|<< Numbers 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.28|Numbers 18:28 >>]]</td></tr></table>
 
 | Translation | Greek |

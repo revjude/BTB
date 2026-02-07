@@ -1,4 +1,4 @@
-**Jeremiah 44:28** 
+**Jeremiah 44:28**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who escape the sword will return from Egypt to Judah, few in number, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.27|<< Jeremiah 44:27]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.29|Jeremiah 44:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and escapees of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6412A\|פְלִיטֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.li.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sword  |**<big>&#8207;[[H2719\|חֶ֜רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

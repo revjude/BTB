@@ -1,4 +1,4 @@
-**Psalms 119:18** 
+**Psalms 119:18**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open thou mine eyes, that I may behold wondrous things out of thy law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Open my eyes that I may see wondrous things from Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.17|<< Psalms 119:17]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.19|Psalms 119:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | uncover  |**<big>&#8207;[[H1540I\|גַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gal-<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes my  |**<big>&#8207;[[H5869A\|עֵינַ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

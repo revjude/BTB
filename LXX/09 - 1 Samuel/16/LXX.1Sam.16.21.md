@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:21** 
 <small><sub>**LXX:**</sub></small>
 And David entered to Saul, and stood before him, and loved him exceedingly. And he became to him \[the\] one lifting  his weapons. 
-<small><sub>**KJV:**</sub></small>
-And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer.
-<small><sub>**BSB:**</sub></small>
-When David came to Saul and entered his service, Saul loved him very much, and David became his armor-bearer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.20|<< 1 Samuel 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.22|1 Samuel 16:22 >>]]</td></tr></table>
 
 | Translation | Greek |

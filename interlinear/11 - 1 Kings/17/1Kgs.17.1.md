@@ -1,4 +1,4 @@
-**1 Kings 17:1** 
+**1 Kings 17:1**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah the Tishbite, [who was] of the inhabitants of Gilead, said unto Ahab, [As] the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “
 > $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]] ☩ [[Jas.5.17|Jas 5:17-18]] ☩ [[Rev.11.6|Rev 11:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּ֨הוּ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

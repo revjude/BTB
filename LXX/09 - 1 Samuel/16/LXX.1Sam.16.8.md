@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:8** 
 <small><sub>**LXX:**</sub></small>
 And Jesse called  Abinadab, and he went by \[the\] face of Samuel. And he said, Nor this one the <span class="smallcaps">lord</span> chose. 
-<small><sub>**KJV:**</sub></small>
-Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this.
-<small><sub>**BSB:**</sub></small>
-Then Jesse called Abinadab and presented him to Samuel, who said, “The LORD has not chosen this one either.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.7|<< 1 Samuel 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.9|1 Samuel 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

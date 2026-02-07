@@ -1,10 +1,7 @@
 **LXX Ezra 5:6** 
 <small><sub>**LXX:**</sub></small>
 \[The\] explanation by letter which was sent \[by\] Tatnai the chief ruler  on the other side of the river, and Shethar-boznai, and  their fellow-servants -- Apharsachites, the ones on the other side of the river, to Darius the king. 
-<small><sub>**KJV:**</sub></small>
-The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which [were] on this side the river, sent unto Darius the king:
-<small><sub>**BSB:**</sub></small>
-This is the text of the letter that Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates, the officials in the region, sent to King Darius.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.5|<< Ezra 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.7|Ezra 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

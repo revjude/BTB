@@ -1,12 +1,12 @@
-**John 2:8
-**<small><sub>**KJV:**</sub></small>
+**John 2:8**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare [it].
 <small><sub>**BSB:**</sub></small>
 “Now draw some out,” He said, “and take it to the master of the banquet.” They did so,
 <small><sub>**Literal:**</sub></small>
 And He says to them; do draw out now and do carry to the master of the feast. they then carried [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.7|<< John 2:7]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.9|John 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

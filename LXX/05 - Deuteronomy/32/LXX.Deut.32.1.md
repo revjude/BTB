@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Take heed, O heaven! and I will speak. And hear,  O earth, \[the\] discourses from out of my mouth! 
-<small><sub>**KJV:**</sub></small>
-Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
-<small><sub>**BSB:**</sub></small>
-Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.30|<< Deuteronomy 31:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.2|Deuteronomy 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

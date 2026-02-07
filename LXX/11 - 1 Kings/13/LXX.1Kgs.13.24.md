@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:24** 
 <small><sub>**LXX:**</sub></small>
 And he went forth. And a lion found him in the way, and it killed him. And his body was tossed in the way, and the donkey stood by it, and the lion stood by the body. 
-<small><sub>**KJV:**</sub></small>
-And when he was gone, a lion met him by the way, and slew him: and his carcase was cast in the way, and the ass stood by it, the lion also stood by the carcase.
-<small><sub>**BSB:**</sub></small>
-As he went on his way, a lion met him on the road and killed him, and his body was left lying in the road, with the donkey and the lion standing beside it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.23|<< 1 Kings 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.25|1 Kings 13:25 >>]]</td></tr></table>
 
 | Translation | Greek |

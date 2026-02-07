@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:3** 
 <small><sub>**LXX:**</sub></small>
 Shall they take of its wood  to perform for work? Shall they take from out of it stanchions  to hang all items upon it? 
-<small><sub>**KJV:**</sub></small>
-Shall wood be taken thereof to do any work? or will [men] take a pin of it to hang any vessel thereon?
-<small><sub>**BSB:**</sub></small>
-Can wood be taken from it to make something useful? Or can one make from it a peg on which to hang utensils?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.2|<< Ezekiel 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.4|Ezekiel 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

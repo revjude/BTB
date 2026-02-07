@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:29** 
 <small><sub>**LXX:**</sub></small>
 \[The\] bellows failed at \[the\] fire; \[the\] lead failed; \[the\] silversmith works silver in vain; their wickednesses do not melt away. 
-<small><sub>**KJV:**</sub></small>
-The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.
-<small><sub>**BSB:**</sub></small>
-The bellows blow fiercely, blasting away the lead with fire. The refining proceeds in vain, for the wicked are not purged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.28|<< Jeremiah 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.30|Jeremiah 6:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 4:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:3**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the devil said unto him, If thou be the Son of God, command this stone that it be made bread.
 <small><sub>**BSB:**</sub></small>
 The devil said to Him, “If You are the Son of God, tell this stone to become bread.”
 <small><sub>**Literal:**</sub></small>
 and Said then to Him the devil; If [the] Son You are <the> of God, do speak to the stone this that it may become bread.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.2|<< Luke 4:2]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.4|Luke 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

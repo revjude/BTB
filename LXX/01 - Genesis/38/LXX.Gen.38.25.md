@@ -1,10 +1,7 @@
 **LXX Genesis 38:25** 
 <small><sub>**LXX:**</sub></small>
 And \[while\] leading her, she sent to  her father-in-law, saying, From the man whom these \[things\] are I have \[one\] in \[the\] womb. And she said, Recognize whose  ring and  pendant and  rod these \[are\]! 
-<small><sub>**KJV:**</sub></small>
-When she [was] brought forth, she sent to her father in law, saying, By the man, whose these [are, am] I with child: and she said, Discern, I pray thee, whose [are] these, the signet, and bracelets, and staff.
-<small><sub>**BSB:**</sub></small>
-As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.24|<< Genesis 38:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.26|Genesis 38:26 >>]]</td></tr></table>
 
 | Translation | Greek |

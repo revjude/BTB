@@ -1,4 +1,4 @@
-**Joshua 9:5** 
+**Joshua 9:5**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry [and] mouldy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They put worn, patched sandals on their feet and threadbare clothing on their bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.4|<< Joshua 9:4]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.6|Joshua 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sandals  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5275\|נְעָל֨וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worn out  |**<big>&#8207;[[H1087\|בָּל֤וֹת]]&#8207; </big>**| ba.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

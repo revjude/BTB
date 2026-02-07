@@ -1,10 +1,7 @@
 **LXX Leviticus 17:9** 
 <small><sub>**LXX:**</sub></small>
 and at the door of the tent of the testimony should not bring \[anything\] to offer it to the <span class="smallcaps">lord</span>, that man shall be utterly destroyed from  his people. 
-<small><sub>**KJV:**</sub></small>
-And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people.
-<small><sub>**BSB:**</sub></small>
-but does not bring it to the entrance to the Tent of Meeting to sacrifice it to the LORD, that man must be cut off from his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.8|<< Leviticus 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.10|Leviticus 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

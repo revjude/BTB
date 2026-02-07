@@ -1,12 +1,12 @@
-**Matthew 9:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:28**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.
 <small><sub>**BSB:**</sub></small>
 After Jesus had entered the house, the blind men came to Him. “Do you believe that I am able to do this?” He asked. “Yes, Lord,” they answered.
 <small><sub>**Literal:**</sub></small>
 Having come now into the house came to Him the blind [men], and says to them <the> Jesus; Believe you that I am able this to do? They say to him; Yes Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.27|<< Matthew 9:27]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.29|Matthew 9:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G2064\|ἐλθόντι]]</big>**  |elthonti <small><sup>[[V-2AAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

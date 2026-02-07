@@ -1,4 +1,4 @@
-**Deuteronomy 5:11** 
+**Deuteronomy 5:11**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold [him] guiltless that taketh his name in vain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not take the name of the LORD your God in vain, for the LORD will not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.10|<< Deuteronomy 5:10]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.12|Deuteronomy 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must take  |**<big>&#8207;[[H5375G\|תִשָּׂ֛א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 28:13** 
 <small><sub>**LXX:**</sub></small>
 And the oracle of God will be to them, affliction upon affliction, hope upon hope, still a little, still a little; that they should go and should fall to the rear, and shall be exposed to danger, and shall be broken, and shall be captured. 
-<small><sub>**KJV:**</sub></small>
-But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, [and] there a little; that they might go, and fall backward, and be broken, and snared, and taken.
-<small><sub>**BSB:**</sub></small>
-Then the word of the LORD to them will become: “Order on order, order on order, line on line, line on line; a little here, a little there,” so that they will go stumbling backward and will be injured, ensnared, and captured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.12|<< Isaiah 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.14|Isaiah 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

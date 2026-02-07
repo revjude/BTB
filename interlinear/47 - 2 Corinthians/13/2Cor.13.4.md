@@ -1,12 +1,12 @@
-**2 Corinthians 13:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:4**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
 <small><sub>**BSB:**</sub></small>
 For He was indeed crucified in weakness, yet He lives by God’s power. For we are also weak in Him, yet by God’s power we will live with Him concerning you.
 <small><sub>**Literal:**</sub></small>
 And for if He was crucified in weakness yet He lives by power God’s; Also for we ourselves are weak in Him but we will live with Him by power God’s toward you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.3|<< 2 Corinthians 13:3]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.5|2 Corinthians 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

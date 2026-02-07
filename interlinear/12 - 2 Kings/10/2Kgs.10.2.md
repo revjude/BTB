@@ -1,4 +1,4 @@
-**2 Kings 10:2** 
+**2 Kings 10:2**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as soon as this letter cometh to you, seeing your master’s sons [are] with you, and [there are] with you chariots and horses, a fenced city also, and armour;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now as soon as this letter cometh to you, seeing your master’s sons [are] with
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.1|<< 2 Kings 10:1]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.3|2 Kings 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when comes  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בֹ֨א]]&#8207; </big>**[^1] | be.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 8:15** 
+**1 Kings 8:15**<big><big>[[1Kgs.8.12 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Blessed [be] the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled [it], saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.14|<< 1 Kings 8:14]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.16|1 Kings 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֤וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

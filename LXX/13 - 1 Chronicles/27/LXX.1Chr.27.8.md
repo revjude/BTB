@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:8** 
 <small><sub>**LXX:**</sub></small>
 The fifth for the fifth month, the ruler \[was\] Shamhuth the Izrahite; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-The fifth captain for the fifth month [was] Shamhuth the Izrahite: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.7|<< 1 Chronicles 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.9|1 Chronicles 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

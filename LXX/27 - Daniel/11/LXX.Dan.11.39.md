@@ -1,10 +1,7 @@
 **LXX Daniel 11:39** 
 <small><sub>**LXX:**</sub></small>
 And he shall act in the fortresses  of refuge with a strange god, of which ever he should recognize. And he shall multiply glory, and shall submit to them many; and \[the\] land he shall divide by gifts. 
-<small><sub>**KJV:**</sub></small>
-Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge [and] increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
-<small><sub>**BSB:**</sub></small>
-He will attack the strongest fortresses with the help of a foreign god and will greatly honor those who acknowledge him, making them rulers over many and distributing the land for a price.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.38|<< Daniel 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.40|Daniel 11:40 >>]]</td></tr></table>
 
 | Translation | Greek |

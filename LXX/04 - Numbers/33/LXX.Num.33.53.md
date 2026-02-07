@@ -1,10 +1,7 @@
 **LXX Numbers 33:53** 
 <small><sub>**LXX:**</sub></small>
 And you shall destroy the ones dwelling the land, and you shall dwell in it. For to you I have given  their land by lot. 
-<small><sub>**KJV:**</sub></small>
-And ye shall dispossess [the inhabitants of] the land, and dwell therein: for I have given you the land to possess it.
-<small><sub>**BSB:**</sub></small>
-You are to take possession of the land and settle in it, for I have given you the land to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.52|<< Numbers 33:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.54|Numbers 33:54 >>]]</td></tr></table>
 
 | Translation | Greek |

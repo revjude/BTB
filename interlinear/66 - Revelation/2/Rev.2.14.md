@@ -1,5 +1,5 @@
-**Revelation 2:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:14**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
 <small><sub>**BSB:**</sub></small>
 But I have a few things against you, because some of you hold to the teaching of Balaam, who taught Balak to place a stumbling block before the Israelites so they would eat food sacrificed to idols and commit sexual immorality.
@@ -10,7 +10,7 @@ But I have against you a few things because you have [some] there holding the te
 > $\quad$ possibly alluding to: [[LXX.Num.25.2|Num 25:2]] ☩ [[LXX.Num.31.16|Num 31:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

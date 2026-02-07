@@ -1,4 +1,4 @@
-**Joshua 22:23** 
+**Joshua 22:23**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require [it];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If we have built for ourselves an altar to turn away from Him and to offer burnt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.22|<< Joshua 22:22]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.24|Joshua 22:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to build  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1129\|בְנ֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Not<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> ourselves  |**<big>&#8207;[[H9005\|לָ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

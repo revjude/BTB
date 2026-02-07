@@ -1,10 +1,7 @@
 **LXX Psalm 119:107** 
 <small><sub>**LXX:**</sub></small>
 I was humbled unto exceedingly, O <span class="smallcaps">lord</span>; enliven me according to  your word! 
-<small><sub>**KJV:**</sub></small>
-I am afflicted very much: quicken me, O LORD, according unto thy word.
-<small><sub>**BSB:**</sub></small>
-I am severely afflicted, O LORD; revive me through Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.107|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.106|<< Psalm 119:106]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.108|Psalm 119:108 >>]]</td></tr></table>
 
 | Translation | Greek |

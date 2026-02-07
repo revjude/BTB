@@ -1,10 +1,7 @@
 **LXX Genesis 27:22** 
 <small><sub>**LXX:**</sub></small>
 And Jacob approached to Isaac  his father. And he handled him, and said, Indeed the voice \[is the\] voice of Jacob, but the hands \[are the\] hands of Esau. 
-<small><sub>**KJV:**</sub></small>
-And Jacob went near unto Isaac his father; and he felt him, and said, The voice [is] Jacob’s voice, but the hands [are] the hands of Esau.
-<small><sub>**BSB:**</sub></small>
-So Jacob came close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.21|<< Genesis 27:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.23|Genesis 27:23 >>]]</td></tr></table>
 
 | Translation | Greek |

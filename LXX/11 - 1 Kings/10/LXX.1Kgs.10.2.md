@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:2** 
 <small><sub>**LXX:**</sub></small>
 And she came to Jerusalem with an exceedingly heavy force, and camels lifting aromatics, and exceedingly much gold, and much valuable stone. And she went to king Solomon. And she spoke to him all as many \[things\] as was in  her heart. 
-<small><sub>**KJV:**</sub></small>
-And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
-<small><sub>**BSB:**</sub></small>
-She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in great abundance, and precious stones. And she came to Solomon and spoke to him all that was on her mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.1|<< 1 Kings 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.3|1 Kings 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 32:17** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to the first, saying, If Esau my brother should meet you, and he should ask you, saying, Who are you? and where might you go? and who \[are\] these  going before you? 
-<small><sub>**KJV:**</sub></small>
-And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose [art] thou? and whither goest thou? and whose [are] these before thee?
-<small><sub>**BSB:**</sub></small>
-He instructed the one in the lead, “When my brother Esau meets you and asks, ‘To whom do you belong, where are you going, and whose animals are these before you?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.16|<< Genesis 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.18|Genesis 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

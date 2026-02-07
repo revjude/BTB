@@ -1,12 +1,12 @@
-**2 Thessalonians 3:14
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:14**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.
 <small><sub>**BSB:**</sub></small>
 Take note of anyone who does not obey the instructions we have given in this letter. Do not associate with him, so that he may be ashamed.
 <small><sub>**Literal:**</sub></small>
 If then anyone not obey this instruction of us through the letter, of this [man] do take note and not to mix with him so that he may be ashamed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.13|<< 2 Thessalonians 3:13]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.15|2 Thessalonians 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

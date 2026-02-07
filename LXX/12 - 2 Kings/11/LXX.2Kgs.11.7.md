@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:7** 
 <small><sub>**LXX:**</sub></small>
 And two hands among you, any  going forth on the Sabbath shall guard the watch of \[the\] house of \[the\] <span class="smallcaps">lord</span> unto the king. 
-<small><sub>**KJV:**</sub></small>
-And two parts of all you that go forth on the sabbath, even they shall keep the watch of the house of the LORD about the king.
-<small><sub>**BSB:**</sub></small>
-the two divisions that would go off duty on the Sabbath are to guard the house of the LORD for the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.6|<< 2 Kings 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.8|2 Kings 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

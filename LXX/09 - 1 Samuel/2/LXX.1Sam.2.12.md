@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Eli the priest \[were\] mischievous sons, not knowing the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Now the sons of Eli [were] sons of Belial; they knew not the LORD.
-<small><sub>**BSB:**</sub></small>
-Now the sons of Eli were wicked men; they had no regard for the LORD<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.11|<< 1 Samuel 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.13|1 Samuel 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

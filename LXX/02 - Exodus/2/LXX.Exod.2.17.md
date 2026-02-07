@@ -1,10 +1,7 @@
 **LXX Exodus 2:17** 
 <small><sub>**LXX:**</sub></small>
 And coming, the shepherds cast them away. But Moses rose up to rescue them, and he drew \[water\] for them, and he watered  their sheep. 
-<small><sub>**KJV:**</sub></small>
-And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
-<small><sub>**BSB:**</sub></small>
-And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.16|<< Exodus 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.18|Exodus 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

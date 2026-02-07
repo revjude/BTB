@@ -1,4 +1,4 @@
-**Ezekiel 10:7** 
+**Ezekiel 10:7**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] cherub stretched forth his hand from between the cherubims unto the fire that [was] between the cherubims, and took [thereof], and put [it] into the hands of [him that was] clothed with linen: who took [it], and went out.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then one of the cherubim reached out his hand and took some of the fire that was
 > $\quad$ referenced by: [[Rev.15.7|Rev 15:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971K\|יִּשְׁלַח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherub  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּר֨וּב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Ruv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

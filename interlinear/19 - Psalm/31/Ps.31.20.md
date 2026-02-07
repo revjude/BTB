@@ -1,4 +1,4 @@
-**Psalms 31:20** (31:21)
+**Psalms 31:20**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You hide them in the secret place of Your presence from the schemes of men. You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.19|<< Psalms 31:19]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.21|Psalms 31:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you hide them  |**<big>&#8207;[[H5641\|תַּסְתִּירֵ֤]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tas.ti.Re<small><sup>[[HVhi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hiding place of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5643A\|סֵ֥תֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Se.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

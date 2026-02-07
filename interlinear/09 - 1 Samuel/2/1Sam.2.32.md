@@ -1,4 +1,4 @@
-**1 Samuel 2:32** 
+**1 Samuel 2:32**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt see an enemy [in my] habitation, in all [the wealth] which [God] shall give Israel: and there shall not be an old man in thine house for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will see distress in My dwelling place. Despite all that is good in Israel, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.31|<< 1 Samuel 2:31]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.33|1 Samuel 2:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will look at  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5027\|הִבַּטְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hib.ba.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] distress of  |**<big>&#8207;[[H6862A\|צַ֣ר]]&#8207; </big>**| tzar<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 10:15** 
 <small><sub>**LXX:**</sub></small>
 And they covered the appearance of the land, and corrupted the land, and ate up all the pasturage of the land, and all the fruit of the trees, which were left behind from the hail. There was not left a green \[thing\], not one \[thing\] among the trees, even in all \[the\] pasturage of the plain in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-They covered the face of all the land until it was black, and they consumed all the plants on the ground and all the fruit on the trees that the hail had left behind. Nothing green was left on any tree or plant in all the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.14|<< Exodus 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.16|Exodus 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

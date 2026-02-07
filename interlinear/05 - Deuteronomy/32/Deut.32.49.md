@@ -1,4 +1,4 @@
-**Deuteronomy 32:49** 
+**Deuteronomy 32:49**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get thee up into this mountain Abarim, [unto] mount Nebo, which [is] in the land of Moab, that [is] over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get thee up into this mountain Abarim, [unto] mount Nebo, which [is] in the land
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.48|<< Deuteronomy 32:48]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.50|Deuteronomy 32:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲלֵ֡ה]]&#8207; </big>**| 'a.Leh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

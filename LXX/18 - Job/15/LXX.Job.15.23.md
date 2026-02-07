@@ -1,10 +1,7 @@
 **LXX Job 15:23** 
 <small><sub>**LXX:**</sub></small>
 And he has been delegated for \[the\] grain of vultures, and he knows in himself that he waits for \[being\] a corpse; and a dark day shall whirl him \[away\]. 
-<small><sub>**KJV:**</sub></small>
-He wandereth abroad for bread, [saying], Where [is it]? he knoweth that the day of darkness is ready at his hand.
-<small><sub>**BSB:**</sub></small>
-He wanders about as food for vultures; he knows the day of darkness is at hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.22|<< Job 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.24|Job 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

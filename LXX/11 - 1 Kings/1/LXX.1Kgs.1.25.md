@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:25** 
 <small><sub>**LXX:**</sub></small>
 For he went down today and sacrificed calves and lambs and sheep in multitude, and called all the sons of the king, and the rulers of the force, and Abiathar the priest; and behold, they are eating and drinking before him, and they said, king Adonijah live! 
-<small><sub>**KJV:**</sub></small>
-For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
-<small><sub>**BSB:**</sub></small>
-For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.24|<< 1 Kings 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.26|1 Kings 1:26 >>]]</td></tr></table>
 
 | Translation | Greek |

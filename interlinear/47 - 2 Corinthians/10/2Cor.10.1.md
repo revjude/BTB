@@ -1,12 +1,12 @@
-**2 Corinthians 10:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:1**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence [am] base among you, but being absent am bold toward you:
 <small><sub>**BSB:**</sub></small>
 Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away.
 <small><sub>**Literal:**</sub></small>
 Myself now I myself Paul exhort you through the meekness and gentleness <the> of Christ, who as to appearance indeed [am] humble among you, being absent however I am bold toward you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.15|<< 2 Corinthians 9:15]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.2|2 Corinthians 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Myself |**<big>[[G0846\|Αὐτὸς]]</big>**  |Autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

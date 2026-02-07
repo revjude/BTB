@@ -1,10 +1,7 @@
 **LXX Psalm 86:14** 
 <small><sub>**LXX:**</sub></small>
 O God, lawbreakers rose up against me, and a gathering of strong \[ones\] sought  my life; and they did not set you before them. 
-<small><sub>**KJV:**</sub></small>
-O God, the proud are risen against me, and the assemblies of violent [men] have sought after my soul; and have not set thee before them.
-<small><sub>**BSB:**</sub></small>
-The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.13|<< Psalm 86:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.15|Psalm 86:15 >>]]</td></tr></table>
 
 | Translation | Greek |

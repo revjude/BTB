@@ -1,4 +1,4 @@
-**Psalms 136:10** 
+**Psalms 136:10**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that smote Egypt in their firstborn: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He struck down the firstborn of Egypt His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.9|<< Psalms 136:9]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.11|Psalms 136:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [one who] struck down  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5221\|מַכֵּ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Keh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> Egypt  |**<big>&#8207;[[H4714G\|מִ֭צְרַיִם]]&#8207; </big>**| Mitz.ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 22:9** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Reuben returned and went, and the sons of Gad, and the half tribe of Manasseh from the sons of Israel from Shiloh in \[the\] land of Canaan, to go forth into  land of Gilead, into \[the\] land of their possession which they inherited it, through \[the\] order of \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which [is] in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites at Shiloh in the land of Canaan to return to their own land of Gilead, which they had acquired according to the command of the LORD through Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.8|<< Joshua 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.10|Joshua 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:14** 
 <small><sub>**LXX:**</sub></small>
 Blessed you will be of all the nations. There will not be among you barren nor sterile, even among  your cattle. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.
-<small><sub>**BSB:**</sub></small>
-You will be blessed above all peoples; among you there will be no barren man or woman or livestock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.13|<< Deuteronomy 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.15|Deuteronomy 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

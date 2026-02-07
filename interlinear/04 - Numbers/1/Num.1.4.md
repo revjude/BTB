@@ -1,4 +1,4 @@
-**Numbers 1:4** 
+**Numbers 1:4**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with you there shall be a man of every tribe; every one head of the house of his fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And one man from each tribe, the head of each family, must be there with you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.3|<< Numbers 1:3]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.5|Numbers 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and with you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אִתְּ]]&#8207;&#8207;[[H9036\|כֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.te.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|יִהְי֔וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

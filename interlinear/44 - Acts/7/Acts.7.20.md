@@ -1,5 +1,5 @@
-**Acts 7:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:20**<big><big>[[Acts.7.20 The Birth and Adoption of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In which time Moses was born, and was exceeding fair, and nourished up in his father’s house three months:
 <small><sub>**BSB:**</sub></small>
 At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.
@@ -10,7 +10,7 @@ In that time was born Moses and he was beautiful <the> to God; who was brought u
 > $\quad$ alluding to: [[LXX.Exod.2.2|Exod 2:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

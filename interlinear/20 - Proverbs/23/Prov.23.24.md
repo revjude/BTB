@@ -1,4 +1,4 @@
-**Proverbs 23:24** 
+**Proverbs 23:24**<big><big>[[Prov.23.22 Saying 17|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The father of the righteous shall greatly rejoice: and he that begetteth a wise [child] shall have joy of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The father of a righteous man will greatly rejoice, and he who fathers a wise so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.23|<< Proverbs 23:23]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.25|Proverbs 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to rejoice>  |**<big>&#8207;[[H1523\|גִּ֣יל]]&#8207; </big>**[^1] [^2] | goyl<small><sup>[[HVqaa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | he rejoices  |**<big>&#8207;[[H1523\|יָ֭גִיל]]&#8207; </big>**[^3] [^4] | ya.goyl<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

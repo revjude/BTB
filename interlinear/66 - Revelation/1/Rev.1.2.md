@@ -1,12 +1,12 @@
-**Revelation 1:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:2**<big><big>[[Rev.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 <small><sub>**BSB:**</sub></small>
 who testifies to everything he saw. This is the word of God and the testimony of Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 who testified to the word <the> of God and to the testimony of Jesus Christ as much as then he saw.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.1|<< Revelation 1:1]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.3|Revelation 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | testified |**<big>[[G3140\|ἐμαρτύρησεν]]</big>**  |emarturēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

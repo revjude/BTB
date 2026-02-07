@@ -1,10 +1,7 @@
 **LXX Psalm 9:5** 
 <small><sub>**LXX:**</sub></small>
 You reproached nations, and the impious perished.  You wiped away his name into the eon, and into the eon of the eon. 
-<small><sub>**KJV:**</sub></small>
-Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.
-<small><sub>**BSB:**</sub></small>
-You have rebuked the nations; You have destroyed the wicked; You have erased their name forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.4|<< Psalm 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.6|Psalm 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

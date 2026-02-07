@@ -1,12 +1,12 @@
-**Philippians 1:30
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:30**<big><big>[[Phil.1.27 Worthy of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having the same conflict which ye saw in me, and now hear [to be] in me.
 <small><sub>**BSB:**</sub></small>
 since you are encountering the same struggle you saw I had, and now hear that I still have.
 <small><sub>**Literal:**</sub></small>
 the same conflict having such as you saw in me myself and now you hear of in me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.29|<< Philippians 1:29]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.1|Philippians 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | same |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

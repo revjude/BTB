@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:4** 
 <small><sub>**LXX:**</sub></small>
 And he razed the \[things\] before his face -- altars, the ones to the Baals; and the high \[places\], the ones above them. And he cut down the sacred groves, and the carved \[images\]. And the molten \[images\] he broke and \[ground\] fine, and tossed \[their dust\] upon \[the\] face of the tombs of the ones sacrificing to them. 
-<small><sub>**KJV:**</sub></small>
-And they brake down the altars of Baalim in his presence; and the images, that [were] on high above them, he cut down; and the groves, and the carved images, and the molten images, he brake in pieces, and made dust [of them], and strowed [it] upon the graves of them that had sacrificed unto them.
-<small><sub>**BSB:**</sub></small>
-Then in his presence the altars of the Baals were torn down, and he cut to pieces the incense altars that were above them. He shattered the Asherah poles, the carved idols, and the cast images, crushed them to dust, and scattered them over the graves of those who had sacrificed to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.3|<< 2 Chronicles 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.5|2 Chronicles 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

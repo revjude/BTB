@@ -1,10 +1,7 @@
 **LXX Daniel 11:21** 
 <small><sub>**LXX:**</sub></small>
 One shall stand upon  his preparation, \[who\] was treated with contempt, and they did not give unto him glory of \[the\] kingdom. And he shall come in prosperity, and he shall prevail over a kingdom by a slip. 
-<small><sub>**KJV:**</sub></small>
-And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.
-<small><sub>**BSB:**</sub></small>
-In his place a despicable person will arise; royal honors will not be given to him, but he will come in a time of peace and seize the kingdom by intrigue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.20|<< Daniel 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.22|Daniel 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 3:1** 
+**Lamentations 3:1**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the man [that] hath seen affliction by the rod of his wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am the man who has seen affliction under the rod of God’s wrath.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.22|<< Lamentations 2:22]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.2|Lamentations 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] the man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1397\|גֶּ֙בֶר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

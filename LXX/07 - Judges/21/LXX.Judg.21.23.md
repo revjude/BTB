@@ -1,10 +1,7 @@
 **LXX Judges 21:23** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin did thus; and they took wives according to  their number from the ones dancing, whom they snatched. And they went and returned unto  their inheritance, and they built up the cities, and dwelt in them. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin did so, and took [them] wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
-<small><sub>**BSB:**</sub></small>
-The Benjamites did as instructed and carried away the number of women they needed from the dancers they caught. They went back to their own inheritance, rebuilt their cities, and settled in them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.22|<< Judges 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.24|Judges 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

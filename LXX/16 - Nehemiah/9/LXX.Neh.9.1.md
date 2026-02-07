@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And on \[the\] twentieth and fourth day  of this month, the sons of Israel gathered together for fasting, and with sackcloths and ashes upon their head. 
-<small><sub>**KJV:**</sub></small>
-Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
-<small><sub>**BSB:**</sub></small>
-On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.18|<< Nehemiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.2|Nehemiah 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

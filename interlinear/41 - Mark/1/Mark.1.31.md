@@ -1,12 +1,12 @@
-**Mark 1:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:31**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.
 <small><sub>**BSB:**</sub></small>
 So He went to her, took her by the hand, and helped her up. The fever left her, and she began to serve them.
 <small><sub>**Literal:**</sub></small>
 And having come to [her] He raised up her having taken hold of the hand of her; And left her the fever immediately and she was ministering to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.30|<< Mark 1:30]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.32|Mark 1:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come to [her] |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:17** 
 <small><sub>**LXX:**</sub></small>
 And Hadad ran away, he and \[the\] Edomite men of the servants  of his father with him. And they entered into Egypt. And Hadad \[was\] a small boy. 
-<small><sub>**KJV:**</sub></small>
-That Hadad fled, he and certain Edomites of his father’s servants with him, to go into Egypt; Hadad [being] yet a little child.
-<small><sub>**BSB:**</sub></small>
-But Hadad, still just a young boy, had fled to Egypt, along with some Edomites who were servants of his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.16|<< 1 Kings 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.18|1 Kings 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

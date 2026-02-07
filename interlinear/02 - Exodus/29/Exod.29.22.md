@@ -1,4 +1,4 @@
-**Exodus 29:22** 
+**Exodus 29:22**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also thou shalt take of the ram the fat and the rump, and the fat that covereth the inwards, and the caul [above] the liver, and the two kidneys, and the fat that [is] upon them, and the right shoulder; for it [is] a ram of consecration:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the fat from the ram, the fat tail, the fat covering the entrails, the lobe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.21|<< Exodus 29:21]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.23|Exodus 29:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

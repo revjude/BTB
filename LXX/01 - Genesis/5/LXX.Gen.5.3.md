@@ -1,10 +1,7 @@
 **LXX Genesis 5:3** 
 <small><sub>**LXX:**</sub></small>
 And Adam lived thirty and two hundred years. And he procreated \[a son\] according to  his shape, and according to  his image; and he named  his name, Seth. 
-<small><sub>**KJV:**</sub></small>
-And Adam lived an hundred and thirty years, and begat [a son] in his own likeness, after his image; and called his name Seth:
-<small><sub>**BSB:**</sub></small>
-When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.2|<< Genesis 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.4|Genesis 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

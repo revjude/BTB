@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:36** 
 <small><sub>**LXX:**</sub></small>
 If these laws should cease from in front of me, says \[the\] <span class="smallcaps">lord</span>, then the race of Israel shall cease to become a nation in front of me all the days. 
-<small><sub>**KJV:**</sub></small>
-If those ordinances depart from before me, saith the LORD, [then] the seed of Israel also shall cease from being a nation before me for ever.
-<small><sub>**BSB:**</sub></small>
-“Only if this fixed order departed from My presence, declares the LORD, would Israel’s descendants ever cease to be a nation before Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.35|<< Jeremiah 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.37|Jeremiah 31:37 >>]]</td></tr></table>
 
 | Translation | Greek |

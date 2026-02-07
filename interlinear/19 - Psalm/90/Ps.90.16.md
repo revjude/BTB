@@ -1,4 +1,4 @@
-**Psalms 90:16** 
+**Psalms 90:16**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy work appear unto thy servants, and thy glory unto their children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May Your work be shown to Your servants, and Your splendor to their children.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.15|<< Psalms 90:15]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.17|Psalms 90:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it appear  |**<big>&#8207;[[H7200G\|יֵרָאֶ֣ה]]&#8207; </big>**| ye.ra.'Eh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

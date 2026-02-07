@@ -1,10 +1,7 @@
 **LXX Genesis 27:13** 
 <small><sub>**LXX:**</sub></small>
 And the mother said to him, Upon me \[be\]  your curse, child. Only you heed my  voice! And in going bring \[them\] to me! 
-<small><sub>**KJV:**</sub></small>
-And his mother said unto him, Upon me [be] thy curse, my son: only obey my voice, and go fetch me [them].
-<small><sub>**BSB:**</sub></small>
-His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.12|<< Genesis 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.14|Genesis 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

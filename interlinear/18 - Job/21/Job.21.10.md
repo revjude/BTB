@@ -1,4 +1,4 @@
-**Job 21:10** 
+**Job 21:10**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their bulls breed without fail; their cows bear calves and do not miscarry.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.9|<< Job 21:9]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.11|Job 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bull his  |**<big>&#8207;[[H7794\|שׁוֹר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| sho.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it impregnates  |**<big>&#8207;[[H5674A\|עִ֭בַּר]]&#8207; </big>**| 'I.bar<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

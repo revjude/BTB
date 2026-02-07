@@ -1,10 +1,7 @@
 **LXX Exodus 14:29** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel went through dry \[land\] in \[the\] midst of the sea. And the water \[was\] to them a wall on \[the\] right, and a wall on \[the\] left. 
-<small><sub>**KJV:**</sub></small>
-But the children of Israel walked upon dry [land] in the midst of the sea; and the waters [were] a wall unto them on their right hand, and on their left.
-<small><sub>**BSB:**</sub></small>
-But the Israelites had walked through the sea on dry ground, with walls of water on their right and on their left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.28|<< Exodus 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.30|Exodus 14:30 >>]]</td></tr></table>
 
 | Translation | Greek |

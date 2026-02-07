@@ -1,4 +1,4 @@
-**Ecclesiastes 4:1** 
+**Ecclesiastes 4:1**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of [such as were] oppressed, and they had no comforter; and on the side of their oppressors [there was] power; but they had no comforter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again I looked, and I considered all the oppression taking place under the sun. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.22|<< Ecclesiastes 3:22]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.2|Ecclesiastes 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I returned  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725J\|שַׁ֣בְתִּֽי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

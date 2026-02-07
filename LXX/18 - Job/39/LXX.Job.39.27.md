@@ -1,10 +1,7 @@
 **LXX Job 39:27** 
 <small><sub>**LXX:**</sub></small>
 And at  your order \[does the\] eagle rise up high, and \[does the\] vulture sit lodged upon its nest, 
-<small><sub>**KJV:**</sub></small>
-Doth the eagle mount up at thy command, and make her nest on high?
-<small><sub>**BSB:**</sub></small>
-Does the eagle soar at your command and make his nest on high?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.26|<< Job 39:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.28|Job 39:28 >>]]</td></tr></table>
 
 | Translation | Greek |

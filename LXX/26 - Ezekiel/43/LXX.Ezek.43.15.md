@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:15** 
 <small><sub>**LXX:**</sub></small>
 And the altar hearth -- four cubits; and from the altar hearth and up above the horns, a cubit. 
-<small><sub>**KJV:**</sub></small>
-So the altar [shall be] four cubits; and from the altar and upward [shall be] four horns.
-<small><sub>**BSB:**</sub></small>
-The altar hearth shall be four cubits high, and four horns shall project upward from the hearth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.14|<< Ezekiel 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.16|Ezekiel 43:16 >>]]</td></tr></table>
 
 | Translation | Greek |

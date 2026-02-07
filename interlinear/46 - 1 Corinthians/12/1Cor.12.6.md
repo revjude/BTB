@@ -1,12 +1,12 @@
-**1 Corinthians 12:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:6**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there are diversities of operations, but it is the same God which worketh all in all.
 <small><sub>**BSB:**</sub></small>
 There are different ways of working, but the same God works all things in all people.
 <small><sub>**Literal:**</sub></small>
 and varieties of workings there are, the but same is God who is working the all things in everyone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.5|<< 1 Corinthians 12:5]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.7|1 Corinthians 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | varieties |**<big>[[G1243\|διαιρέσεις]]</big>**  |diaireseis <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

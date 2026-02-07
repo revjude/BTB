@@ -1,4 +1,4 @@
-**1 Chronicles 20:8** 
+**1 Chronicles 20:8**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So these descendants of Rapha in Gath fell at the hands of David and his servant
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.7|<< 1 Chronicles 20:7]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.1|1 Chronicles 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0411\|אֵ֛ל]]&#8207; </big>**| 'el<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were born  |**<big>&#8207;[[H3205\|נוּלְּד֥וּ]]&#8207; </big>**| nu.le.Du<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

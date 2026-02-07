@@ -1,4 +1,4 @@
-**Jeremiah 29:18** 
+**Jeremiah 29:18**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will pursue them with sword and famine and plague. I will make them a horror t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will pursue  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7291\|רָֽדַפְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.daf.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after them  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

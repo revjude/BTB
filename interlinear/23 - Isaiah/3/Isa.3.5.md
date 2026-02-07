@@ -1,4 +1,4 @@
-**Isaiah 3:5** 
+**Isaiah 3:5**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people will oppress one another, man against man, neighbor against neighbor;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.4|<< Isaiah 3:4]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.6|Isaiah 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will oppress  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5065\|נִגַּ֣שׂ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.Gas<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

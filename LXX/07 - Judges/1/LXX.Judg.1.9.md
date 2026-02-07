@@ -1,10 +1,7 @@
 **LXX Judges 1:9** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] the sons of Judah went down to wage war with the Canaanite  dwelling the mountainous area, and the south, and the plain \[country\]. 
-<small><sub>**KJV:**</sub></small>
-And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley.
-<small><sub>**BSB:**</sub></small>
-Afterward, the men of Judah marched down to fight against the Canaanites living in the hill country, in the Negev, and in the foothills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.8|<< Judges 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.10|Judges 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

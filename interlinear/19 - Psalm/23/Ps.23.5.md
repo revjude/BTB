@@ -1,4 +1,4 @@
-**Psalms 23:5** 
+**Psalms 23:5**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You prepare a table before me in the presence of my enemies. You anoint my head 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.4|<< Psalms 23:4]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.6|Psalms 23:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you arrange  |**<big>&#8207;[[H6186A\|תַּעֲרֹ֬ךְ]]&#8207; </big>**| ta.'a.Rokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנַ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

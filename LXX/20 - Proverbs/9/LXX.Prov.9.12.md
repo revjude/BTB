@@ -1,10 +1,7 @@
 **LXX Proverbs 9:12** 
 <small><sub>**LXX:**</sub></small>
 O son, if you be wise, you shall be wise to yourself; and if you should turn out to be evil, then you shall draw evils alone. 
-<small><sub>**KJV:**</sub></small>
-If thou be wise, thou shalt be wise for thyself: but [if] thou scornest, thou alone shalt bear [it].
-<small><sub>**BSB:**</sub></small>
-If you are wise, you are wise to your own advantage; but if you scoff, you alone will bear the consequences.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

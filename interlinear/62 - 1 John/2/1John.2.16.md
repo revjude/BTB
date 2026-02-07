@@ -1,12 +1,12 @@
-**1 John 2:16
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:16**<big><big>[[1John.2.15 Do Not Love the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
 <small><sub>**BSB:**</sub></small>
 For all that is in the world—the desires of the flesh, the desires of the eyes, and the pride of life—is not from the Father but from the world.
 <small><sub>**Literal:**</sub></small>
 because all that [is] in the world, the desire of the flesh and the desire of the eyes and the vaunting <the> of life, not is from the Father but from the world is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.15|<< 1 John 2:15]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.17|1 John 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

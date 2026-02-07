@@ -1,10 +1,7 @@
 **LXX Proverbs 21:21** 
 <small><sub>**LXX:**</sub></small>
 \[The\] way of righteousness and charity shall find life and glory. 
-<small><sub>**KJV:**</sub></small>
-He that followeth after righteousness and mercy findeth life, righteousness, and honour.
-<small><sub>**BSB:**</sub></small>
-He who pursues righteousness and loving devotion finds life, righteousness, and honor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.20|<< Proverbs 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.22|Proverbs 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 46:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Joseph  being born to him in \[the\] land of Egypt -- nine souls. All \[the\] souls of \[the\] house of Jacob of the ones entering with Jacob into Egypt -- seventy-five souls. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Joseph, which were born him in Egypt, [were] two souls: all the souls of the house of Jacob, which came into Egypt, [were] threescore and ten.
-<small><sub>**BSB:**</sub></small>
-And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.26|<< Genesis 46:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.28|Genesis 46:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 46:27** is...

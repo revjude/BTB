@@ -1,4 +1,4 @@
-**Jeremiah 10:12** 
+**Jeremiah 10:12**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD made the earth by His power; He established the world by His wisdom and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.11|<< Jeremiah 10:11]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.13|Jeremiah 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he] made  |**<big>&#8207;[[H6213H\|עֹשֵׂ֥ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֙רֶץ֙]]&#8207; </big>**| 'e.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

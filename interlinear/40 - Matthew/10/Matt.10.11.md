@@ -1,12 +1,12 @@
-**Matthew 10:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:11**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And into whatsoever city or town ye shall enter, inquire who in it is worthy; and there abide till ye go thence.
 <small><sub>**BSB:**</sub></small>
 Whatever town or village you enter, find out who is worthy there and stay at his house until you move on.
 <small><sub>**Literal:**</sub></small>
 into whatever now when city or village you may enter, do inquire who in it worthy is and there do remain until when you may go forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.10|<< Matthew 10:10]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.12|Matthew 10:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

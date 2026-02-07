@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall boil, and bake, and eat in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose it. And you shall return in the morning and go to  your houses. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt roast and eat [it] in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.
-<small><sub>**BSB:**</sub></small>
-And you shall roast it and eat it in the place the LORD your God will choose, and in the morning you shall return to your tents.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.6|<< Deuteronomy 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.8|Deuteronomy 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 23:8** 
 <small><sub>**LXX:**</sub></small>
 How shall I curse whom \[the\] <span class="smallcaps">lord</span> does not curse? And how shall I imprecate maledictions upon whom God does not imprecate maledictions upon? 
-<small><sub>**KJV:**</sub></small>
-How shall I curse, whom God hath not cursed? or how shall I defy, [whom] the LORD hath not defied?
-<small><sub>**BSB:**</sub></small>
-How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.7|<< Numbers 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.9|Numbers 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

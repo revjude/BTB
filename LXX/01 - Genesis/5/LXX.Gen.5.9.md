@@ -1,10 +1,7 @@
 **LXX Genesis 5:9** 
 <small><sub>**LXX:**</sub></small>
 And Enos lived a hundred ninety years, and he procreated  Cainan. 
-<small><sub>**KJV:**</sub></small>
-And Enos lived ninety years, and begat Cainan:
-<small><sub>**BSB:**</sub></small>
-When Enosh was 90 years old, he became the father of Kenan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.8|<< Genesis 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.10|Genesis 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

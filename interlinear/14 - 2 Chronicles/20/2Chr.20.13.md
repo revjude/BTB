@@ -1,4 +1,4 @@
-**2 Chronicles 20:13** 
+**2 Chronicles 20:13**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Judah stood before the LORD, with their little ones, their wives, and their children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile all the men of Judah, with their wives and children and little ones, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.12|<< 2 Chronicles 20:12]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.14|2 Chronicles 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָ֨ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^1] | ve.<small><sup>[[HC]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad Allepo Biblia (benchayim)">LAB(h)</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

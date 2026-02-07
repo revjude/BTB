@@ -1,4 +1,4 @@
-**Song of Solomon 2:3** 
+**Song of Solomon 2:3**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the apple tree among the trees of the wood, so [is] my beloved among the sons. I sat down under his shadow with great delight, and his fruit [was] sweet to my taste.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like an apple tree among the trees of the forest is my beloved among the young m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.2|<< Song of Solomon 2:2]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.4|Song of Solomon 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like an apple tree  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8598\|תַפּ֙וּחַ֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ta.Pu.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among [the] trees of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6086H\|עֲצֵ֣י]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

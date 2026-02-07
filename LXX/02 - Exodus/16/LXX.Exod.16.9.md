@@ -1,10 +1,7 @@
 **LXX Exodus 16:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, Say to all \[the\] congregation of \[the\] sons of Israel! Come forward before  God! for he has heard  your grumbling. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.8|<< Exodus 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.10|Exodus 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

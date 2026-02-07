@@ -1,4 +1,4 @@
-**2 Kings 21:22** 
+**2 Kings 21:22**<big><big>[[2Kgs.21.19 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he forsook the LORD God of his fathers, and walked not in the way of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He abandoned the LORD, the God of his fathers, and did not walk in the way of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.21|<< 2 Kings 21:21]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.23|2 Kings 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he forsook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעֲזֹ֕ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Zo<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

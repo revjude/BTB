@@ -1,12 +1,12 @@
-**Matthew 13:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:30**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
 <small><sub>**BSB:**</sub></small>
 Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat into my barn.’”
 <small><sub>**Literal:**</sub></small>
 do allow to grow together both until the harvest; and in the time of the harvest I will say to the harvesters; do gather first the weeds and do bind them into bundles in order <the> to burn them; <the> and the wheat do gather together into the barn of mine.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.29|<< Matthew 13:29]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.31|Matthew 13:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do allow |**<big>[[G0863I\|ἄφετε]]</big>**  |aphete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to grow together |**<big>[[G4885\|συναυξάνεσθαι]]</big>**  |sunauxanesthai <small><sup>[[V-PPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Zechariah 6:8** 
+**Zechariah 6:8**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD summoned me and said, “Behold, those going to the land of the no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.7|<< Zechariah 6:7]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.9|Zechariah 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out to  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יַּזְעֵ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaz.'Ek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H0854\|אֹתִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

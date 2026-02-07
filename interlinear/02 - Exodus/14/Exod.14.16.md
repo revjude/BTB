@@ -1,4 +1,4 @@
-**Exodus 14:16** 
+**Exodus 14:16**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry [ground] through the midst of the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as for you, lift up your staff and stretch out your hand over the sea and di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.15|<< Exodus 14:15]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.17|Exodus 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | raise  |**<big>&#8207;[[H7311A\|הָרֵ֣ם]]&#8207; </big>**| ha.Rem<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

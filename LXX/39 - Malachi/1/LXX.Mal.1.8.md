@@ -1,10 +1,7 @@
 **LXX Malachi 1:8** 
 <small><sub>**LXX:**</sub></small>
 For if you should bring a blind \[animal\] for sacrifice, \[is it\] not evil? And if you should bring \[the\] lame or ill, \[is it\] not evil? Bring \[it\] indeed to him, to the one leading you; shall he favorably receive you, shall he receive your person, says \[the\] <span class="smallcaps">lord</span> almighty, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-And if ye offer the blind for sacrifice, [is it] not evil? and if ye offer the lame and sick, [is it] not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-When you offer blind animals for sacrifice, is it not wrong? And when you present the lame and sick ones, is it not wrong? Try offering them to your governor! Would he be pleased with you or show you favor?” asks the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.7|<< Malachi 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.9|Malachi 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

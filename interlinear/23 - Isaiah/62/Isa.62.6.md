@@ -1,4 +1,4 @@
-**Isaiah 62:6** 
+**Isaiah 62:6**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set watchmen upon thy walls, O Jerusalem, [which] shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On your walls, O Jerusalem, I have posted watchmen; they will never be silent da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.5|<< Isaiah 62:5]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.7|Isaiah 62:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | walls your  |**<big>&#8207;[[H2346G\|חוֹמֹתַ֣יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| cho.mo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

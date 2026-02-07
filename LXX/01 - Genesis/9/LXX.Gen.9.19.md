@@ -1,10 +1,7 @@
 **LXX Genesis 9:19** 
 <small><sub>**LXX:**</sub></small>
 These three are the sons of Noah. From these, \[men\] were disseminated upon all the earth. 
-<small><sub>**KJV:**</sub></small>
-These [are] the three sons of Noah: and of them was the whole earth overspread.
-<small><sub>**BSB:**</sub></small>
-These three were the sons of Noah, and from them the whole earth was populated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.18|<< Genesis 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.20|Genesis 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

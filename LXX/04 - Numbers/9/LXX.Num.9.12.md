@@ -1,10 +1,7 @@
 **LXX Numbers 9:12** 
 <small><sub>**LXX:**</sub></small>
 They shall not leave behind any of it into the morning, and they shall not break a bone of it. According to the law of the passover they shall observe it. 
-<small><sub>**KJV:**</sub></small>
-They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
-<small><sub>**BSB:**</sub></small>
-they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.11|<< Numbers 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.13|Numbers 9:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 9:12** is...

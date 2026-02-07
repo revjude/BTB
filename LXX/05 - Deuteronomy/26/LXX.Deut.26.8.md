@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> led us out of Egypt with great strength, and with a fortified hand, and with a high arm, and with great visions, and with signs, and with miracles. 
-<small><sub>**KJV:**</sub></small>
-And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:
-<small><sub>**BSB:**</sub></small>
-Then the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, signs, and wonders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.7|<< Deuteronomy 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.9|Deuteronomy 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

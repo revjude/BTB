@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he shall say in  that day, I shall bless you, O <span class="smallcaps">lord</span>, because you were provoked to anger against me, and you turned away  your rage, and showed mercy on me. 
-<small><sub>**KJV:**</sub></small>
-And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.
-<small><sub>**BSB:**</sub></small>
-In that day you will say: “O LORD, I will praise You. Although You were angry with me, Your anger has turned away, and You have comforted me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.16|<< Isaiah 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.2|Isaiah 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

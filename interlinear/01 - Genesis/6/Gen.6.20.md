@@ -1,4 +1,4 @@
-**Genesis 6:20** 
+**Genesis 6:20**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every [sort] shall come unto thee, to keep [them] alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two of every kind of bird and animal and crawling creature will come to you to b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.19|<< Genesis 6:19]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.21|Genesis 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of the bird[s]  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5775\|ע֣וֹף]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to kind its  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4327\|מִינֵ֗]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mi.Ne.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

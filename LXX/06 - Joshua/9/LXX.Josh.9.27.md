@@ -1,10 +1,7 @@
 **LXX Joshua 9:27** 
 <small><sub>**LXX:**</sub></small>
 And Joshua established them in  that day as woodcutters and water-carriers to all the congregation, and for the altar  of God until the day today, and for the place which ever he should choose. 
-<small><sub>**KJV:**</sub></small>
-And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose.
-<small><sub>**BSB:**</sub></small>
-On that day he made them woodcutters and water carriers, as they are to this day for the congregation of the LORD and for the altar at the place He would choose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.26|<< Joshua 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.1|Joshua 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

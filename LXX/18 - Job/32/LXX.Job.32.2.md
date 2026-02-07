@@ -1,10 +1,7 @@
 **LXX Job 32:2** 
 <small><sub>**LXX:**</sub></small>
 And Elihu was provoked to anger, the \[son of\] Barachel, the Buzite, of the kin of Ram, of the place of Ausis; and he was provoked to anger against Job exceedingly, because he sentenced himself as righteous before the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
-<small><sub>**BSB:**</sub></small>
-This kindled the anger of Elihu son of Barachel the Buzite, of the family of Ram. He burned with anger against Job for justifying himself rather than God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.1|<< Job 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.3|Job 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 21:19** 
+**2 Samuel 21:19**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaareoregim, a Bethlehemite, slew [the brother of] Goliath the Gittite, the staff of whose spear [was] like a weaver’s beam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once again there was a battle with the Philistines at Gob, and Elhanan son of Ja
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.18|<< 2 Samuel 21:18]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.20|2 Samuel 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.hi-<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֧וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

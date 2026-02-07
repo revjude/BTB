@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:43** 
 <small><sub>**LXX:**</sub></small>
 The foreigner who is among you shall ascend over you upward \[and\] upward; but you shall go down lower \[and\] lower. 
-<small><sub>**KJV:**</sub></small>
-The stranger that [is] within thee shall get up above thee very high; and thou shalt come down very low.
-<small><sub>**BSB:**</sub></small>
-The foreigner living among you will rise higher and higher above you, while you sink down lower and lower.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.42|<< Deuteronomy 28:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.44|Deuteronomy 28:44 >>]]</td></tr></table>
 
 | Translation | Greek |

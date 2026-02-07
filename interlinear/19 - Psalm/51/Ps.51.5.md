@@ -1,4 +1,4 @@
-**Psalms 51:5** (51:7)
+**Psalms 51:5**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely I was brought forth in iniquity; I was sinful when my mother conceived me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.4|<< Psalms 51:4]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.6|Psalms 51:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in iniquity  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5771G\|עָו֥וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

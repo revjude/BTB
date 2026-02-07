@@ -1,4 +1,4 @@
-**1 Kings 15:8** 
+**1 Kings 15:8**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Abijam rested with his fathers and was buried in the City of David, and his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abijam  |**<big>&#8207;[[H0038\|אֲבִיָּם֙]]&#8207; </big>**| 'a.vi.Yam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

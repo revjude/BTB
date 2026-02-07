@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:12** 
 <small><sub>**LXX:**</sub></small>
 And  my Sabbaths I gave to them,  to be for a sign between me and between them,  for them to know that I \[am\] \[the\] <span class="smallcaps">lord</span>, the one sanctifying them. 
-<small><sub>**KJV:**</sub></small>
-Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I [am] the LORD that sanctify them.
-<small><sub>**BSB:**</sub></small>
-I also gave them My Sabbaths as a sign between us, so that they would know that I am the LORD who sanctifies them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.11|<< Ezekiel 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.13|Ezekiel 20:13 >>]]</td></tr></table>
 
 | Translation | Greek |

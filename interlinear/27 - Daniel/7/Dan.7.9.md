@@ -1,4 +1,4 @@
-**Daniel 7:9** 
+**Daniel 7:9**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As I continued to watch, thrones were set in place, and the Ancient of Days took
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seeing  |**<big>&#8207;[[H2370\|חָזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1934\|הֲוֵ֗ית]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 4:4** (4:5)
+**Psalms 4:4**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Be angry, yet do not sin; on your bed, search your heart and be still. Selah
 > $\quad$ referenced by: [[Eph.4.26|Eph 4:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tremble  |**<big>&#8207;[[H7264\|רִגְז֗וּ]]&#8207; </big>**| rig.Zu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and may not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 7:20** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron did so, just as \[the\] <span class="smallcaps">lord</span> gave charge to them. And Aaron lifting  his rod struck the water  in the river before Pharaoh, and before  his attendants. And all the water in the river turned into blood. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that [were] in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that [were] in the river were turned to blood.
-<small><sub>**BSB:**</sub></small>
-Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.19|<< Exodus 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.21|Exodus 7:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 7:20** is...

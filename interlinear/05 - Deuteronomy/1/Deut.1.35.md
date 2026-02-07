@@ -1,4 +1,4 @@
-**Deuteronomy 1:35** 
+**Deuteronomy 1:35**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely there shall not one of these men of this evil generation see that good la
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will see  |**<big>&#8207;[[H7200G\|יִרְאֶ֥ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

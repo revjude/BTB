@@ -1,4 +1,4 @@
-**Deuteronomy 19:2** 
+**Deuteronomy 19:2**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you are to set apart for yourselves three cities within the land that the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.1|<< Deuteronomy 19:1]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.3|Deuteronomy 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁל֥וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֖ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

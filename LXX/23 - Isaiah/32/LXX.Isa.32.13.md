@@ -1,10 +1,7 @@
 **LXX Isaiah 32:13** 
 <small><sub>**LXX:**</sub></small>
 The land  of my people \[is\] a thorn-bush; and grass shall ascend, and from out of every house gladness shall be lifted away. 
-<small><sub>**KJV:**</sub></small>
-Upon the land of my people shall come up thorns [and] briers; yea, upon all the houses of joy [in] the joyous city:
-<small><sub>**BSB:**</sub></small>
-and for the land of my people, overgrown with thorns and briers—even for every house of merriment in this city of revelry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.12|<< Isaiah 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.14|Isaiah 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

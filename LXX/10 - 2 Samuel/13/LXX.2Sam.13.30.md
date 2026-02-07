@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:30** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass of their being in the way, that the report came to David saying, Absalom struck all the sons of the king, and did not leave behind of them not even one. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king’s sons, and there is not one of them left.
-<small><sub>**BSB:**</sub></small>
-While they were on the way, a report reached David: “Absalom has struck down all the sons of the king; not one of them is left!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.29|<< 2 Samuel 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.31|2 Samuel 13:31 >>]]</td></tr></table>
 
 | Translation | Greek |

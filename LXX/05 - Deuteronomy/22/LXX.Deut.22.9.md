@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:9** 
 <small><sub>**LXX:**</sub></small>
 You shall not scatter abroad  your vineyard diverse \[seed\], that the produce should not be sanctified, and the seed which ever you should sow with the produce  of your vineyard. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.
-<small><sub>**BSB:**</sub></small>
-Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled—both the crop you plant and the fruit of your vineyard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.8|<< Deuteronomy 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.10|Deuteronomy 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

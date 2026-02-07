@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:9** 
 <small><sub>**LXX:**</sub></small>
 Consumption shall come unto \[the\] impious opposing their fronts right opposite, and he shall gather \[the\] captivity as \[the\] sand. 
-<small><sub>**KJV:**</sub></small>
-They shall come all for violence: their faces shall sup up [as] the east wind, and they shall gather the captivity as the sand.
-<small><sub>**BSB:**</sub></small>
-All of them come bent on violence; their hordes advance like the east wind; they gather prisoners like sand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.8|<< Habakkuk 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.10|Habakkuk 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

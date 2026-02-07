@@ -1,4 +1,4 @@
-**Genesis 29:27** 
+**Genesis 29:27**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finish this week’s celebration, and we will give you the younger one in return
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.26|<< Genesis 29:26]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.28|Genesis 29:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | complete  |**<big>&#8207;[[H4390\|מַלֵּ֖א]]&#8207; </big>**| ma.Le'<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] week of  |**<big>&#8207;[[H7620H\|שְׁבֻ֣עַ]]&#8207; </big>**| she.Vu.a'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

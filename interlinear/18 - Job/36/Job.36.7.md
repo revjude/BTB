@@ -1,4 +1,4 @@
-**Job 36:7** 
+**Job 36:7**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He withdraweth not his eyes from the righteous: but with kings [are they] on the throne; yea, he doth establish them for ever, and they are exalted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He does not take His eyes off the righteous, but He enthrones them with kings an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.6|<< Job 36:6]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.8|Job 36:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he withdraws  |**<big>&#8207;[[H1639\|יִגְרַ֥ע]]&#8207; </big>**| yig.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

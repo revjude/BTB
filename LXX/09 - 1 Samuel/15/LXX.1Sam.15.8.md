@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:8** 
 <small><sub>**LXX:**</sub></small>
 And he seized  Agag king of Amalek alive. And all  his people he utterly destroyed by \[the\] mouth of \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.
-<small><sub>**BSB:**</sub></small>
-He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.7|<< 1 Samuel 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.9|1 Samuel 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

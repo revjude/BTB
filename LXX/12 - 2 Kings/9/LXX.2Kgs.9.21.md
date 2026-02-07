@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:21** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram said, Team up chariots! And they teamed up. And Jehoram king of Israel went forth, and Ahaziah king of Judah, \[each\] man in  his chariot. And they came forth for meeting Jehu. And they found him in the portion of Naboth the Jezreelite. 
-<small><sub>**KJV:**</sub></small>
-And Joram said, Make ready. And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu, and met him in the portion of Naboth the Jezreelite.
-<small><sub>**BSB:**</sub></small>
-“Harness!” Joram shouted, and they harnessed his chariot. Then Joram king of Israel and Ahaziah king of Judah set out, each in his own chariot, and met Jehu on the property of Naboth the Jezreelite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.20|<< 2 Kings 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.22|2 Kings 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

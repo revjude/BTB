@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will restore to each  his righteousness and  his trust; as \[the\] <span class="smallcaps">lord</span> delivered you today into my hands, and I did not want to bear my hand against \[the\] anointed one of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into [my] hand to day, but I would not stretch forth mine hand against the LORD’S anointed.
-<small><sub>**BSB:**</sub></small>
-May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not extend my hand against the LORD’s anointed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.22|<< 1 Samuel 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.24|1 Samuel 26:24 >>]]</td></tr></table>
 
 | Translation | Greek |

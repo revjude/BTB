@@ -1,10 +1,7 @@
 **LXX Malachi 1:10** 
 <small><sub>**LXX:**</sub></small>
 Because even among you \[the\] doors shall be closed, and you shall not light  my altar gratuitously. There is not of me \[anything\] wanting among you, says \[the\] <span class="smallcaps">lord</span> almighty. A sacrifice I shall not favorably receive from out of  your hands. 
-<small><sub>**KJV:**</sub></small>
-Who [is there] even among you that would shut the doors [for nought]? neither do ye kindle [fire] on mine altar for nought. I have no pleasure in you, saith the LORD of hosts, neither will I accept an offering at your hand.
-<small><sub>**BSB:**</sub></small>
-“Oh, that one of you would shut the temple doors, so that you would no longer kindle useless fires on My altar! I take no pleasure in you,” says the LORD of Hosts, “and I will accept no offering from your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.9|<< Malachi 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.11|Malachi 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

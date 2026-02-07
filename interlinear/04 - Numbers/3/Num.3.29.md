@@ -1,4 +1,4 @@
-**Numbers 3:29** 
+**Numbers 3:29**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The families of the sons of Kohath shall pitch on the side of the tabernacle southward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The clans of the Kohathites were to camp on the south side of the tabernacle,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.28|<< Numbers 3:28]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.30|Numbers 3:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֥ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

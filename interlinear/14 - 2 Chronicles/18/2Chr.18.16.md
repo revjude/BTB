@@ -1,4 +1,4 @@
-**2 Chronicles 18:16** 
+**2 Chronicles 18:16**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return [therefore] every man to his house in peace.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Micaiah declared: “I saw all Israel scattered on the hills like sheep witho
 > $\quad$ referenced by: [[Matt.9.36|Matt 9:36]] ☩ [[Mark.6.34|Mark 6:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I saw  |**<big>&#8207;[[H7200G\|רָאִ֤יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

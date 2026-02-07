@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:9** 
 <small><sub>**LXX:**</sub></small>
 And Joshua son of Nun was filled of spirit of understanding; for Moses placed  his hands upon him. And the sons of Israel hearkened to him, and they did in so far as \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites obeyed him and did as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.8|<< Deuteronomy 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.10|Deuteronomy 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

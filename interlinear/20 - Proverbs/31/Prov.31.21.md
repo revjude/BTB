@@ -1,4 +1,4 @@
-**Proverbs 31:21** 
+**Proverbs 31:21**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When it snows, she has no fear for her household, for they are all clothed in sc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.20|<< Proverbs 31:20]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.22|Proverbs 31:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she is afraid  |**<big>&#8207;[[H3372G\|תִירָ֣א]]&#8207; </big>**| ti.Ra'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

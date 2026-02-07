@@ -1,4 +1,4 @@
-**Deuteronomy 28:11** 
+**Deuteronomy 28:11**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will make you prosper abundantly—in the fruit of your womb, the offsp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.10|<< Deuteronomy 28:10]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.12|Deuteronomy 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make abound you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3498\|הוֹתִֽרְ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tir.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

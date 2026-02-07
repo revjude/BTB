@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this behold, I bring evil to \[the\] house of Jeroboam, and I will utterly destroy of Jeroboam \[the\] one urinating against a wall, \[the\] one coming and \[the\] one being left behind in Israel. And I shall choose over \[the\] house of Jeroboam as one chooses the dung unto finishing it. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, [and] him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.
-<small><sub>**BSB:**</sub></small>
-Because of all this, behold, I am bringing disaster on the house of Jeroboam: I will cut off from Jeroboam every male, both slave and free, in Israel; I will burn up the house of Jeroboam as one burns up dung until it is gone!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.9|<< 1 Kings 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.11|1 Kings 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

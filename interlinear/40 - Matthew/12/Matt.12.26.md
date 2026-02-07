@@ -1,12 +1,12 @@
-**Matthew 12:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:26**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?
 <small><sub>**BSB:**</sub></small>
 If Satan drives out Satan, he is divided against himself. How then can his kingdom stand?
 <small><sub>**Literal:**</sub></small>
 And if <the> Satan <the> Satan casts out, against himself he is divided; How then will stand the kingdom of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.25|<< Matthew 12:25]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.27|Matthew 12:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

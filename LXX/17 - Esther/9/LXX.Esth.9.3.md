@@ -1,10 +1,7 @@
 **LXX Esther 9:3** 
 <small><sub>**LXX:**</sub></small>
 For the rulers of the satraps, and the sovereigns, and the royal scribes esteemed the Jews, for the fear of Mordecai rested upon them. 
-<small><sub>**KJV:**</sub></small>
-And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.
-<small><sub>**BSB:**</sub></small>
-And all the officials of the provinces, the satraps, the governors, and the king’s administrators helped the Jews, because the fear of Mordecai had fallen upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.2|<< Esther 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.4|Esther 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

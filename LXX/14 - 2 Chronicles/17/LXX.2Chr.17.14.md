@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:14** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the number of them according to \[the\] houses of their families. And  to Judah \[as\] commanders of thousands -- Adnah the ruler, and with him mighty sons of power -- three hundred thousand. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.
-<small><sub>**BSB:**</sub></small>
-These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.13|<< 2 Chronicles 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.15|2 Chronicles 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

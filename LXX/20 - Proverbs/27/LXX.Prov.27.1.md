@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Do not boast \[concerning\] the \[things\] for tomorrow! for you do not know what the coming \[day\] shall give birth. 
-<small><sub>**KJV:**</sub></small>
-Boast not thyself of to morrow; for thou knowest not what a day may bring forth.
-<small><sub>**BSB:**</sub></small>
-Do not boast about tomorrow, for you do not know what a day may bring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.28|<< Proverbs 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.2|Proverbs 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

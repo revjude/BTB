@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:52** 
 <small><sub>**LXX:**</sub></small>
 And Solomon said, If he should be a son of power, in no way should there fall from  his head a hair upon the ground. But if evil should be found in him, he shall be put to death. 
-<small><sub>**KJV:**</sub></small>
-And Solomon said, If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die.
-<small><sub>**BSB:**</sub></small>
-And Solomon replied, “If he is a man of character, not a single hair of his will fall to the ground. But if evil is found in him, he will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.51|<< 1 Kings 1:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.53|1 Kings 1:53 >>]]</td></tr></table>
 
 | Translation | Greek |

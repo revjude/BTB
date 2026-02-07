@@ -1,4 +1,4 @@
-**Judges 1:23** 
+**Judges 1:23**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house of Joseph sent to descry Bethel. (Now the name of the city before [was] Luz.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They sent spies to Bethel (formerly known as Luz),
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.22|<< Judges 1:22]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.24|Judges 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they caused to spy out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8446\|יָּתִ֥ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ti.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:8** 
 <small><sub>**LXX:**</sub></small>
 And I will order  this city into extinction, and for a hissing. All  coming upon it shall look downcast, and shall whistle over all  its calamity. 
-<small><sub>**KJV:**</sub></small>
-And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof.
-<small><sub>**BSB:**</sub></small>
-I will make this city a desolation and an object of scorn. All who pass by will be appalled and will scoff at all her wounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.7|<< Jeremiah 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.9|Jeremiah 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

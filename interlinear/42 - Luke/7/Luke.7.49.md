@@ -1,12 +1,12 @@
-**Luke 7:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:49**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?
 <small><sub>**BSB:**</sub></small>
 But those at the table began to say to themselves, “Who is this who even forgives sins?”
 <small><sub>**Literal:**</sub></small>
 And began those reclining to say within themselves; Who this is who even sins forgives?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.48|<< Luke 7:48]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.50|Luke 7:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | began |**<big>[[G0757\|ἤρξαντο]]</big>**  |ērxanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

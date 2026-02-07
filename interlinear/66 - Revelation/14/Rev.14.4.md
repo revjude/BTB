@@ -1,12 +1,12 @@
-**Revelation 14:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:4**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb.
 <small><sub>**BSB:**</sub></small>
 These are the ones who have not been defiled with women, for they are virgins. They follow the Lamb wherever He goes. They have been redeemed from among men as firstfruits to God and to the Lamb.
 <small><sub>**Literal:**</sub></small>
 These are they who with women not was defiled, pure for they are; these are those following after the Lamb wherever maybe He may go; These by Jesus were redeemed out from <the> men [as] firstfruits <the> to God and to the Lamb;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.3|<< Revelation 14:3]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.5|Revelation 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

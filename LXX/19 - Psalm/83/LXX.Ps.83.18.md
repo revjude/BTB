@@ -1,10 +1,7 @@
 **LXX Psalm 83:18** 
 <small><sub>**LXX:**</sub></small>
 And let them know that \[the\] name to you \[is\], \[the\] <span class="smallcaps">lord</span>! You alone \[are\] highest over all the earth. 
-<small><sub>**KJV:**</sub></small>
-That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth.
-<small><sub>**BSB:**</sub></small>
-May they know that You alone, whose name is the LORD, are Most High over all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.17|<< Psalm 83:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.1|Psalm 84:1 >>]]</td></tr></table>
 
 | Translation | Greek |

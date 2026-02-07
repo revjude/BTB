@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:22** 
 <small><sub>**LXX:**</sub></small>
 And the king sent men into Egypt, Elnathan son of Achbor, and men with him into  Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Jehoiakim the king sent men into Egypt, [namely], Elnathan the son of Achbor, and [certain] men with him into Egypt.
-<small><sub>**BSB:**</sub></small>
-Then King Jehoiakim sent men to Egypt: Elnathan son of Achbor along with some other men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.21|<< Jeremiah 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.23|Jeremiah 26:23 >>]]</td></tr></table>
 
 | Translation | Greek |

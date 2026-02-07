@@ -1,12 +1,12 @@
-**Acts 10:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:14**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
 <small><sub>**BSB:**</sub></small>
 “No, Lord!” Peter answered. “I have never eaten anything impure or unclean.”
 <small><sub>**Literal:**</sub></small>
 <the> And Peter said; In no way, Lord; for never I ate anything common or unclean.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.13|<< Acts 10:13]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.15|Acts 10:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

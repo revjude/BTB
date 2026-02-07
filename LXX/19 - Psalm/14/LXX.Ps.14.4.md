@@ -1,10 +1,7 @@
 **LXX Psalm 14:4** 
 <small><sub>**LXX:**</sub></small>
 all the ones working lawlessness not know, the ones devouring  my people \[as the\] food of bread? They called not upon the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Have all the workers of iniquity no knowledge? who eat up my people [as] they eat bread, and call not upon the LORD.
-<small><sub>**BSB:**</sub></small>
-Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.3|<< Psalm 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.5|Psalm 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

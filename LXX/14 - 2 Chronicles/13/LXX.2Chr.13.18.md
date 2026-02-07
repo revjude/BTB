@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:18** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel were abased in  that day, and the sons of Judah grew strong, for they hoped upon \[the\] <span class="smallcaps">lord</span> the God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.
-<small><sub>**BSB:**</sub></small>
-Thus the Israelites were subdued at that time, and the men of Judah prevailed because they relied on the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.17|<< 2 Chronicles 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.19|2 Chronicles 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

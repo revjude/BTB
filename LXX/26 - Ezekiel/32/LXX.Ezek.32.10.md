@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:10** 
 <small><sub>**LXX:**</sub></small>
 And many nations shall be gloomy over you, and  their kings shall be amazed by a change of state in the flying  of my broadsword unto their faces, the ones waiting for  their downfall from \[the\] day of your downfall. 
-<small><sub>**KJV:**</sub></small>
-Yea, I will make many people amazed at thee, and their kings shall be horribly afraid for thee, when I shall brandish my sword before them; and they shall tremble at [every] moment, every man for his own life, in the day of thy fall.
-<small><sub>**BSB:**</sub></small>
-I will cause many peoples to be appalled over you, and their kings will shudder in horror because of you when I brandish My sword before them. On the day of your downfall each of them will tremble every moment for his life.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.9|<< Ezekiel 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.11|Ezekiel 32:11 >>]]</td></tr></table>
 
 | Translation | Greek |

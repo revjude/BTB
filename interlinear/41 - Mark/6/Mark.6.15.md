@@ -1,12 +1,12 @@
-**Mark 6:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:15**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.
 <small><sub>**BSB:**</sub></small>
 Others were saying, “He is Elijah,” and still others, “He is a prophet, like one of the prophets of old.”
 <small><sub>**Literal:**</sub></small>
 Others however were saying that Elijah He is; Others now were saying that A prophet is or like one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.14|<< Mark 6:14]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.16|Mark 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G0243\|ἄλλοι]]</big>**  |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

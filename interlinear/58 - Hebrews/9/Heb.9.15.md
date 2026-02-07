@@ -1,12 +1,12 @@
-**Hebrews 9:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:15**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions [that were] under the first testament, they which are called might receive the promise of eternal inheritance.
 <small><sub>**BSB:**</sub></small>
 Therefore Christ is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, now that He has died to redeem them from the transgressions committed under the first covenant.
 <small><sub>**Literal:**</sub></small>
 And because of this of a covenant new [the] mediator He is, so that death having taken place for redemption of the under the first covenant transgressions the promise may receive those called of the eternal inheritance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.14|<< Hebrews 9:14]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.16|Hebrews 9:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

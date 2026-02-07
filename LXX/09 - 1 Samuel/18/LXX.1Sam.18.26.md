@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:26** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Saul told \[to\] David  these things. And the word was straightened in \[the\] eyes of David to be allied by marriage to the king. And the days were not fulfilled. 
-<small><sub>**KJV:**</sub></small>
-And when his servants told David these words, it pleased David well to be the king’s son in law: and the days were not expired.
-<small><sub>**BSB:**</sub></small>
-When the servants reported these terms to David, he was pleased to become the king’s son-in-law. Before the wedding day arrived,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.25|<< 1 Samuel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.27|1 Samuel 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

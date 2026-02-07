@@ -1,4 +1,4 @@
-**Jeremiah 10:25** 
+**Jeremiah 10:25**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Pour out Your wrath on the nations that do not acknowledge You, and on the famil
 > $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pour out  |**<big>&#8207;[[H8210G\|שְׁפֹ֣ךְ]]&#8207; </big>**| she.Fokh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage your  |**<big>&#8207;[[H2534\|חֲמָתְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| cha.ma.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

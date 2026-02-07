@@ -1,10 +1,7 @@
 **LXX Lamentations 5:12** 
 <small><sub>**LXX:**</sub></small>
 Rulers were hanged by their hands; elders were not extolled; 
-<small><sub>**KJV:**</sub></small>
-Princes are hanged up by their hand: the faces of elders were not honoured.
-<small><sub>**BSB:**</sub></small>
-Princes have been hung up by their hands; elders receive no respect.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.11|<< Lamentations 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.13|Lamentations 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

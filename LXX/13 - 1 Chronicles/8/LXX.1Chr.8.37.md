@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:37** 
 <small><sub>**LXX:**</sub></small>
 and Moza engendered  Binea, Rapha his son, Eleasah his son, \[and\] Azel his son. 
-<small><sub>**KJV:**</sub></small>
-And Moza begat Binea: Rapha [was] his son, Eleasah his son, Azel his son:
-<small><sub>**BSB:**</sub></small>
-Moza was the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.36|<< 1 Chronicles 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.38|1 Chronicles 8:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 7:6** 
 <small><sub>**LXX:**</sub></small>
 We shall ascend unto  Judea, and conversing together with them, we shall turn them to us, and we will give to reign over them the son of Tabeal. 
-<small><sub>**KJV:**</sub></small>
-Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, [even] the son of Tabeal:
-<small><sub>**BSB:**</sub></small>
-‘Let us invade Judah, terrorize it, and divide it among ourselves. Then we can install the son of Tabeal over it as king.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.5|<< Isaiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.7|Isaiah 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

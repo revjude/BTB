@@ -1,12 +1,12 @@
-**Revelation 22:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:14**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
 <small><sub>**BSB:**</sub></small>
 Blessed are those who wash their robes, so that they may have the right to the tree of life and may enter the city by its gates.
 <small><sub>**Literal:**</sub></small>
 Blessed [are] those washing the robes of them, that will be the right of them to the tree <the> of life, and by the gates they may enter into the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.13|<< Revelation 22:13]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.15|Revelation 22:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [are] |**<big>[[G3107\|Μακάριοι]]</big>**  |Makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

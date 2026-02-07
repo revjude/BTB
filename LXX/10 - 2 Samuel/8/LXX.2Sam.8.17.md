@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:17** 
 <small><sub>**LXX:**</sub></small>
 And Zadok son of Ahitub and Ahimelech son of Abiathar \[were\] priests. And Seriah \[was\] the scribe, 
-<small><sub>**KJV:**</sub></small>
-And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, [were] the priests; and Seraiah [was] the scribe;
-<small><sub>**BSB:**</sub></small>
-Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.16|<< 2 Samuel 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.18|2 Samuel 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

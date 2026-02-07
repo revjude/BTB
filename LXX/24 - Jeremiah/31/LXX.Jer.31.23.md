@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Still they shall say  this word in \[the\] land of Judah, and in his cities, whenever I shall return  his resettlement; Being blessed \[is the\] <span class="smallcaps">lord</span> upon his holy just mountain; 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless thee, O habitation of justice, [and] mountain of holiness.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts, the God of Israel, says: “When I restore them from captivity, they will once again speak this word in the land of Judah and in its cities: ‘May the LORD bless you, O righteous dwelling place, O holy mountain.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.22|<< Jeremiah 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.24|Jeremiah 31:24 >>]]</td></tr></table>
 
 | Translation | Greek |

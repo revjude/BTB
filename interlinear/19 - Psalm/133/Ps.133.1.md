@@ -1,12 +1,12 @@
-**Psalms 133:1** 
+**Psalms 133:1**<big><big>[[Ps.133.1 How Pleasant to Live in Harmony!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song of degrees of David. Behold, how good and how pleasant [it is] for brethren to dwell together in unity!
+Behold, how good and how pleasant [it is] for brethren to dwell together in unity!
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of David. Behold, how good and pleasant it is when brothers live together in harmony!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.133.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.0|<< Psalms 133:0]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.2|Psalms 133:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

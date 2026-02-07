@@ -1,10 +1,7 @@
 **LXX Psalm 85:6** 
 <small><sub>**LXX:**</sub></small>
 O God, you, in turning towards \[us\] shall enliven us, and  your people shall be glad over you. 
-<small><sub>**KJV:**</sub></small>
-Wilt thou not revive us again: that thy people may rejoice in thee?
-<small><sub>**BSB:**</sub></small>
-Will You not revive us again, that Your people may rejoice in You?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.5|<< Psalm 85:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.7|Psalm 85:7 >>]]</td></tr></table>
 
 | Translation | Greek |

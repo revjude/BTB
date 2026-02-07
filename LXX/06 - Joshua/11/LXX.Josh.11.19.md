@@ -1,10 +1,7 @@
 **LXX Joshua 11:19** 
 <small><sub>**LXX:**</sub></small>
 And there was not a city which he did not deliver over to the sons of Israel, except the Hivite  dwelling in Gibeon. He took all by war. 
-<small><sub>**KJV:**</sub></small>
-There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all [other] they took in battle.
-<small><sub>**BSB:**</sub></small>
-No city made peace with the Israelites except the Hivites living in Gibeon; all others were taken in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.18|<< Joshua 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.20|Joshua 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

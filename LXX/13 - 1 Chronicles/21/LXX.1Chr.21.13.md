@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:13** 
 <small><sub>**LXX:**</sub></small>
 And David said to Gad, \[It is\] narrow  exceedingly, I shall fall indeed into \[the\] hands of \[the\] <span class="smallcaps">lord</span>, for his compassions \[are\] exceedingly great; but into \[the\] hands of men in no way should I fall. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great [are] his mercies: but let me not fall into the hand of man.
-<small><sub>**BSB:**</sub></small>
-David answered Gad, “I am deeply distressed. Please, let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hands of men.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.12|<< 1 Chronicles 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.14|1 Chronicles 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

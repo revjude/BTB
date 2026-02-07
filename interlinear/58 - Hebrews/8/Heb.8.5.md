@@ -1,5 +1,5 @@
-**Hebrews 8:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:5**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, [that] thou make all things according to the pattern shewed to thee in the mount.
 <small><sub>**BSB:**</sub></small>
 The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”
@@ -10,7 +10,7 @@ who to a copy and shadow minster of the heavenly, even as has been divinely inst
 > $\quad$ referencing: [[LXX.Exod.25.40|Exod 25:40]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to a copy |**<big>[[G5262\|ὑποδείγματι]]</big>**  |hupodeigmati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

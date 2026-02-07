@@ -1,4 +1,4 @@
-**Lamentations 1:19** 
+**Lamentations 1:19**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I called for my lovers, [but] they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I called out to my lovers, but they have betrayed me. My priests and elders peri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I called  |**<big>&#8207;[[H7121G\|קָרָ֤אתִי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> lovers my  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H0157G\|מְאַהֲבַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.'a.ha.Va<small><sup>[[HVprmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

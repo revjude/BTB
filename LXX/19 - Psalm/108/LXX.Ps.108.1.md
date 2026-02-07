@@ -6,10 +6,7 @@ Ode of a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 My heart \[is\] prepared, O God, my heart \[is\] prepared. I shall sing and strum in  my glory. 
-<small><sub>**KJV:**</sub></small>
-A Song [or] Psalm of David. O God, my heart is fixed; I will sing and give praise, even with my glory.
-<small><sub>**BSB:**</sub></small>
-A song. A Psalm of David. My heart is steadfast, O God; I will sing and make music with all my being.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.108.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.43|<< Psalm 107:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.2|Psalm 108:2 >>]]</td></tr></table>
 
 | Translation | Greek |

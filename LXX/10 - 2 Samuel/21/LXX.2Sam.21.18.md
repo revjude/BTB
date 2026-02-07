@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\] war \[was\] still with the Philistines in Nob. Then Sibbechai the Hushathite struck the ones assembling of the descendants of the giants. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which [was] of the sons of the giant.
-<small><sub>**BSB:**</sub></small>
-Some time later at Gob, there was another battle with the Philistines. At that time Sibbecai the Hushathite killed Saph, a descendant of Rapha.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.17|<< 2 Samuel 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.19|2 Samuel 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

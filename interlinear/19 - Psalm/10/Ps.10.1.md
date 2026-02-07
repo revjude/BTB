@@ -1,4 +1,4 @@
-**Psalms 10:1** 
+**Psalms 10:1**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why standest thou afar off, O LORD? [why] hidest thou [thyself] in times of trouble?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why, O LORD, do You stand far off? Why do You hide in times of trouble?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.20|<< Psalms 9:20]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.2|Psalms 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

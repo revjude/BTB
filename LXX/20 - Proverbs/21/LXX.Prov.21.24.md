@@ -1,10 +1,7 @@
 **LXX Proverbs 21:24** 
 <small><sub>**LXX:**</sub></small>
 A bold and self-willed and ostentatious \[man\] is called pestilent; and the man who resents \[is\] a lawbreaker. 
-<small><sub>**KJV:**</sub></small>
-Proud [and] haughty scorner [is] his name, who dealeth in proud wrath.
-<small><sub>**BSB:**</sub></small>
-Mocker is the name of the proud and arrogant man—of him who acts with excessive pride.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.23|<< Proverbs 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.25|Proverbs 21:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Hosea 13:10** 
 <small><sub>**LXX:**</sub></small>
 Where \[is\]  this your king? and let him preserve you in all  your cities! Let him judge you! whom you said, Give to me a king and a ruler! 
-<small><sub>**KJV:**</sub></small>
-I will be thy king: where [is any other] that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?
-<small><sub>**BSB:**</sub></small>
-Where is your king now to save you in all your cities, and the rulers to whom you said, “Give me a king and princes”?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.9|<< Hosea 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.11|Hosea 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

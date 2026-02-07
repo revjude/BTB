@@ -1,4 +1,4 @@
-**Psalms 78:53** 
+**Psalms 78:53**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He led them safely, so they did not fear, but the sea engulfed their enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.52|<< Psalms 78:52]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.54|Psalms 78:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he guided them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5148\|יַּנְחֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yan.Che<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to security  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0983\|בֶטַח]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> ve.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

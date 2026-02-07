@@ -1,10 +1,7 @@
 **LXX Genesis 44:18** 
 <small><sub>**LXX:**</sub></small>
 And approaching to him, Judah said, I beseech O lord, your servant speak before you, and \[be\] not enraged \[with\] your servant, for you are after Pharaoh! 
-<small><sub>**KJV:**</sub></small>
-Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord’s ears, and let not thine anger burn against thy servant: for thou [art] even as Pharaoh.
-<small><sub>**BSB:**</sub></small>
-Then Judah approached Joseph and said, “Sir, please let your servant speak personally to my lord. Do not be angry with your servant, for you are equal to Pharaoh himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.17|<< Genesis 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.19|Genesis 44:19 >>]]</td></tr></table>
 
 | Translation | Greek |

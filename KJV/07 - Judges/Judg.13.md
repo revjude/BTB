@@ -1,6 +1,6 @@
 (KJV) **Judges 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12|<< Judges 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14|Judges 14 >>]]</td></tr></table>
 
-***The Birth of Samson***&emsp;<small><sup>\[ [[Num.6|Numbers 6:1–21]] ]</sup></small> ^bsb634
+<big><big>[[Judg.13.1 The Birth of Samson|⥃]]</big></big>***The Birth of Samson***&emsp;<small><sup>\[ [[Num.6|Numbers 6:1–21]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.13.1|1]]**<span class="endversemarker">]</span> And the children of Israel did<small><small>[^2]</small></small> evil again in the sight<small><small>[^3]</small></small> of the <span class="smallcaps">Lord</span>; and the <span class="smallcaps">Lord</span> delivered<small><small>[^4]</small></small> them into the<small><small>[^5]</small></small> hand of the Philistines forty years. 
 

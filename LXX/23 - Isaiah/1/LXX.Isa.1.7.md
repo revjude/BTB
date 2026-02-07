@@ -1,10 +1,7 @@
 **LXX Isaiah 1:7** 
 <small><sub>**LXX:**</sub></small>
  Your land \[is\] desolate;  your cities scorched;  your place before you -- strangers devoure it, and it is made desolate, being eradicated by alien peoples. 
-<small><sub>**KJV:**</sub></small>
-Your country [is] desolate, your cities [are] burned with fire: your land, strangers devour it in your presence, and [it is] desolate, as overthrown by strangers.
-<small><sub>**BSB:**</sub></small>
-Your land is desolate; your cities are burned with fire. Foreigners devour your fields before you—a desolation demolished by strangers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.6|<< Isaiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.8|Isaiah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 12:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:17**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
 <small><sub>**BSB:**</sub></small>
 Peter motioned with his hand for silence, and he described how the Lord had brought him out of the prison. “Send word to James and to the brothers,” he said, and he left for another place.
 <small><sub>**Literal:**</sub></small>
 Having made a sign then to them with the hand to be silent, he related to them how the Lord him had brought out of the prison; He said then; do report to James and to the brothers these things. And having gone out he went to another place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.16|<< Acts 12:16]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.18|Acts 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having made a sign |**<big>[[G2678\|κατασείσας]]</big>**  |kataseisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

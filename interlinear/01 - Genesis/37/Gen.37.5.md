@@ -1,4 +1,4 @@
-**Genesis 37:5** 
+**Genesis 37:5**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph dreamed a dream, and he told [it] his brethren: and they hated him yet the more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joseph had a dream, and when he told it to his brothers, they hated him eve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.4|<< Genesis 37:4]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.6|Genesis 37:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dreamed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2492B\|יַּחֲלֹ֤ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Lom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵף֙]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

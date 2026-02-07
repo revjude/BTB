@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:11** 
 <small><sub>**LXX:**</sub></small>
 he went not in the way of his just father, but also upon the mountains he ate \[to idols\], and the wife  of his neighbor he defiled, 
-<small><sub>**KJV:**</sub></small>
-And that doeth not any of those [duties], but even hath eaten upon the mountains, and defiled his neighbour’s wife,
-<small><sub>**BSB:**</sub></small>
-though the father has done none of them: Indeed, the son eats at the mountain and defiles his neighbor’s wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.10|<< Ezekiel 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.12|Ezekiel 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

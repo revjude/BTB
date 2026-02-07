@@ -1,4 +1,4 @@
-**1 Chronicles 11:34** 
+**1 Chronicles 11:34**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the sons of Hashem the Gizonite, Jonathan son of Shagee the Hararite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.33|<< 1 Chronicles 11:33]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.35|1 Chronicles 11:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֗י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hashem  |**<big>&#8207;[[H2044\|הָשֵׁם֙]]&#8207; </big>**| ha.Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

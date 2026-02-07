@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:9** 
 <small><sub>**LXX:**</sub></small>
 And they seized the king, and led him to the king of Babylon in Riblah in the land of Hamath; and he spoke to him with judgment. 
-<small><sub>**KJV:**</sub></small>
-Then they took the king, and carried him up unto the king of Babylon to Riblah in the land of Hamath; where he gave judgment upon him.
-<small><sub>**BSB:**</sub></small>
-The Chaldeans seized the king and brought him up to the king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on Zedekiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.8|<< Jeremiah 52:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.10|Jeremiah 52:10 >>]]</td></tr></table>
 
 | Translation | Greek |

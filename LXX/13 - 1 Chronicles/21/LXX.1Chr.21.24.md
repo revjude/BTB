@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:24** 
 <small><sub>**LXX:**</sub></small>
 And king David said  to Ornan, Not so, but only by buying shall I buy of \[its\] money's worth; for in no way shall I take the \[things\] of yours to the <span class="smallcaps">lord</span>,  to offer a whole burnt-offering without charge \[to me\] to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take [that] which [is] thine for the LORD, nor offer burnt offerings without cost.
-<small><sub>**BSB:**</sub></small>
-“No,” replied King David, “I insist on paying the full price, for I will not take for the LORD what belongs to you, nor will I offer burnt offerings that cost me nothing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.23|<< 1 Chronicles 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.25|1 Chronicles 21:25 >>]]</td></tr></table>
 
 | Translation | Greek |

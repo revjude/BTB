@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:13** 
 <small><sub>**LXX:**</sub></small>
 And David said \[to\] his men, each \[man\] tie on  his sword! And David even himself tied on  his sword. And they ascended after David, about four hundred men, and two hundred stayed by the equipment. 
-<small><sub>**KJV:**</sub></small>
-And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.
-<small><sub>**BSB:**</sub></small>
-And David said to his men, “Strap on your swords!” So David and all his men strapped on their swords, and about four hundred men followed David, while two hundred stayed with the supplies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.12|<< 1 Samuel 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.14|1 Samuel 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

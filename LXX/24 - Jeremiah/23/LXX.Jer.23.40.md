@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:40** 
 <small><sub>**LXX:**</sub></small>
 And I shall put upon you eternal scorn and eternal dishonor, which shall not be forgotten. 
-<small><sub>**KJV:**</sub></small>
-And I will bring an everlasting reproach upon you, and a perpetual shame, which shall not be forgotten.
-<small><sub>**BSB:**</sub></small>
-And I will bring upon you everlasting shame and perpetual humiliation that will never be forgotten.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.39|<< Jeremiah 23:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.1|Jeremiah 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

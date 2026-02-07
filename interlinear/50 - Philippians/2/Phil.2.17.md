@@ -1,12 +1,12 @@
-**Philippians 2:17
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:17**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.
 <small><sub>**BSB:**</sub></small>
 But even if I am being poured out like a drink offering on the sacrifice and service of your faith, I am glad and rejoice with all of you.
 <small><sub>**Literal:**</sub></small>
 but if even I am being poured out on the sacrifice and on [the] service of the faith of you, I am glad and I rejoice with all you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.16|<< Philippians 2:16]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.18|Philippians 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

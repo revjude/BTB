@@ -1,10 +1,7 @@
 **LXX Exodus 30:19** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and his sons shall wash from it  their hands and  their feet. 
-<small><sub>**KJV:**</sub></small>
-For Aaron and his sons shall wash their hands and their feet thereat:
-<small><sub>**BSB:**</sub></small>
-with which Aaron and his sons are to wash their hands and feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.18|<< Exodus 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.20|Exodus 30:20 >>]]</td></tr></table>
 
 | Translation | Greek |

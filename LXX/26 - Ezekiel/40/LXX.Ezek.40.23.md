@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:23** 
 <small><sub>**LXX:**</sub></small>
 And \[there was\] a gate to the inner courtyard looking towards \[the\] gate of the north, in the manner of the gate  looking according to \[the\] east. And he measured the courtyard from gate unto gate -- a hundred cubits. 
-<small><sub>**KJV:**</sub></small>
-And the gate of the inner court [was] over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.
-<small><sub>**BSB:**</sub></small>
-There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.22|<< Ezekiel 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.24|Ezekiel 40:24 >>]]</td></tr></table>
 
 | Translation | Greek |

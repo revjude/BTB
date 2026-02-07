@@ -1,4 +1,4 @@
-**Exodus 5:9** 
+**Exodus 5:9**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make the work harder on the men so they will be occupied and pay no attention to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.8|<< Exodus 5:8]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.10|Exodus 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it be heavy  |**<big>&#8207;[[H3513H\|תִּכְבַּ֧ד]]&#8207; </big>**| tikh.Bad<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the labor  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5656I\|עֲבֹדָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.vo.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

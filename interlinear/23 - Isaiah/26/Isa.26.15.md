@@ -1,4 +1,4 @@
-**Isaiah 26:15** 
+**Isaiah 26:15**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed [it] far [unto] all the ends of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have enlarged the nation, O LORD; You have enlarged the nation. You have gai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.14|<< Isaiah 26:14]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.16|Isaiah 26:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have added  |**<big>&#8207;[[H3254H\|יָסַ֤פְתָּ]]&#8207; </big>**| ya.Saf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the nation  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1471A\|גּוֹי֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

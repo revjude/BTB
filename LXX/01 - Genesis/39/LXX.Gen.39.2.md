@@ -1,10 +1,7 @@
 **LXX Genesis 39:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was with Joseph. And he was a man succeeding in \[things\]. And he was in the house by  his master the Egyptian. 
-<small><sub>**KJV:**</sub></small>
-And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
-<small><sub>**BSB:**</sub></small>
-And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.1|<< Genesis 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.3|Genesis 39:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 39:2** is...

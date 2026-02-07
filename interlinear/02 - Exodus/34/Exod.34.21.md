@@ -1,4 +1,4 @@
-**Exodus 34:21** 
+**Exodus 34:21**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six days you shall labor, but on the seventh day you shall rest; even in the sea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.20|<< Exodus 34:20]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.22|Exodus 34:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֤שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִים֙]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

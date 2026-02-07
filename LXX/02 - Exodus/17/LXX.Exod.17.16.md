@@ -1,10 +1,7 @@
 **LXX Exodus 17:16** 
 <small><sub>**LXX:**</sub></small>
 for with a hidden hand \[the\] <span class="smallcaps">lord</span> wages war against Amalek from generations unto generations. 
-<small><sub>**KJV:**</sub></small>
-For he said, Because the LORD hath sworn [that] the LORD [will have] war with Amalek from generation to generation.
-<small><sub>**BSB:**</sub></small>
-“Indeed,” he said, “a hand was lifted up toward the throne of the LORD. The LORD will war against Amalek from generation to generation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.15|<< Exodus 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.1|Exodus 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

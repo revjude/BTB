@@ -1,12 +1,12 @@
-**Acts 7:58
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:58**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul.
 <small><sub>**BSB:**</sub></small>
 They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul.
 <small><sub>**Literal:**</sub></small>
 and having cast [him] out of the city they were stoning [him]. And the witnesses laid aside the garments of them at the feet of a young man named Saul<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.57|<< Acts 7:57]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.59|Acts 7:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having cast [him] |**<big>[[G1544\|ἐκβαλόντες]]</big>**  |ekbalontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

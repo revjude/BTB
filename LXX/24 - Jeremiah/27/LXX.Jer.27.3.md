@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall send them to the king of Edom, and to \[the\] king of Moab, and to the king of \[the\] sons of Ammon, and to the king of Tyre, and to \[the\] king of Sidon, by \[the\] hands of their messengers, of the ones coming in Jerusalem to Zedekiah king of Judah. 
-<small><sub>**KJV:**</sub></small>
-And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;
-<small><sub>**BSB:**</sub></small>
-Send word to the kings of Edom, Moab, Ammon, Tyre, and Sidon through the envoys who have come to Jerusalem to Zedekiah king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.2|<< Jeremiah 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.4|Jeremiah 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

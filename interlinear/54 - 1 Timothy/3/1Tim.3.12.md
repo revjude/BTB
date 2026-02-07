@@ -1,12 +1,12 @@
-**1 Timothy 3:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:12**<big><big>[[1Tim.3.8 Qualifications for Deacons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let the deacons be the husbands of one wife, ruling their children and their own houses well.
 <small><sub>**BSB:**</sub></small>
 A deacon must be the husband of but one wife, a good manager of his children and of his own household.
 <small><sub>**Literal:**</sub></small>
 Deacons should be of one wife husbands, [their] children well managing and <the> [their] own households.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.11|<< 1 Timothy 3:11]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.13|1 Timothy 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Deacons |**<big>[[G1249\|διάκονοι]]</big>**  |diakonoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | should be |**<big>[[G1510\|ἔστωσαν]]</big>**  |estōsan <small><sup>[[V-PAM-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

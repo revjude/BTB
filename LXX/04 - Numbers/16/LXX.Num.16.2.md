@@ -1,10 +1,7 @@
 **LXX Numbers 16:2** 
 <small><sub>**LXX:**</sub></small>
 And they rose up before Moses, and men of the sons of Israel -- fifty and two hundred, chiefs of \[the\] congregation, summoned counselors, and famous men. 
-<small><sub>**KJV:**</sub></small>
-And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
-<small><sub>**BSB:**</sub></small>
-a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.1|<< Numbers 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.3|Numbers 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

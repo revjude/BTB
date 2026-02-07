@@ -1,4 +1,4 @@
-**Jeremiah 2:24** 
+**Jeremiah 2:24**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wild ass used to the wilderness, [that] snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a wild donkey at home in the wilderness, sniffing the wind in the heat of her de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.23|<< Jeremiah 2:23]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.25|Jeremiah 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wild donkey  |**<big>&#8207;[[H6501\|פֶּ֣רֶה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Pe.reh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | accustomed to  |**<big>&#8207;[[H3928\|לִמֻּ֣ד]]&#8207; </big>**| li.Mud<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

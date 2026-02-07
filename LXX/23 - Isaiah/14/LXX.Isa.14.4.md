@@ -1,10 +1,7 @@
 **LXX Isaiah 14:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall take up  this wailing against the king of Babylon, and you shall say in  that day, O how the one exacting has been rested, and the taskmaster has been rested! 
-<small><sub>**KJV:**</sub></small>
-That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
-<small><sub>**BSB:**</sub></small>
-you will sing this song of contempt against the king of Babylon: How the oppressor has ceased, and how his fury has ended!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.3|<< Isaiah 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.5|Isaiah 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

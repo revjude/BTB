@@ -1,10 +1,7 @@
 **LXX Amos 7:5** 
 <small><sub>**LXX:**</sub></small>
 And I said, O <span class="smallcaps">lord</span>  God, abate indeed! Who shall raise up  Jacob, for he is very few? Change \[your\] mind, O <span class="smallcaps">lord</span>, over this! 
-<small><sub>**KJV:**</sub></small>
-Then said I, O Lord GOD, cease, I beseech thee: by whom shall Jacob arise? for he [is] small.
-<small><sub>**BSB:**</sub></small>
-Then I said, “Lord GOD, please stop! How will Jacob survive, since he is so small?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.4|<< Amos 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.6|Amos 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

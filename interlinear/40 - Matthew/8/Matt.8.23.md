@@ -1,12 +1,12 @@
-**Matthew 8:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:23**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was entered into a ship, his disciples followed him.
 <small><sub>**BSB:**</sub></small>
 When He got into the boat, His disciples followed Him.
 <small><sub>**Literal:**</sub></small>
 And having climbed He into the boat followed Him the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.22|<< Matthew 8:22]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.24|Matthew 8:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having climbed |**<big>[[G1684\|ἐμβάντι]]</big>**  |embanti <small><sup>[[V-2AAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

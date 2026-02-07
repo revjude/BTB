@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:10** 
 <small><sub>**LXX:**</sub></small>
 And the king of Babylon slew the sons of Zedekiah in front of his eyes. And all the rulers of Judah he slew in Riblah. 
-<small><sub>**KJV:**</sub></small>
-And the king of Babylon slew the sons of Zedekiah before his eyes: he slew also all the princes of Judah in Riblah.
-<small><sub>**BSB:**</sub></small>
-There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the officials of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.9|<< Jeremiah 52:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.11|Jeremiah 52:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Peter 4:16
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:16**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet if [any man suffer] as a Christian, let him not be ashamed; but let him glorify God on this behalf.
 <small><sub>**BSB:**</sub></small>
 But if you suffer as a Christian, do not be ashamed, but glorify God that you bear that name.
 <small><sub>**Literal:**</sub></small>
 if however as a Christian, not he should be ashamed, he should glorify however <the> God in <the> name this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.15|<< 1 Peter 4:15]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.17|1 Peter 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

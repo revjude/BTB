@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:19** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to them, This \[is\] not the city, and this \[is\] not the way. Come after me! and I will lead you to the man whom you seek. And he took them to Samaria. 
-<small><sub>**KJV:**</sub></small>
-And Elisha said unto them, This [is] not the way, neither [is] this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.
-<small><sub>**BSB:**</sub></small>
-And Elisha told them, “This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking.” And he led them to Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.18|<< 2 Kings 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.20|2 Kings 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

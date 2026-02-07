@@ -1,10 +1,7 @@
 **LXX Judges 16:7** 
 <small><sub>**LXX:**</sub></small>
 And Samson said to her, If they should tie me with seven wet strings of a bow that are not ruined, then I will be weakened, and I will be as one of the men. 
-<small><sub>**KJV:**</sub></small>
-And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man.
-<small><sub>**BSB:**</sub></small>
-Samson told her, “If they tie me up with seven fresh bowstrings that have not been dried, I will become as weak as any other man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.6|<< Judges 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.8|Judges 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

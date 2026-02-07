@@ -1,4 +1,4 @@
-**Genesis 7:6** 
+**Genesis 7:6**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah [was] six hundred years old when the flood of waters was upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Noah was 600 years old when the floodwaters came upon the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.5|<< Genesis 7:5]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.7|Genesis 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Noah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5146\|נֹ֕חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

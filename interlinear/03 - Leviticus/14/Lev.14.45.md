@@ -1,4 +1,4 @@
-**Leviticus 14:45** 
+**Leviticus 14:45**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry [them] forth out of the city into an unclean place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It must be torn down with its stones, its timbers, and all its plaster, and take
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.44|<< Leviticus 14:44]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.46|Leviticus 14:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will pull down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5422\|נָתַ֣ץ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Tatz<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

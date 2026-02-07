@@ -1,4 +1,4 @@
-**Proverbs 2:7** 
+**Proverbs 2:7**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He layeth up sound wisdom for the righteous: [he is] a buckler to them that walk uprightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stores up sound wisdom for the upright; He is a shield to those who walk with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.6|<< Proverbs 2:6]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.8|Proverbs 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he stores up  [^1]|**<big>&#8207;[[H6845\|יִצְפֹּ֣ן]]&#8207; </big>**[^2] | ve.tza.fan<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | for \<the> upright [people]  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H3477G\|יְשָׁרִים]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> y.sha.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

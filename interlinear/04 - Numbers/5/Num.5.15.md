@@ -1,4 +1,4 @@
-**Numbers 5:15** 
+**Numbers 5:15**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth [part] of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it [is] an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then he is to bring his wife to the priest. He must also bring for her an offeri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.14|<< Numbers 5:14]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.16|Numbers 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֨יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

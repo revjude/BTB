@@ -1,4 +1,4 @@
-**2 Chronicles 16:4** 
+**2 Chronicles 16:4**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benhadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store cities of Naphtali.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Ben-hadad listened to King Asa and sent the commanders of his armies against
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.3|<< 2 Chronicles 16:3]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.5|2 Chronicles 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he listened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ben  |**<big>&#8207;[[H1130G\|בֶּן]]&#8207; </big>**| ben<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

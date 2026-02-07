@@ -1,12 +1,12 @@
-**Luke 15:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:27**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.
 <small><sub>**BSB:**</sub></small>
 ‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’
 <small><sub>**Literal:**</sub></small>
 <the> And he said to him that The brother of you is come, and has killed the father of you the calf <the> fattened, because in good health him he has received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.26|<< Luke 15:26]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.28|Luke 15:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

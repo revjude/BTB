@@ -1,10 +1,7 @@
 **LXX Judges 19:25** 
 <small><sub>**LXX:**</sub></small>
 And the men did not want to hear him. And the man took hold  of his concubine, and led her to them outside. And they knew her, and sported with her \[the\] entire  night until the morning. And they sent her at the same time the dawn ascended. 
-<small><sub>**KJV:**</sub></small>
-But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.
-<small><sub>**BSB:**</sub></small>
-But the men would not listen to him. So the Levite took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.24|<< Judges 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.26|Judges 19:26 >>]]</td></tr></table>
 
 | Translation | Greek |

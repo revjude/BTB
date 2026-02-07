@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:15** 
 <small><sub>**LXX:**</sub></small>
 And he said, Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God of Israel, who spoke by his mouth concerning David  my father, and by  his hands fulfilled, saying, 
-<small><sub>**KJV:**</sub></small>
-And he said, Blessed [be] the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled [it], saying,
-<small><sub>**BSB:**</sub></small>
-and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.14|<< 1 Kings 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.16|1 Kings 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

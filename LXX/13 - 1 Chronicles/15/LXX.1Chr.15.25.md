@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:25** 
 <small><sub>**LXX:**</sub></small>
 And David was, and the elders of Israel, and the commanders of thousands, the ones going  to bring the ark of the covenant of \[the\] <span class="smallcaps">lord</span> from out of \[the\] house of Obed Edom in gladness. 
-<small><sub>**KJV:**</sub></small>
-So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.
-<small><sub>**BSB:**</sub></small>
-So David, the elders of Israel, and the commanders of thousands went with rejoicing to bring the ark of the covenant of the LORD from the house of Obed-edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.24|<< 1 Chronicles 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.26|1 Chronicles 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

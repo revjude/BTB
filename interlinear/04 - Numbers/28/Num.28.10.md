@@ -1,4 +1,4 @@
-**Numbers 28:10** 
+**Numbers 28:10**<big><big>[[Num.28.9 The Sabbath Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This is] the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is the burnt offering for every Sabbath, in addition to the regular burnt o
 > $\quad$ referenced by: [[Matt.12.5|Matt 12:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֥ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sabbath  |**<big>&#8207;[[H7676\|שַׁבַּ֖ת]]&#8207; </big>**| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

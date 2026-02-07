@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:25** 
 <small><sub>**LXX:**</sub></small>
 And the watchman yelled out, and reported to the king. And the king said, If he is alone good news \[is\] in  his mouth. And he went \[along\], coming and approaching. 
-<small><sub>**KJV:**</sub></small>
-And the watchman cried, and told the king. And the king said, If he [be] alone, [there is] tidings in his mouth. And he came apace, and drew near.
-<small><sub>**BSB:**</sub></small>
-So he called out and told the king. “If he is alone,” the king replied, “he bears good news.” As the first runner drew near,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.24|<< 2 Samuel 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.26|2 Samuel 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

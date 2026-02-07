@@ -1,12 +1,12 @@
-**John 19:7
-**<small><sub>**KJV:**</sub></small>
+**John 19:7**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.
 <small><sub>**BSB:**</sub></small>
 “We have a law,” answered the Jews, “and according to that law He must die, because He declared Himself to be the Son of God.”
 <small><sub>**Literal:**</sub></small>
 Answered to him the Jews; We ourselves a law have, and according to the law of us He ought to die, because [the] Son of God Himself He made.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.6|<< John 19:6]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.8|John 19:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

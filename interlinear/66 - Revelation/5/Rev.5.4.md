@@ -1,12 +1,12 @@
-**Revelation 5:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:4**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
 <small><sub>**BSB:**</sub></small>
 And I began to weep bitterly, because no one was found worthy to open the scroll or look inside it.
 <small><sub>**Literal:**</sub></small>
 And I myself I was weeping much because no [one] worthy was found to open and to read the scroll nor to see it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.3|<< Revelation 5:3]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.5|Revelation 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="SBL+WH+Treg+TR+Byz">ko</abbr> | |

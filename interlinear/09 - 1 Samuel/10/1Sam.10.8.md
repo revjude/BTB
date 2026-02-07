@@ -1,4 +1,4 @@
-**1 Samuel 10:8** 
+**1 Samuel 10:8**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, [and] to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall go before me to Gilgal, and surely I will come to you to offer bur
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.7|<< 1 Samuel 10:7]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.9|1 Samuel 10:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַדְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.rad.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנַ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

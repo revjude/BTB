@@ -1,4 +1,4 @@
-**1 Samuel 6:8** 
+**1 Samuel 6:8**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take the ark of the LORD, and lay it upon the cart; and put the jewels of gold, which ye return him [for] a trespass offering, in a coffer by the side thereof; and send it away, that it may go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the ark of the LORD, set it on the cart, and in a chest beside it put the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.7|<< 1 Samuel 6:7]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.9|1 Samuel 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3947G\|לְקַחְתֶּ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> le.kach.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

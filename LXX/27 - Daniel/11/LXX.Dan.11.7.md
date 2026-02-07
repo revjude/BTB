@@ -1,10 +1,7 @@
 **LXX Daniel 11:7** 
 <small><sub>**LXX:**</sub></small>
 And \[one\] shall rise up from out of the flower  of her root unto  his preparation; and he shall come against the force, and shall enter unto the supporters of the king of the north, and shall deal with them, and shall prevail. 
-<small><sub>**KJV:**</sub></small>
-But out of a branch of her roots shall [one] stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:
-<small><sub>**BSB:**</sub></small>
-But one from her family line will rise up in his place, come against the army of the king of the North, and enter his fortress, fighting and prevailing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.6|<< Daniel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.8|Daniel 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

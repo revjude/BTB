@@ -1,10 +1,7 @@
 **LXX Genesis 21:19** 
 <small><sub>**LXX:**</sub></small>
 And God opened  her eyes. And she saw a well \[of\] living water. And she went and filled the leather bag  of water, and gave a drink to the child. 
-<small><sub>**KJV:**</sub></small>
-And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
-<small><sub>**BSB:**</sub></small>
-Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.18|<< Genesis 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.20|Genesis 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

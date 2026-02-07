@@ -1,4 +1,4 @@
-**Daniel 4:3** (3:33)
+**Daniel 4:3**<big><big>[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How great [are] his signs! and how mighty [are] his wonders! his kingdom [is] an everlasting kingdom, and his dominion [is] from generation to generation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ How great are His signs, how mighty His wonders! His kingdom is an eternal kingd
 > $\quad$ referenced by: [[Luke.1.33|Luke 1:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] signs his  |**<big>&#8207;[[H0852\|אָת֙וֹ]]&#8207;&#8207;[[H9023\|הִי֙]]&#8207; </big>**| 'a.To.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how much!  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4101\|מָ֣ה]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

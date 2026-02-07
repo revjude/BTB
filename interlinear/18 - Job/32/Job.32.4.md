@@ -1,4 +1,4 @@
-**Job 32:4** 
+**Job 32:4**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Elihu had waited till Job had spoken, because they [were] elder than he.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Elihu had waited to speak to Job because the others were older than he.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.3|<< Job 32:3]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.5|Job 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elihu  |**<big>&#8207;[[H9002\|וֶֽ]]&#8207;&#8207;[[H0453K\|אֱלִיה֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had waited  |**<big>&#8207;[[H2442\|חִכָּ֣ה]]&#8207; </big>**| chi.Kah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nahum 3:18** 
 <small><sub>**LXX:**</sub></small>
 Your shepherds slumbered, O king of Assyria, your mighty ones rested. Your people departed unto the mountains, and there was none  looking out for \[them\]. 
-<small><sub>**KJV:**</sub></small>
-Thy shepherds slumber, O king of Assyria: thy nobles shall dwell [in the dust]: thy people is scattered upon the mountains, and no man gathereth [them].
-<small><sub>**BSB:**</sub></small>
-O king of Assyria, your shepherds slumber; your officers sleep. Your people are scattered on the mountains with no one to gather them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.17|<< Nahum 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.19|Nahum 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

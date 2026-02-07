@@ -1,10 +1,7 @@
 **LXX Amos 2:7** 
 <small><sub>**LXX:**</sub></small>
 trampling upon the dust of the earth; and they smote for \[the\] head of \[the\] poor, and \[the\] way of \[the\] humble they turned aside. And a son and his father entered to the same maidservant, so that they should profane the name  of their God. 
-<small><sub>**KJV:**</sub></small>
-That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the [same] maid, to profane my holy name:
-<small><sub>**BSB:**</sub></small>
-They trample on the heads of the poor as on the dust of the earth; they push the needy out of their way. A man and his father have relations with the same girl and so profane My holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.6|<< Amos 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.8|Amos 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

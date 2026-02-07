@@ -1,10 +1,7 @@
 **LXX Leviticus 4:21** 
 <small><sub>**LXX:**</sub></small>
 And they shall bring forth the complete calf outside the camp. And they shall incinerate the calf, in which manner they incinerated the calf  formerly -- it is a sin \[offering\] for \[the\] congregation. 
-<small><sub>**KJV:**</sub></small>
-And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it [is] a sin offering for the congregation.
-<small><sub>**BSB:**</sub></small>
-Then he is to take the bull outside the camp and burn it, just as he burned the first bull. It is the sin offering for the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.20|<< Leviticus 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.22|Leviticus 4:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 4:21** is...

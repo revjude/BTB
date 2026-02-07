@@ -1,4 +1,4 @@
-**Joshua 23:9** 
+**Joshua 23:9**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath driven out from before you great nations and strong: but [as for] you, no man hath been able to stand before you unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has driven out great and powerful nations before you, and to this day n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.8|<< Joshua 23:8]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.10|Joshua 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has dispossessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3423H\|יּ֤וֹרֶשׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.resh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

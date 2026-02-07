@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:3** 
 <small><sub>**LXX:**</sub></small>
 And the battle pressed against Saul, and the bowmen found him with \[the\] bows, and \[he was in\] miseries and suffering pain from the bows. 
-<small><sub>**KJV:**</sub></small>
-And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.
-<small><sub>**BSB:**</sub></small>
-When the battle intensified against Saul, the archers overtook him and wounded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.2|<< 1 Chronicles 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.4|1 Chronicles 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

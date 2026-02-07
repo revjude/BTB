@@ -1,10 +1,7 @@
 **LXX Proverbs 15:19** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ways of \[the\] idle make a bed in thorn-bushes; but the \[ways\] of the vigorous \[are\] very busy. 
-<small><sub>**KJV:**</sub></small>
-The way of the slothful [man is] as an hedge of thorns: but the way of the righteous [is] made plain.
-<small><sub>**BSB:**</sub></small>
-The way of the slacker is like a hedge of thorns, but the path of the upright is a highway.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.18|<< Proverbs 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.20|Proverbs 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

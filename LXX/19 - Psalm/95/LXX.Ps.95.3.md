@@ -1,10 +1,7 @@
 **LXX Psalm 95:3** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> \[is\] a great God, and a great king above all the earth. 
-<small><sub>**KJV:**</sub></small>
-For the LORD [is] a great God, and a great King above all gods.
-<small><sub>**BSB:**</sub></small>
-For the LORD is a great God, a great King above all gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.2|<< Psalm 95:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.4|Psalm 95:4 >>]]</td></tr></table>
 
 | Translation | Greek |

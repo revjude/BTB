@@ -1,4 +1,4 @@
-**Ezra 9:6** 
+**Ezra 9:6**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over [our] head, and our trespass is grown up unto the heavens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said: “O my God, I am ashamed and embarrassed to lift up my face to You, m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.5|<< Ezra 9:5]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.7|Ezra 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמְרָ֗]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.me.Ra<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

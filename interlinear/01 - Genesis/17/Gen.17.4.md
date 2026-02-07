@@ -1,4 +1,4 @@
-**Genesis 17:4** 
+**Genesis 17:4**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, behold, my covenant [is] with thee, and thou shalt be a father of many nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As for me, behold, my covenant [is] with thee, and thou shalt be a father of man
 > $\quad$ referenced by: [[Rom.11.25|Rom 11:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֕י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

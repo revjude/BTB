@@ -1,4 +1,4 @@
-**Proverbs 19:24** 
+**Proverbs 19:24**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A slothful [man] hideth his hand in [his] bosom, and will not so much as bring it to his mouth again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The slacker buries his hand in the dish; he will not even bring it back to his m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.23|<< Proverbs 19:23]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.25|Proverbs 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he hides  |**<big>&#8207;[[H2934\|טָ֘מַ֤ן]]&#8207; </big>**| ta.Man<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sluggard  |**<big>&#8207;[[H6102\|עָצֵ֣ל]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

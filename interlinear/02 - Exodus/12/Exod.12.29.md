@@ -1,4 +1,4 @@
-**Exodus 12:29** 
+**Exodus 12:29**<big><big>[[Exod.12.29 The Tenth Plague：Death of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that [was] in the dungeon; and all the firstborn of cattle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now at midnight the LORD struck down every firstborn male in the land of Egypt, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.28|<< Exodus 12:28]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.30|Exodus 12:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] middle of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2677\|חֲצִ֣י]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

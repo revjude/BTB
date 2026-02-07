@@ -1,10 +1,7 @@
 **LXX Numbers 21:21** 
 <small><sub>**LXX:**</sub></small>
 We shall go through  your land; we will not turn aside, neither into a field, nor into a vineyard; 
-<small><sub>**KJV:**</sub></small>
-And Israel sent messengers unto Sihon king of the Amorites, saying,
-<small><sub>**BSB:**</sub></small>
-Then Israel sent messengers to Sihon king of the Amorites, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.20|<< Numbers 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.22|Numbers 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

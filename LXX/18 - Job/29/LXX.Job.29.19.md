@@ -1,10 +1,7 @@
 **LXX Job 29:19** 
 <small><sub>**LXX:**</sub></small>
 The root was widened upon \[the\] water, and \[the\] dew lodged among  my harvest. 
-<small><sub>**KJV:**</sub></small>
-My root [was] spread out by the waters, and the dew lay all night upon my branch.
-<small><sub>**BSB:**</sub></small>
-My roots will spread out to the waters, and the dew will rest nightly on my branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.18|<< Job 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.20|Job 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

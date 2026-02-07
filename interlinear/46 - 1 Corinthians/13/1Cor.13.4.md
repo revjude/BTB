@@ -1,12 +1,12 @@
-**1 Corinthians 13:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:4**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Charity suffereth long, [and] is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
 <small><sub>**BSB:**</sub></small>
 Love is patient, love is kind. It does not envy, it does not boast, it is not proud.
 <small><sub>**Literal:**</sub></small>
 <the> Love is patient, is kind, <the> love not is envious, <the> love not is boastful, not is puffed up,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.3|<< 1 Corinthians 13:3]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.5|1 Corinthians 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Love |**<big>[[G0026\|ἀγάπη]]</big>**  |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 61:9** 
 <small><sub>**LXX:**</sub></small>
 And their seed shall be known among the nations, and  their progeny in \[the\] midst of the peoples. All seeing them will recognize them, for these are a seed being blessed by God. 
-<small><sub>**KJV:**</sub></small>
-And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they [are] the seed [which] the LORD hath blessed.
-<small><sub>**BSB:**</sub></small>
-Their descendants will be known among the nations, and their offspring among the peoples. All who see them will acknowledge that they are a people the LORD has blessed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.8|<< Isaiah 61:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.10|Isaiah 61:10 >>]]</td></tr></table>
 
 | Translation | Greek |

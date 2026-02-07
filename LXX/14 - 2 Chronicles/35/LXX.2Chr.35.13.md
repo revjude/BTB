@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:13** 
 <small><sub>**LXX:**</sub></small>
 And they roasted the passover in fire according to the ordinance. And the holy \[pieces\] they boiled in the brass cauldrons, and in the kettles. And \[the\] way prospered, and they ran \[it\] to all the sons of the people. 
-<small><sub>**KJV:**</sub></small>
-And they roasted the passover with fire according to the ordinance: but the [other] holy [offerings] sod they in pots, and in caldrons, and in pans, and divided [them] speedily among all the people.
-<small><sub>**BSB:**</sub></small>
-They roasted the Passover animals on the fire according to the regulation, and they boiled the other holy offerings in pots, kettles, and bowls and quickly brought them to all the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.12|<< 2 Chronicles 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.14|2 Chronicles 35:14 >>]]</td></tr></table>
 
 | Translation | Greek |

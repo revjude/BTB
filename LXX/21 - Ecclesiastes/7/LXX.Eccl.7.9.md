@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:9** 
 <small><sub>**LXX:**</sub></small>
 You should not hasten in your spirit  to be enraged, for rage shall rest in \[the\] bosom of fools. 
-<small><sub>**KJV:**</sub></small>
-Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
-<small><sub>**BSB:**</sub></small>
-Do not be quickly provoked in your spirit, for anger settles in the lap of a fool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.8|<< Ecclesiastes 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.10|Ecclesiastes 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

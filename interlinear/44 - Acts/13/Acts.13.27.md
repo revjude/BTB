@@ -1,12 +1,12 @@
-**Acts 13:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:27**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled [them] in condemning [him].
 <small><sub>**BSB:**</sub></small>
 The people of Jerusalem and their rulers did not recognize Jesus, yet in condemning Him they fulfilled the words of the prophets that are read every Sabbath.
 <small><sub>**Literal:**</sub></small>
 Those for dwelling in Jerusalem and the rulers of them Him not having known and the voices of the prophets that on every Sabbath are being read, having condemned [Him] they fulfilled [them];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.26|<< Acts 13:26]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.28|Acts 13:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

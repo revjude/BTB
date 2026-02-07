@@ -1,4 +1,4 @@
-**Ezekiel 26:10** 
+**Ezekiel 26:10**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His multitude of horses will cover you in their dust. When he enters your gates 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.9|<< Ezekiel 26:9]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.11|Ezekiel 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] abundance of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8229\|שִּׁפְעַ֥ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> shif.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | horses his  |**<big>&#8207;[[H5483M\|סוּסָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| su.Sa<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

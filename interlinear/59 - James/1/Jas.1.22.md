@@ -1,12 +1,12 @@
-**James 1:22
-**<small><sub>**KJV:**</sub></small>
+**James 1:22**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But be ye doers of the word, and not hearers only, deceiving your own selves.
 <small><sub>**BSB:**</sub></small>
 Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves.
 <small><sub>**Literal:**</sub></small>
 do be however doers of [the] word and not only hearers deceiving yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.21|<< James 1:21]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.23|James 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be |**<big>[[G1096\|Γίνεσθε]]</big>**  |Ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 24:18** 
+**Exodus 24:18**<big><big>[[Exod.24.12 Moses on the Mountain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses entered the cloud as he went up on the mountain, and he remained on the mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.17|<< Exodus 24:17]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.1|Exodus 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֛ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

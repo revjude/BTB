@@ -1,4 +1,4 @@
-**1 Kings 7:31** 
+**1 Kings 7:31**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mouth of it within the chapiter and above [was] a cubit: but the mouth thereof [was] round [after] the work of the base, a cubit and an half: and also upon the mouth of it [were] gravings with their borders, foursquare, not round.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The opening to each stand inside the crown at the top was one cubit deep, with a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.30|<< 1 Kings 7:30]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.32|1 Kings 7:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and opening its  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H6310J\|פִי]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> fi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] from inside  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004O\|בֵּ֨ית]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

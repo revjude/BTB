@@ -1,12 +1,12 @@
-**Mark 6:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:40**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sat down in ranks, by hundreds, and by fifties.
 <small><sub>**BSB:**</sub></small>
 So they sat down in groups of hundreds and fifties.
 <small><sub>**Literal:**</sub></small>
 And they sat down groups [by] groups by hundreds and by fifties.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.39|<< Mark 6:39]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.41|Mark 6:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they sat down |**<big>[[G0377\|ἀνέπεσαν]]</big>**  [^1] |anepesan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

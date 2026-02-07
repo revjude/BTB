@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:38** 
 <small><sub>**LXX:**</sub></small>
 As lions they were aroused together, and as cubs of lions. 
-<small><sub>**KJV:**</sub></small>
-They shall roar together like lions: they shall yell as lions’ whelps.
-<small><sub>**BSB:**</sub></small>
-They will roar together like young lions; they will growl like lion cubs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.37|<< Jeremiah 51:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.39|Jeremiah 51:39 >>]]</td></tr></table>
 
 | Translation | Greek |

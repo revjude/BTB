@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the measurement of the house was completed from inside; and he led me out according to the way of the gate  looking according to \[the\] east; and he measured the plan of the house round about in arrangement. 
-<small><sub>**KJV:**</sub></small>
-Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect [is] toward the east, and measured it round about.
-<small><sub>**BSB:**</sub></small>
-Now when the man had finished measuring the interior of the temple area, he led me out by the gate that faced east, and he measured the area all around:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.14|<< Ezekiel 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.16|Ezekiel 42:16 >>]]</td></tr></table>
 
 | Translation | Greek |

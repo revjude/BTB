@@ -1,4 +1,4 @@
-**Leviticus 27:9** 
+**Leviticus 27:9**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [it be] a beast, whereof men bring an offering unto the LORD, all that [any man] giveth of such unto the LORD shall be holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he vows an animal that may be brought as an offering to the LORD, any such an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.8|<< Leviticus 27:8]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.10|Leviticus 27:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an animal  |**<big>&#8207;[[H0929\|בְּהֵמָ֔ה]]&#8207; </big>**| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

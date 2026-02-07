@@ -1,12 +1,12 @@
-**Matthew 15:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:33**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
 <small><sub>**BSB:**</sub></small>
 The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”
 <small><sub>**Literal:**</sub></small>
 And say to Him the disciples of him: From where to us in a secluded place loaves so many as to satisfy a crowd so great?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.32|<< Matthew 15:32]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.34|Matthew 15:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

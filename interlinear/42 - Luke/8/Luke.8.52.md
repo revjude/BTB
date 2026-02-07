@@ -1,12 +1,12 @@
-**Luke 8:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:52**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, everyone was weeping and mourning for her. But Jesus said, “Stop weeping; she is not dead but asleep.”
 <small><sub>**Literal:**</sub></small>
 They were weeping now all and they were mourning for her. <the> But He said; Not do weep; not for she is dead but sleeps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.51|<< Luke 8:51]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.53|Luke 8:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were weeping |**<big>[[G2799\|ἔκλαιον]]</big>**  |eklaion <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

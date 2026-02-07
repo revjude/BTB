@@ -1,4 +1,4 @@
-**Proverbs 24:1** 
+**Proverbs 24:1**<big><big>[[Prov.24.1 Saying 20|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not thou envious against evil men, neither desire to be with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not envy wicked men or desire their company;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.35|<< Proverbs 23:35]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.2|Proverbs 24:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be jealous  |**<big>&#8207;[[H7065\|תְּ֭קַנֵּא]]&#8207; </big>**| Te.ka.ne'<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

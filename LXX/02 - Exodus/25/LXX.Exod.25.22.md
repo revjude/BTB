@@ -1,10 +1,7 @@
 **LXX Exodus 25:22** 
 <small><sub>**LXX:**</sub></small>
 And I will be known to you from there, and I will speak to you from above the atonement-seat between the two cherubim  being upon the ark of the testimony, according to all as much as I give charge to you for the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which [are] upon the ark of the testimony, of all [things] which I will give thee in commandment unto the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.21|<< Exodus 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.23|Exodus 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

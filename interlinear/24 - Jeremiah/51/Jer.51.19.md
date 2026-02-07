@@ -1,4 +1,4 @@
-**Jeremiah 51:19** 
+**Jeremiah 51:19**<big><big>[[Jer.51.15 Praise to the God of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The portion of Jacob [is] not like them; for he [is] the former of all things: and [Israel is] the rod of his inheritance: the LORD of hosts [is] his name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Portion of Jacob is not like these, for He is the Maker of all things, and o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.18|<< Jeremiah 51:18]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.20|Jeremiah 51:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like these  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

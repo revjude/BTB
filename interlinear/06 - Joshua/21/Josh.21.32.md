@@ -1,4 +1,4 @@
-**Joshua 21:32** 
+**Joshua 21:32**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, [to be] a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from the tribe of Naphtali they were given Kedesh in Galilee (a city of refu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.31|<< Joshua 21:31]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.33|Joshua 21:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] tribe of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4294H\|מַּטֵּ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֜י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

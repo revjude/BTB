@@ -1,12 +1,12 @@
-**1 Corinthians 1:21
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:21**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 <small><sub>**BSB:**</sub></small>
 For since in the wisdom of God the world through its wisdom did not know Him, God was pleased through the foolishness of what was preached to save those who believe.
 <small><sub>**Literal:**</sub></small>
 Since for in the wisdom <the> of God not knew the world through the wisdom <the> God, was pleased <the> God through the foolishness of the proclamation to save those believing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.20|<< 1 Corinthians 1:20]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.22|1 Corinthians 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Since |**<big>[[G1894\|ἐπειδὴ]]</big>**  |epeidē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

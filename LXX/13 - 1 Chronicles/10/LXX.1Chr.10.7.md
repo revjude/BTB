@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:7** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel in the valley beheld that Israel fled, and that Saul died and  his sons, and they left  their cities and fled. And the Philistines came and dwelt in them. 
-<small><sub>**KJV:**</sub></small>
-And when all the men of Israel that [were] in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them.
-<small><sub>**BSB:**</sub></small>
-When all the Israelites in the valley saw that the army had fled and that Saul and his sons had died, they abandoned their cities and ran away. So the Philistines came and occupied their cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.6|<< 1 Chronicles 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.8|1 Chronicles 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

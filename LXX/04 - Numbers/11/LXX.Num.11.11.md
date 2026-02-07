@@ -1,10 +1,7 @@
 **LXX Numbers 11:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to \[the\] <span class="smallcaps">lord</span>, Why do you afflict  your attendant? And why have I not found favor before you to place the thrust  of this people upon me? 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
-<small><sub>**BSB:**</sub></small>
-So Moses asked the LORD, “Why have You brought this trouble on Your servant? Why have I not found favor in Your sight, that You have laid upon me the burden of all these people?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.10|<< Numbers 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.12|Numbers 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

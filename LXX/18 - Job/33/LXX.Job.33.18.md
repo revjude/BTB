@@ -1,10 +1,7 @@
 **LXX Job 33:18** 
 <small><sub>**LXX:**</sub></small>
 And he spares  his soul from death, and \[spares\] him \[so as\] to not fall in war. 
-<small><sub>**KJV:**</sub></small>
-He keepeth back his soul from the pit, and his life from perishing by the sword.
-<small><sub>**BSB:**</sub></small>
-to preserve his soul from the Pit and his life from perishing by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.17|<< Job 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.19|Job 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

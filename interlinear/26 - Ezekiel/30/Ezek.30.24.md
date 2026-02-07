@@ -1,4 +1,4 @@
-**Ezekiel 30:24** 
+**Ezekiel 30:24**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh’s arms, and he shall groan before him with the groanings of a deadly wounded [man].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will strengthen the arms of Babylon’s king and place My sword in his hand, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.23|<< Ezekiel 30:23]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.25|Ezekiel 30:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make strong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2388G\|חִזַּקְתִּ֗י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.zak.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

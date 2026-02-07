@@ -1,4 +1,4 @@
-**1 Chronicles 6:54** (6:39)
+**1 Chronicles 6:54**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now these were the territories assigned to the descendants of Aaron from the Koh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.53|<< 1 Chronicles 6:53]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.55|1 Chronicles 6:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] dwelling places their  |**<big>&#8207;[[H4186\|מוֹשְׁבוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mo.she.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

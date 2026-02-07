@@ -1,10 +1,7 @@
 **LXX Judges 6:27** 
 <small><sub>**LXX:**</sub></small>
 And Gideon took ten men from  his manservants, and he did as \[the\] <span class="smallcaps">lord</span> spoke to him. And it came to pass that he feared the household  of his father, and the men of the city,  \[so as\] to not act by day, and he acted \[it\] \[by\] night. 
-<small><sub>**KJV:**</sub></small>
-Then Gideon took ten men of his servants, and did as the LORD had said unto him: and [so] it was, because he feared his father’s household, and the men of the city, that he could not do [it] by day, that he did [it] by night.
-<small><sub>**BSB:**</sub></small>
-So Gideon took ten of his servants and did as the LORD had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

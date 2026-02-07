@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:15** 
 <small><sub>**LXX:**</sub></small>
 And the Levites brought the ark of the <span class="smallcaps">lord</span>, and the place chest with it, and the items  of gold, and put \[them\] upon the great stone. And the men of Beth-shemesh offered whole burnt-offerings, and they sacrificed sacrifices to the <span class="smallcaps">lord</span> in  that day. 
-<small><sub>**KJV:**</sub></small>
-And the Levites took down the ark of the LORD, and the coffer that [was] with it, wherein the jewels of gold [were], and put [them] on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.
-<small><sub>**BSB:**</sub></small>
-And the Levites took down the ark of the LORD and the chest containing the gold objects, and they placed them on the large rock. That day the men of Beth-shemesh offered burnt offerings and made sacrifices to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.14|<< 1 Samuel 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.16|1 Samuel 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

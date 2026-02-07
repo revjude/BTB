@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Upon  my watch I will stand, and I will mount upon a rock. And I will watch over  to behold what he should speak in me, and what I will answer upon  my being reproved. 
-<small><sub>**KJV:**</sub></small>
-I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
-<small><sub>**BSB:**</sub></small>
-I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.17|<< Habakkuk 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.2|Habakkuk 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 7:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:31**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Moses saw [it], he wondered at the sight: and as he drew near to behold [it], the voice of the Lord came unto him,
 <small><sub>**BSB:**</sub></small>
 When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:
 <small><sub>**Literal:**</sub></small>
 <the> And Moses having seen [it] was marvelling at the vision; When is approaching then he to behold [it], there was [the] voice of [the] Lord to him:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.30|<< Acts 7:30]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.32|Acts 7:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

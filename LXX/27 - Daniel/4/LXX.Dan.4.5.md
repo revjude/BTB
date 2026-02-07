@@ -1,10 +1,7 @@
 **LXX Daniel 4:5** 
 <small><sub>**LXX:**</sub></small>
 I beheld a dream, and it threw me into fear. And I was disturbed upon  my bed, and the visions  of my head disturbed me. 
-<small><sub>**KJV:**</sub></small>
-I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.
-<small><sub>**BSB:**</sub></small>
-I had a dream, and it frightened me; while I was in my bed, the images and visions in my mind alarmed me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.4|<< Daniel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.6|Daniel 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

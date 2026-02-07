@@ -1,10 +1,7 @@
 **LXX Zechariah 10:11** 
 <small><sub>**LXX:**</sub></small>
 And they shall go through by \[the\] narrow sea, and they shall strike waves in \[the\] sea; and all the depths of rivers shall be dried up. And all the insolence of \[the\] Assyrians shall be removed; and \[the\] staff of Egypt shall be removed. 
-<small><sub>**KJV:**</sub></small>
-And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
-<small><sub>**BSB:**</sub></small>
-They will pass through the sea of distress and strike the waves of the sea; all the depths of the Nile will dry up. The pride of Assyria will be brought down, and the scepter of Egypt will depart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.10|<< Zechariah 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.12|Zechariah 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

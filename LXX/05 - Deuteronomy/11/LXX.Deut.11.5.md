@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:5** 
 <small><sub>**LXX:**</sub></small>
 and as many \[things\] as he did to you in the wilderness, until you came into  this place; 
-<small><sub>**KJV:**</sub></small>
-And what he did unto you in the wilderness, until ye came into this place;
-<small><sub>**BSB:**</sub></small>
-what He did for you in the wilderness until you reached this place;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.4|<< Deuteronomy 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.6|Deuteronomy 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

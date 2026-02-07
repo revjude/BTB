@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:2** 
 <small><sub>**LXX:**</sub></small>
 And he spoke before  his brethren, and the force of \[the\] Samaritans, and he said, What  \[do\] these Judahmen do -- the Jews? Shall we not abandon them? Is it to sacrifice? Is it that they will be able to? And today, will they repair the stones with the embankment \[rubbish\] for being burnt? 
-<small><sub>**KJV:**</sub></small>
-And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
-<small><sub>**BSB:**</sub></small>
-before his associates and the army of Samaria, saying, “What are these feeble Jews doing? Can they restore the wall by themselves? Will they offer sacrifices? Will they complete it in a day? Can they bring these burnt stones back to life from the mounds of rubble?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.1|<< Nehemiah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.3|Nehemiah 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:38** 
 <small><sub>**LXX:**</sub></small>
 And I will put  my throne in Elam, and I will send out from there a king and great men, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will set My throne in Elam, and destroy its king and officials,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.37|<< Jeremiah 49:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.39|Jeremiah 49:39 >>]]</td></tr></table>
 
 | Translation | Greek |

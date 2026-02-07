@@ -1,10 +1,7 @@
 **LXX Exodus 9:18** 
 <small><sub>**LXX:**</sub></small>
 Behold, I rain this  hour tomorrow exceedingly great hail, in which such has not happened in Egypt from which day it was created, and until  this day. 
-<small><sub>**KJV:**</sub></small>
-Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.
-<small><sub>**BSB:**</sub></small>
-Behold, at this time tomorrow I will rain down the worst hail that has ever fallen on Egypt, from the day it was founded until now.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.17|<< Exodus 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.19|Exodus 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

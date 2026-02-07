@@ -1,12 +1,12 @@
-**2 Peter 1:10
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:10**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, strive to make your calling and election sure. For if you practice these things you will never stumble,
 <small><sub>**Literal:**</sub></small>
 Therefore rather, brothers, do be diligent sure your <the> calling and election to make; these things for practicing certainly not shall you stumble at any time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.9|<< 2 Peter 1:9]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.11|2 Peter 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rather, |**<big>[[G3123H\|μᾶλλον,]]</big>**  |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

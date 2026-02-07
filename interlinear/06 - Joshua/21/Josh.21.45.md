@@ -1,4 +1,4 @@
-**Joshua 21:45** 
+**Joshua 21:45**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Not one of all the LORD’s good promises to the house of Israel had failed; eve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.44|<< Joshua 21:44]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.1|Joshua 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it fell  |**<big>&#8207;[[H5307L\|נָפַ֣ל]]&#8207; </big>**| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

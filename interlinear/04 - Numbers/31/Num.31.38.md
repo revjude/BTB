@@ -1,4 +1,4 @@
-**Numbers 31:38** 
+**Numbers 31:38**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the beeves [were] thirty and six thousand; of which the LORD’S tribute [was] threescore and twelve.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the beeves [were] thirty and six thousand; of which the LORD’S tribute [wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.37|<< Numbers 31:37]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.39|Numbers 31:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cattle  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H1241\|בָּקָ֔ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] six  |**<big>&#8207;[[H8337\|שִׁשָּׁ֥ה]]&#8207; </big>**| shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

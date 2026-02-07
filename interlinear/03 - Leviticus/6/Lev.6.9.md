@@ -1,4 +1,4 @@
-**Leviticus 6:9** (6:2)
+**Leviticus 6:9**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command Aaron and his sons, saying, This [is] the law of the burnt offering: It [is] the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command Aaron and his sons, saying, This [is] the law of the burnt offering: It 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.8|<< Leviticus 6:8]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.10|Leviticus 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַ֤ו]]&#8207; </big>**| tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

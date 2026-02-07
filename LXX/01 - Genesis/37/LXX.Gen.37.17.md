@@ -1,10 +1,7 @@
 **LXX Genesis 37:17** 
 <small><sub>**LXX:**</sub></small>
 And the man said to him, They have departed from here. For I heard them saying, Let us go unto Dothan. And Joseph went after  his brothers, and found them in Dothan. 
-<small><sub>**KJV:**</sub></small>
-And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
-<small><sub>**BSB:**</sub></small>
-“They have moved on from here,” the man answered. “I heard them say, ‘Let us go to Dothan.’” So Joseph set out after his brothers and found them at Dothan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.16|<< Genesis 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.18|Genesis 37:18 >>]]</td></tr></table>
 
 | Translation | Greek |

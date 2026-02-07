@@ -1,4 +1,4 @@
-**Deuteronomy 17:15** 
+**Deuteronomy 17:15**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt in any wise set [him] king over thee, whom the LORD thy God shall choose: [one] from among thy brethren shalt thou set king over thee: thou mayest not set a stranger over thee, which [is] not thy brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you are to appoint over yourselves the king whom the LORD your God shall choose.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.14|<< Deuteronomy 17:14]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.16|Deuteronomy 17:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | indeed \<appoint>  |**<big>&#8207;[[H7760L\|שׂ֣וֹם]]&#8207; </big>**| Som<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will appoint  |**<big>&#8207;[[H7760L\|תָּשִׂ֤ים]]&#8207; </big>**| ta.Sim<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

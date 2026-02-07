@@ -1,10 +1,7 @@
 **LXX Judges 1:20** 
 <small><sub>**LXX:**</sub></small>
 And they gave Hebron \[to\] Caleb, as Moses spoke. And he removed there the three sons of Anak. 
-<small><sub>**KJV:**</sub></small>
-And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.
-<small><sub>**BSB:**</sub></small>
-Just as Moses had promised, Judah gave Hebron to Caleb, who drove out the descendants of the three sons of Anak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.19|<< Judges 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.21|Judges 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

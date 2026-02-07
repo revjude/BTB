@@ -1,4 +1,4 @@
-**Isaiah 30:26** 
+**Isaiah 30:26**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The light of the moon will be as bright as the sun, and the light of the sun wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] light of  |**<big>&#8207;[[H0216\|אֽוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'or-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

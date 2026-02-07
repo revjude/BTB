@@ -1,12 +1,12 @@
-**Romans 5:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:15**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But not as the offence, so also [is] the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, [which is] by one man, Jesus Christ, hath abounded unto many.
 <small><sub>**BSB:**</sub></small>
 But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, abound to the many!
 <small><sub>**Literal:**</sub></small>
 But [is] not like the trespass so also the gift. If for by the of the one trespass the many died, how much more the grace <the> of God and the gift in grace which [is] of the one man Jesus Christ to the many did abound!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.14|<< Romans 5:14]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.16|Romans 5:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [is] not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

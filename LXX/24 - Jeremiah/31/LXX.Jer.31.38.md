@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:38** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and a city shall be built to the <span class="smallcaps">lord</span> from \[the\] tower of Hananeel unto \[the\] gate of the corner. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananeel unto the gate of the corner.
-<small><sub>**BSB:**</sub></small>
-“The days are coming,” declares the LORD, “when this city will be rebuilt for Me, from the tower of Hananel to the Corner Gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.37|<< Jeremiah 31:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.39|Jeremiah 31:39 >>]]</td></tr></table>
 
 | Translation | Greek |

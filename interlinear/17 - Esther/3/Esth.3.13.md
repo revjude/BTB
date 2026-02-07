@@ -1,4 +1,4 @@
-**Esther 3:13** 
+**Esther 3:13**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, [even] upon the thirteenth [day] of the twelfth month, which [is] the month Adar, and [to take] the spoil of them for a prey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the letters were sent by couriers to each of the royal provinces with the or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were sent  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7971G\|נִשְׁל֨וֹחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nish.Lo.ach<small><sup>[[HVNaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | documents  |**<big>&#8207;[[H5612A\|סְפָרִ֜ים]]&#8207; </big>**| se.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

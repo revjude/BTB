@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:33** 
 <small><sub>**LXX:**</sub></small>
 How much wage did you find from the sea? You filled up nations from  your abundance, and from  your consolidation you enriched all \[the\] kings of the earth. 
-<small><sub>**KJV:**</sub></small>
-When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.
-<small><sub>**BSB:**</sub></small>
-When your wares went out to sea, you satisfied many nations. You enriched the kings of the earth with your abundant wealth and merchandise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 6:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God beholding that the evils of men were multiplying upon the earth, and all that \[man\] considered in  his heart \[was\] diligently upon the wicked \[things\] all the days, 
-<small><sub>**KJV:**</sub></small>
-And GOD saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually.
-<small><sub>**BSB:**</sub></small>
-Then the LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was altogether evil all the time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.4|<< Genesis 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.6|Genesis 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

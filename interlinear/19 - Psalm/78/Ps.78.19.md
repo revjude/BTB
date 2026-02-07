@@ -1,4 +1,4 @@
-**Psalms 78:19** 
+**Psalms 78:19**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they spake against God; they said, Can God furnish a table in the wilderness?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They spoke against God, saying, “Can God really prepare a table in the wildern
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.18|<< Psalms 78:18]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.20|Psalms 78:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1696G\|יְדַבְּר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against God  |**<big>&#8207;[[H9003\|בֵּֽ]]&#8207;&#8207;[[H0430G\|אלֹ֫הִ֥ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

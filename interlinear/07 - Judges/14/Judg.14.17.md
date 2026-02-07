@@ -1,4 +1,4 @@
-**Judges 14:17** 
+**Judges 14:17**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She wept the whole seven days of the feast, and finally on the seventh day, beca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.16|<< Judges 14:16]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.18|Judges 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|תֵּ֤בְךְּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.vek<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:10** 
 <small><sub>**LXX:**</sub></small>
 And Absalom, whom we anointed over us, died in the war. And now, why are you silent  to return the king? And the saying by all Israel came to the king. 
-<small><sub>**KJV:**</sub></small>
-And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?
-<small><sub>**BSB:**</sub></small>
-But Absalom, the man we anointed over us, has died in battle. So why do you say nothing about restoring the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.9|<< 2 Samuel 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.11|2 Samuel 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

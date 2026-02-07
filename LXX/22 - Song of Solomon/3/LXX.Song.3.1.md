@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Upon my bed in \[the\] nights I sought whom my soul loved. I sought him, and I did not find him. I called unto him, and he did not hearken to me. 
-<small><sub>**KJV:**</sub></small>
-By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
-<small><sub>**BSB:**</sub></small>
-On my bed at night I sought the one I love; I sought him, but did not find him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.17|<< Song of Solomon 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.2|Song of Solomon 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

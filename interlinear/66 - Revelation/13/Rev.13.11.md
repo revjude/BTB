@@ -1,12 +1,12 @@
-**Revelation 13:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:11**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 <small><sub>**BSB:**</sub></small>
 Then I saw another beast rising out of the earth. This beast had two horns like a lamb, but spoke like a dragon.
 <small><sub>**Literal:**</sub></small>
 And I saw another beast rising out of the earth, and it had horns two like as a lamb and it was speaking like a dragon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.10|<< Revelation 13:10]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.12|Revelation 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

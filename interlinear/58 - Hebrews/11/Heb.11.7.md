@@ -1,5 +1,5 @@
-**Hebrews 11:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:7**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
 <small><sub>**BSB:**</sub></small>
 By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.
@@ -10,7 +10,7 @@ By faith having been divinely instructed Noah concerning the [things] not yet se
 > $\quad$ alluding to: [[LXX.Gen.6.8|Gen 6:8]] ☩ [[LXX.Gen.6.14|Gen 6:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been divinely instructed |**<big>[[G5537\|χρηματισθεὶς]]</big>**  |chrēmatistheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

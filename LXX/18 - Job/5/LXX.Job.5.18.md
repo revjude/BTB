@@ -1,10 +1,7 @@
 **LXX Job 5:18** 
 <small><sub>**LXX:**</sub></small>
 For he causes one to ache, and again he restores; he smites, and  his hands heal. 
-<small><sub>**KJV:**</sub></small>
-For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
-<small><sub>**BSB:**</sub></small>
-For He wounds, but He also binds; He strikes, but His hands also heal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.17|<< Job 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.19|Job 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 129:6** 
 <small><sub>**LXX:**</sub></small>
 Let them become as grass on roofs! which before  being pulled out were dried; 
-<small><sub>**KJV:**</sub></small>
-Let them be as the grass [upon] the housetops, which withereth afore it groweth up:
-<small><sub>**BSB:**</sub></small>
-May they be like grass on the rooftops, which withers before it can grow,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.129.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.5|<< Psalm 129:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.7|Psalm 129:7 >>]]</td></tr></table>
 
 | Translation | Greek |

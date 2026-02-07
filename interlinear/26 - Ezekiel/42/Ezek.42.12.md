@@ -1,4 +1,4 @@
-**Ezekiel 42:12** 
+**Ezekiel 42:12**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And according to the doors of the chambers that [were] toward the south [was] a door in the head of the way, [even] the way directly before the wall toward the east, as one entereth into them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And corresponding to the doors of the chambers that were facing south, there was
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.11|<< Ezekiel 42:11]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.13|Ezekiel 42:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and like [the] entrances of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6607\|פִתְחֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> fit.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rooms  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3957\|לְּשָׁכ֗וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

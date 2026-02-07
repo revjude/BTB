@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:9** 
 <small><sub>**LXX:**</sub></small>
 And now hearken \[to\] their voice! Only that in testifying you should testify to them, and you shall report to them the ordinance of the king, which shall reign over them. 
-<small><sub>**KJV:**</sub></small>
-Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and shew them the manner of the king that shall reign over them.
-<small><sub>**BSB:**</sub></small>
-Now listen to their voice; but you must solemnly warn them and show them the manner of the king who will reign over them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.8|<< 1 Samuel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.10|1 Samuel 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

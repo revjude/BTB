@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear  this word! which \[the\] <span class="smallcaps">lord</span> spoke concerning you, O house  of Israel, even against every tribe of which I led from out of \[the\] land of Egypt, saying, 
-<small><sub>**KJV:**</sub></small>
-Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
-<small><sub>**BSB:**</sub></small>
-Hear this word that the LORD has spoken against you, O children of Israel, against the whole family that I brought up out of the land of Egypt:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.16|<< Amos 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.2|Amos 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

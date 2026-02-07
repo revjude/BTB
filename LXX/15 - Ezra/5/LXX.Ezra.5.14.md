@@ -1,10 +1,7 @@
 **LXX Ezra 5:14** 
 <small><sub>**LXX:**</sub></small>
 And the items of the house  of God, the ones of gold and silver, which Nebuchadnezzar brought forth from the house, of the one in Jerusalem, and carried them into the temple of the king, the one in Babylon -- Cyrus the king brought them forth from the temple, of the one in Babylon, and gave them \[to\] Sheshbazzar, to the treasurer, to the one over the treasury. 
-<small><sub>**KJV:**</sub></small>
-And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
-<small><sub>**BSB:**</sub></small>
-He also removed from the temple of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.13|<< Ezra 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.15|Ezra 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:17** 
 <small><sub>**LXX:**</sub></small>
 And he said, What \[was\] the word  being spoken to you? Do not indeed hide \[them\] from me! Thus God do to you, and thus add to it if you should hide from me \[the\] word. 
-<small><sub>**KJV:**</sub></small>
-And he said, What [is] the thing that [the LORD] hath said unto thee? I pray thee hide [it] not from me: God do so to thee, and more also, if thou hide [any] thing from me of all the things that he said unto thee.
-<small><sub>**BSB:**</sub></small>
-“What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.16|<< 1 Samuel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.18|1 Samuel 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

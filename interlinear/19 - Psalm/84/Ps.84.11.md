@@ -1,4 +1,4 @@
-**Psalms 84:11** (84:12)
+**Psalms 84:11**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD God [is] a sun and shield: the LORD will give grace and glory: no good [thing] will he withhold from them that walk uprightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD God is a sun and a shield; the LORD gives grace and glory; He withh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.10|<< Psalms 84:10]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.12|Psalms 84:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a sun  |**<big>&#8207;[[H8121\|שֶׁ֨מֶשׁ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 13:2** 
 <small><sub>**LXX:**</sub></small>
 Lift up a sign upon a mountain plain! Raise up high the voice to them! Do not fear! Call for aid with the hand! Open, O rulers! 
-<small><sub>**KJV:**</sub></small>
-Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
-<small><sub>**BSB:**</sub></small>
-Raise a banner on a barren hilltop; call aloud to them. Wave your hand, that they may enter the gates of the nobles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.1|<< Isaiah 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.3|Isaiah 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

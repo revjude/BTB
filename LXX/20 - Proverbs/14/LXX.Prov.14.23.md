@@ -1,10 +1,7 @@
 **LXX Proverbs 14:23** 
 <small><sub>**LXX:**</sub></small>
 With every one having concern there is extra; but the pleasure-bent and unfeeling will be with lack. 
-<small><sub>**KJV:**</sub></small>
-In all labour there is profit: but the talk of the lips [tendeth] only to penury.
-<small><sub>**BSB:**</sub></small>
-There is profit in all labor, but mere talk leads only to poverty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.22|<< Proverbs 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.24|Proverbs 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

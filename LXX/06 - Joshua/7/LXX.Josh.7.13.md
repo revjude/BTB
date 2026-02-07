@@ -1,10 +1,7 @@
 **LXX Joshua 7:13** 
 <small><sub>**LXX:**</sub></small>
 In rising up, purify the people, and tell \[them\] to be sanctified for tomorrow! For thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, The offering devoted for consumption is among you, O Israel; you shall not be able to withstand before  your enemies, until whenever you should lift away the offering for consumption from you. 
-<small><sub>**KJV:**</sub></small>
-Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, [There is] an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you.
-<small><sub>**BSB:**</sub></small>
-Get up and consecrate the people, saying, ‘Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: Among you, O Israel, there are things devoted to destruction. You cannot stand against your enemies until you remove them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.12|<< Joshua 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.14|Joshua 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

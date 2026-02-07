@@ -1,10 +1,7 @@
 **LXX Joshua 11:21** 
 <small><sub>**LXX:**</sub></small>
 And Joshua came in  that time and utterly destroyed the Anakim from out of the mountainous area, from Hebron and from Debir, and from Anab, and from every mountain of Judah, and from every mountain of Israel with  their cities. And Joshua utterly destroyed them. 
-<small><sub>**KJV:**</sub></small>
-And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.
-<small><sub>**BSB:**</sub></small>
-At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.20|<< Joshua 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.22|Joshua 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

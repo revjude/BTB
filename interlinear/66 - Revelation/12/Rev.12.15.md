@@ -1,12 +1,12 @@
-**Revelation 12:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:15**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
 <small><sub>**BSB:**</sub></small>
 Then from his mouth the serpent spewed water like a river to overtake the woman and sweep her away in the torrent.
 <small><sub>**Literal:**</sub></small>
 And cast the serpent out of the mouth of him after the woman water as a river, so that her carried away by a flood he may cause to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.14|<< Revelation 12:14]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.16|Revelation 12:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | cast |**<big>[[G0906J\|ἔβαλεν]]</big>**  |ebalen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

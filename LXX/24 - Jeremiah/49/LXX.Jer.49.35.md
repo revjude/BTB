@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:35** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, Behold, I break the bow of Elam, \[the\] source of their dominions. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Behold, I will shatter Elam’s bow, the mainstay of their might.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.34|<< Jeremiah 49:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.36|Jeremiah 49:36 >>]]</td></tr></table>
 
 | Translation | Greek |

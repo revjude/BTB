@@ -1,12 +1,12 @@
-**Matthew 12:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:17**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 This was to fulfill what was spoken through the prophet Isaiah:
 <small><sub>**Literal:**</sub></small>
 so that may be fulfilled that having been spoken through Isaiah the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.16|<< Matthew 12:16]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.18|Matthew 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that [^1] |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | may be fulfilled |**<big>[[G4137\|πληρωθῇ]]</big>**  |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

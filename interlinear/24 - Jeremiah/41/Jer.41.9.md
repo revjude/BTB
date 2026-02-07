@@ -1,4 +1,4 @@
-**Jeremiah 41:9** 
+**Jeremiah 41:9**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, [was] it which Asa the king had made for fear of Baasha king of Israel: [and] Ishmael the son of Nethaniah filled it with [them that were] slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the cistern into which Ishmael had thrown all the bodies of the men he had s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.8|<< Jeremiah 41:8]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.10|Jeremiah 41:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cistern  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0953A\|בּ֗וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

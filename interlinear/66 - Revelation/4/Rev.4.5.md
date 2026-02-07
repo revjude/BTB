@@ -1,5 +1,5 @@
-**Revelation 4:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:5**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And out of the throne proceeded lightnings and thunderings and voices: and [there were] seven lamps of fire burning before the throne, which are the seven Spirits of God.
 <small><sub>**BSB:**</sub></small>
 From the throne came flashes of lightning, rumblings, and peals of thunder. Before the throne burned seven torches of fire. These are the seven spirits of God.
@@ -10,7 +10,7 @@ And out of the throne come flashes of lightning and voices and thunderings, And 
 > $\quad$ possibly alluding to: [[LXX.Exod.19.16|Exod 19:16]] ☩ [[LXX.Isa.6.2|Isa 6:2]] ☩ [[LXX.Ezek.1.4|Ezek 1:4]] ☩ [[LXX.Ezek.11.22|Ezek 11:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

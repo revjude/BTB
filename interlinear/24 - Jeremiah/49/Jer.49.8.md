@@ -1,4 +1,4 @@
-**Jeremiah 49:8** 
+**Jeremiah 49:8**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time [that] I will visit him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn and run! Lie low, O dwellers of Dedan, for I will bring disaster on Esau at
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.7|<< Jeremiah 49:7]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.9|Jeremiah 49:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flee  |**<big>&#8207;[[H5127\|נֻ֤סוּ]]&#8207; </big>**| Nu.su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be turned back  |**<big>&#8207;[[H6437G\|הָפְנוּ֙]]&#8207; </big>**| ha.fe.Nu<small><sup>[[HVHv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

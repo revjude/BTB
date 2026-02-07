@@ -1,10 +1,7 @@
 **LXX Isaiah 23:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> of Hosts plans to disable all the insolence of the glorious ones, and to dishonor every glorious \[thing\] upon the earth. 
-<small><sub>**KJV:**</sub></small>
-The LORD of hosts hath purposed it, to stain the pride of all glory, [and] to bring into contempt all the honourable of the earth.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts planned it, to defile all its glorious beauty, to disgrace all the renowned of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.8|<< Isaiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.10|Isaiah 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

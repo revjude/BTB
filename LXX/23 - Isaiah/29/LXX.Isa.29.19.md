@@ -1,10 +1,7 @@
 **LXX Isaiah 29:19** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] poor shall exult because of \[the\] <span class="smallcaps">lord</span> with gladness, and the ones despairing  of men shall be filled up with gladness. 
-<small><sub>**KJV:**</sub></small>
-The meek also shall increase [their] joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-The humble will increase their joy in the LORD, and the poor among men will rejoice in the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.18|<< Isaiah 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.20|Isaiah 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

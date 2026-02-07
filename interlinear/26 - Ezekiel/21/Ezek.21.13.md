@@ -1,4 +1,4 @@
-**Ezekiel 21:13** (21:18)
+**Ezekiel 21:13**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because [it is] a trial, and what if [the sword] contemn even the rod? it shall be no [more], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely testing will come! And what if even the scepter, which the sword despises
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.12|<< Ezekiel 21:12]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.14|Ezekiel 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been tested  |**<big>&#8207;[[H0974\|בֹ֔חַן]]&#8207; </big>**| Vo.chan<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 141:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just shall correct me with mercy, and reprove me; but \[the\] oil of the sinner, let it not anoint  my head! For still yet  \[shall\] my prayer \[be against\]  their good-pleasures. 
-<small><sub>**KJV:**</sub></small>
-Let the righteous smite me; [it shall be] a kindness: and let him reprove me; [it shall be] an excellent oil, [which] shall not break my head: for yet my prayer also [shall be] in their calamities.
-<small><sub>**BSB:**</sub></small>
-Let the righteous man strike me; let his rebuke be an act of loving devotion. It is oil for my head; let me not refuse it. For my prayer is ever against the deeds of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.4|<< Psalm 141:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.6|Psalm 141:6 >>]]</td></tr></table>
 
 | Translation | Greek |

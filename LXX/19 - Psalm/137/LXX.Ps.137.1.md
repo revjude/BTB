@@ -6,10 +6,7 @@
 
 <small><sub>**LXX:**</sub></small>
 At the rivers of Babylon, there we sat; and we wept in  our remembering  Zion. 
-<small><sub>**KJV:**</sub></small>
-By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
-<small><sub>**BSB:**</sub></small>
-By the rivers of Babylon we sat and wept when we remembered Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.137.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.26|<< Psalm 136:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.2|Psalm 137:2 >>]]</td></tr></table>
 
 | Translation | Greek |

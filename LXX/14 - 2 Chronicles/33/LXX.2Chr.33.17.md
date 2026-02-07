@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:17** 
 <small><sub>**LXX:**</sub></small>
 Only still the people sacrificed upon the high \[places\], except \[to the\] <span class="smallcaps">lord</span> their God. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the people did sacrifice still in the high places, [yet] unto the LORD their God only.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the people still sacrificed at the high places, but only to the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.16|<< 2 Chronicles 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.18|2 Chronicles 33:18 >>]]</td></tr></table>
 
 | Translation | Greek |

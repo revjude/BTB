@@ -1,10 +1,7 @@
 **LXX Psalm 3:4** 
 <small><sub>**LXX:**</sub></small>
 I cried out my voice to \[the\] <span class="smallcaps">lord</span>, and he heeded me from out of his holy mountain. 
-<small><sub>**KJV:**</sub></small>
-I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.
-<small><sub>**BSB:**</sub></small>
-To the LORD I cry aloud, and He answers me from His holy mountain. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.3|<< Psalm 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.5|Psalm 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

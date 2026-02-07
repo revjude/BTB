@@ -1,4 +1,4 @@
-**Isaiah 38:16** 
+**Isaiah 38:16**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, by these [things men] live, and in all these [things is] the life of my spirit: so wilt thou recover me, and make me to live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, by such things men live, and in all of them my spirit finds life. You ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.15|<< Isaiah 38:15]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.17|Isaiah 38:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֖י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 14:24** 
+**1 Kings 14:24**<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were also sodomites in the land: [and] they did according to all the abominations of the nations which the LORD cast out before the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There were even male shrine prostitutes in the land. They imitated all the abomi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.23|<< 1 Kings 14:23]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.25|1 Kings 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cult prostitute[s]  |**<big>&#8207;[[H6945\|קָדֵ֖שׁ]]&#8207; </big>**| ka.Desh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

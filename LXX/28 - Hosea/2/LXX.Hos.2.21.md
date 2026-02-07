@@ -1,10 +1,7 @@
 **LXX Hosea 2:21** 
 <small><sub>**LXX:**</sub></small>
 And it will be in that  day, says \[the\] <span class="smallcaps">lord</span>, I will give heed to the heaven, and the heaven shall give heed to the earth. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;
-<small><sub>**BSB:**</sub></small>
-“On that day I will respond—” declares the LORD—“I will respond to the heavens, and they will respond to the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.20|<< Hosea 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.22|Hosea 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

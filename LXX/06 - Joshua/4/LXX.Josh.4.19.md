@@ -1,10 +1,7 @@
 **LXX Joshua 4:19** 
 <small><sub>**LXX:**</sub></small>
 And the people ascended from out of the Jordan \[on the\] tenth of the first month. And the sons of Israel bivouacked in Gilgal in \[the\] part  towards \[the\] sun, rising by  Jericho. 
-<small><sub>**KJV:**</sub></small>
-And the people came up out of Jordan on the tenth [day] of the first month, and encamped in Gilgal, in the east border of Jericho.
-<small><sub>**BSB:**</sub></small>
-On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.18|<< Joshua 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.20|Joshua 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

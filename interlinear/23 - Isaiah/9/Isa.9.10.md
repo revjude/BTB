@@ -1,4 +1,4 @@
-**Isaiah 9:10** (9:9)
+**Isaiah 9:10**<big><big>[[Isa.9.8 Judgment against Israel’s Pride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change [them into] cedars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The bricks are fallen down, but we will build with hewn stones: the sycomores ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.9|<< Isaiah 9:9]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.11|Isaiah 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bricks  |**<big>&#8207;[[H3843\|לְבֵנִ֥ים]]&#8207; </big>**| le.ve.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have fallen  |**<big>&#8207;[[H5307G\|נָפָ֖לוּ]]&#8207; </big>**| na.Fa.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 10:15** 
 <small><sub>**LXX:**</sub></small>
 For if I should be impious, alas; but if I might be just, I am not able to lift up \[the\] head, for I am full of dishonor. 
-<small><sub>**KJV:**</sub></small>
-If I be wicked, woe unto me; and [if] I be righteous, [yet] will I not lift up my head. [I am] full of confusion; therefore see thou mine affliction;
-<small><sub>**BSB:**</sub></small>
-If I am guilty, woe to me! And even if I am righteous, I cannot lift my head. I am full of shame and aware of my affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.14|<< Job 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.16|Job 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

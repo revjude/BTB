@@ -1,12 +1,12 @@
-**Galatians 3:29
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:29**<big><big>[[Gal.3.26 Sons through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if ye [be] Christ’s, then are ye Abraham’s seed, and heirs according to the promise.
 <small><sub>**BSB:**</sub></small>
 And if you belong to Christ, then you are Abraham’s seed and heirs according to the promise.
 <small><sub>**Literal:**</sub></small>
 If now you yourselves [are] Christ’s, then <the> Abraham’s seed you are, and according to [the] promise heirs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.28|<< Galatians 3:28]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.1|Galatians 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 17:10** 
+**Proverbs 17:10**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A reproof entereth more into a wise man than an hundred stripes into a fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A rebuke cuts into a man of discernment deeper than a hundred lashes cut into a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.9|<< Proverbs 17:9]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.11|Proverbs 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it goes deep  |**<big>&#8207;[[H5181\|תֵּ֣חַת]]&#8207; </big>**| Te.chat<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a rebuke  |**<big>&#8207;[[H1606\|גְּעָרָ֣ה]]&#8207; </big>**| ge.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

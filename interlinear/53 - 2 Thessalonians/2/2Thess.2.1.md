@@ -1,12 +1,12 @@
-**2 Thessalonians 2:1
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:1**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and [by] our gathering together unto him,
 <small><sub>**BSB:**</sub></small>
 Now concerning the coming of our Lord Jesus Christ and our being gathered together to Him, we ask you, brothers,
 <small><sub>**Literal:**</sub></small>
 We implore now you, brothers, by the coming of the Lord of us Jesus Christ and our gathering together unto Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.12|<< 2 Thessalonians 1:12]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.2|2 Thessalonians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We implore |**<big>[[G2065\|Ἐρωτῶμεν]]</big>**  |Erōtōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

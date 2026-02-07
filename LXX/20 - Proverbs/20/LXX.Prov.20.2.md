@@ -1,10 +1,7 @@
 **LXX Proverbs 20:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] intimidation of a king differs not from \[the\] rage of a lion; and the one provoking him even \[is\] intermixing sins against  his own soul. 
-<small><sub>**KJV:**</sub></small>
-The fear of a king [is] as the roaring of a lion: [whoso] provoketh him to anger sinneth [against] his own soul.
-<small><sub>**BSB:**</sub></small>
-The terror of a king is like the roar of a lion; whoever provokes him forfeits his own life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.1|<< Proverbs 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.3|Proverbs 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

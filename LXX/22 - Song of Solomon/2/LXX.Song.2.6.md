@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:6** 
 <small><sub>**LXX:**</sub></small>
 His left \[hand\] \[is\] under  my head, and  his right \[hand\] will embrace me. 
-<small><sub>**KJV:**</sub></small>
-His left hand [is] under my head, and his right hand doth embrace me.
-<small><sub>**BSB:**</sub></small>
-His left hand is under my head, and his right arm embraces me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.5|<< Song of Solomon 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.7|Song of Solomon 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

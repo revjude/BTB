@@ -1,10 +1,7 @@
 **LXX Isaiah 40:2** 
 <small><sub>**LXX:**</sub></small>
 O priests, speak to the heart of Jerusalem! Comfort her! for her humiliation was filled up; her sin is untied; for she received from \[the\] hand of \[the\] <span class="smallcaps">lord</span> double  her sins. 
-<small><sub>**KJV:**</sub></small>
-Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD’S hand double for all her sins.
-<small><sub>**BSB:**</sub></small>
-“Speak tenderly to Jerusalem, and proclaim to her that her forced labor has been completed; her iniquity has been pardoned. For she has received from the hand of the LORD double for all her sins.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.1|<< Isaiah 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.3|Isaiah 40:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Peter 1:16
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:16**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
 <small><sub>**BSB:**</sub></small>
 For we did not follow cleverly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.
 <small><sub>**Literal:**</sub></small>
 Not for contrived fables having followed we have made known to you the of the Lord of us Jesus Christ power and coming, but eyewitnesses having been <the> of His majesty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.15|<< 2 Peter 1:15]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.17|2 Peter 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

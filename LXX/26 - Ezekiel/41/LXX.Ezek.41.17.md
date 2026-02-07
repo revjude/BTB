@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:17** 
 <small><sub>**LXX:**</sub></small>
 And unto the inner house and the outer, and upon \[the\] entire  wall round about the inside and the outside, 
-<small><sub>**KJV:**</sub></small>
-To that above the door, even unto the inner house, and without, and by all the wall round about within and without, by measure.
-<small><sub>**BSB:**</sub></small>
-In the space above the outside of the entrance to the inner sanctuary on all the walls, spaced evenly around the inner and outer sanctuary,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.16|<< Ezekiel 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.18|Ezekiel 41:18 >>]]</td></tr></table>
 
 | Translation | Greek |

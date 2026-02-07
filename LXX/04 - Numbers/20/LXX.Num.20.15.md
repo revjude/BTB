@@ -1,10 +1,7 @@
 **LXX Numbers 20:15** 
 <small><sub>**LXX:**</sub></small>
 and \[how\] our fathers went down into Egypt, and we sojourned in Egypt many days, and the Egyptians inflicted evil on us and  our fathers. 
-<small><sub>**KJV:**</sub></small>
-How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:
-<small><sub>**BSB:**</sub></small>
-how our fathers went down to Egypt, where we lived many years. The Egyptians mistreated us and our fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.14|<< Numbers 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.16|Numbers 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

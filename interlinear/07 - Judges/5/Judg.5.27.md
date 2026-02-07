@@ -1,4 +1,4 @@
-**Judges 5:27** 
+**Judges 5:27**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At her feet he collapsed, he fell, there he lay still; at her feet he collapsed,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.26|<< Judges 5:26]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.28|Judges 5:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֣ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet her  |**<big>&#8207;[[H7272\|רַגְלֶ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| rag.Lei.<small><sup>[[HNcfdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

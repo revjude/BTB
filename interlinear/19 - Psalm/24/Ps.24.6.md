@@ -1,4 +1,4 @@
-**Psalms 24:6** 
+**Psalms 24:6**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the generation of them that seek him, that seek thy face, O Jacob. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Such is the generation of those who seek Him, who seek Your face, O God of Jacob
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.5|<< Psalms 24:5]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.7|Psalms 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֭ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] generation of  |**<big>&#8207;[[H1755\|דּ֣וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

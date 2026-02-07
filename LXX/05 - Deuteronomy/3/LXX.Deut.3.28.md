@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:28** 
 <small><sub>**LXX:**</sub></small>
 And you give charge to Joshua, and strengthen him, and comfort him! for this one shall pass over before \[the\] face  of this people, and he shall allot to them the land which you have seen. 
-<small><sub>**KJV:**</sub></small>
-But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
-<small><sub>**BSB:**</sub></small>
-But commission Joshua, encourage him, and strengthen him, for he will cross over ahead of the people and enable them to inherit the land that you will see.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.27|<< Deuteronomy 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.29|Deuteronomy 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

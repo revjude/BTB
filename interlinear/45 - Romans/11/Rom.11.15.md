@@ -1,12 +1,12 @@
-**Romans 11:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:15**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the casting away of them [be] the reconciling of the world, what [shall] the receiving [of them be], but life from the dead?
 <small><sub>**BSB:**</sub></small>
 For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?
 <small><sub>**Literal:**</sub></small>
 If for the rejection of them [is the] reconciliation of [the] world, what [will be] the acceptance only except life out from [the] dead?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.14|<< Romans 11:14]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.16|Romans 11:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

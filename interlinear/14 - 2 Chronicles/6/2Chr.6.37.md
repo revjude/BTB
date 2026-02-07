@@ -1,4 +1,4 @@
-**2 Chronicles 6:37** 
+**2 Chronicles 6:37**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet [if] they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when they come to their senses in the land to which they were taken, and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.36|<< 2 Chronicles 6:36]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.38|2 Chronicles 6:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bring back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725N\|הֵשִׁ֙יבוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Shi.vu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

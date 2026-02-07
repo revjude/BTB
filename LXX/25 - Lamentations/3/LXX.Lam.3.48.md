@@ -1,10 +1,7 @@
 **LXX Lamentations 3:48** 
 <small><sub>**LXX:**</sub></small>
 My eye shall lead down releases of waters upon the destruction of the daughter  of my people. 
-<small><sub>**KJV:**</sub></small>
-Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
-<small><sub>**BSB:**</sub></small>
-Streams of tears flow from my eyes over the destruction of the daughter of my people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.47|<< Lamentations 3:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.49|Lamentations 3:49 >>]]</td></tr></table>
 
 | Translation | Greek |

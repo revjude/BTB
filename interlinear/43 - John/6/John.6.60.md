@@ -1,12 +1,12 @@
-**John 6:60
-**<small><sub>**KJV:**</sub></small>
+**John 6:60**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Many therefore of his disciples, when they had heard [this], said, This is an hard saying; who can hear it?
 <small><sub>**BSB:**</sub></small>
 On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”
 <small><sub>**Literal:**</sub></small>
 Many therefore having heard of the disciples of Him said; Difficult is <the> word this; who is able it to hear?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.59|<< John 6:59]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.61|John 6:61 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

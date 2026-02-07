@@ -1,12 +1,12 @@
-**2 Timothy 1:3
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:3**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank God, whom I serve from [my] forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;
 <small><sub>**BSB:**</sub></small>
 I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers.
 <small><sub>**Literal:**</sub></small>
 Thankful I am <the> to God, whom I serve from [my] forefathers with a pure conscience, as unceasingly I have the of you remembrance in the prayers of mine night and day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.2|<< 2 Timothy 1:2]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.4|2 Timothy 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thankful |**<big>[[G5485\|Χάριν]]</big>**  |Charin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I am |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

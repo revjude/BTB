@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:4** 
 <small><sub>**LXX:**</sub></small>
 In  your blood which you shed, you have fallen; and in  your ideas which you produced you defiled \[yourself\]; and your days drew near, and brought on \[the\] time of your years. On account of this I have given you for scorning by the nations, and for mocking by all the regions, 
-<small><sub>**KJV:**</sub></small>
-Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come [even] unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries.
-<small><sub>**BSB:**</sub></small>
-you are guilty of the blood you have shed, and you are defiled by the idols you have made. You have brought your days to a close and have come to the end of your years. Therefore I have made you a reproach to the nations and a mockery to all the lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.3|<< Ezekiel 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.5|Ezekiel 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

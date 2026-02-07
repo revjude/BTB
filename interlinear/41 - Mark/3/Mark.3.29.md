@@ -1,12 +1,12 @@
-**Mark 3:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:29**<big><big>[[Mark.3.28 The Unpardonable Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:
 <small><sub>**BSB:**</sub></small>
 But whoever blasphemes against the Holy Spirit will never be forgiven; he is guilty of eternal sin.”
 <small><sub>**Literal:**</sub></small>
 Who[ever] however maybe may blaspheme against the Spirit <the> Holy not has forgiveness to the age, but guilty is [of] eternal sin;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.28|<< Mark 3:28]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.30|Mark 3:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δ᾽]]</big>**  |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

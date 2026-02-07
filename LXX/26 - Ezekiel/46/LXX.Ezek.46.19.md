@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he brought me into the way of the one according to \[the\] back of the gate, into the inner chamber of the holy places of the priests, the one looking towards \[the\] north. And behold, \[there was\] a place there having been separated. 
-<small><sub>**KJV:**</sub></small>
-After he brought me through the entry, which [was] at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there [was] a place on the two sides westward.
-<small><sub>**BSB:**</sub></small>
-Then the man brought me through the entrance at the side of the gate into the holy chambers facing north, which belonged to the priests, and he showed me a place there at the far western end<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.18|<< Ezekiel 46:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.20|Ezekiel 46:20 >>]]</td></tr></table>
 
 | Translation | Greek |

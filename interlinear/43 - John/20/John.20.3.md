@@ -1,12 +1,12 @@
-**John 20:3
-**<small><sub>**KJV:**</sub></small>
+**John 20:3**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter therefore went forth, and that other disciple, and came to the sepulchre.
 <small><sub>**BSB:**</sub></small>
 Then Peter and the other disciple set out for the tomb.
 <small><sub>**Literal:**</sub></small>
 Went forth therefore <the> Peter and the other disciple and were coming to the tomb;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.2|<< John 20:2]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.4|John 20:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went forth |**<big>[[G1831\|Ἐξῆλθεν]]</big>**  |Exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 71:14** 
 <small><sub>**LXX:**</sub></small>
 But I always shall hope upon you, and I will add upon all  your praise. 
-<small><sub>**KJV:**</sub></small>
-But I will hope continually, and will yet praise thee more and more.
-<small><sub>**BSB:**</sub></small>
-But I will always hope and will praise You more and more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.13|<< Psalm 71:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.15|Psalm 71:15 >>]]</td></tr></table>
 
 | Translation | Greek |

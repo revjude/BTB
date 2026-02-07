@@ -1,6 +1,6 @@
 (KJV) **Genesis 42**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41|<< Genesis 41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43|Genesis 43 >>]]</td></tr></table>
 
-***Joseph’s Brothers Sent to Egypt*** ^bsb123
+<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥃]]</big></big>***Joseph’s Brothers Sent to Egypt***
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.42.1|1]]**<span class="endversemarker">]</span> Now when Jacob<small><small>[^2]</small></small> saw<small><small>[^3]</small></small> that there was corn in Egypt, Jacob said unto his sons, Why do ye<small><small>[^4]</small></small> look one upon another? <span class="startversemarker">[</span>**[[Gen.42.2|2]]**<span class="endversemarker">]</span> And he said, Behold, I have heard that there is corn in Egypt: get you<small><small>[^5]</small></small> down thither, and buy for us from thence; that we<small><small>[^6]</small></small> may live, and not die. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.42.3|3]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.42.21|21]]**<span class="endversemarker">]</span> And they said<small><small>[^36]</small></small> one to another, We \[are\] verily guilty concerning our brother, in that we saw<small><small>[^37]</small></small> the anguish of his soul, when he besought us, and we would not hear; therefore is this distress<small><small>[^38]</small></small> come upon us. <span class="startversemarker">[</span>**[[Gen.42.22|22]]**<span class="endversemarker">]</span> And Reuben answered them, saying, Spake I<small><small>[^39]</small></small> not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood<small><small>[^40]</small></small> is required. <span class="startversemarker">[</span>**[[Gen.42.23|23]]**<span class="endversemarker">]</span> And they knew not that Joseph understood \[them\]; for he spake unto them by an interpreter<small><small>[^41]</small></small>. <span class="startversemarker">[</span>**[[Gen.42.24|24]]**<span class="endversemarker">]</span> And he turned himself about from them, and wept<small><small>[^42]</small></small>; and returned to them again, and communed with them, and took from them Simeon<small><small>[^43]</small></small>, and bound him before their eyes.
 
-***Joseph’s Brothers Return to Canaan*** ^bsb124
+<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥃]]</big></big>***Joseph’s Brothers Return to Canaan***
 
  
 

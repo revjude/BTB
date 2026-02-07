@@ -1,10 +1,7 @@
 **LXX Genesis 1:2** 
 <small><sub>**LXX:**</sub></small>
 But the earth was unseen and unready, and darkness \[was\] upon the abyss, and spirit \[of\] God bore upon the water. 
-<small><sub>**KJV:**</sub></small>
-And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of God moved upon the face of the waters.
-<small><sub>**BSB:**</sub></small>
-Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.1|<< Genesis 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.3|Genesis 1:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 1:2** is...

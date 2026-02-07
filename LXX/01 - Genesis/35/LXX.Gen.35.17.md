@@ -1,10 +1,7 @@
 **LXX Genesis 35:17** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  her harshly bearing, the midwife said to her, Be of courage! for also this is a son to you. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
-<small><sub>**BSB:**</sub></small>
-During her severe labor, the midwife said to her, “Do not be afraid, for you are having another son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.16|<< Genesis 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.18|Genesis 35:18 >>]]</td></tr></table>
 
 | Translation | Greek |

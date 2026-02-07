@@ -1,4 +1,4 @@
-**2 Chronicles 32:31** 
+**2 Chronicles 32:31**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit in [the business of] the ambassadors of the princes of Babylon, who sent unto him to inquire of the wonder that was [done] in the land, God left him, to try him, that he might know all [that was] in his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And so when ambassadors of the rulers of Babylon were sent to him to inquire abo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.30|<< 2 Chronicles 32:30]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.32|2 Chronicles 32:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] envoys of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3887\|מְלִיצֵ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.li.Tzei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:8** 
 <small><sub>**LXX:**</sub></small>
 Ask  of your servants! and they will tell you.  your servants find favor in your eyes! for upon a good day we come. Give indeed what ever your hand should find \[to\] your servants, and \[to\] your son David! 
-<small><sub>**KJV:**</sub></small>
-Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.
-<small><sub>**BSB:**</sub></small>
-Ask your young men, and they will tell you. So let my young men find favor with you, for we have come on the day of a feast. Please give whatever you can spare to your servants and to your son David.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.7|<< 1 Samuel 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.9|1 Samuel 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

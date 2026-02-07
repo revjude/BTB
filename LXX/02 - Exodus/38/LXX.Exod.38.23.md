@@ -1,10 +1,7 @@
 **LXX Exodus 38:23** 
 <small><sub>**LXX:**</sub></small>
 and Aholiab, the \[son\] of Ahisamach, of the tribe of Dan, who supervised construction -- the woven \[works\], and the stitched works, and the embroideries, woven in the blue and purple, and scarlet being spun, and linen. 
-<small><sub>**KJV:**</sub></small>
-And with him [was] Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.
-<small><sub>**BSB:**</sub></small>
-With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.22|<< Exodus 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.24|Exodus 38:24 >>]]</td></tr></table>
 
 | Translation | Greek |

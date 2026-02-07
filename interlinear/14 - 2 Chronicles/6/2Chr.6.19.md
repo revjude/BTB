@@ -1,4 +1,4 @@
-**2 Chronicles 6:19** 
+**2 Chronicles 6:19**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet regard the prayer and plea of Your servant, O LORD my God, so that You may h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.18|<< 2 Chronicles 6:18]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.20|2 Chronicles 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will turn  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6437G\|פָנִ֜יתָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.Ni.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

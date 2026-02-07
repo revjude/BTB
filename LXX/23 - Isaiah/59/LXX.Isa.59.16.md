@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he beheld, and there was no man. And he contemplated, and there was no one  assisting. And he defended them \[with\] his arm, and  he supported \[them\] \[with his\] charity. 
-<small><sub>**KJV:**</sub></small>
-And he saw that [there was] no man, and wondered that [there was] no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
-<small><sub>**BSB:**</sub></small>
-He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
 
 | Translation | Greek |

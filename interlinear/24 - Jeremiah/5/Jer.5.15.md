@@ -1,4 +1,4 @@
-**Jeremiah 5:15** 
+**Jeremiah 5:15**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it [is] a mighty nation, it [is] an ancient nation, a nation whose language thou knowest not, neither understandest what they say.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I am bringing a distant nation against you, O house of Israel,” declar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.14|<< Jeremiah 5:14]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.16|Jeremiah 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֣י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to bring  |**<big>&#8207;[[H0935P\|מֵבִיא֩]]&#8207; </big>**| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

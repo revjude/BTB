@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Dress to yourself two tablets of stone, as also the first, and ascend to me into the mountain! and I will write upon the tablets the words which \[were\] upon the first tablets, which you broke. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon [these] tables the words that were in the first tables, which thou brakest.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.23|<< Exodus 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.2|Exodus 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

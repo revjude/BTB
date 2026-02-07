@@ -1,10 +1,7 @@
 **LXX Psalm 143:6** 
 <small><sub>**LXX:**</sub></small>
 I opened and spread out to you  my hands.  My soul is as a waterless land to you. 
-<small><sub>**KJV:**</sub></small>
-I stretch forth my hands unto thee: my soul [thirsteth] after thee, as a thirsty land. Selah.
-<small><sub>**BSB:**</sub></small>
-I stretch out my hands to You; my soul thirsts for You like a parched land. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.5|<< Psalm 143:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.7|Psalm 143:7 >>]]</td></tr></table>
 
 | Translation | Greek |

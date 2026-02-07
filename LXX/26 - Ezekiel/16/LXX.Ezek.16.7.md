@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:7** 
 <small><sub>**LXX:**</sub></small>
 Be multiplied! I have made you as the rising of the field. And you were multiplied, and magnified, and entered into cities of cities.  Your breasts erected, and  your hair rose up; but you were naked and indecent. 
-<small><sub>**KJV:**</sub></small>
-I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: [thy] breasts are fashioned, and thine hair is grown, whereas thou [wast] naked and bare.
-<small><sub>**BSB:**</sub></small>
-I made you thrive like a plant of the field. You grew up and matured and became very beautiful. Your breasts were formed and your hair grew, but you were naked and bare.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.6|<< Ezekiel 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.8|Ezekiel 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

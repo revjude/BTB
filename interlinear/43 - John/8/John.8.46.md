@@ -1,12 +1,12 @@
-**John 8:46
-**<small><sub>**KJV:**</sub></small>
+**John 8:46**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?
 <small><sub>**BSB:**</sub></small>
 Which of you can prove Me guilty of sin? If I speak the truth, why do you not believe Me?
 <small><sub>**Literal:**</sub></small>
 Which of you convicts me concerning sin? If now [the] truth I speak, because of why you yourselves not do believe Me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.45|<< John 8:45]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.47|John 8:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:47** 
+**Deuteronomy 28:47**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all [things];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you did not serve the LORD your God with joy and gladness of heart in al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.46|<< Deuteronomy 28:46]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.48|Deuteronomy 28:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H8478J\|תַּ֗חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

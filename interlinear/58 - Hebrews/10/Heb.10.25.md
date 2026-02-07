@@ -1,12 +1,12 @@
-**Hebrews 10:25
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:25**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not forsaking the assembling of ourselves together, as the manner of some [is]; but exhorting [one another]: and so much the more, as ye see the day approaching.
 <small><sub>**BSB:**</sub></small>
 Let us not neglect meeting together, as some have made a habit, but let us encourage one another, and all the more as you see the Day approaching.
 <small><sub>**Literal:**</sub></small>
 not forsaking the assembling together of ourselves even as [is the] custom with some, but encouraging [one another], and so much more as much as you see drawing near the Day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.24|<< Hebrews 10:24]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.26|Hebrews 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | forsaking |**<big>[[G1459\|ἐγκαταλείποντες]]</big>**  |egkataleipontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

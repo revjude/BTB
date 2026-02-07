@@ -1,4 +1,4 @@
-**Numbers 19:19** 
+**Numbers 19:19**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the clean [person] shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man who is ceremonially clean is to sprinkle the unclean person on the third
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.18|<< Numbers 19:18]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.20|Numbers 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will spatter [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5137A\|הִזָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Zah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the clean [person]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2889\|טָּהֹר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

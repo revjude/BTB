@@ -1,12 +1,12 @@
-**Acts 18:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:9**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
 <small><sub>**BSB:**</sub></small>
 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking; do not be silent.
 <small><sub>**Literal:**</sub></small>
 Said now the Lord in [the] night through a vision <the> to Paul; Not do fear but do continue speaking and not may be silent,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.8|<< Acts 18:8]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.10|Acts 18:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

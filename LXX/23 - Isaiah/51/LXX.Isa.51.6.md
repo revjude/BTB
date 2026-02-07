@@ -1,10 +1,7 @@
 **LXX Isaiah 51:6** 
 <small><sub>**LXX:**</sub></small>
 Lift up your eyes unto the heaven, and look unto the earth below! For the heaven \[is\] as smoke having been solidified. And the earth as a cloak shall be old, and the ones inhabiting shall die as these. But the deliverance of mine shall be into the eon, and the righteousness of mine in no way shall fail. 
-<small><sub>**KJV:**</sub></small>
-Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.
-<small><sub>**BSB:**</sub></small>
-Lift up your eyes to the heavens, and look at the earth below; for the heavens will vanish like smoke, the earth will wear out like a garment, and its people will die like gnats. But My salvation will last forever, and My righteousness will never fail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.5|<< Isaiah 51:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.7|Isaiah 51:7 >>]]</td></tr></table>
 
 | Translation | Greek |

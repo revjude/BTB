@@ -1,12 +1,12 @@
-**Acts 13:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:12**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 <small><sub>**BSB:**</sub></small>
 When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord.
 <small><sub>**Literal:**</sub></small>
 Then having seen the proconsul that having happened he believed being astonished at the teaching of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.11|<< Acts 13:11]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.13|Acts 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Kings 1:2** 
+**2 Kings 1:2**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahaziah fell down through a lattice in his upper chamber that [was] in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baalzebub the god of Ekron whether I shall recover of this disease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Ahaziah had fallen through the lattice of his upper room in Samaria and inju
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.1|<< 2 Kings 1:1]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.3|2 Kings 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יִּפֹּ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahaziah  |**<big>&#8207;[[H0274G\|אֲחַזְיָ֜ה]]&#8207; </big>**| 'a.chaz.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

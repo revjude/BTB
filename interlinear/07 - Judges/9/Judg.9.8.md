@@ -1,4 +1,4 @@
-**Judges 9:8** 
+**Judges 9:8**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The trees went forth [on a time] to anoint a king over them; and they said unto the olive tree, Reign thou over us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One day the trees set out to anoint a king for themselves. They said to the oliv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.7|<< Judges 9:7]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.9|Judges 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to go>  |**<big>&#8207;[[H1980G\|הָל֤וֹךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they went  |**<big>&#8207;[[H1980G\|הָֽלְכוּ֙]]&#8207; </big>**| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he made for himself houses in \[the\] city of David. And he prepared a place for the ark  of God, and pitched for it a tent. 
-<small><sub>**KJV:**</sub></small>
-And [David] made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
-<small><sub>**BSB:**</sub></small>
-David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.17|<< 1 Chronicles 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.2|1 Chronicles 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 57:10** 
 <small><sub>**LXX:**</sub></small>
 For your mercy was magnified unto the heavens; and your truth unto the clouds. 
-<small><sub>**KJV:**</sub></small>
-For thy mercy [is] great unto the heavens, and thy truth unto the clouds.
-<small><sub>**BSB:**</sub></small>
-For Your loving devotion reaches to the heavens, and Your faithfulness to the clouds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.57.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.9|<< Psalm 57:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.11|Psalm 57:11 >>]]</td></tr></table>
 
 | Translation | Greek |

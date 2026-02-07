@@ -1,12 +1,12 @@
-**Matthew 5:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:1**<big><big>[[Matt.5.1 The Sermon on the Mount|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 <small><sub>**BSB:**</sub></small>
 When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,
 <small><sub>**Literal:**</sub></small>
 Having seen then the crowds He went up on the mountain, and when was sitting down He they came to Him the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.25|<< Matthew 4:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.2|Matthew 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

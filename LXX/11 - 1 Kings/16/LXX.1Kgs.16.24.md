@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:24** 
 <small><sub>**LXX:**</sub></small>
 And Omri acquired the mountain  Samaria from Shemer the lord of the mountain for two talents of silver. And he built \[on\] the mountain, and he called the name of the mountain which he built upon \[after\] the name of Shemer the lord of the mountain -- Samaria. 
-<small><sub>**KJV:**</sub></small>
-And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.
-<small><sub>**BSB:**</sub></small>
-He bought the hill of Samaria from Shemer for two talents of silver and built a city there, calling it Samaria after the name of Shemer, who had owned the hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.23|<< 1 Kings 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.25|1 Kings 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 12:14** 
+**Zechariah 12:14**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the families that remain, every family apart, and their wives apart.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and all the remaining clans and their wives.
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כֹּ֗ל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the clans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4940\|מִּשְׁפָּחוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.pa.chOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

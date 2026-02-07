@@ -1,10 +1,7 @@
 **LXX Numbers 2:4** 
 <small><sub>**LXX:**</sub></small>
 Of his force the ones being numbered -- four and seventy thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-And his host, and those that were numbered of them, [were] threescore and fourteen thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-and his division numbers 74,600.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.3|<< Numbers 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.5|Numbers 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

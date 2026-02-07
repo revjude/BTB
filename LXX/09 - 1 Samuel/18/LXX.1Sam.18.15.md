@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:15** 
 <small><sub>**LXX:**</sub></small>
 And Saul beheld as he perceived exceedingly, and he was cautious of his person. 
-<small><sub>**KJV:**</sub></small>
-Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
-<small><sub>**BSB:**</sub></small>
-When Saul saw that David was very successful, he was afraid of him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.14|<< 1 Samuel 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.16|1 Samuel 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

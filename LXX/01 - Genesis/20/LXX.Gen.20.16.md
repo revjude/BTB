@@ -1,10 +1,7 @@
 **LXX Genesis 20:16** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Sarah he said, Behold, I have given a thousand double-drachmas  to your brother, these will be to you for \[the\] value  of your person, and all the \[ones\] with you; and you be truthful \[in\] all \[things\]! 
-<small><sub>**KJV:**</sub></small>
-And unto Sarah he said, Behold, I have given thy brother a thousand [pieces] of silver: behold, he [is] to thee a covering of the eyes, unto all that [are] with thee, and with all [other]: thus she was reproved.
-<small><sub>**BSB:**</sub></small>
-And he said to Sarah, “See, I am giving your brother a thousand pieces of silver. It is your vindication before all who are with you; you are completely cleared.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.15|<< Genesis 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.17|Genesis 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

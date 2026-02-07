@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:6** 
 <small><sub>**LXX:**</sub></small>
 And the king of Babylon slew the sons of Zedekiah in Riblah before his eyes; and all the rulers of Judah he slew. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.
-<small><sub>**BSB:**</sub></small>
-There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the nobles of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.5|<< Jeremiah 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.7|Jeremiah 39:7 >>]]</td></tr></table>
 
 | Translation | Greek |

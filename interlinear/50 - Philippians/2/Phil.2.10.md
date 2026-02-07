@@ -1,5 +1,5 @@
-**Philippians 2:10
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:10**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That at the name of Jesus every knee should bow, of [things] in heaven, and [things] in earth, and [things] under the earth;
 <small><sub>**BSB:**</sub></small>
 that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
@@ -10,7 +10,7 @@ that at the name of Jesus every knee may bow in the heavens and on earth and und
 > $\quad$ alluding to: [[LXX.Isa.45.23|Isa 45:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

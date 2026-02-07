@@ -1,12 +1,12 @@
-**Matthew 26:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:19**<big><big>[[Matt.26.17 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the disciples did as Jesus had appointed them; and they made ready the passover.
 <small><sub>**BSB:**</sub></small>
 So the disciples did as Jesus had directed them and prepared the Passover.
 <small><sub>**Literal:**</sub></small>
 And did the disciples as directed them <the> Jesus, and prepared the Passover.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.18|<< Matthew 26:18]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.20|Matthew 26:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | did |**<big>[[G4160G\|ἐποίησαν]]</big>**  |epoiēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

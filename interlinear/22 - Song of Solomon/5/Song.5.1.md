@@ -1,4 +1,4 @@
-**Song of Solomon 5:1** 
+**Song of Solomon 5:1**<big><big>[[Song.5.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am come into my garden, my sister, [my] spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have come to my garden, my sister, my bride; I have gathered my myrrh with my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.16|<< Song of Solomon 4:16]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.2|Song of Solomon 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have come  |**<big>&#8207;[[H0935G\|בָּ֣אתִי]]&#8207; </big>**| Ba.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to garden my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1588M\|גַנִּ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ga.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

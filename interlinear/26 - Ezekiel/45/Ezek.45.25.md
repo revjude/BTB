@@ -1,4 +1,4 @@
-**Ezekiel 45:25** 
+**Ezekiel 45:25**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the seventh [month], in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the seven days of the feast that begins on the fifteenth day of the seven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.24|<< Ezekiel 45:24]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.1|Ezekiel 46:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the seventh [month]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֡י]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on fif-  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁה֩]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

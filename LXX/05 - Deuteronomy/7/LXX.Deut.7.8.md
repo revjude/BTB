@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:8** 
 <small><sub>**LXX:**</sub></small>
 But because the <span class="smallcaps">lord</span> loved you, and to observe the oath which he swore \[to\] your fathers, \[the\] <span class="smallcaps">lord</span> led you by a fortified hand and with a high arm; and he ransomed you from out of a house of slavery, from \[the\] hand of Pharaoh king of Egypt. 
-<small><sub>**KJV:**</sub></small>
-But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.
-<small><sub>**BSB:**</sub></small>
-But because the LORD loved you and kept the oath He swore to your fathers, He brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.7|<< Deuteronomy 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.9|Deuteronomy 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

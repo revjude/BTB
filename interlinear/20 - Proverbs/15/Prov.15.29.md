@@ -1,4 +1,4 @@
-**Proverbs 15:29** 
+**Proverbs 15:29**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] far from the wicked: but he heareth the prayer of the righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is far from the wicked, but He hears the prayer of the righteous.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.28|<< Proverbs 15:28]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.30|Proverbs 15:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] far  |**<big>&#8207;[[H7350\|רָח֣וֹק]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

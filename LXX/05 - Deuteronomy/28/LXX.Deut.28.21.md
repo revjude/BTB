@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:21** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> cleave the plague to you until whenever he should completely consume you from the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it.
-<small><sub>**BSB:**</sub></small>
-The LORD will make the plague cling to you until He has exterminated you from the land that you are entering to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.20|<< Deuteronomy 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.22|Deuteronomy 28:22 >>]]</td></tr></table>
 
 | Translation | Greek |

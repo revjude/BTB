@@ -1,4 +1,4 @@
-**Psalms 116:15** 
+**Psalms 116:15**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Precious in the sight of the LORD [is] the death of his saints.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Precious in the sight of the LORD is the death of His saints.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.14|<< Psalms 116:14]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.16|Psalms 116:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] precious  |**<big>&#8207;[[H3368\|יָ֭קָר]]&#8207; </big>**| Ya.kor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869H\|עֵינֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

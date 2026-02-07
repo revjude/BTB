@@ -1,4 +1,4 @@
-**Job 34:30** 
+**Job 34:30**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the hypocrite reign not, lest the people be ensnared.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that godless men should not rule or lay snares for the people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.29|<< Job 34:29]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.31|Job 34:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from reigning  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H4427A\|מְּלֹךְ]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> me.lokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

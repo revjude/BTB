@@ -1,4 +1,4 @@
-**Amos 4:5** 
+**Amos 4:5**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And offer a sacrifice of thanksgiving with leaven, and proclaim [and] publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Offer leavened bread as a thank offering, and loudly proclaim your freewill offe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.4|<< Amos 4:4]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.6|Amos 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and make smoke  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6999H\|קַטֵּ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.Ter<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a thing leavened  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2557A\|חָמֵץ֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Metz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 32:40** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave  Gilead  to Machir son of Manasseh; and he dwelt there. 
-<small><sub>**KJV:**</sub></small>
-And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
-<small><sub>**BSB:**</sub></small>
-So Moses gave Gilead to the clan of Machir son of Manasseh, and they settled there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.39|<< Numbers 32:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.41|Numbers 32:41 >>]]</td></tr></table>
 
 | Translation | Greek |

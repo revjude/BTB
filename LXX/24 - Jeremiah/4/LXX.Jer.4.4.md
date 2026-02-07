@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:4** 
 <small><sub>**LXX:**</sub></small>
 Circumcise yourselves \[to\] your God, and circumcise the hardness of your heart, O men of Judah, and O ones dwelling in Jerusalem! lest my rage should go forth as fire, and shall be kindled, and there will not be  one extinguishing from in front \[of the\] wickednesses of your practices. 
-<small><sub>**KJV:**</sub></small>
-Circumcise yourselves to the LORD, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench [it], because of the evil of your doings.
-<small><sub>**BSB:**</sub></small>
-Circumcise yourselves to the LORD, and remove the foreskins of your hearts, O men of Judah and people of Jerusalem. Otherwise, My wrath will break out like fire and burn with no one to extinguish it, because of your evil deeds.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.3|<< Jeremiah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.5|Jeremiah 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

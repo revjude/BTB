@@ -1,10 +1,7 @@
 **LXX Exodus 12:46** 
 <small><sub>**LXX:**</sub></small>
 In one house it shall be eaten, and you shall not bring forth from the house \[of any\] of the meats outside, and you shall not break a bone of it. 
-<small><sub>**KJV:**</sub></small>
-In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.
-<small><sub>**BSB:**</sub></small>
-It must be eaten inside one house. You are not to take any of the meat outside the house, and you may not break any of the bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.45|<< Exodus 12:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.47|Exodus 12:47 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 12:46** is...

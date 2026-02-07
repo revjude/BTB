@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:21** 
 <small><sub>**LXX:**</sub></small>
 then they shall lead the young woman unto the doors  of her father's house, and the men of her city shall stone her with stones, and she shall die; for she did folly among \[the\] sons of Israel, to fornicate the house  of her father. And you shall lift away the wicked from yourselves of them. 
-<small><sub>**KJV:**</sub></small>
-Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you.
-<small><sub>**BSB:**</sub></small>
-she shall be brought to the door of her father’s house, and there the men of her city will stone her to death. For she has committed an outrage in Israel by being promiscuous in her father’s house. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.20|<< Deuteronomy 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.22|Deuteronomy 22:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 22:21** is...

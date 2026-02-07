@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to the judges, Know what you do, for not unto man do you judge, but to the <span class="smallcaps">lord</span>, and with you \[are\] \[the\] words of judgment. 
-<small><sub>**KJV:**</sub></small>
-And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who [is] with you in the judgment.
-<small><sub>**BSB:**</sub></small>
-Then he said to the judges, “Consider carefully what you do, for you are not judging for man, but for the LORD, who is with you when you render judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.5|<< 2 Chronicles 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.7|2 Chronicles 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

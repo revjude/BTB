@@ -1,4 +1,4 @@
-**2 Chronicles 3:6** 
+**2 Chronicles 3:6**<big><big>[[2Chr.3.5 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he garnished the house with precious stones for beauty: and the gold [was] gold of Parvaim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He adorned the temple with precious stones for beauty, and its gold was from Par
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.5|<< 2 Chronicles 3:5]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.7|2 Chronicles 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he overlaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6823\|יְצַ֧ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzaf<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

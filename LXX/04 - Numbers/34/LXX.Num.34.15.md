@@ -1,10 +1,7 @@
 **LXX Numbers 34:15** 
 <small><sub>**LXX:**</sub></small>
 Two tribes and a half tribe took  their lots on the other side of the Jordan by Jericho from \[the\] south towards \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-The two tribes and the half tribe have received their inheritance on this side Jordan [near] Jericho eastward, toward the sunrising.
-<small><sub>**BSB:**</sub></small>
-These two and a half tribes have received their inheritance across the Jordan from Jericho, toward the sunrise.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.14|<< Numbers 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.16|Numbers 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

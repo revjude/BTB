@@ -1,4 +1,4 @@
-**Jeremiah 16:8** 
+**Jeremiah 16:8**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not also go into the house of feasting, to sit with them to eat and to drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not enter a house where there is feasting and sit down with them to eat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.7|<< Jeremiah 16:7]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.9|Jeremiah 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a house of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a feast  |**<big>&#8207;[[H4960\|מִשְׁתֶּ֥ה]]&#8207; </big>**| mish.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

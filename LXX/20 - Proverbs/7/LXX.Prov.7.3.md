@@ -1,10 +1,7 @@
 **LXX Proverbs 7:3** 
 <small><sub>**LXX:**</sub></small>
 Put them on your fingers, and inscribe \[them\] upon the width  of your heart! 
-<small><sub>**KJV:**</sub></small>
-Bind them upon thy fingers, write them upon the table of thine heart.
-<small><sub>**BSB:**</sub></small>
-Tie them to your fingers; write them on the tablet of your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.2|<< Proverbs 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.4|Proverbs 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

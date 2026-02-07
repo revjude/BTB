@@ -1,4 +1,4 @@
-**Ecclesiastes 11:9** 
+**Ecclesiastes 11:9**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these [things] God will bring thee into judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rejoice, O young man, while you are young, and let your heart be glad in the day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.8|<< Ecclesiastes 11:8]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.10|Ecclesiastes 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rejoice  |**<big>&#8207;[[H8055\|שְׂמַ֧ח]]&#8207; </big>**| se.Mach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O young man  |**<big>&#8207;[[H0970\|בָּח֣וּר]]&#8207; </big>**| ba.Chur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

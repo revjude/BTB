@@ -1,12 +1,12 @@
-**Revelation 12:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:12**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore rejoice, [ye] heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 <small><sub>**BSB:**</sub></small>
 Therefore rejoice, O heavens, and you who dwell in them! But woe to the earth and the sea; with great fury the devil has come down to you, knowing he has only a short time.”
 <small><sub>**Literal:**</sub></small>
 Because of this do rejoice O heavens and you who [are] in them dwelling! Woe  to those dwelling [in] the land and the sea, because has come down the devil to you having fury great knowing that a short time he has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.11|<< Revelation 12:11]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.13|Revelation 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

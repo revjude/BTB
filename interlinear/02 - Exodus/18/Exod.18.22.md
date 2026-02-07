@@ -1,4 +1,4 @@
-**Exodus 18:22** 
+**Exodus 18:22**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them judge the people at all seasons: and it shall be, [that] every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear [the burden] with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have these men judge the people at all times. Then they can bring you any major 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.21|<< Exodus 18:21]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.23|Exodus 18:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will judge  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָׁפְט֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fe.Tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

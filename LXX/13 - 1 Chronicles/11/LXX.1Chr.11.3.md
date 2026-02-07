@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:3** 
 <small><sub>**LXX:**</sub></small>
 And all \[the\] elders of Israel came to the king in Hebron. And king David ordained with them a covenant in Hebron before \[the\] <span class="smallcaps">lord</span>. And they anointed  David for king over Israel, according to the word of \[the\] <span class="smallcaps">lord</span> through \[the\] hand of Samuel. 
-<small><sub>**KJV:**</sub></small>
-Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.
-<small><sub>**BSB:**</sub></small>
-So all the elders of Israel came to the king at Hebron, where David made a covenant with them before the LORD. And they anointed him king over Israel, according to the word of the LORD through Samuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.2|<< 1 Chronicles 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.4|1 Chronicles 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

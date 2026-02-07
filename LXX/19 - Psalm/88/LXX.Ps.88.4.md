@@ -1,10 +1,7 @@
 **LXX Psalm 88:4** 
 <small><sub>**LXX:**</sub></small>
 I was counted with the ones going down into \[the\] pit. I became as an incurable man; 
-<small><sub>**KJV:**</sub></small>
-I am counted with them that go down into the pit: I am as a man [that hath] no strength:
-<small><sub>**BSB:**</sub></small>
-I am counted among those descending to the Pit. I am like a man without strength.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.3|<< Psalm 88:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.5|Psalm 88:5 >>]]</td></tr></table>
 
 | Translation | Greek |

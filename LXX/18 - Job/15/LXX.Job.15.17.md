@@ -1,10 +1,7 @@
 **LXX Job 15:17** 
 <small><sub>**LXX:**</sub></small>
 But I will report to you, hear me! What indeed I have seen, I will report to you -- 
-<small><sub>**KJV:**</sub></small>
-I will shew thee, hear me; and that [which] I have seen I will declare;
-<small><sub>**BSB:**</sub></small>
-Listen to me and I will inform you. I will describe what I have seen,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.16|<< Job 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.18|Job 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

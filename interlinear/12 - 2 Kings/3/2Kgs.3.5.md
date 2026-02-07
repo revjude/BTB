@@ -1,4 +1,4 @@
-**2 Kings 3:5** 
+**2 Kings 3:5**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But after the death of Ahab, the king of Moab rebelled against the king of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.4|<< 2 Kings 3:4]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.6|2 Kings 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when died  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4194\|מ֣וֹת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Mot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

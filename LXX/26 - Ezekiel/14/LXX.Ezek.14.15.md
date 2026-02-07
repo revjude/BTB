@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:15** 
 <small><sub>**LXX:**</sub></small>
 And if I bring ferocious wild beasts upon the land, and punish it, and it shall be for extinction, and there shall not be \[one\] traveling through because of \[the\] countenance of the wild beasts, 
-<small><sub>**KJV:**</sub></small>
-If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:
-<small><sub>**BSB:**</sub></small>
-Or if I send wild beasts through the land to leave it childless and desolate, with no man passing through it for fear of the beasts,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.14|<< Ezekiel 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.16|Ezekiel 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

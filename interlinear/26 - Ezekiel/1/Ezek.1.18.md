@@ -1,4 +1,4 @@
-**Ezekiel 1:18** 
+**Ezekiel 1:18**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for their rings, they were so high that they were dreadful; and their rings [were] full of eyes round about them four.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their rims were high and awesome, and all four rims were full of eyes all around
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.17|<< Ezekiel 1:17]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.19|Ezekiel 1:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and rims their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1354\|גַ֨בֵּי]]&#8207;&#8207;[[H9029\|הֶ֔ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ga.bei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and height  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1363\|גֹ֥בַהּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Goah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

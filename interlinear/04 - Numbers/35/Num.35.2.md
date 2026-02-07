@@ -1,4 +1,4 @@
-**Numbers 35:2** 
+**Numbers 35:2**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give [also] unto the Levites suburbs for the cities round about them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command the children of Israel, that they give unto the Levites of the inheritan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.1|<< Numbers 35:1]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.3|Numbers 35:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַו֮]]&#8207; </big>**| tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

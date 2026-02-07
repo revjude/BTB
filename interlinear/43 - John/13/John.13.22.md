@@ -1,12 +1,12 @@
-**John 13:22
-**<small><sub>**KJV:**</sub></small>
+**John 13:22**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the disciples looked one on another, doubting of whom he spake.
 <small><sub>**BSB:**</sub></small>
 The disciples looked at one another, perplexed as to which of them He meant.
 <small><sub>**Literal:**</sub></small>
 Were looking therefore upon one another the disciples, being uncertain of whom He is speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.21|<< John 13:21]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.23|John 13:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were looking |**<big>[[G0991\|ἔβλεπον]]</big>**  |eblepon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |

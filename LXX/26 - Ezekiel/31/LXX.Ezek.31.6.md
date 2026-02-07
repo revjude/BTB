@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:6** 
 <small><sub>**LXX:**</sub></small>
 In  his shoots nested all the birds of the heaven, and underneath  his tender branches all the wild beasts of the plain procreated; in  his shadow dwelt all \[the\] multitude of nations. 
-<small><sub>**KJV:**</sub></small>
-All the fowls of heaven made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all great nations.
-<small><sub>**BSB:**</sub></small>
-All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.5|<< Ezekiel 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.7|Ezekiel 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

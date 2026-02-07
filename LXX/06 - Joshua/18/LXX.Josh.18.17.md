@@ -1,10 +1,7 @@
 **LXX Joshua 18:17** 
 <small><sub>**LXX:**</sub></small>
 And it shall pass out unto \[the\] north, and it shall go through to \[the\] spring of Beth-shemesh. 
-<small><sub>**KJV:**</sub></small>
-And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which [is] over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
-<small><sub>**BSB:**</sub></small>
-From there it curved northward and proceeded to En-shemesh and on to Geliloth facing the Ascent of Adummim, and continued down to the Stone of Bohan son of Reuben.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.16|<< Joshua 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.18|Joshua 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

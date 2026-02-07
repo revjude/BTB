@@ -1,4 +1,4 @@
-**Job 22:15** 
+**Job 22:15**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou marked the old way which wicked men have trodden?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will you stay on the ancient path that wicked men have trod?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.14|<< Job 22:14]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.16|Job 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a path of  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0734\|אֹ֣רַח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | antiquity  |**<big>&#8207;[[H5769J\|עוֹלָ֣ם]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

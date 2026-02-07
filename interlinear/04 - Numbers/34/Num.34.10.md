@@ -1,4 +1,4 @@
-**Numbers 34:10** 
+**Numbers 34:10**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall point out your east border from Hazarenan to Shepham:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And your eastern border will run straight from Hazar-enan to Shepham,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.9|<< Numbers 34:9]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.11|Numbers 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will mark  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0184\|הִתְאַוִּיתֶ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.'a.vi.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

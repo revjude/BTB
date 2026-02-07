@@ -1,4 +1,4 @@
-**2 Samuel 14:14** 
+**2 Samuel 14:14**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we must needs die, and [are] as water spilt on the ground, which cannot be gathered up again; neither doth God respect [any] person: yet doth he devise means, that his banished be not expelled from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For we will surely die and be like water poured out on the ground, which cannot 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.13|<< 2 Samuel 14:13]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.15|2 Samuel 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to die>  |**<big>&#8207;[[H4191\|מ֣וֹת]]&#8207; </big>**| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

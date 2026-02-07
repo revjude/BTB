@@ -1,4 +1,4 @@
-**2 Chronicles 25:16** 
+**2 Chronicles 25:16**<big><big>[[2Chr.25.14 Amaziah Rebuked for Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he talked with him, that [the king] said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While he was still speaking, the king asked, “Have we made you the counselor t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.15|<< 2 Chronicles 25:15]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.17|2 Chronicles 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when was speaking he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1696G\|דַבְּר֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> da.be.R<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 21:2** 
+**Exodus 21:2**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you buy a Hebrew servant, he is to serve you for six years. But in the sevent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.1|<< Exodus 21:1]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.3|Exodus 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will buy  |**<big>&#8207;[[H7069\|תִקְנֶה֙]]&#8207; </big>**| tik.Neh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

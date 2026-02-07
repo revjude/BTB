@@ -1,12 +1,12 @@
-**1 Thessalonians 4:10
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:10**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;
 <small><sub>**BSB:**</sub></small>
 And you are indeed showing this love to all the brothers throughout Macedonia. But we urge you, brothers, to excel more and more
 <small><sub>**Literal:**</sub></small>
 And for you are doing this toward all the brothers the [ones] in all <the> Macedonia. We exhort however you, brothers, to abound more and more<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.9|<< 1 Thessalonians 4:9]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.11|1 Thessalonians 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

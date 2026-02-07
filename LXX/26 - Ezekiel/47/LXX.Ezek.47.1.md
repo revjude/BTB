@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he brought me unto the thresholds of the house; and behold, water went forth from beneath the open \[space\] of the house according to \[the\] east, for the front of the house looked according to \[the\] east. And the water went down from the south of the house of the right upon the south of the altar. 
-<small><sub>**KJV:**</sub></small>
-Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house [stood toward] the east, and the waters came down from under from the right side of the house, at the south [side] of the altar.
-<small><sub>**BSB:**</sub></small>
-Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.24|<< Ezekiel 46:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.2|Ezekiel 47:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 47:1** is...

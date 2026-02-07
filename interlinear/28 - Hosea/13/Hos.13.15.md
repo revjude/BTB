@@ -1,4 +1,4 @@
-**Hosea 13:15** 
+**Hosea 13:15**<big><big>[[Hos.13.15 Judgment on Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he be fruitful among [his] brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although he flourishes among his brothers, an east wind will come—a wind from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

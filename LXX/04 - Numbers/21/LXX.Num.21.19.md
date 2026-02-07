@@ -1,10 +1,7 @@
 **LXX Numbers 21:19** 
 <small><sub>**LXX:**</sub></small>
 And from Mattanah to Nahaliel. And from Nahaliel to Bamoth. And from Bamoth to Janen which is in the plain of Moab, \[seen\] from \[the\] top of the dressing of the stone -- the \[place\] looking down at \[the\] face of the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
-<small><sub>**BSB:**</sub></small>
-and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.18|<< Numbers 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.20|Numbers 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

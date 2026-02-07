@@ -1,4 +1,4 @@
-**Proverbs 20:30** 
+**Proverbs 20:30**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The blueness of a wound cleanseth away evil: so [do] stripes the inward parts of the belly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lashes and wounds scour evil, and beatings cleanse the inmost parts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wounds of  |**<big>&#8207;[[H2250\|חַבֻּר֣וֹת]]&#8207; </big>**| cha.bu.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bruise[s]  |**<big>&#8207;[[H6482\|פֶּ֭צַע]]&#8207; </big>**| Pe.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 7:10** 
+**Esther 7:10**<big><big>[[Esth.7.7 The Hanging of Haman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they hanged Haman on the gallows he had prepared for Mordecai. Then the fury 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.9|<< Esther 7:9]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.1|Esther 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they hanged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8518\|יִּתְלוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

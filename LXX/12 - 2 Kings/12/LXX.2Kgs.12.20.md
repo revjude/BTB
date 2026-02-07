@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And his servants rose up, and they made a conspiracy; and they struck  Joash in \[the\] house of Millo, the \[one\] in the descent to Silla. 
-<small><sub>**KJV:**</sub></small>
-And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla.
-<small><sub>**BSB:**</sub></small>
-And the servants of Joash rose up and formed a conspiracy and killed him at Beth-millo, on the road down to Silla.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.19|<< 2 Kings 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.21|2 Kings 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

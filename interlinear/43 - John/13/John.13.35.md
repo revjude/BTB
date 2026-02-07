@@ -1,12 +1,12 @@
-**John 13:35
-**<small><sub>**KJV:**</sub></small>
+**John 13:35**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By this shall all [men] know that ye are my disciples, if ye have love one to another.
 <small><sub>**BSB:**</sub></small>
 By this everyone will know that you are My disciples, if you love one another.”
 <small><sub>**Literal:**</sub></small>
 By this will know all that to Me disciples you are, if love you shall have among one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.34|<< John 13:34]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.36|John 13:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

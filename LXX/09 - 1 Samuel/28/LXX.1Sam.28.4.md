@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:4** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines gather together, and come, and camp in Shunem. And Saul gathers together every man of Israel, and they camp in Gilboa. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.
-<small><sub>**BSB:**</sub></small>
-The Philistines gathered together and camped at Shunem, while Saul gathered all Israel and camped at Gilboa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.3|<< 1 Samuel 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.5|1 Samuel 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

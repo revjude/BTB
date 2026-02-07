@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 On account of this, say to the house  of Israel! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Shall you defile yourselves in the lawless deeds of your fathers? and do you fornicate after their abominations? 
-<small><sub>**KJV:**</sub></small>
-Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?
-<small><sub>**BSB:**</sub></small>
-Therefore tell the house of Israel that this is what the Lord GOD says: Will you defile yourselves the way your fathers did, prostituting yourselves with their abominations?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.29|<< Ezekiel 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.31|Ezekiel 20:31 >>]]</td></tr></table>
 
 | Translation | Greek |

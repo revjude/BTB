@@ -1,5 +1,5 @@
-**1 Timothy 2:14
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:14**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Adam was not deceived, but the woman being deceived was in the transgression.
 <small><sub>**BSB:**</sub></small>
 And it was not Adam who was deceived, but the woman who was deceived and fell into transgression.
@@ -10,7 +10,7 @@ And Adam not was deceived, <the> but the woman having been deceived into transgr
 > $\quad$ alluding to: [[LXX.Gen.3.6|Gen 3:6]] ☩ [[LXX.Gen.3.12|Gen 3:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Adam |**<big>[[G0076\|Ἀδὰμ]]</big>**  |Adam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Amos 2:16** 
+**Amos 2:16**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he that is] courageous among the mighty shall flee away naked in that day, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the bravest of mighty men will flee naked on that day,” declares the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.15|<< Amos 2:15]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.1|Amos 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] [person] strong  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0533\|אַמִּ֥יץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Mitz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of heart his  |**<big>&#8207;[[H3820A\|לִבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

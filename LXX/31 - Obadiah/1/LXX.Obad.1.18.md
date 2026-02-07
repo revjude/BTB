@@ -1,10 +1,7 @@
 **LXX Obadiah 1:18** 
 <small><sub>**LXX:**</sub></small>
 And the house of Jacob will be fire, and the house of Joseph a flame, but the house of Esau for stubble, and they shall be burnt in them, and they shall devour them; and there will not be a wheat harvest to the house of Esau; for \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be [any] remaining of the house of Esau; for the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-Then the house of Jacob will be a blazing fire, and the house of Joseph a burning flame; but the house of Esau will be stubble—Jacob will set it ablaze and consume it. Therefore no survivor will remain from the house of Esau.” For the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.17|<< Obadiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.19|Obadiah 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:40** 
 <small><sub>**LXX:**</sub></small>
 You will be over  my house, and by  your mouth all my people shall obey. Except for the throne -- I will excel you. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
-<small><sub>**BSB:**</sub></small>
-You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.39|<< Genesis 41:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.41|Genesis 41:41 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 41:40** is...

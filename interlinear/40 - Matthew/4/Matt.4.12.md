@@ -1,12 +1,12 @@
-**Matthew 4:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:12**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when Jesus had heard that John was cast into prison, he departed into Galilee;
 <small><sub>**BSB:**</sub></small>
 When Jesus heard that John had been imprisoned, He withdrew to Galilee.
 <small><sub>**Literal:**</sub></small>
 Having heard now <the> Jesus that John was delivered up  He withdrew into <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.11|<< Matthew 4:11]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.13|Matthew 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

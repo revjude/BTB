@@ -1,10 +1,7 @@
 **LXX Amos 4:11** 
 <small><sub>**LXX:**</sub></small>
 I eradicated you as God eradicated Sodom and Gomorrah, and you became as a firebrand being pulled out from burning; and neither thus you returned to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have overthrown [some] of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Some of you I overthrew as I overthrew Sodom and Gomorrah, and you were like a firebrand snatched from a blaze, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.10|<< Amos 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.12|Amos 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

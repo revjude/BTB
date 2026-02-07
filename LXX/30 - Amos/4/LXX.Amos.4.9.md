@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I struck you with burning fire and with jaundice. You multiplied your gardens. Your vineyards, and your fig groves, and your olive groves -- the caterpillar devoured \[them\]. And neither thus you returned to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured [them]: yet have ye not returned unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“I struck you with blight and mildew in your growing gardens and vineyards; the locust devoured your fig and olive trees, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.8|<< Amos 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.10|Amos 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

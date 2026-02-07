@@ -1,4 +1,4 @@
-**2 Chronicles 15:3** 
+**2 Chronicles 15:3**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now for a long season Israel [hath been] without the true God, and without a teaching priest, and without law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For many years Israel has been without the true God, without a priest to instruc
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.2|<< 2 Chronicles 15:2]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.4|2 Chronicles 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and days  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3117G\|יָמִ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבִּ֖ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

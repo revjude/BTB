@@ -1,12 +1,12 @@
-**Romans 16:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:4**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 who have risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.
 <small><sub>**Literal:**</sub></small>
 who for the life of mine for it their own neck laid down, whom not I myself only thank but also all the churches of the Gentiles —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.3|<< Romans 16:3]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.5|Romans 16:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

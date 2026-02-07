@@ -1,10 +1,10 @@
 (KJV) **Genesis 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1|<< Genesis 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3|Genesis 3 >>]]</td></tr></table>
 
-***The Seventh Day***&emsp;<small><sup>\[ [[Exod.16|Exodus 16:22–30]] <big>†</big> [[Heb.4|Hebrews 4:1–11]] ]</sup></small> ^bsb8
+<big><big>[[Gen.2.1 The Seventh Day|⥃]]</big></big>***The Seventh Day***&emsp;<small><sup>\[ [[Exod.16|Exodus 16:22–30]] <big>†</big> [[Heb.4|Hebrews 4:1–11]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.2.1|1]]**<span class="endversemarker">]</span> Thus<small><small>[^2]</small></small> the heavens and the earth were finished, and all the host<small><small>[^3]</small></small> of them. <span class="startversemarker">[</span>**[[Gen.2.2|2]]**<span class="endversemarker">]</span> And on<small><small>[^4]</small></small> the seventh day God<small><small>[^5]</small></small> ended his work which he had made; and he rested<small><small>[^6]</small></small> on the seventh day from all his work which he had made. <span class="startversemarker">[</span>**[[Gen.2.3|3]]**<span class="endversemarker">]</span> And God blessed<small><small>[^7]</small></small> the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made<small><small>[^8]</small></small>.
 
-***Man and Woman in the Garden*** ^bsb9
+<big><big>[[Gen.2.4 Man and Woman in the Garden|⥃]]</big></big>***Man and Woman in the Garden***
 
  
 

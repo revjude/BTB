@@ -1,4 +1,4 @@
-**Genesis 30:15** 
+**Genesis 30:15**<big><big>[[Gen.30.9 Gad and Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto her, [Is it] a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Leah replied, “Is it not enough that you have taken away my husband? Now y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.14|<< Genesis 30:14]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.16|Genesis 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

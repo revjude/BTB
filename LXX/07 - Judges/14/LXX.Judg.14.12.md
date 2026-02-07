@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samson said to them, I will propound indeed to you  a riddle, and if by reporting you should report it to me in the seven days of the banquet, and you should find \[the solution\], I will give to you thirty \[pieces\] of fine linen, and thirty robes of clothes. 
-<small><sub>**KJV:**</sub></small>
-And Samson said unto them, I will now put forth a riddle unto you: if ye can certainly declare it me within the seven days of the feast, and find [it] out, then I will give you thirty sheets and thirty change of garments:
-<small><sub>**BSB:**</sub></small>
-“Let me tell you a riddle,” Samson said to them. “If you can solve it for me within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.11|<< Judges 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.13|Judges 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

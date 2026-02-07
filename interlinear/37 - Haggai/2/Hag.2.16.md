@@ -1,4 +1,4 @@
-**Haggai 2:16** 
+**Haggai 2:16**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since those [days] were, when [one] came to an heap of twenty [measures], there were [but] ten: when [one] came to the pressfat for to draw out fifty [vessels] out of the press, there were [but] twenty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from that time, when one came expecting a heap of twenty ephahs of grain, there 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.15|<< Haggai 2:15]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.17|Haggai 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from when were they  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H1961\|הְיוֹתָ֥]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> h.yo.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone came  |**<big>&#8207;[[H0935G\|בָּא֙]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

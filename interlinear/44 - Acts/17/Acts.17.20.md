@@ -1,12 +1,12 @@
-**Acts 17:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:20**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For thou bringest certain strange things to our ears: we would know therefore what these things mean.
 <small><sub>**BSB:**</sub></small>
 For you are bringing some strange notions to our ears, and we want to know what they mean.”
 <small><sub>**Literal:**</sub></small>
 Strange things for some you are bringing to the ears of us; We resolve therefore to know what [things] maybe intends these things to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.19|<< Acts 17:19]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.21|Acts 17:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Strange things |**<big>[[G3579\|ξενίζοντα]]</big>**  |xenizonta <small><sup>[[V-PAP-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

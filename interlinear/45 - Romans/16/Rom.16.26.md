@@ -1,12 +1,12 @@
-**Romans 16:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:26**<big><big>[[Rom.16.25 Doxology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 <small><sub>**BSB:**</sub></small>
 but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith—
 <small><sub>**Literal:**</sub></small>
 {14.25} having been made manifest however now through also Scriptures prophetic according to [the] commandment of the Eternal God unto [the] obedience of faith — to all the Gentiles having been made known —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.25|<< Romans 16:25]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.27|Romans 16:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | {14.25} having been made manifest |**<big>[[G5319\|φανερωθέντος]]</big>**  |phanerōthentos <small><sup>[[V-APP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25">NKO</abbr>[^1] | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.25">NKO</abbr>[^2] | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:15** 
 <small><sub>**LXX:**</sub></small>
 But if there be to a man two wives, one of them being loved, and one of them being detested, and they should bear with him, \[both\] the one being loved and the one being detested, and \[the\] first-born son is born of the one being detested, 
-<small><sub>**KJV:**</sub></small>
-If a man have two wives, one beloved, and another hated, and they have born him children, [both] the beloved and the hated; and [if] the firstborn son be hers that was hated:
-<small><sub>**BSB:**</sub></small>
-If a man has two wives, one beloved and the other unloved, and both bear him sons, but the unloved wife has the firstborn son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.14|<< Deuteronomy 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.16|Deuteronomy 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

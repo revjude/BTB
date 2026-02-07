@@ -1,10 +1,7 @@
 **LXX Job 22:18** 
 <small><sub>**LXX:**</sub></small>
 And \[he is the one\] who filled up  their houses with good \[things\]; but \[the\] counsel of \[the\] impious is at a distance from him. 
-<small><sub>**KJV:**</sub></small>
-Yet he filled their houses with good [things]: but the counsel of the wicked is far from me.
-<small><sub>**BSB:**</sub></small>
-But it was He who filled their houses with good things; so I stay far from the counsel of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.17|<< Job 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.19|Job 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

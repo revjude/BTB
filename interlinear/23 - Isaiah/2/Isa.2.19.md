@@ -1,4 +1,4 @@
-**Isaiah 2:19** 
+**Isaiah 2:19**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Men will flee to caves in the rocks and holes in the ground, away from the terro
 > $\quad$ referenced by: [[2Thess.1.9|2Thess 1:9]] ☩ [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will go  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֙אוּ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in caves of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4631\|מְעָר֣וֹת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

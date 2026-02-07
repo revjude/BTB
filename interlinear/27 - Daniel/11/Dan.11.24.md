@@ -1,4 +1,4 @@
-**Daniel 11:24** 
+**Daniel 11:24**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter peaceably even upon the fattest places of the province; and he shall do [that] which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: [yea], and he shall forecast his devices against the strong holds, even for a time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In a time of peace, he will invade the richest provinces and do what his fathers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.23|<< Daniel 11:23]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.25|Daniel 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in quietness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7962\|שַׁלְוָ֞ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shal.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and in [the] fertile places of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4924B\|מִשְׁמַנֵּ֣י]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> v.<small><sup>[[HR]]</sup></small> mish.ma.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

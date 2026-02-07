@@ -1,10 +1,7 @@
 **LXX Leviticus 26:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall pursue  your enemies, and they shall fall before you in carnage. 
-<small><sub>**KJV:**</sub></small>
-And ye shall chase your enemies, and they shall fall before you by the sword.
-<small><sub>**BSB:**</sub></small>
-You will pursue your enemies, and they will fall by the sword before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.6|<< Leviticus 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.8|Leviticus 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 14:17** 
+**Isaiah 14:17**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] made the world as a wilderness, and destroyed the cities thereof; [that] opened not the house of his prisoners?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who turned the world into a desert and destroyed its cities, who refused to let 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.16|<< Isaiah 14:16]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.18|Isaiah 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] made  |**<big>&#8207;[[H7760A\|שָׂ֥ם]]&#8207; </big>**| sam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] world  |**<big>&#8207;[[H8398\|תֵּבֵ֛ל]]&#8207; </big>**| te.Vel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

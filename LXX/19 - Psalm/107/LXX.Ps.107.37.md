@@ -1,10 +1,7 @@
 **LXX Psalm 107:37** 
 <small><sub>**LXX:**</sub></small>
 And they sow fields, and plant vineyards, and they make fruit of produce. 
-<small><sub>**KJV:**</sub></small>
-And sow the fields, and plant vineyards, which may yield fruits of increase.
-<small><sub>**BSB:**</sub></small>
-They sow fields and plant vineyards that yield a fruitful harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.36|<< Psalm 107:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.38|Psalm 107:38 >>]]</td></tr></table>
 
 | Translation | Greek |

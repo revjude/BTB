@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:16** 
 <small><sub>**LXX:**</sub></small>
 But if he should say to you, I shall not go forth from you, for he loves you, and  your house, for it is good to him \[to be\] by you; 
-<small><sub>**KJV:**</sub></small>
-And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;
-<small><sub>**BSB:**</sub></small>
-But if your servant says to you, ‘I do not want to leave you,’ because he loves you and your household and is well off with you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.15|<< Deuteronomy 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.17|Deuteronomy 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

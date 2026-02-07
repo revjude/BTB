@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:20** 
 <small><sub>**LXX:**</sub></small>
 And now, every desire  of the soul of the king, let him go down into \[the\] descent to us! They are being uncovered into the hands of the king. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, O king, come down according to all the desire of thy soul to come down; and our part [shall be] to deliver him into the king’s hand.
-<small><sub>**BSB:**</sub></small>
-Now, O king, come down whenever your soul desires, and we will be responsible for delivering him into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.19|<< 1 Samuel 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.21|1 Samuel 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

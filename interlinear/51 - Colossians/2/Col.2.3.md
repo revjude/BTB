@@ -1,12 +1,12 @@
-**Colossians 2:3
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:3**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom are hid all the treasures of wisdom and knowledge.
 <small><sub>**BSB:**</sub></small>
 in whom are hidden all the treasures of wisdom and knowledge.
 <small><sub>**Literal:**</sub></small>
 in whom are all the treasures <the> of wisdom and <the> of knowledge hidden;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.2|<< Colossians 2:2]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.4|Colossians 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

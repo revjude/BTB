@@ -1,10 +1,7 @@
 **LXX Exodus 30:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall put it before the veil  being for the ark of the testimony, in which I shall be made known to you there. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put it before the vail that [is] by the ark of the testimony, before the mercy seat that [is] over the testimony, where I will meet with thee.
-<small><sub>**BSB:**</sub></small>
-Place the altar in front of the veil that is before the ark of the Testimony—before the mercy seat that is over the Testimony—where I will meet with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.5|<< Exodus 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.7|Exodus 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

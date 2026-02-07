@@ -1,12 +1,12 @@
-**Luke 22:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:21**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But, behold, the hand of him that betrayeth me [is] with me on the table.
 <small><sub>**BSB:**</sub></small>
 Look! The hand of My betrayer is with Mine on the table.
 <small><sub>**Literal:**</sub></small>
 But behold the hand of the [one] betraying Me [is] with Me on the table.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.20|<< Luke 22:20]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.22|Luke 22:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

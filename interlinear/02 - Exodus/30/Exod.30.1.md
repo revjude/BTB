@@ -1,4 +1,4 @@
-**Exodus 30:1** 
+**Exodus 30:1**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make an altar to burn incense upon: [of] shittim wood shalt thou make it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And thou shalt make an altar to burn incense upon: [of] shittim wood shalt thou 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.46|<< Exodus 29:46]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.2|Exodus 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an altar  |**<big>&#8207;[[H4196\|מִזְבֵּ֖חַ]]&#8207; </big>**| miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

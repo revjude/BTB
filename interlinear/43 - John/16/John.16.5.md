@@ -1,12 +1,12 @@
-**John 16:5
-**<small><sub>**KJV:**</sub></small>
+**John 16:5**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?
 <small><sub>**BSB:**</sub></small>
 Now, however, I am going to Him who sent Me; yet none of you asks Me, ‘Where are You going?’
 <small><sub>**Literal:**</sub></small>
 Now however I go to the [One] having sent Me, and none of you asks Me; Where are You going?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.4|<< John 16:4]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.6|John 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

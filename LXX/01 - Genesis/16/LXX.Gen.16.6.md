@@ -1,10 +1,7 @@
 **LXX Genesis 16:6** 
 <small><sub>**LXX:**</sub></small>
 And Abram said to Sarai, Behold,  your maidservant \[is\] in  your hands, treat her however might be pleasing to you. And Sarai maltreated her, and she ran away from her face. 
-<small><sub>**KJV:**</sub></small>
-But Abram said unto Sarai, Behold, thy maid [is] in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.
-<small><sub>**BSB:**</sub></small>
-“Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.5|<< Genesis 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.7|Genesis 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

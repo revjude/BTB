@@ -1,10 +1,7 @@
 **LXX Psalm 73:23** 
 <small><sub>**LXX:**</sub></small>
 But I \[was\] always with you; you held  my \[right\] hand, 
-<small><sub>**KJV:**</sub></small>
-Nevertheless I [am] continually with thee: thou hast holden [me] by my right hand.
-<small><sub>**BSB:**</sub></small>
-Yet I am always with You; You hold my right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.22|<< Psalm 73:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.24|Psalm 73:24 >>]]</td></tr></table>
 
 | Translation | Greek |

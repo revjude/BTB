@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:3** 
 <small><sub>**LXX:**</sub></small>
 And their father gave to them many gifts -- silver, and gold, and shields, with  cities being walled in Judah. But the kingdom he gave  to Jehoram, for he \[was\] the first-born. 
-<small><sub>**KJV:**</sub></small>
-And their father gave them great gifts of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram; because he [was] the firstborn.
-<small><sub>**BSB:**</sub></small>
-Their father had given them many gifts of silver and gold and precious things, as well as the fortified cities in Judah; but he gave the kingdom to Jehoram because he was the firstborn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.2|<< 2 Chronicles 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.4|2 Chronicles 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

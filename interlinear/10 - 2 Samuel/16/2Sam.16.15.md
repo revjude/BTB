@@ -1,4 +1,4 @@
-**2 Samuel 16:15** 
+**2 Samuel 16:15**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.14|<< 2 Samuel 16:14]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.16|2 Samuel 16:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Absalom  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֗וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

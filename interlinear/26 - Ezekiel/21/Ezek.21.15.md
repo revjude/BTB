@@ -1,4 +1,4 @@
-**Ezekiel 21:15** (21:20)
+**Ezekiel 21:15**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set the point of the sword against all their gates, that [their] heart may faint, and [their] ruins be multiplied: ah! [it is] made bright, [it is] wrapped up for the slaughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So that their hearts may melt and many may stumble, I have appointed at all thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.14|<< Ezekiel 21:14]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.16|Ezekiel 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to melt  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4127\|מ֣וּג]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mug<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

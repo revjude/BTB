@@ -1,4 +1,4 @@
-**Psalms 5:2** (5:3)
+**Psalms 5:2**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Attend to the sound of my cry, my King and my God, for to You I pray.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.1|<< Psalms 5:1]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.3|Psalms 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pay attention !  |**<big>&#8207;[[H7181\|הַקְשִׁ֤יבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hak.Shi.va<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] sound of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963H\|ק֬וֹל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

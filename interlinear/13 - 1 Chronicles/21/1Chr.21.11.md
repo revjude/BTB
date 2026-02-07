@@ -1,4 +1,4 @@
-**1 Chronicles 21:11** 
+**1 Chronicles 21:11**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gad came to David, and said unto him, Thus saith the LORD, Choose thee
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gad went and said to David, “This is what the LORD says: ‘You must choose
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.10|<< 1 Chronicles 21:10]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.12|1 Chronicles 21:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּ֥בֹא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gad  |**<big>&#8207;[[H1410H\|גָ֖ד]]&#8207; </big>**| gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

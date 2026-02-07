@@ -1,10 +1,7 @@
 **LXX Amos 1:4** 
 <small><sub>**LXX:**</sub></small>
 And I will send a fire unto the house of Hazael, and it shall devour the foundations of \[the\] son of Hadad. 
-<small><sub>**KJV:**</sub></small>
-But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.
-<small><sub>**BSB:**</sub></small>
-So I will send fire upon the house of Hazael to consume the citadels of Ben-hadad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.3|<< Amos 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.5|Amos 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

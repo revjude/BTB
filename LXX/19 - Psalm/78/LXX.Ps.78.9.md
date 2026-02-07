@@ -1,10 +1,7 @@
 **LXX Psalm 78:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Ephraim stretching tight and shooting with bows, turned \[back\] in \[the\] day of battle. 
-<small><sub>**KJV:**</sub></small>
-The children of Ephraim, [being] armed, [and] carrying bows, turned back in the day of battle.
-<small><sub>**BSB:**</sub></small>
-The archers of Ephraim turned back on the day of battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.8|<< Psalm 78:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.10|Psalm 78:10 >>]]</td></tr></table>
 
 | Translation | Greek |

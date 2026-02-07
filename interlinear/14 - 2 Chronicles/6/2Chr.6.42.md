@@ -1,4 +1,4 @@
-**2 Chronicles 6:42** 
+**2 Chronicles 6:42**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O LORD God, do not reject Your anointed one. Remember Your loving devotion to Yo
 > $\quad$ referencing: [[Ps.132.10|Ps 132:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

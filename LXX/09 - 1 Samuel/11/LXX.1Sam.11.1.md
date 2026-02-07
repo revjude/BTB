@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Nahash the Ammonite ascended, and camped against Jabish Gilead. And all the men of Jabish said to Nahash the Ammonite, Ordain with us a covenant! and we will serve you. 
-<small><sub>**KJV:**</sub></small>
-Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
-<small><sub>**BSB:**</sub></small>
-Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.27|<< 1 Samuel 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.2|1 Samuel 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

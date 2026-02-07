@@ -1,4 +1,4 @@
-**Psalms 75:5** (75:6)
+**Psalms 75:5**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift not up your horn on high: speak [not with] a stiff neck.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not lift up your horn against heaven or speak with an outstretched neck.’�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.4|<< Psalms 75:4]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.6|Psalms 75:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you lift up  |**<big>&#8207;[[H7311A\|תָּרִ֣ימוּ]]&#8207; </big>**| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

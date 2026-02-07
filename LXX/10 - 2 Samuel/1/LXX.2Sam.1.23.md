@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:23** 
 <small><sub>**LXX:**</sub></small>
 Saul and Jonathan, the ones being loved, and beautiful ones; not parted in  their life, and in  their death they were not parted. Nimble above eagles, and strong above lions. 
-<small><sub>**KJV:**</sub></small>
-Saul and Jonathan [were] lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.
-<small><sub>**BSB:**</sub></small>
-Saul and Jonathan, beloved and delightful in life, were not divided in death. They were swifter than eagles; they were stronger than lions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.22|<< 2 Samuel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.24|2 Samuel 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

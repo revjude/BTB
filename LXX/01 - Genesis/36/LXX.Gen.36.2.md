@@ -1,10 +1,7 @@
 **LXX Genesis 36:2** 
 <small><sub>**LXX:**</sub></small>
 And Esau took wives to himself from the daughters of the Canaanites --  Adah, daughter of Elon the Hittite; and  Aholibamah, daughter of Anah the son of Zibeon the Hivite; 
-<small><sub>**KJV:**</sub></small>
-Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
-<small><sub>**BSB:**</sub></small>
-Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.1|<< Genesis 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.3|Genesis 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

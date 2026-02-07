@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Appoint to yourselves wise men, and having knowledge, and discerning among  your tribes! And I will ordain them over you \[as\] your leaders. 
-<small><sub>**KJV:**</sub></small>
-Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
-<small><sub>**BSB:**</sub></small>
-Choose for yourselves wise, understanding, and respected men from each of your tribes, and I will appoint them as your leaders.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.12|<< Deuteronomy 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.14|Deuteronomy 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

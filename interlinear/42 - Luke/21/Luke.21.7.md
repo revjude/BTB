@@ -1,12 +1,12 @@
-**Luke 21:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:7**<big><big>[[Luke.21.5 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they asked him, saying, Master, but when shall these things be? and what sign [will there be] when these things shall come to pass?
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they asked, “when will these things happen? And what will be the sign that they are about to take place?”
 <small><sub>**Literal:**</sub></small>
 They asked then Him saying; Teacher, when then these things will be and what [will be] the sign when may soon be these things to take place?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.6|<< Luke 21:6]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.8|Luke 21:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They asked |**<big>[[G1905\|Ἐπηρώτησαν]]</big>**  |Epērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

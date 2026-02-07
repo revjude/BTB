@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:6** 
 <small><sub>**LXX:**</sub></small>
 And Hushai entered to Absalom. And Absalom said to him, saying, According to  this thing Ahithophel spoke. Shall we do according to  his word? But if not you speak! 
-<small><sub>**KJV:**</sub></small>
-And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do [after] his saying? if not; speak thou.
-<small><sub>**BSB:**</sub></small>
-So Hushai came to Absalom, who told him, “Ahithophel has spoken this proposal. Should we carry it out? If not, what do you say?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.5|<< 2 Samuel 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.7|2 Samuel 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

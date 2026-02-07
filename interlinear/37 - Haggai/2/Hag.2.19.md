@@ -1,4 +1,4 @@
-**Haggai 2:19** 
+**Haggai 2:19**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless [you].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there still seed in the barn? The vine, the fig, the pomegranate, and the oli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ still  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5750\|ע֤וֹד]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the seed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2233G\|זֶּ֙רַע֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

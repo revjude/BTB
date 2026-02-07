@@ -1,10 +1,7 @@
 **LXX Numbers 23:27** 
 <small><sub>**LXX:**</sub></small>
 And Balak said to Balaam, Come, I should take you unto another place, if it should please  God, and curse him for me from there! 
-<small><sub>**KJV:**</sub></small>
-And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.
-<small><sub>**BSB:**</sub></small>
-“Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.28|Numbers 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 12:37** (12:38)
+**1 Chronicles 12:37**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.36|<< 1 Chronicles 12:36]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.38|1 Chronicles 12:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] other side  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5676H\|עֵ֣בֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the Jordan  |**<big>&#8207;[[H9005\|לַ֠]]&#8207;&#8207;[[H3383\|יַּרְדֵּן]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> i.yar.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

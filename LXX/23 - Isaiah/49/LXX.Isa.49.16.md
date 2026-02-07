@@ -1,10 +1,7 @@
 **LXX Isaiah 49:16** 
 <small><sub>**LXX:**</sub></small>
 Behold, upon  my hands I portrayed your  walls; and you are always before me. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have graven thee upon the palms of [my] hands; thy walls [are] continually before me.
-<small><sub>**BSB:**</sub></small>
-Behold, I have inscribed you on the palms of My hands; your walls are ever before Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.15|<< Isaiah 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.17|Isaiah 49:17 >>]]</td></tr></table>
 
 | Translation | Greek |

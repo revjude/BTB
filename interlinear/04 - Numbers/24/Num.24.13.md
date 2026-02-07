@@ -1,4 +1,4 @@
-**Numbers 24:13** 
+**Numbers 24:13**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do [either] good or bad of mine own mind; [but] what the LORD saith, that will I speak?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that even if Balak were to give me his house full of silver and gold, I could no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.12|<< Numbers 24:12]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.14|Numbers 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will give  |**<big>&#8207;[[H5414G\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.ten-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

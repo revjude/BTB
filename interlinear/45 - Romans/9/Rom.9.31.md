@@ -1,12 +1,12 @@
-**Romans 9:31
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:31**<big><big>[[Rom.9.30 Israel’s Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.
 <small><sub>**BSB:**</sub></small>
 but Israel, who pursued a law of righteousness, has not attained it.
 <small><sub>**Literal:**</sub></small>
 Israel however pursuing a law of righteousness to [that] law righteousness not did attain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.30|<< Romans 9:30]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.32|Romans 9:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Israel |**<big>[[G2474\|Ἰσραὴλ]]</big>**  |Israēl <small><sup>[[N-NSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

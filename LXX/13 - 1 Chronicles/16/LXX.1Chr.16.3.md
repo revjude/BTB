@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:3** 
 <small><sub>**LXX:**</sub></small>
 And he divided unto every man of Israel, from man  unto woman, \[to every\] man one bread loaf of a baker, and honey-bread. 
-<small><sub>**KJV:**</sub></small>
-And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon [of wine].
-<small><sub>**BSB:**</sub></small>
-Then he distributed to every man and woman of Israel a loaf of bread, a date cake, and a raisin cake.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.2|<< 1 Chronicles 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.4|1 Chronicles 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

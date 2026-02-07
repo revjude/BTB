@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses stripped off  Aaron  his garments, and he put them \[on\] Eleazar  his son. And Aaron died upon the top of the mountain. And Moses and Eleazar came down from the mountain. 
-<small><sub>**KJV:**</sub></small>
-And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount.
-<small><sub>**BSB:**</sub></small>
-After Moses had removed Aaron’s garments and put them on his son Eleazar, Aaron died there on top of the mountain. Then Moses and Eleazar came down from the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.27|<< Numbers 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.29|Numbers 20:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 62:4** (62:5)
+**Psalms 62:4**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They only consult to cast [him] down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They fully intend to cast him down from his lofty perch; they delight in lies; w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.3|<< Psalms 62:3]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.5|Psalms 62:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֤ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from loftiness his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7613\|שְּׂאֵת֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> se.'e.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

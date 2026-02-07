@@ -1,4 +1,4 @@
-**Deuteronomy 18:8** 
+**Deuteronomy 18:8**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall have like portions to eat, beside that which cometh of the sale of his patrimony.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall eat equal portions, even though he has received money from the sale o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.7|<< Deuteronomy 18:7]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.9|Deuteronomy 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a portion  |**<big>&#8207;[[H2506A\|חֵ֥לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a portion  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H2506A\|חֵ֖לֶק]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Che.lek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

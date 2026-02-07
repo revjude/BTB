@@ -1,10 +1,7 @@
 **LXX Genesis 24:57** 
 <small><sub>**LXX:**</sub></small>
 And they said, We should call the maidservant, and we should ask by her mouth. 
-<small><sub>**KJV:**</sub></small>
-And they said, We will call the damsel, and inquire at her mouth.
-<small><sub>**BSB:**</sub></small>
-So they said, “We will call the girl and ask her opinion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.56|<< Genesis 24:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.58|Genesis 24:58 >>]]</td></tr></table>
 
 | Translation | Greek |

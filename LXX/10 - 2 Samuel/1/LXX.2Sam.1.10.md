@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:10** 
 <small><sub>**LXX:**</sub></small>
 And I stood over him, and put him to death, for I knew that he would not live after  he fell. And I took the crown, the one upon  his head, and the armlet, the one upon  his arm, and I brought them \[to\] my master here. 
-<small><sub>**KJV:**</sub></small>
-So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that [was] upon his head, and the bracelet that [was] on his arm, and have brought them hither unto my lord.
-<small><sub>**BSB:**</sub></small>
-So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band that was on his arm, and I have brought them here to my lord.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.9|<< 2 Samuel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.11|2 Samuel 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

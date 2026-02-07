@@ -1,4 +1,4 @@
-**Psalms 119:29** 
+**Psalms 119:29**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove from me the way of lying: and grant me thy law graciously.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remove me from the path of deceit and graciously grant me Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.28|<< Psalms 119:28]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.30|Psalms 119:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a way of  |**<big>&#8207;[[H1870G\|דֶּֽרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.re.kho.She-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falsehood  |**<big>&#8207;[[H8267\|שֶׁ֭קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

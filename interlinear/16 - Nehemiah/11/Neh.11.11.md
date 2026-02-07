@@ -1,4 +1,4 @@
-**Nehemiah 11:11** 
+**Nehemiah 11:11**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, [was] the ruler of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seraiah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Merai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.10|<< Nehemiah 11:10]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.12|Nehemiah 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Seraiah  |**<big>&#8207;[[H8304H\|שְׂרָיָ֨ה]]&#8207; </big>**| se.ra.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

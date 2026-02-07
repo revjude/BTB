@@ -1,10 +1,7 @@
 **LXX Numbers 29:17** 
 <small><sub>**LXX:**</sub></small>
 And the second day -- twelve calves of oxen, two rams, four and ten unblemished lambs of a year \[old\], 
-<small><sub>**KJV:**</sub></small>
-And on the second day [ye shall offer] twelve young bullocks, two rams, fourteen lambs of the first year without spot:
-<small><sub>**BSB:**</sub></small>
-On the second day you are to present twelve young bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.16|<< Numbers 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.18|Numbers 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

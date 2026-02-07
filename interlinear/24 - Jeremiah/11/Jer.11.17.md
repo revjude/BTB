@@ -1,4 +1,4 @@
-**Jeremiah 11:17** 
+**Jeremiah 11:17**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD of hosts, that planted thee, hath pronounced evil against thee, for the evil of the house of Israel and of the house of Judah, which they have done against themselves to provoke me to anger in offering incense unto Baal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD of Hosts, who planted you, has decreed disaster against you on account 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.16|<< Jeremiah 11:16]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.18|Jeremiah 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֙]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

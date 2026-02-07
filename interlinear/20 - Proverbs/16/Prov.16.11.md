@@ -1,4 +1,4 @@
-**Proverbs 16:11** 
+**Proverbs 16:11**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A just weight and balance [are] the LORD’S: all the weights of the bag [are] his work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Honest scales and balances are from the LORD; all the weights in the bag are His
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.10|<< Proverbs 16:10]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.12|Proverbs 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a balance  |**<big>&#8207;[[H6425\|פֶּ֤לֶס]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Pe.les<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and scales of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3976\|מֹאזְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> moz.Nei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

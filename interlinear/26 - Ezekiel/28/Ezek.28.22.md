@@ -1,4 +1,4 @@
-**Ezekiel 28:22** 
+**Ezekiel 28:22**<big><big>[[Ezek.28.20 A Prophecy against Sidon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the Lord GOD; Behold, I [am] against thee, O Zidon; and I will be glorified in the midst of thee: and they shall know that I [am] the LORD, when I shall have executed judgments in her, and shall be sanctified in her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to declare that this is what the Lord GOD says: ‘Behold, I am agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.21|<< Ezekiel 28:21]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.23|Ezekiel 28:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

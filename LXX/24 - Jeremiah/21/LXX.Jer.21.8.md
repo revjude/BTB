@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to this people, Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I put before your face the way  of life, and the way  of death. 
-<small><sub>**KJV:**</sub></small>
-And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.
-<small><sub>**BSB:**</sub></small>
-Furthermore, you are to tell this people that this is what the LORD says: ‘Behold, I set before you the way of life and the way of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.7|<< Jeremiah 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.9|Jeremiah 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

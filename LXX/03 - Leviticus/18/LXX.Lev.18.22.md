@@ -1,10 +1,7 @@
 **LXX Leviticus 18:22** 
 <small><sub>**LXX:**</sub></small>
 And with a man you shall not go to bed in a marriage-bed in \[the\] feminine \[way\]; for it is an abomination. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not lie with mankind, as with womankind: it [is] abomination.
-<small><sub>**BSB:**</sub></small>
-You must not lie with a man as with a woman; that is an abomination.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.21|<< Leviticus 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.23|Leviticus 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

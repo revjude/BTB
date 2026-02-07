@@ -1,12 +1,12 @@
-**Mark 9:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:38**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.
 <small><sub>**BSB:**</sub></small>
 John said to Him, “Teacher, we saw someone else driving out demons in Your name, and we tried to stop him, because he does not accompany us.”
 <small><sub>**Literal:**</sub></small>
 was speaking now to Him <the> John; saying Teacher, we saw someone in the name of You casting out demons who not follows to us and we were forbidding him because not he was following us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.37|<< Mark 9:37]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.39|Mark 9:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was speaking [^1] |**<big>[[G5346\|Ἔφη]]</big>**  |Ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |

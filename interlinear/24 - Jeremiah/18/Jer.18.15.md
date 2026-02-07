@@ -1,4 +1,4 @@
-**Jeremiah 18:15** 
+**Jeremiah 18:15**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways [from] the ancient paths, to walk in paths, [in] a way not cast up;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet My people have forgotten Me. They burn incense to worthless idols that make 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.14|<< Jeremiah 18:14]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.16|Jeremiah 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have forgotten me  |**<big>&#8207;[[H7911\|שְׁכֵחֻ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| she.khe.Chu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:25** 
 <small><sub>**LXX:**</sub></small>
 On account of this say to them! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; \[Since\] you chew upon \[food with\] blood, and  lift your eyes unto  your abominations, and you pour out blood -- then shall you inherit the land? 
-<small><sub>**KJV:**</sub></small>
-Wherefore say unto them, Thus saith the Lord GOD; Ye eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall ye possess the land?
-<small><sub>**BSB:**</sub></small>
-Therefore tell them that this is what the Lord GOD says: ‘You eat meat with the blood in it, lift up your eyes to your idols, and shed blood. Should you then possess the land?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.24|<< Ezekiel 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.26|Ezekiel 33:26 >>]]</td></tr></table>
 
 | Translation | Greek |

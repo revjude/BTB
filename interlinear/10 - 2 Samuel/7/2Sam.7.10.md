@@ -1,4 +1,4 @@
-**2 Samuel 7:10** 
+**2 Samuel 7:10**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will provide a place for My people Israel and will plant them so that they
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.9|<< 2 Samuel 7:9]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.11|2 Samuel 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will appoint  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760L\|שַׂמְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a place  |**<big>&#8207;[[H4725\|מָ֠קוֹם]]&#8207; </big>**| Ma.kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

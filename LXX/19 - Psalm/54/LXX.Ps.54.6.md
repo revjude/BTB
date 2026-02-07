@@ -1,10 +1,7 @@
 **LXX Psalm 54:6** 
 <small><sub>**LXX:**</sub></small>
 Voluntarily I will sacrifice to you; I will make acknowledgment \[to\] your name, O <span class="smallcaps">lord</span>, for good. 
-<small><sub>**KJV:**</sub></small>
-I will freely sacrifice unto thee: I will praise thy name, O LORD; for [it is] good.
-<small><sub>**BSB:**</sub></small>
-Freely I will sacrifice to You; I will praise Your name, O LORD, for it is good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.54.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.54.5|<< Psalm 54:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.54.7|Psalm 54:7 >>]]</td></tr></table>
 
 | Translation | Greek |

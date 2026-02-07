@@ -1,12 +1,12 @@
-**Matthew 13:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:5**<big><big>[[Matt.13.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:
 <small><sub>**BSB:**</sub></small>
 Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.
 <small><sub>**Literal:**</sub></small>
 Other now fell upon the rocky places where not it was having soil much, and immediately it sprang up through <the> not having depth of soil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.4|<< Matthew 13:4]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.6|Matthew 13:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Other |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

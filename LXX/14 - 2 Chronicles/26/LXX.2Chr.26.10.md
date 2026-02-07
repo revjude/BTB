@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:10** 
 <small><sub>**LXX:**</sub></small>
 And he built towers in the wilderness, and quarried many wells; for much cattle existed to him in Sephela and in the plain -- farmers and vine dressers in the mountains and in  Carmel; for he was fond of husbandry. 
-<small><sub>**KJV:**</sub></small>
-Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen [also], and vine dressers in the mountains, and in Carmel: for he loved husbandry.
-<small><sub>**BSB:**</sub></small>
-Since he had much livestock in the foothills and in the plain, he built towers in the desert and dug many cisterns. And since he was a lover of the soil, he had farmers and vinedressers in the hill country and in the fertile fields.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.9|<< 2 Chronicles 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.11|2 Chronicles 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

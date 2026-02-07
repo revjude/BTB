@@ -1,4 +1,4 @@
-**Exodus 16:7** 
+**Exodus 16:7**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what [are] we, that ye murmur against us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and in the morning you will see the LORD’s glory, because He has heard your gr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.6|<< Exodus 16:6]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.8|Exodus 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and morning  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1242\|בֹ֗קֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will see  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתֶם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

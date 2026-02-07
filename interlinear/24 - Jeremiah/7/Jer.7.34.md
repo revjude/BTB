@@ -1,4 +1,4 @@
-**Jeremiah 7:34** 
+**Jeremiah 7:34**<big><big>[[Jer.7.30 The Valley of Slaughter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will remove from the cities of Judah and the streets of Jerusalem the sounds o
 > $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cause to cease  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|הִשְׁבַּתִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] cities of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5892B\|עָרֵ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

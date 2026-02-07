@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:15** 
 <small><sub>**LXX:**</sub></small>
 And the hand  of God was upon them, to completely consume them from out of \[the\] midst of the camp, until they perished. 
-<small><sub>**KJV:**</sub></small>
-For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.
-<small><sub>**BSB:**</sub></small>
-Indeed, the LORD’s hand was against them, to eliminate them from the camp, until they had all perished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.14|<< Deuteronomy 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.16|Deuteronomy 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 1:2
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:2**<big><big>[[Col.1.1 Greetings from Paul and Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 To the saints and faithful brothers in Christ at Colossae: Grace and peace to you from God our Father.
 <small><sub>**Literal:**</sub></small>
 To those in Colossae saints and faithful brothers in Christ: Grace to you and peace from God [the] Father of us and Lord Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.1|<< Colossians 1:1]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.3|Colossians 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

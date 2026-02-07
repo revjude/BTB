@@ -1,12 +1,12 @@
-**1 Corinthians 9:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:12**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If others be partakers of [this] power over you, [are] not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 If others have this right to your support, shouldn’t we have it all the more? But we did not exercise this right. Instead, we put up with anything rather than hinder the gospel of Christ.
 <small><sub>**Literal:**</sub></small>
 If others of the over you authority partake, surely more we ourselves? But not we did use <the> right this, Instead all things we bear so that not any hindrance we may place to the gospel <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.11|<< 1 Corinthians 9:11]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.13|1 Corinthians 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | others |**<big>[[G0243\|ἄλλοι]]</big>**  |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

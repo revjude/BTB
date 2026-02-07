@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:3** 
 <small><sub>**LXX:**</sub></small>
 And I shall return all the people to you, in which manner a bride returns to  her husband. Besides you seek \[the\] life of one man, and all the people will be at peace. 
-<small><sub>**KJV:**</sub></small>
-And I will bring back all the people unto thee: the man whom thou seekest [is] as if all returned: [so] all the people shall be in peace.
-<small><sub>**BSB:**</sub></small>
-and bring all the people back to you as a bride returning to her husband. You seek the life of only one man; then all the people will be at peace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.2|<< 2 Samuel 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.4|2 Samuel 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

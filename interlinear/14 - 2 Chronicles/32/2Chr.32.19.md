@@ -1,4 +1,4 @@
-**2 Chronicles 32:19** 
+**2 Chronicles 32:19**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake against the God of Jerusalem, as against the gods of the people of the earth, [which were] the work of the hands of man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They spoke against the God of Jerusalem as they had spoken against the gods of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.18|<< 2 Chronicles 32:18]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.20|2 Chronicles 32:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1696G\|יְדַבְּר֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

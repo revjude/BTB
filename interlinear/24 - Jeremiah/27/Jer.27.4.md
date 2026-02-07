@@ -1,4 +1,4 @@
-**Jeremiah 27:4** 
+**Jeremiah 27:4**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give them a message from the LORD of Hosts, the God of Israel, to relay to their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.3|<< Jeremiah 27:3]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.5|Jeremiah 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will command  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוִּיתָ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.vi.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

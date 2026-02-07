@@ -1,12 +1,12 @@
-**Philippians 1:17
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:17**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the other of love, knowing that I am set for the defence of the gospel.
 <small><sub>**BSB:**</sub></small>
 The former, however, preach Christ out of selfish ambition, not sincerely, supposing that they can add to the distress of my chains.
 <small><sub>**Literal:**</sub></small>
 [16] the [ones] however out of selfish ambition <the> Christ are proclaiming not purely supposing tribulation to add to the chains of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.16|<< Philippians 1:16]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.18|Philippians 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [16] the [ones] |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

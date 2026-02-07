@@ -1,10 +1,7 @@
 **LXX Proverbs 27:27** 
 <small><sub>**LXX:**</sub></small>
 O son, you have strong sayings from me for  your life, and for the life of your attendants. 
-<small><sub>**KJV:**</sub></small>
-And [thou shalt have] goats’ milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens.
-<small><sub>**BSB:**</sub></small>
-You will have plenty of goats’ milk to feed you—food for your household and nourishment for your maidservants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.26|<< Proverbs 27:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.1|Proverbs 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

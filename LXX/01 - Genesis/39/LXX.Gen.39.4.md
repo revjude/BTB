@@ -1,10 +1,7 @@
 **LXX Genesis 39:4** 
 <small><sub>**LXX:**</sub></small>
 And Joseph found favor before  his master. And he was well-pleasing to him, and he placed him over  his house; and all as much as was his he gave through \[the\] hand of Joseph. 
-<small><sub>**KJV:**</sub></small>
-And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all [that] he had he put into his hand.
-<small><sub>**BSB:**</sub></small>
-Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.3|<< Genesis 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.5|Genesis 39:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:8** 
 <small><sub>**LXX:**</sub></small>
 And they made \[the\] oracle -- a woven work \[in\] embroidery, according to the work of the shoulder-piece; of gold, and blue, and purple, and scarlet being spun, and linen being twined. 
-<small><sub>**KJV:**</sub></small>
-And he made the breastplate [of] cunning work, like the work of the ephod; [of] gold, blue, and purple, and scarlet, and fine twined linen.
-<small><sub>**BSB:**</sub></small>
-He made the breastpiece with the same workmanship as the ephod, with gold, with blue, purple, and scarlet yarn, and with finely spun linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.7|<< Exodus 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.9|Exodus 39:9 >>]]</td></tr></table>
 
 | Translation | Greek |

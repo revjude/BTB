@@ -1,12 +1,12 @@
-**Matthew 2:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:20**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life.
 <small><sub>**BSB:**</sub></small>
 “Get up!” he said. “Take the Child and His mother and go to the land of Israel, for those seeking the Child’s life are now dead.”
 <small><sub>**Literal:**</sub></small>
 saying; Having arisen do take the Child and the mother of Him and do go into [the] land of Israel; they have died for those seeking the life of the Child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.19|<< Matthew 2:19]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.21|Matthew 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Having arisen |**<big>[[G1453\|ἐγερθεὶς]]</big>**  |egertheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

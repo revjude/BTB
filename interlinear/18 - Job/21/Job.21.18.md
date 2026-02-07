@@ -1,4 +1,4 @@
-**Job 21:18** 
+**Job 21:18**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are as stubble before the wind, and as chaff that the storm carrieth away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Are they like straw before the wind, like chaff swept away by a storm?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.19|Job 21:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | are they?  |**<big>&#8207;[[H1961\|יִהְי֗וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like straw  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8401\|תֶ֥בֶן]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Te.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

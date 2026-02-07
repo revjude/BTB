@@ -1,4 +1,4 @@
-**Proverbs 12:4** 
+**Proverbs 12:4**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A virtuous woman [is] a crown to her husband: but she that maketh ashamed [is] as rottenness in his bones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wife of noble character is her husband’s crown, but she who causes shame is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.3|<< Proverbs 12:3]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.5|Proverbs 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ability  |**<big>&#8207;[[H2428I\|חַ֭יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

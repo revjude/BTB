@@ -1,4 +1,4 @@
-**2 Chronicles 20:31** 
+**2 Chronicles 20:31**<big><big>[[2Chr.20.31 Summary of Jehoshaphat’s Reign|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat reigned over Judah: [he was] thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name [was] Azubah the daughter of Shilhi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoshaphat reigned over Judah. He was thirty-five years old when he became k
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.30|<< 2 Chronicles 20:30]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.32|2 Chronicles 20:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reigned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֖ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

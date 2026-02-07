@@ -1,4 +1,4 @@
-**Exodus 13:10** 
+**Exodus 13:10**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore keep this ordinance in his season from year to year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore you shall keep this statute at the appointed time year after year.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.9|<< Exodus 13:9]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.11|Exodus 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104G\|שָׁמַרְתָּ֛]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

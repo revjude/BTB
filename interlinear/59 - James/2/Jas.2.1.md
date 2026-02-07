@@ -1,5 +1,5 @@
-**James 2:1
-**<small><sub>**KJV:**</sub></small>
+**James 2:1**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My brethren, have not the faith of our Lord Jesus Christ, [the Lord] of glory, with respect of persons.
 <small><sub>**BSB:**</sub></small>
 My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.
@@ -10,7 +10,7 @@ Brothers of Mine, not with partiality do hold the faith of the Lord of us Jesus 
 > $\quad$ alluding to: [[LXX.Lev.19.15|Lev 19:15]] ☩ [[LXX.Prov.24.23|Prov 24:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Brothers |**<big>[[G0080\|Ἀδελφοί]]</big>**  |Adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Mine, |**<big>[[G3165\|μου,]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

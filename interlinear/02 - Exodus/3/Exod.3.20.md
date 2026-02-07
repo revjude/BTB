@@ -1,4 +1,4 @@
-**Exodus 3:20** 
+**Exodus 3:20**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will stretch out My hand and strike the Egyptians with all the wonders I wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.19|<< Exodus 3:19]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.21|Exodus 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will stretch out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971K\|שָׁלַחְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.lach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

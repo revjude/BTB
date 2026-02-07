@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:12** 
 <small><sub>**LXX:**</sub></small>
 And the young women answered them, and they said, He is, behold, in front of you. Hasten! For now he comes into the city, because of the day, for a sacrifice today for the people in Bama. 
-<small><sub>**KJV:**</sub></small>
-And they answered them, and said, He is; behold, [he is] before you: make haste now, for he came to day to the city; for [there is] a sacrifice of the people to day in the high place:
-<small><sub>**BSB:**</sub></small>
-“Yes, he is ahead of you,” they answered. “Hurry now, for today he has come to the city because the people have a sacrifice on the high place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.11|<< 1 Samuel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.13|1 Samuel 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

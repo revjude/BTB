@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:8** 
 <small><sub>**LXX:**</sub></small>
 And Shaharaim engendered in the plain of Moab, after the ejecting them by him. Hushim and  Baara \[were\] his wives. 
-<small><sub>**KJV:**</sub></small>
-And Shaharaim begat [children] in the country of Moab, after he had sent them away; Hushim and Baara [were] his wives.
-<small><sub>**BSB:**</sub></small>
-Shaharaim had sons in the country of Moab after he had divorced his wives Hushim and Baara.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.7|<< 1 Chronicles 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.9|1 Chronicles 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

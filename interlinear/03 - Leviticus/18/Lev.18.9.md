@@ -1,4 +1,4 @@
-**Leviticus 18:9** 
+**Leviticus 18:9**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, [whether she be] born at home, or born abroad, [even] their nakedness thou shalt not uncover.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not have sexual relations with your sister, either your father’s daug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.8|<< Leviticus 18:8]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.10|Leviticus 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֨ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sister your  |**<big>&#8207;[[H0269\|אֲחֽוֹתְ]]&#8207;&#8207;[[H9021\|ךָ֤]]&#8207; </big>**| 'a.chot.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

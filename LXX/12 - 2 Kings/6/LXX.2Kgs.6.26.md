@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:26** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel was traveling upon the wall. And a woman yelled to him, saying, Deliver \[us\], O master, O king! 
-<small><sub>**KJV:**</sub></small>
-And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.
-<small><sub>**BSB:**</sub></small>
-As the king of Israel was passing by on the wall, a woman cried out to him, “Help me, my lord the king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.25|<< 2 Kings 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.27|2 Kings 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

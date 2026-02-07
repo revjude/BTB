@@ -1,10 +1,7 @@
 **LXX Isaiah 65:5** 
 <small><sub>**LXX:**</sub></small>
 The ones saying, Be at a distance from me, you should not approach me, for I am clean. This \[is the\] smoke  of my rage; a fire burns with it all the days. 
-<small><sub>**KJV:**</sub></small>
-Which say, Stand by thyself, come not near to me; for I am holier than thou. These [are] a smoke in my nose, a fire that burneth all the day.
-<small><sub>**BSB:**</sub></small>
-They say, ‘Keep to yourself; do not come near me, for I am holier than you!’ Such people are smoke in My nostrils, a fire that burns all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.4|<< Isaiah 65:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.6|Isaiah 65:6 >>]]</td></tr></table>
 
 | Translation | Greek |

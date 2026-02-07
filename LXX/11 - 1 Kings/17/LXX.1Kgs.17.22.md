@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:22** 
 <small><sub>**LXX:**</sub></small>
 And it became so, and the life of the boy returned to \[him\]. And the boy yelled out. 
-<small><sub>**KJV:**</sub></small>
-And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived.
-<small><sub>**BSB:**</sub></small>
-And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.21|<< 1 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.23|1 Kings 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

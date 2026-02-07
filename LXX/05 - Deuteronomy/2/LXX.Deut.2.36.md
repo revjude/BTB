@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:36** 
 <small><sub>**LXX:**</sub></small>
 from Aroer, which is by the bank of the rushing stream Arnon, and the city  being in the ravine, and unto mount  Gilead. There was not a city which evaded us;  \[the\] <span class="smallcaps">lord</span> our God delivered up all into  our hands. 
-<small><sub>**KJV:**</sub></small>
-From Aroer, which [is] by the brink of the river of Arnon, and [from] the city that [is] by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:
-<small><sub>**BSB:**</sub></small>
-From Aroer on the rim of the Arnon Valley, along with the city in the valley, even as far as Gilead, not one city had walls too high for us. The LORD our God gave us all of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.35|<< Deuteronomy 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.37|Deuteronomy 2:37 >>]]</td></tr></table>
 
 | Translation | Greek |

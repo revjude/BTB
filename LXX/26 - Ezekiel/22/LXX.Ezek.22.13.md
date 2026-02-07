@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:13** 
 <small><sub>**LXX:**</sub></small>
 And if I should strike my hand against my hand against the \[evils\] which you have been exhausted \[in the things\] which you did, and against the blood \[shed by\] you  being in your midst, 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.
-<small><sub>**BSB:**</sub></small>
-Now look, I strike My hands together against your unjust gain and against the blood you have shed in your midst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.12|<< Ezekiel 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.14|Ezekiel 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

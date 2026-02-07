@@ -1,10 +1,7 @@
 **LXX Judges 2:17** 
 <small><sub>**LXX:**</sub></small>
 for they fornicated after other gods, and did obeisance to them, and the <span class="smallcaps">lord</span> to anger. And they turned aside quickly from the way of which their fathers went,  listening to the commandments of \[the\] <span class="smallcaps">lord</span>; they did not do so. 
-<small><sub>**KJV:**</sub></small>
-And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; [but] they did not so.
-<small><sub>**BSB:**</sub></small>
-Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD’s commandments; they did not do as their fathers had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.16|<< Judges 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.18|Judges 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

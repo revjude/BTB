@@ -1,4 +1,4 @@
-**2 Chronicles 20:26** 
+**2 Chronicles 20:26**<big><big>[[2Chr.20.26 The Joyful Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fourth day they assembled in the Valley of Beracah, where they blessed th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.25|<< 2 Chronicles 20:25]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.27|2 Chronicles 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117L\|יּ֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִעִ֗י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

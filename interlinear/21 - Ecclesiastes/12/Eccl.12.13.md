@@ -1,4 +1,4 @@
-**Ecclesiastes 12:13** 
+**Ecclesiastes 12:13**<big><big>[[Eccl.12.9 The Whole Duty of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all has been heard, the conclusion of the matter is this: Fear God and keep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.12|<< Ecclesiastes 12:12]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.14|Ecclesiastes 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] end of  |**<big>&#8207;[[H5490\|ס֥וֹף]]&#8207; </big>**| Sof<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matter  |**<big>&#8207;[[H1697I\|דָּבָ֖ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

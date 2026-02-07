@@ -1,4 +1,4 @@
-**Psalms 119:87** 
+**Psalms 119:87**<big><big>[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They had almost consumed me upon earth; but I forsook not thy precepts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They almost wiped me from the earth, but I have not forsaken Your precepts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.87|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.86|<< Psalms 119:86]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.88|Psalms 119:88 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a little  |**<big>&#8207;[[H9004\|כִּ֭]]&#8207;&#8207;[[H4592\|מְעַט]]&#8207; </big>**| Ki<small><sup>[[HR]]</sup></small> m.'at<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have made an end of me  |**<big>&#8207;[[H3615G\|כִּלּ֣וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ki.Lu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

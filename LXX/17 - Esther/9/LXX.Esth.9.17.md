@@ -1,10 +1,7 @@
 **LXX Esther 9:17** 
 <small><sub>**LXX:**</sub></small>
 And they rested on the fourteenth of the same month, and they celebrated it as a day of rest with joy and gladness. 
-<small><sub>**KJV:**</sub></small>
-On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
-<small><sub>**BSB:**</sub></small>
-This was done on the thirteenth day of the month of Adar, and on the fourteenth day they rested, making it a day of feasting and joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.16|<< Esther 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.18|Esther 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

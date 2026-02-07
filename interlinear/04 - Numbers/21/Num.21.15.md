@@ -1,4 +1,4 @@
-**Numbers 21:15** 
+**Numbers 21:15**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ even the slopes of the wadis that extend to the site of Ar and lie along the bor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.14|<< Numbers 21:14]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.16|Numbers 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] slope of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0793\|אֶ֙שֶׁד֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.shed<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wadis  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5158N\|נְּחָלִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

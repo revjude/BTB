@@ -1,12 +1,12 @@
-**Acts 4:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:37**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having land, sold [it], and brought the money, and laid [it] at the apostles’ feet.
 <small><sub>**BSB:**</sub></small>
 sold a field he owned, brought the money, and laid it at the apostles’ feet.
 <small><sub>**Literal:**</sub></small>
 When is owning he a field, having sold [it] he brought the money and laid [it] at the feet of the apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.36|<< Acts 4:36]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.1|Acts 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When is owning |**<big>[[G5225\|ὑπάρχοντος]]</big>**  |huparchontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

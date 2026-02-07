@@ -1,4 +1,4 @@
-**Lamentations 2:19** 
+**Lamentations 2:19**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, cry out in the night from the first watch of the night. Pour out your hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּמִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ku.mi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cry out  |**<big>&#8207;[[H7442B\|רֹ֣נִּי]]&#8207; </big>**| Ro.ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

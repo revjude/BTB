@@ -1,5 +1,5 @@
-**Romans 4:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:11**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he received the sign of circumcision, a seal of the righteousness of the faith which [he had yet] being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:
 <small><sub>**BSB:**</sub></small>
 And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them.
@@ -10,7 +10,7 @@ And [the] sign he received of circumcision, a seal of the righteousness of the f
 > $\quad$ referencing: [[LXX.Gen.17.10|Gen 17:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] sign |**<big>[[G4592\|σημεῖον]]</big>**  |sēmeion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

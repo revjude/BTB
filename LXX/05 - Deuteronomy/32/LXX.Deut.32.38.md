@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:38** 
 <small><sub>**LXX:**</sub></small>
 Of whom the fat  of their sacrifices you ate, and drank the wine  of their libations? Let \[them\] rise up and help you, and be your shelterer! 
-<small><sub>**KJV:**</sub></small>
-Which did eat the fat of their sacrifices, [and] drank the wine of their drink offerings? let them rise up and help you, [and] be your protection.
-<small><sub>**BSB:**</sub></small>
-which ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you; let them give you shelter!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.37|<< Deuteronomy 32:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.39|Deuteronomy 32:39 >>]]</td></tr></table>
 
 | Translation | Greek |

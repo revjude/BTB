@@ -1,12 +1,12 @@
-**Colossians 1:27
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:27**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom God would make known what [is] the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 <small><sub>**BSB:**</sub></small>
 To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
 <small><sub>**Literal:**</sub></small>
 to whom has willed <the> God to make known what the riches of the glory of the mystery this among the Gentiles, which is Christ in you, the hope <the> of glory;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.26|<< Colossians 1:26]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.28|Colossians 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to whom |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has willed |**<big>[[G2309\|ἠθέλησεν]]</big>**  |ēthelēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

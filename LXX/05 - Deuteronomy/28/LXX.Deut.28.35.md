@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:35** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> strike you with a severe sore upon the knees, and upon the legs, so as to not be able to heal yourself from \[the\] sole  of your feet unto the top of your \[head\]. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head.
-<small><sub>**BSB:**</sub></small>
-The LORD will afflict you with painful, incurable boils on your knees and thighs, from the soles of your feet to the top of your head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.34|<< Deuteronomy 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.36|Deuteronomy 28:36 >>]]</td></tr></table>
 
 | Translation | Greek |

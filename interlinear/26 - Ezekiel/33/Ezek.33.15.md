@@ -1,4 +1,4 @@
-**Ezekiel 33:15** 
+**Ezekiel 33:15**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if he restores a pledge, makes restitution for what he has stolen, and walks in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.14|<< Ezekiel 33:14]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.16|Ezekiel 33:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a pledge  |**<big>&#8207;[[H2258A\|חֲבֹ֨ל]]&#8207; </big>**| cha.Vol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will return  |**<big>&#8207;[[H7725H\|יָשִׁ֤יב]]&#8207; </big>**| ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

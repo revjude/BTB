@@ -1,10 +1,7 @@
 **LXX Psalm 132:2** 
 <small><sub>**LXX:**</sub></small>
 As he swore by an oath to the <span class="smallcaps">lord</span>; he made a vow to the God of Jacob, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-How he sware unto the LORD, [and] vowed unto the mighty [God] of Jacob;
-<small><sub>**BSB:**</sub></small>
-how he swore an oath to the LORD, and vowed to the Mighty One of Jacob:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.1|<< Psalm 132:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.3|Psalm 132:3 >>]]</td></tr></table>
 
 | Translation | Greek |

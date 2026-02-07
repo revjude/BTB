@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The priests, the Levites, the sons  of Zadok, the ones that kept watches  of my holy \[things\] in the house of Israel wandering from me; these shall lead forward to me  to minister to me; and they shall stand before my face  to offer to me fat and blood, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD:
-<small><sub>**BSB:**</sub></small>
-But the Levitical priests, who are descended from Zadok and who kept charge of My sanctuary when the Israelites went astray from Me, are to approach Me to minister before Me. They will stand before Me to offer Me fat and blood, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.14|<< Ezekiel 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.16|Ezekiel 44:16 >>]]</td></tr></table>
 
 | Translation | Greek |

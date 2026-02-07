@@ -1,5 +1,5 @@
-**Jude 1:7
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:7**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 <small><sub>**BSB:**</sub></small>
 In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire.
@@ -10,7 +10,7 @@ just as Sodom and Gomorrah and the around them cities <the> in like manner with 
 > $\quad$ alluding to: [[LXX.Gen.19.13|Gen 19:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Sodom |**<big>[[G4670\|Σόδομα]]</big>**  |Sodoma <small><sup>[[N-NPN-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Judges 5:25** 
+**Judges 5:25**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He asked water, [and] she gave [him] milk; she brought forth butter in a lordly dish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He asked for water, and she gave him milk. In a magnificent bowl she brought him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.24|<< Judges 5:24]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.26|Judges 5:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | water  |**<big>&#8207;[[H4325G\|מַ֥יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he asked  |**<big>&#8207;[[H7592\|שָׁאַ֖ל]]&#8207; </big>**| sha.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Galatians 4:8
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:8**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.
 <small><sub>**BSB:**</sub></small>
 Formerly, when you did not know God, you were slaves to those who by nature are not gods.
 <small><sub>**Literal:**</sub></small>
 But at that time indeed not knowing God you were enslaved to those by nature not being gods;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.7|<< Galatians 4:7]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.9|Galatians 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|Ἀλλὰ]]</big>**  |Alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at that time |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

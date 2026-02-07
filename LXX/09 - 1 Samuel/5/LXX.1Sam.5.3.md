@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:3** 
 <small><sub>**LXX:**</sub></small>
 And the Ashdodites rose early, and they entered into \[the\] house of Dagon the next day. And they saw, and behold, Dagon was fallen upon his face upon the ground before the ark  of God. And they raised  Dagon, and they placed him upon  his place. 
-<small><sub>**KJV:**</sub></small>
-And when they of Ashdod arose early on the morrow, behold, Dagon [was] fallen upon his face to the earth before the ark of the LORD. And they took Dagon, and set him in his place again.
-<small><sub>**BSB:**</sub></small>
-When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD. So they took Dagon and returned him to his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.2|<< 1 Samuel 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.4|1 Samuel 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 13:6** 
 <small><sub>**LXX:**</sub></small>
 And the land did not have space for them to dwell together, for their possessions \[were\] many, and they were not able to dwell together. 
-<small><sub>**KJV:**</sub></small>
-And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
-<small><sub>**BSB:**</sub></small>
-But the land was unable to support both of them while they stayed together, for they had so many possessions that they were unable to coexist.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.5|<< Genesis 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.7|Genesis 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

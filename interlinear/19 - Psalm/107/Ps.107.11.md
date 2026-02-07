@@ -1,4 +1,4 @@
-**Psalms 107:11** 
+**Psalms 107:11**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they rebelled against the words of God, and contemned the counsel of the most High:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because they rebelled against the words of God and despised the counsel of the M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.10|<< Psalms 107:10]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.12|Psalms 107:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had rebelled against  |**<big>&#8207;[[H4784\|הִמְר֥וּ]]&#8207; </big>**| him.Ru<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

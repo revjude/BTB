@@ -1,12 +1,12 @@
-**1 Corinthians 11:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:5**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But every woman that prayeth or prophesieth with [her] head uncovered dishonoureth her head: for that is even all one as if she were shaven.
 <small><sub>**BSB:**</sub></small>
 And every woman who prays or prophesies with her head uncovered dishonors her head, for it is just as if her head were shaved.
 <small><sub>**Literal:**</sub></small>
 Every now woman praying or prophesying uncovered with the head dishonors the head of her; one for it is and the same with which shaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.4|<< 1 Corinthians 11:4]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.6|1 Corinthians 11:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶσα]]</big>**  |pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

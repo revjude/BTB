@@ -1,4 +1,4 @@
-**Isaiah 59:21** 
+**Isaiah 59:21**<big><big>[[Isa.59.18 The Covenant of the Redeemer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] 
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

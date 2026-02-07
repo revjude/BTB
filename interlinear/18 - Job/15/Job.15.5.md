@@ -1,4 +1,4 @@
-**Job 15:5** 
+**Job 15:5**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For your iniquity instructs your mouth, and you choose the language of the craft
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.4|<< Job 15:4]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.6|Job 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it teaches  |**<big>&#8207;[[H0502\|יְאַלֵּ֣ף]]&#8207; </big>**| ye.'a.Lef<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

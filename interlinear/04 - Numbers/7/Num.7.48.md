@@ -1,4 +1,4 @@
-**Numbers 7:48** 
+**Numbers 7:48**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, [offered]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventh day Elishama son of Ammihud, the leader of the Ephraimites, drew 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.47|<< Numbers 7:47]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.49|Numbers 7:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> seventh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

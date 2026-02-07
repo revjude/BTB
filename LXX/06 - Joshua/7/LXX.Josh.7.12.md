@@ -1,10 +1,7 @@
 **LXX Joshua 7:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel in no way will be able to stand in front of  its enemies. They shall turn the back of the neck before  their enemies, for they were become an offering for consumption. I will not add any longer to be with you, if you should not lift away the offering for consumption from among you of them. 
-<small><sub>**KJV:**</sub></small>
-Therefore the children of Israel could not stand before their enemies, [but] turned [their] backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you.
-<small><sub>**BSB:**</sub></small>
-This is why the Israelites cannot stand against their enemies. They will turn their backs and run from their enemies, because they themselves have been set apart for destruction. I will no longer be with you unless you remove from among you whatever is devoted to destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.11|<< Joshua 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.13|Joshua 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

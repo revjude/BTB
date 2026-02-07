@@ -1,12 +1,12 @@
-**Revelation 14:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:2**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
 <small><sub>**BSB:**</sub></small>
 And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps.
 <small><sub>**Literal:**</sub></small>
 And I heard a voice out of <the> heaven as [the] sound of waters many and as [the] sound of thunder loud, And the voice that I heard [was] like that of harpists harping with the harps of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.1|<< Revelation 14:1]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.3|Revelation 14:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

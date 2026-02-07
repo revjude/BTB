@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:37** 
 <small><sub>**LXX:**</sub></small>
 And I shall terrify them before  their enemies, of the ones seeking  their life. And I will bring upon them evil according to the anger  of my rage, says \[the\] <span class="smallcaps">lord</span>. And my sword as successor after them, until the completely consuming them. 
-<small><sub>**KJV:**</sub></small>
-For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, [even] my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:
-<small><sub>**BSB:**</sub></small>
-So I will shatter Elam before their foes, before those who seek their lives. I will bring disaster upon them, even My fierce anger,” declares the LORD. “I will send out the sword after them until I finish them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.36|<< Jeremiah 49:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.38|Jeremiah 49:38 >>]]</td></tr></table>
 
 | Translation | Greek |

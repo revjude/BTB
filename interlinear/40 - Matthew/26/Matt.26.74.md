@@ -1,12 +1,12 @@
-**Matthew 26:74
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:74**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then began he to curse and to swear, [saying], I know not the man. And immediately the cock crew.
 <small><sub>**BSB:**</sub></small>
 At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed.
 <small><sub>**Literal:**</sub></small>
 Then he began to curse and to swear that Not I know the man! And immediately a rooster crowed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.73|<< Matthew 26:73]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.75|Matthew 26:75 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he began |**<big>[[G0757\|ἤρξατο]]</big>**  |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

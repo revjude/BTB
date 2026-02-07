@@ -1,12 +1,12 @@
-**1 Timothy 6:19
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:19**<big><big>[[1Tim.6.17 A Charge to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
 <small><sub>**BSB:**</sub></small>
 treasuring up for themselves a firm foundation for the future, so that they may take hold of that which is truly life.
 <small><sub>**Literal:**</sub></small>
 treasuring up for themselves a foundation good for the future, so that they may take hold of that which [is] truly life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.18|<< 1 Timothy 6:18]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.20|1 Timothy 6:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | treasuring up |**<big>[[G0597\|ἀποθησαυρίζοντας]]</big>**  |apothēsaurizontas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for themselves |**<big>[[G1438\|ἑαυτοῖς]]</big>**  |he'autois <small><sup>[[F-3DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

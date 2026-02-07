@@ -1,5 +1,5 @@
-**Revelation 4:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:6**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And before the throne [there was] a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, [were] four beasts full of eyes before and behind.
 <small><sub>**BSB:**</sub></small>
 And before the throne was something like a sea of glass, as clear as crystal. In the center, around the throne, were four living creatures, covered with eyes in front and back.
@@ -10,7 +10,7 @@ And before the throne [was something] like a sea of glass, like as crystal, And 
 > $\quad$ possibly alluding to: [[LXX.Exod.24.10|Exod 24:10]] ☩ [[LXX.Ezek.1.5|Ezek 1:5]] ☩ [[LXX.Ezek.1.22|Ezek 1:22]] ☩ [[LXX.Ezek.10.12|Ezek 10:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | before |**<big>[[G1799\|ἐνώπιον]]</big>**  |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

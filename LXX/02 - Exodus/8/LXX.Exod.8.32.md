@@ -1,10 +1,7 @@
 **LXX Exodus 8:32** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh was oppressed \[in\] his heart also at  this time, and he did not want to send out the people. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh hardened his heart at this time also, neither would he let the people go.
-<small><sub>**BSB:**</sub></small>
-But Pharaoh hardened his heart this time as well, and he would not let the people go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.31|<< Exodus 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.1|Exodus 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

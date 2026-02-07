@@ -1,4 +1,4 @@
-**Psalms 58:11** (58:12)
+**Psalms 58:11**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that a man shall say, Verily [there is] a reward for the righteous: verily he is a God that judgeth in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then men will say, “There is surely a reward for the righteous! There is surel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.10|<< Psalms 58:10]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.0|Psalms 59:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may say  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Mar<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

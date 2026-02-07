@@ -1,10 +1,7 @@
 **LXX Exodus 36:24** 
 <small><sub>**LXX:**</sub></small>
 And forty bases of silver he made for the twenty posts. Two bases to the one post, for both  \[its\] parts. And two bases to the \[other\] one post, for both  \[its\] parts. 
-<small><sub>**KJV:**</sub></small>
-And forty sockets of silver he made under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.
-<small><sub>**BSB:**</sub></small>
-with forty silver bases to put under the twenty frames—two bases for each frame, one under each tenon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.23|<< Exodus 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.25|Exodus 36:25 >>]]</td></tr></table>
 
 | Translation | Greek |

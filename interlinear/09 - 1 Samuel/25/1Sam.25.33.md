@@ -1,4 +1,4 @@
-**1 Samuel 25:33** 
+**1 Samuel 25:33**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blessed [be] thy advice, and blessed [be] thou, which hast kept me this day from coming to [shed] blood, and from avenging myself with mine own hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is your discernment, and blessed are you, because today you kept me from
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.32|<< 1 Samuel 25:32]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.34|1 Samuel 25:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [be] blessed  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1288\|בָר֥וּךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discernment your  |**<big>&#8207;[[H2940\|טַעְמֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ta'.Me<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

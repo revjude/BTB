@@ -1,10 +1,7 @@
 **LXX Daniel 6:22** 
 <small><sub>**LXX:**</sub></small>
  My God sent  his angel, and he obstructed the mouths of the lions, and they did not lay me waste; for before him uprightness was found in me; and even before you, O king, I did not commit a transgression. 
-<small><sub>**KJV:**</sub></small>
-My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.
-<small><sub>**BSB:**</sub></small>
-My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 6:22** is...

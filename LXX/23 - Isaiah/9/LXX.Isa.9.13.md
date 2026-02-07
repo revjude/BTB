@@ -1,10 +1,7 @@
 **LXX Isaiah 9:13** 
 <small><sub>**LXX:**</sub></small>
 And the people did not turn until they were struck, and the <span class="smallcaps">lord</span> of the forces they did not seek. 
-<small><sub>**KJV:**</sub></small>
-For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-But the people did not return to Him who struck them; they did not seek the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.12|<< Isaiah 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.14|Isaiah 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

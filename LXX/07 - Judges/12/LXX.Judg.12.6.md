@@ -1,10 +1,7 @@
 **LXX Judges 12:6** 
 <small><sub>**LXX:**</sub></small>
 Then they said to them, Say indeed, Stachys! And \[if\] he was not straightly \[able\]  to speak thus, then they would take hold of them, and slay them at the ford of the Jordan. And they that fell from Ephraim in  that time \[were\] forty and two thousand. 
-<small><sub>**KJV:**</sub></small>
-Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce [it] right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.
-<small><sub>**BSB:**</sub></small>
-they told him, “Please say Shibboleth.” If he said, “Sibboleth,” because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.5|<< Judges 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.7|Judges 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

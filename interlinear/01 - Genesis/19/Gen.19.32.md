@@ -1,4 +1,4 @@
-**Genesis 19:32** 
+**Genesis 19:32**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, let us get our father drunk with wine so we can sleep with him and preserv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.31|<< Genesis 19:31]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.33|Genesis 19:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come !  |**<big>&#8207;[[H1980K\|לְכָ֨]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us make drink  |**<big>&#8207;[[H8248H\|נַשְׁקֶ֧ה]]&#8207; </big>**| nash.Keh<small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 8:8** 
 <small><sub>**LXX:**</sub></small>
 For ask \[the\] first generation, and trace according to \[the\] race of \[the\] fathers! 
-<small><sub>**KJV:**</sub></small>
-For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
-<small><sub>**BSB:**</sub></small>
-Please inquire of past generations and consider the discoveries of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.7|<< Job 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.9|Job 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

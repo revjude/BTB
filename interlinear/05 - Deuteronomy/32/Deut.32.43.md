@@ -1,4 +1,4 @@
-**Deuteronomy 32:43** 
+**Deuteronomy 32:43**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice, O ye nations, [with] his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, [and] to his people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Rejoice, O heavens, with Him, and let all God’s angels worship Him. Rejoice, O
 > $\quad$ referenced by: [[Rom.15.10|Rom 15:10]] ☩ [[Heb.1.6|Heb 1:6]] ☩ [[Rev.19.2|Rev 19:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|הַרְנִ֤ינוּ]]&#8207; </big>**| har.Ni.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O nations  |**<big>&#8207;[[H1471A\|גוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

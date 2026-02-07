@@ -1,4 +1,4 @@
-**1 Chronicles 16:30** 
+**1 Chronicles 16:30**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear before him, all the earth: the world also shall be stable, that it be not moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ tremble before Him, all the earth. The world is firmly established; it cannot be
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.29|<< 1 Chronicles 16:29]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.31|1 Chronicles 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tremble  |**<big>&#8207;[[H2342A\|חִ֤ילוּ]]&#8207; </big>**| Chi.lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from to before him  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H6440G\|פָנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

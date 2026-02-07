@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:19** 
 <small><sub>**LXX:**</sub></small>
 And it will be if in forgetfulness you should forget \[the\] <span class="smallcaps">lord</span>  your God, and should go after other gods, and should serve to them, and should do obeisance to them, I testify to you today \[on\] both heaven and the earth that by destruction you shall be destroyed. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.
-<small><sub>**BSB:**</sub></small>
-If you ever forget the LORD your God and go after other gods to worship and bow down to them, I testify against you today that you will surely perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.18|<< Deuteronomy 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.20|Deuteronomy 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

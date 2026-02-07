@@ -1,4 +1,4 @@
-**Numbers 11:33** 
+**Numbers 11:33**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while the flesh [was] yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But while the meat was still between their teeth, before it was chewed, the ange
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.32|<< Numbers 11:32]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.34|Numbers 11:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the meat  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1320\|בָּשָׂ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still it  |**<big>&#8207;[[H5750\|עוֹדֶ֙]]&#8207;&#8207;[[H9043\|נּוּ֙]]&#8207; </big>**| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

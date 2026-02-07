@@ -1,12 +1,12 @@
-**Acts 20:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:15**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we sailed thence, and came the next [day] over against Chios; and the next [day] we arrived at Samos, and tarried at Trogyllium; and the next [day] we came to Miletus.
 <small><sub>**BSB:**</sub></small>
 Sailing on from there, we arrived the next day opposite Chios. The day after that we arrived at Samos, and on the following day we came to Miletus.
 <small><sub>**Literal:**</sub></small>
 And from there having sailed away on the following [day] we arrived opposite Chios, on the then next [day] we arrived at Samos and await in Trogyllium on the and following [day] we came to Miletus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.14|<< Acts 20:14]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.16|Acts 20:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And from there |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having sailed away |**<big>[[G0636\|ἀποπλεύσαντες]]</big>**  |apopleusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

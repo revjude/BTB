@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:35** 
 <small><sub>**LXX:**</sub></small>
 My troubles and my miseries pushed me into Babylon, \[the\] one dwelling Zion shall say; and,  My blood \[is\] upon the Chaldeans dwelling \[there\], Jerusalem shall say. 
-<small><sub>**KJV:**</sub></small>
-The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
-<small><sub>**BSB:**</sub></small>
-May the violence done to me and to my flesh be upon Babylon,” says the dweller of Zion. “May my blood be on the dwellers of Chaldea,” says Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
 
 | Translation | Greek |

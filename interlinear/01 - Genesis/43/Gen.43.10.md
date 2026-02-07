@@ -1,4 +1,4 @@
-**Genesis 43:10** 
+**Genesis 43:10**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For except we had lingered, surely now we had returned this second time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If we had not delayed, we could have come and gone twice by now.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.9|<< Genesis 43:9]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.11|Genesis 43:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if not  |**<big>&#8207;[[H3884\|לוּלֵ֣א]]&#8207; </big>**| lu.Le'<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 10:21** 
+**Daniel 10:21**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will shew thee that which is noted in the scripture of truth: and [there is] none that holdeth with me in these things, but Michael your prince.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But first I will tell you what is inscribed in the Book of Truth. Yet no one has
 > $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but  |**<big>&#8207;[[H0061\|אֲבָל֙]]&#8207; </big>**| 'a.Val<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will tell  |**<big>&#8207;[[H5046\|אַגִּ֣יד]]&#8207; </big>**| 'a.Gid<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

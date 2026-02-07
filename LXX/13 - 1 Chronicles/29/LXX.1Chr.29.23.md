@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:23** 
 <small><sub>**LXX:**</sub></small>
 And Solomon sat upon \[the\] throne of \[the\] <span class="smallcaps">lord</span> as king instead of David  his father, and he prospered. And all Israel obeyed him. 
-<small><sub>**KJV:**</sub></small>
-Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.
-<small><sub>**BSB:**</sub></small>
-So Solomon sat on the throne of the LORD as king in place of his father David. He prospered, and all Israel obeyed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.22|<< 1 Chronicles 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.24|1 Chronicles 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 12:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:21**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not overcome of evil, but overcome evil with good.
 <small><sub>**BSB:**</sub></small>
 Do not be overcome by evil, but overcome evil with good.
 <small><sub>**Literal:**</sub></small>
 Not do be overcome by <the> evil but do overcome with <the> good <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.20|<< Romans 12:20]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.1|Romans 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do be overcome |**<big>[[G3528\|νικῶ]]</big>**  |nikō <small><sup>[[V-PPM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

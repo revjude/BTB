@@ -1,10 +1,7 @@
 **LXX Psalm 37:20** 
 <small><sub>**LXX:**</sub></small>
 For the sinners shall be destroyed. And the enemies of the <span class="smallcaps">lord</span> at the same time in their being glorified and exalted, vanished as smoke vanishing. 
-<small><sub>**KJV:**</sub></small>
-But the wicked shall perish, and the enemies of the LORD [shall be] as the fat of lambs: they shall consume; into smoke shall they consume away.
-<small><sub>**BSB:**</sub></small>
-But the wicked and enemies of the LORD will perish like the glory of the fields. They will vanish; like smoke they will fade away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.19|<< Psalm 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.21|Psalm 37:21 >>]]</td></tr></table>
 
 | Translation | Greek |

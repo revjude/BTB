@@ -1,4 +1,4 @@
-**Psalms 40:9** (40:10)
+**Psalms 40:9**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I proclaim righteousness in the great assembly; behold, I do not seal my lips, a
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have borne news  |**<big>&#8207;[[H1319\|בִּשַּׂ֤רְתִּי]]&#8207; </big>**| bi.Sar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֨דֶק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

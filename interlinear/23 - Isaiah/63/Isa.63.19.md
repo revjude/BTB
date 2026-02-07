@@ -1,4 +1,4 @@
-**Isaiah 63:19** 
+**Isaiah 63:19**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are [thine]: thou never barest rule over them; they were not called by thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have become like those You never ruled, like those not called by Your name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.18|<< Isaiah 63:18]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.1|Isaiah 64:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have been  |**<big>&#8207;[[H1961\|הָיִ֗ינוּ]]&#8207; </big>**| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from long ago  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5769J\|עוֹלָם֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

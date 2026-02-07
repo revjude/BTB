@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:29** 
 <small><sub>**LXX:**</sub></small>
 For I know that \[at the\] last  of my decease, with lawlessness you shall act lawlessly, and shall turn aside from the way of which I gave charge to you; and evils shall meet with you at \[the\] last of the days; for you shall do the evil before \[the\] <span class="smallcaps">lord</span> to provoke him to anger by the works  of your hands. 
-<small><sub>**KJV:**</sub></small>
-For I know that after my death ye will utterly corrupt [yourselves], and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the LORD, to provoke him to anger through the work of your hands.
-<small><sub>**BSB:**</sub></small>
-For I know that after my death you will become utterly corrupt and turn from the path I have commanded you. And in the days to come, disaster will befall you because you will do evil in the sight of the LORD to provoke Him to anger by the work of your hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.28|<< Deuteronomy 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.30|Deuteronomy 31:30 >>]]</td></tr></table>
 
 | Translation | Greek |

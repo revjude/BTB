@@ -1,10 +1,7 @@
 **LXX Isaiah 29:20** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lawless one failed, and \[the\] proud one is destroyed, and the ones acting lawlessly concerning evil shall be utterly destroyed, 
-<small><sub>**KJV:**</sub></small>
-For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
-<small><sub>**BSB:**</sub></small>
-For the ruthless will vanish, the mockers will disappear, and all who look for evil will be cut down—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.19|<< Isaiah 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.21|Isaiah 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

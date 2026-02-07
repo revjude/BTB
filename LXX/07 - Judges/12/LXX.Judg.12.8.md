@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Ibzan of Beth-lehem judged Israel after him. 
-<small><sub>**KJV:**</sub></small>
-And after him Ibzan of Bethlehem judged Israel.
-<small><sub>**BSB:**</sub></small>
-After Jephthah, Ibzan of Bethlehem judged Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.7|<< Judges 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.9|Judges 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

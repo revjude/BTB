@@ -1,12 +1,12 @@
-**Romans 13:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:4**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to [execute] wrath upon him that doeth evil.
 <small><sub>**BSB:**</sub></small>
 For he is God’s servant for your good. But if you do wrong, be afraid, for he does not carry the sword in vain. He is God’s servant, an agent of retribution to the wrongdoer.
 <small><sub>**Literal:**</sub></small>
 Of God for servant he is to you for <the> good. If however <the> evil you shall do, do be afraid; not for in vain the sword he bears. of God for a servant He is an avenger for wrath to the [one] <the> evil doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.3|<< Romans 13:3]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.5|Romans 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

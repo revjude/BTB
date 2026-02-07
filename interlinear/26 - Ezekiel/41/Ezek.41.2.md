@@ -1,4 +1,4 @@
-**Ezekiel 41:2** 
+**Ezekiel 41:2**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the breadth of the door [was] ten cubits; and the sides of the door [were] five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The width of the entrance was ten cubits, and the sides of the entrance were fiv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.1|<< Ezekiel 41:1]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.3|Ezekiel 41:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] breadth of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7341\|רֹ֣חַב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ro.chav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the entrance  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6607\|פֶּתַח֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.Tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

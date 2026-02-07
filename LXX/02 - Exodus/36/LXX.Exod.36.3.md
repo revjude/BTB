@@ -1,10 +1,7 @@
 **LXX Exodus 36:3** 
 <small><sub>**LXX:**</sub></small>
 And they took from Moses all the choice-portion offerings which the sons of Israel brought for all the works of the holy \[place\], to prepare them. And they favorably received still the \[things\] being brought from the \[ones\] bringing morning \[by\] morning. 
-<small><sub>**KJV:**</sub></small>
-And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it [withal]. And they brought yet unto him free offerings every morning.
-<small><sub>**BSB:**</sub></small>
-They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.2|<< Exodus 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.4|Exodus 36:4 >>]]</td></tr></table>
 
 | Translation | Greek |

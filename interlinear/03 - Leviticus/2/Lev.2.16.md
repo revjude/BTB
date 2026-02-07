@@ -1,4 +1,4 @@
-**Leviticus 2:16** 
+**Leviticus 2:16**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall burn the memorial of it, [part] of the beaten corn thereof, and [part] of the oil thereof, with all the frankincense thereof: [it is] an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest shall then burn the memorial portion of the crushed grain and the oil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.15|<< Leviticus 2:15]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.1|Leviticus 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make smoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6999A\|הִקְטִ֨יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Tir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֜ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

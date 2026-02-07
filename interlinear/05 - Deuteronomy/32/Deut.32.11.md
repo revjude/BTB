@@ -1,4 +1,4 @@
-**Deuteronomy 32:11** 
+**Deuteronomy 32:11**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As an eagle stirs up its nest and hovers over its young, He spread His wings to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.10|<< Deuteronomy 32:10]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.12|Deuteronomy 32:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like an eagle  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5404\|נֶ֙שֶׁר֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Ne.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] it stirs up  |**<big>&#8207;[[H5782\|יָעִ֣יר]]&#8207; </big>**| ya.'Ir<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

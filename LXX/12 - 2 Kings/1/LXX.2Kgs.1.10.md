@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:10** 
 <small><sub>**LXX:**</sub></small>
 And Elijah answered and said to the commander of fifty, And if I \[am\] a man of God, fire shall come down from  heaven and shall devour you and  your fifty. And there came down fire from  heaven, and devoured him and  his fifty. 
-<small><sub>**KJV:**</sub></small>
-And Elijah answered and said to the captain of fifty, If I [be] a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty.
-<small><sub>**BSB:**</sub></small>
-Elijah answered the captain, “If I am a man of God, may fire come down from heaven and consume you and your fifty men.” And fire came down from heaven and consumed the captain and his fifty men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.9|<< 2 Kings 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.11|2 Kings 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 1:10** is...

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:11** 
 <small><sub>**LXX:**</sub></small>
 This indication of release, the year, the fiftieth year will be to you. You shall not sow, nor in any way shall you reap the \[produce\] ascending by its self; and you shall not gather the vintage, the things having been sanctified of it. 
-<small><sub>**KJV:**</sub></small>
-A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather [the grapes] in it of thy vine undressed.
-<small><sub>**BSB:**</sub></small>
-The fiftieth year will be a Jubilee for you; you are not to sow the land or reap its aftergrowth or harvest the untended vines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.10|<< Leviticus 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.12|Leviticus 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 2:23** 
+**2 Samuel 2:23**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth [rib], that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, [that] as many as came to the place where Asahel fell down and died stood still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Asahel refused to turn away. So Abner thrust the butt of his spear into his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.22|<< 2 Samuel 2:22]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.24|2 Samuel 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֵ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'En<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to turn aside  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5493I\|ס֗וּר]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Sur<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

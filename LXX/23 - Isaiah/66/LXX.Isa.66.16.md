@@ -1,10 +1,7 @@
 **LXX Isaiah 66:16** 
 <small><sub>**LXX:**</sub></small>
 For by the fire of \[the\] <span class="smallcaps">lord</span> all the earth shall be judged, and by  his broadsword all flesh. Many shall be slain by \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many.
-<small><sub>**BSB:**</sub></small>
-For by fire and by His sword, the LORD will execute judgment on all flesh, and many will be slain by the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.15|<< Isaiah 66:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.17|Isaiah 66:17 >>]]</td></tr></table>
 
 | Translation | Greek |

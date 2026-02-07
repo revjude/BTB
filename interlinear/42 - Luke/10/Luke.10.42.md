@@ -1,12 +1,12 @@
-**Luke 10:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:42**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 <small><sub>**BSB:**</sub></small>
 But only one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”
 <small><sub>**Literal:**</sub></small>
 few or one [thing] however is necessary: Mary for the good portion has chosen which not will be taken away from from her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.41|<< Luke 10:41]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.1|Luke 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | few |**<big>[[G3641\|ὀλίγων]]</big>**  |oligōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="SBL+WH">O</abbr> | |
 | or [^1] |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL»4+WH»4">O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:16** 
 <small><sub>**LXX:**</sub></small>
 outside of the genealogy of the males from three years and up, to all  entering into \[the\] house of \[the\] <span class="smallcaps">lord</span>, for a reckoning of days in its day, for ministration of daily rotation of their arrangement. 
-<small><sub>**KJV:**</sub></small>
-Beside their genealogy of males, from three years old and upward, [even] unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;
-<small><sub>**BSB:**</sub></small>
-In addition, they distributed portions to the males registered by genealogy who were three years of age or older—to all who would enter the house of the LORD for their daily duties for service in the responsibilities of their divisions—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.15|<< 2 Chronicles 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.17|2 Chronicles 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

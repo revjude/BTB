@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And seeing, Phinehas son of Eleazar, son of Aaron the priest, rose up from \[the\] midst of the congregation, and taking a spear in \[his\] hand, 
-<small><sub>**KJV:**</sub></small>
-And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw [it], he rose up from among the congregation, and took a javelin in his hand;
-<small><sub>**BSB:**</sub></small>
-On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.6|<< Numbers 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.8|Numbers 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

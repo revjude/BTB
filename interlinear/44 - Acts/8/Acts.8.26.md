@@ -1,12 +1,12 @@
-**Acts 8:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:26**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.
 <small><sub>**BSB:**</sub></small>
 Now an angel of the Lord said to Philip, “Get up and go south to the desert road that goes down from Jerusalem to Gaza.”
 <small><sub>**Literal:**</sub></small>
 An angel now of [the] Lord spoke to Philip saying; do rise up and do go toward [the] south to the road which is going down from Jerusalem to Gaza; This is [the] desert [road].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.25|<< Acts 8:25]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.27|Acts 8:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | An angel |**<big>[[G0032G\|Ἄγγελος]]</big>**  |Angelos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

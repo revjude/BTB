@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:20** 
 <small><sub>**LXX:**</sub></small>
 But Amaziah hearkened not, for by \[the\] <span class="smallcaps">lord</span> it was  to deliver him into \[the\] hands of Joash, for he inquired of the gods of the Edomites. 
-<small><sub>**KJV:**</sub></small>
-But Amaziah would not hear; for it [came] of God, that he might deliver them into the hand [of their enemies], because they sought after the gods of Edom.
-<small><sub>**BSB:**</sub></small>
-But Amaziah would not listen, for this had come from God in order to deliver them into the hand of Jehoash, because they had sought the gods of Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.19|<< 2 Chronicles 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.21|2 Chronicles 25:21 >>]]</td></tr></table>
 
 | Translation | Greek |

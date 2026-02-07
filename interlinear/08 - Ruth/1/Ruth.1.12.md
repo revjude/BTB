@@ -1,4 +1,4 @@
-**Ruth 1:12** 
+**Ruth 1:12**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn again, my daughters, go [your way]; for I am too old to have an husband. If I should say, I have hope, [if] I should have an husband also to night, and should also bear sons;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return home, my daughters. Go on, for I am too old to have another husband. Even
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go back  |**<big>&#8207;[[H7725G\|שֹׁ֤בְנָה]]&#8207; </big>**| Shoe.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O daughters my  |**<big>&#8207;[[H1323G\|בְנֹתַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ve.no.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

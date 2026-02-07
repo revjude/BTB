@@ -1,4 +1,4 @@
-**Numbers 20:28** 
+**Numbers 20:28**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Moses had removed Aaron’s garments and put them on his son Eleazar, Aaro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.27|<< Numbers 20:27]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.29|Numbers 20:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stripped off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6584\|יַּפְשֵׁט֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaf.Shet<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֨ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

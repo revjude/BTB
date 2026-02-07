@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:45** 
 <small><sub>**LXX:**</sub></small>
 And they guarded \[the\] watch  of their God, and \[the\] watches of the cleansing, even the singers and the gatekeepers, according to \[the\] commands of David, and Solomon his son. 
-<small><sub>**KJV:**</sub></small>
-And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, [and] of Solomon his son.
-<small><sub>**BSB:**</sub></small>
-They performed the service of their God and the service of purification, along with the singers and gatekeepers, as David and his son Solomon had prescribed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.44|<< Nehemiah 12:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.46|Nehemiah 12:46 >>]]</td></tr></table>
 
 | Translation | Greek |

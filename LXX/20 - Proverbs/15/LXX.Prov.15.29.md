@@ -1,10 +1,7 @@
 **LXX Proverbs 15:29** 
 <small><sub>**LXX:**</sub></small>
 God \[is\] far at a distance from \[the\] impious; but vows of just ones he heeds. Better \[are\] few receipts with righteousness, than abundant produce with injustice. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] far from the wicked: but he heareth the prayer of the righteous.
-<small><sub>**BSB:**</sub></small>
-The LORD is far from the wicked, but He hears the prayer of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.28|<< Proverbs 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.30|Proverbs 15:30 >>]]</td></tr></table>
 
 | Translation | Greek |

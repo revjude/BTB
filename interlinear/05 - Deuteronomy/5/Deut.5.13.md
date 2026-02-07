@@ -1,4 +1,4 @@
-**Deuteronomy 5:13** 
+**Deuteronomy 5:13**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days thou shalt labour, and do all thy work:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six days you shall labor and do all your work,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.12|<< Deuteronomy 5:12]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.14|Deuteronomy 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֤֣שֶׁת]]&#8207; </big>**[^1] | She.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֣ים֙]]&#8207; </big>**[^2] | ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 25:2** 
+**Isaiah 25:2**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast made of a city an heap; [of] a defenced city a ruin: a palace of strangers to be no city; it shall never be built.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, You have made the city a heap of rubble, the fortified town a ruin. The 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.1|<< Isaiah 25:1]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.3|Isaiah 25:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have made  |**<big>&#8207;[[H7760A\|שַׂ֤מְתָּ]]&#8207; </big>**| Sam.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

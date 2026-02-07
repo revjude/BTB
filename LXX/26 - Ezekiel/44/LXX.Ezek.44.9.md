@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>  God; All sons of foreigners, \[with an\] uncircumcised heart, and uncircumcised in flesh, shall not enter into  my holy places, of all foreigners in \[the\] midst \[of the\] house of Israel. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that [is] among the children of Israel.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh may enter My sanctuary—not even a foreigner who lives among the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.8|<< Ezekiel 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.10|Ezekiel 44:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 44:9** is...

@@ -1,4 +1,4 @@
-**Isaiah 52:14** 
+**Isaiah 52:14**<big><big>[[Isa.52.13 The Servant Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as many were appalled at Him—His appearance was disfigured beyond that of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.13|<< Isaiah 52:13]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.15|Isaiah 52:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were appalled  |**<big>&#8207;[[H8074H\|שָׁמְמ֤וּ]]&#8207; </big>**| sha.me.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

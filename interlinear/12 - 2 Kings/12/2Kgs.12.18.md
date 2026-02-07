@@ -1,4 +1,4 @@
-**2 Kings 12:18** (12:19)
+**2 Kings 12:18**<big><big>[[2Kgs.12.17 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold [that was] found in the treasures of the house of the LORD, and in the king’s house, and sent [it] to Hazael king of Syria: and he went away from Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So King Joash of Judah took all the sacred objects dedicated by his fathers—Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.17|<< 2 Kings 12:17]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.19|2 Kings 12:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoash  |**<big>&#8207;[[H3060G\|יְהוֹאָ֣שׁ]]&#8207; </big>**| ye.ho.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

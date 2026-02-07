@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:19** 
 <small><sub>**LXX:**</sub></small>
 And if you should reap  your harvest in  your field, and you should forget a sheaf in  your field, you shall not turn back to take it; \[for\] to the poor, and to the foreigner, and to the orphan, and to the widow it will be; that \[the\] <span class="smallcaps">lord</span> your God should bless you in every work  of your hands. 
-<small><sub>**KJV:**</sub></small>
-When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands.
-<small><sub>**BSB:**</sub></small>
-If you are harvesting in your field and forget a sheaf there, do not go back to get it. It is to be left for the foreigner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.18|<< Deuteronomy 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.20|Deuteronomy 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

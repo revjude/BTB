@@ -1,4 +1,4 @@
-**Deuteronomy 18:10** 
+**Deuteronomy 18:10**<big><big>[[Deut.18.9 Sorcery Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not be found among you [any one] that maketh his son or his daughter to pass through the fire, [or] that useth divination, [or] an observer of times, or an enchanter, or a witch,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let no one be found among you who sacrifices his son or daughter in the fire, pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.9|<< Deuteronomy 18:9]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.11|Deuteronomy 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be found  |**<big>&#8207;[[H4672\|יִמָּצֵ֣א]]&#8207; </big>**| yi.ma.Tze'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

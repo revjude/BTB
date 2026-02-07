@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:8** 
 <small><sub>**LXX:**</sub></small>
 And he brought in all the priests from \[the\] cities of Judah, and he defiled the high \[places\] where the priests were burning incense there, from Geba and unto Beer-sheba. And he demolished the high places  by the door of the gate of Joshua ruler of the city, of the ones at \[the\] left sides of a man at the gate of the city. 
-<small><sub>**KJV:**</sub></small>
-And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that [were] in the entering in of the gate of Joshua the governor of the city, which [were] on a man’s left hand at the gate of the city.
-<small><sub>**BSB:**</sub></small>
-Then Josiah brought all the priests from the cities of Judah and desecrated the high places, from Geba to Beersheba, where the priests had burned incense. He tore down the high places of the gates at the entrance of the gate of Joshua the governor of the city, which was to the left of the city gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.7|<< 2 Kings 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.9|2 Kings 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

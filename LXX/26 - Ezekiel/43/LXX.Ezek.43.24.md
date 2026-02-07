@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:24** 
 <small><sub>**LXX:**</sub></small>
 And you shall offer \[them\] before \[the\] <span class="smallcaps">lord</span>, and the priests shall cast salt upon them, and they shall offer them \[as\] whole burnt-offerings to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt offer them before the LORD, and the priests shall cast salt upon them, and they shall offer them up [for] a burnt offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You must present them before the LORD; the priests are to sprinkle salt on them and sacrifice them as a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.23|<< Ezekiel 43:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.25|Ezekiel 43:25 >>]]</td></tr></table>
 
 | Translation | Greek |

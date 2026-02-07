@@ -1,5 +1,5 @@
-**Hebrews 10:30
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:30**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we know him that hath said, Vengeance [belongeth] unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
 <small><sub>**BSB:**</sub></small>
 For we know Him who said, “Vengeance is Mine; I will repay,” and again, “The Lord will judge His people.”
@@ -10,7 +10,7 @@ We know for the [One] having said; Mine [is] vengeance , I myself will repay say
 > $\quad$ referencing: [[LXX.Deut.32.35|Deut 32:35-36]] ☩ [[LXX.Ps.135.14|Ps 135:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

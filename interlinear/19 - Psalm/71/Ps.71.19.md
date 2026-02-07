@@ -1,4 +1,4 @@
-**Psalms 71:19** 
+**Psalms 71:19**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy righteousness also, O God, [is] very high, who hast done great things: O God, who [is] like unto thee!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your righteousness reaches to the heavens, O God, You who have done great things
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.18|<< Psalms 71:18]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.20|Psalms 71:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and righteousness your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6666\|צִדְקָתְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzid.ka.te.<small><sup>[[HNcfsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

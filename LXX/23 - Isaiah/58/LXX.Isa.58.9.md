@@ -1,10 +1,7 @@
 **LXX Isaiah 58:9** 
 <small><sub>**LXX:**</sub></small>
 Then you shall yell, and the <span class="smallcaps">lord</span> shall hearken to you. Yet \[while\] you \[are\] speaking he shall say, Behold, I am at hand. If you remove from yourself conspiracy, and stretching forth of the hands, and grumbling discourse; 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I [am]. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;
-<small><sub>**BSB:**</sub></small>
-Then you will call, and the LORD will answer; you will cry out, and He will say, ‘Here I am.’ If you remove the yoke from your midst, the pointing of the finger and malicious talk,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.8|<< Isaiah 58:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.10|Isaiah 58:10 >>]]</td></tr></table>
 
 | Translation | Greek |

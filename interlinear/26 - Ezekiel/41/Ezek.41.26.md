@@ -1,4 +1,4 @@
-**Ezekiel 41:26** 
+**Ezekiel 41:26**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and [upon] the side chambers of the house, and thick planks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There were beveled windows and palm trees on the sidewalls of the portico. The s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and windows  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2474\|חַלּוֹנִ֨ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.lo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | closed  |**<big>&#8207;[[H0331\|אֲטֻמ֤וֹת]]&#8207; </big>**| 'a.tu.Mot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

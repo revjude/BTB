@@ -1,4 +1,4 @@
-**Isaiah 1:17** 
+**Isaiah 1:17**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Learn to do right; seek justice and correct the oppressor. Defend the fatherless
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.16|<< Isaiah 1:16]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.18|Isaiah 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<you> learn  |**<big>&#8207;[[H3925H\|לִמְד֥וּ]]&#8207; </big>**| lim.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do good  |**<big>&#8207;[[H3190\|הֵיטֵ֛ב]]&#8207; </big>**| hei.Tev<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

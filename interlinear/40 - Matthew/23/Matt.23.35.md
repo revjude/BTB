@@ -1,5 +1,5 @@
-**Matthew 23:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:35**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.
 <small><sub>**BSB:**</sub></small>
 And so upon you will come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the temple and the altar.
@@ -10,7 +10,7 @@ so that may come upon you all [the] blood righteous being poured out upon the ea
 > $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.2Chr.24.21|2Chr 24:21-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may come |**<big>[[G2064\|ἔλθῃ]]</big>**  |elthē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 3:27** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he came, that he trumped a horn in  mount Ephraim. and the sons of Israel went down with him from the mountain, and he in front of them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.
-<small><sub>**BSB:**</sub></small>
-On arriving in Seirah, he blew the ram’s horn throughout the hill country of Ephraim. The Israelites came down with him from the hills, and he became their leader.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.26|<< Judges 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.28|Judges 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

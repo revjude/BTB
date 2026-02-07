@@ -1,4 +1,4 @@
-**Exodus 27:10** 
+**Exodus 27:10**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the twenty pillars thereof and their twenty sockets [shall be of] brass; the hooks of the pillars and their fillets [shall be of] silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with twenty posts and twenty bronze bases, and silver hooks and bands on the pos
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.9|<< Exodus 27:9]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.11|Exodus 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and pillars its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5982G\|עַמֻּדָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.mu.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֔ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

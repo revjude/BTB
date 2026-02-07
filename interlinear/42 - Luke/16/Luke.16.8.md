@@ -1,12 +1,12 @@
-**Luke 16:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:8**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
 <small><sub>**BSB:**</sub></small>
 The master commended the dishonest manager because he had acted shrewdly. For the sons of this age are more shrewd in dealing with their own kind than are the sons of light.
 <small><sub>**Literal:**</sub></small>
 And praised the master the manager <the> unrighteous because shrewdly he had acted, For the sons of the age this more shrewd than the sons of the light in the generation <the> their own are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.7|<< Luke 16:7]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.9|Luke 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | praised |**<big>[[G1867\|ἐπῄνεσεν]]</big>**  |epēnesen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

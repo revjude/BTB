@@ -1,10 +1,7 @@
 **LXX Isaiah 62:9** 
 <small><sub>**LXX:**</sub></small>
 But the ones gathering shall eat them, and they shall praise the <span class="smallcaps">lord</span>; and the ones gathering shall drink them in  my holy properties. 
-<small><sub>**KJV:**</sub></small>
-But they that have gathered it shall eat it, and praise the LORD; and they that have brought it together shall drink it in the courts of my holiness.
-<small><sub>**BSB:**</sub></small>
-For those who harvest grain will eat it and praise the LORD, and those who gather grapes will drink the wine in My holy courts.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.8|<< Isaiah 62:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.10|Isaiah 62:10 >>]]</td></tr></table>
 
 | Translation | Greek |

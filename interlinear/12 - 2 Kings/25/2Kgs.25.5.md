@@ -1,4 +1,4 @@
-**2 Kings 25:5** 
+**2 Kings 25:5**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but the army of the Chaldeans pursued the king and overtook him in the plains of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.4|<< 2 Kings 25:4]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.6|2 Kings 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] army of  |**<big>&#8207;[[H2428A\|חֵיל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cheil-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ecclesiastes 6:4** 
+**Ecclesiastes 6:4**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a stillborn child enters in futility and departs in darkness, and his name i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.3|<< Ecclesiastes 6:3]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.5|Ecclesiastes 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> futility  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1892\|הֶ֥בֶל]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

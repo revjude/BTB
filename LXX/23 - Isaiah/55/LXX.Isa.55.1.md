@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe the ones thirsting. Go unto water! And as many as do not have money, proceeding, buy and eat! And go and buy without money! even valuable wine and fatling. 
-<small><sub>**KJV:**</sub></small>
-Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
-<small><sub>**BSB:**</sub></small>
-“Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.17|<< Isaiah 54:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.2|Isaiah 55:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 55:1** is...

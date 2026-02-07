@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:20** 
 <small><sub>**LXX:**</sub></small>
 In return  for his ministration of which he served against Tyre, I have given to him \[the\] land of Egypt, because of as much as he worked to me, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have given him the land of Egypt [for] his labour wherewith he served against it, because they wrought for me, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I have given him the land of Egypt as the reward for his labor, because it was done for Me, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.19|<< Ezekiel 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.21|Ezekiel 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

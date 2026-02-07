@@ -1,4 +1,4 @@
-**Judges 9:17** 
+**Judges 9:17**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for my father fought for you and risked his life to deliver you from the hand of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.16|<< Judges 9:16]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.18|Judges 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fought  |**<big>&#8207;[[H3898A\|נִלְחַ֥ם]]&#8207; </big>**| nil.Cham<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

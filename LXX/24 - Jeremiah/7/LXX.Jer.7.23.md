@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:23** 
 <small><sub>**LXX:**</sub></small>
 But only  this saying gave I charge to them, saying, Hearken to  my voice! and I will be to you for a God, and you will be to me for a people. And go in all  my ways! in which ever I should give charge to you, so even it might be good to you. 
-<small><sub>**KJV:**</sub></small>
-But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.
-<small><sub>**BSB:**</sub></small>
-but this is what I commanded them: Obey Me, and I will be your God, and you will be My people. You must walk in all the ways I have commanded you, so that it may go well with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.22|<< Jeremiah 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.24|Jeremiah 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

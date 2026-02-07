@@ -1,4 +1,4 @@
-**1 Samuel 22:23** 
+**1 Samuel 22:23**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou [shalt be] in safeguard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stay with me; do not be afraid, for he who seeks your life is seeking mine as we
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remain !  |**<big>&#8207;[[H3427\|שְׁבָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| she.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H0854\|אִתִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

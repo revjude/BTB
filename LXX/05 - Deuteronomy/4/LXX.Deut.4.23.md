@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:23** 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourselves! lest at any time you should forget the covenant of \[the\] <span class="smallcaps">lord</span>  your God, which he ordained with you, and you should make to you yourselves a carving representation of all of which \[the\] <span class="smallcaps">lord</span> your God gave orders to you \[not to do\]. 
-<small><sub>**KJV:**</sub></small>
-Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, [or] the likeness of any [thing], which the LORD thy God hath forbidden thee.
-<small><sub>**BSB:**</sub></small>
-Be careful that you do not forget the covenant of the LORD your God that He made with you; do not make an idol for yourselves in the form of anything He has forbidden you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.22|<< Deuteronomy 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.24|Deuteronomy 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

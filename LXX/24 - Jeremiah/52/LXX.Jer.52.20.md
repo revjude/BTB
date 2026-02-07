@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:20** 
 <small><sub>**LXX:**</sub></small>
 and the two columns, and the one sea, and the twelve calves of brass underneath the sea, which king Solomon made for \[the\] house of \[the\] <span class="smallcaps">lord</span>. \[The\] weight of their brass was not \[known\]. 
-<small><sub>**KJV:**</sub></small>
-The two pillars, one sea, and twelve brasen bulls that [were] under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
-<small><sub>**BSB:**</sub></small>
-As for the two pillars, the Sea, the twelve bronze bulls under it, and the movable stands that King Solomon had made for the house of the LORD, the weight of the bronze from all these articles was beyond measure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.19|<< Jeremiah 52:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.21|Jeremiah 52:21 >>]]</td></tr></table>
 
 | Translation | Greek |

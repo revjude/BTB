@@ -1,4 +1,4 @@
-**Ezekiel 1:22** 
+**Ezekiel 1:22**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the likeness of the firmament upon the heads of the living creature [was] as the colour of the terrible crystal, stretched forth over their heads above.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Spread out above the heads of the living creatures was the likeness of an awesom
 > $\quad$ referenced by: [[Rev.4.6|Rev 4:6]] ☩ [[Rev.15.2|Rev 15:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a likeness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1823\|דְמ֞וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 49:14** 
 <small><sub>**LXX:**</sub></small>
 Issachar desired the good, taking rest between the lots. 
-<small><sub>**KJV:**</sub></small>
-Issachar [is] a strong ass couching down between two burdens:
-<small><sub>**BSB:**</sub></small>
-Issachar is a strong donkey, lying down between the sheepfolds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.13|<< Genesis 49:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.15|Genesis 49:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 12:47
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:47**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.
 <small><sub>**BSB:**</sub></small>
 Someone told Him, “Look, Your mother and brothers are standing outside, wanting to speak to You.”
 <small><sub>**Literal:**</sub></small>
 Said now someone to Him; Behold the mother of You and the brothers of you outside have stood seeking to You to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.46|<< Matthew 12:46]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.48|Matthew 12:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

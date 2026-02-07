@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:30** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] third and twentieth year of Nebuchadnezzar, the chief guard transferred of Jews seven hundred forty-five souls. All the souls four thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons [were] four thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.29|<< Jeremiah 52:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.31|Jeremiah 52:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 21:1** 
+**Isaiah 21:1**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the desert of the sea. As whirlwinds in the south pass through; [so] it cometh from the desert, from a terrible land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against the Desert by the Sea: Like whirlwinds sweeping throu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.6|<< Isaiah 20:6]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.2|Isaiah 21:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wilderness of  |**<big>&#8207;[[H4057B\|מִדְבַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mid.bar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

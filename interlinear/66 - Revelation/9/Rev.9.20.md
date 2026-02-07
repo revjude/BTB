@@ -1,5 +1,5 @@
-**Revelation 9:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:20**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 <small><sub>**BSB:**</sub></small>
 Now the rest of mankind who were not killed by these plagues still did not repent of the works of their hands. They did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see or hear or walk.
@@ -10,7 +10,7 @@ And the rest of the men who not were killed by <the> plagues these not even repe
 > $\quad$ alluding to: [[LXX.Ps.115.4|Ps 115:4]] ☩ [[LXX.Ps.135.15|Ps 135:15]] ☩ [[LXX.Dan.5.23|Dan 5:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

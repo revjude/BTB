@@ -1,4 +1,4 @@
-**Micah 2:6** 
+**Micah 2:6**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to them, [that] they shall not take shame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.5|<< Micah 2:5]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.7|Micah 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you prophesy  |**<big>&#8207;[[H5197\|תַּטִּ֖פוּ]]&#8207; </big>**| ta.Ti.fu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

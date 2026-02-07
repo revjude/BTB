@@ -1,4 +1,4 @@
-**Proverbs 24:31** 
+**Proverbs 24:31**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, lo, it was all grown over with thorns, [and] nettles had covered the face thereof, and the stone wall thereof was broken down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thorns had grown up everywhere, thistles had covered the ground, and the stone w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.30|<< Proverbs 24:30]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.32|Proverbs 24:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had grown up  |**<big>&#8207;[[H5927G\|עָ֘לָ֤ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

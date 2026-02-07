@@ -1,4 +1,4 @@
-**Numbers 1:50** 
+**Numbers 1:50**<big><big>[[Num.1.47 The Exemption of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that [belong] to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, you are to appoint the Levites over the tabernacle of the Testimony, al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.49|<< Numbers 1:49]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.51|Numbers 1:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | appoint  |**<big>&#8207;[[H6485J\|הַפְקֵ֣ד]]&#8207; </big>**| haf.Ked<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

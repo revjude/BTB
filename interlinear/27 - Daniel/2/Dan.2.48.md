@@ -1,4 +1,4 @@
-**Daniel 2:48** 
+**Daniel 2:48**<big><big>[[Dan.2.46 Nebuchadnezzar Promotes Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise [men] of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king promoted Daniel and gave him many generous gifts. He made him rule
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.47|<< Daniel 2:47]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.49|Daniel 2:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֨יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֜]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

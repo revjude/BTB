@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:24** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  your hearing the sound of the rumbling from out of the Grove of the Weeping, then you shall go down to them; for then \[the\] <span class="smallcaps">lord</span> shall go forth in front of you to strike in the battle of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.
-<small><sub>**BSB:**</sub></small>
-As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has gone out before you to strike the camp of the Philistines.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.23|<< 2 Samuel 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.25|2 Samuel 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

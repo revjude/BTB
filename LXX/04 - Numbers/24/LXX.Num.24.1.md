@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Balaam seeing that it is good before \[the\] <span class="smallcaps">lord</span> to bless  Israel, he did not go according to the accustomed way to meet with the ones \[with\] omens; and he turned back  his face to the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
-<small><sub>**BSB:**</sub></small>
-And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.30|<< Numbers 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.2|Numbers 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

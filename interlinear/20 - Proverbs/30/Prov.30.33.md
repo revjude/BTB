@@ -1,4 +1,4 @@
-**Proverbs 30:33** 
+**Proverbs 30:33**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For as the churning of milk yields butter, and the twisting of the nose draws bl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.32|<< Proverbs 30:32]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.1|Proverbs 31:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | squeezing of  |**<big>&#8207;[[H4330\|מִ֪יץ]]&#8207; </big>**| mitz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

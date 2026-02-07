@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:20** 
 <small><sub>**LXX:**</sub></small>
 And Gehazi said, the servant of Elisha the man  of God, Behold, my master spared  Naaman  this Syrian,  so as to not take from his hand of what he brought. As lives \[the\] <span class="smallcaps">lord</span>, that I shall run after him, and I shall take something from him. 
-<small><sub>**KJV:**</sub></small>
-But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, [as] the LORD liveth, I will run after him, and take somewhat of him.
-<small><sub>**BSB:**</sub></small>
-Gehazi, the servant of Elisha the man of God, said, “Look, my master has spared this Aramean, Naaman, by not accepting what he brought. As surely as the LORD lives, I will run after him and get something from him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.19|<< 2 Kings 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.21|2 Kings 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this \[the\] law is effaced, and judgment is not administered unto \[the\] end, for \[the\] impious tyrannize over the just. Because of this judgment shall go forth being perverted. 
-<small><sub>**KJV:**</sub></small>
-Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
-<small><sub>**BSB:**</sub></small>
-Therefore the law is paralyzed, and justice never goes forth. For the wicked hem in the righteous, so that justice is perverted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.3|<< Habakkuk 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.5|Habakkuk 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

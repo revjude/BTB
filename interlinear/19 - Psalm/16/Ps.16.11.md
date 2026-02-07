@@ -1,4 +1,4 @@
-**Psalms 16:11** 
+**Psalms 16:11**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt shew me the path of life: in thy presence [is] fulness of joy; at thy right hand [there are] pleasures for evermore.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You have made known to me the path of life; You will fill me with joy in Your pr
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will make known to me  |**<big>&#8207;[[H3045\|תּֽוֹדִיעֵ]]&#8207;&#8207;[[H9030\|נִי֮]]&#8207; </big>**| to.di.'e.<small><sup>[[HVhi2ms]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] path of  |**<big>&#8207;[[H0734\|אֹ֤רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

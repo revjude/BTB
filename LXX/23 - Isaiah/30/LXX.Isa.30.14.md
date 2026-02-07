@@ -1,10 +1,7 @@
 **LXX Isaiah 30:14** 
 <small><sub>**LXX:**</sub></small>
 And the calamitous downfall of it will be as \[the\] breaking of a receptacle of earthenware of a thin clay vessel, so that there should not be found among them \[even\] a potsherd in which to lift \[coals of\] fire, and with which to whistle up a little water. 
-<small><sub>**KJV:**</sub></small>
-And he shall break it as the breaking of the potters’ vessel that is broken in pieces; he shall not spare: so that there shall not be found in the bursting of it a sherd to take fire from the hearth, or to take water [withal] out of the pit.
-<small><sub>**BSB:**</sub></small>
-It will break in pieces like a potter’s jar, shattered so that no fragment can be found. Not a shard will be found in the dust large enough to scoop the coals from a hearth or to skim the water from a cistern.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.13|<< Isaiah 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.15|Isaiah 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

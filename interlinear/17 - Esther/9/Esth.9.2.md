@@ -1,4 +1,4 @@
-**Esther 9:2** 
+**Esther 9:2**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In each of the provinces of King Xerxes, the Jews assembled in their cities to a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.1|<< Esther 9:1]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.3|Esther 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they assembled  |**<big>&#8207;[[H6950\|נִקְהֲל֨וּ]]&#8207; </big>**| nik.ha.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jews  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3064\|יְּהוּדִ֜ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ye.hu.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

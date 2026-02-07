@@ -1,10 +1,7 @@
 **LXX Exodus 19:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, In going down, testify to the people, and purify them today and tomorrow, and let them wash  \[their\] garments! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Go to the people and consecrate them today and tomorrow. They must wash their clothes<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.9|<< Exodus 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.11|Exodus 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

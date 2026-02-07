@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:16** 
 <small><sub>**LXX:**</sub></small>
 And they were sneering at  his messengers, and treating with contempt  his words, and mocking among  his prophets, until the rage \[of the\] <span class="smallcaps">lord</span> ascended among  his people until there was no cure. 
-<small><sub>**KJV:**</sub></small>
-But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till [there was] no remedy.
-<small><sub>**BSB:**</sub></small>
-But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.15|<< 2 Chronicles 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.17|2 Chronicles 36:17 >>]]</td></tr></table>
 
 | Translation | Greek |

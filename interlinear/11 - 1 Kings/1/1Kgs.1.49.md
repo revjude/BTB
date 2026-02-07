@@ -1,4 +1,4 @@
-**1 Kings 1:49** 
+**1 Kings 1:49**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the guests that [were] with Adonijah were afraid, and rose up, and went every man his way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this, all the guests of Adonijah arose in terror and scattered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.48|<< 1 Kings 1:48]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.50|1 Kings 1:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they trembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2729\|יֶּֽחֶרְדוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.cher.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they rose up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקֻ֔מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

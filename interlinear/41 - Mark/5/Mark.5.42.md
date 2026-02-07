@@ -1,12 +1,12 @@
-**Mark 5:42
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:42**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway the damsel arose, and walked; for she was [of the age] of twelve years. And they were astonished with a great astonishment.
 <small><sub>**BSB:**</sub></small>
 Immediately the girl got up and began to walk around (she was twelve years old). And at once they were utterly astounded.
 <small><sub>**Literal:**</sub></small>
 And immediately arose the girl and was walking; she was for of years twelve. And they were amazed immediately with amazement great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.41|<< Mark 5:41]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.43|Mark 5:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

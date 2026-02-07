@@ -1,4 +1,4 @@
-**1 Kings 15:1** 
+**1 Kings 15:1**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the eighteenth year of the reign of Jeroboam son of Nebat, Abijam became king
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.31|<< 1 Kings 14:31]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.2|1 Kings 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8141\|שְׁנַת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight-  |**<big>&#8207;[[H8083\|שְׁמֹנֶ֣ה]]&#8207; </big>**| she.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

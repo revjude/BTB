@@ -1,10 +1,7 @@
 **LXX Leviticus 27:3** 
 <small><sub>**LXX:**</sub></small>
 it will be the value of a male from twenty years unto sixty years old -- his value will be fifty double-drachmas of silver by the holy weight. 
-<small><sub>**KJV:**</sub></small>
-And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-if the valuation concerns a male from twenty to sixty years of age, then your valuation shall be fifty shekels of silver, according to the sanctuary shekel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.2|<< Leviticus 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.4|Leviticus 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

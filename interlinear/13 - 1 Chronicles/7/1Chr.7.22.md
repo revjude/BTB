@@ -1,4 +1,4 @@
-**1 Chronicles 7:22** 
+**1 Chronicles 7:22**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephraim their father mourned many days, and his brethren came to comfort him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their father Ephraim mourned for many days, and his relatives came to comfort hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.21|<< 1 Chronicles 7:21]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.23|1 Chronicles 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he mourned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0056\|יִּתְאַבֵּ֛ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Bel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֥יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 27:13** 
 <small><sub>**LXX:**</sub></small>
 This is the portion of an impious man from \[the\] <span class="smallcaps">lord</span>, and the possession of mighty ones shall come from \[the\] almighty upon them. 
-<small><sub>**KJV:**</sub></small>
-This [is] the portion of a wicked man with God, and the heritage of oppressors, [which] they shall receive of the Almighty.
-<small><sub>**BSB:**</sub></small>
-This is the wicked man’s portion from God—the heritage the ruthless receive from the Almighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.12|<< Job 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.14|Job 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 80:11** (80:12)
+**Psalms 80:11**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She sent out her boughs unto the sea, and her branches unto the river.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It sent out its branches to the Sea, and its shoots toward the River.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.10|<< Psalms 80:10]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.12|Psalms 80:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it stretched out  |**<big>&#8207;[[H7971G\|תְּשַׁלַּ֣ח]]&#8207; </big>**| te.sha.Lach<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | branch[es] its  |**<big>&#8207;[[H7105B\|קְצִירֶ֣]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ke.tzi.Re.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

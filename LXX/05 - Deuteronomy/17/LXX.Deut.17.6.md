@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:6** 
 <small><sub>**LXX:**</sub></small>
 By two witnesses or three witnesses one shall die. The one dying shall not die by one witness. 
-<small><sub>**KJV:**</sub></small>
-At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; [but] at the mouth of one witness he shall not be put to death.
-<small><sub>**BSB:**</sub></small>
-On the testimony of two or three witnesses a man shall be put to death, but he shall not be executed on the testimony of a lone witness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 17:6** is...

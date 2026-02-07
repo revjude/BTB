@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Do not learn according to the ways of the nations! And from the signs of the heaven do not fear! for nations are fearing them. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Do not learn the ways of the nations or be terrified by the signs in the heavens, though the nations themselves are terrified by them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.1|<< Jeremiah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.3|Jeremiah 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

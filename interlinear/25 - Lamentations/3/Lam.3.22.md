@@ -1,4 +1,4 @@
-**Lamentations 3:22** 
+**Lamentations 3:22**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is of] the LORD’S mercies that we are not consumed, because his compassions fail not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of the loving devotion of the LORD we are not consumed, for His mercies 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.21|<< Lamentations 3:21]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.23|Lamentations 3:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] covenant loyalti\<es> of  |**<big>&#8207;[[H2617A\|חַֽסְדֵ֤י]]&#8207; </big>**| chas.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

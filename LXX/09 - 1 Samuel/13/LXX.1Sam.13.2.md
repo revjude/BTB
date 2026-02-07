@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:2** 
 <small><sub>**LXX:**</sub></small>
 And Saul chose for himself three thousand men from the men of Israel. And there were with Saul two thousand in Michmash, and in the mountain of Beth-el, and a thousand were with Jonathan in Gibeah  of Benjamin. And the rest of the people he sent out, each \[man\] unto  his tent. 
-<small><sub>**KJV:**</sub></small>
-Saul chose him three thousand [men] of Israel; [whereof] two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
-<small><sub>**BSB:**</sub></small>
-He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.1|<< 1 Samuel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.3|1 Samuel 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

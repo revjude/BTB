@@ -1,4 +1,4 @@
-**Amos 9:14** 
+**Amos 9:14**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit [them]; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will restore My people Israel from captivity; they will rebuild and inhabit th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.13|<< Amos 9:13]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.15|Amos 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725H\|שַׁבְתִּי֮]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

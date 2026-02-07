@@ -1,4 +1,4 @@
-**Leviticus 2:4** 
+**Leviticus 2:4**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou bring an oblation of a meat offering baken in the oven, [it shall be] unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now if you bring an offering of grain baked in an oven, it must consist of fine 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.3|<< Leviticus 2:3]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.5|Leviticus 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will present  |**<big>&#8207;[[H7126H\|תַקְרִ֛ב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 22:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:24**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.
 <small><sub>**BSB:**</sub></small>
 the commander ordered that Paul be brought into the barracks. He directed that Paul be flogged and interrogated to determine the reason for this outcry against him.
 <small><sub>**Literal:**</sub></small>
 Ordered the commander to be brought in him into the barracks having directed by flogging to be examined him, so that he may know for what cause like this they were crying out against him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.23|<< Acts 22:23]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.25|Acts 22:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ordered |**<big>[[G2753\|ἐκέλευσεν]]</big>**  |ekeleusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

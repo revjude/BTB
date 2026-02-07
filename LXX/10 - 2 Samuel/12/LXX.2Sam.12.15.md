@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:15** 
 <small><sub>**LXX:**</sub></small>
 And Nathan went forth to  his house. And \[the\] <span class="smallcaps">lord</span> enfeebled the child which \[the\] wife of Uriah bore  unto David, and he was ill. 
-<small><sub>**KJV:**</sub></small>
-And Nathan departed unto his house. And the LORD struck the child that Uriah’s wife bare unto David, and it was very sick.
-<small><sub>**BSB:**</sub></small>
-After Nathan had gone home, the LORD struck the child that Uriah’s wife had borne to David, and he became ill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.14|<< 2 Samuel 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.16|2 Samuel 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

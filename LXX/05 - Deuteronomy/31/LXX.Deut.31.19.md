@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:19** 
 <small><sub>**LXX:**</sub></small>
 And now write the words  of this ode, and teach it to the sons of Israel! And you shall put it into  their mouth, that this ode should be to me a testimony among \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Now therefore, write down for yourselves this song and teach it to the Israelites; have them recite it, so that it may be a witness for Me against them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.18|<< Deuteronomy 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.20|Deuteronomy 31:20 >>]]</td></tr></table>
 
 | Translation | Greek |

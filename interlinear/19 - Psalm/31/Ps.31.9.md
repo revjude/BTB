@@ -1,4 +1,4 @@
-**Psalms 31:9** (31:10)
+**Psalms 31:9**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, [yea], my soul and my belly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be merciful to me, O LORD, for I am in distress; my eyes fail from sorrow, my so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.8|<< Psalms 31:8]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.10|Psalms 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show favor to me  |**<big>&#8207;[[H2603A\|חָנֵּ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| cho.ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

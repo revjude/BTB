@@ -1,4 +1,4 @@
-**Ecclesiastes 4:8** 
+**Ecclesiastes 4:8**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is one [alone], and [there is] not a second; yea, he hath neither child nor brother: yet [is there] no end of all his labour; neither is his eye satisfied with riches; neither [saith he], For whom do I labour, and bereave my soul of good? This [is] also vanity, yea, it [is] a sore travail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a man all alone, without even a son or brother. And though there is no 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.7|<< Ecclesiastes 4:7]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.9|Ecclesiastes 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] one [person]  |**<big>&#8207;[[H0259\|אֶחָד֩]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 24:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:6**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all [these things] must come to pass, but the end is not yet.
 <small><sub>**BSB:**</sub></small>
 You will hear of wars and rumors of wars, but see to it that you are not alarmed. These things must happen, but the end is still to come.
 <small><sub>**Literal:**</sub></small>
 You will begin then to hear of wars and rumors of wars; do behold, not do be alarmed; it is necessary for all things to take place but not yet is the end.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.5|<< Matthew 24:5]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.7|Matthew 24:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You will begin |**<big>[[G3195\|μελλήσετε]]</big>**  |mellēsete <small><sup>[[V-FAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

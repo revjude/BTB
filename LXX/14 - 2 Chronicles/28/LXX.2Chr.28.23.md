@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:23** 
 <small><sub>**LXX:**</sub></small>
 I will inquire of the gods of Damascus, the ones beating me. And he said, Because the gods of \[the\] king of Syria strengthens them, therefore I shall sacrifice to them, and they will assist me. And they became to him as an impediment, and to all Israel. 
-<small><sub>**KJV:**</sub></small>
-For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, [therefore] will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.
-<small><sub>**BSB:**</sub></small>
-He sacrificed to the gods of Damascus, who had defeated him, and he said, “Because the gods of the kings of Aram have helped them, I will sacrifice to them that they may help me.” But these gods were the downfall of Ahaz and of all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.22|<< 2 Chronicles 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.24|2 Chronicles 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

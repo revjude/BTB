@@ -1,10 +1,7 @@
 **LXX Judges 14:10** 
 <small><sub>**LXX:**</sub></small>
 And his father went down to the woman, and Samson prepared there a banquet \[for\] seven days; for thus the young men did. 
-<small><sub>**KJV:**</sub></small>
-So his father went down unto the woman: and Samson made there a feast; for so used the young men to do.
-<small><sub>**BSB:**</sub></small>
-Then his father went to visit the woman, and Samson prepared a feast there, as was customary for the bridegroom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.9|<< Judges 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.11|Judges 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

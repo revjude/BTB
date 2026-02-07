@@ -1,10 +1,7 @@
 **LXX Exodus 11:10** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron did all  these miracles in \[the\] land of Egypt before Pharaoh. And \[the\] <span class="smallcaps">lord</span> hardened the heart of Pharaoh, and he did not want to send the sons of Israel out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go out of his land.
-<small><sub>**BSB:**</sub></small>
-Moses and Aaron did all these wonders before Pharaoh, but the LORD hardened Pharaoh’s heart so that he would not let the Israelites go out of his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.9|<< Exodus 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.1|Exodus 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

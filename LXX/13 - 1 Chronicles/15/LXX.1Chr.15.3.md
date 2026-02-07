@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:3** 
 <small><sub>**LXX:**</sub></small>
 And David gathered  all Israel to Jerusalem,  to bear the ark of \[the\] <span class="smallcaps">lord</span> into the place which he prepared for it. 
-<small><sub>**KJV:**</sub></small>
-And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it.
-<small><sub>**BSB:**</sub></small>
-And David assembled all Israel in Jerusalem to bring up the ark of the LORD to the place he had prepared for it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.2|<< 1 Chronicles 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.4|1 Chronicles 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

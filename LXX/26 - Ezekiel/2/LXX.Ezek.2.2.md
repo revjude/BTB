@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:2** 
 <small><sub>**LXX:**</sub></small>
 And came upon me a spirit. And it took me up, and lifted me away, and stood me upon my feet. And I heard him speaking to me. 
-<small><sub>**KJV:**</sub></small>
-And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.
-<small><sub>**BSB:**</sub></small>
-And as He spoke to me, the Spirit entered me and set me on my feet, and I heard Him speaking to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.1|<< Ezekiel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.3|Ezekiel 2:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 2:2** is...

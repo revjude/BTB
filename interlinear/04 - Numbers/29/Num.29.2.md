@@ -1,4 +1,4 @@
-**Numbers 29:2** 
+**Numbers 29:2**<big><big>[[Num.29.1 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, [and] seven lambs of the first year without blemish:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a pleasing aroma to the LORD, you are to present a burnt offering of one youn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.1|<< Numbers 29:1]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.3|Numbers 29:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will offer  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213I\|עֲשִׂיתֶ֨ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֜ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

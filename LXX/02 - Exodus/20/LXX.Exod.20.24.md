@@ -1,10 +1,7 @@
 **LXX Exodus 20:24** 
 <small><sub>**LXX:**</sub></small>
 An altar from out of \[the\] earth you shall make to me, and you shall sacrifice upon it  your whole burnt-offerings, and  your deliverance \[offerings\] -- the sheep, and  your calves, in every place of which ever I should name  my name there. And I will come to you, and I will bless you. 
-<small><sub>**KJV:**</sub></small>
-An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
-<small><sub>**BSB:**</sub></small>
-You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.23|<< Exodus 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.25|Exodus 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

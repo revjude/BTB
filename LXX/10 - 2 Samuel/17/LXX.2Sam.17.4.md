@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:4** 
 <small><sub>**LXX:**</sub></small>
 And the word was pleasing in \[the\] eyes of Absalom, and in \[the\] eyes of all the elders of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the saying pleased Absalom well, and all the elders of Israel.
-<small><sub>**BSB:**</sub></small>
-This proposal seemed good to Absalom and all the elders of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.3|<< 2 Samuel 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.5|2 Samuel 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

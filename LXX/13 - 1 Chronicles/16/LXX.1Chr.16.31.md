@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:31** 
 <small><sub>**LXX:**</sub></small>
 Be glad  O heaven, and exult  O earth! And let them say among the nations! the <span class="smallcaps">lord</span> \[is\] reigning. 
-<small><sub>**KJV:**</sub></small>
-Let the heavens be glad, and let the earth rejoice: and let [men] say among the nations, The LORD reigneth.
-<small><sub>**BSB:**</sub></small>
-Let the heavens be glad, and the earth rejoice. Let them say among the nations, ‘The LORD reigns!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.30|<< 1 Chronicles 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.32|1 Chronicles 16:32 >>]]</td></tr></table>
 
 | Translation | Greek |

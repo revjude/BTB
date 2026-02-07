@@ -1,10 +1,7 @@
 **LXX Isaiah 10:6** 
 <small><sub>**LXX:**</sub></small>
  I will send my anger against a lawless nation, and  I will give orders to my people to cause spoils and plunder, and to trample the cities, and to make them into dust. 
-<small><sub>**KJV:**</sub></small>
-I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
-<small><sub>**BSB:**</sub></small>
-I will send him against a godless nation; I will dispatch him against a people destined for My rage, to take spoils and seize plunder, and to trample them down like clay in the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.5|<< Isaiah 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.7|Isaiah 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

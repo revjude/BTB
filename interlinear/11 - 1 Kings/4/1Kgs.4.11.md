@@ -1,4 +1,4 @@
-**1 Kings 4:11** 
+**1 Kings 4:11**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ben-abinadab in Naphath-dor (Taphath, a daughter of Solomon, was his wife);
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.10|<< 1 Kings 4:10]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.12|1 Kings 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ben-  |**<big>&#8207;[[H1125\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abinadab  |**<big>&#8207;[[H1125\|אֲבִֽינָדָ֖ב]]&#8207; </big>**| 'a.vi.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

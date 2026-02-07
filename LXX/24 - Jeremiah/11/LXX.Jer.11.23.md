@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:23** 
 <small><sub>**LXX:**</sub></small>
 And there will not be left of them. For I will bring evils upon the ones dwelling in Anathoth, in \[the\] year of their visitation. 
-<small><sub>**KJV:**</sub></small>
-And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, [even] the year of their visitation.
-<small><sub>**BSB:**</sub></small>
-There will be no remnant, for I will bring disaster on the people of Anathoth in the year of their punishment.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.22|<< Jeremiah 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.1|Jeremiah 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

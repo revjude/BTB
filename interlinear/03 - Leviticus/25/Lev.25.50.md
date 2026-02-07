@@ -1,4 +1,4 @@
-**Leviticus 25:50** 
+**Leviticus 25:50**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He and his purchaser will then count the time from the year he sold himself up t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.49|<< Leviticus 25:49]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.51|Leviticus 25:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will calculate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2803H\|חִשַּׁב֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Shav<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

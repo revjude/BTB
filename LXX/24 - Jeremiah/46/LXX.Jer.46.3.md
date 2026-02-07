@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:3** 
 <small><sub>**LXX:**</sub></small>
 Take up weapons and shields, and lead forward to battle! 
-<small><sub>**KJV:**</sub></small>
-Order ye the buckler and shield, and draw near to battle.
-<small><sub>**BSB:**</sub></small>
-“Deploy your shields, small and large; advance for battle!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.2|<< Jeremiah 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.4|Jeremiah 46:4 >>]]</td></tr></table>
 
 | Translation | Greek |

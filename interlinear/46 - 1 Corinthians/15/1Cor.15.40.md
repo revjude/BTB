@@ -1,12 +1,12 @@
-**1 Corinthians 15:40
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:40**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [There are] also celestial bodies, and bodies terrestrial: but the glory of the celestial [is] one, and the [glory] of the terrestrial [is] another.
 <small><sub>**BSB:**</sub></small>
 There are also heavenly bodies and earthly bodies. But the splendor of the heavenly bodies is of one degree, and the splendor of the earthly bodies is of another.
 <small><sub>**Literal:**</sub></small>
 And bodies [there are] heavenly and bodies earthly; But one indeed [is] the of the heavenly glory, another however that of the earthly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.39|<< 1 Corinthians 15:39]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.41|1 Corinthians 15:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | bodies [there are] |**<big>[[G4983\|σώματα]]</big>**  |sōmata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

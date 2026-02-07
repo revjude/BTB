@@ -1,4 +1,4 @@
-**Ezekiel 10:14** 
+**Ezekiel 10:14**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every one had four faces: the first face [was] the face of a cherub, and the second face [was] the face of a man, and the third the face of a lion, and the fourth the face of an eagle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each of the cherubim had four faces: the first face was that of a cherub, the se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.13|<< Ezekiel 10:13]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.15|Ezekiel 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces  |**<big>&#8207;[[H6440H\|פָנִ֖ים]]&#8207; </big>**| fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

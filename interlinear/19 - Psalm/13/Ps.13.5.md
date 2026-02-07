@@ -1,4 +1,4 @@
-**Psalms 13:5** (13:6)
+**Psalms 13:5**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I have trusted in Your loving devotion; my heart will rejoice in Your salvat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.4|<< Psalms 13:4]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.6|Psalms 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in covenant loyalty your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2617A\|חַסְדְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chas.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

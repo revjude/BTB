@@ -1,4 +1,4 @@
-**2 Samuel 23:8** 
+**2 Samuel 23:8**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [be] the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same [was] Adino the Eznite: [he lift up his spear] against eight hundred, whom he slew at one time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.7|<< 2 Samuel 23:7]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.9|2 Samuel 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֥וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

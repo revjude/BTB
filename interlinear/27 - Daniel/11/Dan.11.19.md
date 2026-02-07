@@ -1,4 +1,4 @@
-**Daniel 11:19** 
+**Daniel 11:19**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After this, he will turn back toward the fortresses of his own land, but he will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.18|<< Daniel 11:18]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.20|Daniel 11:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will turn  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|יָשֵׁ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Shev<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face his  |**<big>&#8207;[[H6440H\|פָּנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

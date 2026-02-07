@@ -1,10 +1,7 @@
 **LXX Leviticus 18:29** 
 <small><sub>**LXX:**</sub></small>
 for all who ever should do of all  these abominations shall be utterly destroyed -- the souls  doing \[them\], from out of \[the\] midst  of their people. 
-<small><sub>**KJV:**</sub></small>
-For whosoever shall commit any of these abominations, even the souls that commit [them] shall be cut off from among their people.
-<small><sub>**BSB:**</sub></small>
-Therefore anyone who commits any of these abominations must be cut off from among his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.28|<< Leviticus 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.30|Leviticus 18:30 >>]]</td></tr></table>
 
 | Translation | Greek |

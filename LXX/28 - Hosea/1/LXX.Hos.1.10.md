@@ -1,10 +1,7 @@
 **LXX Hosea 1:10** 
 <small><sub>**LXX:**</sub></small>
 And shall be the number of the sons of Israel as the sand of the sea in which shall not be measured out nor shall be counted out. And it will be in the place of which it was said to them, You \[are\] not my people; they shall be called, Sons of \[the\] living God. 
-<small><sub>**KJV:**</sub></small>
-Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, [that] in the place where it was said unto them, Ye [are] not my people, [there] it shall be said unto them, [Ye are] the sons of the living God.
-<small><sub>**BSB:**</sub></small>
-Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.9|<< Hosea 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.11|Hosea 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 1:10** is...

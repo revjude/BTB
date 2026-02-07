@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:7** 
 <small><sub>**LXX:**</sub></small>
 And Ahaz sent messengers to Tiglath-pileser king of \[the\] Assyrians, saying, I am your servant and your son. Ascend and deliver me from \[the\] hand of \[the\] king of Syria and from \[the\] hand of \[the\] king of Israel! the ones rising up against me. 
-<small><sub>**KJV:**</sub></small>
-So Ahaz sent messengers to Tiglathpileser king of Assyria, saying, I [am] thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.
-<small><sub>**BSB:**</sub></small>
-So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, “I am your servant and your son. Come up and save me from the hands of the kings of Aram and Israel, who are rising up against me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.6|<< 2 Kings 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.8|2 Kings 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

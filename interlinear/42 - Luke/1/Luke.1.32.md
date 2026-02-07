@@ -1,5 +1,5 @@
-**Luke 1:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:32**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:
 <small><sub>**BSB:**</sub></small>
 He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David,
@@ -10,7 +10,7 @@ He will be great and Son of [the] Most High He will be called, and will give to 
 > $\quad$ alluding to: [[LXX.Ps.132.11|Ps 132:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

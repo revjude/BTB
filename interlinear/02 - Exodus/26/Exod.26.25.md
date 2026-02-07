@@ -1,4 +1,4 @@
-**Exodus 26:25** 
+**Exodus 26:25**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be eight boards, and their sockets [of] silver, sixteen sockets; two sockets under one board, and two sockets under another board.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So there are to be eight frames and sixteen silver bases—two under each frame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.24|<< Exodus 26:24]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.26|Exodus 26:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight  |**<big>&#8207;[[H8083\|שְׁמֹנָ֣ה]]&#8207; </big>**| she.mo.Nah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

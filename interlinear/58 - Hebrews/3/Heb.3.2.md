@@ -1,5 +1,5 @@
-**Hebrews 3:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:2**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who was faithful to him that appointed him, as also Moses [was faithful] in all his house.
 <small><sub>**BSB:**</sub></small>
 He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.
@@ -10,7 +10,7 @@ faithful being to the [One] having appointed Him as also Moses in all the house 
 > $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | faithful |**<big>[[G4103\|πιστὸν]]</big>**  |piston <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being |**<big>[[G1510\|ὄντα]]</big>**  |onta <small><sup>[[V-PAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

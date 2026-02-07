@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Now then \[while\] sitting, write these \[things\] upon a writing-tablet, and upon a scroll, for these \[things\] shall be for times of days, and even into the eon. 
-<small><sub>**KJV:**</sub></small>
-Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
-<small><sub>**BSB:**</sub></small>
-Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.7|<< Isaiah 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.9|Isaiah 30:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 101:8** 
+**Psalms 101:8**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every morning I will remove all the wicked of the land, that I may cut off every
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.7|<< Psalms 101:7]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.0|Psalms 102:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the mornings  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1242\|בְּקָרִ֗ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> be.ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will destroy  |**<big>&#8207;[[H6789\|אַצְמִ֥ית]]&#8207; </big>**| 'atz.Mit<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

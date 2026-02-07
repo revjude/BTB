@@ -1,12 +1,12 @@
-**Matthew 3:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:13**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus came from Galilee to the Jordan to be baptized by John.
 <small><sub>**Literal:**</sub></small>
 Then comes <the> Jesus from <the> Galilee to the Jordan unto <the> John <the> to be baptized by him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.12|<< Matthew 3:12]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.14|Matthew 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | comes |**<big>[[G3854\|παραγίνεται]]</big>**  |paraginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

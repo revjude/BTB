@@ -1,10 +1,7 @@
 **LXX Daniel 7:4** 
 <small><sub>**LXX:**</sub></small>
 The first \[was\] as a lioness, and her wings \[were\] of an eagle. I viewed until of which \[time\] her wings were plucked, and she was lifted away from the earth, and upon \[the\] feet of a man she stood, and \[the\] heart of a man was given to her. 
-<small><sub>**KJV:**</sub></small>
-The first [was] like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
-<small><sub>**BSB:**</sub></small>
-The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.3|<< Daniel 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.5|Daniel 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

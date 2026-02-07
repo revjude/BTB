@@ -1,4 +1,4 @@
-**2 Kings 12:16** (12:17)
+**2 Kings 12:16**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The trespass money and sin money was not brought into the house of the LORD: it was the priests’.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The money from the guilt offerings and sin offerings was not brought into the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.15|<< 2 Kings 12:15]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.17|2 Kings 12:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | money of  |**<big>&#8207;[[H3701G\|כֶּ֤סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | guilt offering  |**<big>&#8207;[[H0817\|אָשָׁם֙]]&#8207; </big>**| 'a.Sham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

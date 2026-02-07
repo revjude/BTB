@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Three times of the year solemnize a holiday to me! 
-<small><sub>**KJV:**</sub></small>
-Three times thou shalt keep a feast unto me in the year.
-<small><sub>**BSB:**</sub></small>
-Three times a year you are to celebrate a feast to Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.13|<< Exodus 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.15|Exodus 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

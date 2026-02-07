@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:22** 
 <small><sub>**LXX:**</sub></small>
 Thus God do to the enemies to David, and thus may he add, if I leave behind of all of the ones of Nabal unto \[the\] morning of ones urinating against \[the\] wall. 
-<small><sub>**KJV:**</sub></small>
-So and more also do God unto the enemies of David, if I leave of all that [pertain] to him by the morning light any that pisseth against the wall.
-<small><sub>**BSB:**</sub></small>
-May God punish David, and ever so severely, if I let one male belonging to Nabal survive until morning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.21|<< 1 Samuel 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.23|1 Samuel 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

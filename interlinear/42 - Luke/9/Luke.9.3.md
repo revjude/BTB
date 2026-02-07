@@ -1,12 +1,12 @@
-**Luke 9:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:3**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Take nothing for [your] journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.
 <small><sub>**BSB:**</sub></small>
 “Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic.
 <small><sub>**Literal:**</sub></small>
 and He said to them; Nothing do take for the journey; neither staff nor bag nor bread nor money nor apiece two tunics to have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.2|<< Luke 9:2]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.4|Luke 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Leviticus 1:6** 
+**Leviticus 1:6**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall flay the burnt offering, and cut it into his pieces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next, he is to skin the burnt offering and cut it into pieces.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.5|<< Leviticus 1:5]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.7|Leviticus 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will skin  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6584\|הִפְשִׁ֖יט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hif.Shit<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

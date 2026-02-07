@@ -1,10 +1,7 @@
 **LXX Psalm 79:13** 
 <small><sub>**LXX:**</sub></small>
 But we \[are\] your people, and \[the\] sheep of your pasture. We shall confess to you, O God, into the eon; for generation and generation we shall declare  your praise. 
-<small><sub>**KJV:**</sub></small>
-So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.
-<small><sub>**BSB:**</sub></small>
-Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.12|<< Psalm 79:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.1|Psalm 80:1 >>]]</td></tr></table>
 
 | Translation | Greek |

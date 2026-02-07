@@ -1,4 +1,4 @@
-**1 Chronicles 17:24** 
+**1 Chronicles 17:24**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts [is] the God of Israel, [even] a God to Israel: and [let] the house of David thy servant [be] established before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that Your name will be established and magnified forever when it is said, ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.23|<< 1 Chronicles 17:23]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.25|1 Chronicles 17:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it may be established  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0539\|יֵֽאָמֵן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ye.'a.men<small><sup>[[HVNu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so it may be great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1431\|יִגְדַּ֨ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yig.Dal<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Jehoram beheld  Jehu, that he said, Is it peace Jehu? And Jehu said, What \[is it\] to you and peace \[with\] still the harlotries of Jezebel  your mother and  her many potions? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Joram saw Jehu, that he said, [Is it] peace, Jehu? And he answered, What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts [are so] many?
-<small><sub>**BSB:**</sub></small>
-When Joram saw Jehu, he asked, “Have you come in peace, Jehu?” “How can there be peace,” he replied, “as long as the idolatry and witchcraft of your mother Jezebel abound?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.21|<< 2 Kings 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.23|2 Kings 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

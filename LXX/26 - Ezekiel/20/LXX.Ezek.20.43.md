@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:43** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember your ways there, and  your practices which you defiled \[yourselves\] by them. And you shall beat  your faces over all  your evils. 
-<small><sub>**KJV:**</sub></small>
-And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed.
-<small><sub>**BSB:**</sub></small>
-There you will remember your ways and all the deeds with which you have defiled yourselves, and you will loathe yourselves for all the evils you have done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.42|<< Ezekiel 20:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.44|Ezekiel 20:44 >>]]</td></tr></table>
 
 | Translation | Greek |

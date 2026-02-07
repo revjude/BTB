@@ -1,5 +1,5 @@
-**Romans 10:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:18**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
 <small><sub>**BSB:**</sub></small>
 But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.”
@@ -10,7 +10,7 @@ But I ask; certainly surely did they hear? Indeed Into all the earth has gone ou
 > $\quad$ referencing: [[LXX.Ps.19.4|Ps 19:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I ask; |**<big>[[G3004G\|λέγω·]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

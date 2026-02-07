@@ -1,12 +1,12 @@
-**Psalms 142:1** (142:2)
+**Psalms 142:1**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-Maschil of David; A Prayer when he was in the cave. I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.
+I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.
 <small><sub>**BSB:**</sub></small>
 A Maskil of David, when he was in the cave. A prayer. I cry aloud to the LORD; I lift my voice to the LORD for mercy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.0|<< Psalms 142:0]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.2|Psalms 142:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | voice my  |**<big>&#8207;[[H6963A\|ק֭וֹלִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ko.l<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

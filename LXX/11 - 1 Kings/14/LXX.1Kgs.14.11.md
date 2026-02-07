@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:11** 
 <small><sub>**LXX:**</sub></small>
 The one having died  of Jeroboam in the city the dogs shall devour. And the one having died in the field the birds of heaven shall devour; for \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-Anyone belonging to Jeroboam who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.’ For the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.10|<< 1 Kings 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.12|1 Kings 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

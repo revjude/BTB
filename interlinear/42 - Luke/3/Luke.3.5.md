@@ -1,5 +1,5 @@
-**Luke 3:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:5**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways [shall be] made smooth;
 <small><sub>**BSB:**</sub></small>
 Every valley shall be filled in, and every mountain and hill made low. The crooked ways shall be made straight, and the rough ways smooth.
@@ -10,7 +10,7 @@ Every valley will be filled and every mountain and hill will be made low; and wi
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3-5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶσα]]</big>**  |pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | valley |**<big>[[G5327\|φάραγξ]]</big>**  |pharagx <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

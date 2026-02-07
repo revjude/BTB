@@ -1,4 +1,4 @@
-**1 Kings 18:44** 
+**1 Kings 18:44**<big><big>[[1Kgs.18.41 The LORD Sends Rain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the seventh time, that he said, Behold, there ariseth a little cloud out of the sea, like a man’s hand. And he said, Go up, say unto Ahab, Prepare [thy chariot], and get thee down, that the rain stop thee not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventh time the servant reported, “There is a cloud as small as a man�
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.43|<< 1 Kings 18:43]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.45|1 Kings 18:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at the seventh [time]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7637\|שְּׁבִעִ֔ית]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

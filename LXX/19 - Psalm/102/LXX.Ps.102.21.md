@@ -1,10 +1,7 @@
 **LXX Psalm 102:21** 
 <small><sub>**LXX:**</sub></small>
  to announce in Zion the name of \[the\] <span class="smallcaps">lord</span>, and  his praise in Jerusalem, 
-<small><sub>**KJV:**</sub></small>
-To declare the name of the LORD in Zion, and his praise in Jerusalem;
-<small><sub>**BSB:**</sub></small>
-that they may proclaim the name of the LORD in Zion and praise Him in Jerusalem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.20|<< Psalm 102:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.22|Psalm 102:22 >>]]</td></tr></table>
 
 | Translation | Greek |

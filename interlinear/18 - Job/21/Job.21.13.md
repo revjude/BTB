@@ -1,4 +1,4 @@
-**Job 21:13** 
+**Job 21:13**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They spend their days in wealth, and in a moment go down to the grave.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They spend their days in prosperity and go down to Sheol in peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.12|<< Job 21:12]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.14|Job 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they complete  [^1]|**<big>&#8207;[[H3615G\|יְכַלּ֣וּ]]&#8207; </big>**[^2] | ye.kha.lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | in the good  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2896B\|טּ֣וֹב]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

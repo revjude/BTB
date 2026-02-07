@@ -1,12 +1,12 @@
-**Matthew 13:53
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:53**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when Jesus had finished these parables, he departed thence.
 <small><sub>**BSB:**</sub></small>
 When Jesus had finished these parables, He withdrew from that place.
 <small><sub>**Literal:**</sub></small>
 And it came to pass when finished <the> Jesus <the> parables these, He withdrew from there;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.52|<< Matthew 13:52]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.54|Matthew 13:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

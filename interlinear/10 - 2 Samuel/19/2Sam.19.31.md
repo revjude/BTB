@@ -1,4 +1,4 @@
-**2 Samuel 19:31** (19:32)
+**2 Samuel 19:31**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Barzillai the Gileadite had come down from Rogelim to cross the Jordan with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.30|<< 2 Samuel 19:30]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.32|2 Samuel 19:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Barzillai  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1271G\|בַרְזִלַּי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> var.zi.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Gileadite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1569\|גִּלְעָדִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

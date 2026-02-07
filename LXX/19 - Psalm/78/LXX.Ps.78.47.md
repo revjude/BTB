@@ -1,10 +1,7 @@
 **LXX Psalm 78:47** 
 <small><sub>**LXX:**</sub></small>
 He killed their grapevine by hail, and  their sycamine trees by the frost. 
-<small><sub>**KJV:**</sub></small>
-He destroyed their vines with hail, and their sycomore trees with frost.
-<small><sub>**BSB:**</sub></small>
-He killed their vines with hailstones and their sycamore-figs with sleet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.46|<< Psalm 78:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.48|Psalm 78:48 >>]]</td></tr></table>
 
 | Translation | Greek |

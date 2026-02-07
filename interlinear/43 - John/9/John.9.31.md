@@ -1,5 +1,5 @@
-**John 9:31
-**<small><sub>**KJV:**</sub></small>
+**John 9:31**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.
 <small><sub>**BSB:**</sub></small>
 We know that God does not listen to sinners, but He does listen to the one who worships Him and does His will.
@@ -10,7 +10,7 @@ We know now that to sinners <the> God not does listen, but if anyone God-fearing
 > $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

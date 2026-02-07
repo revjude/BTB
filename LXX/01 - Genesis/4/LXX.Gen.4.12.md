@@ -1,10 +1,7 @@
 **LXX Genesis 4:12** 
 <small><sub>**LXX:**</sub></small>
 When you work the ground, and \[it does\] not add  to give her strength to you; \[then in\] moaning and trembling you will be upon the earth. 
-<small><sub>**KJV:**</sub></small>
-When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
-<small><sub>**BSB:**</sub></small>
-When you till the ground, it will no longer yield its produce to you. You will be a fugitive and a wanderer on the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.11|<< Genesis 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.13|Genesis 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

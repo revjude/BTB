@@ -1,4 +1,4 @@
-**Judges 15:15** 
+**Judges 15:15**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He found the fresh jawbone of a donkey, reached out his hand and took it, and st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.16|Judges 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|יִּמְצָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Tza'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a jawbone of  |**<big>&#8207;[[H3895H\|לְחִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.chi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

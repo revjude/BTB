@@ -1,4 +1,4 @@
-**Jeremiah 10:23** 
+**Jeremiah 10:23**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, I know that the way of man [is] not in himself: [it is] not in man that walketh to direct his steps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know, O LORD, that a man’s way is not his own; no one who walks directs his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.22|<< Jeremiah 10:22]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.24|Jeremiah 10:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֣עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

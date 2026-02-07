@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he set to them supervisors over the works, that they might afflict them in their works. And they built fortified cities \[to\] Pharaoh --   Pithom and Raamses, and On which is Heliopolis. 
-<small><sub>**KJV:**</sub></small>
-Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
-<small><sub>**BSB:**</sub></small>
-So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.10|<< Exodus 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.12|Exodus 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

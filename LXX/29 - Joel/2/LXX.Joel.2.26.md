@@ -1,10 +1,7 @@
 **LXX Joel 2:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat with solid food, and shall be filled up, and shall praise the name of \[the\] <span class="smallcaps">lord</span>  your God, who did wonders among you. And in no way my people be disgraced into the eon. 
-<small><sub>**KJV:**</sub></small>
-And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.
-<small><sub>**BSB:**</sub></small>
-You will have plenty to eat, until you are satisfied. You will praise the name of the LORD your God, who has worked wonders for you. My people will never again be put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.25|<< Joel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.27|Joel 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

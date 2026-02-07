@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:15** 
 <small><sub>**LXX:**</sub></small>
 And they went after them unto the Jordan. And behold, all the way \[was\] full of clothes and items, which the Syrians tossed in  their being distraught. And the messengers returned, and announced to the king. 
-<small><sub>**KJV:**</sub></small>
-And they went after them unto Jordan: and, lo, all the way [was] full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.
-<small><sub>**BSB:**</sub></small>
-And they tracked them as far as the Jordan, and indeed, the whole way was littered with the clothing and equipment the Arameans had thrown off in haste. So the scouts returned and told the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.14|<< 2 Kings 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.16|2 Kings 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

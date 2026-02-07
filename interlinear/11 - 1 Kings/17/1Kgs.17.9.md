@@ -1,4 +1,4 @@
-**1 Kings 17:9** 
+**1 Kings 17:9**<big><big>[[1Kgs.17.8 The Widow of Zarephath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behol
 > $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לֵ֤ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

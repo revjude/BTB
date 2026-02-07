@@ -1,4 +1,4 @@
-**Job 35:13** 
+**Job 35:13**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely God will not hear vanity, neither will the Almighty regard it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely God does not listen to empty pleas, and the Almighty does not take note o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.12|<< Job 35:12]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.14|Job 35:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.kho.Sha-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | emptiness  |**<big>&#8207;[[H7723H\|שָׁ֭וְא]]&#8207; </big>**| Sha.v'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

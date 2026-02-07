@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:14** 
 <small><sub>**LXX:**</sub></small>
 And the dung gate Malchiah repaired, son of Rechab, ruler of a place round about \[the\] house of Beth-heccerem, he and  his sons; and they sheltered it, and set its doors, and its bolts, and its bars. 
-<small><sub>**KJV:**</sub></small>
-But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.
-<small><sub>**BSB:**</sub></small>
-The Dung Gate was repaired by Malchijah son of Rechab, ruler of the district of Beth-haccherem. He rebuilt it and installed its doors, bolts, and bars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.13|<< Nehemiah 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.15|Nehemiah 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

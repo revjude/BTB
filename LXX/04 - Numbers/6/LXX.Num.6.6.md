@@ -1,10 +1,7 @@
 **LXX Numbers 6:6** 
 <small><sub>**LXX:**</sub></small>
 All the days of the vow \[to the\] <span class="smallcaps">lord</span> he shall not enter unto any soul coming to an end. 
-<small><sub>**KJV:**</sub></small>
-All the days that he separateth [himself] unto the LORD he shall come at no dead body.
-<small><sub>**BSB:**</sub></small>
-Throughout the days of his separation to the LORD, he must not go near a dead body.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.5|<< Numbers 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.7|Numbers 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

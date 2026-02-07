@@ -1,12 +1,12 @@
-**Hebrews 4:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:12**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart.
 <small><sub>**BSB:**</sub></small>
 For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart.
 <small><sub>**Literal:**</sub></small>
 Living [is] for the word <the> of God and active and sharper than any sword two-edged even penetrating as far as [the] division of soul then and spirit, of joints and also marrows, and able to judge [the] thoughts and intentions of [the] heart;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.11|<< Hebrews 4:11]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.13|Hebrews 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Living [is] |**<big>[[G2198\|ζῶν]]</big>**  |zōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

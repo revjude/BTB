@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:3** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> to the men of Judah, and to the ones dwelling in Jerusalem, Plow to yourselves fields prepared for plowing! and you should not sow among thorn-bushes. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says to the men of Judah and Jerusalem: “Break up your unplowed ground, and do not sow among the thorns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.2|<< Jeremiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.4|Jeremiah 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΗΘ</p>
 
 \[The\] <span class="smallcaps">lord</span> devised  to ruin \[the\] wall of \[the\] daughter of Zion. He stretched out a measure, he did not return his hand from trampling; and the area around the wall mourned, and \[the\] wall with one accord was weakened. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
-<small><sub>**BSB:**</sub></small>
-The LORD determined to destroy the wall of the Daughter of Zion. He stretched out a measuring line and did not withdraw His hand from destroying. He made the ramparts and walls lament; together they waste away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

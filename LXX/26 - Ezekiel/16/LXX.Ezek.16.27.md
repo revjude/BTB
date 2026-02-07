@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:27** 
 <small><sub>**LXX:**</sub></small>
 And behold, I stretch out  my hand against you, and I will lift away  your laws, and deliver \[you\] up to \[the\] souls detesting you, daughters of Philistines, the ones turning aside from out of  your way, of which you were impious. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary [food], and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.
-<small><sub>**BSB:**</sub></small>
-Therefore I stretched out My hand against you and reduced your portion. I gave you over to the desire of those who hate you, the daughters of the Philistines, who were ashamed of your lewd conduct.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.26|<< Ezekiel 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.28|Ezekiel 16:28 >>]]</td></tr></table>
 
 | Translation | Greek |

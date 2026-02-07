@@ -1,12 +1,12 @@
-**Revelation 9:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:17**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses [were] as the heads of lions; and out of their mouths issued fire and smoke and brimstone.
 <small><sub>**BSB:**</sub></small>
 Now the horses and riders in my vision looked like this: The riders had breastplates the colors of fire, sapphire, and sulfur. The heads of the horses were like the heads of lions, and out of their mouths proceeded fire, smoke, and sulfur.
 <small><sub>**Literal:**</sub></small>
 And thus I saw the horses in the vision and those sitting on them having breastplates fiery and hyacinthine and brimstone. And the heads of the horses [were] like heads of lions, and out of the mouths of them proceed fire and smoke and brimstone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.16|<< Revelation 9:16]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.18|Revelation 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

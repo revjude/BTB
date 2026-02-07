@@ -1,12 +1,12 @@
-**Galatians 1:2
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:2**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the brethren which are with me, unto the churches of Galatia:
 <small><sub>**BSB:**</sub></small>
 and all the brothers with me, To the churches of Galatia:
 <small><sub>**Literal:**</sub></small>
 and the with me myself all brothers To the churches <the> of Galatia:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.1|<< Galatians 1:1]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.3|Galatians 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

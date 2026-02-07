@@ -1,10 +1,7 @@
 **LXX Genesis 29:29** 
 <small><sub>**LXX:**</sub></small>
 And Laban gave Bilhah the maidservant to his daughter. 
-<small><sub>**KJV:**</sub></small>
-And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.
-<small><sub>**BSB:**</sub></small>
-Laban also gave his servant girl Bilhah to his daughter Rachel as her maidservant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.28|<< Genesis 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.30|Genesis 29:30 >>]]</td></tr></table>
 
 | Translation | Greek |

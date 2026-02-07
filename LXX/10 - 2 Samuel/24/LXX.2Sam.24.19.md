@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:19** 
 <small><sub>**LXX:**</sub></small>
 And David ascended according to the word of Gad the prophet, in which manner \[the\] <span class="smallcaps">lord</span> gave charge to him. 
-<small><sub>**KJV:**</sub></small>
-And David, according to the saying of Gad, went up as the LORD commanded.
-<small><sub>**BSB:**</sub></small>
-So David went up at the word of Gad, just as the LORD had commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.18|<< 2 Samuel 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.20|2 Samuel 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

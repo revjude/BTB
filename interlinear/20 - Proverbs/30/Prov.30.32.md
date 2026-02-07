@@ -1,4 +1,4 @@
-**Proverbs 30:32** 
+**Proverbs 30:32**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, [lay] thine hand upon thy mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you have foolishly exalted yourself or if you have plotted evil, put your han
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.31|<< Proverbs 30:31]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.33|Proverbs 30:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have been foolish  |**<big>&#8207;[[H5034A\|נָבַ֥לְתָּ]]&#8207; </big>**| na.Val.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 4:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:6**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these things, brethren, I have in a figure transferred to myself and [to] Apollos for your sakes; that ye might learn in us not to think [of men] above that which is written, that no one of you be puffed up for one against another.
 <small><sub>**BSB:**</sub></small>
 Brothers, I have applied these things to myself and Apollos for your benefit, so that you may learn from us not to go beyond what is written. Then you will not take pride in one man over another.
 <small><sub>**Literal:**</sub></small>
 These things now, brothers, I have applied to myself and Apollos on account of you, so that in us you may learn <the> not beyond what [things] has been written to think that not one for <the> one you be puffed up over the other.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.5|<< 1 Corinthians 4:5]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.7|1 Corinthians 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

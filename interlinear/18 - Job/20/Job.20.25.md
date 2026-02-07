@@ -1,4 +1,4 @@
-**Job 20:25** 
+**Job 20:25**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors [are] upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is drawn out of his back, the gleaming point from his liver. Terrors come ove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.24|<< Job 20:24]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.26|Job 20:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will draw [it] out  |**<big>&#8207;[[H8025\|שָׁלַף֮]]&#8207; </big>**| sha.Laf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֪א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

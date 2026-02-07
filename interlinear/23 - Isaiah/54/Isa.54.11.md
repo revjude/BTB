@@ -1,4 +1,4 @@
-**Isaiah 54:11** 
+**Isaiah 54:11**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay t
 > $\quad$ referenced by: [[Rev.21.19|Rev 21:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O afflicted [one]  |**<big>&#8207;[[H6041\|עֲנִיָּ֥ה]]&#8207; </big>**| 'a.ni.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is storm tossed  |**<big>&#8207;[[H5590\|סֹעֲרָ֖ה]]&#8207; </big>**| so.'a.Rah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

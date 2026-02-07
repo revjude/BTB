@@ -1,10 +1,7 @@
 **LXX Proverbs 19:24** 
 <small><sub>**LXX:**</sub></small>
 The \[man\] hiding his unjust hands in \[his\] enfolded arm, not even  \[will he\] in any way bring them to \[his\] mouth. 
-<small><sub>**KJV:**</sub></small>
-A slothful [man] hideth his hand in [his] bosom, and will not so much as bring it to his mouth again.
-<small><sub>**BSB:**</sub></small>
-The slacker buries his hand in the dish; he will not even bring it back to his mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.23|<< Proverbs 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.25|Proverbs 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

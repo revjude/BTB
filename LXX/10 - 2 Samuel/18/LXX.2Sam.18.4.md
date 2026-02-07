@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:4** 
 <small><sub>**LXX:**</sub></small>
 And the king said to them, The pleasing \[thing\] before you I will do. And the king stood by the side of the gate, and all the people went forth by hundreds and by thousands. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.
-<small><sub>**BSB:**</sub></small>
-“I will do whatever seems best to you,” the king replied. So he stood beside the gate, while all the troops marched out by hundreds and by thousands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.3|<< 2 Samuel 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.5|2 Samuel 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

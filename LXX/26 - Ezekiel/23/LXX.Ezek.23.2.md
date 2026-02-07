@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, there were two women, daughters of one mother. 
-<small><sub>**KJV:**</sub></small>
-Son of man, there were two women, the daughters of one mother:
-<small><sub>**BSB:**</sub></small>
-“Son of man, there were two women, daughters of the same mother,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.1|<< Ezekiel 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.3|Ezekiel 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

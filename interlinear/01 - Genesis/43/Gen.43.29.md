@@ -1,4 +1,4 @@
-**Genesis 43:29** 
+**Genesis 43:29**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, [Is] this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joseph looked up and saw his brother Benjamin, his own mother’s son, he a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.28|<< Genesis 43:28]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.30|Genesis 43:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

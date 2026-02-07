@@ -1,10 +1,7 @@
 **LXX Exodus 23:19** 
 <small><sub>**LXX:**</sub></small>
 The first-fruits of the first produce  of your land you shall carry into the house of \[the\] <span class="smallcaps">lord</span>  your God. You shall not boil a lamb in her mother's milk. 
-<small><sub>**KJV:**</sub></small>
-The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
-<small><sub>**BSB:**</sub></small>
-Bring the best of the firstfruits of your soil to the house of the LORD your God. You must not cook a young goat in its mother’s milk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.18|<< Exodus 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.20|Exodus 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

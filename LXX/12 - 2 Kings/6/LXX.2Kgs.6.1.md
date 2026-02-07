@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of the prophets said to Elisha, Behold, indeed the place in which we live before you \[is\] scant for us. 
-<small><sub>**KJV:**</sub></small>
-And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
-<small><sub>**BSB:**</sub></small>
-Now the sons of the prophets said to Elisha, “Please take note that the place where we meet with you is too small for us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.27|<< 2 Kings 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.2|2 Kings 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

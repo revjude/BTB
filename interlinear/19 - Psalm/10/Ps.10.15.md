@@ -1,4 +1,4 @@
-**Psalms 10:15** 
+**Psalms 10:15**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Break thou the arm of the wicked and the evil [man]: seek out his wickedness [till] thou find none.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Break the arm of the wicked and evildoer; call him to account for his wickedness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.14|<< Psalms 10:14]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.16|Psalms 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | break  |**<big>&#8207;[[H7665\|שְׁ֭בֹר]]&#8207; </big>**| She.vor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] arm of  |**<big>&#8207;[[H2220\|זְר֣וֹעַ]]&#8207; </big>**| ze.Ro.a'<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

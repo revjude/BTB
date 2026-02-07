@@ -1,4 +1,4 @@
-**Ezekiel 44:13** 
+**Ezekiel 44:13**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not come near unto me, to do the office of a priest unto me, nor to come near to any of my holy things, in the most holy [place]: but they shall bear their shame, and their abominations which they have committed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They must not approach Me to serve Me as priests or come near any of My holy thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.12|<< Ezekiel 44:12]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.14|Ezekiel 44:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will draw near  |**<big>&#8207;[[H5066G\|יִגְּשׁ֤וּ]]&#8207; </big>**| yi.ge.Shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 3:18** 
 <small><sub>**LXX:**</sub></small>
 But with one accord the ones being bound do not hear \[the\] voice of \[the\] tribute-gatherer. 
-<small><sub>**KJV:**</sub></small>
-[There] the prisoners rest together; they hear not the voice of the oppressor.
-<small><sub>**BSB:**</sub></small>
-The captives enjoy their ease; they do not hear the voice of the oppressor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.17|<< Job 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.19|Job 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

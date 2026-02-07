@@ -1,4 +1,4 @@
-**Psalms 139:19** 
+**Psalms 139:19**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O God, that You would slay the wicked—away from me, you bloodthirsty men—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.18|<< Psalms 139:18]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.20|Psalms 139:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will kill  |**<big>&#8207;[[H6991\|תִּקְטֹ֖ל]]&#8207; </big>**| tik.Tol<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

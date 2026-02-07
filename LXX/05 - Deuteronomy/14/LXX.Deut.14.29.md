@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:29** 
 <small><sub>**LXX:**</sub></small>
 And the Levite shall come, for there is no portion for him nor lot with you, and the foreigner, and the orphan, and the widow  in  your cities, and they shall eat and shall be filled; that \[the\] <span class="smallcaps">lord</span> your God should bless you in all the works  of your hands, in whichever ones you should do. 
-<small><sub>**KJV:**</sub></small>
-And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which [are] within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.
-<small><sub>**BSB:**</sub></small>
-Then the Levite (because he has no portion or inheritance among you), the foreigner, the fatherless, and the widow within your gates may come and eat and be satisfied. And the LORD your God will bless you in all the work of your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.28|<< Deuteronomy 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.1|Deuteronomy 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

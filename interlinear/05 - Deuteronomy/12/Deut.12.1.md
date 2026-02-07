@@ -1,4 +1,4 @@
-**Deuteronomy 12:1** 
+**Deuteronomy 12:1**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the statutes and ordinances you must be careful to follow all the days
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.32|<< Deuteronomy 11:32]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.2|Deuteronomy 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֠לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the statutes  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2706G\|חֻקִּ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chu.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

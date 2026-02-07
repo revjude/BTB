@@ -1,12 +1,12 @@
-**Romans 9:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:8**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That is, They which are the children of the flesh, these [are] not the children of God: but the children of the promise are counted for the seed.
 <small><sub>**BSB:**</sub></small>
 So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring.
 <small><sub>**Literal:**</sub></small>
 That is not the children of the flesh these [are] children <the> of God, but the children of the promise are regarded as offspring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.7|<< Romans 9:7]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.9|Romans 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G3778\|τοῦτ᾽]]</big>**  |tout᾽ <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἔστιν,]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

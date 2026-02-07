@@ -1,4 +1,4 @@
-**Genesis 38:30** 
+**Genesis 38:30**<big><big>[[Gen.38.27 The Birth of Perez and Zerah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then his brother came out with the scarlet thread around his wrist, and he was n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.29|<< Genesis 38:29]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.1|Genesis 39:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came out  |**<big>&#8207;[[H3318M\|יָצָ֣א]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

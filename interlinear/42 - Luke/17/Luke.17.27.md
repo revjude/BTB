@@ -1,5 +1,5 @@
-**Luke 17:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:27**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
 <small><sub>**BSB:**</sub></small>
 People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all.
@@ -10,7 +10,7 @@ They were eating, were drinking, were marrying, were being given in marriage, un
 > $\quad$ alluding to: [[LXX.Gen.7.7|Gen 7:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were eating, |**<big>[[G2068\|ἤσθιον,]]</big>**  |ēsthion <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were drinking, |**<big>[[G4095\|ἔπινον,]]</big>**  |epinon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

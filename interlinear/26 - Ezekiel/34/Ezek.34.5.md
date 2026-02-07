@@ -1,4 +1,4 @@
-**Ezekiel 34:5** 
+**Ezekiel 34:5**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were scattered, because [there is] no shepherd: and they became meat to all the beasts of the field, when they were scattered.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They were scattered for lack of a shepherd, and when they were scattered they be
 > $\quad$ referenced by: [[Mark.6.34|Mark 6:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have been scattered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|תְּפוּצֶ֖ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.fu.Tzei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because not  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1097\|בְּלִ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

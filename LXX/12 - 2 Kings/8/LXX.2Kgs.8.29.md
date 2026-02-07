@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:29** 
 <small><sub>**LXX:**</sub></small>
 And king Jehoram returned  to be treated medically in Jezreel from the wounds of which the Syrians struck him in Ramoth Gilead, during  his waging war against Hazael king of Syria. And Ahaziah, son of Jehoram king of Judah went down  to see  Jehoram son of Ahab in Jezreel, because he was infirm. 
-<small><sub>**KJV:**</sub></small>
-And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
-<small><sub>**BSB:**</sub></small>
-So King Joram returned to Jezreel to recover from the wounds that the Arameans had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to visit Joram son of Ahab, because Joram had been wounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.28|<< 2 Kings 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.1|2 Kings 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

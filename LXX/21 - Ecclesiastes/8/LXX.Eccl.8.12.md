@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:12** 
 <small><sub>**LXX:**</sub></small>
 \[The one\] who sinned did  evil from then, and of their duration. For also even I know that there is good to the ones fearing  God, so that they should fear from in front of him. 
-<small><sub>**KJV:**</sub></small>
-Though a sinner do evil an hundred times, and his [days] be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
-<small><sub>**BSB:**</sub></small>
-Although a sinner does evil a hundred times and still lives long, yet I also know that it will go well with those who fear God, who are reverent in His presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.11|<< Ecclesiastes 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.13|Ecclesiastes 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

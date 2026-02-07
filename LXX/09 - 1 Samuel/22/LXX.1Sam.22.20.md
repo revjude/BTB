@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:20** 
 <small><sub>**LXX:**</sub></small>
 And one son of Ahimelech son of Ahitub came through safe, and \[the\] name to him \[was\] Abiathar, and he fled after David. 
-<small><sub>**KJV:**</sub></small>
-And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
-<small><sub>**BSB:**</sub></small>
-But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.19|<< 1 Samuel 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.21|1 Samuel 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

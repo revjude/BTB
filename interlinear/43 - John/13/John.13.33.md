@@ -1,12 +1,12 @@
-**John 13:33
-**<small><sub>**KJV:**</sub></small>
+**John 13:33**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.
 <small><sub>**BSB:**</sub></small>
 Little children, I am with you only a little while longer. You will look for Me, and as I said to the Jews, so now I say to you: ‘Where I am going, you cannot come.’
 <small><sub>**Literal:**</sub></small>
 Little children, yet a little while with you I am. You will seek Me, and even as I said to the Jews that Where I myself go you yourselves not are able to come, also to you I say now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.32|<< John 13:32]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.34|John 13:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Little children, |**<big>[[G5040\|τεκνία,]]</big>**  |teknia <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yet |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

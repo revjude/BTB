@@ -1,5 +1,5 @@
-**John 20:9
-**<small><sub>**KJV:**</sub></small>
+**John 20:9**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as yet they knew not the scripture, that he must rise again from the dead.
 <small><sub>**BSB:**</sub></small>
 For they still did not understand from the Scripture that Jesus had to rise from the dead.
@@ -10,7 +10,7 @@ not yet for they knew the Scripture that it is necessary for Him out from [the] 
 > $\quad$ alluding to: [[LXX.Ps.16.10|Ps 16:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not yet |**<big>[[G3764\|οὐδέπω]]</big>**  |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

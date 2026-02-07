@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:11** 
 <small><sub>**LXX:**</sub></small>
 And they burned incense there in all the high \[places\], as the nations which \[the\] <span class="smallcaps">lord</span> moved far away from their face. And they made partners, and they graved \[images\]  the <span class="smallcaps">lord</span> to anger. 
-<small><sub>**KJV:**</sub></small>
-And there they burnt incense in all the high places, as [did] the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger:
-<small><sub>**BSB:**</sub></small>
-They burned incense on all the high places like the nations that the LORD had driven out before them. They did wicked things, provoking the LORD to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.10|<< 2 Kings 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.12|2 Kings 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 33:13** 
+**Psalms 33:13**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD looketh from heaven; he beholdeth all the sons of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD looks down from heaven; He sees all the sons of men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.12|<< Psalms 33:12]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.14|Psalms 33:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] heavens  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H8064\|שָּׁמַיִם]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he looks  |**<big>&#8207;[[H5027\|הִבִּ֣יט]]&#8207; </big>**| hi.Bit<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

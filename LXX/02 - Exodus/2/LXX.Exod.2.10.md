@@ -1,10 +1,7 @@
 **LXX Exodus 2:10** 
 <small><sub>**LXX:**</sub></small>
 And the male child maturing, she brought it to the daughter of Pharaoh. And he became to her for a son. And she named  his name Moses. Saying, For from the water I took him up. 
-<small><sub>**KJV:**</sub></small>
-And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
-<small><sub>**BSB:**</sub></small>
-When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.9|<< Exodus 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.11|Exodus 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:10** is...

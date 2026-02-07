@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, Take to yourself a great new roll of papyrus, and write on it with \[the\] pen of a man \[concerning\] the swiftly made plunder of spoils, for it is at hand! 
-<small><sub>**KJV:**</sub></small>
-Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Mahershalalhashbaz.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to me, “Take a large scroll and write on it with an ordinary stylus: Maher-shalal-hash-baz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.25|<< Isaiah 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.2|Isaiah 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

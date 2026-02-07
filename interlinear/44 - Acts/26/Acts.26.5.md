@@ -1,12 +1,12 @@
-**Acts 26:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:5**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 <small><sub>**BSB:**</sub></small>
 They have known me for a long time and can testify, if they are willing, that I lived as a Pharisee, adhering to the strictest sect of our religion.
 <small><sub>**Literal:**</sub></small>
 knowing me from the first, if they may be willing to testify that according to the strictest sect <the> of our own religion I lived [as] a Pharisee;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.4|<< Acts 26:4]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.6|Acts 26:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G4267\|προγινώσκοντές]]</big>**  |proginōskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | me |**<big>[[G3165\|με]]</big>**  |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

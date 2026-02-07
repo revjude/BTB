@@ -1,10 +1,7 @@
 **LXX Leviticus 25:41** 
 <small><sub>**LXX:**</sub></small>
 and he shall go forth in the release from you himself, and  his children with him. And he shall go unto  his family; unto the possession  of his father he shall run. 
-<small><sub>**KJV:**</sub></small>
-And [then] shall he depart from thee, [both] he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
-<small><sub>**BSB:**</sub></small>
-Then he and his children are to be released, and he may return to his clan and to the property of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.40|<< Leviticus 25:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.42|Leviticus 25:42 >>]]</td></tr></table>
 
 | Translation | Greek |

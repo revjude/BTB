@@ -1,10 +1,7 @@
 **LXX Genesis 41:4** 
 <small><sub>**LXX:**</sub></small>
 And the seven shameful and thin in the flesh oxen ate up the seven oxen  good to the sight and  choice. And Pharaoh arose. 
-<small><sub>**KJV:**</sub></small>
-And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
-<small><sub>**BSB:**</sub></small>
-And the cows that were sickly and thin devoured the seven sleek, well-fed cows. Then Pharaoh woke up,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.3|<< Genesis 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.5|Genesis 41:5 >>]]</td></tr></table>
 
 | Translation | Greek |

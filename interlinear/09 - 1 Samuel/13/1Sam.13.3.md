@@ -1,4 +1,4 @@
-**1 Samuel 13:3** 
+**1 Samuel 13:3**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan smote the garrison of the Philistines that [was] in Geba, and the Philistines heard [of it]. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.2|<< 1 Samuel 13:2]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.4|1 Samuel 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he attacked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֣ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3129N\|יוֹנָתָ֗ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

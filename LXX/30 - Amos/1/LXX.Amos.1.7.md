@@ -1,10 +1,7 @@
 **LXX Amos 1:7** 
 <small><sub>**LXX:**</sub></small>
 And I will send out fire upon the walls of Gaza, and it shall devour  her foundations. 
-<small><sub>**KJV:**</sub></small>
-But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:
-<small><sub>**BSB:**</sub></small>
-So I will send fire upon the walls of Gaza, to consume its citadels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.6|<< Amos 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.8|Amos 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

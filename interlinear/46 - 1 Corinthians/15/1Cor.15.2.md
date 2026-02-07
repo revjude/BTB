@@ -1,12 +1,12 @@
-**1 Corinthians 15:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:2**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
 <small><sub>**BSB:**</sub></small>
 By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.
 <small><sub>**Literal:**</sub></small>
 through which also you are being saved, to the word I evangelised to you if you hold fast, unless only except in vain you have believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.1|<< 1 Corinthians 15:1]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.3|1 Corinthians 15:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

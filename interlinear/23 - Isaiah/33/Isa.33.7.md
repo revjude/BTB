@@ -1,4 +1,4 @@
-**Isaiah 33:7** 
+**Isaiah 33:7**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, their valiant ones cry aloud in the streets; the envoys of peace weep bi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.6|<< Isaiah 33:6]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.8|Isaiah 33:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֚ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | valiant one their  |**<big>&#8207;[[H0691\|אֶרְאֶלָּ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'er.'e.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

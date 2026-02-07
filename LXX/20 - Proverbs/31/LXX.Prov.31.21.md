@@ -1,10 +1,7 @@
 **LXX Proverbs 31:21** 
 <small><sub>**LXX:**</sub></small>
 Her husband does not take thought of the \[things\] in \[the\] house whenever he passes time somewhere; for all the ones of hers are being clothed. 
-<small><sub>**KJV:**</sub></small>
-She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.
-<small><sub>**BSB:**</sub></small>
-When it snows, she has no fear for her household, for they are all clothed in scarlet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.20|<< Proverbs 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.22|Proverbs 31:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Song of Solomon 8:5** 
+**Song of Solomon 8:5**<big><big>[[Song.8.5 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth [that] bare thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who is this coming up from the wilderness, leaning on her beloved? I roused you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.4|<< Song of Solomon 8:4]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.6|Song of Solomon 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֗את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

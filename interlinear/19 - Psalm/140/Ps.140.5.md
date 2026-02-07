@@ -1,4 +1,4 @@
-**Psalms 140:5** (140:6)
+**Psalms 140:5**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The proud hide a snare for me; the cords of their net are spread along the path,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.4|<< Psalms 140:4]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.6|Psalms 140:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have hidden  |**<big>&#8207;[[H2934\|טָֽמְנֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.me.nu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | proud [people]  |**<big>&#8207;[[H1343\|גֵאִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ge.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

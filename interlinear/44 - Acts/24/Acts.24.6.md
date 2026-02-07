@@ -1,12 +1,12 @@
-**Acts 24:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:6**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.
 <small><sub>**BSB:**</sub></small>
 and he even tried to desecrate the temple; so we seized him.
 <small><sub>**Literal:**</sub></small>
 who even the temple attempted to profane, whom also we seized and according to <the> our own law we wanted to judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.5|<< Acts 24:5]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.7|Acts 24:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

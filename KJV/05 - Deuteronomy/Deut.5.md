@@ -1,10 +1,10 @@
 (KJV) **Deuteronomy 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4|<< Deuteronomy 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6|Deuteronomy 6 >>]]</td></tr></table>
 
-***The Covenant at Horeb*** ^bsb471
+<big><big>[[Deut.5.1 The Covenant at Horeb|⥃]]</big></big>***The Covenant at Horeb***
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.5.1|1]]**<span class="endversemarker">]</span> And Moses called all Israel<small><small>[^2]</small></small>, and said unto them, Hear<small><small>[^3]</small></small>, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and<small><small>[^4]</small></small> do them. <span class="startversemarker">[</span>**[[Deut.5.2|2]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> our God made a covenant with us in Horeb.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Deut.5.3|3]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> made not this covenant with our fathers, but with us, \[even\] us, who \[are\] all of us here alive this day.<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Deut.5.4|4]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> talked with you face to face in the mount out of the midst of the fire,<small><small>[^7]</small></small>
 
-***The Ten Commandments***&emsp;<small><sup>\[ [[Exod.20|Exodus 20:1–17]] ]</sup></small> ^bsb472
+<big><big>[[Deut.5.5 The Ten Commandments|⥃]]</big></big>***The Ten Commandments***&emsp;<small><sup>\[ [[Exod.20|Exodus 20:1–17]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Deut.5.5|5]]**<span class="endversemarker">]</span> (I stood between the <span class="smallcaps">Lord</span> and you at that time, to shew you the word of the <span class="smallcaps">Lord</span>: for ye were afraid by reason of the fire, and went not up into the mount;) saying,<small><small>[^8]</small></small> 
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.5.6|6]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.5.16|16]]**<span class="endversemarker">]</span> [¶]Honour<small><small>[^29]</small></small> thy father and thy mother, as the <span class="smallcaps">Lord</span> thy God hath commanded thee; that thy days<small><small>[^30]</small></small> may be prolonged, and that it may go well with thee, in the land which the <span class="smallcaps">Lord</span> thy God giveth thee. <span class="startversemarker">[</span>**[[Deut.5.17|17]]**<span class="endversemarker">]</span> Thou shalt not kill.<small><small>[^31]</small></small> <span class="startversemarker">[</span>**[[Deut.5.18|18]]**<span class="endversemarker">]</span> Neither shalt thou commit adultery.<small><small>[^32]</small></small> <span class="startversemarker">[</span>**[[Deut.5.19|19]]**<span class="endversemarker">]</span> Neither shalt thou steal.<small><small>[^33]</small></small> <span class="startversemarker">[</span>**[[Deut.5.20|20]]**<span class="endversemarker">]</span> Neither shalt thou bear false witness against thy neighbour.<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Deut.5.21|21]]**<span class="endversemarker">]</span> Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any \[thing\] that \[is\] thy neighbour’s.<small><small>[^35]</small></small>
 
-***Moses Intercedes for the People***&emsp;<small><sup>\[ [[Exod.20|Exodus 20:18–21]] <big>†</big> [[Heb.12|Hebrews 12:18–29]] ]</sup></small> ^bsb473
+<big><big>[[Deut.5.22 Moses Intercedes for the People|⥃]]</big></big>***Moses Intercedes for the People***&emsp;<small><sup>\[ [[Exod.20|Exodus 20:18–21]] <big>†</big> [[Heb.12|Hebrews 12:18–29]] ]</sup></small>
 
  
 

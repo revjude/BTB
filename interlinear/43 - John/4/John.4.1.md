@@ -1,12 +1,12 @@
-**John 4:1
-**<small><sub>**KJV:**</sub></small>
+**John 4:1**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 <small><sub>**BSB:**</sub></small>
 When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John
 <small><sub>**Literal:**</sub></small>
 When therefore knew <the> Jesus that heard the Pharisees that Jesus more disciples makes and baptizes than John<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.36|<< John 3:36]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.2|John 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

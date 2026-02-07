@@ -1,12 +1,12 @@
-**Acts 23:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:8**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.
 <small><sub>**BSB:**</sub></small>
 For the Sadducees say that there is neither a resurrection nor angels nor spirits, but the Pharisees acknowledge them all.
 <small><sub>**Literal:**</sub></small>
 Sadducees indeed for say not there to be resurrection neither [to be] angel nor [to be] spirit; Pharisees however confess <the> both.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.7|<< Acts 23:7]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.9|Acts 23:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sadducees |**<big>[[G4523\|Σαδδουκαῖοι]]</big>**  |Saddoukaioi <small><sup>[[N-NPM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

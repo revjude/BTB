@@ -1,4 +1,4 @@
-**Ezekiel 24:11** 
+**Ezekiel 24:11**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and [that] the filthiness of it may be molten in it, [that] the scum of it may be consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set the empty pot on its coals until it becomes hot and its copper glows. Then i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.10|<< Ezekiel 24:10]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.12|Ezekiel 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and set it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5975G\|הַעֲמִידֶ֥]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.'a.mi.De.<small><sup>[[HVhv2ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

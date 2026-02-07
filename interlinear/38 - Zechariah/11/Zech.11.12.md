@@ -1,4 +1,4 @@
-**Zechariah 11:12** 
+**Zechariah 11:12**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, If ye think good, give [me] my price; and if not, forbear. So they weighed for my price thirty [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I told them, “If it seems right to you, give me my wages; but if not, kee
 > $\quad$ referenced by: [[Matt.26.15|Matt 26:15]] ☩ [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 8:26** 
+**Numbers 8:26**<big><big>[[Num.8.23 Retirement for Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After that, they may assist their brothers in fulfilling their duties at the Ten
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.25|<< Numbers 8:25]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.1|Numbers 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8334\|שֵׁרֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> she.Ret<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

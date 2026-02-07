@@ -1,10 +1,7 @@
 **LXX Exodus 5:10** 
 <small><sub>**LXX:**</sub></small>
 And hastened of them the foremen, and the scribes of the people. And they said to the people, saying, Thus says Pharaoh, No longer do I give to you straw. 
-<small><sub>**KJV:**</sub></small>
-And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw.
-<small><sub>**BSB:**</sub></small>
-So the taskmasters and foremen of the people went out and said to them, “This is what Pharaoh says: ‘I am no longer giving you straw.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.9|<< Exodus 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.11|Exodus 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

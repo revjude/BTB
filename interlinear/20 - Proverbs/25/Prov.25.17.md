@@ -1,4 +1,4 @@
-**Proverbs 25:17** 
+**Proverbs 25:17**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and [so] hate thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seldom set foot in your neighbor’s house, lest he grow weary and hate you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.16|<< Proverbs 25:16]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.18|Proverbs 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make rare  |**<big>&#8207;[[H3365\|הֹקַ֣ר]]&#8207; </big>**| ho.Kar<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foot your  |**<big>&#8207;[[H7272\|רַ֭גְלְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Rag.le.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

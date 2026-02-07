@@ -1,12 +1,12 @@
-**Matthew 1:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:13**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;
 <small><sub>**BSB:**</sub></small>
 Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.
 <small><sub>**Literal:**</sub></small>
 Zerubbabel then begat <the> Abiud; Abiud then begat <the> Eliakim; Eliakim then begat <the> Azor;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.12|<< Matthew 1:12]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.14|Matthew 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Zerubbabel |**<big>[[G2216H\|Ζοροβαβὲλ]]</big>**  |Zorobabel <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

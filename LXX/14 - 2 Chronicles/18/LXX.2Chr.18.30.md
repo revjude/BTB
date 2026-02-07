@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Syria gave charge to the heads of the chariots, to the ones with him, saying, Do not wage war with the small and the great, but the king of Israel only. 
-<small><sub>**KJV:**</sub></small>
-Now the king of Syria had commanded the captains of the chariots that [were] with him, saying, Fight ye not with small or great, save only with the king of Israel.
-<small><sub>**BSB:**</sub></small>
-Now the king of Aram had ordered his chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.29|<< 2 Chronicles 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.31|2 Chronicles 18:31 >>]]</td></tr></table>
 
 | Translation | Greek |

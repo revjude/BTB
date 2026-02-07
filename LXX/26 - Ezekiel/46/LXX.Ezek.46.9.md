@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:9** 
 <small><sub>**LXX:**</sub></small>
 And whenever the people of the land should enter before \[the\] <span class="smallcaps">lord</span> during the holidays, the one entering by the way of the gate  towards \[the\] north, to do obeisance, shall go forth by the way of the gate  towards \[the\] south; and the one entering by the way of the gate  towards \[the\] south shall go forth by the way of the gate  towards \[the\] north. He shall not return by the gate by which he entered, but straightway from it he shall he go forth. 
-<small><sub>**KJV:**</sub></small>
-But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth over against it.
-<small><sub>**BSB:**</sub></small>
-When the people of the land come before the LORD at the appointed feasts, whoever enters by the north gate to worship must go out by the south gate, and whoever enters by the south gate must go out by the north gate. No one is to return through the gate by which he entered, but each must go out by the opposite gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.8|<< Ezekiel 46:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.10|Ezekiel 46:10 >>]]</td></tr></table>
 
 | Translation | Greek |

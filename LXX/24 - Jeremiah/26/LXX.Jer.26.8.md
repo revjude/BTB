@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass of Jeremiah ceasing speaking all which \[the\] <span class="smallcaps">lord</span> ordered to him to say to all the people, that they seized him -- the priests, and the false prophets, and all the people, saying, To death he shall die, 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when Jeremiah had made an end of speaking all that the LORD had commanded [him] to speak unto all the people, that the priests and the prophets and all the people took him, saying, Thou shalt surely die.
-<small><sub>**BSB:**</sub></small>
-and as soon as he had finished telling all the people everything the LORD had commanded him to say, the priests and prophets and all the people seized him, shouting, “You must surely die!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.7|<< Jeremiah 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.9|Jeremiah 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

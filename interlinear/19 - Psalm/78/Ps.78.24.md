@@ -1,4 +1,4 @@
-**Psalms 78:24** 
+**Psalms 78:24**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And had rained down manna upon them to eat, and had given them of the corn of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He rained down manna for them to eat; He gave them grain from heaven.
 > $\quad$ referenced by: [[John.6.31|John 6:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rained down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4305\|יַּמְטֵ֬ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.Ter<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

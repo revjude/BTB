@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:23** 
 <small><sub>**LXX:**</sub></small>
 And David did not take  their number from twenty years and below, for \[the\] <span class="smallcaps">lord</span> spoke to multiply  Israel as the stars of the heaven. 
-<small><sub>**KJV:**</sub></small>
-But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.
-<small><sub>**BSB:**</sub></small>
-David did not count the men aged twenty or under, because the LORD had said that He would make Israel as numerous as the stars of the sky.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.22|<< 1 Chronicles 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.24|1 Chronicles 27:24 >>]]</td></tr></table>
 
 | Translation | Greek |

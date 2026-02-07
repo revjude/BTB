@@ -1,10 +1,7 @@
 **LXX Judges 6:21** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> stretched out the tip of the rod  in  his hand, and touched of the meats, and of the unleavened \[breads\]; and fire was lit from out of the rock, and it devoured the meats and the unleavened \[breads\]. And the angel of \[the\] <span class="smallcaps">lord</span> departed from his eyes. 
-<small><sub>**KJV:**</sub></small>
-Then the angel of the LORD put forth the end of the staff that [was] in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the LORD departed out of his sight.
-<small><sub>**BSB:**</sub></small>
-Then the angel of the LORD extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread. Then the angel of the LORD vanished from his sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.20|<< Judges 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.22|Judges 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

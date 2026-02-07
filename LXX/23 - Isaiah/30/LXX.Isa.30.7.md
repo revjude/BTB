@@ -1,10 +1,7 @@
 **LXX Isaiah 30:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] Egyptians shall benefit you in vain and with emptiness. Report to them that, This comfort of yours \[is\] vain! 
-<small><sub>**KJV:**</sub></small>
-For the Egyptians shall help in vain, and to no purpose: therefore have I cried concerning this, Their strength [is] to sit still.
-<small><sub>**BSB:**</sub></small>
-Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits Still.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.6|<< Isaiah 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.8|Isaiah 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 81:12** 
 <small><sub>**LXX:**</sub></small>
 And I sent them out according to the practices  of their hearts; they shall go in  their practices. 
-<small><sub>**KJV:**</sub></small>
-So I gave them up unto their own hearts’ lust: [and] they walked in their own counsels.
-<small><sub>**BSB:**</sub></small>
-So I gave them up to their stubborn hearts to follow their own devices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.11|<< Psalm 81:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.13|Psalm 81:13 >>]]</td></tr></table>
 
 | Translation | Greek |

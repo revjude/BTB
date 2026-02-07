@@ -1,10 +1,7 @@
 **LXX Exodus 16:8** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, \[It is\] in the \[the\] <span class="smallcaps">lord</span> giving to you in the evening meats to eat, and bread loaves in the morning for fullness, on account of the <span class="smallcaps">lord's</span> hearing  your grumbling which you complain against us. But we, what are we? For not is your grumbling against us, but against  God. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, [This shall be], when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what [are] we? your murmurings [are] not against us, but against the LORD.
-<small><sub>**BSB:**</sub></small>
-And Moses added, “The LORD will give you meat to eat this evening and bread to fill you in the morning, for He has heard your grumbling against Him. Who are we? Your grumblings are not against us but against the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.7|<< Exodus 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.9|Exodus 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

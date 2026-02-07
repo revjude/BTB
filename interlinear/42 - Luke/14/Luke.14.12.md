@@ -1,12 +1,12 @@
-**Luke 14:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:12**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor [thy] rich neighbours; lest they also bid thee again, and a recompence be made thee.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to the man who had invited Him, “When you host a dinner or a banquet, do not invite your friends or brothers or relatives or rich neighbors. Otherwise, they may invite you in return, and you will be repaid.
 <small><sub>**Literal:**</sub></small>
 He was saying then also to the [one] having invited Him; When you may make a dinner or a supper, not do call the friends of you nor [call] the brothers of you nor [call] the relatives of you nor [call] neighbours rich otherwise also they themselves may invite in return you and it may become recompense to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.11|<< Luke 14:11]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.13|Luke 14:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G3004G\|Ἔλεγεν]]</big>**  |Elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

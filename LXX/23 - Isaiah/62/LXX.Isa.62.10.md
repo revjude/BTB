@@ -1,10 +1,7 @@
 **LXX Isaiah 62:10** 
 <small><sub>**LXX:**</sub></small>
 Go through  my gates, and open a way \[for\] my people! And the stones of the ones from the way scatter away! Lift the agreed upon sign unto the nations! 
-<small><sub>**KJV:**</sub></small>
-Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.
-<small><sub>**BSB:**</sub></small>
-Go out, go out through the gates; prepare the way for the people! Build it up, build up the highway; clear away the stones; raise a banner for the nations!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.9|<< Isaiah 62:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.11|Isaiah 62:11 >>]]</td></tr></table>
 
 | Translation | Greek |

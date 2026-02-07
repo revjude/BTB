@@ -1,12 +1,12 @@
-**Matthew 18:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:35**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.
 <small><sub>**BSB:**</sub></small>
 That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”
 <small><sub>**Literal:**</sub></small>
 Thus also the Father of Mine <the> heavenly will do to you only unless you may forgive each the brother of him from the heart of you the trespasses of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.34|<< Matthew 18:34]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.1|Matthew 19:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

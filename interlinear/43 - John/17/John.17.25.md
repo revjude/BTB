@@ -1,12 +1,12 @@
-**John 17:25
-**<small><sub>**KJV:**</sub></small>
+**John 17:25**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
 <small><sub>**BSB:**</sub></small>
 Righteous Father, although the world has not known You, I know You, and they know that You sent Me.
 <small><sub>**Literal:**</sub></small>
 Father righteous, although the world You not has known, I myself now You have known, and these have known that You yourself Me sent;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.24|<< John 17:24]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.26|John 17:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Father [^1] |**<big>[[G3962\|πάτερ]]</big>**  |pater <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
 | righteous, |**<big>[[G1342\|δίκαιε,]]</big>**  |dikaie <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

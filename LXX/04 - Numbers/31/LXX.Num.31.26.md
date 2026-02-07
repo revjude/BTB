@@ -1,10 +1,7 @@
 **LXX Numbers 31:26** 
 <small><sub>**LXX:**</sub></small>
 Take the total sum of the spoils of the captivity, from man unto beast, you and Eleazar the priest, and the rulers of the patrimony of the congregation! 
-<small><sub>**KJV:**</sub></small>
-Take the sum of the prey that was taken, [both] of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:
-<small><sub>**BSB:**</sub></small>
-“You and Eleazar the priest and the family heads of the congregation are to take a count of what was captured, both of man and beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.25|<< Numbers 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.27|Numbers 31:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 13:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:27**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?
 <small><sub>**BSB:**</sub></small>
 The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’
 <small><sub>**Literal:**</sub></small>
 Having come to [him] now the servants of the master of the house said to him; Sir, surely good seed did you sow in <the> your field? How then has it the weeds?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.26|<< Matthew 13:26]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.28|Matthew 13:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come to [him] |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

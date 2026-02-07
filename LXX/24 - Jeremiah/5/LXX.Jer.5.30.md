@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:30** 
 <small><sub>**LXX:**</sub></small>
 A change of state and causes for shuddering was taken place upon the earth. 
-<small><sub>**KJV:**</sub></small>
-A wonderful and horrible thing is committed in the land;
-<small><sub>**BSB:**</sub></small>
-A horrible and shocking thing has happened in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.29|<< Jeremiah 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.31|Jeremiah 5:31 >>]]</td></tr></table>
 
 | Translation | Greek |

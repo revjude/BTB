@@ -1,12 +1,12 @@
-**Mark 14:60
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:60**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what [is it which] these witness against thee?
 <small><sub>**BSB:**</sub></small>
 So the high priest stood up before them and questioned Jesus, “Have You no answer? What are these men testifying against You?”
 <small><sub>**Literal:**</sub></small>
 And having stood up the high priest in the midst he questioned <the> Jesus saying; Not answer You no [thing] What [about] these You testify against?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.59|<< Mark 14:59]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.61|Mark 14:61 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stood up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

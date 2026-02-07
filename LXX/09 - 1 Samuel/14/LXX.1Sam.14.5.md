@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:5** 
 <small><sub>**LXX:**</sub></small>
 The one extremity from \[the\] north was going to Michmash, and the other extremity from \[the\] south was going to Gibeah. 
-<small><sub>**KJV:**</sub></small>
-The forefront of the one [was] situate northward over against Michmash, and the other southward over against Gibeah.
-<small><sub>**BSB:**</sub></small>
-One cliff stood to the north toward Michmash, and the other to the south toward Geba.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.4|<< 1 Samuel 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.6|1 Samuel 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

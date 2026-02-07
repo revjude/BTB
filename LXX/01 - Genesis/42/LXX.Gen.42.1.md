@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob seeing that there is grain for sale in Egypt, said to  his sons, Why are you lazy? 
-<small><sub>**KJV:**</sub></small>
-Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
-<small><sub>**BSB:**</sub></small>
-When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.57|<< Genesis 41:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.2|Genesis 42:2 >>]]</td></tr></table>
 
 | Translation | Greek |

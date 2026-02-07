@@ -1,4 +1,4 @@
-**Isaiah 40:24** 
+**Isaiah 40:24**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No sooner are they planted, no sooner are they sown, no sooner have their stems 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.23|<< Isaiah 40:23]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.25|Isaiah 40:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even  |**<big>&#8207;[[H0637\|אַ֣ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H1077\|בַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

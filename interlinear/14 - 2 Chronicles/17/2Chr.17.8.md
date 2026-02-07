@@ -1,4 +1,4 @@
-**2 Chronicles 17:8** 
+**2 Chronicles 17:8**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with them [he sent] Levites, [even] Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ accompanied by certain Levites—Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiram
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.7|<< 2 Chronicles 17:7]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.9|2 Chronicles 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] with them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.ma.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

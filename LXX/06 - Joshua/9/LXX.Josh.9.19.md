@@ -1,10 +1,7 @@
 **LXX Joshua 9:19** 
 <small><sub>**LXX:**</sub></small>
 And all the rulers said to all the congregation, We swore by an oath to them by \[the\] <span class="smallcaps">lord</span>  God of Israel. And now, we shall not be able to touch them. 
-<small><sub>**KJV:**</sub></small>
-But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them.
-<small><sub>**BSB:**</sub></small>
-All the leaders answered, “We have sworn an oath to them by the LORD, the God of Israel, and now we cannot touch them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.18|<< Joshua 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.20|Joshua 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

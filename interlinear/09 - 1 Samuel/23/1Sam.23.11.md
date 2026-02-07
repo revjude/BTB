@@ -1,4 +1,4 @@
-**1 Samuel 23:11** 
+**1 Samuel 23:11**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O LORD God of Israel, I beseech thee, tell thy servant. And the LORD said, He will come down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will the citizens of Keilah surrender me into his hand? Will Saul come down, as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.10|<< 1 Samuel 23:10]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.12|1 Samuel 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will they deliver up me  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5462\|יַסְגִּרֻ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yas.gi.Ru.<small><sup>[[HVhi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] citizens of  |**<big>&#8207;[[H1167I\|בַעֲלֵי֩]]&#8207; </big>**| va.'a.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

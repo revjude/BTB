@@ -1,4 +1,4 @@
-**Nehemiah 4:3** (3:35)
+**Nehemiah 4:3**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Tobiah the Ammonite [was] by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Tobiah the Ammonite, who was beside him, said, “If even a fox were to cli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.2|<< Nehemiah 4:2]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.4|Nehemiah 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Tobiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2900I\|טוֹבִיָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> toi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Ammonite  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5984H\|עַמֹּנִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mo.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

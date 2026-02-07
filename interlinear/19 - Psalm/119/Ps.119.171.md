@@ -1,4 +1,4 @@
-**Psalms 119:171** 
+**Psalms 119:171**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lips shall utter praise, when thou hast taught me thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My lips pour forth praise, for You teach me Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.171|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.170|<< Psalms 119:170]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.172|Psalms 119:172 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they pour forth  |**<big>&#8207;[[H5042\|תַּבַּ֣עְנָה]]&#8207; </big>**| ta.Ba'.nah<small><sup>[[HVhi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lips my  |**<big>&#8207;[[H8193G\|שְׂפָתַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| se.fa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

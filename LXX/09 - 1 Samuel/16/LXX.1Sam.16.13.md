@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:13** 
 <small><sub>**LXX:**</sub></small>
 And Samuel took the horn  of oil, and he anointed him in \[the\] midst  of his brothers. And spirit \[of the\] <span class="smallcaps">lord</span> sprang up upon David from  that day and forward. And Samuel rose up and went forth unto Ramah. 
-<small><sub>**KJV:**</sub></small>
-Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah.
-<small><sub>**BSB:**</sub></small>
-So Samuel took the horn of oil and anointed him in the presence of his brothers, and the Spirit of the LORD rushed upon David from that day forward. Then Samuel set out and went to Ramah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.12|<< 1 Samuel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.14|1 Samuel 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

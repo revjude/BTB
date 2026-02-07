@@ -1,4 +1,4 @@
-**Psalms 69:18** (69:19)
+**Psalms 69:18**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw nigh unto my soul, [and] redeem it: deliver me because of mine enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Draw near to my soul and redeem me; ransom me because of my foes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.17|<< Psalms 69:17]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.19|Psalms 69:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draw near !  |**<big>&#8207;[[H7126G\|קָרְבָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ka.re.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

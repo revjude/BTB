@@ -1,12 +1,12 @@
-**Revelation 16:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:15**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I come as a thief. Blessed [is] he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am coming like a thief. Blessed is the one who remains awake and clothed, so that he will not go naked and let his shame be exposed.”
 <small><sub>**Literal:**</sub></small>
 Behold I am coming like a thief. Blessed [is] the [one] watching and keeping the garments of him, so that not naked he may walk and they may see the shame of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.14|<< Revelation 16:14]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.16|Revelation 16:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I am coming |**<big>[[G2064\|ἔρχομαι]]</big>**  |erchomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

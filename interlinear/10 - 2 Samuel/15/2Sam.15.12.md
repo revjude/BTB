@@ -1,4 +1,4 @@
-**2 Samuel 15:12** 
+**2 Samuel 15:12**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom sent for Ahithophel the Gilonite, David’s counseller, from his city, [even] from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While Absalom was offering the sacrifices, he sent for Ahithophel the Gilonite, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.11|<< 2 Samuel 15:11]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.13|2 Samuel 15:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Absalom  |**<big>&#8207;[[H0053\|אַ֠בְשָׁלוֹם]]&#8207; </big>**| 'Av.sha.lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

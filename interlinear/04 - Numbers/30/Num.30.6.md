@@ -1,4 +1,4 @@
-**Numbers 30:6** (30:7)
+**Numbers 30:6**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a woman marries while under a vow or rash promise by which she has bound hers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.5|<< Numbers 30:5]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.7|Numbers 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to belong>  |**<big>&#8207;[[H1961\|הָי֤וֹ]]&#8207; </big>**| ha.Yo<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

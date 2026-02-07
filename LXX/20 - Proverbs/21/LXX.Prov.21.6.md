@@ -1,10 +1,7 @@
 **LXX Proverbs 21:6** 
 <small><sub>**LXX:**</sub></small>
 The one producing treasures by a lying tongue pursues vanity, and comes unto \[the\] snare of death. 
-<small><sub>**KJV:**</sub></small>
-The getting of treasures by a lying tongue [is] a vanity tossed to and fro of them that seek death.
-<small><sub>**BSB:**</sub></small>
-Making a fortune by a lying tongue is a vanishing mist, a deadly pursuit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.5|<< Proverbs 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.7|Proverbs 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

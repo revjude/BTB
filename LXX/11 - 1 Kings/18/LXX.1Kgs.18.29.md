@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:29** 
 <small><sub>**LXX:**</sub></small>
 And they prophesied until of which \[time\] it went into the midday. And it came to pass as the time of the midday  to ascend for the sacrifice -- and there was no sound, and there was no hearing. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when midday was past, and they prophesied until the [time] of the offering of the [evening] sacrifice, that [there was] neither voice, nor any to answer, nor any that regarded.
-<small><sub>**BSB:**</sub></small>
-Midday passed, and they kept on raving until the time of the evening sacrifice. But there was no response; no one answered, no one paid attention.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.28|<< 1 Kings 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.30|1 Kings 18:30 >>]]</td></tr></table>
 
 | Translation | Greek |

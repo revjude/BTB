@@ -1,4 +1,4 @@
-**Ezekiel 48:31** 
+**Ezekiel 48:31**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gates of the city [shall be] after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the gates of the city will be named after the tribes of Israel. On the north sid
 > $\quad$ referenced by: [[Rev.21.12|Rev 21:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] gates of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8179G\|שַׁעֲרֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֗יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 7:33** 
+**Jeremiah 7:33**<big><big>[[Jer.7.30 The Valley of Slaughter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray [them] away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The corpses of this people will become food for the birds of the air and the bea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.32|<< Jeremiah 7:32]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.34|Jeremiah 7:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָ֨יְתָ֜ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] corpse[s] of  |**<big>&#8207;[[H5038\|נִבְלַ֨ת]]&#8207; </big>**| niv.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

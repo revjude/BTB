@@ -1,4 +1,4 @@
-**Proverbs 18:9** 
+**Proverbs 18:9**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He also that is slothful in his work is brother to him that is a great waster.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever is slothful in his work is brother to him who destroys.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.8|<< Proverbs 18:8]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.10|Proverbs 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֭ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] shows himself idle  |**<big>&#8207;[[H7503\|מִתְרַפֶּ֣ה]]&#8207; </big>**| mit.ra.Peh<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

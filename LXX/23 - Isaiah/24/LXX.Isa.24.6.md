@@ -1,10 +1,7 @@
 **LXX Isaiah 24:6** 
 <small><sub>**LXX:**</sub></small>
 Therefore this curse shall devour the earth; for the ones dwelling on it sinned; on account of this the ones dwelling on the earth will be poor, and a few men will be left behind. 
-<small><sub>**KJV:**</sub></small>
-Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.
-<small><sub>**BSB:**</sub></small>
-Therefore a curse has consumed the earth, and its inhabitants must bear the guilt; the earth’s dwellers have been burned, and only a few survive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.5|<< Isaiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.7|Isaiah 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

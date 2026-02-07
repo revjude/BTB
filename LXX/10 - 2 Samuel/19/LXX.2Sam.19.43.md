@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:43** 
 <small><sub>**LXX:**</sub></small>
 And the men of Israel answered to the men of Judah, and said, \[There are\] ten hands to me for the king, also indeed in  David I am over you. And why \[is it\] that you insult me, and it was not  my word first  to return the king to me? And the saying of \[the\] men of Judah was hardened above the saying of \[the\] men of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more [right] in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
-<small><sub>**BSB:**</sub></small>
-“We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?” But the men of Judah spoke more fiercely than the men of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.42|<< 2 Samuel 19:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.1|2 Samuel 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

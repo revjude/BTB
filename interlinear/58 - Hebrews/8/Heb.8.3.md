@@ -1,12 +1,12 @@
-**Hebrews 8:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:3**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every high priest is ordained to offer gifts and sacrifices: wherefore [it is] of necessity that this man have somewhat also to offer.
 <small><sub>**BSB:**</sub></small>
 And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer.
 <small><sub>**Literal:**</sub></small>
 Every for high priest in order <the> to offer gifts both and sacrifices is appointed; wherefore [it was] necessary to have something also [for] this One that He may offer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.2|<< Hebrews 8:2]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.4|Hebrews 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

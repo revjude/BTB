@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But if by turning, you should turn, you and  your children, from me and  my orders which I put before you, so as to not keep, and you should go and should serve other gods, and should do obeisance to them; 
-<small><sub>**KJV:**</sub></small>
-[But] if ye shall at all turn from following me, ye or your children, and will not keep my commandments [and] my statutes which I have set before you, but go and serve other gods, and worship them:
-<small><sub>**BSB:**</sub></small>
-But if indeed you or your sons turn away from following Me and do not keep the commandments and statutes I have set before you, and if you go off to serve and worship other gods,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.5|<< 1 Kings 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.7|1 Kings 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

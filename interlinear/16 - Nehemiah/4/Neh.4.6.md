@@ -1,4 +1,4 @@
-**Nehemiah 4:6** (3:38)
+**Nehemiah 4:6**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we rebuilt the wall until all of it was joined together up to half its height
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.5|<< Nehemiah 4:5]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.7|Nehemiah 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we rebuilt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|נִּבְנֶה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> niv.Neh<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

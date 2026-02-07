@@ -1,10 +1,7 @@
 **LXX Daniel 10:6** 
 <small><sub>**LXX:**</sub></small>
 And  his body \[was\] as Tharsis \[stone\], and  his face as a sight of lightning, and  his eyes as lamps of fire, and  his arms and  his legs as \[the\] sight of brass shining, and the sound  of his words as a sound of a multitude. 
-<small><sub>**KJV:**</sub></small>
-His body also [was] like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
-<small><sub>**BSB:**</sub></small>
-His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.5|<< Daniel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.7|Daniel 10:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 10:6** is...

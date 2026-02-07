@@ -1,10 +1,7 @@
 **LXX Esther 7:8** 
 <small><sub>**LXX:**</sub></small>
 And the king returned from out of the garden; and Haman had fallen upon the bed petitioning the queen. And the king said, So as even \[with my\] wife you use force in  my house. And Haman, hearing, was overawed  in front \[of him\]. 
-<small><sub>**KJV:**</sub></small>
-Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther [was]. Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face.
-<small><sub>**BSB:**</sub></small>
-Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, “Would he actually assault the queen while I am in the palace?” As soon as the words had left the king’s mouth, they covered Haman’s face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.7|<< Esther 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.9|Esther 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

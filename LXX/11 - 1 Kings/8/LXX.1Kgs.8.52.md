@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:52** 
 <small><sub>**LXX:**</sub></small>
 And your eyes and your ears be open to the supplication  of your servant, and to the supplication  of your people Israel! to hearken to them in all what ever they should call upon you. 
-<small><sub>**KJV:**</sub></small>
-That thine eyes may be open unto the supplication of thy servant, and unto the supplication of thy people Israel, to hearken unto them in all that they call for unto thee.
-<small><sub>**BSB:**</sub></small>
-May Your eyes be open to the pleas of Your servant and of Your people Israel, and may You listen to them whenever they call to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.51|<< 1 Kings 8:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.53|1 Kings 8:53 >>]]</td></tr></table>
 
 | Translation | Greek |

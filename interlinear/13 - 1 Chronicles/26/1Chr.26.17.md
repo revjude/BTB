@@ -1,4 +1,4 @@
-**1 Chronicles 26:17** 
+**1 Chronicles 26:17**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eastward [were] six Levites, northward four a day, southward four a day, and toward Asuppim two [and] two.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each day there were six Levites on the east, four on the north, four on the sout
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the east  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4217H\|מִּזְרָח֮]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֣ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

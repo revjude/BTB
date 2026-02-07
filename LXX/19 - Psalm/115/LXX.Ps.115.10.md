@@ -1,10 +1,7 @@
 **LXX Psalm 115:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] house of Aaron hopes upon \[the\] <span class="smallcaps">lord</span>; he is their helper and defender. 
-<small><sub>**KJV:**</sub></small>
-O house of Aaron, trust in the LORD: he [is] their help and their shield.
-<small><sub>**BSB:**</sub></small>
-O house of Aaron, trust in the LORD! He is their help and shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.9|<< Psalm 115:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.11|Psalm 115:11 >>]]</td></tr></table>
 
 | Translation | Greek |

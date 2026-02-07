@@ -1,12 +1,12 @@
-**Luke 5:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:2**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing [their] nets.
 <small><sub>**BSB:**</sub></small>
 He saw two boats at the edge of the lake. The fishermen had left them and were washing their nets.
 <small><sub>**Literal:**</sub></small>
 and He saw two boats already lying by the lake. <the> but the fishermen from them having gone out were washing the nets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.1|<< Luke 5:1]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.3|Luke 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He saw |**<big>[[G1492H\|εἶδεν]]</big>**  |eiden <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

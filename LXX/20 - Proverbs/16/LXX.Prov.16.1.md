@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[Let the\] heart of a man consider just \[things\], that his footsteps should set right by God. All the works of the humble \[are\] apparent by  God; but the impious shall be destroyed in an evil day. 
-<small><sub>**KJV:**</sub></small>
-The preparations of the heart in man, and the answer of the tongue, [is] from the LORD.
-<small><sub>**BSB:**</sub></small>
-The plans of the heart belong to man, but the reply of the tongue is from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.33|<< Proverbs 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.5|Proverbs 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

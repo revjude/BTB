@@ -1,10 +1,7 @@
 **LXX Exodus 22:5** 
 <small><sub>**LXX:**</sub></small>
 And if any should graze upon a field or a vineyard, and should let  his cattle graze upon another field, he shall pay from  his field according to  his produce; but if all the field should be grazed upon,  he shall pay from his best field and from his best vineyard. 
-<small><sub>**KJV:**</sub></small>
-If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.
-<small><sub>**BSB:**</sub></small>
-If a man grazes his livestock in a field or vineyard and allows them to stray so that they graze in someone else’s field, he must make restitution from the best of his own field or vineyard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.4|<< Exodus 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.6|Exodus 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

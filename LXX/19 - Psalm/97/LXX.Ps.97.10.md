@@ -1,10 +1,7 @@
 **LXX Psalm 97:10** 
 <small><sub>**LXX:**</sub></small>
 The ones loving the <span class="smallcaps">lord</span> detest evil. \[The\] <span class="smallcaps">lord</span> guards the souls  of his sacred ones. From out of \[the\] hand of \[the\] sinner he shall rescue them. 
-<small><sub>**KJV:**</sub></small>
-Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.
-<small><sub>**BSB:**</sub></small>
-Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.9|<< Psalm 97:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.11|Psalm 97:11 >>]]</td></tr></table>
 
 | Translation | Greek |

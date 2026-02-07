@@ -1,4 +1,4 @@
-**Numbers 31:19** 
+**Numbers 31:19**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify [both] yourselves and your captives on the third day, and on the seventh day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of you who have killed a person or touched the dead are to remain outside th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.18|<< Numbers 31:18]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.20|Numbers 31:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | encamp  |**<big>&#8207;[[H2583\|חֲנ֛וּ]]&#8207; </big>**| cha.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

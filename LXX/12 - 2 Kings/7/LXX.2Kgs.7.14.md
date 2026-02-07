@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:14** 
 <small><sub>**LXX:**</sub></small>
 And they took two riders of horses; and the king of Israel sent \[them\] after  Syria, saying, Go and see! 
-<small><sub>**KJV:**</sub></small>
-They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see.
-<small><sub>**BSB:**</sub></small>
-Then the scouts took two chariots with horses, and the king sent them after the Aramean army, saying, “Go and see.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.13|<< 2 Kings 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.15|2 Kings 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

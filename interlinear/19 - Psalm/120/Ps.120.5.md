@@ -1,4 +1,4 @@
-**Psalms 120:5** 
+**Psalms 120:5**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe is me, that I sojourn in Mesech, [that] I dwell in the tents of Kedar!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to me that I dwell in Meshech, that I live among the tents of Kedar!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.4|<< Psalms 120:4]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.6|Psalms 120:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0190\|אֽוֹיָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o.yah-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

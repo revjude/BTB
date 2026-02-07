@@ -1,12 +1,12 @@
-**Psalms 34:1** (34:2)
+**Psalms 34:1**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-[A Psalm] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed. I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.
+I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.
 <small><sub>**BSB:**</sub></small>
 Of David, when he pretended to be insane before Abimelech, so that the king drove him away. I will bless the LORD at all times; His praise will always be on my lips.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.0|<< Psalms 34:0]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.2|Psalms 34:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will bless  |**<big>&#8207;[[H1288\|אֲבָרֲכָ֣ה]]&#8207; </big>**| 'a.va.ra.Khah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

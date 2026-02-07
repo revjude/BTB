@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Guard  your foot whenever you should go into \[the\] house  of God and \[are\] near  to hear! \[Let\] your sacrifice \[be\] above \[the\] gift of the fools, for they are not knowing  to do bad. 
-<small><sub>**KJV:**</sub></small>
-Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
-<small><sub>**BSB:**</sub></small>
-Guard your steps when you go to the house of God. Draw near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.16|<< Ecclesiastes 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.2|Ecclesiastes 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

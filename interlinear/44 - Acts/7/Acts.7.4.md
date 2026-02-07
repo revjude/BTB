@@ -1,5 +1,5 @@
-**Acts 7:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:4**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.
 <small><sub>**BSB:**</sub></small>
 So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.
@@ -10,7 +10,7 @@ Then having gone out from [the] land of Chaldeans he dwelt in Haran; And from th
 > $\quad$ alluding to: [[LXX.Gen.11.31|Gen 11:31]] ☩ [[LXX.Gen.12.4|Gen 12:4-5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 16:2** 
+**Deuteronomy 16:2**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to offer to the LORD your God the Passover sacrifice from the herd or fl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.1|<< Deuteronomy 16:1]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.3|Deuteronomy 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will sacrifice  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2076\|זָבַ֥חְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.Vach.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a passover  |**<big>&#8207;[[H6453\|פֶּ֛סַח]]&#8207; </big>**| Pe.sach<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 6:47
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:47**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when even was come, the ship was in the midst of the sea, and he alone on the land.
 <small><sub>**BSB:**</sub></small>
 When evening came, the boat was in the middle of the sea, and Jesus was alone on land.
 <small><sub>**Literal:**</sub></small>
 And when evening having come was the boat in [the] midst of the sea, and He himself alone upon the land.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.46|<< Mark 6:46]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.48|Mark 6:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when evening |**<big>[[G3798\|ὀψίας]]</big>**  |opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

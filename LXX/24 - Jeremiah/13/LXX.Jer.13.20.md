@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:20** 
 <small><sub>**LXX:**</sub></small>
 Lift up  your eyes, O Jerusalem, and behold the ones coming from \[the\] north! Where is the flock which was given to you, \[the\] sheep of your glory? 
-<small><sub>**KJV:**</sub></small>
-Lift up your eyes, and behold them that come from the north: where [is] the flock [that] was given thee, thy beautiful flock?
-<small><sub>**BSB:**</sub></small>
-Lift up your eyes and see those coming from the north. Where is the flock entrusted to you, the sheep that were your pride?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

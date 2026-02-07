@@ -1,4 +1,4 @@
-**Isaiah 36:18** 
+**Isaiah 36:18**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Beware] lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let Hezekiah mislead you when he says, ‘The LORD will deliver us.’ Ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.17|<< Isaiah 36:17]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.19|Isaiah 36:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should mislead  |**<big>&#8207;[[H5496\|יַסִּ֨ית]]&#8207; </big>**| ya.Sit<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 3:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:5**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched [it] out: and his hand was restored whole as the other.
 <small><sub>**BSB:**</sub></small>
 Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored.
 <small><sub>**Literal:**</sub></small>
 And having looked around on them with anger, being grieved at the hardness of the heart of them, He says to the man; do stretch out the hand of you. And he stretched [it] out, and was restored the hand of him sound as <the> another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.4|<< Mark 3:4]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.6|Mark 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked around on |**<big>[[G4017\|περιβλεψάμενος]]</big>**  |periblepsamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

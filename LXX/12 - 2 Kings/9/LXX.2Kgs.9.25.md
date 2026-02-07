@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:25** 
 <small><sub>**LXX:**</sub></small>
 And Jehu said to Bidkar  his tribune, Take and toss him in the portion of the field of Naboth the Jezreelite! for I remember, I and you mounting upon teams after Ahab  his father, and \[the\] <span class="smallcaps">lord</span> took upon him  this concern, saying, 
-<small><sub>**KJV:**</sub></small>
-Then said [Jehu] to Bidkar his captain, Take up, [and] cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the LORD laid this burden upon him;
-<small><sub>**BSB:**</sub></small>
-And Jehu said to Bidkar his officer, “Pick him up and throw him into the field of Naboth the Jezreelite. For remember that when you and I were riding together behind his father Ahab, the LORD lifted up this burden against him:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.24|<< 2 Kings 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.26|2 Kings 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

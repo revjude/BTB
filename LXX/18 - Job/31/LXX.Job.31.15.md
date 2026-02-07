@@ -1,10 +1,7 @@
 **LXX Job 31:15** 
 <small><sub>**LXX:**</sub></small>
 Were they not even as I, born in a womb? and these were born, and we were born in the same belly. 
-<small><sub>**KJV:**</sub></small>
-Did not he that made me in the womb make him? and did not one fashion us in the womb?
-<small><sub>**BSB:**</sub></small>
-Did not He who made me in the womb also make them? Did not the same One form us in the womb?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.14|<< Job 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.16|Job 31:16 >>]]</td></tr></table>
 
 | Translation | Greek |

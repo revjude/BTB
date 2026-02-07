@@ -1,4 +1,4 @@
-**Exodus 12:31** 
+**Exodus 12:31**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he called for Moses and Aaron by night, and said, Rise up, [and] get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Pharaoh summoned Moses and Aaron by night and said, “Get up, leave my peo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.30|<< Exodus 12:30]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.32|Exodus 12:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָא֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Moses  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4872\|מֹשֶׁ֨ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

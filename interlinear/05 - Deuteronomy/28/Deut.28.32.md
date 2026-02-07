@@ -1,4 +1,4 @@
-**Deuteronomy 28:32** 
+**Deuteronomy 28:32**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy sons and thy daughters [shall be] given unto another people, and thine eyes shall look, and fail [with longing] for them all the day long: and [there shall be] no might in thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your sons and daughters will be given to another nation, while your eyes grow we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.31|<< Deuteronomy 28:31]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.33|Deuteronomy 28:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sons your  |**<big>&#8207;[[H1121A\|בָּנֶ֨י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and daughters your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בְנֹתֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 23:17** 
+**2 Samuel 23:17**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Be it far from me, O LORD, that I should do this: [is not this] the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying, “Far be it from me, O LORD, to do this! Is this not the blood of the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.16|<< 2 Samuel 23:16]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.18|2 Samuel 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֡אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | far be it  |**<big>&#8207;[[H2486\|חָלִילָה֩]]&#8207; </big>**| cha.li.Lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

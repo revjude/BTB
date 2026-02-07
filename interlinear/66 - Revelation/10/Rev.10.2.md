@@ -1,5 +1,5 @@
-**Revelation 10:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:2**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he had in his hand a little book open: and he set his right foot upon the sea, and [his] left [foot] on the earth,
 <small><sub>**BSB:**</sub></small>
 He held in his hand a small scroll, which lay open. He placed his right foot on the sea and his left foot on the land.
@@ -10,7 +10,7 @@ and having in the hand of him a little scroll opened And he placed the foot of h
 > $\quad$ alluding to: [[LXX.Ezek.2.9|Ezek 2:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having [^1] |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

@@ -1,12 +1,12 @@
-**Romans 1:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:9**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 <small><sub>**BSB:**</sub></small>
 God, whom I serve with my spirit in preaching the gospel of His Son, is my witness how constantly I remember you
 <small><sub>**Literal:**</sub></small>
 Witness for me is <the> God, whom I serve in the spirit of mine in the gospel of the Son of Him, how unceasingly mention of you I make<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.8|<< Romans 1:8]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.10|Romans 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Witness |**<big>[[G3144\|μάρτυς]]</big>**  |martus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

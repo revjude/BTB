@@ -1,4 +1,4 @@
-**Genesis 7:10** 
+**Genesis 7:10**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after seven days, that the waters of the flood were upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after seven days the floodwaters came upon the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.9|<< Genesis 7:9]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.11|Genesis 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] seven  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7651\|שִׁבְעַ֣ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

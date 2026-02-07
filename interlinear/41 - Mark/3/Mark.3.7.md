@@ -1,12 +1,12 @@
-**Mark 3:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:7**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,
 <small><sub>**BSB:**</sub></small>
 So Jesus withdrew with His disciples to the sea, accompanied by a large crowd from Galilee, Judea,
 <small><sub>**Literal:**</sub></small>
 And <the> Jesus with the disciples of Him withdrew to the sea, and great a multitude from <the> Galilee followed him and from <the> Judea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.6|<< Mark 3:6]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.8|Mark 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 129**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128|<< Psalm 128]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130|Psalm 130 >>]]</td></tr></table>
 
-***The Cords of the Wicked*** ^bsb1422
+<big><big>[[Ps.129.1 The Cords of the Wicked|⥃]]</big></big>***The Cords of the Wicked***
 
 
 

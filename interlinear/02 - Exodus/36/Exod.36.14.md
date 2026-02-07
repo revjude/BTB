@@ -1,4 +1,4 @@
-**Exodus 36:14** 
+**Exodus 36:14**<big><big>[[Exod.36.14 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made curtains [of] goats’ [hair] for the tent over the tabernacle: eleven curtains he made them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He then made curtains of goat hair for the tent over the tabernacle—eleven cur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.13|<< Exodus 36:13]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.15|Exodus 36:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֙עַשׂ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | curtains of  |**<big>&#8207;[[H3407\|יְרִיעֹ֣ת]]&#8207; </big>**| ye.ri.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

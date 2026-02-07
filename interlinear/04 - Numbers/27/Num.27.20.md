@@ -1,4 +1,4 @@
-**Numbers 27:20** 
+**Numbers 27:20**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put [some] of thine honour upon him, that all the congregation of the children of Israel may be obedient.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Confer on him some of your authority, so that the whole congregation of Israel w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.19|<< Numbers 27:19]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.21|Numbers 27:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of majesty your  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H1935\|הֽוֹדְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> hod.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

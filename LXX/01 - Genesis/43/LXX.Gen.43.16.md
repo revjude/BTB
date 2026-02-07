@@ -1,10 +1,7 @@
 **LXX Genesis 43:16** 
 <small><sub>**LXX:**</sub></small>
 And Joseph saw them, and  Benjamin  his brother, the one born of the same mother. And he said to the \[one\] over  his house, Bring the men into the house, and slay the things offered for sacrifices, and prepare! for the men will eat with me bread loaves  at midday. 
-<small><sub>**KJV:**</sub></small>
-And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring [these] men home, and slay, and make ready; for [these] men shall dine with me at noon.
-<small><sub>**BSB:**</sub></small>
-When Joseph saw Benjamin with his brothers, he said to the steward of his house, “Take these men to my house. Slaughter an animal and prepare it, for they shall dine with me at noon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.15|<< Genesis 43:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.17|Genesis 43:17 >>]]</td></tr></table>
 
 | Translation | Greek |

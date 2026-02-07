@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:9** 
 <small><sub>**LXX:**</sub></small>
 And he dwelt according to \[the\] east unto the entrance of the wilderness of the river Euphrates; for  their cattle multiplied in  land of Gilead. 
-<small><sub>**KJV:**</sub></small>
-And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.
-<small><sub>**BSB:**</sub></small>
-They also settled in the east as far as the edge of the desert that extends to the Euphrates River, because their livestock had increased in the land of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.8|<< 1 Chronicles 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.10|1 Chronicles 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

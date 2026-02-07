@@ -1,10 +1,7 @@
 **LXX Genesis 24:61** 
 <small><sub>**LXX:**</sub></small>
 And rising up, Rebekah and  her handmaidens mounted upon the camels, and they went with the man. And taking the girl  Rebekah, he went forth. 
-<small><sub>**KJV:**</sub></small>
-And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.
-<small><sub>**BSB:**</sub></small>
-Then Rebekah and her servant girls got ready, mounted the camels, and followed the man. So the servant took Rebekah and left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.60|<< Genesis 24:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.62|Genesis 24:62 >>]]</td></tr></table>
 
 | Translation | Greek |

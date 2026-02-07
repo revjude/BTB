@@ -1,12 +1,12 @@
-**1 Corinthians 5:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:7**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
 <small><sub>**BSB:**</sub></small>
 Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed.
 <small><sub>**Literal:**</sub></small>
 do cleanse out therefore the old leaven, that you may be a new lump even as you are unleavened; Also for the Passover lamb of us for us has been sacrificed Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.6|<< 1 Corinthians 5:6]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.8|1 Corinthians 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do cleanse out |**<big>[[G1571\|ἐκκαθάρατε]]</big>**  |ekkatharate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

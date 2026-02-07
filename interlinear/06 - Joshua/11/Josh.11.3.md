@@ -1,4 +1,4 @@
-**Joshua 11:3** 
+**Joshua 11:3**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And to] the Canaanite on the east and on the west, and [to] the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and [to] the Hivite under Hermon in the land of Mizpeh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.2|<< Joshua 11:2]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.4|Joshua 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the Canaanite[s]  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3669A\|כְּנַעֲנִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] east  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4217H\|מִּזְרָ֣ח]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

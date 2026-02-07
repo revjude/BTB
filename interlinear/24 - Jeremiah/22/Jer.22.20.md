@@ -1,4 +1,4 @@
-**Jeremiah 22:20** 
+**Jeremiah 22:20**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go up to Lebanon, and cry; and lift up thy voice in Bashan, and cry from the passages: for all thy lovers are destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go up to Lebanon and cry out; raise your voice in Bashan; cry out from Abarim, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.19|<< Jeremiah 22:19]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.21|Jeremiah 22:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲלִ֤י]]&#8207; </big>**| 'a.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Lebanon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3844G\|לְּבָנוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.va.nOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

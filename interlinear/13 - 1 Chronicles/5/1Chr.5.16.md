@@ -1,4 +1,4 @@
-**1 Chronicles 5:16** 
+**1 Chronicles 5:16**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They lived in Gilead, in Bashan and its towns, and throughout the pasturelands o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּֽשְׁב֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> Gilead  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1568G\|גִּלְעָ֥ד]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

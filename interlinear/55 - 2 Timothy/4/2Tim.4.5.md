@@ -1,12 +1,12 @@
-**2 Timothy 4:5
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:5**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry.
 <small><sub>**BSB:**</sub></small>
 But you, be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry.
 <small><sub>**Literal:**</sub></small>
 You yourself however do be sober in all things, do endure afflictions, [the] work do perform of an evangelist, the ministry of you do fully carry out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.4|<< 2 Timothy 4:4]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.6|2 Timothy 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|Σὺ]]</big>**  |Su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

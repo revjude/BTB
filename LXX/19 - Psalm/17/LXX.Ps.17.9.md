@@ -1,10 +1,7 @@
 **LXX Psalm 17:9** 
 <small><sub>**LXX:**</sub></small>
 \[even\] from \[the\] face of \[the\] impious  ones causing misery for me.  My enemies  compass my soul. 
-<small><sub>**KJV:**</sub></small>
-From the wicked that oppress me, [from] my deadly enemies, [who] compass me about.
-<small><sub>**BSB:**</sub></small>
-from the wicked who assail me, from my mortal enemies who surround me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.8|<< Psalm 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.10|Psalm 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

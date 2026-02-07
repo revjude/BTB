@@ -1,4 +1,4 @@
-**Esther 9:27** 
+**Esther 9:27**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their [appointed] time every year;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Jews bound themselves to establish the custom that they and their descendant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they imposed  |**<big>&#8207;[[H6965I\|קִיְּמ֣וּ]]&#8207; </big>**| ki.ye.Mu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they accepted  [^2]|**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6901\|קִבְּל֣וּ]]&#8207; </big>**[^3] | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

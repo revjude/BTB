@@ -1,10 +1,7 @@
 **LXX Judges 17:4** 
 <small><sub>**LXX:**</sub></small>
 And he gave back the silver to his mother. Then his mother took two hundred of the \[pieces\] of silver, and gave \[them\] to the smelterer. And he made it \[into\] a carving and molten \[image\]. And it was in \[the\] house of Micah. 
-<small><sub>**KJV:**</sub></small>
-Yet he restored the money unto his mother; and his mother took two hundred [shekels] of silver, and gave them to the founder, who made thereof a graven image and a molten image: and they were in the house of Micah.
-<small><sub>**BSB:**</sub></small>
-So he returned the silver to his mother, and she took two hundred shekels of silver and gave them to a silversmith, who made them into a graven image and a molten idol. And they were placed in the house of Micah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.3|<< Judges 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.5|Judges 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

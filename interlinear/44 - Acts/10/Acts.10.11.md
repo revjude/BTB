@@ -1,12 +1,12 @@
-**Acts 10:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:11**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
 <small><sub>**BSB:**</sub></small>
 He saw heaven open and something like a large sheet being let down to earth by its four corners.
 <small><sub>**Literal:**</sub></small>
 and he beholds <the> heaven opened and descending onto him a vessel certain as a sheet great by four corners bound and being let down upon the earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.10|<< Acts 10:10]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.12|Acts 10:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he beholds |**<big>[[G2334\|θεωρεῖ]]</big>**  |theōrei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

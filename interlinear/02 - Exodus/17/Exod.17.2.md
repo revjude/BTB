@@ -1,4 +1,4 @@
-**Exodus 17:2** 
+**Exodus 17:2**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the people contended with Moses, “Give us water to drink.” “Why do you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.1|<< Exodus 17:1]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.3|Exodus 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it quarreled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7378\|יָּ֤רֶב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 10:13** 
+**Joshua 10:13**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. [Is] not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the sun stood still and the moon stopped until the nation took vengeance upon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.12|<< Joshua 10:12]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.14|Joshua 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was still  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1826A\|יִּדֹּ֨ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Dom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sun  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שֶּׁ֜מֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

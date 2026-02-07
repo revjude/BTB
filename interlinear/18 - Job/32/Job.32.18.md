@@ -1,4 +1,4 @@
-**Job 32:18** 
+**Job 32:18**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I am full of matter, the spirit within me constraineth me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I am full of words, and my spirit within me compels me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.17|<< Job 32:17]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.19|Job 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֭י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am full  |**<big>&#8207;[[H4390\|מָלֵ֣תִי]]&#8207; </big>**| ma.Le.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 15:20** 
+**1 Chronicles 15:20**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.19|<< 1 Chronicles 15:19]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.21|1 Chronicles 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zechariah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2148A\|זְכַרְיָ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ze.khar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Aziel  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5815\|עֲזִיאֵ֜ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.zi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

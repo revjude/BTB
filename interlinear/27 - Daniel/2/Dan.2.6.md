@@ -1,4 +1,4 @@
-**Daniel 2:6** 
+**Daniel 2:6**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you tell me the dream and its interpretation, you will receive from me gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.5|<< Daniel 2:5]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.7|Daniel 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2006A\|הֵ֨ן]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dream the  |**<big>&#8207;[[H2493\|חֶלְמָ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| chel.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

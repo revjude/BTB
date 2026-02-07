@@ -1,4 +1,4 @@
-**Psalms 78:21** 
+**Psalms 78:21**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD heard [this], and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the LORD heard and was filled with wrath; so a fire was kindled agains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.20|<< Psalms 78:20]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.22|Psalms 78:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he heard  |**<big>&#8207;[[H8085G\|שָׁמַ֥ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

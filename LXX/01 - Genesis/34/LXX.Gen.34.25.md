@@ -1,10 +1,7 @@
 **LXX Genesis 34:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the third day, when they were in  misery, the each taking two sons of Jacob Simeon and Levi brothers of Dinah  his sword, even entered to the city safely, and killed every male. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city boldly, and slew all the males.
-<small><sub>**BSB:**</sub></small>
-Three days later, while they were still in pain, two of Jacob’s sons (Dinah’s brothers Simeon and Levi) took their swords, went into the unsuspecting city, and slaughtered every male.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.24|<< Genesis 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.26|Genesis 34:26 >>]]</td></tr></table>
 
 | Translation | Greek |

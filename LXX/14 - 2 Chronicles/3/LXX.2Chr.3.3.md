@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:3** 
 <small><sub>**LXX:**</sub></small>
 And these Solomon began  to build: the house  of God -- \[the\] length of the first measurement \[was\] sixty cubits, and \[the\] breadth twenty cubits. 
-<small><sub>**KJV:**</sub></small>
-Now these [are the things wherein] Solomon was instructed for the building of the house of God. The length by cubits after the first measure [was] threescore cubits, and the breadth twenty cubits.
-<small><sub>**BSB:**</sub></small>
-The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

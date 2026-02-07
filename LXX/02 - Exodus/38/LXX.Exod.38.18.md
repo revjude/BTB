@@ -1,10 +1,7 @@
 **LXX Exodus 38:18** 
 <small><sub>**LXX:**</sub></small>
 And the veil of the gate of the courtyard \[was\] a work of an embroiderer, of blue, and purple, and scarlet being spun, and linen being twined; twenty cubits \[was\] the length, and the height and  breadth five cubits, being made equal to the shrouds of the courtyard. 
-<small><sub>**KJV:**</sub></small>
-And the hanging for the gate of the court [was] needlework, [of] blue, and purple, and scarlet, and fine twined linen: and twenty cubits [was] the length, and the height in the breadth [was] five cubits, answerable to the hangings of the court.
-<small><sub>**BSB:**</sub></small>
-The curtain for the entrance to the courtyard was embroidered with blue, purple, and scarlet yarn, and finely spun linen. It was twenty cubits long and, like the curtains of the courtyard, five cubits high,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.17|<< Exodus 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.19|Exodus 38:19 >>]]</td></tr></table>
 
 | Translation | Greek |

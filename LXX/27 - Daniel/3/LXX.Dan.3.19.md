@@ -1,10 +1,7 @@
 **LXX Daniel 3:19** 
 <small><sub>**LXX:**</sub></small>
 Then  Nebuchadnezzar was filled of rage, and the appearance  of his face changed against Shadrach, Meshach, and Abed-nego. And he said to burn the furnace seven-fold until which it should burn to \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: [therefore] he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
-<small><sub>**BSB:**</sub></small>
-At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

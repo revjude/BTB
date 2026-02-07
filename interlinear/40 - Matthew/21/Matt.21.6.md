@@ -1,12 +1,12 @@
-**Matthew 21:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:6**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the disciples went, and did as Jesus commanded them,
 <small><sub>**BSB:**</sub></small>
 So the disciples went and did as Jesus had directed them.
 <small><sub>**Literal:**</sub></small>
 Having gone then the disciples and having done even as directed to them <the> Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.5|<< Matthew 21:5]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.7|Matthew 21:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone |**<big>[[G4198\|Πορευθέντες]]</big>**  |Poreuthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

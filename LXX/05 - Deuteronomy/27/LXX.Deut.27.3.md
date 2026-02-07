@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall write upon the stones all the words  of this law, as \[when\] whenever you should pass over the Jordan, when ever you should enter into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you; a land flowing milk and honey; in which manner \[the\] <span class="smallcaps">lord</span> God of your fathers spoke to you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the LORD thy God giveth thee, a land that floweth with milk and honey; as the LORD God of thy fathers hath promised thee.
-<small><sub>**BSB:**</sub></small>
-Write on them all the words of this law when you have crossed over to enter the land that the LORD your God is giving you, a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.2|<< Deuteronomy 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.4|Deuteronomy 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

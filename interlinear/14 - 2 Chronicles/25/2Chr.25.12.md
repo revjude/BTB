@@ -1,4 +1,4 @@
-**2 Chronicles 25:12** 
+**2 Chronicles 25:12**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [other] ten thousand [left] alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the army of Judah also captured 10,000 men alive. They took them to the top 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.11|<< 2 Chronicles 25:11]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.13|2 Chronicles 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ten  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6235\|עֲשֶׂ֨רֶת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Se.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֜ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

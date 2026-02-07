@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:11** 
 <small><sub>**LXX:**</sub></small>
 And she brought to him  to eat. And he took hold of her, and said to her, Come, go to bed with me my sister! 
-<small><sub>**KJV:**</sub></small>
-And when she had brought [them] unto him to eat, he took hold of her, and said unto her, Come lie with me, my sister.
-<small><sub>**BSB:**</sub></small>
-And when she had brought them to him to eat, he took hold of her and said, “Come lie with me, my sister!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.10|<< 2 Samuel 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.12|2 Samuel 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

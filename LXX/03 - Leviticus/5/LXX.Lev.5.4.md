@@ -1,10 +1,7 @@
 **LXX Leviticus 5:4** 
 <small><sub>**LXX:**</sub></small>
 The soul, in what ever he should swear by an oath, drawing apart \[his\] lips to do evil or to do well according to all as much as the man who should draw apart according to an oath, and should be unaware of it, and this one should know and should sin any one of these \[things\] -- 
-<small><sub>**KJV:**</sub></small>
-Or if a soul swear, pronouncing with [his] lips to do evil, or to do good, whatsoever [it be] that a man shall pronounce with an oath, and it be hid from him; when he knoweth [of it], then he shall be guilty in one of these.
-<small><sub>**BSB:**</sub></small>
-Or if someone swears thoughtlessly with his lips to do anything good or evil—in whatever matter a man may rashly pronounce an oath—even if he is unaware of it, when he realizes it, he is guilty in the matter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.3|<< Leviticus 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.5|Leviticus 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

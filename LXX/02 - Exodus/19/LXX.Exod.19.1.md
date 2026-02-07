@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the third month of the exodus of the sons of Israel from \[the\] land Egypt,  on this day they came into the wilderness  of Sinai. 
-<small><sub>**KJV:**</sub></small>
-In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they [into] the wilderness of Sinai.
-<small><sub>**BSB:**</sub></small>
-In the third month, on the same day of the month that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.27|<< Exodus 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.2|Exodus 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

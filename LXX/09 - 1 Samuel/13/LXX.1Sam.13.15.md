@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:15** 
 <small><sub>**LXX:**</sub></small>
 And Samuel rose up and went forth from out of Gilgal unto \[the\] hill of Benjamin. And Saul numbered the people  being found with him, about six hundred men. 
-<small><sub>**KJV:**</sub></small>
-And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people [that were] present with him, about six hundred men.
-<small><sub>**BSB:**</sub></small>
-Then Samuel set out from Gilgal and went up to Gibeah in Benjamin. And Saul numbered the troops who were with him, about six hundred men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.14|<< 1 Samuel 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.16|1 Samuel 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

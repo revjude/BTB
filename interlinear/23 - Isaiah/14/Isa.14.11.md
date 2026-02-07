@@ -1,4 +1,4 @@
-**Isaiah 14:11** 
+**Isaiah 14:11**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy pomp is brought down to the grave, [and] the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your pomp has been brought down to Sheol, along with the music of your harps. Ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.10|<< Isaiah 14:10]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.12|Isaiah 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been brought down  |**<big>&#8207;[[H3381\|הוּרַ֥ד]]&#8207; </big>**| hu.Rad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheol  |**<big>&#8207;[[H7585\|שְׁא֛וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

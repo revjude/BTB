@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:5** 
 <small><sub>**LXX:**</sub></small>
 I made to myself gardens and parks; and I planted in them a tree for every fruit. 
-<small><sub>**KJV:**</sub></small>
-I made me gardens and orchards, and I planted trees in them of all [kind of] fruits:
-<small><sub>**BSB:**</sub></small>
-I made gardens and parks for myself, where I planted all kinds of fruit trees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.4|<< Ecclesiastes 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.6|Ecclesiastes 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 1:50** 
+**1 Chronicles 1:50**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city [was] Pai; and his wife’s name [was] Mehetabel, the daughter of Matred, the daughter of Mezahab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Baal-hanan died, Hadad reigned in his place. His city was named Pau, and hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.49|<< 1 Chronicles 1:49]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.51|1 Chronicles 1:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֙מָת֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baal-  |**<big>&#8207;[[H1177G\|בַּ֣עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

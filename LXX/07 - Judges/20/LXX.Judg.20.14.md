@@ -1,10 +1,7 @@
 **LXX Judges 20:14** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin came together from  their cities to Gibeah, to go forth into battle array against \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And from their cities they came together at Gibeah to go out and fight against the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.13|<< Judges 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.15|Judges 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

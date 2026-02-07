@@ -1,4 +1,4 @@
-**Deuteronomy 1:33** 
+**Deuteronomy 1:33**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who went in the way before you, to search you out a place to pitch your tents [in], in fire by night, to shew you by what way ye should go, and in a cloud by day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who went before you on the journey, in the fire by night and in the cloud by day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.32|<< Deuteronomy 1:32]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.34|Deuteronomy 1:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who went  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1980G\|הֹלֵ֨ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9026\|כֶ֜ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

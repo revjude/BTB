@@ -1,4 +1,4 @@
-**Ezekiel 7:18** 
+**Ezekiel 7:18**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall also gird [themselves] with sackcloth, and horror shall cover them; and shame [shall be] upon all faces, and baldness upon all their heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will put on sackcloth, and terror will overwhelm them. Shame will cover all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.17|<< Ezekiel 7:17]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.19|Ezekiel 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will gird themselves  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2296\|חָגְר֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.ge.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sackcloth\<s>  |**<big>&#8207;[[H8242\|שַׂקִּ֔ים]]&#8207; </big>**| sa.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:23** 
 <small><sub>**LXX:**</sub></small>
 And they said, This \[is\] blood of a broadsword. The kings did combat, and each man struck  his neighbor. And now, the spoils \[are\] for Moab. 
-<small><sub>**KJV:**</sub></small>
-And they said, This [is] blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.
-<small><sub>**BSB:**</sub></small>
-“This is blood!” they exclaimed. “The kings have clashed swords and slaughtered one another. Now to the plunder, Moab!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.22|<< 2 Kings 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.24|2 Kings 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

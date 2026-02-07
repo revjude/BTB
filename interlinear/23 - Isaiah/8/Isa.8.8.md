@@ -1,4 +1,4 @@
-**Isaiah 8:8** 
+**Isaiah 8:8**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall pass through Judah; he shall overflow and go over, he shall reach [even] to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ It will pour into Judah, swirling and sweeping over it, reaching up to the neck;
 > $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will pass on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2498\|חָלַ֤ף]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Laf<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063G\|יהוּדָה֙]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

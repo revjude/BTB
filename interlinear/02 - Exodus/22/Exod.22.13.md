@@ -1,4 +1,4 @@
-**Exodus 22:13** (22:12)
+**Exodus 22:13**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it be torn in pieces, [then] let him bring it [for] witness, [and] he shall not make good that which was torn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the animal was torn to pieces, he shall bring it as evidence; he need not mak
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.12|<< Exodus 22:12]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.14|Exodus 22:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly [if] \<to tear>  |**<big>&#8207;[[H2963\|טָרֹ֥ף]]&#8207; </big>**| ta.Rof<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

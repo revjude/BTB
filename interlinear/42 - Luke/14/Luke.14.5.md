@@ -1,12 +1,12 @@
-**Luke 14:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:5**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?
 <small><sub>**BSB:**</sub></small>
 And He asked them, “Which of you whose son or ox falls into a pit on the Sabbath day will not immediately pull him out?”
 <small><sub>**Literal:**</sub></small>
 And answering to them He said; Which of you a son or an ox into a pit will collapse, also surely immediately he will pull up him on <the> day the Sabbath?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.4|<< Luke 14:4]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.6|Luke 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

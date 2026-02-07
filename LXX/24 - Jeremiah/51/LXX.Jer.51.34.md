@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:34** 
 <small><sub>**LXX:**</sub></small>
 He devoured me, Nebuchadnezzar king of Babylon portioned me; a fine darkness overtook me; he swallowed me down as a dragon; he filled  his belly of  my delicacies. 
-<small><sub>**KJV:**</sub></small>
-Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
-<small><sub>**BSB:**</sub></small>
-“Nebuchadnezzar king of Babylon has devoured me; he has crushed me. He has set me aside like an empty vessel; he has swallowed me like a monster; he filled his belly with my delicacies and vomited me out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.33|<< Jeremiah 51:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.35|Jeremiah 51:35 >>]]</td></tr></table>
 
 | Translation | Greek |

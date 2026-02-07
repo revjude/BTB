@@ -1,10 +1,7 @@
 **LXX Leviticus 26:36** 
 <small><sub>**LXX:**</sub></small>
 And to the ones being left behind of you, I will bring timidity into  their heart in the land  of their enemies. And \[the\] sound of a leaf being brought along will pursue them, and they shall flee as fleeing from war, and they shall fall \[with\] no one pursuing. 
-<small><sub>**KJV:**</sub></small>
-And upon them that are left [alive] of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
-<small><sub>**BSB:**</sub></small>
-As for those of you who survive, I will send a faintness into their hearts in the lands of their enemies, so that even the sound of a windblown leaf will put them to flight. And they will flee as one flees the sword, and fall when no one pursues them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.35|<< Leviticus 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.37|Leviticus 26:37 >>]]</td></tr></table>
 
 | Translation | Greek |

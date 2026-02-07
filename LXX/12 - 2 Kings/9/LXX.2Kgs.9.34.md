@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:34** 
 <small><sub>**LXX:**</sub></small>
 And Jehu entered, and ate and drank, and said, Watch indeed  this cursed one, and bury her, for she is \[the\] daughter of a king. 
-<small><sub>**KJV:**</sub></small>
-And when he was come in, he did eat and drink, and said, Go, see now this cursed [woman], and bury her: for she [is] a king’s daughter.
-<small><sub>**BSB:**</sub></small>
-Then Jehu went in and ate and drank. “Take care of this cursed woman,” he said, “and bury her, for she was the daughter of a king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.33|<< 2 Kings 9:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.35|2 Kings 9:35 >>]]</td></tr></table>
 
 | Translation | Greek |

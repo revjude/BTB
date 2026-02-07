@@ -1,10 +1,7 @@
 **LXX Proverbs 4:10** 
 <small><sub>**LXX:**</sub></small>
 Hear, O son, and receive my words! and years of your life will be multiplied to you, that to you there should be many ways of life. 
-<small><sub>**KJV:**</sub></small>
-Hear, O my son, and receive my sayings; and the years of thy life shall be many.
-<small><sub>**BSB:**</sub></small>
-Listen, my son, and receive my words, and the years of your life will be many.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.9|<< Proverbs 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.11|Proverbs 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

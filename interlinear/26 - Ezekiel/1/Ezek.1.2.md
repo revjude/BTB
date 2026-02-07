@@ -1,4 +1,4 @@
-**Ezekiel 1:2** 
+**Ezekiel 1:2**<big><big>[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fifth [day] of the month, which [was] the fifth year of king Jehoiachin’s captivity,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fifth day of the month—it was the fifth year of the exile of King Jehoi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.1|<< Ezekiel 1:1]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.3|Ezekiel 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [day] five  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֖ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֑דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

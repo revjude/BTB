@@ -1,4 +1,4 @@
-**Proverbs 30:28** 
+**Proverbs 30:28**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The spider taketh hold with her hands, and is in kings’ palaces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the lizard can be caught in one’s hands, yet it is found in the palaces of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.27|<< Proverbs 30:27]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.29|Proverbs 30:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a lizard  |**<big>&#8207;[[H8079\|שְׂ֭מָמִית]]&#8207; </big>**| Se.ma.mit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [two] hands  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדַ֣יִם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

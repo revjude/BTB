@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And undertaking, Baldad the Shuhite says, 
-<small><sub>**KJV:**</sub></small>
-Then answered Bildad the Shuhite, and said,
-<small><sub>**BSB:**</sub></small>
-Then Bildad the Shuhite replied:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.25|<< Job 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.2|Job 25:2 >>]]</td></tr></table>
 
 | Translation | Greek |

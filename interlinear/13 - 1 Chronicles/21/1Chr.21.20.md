@@ -1,4 +1,4 @@
-**1 Chronicles 21:20** 
+**1 Chronicles 21:20**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Ornan was threshing wheat when he turned and saw the angel; and his four son
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.19|<< 1 Chronicles 21:19]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.21|1 Chronicles 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֣שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ornan  |**<big>&#8207;[[H0771\|אָרְנָ֗ן]]&#8207; </big>**| 'a.re.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

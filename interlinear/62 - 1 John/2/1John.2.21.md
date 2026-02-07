@@ -1,12 +1,12 @@
-**1 John 2:21
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:21**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
 <small><sub>**BSB:**</sub></small>
 I have not written to you because you lack knowledge of the truth, but because you have it, and because no lie comes from the truth.
 <small><sub>**Literal:**</sub></small>
 Not I have written to you because not you know the truth but because you know it and because any lie of the truth not is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.20|<< 1 John 2:20]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.22|1 John 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have written |**<big>[[G1125\|ἔγραψα]]</big>**  |egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

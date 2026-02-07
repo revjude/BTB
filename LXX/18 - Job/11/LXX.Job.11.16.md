@@ -1,10 +1,7 @@
 **LXX Job 11:16** 
 <small><sub>**LXX:**</sub></small>
 And  you shall forget trouble as a wave going by; and you shall not be terrified. 
-<small><sub>**KJV:**</sub></small>
-Because thou shalt forget [thy] misery, [and] remember [it] as waters [that] pass away:
-<small><sub>**BSB:**</sub></small>
-For you will forget your misery, recalling it only as waters gone by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.15|<< Job 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.17|Job 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 19:25** 
 <small><sub>**LXX:**</sub></small>
 A fool being whipped of his mischievousness will be more clever; but if you should reprove an intelligent man he shall comprehend for good sense. 
-<small><sub>**KJV:**</sub></small>
-Smite a scorner, and the simple will beware: and reprove one that hath understanding, [and] he will understand knowledge.
-<small><sub>**BSB:**</sub></small>
-Strike a mocker, and the simple will beware; rebuke the discerning man, and he will gain knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.24|<< Proverbs 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.26|Proverbs 19:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:5** 
 <small><sub>**LXX:**</sub></small>
 Asaph the ruler, and his second Zachariah, and Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed Edom, and Jeiel with instruments, with stringed instruments and lutes; and Asaph with cymbals sounding out loud. 
-<small><sub>**KJV:**</sub></small>
-Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
-<small><sub>**BSB:**</sub></small>
-Asaph was the chief, Zechariah was second, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel. They were to play the harps and lyres, while Asaph sounded the cymbals<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.4|<< 1 Chronicles 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.6|1 Chronicles 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

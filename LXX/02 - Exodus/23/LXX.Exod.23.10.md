@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Six years you shall sow  your land, and you shall gather  \[its\] produce, 
-<small><sub>**KJV:**</sub></small>
-And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
-<small><sub>**BSB:**</sub></small>
-For six years you are to sow your land and gather its produce,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.9|<< Exodus 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.11|Exodus 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

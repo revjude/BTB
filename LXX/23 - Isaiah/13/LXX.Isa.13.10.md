@@ -1,10 +1,7 @@
 **LXX Isaiah 13:10** 
 <small><sub>**LXX:**</sub></small>
 For the stars of the heaven, and  Orion, and all the cosmos of the heaven  shall not give of their light; and the rising of the sun shall be made dark, and the moon shall not give  her light. 
-<small><sub>**KJV:**</sub></small>
-For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
-<small><sub>**BSB:**</sub></small>
-For the stars of heaven and their constellations will not give their light. The rising sun will be darkened, and the moon will not give its light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.9|<< Isaiah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.11|Isaiah 13:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 13:10** is...

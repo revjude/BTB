@@ -1,10 +1,7 @@
 **LXX Leviticus 7:7** 
 <small><sub>**LXX:**</sub></small>
 As the one concerning the sin \[offering\], so also  the trespass \[offering\] -- \[there is\] one law for them. The priest, whoever shall atone for it, it shall be to him. 
-<small><sub>**KJV:**</sub></small>
-As the sin offering [is], so [is] the trespass offering: [there is] one law for them: the priest that maketh atonement therewith shall have [it].
-<small><sub>**BSB:**</sub></small>
-The guilt offering is like the sin offering; the same law applies to both. It belongs to the priest who makes atonement with it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.6|<< Leviticus 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.8|Leviticus 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

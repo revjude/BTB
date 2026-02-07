@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:4** 
 <small><sub>**LXX:**</sub></small>
 And  to Jonathan, son of Saul, \[there was\] a son stricken in the feet, a son five years old; and this one \[was\] in \[the way\] in the coming \[of\] the message of Saul and Jonathan  his son from out of Jezreel; and his wet-nurse lifted him and fled. And it happened in  her hastening and withdrawing he fell and became lame. And \[the\] name to him \[was\] Mephibosheth. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan, Saul’s son, had a son [that was] lame of [his] feet. He was five years old when the tidings came of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name [was] Mephibosheth.
-<small><sub>**BSB:**</sub></small>
-And Jonathan son of Saul had a son who was lame in his feet. He was five years old when the report about Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but as she was hurrying to escape, he fell and became lame. His name was Mephibosheth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.3|<< 2 Samuel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.5|2 Samuel 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

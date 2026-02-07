@@ -1,4 +1,4 @@
-**Ezra 4:16** 
+**Ezra 4:16**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We certify the king that, if this city be builded [again], and the walls thereof set up, by this means thou shalt have no portion on this side the river.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We advise the king that if this city is rebuilt and its walls are restored, you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.15|<< Ezra 4:15]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.17|Ezra 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] making known  |**<big>&#8207;[[H3046\|מְהוֹדְעִ֤ין]]&#8207; </big>**| me.hod.'In<small><sup>[[AVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we  |**<big>&#8207;[[H0586\|אֲנַ֙חְנָה֙]]&#8207; </big>**| 'a.Nach.nah<small><sup>[[APp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

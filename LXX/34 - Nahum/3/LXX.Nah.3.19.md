@@ -1,10 +1,7 @@
 **LXX Nahum 3:19** 
 <small><sub>**LXX:**</sub></small>
 There is no healing \[to\] your destruction; your wound is inflamed. All the ones hearing the message of you clap hands over you. For upon whom did your evil not come upon continually? 
-<small><sub>**KJV:**</sub></small>
-[There is] no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
-<small><sub>**BSB:**</sub></small>
-There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

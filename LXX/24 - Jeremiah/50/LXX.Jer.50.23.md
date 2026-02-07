@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:23** 
 <small><sub>**LXX:**</sub></small>
 O how the hammer of all the earth was broken in pieces and defeated? O how Babylon became for extinction among \[the\] nations? 
-<small><sub>**KJV:**</sub></small>
-How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!
-<small><sub>**BSB:**</sub></small>
-How the hammer of the whole earth lies broken and shattered! What a horror Babylon has become among the nations!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.22|<< Jeremiah 50:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.24|Jeremiah 50:24 >>]]</td></tr></table>
 
 | Translation | Greek |

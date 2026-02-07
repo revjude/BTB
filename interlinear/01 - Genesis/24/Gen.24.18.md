@@ -1,4 +1,4 @@
-**Genesis 24:18** 
+**Genesis 24:18**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she said, Drink, my lord: and she hasted, and let down her pitcher upon her 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.17|<< Genesis 24:17]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.19|Genesis 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֖אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | drink  |**<big>&#8207;[[H8354\|שְׁתֵ֣ה]]&#8207; </big>**| she.Teh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

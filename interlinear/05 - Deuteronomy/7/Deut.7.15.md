@@ -1,4 +1,4 @@
-**Deuteronomy 7:15** 
+**Deuteronomy 7:15**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all [them] that hate thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD will remove from you all sickness. He will not lay upon you any of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.14|<< Deuteronomy 7:14]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.16|Deuteronomy 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will remove  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5493G\|הֵסִ֧יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Sir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

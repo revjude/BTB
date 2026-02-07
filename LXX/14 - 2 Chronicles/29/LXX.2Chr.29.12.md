@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:12** 
 <small><sub>**LXX:**</sub></small>
 And the Levites rose up, Mahath the \[son of\] Amasai, and Joel the \[son of\] Azariah, of the sons of Kohath; and from the sons of Merari, Kish the \[son of\] Abdi, and Azariah the \[son of\] Jehalelel; and from the sons of Gershon -- Joah the \[son of\] Zimmah, and Eden the \[son of\] Joah; 
-<small><sub>**KJV:**</sub></small>
-Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
-<small><sub>**BSB:**</sub></small>
-Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.11|<< 2 Chronicles 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.13|2 Chronicles 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

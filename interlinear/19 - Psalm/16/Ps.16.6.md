@@ -1,4 +1,4 @@
-**Psalms 16:6** 
+**Psalms 16:6**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lines are fallen unto me in pleasant [places]; yea, I have a goodly heritage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lines of my boundary have fallen in pleasant places; surely my inheritance i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.5|<< Psalms 16:5]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.7|Psalms 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | boundary lines  |**<big>&#8207;[[H2256M\|חֲבָלִ֣ים]]&#8207; </big>**| cha.va.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have fallen  |**<big>&#8207;[[H5307G\|נָֽפְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.fe.lu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

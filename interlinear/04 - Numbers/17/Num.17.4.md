@@ -1,4 +1,4 @@
-**Numbers 17:4** (17:19)
+**Numbers 17:4**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Place the staffs in the Tent of Meeting in front of the Testimony, where I meet 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.3|<< Numbers 17:3]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.5|Numbers 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will deposit them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5117\|הִנַּחְתָּ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.nach.Ta<small><sup>[[HVhq2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

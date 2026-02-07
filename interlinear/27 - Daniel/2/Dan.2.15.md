@@ -1,4 +1,4 @@
-**Daniel 2:15** 
+**Daniel 2:15**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He answered and said to Arioch the king’s captain, Why [is] the decree [so] hasty from the king? Then Arioch made the thing known to Daniel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He answered and said to Arioch the king’s captain, Why [is] the decree [so] ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.14|<< Daniel 2:14]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.16|Daniel 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he was] replying  |**<big>&#8207;[[H6032\|עָנֵ֣ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [he was] saying  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0560\|אָמַ֗ר]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

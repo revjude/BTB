@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:15** 
 <small><sub>**LXX:**</sub></small>
 And now, let not Hezekiah deceive you, and not persuade you to do according to these \[things\], and do not trust him; for in no way a god of any nation and kingdom able  to deliver  his people from out of my hand, and from out of \[the\] hand  of my fathers. For  in no way shall your God deliver you from out of my hand. 
-<small><sub>**KJV:**</sub></small>
-Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?
-<small><sub>**BSB:**</sub></small>
-So now, do not let Hezekiah deceive you, and do not let him mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.14|<< 2 Chronicles 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.16|2 Chronicles 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

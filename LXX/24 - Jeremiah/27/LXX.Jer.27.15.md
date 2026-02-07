@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:15** 
 <small><sub>**LXX:**</sub></small>
 I did not send them, says \[the\] <span class="smallcaps">lord</span>, and they prophesy \[in\] my name  unjustly for the destroying you. And you shall perish, and  your prophets, the ones prophesying to you by an unjust lie. 
-<small><sub>**KJV:**</sub></small>
-For I have not sent them, saith the LORD, yet they prophesy a lie in my name; that I might drive you out, and that ye might perish, ye, and the prophets that prophesy unto you.
-<small><sub>**BSB:**</sub></small>
-For I have not sent them, declares the LORD, and yet they are prophesying falsely in My name; therefore I will banish you, and you will perish—you and the prophets who prophesy to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.14|<< Jeremiah 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.16|Jeremiah 27:16 >>]]</td></tr></table>
 
 | Translation | Greek |

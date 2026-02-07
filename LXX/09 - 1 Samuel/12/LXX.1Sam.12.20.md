@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:20** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to the people, Do not fear! You have done all  this evil, except you should not turn aside from \[following\] after the <span class="smallcaps">lord</span>. And serve to the <span class="smallcaps">lord</span> with your entire heart! 
-<small><sub>**KJV:**</sub></small>
-And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid,” Samuel replied. “Even though you have committed all this evil, do not turn aside from following the LORD, but serve the LORD with all your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.19|<< 1 Samuel 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.21|1 Samuel 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 13:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:17**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that [is] unprofitable for you.
 <small><sub>**BSB:**</sub></small>
 Obey your leaders and submit to them, for they watch over your souls as those who must give an account. To this end, allow them to lead with joy and not with grief, for that would be of no advantage to you.
 <small><sub>**Literal:**</sub></small>
 do obey to those leading you and do be submissive; they themselves for watch over the souls of you as an account to be giving that with joy this they may do and not groaning; unprofitable indeed for you [is] this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.16|<< Hebrews 13:16]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.18|Hebrews 13:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do obey |**<big>[[G3982\|Πείθεσθε]]</big>**  |Peithesthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

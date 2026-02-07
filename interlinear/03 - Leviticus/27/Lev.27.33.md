@@ -1,4 +1,4 @@
-**Leviticus 27:33** 
+**Leviticus 27:33**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must not inspect whether it is good or bad, and he shall not make any substit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.32|<< Leviticus 27:32]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.34|Leviticus 27:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will scrutinize  |**<big>&#8207;[[H1239\|יְבַקֵּ֛ר]]&#8207; </big>**| ye.va.Ker<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

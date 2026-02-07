@@ -1,4 +1,4 @@
-**Genesis 12:13** 
+**Genesis 12:13**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say, I pray thee, thou [art] my sister: that it may be well with me for thy sake; and my soul shall live because of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please say you are my sister, so that I will be treated well for your sake, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.12|<< Genesis 12:12]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.14|Genesis 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אִמְרִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im.ri-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֖א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

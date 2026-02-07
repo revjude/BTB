@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:2** 
 <small><sub>**LXX:**</sub></small>
 And Ishmael rose up, and the ten men who were with him, and they struck  Gedaliah by sword, and they killed him, whom the king of Babylon established over the land, 
-<small><sub>**KJV:**</sub></small>
-Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.
-<small><sub>**BSB:**</sub></small>
-Then Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, killing the one whom the king of Babylon had appointed to govern the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.1|<< Jeremiah 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.3|Jeremiah 41:3 >>]]</td></tr></table>
 
 | Translation | Greek |

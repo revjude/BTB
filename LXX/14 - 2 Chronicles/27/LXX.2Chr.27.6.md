@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 27:6** 
 <small><sub>**LXX:**</sub></small>
 And Jotham grew strong, for he prepared  his ways before \[the\] <span class="smallcaps">lord</span>  his God. 
-<small><sub>**KJV:**</sub></small>
-So Jotham became mighty, because he prepared his ways before the LORD his God.
-<small><sub>**BSB:**</sub></small>
-So Jotham grew powerful because he ordered his ways before the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.5|<< 2 Chronicles 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.7|2 Chronicles 27:7 >>]]</td></tr></table>
 
 | Translation | Greek |

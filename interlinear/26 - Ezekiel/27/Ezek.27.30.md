@@ -1,4 +1,4 @@
-**Ezekiel 27:30** 
+**Ezekiel 27:30**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will raise their voices for you and cry out bitterly. They will throw dust 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.29|<< Ezekiel 27:29]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.31|Ezekiel 27:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will make heard  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085I\|הִשְׁמִ֤יעוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Mi.'u<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 16:41** (17:6)
+**Numbers 16:41**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next day the whole congregation of Israel grumbled against Moses and Aaron, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.40|<< Numbers 16:40]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.42|Numbers 16:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they grumbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885B\|יִּלֹּ֜נוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Lo.nu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

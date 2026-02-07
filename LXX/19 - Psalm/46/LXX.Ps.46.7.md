@@ -1,10 +1,7 @@
 **LXX Psalm 46:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> of the forces \[is\] with us; the God of Jacob \[is\] our shielder. 
-<small><sub>**KJV:**</sub></small>
-The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts is with us; the God of Jacob is our fortress. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.6|<< Psalm 46:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.8|Psalm 46:8 >>]]</td></tr></table>
 
 | Translation | Greek |

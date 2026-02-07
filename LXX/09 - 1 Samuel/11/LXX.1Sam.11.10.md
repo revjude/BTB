@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:10** 
 <small><sub>**LXX:**</sub></small>
 And the men of Jabish said to Nahash the Ammonite, Tomorrow we shall come forth to you, and you shall do to us what \[is\] good before you. 
-<small><sub>**KJV:**</sub></small>
-Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.
-<small><sub>**BSB:**</sub></small>
-Then the men of Jabesh said to Nahash, “Tomorrow we will come out, and you can do with us whatever seems good to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.9|<< 1 Samuel 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.11|1 Samuel 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

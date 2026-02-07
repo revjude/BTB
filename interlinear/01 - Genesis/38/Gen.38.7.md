@@ -1,4 +1,4 @@
-**Genesis 38:7** 
+**Genesis 38:7**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Er, Judah’s firstborn, was wicked in the sight of the LORD; and the LORD slew him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Er, Judah’s firstborn, was wicked in the sight of the LORD; so the LORD pu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.6|<< Genesis 38:6]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.8|Genesis 38:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Er  |**<big>&#8207;[[H6147G\|עֵ֚ר]]&#8207; </big>**| 'er<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

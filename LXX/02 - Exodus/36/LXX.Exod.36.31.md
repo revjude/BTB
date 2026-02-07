@@ -1,10 +1,7 @@
 **LXX Exodus 36:31** 
 <small><sub>**LXX:**</sub></small>
 And he made bars from out of incorruptible wood; five to the posts from the one part of the tent; and five bars to the posts to the second side of the tent. 
-<small><sub>**KJV:**</sub></small>
-And he made bars of shittim wood; five for the boards of the one side of the tabernacle,
-<small><sub>**BSB:**</sub></small>
-He also made five crossbars of acacia wood for the frames on one side of the tabernacle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.30|<< Exodus 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.32|Exodus 36:32 >>]]</td></tr></table>
 
 | Translation | Greek |

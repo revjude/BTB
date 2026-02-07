@@ -1,4 +1,4 @@
-**Psalms 22:31** (22:32)
+**Psalms 22:31**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done [this].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will come and proclaim His righteousness to a people yet unborn—all that 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will come  |**<big>&#8207;[[H0935G\|יָ֭בֹאוּ]]&#8207; </big>**| Ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may declare  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5046\|יַגִּ֣ידוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Gi.du<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

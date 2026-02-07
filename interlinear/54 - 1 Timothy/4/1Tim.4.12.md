@@ -1,12 +1,12 @@
-**1 Timothy 4:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:12**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
 <small><sub>**BSB:**</sub></small>
 Let no one despise your youth, but set an example for the believers in speech, in conduct, in love, in faith, in purity.
 <small><sub>**Literal:**</sub></small>
 no one your <the> youth should despise, but a pattern do be for the believers in speech, in conduct, in love in spirit in faith, in purity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.11|<< 1 Timothy 4:11]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.13|1 Timothy 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no one |**<big>[[G3367\|μηδείς]]</big>**  |mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

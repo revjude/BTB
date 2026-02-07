@@ -1,4 +1,4 @@
-**2 Kings 5:13** 
+**2 Kings 5:13**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Naaman’s servants, however, approached him and said, “My father, if the prop
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.12|<< 2 Kings 5:12]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.14|2 Kings 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגְּשׁ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ge.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָי]]&#8207;&#8207;[[H9023\|ו֮]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

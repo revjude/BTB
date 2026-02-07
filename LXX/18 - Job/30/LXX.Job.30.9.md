@@ -1,10 +1,7 @@
 **LXX Job 30:9** 
 <small><sub>**LXX:**</sub></small>
 And now I am their harp, and they have me for a common topic. 
-<small><sub>**KJV:**</sub></small>
-And now am I their song, yea, I am their byword.
-<small><sub>**BSB:**</sub></small>
-And now they mock me in song; I have become a byword among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.8|<< Job 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.10|Job 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Hosea 1:6** 
 <small><sub>**LXX:**</sub></small>
 And she conceived again, and she bore a daughter. And he said to him, Call the name of her, Not Being Shown Mercy! for in no way shall I proceed still to show mercy on the house of Israel; but by resisting I will resist them. 
-<small><sub>**KJV:**</sub></small>
-And she conceived again, and bare a daughter. And [God] said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
-<small><sub>**BSB:**</sub></small>
-Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah, for I will no longer have compassion on the house of Israel, that I should ever forgive them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.5|<< Hosea 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.7|Hosea 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 1:6** is...

@@ -1,4 +1,4 @@
-**Isaiah 45:21** 
+**Isaiah 45:21**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell ye, and bring [them] near; yea, let them take counsel together: who hath declared this from ancient time? [who] hath told it from that time? [have] not I the LORD? and [there is] no God else beside me; a just God and a Saviour; [there is] none beside me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Speak up and present your case—yes, let them take counsel together. Who foreto
 > $\quad$ referenced by: [[Mark.12.32|Mark 12:32]] ☩ [[Acts.15.18|Acts 15:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | declare  |**<big>&#8207;[[H5046\|הַגִּ֣ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and bring near  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5066H\|הַגִּ֔ישׁוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Gi.shu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

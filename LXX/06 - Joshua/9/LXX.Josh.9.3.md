@@ -1,10 +1,7 @@
 **LXX Joshua 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling in Gibeon heard all as much as Joshua did  to Jericho and  to Ai. 
-<small><sub>**KJV:**</sub></small>
-And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,
-<small><sub>**BSB:**</sub></small>
-But the people of Gibeon, having heard what Joshua had done to Jericho and Ai,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.2|<< Joshua 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.4|Joshua 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

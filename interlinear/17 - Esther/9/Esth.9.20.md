@@ -1,4 +1,4 @@
-**Esther 9:20** 
+**Esther 9:20**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai wrote these things, and sent letters unto all the Jews that [were] in all the provinces of the king Ahasuerus, [both] nigh and far,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mordecai recorded these events and sent letters to all the Jews in all the provi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.19|<< Esther 9:19]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.21|Esther 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתֹּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.To<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֔י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

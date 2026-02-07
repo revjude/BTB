@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O son, take heed to my wisdom, and set aside your ear to my words! 
-<small><sub>**KJV:**</sub></small>
-My son, attend unto my wisdom, [and] bow thine ear to my understanding:
-<small><sub>**BSB:**</sub></small>
-My son, pay attention to my wisdom; incline your ear to my insight,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.27|<< Proverbs 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.2|Proverbs 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

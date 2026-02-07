@@ -1,4 +1,4 @@
-**Isaiah 30:21** 
+**Isaiah 30:21**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And whether you turn to the right or to the left, your ears will hear this comma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.20|<< Isaiah 30:20]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.22|Isaiah 30:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ears your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0241G\|אָזְנֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ze.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will hear  |**<big>&#8207;[[H8085G\|תִּשְׁמַ֣עְנָה]]&#8207; </big>**| tish.Ma'.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a man was encountered there, a mischievous son, and his name was Sheba son of Bichri, a man  of Benjamin. And he trumped \[the\] trumpet, and said, There is not to us a portion among David, nor an inheritance in the son of Jesse. Each man to  his tents, O Israel. 
-<small><sub>**KJV:**</sub></small>
-And there happened to be there a man of Belial, whose name [was] Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
-<small><sub>**BSB:**</sub></small>
-Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.43|<< 2 Samuel 19:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.2|2 Samuel 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

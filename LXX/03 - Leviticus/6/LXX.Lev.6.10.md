@@ -1,10 +1,7 @@
 **LXX Leviticus 6:10** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall put on a flaxen linen inner garment, and he shall put on flaxen linen pants on  his body. And he shall remove the incinerated remains, which ever the fire should have consumed \[of\] the whole burnt-offering of the altar. And he shall place it next to the altar. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.
-<small><sub>**BSB:**</sub></small>
-And the priest shall put on his linen robe and linen undergarments, and he shall remove from the altar the ashes of the burnt offering that the fire has consumed and place them beside it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.9|<< Leviticus 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.11|Leviticus 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

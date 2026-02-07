@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The saying  of God which came unto Jeremiah the \[son of\] Hilkiah, of the priests who dwelt in Anathoth in \[the\] land of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-The words of Jeremiah the son of Hilkiah, of the priests that [were] in Anathoth in the land of Benjamin:
-<small><sub>**BSB:**</sub></small>
-These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.24|<< Isaiah 66:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.2|Jeremiah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

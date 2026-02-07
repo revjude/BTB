@@ -1,10 +1,7 @@
 **LXX Leviticus 8:27** 
 <small><sub>**LXX:**</sub></small>
 And he put all these in the hands of Aaron, and upon the hands  of his sons. And he offered them as a cut-away portion before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them [for] a wave offering before the LORD.
-<small><sub>**BSB:**</sub></small>
-He put all these in the hands of Aaron and his sons and waved them before the LORD as a wave offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.26|<< Leviticus 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.28|Leviticus 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

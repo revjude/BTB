@@ -1,10 +1,7 @@
 **LXX Exodus 18:17** 
 <small><sub>**LXX:**</sub></small>
 And the father-in-law said \[to\] Moses to him, Not rightly do you do  this thing. 
-<small><sub>**KJV:**</sub></small>
-And Moses’ father in law said unto him, The thing that thou doest [is] not good.
-<small><sub>**BSB:**</sub></small>
-But Moses’ father-in-law said to him, “What you are doing is not good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.16|<< Exodus 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.18|Exodus 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

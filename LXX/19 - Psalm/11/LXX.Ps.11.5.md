@@ -1,10 +1,7 @@
 **LXX Psalm 11:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> inquires diligently to the just and the impious; but the one loving injustice detests  his own soul. 
-<small><sub>**KJV:**</sub></small>
-The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.
-<small><sub>**BSB:**</sub></small>
-The LORD tests the righteous and the wicked; His soul hates the lover of violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.4|<< Psalm 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.6|Psalm 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

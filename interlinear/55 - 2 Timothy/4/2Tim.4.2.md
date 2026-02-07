@@ -1,12 +1,12 @@
-**2 Timothy 4:2
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:2**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
 <small><sub>**BSB:**</sub></small>
 Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with every form of patient instruction.
 <small><sub>**Literal:**</sub></small>
 do preach the word, do be ready in season [and] out of season, do convict, do rebuke, [and] do exhort with complete patience and with instruction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.1|<< 2 Timothy 4:1]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.3|2 Timothy 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do preach |**<big>[[G2784\|κήρυξον]]</big>**  |kēruxon <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

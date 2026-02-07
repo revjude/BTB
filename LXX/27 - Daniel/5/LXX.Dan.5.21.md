@@ -1,10 +1,7 @@
 **LXX Daniel 5:21** 
 <small><sub>**LXX:**</sub></small>
 And from the men he was driven out, and  his heart was given \[to be\] with the wild beasts, and with the wild donkeys among which he dwelt. And grass was fed him as an ox, and his body was dipped of the dew of the heaven, until of which \[time\] he knew that God \[the\] highest dominated the kingdom  of men, and to whomever it seems \[good\] he gives it. 
-<small><sub>**KJV:**</sub></small>
-And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling [was] with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and [that] he appointeth over it whomsoever he will.
-<small><sub>**BSB:**</sub></small>
-He was driven away from mankind, and his mind was like that of a beast. He lived with the wild donkeys and ate grass like an ox, and his body was drenched with the dew of heaven until he acknowledged that the Most High God rules over the kingdom of mankind, setting over it whom He wishes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.20|<< Daniel 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.22|Daniel 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

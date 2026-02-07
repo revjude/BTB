@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:22** 
 <small><sub>**LXX:**</sub></small>
 Because you pervert \[the\] heart of \[the\] just wrongfully, for I did not pervert him; and  \[you\] strengthened \[the\] hands of \[the\] lawless one  altogether, to not turn him from  his evil way, so as to enliven him. 
-<small><sub>**KJV:**</sub></small>
-Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:
-<small><sub>**BSB:**</sub></small>
-Because you have disheartened the righteous with your lies, even though I have caused them no grief, and because you have encouraged the wicked not to turn from their evil ways to save their lives,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.21|<< Ezekiel 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.23|Ezekiel 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

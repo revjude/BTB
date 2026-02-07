@@ -1,4 +1,4 @@
-**2 Kings 18:20** 
+**2 Kings 18:20**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sayest, (but [they are but] vain words,) [I have] counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You claim to have a strategy and strength for war, but these are empty words. In
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.19|<< 2 Kings 18:19]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.21|2 Kings 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have said  |**<big>&#8207;[[H0559\|אָמַ֙רְתָּ֙]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

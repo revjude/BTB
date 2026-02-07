@@ -1,4 +1,4 @@
-**Deuteronomy 9:26** 
+**Deuteronomy 9:26**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I prayed therefore unto the LORD, and said, O Lord GOD, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I prayed to the LORD and said, “O Lord GOD, do not destroy Your people, Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.25|<< Deuteronomy 9:25]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.27|Deuteronomy 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prayed  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6419\|אֶתְפַּלֵּ֣ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'et.pa.Lel<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

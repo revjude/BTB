@@ -1,4 +1,4 @@
-**Psalms 68:18** (68:19)
+**Psalms 68:18**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You have ascended on high; You have led captives away. You have received gifts f
 > $\quad$ referenced by: [[Eph.4.8|Eph 4:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you went up  |**<big>&#8207;[[H5927G\|עָ֘לִ֤יתָ]]&#8207; </big>**| 'a.Li.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the height  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4791\|מָּר֨וֹם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

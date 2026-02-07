@@ -1,4 +1,4 @@
-**Psalms 116:12** 
+**Psalms 116:12**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall I render unto the LORD [for] all his benefits toward me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can I repay the LORD for all His goodness to me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.11|<< Psalms 116:11]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.13|Psalms 116:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I give back  |**<big>&#8207;[[H7725K\|אָשִׁ֥יב]]&#8207; </big>**| 'a.Shiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

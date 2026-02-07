@@ -1,4 +1,4 @@
-**Numbers 32:42** 
+**Numbers 32:42**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Nobah went and captured Kenath and its villages and called it Nobah, after h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.41|<< Numbers 32:41]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.1|Numbers 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Nobah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5025G\|נֹ֣בַח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Noach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H1980G\|הָלַ֔ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

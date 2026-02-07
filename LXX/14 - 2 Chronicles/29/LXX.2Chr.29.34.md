@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:34** 
 <small><sub>**LXX:**</sub></small>
 But the priests were few, and not able to flay the whole burnt-offering; and assisting them \[were\] the Levites, until of which \[time\] the work was completed, and until of which \[time\] the \[other\] priests sanctified \[themselves\]; for the Levites more eagerly sanctified \[themselves\] than the priests. 
-<small><sub>**KJV:**</sub></small>
-But the priests were too few, so that they could not flay all the burnt offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the [other] priests had sanctified themselves: for the Levites [were] more upright in heart to sanctify themselves than the priests.
-<small><sub>**BSB:**</sub></small>
-However, since there were not enough priests to skin all the burnt offerings, their Levite brothers helped them until the work was finished and until the priests had consecrated themselves. For the Levites had been more diligent in consecrating themselves than the priests had been.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.33|<< 2 Chronicles 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.35|2 Chronicles 29:35 >>]]</td></tr></table>
 
 | Translation | Greek |

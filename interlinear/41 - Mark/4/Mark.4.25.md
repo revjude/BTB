@@ -1,12 +1,12 @@
-**Mark 4:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:25**<big><big>[[Mark.4.21 The Lesson of the Lamp|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.
 <small><sub>**BSB:**</sub></small>
 For whoever has will be given more. But whoever does not have, even what he has will be taken away from him.”
 <small><sub>**Literal:**</sub></small>
 Who[ever] for maybe has, it will be given to him; and he who not has, even what he has will be taken away from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.24|<< Mark 4:24]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.26|Mark 4:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

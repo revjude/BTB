@@ -1,12 +1,12 @@
-**Colossians 2:7
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:7**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
 <small><sub>**BSB:**</sub></small>
 rooted and built up in Him, established in the faith as you were taught, and overflowing with thankfulness.
 <small><sub>**Literal:**</sub></small>
 rooted and being built up in Him and being strengthened in in the faith even as you were taught, abounding in to her with thanksgiving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.6|<< Colossians 2:6]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.8|Colossians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rooted |**<big>[[G4492\|ἐρριζωμένοι]]</big>**  |errizōmenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

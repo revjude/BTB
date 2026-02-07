@@ -1,4 +1,4 @@
-**Hosea 7:2** 
+**Hosea 7:2**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they consider not in their hearts [that] I remember all their wickedness: now their own doings have beset them about; they are before my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they fail to consider in their hearts that I remember all their evil. Now th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.1|<< Hosea 7:1]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.3|Hosea 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they say  |**<big>&#8207;[[H0559\|יֹֽאמְרוּ֙]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

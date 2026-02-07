@@ -1,4 +1,4 @@
-**Jeremiah 35:18** 
+**Jeremiah 35:18**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeremiah said unto the house of the Rechabites, Thus saith the LORD of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeremiah said to the house of the Rechabites: “This is what the LORD of H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.17|<< Jeremiah 35:17]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.19|Jeremiah 35:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] house of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵ֨ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Rechabites  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7397A\|רֵכָבִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.kha.Vim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:9** 
 <small><sub>**LXX:**</sub></small>
 And I said, The matter \[is\] not good which you do. go forth not thus in \[the\] fear of our God because of \[the\] scorn of the nations  of our enemies? 
-<small><sub>**KJV:**</sub></small>
-Also I said, It [is] not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
-<small><sub>**BSB:**</sub></small>
-So I continued, “What you are doing is not right. Shouldn’t you walk in the fear of our God to avoid the reproach of our foreign enemies?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

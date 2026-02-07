@@ -1,12 +1,12 @@
-**Romans 5:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:20**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:
 <small><sub>**BSB:**</sub></small>
 The law came in so that the trespass would increase; but where sin increased, grace increased all the more,
 <small><sub>**Literal:**</sub></small>
 [The] law now entered, so that may abound the trespass; where however abounded <the> sin, overabounded <the> grace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.19|<< Romans 5:19]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.21|Romans 5:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] law |**<big>[[G3551\|Νόμος]]</big>**  |Nomos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

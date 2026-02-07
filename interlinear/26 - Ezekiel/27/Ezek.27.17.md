@@ -1,4 +1,4 @@
-**Ezekiel 27:17** 
+**Ezekiel 27:17**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah, and the land of Israel, they [were] thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judah and the land of Israel traded with you; they exchanged wheat from Minnith,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.16|<< Ezekiel 27:16]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.18|Ezekiel 27:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָה֙]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] land of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

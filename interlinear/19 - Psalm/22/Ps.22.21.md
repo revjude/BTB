@@ -1,4 +1,4 @@
-**Psalms 22:21** (22:22)
+**Psalms 22:21**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Save me from the mouth of the lion; at the horns of the wild oxen You have answe
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | save me  |**<big>&#8207;[[H3467\|ה֭וֹשִׁיעֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ho.o.shi.'e.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] mouth of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6310G\|פִּ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

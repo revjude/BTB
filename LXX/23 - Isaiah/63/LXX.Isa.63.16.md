@@ -1,10 +1,7 @@
 **LXX Isaiah 63:16** 
 <small><sub>**LXX:**</sub></small>
 For you are our father. For Abraham did not know us, and Israel did not recognize us. But you, O <span class="smallcaps">lord</span> our father, rescue us! From \[the\] beginning  your name is upon us. 
-<small><sub>**KJV:**</sub></small>
-Doubtless thou [art] our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O LORD, [art] our father, our redeemer; thy name [is] from everlasting.
-<small><sub>**BSB:**</sub></small>
-Yet You are our Father, though Abraham does not know us and Israel does not acknowledge us. You, O LORD, are our Father; our Redeemer from Everlasting is Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.15|<< Isaiah 63:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.17|Isaiah 63:17 >>]]</td></tr></table>
 
 | Translation | Greek |

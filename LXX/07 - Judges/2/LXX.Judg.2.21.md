@@ -1,10 +1,7 @@
 **LXX Judges 2:21** 
 <small><sub>**LXX:**</sub></small>
 then I shall not proceed  to remove a man before their presence from the nations whom were left behind \[by\] Joshua. 
-<small><sub>**KJV:**</sub></small>
-I also will not henceforth drive out any from before them of the nations which Joshua left when he died:
-<small><sub>**BSB:**</sub></small>
-I will no longer drive out before them any of the nations Joshua left when he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.20|<< Judges 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.22|Judges 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

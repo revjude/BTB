@@ -1,10 +1,7 @@
 **LXX Isaiah 32:6** 
 <small><sub>**LXX:**</sub></small>
 For the moron shall speak moronish, and  his heart shall purpose vanities,  to complete lawless deeds, and to speak a delusion against \[the\] <span class="smallcaps">lord</span>,  to scatter hungering souls, and causing vain \[things\] for the thirsting souls. 
-<small><sub>**KJV:**</sub></small>
-For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
-<small><sub>**BSB:**</sub></small>
-For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness and speaks falsely about the LORD; he leaves the hungry empty and deprives the thirsty of drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.5|<< Isaiah 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.7|Isaiah 32:7 >>]]</td></tr></table>
 
 | Translation | Greek |

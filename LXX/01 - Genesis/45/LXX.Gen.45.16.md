@@ -1,10 +1,7 @@
 **LXX Genesis 45:16** 
 <small><sub>**LXX:**</sub></small>
 And the report was proclaimed forth into the house of Pharaoh, saying, The brothers of Joseph have come. And Pharaoh rejoiced, and  his attendant. 
-<small><sub>**KJV:**</sub></small>
-And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants.
-<small><sub>**BSB:**</sub></small>
-When the news reached Pharaoh’s house that Joseph’s brothers had come, Pharaoh and his servants were pleased.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.15|<< Genesis 45:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.17|Genesis 45:17 >>]]</td></tr></table>
 
 | Translation | Greek |

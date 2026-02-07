@@ -1,10 +1,7 @@
 **LXX Genesis 19:15** 
 <small><sub>**LXX:**</sub></small>
 And when dawn came the angels hurried  Lot, saying, In rising up, take  your wife and  your two daughters whom you have, and come forth! that you should not also be destroyed together in the lawlessnesses of the city. 
-<small><sub>**KJV:**</sub></small>
-And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.
-<small><sub>**BSB:**</sub></small>
-At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.14|<< Genesis 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.16|Genesis 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

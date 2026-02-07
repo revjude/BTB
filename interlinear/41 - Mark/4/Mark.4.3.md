@@ -1,12 +1,12 @@
-**Mark 4:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:3**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hearken; Behold, there went out a sower to sow:
 <small><sub>**BSB:**</sub></small>
 “Listen! A farmer went out to sow his seed.
 <small><sub>**Literal:**</sub></small>
 do listen! Behold went out the [one] sowing of the to sow;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.2|<< Mark 4:2]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.4|Mark 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do listen! |**<big>[[G0191\|Ἀκούετε.¶]]</big>**  |Akouete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Behold |**<big>[[G2400\|Ἰδοὺ]]</big>**  |Idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

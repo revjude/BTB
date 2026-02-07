@@ -1,4 +1,4 @@
-**Psalms 36:4** (36:5)
+**Psalms 36:4**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He deviseth mischief upon his bed; he setteth himself in a way [that is] not good; he abhorreth not evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even on his bed he plots wickedness; he sets himself on a path that is not good;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.3|<< Psalms 36:3]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.5|Psalms 36:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wickedness  |**<big>&#8207;[[H0205G\|אָ֤וֶן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he plans  |**<big>&#8207;[[H2803I\|יַחְשֹׁ֗ב]]&#8207; </big>**| yach.Sho<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

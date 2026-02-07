@@ -1,12 +1,12 @@
-**Matthew 14:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:30**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
 <small><sub>**BSB:**</sub></small>
 But when he saw the strength of the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”
 <small><sub>**Literal:**</sub></small>
 Seeing now the wind charging he was afraid, and having begun to sink he cried out saying; Lord, do save me!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.29|<< Matthew 14:29]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.31|Matthew 14:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Seeing |**<big>[[G0991\|βλέπων]]</big>**  |blepōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

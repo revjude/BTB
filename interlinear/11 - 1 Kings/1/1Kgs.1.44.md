@@ -1,4 +1,4 @@
-**1 Kings 1:44** 
+**1 Kings 1:44**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king’s mule:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Be
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.43|<< 1 Kings 1:43]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.45|1 Kings 1:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'i.to<small><sup>[[HR]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

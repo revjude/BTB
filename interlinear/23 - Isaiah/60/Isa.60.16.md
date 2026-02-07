@@ -1,4 +1,4 @@
-**Isaiah 60:16** 
+**Isaiah 60:16**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD [am] thy Saviour and thy Redeemer, the mighty One of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will drink the milk of nations and nurse at the breasts of royalty; you will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.15|<< Isaiah 60:15]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.17|Isaiah 60:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will suck  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3243G\|יָנַקְתְּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.nakT<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] milk of  |**<big>&#8207;[[H2461\|חֲלֵ֣ב]]&#8207; </big>**| cha.Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

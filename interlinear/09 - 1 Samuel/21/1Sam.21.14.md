@@ -1,4 +1,4 @@
-**1 Samuel 21:14** (21:15)
+**1 Samuel 21:14**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Achish unto his servants, Lo, ye see the man is mad: wherefore [then] have ye brought him to me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Achish said to his servants, “Look, you can see that the man is insane! W
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.13|<< 1 Samuel 21:13]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.15|1 Samuel 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Achish  |**<big>&#8207;[[H0397\|אָכִ֖ישׁ]]&#8207; </big>**| 'a.Khish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

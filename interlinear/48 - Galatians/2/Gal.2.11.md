@@ -1,12 +1,12 @@
-**Galatians 2:11
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:11**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
 <small><sub>**BSB:**</sub></small>
 When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned.
 <small><sub>**Literal:**</sub></small>
 When however came Peter to Antioch, to face his I opposed [him], because condemned he was standing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.10|<< Galatians 2:10]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.12|Galatians 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

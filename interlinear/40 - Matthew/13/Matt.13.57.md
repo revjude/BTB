@@ -1,12 +1,12 @@
-**Matthew 13:57
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:57**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
 <small><sub>**BSB:**</sub></small>
 And they took offense at Him. But Jesus said to them, “Only in his hometown and in his own household is a prophet without honor.”
 <small><sub>**Literal:**</sub></small>
 And they were offended at Him. <the> But Jesus said to them; Not is a prophet without Honor only except in the hometown of him and in the household of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.56|<< Matthew 13:56]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.58|Matthew 13:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were offended |**<big>[[G4624\|ἐσκανδαλίζοντο]]</big>**  |eskandalizonto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

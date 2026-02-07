@@ -1,4 +1,4 @@
-**2 Samuel 10:4** 
+**2 Samuel 10:4**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore Hanun took David’s servants, and shaved off the one half of their beards, and cut off their garments in the middle, [even] to their buttocks, and sent them away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Hanun took David’s servants, shaved off half of each man’s beard, cut off
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.3|<< 2 Samuel 10:3]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.5|2 Samuel 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hanun  |**<big>&#8207;[[H2586G\|חָנ֜וּן]]&#8207; </big>**| cha.Nun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

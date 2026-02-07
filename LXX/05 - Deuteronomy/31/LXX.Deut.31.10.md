@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:10** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave charge to them in  that day, saying, After seven years, in \[the\] time of \[the\] year of release, in \[the\] holiday of pitching of tents, 
-<small><sub>**KJV:**</sub></small>
-And Moses commanded them, saying, At the end of [every] seven years, in the solemnity of the year of release, in the feast of tabernacles,
-<small><sub>**BSB:**</sub></small>
-Then Moses commanded them, “At the end of every seven years, at the appointed time in the year of remission of debt, during the Feast of Tabernacles,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.9|<< Deuteronomy 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.11|Deuteronomy 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

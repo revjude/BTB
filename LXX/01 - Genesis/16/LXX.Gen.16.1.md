@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Sarai, the wife of Abram, bore not to him. But there was to her a maidservant, an Egyptian, whose name \[was\] Hagar. 
-<small><sub>**KJV:**</sub></small>
-Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name [was] Hagar.
-<small><sub>**BSB:**</sub></small>
-Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.21|<< Genesis 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.2|Genesis 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

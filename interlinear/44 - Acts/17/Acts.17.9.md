@@ -1,12 +1,12 @@
-**Acts 17:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:9**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had taken security of Jason, and of the other, they let them go.
 <small><sub>**BSB:**</sub></small>
 And they collected bond from Jason and the others and then released them.
 <small><sub>**Literal:**</sub></small>
 And having taken <the> security from <the> Jason and the rest they let go them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.8|<< Acts 17:8]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.10|Acts 17:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G2983\|λαβόντες]]</big>**  |labontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

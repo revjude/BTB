@@ -1,4 +1,4 @@
-**Deuteronomy 30:20** 
+**Deuteronomy 30:20**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest love the LORD thy God, [and] that thou mayest obey his voice, and that thou mayest cleave unto him: for he [is] thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and that you may love the LORD your God, obey Him, and hold fast to Him. For He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.19|<< Deuteronomy 30:19]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.1|Deuteronomy 31:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by loving  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0157G\|אַֽהֲבָה֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ha.Vah<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

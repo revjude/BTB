@@ -1,4 +1,4 @@
-**Isaiah 10:5** 
+**Isaiah 10:5**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to Assyria, the rod of My anger; the staff in their hands is My wrath.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.4|<< Isaiah 10:4]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.6|Isaiah 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֥וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁ֖וּר]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

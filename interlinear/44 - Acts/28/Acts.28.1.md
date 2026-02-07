@@ -1,12 +1,12 @@
-**Acts 28:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:1**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were escaped, then they knew that the island was called Melita.
 <small><sub>**BSB:**</sub></small>
 Once we were safely ashore, we learned that the island was called Malta.
 <small><sub>**Literal:**</sub></small>
 And having been saved then we found out that Malta the island is called;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.44|<< Acts 27:44]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.2|Acts 28:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been saved |**<big>[[G1295\|διασωθέντες]]</big>**  |diasōthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 12:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:22**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.
 <small><sub>**BSB:**</sub></small>
 Then a demon-possessed man who was blind and mute was brought to Jesus, and He healed the man so that he could speak and see.
 <small><sub>**Literal:**</sub></small>
 Then was brought to Him [one] being demonised blind and mute, and He healed him in order for the blind and mute [man] and to speak and to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.21|<< Matthew 12:21]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.23|Matthew 12:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was brought [^1] [^2] |**<big>[[G4374\|προσηνέχθη]]</big>**  |prosēnechthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |

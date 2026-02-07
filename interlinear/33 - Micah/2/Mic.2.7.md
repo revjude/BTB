@@ -1,4 +1,4 @@
-**Micah 2:7** 
+**Micah 2:7**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O [thou that art] named the house of Jacob, is the spirit of the LORD straitened? [are] these his doings? do not my words do good to him that walketh uprightly?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.6|<< Micah 2:6]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.8|Micah 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is it] said  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H0559\|אָמ֣וּר]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> 'a.Mur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

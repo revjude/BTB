@@ -1,10 +1,7 @@
 **LXX Isaiah 24:17** 
 <small><sub>**LXX:**</sub></small>
 Fear, and a pit, and a snare is upon you, O ones dwelling upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Fear, and the pit, and the snare, [are] upon thee, O inhabitant of the earth.
-<small><sub>**BSB:**</sub></small>
-Terror and pit and snare await you, O dweller of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.16|<< Isaiah 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.18|Isaiah 24:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 24:17** is...

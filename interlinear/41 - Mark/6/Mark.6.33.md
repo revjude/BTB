@@ -1,12 +1,12 @@
-**Mark 6:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:33**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
 <small><sub>**BSB:**</sub></small>
 But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them.
 <small><sub>**Literal:**</sub></small>
 And they saw them going <the> crowds and recognized him many and on foot from all the cities ran together there and went before them and together went to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.32|<< Mark 6:32]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.34|Mark 6:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they saw |**<big>[[G1492H\|εἶδον]]</big>**  [^1] |eidon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

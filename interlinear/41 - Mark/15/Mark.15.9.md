@@ -1,12 +1,12 @@
-**Mark 15:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:9**<big><big>[[Mark.15.6 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?
 <small><sub>**BSB:**</sub></small>
 “Do you want me to release to you the King of the Jews?” Pilate asked.
 <small><sub>**Literal:**</sub></small>
 <the> But Pilate answered to them saying; Wish you [that] I may release to you the King of the Jews?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.8|<< Mark 15:8]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.10|Mark 15:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

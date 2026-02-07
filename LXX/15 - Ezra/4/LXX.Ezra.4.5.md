@@ -1,10 +1,7 @@
 **LXX Ezra 4:5** 
 <small><sub>**LXX:**</sub></small>
 And they were hiring against them counselors  to efface  their counsel all the days of Cyrus king of \[the\] Persians, and unto \[the\] kingdom of Darius, the king of \[the\] Persians. 
-<small><sub>**KJV:**</sub></small>
-And hired counsellers against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
-<small><sub>**BSB:**</sub></small>
-They hired counselors against them to frustrate their plans throughout the reign of Cyrus king of Persia and down to the reign of Darius king of Persia.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.4|<< Ezra 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.6|Ezra 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

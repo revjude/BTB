@@ -1,4 +1,4 @@
-**1 Chronicles 16:39** 
+**1 Chronicles 16:39**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that [was] at Gibeon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David left Zadok the priest and his fellow priests before the tabernacle of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.38|<< 1 Chronicles 16:38]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.40|1 Chronicles 16:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zadok  |**<big>&#8207;[[H6659G\|צָד֣וֹק]]&#8207; </big>**| tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

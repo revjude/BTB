@@ -1,4 +1,4 @@
-**Judges 8:35** 
+**Judges 8:35**<big><big>[[Judg.8.32 Gideon’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shewed they kindness to the house of Jerubbaal, [namely], Gideon, according to all the goodness which he had shewed unto Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They did not show kindness to the house of Jerubbaal (that is, Gideon) for all t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.34|<< Judges 8:34]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.1|Judges 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they did  |**<big>&#8207;[[H6213A\|עָשׂ֣וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

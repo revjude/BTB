@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:48** 
 <small><sub>**LXX:**</sub></small>
 and they shall turn to you with their entire heart, and with their entire soul in the land  of their enemies who led them away, and should pray to you by way  of their land which you gave \[to\] their fathers, and of the city which you chose, and of the house of which I constructed \[to\] your name; 
-<small><sub>**KJV:**</sub></small>
-And [so] return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
-<small><sub>**BSB:**</sub></small>
-and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray to You in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.47|<< 1 Kings 8:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.49|1 Kings 8:49 >>]]</td></tr></table>
 
 | Translation | Greek |

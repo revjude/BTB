@@ -1,4 +1,4 @@
-**Judges 1:14** 
+**Judges 1:14**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she came [to him], that she moved him to ask of her father a field: and she lighted from off [her] ass; and Caleb said unto her, What wilt thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One day Acsah came to Othniel and urged him to ask her father for a field. When 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.13|<< Judges 1:13]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.15|Judges 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came she  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בוֹאָ֗]]&#8207;&#8207;[[H9044\|הּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

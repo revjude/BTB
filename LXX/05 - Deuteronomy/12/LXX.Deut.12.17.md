@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:17** 
 <small><sub>**LXX:**</sub></small>
 You shall not be able to eat in  your cities the tithe  of your grain, and  your wine, and  your olive oil, the first-born  of your oxen, and  of your sheep, and all the vows, as many as you should have vowed, and  your acknowledgment \[offerings\], and the first-fruits  of your hands. 
-<small><sub>**KJV:**</sub></small>
-Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:
-<small><sub>**BSB:**</sub></small>
-Within your gates you must not eat the tithe of your grain or new wine or oil, the firstborn of your herds or flocks, any of the offerings that you have vowed to give, or your freewill offerings or special gifts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.16|<< Deuteronomy 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.18|Deuteronomy 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

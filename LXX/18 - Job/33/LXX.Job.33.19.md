@@ -1,10 +1,7 @@
 **LXX Job 33:19** 
 <small><sub>**LXX:**</sub></small>
 And again he reproves him by infirmity upon \[his\] bed, and he paralyzed a multitude of his bones. 
-<small><sub>**KJV:**</sub></small>
-He is chastened also with pain upon his bed, and the multitude of his bones with strong [pain]:
-<small><sub>**BSB:**</sub></small>
-A man is also chastened on his bed with pain and constant distress in his bones,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.18|<< Job 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.20|Job 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

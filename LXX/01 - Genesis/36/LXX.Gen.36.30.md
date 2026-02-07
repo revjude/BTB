@@ -1,10 +1,7 @@
 **LXX Genesis 36:30** 
 <small><sub>**LXX:**</sub></small>
 prince Dishon, prince Ezer, prince Dishan. These \[were\] \[the\] princes of Hori, in  their governing in \[the\] land of Edom. 
-<small><sub>**KJV:**</sub></small>
-Duke Dishon, duke Ezer, duke Dishan: these [are] the dukes [that came] of Hori, among their dukes in the land of Seir.
-<small><sub>**BSB:**</sub></small>
-Dishon, Ezer, and Dishan. They are the chiefs of the Horites, according to their divisions in the land of Seir.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.29|<< Genesis 36:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.31|Genesis 36:31 >>]]</td></tr></table>
 
 | Translation | Greek |

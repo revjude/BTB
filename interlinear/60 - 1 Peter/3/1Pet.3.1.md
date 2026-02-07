@@ -1,12 +1,12 @@
-**1 Peter 3:1
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:1**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise, ye wives, [be] in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 <small><sub>**BSB:**</sub></small>
 Wives, in the same way, submit yourselves to your husbands, so that even if they refuse to believe the word, they will be won over without words by the behavior of their wives
 <small><sub>**Literal:**</sub></small>
 Likewise You wives be subject <the> to [their] own husbands, so that even if any are disobedient to the word, through the of the wives conduct without word they will be gained,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.25|<< 1 Peter 2:25]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.2|1 Peter 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|Ὁμοίως]]</big>**  |Homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You |**<big>[[G3739\|αἱ]]</big>**  |hai <small><sup>[[R-NPF]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |

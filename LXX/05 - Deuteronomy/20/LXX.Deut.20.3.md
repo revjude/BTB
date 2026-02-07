@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:3** 
 <small><sub>**LXX:**</sub></small>
 Hear, O Israel! You go today to war with  your enemies; do not loosen  your heart; do not fear nor be devastated, nor turn aside from their face! 
-<small><sub>**KJV:**</sub></small>
-And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;
-<small><sub>**BSB:**</sub></small>
-saying to them, “Hear, O Israel, today you are going into battle with your enemies. Do not be fainthearted or afraid; do not be alarmed or terrified because of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.2|<< Deuteronomy 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.4|Deuteronomy 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

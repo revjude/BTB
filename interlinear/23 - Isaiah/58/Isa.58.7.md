@@ -1,4 +1,4 @@
-**Isaiah 58:7** 
+**Isaiah 58:7**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Isn’t it to share your bread with the hungry, to bring the poor and homeless i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.6|<< Isaiah 58:6]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.8|Isaiah 58:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֨וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is it] to break  |**<big>&#8207;[[H6536\|פָרֹ֤ס]]&#8207; </big>**| fa.Ros<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:23** 
 <small><sub>**LXX:**</sub></small>
 And all the nations shall know that \[the\] house of Israel was captured on account of their sin, because they annulled \[covenant\] against me, and I turned  my face from them, and delivered them into \[the\] hands  of their enemies, and they all fell by \[the\] sword. 
-<small><sub>**KJV:**</sub></small>
-And the heathen shall know that the house of Israel went into captivity for their iniquity: because they trespassed against me, therefore hid I my face from them, and gave them into the hand of their enemies: so fell they all by the sword.
-<small><sub>**BSB:**</sub></small>
-And the nations will know that the house of Israel went into exile for their iniquity, because they were unfaithful to Me. So I hid My face from them and delivered them into the hands of their enemies, so that they all fell by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.22|<< Ezekiel 39:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.24|Ezekiel 39:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 21:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:9**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed [is] he that cometh in the name of the Lord; Hosanna in the highest.
 <small><sub>**BSB:**</sub></small>
 The crowds that went ahead of Him and those that followed were shouting: “Hosanna to the Son of David!” “Blessed is He who comes in the name of the Lord!” “Hosanna in the highest!”
@@ -10,7 +10,7 @@ The now crowds which are going before Him and those following they were crying o
 > $\quad$ referencing: [[LXX.Job.16.19|Job 16:19]] ☩ [[LXX.Ps.118.25|Ps 118:25-26]] ☩ [[LXX.Ps.148.1|Ps 148:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

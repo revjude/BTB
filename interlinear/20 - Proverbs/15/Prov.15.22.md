@@ -1,4 +1,4 @@
-**Proverbs 15:22** 
+**Proverbs 15:22**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Without counsel purposes are disappointed: but in the multitude of counsellers they are established.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Plans fail for lack of counsel, but with many advisers they succeed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.21|<< Proverbs 15:21]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.23|Proverbs 15:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they go wrong  |**<big>&#8207;[[H6565A\|הָפֵ֣ר]]&#8207; </big>**| ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | plans  |**<big>&#8207;[[H4284\|מַ֭חֲשָׁבוֹת]]&#8207; </big>**| Ma.cha.sha.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 49:21** 
+**Genesis 49:21**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Naphtali [is] a hind let loose: he giveth goodly words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Naphtali is a doe set free that bears beautiful fawns.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.20|<< Genesis 49:20]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.22|Genesis 49:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֖י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a doe  |**<big>&#8207;[[H0355\|אַיָּלָ֣ה]]&#8207; </big>**| 'ai.ya.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 24:22** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when all the camels ceased drinking, the man took ear-rings of gold \[worth\] up to a drachma scale-weight, and two bracelets, \[and put them\] upon  her hands -- ten pieces of gold scale-weight \[was\] their \[weight\]. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten [shekels] weight of gold;
-<small><sub>**BSB:**</sub></small>
-And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.21|<< Genesis 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.23|Genesis 24:23 >>]]</td></tr></table>
 
 | Translation | Greek |

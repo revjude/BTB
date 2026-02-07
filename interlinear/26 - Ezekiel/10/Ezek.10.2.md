@@ -1,4 +1,4 @@
-**Ezekiel 10:2** 
+**Ezekiel 10:2**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto the man clothed with linen, and said, Go in between the wheels, [even] under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter [them] over the city. And he went in in my sight.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD said to the man clothed in linen, “Go inside the wheelwork beneat
 > $\quad$ referenced by: [[Rev.8.5|Rev 8:5]] ☩ [[Rev.16.2|Rev 16:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֜אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

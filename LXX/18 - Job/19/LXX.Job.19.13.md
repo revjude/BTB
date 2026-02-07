@@ -1,10 +1,7 @@
 **LXX Job 19:13** 
 <small><sub>**LXX:**</sub></small>
 My brothers left me; they know strangers rather than me; and my friends have become unmerciful. 
-<small><sub>**KJV:**</sub></small>
-He hath put my brethren far from me, and mine acquaintance are verily estranged from me.
-<small><sub>**BSB:**</sub></small>
-He has removed my brothers from me; my acquaintances have abandoned me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.14|Job 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

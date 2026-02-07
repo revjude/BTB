@@ -1,4 +1,4 @@
-**Numbers 3:31** 
+**Numbers 3:31**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their charge [shall be] the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their duties were the ark, the table, the lampstand, the altars, the articles of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.30|<< Numbers 3:30]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.32|Numbers 3:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and duty their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4931\|מִשְׁמַרְתָּ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.mar.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] the ark  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0727\|אָרֹ֤ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

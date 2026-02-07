@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:8** 
 <small><sub>**LXX:**</sub></small>
 And Saul was provoked to anger, and the thing appeared as an exceeding sorry state before Saul concerning  this word. And he said, They gave \[to\] David the ten thousands, and to me they gave the thousands. And what \[is there\] to him besides the kingdom? 
-<small><sub>**KJV:**</sub></small>
-And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed [but] thousands: and [what] can he have more but the kingdom?
-<small><sub>**BSB:**</sub></small>
-And Saul was furious and resented this song. “They have ascribed tens of thousands to David,” he said, “but only thousands to me. What more can he have but the kingdom?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.7|<< 1 Samuel 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.9|1 Samuel 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

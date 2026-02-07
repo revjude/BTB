@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:20** 
 <small><sub>**LXX:**</sub></small>
 to love \[the\] <span class="smallcaps">lord</span>  your God, to listen to  his voice, and to hold \[what is\] of his. For this \[is\]  your life, and the duration  of your days, to dwell upon the land of which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers -- Abraham and Isaac and Jacob, to give \[it\] to them. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest love the LORD thy God, [and] that thou mayest obey his voice, and that thou mayest cleave unto him: for he [is] thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
-<small><sub>**BSB:**</sub></small>
-and that you may love the LORD your God, obey Him, and hold fast to Him. For He is your life, and He will prolong your life in the land that the LORD swore to give to your fathers, to Abraham, Isaac, and Jacob.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.19|<< Deuteronomy 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.1|Deuteronomy 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:41** 
 <small><sub>**LXX:**</sub></small>
 and the apparels of the holy \[place\] which are for Aaron, and the apparels  of his sons for the priesthood. 
-<small><sub>**KJV:**</sub></small>
-The cloths of service to do service in the holy [place], and the holy garments for Aaron the priest, and his sons’ garments, to minister in the priest’s office.
-<small><sub>**BSB:**</sub></small>
-and the woven garments for ministering in the sanctuary, both the holy garments for Aaron the priest and the garments for his sons to serve as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.40|<< Exodus 39:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.42|Exodus 39:42 >>]]</td></tr></table>
 
 | Translation | Greek |

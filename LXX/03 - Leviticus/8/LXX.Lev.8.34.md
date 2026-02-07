@@ -1,10 +1,7 @@
 **LXX Leviticus 8:34** 
 <small><sub>**LXX:**</sub></small>
 just as he did in  this day, in which \[the\] <span class="smallcaps">lord</span> gave charge  to do, so as to atone for you. 
-<small><sub>**KJV:**</sub></small>
-As he hath done this day, [so] the LORD hath commanded to do, to make an atonement for you.
-<small><sub>**BSB:**</sub></small>
-What has been done today has been commanded by the LORD in order to make atonement on your behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.33|<< Leviticus 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.35|Leviticus 8:35 >>]]</td></tr></table>
 
 | Translation | Greek |

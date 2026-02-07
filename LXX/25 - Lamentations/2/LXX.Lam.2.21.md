@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΙΝ</p>
 
 \[The\] boy and old man went to bed on \[the\] ground in \[the\] street; my virgins and my young men went into captivity by broadsword; by famine you killed; in \[the\] day of your anger you cut up, you spared not. 
-<small><sub>**KJV:**</sub></small>
-The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain [them] in the day of thine anger; thou hast killed, [and] not pitied.
-<small><sub>**BSB:**</sub></small>
-Both young and old lie together in the dust of the streets. My young men and maidens have fallen by the sword. You have slain them in the day of Your anger; You have slaughtered them without compassion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.20|<< Lamentations 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.22|Lamentations 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

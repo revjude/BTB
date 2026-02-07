@@ -1,4 +1,4 @@
-**Psalms 57:11** (57:12)
+**Psalms 57:11**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou exalted, O God, above the heavens: [let] thy glory [be] above all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be exalted, O God, above the heavens; may Your glory cover all the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.10|<< Psalms 57:10]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.0|Psalms 58:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be exalted !  |**<big>&#8207;[[H7311A\|ר֣וּמָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ru.ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there came to me men from the elders of the people of Israel, and they sat before my face. 
-<small><sub>**KJV:**</sub></small>
-Then came certain of the elders of Israel unto me, and sat before me.
-<small><sub>**BSB:**</sub></small>
-Then some of the elders of Israel came and sat down before me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.23|<< Ezekiel 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.2|Ezekiel 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

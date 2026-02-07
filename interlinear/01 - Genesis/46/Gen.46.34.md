@@ -1,4 +1,4 @@
-**Genesis 46:34** 
+**Genesis 46:34**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, [and] also our fathers: that ye may dwell in the land of Goshen; for every shepherd [is] an abomination unto the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you are to say, ‘Your servants have raised livestock ever since our youth—bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.33|<< Genesis 46:33]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.1|Genesis 47:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֗ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֨י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

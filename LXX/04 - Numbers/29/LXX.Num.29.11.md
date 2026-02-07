@@ -1,10 +1,7 @@
 **LXX Numbers 29:11** 
 <small><sub>**LXX:**</sub></small>
 And one young he-goat from \[the\] goats for a sin \[offering\] to atone for you; besides the one for the sin \[offering\] of the atonement, and the continual whole burnt-offering,  its sacrifice \[offering\], and  its libation according to the interpretation, a yield \[offering\] \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-One kid of the goats [for] a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings.
-<small><sub>**BSB:**</sub></small>
-Include one male goat for a sin offering, in addition to the sin offering of atonement and the regular burnt offering with its grain offering and drink offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.10|<< Numbers 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.12|Numbers 29:12 >>]]</td></tr></table>
 
 | Translation | Greek |

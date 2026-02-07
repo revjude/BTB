@@ -1,10 +1,7 @@
 **LXX Genesis 18:16** 
 <small><sub>**LXX:**</sub></small>
 And having risen up from there, the men looked down upon \[the\] face of Sodom and Gomorrah. And Abraham went with them, escorting them. 
-<small><sub>**KJV:**</sub></small>
-And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.
-<small><sub>**BSB:**</sub></small>
-When the men got up to leave, they looked out over Sodom, and Abraham walked along with them to see them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.15|<< Genesis 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.17|Genesis 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

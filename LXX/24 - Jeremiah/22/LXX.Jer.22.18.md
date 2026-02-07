@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:18** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span> against Jehoiakim son of Josiah king of Judah, Woe against  this man. In no way should they lament him, \[saying\], O brother. Nor shall they weep \[over\] him, \[saying\], Alas, O lord. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, [saying], Ah my brother! or, Ah sister! they shall not lament for him, [saying], Ah lord! or, Ah his glory!
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendor!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

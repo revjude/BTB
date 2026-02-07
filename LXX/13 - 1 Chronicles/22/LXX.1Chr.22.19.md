@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:19** 
 <small><sub>**LXX:**</sub></small>
 Now give  your hearts and  your souls  to seek \[the\] <span class="smallcaps">lord</span>  your God! And arise and build the sanctuary to the <span class="smallcaps">lord</span>, \[to\] your God!  to carry in the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>, and  the holy items  of God, into the house  being built to the name of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-Now set your heart and soul to seek the LORD your God. Begin building the sanctuary of the LORD God, so that you may bring the ark of the covenant of the LORD and the holy articles of God into the temple that will be built for the Name of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.18|<< 1 Chronicles 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.1|1 Chronicles 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

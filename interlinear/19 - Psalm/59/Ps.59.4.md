@@ -1,4 +1,4 @@
-**Psalms 59:4** (59:5)
+**Psalms 59:4**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They run and prepare themselves without [my] fault: awake to help me, and behold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For no fault of my own, they move swiftly to attack me. Arise to help me, and ta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.3|<< Psalms 59:3]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.5|Psalms 59:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H1097\|בְּֽלִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquity  |**<big>&#8207;[[H5771G\|עָ֭וֹן]]&#8207; </big>**| 'A.von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:35** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Because you forgot me, and threw me behind  your body, then you receive  for your impiety and  your harlotry! 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘Because you have forgotten Me and have cast Me behind your back, you must bear the consequences of your indecency and prostitution.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.34|<< Ezekiel 23:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.36|Ezekiel 23:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:21** 
 <small><sub>**LXX:**</sub></small>
 In  that day there shall rise up a horn to all the house of Israel, and I will give to you a mouth being opened in \[the\] midst of them; and they shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth to speak among them. Then they will know that I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.20|<< Ezekiel 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.1|Ezekiel 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

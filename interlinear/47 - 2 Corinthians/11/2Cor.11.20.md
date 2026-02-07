@@ -1,12 +1,12 @@
-**2 Corinthians 11:20
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:20**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye suffer, if a man bring you into bondage, if a man devour [you], if a man take [of you], if a man exalt himself, if a man smite you on the face.
 <small><sub>**BSB:**</sub></small>
 In fact, you even put up with anyone who enslaves you or exploits you or takes advantage of you or exalts himself or strikes you in the face.
 <small><sub>**Literal:**</sub></small>
 You bear [it] for if anyone you enslaves, if anyone devours [you], if anyone takes [from you], if anyone exalts himself, if anyone in [the] face you strikes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.19|<< 2 Corinthians 11:19]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.21|2 Corinthians 11:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You bear [it] |**<big>[[G0430\|ἀνέχεσθε]]</big>**  |anechesthe <small><sup>[[V-PNI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ,]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

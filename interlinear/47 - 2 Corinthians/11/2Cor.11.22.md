@@ -1,12 +1,12 @@
-**2 Corinthians 11:22
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:22**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Are they Hebrews? so [am] I. Are they Israelites? so [am] I. Are they the seed of Abraham? so [am] I.
 <small><sub>**BSB:**</sub></small>
 Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I.
 <small><sub>**Literal:**</sub></small>
 Hebrews are they? I myself also; Israelites are they? I myself also; Descendants of Abraham are they? I myself also;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.21|<< 2 Corinthians 11:21]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.23|2 Corinthians 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hebrews |**<big>[[G1445\|Ἑβραῖοί]]</big>**  |Hebraioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are they? |**<big>[[G1510\|εἰσιν;]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

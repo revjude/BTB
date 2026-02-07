@@ -1,4 +1,4 @@
-**Isaiah 4:4** 
+**Isaiah 4:4**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when the Lord has washed away the filth of the daughters of Zion and cleansed th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has washed away  |**<big>&#8207;[[H7364\|רָחַ֣ץ]]&#8207; </big>**| ra.Chatz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

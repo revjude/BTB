@@ -1,12 +1,12 @@
-**John 12:28
-**<small><sub>**KJV:**</sub></small>
+**John 12:28**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Father, glorify thy name. Then came there a voice from heaven, [saying], I have both glorified [it], and will glorify [it] again.
 <small><sub>**BSB:**</sub></small>
 Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”
 <small><sub>**Literal:**</sub></small>
 Father, do glorify of You the name. Came therefore a voice from <the> heaven: Both I have glorified [it] and again I will glorify [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.27|<< John 12:27]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.29|John 12:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Father, |**<big>[[G3962\|πάτερ,]]</big>**  |pater <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do glorify |**<big>[[G1392\|δόξασόν]]</big>**  |doxason <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

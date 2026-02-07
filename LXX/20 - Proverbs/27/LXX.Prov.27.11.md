@@ -1,10 +1,7 @@
 **LXX Proverbs 27:11** 
 <small><sub>**LXX:**</sub></small>
 Become wise, O son! that the heart should gladden me. And turn reviling words from you! 
-<small><sub>**KJV:**</sub></small>
-My son, be wise, and make my heart glad, that I may answer him that reproacheth me.
-<small><sub>**BSB:**</sub></small>
-Be wise, my son, and bring joy to my heart, so that I can answer him who taunts me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.10|<< Proverbs 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.12|Proverbs 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

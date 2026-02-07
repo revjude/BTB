@@ -1,4 +1,4 @@
-**Jeremiah 10:20** 
+**Jeremiah 10:20**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they [are] not: [there is] none to stretch forth my tent any more, and to set up my curtains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My tent is destroyed, and all its ropes are snapped. My sons have departed from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.19|<< Jeremiah 10:19]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.21|Jeremiah 10:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tent my  |**<big>&#8207;[[H0168G\|אָהֳלִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ho.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been devastated  |**<big>&#8207;[[H7703\|שֻׁדָּ֔ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

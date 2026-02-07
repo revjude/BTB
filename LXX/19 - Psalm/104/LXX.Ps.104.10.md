@@ -1,10 +1,7 @@
 **LXX Psalm 104:10** 
 <small><sub>**LXX:**</sub></small>
 The one sending out springs in ravines; waters shall go through in the midst of the mountains; 
-<small><sub>**KJV:**</sub></small>
-He sendeth the springs into the valleys, [which] run among the hills.
-<small><sub>**BSB:**</sub></small>
-He sends forth springs in the valleys; they flow between the mountains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.9|<< Psalm 104:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.11|Psalm 104:11 >>]]</td></tr></table>
 
 | Translation | Greek |

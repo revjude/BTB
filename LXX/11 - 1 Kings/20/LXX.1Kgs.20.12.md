@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:12** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he answered to him  this word, he was drinking and all the kings  with him in tents. And he said \[to\] his servants, Build a siege mound! And they put a siege mound against the city. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when [Benhadad] heard this message, as he [was] drinking, he and the kings in the pavilions, that he said unto his servants, Set [yourselves in array]. And they set [themselves in array] against the city.
-<small><sub>**BSB:**</sub></small>
-Ben-hadad received this message while he and the kings were drinking in their tents, and he said to his servants, “Take your positions.” So they stationed themselves against the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.11|<< 1 Kings 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.13|1 Kings 20:13 >>]]</td></tr></table>
 
 | Translation | Greek |

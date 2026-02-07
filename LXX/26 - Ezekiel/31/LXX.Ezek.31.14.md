@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:14** 
 <small><sub>**LXX:**</sub></small>
 so that all their greatness the trees by the water should not be exalted in, and do not put  their top into \[the\] midst of clouds; and all the ones drinking water stand not in their height against him. All were given unto death in \[the\] depth of \[the\] earth, in \[the\] midst of \[the\] sons of men going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.
-<small><sub>**BSB:**</sub></small>
-This happened so that no other trees by the waters would become great in height and set their tops among the clouds, and no other well-watered trees would reach them in height. For they have all been consigned to death, to the depths of the earth, among the mortals who descend to the Pit.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.13|<< Ezekiel 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.15|Ezekiel 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

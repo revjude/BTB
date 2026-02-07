@@ -1,4 +1,4 @@
-**Jeremiah 38:24** 
+**Jeremiah 38:24**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Zedekiah warned Jeremiah, “Do not let anyone know about this conversation
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.23|<< Jeremiah 38:23]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.25|Jeremiah 38:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zedekiah  |**<big>&#8207;[[H6667H\|צִדְקִיָּ֜הוּ]]&#8207; </big>**| tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

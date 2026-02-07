@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the vestige of Jacob will be in \[the\] midst of many peoples, as \[the\] dew from \[the\] <span class="smallcaps">lord</span> falling, and as lambs upon wild grass; so that it should be gathered to no one, nor should stand among \[the\] sons of men. 
-<small><sub>**KJV:**</sub></small>
-And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.
-<small><sub>**BSB:**</sub></small>
-Then the remnant of Jacob will be in the midst of many peoples like dew from the LORD, like showers on the grass, which do not wait for man or linger for mankind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.6|<< Micah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.8|Micah 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

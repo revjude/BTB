@@ -1,10 +1,7 @@
 **LXX Daniel 7:18** 
 <small><sub>**LXX:**</sub></small>
 the ones that shall be lifted away. And holy ones of \[the\] highest shall take to themselves the kingdom; and they shall hold it unto \[the\] eon, and unto \[the\] eon of the eons. 
-<small><sub>**KJV:**</sub></small>
-But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
-<small><sub>**BSB:**</sub></small>
-But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.17|<< Daniel 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.19|Daniel 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

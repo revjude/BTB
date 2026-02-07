@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:9** 
 <small><sub>**LXX:**</sub></small>
 And they stripped him, and they carried away  his head, and  his weapons. And the Philistines sent to \[the\] land round about  to announce good news in the houses  of their idols, and \[to\] their people. 
-<small><sub>**KJV:**</sub></small>
-And when they had stripped him, they took his head, and his armour, and sent into the land of the Philistines round about, to carry tidings unto their idols, and to the people.
-<small><sub>**BSB:**</sub></small>
-They stripped Saul, cut off his head, took his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temple of their idols and among their people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.8|<< 1 Chronicles 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.10|1 Chronicles 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

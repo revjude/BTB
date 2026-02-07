@@ -1,4 +1,4 @@
-**Genesis 28:12** 
+**Genesis 28:12**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Jacob had a dream about a ladder that rested on the earth with its top reach
 > $\quad$ referenced by: [[John.1.51|John 1:51]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dreamed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2492B\|יַּחֲלֹ֗ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Lom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

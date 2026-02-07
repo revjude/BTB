@@ -1,10 +1,7 @@
 **LXX Exodus 37:3** 
 <small><sub>**LXX:**</sub></small>
 And he cast for it four golden rings upon  \[its\] four sides. Two rings upon the one side, and two rings upon the second side. 
-<small><sub>**KJV:**</sub></small>
-And he cast for it four rings of gold, [to be set] by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.
-<small><sub>**BSB:**</sub></small>
-And he cast four gold rings for its four feet, two rings on one side and two on the other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.2|<< Exodus 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.4|Exodus 37:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 30:15** 
 <small><sub>**LXX:**</sub></small>
 But if removing her husband should remove \[them\] after the day which he heard \[them\], then he shall take the sin unto himself. 
-<small><sub>**KJV:**</sub></small>
-But if he shall any ways make them void after that he hath heard [them]; then he shall bear her iniquity.
-<small><sub>**BSB:**</sub></small>
-But if he nullifies them after he hears of them, then he will bear her iniquity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.14|<< Numbers 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.16|Numbers 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

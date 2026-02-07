@@ -1,12 +1,12 @@
-**John 12:18
-**<small><sub>**KJV:**</sub></small>
+**John 12:18**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause the people also met him, for that they heard that he had done this miracle.
 <small><sub>**BSB:**</sub></small>
 That is also why the crowd went out to meet Him, because they heard that He had performed this sign.
 <small><sub>**Literal:**</sub></small>
 On account of this also met with Him the crowd, because they heard this of His to have done the sign.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.17|<< John 12:17]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.19|John 12:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On account of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 10:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:36**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?
 <small><sub>**BSB:**</sub></small>
 Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
 <small><sub>**Literal:**</sub></small>
 Which therefore of these <the> three a neighbour seems to you to have been of the [one] falling among the robbers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.35|<< Luke 10:35]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.37|Luke 10:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">KO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 11:29** 
 <small><sub>**LXX:**</sub></small>
 And Abram and Nahor took to themselves wives. \[The\] name of the wife of Abram \[was\] Sarai, and \[the\] name of the wife of Nahor \[was\] Milcha, daughter of Haran. And \[he was the\] father of Milcha, and father of Iscah. 
-<small><sub>**KJV:**</sub></small>
-And Abram and Nahor took them wives: the name of Abram’s wife [was] Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
-<small><sub>**BSB:**</sub></small>
-And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

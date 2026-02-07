@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did as he said, for you \[all\] sinned against him, and hearkened not to  his voice, and this word happened to you, 
-<small><sub>**KJV:**</sub></small>
-Now the LORD hath brought [it], and done according as he hath said: because ye have sinned against the LORD, and have not obeyed his voice, therefore this thing is come upon you.
-<small><sub>**BSB:**</sub></small>
-and now the LORD has fulfilled it; He has done just as He said. Because you people have sinned against the LORD and have not obeyed His voice, this thing has happened to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.2|<< Jeremiah 40:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.4|Jeremiah 40:4 >>]]</td></tr></table>
 
 | Translation | Greek |

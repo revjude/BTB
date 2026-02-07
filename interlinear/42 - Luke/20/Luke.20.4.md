@@ -1,12 +1,12 @@
-**Luke 20:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:4**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The baptism of John, was it from heaven, or of men?
 <small><sub>**BSB:**</sub></small>
 John’s baptism—was it from heaven, or from men?”
 <small><sub>**Literal:**</sub></small>
 The baptism of John from heaven was it or from men?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.3|<< Luke 20:3]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.5|Luke 20:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | baptism |**<big>[[G0908\|βάπτισμα]]</big>**  |baptisma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

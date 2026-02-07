@@ -1,10 +1,7 @@
 **LXX Genesis 18:22** 
 <small><sub>**LXX:**</sub></small>
 And turning back from there, the men came unto Sodom. And Abraham was still standing before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD.
-<small><sub>**BSB:**</sub></small>
-And the two men turned away and went toward Sodom, but Abraham remained standing before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.21|<< Genesis 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.23|Genesis 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

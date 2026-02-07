@@ -1,10 +1,7 @@
 **LXX Isaiah 34:14** 
 <small><sub>**LXX:**</sub></small>
 And demons shall meet with satyrs; and they shall yell another to the other; satyrs shall rest there, for they found for themselves a \[place\] of rest. 
-<small><sub>**KJV:**</sub></small>
-The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
-<small><sub>**BSB:**</sub></small>
-The desert creatures will meet with hyenas, and one wild goat will call to another. There the night creature will settle and find her place of repose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.13|<< Isaiah 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.15|Isaiah 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

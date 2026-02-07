@@ -1,10 +1,7 @@
 **LXX Numbers 31:29** 
 <small><sub>**LXX:**</sub></small>
 from  their half you shall take. And you shall give to Eleazar the priest the first-fruits \[for the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Take [it] of their half, and give [it] unto Eleazar the priest, [for] an heave offering of the LORD.
-<small><sub>**BSB:**</sub></small>
-Take it from their half and give it to Eleazar the priest as an offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.28|<< Numbers 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.30|Numbers 31:30 >>]]</td></tr></table>
 
 | Translation | Greek |

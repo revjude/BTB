@@ -1,4 +1,4 @@
-**Psalms 74:22** 
+**Psalms 74:22**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise up, O God; defend Your cause! Remember how the fool mocks You all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.21|<< Psalms 74:21]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.23|Psalms 74:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise !  |**<big>&#8207;[[H6965B\|קוּמָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ku.Ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

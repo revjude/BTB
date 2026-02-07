@@ -1,4 +1,4 @@
-**Genesis 7:13** 
+**Genesis 7:13**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that very day Noah entered the ark, along with his sons Shem, Ham, and Japhet
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.12|<< Genesis 7:12]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.14|Genesis 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] substance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6106H\|עֶ֨צֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֤וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

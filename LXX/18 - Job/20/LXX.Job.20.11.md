@@ -1,10 +1,7 @@
 **LXX Job 20:11** 
 <small><sub>**LXX:**</sub></small>
 His bones were filled with \[the vigor\] of his youth, and it shall go to bed with him upon \[the\] embankment. 
-<small><sub>**KJV:**</sub></small>
-His bones are full [of the sin] of his youth, which shall lie down with him in the dust.
-<small><sub>**BSB:**</sub></small>
-The youthful vigor that fills his bones will lie down with him in the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.10|<< Job 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.12|Job 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

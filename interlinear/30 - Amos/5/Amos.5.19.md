@@ -1,4 +1,4 @@
-**Amos 5:19** 
+**Amos 5:19**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will be like a man who flees from a lion, only to encounter a bear, or who en
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.18|<< Amos 5:18]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.20|Amos 5:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he flees  |**<big>&#8207;[[H5127\|יָנ֥וּס]]&#8207; </big>**| ya.Nus<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Colossians 3:17
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:17**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whatsoever ye do in word or deed, [do] all in the name of the Lord Jesus, giving thanks to God and the Father by him.
 <small><sub>**BSB:**</sub></small>
 And whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him.
 <small><sub>**Literal:**</sub></small>
 And everything which what maybe you shall do in word or in deed, all in [the] name of [the] Lord Jesus giving thanks <the> to God and [the] Father through Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.16|<< Colossians 3:16]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.18|Colossians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everything |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

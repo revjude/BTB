@@ -1,4 +1,4 @@
-**Lamentations 2:16** 
+**Lamentations 2:16**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed [her] up: certainly this [is] the day that we looked for; we have found, we have seen [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All your enemies open their mouths against you. They hiss and gnash their teeth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.15|<< Lamentations 2:15]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.17|Lamentations 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have opened  |**<big>&#8207;[[H6475\|פָּצ֨וּ]]&#8207; </big>**| pa.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֤יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 5:1** 
+**2 Kings 5:1**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Naaman, the commander of the army of the king of Aram, was a great man in hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.44|<< 2 Kings 4:44]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.2|2 Kings 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Naaman  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H5283I\|נַעֲמָן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> na.'a.mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

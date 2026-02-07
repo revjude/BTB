@@ -1,4 +1,4 @@
-**Esther 2:7** 
+**Esther 2:7**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought up Hadassah, that [is], Esther, his uncle’s daughter: for she had neither father nor mother, and the maid [was] fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Mordecai had brought up Hadassah (that is, Esther), the daughter of his uncl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.6|<< Esther 2:6]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.8|Esther 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֨י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | raising  |**<big>&#8207;[[H0539\|אֹמֵ֜ן]]&#8207; </big>**| 'o.Men<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

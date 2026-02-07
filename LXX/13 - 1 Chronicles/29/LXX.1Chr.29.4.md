@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:4** 
 <small><sub>**LXX:**</sub></small>
 three thousand talents of gold  from Ophir, and seven thousand talents of unadulterated silver,  to overlay by them the walls of the temple; 
-<small><sub>**KJV:**</sub></small>
-[Even] three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses [withal]:
-<small><sub>**BSB:**</sub></small>
-three thousand talents of gold (the gold of Ophir) and seven thousand talents of refined silver, to overlay the walls of the buildings,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.3|<< 1 Chronicles 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.5|1 Chronicles 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

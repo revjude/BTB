@@ -1,10 +1,7 @@
 **LXX Isaiah 42:24** 
 <small><sub>**LXX:**</sub></small>
 Who gave Jacob for ravaging, and Israel to the ones plundering? \[Was it\] not  God to whom they sinned? And they did not want to go in his ways, nor to hear  his law. 
-<small><sub>**KJV:**</sub></small>
-Who gave Jacob for a spoil, and Israel to the robbers? did not the LORD, he against whom we have sinned? for they would not walk in his ways, neither were they obedient unto his law.
-<small><sub>**BSB:**</sub></small>
-Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the LORD, against whom we have sinned? They were unwilling to walk in His ways, and they would not obey His law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.23|<< Isaiah 42:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.25|Isaiah 42:25 >>]]</td></tr></table>
 
 | Translation | Greek |

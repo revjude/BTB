@@ -1,4 +1,4 @@
-**Jeremiah 48:13** 
+**Jeremiah 48:13**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Bethel their confidence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moab will be ashamed of Chemosh, just as the house of Israel was ashamed wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.12|<< Jeremiah 48:12]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.14|Jeremiah 48:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be ashamed  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0954\|בֹ֥שׁ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Vosh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֖ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall be filled from  my table -- horse, and rider, and giant, and every male warrior, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus ye shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-And at My table you will eat your fill of horses and riders, of mighty men and warriors of every kind,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.19|<< Ezekiel 39:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.21|Ezekiel 39:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:20** is...

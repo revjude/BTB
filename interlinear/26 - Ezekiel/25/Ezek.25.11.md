@@ -1,4 +1,4 @@
-**Ezekiel 25:11** 
+**Ezekiel 25:11**<big><big>[[Ezek.25.8 A Prophecy against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will execute judgments upon Moab; and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will execute judgments on Moab, and they will know that I am the LORD.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.10|<< Ezekiel 25:10]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.12|Ezekiel 25:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on Moab  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4124G\|מוֹאָ֖ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will bring about  |**<big>&#8207;[[H6213A\|אֶעֱשֶׂ֣ה]]&#8207; </big>**| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

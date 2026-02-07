@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:22** 
 <small><sub>**LXX:**</sub></small>
 And upon the tops of the columns \[was\] a work of lily. And the work of the columns was finished. 
-<small><sub>**KJV:**</sub></small>
-And upon the top of the pillars [was] lily work: so was the work of the pillars finished.
-<small><sub>**BSB:**</sub></small>
-And the tops of the pillars were shaped like lilies. So the work of the pillars was completed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.21|<< 1 Kings 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.23|1 Kings 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

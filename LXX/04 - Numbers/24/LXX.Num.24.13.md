@@ -1,10 +1,7 @@
 **LXX Numbers 24:13** 
 <small><sub>**LXX:**</sub></small>
 If Balak should give to me his house full of silver and gold, I shall not be able to violate the word of \[the\] <span class="smallcaps">lord</span>, to do it good or bad by myself. As many \[things\] as God should say to me, these \[things\] I shall speak. 
-<small><sub>**KJV:**</sub></small>
-If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do [either] good or bad of mine own mind; [but] what the LORD saith, that will I speak?
-<small><sub>**BSB:**</sub></small>
-that even if Balak were to give me his house full of silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD? I must speak whatever the LORD says.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.12|<< Numbers 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.14|Numbers 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

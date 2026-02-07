@@ -1,12 +1,12 @@
-**Acts 21:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:25**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As touching the Gentiles which believe, we have written [and] concluded that they observe no such thing, save only that they keep themselves from [things] offered to idols, and from blood, and from strangled, and from fornication.
 <small><sub>**BSB:**</sub></small>
 As for the Gentile believers, we have written to them our decision that they must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality.”
 <small><sub>**Literal:**</sub></small>
 Concerning now those having believed of the Gentiles we ourselves wrote to having adjudged nothing such to keep them only except to keep from them the both idol-sacrifices and <the> blood and what is strangled and sexual immorality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.24|<< Acts 21:24]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.26|Acts 21:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

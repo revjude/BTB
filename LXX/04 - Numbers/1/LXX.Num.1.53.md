@@ -1,10 +1,7 @@
 **LXX Numbers 1:53** 
 <small><sub>**LXX:**</sub></small>
 But the Levites -- let them camp opposite round about the tent of the testimony, and there shall not be sin among the sons of Israel. And the Levites themselves shall guard the watch of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.
-<small><sub>**BSB:**</sub></small>
-But the Levites are to camp around the tabernacle of the Testimony and watch over it, so that no wrath will fall on the congregation of Israel. So the Levites are responsible for the tabernacle of the Testimony.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.52|<< Numbers 1:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.54|Numbers 1:54 >>]]</td></tr></table>
 
 | Translation | Greek |

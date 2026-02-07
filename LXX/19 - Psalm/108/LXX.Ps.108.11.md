@@ -1,10 +1,7 @@
 **LXX Psalm 108:11** 
 <small><sub>**LXX:**</sub></small>
 \[Is it\] not you, O God, the one thrusting us away? And will you not go forth, O God, with  our forces? 
-<small><sub>**KJV:**</sub></small>
-[Wilt] not [thou], O God, [who] hast cast us off? and wilt not thou, O God, go forth with our hosts?
-<small><sub>**BSB:**</sub></small>
-Have You not rejected us, O God? Will You no longer march out, O God, with our armies?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.108.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.10|<< Psalm 108:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.12|Psalm 108:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 19:24** 
+**Joshua 19:24**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fifth lot came out for the tribe of the children of Asher according to their families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fifth lot came out for the clans of the tribe of Asher:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.23|<< Joshua 19:23]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.25|Joshua 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318J\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

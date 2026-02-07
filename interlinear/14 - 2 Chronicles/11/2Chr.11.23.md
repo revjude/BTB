@@ -1,4 +1,4 @@
-**2 Chronicles 11:23** 
+**2 Chronicles 11:23**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rehoboam also acted wisely by dispersing some of his sons throughout the distric
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.22|<< 2 Chronicles 11:22]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.1|2 Chronicles 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he acted wisely  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0995\|יָּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he distributed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6555\|יִּפְרֹ֨ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

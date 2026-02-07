@@ -1,4 +1,4 @@
-**Ezekiel 40:16** 
+**Ezekiel 40:16**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows [were] round about inward: and upon [each] post [were] palm trees.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The gate chambers and their side pillars had beveled windows all around the insi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.15|<< Ezekiel 40:15]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.17|Ezekiel 40:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and windows  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2474\|חַלֹּנ֣וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.lo.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | closed  |**<big>&#8207;[[H0331\|אֲטֻמ֣וֹת]]&#8207; </big>**| 'a.tu.Mot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

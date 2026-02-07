@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:13** 
 <small><sub>**LXX:**</sub></small>
 Sheba, and Dedan, and merchants of Carthage, and all  their towns shall say to you, For plunder  you come to plunder, and to despoil spoils. You gathered together your gathering to take silver and gold, to carry away property,  to despoil great spoils. 
-<small><sub>**KJV:**</sub></small>
-Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
-<small><sub>**BSB:**</sub></small>
-Sheba and Dedan and the merchants of Tarshish with all its villages will ask, ‘Have you come to capture the plunder? Have you assembled your hordes to carry away loot, to make off with silver and gold, to take cattle and goods, to seize great spoil?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.12|<< Ezekiel 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.14|Ezekiel 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

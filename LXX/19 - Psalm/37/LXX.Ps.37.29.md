@@ -1,10 +1,7 @@
 **LXX Psalm 37:29** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] just shall inherit \[the\] earth, and encamp into \[the\] eon of \[the\] eon upon it. 
-<small><sub>**KJV:**</sub></small>
-The righteous shall inherit the land, and dwell therein for ever.
-<small><sub>**BSB:**</sub></small>
-The righteous will inherit the land and dwell in it forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.28|<< Psalm 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.30|Psalm 37:30 >>]]</td></tr></table>
 
 | Translation | Greek |

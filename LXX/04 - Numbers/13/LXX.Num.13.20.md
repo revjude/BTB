@@ -1,10 +1,7 @@
 **LXX Numbers 13:20** 
 <small><sub>**LXX:**</sub></small>
 And what the land \[is like\], if plentiful or being neglected; if there is in it trees or not. And attending to constantly you shall take from the fruits of the land. And the days \[were\] days in spring, forerunners of \[the\] grape. 
-<small><sub>**KJV:**</sub></small>
-And what the land [is], whether it [be] fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time [was] the time of the firstripe grapes.
-<small><sub>**BSB:**</sub></small>
-Is the soil fertile or unproductive? Are there trees in it or not? Be courageous and bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.19|<< Numbers 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.21|Numbers 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

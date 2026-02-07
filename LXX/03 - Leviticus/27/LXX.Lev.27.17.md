@@ -1,10 +1,7 @@
 **LXX Leviticus 27:17** 
 <small><sub>**LXX:**</sub></small>
 And if from the year of the release he should sanctify  his field, according to  his value it shall stand. 
-<small><sub>**KJV:**</sub></small>
-If he sanctify his field from the year of jubile, according to thy estimation it shall stand.
-<small><sub>**BSB:**</sub></small>
-If he consecrates his field during the Year of Jubilee, the price will stand according to your valuation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.16|<< Leviticus 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.18|Leviticus 27:18 >>]]</td></tr></table>
 
 | Translation | Greek |

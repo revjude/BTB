@@ -1,4 +1,4 @@
-**Isaiah 64:11** (64:10)
+**Isaiah 64:11**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our holy and beautiful temple, where our fathers praised You, has been burned wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.10|<< Isaiah 64:10]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.12|Isaiah 64:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֧ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | holiness our  |**<big>&#8207;[[H6944G\|קָדְשֵׁ֣]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ka.de.She.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

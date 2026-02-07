@@ -1,4 +1,4 @@
-**2 Samuel 12:25** 
+**2 Samuel 12:25**<big><big>[[2Sam.12.24 Solomon’s Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and sent word through Nathan the prophet to name him Jedidiah because the LORD l
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.24|<< 2 Samuel 12:24]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.26|2 Samuel 12:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027K\|יַד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

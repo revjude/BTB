@@ -1,4 +1,4 @@
-**Deuteronomy 20:19** 
+**Deuteronomy 20:19**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field [is] man’s [life]) to employ [them] in the siege:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you lay siege to a city for an extended time while fighting against it to c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.18|<< Deuteronomy 20:18]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.20|Deuteronomy 20:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will lay siege  |**<big>&#8207;[[H6696A\|תָצ֣וּר]]&#8207; </big>**| ta.Tzur<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

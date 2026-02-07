@@ -1,12 +1,12 @@
-**Matthew 26:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:28**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this is my blood of the new testament, which is shed for many for the remission of sins.
 <small><sub>**BSB:**</sub></small>
 This is My blood of the covenant, which is poured out for many for the forgiveness of sins.
 <small><sub>**Literal:**</sub></small>
 This for is the blood of Mine <the> of the of a new covenant <the> for many being poured out for forgiveness of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.27|<< Matthew 26:27]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.29|Matthew 26:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

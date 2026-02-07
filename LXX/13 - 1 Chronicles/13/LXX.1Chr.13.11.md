@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:11** 
 <small><sub>**LXX:**</sub></small>
 And David was depressed, that \[the\] <span class="smallcaps">lord</span> cut a severance with Uzza. And he called  that place -- Severance of Oza until  this day. 
-<small><sub>**KJV:**</sub></small>
-And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.
-<small><sub>**BSB:**</sub></small>
-Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.10|<< 1 Chronicles 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.12|1 Chronicles 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

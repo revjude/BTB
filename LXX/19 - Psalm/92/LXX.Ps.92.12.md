@@ -1,10 +1,7 @@
 **LXX Psalm 92:12** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just one shall bloom as a palm tree; as a cedar  in  Lebanon he shall be multiplied. 
-<small><sub>**KJV:**</sub></small>
-The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.
-<small><sub>**BSB:**</sub></small>
-The righteous will flourish like a palm tree, and grow like a cedar in Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.92.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.11|<< Psalm 92:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.13|Psalm 92:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:74** 
 <small><sub>**LXX:**</sub></small>
 The ones fearing you shall see me and shall be glad; for in  your words I raised hope. 
-<small><sub>**KJV:**</sub></small>
-They that fear thee will be glad when they see me; because I have hoped in thy word.
-<small><sub>**BSB:**</sub></small>
-May those who fear You see me and rejoice, for I have hoped in Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.74|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.73|<< Psalm 119:73]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.75|Psalm 119:75 >>]]</td></tr></table>
 
 | Translation | Greek |

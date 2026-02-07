@@ -1,10 +1,7 @@
 **LXX Hosea 11:8** 
 <small><sub>**LXX:**</sub></small>
 How shall I deal with you, O Ephraim? Shall I shield you, O Israel? How shall I deal with you -- as Admah? Shall I appoint you even as Zeboim? My heart shall be converted in the same \[thing\]; my repentance was disturbed. 
-<small><sub>**KJV:**</sub></small>
-How shall I give thee up, Ephraim? [how] shall I deliver thee, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.
-<small><sub>**BSB:**</sub></small>
-How could I give you up, O Ephraim? How could I surrender you, O Israel? How could I make you like Admah? How could I treat you like Zeboiim? My heart is turned within Me; My compassion is stirred!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.7|<< Hosea 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.9|Hosea 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

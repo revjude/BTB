@@ -1,5 +1,5 @@
-**Mark 6:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:34**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
 <small><sub>**BSB:**</sub></small>
 When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.
@@ -11,7 +11,7 @@ And having gone out He saw <the> Jesus a great crowd and was moved with compassi
 > $\quad$ alluding to: [[LXX.1Kgs.22.17|1Kgs 22:17]] ☩ [[LXX.Ezek.34.5|Ezek 34:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

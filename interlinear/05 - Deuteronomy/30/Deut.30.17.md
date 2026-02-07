@@ -1,4 +1,4 @@
-**Deuteronomy 30:17** 
+**Deuteronomy 30:17**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if your heart turns away and you do not listen, but are drawn away to bow do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.16|<< Deuteronomy 30:16]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.18|Deuteronomy 30:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will turn away  |**<big>&#8207;[[H6437G\|יִפְנֶ֥ה]]&#8207; </big>**| yif.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

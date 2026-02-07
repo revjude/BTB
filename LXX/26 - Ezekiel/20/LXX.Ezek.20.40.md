@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:40** 
 <small><sub>**LXX:**</sub></small>
 that upon  my holy mountain, upon \[the\] high mountain of Israel, says Adonai \[the\] <span class="smallcaps">lord</span>, there all \[the\] house of Israel shall serve to me unto \[the\] end upon the land. And there I will favorably receive them, and there I shall watch  your first-fruits, and the first-fruits  of your offerings in all  your sanctified \[things\]. 
-<small><sub>**KJV:**</sub></small>
-For in mine holy mountain, in the mountain of the height of Israel, saith the Lord GOD, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.
-<small><sub>**BSB:**</sub></small>
-For on My holy mountain, the high mountain of Israel, declares the Lord GOD, there the whole house of Israel, all of them, will serve Me in the land. There I will accept them and will require your offerings and choice gifts, along with all your holy sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.39|<< Ezekiel 20:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.41|Ezekiel 20:41 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 13:25** 
+**Joshua 13:25**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that [is] before Rabbah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The territory of Jazer, all the cities of Gilead, and half the land of the Ammon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

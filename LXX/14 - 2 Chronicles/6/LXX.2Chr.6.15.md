@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:15** 
 <small><sub>**LXX:**</sub></small>
 which you kept \[with\] your servant David  my father, which you spoke to him; and you spoke by your mouth, and by your hands you fulfilled \[it\], as  this day. 
-<small><sub>**KJV:**</sub></small>
-Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-You have kept Your promise to Your servant, my father David. What You spoke with Your mouth You have fulfilled with Your hand this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.14|<< 2 Chronicles 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.16|2 Chronicles 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

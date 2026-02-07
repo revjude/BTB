@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:39** 
 <small><sub>**LXX:**</sub></small>
 then you shall hearken from the heaven, from out of your prepared home, and you will be propitious, and you will act, and you will impute to a man according to all  his ways, as you know  his heart; for you alone know the heart of all of the sons of men; 
-<small><sub>**KJV:**</sub></small>
-Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, [even] thou only, knowest the hearts of all the children of men;)
-<small><sub>**BSB:**</sub></small>
-be heard by You from heaven, Your dwelling place. And may You forgive and act, and repay each man according to all his ways, since You know his heart—for You alone know the hearts of all men—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.38|<< 1 Kings 8:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.40|1 Kings 8:40 >>]]</td></tr></table>
 
 | Translation | Greek |

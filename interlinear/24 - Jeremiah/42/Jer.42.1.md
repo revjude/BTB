@@ -1,4 +1,4 @@
-**Jeremiah 42:1** 
+**Jeremiah 42:1**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the commanders of the forces, along with Johanan son of Kareah, Jezania
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.18|<< Jeremiah 41:18]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.2|Jeremiah 42:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they approached  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5066G\|יִּגְּשׁוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ge.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

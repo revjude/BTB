@@ -1,4 +1,4 @@
-**Exodus 16:1** 
+**Exodus 16:1**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which [is] between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On the fifteenth day of the second month after they had left the land of Egypt, 
 > $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Elim  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0362\|אֵילִ֔ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'ei.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 24:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:20**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But pray ye that your flight be not in the winter, neither on the sabbath day:
 <small><sub>**BSB:**</sub></small>
 Pray that your flight will not occur in the winter or on the Sabbath.
 <small><sub>**Literal:**</sub></small>
 do pray however that not it may happen the flight of you in winter nor in on a Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.19|<< Matthew 24:19]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.21|Matthew 24:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do pray |**<big>[[G4336\|προσεύχεσθε]]</big>**  |proseuchesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

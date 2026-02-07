@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:38** 
 <small><sub>**LXX:**</sub></small>
 as holy sheep, as sheep of Jerusalem in  her holiday \[feasts\]; thus the desolate cities will be full of sheep of men. And they shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.37|<< Ezekiel 36:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.1|Ezekiel 37:1 >>]]</td></tr></table>
 
 | Translation | Greek |

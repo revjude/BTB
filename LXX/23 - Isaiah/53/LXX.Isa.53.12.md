@@ -1,10 +1,7 @@
 **LXX Isaiah 53:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this he shall inherit many; and of the strong ones he will portion out spoils, because his soul was delivered up unto death; and he was considered among the lawless ones; and he himself bore \[the\] sins of many, and because of  their lawless deeds he was delivered up. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I divide him [a portion] with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
-<small><sub>**BSB:**</sub></small>
-Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.11|<< Isaiah 53:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.1|Isaiah 54:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 53:12** is...

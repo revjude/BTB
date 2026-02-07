@@ -1,4 +1,4 @@
-**Job 5:25** 
+**Job 5:25**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt know also that thy seed [shall be] great, and thine offspring as the grass of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will know that your offspring will be many, your descendants like the grass 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.24|<< Job 5:24]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.26|Job 5:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וְֽ֭]]&#8207;&#8207;[[H3045\|יָדַעְתָּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ya.da'.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

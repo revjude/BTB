@@ -1,4 +1,4 @@
-**Jeremiah 34:15** 
+**Jeremiah 34:15**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour; and ye had made a covenant before me in the house which is called by my name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Recently you repented and did what pleased Me; each of you proclaimed freedom fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.14|<< Jeremiah 34:14]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.16|Jeremiah 34:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725O\|תָּשֻׁ֨בוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Shu.vu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֜ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

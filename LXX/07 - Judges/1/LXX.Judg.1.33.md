@@ -1,10 +1,7 @@
 **LXX Judges 1:33** 
 <small><sub>**LXX:**</sub></small>
 And Naphtali did not remove the ones dwelling in Beth-shemesh, and the ones dwelling in Beth-anath. And Naphtali dwelt in \[the\] midst of the Canaanite  dwelling in the land. But the ones dwelling in Beth-shemesh and  in Beth-anath became to them for tribute. 
-<small><sub>**KJV:**</sub></small>
-Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them.
-<small><sub>**BSB:**</sub></small>
-Naphtali failed to drive out the inhabitants of Beth-shemesh and Beth-anath. So the Naphtalites also lived among the Canaanite inhabitants of the land, but the inhabitants of Beth-shemesh and Beth-anath served them as forced laborers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.32|<< Judges 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.34|Judges 1:34 >>]]</td></tr></table>
 
 | Translation | Greek |

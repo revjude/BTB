@@ -1,10 +1,7 @@
 **LXX Psalm 119:50** 
 <small><sub>**LXX:**</sub></small>
 This comforted me in  my humiliation; for  your oracle enlivened me. 
-<small><sub>**KJV:**</sub></small>
-This [is] my comfort in my affliction: for thy word hath quickened me.
-<small><sub>**BSB:**</sub></small>
-This is my comfort in affliction, that Your promise has given me life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.49|<< Psalm 119:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.51|Psalm 119:51 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 140:2** (140:3)
+**Psalms 140:2**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which imagine mischiefs in [their] heart; continually are they gathered together [for] war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who devise evil in their hearts and stir up war all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.1|<< Psalms 140:1]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.3|Psalms 140:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they plan  |**<big>&#8207;[[H2803I\|חָשְׁב֣וּ]]&#8207; </big>**| cha.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

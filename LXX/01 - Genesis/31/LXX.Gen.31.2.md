@@ -1,10 +1,7 @@
 **LXX Genesis 31:2** 
 <small><sub>**LXX:**</sub></small>
 And Jacob saw the face  of Laban; and behold, he was not for him as yesterday and \[the\] third day \[before\]. 
-<small><sub>**KJV:**</sub></small>
-And Jacob beheld the countenance of Laban, and, behold, it [was] not toward him as before.
-<small><sub>**BSB:**</sub></small>
-And Jacob saw from the countenance of Laban that his attitude toward him had changed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.1|<< Genesis 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.3|Genesis 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

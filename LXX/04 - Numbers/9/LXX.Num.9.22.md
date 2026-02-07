@@ -1,10 +1,7 @@
 **LXX Numbers 9:22** 
 <small><sub>**LXX:**</sub></small>
 or \[when\] being more than a month of days of the cloud shadowing upon it, the sons of Israel shall camp, and in no way shall they depart. 
-<small><sub>**KJV:**</sub></small>
-Or [whether it were] two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.
-<small><sub>**BSB:**</sub></small>
-Whether the cloud lingered for two days, a month, or longer, the Israelites camped and did not set out as long as the cloud remained over the tabernacle; but when it was lifted, they would set out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.21|<< Numbers 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.23|Numbers 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

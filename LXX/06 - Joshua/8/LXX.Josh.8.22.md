@@ -1,10 +1,7 @@
 **LXX Joshua 8:22** 
 <small><sub>**LXX:**</sub></small>
 And these came forth from the city to meet them. And they came in the midst of the camp, \[some of\] these here and \[some of\] these here. And they struck them until \[there was\] not one being left behind of them being delivered and escaping. 
-<small><sub>**KJV:**</sub></small>
-And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, those in the ambush came out of the city against them, and the men of Ai were trapped between the Israelite forces on both sides. So Israel struck them down until no survivor or fugitive remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.21|<< Joshua 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.23|Joshua 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

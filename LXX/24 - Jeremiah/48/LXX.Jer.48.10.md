@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:10** 
 <small><sub>**LXX:**</sub></small>
 Cursed \[is\] the one doing the work of \[the\] <span class="smallcaps">lord</span> indifferently, and cursed \[is\] the one lifting away his sword from blood. 
-<small><sub>**KJV:**</sub></small>
-Cursed [be] he that doeth the work of the LORD deceitfully, and cursed [be] he that keepeth back his sword from blood.
-<small><sub>**BSB:**</sub></small>
-Cursed is the one who is remiss in doing the work of the LORD, and cursed is he who withholds his sword from bloodshed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.9|<< Jeremiah 48:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.11|Jeremiah 48:11 >>]]</td></tr></table>
 
 | Translation | Greek |

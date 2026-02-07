@@ -1,10 +1,7 @@
 **LXX Judges 11:32** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah passed over to \[the\] sons of Ammon  to wage war against them. And \[the\] <span class="smallcaps">lord</span> delivered them into his hand. 
-<small><sub>**KJV:**</sub></small>
-So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.
-<small><sub>**BSB:**</sub></small>
-So Jephthah crossed over to the Ammonites to fight against them, and the LORD delivered them into his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.31|<< Judges 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.33|Judges 11:33 >>]]</td></tr></table>
 
 | Translation | Greek |

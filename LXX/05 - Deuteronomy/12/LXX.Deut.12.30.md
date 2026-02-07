@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:30** 
 <small><sub>**LXX:**</sub></small>
 take heed to yourself! you should not seek to follow them after  their being utterly destroyed from your face. In no way should you seek after  their gods, saying, How these nations act  with their gods I also shall act. 
-<small><sub>**KJV:**</sub></small>
-Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.
-<small><sub>**BSB:**</sub></small>
-be careful not to be ensnared by their ways after they have been destroyed before you. Do not inquire about their gods, asking, “How do these nations serve their gods? I will do likewise.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.29|<< Deuteronomy 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.31|Deuteronomy 12:31 >>]]</td></tr></table>
 
 | Translation | Greek |

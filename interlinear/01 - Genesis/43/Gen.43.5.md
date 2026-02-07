@@ -1,4 +1,4 @@
-**Genesis 43:5** 
+**Genesis 43:5**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou wilt not send [him], we will not go down: for the man said unto us, Ye shall not see my face, except your brother [be] with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you will not send him, we will not go; for the man told us, ‘You will n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not you  |**<big>&#8207;[[H0369\|אֵינְ]]&#8207;&#8207;[[H9041\|ךָ֥]]&#8207; </big>**| 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

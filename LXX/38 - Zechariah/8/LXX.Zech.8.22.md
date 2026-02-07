@@ -1,10 +1,7 @@
 **LXX Zechariah 8:22** 
 <small><sub>**LXX:**</sub></small>
 And there shall come many peoples and many nations to seek after the face of \[the\] <span class="smallcaps">lord</span> almighty in Jerusalem, and to atone  in front of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD.
-<small><sub>**BSB:**</sub></small>
-And many peoples and strong nations will come to seek the LORD of Hosts in Jerusalem and to plead before the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.21|<< Zechariah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.23|Zechariah 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

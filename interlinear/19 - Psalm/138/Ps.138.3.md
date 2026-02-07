@@ -1,4 +1,4 @@
-**Psalms 138:3** 
+**Psalms 138:3**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day when I cried thou answeredst me, [and] strengthenedst me [with] strength in my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day I called, You answered me; You emboldened me and strengthened my soul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.2|<< Psalms 138:2]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.4|Psalms 138:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [when] I called out  |**<big>&#8207;[[H7121G\|קָ֭רָֽאתִי]]&#8207; </big>**| Ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

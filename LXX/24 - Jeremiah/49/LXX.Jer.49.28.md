@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:28** 
 <small><sub>**LXX:**</sub></small>
 \[To\] Kedar and to the queen of the courtyard which Nebuchadnezzar king of Babylon struck. Thus said \[the\] <span class="smallcaps">lord</span>, Rise up and ascend unto Kedar, and strike the sons of Kedem! 
-<small><sub>**KJV:**</sub></small>
-Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.
-<small><sub>**BSB:**</sub></small>
-Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon defeated, this is what the LORD says: “Rise up, advance against Kedar, and destroy the people of the east!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
 
 | Translation | Greek |

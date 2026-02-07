@@ -1,4 +1,4 @@
-**Zechariah 13:7** 
+**Zechariah 13:7**<big><big>[[Zech.13.7 The Shepherd Struck, the Sheep Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, O sword, against my shepherd, and against the man [that is] my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Awake, O sword, against My Shepherd, against the man who is My Companion, declar
 > $\quad$ referenced by: [[Matt.26.31|Matt 26:31]] ☩ [[Mark.14.27|Mark 14:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O sword  |**<big>&#8207;[[H2719\|חֶ֗רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֤י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

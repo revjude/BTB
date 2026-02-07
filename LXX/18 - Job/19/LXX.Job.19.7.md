@@ -1,10 +1,7 @@
 **LXX Job 19:7** 
 <small><sub>**LXX:**</sub></small>
 Behold, I laugh at scorn, and I shall not speak; I shall have cried out, and not at all \[is there\] judgment. 
-<small><sub>**KJV:**</sub></small>
-Behold, I cry out of wrong, but I am not heard: I cry aloud, but [there is] no judgment.
-<small><sub>**BSB:**</sub></small>
-Though I cry out, ‘Violence!’ I get no response; though I call for help, there is no justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.6|<< Job 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.8|Job 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 21:7** 
+**Deuteronomy 21:7**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they shall declare, “Our hands did not shed this blood, nor did our eyes s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.6|<< Deuteronomy 21:6]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.8|Deuteronomy 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will answer  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6030B\|עָנ֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְר֑וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

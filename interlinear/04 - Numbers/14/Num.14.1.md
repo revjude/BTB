@@ -1,4 +1,4 @@
-**Numbers 14:1** 
+**Numbers 14:1**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the congregation lifted up their voice, and cried; and the people wept that night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the whole congregation lifted up their voices and cried out, and that night
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.33|<< Numbers 13:33]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.2|Numbers 14:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375N\|תִּשָּׂא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 19:7** 
+**1 Chronicles 19:7**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they hired for themselves thirty-two thousand chariots, as well as the king o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.6|<< 1 Chronicles 19:6]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.8|1 Chronicles 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they hired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7936B\|יִּשְׂכְּר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.ke.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֡ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 24:9** 
 <small><sub>**LXX:**</sub></small>
 but \[the\] fool dies in sins. Uncleanness to a pestilent man -- 
-<small><sub>**KJV:**</sub></small>
-The thought of foolishness [is] sin: and the scorner [is] an abomination to men.
-<small><sub>**BSB:**</sub></small>
-A foolish scheme is sin, and a mocker is detestable to men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.7|<< Proverbs 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.10|Proverbs 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

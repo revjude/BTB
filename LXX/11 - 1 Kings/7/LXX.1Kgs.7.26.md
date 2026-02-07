@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:26** 
 <small><sub>**LXX:**</sub></small>
 And all the posteriors \[were\] to the inside, and the thickness of it \[was\] a palm, and the rim of it \[was\] as a rim work of a cup \[with\] a lily bud. It had a capacity of two thousand coos. 
-<small><sub>**KJV:**</sub></small>
-And it [was] an hand breadth thick, and the brim thereof was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.
-<small><sub>**BSB:**</sub></small>
-It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold two thousand baths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.25|<< 1 Kings 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.27|1 Kings 7:27 >>]]</td></tr></table>
 
 | Translation | Greek |

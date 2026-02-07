@@ -1,10 +1,7 @@
 **LXX Leviticus 23:37** 
 <small><sub>**LXX:**</sub></small>
 These  \[are\] holiday \[feasts\] \[to the\] <span class="smallcaps">lord</span> which you shall call them holy convocations, so as to bring a yield \[offering\] to the <span class="smallcaps">lord</span>, whole burnt-offerings, and their sacrifices, and libation \[offerings\]; the \[thing\] according to day by day; 
-<small><sub>**KJV:**</sub></small>
-These [are] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:
-<small><sub>**BSB:**</sub></small>
-These are the LORD’s appointed feasts, which you are to proclaim as sacred assemblies for presenting food offerings to the LORD—burnt offerings and grain offerings, sacrifices and drink offerings, each on its designated day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.36|<< Leviticus 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.38|Leviticus 23:38 >>]]</td></tr></table>
 
 | Translation | Greek |

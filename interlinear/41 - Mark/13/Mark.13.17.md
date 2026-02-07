@@ -1,12 +1,12 @@
-**Mark 13:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:17**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But woe to them that are with child, and to them that give suck in those days!
 <small><sub>**BSB:**</sub></small>
 How miserable those days will be for pregnant and nursing mothers!
 <small><sub>**Literal:**</sub></small>
 Woe then to those in womb [pregnancy] having and to the [ones] nursing infants in those <the> days!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.16|<< Mark 13:16]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.18|Mark 13:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|οὐαὶ]]</big>**  |ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

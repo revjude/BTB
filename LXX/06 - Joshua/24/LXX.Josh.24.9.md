@@ -1,10 +1,7 @@
 **LXX Joshua 24:9** 
 <small><sub>**LXX:**</sub></small>
 And Balak rose up, the \[son of\] Zippor, king of Moab, and deployed \[against\] Israel. And sending, he called  Balaam son of Beor to curse you. 
-<small><sub>**KJV:**</sub></small>
-Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
-<small><sub>**BSB:**</sub></small>
-Then Balak son of Zippor, the king of Moab, set out to fight against Israel. He sent for Balaam son of Beor to curse you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.8|<< Joshua 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.10|Joshua 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

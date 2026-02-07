@@ -1,4 +1,4 @@
-**Proverbs 27:21** 
+**Proverbs 27:21**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the fining pot for silver, and the furnace for gold; so [is] a man to his praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A crucible for silver and a furnace for gold, but a man is tested by the praise 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.20|<< Proverbs 27:20]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.22|Proverbs 27:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a crucible  |**<big>&#8207;[[H4715\|מַצְרֵ֣ף]]&#8207; </big>**| matz.Ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> silver  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H3701G\|כֶּסֶף]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

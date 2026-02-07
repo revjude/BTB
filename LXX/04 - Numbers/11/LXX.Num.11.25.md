@@ -1,10 +1,7 @@
 **LXX Numbers 11:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> came down in a cloud, and he spoke to him, and he lifted from the spirit, of the one upon him, and he placed \[it\] upon the seventy men of the elders. And as spirit rested upon them, that they prophesied, and no longer proceeded. 
-<small><sub>**KJV:**</sub></small>
-And the LORD came down in a cloud, and spake unto him, and took of the spirit that [was] upon him, and gave [it] unto the seventy elders: and it came to pass, [that], when the spirit rested upon them, they prophesied, and did not cease.
-<small><sub>**BSB:**</sub></small>
-Then the LORD came down in the cloud and spoke to him, and He took some of the Spirit that was on Moses and placed that Spirit on the seventy elders. As the Spirit rested on them, they prophesied—but they never did so again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.24|<< Numbers 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.26|Numbers 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

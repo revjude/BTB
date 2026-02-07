@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:25** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am\] against you,  O corrupting mountain,  corrupting all the earth. And I will stretch out  my hand against you. And the rocks downwards from you, and I will make you as a mountain being set on fire. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against thee, O destroying mountain, saith the LORD, which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.
-<small><sub>**BSB:**</sub></small>
-“Behold, I am against you, O destroying mountain, you who devastate the whole earth, declares the LORD. I will stretch out My hand against you; I will roll you over the cliffs and turn you into a charred mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.24|<< Jeremiah 51:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.26|Jeremiah 51:26 >>]]</td></tr></table>
 
 | Translation | Greek |

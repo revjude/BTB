@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day, no longer will the one being left behind of Israel proceed, and the ones being preserved  of Jacob no longer should be yielding upon the ones wronging them. But they will be yielding upon  God, the holy one  of Israel, in the truth. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the LORD, the Holy One of Israel, in truth.
-<small><sub>**BSB:**</sub></small>
-On that day the remnant of Israel and the survivors of the house of Jacob will no longer depend on him who struck them, but they will truly rely on the LORD, the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.19|<< Isaiah 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.21|Isaiah 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

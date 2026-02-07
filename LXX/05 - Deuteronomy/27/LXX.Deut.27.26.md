@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:26** 
 <small><sub>**LXX:**</sub></small>
 Accursed \[is\] every man whoever shall not adhere to all the words  of this law  to do them. And all the people shall say, May it be. 
-<small><sub>**KJV:**</sub></small>
-Cursed [be] he that confirmeth not [all] the words of this law to do them. And all the people shall say, Amen.
-<small><sub>**BSB:**</sub></small>
-‘Cursed is he who does not put the words of this law into practice.’ And let all the people say, ‘Amen!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.25|<< Deuteronomy 27:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.1|Deuteronomy 28:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 27:26** is...

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king lamented over Abner, and said, Shall Abner die according to the death of Nabal, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-And the king lamented over Abner, and said, Died Abner as a fool dieth?
-<small><sub>**BSB:**</sub></small>
-And the king sang this lament for Abner: “Should Abner die the death of a fool?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.32|<< 2 Samuel 3:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.34|2 Samuel 3:34 >>]]</td></tr></table>
 
 | Translation | Greek |

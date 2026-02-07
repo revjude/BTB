@@ -1,4 +1,4 @@
-**1 Samuel 8:21** 
+**1 Samuel 8:21**<big><big>[[1Sam.8.19 God Grants the Request|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel heard all the words of the people, and he rehearsed them in the ears of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Samuel listened to all the words of the people and repeated them in the hearing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.20|<< 1 Samuel 8:20]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.22|1 Samuel 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֔ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

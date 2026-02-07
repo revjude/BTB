@@ -1,12 +1,12 @@
-**2 Timothy 4:11
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:11**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.
 <small><sub>**BSB:**</sub></small>
 Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry.
 <small><sub>**Literal:**</sub></small>
 Luke is alone with me. Mark having taken do bring [him] with yourself; he is for to me useful for [the] ministry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.10|<< 2 Timothy 4:10]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.12|2 Timothy 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Luke |**<big>[[G3065\|Λουκᾶς]]</big>**  |Loukas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

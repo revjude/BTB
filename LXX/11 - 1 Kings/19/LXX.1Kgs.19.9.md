@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he entered there into the cave, and rested up there. And behold, a word of \[the\] <span class="smallcaps">lord</span> \[came\] to him. And he said, Why \[are\] you here, Elijah? 
-<small><sub>**KJV:**</sub></small>
-And he came thither unto a cave, and lodged there; and, behold, the word of the LORD [came] to him, and he said unto him, What doest thou here, Elijah?
-<small><sub>**BSB:**</sub></small>
-There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.8|<< 1 Kings 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.10|1 Kings 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

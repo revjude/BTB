@@ -1,10 +1,7 @@
 **LXX Exodus 35:27** 
 <small><sub>**LXX:**</sub></small>
 And the rulers brought the stones  of emerald, and the stones for the filling in the shoulder-piece, and for the oracle, 
-<small><sub>**KJV:**</sub></small>
-And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;
-<small><sub>**BSB:**</sub></small>
-The leaders brought onyx stones and gemstones to mount on the ephod and breastpiece,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.26|<< Exodus 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.28|Exodus 35:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 22:35** 
+**1 Kings 22:35**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The battle raged throughout that day, and the king was propped up in his chariot
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.34|<< 1 Kings 22:34]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.36|1 Kings 22:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּעֲלֶ֤ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Leh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the battle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

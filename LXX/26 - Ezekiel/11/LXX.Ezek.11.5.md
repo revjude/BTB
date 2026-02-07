@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there fell upon me spirit of \[the\] <span class="smallcaps">lord</span>. And he said to me, You say! Thus says \[the\] <span class="smallcaps">lord</span>; As you said, O house of Israel, and the deliberations  of your spirit I know. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD fell upon me, and said unto me, Speak; Thus saith the LORD; Thus have ye said, O house of Israel: for I know the things that come into your mind, [every one of] them.
-<small><sub>**BSB:**</sub></small>
-And the Spirit of the LORD fell upon me and told me to declare that this is what the LORD says: “That is what you are thinking, O house of Israel; and I know the thoughts that arise in your minds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.4|<< Ezekiel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.6|Ezekiel 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

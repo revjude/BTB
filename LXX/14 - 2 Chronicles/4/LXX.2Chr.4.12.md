@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:12** 
 <small><sub>**LXX:**</sub></small>
 two columns, and the pommels, and the capitals upon the tops of the two columns, and two latticed \[works\] to cover up the two pommels of the capitals, which \[are\] upon the tops of the columns; 
-<small><sub>**KJV:**</sub></small>
-[To wit], the two pillars, and the pommels, and the chapiters [which were] on the top of the two pillars, and the two wreaths to cover the two pommels of the chapiters which [were] on the top of the pillars;
-<small><sub>**BSB:**</sub></small>
-the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of network covering both bowls of the capitals atop the pillars;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.11|<< 2 Chronicles 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.13|2 Chronicles 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

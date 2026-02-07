@@ -1,4 +1,4 @@
-**Numbers 26:51** 
+**Numbers 26:51**<big><big>[[Num.26.48 The Tribe of Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These men of Israel numbered 601,730 in all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.50|<< Numbers 26:50]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.52|Numbers 26:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] enrolled [men] of  |**<big>&#8207;[[H6485A\|פְּקוּדֵי֙]]&#8207; </big>**| pe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

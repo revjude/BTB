@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:23** 
 <small><sub>**LXX:**</sub></small>
 In the thirtieth and first year  of Asa king of Judah, Omri reigned over Israel twelve years. In Tirzah he reigned six years. 
-<small><sub>**KJV:**</sub></small>
-In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.
-<small><sub>**BSB:**</sub></small>
-In the thirty-first year of Asa’s reign over Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.22|<< 1 Kings 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.24|1 Kings 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

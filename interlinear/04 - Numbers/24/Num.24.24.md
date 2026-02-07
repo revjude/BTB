@@ -1,4 +1,4 @@
-**Numbers 24:24** 
+**Numbers 24:24**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ships [shall come] from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ships will come from the coasts of Cyprus; they will subdue Asshur and Eber, but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.23|<< Numbers 24:23]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.25|Numbers 24:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ships  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6716\|צִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027K\|יַּ֣ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:15** 
 <small><sub>**LXX:**</sub></small>
 And a sheep from the two hundred sheep as a cut-away portion of all the families of Israel for a sacrifice, and whole burnt-offerings, and for a \[sacrifice\] of deliverance \[offering\]  to atone for you, says \[the\] <span class="smallcaps">lord</span> God. 
-<small><sub>**KJV:**</sub></small>
-And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-And one sheep shall be given from each flock of two hundred from the well-watered pastures of Israel. These are for the grain offerings, burnt offerings, and peace offerings, to make atonement for the people, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.14|<< Ezekiel 45:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.16|Ezekiel 45:16 >>]]</td></tr></table>
 
 | Translation | Greek |

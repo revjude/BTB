@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:4** 
 <small><sub>**LXX:**</sub></small>
 And the people sent unto Shiloh, and they lifted from there the ark of covenant of \[the\] <span class="smallcaps">lord</span> of the forces, which sits upon the cherubim. And both the sons of Eli \[were\] with the ark of the covenant  of God -- Hophni and Phinehas. 
-<small><sub>**KJV:**</sub></small>
-So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth [between] the cherubims: and the two sons of Eli, Hophni and Phinehas, [were] there with the ark of the covenant of God.
-<small><sub>**BSB:**</sub></small>
-So the people sent men to Shiloh, and they brought back the ark of the covenant of the LORD of Hosts, who sits enthroned between the cherubim. And the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.3|<< 1 Samuel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.5|1 Samuel 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

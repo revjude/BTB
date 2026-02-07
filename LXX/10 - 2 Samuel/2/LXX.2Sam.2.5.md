@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:5** 
 <small><sub>**LXX:**</sub></small>
 And David sent messengers to the leaders of Jabish of the Gileadites, And he said to them, Being blessed \[are\] you to the <span class="smallcaps">lord</span>, that you performed  this mercy for  your master, for  Saul, and you entombed him. 
-<small><sub>**KJV:**</sub></small>
-And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed [be] ye of the LORD, that ye have shewed this kindness unto your lord, [even] unto Saul, and have buried him.
-<small><sub>**BSB:**</sub></small>
-So David sent messengers to the men of Jabesh-gilead to tell them, “The LORD bless you, because you showed this kindness to Saul your lord when you buried him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.4|<< 2 Samuel 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.6|2 Samuel 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

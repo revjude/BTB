@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:20** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] <span class="smallcaps">lord</span> God took you, and led you from out of the furnace  of iron, out of Egypt, to be to him a hereditary people, as in  this day. 
-<small><sub>**KJV:**</sub></small>
-But the LORD hath taken you, and brought you forth out of the iron furnace, [even] out of Egypt, to be unto him a people of inheritance, as [ye are] this day.
-<small><sub>**BSB:**</sub></small>
-Yet the LORD has taken you and brought you out of the iron furnace, out of Egypt, to be the people of His inheritance, as you are today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.19|<< Deuteronomy 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.21|Deuteronomy 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

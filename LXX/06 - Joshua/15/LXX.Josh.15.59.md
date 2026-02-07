@@ -1,10 +1,7 @@
 **LXX Joshua 15:59** 
 <small><sub>**LXX:**</sub></small>
 and Maarath, and Beth-anoth, and Eltekon; six cities, and  their towns; 
-<small><sub>**KJV:**</sub></small>
-And Maarath, and Bethanoth, and Eltekon; six cities with their villages:
-<small><sub>**BSB:**</sub></small>
-Maarath, Beth-anoth, and Eltekon—six cities, along with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.58|<< Joshua 15:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.60|Joshua 15:60 >>]]</td></tr></table>
 
 | Translation | Greek |

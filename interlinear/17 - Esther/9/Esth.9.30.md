@@ -1,10 +1,10 @@
-**Esther 9:30** 
+**Esther 9:30**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, [with] words of peace and truth,
 <small><sub>**BSB:**</sub></small>
 And Mordecai sent letters with words of peace and truth to all the Jews in the 127 provinces of the kingdom of Xerxes,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.29|<< Esther 9:29]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.31|Esther 9:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | letters  |**<big>&#8207;[[H5612A\|סְפָרִ֜ים]]&#8207; </big>**| se.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

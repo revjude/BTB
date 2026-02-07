@@ -1,4 +1,4 @@
-**Exodus 18:27** 
+**Exodus 18:27**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses let his father in law depart; and he went his way into his own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses sent his father-in-law on his way, and Jethro returned to his own lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.26|<< Exodus 18:26]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.1|Exodus 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יְשַׁלַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Lach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

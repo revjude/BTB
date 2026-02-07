@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:7** 
 <small><sub>**LXX:**</sub></small>
 And my heart took counsel with me, and I did combat against the important ones, and the rulers. And I said to them, a man exact  from his brother what you do? And I put upon them a great assembly. 
-<small><sub>**KJV:**</sub></small>
-Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.
-<small><sub>**BSB:**</sub></small>
-and after serious thought I rebuked the nobles and officials, saying, “You are exacting usury from your own brothers!” So I called a large assembly against them<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.6|<< Nehemiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.8|Nehemiah 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

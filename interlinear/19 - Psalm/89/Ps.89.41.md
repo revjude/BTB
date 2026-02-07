@@ -1,4 +1,4 @@
-**Psalms 89:41** (89:42)
+**Psalms 89:41**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that pass by the way spoil him: he is a reproach to his neighbours.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All who pass by plunder him; he has become a reproach to his neighbors.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.40|<< Psalms 89:40]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.42|Psalms 89:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have plundered him  |**<big>&#8207;[[H8155\|שַׁ֭סֻּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| su.<small><sup>[[HVqp3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

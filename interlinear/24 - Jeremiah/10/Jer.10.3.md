@@ -1,4 +1,4 @@
-**Jeremiah 10:3** 
+**Jeremiah 10:3**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the customs of the people [are] vain: for [one] cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the customs of the peoples are worthless; they cut down a tree from the fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.2|<< Jeremiah 10:2]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.4|Jeremiah 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] customs of  |**<big>&#8207;[[H2708\|חֻקּ֥וֹת]]&#8207; </big>**| chu.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

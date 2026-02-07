@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:20** 
 <small><sub>**LXX:**</sub></small>
 And so shall you do in the seventh month, \[day\] one of the month, for each senseless and simple one; and you shall atone for the house. 
-<small><sub>**KJV:**</sub></small>
-And so thou shalt do the seventh [day] of the month for every one that erreth, and for [him that is] simple: so shall ye reconcile the house.
-<small><sub>**BSB:**</sub></small>
-You must do the same thing on the seventh day of the month for anyone who strays unintentionally or in ignorance. In this way you will make atonement for the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.19|<< Ezekiel 45:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.21|Ezekiel 45:21 >>]]</td></tr></table>
 
 | Translation | Greek |

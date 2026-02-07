@@ -1,10 +1,7 @@
 **LXX Exodus 22:30** 
 <small><sub>**LXX:**</sub></small>
 so shall you do with  your calf, and  your sheep, and  your beast of burden. Seven days it shall be under the mother,  but the eighth day it back to me. 
-<small><sub>**KJV:**</sub></small>
-Likewise shalt thou do with thine oxen, [and] with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
-<small><sub>**BSB:**</sub></small>
-You shall do likewise with your cattle and your sheep. Let them stay with their mothers for seven days, but on the eighth day you are to give them to Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.29|<< Exodus 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.31|Exodus 22:31 >>]]</td></tr></table>
 
 | Translation | Greek |

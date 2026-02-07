@@ -1,6 +1,6 @@
 (KJV) **1 Samuel 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18|<< 1 Samuel 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20|1 Samuel 20 >>]]</td></tr></table>
 
-***Saul Tries to Kill David***&emsp;<small><sup>\[ [[Ps.59|Psalms 59:1–17]] ]</sup></small> ^bsb698
+<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥃]]</big></big>***Saul Tries to Kill David***&emsp;<small><sup>\[ [[Ps.59|Psalms 59:1–17]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.19.1|1]]**<span class="endversemarker">]</span> And Saul<small><small>[^2]</small></small> spake to Jonathan his son, and to all his servants, that they should kill David. <span class="startversemarker">[</span>**[[1Sam.19.2|2]]**<span class="endversemarker">]</span> But Jonathan Saul’s son delighted<small><small>[^3]</small></small> much in David: and Jonathan<small><small>[^4]</small></small> told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret \[place\], and hide thyself: <span class="startversemarker">[</span>**[[1Sam.19.3|3]]**<span class="endversemarker">]</span> And I will go out and stand beside my father in the field where thou \[art\], and I will commune with my father of thee; and what I see<small><small>[^5]</small></small>, that I will tell thee. 
 

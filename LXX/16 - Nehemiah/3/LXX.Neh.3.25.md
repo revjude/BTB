@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:25** 
 <small><sub>**LXX:**</sub></small>
 Palal son of Uzai, right opposite the corner, and the tower, the one protruding from out of the house of the king, higher than the courtyard of the prison. And after him Pedaiah son of Parosh. 
-<small><sub>**KJV:**</sub></small>
-Palal the son of Uzai, over against the turning [of the wall], and the tower which lieth out from the king’s high house, that [was] by the court of the prison. After him Pedaiah the son of Parosh.
-<small><sub>**BSB:**</sub></small>
-and Palal son of Uzai made repairs opposite the angle and the tower that juts out from the upper palace of the king near the courtyard of the guard. Next to him, Pedaiah son of Parosh<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.24|<< Nehemiah 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.26|Nehemiah 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

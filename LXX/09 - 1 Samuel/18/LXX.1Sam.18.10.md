@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass of the next day, that a ferocious spirit from God fell upon Saul, and he prophesied in the midst  of his house; And David strummed with  his hand as according to each day; and the wooden spear \[was\] in the hand of Saul. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and [there was] a javelin in Saul’s hand.
-<small><sub>**BSB:**</sub></small>
-The next day a spirit of distress sent from God came upon Saul, and he prophesied inside the house while David played the harp as usual. Now Saul was holding a spear,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.9|<< 1 Samuel 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.11|1 Samuel 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

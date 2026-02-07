@@ -1,6 +1,6 @@
-**Psalms 14:1** 
+**Psalms 14:1**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, [A Psalm] of David. The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good.
+The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ For the choirmaster. Of David. The fool says in his heart, “There is no God.�
 > $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he says  |**<big>&#8207;[[H0559\|אָ֘מַ֤ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fool  |**<big>&#8207;[[H5036\|נָבָ֣ל]]&#8207; </big>**| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

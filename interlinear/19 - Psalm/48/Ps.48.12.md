@@ -1,4 +1,4 @@
-**Psalms 48:12** (48:13)
+**Psalms 48:12**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Walk about Zion, and go round about her: tell the towers thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ March around Zion, encircle her, count her towers,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.11|<< Psalms 48:11]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.13|Psalms 48:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go around  |**<big>&#8207;[[H5437H\|סֹ֣בּוּ]]&#8207; </big>**| So.bu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִ֭יּוֹן]]&#8207; </big>**| Tzi.yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

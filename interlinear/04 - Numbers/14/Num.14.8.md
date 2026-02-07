@@ -1,4 +1,4 @@
-**Numbers 14:8** 
+**Numbers 14:8**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the LORD delights in us, He will bring us into this land, a land flowing with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.7|<< Numbers 14:7]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.9|Numbers 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he delights  |**<big>&#8207;[[H2654A\|חָפֵ֥ץ]]&#8207; </big>**| cha.Fetz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

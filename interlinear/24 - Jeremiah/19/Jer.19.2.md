@@ -1,4 +1,4 @@
-**Jeremiah 19:2** 
+**Jeremiah 19:2**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And go forth unto the valley of the son of Hinnom, which [is] by the entry of the east gate, and proclaim there the words that I shall tell thee,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and go out to the Valley of Ben-hinnom near the entrance of the Potsherd Gate. P
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.1|<< Jeremiah 19:1]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.3|Jeremiah 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצָ֙אתָ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

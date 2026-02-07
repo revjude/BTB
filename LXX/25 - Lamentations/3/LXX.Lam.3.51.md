@@ -1,10 +1,7 @@
 **LXX Lamentations 3:51** 
 <small><sub>**LXX:**</sub></small>
  My eye shall glean upon  my soul because of all \[the\] daughters of \[the\] city. 
-<small><sub>**KJV:**</sub></small>
-Mine eye affecteth mine heart because of all the daughters of my city.
-<small><sub>**BSB:**</sub></small>
-My eyes bring grief to my soul because of all the daughters of my city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.50|<< Lamentations 3:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.52|Lamentations 3:52 >>]]</td></tr></table>
 
 | Translation | Greek |

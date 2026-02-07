@@ -1,4 +1,4 @@
-**Exodus 5:7** 
+**Exodus 5:7**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ye shall no more give the people straw to make brick, as heretofore: let them go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.6|<< Exodus 5:6]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.8|Exodus 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will repeat !  |**<big>&#8207;[[H3254G\|תֹאסִפ֞וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| to.si.Fu<small><sup>[[HVhi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

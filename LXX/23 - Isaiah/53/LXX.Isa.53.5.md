@@ -1,10 +1,7 @@
 **LXX Isaiah 53:5** 
 <small><sub>**LXX:**</sub></small>
 But he was wounded because of  our sins, and he was made infirm on account of  our lawless deeds. \[The\] discipline for our peace \[was\] upon him; \[by\] his stripe we were healed. 
-<small><sub>**KJV:**</sub></small>
-But he [was] wounded for our transgressions, [he was] bruised for our iniquities: the chastisement of our peace [was] upon him; and with his stripes we are healed.
-<small><sub>**BSB:**</sub></small>
-But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.4|<< Isaiah 53:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.6|Isaiah 53:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 53:5** is...

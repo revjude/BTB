@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:15** 
 <small><sub>**LXX:**</sub></small>
 And I beheld, and behold, \[there was\] one wheel upon the earth being next to the living creatures, \[next to\] the four. 
-<small><sub>**KJV:**</sub></small>
-Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
-<small><sub>**BSB:**</sub></small>
-When I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.14|<< Ezekiel 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.16|Ezekiel 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

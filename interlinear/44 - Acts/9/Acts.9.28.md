@@ -1,12 +1,12 @@
-**Acts 9:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:28**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he was with them coming in and going out at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord.
 <small><sub>**Literal:**</sub></small>
 And he was with them coming in and going out in Jerusalem, [29] and speaking boldly in the name of the Lord Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.27|<< Acts 9:27]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.29|Acts 9:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 9:19** 
+**Deuteronomy 9:19**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you. But the LORD hearkened unto me at that time also.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For I was afraid of the anger and wrath that the LORD had directed against you, 
 > $\quad$ referenced by: [[Heb.12.21|Heb 12:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was afraid  |**<big>&#8207;[[H3025\|יָגֹ֗רְתִּי]]&#8207; </big>**| ya.Go.re.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

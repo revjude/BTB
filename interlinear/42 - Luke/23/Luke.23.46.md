@@ -1,5 +1,5 @@
-**Luke 23:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:46**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last.
@@ -10,7 +10,7 @@ And having called out in a voice loud <the> Jesus said; Father, into [the] hands
 > $\quad$ referencing: [[LXX.Ps.31.5|Ps 31:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called out |**<big>[[G5455\|φωνήσας]]</big>**  |phōnēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 23:29** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, Build for me here seven shrines, and prepare for me here seven calves, and seven rams! 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
-<small><sub>**BSB:**</sub></small>
-Then Balaam said, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.28|<< Numbers 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.30|Numbers 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

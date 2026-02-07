@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:14** 
 <small><sub>**LXX:**</sub></small>
 \[and\] for the gold and the weight  of its scale-weight for all the items service by service, and to all the items  of silver in weight to every item service by service; 
-<small><sub>**KJV:**</sub></small>
-[He gave] of gold by weight for [things] of gold, for all instruments of all manner of service; [silver also] for all instruments of silver by weight, for all instruments of every kind of service:
-<small><sub>**BSB:**</sub></small>
-the weight of all the gold articles for every kind of service; the weight of all the silver articles for every kind of service;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.13|<< 1 Chronicles 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.15|1 Chronicles 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

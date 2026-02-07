@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:10** 
 <small><sub>**LXX:**</sub></small>
 And Samuel spoke all the words of the <span class="smallcaps">lord</span> to the people, of the ones asking of him for a king. 
-<small><sub>**KJV:**</sub></small>
-And Samuel told all the words of the LORD unto the people that asked of him a king.
-<small><sub>**BSB:**</sub></small>
-So Samuel spoke all the words of the LORD to the people who were asking him for a king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.9|<< 1 Samuel 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.11|1 Samuel 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

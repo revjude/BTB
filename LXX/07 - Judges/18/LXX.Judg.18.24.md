@@ -1,10 +1,7 @@
 **LXX Judges 18:24** 
 <small><sub>**LXX:**</sub></small>
 And he said, The gods which I made you took, and the priest, and you departed. And what \[is there\] to me still? And what \[is\] this you say to me, Why \[is\] this \[that\] you cry out? 
-<small><sub>**KJV:**</sub></small>
-And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what [is] this [that] ye say unto me, What aileth thee?
-<small><sub>**BSB:**</sub></small>
-He replied, “You took the gods I had made, and my priest, and went away. What else do I have? How can you say to me, ‘What is the matter with you?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.23|<< Judges 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.25|Judges 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

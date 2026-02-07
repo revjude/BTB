@@ -1,10 +1,7 @@
 **LXX Isaiah 22:8** 
 <small><sub>**LXX:**</sub></small>
 And they shall uncover the gates of Judah, and they shall look  in that day unto the choice houses of the city. 
-<small><sub>**KJV:**</sub></small>
-And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.
-<small><sub>**BSB:**</sub></small>
-He has uncovered the defenses of Judah. On that day you looked to the weapons in the House of the Forest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.7|<< Isaiah 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.9|Isaiah 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

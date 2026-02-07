@@ -1,10 +1,7 @@
 **LXX Isaiah 66:21** 
 <small><sub>**LXX:**</sub></small>
 that from them I will take priests and Levites, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will also take of them for priests [and] for Levites, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“And I will select some of them as priests and Levites,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.20|<< Isaiah 66:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.22|Isaiah 66:22 >>]]</td></tr></table>
 
 | Translation | Greek |

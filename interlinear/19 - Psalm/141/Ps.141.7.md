@@ -1,4 +1,4 @@
-**Psalms 141:7** 
+**Psalms 141:7**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth [wood] upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As when one plows and breaks up the soil, so our bones have been scattered at th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.6|<< Psalms 141:6]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.8|Psalms 141:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like  |**<big>&#8207;[[H3644G\|כְּמ֤וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] plows  |**<big>&#8207;[[H6398\|פֹלֵ֣חַ]]&#8207; </big>**| fo.Le.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

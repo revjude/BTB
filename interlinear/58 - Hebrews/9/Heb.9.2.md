@@ -1,5 +1,5 @@
-**Hebrews 9:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:2**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there was a tabernacle made; the first, wherein [was] the candlestick, and the table, and the shewbread; which is called the sanctuary.
 <small><sub>**BSB:**</sub></small>
 A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place.
@@ -11,7 +11,7 @@ A tabernacle for was prepared the first [room] — in which [were] <the> both th
 > $\quad$ possibly alluding to: [[LXX.Exod.40.3|Exod 40:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A tabernacle |**<big>[[G4633\|σκηνὴ]]</big>**  |skēnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

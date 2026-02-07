@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:5** 
 <small><sub>**LXX:**</sub></small>
 And from the borders of Manasseh, from the \[borders\] towards \[the\] east, unto the \[borders\] towards \[the\] west -- Ephraim, one \[portion\]. 
-<small><sub>**KJV:**</sub></small>
-And by the border of Manasseh, from the east side unto the west side, a [portion for] Ephraim.
-<small><sub>**BSB:**</sub></small>
-Ephraim will have one portion bordering the territory of Manasseh from east to west.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.4|<< Ezekiel 48:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.6|Ezekiel 48:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 12:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:7**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 <small><sub>**BSB:**</sub></small>
 Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back.
@@ -10,7 +10,7 @@ And there was war in <the> heaven: <the> Michael and the angels of him <the> to 
 > $\quad$ possibly alluding to: [[LXX.Dan.10.13|Dan 10:13]] ☩ [[LXX.Dan.10.21|Dan 10:21]] ☩ [[LXX.Dan.12.1|Dan 12:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there was |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

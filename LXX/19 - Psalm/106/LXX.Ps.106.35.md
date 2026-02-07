@@ -1,10 +1,7 @@
 **LXX Psalm 106:35** 
 <small><sub>**LXX:**</sub></small>
 And they mixed among the nations, and learned  their works. 
-<small><sub>**KJV:**</sub></small>
-But were mingled among the heathen, and learned their works.
-<small><sub>**BSB:**</sub></small>
-but they mingled with the nations and adopted their customs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.34|<< Psalm 106:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.36|Psalm 106:36 >>]]</td></tr></table>
 
 | Translation | Greek |

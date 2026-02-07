@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:19** 
 <small><sub>**LXX:**</sub></small>
 for because your heart was tender, and you felt shame in front of me, as you hear as much as I spoke concerning  this place, and concerning the ones dwelling it,  to be for extinction and for a curse, and you tore  your garments, and you wept before me -- even indeed I heard, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard [thee], saith the LORD.
-<small><sub>**BSB:**</sub></small>
-because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its people, that they would become a desolation and a curse, and because you have torn your clothes and wept before Me, I have heard you,’ declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.18|<< 2 Kings 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.20|2 Kings 22:20 >>]]</td></tr></table>
 
 | Translation | Greek |

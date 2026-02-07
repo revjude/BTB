@@ -1,4 +1,4 @@
-**Micah 2:9** 
+**Micah 2:9**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You drive the women of My people from their pleasant homes. You take away My ble
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.10|Micah 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] women of  |**<big>&#8207;[[H0802G\|נְשֵׁ֤י]]&#8207; </big>**| ne.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 3:28** 
+**Deuteronomy 3:28**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But commission Joshua, encourage him, and strengthen him, for he will cross over
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.27|<< Deuteronomy 3:27]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.29|Deuteronomy 3:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and commission  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6680\|צַ֥ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

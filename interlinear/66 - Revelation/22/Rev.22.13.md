@@ -1,5 +1,5 @@
-**Revelation 22:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:13**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am Alpha and Omega, the beginning and the end, the first and the last.
 <small><sub>**BSB:**</sub></small>
 I am the Alpha and the Omega, the First and the Last, the Beginning and the End.”
@@ -10,7 +10,7 @@ I myself am the Alpha and the Omega the First and the Last, the Beginning and th
 > $\quad$ alluding to: [[LXX.Isa.41.4|Isa 41:4]] ☩ [[LXX.Isa.44.6|Isa 44:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | am |**<big>[[G1510\|εἰμί]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="TR">k</abbr> | |

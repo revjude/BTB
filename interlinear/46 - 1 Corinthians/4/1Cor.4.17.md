@@ -1,12 +1,12 @@
-**1 Corinthians 4:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:17**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
 <small><sub>**BSB:**</sub></small>
 That is why I have sent you Timothy, my beloved and faithful child in the Lord. He will remind you of my way of life in Christ Jesus, which is exactly what I teach everywhere in every church.
 <small><sub>**Literal:**</sub></small>
 On account of this I sent to you Timothy, who is my child beloved and faithful in [the] Lord, who you will remind of the ways of mine that [are] in Christ Jesus, even as everywhere in every church I teach.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.16|<< 1 Corinthians 4:16]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.18|1 Corinthians 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On account of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

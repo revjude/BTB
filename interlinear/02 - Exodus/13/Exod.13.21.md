@@ -1,4 +1,4 @@
-**Exodus 13:21** 
+**Exodus 13:21**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD went before them in a pillar of cloud to guide their way by day, an
 > $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֡ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] going  |**<big>&#8207;[[H1980G\|הֹלֵךְ֩]]&#8207; </big>**| ho.leKh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

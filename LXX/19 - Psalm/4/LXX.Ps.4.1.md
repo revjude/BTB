@@ -6,10 +6,7 @@ For the director in hymns; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 In  my calling, the God of my righteousness heard me; in affliction he widened me. Pity me, and hear  my prayer! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth, A Psalm of David. Hear me when I call, O God of my righteousness: thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. With stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness! You have relieved my distress; show me grace and hear my prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.8|<< Psalm 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.2|Psalm 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

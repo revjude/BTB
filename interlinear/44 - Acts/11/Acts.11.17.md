@@ -1,12 +1,12 @@
-**Acts 11:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:17**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forasmuch then as God gave them the like gift as [he did] unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
 <small><sub>**BSB:**</sub></small>
 So if God gave them the same gift He gave us who believed in the Lord Jesus Christ, who was I to hinder the work of God?”
 <small><sub>**Literal:**</sub></small>
 If then the same gift has given to them <the> God as also to us having believed on the Lord Jesus Christ, I myself now how was able to forbid <the> God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.16|<< Acts 11:16]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.18|Acts 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

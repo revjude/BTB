@@ -1,12 +1,12 @@
-**Acts 10:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:6**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
 <small><sub>**BSB:**</sub></small>
 He is staying with Simon the tanner, whose house is by the sea.”
 <small><sub>**Literal:**</sub></small>
 He lodges with a certain Simon a tanner, whose is [the] house by [the] sea this [one] will tell you what you it behooves to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.5|<< Acts 10:5]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.7|Acts 10:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | lodges |**<big>[[G3579\|ξενίζεται]]</big>**  |xenizetai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 43:4** 
 <small><sub>**LXX:**</sub></small>
 From which \[time\] you were esteemed valuable before me, you were glorified, and I loved you. And I will give men for you, and rulers for  your head. 
-<small><sub>**KJV:**</sub></small>
-Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
-<small><sub>**BSB:**</sub></small>
-Because you are precious and honored in My sight, and because I love you, I will give men in exchange for you and nations in place of your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.3|<< Isaiah 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.5|Isaiah 43:5 >>]]</td></tr></table>
 
 | Translation | Greek |

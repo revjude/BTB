@@ -1,10 +1,7 @@
 **LXX Psalm 7:11** 
 <small><sub>**LXX:**</sub></small>
  God \[is\] a just judge, and strong, and lenient, not bringing on anger  each day. 
-<small><sub>**KJV:**</sub></small>
-God judgeth the righteous, and God is angry [with the wicked] every day.
-<small><sub>**BSB:**</sub></small>
-God is a righteous judge and a God who feels indignation each day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.10|<< Psalm 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.12|Psalm 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

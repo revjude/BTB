@@ -1,4 +1,4 @@
-**Ezekiel 21:30** (21:35)
+**Ezekiel 21:30**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I cause [it] to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return the sword to its sheath! In the place where you were created, in the land
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.29|<< Ezekiel 21:29]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.31|Ezekiel 21:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | put back  |**<big>&#8207;[[H7725G\|הָשַׁ֖ב]]&#8207; </big>**| ha.Shav<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

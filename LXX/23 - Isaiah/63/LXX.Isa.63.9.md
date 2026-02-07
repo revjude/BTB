@@ -1,10 +1,7 @@
 **LXX Isaiah 63:9** 
 <small><sub>**LXX:**</sub></small>
 from out of all their affliction. Not an ambassador, nor an angel, but he, the <span class="smallcaps">lord</span> delivered them, because of  loving them. And he spared them -- he ransomed them, and he took them, and raised them all the days of the eon. 
-<small><sub>**KJV:**</sub></small>
-In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
-<small><sub>**BSB:**</sub></small>
-In all their distress, He too was afflicted, and the Angel of His Presence saved them. In His love and compassion He redeemed them; He lifted them up and carried them all the days of old.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.8|<< Isaiah 63:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.10|Isaiah 63:10 >>]]</td></tr></table>
 
 | Translation | Greek |

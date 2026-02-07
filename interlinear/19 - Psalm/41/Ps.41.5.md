@@ -1,4 +1,4 @@
-**Psalms 41:5** (41:6)
+**Psalms 41:5**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine enemies speak evil of me, When shall he die, and his name perish?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My enemies say with malice: “When will he die and be forgotten?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.4|<< Psalms 41:4]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.6|Psalms 41:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | enemies my  |**<big>&#8207;[[H0341\|אוֹיְבַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they speak  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

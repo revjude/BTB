@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:25** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin gathered together, the ones \[following\] after Abner, and they came to meet as one, and they stood upon \[the\] head of one hill. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.
-<small><sub>**BSB:**</sub></small>
-The Benjamites rallied to Abner, formed a single unit, and took their stand atop a hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.24|<< 2 Samuel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.26|2 Samuel 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

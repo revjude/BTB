@@ -1,10 +1,7 @@
 **LXX Daniel 8:6** 
 <small><sub>**LXX:**</sub></small>
 And he came unto the ram, the one having the horns, which I beheld standing before the Ubal, and it ran against him with \[the\] thrust  of his strength. 
-<small><sub>**KJV:**</sub></small>
-And he came to the ram that had [two] horns, which I had seen standing before the river, and ran unto him in the fury of his power.
-<small><sub>**BSB:**</sub></small>
-He came toward the two-horned ram I had seen standing beside the canal and rushed at him with furious power.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.5|<< Daniel 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.7|Daniel 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

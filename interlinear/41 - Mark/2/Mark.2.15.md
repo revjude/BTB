@@ -1,12 +1,12 @@
-**Mark 2:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:15**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.
 <small><sub>**BSB:**</sub></small>
 While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him.
 <small><sub>**Literal:**</sub></small>
 And it came to pass in the reclining of Him in the house of him, that many tax collectors and sinners were reclining with <the> Jesus and with the disciples of Him; there were for many, and they were following Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.14|<< Mark 2:14]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.16|Mark 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass [^1] [^2] |**<big>[[G1096\|γίνεται]]</big>**  |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(k)(o)</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 42:27** 
 <small><sub>**LXX:**</sub></small>
 And one untying  his bag, to give fodder \[to\] his donkeys where they rested, and he saw  his bundle of silver, for it was upon the mouth of the bag. 
-<small><sub>**KJV:**</sub></small>
-And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it [was] in his sack’s mouth.
-<small><sub>**BSB:**</sub></small>
-At the place where they lodged for the night, one of them opened his sack to get feed for his donkey, and he saw his silver in the mouth of the sack.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.26|<< Genesis 42:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.28|Genesis 42:28 >>]]</td></tr></table>
 
 | Translation | Greek |

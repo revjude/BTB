@@ -1,4 +1,4 @@
-**Exodus 22:28** (22:27)
+**Exodus 22:28**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not revile the gods, nor curse the ruler of thy people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You must not blaspheme God or curse the ruler of your people.
 > $\quad$ referenced by: [[Acts.23.5|Acts 23:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 11:4** 
 <small><sub>**LXX:**</sub></small>
 Except from these you shall not eat -- of the ones taking up chewing the cud, and of the \[ones\] not being cloven of the hoofs, and clawing cloven-footed -- the camel, for this one takes up chewing the cud, and \[the\] hoof is not cloven; this \[one is\] unclean to you. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: [as] the camel, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-But of those that only chew the cud or only have a divided hoof, you are not to eat the following: The camel, though it chews the cud, does not have a divided hoof; it is unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.3|<< Leviticus 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.5|Leviticus 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For there is a place for silver from where it exists, and a place for gold from where it is refined. 
-<small><sub>**KJV:**</sub></small>
-Surely there is a vein for the silver, and a place for gold [where] they fine [it].
-<small><sub>**BSB:**</sub></small>
-“Surely there is a mine for silver and a place where gold is refined.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.23|<< Job 27:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.2|Job 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

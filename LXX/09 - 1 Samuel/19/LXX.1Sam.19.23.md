@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:23** 
 <small><sub>**LXX:**</sub></small>
 And he went from there into Naioth in Ramah. And there came upon him spirit of God. And he went going, and prophesied unto  his coming unto Naioth in Ramah. 
-<small><sub>**KJV:**</sub></small>
-And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
-<small><sub>**BSB:**</sub></small>
-So Saul went to Naioth in Ramah. But the Spirit of God came upon even Saul, and he walked along prophesying until he came to Naioth in Ramah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.22|<< 1 Samuel 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.24|1 Samuel 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 12:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:38**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if he shall come in the second watch, or come in the third watch, and find [them] so, blessed are those servants.
 <small><sub>**BSB:**</sub></small>
 Even if he comes in the second or third watch of the night and finds them alert, those servants will be blessed.
 <small><sub>**Literal:**</sub></small>
 And if he may come in the second watch and if in the third watch he may come and he may find [them] thus, blessed are <the> servants those!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.37|<< Luke 12:37]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.39|Luke 12:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And if |**<big>[[G2532\|κἂν]]</big>**  [^1] |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he may come |**<big>[[G2064\|ἔλθῃ]]</big>**  |elthē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

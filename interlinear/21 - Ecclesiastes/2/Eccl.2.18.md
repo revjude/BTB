@@ -1,4 +1,4 @@
-**Ecclesiastes 2:18** 
+**Ecclesiastes 2:18**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hated all for which I had toiled under the sun, because I must leave it to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.17|<< Ecclesiastes 2:17]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.19|Ecclesiastes 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I hated  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8130\|שָׂנֵ֤אתִֽי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Ne.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

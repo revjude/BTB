@@ -1,4 +1,4 @@
-**Leviticus 8:21** 
+**Leviticus 8:21**<big><big>[[Lev.8.18 The Priests’ Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it [was] a burnt sacrifice for a sweet savour, [and] an offering made by fire unto the LORD; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He washed the entrails and legs with water and burned the entire ram on the alta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.20|<< Leviticus 8:20]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.22|Leviticus 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the entrails  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7130H\|קֶּ֥רֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

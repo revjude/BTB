@@ -1,4 +1,4 @@
-**Genesis 43:30** 
+**Genesis 43:30**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph made haste; for his bowels did yearn upon his brother: and he sought [where] to weep; and he entered into [his] chamber, and wept there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph hurried out because he was moved to tears for his brother, and he went to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.29|<< Genesis 43:29]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.31|Genesis 43:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he hurried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|יְמַהֵ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Her<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֗ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

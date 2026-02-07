@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:6** 
 <small><sub>**LXX:**</sub></small>
 For I have not dwelt in a house from which day I led the sons of Israel out of Egypt, until  this day, for I was walking about in a lodging, in a tent. 
-<small><sub>**KJV:**</sub></small>
-Whereas I have not dwelt in [any] house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
-<small><sub>**BSB:**</sub></small>
-For I have not dwelt in a house from the day I brought the Israelites up out of Egypt until this day, but I have moved about with a tent as My dwelling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.5|<< 2 Samuel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.7|2 Samuel 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 4:19** 
+**Joshua 4:19**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people came up out of Jordan on the tenth [day] of the first month, and encamped in Gilgal, in the east border of Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the tenth day of the first month the people went up from the Jordan and campe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.18|<< Joshua 4:18]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.20|Joshua 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they went up  |**<big>&#8207;[[H5927G\|עָלוּ֙]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

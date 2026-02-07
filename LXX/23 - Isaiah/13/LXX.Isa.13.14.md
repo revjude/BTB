@@ -1,10 +1,7 @@
 **LXX Isaiah 13:14** 
 <small><sub>**LXX:**</sub></small>
 And the ones being left behind will be as a young doe fleeing, and as a sheep wandering; and there is no one  gathering so as for a man to return to his people; and a man shall take flight unto his own place. 
-<small><sub>**KJV:**</sub></small>
-And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
-<small><sub>**BSB:**</sub></small>
-Like a hunted gazelle, like a sheep without a shepherd, each will return to his own people, each will flee to his native land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.13|<< Isaiah 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.15|Isaiah 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Amos 3:14** 
 <small><sub>**LXX:**</sub></small>
 For in the day whenever I shall avenge \[the\] impious deeds  of Israel upon him, also I will take vengeance upon the altars of Beth-el. And the horns of the altar shall be razed, and shall fall upon the ground. 
-<small><sub>**KJV:**</sub></small>
-That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Bethel: and the horns of the altar shall be cut off, and fall to the ground.
-<small><sub>**BSB:**</sub></small>
-On the day I punish Israel for their transgressions, I will visit destruction on the altars of Bethel; the horns of the altar will be cut off, and they will fall to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.13|<< Amos 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.15|Amos 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

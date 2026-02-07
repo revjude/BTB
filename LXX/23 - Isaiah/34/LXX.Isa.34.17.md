@@ -1,10 +1,7 @@
 **LXX Isaiah 34:17** 
 <small><sub>**LXX:**</sub></small>
 And he shall cast lots for them, and  his hand divided out parts to them to graze. Into the eon of time you shall inherit; for generations of generations shall rest upon it. 
-<small><sub>**KJV:**</sub></small>
-And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
-<small><sub>**BSB:**</sub></small>
-He has allotted their portion; His hand has distributed it by measure. They will possess it forever; they will dwell in it from generation to generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.16|<< Isaiah 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.1|Isaiah 35:1 >>]]</td></tr></table>
 
 | Translation | Greek |

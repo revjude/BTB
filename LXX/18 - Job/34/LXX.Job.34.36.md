@@ -1,10 +1,7 @@
 **LXX Job 34:36** 
 <small><sub>**LXX:**</sub></small>
 But in fact, learn Job! No longer give an answer as the fools, 
-<small><sub>**KJV:**</sub></small>
-My desire [is that] Job may be tried unto the end because of [his] answers for wicked men.
-<small><sub>**BSB:**</sub></small>
-If only Job were tried to the utmost for answering like a wicked man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.35|<< Job 34:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.37|Job 34:37 >>]]</td></tr></table>
 
 | Translation | Greek |

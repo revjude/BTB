@@ -1,12 +1,12 @@
-**John 10:24
-**<small><sub>**KJV:**</sub></small>
+**John 10:24**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
 <small><sub>**BSB:**</sub></small>
 So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.”
 <small><sub>**Literal:**</sub></small>
 Encircled therefore Him the Jews and they were saying to Him; Until when the soul of us hold You in suspense? If You yourself are the Christ, do tell us plainly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.23|<< John 10:23]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.25|John 10:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Encircled |**<big>[[G2944\|ἐκύκλωσαν]]</big>**  |ekuklōsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

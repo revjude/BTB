@@ -1,4 +1,4 @@
-**Nehemiah 12:43** 
+**Nehemiah 12:43**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day they offered great sacrifices, rejoicing because God had given them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.42|<< Nehemiah 12:42]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.44|Nehemiah 12:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבְּח֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.be.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

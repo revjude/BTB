@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:39** 
 <small><sub>**LXX:**</sub></small>
 so that they should slay in it the \[things\] for a sin \[offering\], and the \[things\] for an ignorance \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And in the porch of the gate [were] two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.
-<small><sub>**BSB:**</sub></small>
-Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.38|<< Ezekiel 40:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.40|Ezekiel 40:40 >>]]</td></tr></table>
 
 | Translation | Greek |

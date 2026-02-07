@@ -1,12 +1,12 @@
-**1 Corinthians 12:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:12**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ.
 <small><sub>**BSB:**</sub></small>
 The body is a unit, though it is composed of many parts. And although its parts are many, they all form one body. So it is with Christ.
 <small><sub>**Literal:**</sub></small>
 Just as for the body one is and members many has all now the members of the body of the one many being one are body, so also [is] <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.11|<< 1 Corinthians 12:11]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.13|1 Corinthians 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G2509\|Καθάπερ]]</big>**  |Kathaper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

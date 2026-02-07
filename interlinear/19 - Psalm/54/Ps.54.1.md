@@ -1,12 +1,12 @@
-**Psalms 54:1** (54:3)
+**Psalms 54:1**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth, Maschil, [A Psalm] of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength.
+Save me, O God, by thy name, and judge me by thy strength.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. With stringed instruments. A Maskil of David. When the Ziphites went to Saul and said, “Is David not hiding among us?” Save me, O God, by Your name, and vindicate me by Your might!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.0|<< Psalms 54:0]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.2|Psalms 54:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by name your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

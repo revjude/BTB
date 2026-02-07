@@ -1,12 +1,12 @@
-**Matthew 15:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:6**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And honour not his father or his mother, [he shall be free]. Thus have ye made the commandment of God of none effect by your tradition.
 <small><sub>**BSB:**</sub></small>
 he need not honor his father or mother with it. Thus you nullify the word of God for the sake of your tradition.
 <small><sub>**Literal:**</sub></small>
 and certainly not he will honor the father of himself or the mother of him {6} And you made void the word <the> of God on account of the tradition of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.5|<< Matthew 15:5]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.7|Matthew 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr>[^1] | |
 | certainly |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

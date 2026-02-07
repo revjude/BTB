@@ -1,10 +1,7 @@
 **LXX Leviticus 8:20** 
 <small><sub>**LXX:**</sub></small>
 And he dressed the ram according to its limbs. And Moses offered up the head, and the limbs, and the fat; 
-<small><sub>**KJV:**</sub></small>
-And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.
-<small><sub>**BSB:**</sub></small>
-He cut the ram into pieces and burned the head, the pieces, and the fat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.19|<< Leviticus 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.21|Leviticus 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 1:11** 
 <small><sub>**LXX:**</sub></small>
 What are \[the\] multitude of your sacrifices to me, says \[the\] <span class="smallcaps">lord</span>? I am full of whole burnt-offerings of rams, and fat of lambs; and I do not want blood of bulls and he-goats. 
-<small><sub>**KJV:**</sub></small>
-To what purpose [is] the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats.
-<small><sub>**BSB:**</sub></small>
-“What good to Me is your multitude of sacrifices?” says the LORD. “I am full from the burnt offerings of rams and the fat of well-fed cattle; I take no delight in the blood of bulls and lambs and goats.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.10|<< Isaiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.12|Isaiah 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

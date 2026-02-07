@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:18** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] good  for you to hold fast by this; and indeed of this you should not defile  your hand. For \[to the\] ones fearing  God all \[things\] shall go forth. 
-<small><sub>**KJV:**</sub></small>
-[It is] good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.
-<small><sub>**BSB:**</sub></small>
-It is good to grasp the one and not let the other slip from your hand. For he who fears God will follow both warnings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.17|<< Ecclesiastes 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.19|Ecclesiastes 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

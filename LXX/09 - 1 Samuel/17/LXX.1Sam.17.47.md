@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:47** 
 <small><sub>**LXX:**</sub></small>
 And all this assembly shall know that \[it is\] not by \[the\] broadsword, and spear \[the\] <span class="smallcaps">lord</span> delivers; for the war \[is\] of the <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> shall deliver you into our hands. 
-<small><sub>**KJV:**</sub></small>
-And all this assembly shall know that the LORD saveth not with sword and spear: for the battle [is] the LORD’S, and he will give you into our hands.
-<small><sub>**BSB:**</sub></small>
-And all those assembled here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and He will give all of you into our hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.46|<< 1 Samuel 17:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.48|1 Samuel 17:48 >>]]</td></tr></table>
 
 | Translation | Greek |

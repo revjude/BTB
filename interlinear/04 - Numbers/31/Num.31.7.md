@@ -1,4 +1,4 @@
-**Numbers 31:7** 
+**Numbers 31:7**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they waged war against Midian, as the LORD had commanded Moses, and they ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.6|<< Numbers 31:6]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.8|Numbers 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they waged war  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6633\|יִּצְבְּאוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.be.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

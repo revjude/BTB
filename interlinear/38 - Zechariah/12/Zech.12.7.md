@@ -1,4 +1,4 @@
-**Zechariah 12:7** 
+**Zechariah 12:7**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify [themselves] against Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will save the tents of Judah first, so that the glory of the house of D
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.6|<< Zechariah 12:6]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.8|Zechariah 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will save  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3467\|הוֹשִׁ֧יעַ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Shi.a'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

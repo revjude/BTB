@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua made peace with them, and ordained with them a covenant, and the rulers of the congregation swore by an oath to them. 
-<small><sub>**KJV:**</sub></small>
-And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them.
-<small><sub>**BSB:**</sub></small>
-And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.14|<< Joshua 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.16|Joshua 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

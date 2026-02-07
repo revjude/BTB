@@ -1,12 +1,12 @@
-**1 Corinthians 1:30
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:30**<big><big>[[1Cor.1.26 Wisdom from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:
 <small><sub>**BSB:**</sub></small>
 It is because of Him that you are in Christ Jesus, who has become for us wisdom from God: our righteousness, holiness, and redemption.
 <small><sub>**Literal:**</sub></small>
 Out of Him however you yourselves are in Christ Jesus, who has been made wisdom unto us from God, righteousness and also sanctification and redemption,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.29|<< 1 Corinthians 1:29]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.31|1 Corinthians 1:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

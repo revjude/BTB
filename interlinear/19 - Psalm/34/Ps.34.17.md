@@ -1,4 +1,4 @@
-**Psalms 34:17** (34:18)
+**Psalms 34:17**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The righteous] cry, and the LORD heareth, and delivereth them out of all their troubles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous cry out, and the LORD hears; He delivers them from all their troub
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.16|<< Psalms 34:16]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.18|Psalms 34:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they cry out  |**<big>&#8207;[[H6817\|צָעֲק֣וּ]]&#8207; </big>**| tza.'a.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

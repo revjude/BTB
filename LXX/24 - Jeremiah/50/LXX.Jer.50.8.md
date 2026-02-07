@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:8** 
 <small><sub>**LXX:**</sub></small>
 Be separated from out of \[the\] midst of Babylon, and from \[the\] land of \[the\] Chaldeans! And go forth and become as dragons in front of sheep! 
-<small><sub>**KJV:**</sub></small>
-Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
-<small><sub>**BSB:**</sub></small>
-Flee from the midst of Babylon; depart from the land of the Chaldeans; be like the he-goats that lead the flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.7|<< Jeremiah 50:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.9|Jeremiah 50:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 50:8** is...

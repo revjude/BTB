@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:15** 
 <small><sub>**LXX:**</sub></small>
 Or I feel a want of ones overcome by convulsions that you carry him being possessed unto me? Shall this one enter into  my house, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Have I need of mad men, that ye have brought this [fellow] to play the mad man in my presence? shall this [fellow] come into my house?
-<small><sub>**BSB:**</sub></small>
-Am I in need of madmen, that you have brought this man to rave in my presence? Must this man come into my house?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.14|<< 1 Samuel 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.1|1 Samuel 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

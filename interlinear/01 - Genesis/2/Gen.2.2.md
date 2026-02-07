@@ -1,4 +1,4 @@
-**Genesis 2:2** 
+**Genesis 2:2**<big><big>[[Gen.2.1 The Seventh Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And by the seventh day God had finished the work He had been doing; so on that d
 > $\quad$ referenced by: [[Heb.4.4|Heb 4:4]] ☩ [[Heb.4.10|Heb 4:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he completed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Khal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

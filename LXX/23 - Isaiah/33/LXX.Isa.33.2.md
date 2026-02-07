@@ -1,10 +1,7 @@
 **LXX Isaiah 33:2** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, show mercy on us! for we rely upon you. The seed of the ones resisting persuasion became for destruction;  but our deliverance \[is\] in time of affliction. 
-<small><sub>**KJV:**</sub></small>
-O LORD, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.
-<small><sub>**BSB:**</sub></small>
-O LORD, be gracious to us! We wait for You. Be our strength every morning and our salvation in time of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.1|<< Isaiah 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.3|Isaiah 33:3 >>]]</td></tr></table>
 
 | Translation | Greek |

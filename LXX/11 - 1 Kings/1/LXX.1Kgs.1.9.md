@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:9** 
 <small><sub>**LXX:**</sub></small>
 And Adonijah sacrificed sheep and calves and lambs by the stone  Zoheleth, the one being next to the spring  of En-rogel. And he called all  his brethren of the sons of the king, and all the men of Judah, the servants of the king. 
-<small><sub>**KJV:**</sub></small>
-And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which [is] by Enrogel, and called all his brethren the king’s sons, and all the men of Judah the king’s servants:
-<small><sub>**BSB:**</sub></small>
-And Adonijah sacrificed sheep, oxen, and fattened calves near the stone of Zoheleth, which is next to En-rogel. He invited all his royal brothers and all the men of Judah who were servants of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.8|<< 1 Kings 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.10|1 Kings 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

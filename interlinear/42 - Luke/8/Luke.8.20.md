@@ -1,12 +1,12 @@
-**Luke 8:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:20**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was told him [by certain] which said, Thy mother and thy brethren stand without, desiring to see thee.
 <small><sub>**BSB:**</sub></small>
 He was told, “Your mother and brothers are standing outside, wanting to see You.”
 <small><sub>**Literal:**</sub></small>
 and It was told also to Him saying: The mother of You and the brothers of You have stood outside to see wanting You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.19|<< Luke 8:19]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.21|Luke 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | It was told |**<big>[[G0518\|ἀπηγγέλη]]</big>**  |apēngelē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

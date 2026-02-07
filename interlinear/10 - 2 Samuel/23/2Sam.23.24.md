@@ -1,4 +1,4 @@
-**2 Samuel 23:24** 
+**2 Samuel 23:24**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asahel the brother of Joab [was] one of the thirty; Elhanan the son of Dodo of Bethlehem,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now these were members of the Thirty: Asahel the brother of Joab, Elhanan son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.23|<< 2 Samuel 23:23]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.25|2 Samuel 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Asah-  |**<big>&#8207;[[H6214G\|עֲשָׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.sah-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -el  |**<big>&#8207;[[H6214G\|אֵ֥ל]]&#8207; </big>**| 'el<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

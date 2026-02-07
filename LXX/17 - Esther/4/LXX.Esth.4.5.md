@@ -1,10 +1,7 @@
 **LXX Esther 4:5** 
 <small><sub>**LXX:**</sub></small>
 And then Esther called on Hatach  her eunuch who stood beside her. And she sent to learn for herself from  Mordecai the exact \[situation\]. 
-<small><sub>**KJV:**</sub></small>
-Then called Esther for Hatach, [one] of the king’s chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it [was], and why it [was].
-<small><sub>**BSB:**</sub></small>
-Then Esther summoned Hathach, one of the king’s eunuchs appointed to her, and she dispatched him to Mordecai to learn what was troubling him and why.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.4|<< Esther 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.7|Esther 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

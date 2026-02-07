@@ -1,10 +1,7 @@
 **LXX Joshua 6:21** 
 <small><sub>**LXX:**</sub></small>
 And they devoted it to consumption, and as much as was in the city, from man and unto woman, from young and unto old, and unto calf and sheep and beast of burden, by \[the\] mouth of \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And they utterly destroyed all that [was] in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
-<small><sub>**BSB:**</sub></small>
-With the edge of the sword they devoted to destruction everything in the city—man and woman, young and old, oxen, sheep, and donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.20|<< Joshua 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.22|Joshua 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

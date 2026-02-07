@@ -1,4 +1,4 @@
-**Deuteronomy 24:16** 
+**Deuteronomy 24:16**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fathers shall not be put to death for their children, nor children for their fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.15|<< Deuteronomy 24:15]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.17|Deuteronomy 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be put to death  |**<big>&#8207;[[H4191\|יוּמְת֤וּ]]&#8207; </big>**| yu.me.Tu<small><sup>[[HVHi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

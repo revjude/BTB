@@ -1,10 +1,7 @@
 **LXX Genesis 17:21** 
 <small><sub>**LXX:**</sub></small>
  But my covenant I will establish with Isaac, whom Sarah shall bear to you at  this time in  another year. 
-<small><sub>**KJV:**</sub></small>
-But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
-<small><sub>**BSB:**</sub></small>
-But I will establish My covenant with Isaac, whom Sarah will bear to you at this time next year.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.20|<< Genesis 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.22|Genesis 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

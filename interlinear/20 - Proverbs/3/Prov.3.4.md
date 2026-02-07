@@ -1,4 +1,4 @@
-**Proverbs 3:4** 
+**Proverbs 3:4**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shalt thou find favour and good understanding in the sight of God and man.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then you will find favor and high regard in the sight of God and man.
 > $\quad$ referenced by: [[Rom.12.17|Rom 12:17]] ☩ [[2Cor.8.21|2Cor 8:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and find  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4672\|מְצָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.tza'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | favor  |**<big>&#8207;[[H2580\|חֵ֖ן]]&#8207; </big>**| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

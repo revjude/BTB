@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:3** 
 <small><sub>**LXX:**</sub></small>
 And the people said, You shall not go forth; for if we should flee into exile, they shall not put  us to heart. And if half of us should die they shall not put  us to heart. For you \[are\] as of us ten thousand. And now \[it is\] good that you will be with us in the city for our helper. 
-<small><sub>**KJV:**</sub></small>
-But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now [thou art] worth ten thousand of us: therefore now [it is] better that thou succour us out of the city.
-<small><sub>**BSB:**</sub></small>
-But the people pleaded, “You must not go out! For if we have to flee, they will not care about us. Even if half of us die, they will not care. But you are worth ten thousand of us. It is better now if you support us from the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.2|<< 2 Samuel 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.4|2 Samuel 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

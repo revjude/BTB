@@ -1,4 +1,4 @@
-**Psalms 55:21** (55:22)
+**Psalms 55:21**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The words] of his mouth were smoother than butter, but war [was] in his heart: his words were softer than oil, yet [were] they drawn swords.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His speech is smooth as butter, but war is in his heart. His words are softer th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.20|<< Psalms 55:20]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.22|Psalms 55:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were smooth  |**<big>&#8207;[[H2505B\|חָלְק֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chal.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] creamy things of  |**<big>&#8207;[[H4260\|מַחְמָאֹ֣ת]]&#8207; </big>**| mach.ma.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

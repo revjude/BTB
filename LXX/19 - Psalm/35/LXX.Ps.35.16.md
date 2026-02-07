@@ -1,10 +1,7 @@
 **LXX Psalm 35:16** 
 <small><sub>**LXX:**</sub></small>
 They tested me; they derided me in sneering; they gnashed against me  with their teeth. 
-<small><sub>**KJV:**</sub></small>
-With hypocritical mockers in feasts, they gnashed upon me with their teeth.
-<small><sub>**BSB:**</sub></small>
-Like godless jesters at a feast, they gnashed their teeth at me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.15|<< Psalm 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.17|Psalm 35:17 >>]]</td></tr></table>
 
 | Translation | Greek |

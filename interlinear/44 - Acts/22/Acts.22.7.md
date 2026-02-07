@@ -1,12 +1,12 @@
-**Acts 22:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:7**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?
 <small><sub>**BSB:**</sub></small>
 I fell to the ground and heard a voice say to me, ‘Saul, Saul, why do you persecute Me?’
 <small><sub>**Literal:**</sub></small>
 I fell then to the ground and heard a voice saying to me; Saul Saul, why Me persecute you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.6|<< Acts 22:6]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.8|Acts 22:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I fell |**<big>[[G4098\|ἔπεσά]]</big>**  [^1] |epesa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:34** 
 <small><sub>**LXX:**</sub></small>
 And he ascended, and bedded down upon the boy, and put  his mouth upon  his mouth, and  his eyes upon  his eyes, and  his hands upon  his hands. And he bent upon him, and warmed the flesh of the boy. 
-<small><sub>**KJV:**</sub></small>
-And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands: and he stretched himself upon the child; and the flesh of the child waxed warm.
-<small><sub>**BSB:**</sub></small>
-Then Elisha got on the bed and lay on the boy, mouth to mouth, eye to eye, and hand to hand. As he stretched himself out over him, the boy’s body became warm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.33|<< 2 Kings 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.35|2 Kings 4:35 >>]]</td></tr></table>
 
 | Translation | Greek |

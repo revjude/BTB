@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:42** 
 <small><sub>**LXX:**</sub></small>
 And with them Heman and Jeduthun \[with\] trumpets and cymbals  to sound out loud, and instruments for the odes  of God. And the sons of Jeduthun \[were\] at the gate. 
-<small><sub>**KJV:**</sub></small>
-And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun [were] porters.
-<small><sub>**BSB:**</sub></small>
-Heman and Jeduthun had with them trumpets and cymbals for the music and instruments for the songs of God. And the sons of Jeduthun were stationed at the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.41|<< 1 Chronicles 16:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.43|1 Chronicles 16:43 >>]]</td></tr></table>
 
 | Translation | Greek |

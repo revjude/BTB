@@ -1,4 +1,4 @@
-**2 Kings 6:12** 
+**2 Kings 6:12**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one of his servants said, None, my lord, O king: but Elisha, the prophet that [is] in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But one of his servants replied, “No one, my lord the king. For Elisha, the pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.11|<< 2 Kings 6:11]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.13|2 Kings 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אַחַ֣ד]]&#8207; </big>**| 'a.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

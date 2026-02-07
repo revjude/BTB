@@ -1,10 +1,7 @@
 **LXX Hosea 9:17** 
 <small><sub>**LXX:**</sub></small>
 God shall thrust them away, for they hearkened not to him; and they will be wanderers among the nations. 
-<small><sub>**KJV:**</sub></small>
-My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.
-<small><sub>**BSB:**</sub></small>
-My God will reject them because they have not obeyed Him; and they shall be wanderers among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.16|<< Hosea 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.1|Hosea 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that Absalom prepared for himself chariots, and horsemen, and fifty men to run along in front of him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
-<small><sub>**BSB:**</sub></small>
-Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.33|<< 2 Samuel 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.2|2 Samuel 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 30:17** 
+**Proverbs 30:17**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the eye that mocks a father and scorns obedience to a mother, may the rav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an eye  |**<big>&#8207;[[H5869A\|עַ֤יִן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] it mocks  |**<big>&#8207;[[H3932\|תִּֽלְעַ֣ג]]&#8207; </big>**| til.'Ag<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

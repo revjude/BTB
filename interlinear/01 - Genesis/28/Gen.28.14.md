@@ -1,4 +1,4 @@
-**Genesis 28:14** 
+**Genesis 28:14**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your descendants will be like the dust of the earth, and you will spread out to 
 > $\quad$ referenced by: [[Acts.3.25|Acts 3:25]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | offspring your  |**<big>&#8207;[[H2233H\|זַרְעֲ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| zar.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

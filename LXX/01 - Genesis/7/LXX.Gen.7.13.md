@@ -1,10 +1,7 @@
 **LXX Genesis 7:13** 
 <small><sub>**LXX:**</sub></small>
 In  this day entered Noah, Shem, Ham, Japheth, the sons of Noah, and the wife of Noah, and the three wives  of his sons with him into the ark. 
-<small><sub>**KJV:**</sub></small>
-In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;
-<small><sub>**BSB:**</sub></small>
-On that very day Noah entered the ark, along with his sons Shem, Ham, and Japheth, and his wife, and the three wives of his sons—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.12|<< Genesis 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.14|Genesis 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

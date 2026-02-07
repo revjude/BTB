@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:24** 
 <small><sub>**LXX:**</sub></small>
 And all the kings of the earth sought the face of Solomon  to hear  of his intellect, which \[the\] <span class="smallcaps">lord</span> put in  his heart. 
-<small><sub>**KJV:**</sub></small>
-And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.
-<small><sub>**BSB:**</sub></small>
-The whole world sought an audience with Solomon to hear the wisdom that God had put in his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.23|<< 1 Kings 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.25|1 Kings 10:25 >>]]</td></tr></table>
 
 | Translation | Greek |

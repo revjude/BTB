@@ -1,4 +1,4 @@
-**Psalms 116:8** 
+**Psalms 116:8**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast delivered my soul from death, mine eyes from tears, [and] my feet from falling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You have delivered my soul from death, my eyes from tears, my feet from stum
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.7|<< Psalms 116:7]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.9|Psalms 116:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have rescued  |**<big>&#8207;[[H2502A\|חִלַּ֥צְתָּ]]&#8207; </big>**| chi.Latz.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

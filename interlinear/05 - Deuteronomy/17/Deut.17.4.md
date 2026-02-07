@@ -1,4 +1,4 @@
-**Deuteronomy 17:4** 
+**Deuteronomy 17:4**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it be told thee, and thou hast heard [of it], and inquired diligently, and, behold, [it be] true, [and] the thing certain, [that] such abomination is wrought in Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if it is reported and you hear about it, you must investigate it thoroughly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be told  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5046\|הֻֽגַּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.gad-<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

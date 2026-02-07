@@ -1,4 +1,4 @@
-**Psalms 51:15** (51:17)
+**Psalms 51:15**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, open thou my lips; and my mouth shall shew forth thy praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, open my lips, and my mouth will declare Your praise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.14|<< Psalms 51:14]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.16|Psalms 51:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Lord  |**<big>&#8207;[[H0136\|אֲ֭דֹנָי]]&#8207; </big>**| 'A.do.nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lips my  |**<big>&#8207;[[H8193G\|שְׂפָתַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| se.fa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

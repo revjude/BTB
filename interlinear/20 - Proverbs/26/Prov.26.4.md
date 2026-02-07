@@ -1,4 +1,4 @@
-**Proverbs 26:4** 
+**Proverbs 26:4**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Answer not a fool according to his folly, lest thou also be like unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not answer a fool according to his folly, or you yourself will be like him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you answer  |**<big>&#8207;[[H6030B\|תַּ֣עַן]]&#8207; </big>**| Ta.'an<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

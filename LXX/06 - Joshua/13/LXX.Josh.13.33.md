@@ -1,10 +1,7 @@
 **LXX Joshua 13:33** 
 <small><sub>**LXX:**</sub></small>
 And to the tribe of Levi Moses did not give an inheritance. \[The\] <span class="smallcaps">lord</span>  God of Israel, he \[is\] their inheritance in which manner he said to them. 
-<small><sub>**KJV:**</sub></small>
-But unto the tribe of Levi Moses gave not [any] inheritance: the LORD God of Israel [was] their inheritance, as he said unto them.
-<small><sub>**BSB:**</sub></small>
-To the tribe of Levi, however, Moses had given no inheritance. The LORD, the God of Israel, is their inheritance, just as He had promised them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.32|<< Joshua 13:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.1|Joshua 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 5:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:13**<big><big>[[Heb.5.11 Milk and Solid Food|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every one that useth milk [is] unskilful in the word of righteousness: for he is a babe.
 <small><sub>**BSB:**</sub></small>
 For everyone who lives on milk is still an infant, inexperienced in the message of righteousness.
 <small><sub>**Literal:**</sub></small>
 Everyone for who is partaking [only] of milk [is] inexperienced in [the] word of righteousness; an infant for he is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.12|<< Hebrews 5:12]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.14|Hebrews 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

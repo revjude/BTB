@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:25** 
 <small><sub>**LXX:**</sub></small>
 And if the rulers should hear that I spoke to you, and they should come to you, and should say to you; Announce to us what you spoke to the king, you should not hide \[it\] from us, then in no way will we do away with you; and what did the king say to you? 
-<small><sub>**KJV:**</sub></small>
-But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:
-<small><sub>**BSB:**</sub></small>
-If the officials hear that I have spoken with you, and they come and demand of you, ‘Tell us what you said to the king and what he said to you; do not hide it from us, or we will kill you,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.24|<< Jeremiah 38:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.26|Jeremiah 38:26 >>]]</td></tr></table>
 
 | Translation | Greek |

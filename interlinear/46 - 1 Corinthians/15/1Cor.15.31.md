@@ -1,12 +1,12 @@
-**1 Corinthians 15:31
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:31**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
 <small><sub>**BSB:**</sub></small>
 I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.
 <small><sub>**Literal:**</sub></small>
 Every day I die, as surely as <the> in you boasting, brothers which I have in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.30|<< 1 Corinthians 15:30]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.32|1 Corinthians 15:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G2596\|καθ᾽]]</big>**  |kath᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | day |**<big>[[G2250\|ἡμέραν]]</big>**  |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

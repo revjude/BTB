@@ -1,12 +1,12 @@
-**Matthew 26:50
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:50**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.
 <small><sub>**BSB:**</sub></small>
 “Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said to him; Friend, [do] for what you are come. Then having come to [him] they laid <the> hands on <the> Jesus and seized Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.49|<< Matthew 26:49]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.51|Matthew 26:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

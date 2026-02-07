@@ -1,4 +1,4 @@
-**Ezekiel 18:17** 
+**Ezekiel 18:17**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] hath taken off his hand from the poor, [that] hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He withholds his hand from harming the poor and takes no interest or usury. He k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.16|<< Ezekiel 18:16]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.18|Ezekiel 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] poor  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6041\|עָנִ֞י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has turned away  |**<big>&#8207;[[H7725I\|הֵשִׁ֣יב]]&#8207; </big>**| he.Shiv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

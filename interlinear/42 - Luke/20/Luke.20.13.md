@@ -1,12 +1,12 @@
-**Luke 20:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:13**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence [him] when they see him.
 <small><sub>**BSB:**</sub></small>
 ‘What shall I do?’ asked the owner of the vineyard. ‘I will send my beloved son. Perhaps they will respect him.’
 <small><sub>**Literal:**</sub></small>
 Said then the master of the vineyard; What shall I do? I will send the son of mine the beloved; perhaps him having seen they will respect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.12|<< Luke 20:12]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.14|Luke 20:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

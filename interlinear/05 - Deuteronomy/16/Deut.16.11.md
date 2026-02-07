@@ -1,4 +1,4 @@
-**Deuteronomy 16:11** 
+**Deuteronomy 16:11**<big><big>[[Deut.16.9 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that [is] within thy gates, and the stranger, and the fatherless, and the widow, that [are] among you, in the place which the LORD thy God hath chosen to place his name there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and you shall rejoice before the LORD your God in the place He will choose as a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.10|<< Deuteronomy 16:10]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.12|Deuteronomy 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will rejoice  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8055\|שָׂמַחְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.mach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

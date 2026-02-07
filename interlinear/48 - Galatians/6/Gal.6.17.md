@@ -1,12 +1,12 @@
-**Galatians 6:17
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:17**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 From now on let no one cause me trouble, for I bear on my body the marks of Jesus.
 <small><sub>**Literal:**</sub></small>
 The henceforth troubles to me no one should give; I myself for the marks of the Lord Jesus on of the body of mine bear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.16|<< Galatians 6:16]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.18|Galatians 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τοῦ]]</big>**  |Tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | henceforth |**<big>[[G3064\|λοιποῦ]]</big>**  |loipou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 63:2** 
 <small><sub>**LXX:**</sub></small>
 Thus in the holy place I appeared to you,  to behold  your power and  your glory. 
-<small><sub>**KJV:**</sub></small>
-To see thy power and thy glory, so [as] I have seen thee in the sanctuary.
-<small><sub>**BSB:**</sub></small>
-So I have seen You in the sanctuary and beheld Your power and glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.1|<< Psalm 63:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.3|Psalm 63:3 >>]]</td></tr></table>
 
 | Translation | Greek |

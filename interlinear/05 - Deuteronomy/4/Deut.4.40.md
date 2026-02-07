@@ -1,4 +1,4 @@
-**Deuteronomy 4:40** 
+**Deuteronomy 4:40**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong [thy] days upon the earth, which the LORD thy God giveth thee, for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep His statutes and commandments, which I am giving you today, so that you and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.39|<< Deuteronomy 4:39]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.41|Deuteronomy 4:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104G\|שָׁמַרְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

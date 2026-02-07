@@ -1,4 +1,4 @@
-**Psalms 69:23** (69:24)
+**Psalms 69:23**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let their eyes be darkened, that they see not; and make their loins continually to shake.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May their eyes be darkened so they cannot see, and their backs be bent forever.
 > $\quad$ referenced by: [[Rom.11.9|Rom 11:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they grow dim  |**<big>&#8207;[[H2821\|תֶּחְשַׁ֣כְנָה]]&#8207; </big>**| tech.Shakh.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes their  |**<big>&#8207;[[H5869A\|עֵ֭ינֵי]]&#8207;&#8207;[[H9028\|הֶם]]&#8207; </big>**| 'Ei.nei.<small><sup>[[HNcfdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

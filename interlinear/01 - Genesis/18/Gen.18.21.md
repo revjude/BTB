@@ -1,4 +1,4 @@
-**Genesis 18:21** 
+**Genesis 18:21**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will go down to see if their actions fully justify the outcry that has reached
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.20|<< Genesis 18:20]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.22|Genesis 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will go down  |**<big>&#8207;[[H3381\|אֵֽרֲדָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ra.dah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

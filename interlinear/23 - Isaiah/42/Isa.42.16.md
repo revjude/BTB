@@ -1,4 +1,4 @@
-**Isaiah 42:16** 
+**Isaiah 42:16**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring the blind by a way [that] they knew not; I will lead them in paths [that] they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will lead the blind by a way they did not know; I will guide them on unfamilia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.15|<< Isaiah 42:15]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.17|Isaiah 42:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will lead  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980J\|הוֹלַכְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.lakh.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blind [people]  |**<big>&#8207;[[H5787\|עִוְרִ֗ים]]&#8207; </big>**| 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

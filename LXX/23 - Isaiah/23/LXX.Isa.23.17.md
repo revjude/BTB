@@ -1,10 +1,7 @@
 **LXX Isaiah 23:17** 
 <small><sub>**LXX:**</sub></small>
 And it will be after the seventy years, God will make a visit to Tyre, and again she shall be restored to  \[her\] ancient \[state\]; and she shall be a market-place for all the kingdoms of the inhabitable world upon \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass after the end of seventy years, that the LORD will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth.
-<small><sub>**BSB:**</sub></small>
-And at the end of seventy years, the LORD will restore Tyre. Then she will return to hire as a prostitute and sell herself to all the kingdoms on the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.16|<< Isaiah 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.18|Isaiah 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

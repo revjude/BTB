@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:35** 
 <small><sub>**LXX:**</sub></small>
 Who among all the gods of the lands \[is the one\] who rescued  his land from out of my hand, that \[the\] <span class="smallcaps">lord</span> shall rescue  Jerusalem from out of my hand? 
-<small><sub>**KJV:**</sub></small>
-Who [are] they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?
-<small><sub>**BSB:**</sub></small>
-Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.34|<< 2 Kings 18:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.36|2 Kings 18:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:8** 
 <small><sub>**LXX:**</sub></small>
 And I will cleanse them from all  their iniquities which they sinned against me. And in no way shall I remember their sins which they sinned against me, and separated from me. 
-<small><sub>**KJV:**</sub></small>
-And I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me.
-<small><sub>**BSB:**</sub></small>
-And I will cleanse them from all the iniquity they have committed against Me, and will forgive all their sins of rebellion against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

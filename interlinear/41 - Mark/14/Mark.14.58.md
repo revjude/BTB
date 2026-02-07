@@ -1,12 +1,12 @@
-**Mark 14:58
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:58**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.
 <small><sub>**BSB:**</sub></small>
 “We heard Him say, ‘I will destroy this man-made temple, and in three days I will build another that is made without hands.’”
 <small><sub>**Literal:**</sub></small>
 that We ourselves heard when he is saying that I myself will destroy <the> temple this the [one] made with hands and in three days another not made with hands I will build.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.57|<< Mark 14:57]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.59|Mark 14:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

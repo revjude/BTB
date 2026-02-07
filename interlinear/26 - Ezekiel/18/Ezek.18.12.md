@@ -1,4 +1,4 @@
-**Ezekiel 18:12** 
+**Ezekiel 18:12**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He oppresses the poor and needy; he commits robbery and does not restore a pledg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.11|<< Ezekiel 18:11]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.13|Ezekiel 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] poor  |**<big>&#8207;[[H6041\|עָנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] needy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0034\|אֶבְיוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ev.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

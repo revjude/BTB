@@ -1,10 +1,7 @@
 **LXX Daniel 12:3** 
 <small><sub>**LXX:**</sub></small>
 And the ones perceiving shall shine forth as the brightness of the firmament; and of the many righteous as the stars into the eons and still. 
-<small><sub>**KJV:**</sub></small>
-And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
-<small><sub>**BSB:**</sub></small>
-Then the wise will shine like the brightness of the heavens, and those who lead many to righteousness will shine like the stars forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.2|<< Daniel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.4|Daniel 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

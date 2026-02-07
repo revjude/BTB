@@ -1,4 +1,4 @@
-**Daniel 7:6** 
+**Daniel 7:6**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Next, as I watched, suddenly another beast appeared. It was like a leopard, and 
 > $\quad$ referenced by: [[Rev.13.2|Rev 13:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0870\|בָּאתַ֨ר]]&#8207; </big>**| ba.Tar<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H1836\|דְּנָ֜ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

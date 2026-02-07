@@ -1,12 +1,12 @@
-**2 Corinthians 1:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:18**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But [as] God [is] true, our word toward you was not yea and nay.
 <small><sub>**BSB:**</sub></small>
 But as surely as God is faithful, our message to you is not “Yes” and “No.”
 <small><sub>**Literal:**</sub></small>
 Faithful however <the> God [is], that the word of us <the> to you not was Yes and No;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.17|<< 2 Corinthians 1:17]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.19|2 Corinthians 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Faithful |**<big>[[G4103\|πιστὸς]]</big>**  |pistos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

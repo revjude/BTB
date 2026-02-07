@@ -1,10 +1,7 @@
 **LXX Judges 20:16** 
 <small><sub>**LXX:**</sub></small>
 These numbered seven hundred chosen men from all of the people, ambidextrous; all these \[were\] slingers casting stones \[accurate\] to the hair, and not missing. 
-<small><sub>**KJV:**</sub></small>
-Among all this people [there were] seven hundred chosen men lefthanded; every one could sling stones at an hair [breadth], and not miss.
-<small><sub>**BSB:**</sub></small>
-Among all these soldiers there were 700 select left-handers, each of whom could sling a stone at a hair without missing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.15|<< Judges 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.17|Judges 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

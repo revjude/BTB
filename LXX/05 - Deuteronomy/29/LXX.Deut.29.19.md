@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:19** 
 <small><sub>**LXX:**</sub></small>
 And it shall be if you should hear the words  of this imprecation, and \[one\] should portend in  his heart, saying, happen sacred \[things\] to me, for I shall go by the digression of my heart, that the sinner should not be destroyed together with the sinless, 
-<small><sub>**KJV:**</sub></small>
-And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
-<small><sub>**BSB:**</sub></small>
-because when such a person hears the words of this oath, he invokes a blessing on himself, saying, ‘I will have peace, even though I walk in the stubbornness of my own heart.’ This will bring disaster on the watered land as well as the dry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.18|<< Deuteronomy 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.20|Deuteronomy 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

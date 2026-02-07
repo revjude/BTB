@@ -1,5 +1,5 @@
-**2 Peter 2:5
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:5**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And spared not the old world, but saved Noah the eighth [person], a preacher of righteousness, bringing in the flood upon the world of the ungodly;
 <small><sub>**BSB:**</sub></small>
 if He did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight;
@@ -10,7 +10,7 @@ and [the] ancient world not He spared, but one of eight Noah of righteousness a 
 > $\quad$ alluding to: [[LXX.Gen.7.23|Gen 7:23]] ☩ [[LXX.Gen.8.1|Gen 8:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] ancient |**<big>[[G0744\|ἀρχαίου]]</big>**  |archaiou <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

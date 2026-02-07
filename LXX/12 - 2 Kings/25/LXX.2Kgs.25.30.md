@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:30** 
 <small><sub>**LXX:**</sub></small>
 And  his feasting \[was\] a feasting always given to him from out of \[the\] house of the king -- a day's reckoning in  his day, all the days  of his life. 
-<small><sub>**KJV:**</sub></small>
-And his allowance [was] a continual allowance given him of the king, a daily rate for every day, all the days of his life.
-<small><sub>**BSB:**</sub></small>
-And the king provided Jehoiachin a daily portion for the rest of his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.29|<< 2 Kings 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.1|1 Chronicles 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

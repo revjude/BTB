@@ -6,10 +6,7 @@ A psalm \[to\] David; to  Goliath.
 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  my God; the one teaching  my hands for battle array,  \[and\] my fingers for war; 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Blessed [be] the LORD my strength, which teacheth my hands to war, [and] my fingers to fight:
-<small><sub>**BSB:**</sub></small>
-Of David. Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.12|<< Psalm 143:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.2|Psalm 144:2 >>]]</td></tr></table>
 
 | Translation | Greek |

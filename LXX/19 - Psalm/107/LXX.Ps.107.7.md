@@ -1,10 +1,7 @@
 **LXX Psalm 107:7** 
 <small><sub>**LXX:**</sub></small>
 And he guided them in \[the\] straight way,  to go into a city of habitation. 
-<small><sub>**KJV:**</sub></small>
-And he led them forth by the right way, that they might go to a city of habitation.
-<small><sub>**BSB:**</sub></small>
-He led them on a straight path to reach a city where they could live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.6|<< Psalm 107:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.8|Psalm 107:8 >>]]</td></tr></table>
 
 | Translation | Greek |

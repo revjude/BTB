@@ -1,12 +1,12 @@
-**Hebrews 10:26
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:26**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 <small><sub>**BSB:**</sub></small>
 If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains,
 <small><sub>**Literal:**</sub></small>
 [If] willingly for sin we after [we are] <the> to receive the knowledge of the truth no longer for sins remains a sacrifice,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.25|<< Hebrews 10:25]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.27|Hebrews 10:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [If] willingly |**<big>[[G1596\|Ἑκουσίως]]</big>**  |Hekousiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

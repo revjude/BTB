@@ -1,10 +1,7 @@
 **LXX Psalm 119:6** 
 <small><sub>**LXX:**</sub></small>
 then in no way should I be ashamed in  my paying attention concerning all  of your commandments. 
-<small><sub>**KJV:**</sub></small>
-Then shall I not be ashamed, when I have respect unto all thy commandments.
-<small><sub>**BSB:**</sub></small>
-Then I would not be ashamed when I consider all Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.5|<< Psalm 119:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.7|Psalm 119:7 >>]]</td></tr></table>
 
 | Translation | Greek |

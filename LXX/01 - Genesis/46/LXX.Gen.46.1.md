@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Israel departing, and all  of his, he came upon the Well of the Oath. And he sacrificed a sacrifice to the God  of his father Isaac. 
-<small><sub>**KJV:**</sub></small>
-And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.
-<small><sub>**BSB:**</sub></small>
-So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.28|<< Genesis 45:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.2|Genesis 46:2 >>]]</td></tr></table>
 
 | Translation | Greek |

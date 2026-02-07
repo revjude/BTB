@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:12** 
 <small><sub>**LXX:**</sub></small>
 And the men of the support \[camp\] responded to Jonathan and to the one carrying  his weapons, and they say, Ascend to us! and we will make known to you a thing. And Jonathan said to the one carrying  his weapons, You ascend after me! for \[the\] <span class="smallcaps">lord</span> has delivered them into \[the\] hands of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the men of the garrison answered Jonathan and his armourbearer, and said, Come up to us, and we will shew you a thing. And Jonathan said unto his armourbearer, Come up after me: for the LORD hath delivered them into the hand of Israel.
-<small><sub>**BSB:**</sub></small>
-So the men of the outpost called out to Jonathan and his armor-bearer, “Come on up, and we will teach you a lesson!” “Follow me,” Jonathan told his armor-bearer, “for the LORD has delivered them into the hand of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.11|<< 1 Samuel 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.13|1 Samuel 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

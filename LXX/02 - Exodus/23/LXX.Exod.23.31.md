@@ -1,10 +1,7 @@
 **LXX Exodus 23:31** 
 <small><sub>**LXX:**</sub></small>
 And I will establish  your boundaries from the red sea unto the sea of the Philistines; and from the wilderness unto the river of the great Euphrates. And I will deliver up into  your hands the ones lying in wait in the land; and I will cast them from you. 
-<small><sub>**KJV:**</sub></small>
-And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
-<small><sub>**BSB:**</sub></small>
-And I will establish your borders from the Red Sea to the Sea of the Philistines, and from the desert to the Euphrates. For I will deliver the inhabitants into your hand, and you will drive them out before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.30|<< Exodus 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.32|Exodus 23:32 >>]]</td></tr></table>
 
 | Translation | Greek |

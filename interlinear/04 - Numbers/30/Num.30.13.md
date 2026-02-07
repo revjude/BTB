@@ -1,4 +1,4 @@
-**Numbers 30:13** (30:14)
+**Numbers 30:13**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her husband may confirm or nullify any vow or any sworn pledge to deny herself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.12|<< Numbers 30:12]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.14|Numbers 30:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vow  |**<big>&#8207;[[H5088\|נֵ֛דֶר]]&#8207; </big>**| Ne.der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 31:7** (31:8)
+**Psalms 31:7**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will be glad and rejoice in Your loving devotion, for You have seen my afflict
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.6|<< Psalms 31:6]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.8|Psalms 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will rejoice  |**<big>&#8207;[[H1523\|אָגִ֥ילָה]]&#8207; </big>**| 'a.Gi.lah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will be glad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|אֶשְׂמְחָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.me.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

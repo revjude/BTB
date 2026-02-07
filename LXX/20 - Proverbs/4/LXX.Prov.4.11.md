@@ -1,10 +1,7 @@
 **LXX Proverbs 4:11** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] ways of wisdom I teach you; and on board you straight tracks. 
-<small><sub>**KJV:**</sub></small>
-I have taught thee in the way of wisdom; I have led thee in right paths.
-<small><sub>**BSB:**</sub></small>
-I will guide you in the way of wisdom; I will lead you on straight paths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.10|<< Proverbs 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.12|Proverbs 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

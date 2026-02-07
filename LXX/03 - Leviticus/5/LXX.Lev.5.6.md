@@ -1,10 +1,7 @@
 **LXX Leviticus 5:6** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring for which he trespassed \[against\] the <span class="smallcaps">lord</span>, for the sin of which he sinned, a female from the sheep, a ewe-lamb or a yearling of \[the\] goats for a sin \[offering\]. And the priest shall atone for him for the sin which he sinned, and the sin will be forgiven him. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
-<small><sub>**BSB:**</sub></small>
-and he must bring his guilt offering to the LORD for the sin he has committed: a female lamb or goat from the flock as a sin offering. And the priest will make atonement for him concerning his sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.5|<< Leviticus 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.7|Leviticus 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

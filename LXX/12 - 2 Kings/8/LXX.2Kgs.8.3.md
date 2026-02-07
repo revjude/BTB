@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:3** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the end of the seven years, that the woman returned from out of \[the\] land of \[the\] philistines. And she went to yell to the king on account of  her house, and on account of  her fields. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the seven years’ end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land.
-<small><sub>**BSB:**</sub></small>
-At the end of seven years, when the woman returned from the land of the Philistines, she went to the king to appeal for her house and her land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.2|<< 2 Kings 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.4|2 Kings 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

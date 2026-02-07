@@ -1,4 +1,4 @@
-**Genesis 47:19** 
+**Genesis 47:19**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give [us] seed, that we may live, and not die, that the land be not desolate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should we perish before your eyes—we and our land as well? Purchase us and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.18|<< Genesis 47:18]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.20|Genesis 47:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֧]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will we die  |**<big>&#8207;[[H4191\|נָמ֣וּת]]&#8207; </big>**| na.Mut<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

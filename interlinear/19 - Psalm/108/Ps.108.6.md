@@ -1,4 +1,4 @@
-**Psalms 108:6** (108:7)
+**Psalms 108:6**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thy beloved may be delivered: save [with] thy right hand, and answer me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Respond and save us with Your right hand, that Your beloved may be delivered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.5|<< Psalms 108:5]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.7|Psalms 108:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְ֭מַעַן]]&#8207; </big>**| Le.ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may be rescued !  |**<big>&#8207;[[H2502A\|יֵחָלְצ֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.chal.Tzu<small><sup>[[HVNj3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

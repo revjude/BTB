@@ -1,4 +1,4 @@
-**1 Chronicles 2:53** 
+**1 Chronicles 2:53**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.52|<< 1 Chronicles 2:52]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.54|1 Chronicles 2:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] clans of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחוֹת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.pe.chOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kiriath  |**<big>&#8207;[[H7157\|קִרְיַ֣ת]]&#8207; </big>**| kir.Yat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

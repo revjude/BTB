@@ -1,10 +1,7 @@
 **LXX Leviticus 5:10** 
 <small><sub>**LXX:**</sub></small>
 And the second \[one\] he shall offer for a whole offering as is fit. And the priest shall atone for him for  his sin which he sinned, and it shall be forgiven him. 
-<small><sub>**KJV:**</sub></small>
-And he shall offer the second [for] a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.
-<small><sub>**BSB:**</sub></small>
-And the priest must prepare the second bird as a burnt offering according to the ordinance. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.9|<< Leviticus 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.11|Leviticus 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

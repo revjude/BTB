@@ -1,10 +1,7 @@
 **LXX Isaiah 59:14** 
 <small><sub>**LXX:**</sub></small>
 And we left behind  equity, and  righteousness removed far off. For the truth was consumed in their ways, and they were not able to go by a straight \[way\]. 
-<small><sub>**KJV:**</sub></small>
-And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
-<small><sub>**BSB:**</sub></small>
-So justice is turned away, and righteousness stands at a distance. For truth has stumbled in the public square, and honesty cannot enter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.13|<< Isaiah 59:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.15|Isaiah 59:15 >>]]</td></tr></table>
 
 | Translation | Greek |

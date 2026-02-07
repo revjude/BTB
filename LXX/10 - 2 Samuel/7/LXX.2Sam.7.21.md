@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:21** 
 <small><sub>**LXX:**</sub></small>
 Because of  your word, and because of  your servant, you have acted, and according to  your heart you have done all  this greatness, to make known \[to\] your servant; 
-<small><sub>**KJV:**</sub></small>
-For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know [them].
-<small><sub>**BSB:**</sub></small>
-For the sake of Your word and according to Your own heart, You have accomplished this great thing and revealed it to Your servant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.20|<< 2 Samuel 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.22|2 Samuel 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 4:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:10**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
 <small><sub>**BSB:**</sub></small>
 We always carry around in our body the death of Jesus, so that the life of Jesus may also be revealed in our body.
 <small><sub>**Literal:**</sub></small>
 always the death of the Lord Jesus in <the> [our] body carrying around, so that also the life <the> of Jesus in the body of us may be manifested;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.9|<< 2 Corinthians 4:9]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.11|2 Corinthians 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | always |**<big>[[G3842\|πάντοτε]]</big>**  |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

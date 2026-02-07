@@ -1,10 +1,7 @@
 **LXX Ezra 10:44** 
 <small><sub>**LXX:**</sub></small>
 All these took alien wives; and also there are of them sons of the wives in which they engendered of them. 
-<small><sub>**KJV:**</sub></small>
-All these had taken strange wives: and [some] of them had wives by whom they had children.
-<small><sub>**BSB:**</sub></small>
-All these men had married foreign women, and some of them had children by these wives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

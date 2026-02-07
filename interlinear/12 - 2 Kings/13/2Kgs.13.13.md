@@ -1,4 +1,4 @@
-**2 Kings 13:13** 
+**2 Kings 13:13**<big><big>[[2Kgs.13.10 Jehoash Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehoash rested with his fathers, and Jeroboam succeeded him on the throne. J
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.12|<< 2 Kings 13:12]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.14|2 Kings 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joash  |**<big>&#8207;[[H3101J\|יוֹאָשׁ֙]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

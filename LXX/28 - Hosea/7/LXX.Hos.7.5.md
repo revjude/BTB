@@ -1,10 +1,7 @@
 **LXX Hosea 7:5** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] days  of our kings the rulers began to be enraged from wine; he stretched out  his hands with pestilent ones. 
-<small><sub>**KJV:**</sub></small>
-In the day of our king the princes have made [him] sick with bottles of wine; he stretched out his hand with scorners.
-<small><sub>**BSB:**</sub></small>
-The princes are inflamed with wine on the day of our king; so he joins hands with those who mock him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.4|<< Hosea 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.6|Hosea 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

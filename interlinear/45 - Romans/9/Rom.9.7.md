@@ -1,5 +1,5 @@
-**Romans 9:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:7**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither, because they are the seed of Abraham, [are they] all children: but, In Isaac shall thy seed be called.
 <small><sub>**BSB:**</sub></small>
 Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”
@@ -10,7 +10,7 @@ Nor because they are seed of Abraham [are] all children, rather In Isaac will be
 > $\quad$ referencing: [[LXX.Gen.21.12|Gen 21:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nor |**<big>[[G3761\|οὐδ᾽]]</big>**  |oud᾽ <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

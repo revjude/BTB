@@ -1,12 +1,12 @@
-**James 1:17
-**<small><sub>**KJV:**</sub></small>
+**James 1:17**<big><big>[[Jas.1.13 Good and Perfect Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
 <small><sub>**BSB:**</sub></small>
 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, with whom there is no change or shifting shadow.
 <small><sub>**Literal:**</sub></small>
 Every act of giving good and every gift perfect from above is coming down from the Father <the> of lights with whom not there is variation or of shifting shadow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.16|<< James 1:16]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.18|James 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶσα]]</big>**  |pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | act of giving |**<big>[[G1394\|δόσις]]</big>**  |dosis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

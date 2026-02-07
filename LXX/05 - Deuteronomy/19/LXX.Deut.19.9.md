@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:9** 
 <small><sub>**LXX:**</sub></small>
 if you should listen to do all  these commandments which I give charge to you today, to love \[the\] <span class="smallcaps">lord</span>  your God, to go in all  his ways all the days; then you shall add to yourself again three cities to  these three. 
-<small><sub>**KJV:**</sub></small>
-If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
-<small><sub>**BSB:**</sub></small>
-and if you carefully keep all these commandments I am giving you today, loving the LORD your God and walking in His ways at all times, then you are to add three more cities to these three.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.8|<< Deuteronomy 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.10|Deuteronomy 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

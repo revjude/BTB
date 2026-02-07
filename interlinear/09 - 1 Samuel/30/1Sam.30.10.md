@@ -1,4 +1,4 @@
-**1 Samuel 30:10** 
+**1 Samuel 30:10**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because two hundred men were too exhausted to cross the brook. But David and fou
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.9|<< 1 Samuel 30:9]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.11|1 Samuel 30:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדֹּ֣ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Dof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

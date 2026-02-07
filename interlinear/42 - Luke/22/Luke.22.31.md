@@ -1,12 +1,12 @@
-**Luke 22:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:31**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord said, Simon, Simon, behold, Satan hath desired [to have] you, that he may sift [you] as wheat:
 <small><sub>**BSB:**</sub></small>
 Simon, Simon, Satan has asked to sift all of you like wheat.
 <small><sub>**Literal:**</sub></small>
 said now <the> Lord: Simon Simon, Behold <the> Satan demanded to have all of you <the> to sift like <the> wheat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.30|<< Luke 22:30]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.32|Luke 22:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |

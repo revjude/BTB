@@ -1,10 +1,7 @@
 **LXX Exodus 25:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall gild it with pure gold; from inside and from outside you shall gild it. And you shall make \[for\] it a waved border of gold, twisted round about. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.
-<small><sub>**BSB:**</sub></small>
-Overlay it with pure gold both inside and out, and make a gold molding around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.10|<< Exodus 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.12|Exodus 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

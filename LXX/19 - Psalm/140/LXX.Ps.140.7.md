@@ -1,10 +1,7 @@
 **LXX Psalm 140:7** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">Lord</span>, O Lord, \[the\] power  of my deliverance. You shadowed over  my head in \[the\] day of battle. 
-<small><sub>**KJV:**</sub></small>
-O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle.
-<small><sub>**BSB:**</sub></small>
-O GOD the Lord, the strength of my salvation, You shield my head in the day of battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.6|<< Psalm 140:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.8|Psalm 140:8 >>]]</td></tr></table>
 
 | Translation | Greek |

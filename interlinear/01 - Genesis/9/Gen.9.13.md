@@ -1,4 +1,4 @@
-**Genesis 9:13** 
+**Genesis 9:13**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have set My rainbow in the clouds, and it will be a sign of the covenant betwe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.12|<< Genesis 9:12]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.14|Genesis 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bow my  |**<big>&#8207;[[H7198\|קַשְׁתִּ֕]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kash.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

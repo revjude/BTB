@@ -1,10 +1,7 @@
 **LXX Leviticus 25:42** 
 <small><sub>**LXX:**</sub></small>
 Because these are my servants whom I led out of \[the\] land of Egypt. They shall not be sold in a sale of a domestic servant. 
-<small><sub>**KJV:**</sub></small>
-For they [are] my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
-<small><sub>**BSB:**</sub></small>
-Because the Israelites are My servants, whom I brought out of the land of Egypt, they are not to be sold as slaves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.41|<< Leviticus 25:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.43|Leviticus 25:43 >>]]</td></tr></table>
 
 | Translation | Greek |

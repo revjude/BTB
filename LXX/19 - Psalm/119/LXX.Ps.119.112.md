@@ -1,10 +1,7 @@
 **LXX Psalm 119:112** 
 <small><sub>**LXX:**</sub></small>
 I leaned  my heart  to observe  your ordinances into the eon in remuneration. 
-<small><sub>**KJV:**</sub></small>
-I have inclined mine heart to perform thy statutes alway, [even unto] the end.
-<small><sub>**BSB:**</sub></small>
-I have inclined my heart to perform Your statutes, even to the very end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.112|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.111|<< Psalm 119:111]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.113|Psalm 119:113 >>]]</td></tr></table>
 
 | Translation | Greek |

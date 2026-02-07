@@ -1,4 +1,4 @@
-**2 Kings 24:8** 
+**2 Kings 24:8**<big><big>[[2Kgs.24.6 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoiachin [was] eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name [was] Nehushta, the daughter of Elnathan of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoiachin was eighteen years old when he became king, and he reigned in Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.7|<< 2 Kings 24:7]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.9|2 Kings 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight-  |**<big>&#8207;[[H8083\|שְׁמֹנֶ֨ה]]&#8207; </big>**| she.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

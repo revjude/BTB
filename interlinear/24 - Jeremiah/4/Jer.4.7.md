@@ -1,4 +1,4 @@
-**Jeremiah 4:7** 
+**Jeremiah 4:7**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; [and] thy cities shall be laid waste, without an inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A lion has gone up from his thicket, and a destroyer of nations has set out. He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.6|<< Jeremiah 4:6]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.8|Jeremiah 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has gone up  |**<big>&#8207;[[H5927G\|עָלָ֤ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lion  |**<big>&#8207;[[H0738B\|אַרְיֵה֙]]&#8207; </big>**| 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

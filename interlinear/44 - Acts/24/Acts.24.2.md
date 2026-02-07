@@ -1,12 +1,12 @@
-**Acts 24:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:2**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was called forth, Tertullus began to accuse [him], saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,
 <small><sub>**BSB:**</sub></small>
 When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation.
 <small><sub>**Literal:**</sub></small>
 When was invited then he began to accuse <the> Tertullus saying; Great peace we are attaining through you and excellent reforms are being done to the nation this [one] through <the> your foresight<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.1|<< Acts 24:1]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.3|Acts 24:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was invited |**<big>[[G2564G\|κληθέντος]]</big>**  |klēthentos <small><sup>[[V-APP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Malachi 1:3** 
+**Malachi 1:3**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ but Esau I have hated, and I have made his mountains a wasteland and left his in
 > $\quad$ referenced by: [[Rom.9.13|Rom 9:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215H\|עֵשָׂ֖ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

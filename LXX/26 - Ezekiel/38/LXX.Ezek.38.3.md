@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:3** 
 <small><sub>**LXX:**</sub></small>
 And say! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you ruler of Rosh, Meshech, and Tubal. 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the Lord GOD; Behold, I [am] against thee, O Gog, the chief prince of Meshech and Tubal:
-<small><sub>**BSB:**</sub></small>
-and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.2|<< Ezekiel 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.4|Ezekiel 38:4 >>]]</td></tr></table>
 
 | Translation | Greek |

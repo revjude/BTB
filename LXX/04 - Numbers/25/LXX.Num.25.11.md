@@ -1,10 +1,7 @@
 **LXX Numbers 25:11** 
 <small><sub>**LXX:**</sub></small>
 Phinehas, the son of Eleazar, son of Aaron the priest, my rage to cease from \[the\] sons of Israel, in  my being jealous in the zeal for them; and I did not completely consume the sons of Israel in  my zeal. 
-<small><sub>**KJV:**</sub></small>
-Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.
-<small><sub>**BSB:**</sub></small>
-“Phinehas son of Eleazar, the son of Aaron the priest, has turned My wrath away from the Israelites; for he was zealous for My sake among them, so that I did not consume the Israelites in My zeal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.10|<< Numbers 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.12|Numbers 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

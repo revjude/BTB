@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] angel of \[the\] <span class="smallcaps">lord</span> told  Gad  to say to David that he should ascend  to establish an altar to the <span class="smallcaps">lord</span> at \[the\] threshing-floor of Ornan the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.
-<small><sub>**BSB:**</sub></small>
-Then the angel of the LORD ordered Gad to tell David to go up and build an altar to the LORD on the threshing floor of Ornan the Jebusite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.17|<< 1 Chronicles 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.19|1 Chronicles 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

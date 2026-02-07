@@ -1,10 +1,7 @@
 **LXX Psalm 37:36** 
 <small><sub>**LXX:**</sub></small>
 And I went by, and behold, he was not. And I sought him, and his place was not found. 
-<small><sub>**KJV:**</sub></small>
-Yet he passed away, and, lo, he [was] not: yea, I sought him, but he could not be found.
-<small><sub>**BSB:**</sub></small>
-yet he passed away and was no more; though I searched, he could not be found.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.35|<< Psalm 37:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.37|Psalm 37:37 >>]]</td></tr></table>
 
 | Translation | Greek |

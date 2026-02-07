@@ -1,4 +1,4 @@
-**Genesis 5:15** 
+**Genesis 5:15**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mahalaleel lived sixty and five years, and begat Jared:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Mahalalel was 65 years old, he became the father of Jared.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.14|<< Genesis 5:14]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.16|Genesis 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mahalalel  |**<big>&#8207;[[H4111G\|מַֽהֲלַלְאֵ֔ל]]&#8207; </big>**| ma.ha.lal.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

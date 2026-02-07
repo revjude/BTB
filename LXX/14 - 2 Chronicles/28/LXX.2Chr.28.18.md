@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:18** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines attacked against the cities of the plain, and of \[the\] south  of Judah, and they took  Beth-shemesh, and  Ajalon, and Gederoth, and  Shocho and  her towns, and  Timnah and  her towns, and  Gimzo and  her towns. And they dwelt there. 
-<small><sub>**KJV:**</sub></small>
-The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Bethshemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.
-<small><sub>**BSB:**</sub></small>
-The Philistines had also raided the cities of the foothills and the Negev of Judah, capturing and occupying Beth-shemesh, Aijalon, and Gederoth, as well as Soco, Timnah, and Gimzo with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.17|<< 2 Chronicles 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.19|2 Chronicles 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

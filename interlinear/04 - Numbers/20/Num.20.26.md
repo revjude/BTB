@@ -1,4 +1,4 @@
-**Numbers 20:26** 
+**Numbers 20:26**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered [unto his people], and shall die there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remove Aaron’s priestly garments and put them on his son Eleazar. Aaron will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.25|<< Numbers 20:25]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.27|Numbers 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and strip off  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6584\|הַפְשֵׁ֤ט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> haf.Shet<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

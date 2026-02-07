@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:26** 
 <small><sub>**LXX:**</sub></small>
 Taking the scroll  of this law, you shall put it sideways in the ark of the covenant of \[the\] <span class="smallcaps">lord</span>  your God; and it will be there to you for a testimony. 
-<small><sub>**KJV:**</sub></small>
-Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee.
-<small><sub>**BSB:**</sub></small>
-“Take this Book of the Law and place it beside the ark of the covenant of the LORD your God, so that it may remain there as a witness against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.25|<< Deuteronomy 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.27|Deuteronomy 31:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 1:14** 
 <small><sub>**LXX:**</sub></small>
  Your wives, and  your children, and  your cattle -- let them dwell in the land which Moses gave to you on the other side of the Jordan! And you shall pass over well-equipped prior to  your brethren, every one  being strong, and you shall fight along with them, 
-<small><sub>**KJV:**</sub></small>
-Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
-<small><sub>**BSB:**</sub></small>
-Your wives, your young children, and your livestock may remain in the land that Moses gave you on this side of the Jordan. But all your mighty men of valor must be armed for battle to cross over ahead of your brothers and help them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.13|<< Joshua 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.15|Joshua 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

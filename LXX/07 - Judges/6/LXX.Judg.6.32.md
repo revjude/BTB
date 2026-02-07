@@ -1,10 +1,7 @@
 **LXX Judges 6:32** 
 <small><sub>**LXX:**</sub></small>
 And he called him in  that day, Jerubbaal, saying, \[The\] court of justice  of Baal, for he razed  his altar. 
-<small><sub>**KJV:**</sub></small>
-Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar.
-<small><sub>**BSB:**</sub></small>
-So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.31|<< Judges 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.33|Judges 6:33 >>]]</td></tr></table>
 
 | Translation | Greek |

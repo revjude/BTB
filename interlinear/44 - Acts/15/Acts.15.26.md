@@ -1,12 +1,12 @@
-**Acts 15:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:26**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men that have hazarded their lives for the name of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 men who have risked their lives for the name of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 men having handed over the lives of them for the name of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.25|<< Acts 15:25]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.27|Acts 15:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | men |**<big>[[G0444\|ἀνθρώποις]]</big>**  |anthrōpois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having handed over |**<big>[[G3860\|παραδεδωκόσιν]]</big>**  |paradedōkosin <small><sup>[[V-RAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

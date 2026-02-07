@@ -1,4 +1,4 @@
-**Psalms 39:5** (39:6)
+**Psalms 39:5**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast made my days [as] an handbreadth; and mine age [is] as nothing before thee: verily every man at his best state [is] altogether vanity. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You, indeed, have made my days as handbreadths, and my lifetime as nothing befor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.4|<< Psalms 39:4]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.6|Psalms 39:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | handbreadths  |**<big>&#8207;[[H2947\|טְפָח֨וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

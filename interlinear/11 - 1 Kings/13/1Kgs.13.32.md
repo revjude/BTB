@@ -1,4 +1,4 @@
-**1 Kings 13:32** 
+**1 Kings 13:32**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the saying which he cried by the word of the LORD against the altar in Bethel, and against all the houses of the high places which [are] in the cities of Samaria, shall surely come to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for the message that he cried out by the word of the LORD against the altar in B
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.31|<< 1 Kings 13:31]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.33|1 Kings 13:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to happen>  |**<big>&#8207;[[H1961\|הָיֹ֨ה]]&#8207; </big>**| ha.Yoh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

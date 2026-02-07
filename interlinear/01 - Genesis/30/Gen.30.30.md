@@ -1,4 +1,4 @@
-**Genesis 30:30** 
+**Genesis 30:30**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it was] little which thou hadst before I [came], and it is [now] increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, you had very little before my arrival, but now your wealth has increased
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֡י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a little  |**<big>&#8207;[[H4592\|מְעַט֩]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

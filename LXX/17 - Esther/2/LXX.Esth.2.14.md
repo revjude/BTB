@@ -1,10 +1,7 @@
 **LXX Esther 2:14** 
 <small><sub>**LXX:**</sub></small>
 In the evening she enters, and by day she runs to the second chamber of the women, where Hegai the eunuch of the king the keeper of the women \[is\]. And no longer does she enter to the king if she should not be called by name. 
-<small><sub>**KJV:**</sub></small>
-In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king’s chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name.
-<small><sub>**BSB:**</sub></small>
-She would go there in the evening, and in the morning she would return to a second harem under the care of Shaashgaz, the king’s eunuch in charge of the concubines. She would not return to the king unless he delighted in her and summoned her by name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.13|<< Esther 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.15|Esther 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

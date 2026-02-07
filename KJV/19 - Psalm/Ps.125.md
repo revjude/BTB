@@ -1,6 +1,6 @@
 (KJV) **Psalm 125**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124|<< Psalm 124]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126|Psalm 126 >>]]</td></tr></table>
 
-***The LORD Surrounds His People*** ^bsb1418
+<big><big>[[Ps.125.1 The LORD Surrounds His People|⥃]]</big></big>***The LORD Surrounds His People***
 
 
 

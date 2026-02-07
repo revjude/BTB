@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:11** 
 <small><sub>**LXX:**</sub></small>
 (and they shall take  their punishment for all of which they did). And you shall diagram the house, and  its preparation, and  its exits, and its entrances, and  its support. And all  its orders, and all  its laws, and all  it rules you shall make known to them. And you shall diagram \[it\] before them, and they shall keep all  my ordinances, and all  my orders, and they shall do them. 
-<small><sub>**KJV:**</sub></small>
-And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write [it] in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
-<small><sub>**BSB:**</sub></small>
-and if they are ashamed of all they have done, then make known to them the design of the temple—its arrangement and its exits and entrances—its whole design along with all its statutes, forms, and laws. Write it down in their sight, so that they may keep its complete design and all its statutes and may carry them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.10|<< Ezekiel 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.12|Ezekiel 43:12 >>]]</td></tr></table>
 
 | Translation | Greek |

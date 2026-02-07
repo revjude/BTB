@@ -1,4 +1,4 @@
-**Genesis 29:9** 
+**Genesis 29:9**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he yet spake with them, Rachel came with her father’s sheep: for she kept them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While he was still speaking with them, Rachel arrived with her father’s sheep,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.8|<< Genesis 29:8]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.10|Genesis 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still [was] he  |**<big>&#8207;[[H5750\|עוֹדֶ֖]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | speaking  |**<big>&#8207;[[H1696G\|מְדַבֵּ֣ר]]&#8207; </big>**| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 26:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:31**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.
 <small><sub>**BSB:**</sub></small>
 On their way out, they said to one another, “This man has done nothing worthy of death or imprisonment.”
 <small><sub>**Literal:**</sub></small>
 and having withdrawn they were speaking to one another saying that No [thing] of death or of chains worthy any is doing <the> man this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.30|<< Acts 26:30]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.32|Acts 26:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having withdrawn |**<big>[[G0402\|ἀναχωρήσαντες]]</big>**  |anachōrēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

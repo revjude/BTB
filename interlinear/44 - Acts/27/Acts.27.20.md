@@ -1,12 +1,12 @@
-**Acts 27:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:20**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when neither sun nor stars in many days appeared, and no small tempest lay on [us], all hope that we should be saved was then taken away.
 <small><sub>**BSB:**</sub></small>
 When neither sun nor stars appeared for many days and the great storm continued to batter us, we abandoned all hope of being saved.
 <small><sub>**Literal:**</sub></small>
 Neither now sun nor stars appearing for many days, tempest and no small afflicted [us] from then on was abandoned hope all of being saved us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.19|<< Acts 27:19]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.21|Acts 27:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3383\|μήτε]]</big>**  |mēte <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

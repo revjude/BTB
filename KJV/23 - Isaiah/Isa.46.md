@@ -1,6 +1,6 @@
 (KJV) **Isaiah 46**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45|<< Isaiah 45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47|Isaiah 47 >>]]</td></tr></table>
 
-***Babylon’s Idols*** ^bsb1660
+<big><big>[[Isa.46.1 Babylon’s Idols|⥃]]</big></big>***Babylon’s Idols***
 
  $\quad$ <span class="startversemarker">[</span>**[[Isa.46.1|1]]**<span class="endversemarker">]</span> Bel<small><small>[^2]</small></small> boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages \[were\] heavy loaden; \[they are\] a burden<small><small>[^3]</small></small> to the weary \[beast\]. <span class="startversemarker">[</span>**[[Isa.46.2|2]]**<span class="endversemarker">]</span> They stoop, they bow down together; they could<small><small>[^4]</small></small> not deliver the burden, but<small><small>[^5]</small></small> themselves are<small><small>[^6]</small></small> gone into captivity. 
 

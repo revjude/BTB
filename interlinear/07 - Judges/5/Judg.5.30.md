@@ -1,4 +1,4 @@
-**Judges 5:30** 
+**Judges 5:30**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have they not sped? have they [not] divided the prey; to every man a damsel [or] two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, [meet] for the necks of [them that take] the spoil?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have they not sped? have they [not] divided the prey; to every man a damsel [or]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.29|<< Judges 5:29]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.31|Judges 5:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | are they finding  |**<big>&#8207;[[H4672\|יִמְצְא֜וּ]]&#8207; </big>**| yim.tze.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:47** 
 <small><sub>**LXX:**</sub></small>
 And Hadad died, and reigned instead of him, Samlah of Masrekah. 
-<small><sub>**KJV:**</sub></small>
-And when Hadad was dead, Samlah of Masrekah reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-When Hadad died, Samlah from Masrekah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.46|<< 1 Chronicles 1:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.48|1 Chronicles 1:48 >>]]</td></tr></table>
 
 | Translation | Greek |

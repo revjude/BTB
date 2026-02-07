@@ -1,4 +1,4 @@
-**Psalms 104:8** 
+**Psalms 104:8**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the mountains rose and the valleys sank to the place You assigned for them—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.7|<< Psalms 104:7]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.9|Psalms 104:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they went up  |**<big>&#8207;[[H5927G\|יַעֲל֣וּ]]&#8207; </big>**| ya.'a.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָ֭רִים]]&#8207; </big>**| Ha.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

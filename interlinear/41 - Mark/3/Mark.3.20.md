@@ -1,12 +1,12 @@
-**Mark 3:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:20**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude cometh together again, so that they could not so much as eat bread.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat.
 <small><sub>**Literal:**</sub></small>
 And He comes to a house, [20] and comes together again <the> a crowd so that not to be able they even bread to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.19|<< Mark 3:19]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.21|Mark 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | He comes [^2] [^3] |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Byz">N(K)O</abbr>[^4] | |

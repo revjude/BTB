@@ -1,4 +1,4 @@
-**Job 37:23** 
+**Job 37:23**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Touching] the Almighty, we cannot find him out: [he is] excellent in power, and in judgment, and in plenty of justice: he will not afflict.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Almighty is beyond our reach; He is exalted in power! In His justice and gre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.22|<< Job 37:22]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.24|Job 37:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֣י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

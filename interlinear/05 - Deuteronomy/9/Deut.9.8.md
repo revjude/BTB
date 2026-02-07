@@ -1,4 +1,4 @@
-**Deuteronomy 9:8** 
+**Deuteronomy 9:8**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At Horeb you provoked the LORD, and He was angry enough to destroy you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.7|<< Deuteronomy 9:7]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.9|Deuteronomy 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at Horeb  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2722\|חֹרֵ֥ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> cho.Rev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you provoked to anger  |**<big>&#8207;[[H7107\|הִקְצַפְתֶּ֖ם]]&#8207; </big>**| hik.tzaf.Tem<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

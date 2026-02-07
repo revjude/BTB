@@ -1,10 +1,7 @@
 **LXX Genesis 14:22** 
 <small><sub>**LXX:**</sub></small>
 And Abram said to the king of Sodom, I will stretch out  my hand to \[the\] <span class="smallcaps">lord</span>  God the highest, who created the heaven and the earth, 
-<small><sub>**KJV:**</sub></small>
-And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,
-<small><sub>**BSB:**</sub></small>
-But Abram replied to the king of Sodom, “I have raised my hand to the LORD God Most High, Creator of heaven and earth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.21|<< Genesis 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.23|Genesis 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 5:21** 
+**1 Chronicles 5:21**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.20|<< 1 Chronicles 5:20]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.22|1 Chronicles 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took captive  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7617\|יִּשְׁבּ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | livestock their  |**<big>&#8207;[[H4735\|מִקְנֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| mik.nei.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

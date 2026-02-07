@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:15** 
 <small><sub>**LXX:**</sub></small>
 And David chose for himself  plague. And \[the\] <span class="smallcaps">lord</span> appointed plague in Israel from morning and unto \[the\] hour of dinner. And there died from out of the people from Dan and unto Beer-sheba seventy thousand men. 
-<small><sub>**KJV:**</sub></small>
-So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.
-<small><sub>**BSB:**</sub></small>
-So the LORD sent a plague upon Israel from that morning until the appointed time, and seventy thousand of the people from Dan to Beersheba died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.14|<< 2 Samuel 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.16|2 Samuel 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

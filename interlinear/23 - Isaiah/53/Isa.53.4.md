@@ -1,4 +1,4 @@
-**Isaiah 53:4** 
+**Isaiah 53:4**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Surely He took up our infirmities and carried our sorrows; yet we considered Him
 > $\quad$ referenced by: [[Matt.8.17|Matt 8:17]] ☩ [[1Pet.2.24|1Pet 2:24]] ☩ [[1John.3.5|1John 3:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0403\|אָכֵ֤ן]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sicknesses our  |**<big>&#8207;[[H2483\|חֳלָיֵ֙]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| cho.la.Ye.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

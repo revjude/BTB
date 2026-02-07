@@ -1,10 +1,7 @@
 **LXX Exodus 10:7** 
 <small><sub>**LXX:**</sub></small>
 And the attendants of Pharaoh say to him, For how long will this be to us an impediment? Send out the men! so that they may serve \[to the\] <span class="smallcaps">lord</span>  their God. Or do you prefer to see that they destroy Egypt? 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?
-<small><sub>**BSB:**</sub></small>
-Pharaoh’s officials asked him, “How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt lies in ruins?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.6|<< Exodus 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.8|Exodus 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

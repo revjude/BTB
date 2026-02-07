@@ -1,4 +1,4 @@
-**Isaiah 5:5** 
+**Isaiah 5:5**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; [and] break down the wall thereof, and it shall be trodden down:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I will tell you what I am about to do to My vineyard: I will take away its h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.4|<< Isaiah 5:4]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.6|Isaiah 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let me make know  |**<big>&#8207;[[H3045\|אוֹדִֽיעָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o.di.'ah-<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 42:21** 
+**Jeremiah 42:21**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [now] I have this day declared [it] to you; but ye have not obeyed the voice of the LORD your God, nor any [thing] for the which he hath sent me unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have told you today, but you have not obeyed the voice of the LORD your Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.20|<< Jeremiah 42:20]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.22|Jeremiah 42:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have told  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5046\|אַגִּ֥ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Gid<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 15:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:30**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
 <small><sub>**BSB:**</sub></small>
 But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’
 <small><sub>**Literal:**</sub></small>
 When however the son of you this the [one] having devoured your <the> living with <the> prostitutes came, you have killed for him the fattened <the> calf.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.29|<< Luke 15:29]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.31|Luke 15:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

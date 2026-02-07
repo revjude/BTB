@@ -1,5 +1,5 @@
-**Romans 10:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:15**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 <small><sub>**BSB:**</sub></small>
 And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”
@@ -10,7 +10,7 @@ How now shall they preach only unless they shall be sent? Even as it has been wr
 > $\quad$ referencing: [[LXX.Isa.52.7|Isa 52:7]] ☩ [[LXX.Nah.1.15|Nah 1:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | How |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

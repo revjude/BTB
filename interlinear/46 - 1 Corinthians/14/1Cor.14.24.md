@@ -1,12 +1,12 @@
-**1 Corinthians 14:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:24**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if all prophesy, and there come in one that believeth not, or [one] unlearned, he is convinced of all, he is judged of all:
 <small><sub>**BSB:**</sub></small>
 But if an unbeliever or uninstructed person comes in while everyone is prophesying, he will be convicted and called to account by all,
 <small><sub>**Literal:**</sub></small>
 If however all shall prophesy, shall come in then some unbeliever or uninstructed, he is convicted by all, he is examined by all,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.23|<< 1 Corinthians 14:23]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.25|1 Corinthians 14:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

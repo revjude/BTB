@@ -1,4 +1,4 @@
-**1 Samuel 20:41** 
+**1 Samuel 20:41**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as soon as the lad was gone, David arose out of [a place] toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the young man had gone, David got up from the south side of the stone, fell
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.40|<< 1 Samuel 20:40]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.42|1 Samuel 20:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the lad  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּעַר֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.'Ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H0935G\|בָּא֒]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

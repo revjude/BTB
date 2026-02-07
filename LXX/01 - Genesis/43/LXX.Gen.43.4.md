@@ -1,10 +1,7 @@
 **LXX Genesis 43:4** 
 <small><sub>**LXX:**</sub></small>
 If  then, you send  our brother with us, we will go down, and we will buy foods for you. 
-<small><sub>**KJV:**</sub></small>
-If thou wilt send our brother with us, we will go down and buy thee food:
-<small><sub>**BSB:**</sub></small>
-If you will send our brother with us, we will go down and buy food for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.3|<< Genesis 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.5|Genesis 43:5 >>]]</td></tr></table>
 
 | Translation | Greek |

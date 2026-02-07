@@ -1,12 +1,12 @@
-**James 4:1
-**<small><sub>**KJV:**</sub></small>
+**James 4:1**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From whence [come] wars and fightings among you? [come they] not hence, [even] of your lusts that war in your members?
 <small><sub>**BSB:**</sub></small>
 What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?
 <small><sub>**Literal:**</sub></small>
 From where [come] disputes and from where quarrels among you? Surely from there, out of the passions of you those warring in the members of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.18|<< James 3:18]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.2|James 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From where |**<big>[[G4159\|Πόθεν]]</big>**  |Pothen <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [come] disputes |**<big>[[G4171\|πόλεμοι]]</big>**  |polemoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

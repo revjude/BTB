@@ -1,10 +1,7 @@
 **LXX Psalm 11:7** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> \[is\] just, and he loves righteousness; his face perceived straightness. 
-<small><sub>**KJV:**</sub></small>
-For the righteous LORD loveth righteousness; his countenance doth behold the upright.
-<small><sub>**BSB:**</sub></small>
-For the LORD is righteous; He loves justice. The upright will see His face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.6|<< Psalm 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.1|Psalm 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

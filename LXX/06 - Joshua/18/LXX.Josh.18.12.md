@@ -1,10 +1,7 @@
 **LXX Joshua 18:12** 
 <small><sub>**LXX:**</sub></small>
 And their borders were from \[the\] north of the Jordan; the borders shall ascend by \[the\] back of Jericho at \[the\] north, and shall ascend unto the mountain to the west; and its outer reaches will be  Madbariti of Beth-aven. 
-<small><sub>**KJV:**</sub></small>
-And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Bethaven.
-<small><sub>**BSB:**</sub></small>
-On the north side their border began at the Jordan, went up past the northern slope of Jericho, headed west through the hill country, and came out at the wilderness of Beth-aven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.11|<< Joshua 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.13|Joshua 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

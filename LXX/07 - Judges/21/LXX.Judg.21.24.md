@@ -1,10 +1,7 @@
 **LXX Judges 21:24** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel walked from there in  that time, each man to  his tribe, and to  his kin; and \[each\] man went forth from there to  his inheritance. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
-<small><sub>**BSB:**</sub></small>
-And at that time, each of the Israelites returned from there to his own tribe and clan, each to his own inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.23|<< Judges 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.25|Judges 21:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 3:16** 
 <small><sub>**LXX:**</sub></small>
 Going then, gather the council of elders of the sons of Israel! And you shall say to them, \[The\] <span class="smallcaps">lord</span>  God  of our fathers appeared to me; the God of Abraham, and the God of Isaac, and the God of Jacob, saying, \[In\] overseeing I have watched you, and as much as has come to pass to you in Egypt. 
-<small><sub>**KJV:**</sub></small>
-Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and [seen] that which is done to you in Egypt:
-<small><sub>**BSB:**</sub></small>
-Go, assemble the elders of Israel and say to them, ‘The LORD, the God of your fathers—the God of Abraham, Isaac, and Jacob—has appeared to me and said: I have surely attended to you and have seen what has been done to you in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.15|<< Exodus 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.17|Exodus 3:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:16** is...

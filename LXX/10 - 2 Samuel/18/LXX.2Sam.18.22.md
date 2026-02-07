@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:22** 
 <small><sub>**LXX:**</sub></small>
 And Ahimaaz son of Zadok added still, and he said \[to\] Joab, Also let it be that I run also indeed myself after  Cushi! And Joab said, Why do you run, my young one? There is not good news to you for benefit in going. 
-<small><sub>**KJV:**</sub></small>
-Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?
-<small><sub>**BSB:**</sub></small>
-Ahimaaz son of Zadok, however, persisted and said to Joab, “No matter what, please let me also run behind the Cushite!” “My son,” Joab replied, “why do you want to run, since you will not receive a reward?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.21|<< 2 Samuel 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.23|2 Samuel 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

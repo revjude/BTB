@@ -1,4 +1,4 @@
-**Numbers 9:20** 
+**Numbers 9:20**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sometimes the cloud remained over the tabernacle for only a few days, and they w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.19|<< Numbers 9:19]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.21|Numbers 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵ֞שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] when  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

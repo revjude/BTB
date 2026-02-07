@@ -1,4 +1,4 @@
-**2 Chronicles 2:16** (2:15)
+**2 Chronicles 2:16**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will cut logs from Lebanon, as many as you need, and we will float them to yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.15|<< 2 Chronicles 2:15]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.17|2 Chronicles 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we  |**<big>&#8207;[[H9002\|וַ֠]]&#8207;&#8207;[[H0587\|אֲנַחְנוּ]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will cut  |**<big>&#8207;[[H3772G\|נִכְרֹ֨ת]]&#8207; </big>**| nikh.Rot<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

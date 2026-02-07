@@ -1,10 +1,7 @@
 **LXX Ezra 7:18** 
 <small><sub>**LXX:**</sub></small>
 And if anything should seem good with you and your brethren with \[the\] rest of the silver and gold to do, as it pleases  your God, you do it! 
-<small><sub>**KJV:**</sub></small>
-And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.
-<small><sub>**BSB:**</sub></small>
-You and your brothers may do whatever seems best with the rest of the silver and gold, according to the will of your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

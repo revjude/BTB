@@ -1,10 +1,7 @@
 **LXX Exodus 5:20** 
 <small><sub>**LXX:**</sub></small>
 that they met Moses and Aaron coming to meet with them in their going forth from Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:
-<small><sub>**BSB:**</sub></small>
-When they left Pharaoh, they confronted Moses and Aaron, who stood waiting to meet them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.19|<< Exodus 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.21|Exodus 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 21:20** 
+**Proverbs 21:20**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Precious treasures and oil are in the dwelling of the wise, but a foolish man co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.19|<< Proverbs 21:19]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.21|Proverbs 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | treasure  |**<big>&#8207;[[H0214\|אוֹצָ֤ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | desirable  |**<big>&#8207;[[H2530A\|נֶחְמָ֣ד]]&#8207; </big>**| nech.Mad<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

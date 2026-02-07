@@ -1,4 +1,4 @@
-**Exodus 29:2** 
+**Exodus 29:2**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: [of] wheaten flour shalt thou make them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with unleavened bread, unleavened cakes mixed with oil, and unleavened waf
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.1|<< Exodus 29:1]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.3|Exodus 29:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and bread of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3899H\|לֶ֣חֶם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unleavened bread\<s>  |**<big>&#8207;[[H4682\|מַצּ֗וֹת]]&#8207; </big>**| ma.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

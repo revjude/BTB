@@ -1,10 +1,7 @@
 **LXX Isaiah 1:30** 
 <small><sub>**LXX:**</sub></small>
 For they will be as a terebinth tree throwing off  \[its\] leaves, and as a park not having water. 
-<small><sub>**KJV:**</sub></small>
-For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.
-<small><sub>**BSB:**</sub></small>
-For you will become like an oak whose leaves are withered, like a garden without water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.29|<< Isaiah 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.31|Isaiah 1:31 >>]]</td></tr></table>
 
 | Translation | Greek |

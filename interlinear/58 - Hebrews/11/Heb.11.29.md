@@ -1,5 +1,5 @@
-**Hebrews 11:29
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:29**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith they passed through the Red sea as by dry [land]: which the Egyptians assaying to do were drowned.
 <small><sub>**BSB:**</sub></small>
 By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned.
@@ -10,7 +10,7 @@ By faith they passed through the Red Sea as through dry land, which an attempt h
 > $\quad$ alluding to: [[LXX.Exod.14.22|Exod 14:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they passed through |**<big>[[G1224\|διέβησαν]]</big>**  |diebēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

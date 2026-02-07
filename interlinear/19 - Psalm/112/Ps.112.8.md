@@ -1,4 +1,4 @@
-**Psalms 112:8** 
+**Psalms 112:8**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His heart [is] established, he shall not be afraid, until he see [his desire] upon his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His heart is assured; he does not fear, until he looks in triumph on his foes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.7|<< Psalms 112:7]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.9|Psalms 112:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] supported  |**<big>&#8207;[[H5564\|סָמ֣וּךְ]]&#8207; </big>**| sa.Mukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart his  |**<big>&#8207;[[H3820A\|לִ֭בּ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| li.b<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

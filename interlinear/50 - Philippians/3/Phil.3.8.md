@@ -1,12 +1,12 @@
-**Philippians 3:8
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:8**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea doubtless, and I count all things [but] loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them [but] dung, that I may win Christ,
 <small><sub>**BSB:**</sub></small>
 More than that, I count all things as loss compared to the surpassing excellence of knowing Christ Jesus my Lord, for whom I have lost all things. I consider them rubbish, that I may gain Christ
 <small><sub>**Literal:**</sub></small>
 But rather also I count all things loss to be because of which is excelling the knowledge of Christ Jesus the Lord of mine because of whom <the> all things I have lost and esteem [them] rubbish to be that Christ I may gain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.7|<< Philippians 3:7]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.9|Philippians 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rather [^1] [^2] |**<big>[[G3304\|μενοῦνγε]]</big>**  |menounge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR">NK(o)</abbr> | |

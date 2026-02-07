@@ -1,4 +1,4 @@
-**Isaiah 18:2** 
+**Isaiah 18:2**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, [saying], Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ which sends couriers by sea, in papyrus vessels on the waters. Go, swift messeng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.1|<< Isaiah 18:1]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.3|Isaiah 18:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which sends  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7971G\|שֹּׁלֵ֨חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.Le.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּ֜ם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

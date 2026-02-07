@@ -1,4 +1,4 @@
-**Proverbs 30:22** 
+**Proverbs 30:22**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a servant when he reigneth; and a fool when he is filled with meat;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a servant who becomes king, a fool who is filled with food,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.21|<< Proverbs 30:21]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.23|Proverbs 30:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478H\|תַּֽחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.chat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a slave  |**<big>&#8207;[[H5650\|עֶ֭בֶד]]&#8207; </big>**| 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

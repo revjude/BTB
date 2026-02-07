@@ -1,4 +1,4 @@
-**Psalms 97:5** 
+**Psalms 97:5**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains melt like wax at the presence of the LORD, before the Lord of all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.4|<< Psalms 97:4]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.6|Psalms 97:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִ֗ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> wax  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1749\|דּוֹנַ֗ג]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> do.Nag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

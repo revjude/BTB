@@ -1,4 +1,4 @@
-**Isaiah 45:22** 
+**Isaiah 45:22**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look unto me, and be ye saved, all the ends of the earth: for I [am] God, and [there is] none else.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn to Me and be saved, all the ends of the earth; for I am God, and there is n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.21|<< Isaiah 45:21]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.23|Isaiah 45:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H6437G\|פְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

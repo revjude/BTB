@@ -1,4 +1,4 @@
-**Daniel 11:33** 
+**Daniel 11:33**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, [many] days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those with insight will instruct many, though for a time they will fall by sword
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.32|<< Daniel 11:32]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.34|Daniel 11:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [those who] have insight of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7919A\|מַשְׂכִּ֣ילֵי]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mas.Ki.lei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people  |**<big>&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

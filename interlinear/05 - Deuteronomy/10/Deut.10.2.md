@@ -1,4 +1,4 @@
-**Deuteronomy 10:2** 
+**Deuteronomy 10:2**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will write on the tablets the words that were on the first tablets, which 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.1|<< Deuteronomy 10:1]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.3|Deuteronomy 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may inscribe  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3789\|אֶכְתֹּב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ekh.To<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

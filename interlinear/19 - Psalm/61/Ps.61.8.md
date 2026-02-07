@@ -1,4 +1,4 @@
-**Psalms 61:8** (61:9)
+**Psalms 61:8**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I sing praise unto thy name for ever, that I may daily perform my vows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will ever sing praise to Your name and fulfill my vows day by day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.7|<< Psalms 61:7]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.0|Psalms 62:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will sing praises to  |**<big>&#8207;[[H2167\|אֲזַמְּרָ֣ה]]&#8207; </big>**| 'a.za.me.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

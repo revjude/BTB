@@ -1,4 +1,4 @@
-**Psalms 102:3** (102:4)
+**Psalms 102:3**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my days are consumed like smoke, and my bones are burned as an hearth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For my days vanish like smoke, and my bones burn like glowing embers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.2|<< Psalms 102:2]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.4|Psalms 102:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have come to an end  |**<big>&#8207;[[H3615J\|כָל֣וּ]]&#8207; </big>**| kha.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

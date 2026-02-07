@@ -1,10 +1,7 @@
 **LXX Proverbs 15:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sacrifices of \[the\] impious \[are\] an abomination \[to the\] <span class="smallcaps">lord</span>; but \[the\] vows of \[the\] ones going straight \[are\] accepted by him. 
-<small><sub>**KJV:**</sub></small>
-The sacrifice of the wicked [is] an abomination to the LORD: but the prayer of the upright [is] his delight.
-<small><sub>**BSB:**</sub></small>
-The sacrifice of the wicked is detestable to the LORD, but the prayer of the upright is His delight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.7|<< Proverbs 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.9|Proverbs 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

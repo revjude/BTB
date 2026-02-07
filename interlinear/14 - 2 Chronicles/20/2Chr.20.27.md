@@ -1,4 +1,4 @@
-**2 Chronicles 20:27** 
+**2 Chronicles 20:27**<big><big>[[2Chr.20.26 The Joyful Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the men of Judah and Jerusalem, with Jehoshaphat at their head, returne
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.26|<< 2 Chronicles 20:26]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.28|2 Chronicles 20:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned back  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7725G\|יָּשֻׁבוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

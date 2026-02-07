@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, And indeed  Judah I shall remove from my face, as I removed  Israel, and I will thrust away  this city which I chose --  Jerusalem, and the house of which I said, My name will be there. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.
-<small><sub>**BSB:**</sub></small>
-For the LORD had said, “I will remove Judah from My sight, just as I removed Israel. I will reject this city Jerusalem, which I chose, and the temple of which I said, ‘My Name shall be there.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.26|<< 2 Kings 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.28|2 Kings 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

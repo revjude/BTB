@@ -1,4 +1,4 @@
-**Jeremiah 6:23** 
+**Jeremiah 6:23**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lay hold on bow and spear; they [are] cruel, and have no mercy; their voice roareth like the sea; and they ride upon horses, set in array as men for war against thee, O daughter of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They grasp the bow and spear; they are cruel and merciless. Their voice roars li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.22|<< Jeremiah 6:22]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.24|Jeremiah 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bow  |**<big>&#8207;[[H7198\|קֶ֣שֶׁת]]&#8207; </big>**| Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and javelin  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3591\|כִיד֞וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi.Don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

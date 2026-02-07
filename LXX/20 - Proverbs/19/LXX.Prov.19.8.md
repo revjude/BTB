@@ -1,10 +1,7 @@
 **LXX Proverbs 19:8** 
 <small><sub>**LXX:**</sub></small>
 The one acquiring intelligence loves himself; and the one guarding intelligence shall find good. 
-<small><sub>**KJV:**</sub></small>
-He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.
-<small><sub>**BSB:**</sub></small>
-He who acquires wisdom loves himself; one who safeguards understanding will find success.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.7|<< Proverbs 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.9|Proverbs 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

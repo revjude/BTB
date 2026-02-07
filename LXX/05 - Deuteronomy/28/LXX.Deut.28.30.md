@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:30** 
 <small><sub>**LXX:**</sub></small>
 You shall take a wife, and another man shall have her. You shall build a house, and you shall not live in it. You shall plant a vineyard, and in no way shall you gather its vintage. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
-<small><sub>**BSB:**</sub></small>
-You will be pledged in marriage to a woman, but another man will violate her. You will build a house but will not live in it. You will plant a vineyard but will not enjoy its fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.29|<< Deuteronomy 28:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.31|Deuteronomy 28:31 >>]]</td></tr></table>
 
 | Translation | Greek |

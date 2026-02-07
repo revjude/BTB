@@ -1,12 +1,12 @@
-**John 9:29
-**<small><sub>**KJV:**</sub></small>
+**John 9:29**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We know that God spake unto Moses: [as for] this [fellow], we know not from whence he is.
 <small><sub>**BSB:**</sub></small>
 We know that God spoke to Moses, but we do not know where this man is from.”
 <small><sub>**Literal:**</sub></small>
 We ourselves know that to Moses has spoken <the> God, this [man] however not we know from where is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.28|<< John 9:28]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.30|John 9:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 20:7** 
+**Proverbs 20:7**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The just [man] walketh in his integrity: his children [are] blessed after him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous man walks with integrity; blessed are his children after him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.6|<< Proverbs 20:6]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.8|Proverbs 20:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] goes about  |**<big>&#8207;[[H1980I\|מִתְהַלֵּ֣ךְ]]&#8207; </big>**| mit.ha.Lekh<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in integrity his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8537\|תֻמּ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tu.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

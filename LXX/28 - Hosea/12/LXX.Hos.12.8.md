@@ -1,10 +1,7 @@
 **LXX Hosea 12:8** 
 <small><sub>**LXX:**</sub></small>
 And Ephraim said, But I am rich, I have found respite for myself. All  \[produce\] of his toils shall not be found in him, because of iniquities in which he sinned. 
-<small><sub>**KJV:**</sub></small>
-And Ephraim said, Yet I am become rich, I have found me out substance: [in] all my labours they shall find none iniquity in me that [were] sin.
-<small><sub>**BSB:**</sub></small>
-And Ephraim boasts: “How rich I have become! I have found wealth for myself. In all my labors, they can find in me no iniquity that is sinful.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.7|<< Hosea 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.9|Hosea 12:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 12:8** is...

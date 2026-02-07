@@ -1,4 +1,4 @@
-**Jeremiah 35:8** 
+**Jeremiah 35:8**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And we have obeyed the voice of our forefather Jonadab son of Rechab in all he c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.7|<< Jeremiah 35:7]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.9|Jeremiah 35:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we have listened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085H\|נִּשְׁמַ֗ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nish.Ma'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] voice of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֨וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

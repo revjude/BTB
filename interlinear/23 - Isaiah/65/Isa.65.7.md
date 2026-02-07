@@ -1,4 +1,4 @@
-**Isaiah 65:7** 
+**Isaiah 65:7**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ both for your iniquities and for those of your fathers,” says the LORD. “Bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.6|<< Isaiah 65:6]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.8|Isaiah 65:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | iniquities your  |**<big>&#8207;[[H5771G\|עֲ֠וֹנֹתֵי]]&#8207;&#8207;[[H9026\|כֶם]]&#8207; </big>**| 'A.vo.no.tei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] iniquities of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5771G\|עֲוֹנֹ֨ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vo.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

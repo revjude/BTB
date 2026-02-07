@@ -1,10 +1,7 @@
 **LXX Joshua 18:8** 
 <small><sub>**LXX:**</sub></small>
 And rising up the men went. And Joshua gave charge to the men  going to explore the land, saying, Spread, and go \[through\] the land, and explore it, and come to me! and I will bring forth to you here a lot before \[the\] <span class="smallcaps">lord</span> in Shiloh. 
-<small><sub>**KJV:**</sub></small>
-And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.
-<small><sub>**BSB:**</sub></small>
-As the men got up to go out, Joshua commanded them to map out the land, saying, “Go and survey the land, map it out, and return to me. Then I will cast lots for you here in Shiloh in the presence of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.7|<< Joshua 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.9|Joshua 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

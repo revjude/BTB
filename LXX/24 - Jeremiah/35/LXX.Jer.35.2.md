@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:2** 
 <small><sub>**LXX:**</sub></small>
 Proceed unto \[the\] family of \[the\] Rechabites, and call them, and you shall bring them into \[the\] house of \[the\] <span class="smallcaps">lord</span>, into one of the courtyards, and wine to drink. 
-<small><sub>**KJV:**</sub></small>
-Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.
-<small><sub>**BSB:**</sub></small>
-“Go to the house of the Rechabites, speak to them, and bring them to one of the chambers of the house of the LORD to offer them a drink of wine.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.1|<< Jeremiah 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.3|Jeremiah 35:3 >>]]</td></tr></table>
 
 | Translation | Greek |

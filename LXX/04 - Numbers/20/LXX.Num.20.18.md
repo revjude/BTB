@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Edom said to him, You shall not go through mine, and if otherwise, in war I shall come forth to meet with you. 
-<small><sub>**KJV:**</sub></small>
-And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.
-<small><sub>**BSB:**</sub></small>
-But Edom answered, “You may not travel through our land, or we will come out and confront you with the sword.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.17|<< Numbers 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.19|Numbers 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

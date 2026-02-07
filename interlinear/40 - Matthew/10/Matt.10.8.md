@@ -1,12 +1,12 @@
-**Matthew 10:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:8**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.
 <small><sub>**BSB:**</sub></small>
 Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give.
 <small><sub>**Literal:**</sub></small>
 [Those] ailing do heal, dead do raise, lepers do cleanse, demons do cast out; freely you received, freely do give.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.7|<< Matthew 10:7]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.9|Matthew 10:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Those] ailing |**<big>[[G0770H\|ἀσθενοῦντας]]</big>**  |asthenountas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do heal, |**<big>[[G2323\|θεραπεύετε,]]</big>**  |therapeuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

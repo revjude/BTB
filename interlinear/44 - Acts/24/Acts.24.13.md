@@ -1,12 +1,12 @@
-**Acts 24:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:13**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither can they prove the things whereof they now accuse me.
 <small><sub>**BSB:**</sub></small>
 Nor can they prove to you any of their charges against me.
 <small><sub>**Literal:**</sub></small>
 nor to prove are they able to you concerning [the things] of which now they accuse me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.12|<< Acts 24:12]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.14|Acts 24:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor [^1] |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 | to prove |**<big>[[G3936\|παραστῆσαι]]</big>**  |parastēsai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

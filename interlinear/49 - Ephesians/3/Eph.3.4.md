@@ -1,12 +1,12 @@
-**Ephesians 3:4
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:4**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
 <small><sub>**BSB:**</sub></small>
 In reading this, then, you will be able to understand my insight into the mystery of Christ,
 <small><sub>**Literal:**</sub></small>
 by which you are able reading [it] to understand the insight of mine into the mystery <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.3|<< Ephesians 3:3]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.5|Ephesians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

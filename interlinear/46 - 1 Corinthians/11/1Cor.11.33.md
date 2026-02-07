@@ -1,12 +1,12 @@
-**1 Corinthians 11:33
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:33**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, my brethren, when ye come together to eat, tarry one for another.
 <small><sub>**BSB:**</sub></small>
 So, my brothers, when you come together to eat, wait for one another.
 <small><sub>**Literal:**</sub></small>
 So then, brothers of mine, coming together in order <the> to eat one another do wait for;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.32|<< 1 Corinthians 11:32]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.34|1 Corinthians 11:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So then, |**<big>[[G5620\|Ὥστε,]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

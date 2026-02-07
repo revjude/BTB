@@ -1,12 +1,12 @@
-**John 16:16
-**<small><sub>**KJV:**</sub></small>
+**John 16:16**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.
 <small><sub>**BSB:**</sub></small>
 In a little while you will see Me no more, and then after a little while you will see Me.”
 <small><sub>**Literal:**</sub></small>
 A little [while] and no longer you do behold Me, and again a little [while] and you will behold Me that I myself I am going to <the> Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.15|<< John 16:15]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.17|John 16:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A little [while] |**<big>[[G3398\|μικρὸν]]</big>**  |mikron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

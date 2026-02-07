@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:24** 
 <small><sub>**LXX:**</sub></small>
 And who will heed these your words, for they are not inferior to us; for according to the portion of the one going down to  war, so shall be the portion of the one staying by the equipment; according to the same they shall be portioned. 
-<small><sub>**KJV:**</sub></small>
-For who will hearken unto you in this matter? but as his part [is] that goeth down to the battle, so [shall] his part [be] that tarrieth by the stuff: they shall part alike.
-<small><sub>**BSB:**</sub></small>
-Who will listen to your proposal? The share of the one who went to battle will match the share of the one who stayed with the supplies. They will share alike.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.23|<< 1 Samuel 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.25|1 Samuel 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

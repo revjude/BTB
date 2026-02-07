@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:16** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] hidden windows unto the vestibules, and unto the columned porches inside the gate of the courtyard round about, and likewise of the pediments windows round about inside; and \[there were\] palms for the columned porch on this side and that side. 
-<small><sub>**KJV:**</sub></small>
-And [there were] narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows [were] round about inward: and upon [each] post [were] palm trees.
-<small><sub>**BSB:**</sub></small>
-The gate chambers and their side pillars had beveled windows all around the inside of the gateway. The porticos also had windows all around on the inside. Each side pillar was decorated with palm trees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.15|<< Ezekiel 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.17|Ezekiel 40:17 >>]]</td></tr></table>
 
 | Translation | Greek |

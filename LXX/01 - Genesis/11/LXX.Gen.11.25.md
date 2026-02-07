@@ -1,10 +1,7 @@
 **LXX Genesis 11:25** 
 <small><sub>**LXX:**</sub></small>
 And Nahor lived after  his procreating  Terah, a hundred twenty-nine years, and he procreated sons and daughters, and he died. 
-<small><sub>**KJV:**</sub></small>
-And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Terah, Nahor lived 119 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.24|<< Genesis 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.26|Genesis 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

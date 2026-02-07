@@ -1,10 +1,7 @@
 **LXX Judges 16:24** 
 <small><sub>**LXX:**</sub></small>
 And the people saw him, and they praised  their god, for they said, Our god delivered  our enemy into our hands, the one our land quite desolate, who multiplied  our slain. 
-<small><sub>**KJV:**</sub></small>
-And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the destroyer of our country, which slew many of us.
-<small><sub>**BSB:**</sub></small>
-And when the people saw him, they praised their god, saying: “Our god has delivered into our hands our enemy who destroyed our land and multiplied our dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.23|<< Judges 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.25|Judges 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

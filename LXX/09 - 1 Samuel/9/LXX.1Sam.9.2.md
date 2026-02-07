@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:2** 
 <small><sub>**LXX:**</sub></small>
 And to this one \[was\] a son, and his name \[was\] Saul, a huge goodly man, and there was not among \[the\] sons of Israel one good above him. He \[was\] head and shoulders and high above over all the land. 
-<small><sub>**KJV:**</sub></small>
-And he had a son, whose name [was] Saul, a choice young man, and a goodly: and [there was] not among the children of Israel a goodlier person than he: from his shoulders and upward [he was] higher than any of the people.
-<small><sub>**BSB:**</sub></small>
-And he had a son named Saul, choice and handsome, without equal among the Israelites—a head taller than any of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.1|<< 1 Samuel 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.3|1 Samuel 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

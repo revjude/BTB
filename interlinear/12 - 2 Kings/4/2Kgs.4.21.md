@@ -1,4 +1,4 @@
-**2 Kings 4:21** 
+**2 Kings 4:21**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she went up, and laid him on the bed of the man of God, and shut [the door] upon him, and went out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she went up and laid him on the bed of the man of God. Then she shut the doo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.20|<< 2 Kings 4:20]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.22|2 Kings 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּ֙עַל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'al<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she made lie him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901G\|תַּשְׁכִּבֵ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tash.ki.Ve.<small><sup>[[HVhw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

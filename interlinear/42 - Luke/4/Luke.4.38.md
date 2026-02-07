@@ -1,12 +1,12 @@
-**Luke 4:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:38**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he arose out of the synagogue, and entered into Simon’s house. And Simon’s wife’s mother was taken with a great fever; and they besought him for her.
 <small><sub>**BSB:**</sub></small>
 After Jesus had left the synagogue, He went to the home of Simon, whose mother-in-law was suffering from a high fever. So they appealed to Jesus on her behalf,
 <small><sub>**Literal:**</sub></small>
 Having risen up then out of the synagogue He entered into the house of Simon. The mother-in-law then <the> of Simon was oppressed with a fever great, and they appealed to Him for her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.37|<< Luke 4:37]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.39|Luke 4:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|Ἀναστὰς]]</big>**  |Anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

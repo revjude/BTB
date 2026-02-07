@@ -1,4 +1,4 @@
-**Hosea 4:15** 
+**Hosea 4:15**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thou, Israel, play the harlot, [yet] let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though you prostitute yourself, O Israel, may Judah avoid such guilt! Do not jou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.14|<< Hosea 4:14]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.16|Hosea 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] prostituting yourself  |**<big>&#8207;[[H2181\|זֹנֶ֤ה]]&#8207; </big>**| zo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

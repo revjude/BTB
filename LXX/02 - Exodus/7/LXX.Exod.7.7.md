@@ -1,10 +1,7 @@
 **LXX Exodus 7:7** 
 <small><sub>**LXX:**</sub></small>
 And Moses was eighty years \[old\], and Aaron \[was\] eighty-three years \[old\] when they spoke to Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Moses [was] fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.
-<small><sub>**BSB:**</sub></small>
-Moses was eighty years old and Aaron was eighty-three when they spoke to Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.6|<< Exodus 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.8|Exodus 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

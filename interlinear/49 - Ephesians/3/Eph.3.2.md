@@ -1,12 +1,12 @@
-**Ephesians 3:2
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:2**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye have heard of the dispensation of the grace of God which is given me to you-ward:
 <small><sub>**BSB:**</sub></small>
 Surely you have heard about the stewardship of God’s grace that was given to me for you,
 <small><sub>**Literal:**</sub></small>
 If indeed you have heard of the administration of the grace <the> of God which having been given to me toward you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.1|<< Ephesians 3:1]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.3|Ephesians 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1065\|γε]]</big>**  |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

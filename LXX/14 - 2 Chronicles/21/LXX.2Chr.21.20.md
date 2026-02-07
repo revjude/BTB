@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:20** 
 <small><sub>**LXX:**</sub></small>
 He was thirty and two years \[old\] in  his reigning, and eight years he reigned in Jerusalem. And he went in not high praise. And they entombed \[him\] in \[the\] city of David, and not in \[the\] tombs of the kings. 
-<small><sub>**KJV:**</sub></small>
-Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
-<small><sub>**BSB:**</sub></small>
-Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He died, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.19|<< 2 Chronicles 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.1|2 Chronicles 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

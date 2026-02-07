@@ -1,4 +1,4 @@
-**Genesis 24:17** 
+**Genesis 24:17**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the servant ran to meet her and said, “Please let me have a little water fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.16|<< Genesis 24:16]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.18|Genesis 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he ran  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7323G\|יָּ֥רָץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the servant  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5650\|עֶ֖בֶד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

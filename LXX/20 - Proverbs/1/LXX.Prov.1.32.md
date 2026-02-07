@@ -1,10 +1,7 @@
 **LXX Proverbs 1:32** 
 <small><sub>**LXX:**</sub></small>
 For because they wronged \[the\] simple ones, they shall be slaughtered, and an inquisition shall destroy \[the\] impious. 
-<small><sub>**KJV:**</sub></small>
-For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.
-<small><sub>**BSB:**</sub></small>
-For the waywardness of the simple will slay them, and the complacency of fools will destroy them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.31|<< Proverbs 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.33|Proverbs 1:33 >>]]</td></tr></table>
 
 | Translation | Greek |

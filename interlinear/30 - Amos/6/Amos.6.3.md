@@ -1,4 +1,4 @@
-**Amos 6:3** 
+**Amos 6:3**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that put far away the evil day, and cause the seat of violence to come near;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You dismiss the day of calamity and bring near a reign of violence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.2|<< Amos 6:2]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.4|Amos 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] push away  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5077B\|מְנַדִּ֖ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.na.Dim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> a day  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There was a certain man in \[the\] land of Uz, Job \[was the\] name to him. And that man was true, unblemished, a sincere man, and upright, and fearing  God, at a distance from every wicked thing. 
-<small><sub>**KJV:**</sub></small>
-There was a man in the land of Uz, whose name [was] Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
-<small><sub>**BSB:**</sub></small>
-There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.10.3|<< Esther 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.2|Job 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

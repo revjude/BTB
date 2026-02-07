@@ -1,10 +1,7 @@
 **LXX Psalm 101:8** 
 <small><sub>**LXX:**</sub></small>
 Into the morning I killed all the sinners of the land;  to utterly destroy from out of \[the\] city of \[the\] <span class="smallcaps">lord</span> all the ones practicing  lawlessness. 
-<small><sub>**KJV:**</sub></small>
-I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.
-<small><sub>**BSB:**</sub></small>
-Every morning I will remove all the wicked of the land, that I may cut off every evildoer from the city of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.101.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.7|<< Psalm 101:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.1|Psalm 102:1 >>]]</td></tr></table>
 
 | Translation | Greek |

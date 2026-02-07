@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:29** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[are\] you, O Israel. Who \[is\] likened to you, a people being delivered by \[the\] <span class="smallcaps">lord</span>? Your helper \[is the\] shield, and the sword of your boasting. And your enemies shall lie \[to\] you, and you shall mount upon their neck. 
-<small><sub>**KJV:**</sub></small>
-Happy [art] thou, O Israel: who [is] like unto thee, O people saved by the LORD, the shield of thy help, and who [is] the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
-<small><sub>**BSB:**</sub></small>
-Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
 | Translation | Greek |

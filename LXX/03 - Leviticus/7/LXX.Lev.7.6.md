@@ -1,10 +1,7 @@
 **LXX Leviticus 7:6** 
 <small><sub>**LXX:**</sub></small>
 Every male of the priests shall eat them; in \[the\] holy place they shall eat -- it is a holy of holies. 
-<small><sub>**KJV:**</sub></small>
-Every male among the priests shall eat thereof: it shall be eaten in the holy place: it [is] most holy.
-<small><sub>**BSB:**</sub></small>
-Every male among the priests may eat of it. It must be eaten in a holy place; it is most holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.5|<< Leviticus 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.7|Leviticus 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

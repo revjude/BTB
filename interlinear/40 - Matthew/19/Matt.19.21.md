@@ -1,12 +1,12 @@
-**Matthew 19:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:21**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said unto him, If thou wilt be perfect, go [and] sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come [and] follow me.
 <small><sub>**BSB:**</sub></small>
 Jesus told him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
 <small><sub>**Literal:**</sub></small>
 Was saying to him <the> Jesus; If you desire perfect to be, do go do sell of you <the> possessions and do give to the poor; and you will have treasure in [the] heavens, and come do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.20|<< Matthew 19:20]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.22|Matthew 19:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was saying |**<big>[[G5346\|Ἔφη]]</big>**  |Ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

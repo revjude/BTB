@@ -1,12 +1,12 @@
-**Matthew 3:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:12**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose fan [is] in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
 <small><sub>**BSB:**</sub></small>
 His winnowing fork is in His hand to clear His threshing floor and to gather His wheat into the barn; but He will burn up the chaff with unquenchable fire.”
 <small><sub>**Literal:**</sub></small>
 whose <the> winnowing fork [is] in the hand of Him, and He will clear the threshing floor of Him and will gather the wheat of Him into the barn of him the but chaff He will burn up with fire unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.11|<< Matthew 3:11]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.13|Matthew 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whose |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

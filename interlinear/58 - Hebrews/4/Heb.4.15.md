@@ -1,12 +1,12 @@
-**Hebrews 4:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:15**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as [we are, yet] without sin.
 <small><sub>**BSB:**</sub></small>
 For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin.
 <small><sub>**Literal:**</sub></small>
 Not for have we a high priest not being able to sympathize with the weaknesses of us, tempted however in all things by [the] same way without sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.14|<< Hebrews 4:14]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.16|Hebrews 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 7:8** (7:9)
+**Psalms 7:8**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity [that is] in me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD judges the peoples; vindicate me, O LORD, according to my righteousness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.7|<< Psalms 7:7]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.9|Psalms 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let him judge  |**<big>&#8207;[[H1777\|יָדִ֪ין]]&#8207; </big>**| ya.Din<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

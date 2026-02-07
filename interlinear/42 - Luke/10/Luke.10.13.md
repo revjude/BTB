@@ -1,12 +1,12 @@
-**Luke 10:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:13**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.
 <small><sub>**BSB:**</sub></small>
 Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
 <small><sub>**Literal:**</sub></small>
 Woe to you Chorazin! Woe to you Bethsaida! For if in Tyre and Sidon had been the miracles <the> having taken place in you, long ago then would in sackcloth and ashes sitting they would have repented.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.12|<< Luke 10:12]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.14|Luke 10:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαί]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|σοι]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

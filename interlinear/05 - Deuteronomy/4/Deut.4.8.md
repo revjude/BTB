@@ -1,4 +1,4 @@
-**Deuteronomy 4:8** 
+**Deuteronomy 4:8**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what nation [is there so] great, that hath statutes and judgments [so] righteous as all this law, which I set before you this day?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And what nation is great enough to have righteous statutes and ordinances like t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a nation  |**<big>&#8207;[[H1471A\|גּ֣וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

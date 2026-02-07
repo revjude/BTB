@@ -1,4 +1,4 @@
-**Jeremiah 9:5** (9:4)
+**Jeremiah 9:5**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, [and] weary themselves to commit iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each one betrays his friend; no one tells the truth. They have taught their tong
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.4|<< Jeremiah 9:4]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.6|Jeremiah 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and each  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִ֤ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> neighbor his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7453\|רֵעֵ֙]]&#8207;&#8207;[[H9023\|הוּ֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

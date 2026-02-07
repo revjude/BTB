@@ -1,4 +1,4 @@
-**1 Kings 8:43** 
+**1 Kings 8:43**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as [do] thy people Israel; and that they may know that this house, which I have builded, is called by thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may You hear from heaven, Your dwelling place, and do according to all for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.42|<< 1 Kings 8:42]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.44|1 Kings 8:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will hear  |**<big>&#8207;[[H8085G\|תִּשְׁמַ֤ע]]&#8207; </big>**| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

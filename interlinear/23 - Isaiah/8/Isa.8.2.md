@@ -1,4 +1,4 @@
-**Isaiah 8:2** 
+**Isaiah 8:2**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will appoint for Myself trustworthy witnesses—Uriah the priest and Zecha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.1|<< Isaiah 8:1]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.3|Isaiah 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will call as witness  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5749B\|אָעִ֣ידָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.'I.dah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> myself  |**<big>&#8207;[[H9005\|לִּ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

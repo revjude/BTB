@@ -1,10 +1,7 @@
 **LXX Genesis 22:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] angel of \[the\] <span class="smallcaps">lord</span> called  Abraham a second \[time\] from out of the heaven, saying, 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD called unto Abraham out of heaven the second time,
-<small><sub>**BSB:**</sub></small>
-And the angel of the LORD called to Abraham from heaven a second time,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.14|<< Genesis 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.16|Genesis 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

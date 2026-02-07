@@ -1,4 +1,4 @@
-**Joshua 15:7** 
+**Joshua 15:7**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that [is] before the going up to Adummim, which [is] on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the border went up to Debir from the Valley of Achor, turning north to Gilg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.6|<< Joshua 15:6]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.8|Joshua 15:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָלָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Lah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֥וּל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

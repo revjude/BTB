@@ -1,10 +1,7 @@
 **LXX Numbers 21:29** 
 <small><sub>**LXX:**</sub></small>
 Woe to you Moab. You are destroyed people of Chemosh. Their sons were rendered over to be preserved, and  their daughters captives to the king of the Amorites -- Sihon. 
-<small><sub>**KJV:**</sub></small>
-Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.
-<small><sub>**BSB:**</sub></small>
-Woe to you, O Moab! You are destroyed, O people of Chemosh! He gave up his sons as refugees, and his daughters into captivity to Sihon king of the Amorites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.28|<< Numbers 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.30|Numbers 21:30 >>]]</td></tr></table>
 
 | Translation | Greek |

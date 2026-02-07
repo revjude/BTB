@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:5** 
 <small><sub>**LXX:**</sub></small>
 Cedar of Senir \[was used\] to build by you; \[they used\] fascia planks of cypress from  Lebanon; fir was taken to make masts for you. 
-<small><sub>**KJV:**</sub></small>
-They have made all thy [ship] boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.
-<small><sub>**BSB:**</sub></small>
-They constructed all your planking with cypress from Senir. They took a cedar from Lebanon to make a mast for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.4|<< Ezekiel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.6|Ezekiel 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

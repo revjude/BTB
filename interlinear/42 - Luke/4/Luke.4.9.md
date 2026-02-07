@@ -1,12 +1,12 @@
-**Luke 4:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:9**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:
 <small><sub>**BSB:**</sub></small>
 Then the devil led Him to Jerusalem and set Him on the pinnacle of the temple. “If You are the Son of God,” he said, “throw Yourself down from here.
 <small><sub>**Literal:**</sub></small>
 and He led also Him to Jerusalem and set him upon the pinnacle of the temple and said to Him; If the Son You are <the> of God, do cast Yourself from here down;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.8|<< Luke 4:8]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.10|Luke 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | He led |**<big>[[G0071\|Ἤγαγεν]]</big>**  |Ēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

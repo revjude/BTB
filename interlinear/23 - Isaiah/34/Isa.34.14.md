@@ -1,4 +1,4 @@
-**Isaiah 34:14** 
+**Isaiah 34:14**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The desert creatures will meet with hyenas, and one wild goat will call to anoth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.13|<< Isaiah 34:13]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.15|Isaiah 34:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will meet  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6298\|פָגְשׁ֤וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.ge.Shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | desert-dwellers  |**<big>&#8207;[[H6728\|צִיִּים֙]]&#8207; </big>**| tzi.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

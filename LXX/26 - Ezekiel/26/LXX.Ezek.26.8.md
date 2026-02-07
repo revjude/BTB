@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:8** 
 <small><sub>**LXX:**</sub></small>
 This one  will do away with your daughters in the plain \[by the\] sword; and he will appoint against you an advance guard, and he will enclose you, and a trench around you, and he will enclose upon you \[with\] a siege mound round about, and a surrounding of shields, and  he shall appoint his lances before you. 
-<small><sub>**KJV:**</sub></small>
-He shall slay with the sword thy daughters in the field: and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee.
-<small><sub>**BSB:**</sub></small>
-He will slaughter the villages of your mainland with the sword; he will set up siege works against you, build a ramp to your walls, and raise his shields against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.7|<< Ezekiel 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.9|Ezekiel 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

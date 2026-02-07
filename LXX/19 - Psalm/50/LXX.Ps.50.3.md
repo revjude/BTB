@@ -1,10 +1,7 @@
 **LXX Psalm 50:3** 
 <small><sub>**LXX:**</sub></small>
  God visibly shall come,  our God, and he will not remain silent. A fire before him shall burn; and round about him an exceeding gale. 
-<small><sub>**KJV:**</sub></small>
-Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.
-<small><sub>**BSB:**</sub></small>
-Our God approaches and will not be silent! Consuming fire precedes Him, and a tempest rages around Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.2|<< Psalm 50:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.4|Psalm 50:4 >>]]</td></tr></table>
 
 | Translation | Greek |

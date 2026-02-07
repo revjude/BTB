@@ -1,4 +1,4 @@
-**Isaiah 17:13** 
+**Isaiah 17:13**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nations shall rush like the rushing of many waters: but [God] shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nations rage like the rush of many waters. He rebukes them, and they flee fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.12|<< Isaiah 17:12]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.14|Isaiah 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nations  |**<big>&#8207;[[H3816\|לְאֻמִּ֗ים]]&#8207; </big>**| le.'u.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] uproar of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7588\|שְׁא֞וֹן]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

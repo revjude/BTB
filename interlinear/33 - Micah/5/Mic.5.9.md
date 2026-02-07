@@ -1,4 +1,4 @@
-**Micah 5:9** (5:8)
+**Micah 5:9**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your hand will be lifted over your foes, and all your enemies will be cut off.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.8|<< Micah 5:8]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.10|Micah 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be lifted up  |**<big>&#8207;[[H7311A\|תָּרֹ֥ם]]&#8207; </big>**| ta.Rom<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand your  |**<big>&#8207;[[H3027G\|יָדְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

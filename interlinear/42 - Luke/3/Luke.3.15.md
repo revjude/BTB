@@ -1,12 +1,12 @@
-**Luke 3:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:15**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
 <small><sub>**BSB:**</sub></small>
 The people were waiting expectantly and were all wondering in their hearts if John could be the Christ.
 <small><sub>**Literal:**</sub></small>
 When were expecting then the people and wondering all in the hearts of them concerning <the> John, whether he himself would be the Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.14|<< Luke 3:14]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.16|Luke 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were expecting |**<big>[[G4328\|Προσδοκῶντος]]</big>**  |Prosdokōntos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

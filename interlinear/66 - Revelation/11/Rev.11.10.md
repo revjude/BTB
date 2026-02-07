@@ -1,5 +1,5 @@
-**Revelation 11:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:10**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 <small><sub>**BSB:**</sub></small>
 And those who dwell on the earth will gloat over them and celebrate and send one another gifts, because these two prophets had tormented them.
@@ -10,7 +10,7 @@ And those dwelling on the earth does rejoice over them and does make merry and g
 > $\quad$ alluding to: [[LXX.Esth.9.22|Esth 9:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 54:5** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span>, the one making you, \[the\] <span class="smallcaps">lord</span> of Hosts \[is\] his name; and the one rescuing you, he \[is\] the God of Israel. He shall be called God of all the earth. 
-<small><sub>**KJV:**</sub></small>
-For thy Maker [is] thine husband; the LORD of hosts [is] his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
-<small><sub>**BSB:**</sub></small>
-For your husband is your Maker—the LORD of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.4|<< Isaiah 54:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.6|Isaiah 54:6 >>]]</td></tr></table>
 
 | Translation | Greek |

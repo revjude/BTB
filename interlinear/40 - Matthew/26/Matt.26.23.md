@@ -1,12 +1,12 @@
-**Matthew 26:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:23**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered and said, He that dippeth [his] hand with me in the dish, the same shall betray me.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “The one who has dipped his hand into the bowl with Me will betray Me.
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said; The [one] having dipped with Me the hand in the dish he Me will betray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.22|<< Matthew 26:22]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.24|Matthew 26:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:12** 
 <small><sub>**LXX:**</sub></small>
 How shall I be able alone to bear  your toil, and  support you, and  your disputes? 
-<small><sub>**KJV:**</sub></small>
-How can I myself alone bear your cumbrance, and your burden, and your strife?
-<small><sub>**BSB:**</sub></small>
-But how can I bear your troubles, burdens, and disputes all by myself?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.11|<< Deuteronomy 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.13|Deuteronomy 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

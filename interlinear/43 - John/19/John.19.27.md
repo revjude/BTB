@@ -1,12 +1,12 @@
-**John 19:27
-**<small><sub>**KJV:**</sub></small>
+**John 19:27**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own [home].
 <small><sub>**BSB:**</sub></small>
 Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home.
 <small><sub>**Literal:**</sub></small>
 Then He says to the disciple; behold the mother of you. And from that [very] <the> hour took the disciple her to <the> [his] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.26|<< John 19:26]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.28|John 19:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

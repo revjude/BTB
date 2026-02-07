@@ -1,10 +1,7 @@
 **LXX Psalm 71:9** 
 <small><sub>**LXX:**</sub></small>
 You should not throw me away in \[the\] time of old age; in the failing  of my strength you should not abandon me. 
-<small><sub>**KJV:**</sub></small>
-Cast me not off in the time of old age; forsake me not when my strength faileth.
-<small><sub>**BSB:**</sub></small>
-Do not discard me in my old age; do not forsake me when my strength fails.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.8|<< Psalm 71:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.10|Psalm 71:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 78:39** 
+**Psalms 78:39**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he remembered that they [were but] flesh; a wind that passeth away, and cometh not again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He remembered that they were but flesh, a passing breeze that does not return.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.38|<< Psalms 78:38]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.40|Psalms 78:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he remembered  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H2142\|יִּזְכֹּר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiz.kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

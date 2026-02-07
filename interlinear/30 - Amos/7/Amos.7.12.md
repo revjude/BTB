@@ -1,4 +1,4 @@
-**Amos 7:12** 
+**Amos 7:12**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Amaziah said to Amos, “Go away, you seer! Flee to the land of Judah; earn 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.11|<< Amos 7:11]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.13|Amos 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558J\|אֲמַצְיָה֙]]&#8207; </big>**| 'a.matz.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

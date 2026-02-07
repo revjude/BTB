@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:65** 
 <small><sub>**LXX:**</sub></small>
 And Arthasastha said to them, that they should not eat from the holy  of holies until a priest should rise up to the lights and the perfections. 
-<small><sub>**KJV:**</sub></small>
-And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood [up] a priest with Urim and Thummim.
-<small><sub>**BSB:**</sub></small>
-The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
 | Translation | Greek |

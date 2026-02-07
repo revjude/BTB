@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:14** 
 <small><sub>**LXX:**</sub></small>
 And they rose up and demolished the altars in Jerusalem; and all in which they burned incense to the lying \[idols\] they tore down and tossed into the rushing stream Kidron. 
-<small><sub>**KJV:**</sub></small>
-And they arose and took away the altars that [were] in Jerusalem, and all the altars for incense took they away, and cast [them] into the brook Kidron.
-<small><sub>**BSB:**</sub></small>
-They proceeded to remove the altars in Jerusalem and to take away the incense altars and throw them into the Kidron Valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.13|<< 2 Chronicles 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.15|2 Chronicles 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

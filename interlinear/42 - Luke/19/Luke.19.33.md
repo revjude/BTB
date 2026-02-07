@@ -1,12 +1,12 @@
-**Luke 19:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:33**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?
 <small><sub>**BSB:**</sub></small>
 As they were untying the colt, its owners asked, “Why are you untying the colt?”
 <small><sub>**Literal:**</sub></small>
 When are untying then they the colt said the masters of it to them; Why untie you the colt?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.32|<< Luke 19:32]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.34|Luke 19:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are untying |**<big>[[G3089\|λυόντων]]</big>**  |luontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

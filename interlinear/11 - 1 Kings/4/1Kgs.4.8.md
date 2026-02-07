@@ -1,4 +1,4 @@
-**1 Kings 4:8** 
+**1 Kings 4:8**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] their names: The son of Hur, in mount Ephraim:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and these were their names: Ben-hur in the hill country of Ephraim;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.7|<< 1 Kings 4:7]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.9|1 Kings 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] names their  |**<big>&#8207;[[H8034\|שְׁמוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

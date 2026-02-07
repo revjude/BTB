@@ -1,4 +1,4 @@
-**Psalms 34:10** (34:11)
+**Psalms 34:10**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good [thing].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Young lions go lacking and hungry, but those who seek the LORD lack no good thin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.9|<< Psalms 34:9]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.11|Psalms 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | young lions  |**<big>&#8207;[[H3715A\|כְּ֭פִירִים]]&#8207; </big>**| Ke.fi.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are in want  |**<big>&#8207;[[H7326\|רָשׁ֣וּ]]&#8207; </big>**| ra.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

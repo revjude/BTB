@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:6** 
 <small><sub>**LXX:**</sub></small>
 he shall not eat \[to idols\] upon the mountains, and  his eyes in no way shall be lifted up to the thoughts of \[the\] house of Israel; and the wife  of his neighbor in no way shall he defile, and to \[the\] wife being in menstruation he shall not draw near, 
-<small><sub>**KJV:**</sub></small>
-[And] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,
-<small><sub>**BSB:**</sub></small>
-He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.5|<< Ezekiel 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.7|Ezekiel 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

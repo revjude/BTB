@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:14** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the first beating which Jonathan struck and the one carrying  his weapons, \[was\] about twenty men by arrows, and by rock slinging, and by pebbles of the plain. 
-<small><sub>**KJV:**</sub></small>
-And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half acre of land, [which] a yoke [of oxen might plow].
-<small><sub>**BSB:**</sub></small>
-In that first assault, Jonathan and his armor-bearer struck down about twenty men in about half an acre of land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.13|<< 1 Samuel 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.15|1 Samuel 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

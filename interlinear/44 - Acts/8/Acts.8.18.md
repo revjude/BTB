@@ -1,12 +1,12 @@
-**Acts 8:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:18**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,
 <small><sub>**BSB:**</sub></small>
 When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money.
 <small><sub>**Literal:**</sub></small>
 having seen now <the> of Simon that through the laying on of the hands of the apostles was given the Spirit <the> holy he offered to them money<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.17|<< Acts 8:17]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.19|Acts 8:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having seen [^1] |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

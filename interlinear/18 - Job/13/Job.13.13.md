@@ -1,4 +1,4 @@
-**Job 13:13** 
+**Job 13:13**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hold your peace, let me alone, that I may speak, and let come on me what [will].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be silent, and I will speak. Then let come to me what may.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.12|<< Job 13:12]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.14|Job 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be silent  |**<big>&#8207;[[H2790B\|הַחֲרִ֣ישׁוּ]]&#8207; </big>**| ha.cha.Ri.shu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִ֭מֶּ]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| Mi.me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

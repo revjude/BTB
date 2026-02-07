@@ -1,10 +1,7 @@
 **LXX Joshua 2:16** 
 <small><sub>**LXX:**</sub></small>
 And she said to them, Go forth into the mountainous area, lest \[there\] should meet up with you the ones pursuing! And you shall be hidden there three days until whenever the ones pursuing after you should return; and after this you shall go forth into  your way. 
-<small><sub>**KJV:**</sub></small>
-And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
-<small><sub>**BSB:**</sub></small>
-“Go to the hill country,” she said, “so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.15|<< Joshua 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.17|Joshua 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

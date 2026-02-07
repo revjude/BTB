@@ -1,10 +1,7 @@
 **LXX Job 30:12** 
 <small><sub>**LXX:**</sub></small>
 They rose up against \[me\] on \[the\] right \[hand\] of \[their\] offspring. He stretched out his feet and opened against me; \[with\] paths of their destruction 
-<small><sub>**KJV:**</sub></small>
-Upon [my] right [hand] rise the youth; they push away my feet, and they raise up against me the ways of their destruction.
-<small><sub>**BSB:**</sub></small>
-The rabble arises at my right; they lay snares for my feet and build siege ramps against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.11|<< Job 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.13|Job 30:13 >>]]</td></tr></table>
 
 | Translation | Greek |

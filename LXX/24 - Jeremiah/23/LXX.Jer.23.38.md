@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:38** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Because you said  this word, \[The\] concern of \[the\] <span class="smallcaps">lord</span>, that I sent to you, saying, You shall not say, \[The\] concern of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But since ye say, The burden of the LORD; therefore thus saith the LORD; Because ye say this word, The burden of the LORD, and I have sent unto you, saying, Ye shall not say, The burden of the LORD;
-<small><sub>**BSB:**</sub></small>
-But if you claim, ‘This is the burden of the LORD,’ then this is what the LORD says: Because you have said, ‘This is the burden of the LORD,’ and I specifically told you not to make this claim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.37|<< Jeremiah 23:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.39|Jeremiah 23:39 >>]]</td></tr></table>
 
 | Translation | Greek |

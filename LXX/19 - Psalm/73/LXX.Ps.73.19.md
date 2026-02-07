@@ -1,10 +1,7 @@
 **LXX Psalm 73:19** 
 <small><sub>**LXX:**</sub></small>
 O how they became for desolation. Suddenly they failed; they were destroyed because of  their lawlessness. 
-<small><sub>**KJV:**</sub></small>
-How are they [brought] into desolation, as in a moment! they are utterly consumed with terrors.
-<small><sub>**BSB:**</sub></small>
-How suddenly they are laid waste, completely swept away by terrors!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.18|<< Psalm 73:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.20|Psalm 73:20 >>]]</td></tr></table>
 
 | Translation | Greek |

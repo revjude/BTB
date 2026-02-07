@@ -1,10 +1,7 @@
 **LXX Isaiah 63:11** 
 <small><sub>**LXX:**</sub></small>
 And he remembered everlasting days; the bringing up from the land the shepherd of the sheep. Where is the one putting the holy spirit in them? 
-<small><sub>**KJV:**</sub></small>
-Then he remembered the days of old, Moses, [and] his people, [saying], Where [is] he that brought them up out of the sea with the shepherd of his flock? where [is] he that put his holy Spirit within him?
-<small><sub>**BSB:**</sub></small>
-Then His people remembered the days of old, the days of Moses. Where is He who brought them through the sea with the shepherds of His flock? Where is the One who set His Holy Spirit among them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.10|<< Isaiah 63:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.12|Isaiah 63:12 >>]]</td></tr></table>
 
 | Translation | Greek |

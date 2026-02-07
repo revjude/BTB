@@ -1,4 +1,4 @@
-**Genesis 9:21** 
+**Genesis 9:21**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he drank of the wine, and was drunken; and he was uncovered within his tent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when he drank some of its wine, he became drunk and uncovered himself inside
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.20|<< Genesis 9:20]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.22|Genesis 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drank  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8354\|יֵּ֥שְׁתְּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

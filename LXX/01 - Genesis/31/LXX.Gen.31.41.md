@@ -1,10 +1,7 @@
 **LXX Genesis 31:41** 
 <small><sub>**LXX:**</sub></small>
 These  twenty years I am in  your residence. I served you fourteen years for  your two daughters, and six years among  your sheep, and you cheated  my wage \[by\] ten ewe-lambs. 
-<small><sub>**KJV:**</sub></small>
-Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.
-<small><sub>**BSB:**</sub></small>
-Thus for twenty years I have served in your household—fourteen years for your two daughters and six years for your flocks—and you have changed my wages ten times!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.40|<< Genesis 31:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.42|Genesis 31:42 >>]]</td></tr></table>
 
 | Translation | Greek |

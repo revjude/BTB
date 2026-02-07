@@ -1,10 +1,7 @@
 **LXX Hosea 3:5** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] the sons of Israel shall return, and they shall seek \[the\] <span class="smallcaps">lord</span>  their God, and David  their king; and they shall be amazed over the <span class="smallcaps">lord</span>, and over  his good \[things\] at \[the\] latter end of the days. 
-<small><sub>**KJV:**</sub></small>
-Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
-<small><sub>**BSB:**</sub></small>
-Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.4|<< Hosea 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.1|Hosea 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

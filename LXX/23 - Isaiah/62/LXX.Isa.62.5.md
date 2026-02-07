@@ -1,10 +1,7 @@
 **LXX Isaiah 62:5** 
 <small><sub>**LXX:**</sub></small>
 And as a young man living with a virgin, so your sons dwell with you. And it will be in which manner a groom shall be glad over a bride, so \[the\] <span class="smallcaps">lord</span> will be glad over you. 
-<small><sub>**KJV:**</sub></small>
-For [as] a young man marrieth a virgin, [so] shall thy sons marry thee: and [as] the bridegroom rejoiceth over the bride, [so] shall thy God rejoice over thee.
-<small><sub>**BSB:**</sub></small>
-For as a young man marries a young woman, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.4|<< Isaiah 62:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.6|Isaiah 62:6 >>]]</td></tr></table>
 
 | Translation | Greek |

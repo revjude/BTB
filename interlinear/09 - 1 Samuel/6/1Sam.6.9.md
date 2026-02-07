@@ -1,4 +1,4 @@
-**1 Samuel 6:9** 
+**1 Samuel 6:9**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And see, if it goeth up by the way of his own coast to Bethshemesh, [then] he hath done us this great evil: but if not, then we shall know that [it is] not his hand [that] smote us; it [was] a chance [that] happened to us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but keep watching it. If it goes up the road to its homeland, toward Beth-shemes
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.8|<< 1 Samuel 6:8]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.10|1 Samuel 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will see  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתֶ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

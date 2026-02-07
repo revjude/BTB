@@ -1,10 +1,7 @@
 **LXX Psalm 110:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall send out to you a rod of power from out of Zion; and you dominate in \[the\] midst  of your enemies! 
-<small><sub>**KJV:**</sub></small>
-The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
-<small><sub>**BSB:**</sub></small>
-The LORD extends Your mighty scepter from Zion: “Rule in the midst of Your enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.110.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.110.1|<< Psalm 110:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.3|Psalm 110:3 >>]]</td></tr></table>
 
 | Translation | Greek |

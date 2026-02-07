@@ -1,10 +1,7 @@
 **LXX Judges 19:23** 
 <small><sub>**LXX:**</sub></small>
 And the man came forth to them, the master of the house, and he said to them, By no means, my brethren, you should not do evil indeed with  this man entering into  my house; you should not do  this folly. 
-<small><sub>**KJV:**</sub></small>
-And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, [nay], I pray you, do not [so] wickedly; seeing that this man is come into mine house, do not this folly.
-<small><sub>**BSB:**</sub></small>
-The owner of the house went out and said to them, “No, my brothers, do not do this wicked thing! After all, this man is a guest in my house. Do not commit this outrage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.22|<< Judges 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.24|Judges 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

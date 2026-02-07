@@ -1,12 +1,12 @@
-**Acts 9:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:30**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Which] when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 <small><sub>**BSB:**</sub></small>
 When the brothers learned of this, they took him down to Caesarea and sent him off to Tarsus.
 <small><sub>**Literal:**</sub></small>
 Having known [it] however the brothers brought down him to Caesarea and sent away him to Tarsus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.29|<< Acts 9:29]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.31|Acts 9:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known [it] |**<big>[[G1921\|ἐπιγνόντες]]</big>**  |epignontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

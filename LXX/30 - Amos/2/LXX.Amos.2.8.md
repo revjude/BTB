@@ -1,10 +1,7 @@
 **LXX Amos 2:8** 
 <small><sub>**LXX:**</sub></small>
 And  binding their garments with rough cords, they made canopies next to the altar; and wine of extortions they drank in the house  of their God. 
-<small><sub>**KJV:**</sub></small>
-And they lay [themselves] down upon clothes laid to pledge by every altar, and they drink the wine of the condemned [in] the house of their god.
-<small><sub>**BSB:**</sub></small>
-They lie down beside every altar on garments taken in pledge. And in the house of their God, they drink wine obtained through fines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.7|<< Amos 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.9|Amos 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

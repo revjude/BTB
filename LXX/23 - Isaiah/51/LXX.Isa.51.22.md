@@ -1,10 +1,7 @@
 **LXX Isaiah 51:22** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God, the one judging  his people, Behold, I took from out of  your hand the cup of the blow, the drinking cup  of my rage; and you shall not proceed to drink it any longer. 
-<small><sub>**KJV:**</sub></small>
-Thus saith thy Lord the LORD, and thy God [that] pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, [even] the dregs of the cup of my fury; thou shalt no more drink it again:
-<small><sub>**BSB:**</sub></small>
-Thus says your Lord, the LORD, even your God, who defends His people: “See, I have removed from your hand the cup of staggering. From that goblet, the cup of My fury, you will never drink again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.21|<< Isaiah 51:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.23|Isaiah 51:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 51:22** is...

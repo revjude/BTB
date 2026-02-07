@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:6** 
 <small><sub>**LXX:**</sub></small>
 And David said to  his men, By no means \[be it\] to me from \[the\] <span class="smallcaps">lord</span> if I should do  this thing \[to\] my master, to the anointed one of \[the\] <span class="smallcaps">lord</span>, to bear my hand against him, for this is \[the\] anointed one \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’S anointed, to stretch forth mine hand against him, seeing he [is] the anointed of the LORD.
-<small><sub>**BSB:**</sub></small>
-So he said to his men, “The LORD forbid that I should do such a thing to my master, the LORD’s anointed. May I never lift my hand against him, since he is the LORD’s anointed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.5|<< 1 Samuel 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.7|1 Samuel 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

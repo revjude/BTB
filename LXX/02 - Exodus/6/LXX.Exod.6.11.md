@@ -1,10 +1,7 @@
 **LXX Exodus 6:11** 
 <small><sub>**LXX:**</sub></small>
 Enter, speak to Pharaoh king of Egypt! that he may send out the sons of Israel from  his land. 
-<small><sub>**KJV:**</sub></small>
-Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.
-<small><sub>**BSB:**</sub></small>
-“Go and tell Pharaoh king of Egypt to let the Israelites go out of his land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.10|<< Exodus 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.12|Exodus 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

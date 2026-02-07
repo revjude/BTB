@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abner said to him, Turn aside to the right or to the left, and constrain to yourself one of the servant-lads, and take to yourself  his full armor! And Asahel did not want to turn aside from  \[being\] behind him. 
-<small><sub>**KJV:**</sub></small>
-And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his armour. But Asahel would not turn aside from following of him.
-<small><sub>**BSB:**</sub></small>
-So Abner told him, “Turn to your right or to your left, seize one of the young men, and take his equipment for yourself.” But Asahel would not stop chasing him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.20|<< 2 Samuel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.22|2 Samuel 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

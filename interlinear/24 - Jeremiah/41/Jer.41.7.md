@@ -1,4 +1,4 @@
-**Jeremiah 41:7** 
+**Jeremiah 41:7**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when they came into the midst of the city, that Ishmael the son of Nethaniah slew them, [and cast them] into the midst of the pit, he, and the men that [were] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when they came into the city, Ishmael son of Nethaniah and the men with him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.6|<< Jeremiah 41:6]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.8|Jeremiah 41:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came they  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|בוֹאָ֖]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

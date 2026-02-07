@@ -1,12 +1,12 @@
-**Luke 9:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:26**<big><big>[[Luke.9.23 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and [in his] Father’s, and of the holy angels.
 <small><sub>**BSB:**</sub></small>
 If anyone is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory and in the glory of the Father and of the holy angels.
 <small><sub>**Literal:**</sub></small>
 Who[ever] for maybe may have been ashamed of Me and <the> My words, him the Son <the> of Man will be ashamed of when He may come in the glory of Himself and of the Father and of the holy angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.25|<< Luke 9:25]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.27|Luke 9:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 5:14** 
 <small><sub>**LXX:**</sub></small>
 and there should come upon him a spirit of jealousy, and he should be jealous  of his wife, and she be defiled; or there should come upon him a spirit of jealousy and he should be jealous  of his wife, and she should not be defiled; 
-<small><sub>**KJV:**</sub></small>
-And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
-<small><sub>**BSB:**</sub></small>
-and if a feeling of jealousy comes over her husband and he suspects his wife who has defiled herself—or if a feeling of jealousy comes over him and he suspects her even though she has not defiled herself—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.13|<< Numbers 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.15|Numbers 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

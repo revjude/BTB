@@ -1,4 +1,4 @@
-**Isaiah 5:26** 
+**Isaiah 5:26**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He lifts a banner for the distant nations and whistles for those at the ends of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.25|<< Isaiah 5:25]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.27|Isaiah 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lift up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375G\|נָֽשָׂא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.sa'-<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a standard  |**<big>&#8207;[[H5251H\|נֵ֤ס]]&#8207; </big>**| nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Peter 5:11
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:11**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To him [be] glory and dominion for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 To Him be the power forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 To Him [be] the glory and the power to the ages of the ages. Amen..<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.10|<< 1 Peter 5:10]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.12|1 Peter 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Him [be] |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

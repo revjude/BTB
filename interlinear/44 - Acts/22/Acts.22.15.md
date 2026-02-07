@@ -1,12 +1,12 @@
-**Acts 22:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:15**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For thou shalt be his witness unto all men of what thou hast seen and heard.
 <small><sub>**BSB:**</sub></small>
 You will be His witness to everyone of what you have seen and heard.
 <small><sub>**Literal:**</sub></small>
 For you will be a witness for Him to all men of what you have seen and heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.14|<< Acts 22:14]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.16|Acts 22:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will be |**<big>[[G1510\|ἔσῃ]]</big>**  |esē <small><sup>[[V-FDI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

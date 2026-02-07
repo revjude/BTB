@@ -1,12 +1,12 @@
-**Acts 19:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:24**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a certain [man] named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 <small><sub>**BSB:**</sub></small>
 It began with a silversmith named Demetrius who made silver shrines of Artemis, bringing much business to the craftsmen.
 <small><sub>**Literal:**</sub></small>
 Demetrius for a certain [man] named, a silversmith making shrines silver of Artemis, was bringing to the craftsmen no little business<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.23|<< Acts 19:23]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.25|Acts 19:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Demetrius |**<big>[[G1216\|Δημήτριος]]</big>**  |Dēmētrios <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

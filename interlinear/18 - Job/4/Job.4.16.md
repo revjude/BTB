@@ -1,4 +1,4 @@
-**Job 4:16** 
+**Job 4:16**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It stood still, but I could not discern the form thereof: an image [was] before mine eyes, [there was] silence, and I heard a voice, [saying],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It stood still, but I could not discern its appearance; a form loomed before my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.15|<< Job 4:15]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.17|Job 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it stood still  |**<big>&#8207;[[H5975G\|יַעֲמֹ֤ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.'a.Mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

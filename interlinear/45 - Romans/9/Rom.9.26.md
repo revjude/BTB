@@ -1,5 +1,5 @@
-**Romans 9:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:26**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] in the place where it was said unto them, Ye [are] not my people; there shall they be called the children of the living God.
 <small><sub>**BSB:**</sub></small>
 and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’”
@@ -10,7 +10,7 @@ and It will happen that in the place where it was said to them; Not people of Mi
 > $\quad$ referencing: [[LXX.Hos.1.10|Hos 1:10]] ☩ [[LXX.Hos.2.1|Hos 2:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | It will happen that |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

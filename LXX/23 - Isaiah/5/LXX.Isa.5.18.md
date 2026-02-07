@@ -1,10 +1,7 @@
 **LXX Isaiah 5:18** 
 <small><sub>**LXX:**</sub></small>
 Woe to the ones drawing  sins as \[with\] a long rough cord, and lawlessnesses. as \[with\] a yoke strap of a heifer 
-<small><sub>**KJV:**</sub></small>
-Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:
-<small><sub>**BSB:**</sub></small>
-Woe to those who draw iniquity with cords of deceit and pull sin along with cart ropes,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.17|<< Isaiah 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.19|Isaiah 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:9** 
 <small><sub>**LXX:**</sub></small>
 And Gedaliah swore by an oath to them and \[to\] their men, saying, Lest you should fear from \[the\] face of the servants of the Chaldeans, dwell in the land, and work for the king of Babylon! and it will be better for you. 
-<small><sub>**KJV:**</sub></small>
-And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.
-<small><sub>**BSB:**</sub></small>
-Gedaliah son of Ahikam, the son of Shaphan, swore an oath to them and their men, assuring them, “Do not be afraid to serve the Chaldeans. Live in the land and serve the king of Babylon, and it will go well with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.8|<< Jeremiah 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.10|Jeremiah 40:10 >>]]</td></tr></table>
 
 | Translation | Greek |

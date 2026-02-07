@@ -1,12 +1,12 @@
-**Luke 6:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:48**<big><big>[[Luke.6.46 The House on the Rock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 <small><sub>**BSB:**</sub></small>
 He is like a man building a house, who dug down deep and laid his foundation on the rock. When the flood came, the torrent crashed against that house but could not shake it, because it was well built.
 <small><sub>**Literal:**</sub></small>
 Like he is to a man building a house who dug and he deepened and he laid a foundation on the rock. when a flood then having come burst upon the stream the house that, and not was able to shake it because <the> well to have been built it upon the rock.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.47|<< Luke 6:47]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.49|Luke 6:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Like |**<big>[[G3664\|ὅμοιός]]</big>**  |homoios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

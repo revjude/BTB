@@ -1,5 +1,5 @@
-**Romans 14:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:11**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written, [As] I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.
 <small><sub>**BSB:**</sub></small>
 It is written: “As surely as I live, says the Lord, every knee will bow before Me; every tongue will confess to God.”
@@ -10,7 +10,7 @@ It has been written for: Live I myself, says [the] Lord, that to Me myself will 
 > $\quad$ referencing: [[LXX.Isa.45.23|Isa 45:23]] ☩ [[LXX.Isa.49.18|Isa 49:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for: |**<big>[[G1063\|γάρ·]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

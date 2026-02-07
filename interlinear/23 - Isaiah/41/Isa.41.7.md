@@ -1,4 +1,4 @@
-**Isaiah 41:7** 
+**Isaiah 41:7**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the carpenter encouraged the goldsmith, [and] he that smootheth [with] the hammer him that smote the anvil, saying, It [is] ready for the sodering: and he fastened it with nails, [that] it should not be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The craftsman encourages the goldsmith, and he who wields the hammer cheers him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.6|<< Isaiah 41:6]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.8|Isaiah 41:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he encouraged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יְחַזֵּ֤ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a craftsman  |**<big>&#8207;[[H2796\|חָרָשׁ֙]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Ephesians 5:5
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:5**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
 <small><sub>**BSB:**</sub></small>
 For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God.
 <small><sub>**Literal:**</sub></small>
 This for you should know realizing that any fornicator or unclean person or covetous man, who is an idolater, not has inheritance in the kingdom <the> of Christ and of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.4|<< Ephesians 5:4]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.6|Ephesians 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

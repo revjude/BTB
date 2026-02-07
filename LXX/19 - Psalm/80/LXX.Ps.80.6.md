@@ -1,10 +1,7 @@
 **LXX Psalm 80:6** 
 <small><sub>**LXX:**</sub></small>
 You made us for dispute \[to\] our neighbors; and  our enemies sneer at us. 
-<small><sub>**KJV:**</sub></small>
-Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.
-<small><sub>**BSB:**</sub></small>
-You make us contend with our neighbors; our enemies mock us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.5|<< Psalm 80:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.7|Psalm 80:7 >>]]</td></tr></table>
 
 | Translation | Greek |

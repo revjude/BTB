@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he died in a good old age, full of days, in wealth, and glory. And Solomon his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-He died at a ripe old age, full of years, riches, and honor, and his son Solomon reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.27|<< 1 Chronicles 29:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.29|1 Chronicles 29:29 >>]]</td></tr></table>
 
 | Translation | Greek |

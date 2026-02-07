@@ -1,4 +1,4 @@
-**Psalms 78:55** 
+**Psalms 78:55**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He drove out nations before them and apportioned their inheritance; He settled t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.54|<< Psalms 78:54]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.56|Psalms 78:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drove out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1644G\|יְגָ֤רֶשׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Ga.resh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before them  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

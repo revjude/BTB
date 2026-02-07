@@ -1,4 +1,4 @@
-**Ecclesiastes 7:28** 
+**Ecclesiastes 7:28**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While my soul was still searching but not finding, among a thousand I have found
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.27|<< Ecclesiastes 7:27]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.29|Ecclesiastes 7:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֛ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|עוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'od-<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

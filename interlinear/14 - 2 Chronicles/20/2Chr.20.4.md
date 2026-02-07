@@ -1,4 +1,4 @@
-**2 Chronicles 20:4** 
+**2 Chronicles 20:4**<big><big>[[2Chr.20.1 War against Jehoshaphat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah gathered themselves together, to ask [help] of the LORD: even out of all the cities of Judah they came to seek the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the people of Judah gathered to seek the LORD, and indeed, they came from all
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.3|<< 2 Chronicles 20:3]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.5|2 Chronicles 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקָּבְצ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ve.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **Genesis 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4|<< Genesis 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6|Genesis 6 >>]]</td></tr></table>
 
-***The Descendants of Adam***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:1–3]] ]</sup></small> ^bsb18
+<big><big>[[Gen.5.1 The Descendants of Adam|⥃]]</big></big>***The Descendants of Adam***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:1–3]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.5.1|1]]**<span class="endversemarker">]</span> This \[is\] the book<small><small>[^2]</small></small> of the generations of Adam. In the day that God created man, in the likeness<small><small>[^3]</small></small> of God made he him; <span class="startversemarker">[</span>**[[Gen.5.2|2]]**<span class="endversemarker">]</span> Male<small><small>[^4]</small></small> and female created he them; and blessed them, and called their<small><small>[^5]</small></small> name Adam, in the day when they were created. 
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.5.12|12]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.5.15|15]]**<span class="endversemarker">]</span> [¶]And Mahalaleel lived sixty and five years, and begat Jared<small><small>[^27]</small></small>:<small><small>[^28]</small></small> <span class="startversemarker">[</span>**[[Gen.5.16|16]]**<span class="endversemarker">]</span> And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat<small><small>[^29]</small></small> sons and daughters: <span class="startversemarker">[</span>**[[Gen.5.17|17]]**<span class="endversemarker">]</span> And all the days of Mahalaleel were eight hundred ninety and five years: and he died<small><small>[^30]</small></small>.<small><small>[^31]</small></small>
 
-***God Takes Up Enoch***&emsp;<small><sup>\[ [[Heb.11|Hebrews 11:5]] ]</sup></small> ^bsb19
+<big><big>[[Gen.5.18 God Takes Up Enoch|⥃]]</big></big>***God Takes Up Enoch***&emsp;<small><sup>\[ [[Heb.11|Hebrews 11:5]] ]</sup></small>
 
  
 
@@ -20,7 +20,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.5.18|18]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.5.21|21]]**<span class="endversemarker">]</span> And Enoch lived sixty and five years, and begat Methuselah<small><small>[^36]</small></small>:<small><small>[^37]</small></small> <span class="startversemarker">[</span>**[[Gen.5.22|22]]**<span class="endversemarker">]</span> And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:<small><small>[^38]</small></small> <span class="startversemarker">[</span>**[[Gen.5.23|23]]**<span class="endversemarker">]</span> And all the days of Enoch were three hundred sixty and five years:<small><small>[^39]</small></small> <span class="startversemarker">[</span>**[[Gen.5.24|24]]**<span class="endversemarker">]</span> And Enoch walked<small><small>[^40]</small></small> with God: and he \[was\] not<small><small>[^41]</small></small>; for<small><small>[^42]</small></small> God took him.
 
-***From Methuselah to Noah*** ^bsb20
+<big><big>[[Gen.5.25 From Methuselah to Noah|⥃]]</big></big>***From Methuselah to Noah***
 
  <span class="startversemarker">[</span>**[[Gen.5.25|25]]**<span class="endversemarker">]</span> And Methuselah lived an hundred eighty and seven years, and begat Lamech:<small><small>[^43]</small></small> <span class="startversemarker">[</span>**[[Gen.5.26|26]]**<span class="endversemarker">]</span> And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons<small><small>[^44]</small></small> and daughters: <span class="startversemarker">[</span>**[[Gen.5.27|27]]**<span class="endversemarker">]</span> And all the days of Methuselah were nine hundred sixty and nine years: and he died<small><small>[^45]</small></small>.<small><small>[^46]</small></small> 
 

@@ -1,10 +1,7 @@
 **LXX Genesis 3:8** 
 <small><sub>**LXX:**</sub></small>
 And they heard the voice of \[the\] <span class="smallcaps">lord</span>  God walking in the paradise  at dusk. And both Adam and his wife hid from \[the\] face of \[the\] <span class="smallcaps">lord</span>  God in \[the\] midst of the tree of the paradise. 
-<small><sub>**KJV:**</sub></small>
-And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.
-<small><sub>**BSB:**</sub></small>
-Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.7|<< Genesis 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.9|Genesis 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

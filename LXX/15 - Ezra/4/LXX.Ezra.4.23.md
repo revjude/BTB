@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then the tribute-gatherer  of king Artaxerxes read in the presence of Rehum \[the\] master, and Shimshai \[the\] scribe, and his fellow-servants. And they went \[with\] diligence unto Jerusalem and to Judah, and they caused them to cease work with horses and a force. 
-<small><sub>**KJV:**</sub></small>
-Now when the copy of king Artaxerxes’ letter [was] read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power.
-<small><sub>**BSB:**</sub></small>
-When the text of the letter from King Artaxerxes was read to Rehum, Shimshai the scribe, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.22|<< Ezra 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.24|Ezra 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

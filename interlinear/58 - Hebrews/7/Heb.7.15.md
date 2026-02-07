@@ -1,12 +1,12 @@
-**Hebrews 7:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:15**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,
 <small><sub>**BSB:**</sub></small>
 And this point is even more clear if another priest like Melchizedek appears,
 <small><sub>**Literal:**</sub></small>
 And more excessive yet evident it is, if according to the likeness of Melchizedek arises a priest another,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.14|<< Hebrews 7:14]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.16|Hebrews 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | more excessive |**<big>[[G4054\|περισσότερον]]</big>**  |perissoteron <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 14:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:38**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Watch ye and pray, lest ye enter into temptation. The spirit truly [is] ready, but the flesh [is] weak.
 <small><sub>**BSB:**</sub></small>
 Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.”
 <small><sub>**Literal:**</sub></small>
 do watch and do pray so that not you may enter into temptation. The indeed spirit [is] willing, <the> however the flesh weak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.37|<< Mark 14:37]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.39|Mark 14:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do watch |**<big>[[G1127\|γρηγορεῖτε]]</big>**  |grēgoreite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

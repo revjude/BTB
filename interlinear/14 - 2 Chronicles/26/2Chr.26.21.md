@@ -1,4 +1,4 @@
-**2 Chronicles 26:21** 
+**2 Chronicles 26:21**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, [being] a leper; for he was cut off from the house of the LORD: and Jotham his son [was] over the king’s house, judging the people of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So King Uzziah was a leper until the day of his death. He lived in isolation, le
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.20|<< 2 Chronicles 26:20]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.22|2 Chronicles 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Uzziah  |**<big>&#8207;[[H5818G\|עֻזִּיָּ֨הוּ]]&#8207; </big>**| 'u.zi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

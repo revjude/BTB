@@ -1,4 +1,4 @@
-**1 Kings 7:7** 
+**1 Kings 7:7**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he made a porch for the throne where he might judge, [even] the porch of judgment: and [it was] covered with cedar from one side of the floor to the other.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In addition, he built a hall for the throne, the Hall of Justice, where he was t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.6|<< 1 Kings 7:6]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.8|1 Kings 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] porch of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0197I\|אוּלָ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the throne  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3678H\|כִּסֵּא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ki.Se'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

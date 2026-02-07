@@ -1,4 +1,4 @@
-**1 Chronicles 6:48** (6:33)
+**1 Chronicles 6:48**<big><big>[[1Chr.6.48 The Descendants of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their brethren also the Levites [were] appointed unto all manner of service of the tabernacle of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their fellow Levites were assigned to every kind of service of the tabernacle, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.47|<< 1 Chronicles 6:47]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.49|1 Chronicles 6:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251G\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֑ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 21:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:18**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But there shall not an hair of your head perish.
 <small><sub>**BSB:**</sub></small>
 Yet not even a hair of your head will perish.
 <small><sub>**Literal:**</sub></small>
 But a hair of the head of you certainly not may perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.17|<< Luke 21:17]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.19|Luke 21:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a hair |**<big>[[G2359\|θρὶξ]]</big>**  |thrix <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

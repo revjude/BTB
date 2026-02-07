@@ -1,10 +1,7 @@
 **LXX Psalm 145:3** 
 <small><sub>**LXX:**</sub></small>
 Great \[is\] the <span class="smallcaps">lord</span>, and praiseworthy exceedingly, and  of his greatness there is no end. 
-<small><sub>**KJV:**</sub></small>
-Great [is] the LORD, and greatly to be praised; and his greatness [is] unsearchable.
-<small><sub>**BSB:**</sub></small>
-Great is the LORD and greatly to be praised; His greatness is unsearchable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.2|<< Psalm 145:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.4|Psalm 145:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 7:9** 
+**Ezra 7:9**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For upon the first [day] of the first month began he to go up from Babylon, and on the first [day] of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had begun the journey from Babylon on the first day of the first month, and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.8|<< Ezra 7:8]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.10|Ezra 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [day] one  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0259\|אֶחָד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

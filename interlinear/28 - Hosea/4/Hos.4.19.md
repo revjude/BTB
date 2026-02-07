@@ -1,4 +1,4 @@
-**Hosea 4:19** 
+**Hosea 4:19**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The whirlwind has wrapped them in its wings, and their sacrifices will bring the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.18|<< Hosea 4:18]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.1|Hosea 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has wrapped  |**<big>&#8207;[[H6887B\|צָרַ֥ר]]&#8207; </big>**| tza.Rar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wind  |**<big>&#8207;[[H7307H\|ר֛וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

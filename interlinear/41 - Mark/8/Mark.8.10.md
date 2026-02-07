@@ -1,12 +1,12 @@
-**Mark 8:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:10**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.
 <small><sub>**BSB:**</sub></small>
 He immediately got into the boat with His disciples and went to the district of Dalmanutha.
 <small><sub>**Literal:**</sub></small>
 And immediately having climbed into the boat with the disciples of Him He came into the district of Dalmanutha.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.9|<< Mark 8:9]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.11|Mark 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

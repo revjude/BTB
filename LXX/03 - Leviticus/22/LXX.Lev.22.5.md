@@ -1,10 +1,7 @@
 **LXX Leviticus 22:5** 
 <small><sub>**LXX:**</sub></small>
 or who ever should touch any unclean reptile, which should defile him, or \[come\] upon a man in which he shall defile him according to any of his uncleanness; 
-<small><sub>**KJV:**</sub></small>
-Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
-<small><sub>**BSB:**</sub></small>
-or whoever touches a crawling creature or a person that makes him unclean, whatever the uncleanness may be—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.4|<< Leviticus 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.6|Leviticus 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

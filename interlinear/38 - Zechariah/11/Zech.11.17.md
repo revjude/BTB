@@ -1,4 +1,4 @@
-**Zechariah 11:17** 
+**Zechariah 11:17**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the idol shepherd that leaveth the flock! the sword [shall be] upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to the worthless shepherd, who deserts the flock! May a sword strike his arm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.16|<< Zechariah 11:16]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.1|Zechariah 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shepherd of my  |**<big>&#8207;[[H7462B\|רֹעִ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ro.'<small><sup>[[HVqrmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

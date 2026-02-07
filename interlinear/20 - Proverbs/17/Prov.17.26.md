@@ -1,4 +1,4 @@
-**Proverbs 17:26** 
+**Proverbs 17:26**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also to punish the just [is] not good, [nor] to strike princes for equity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is surely not good to punish the innocent or to flog a noble for his honesty.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.25|<< Proverbs 17:25]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.27|Proverbs 17:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to impose a fine  |**<big>&#8207;[[H6064\|עֲנ֣וֹשׁ]]&#8207; </big>**| a.No.osh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

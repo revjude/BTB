@@ -1,10 +1,7 @@
 **LXX Proverbs 7:23** 
 <small><sub>**LXX:**</sub></small>
 striking into the liver; and he hastens as a fowl into a snare, not seeing that he runs for his life. 
-<small><sub>**KJV:**</sub></small>
-Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it [is] for his life.
-<small><sub>**BSB:**</sub></small>
-until an arrow pierces his liver, like a bird darting into a snare—not knowing it will cost him his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.22|<< Proverbs 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.24|Proverbs 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

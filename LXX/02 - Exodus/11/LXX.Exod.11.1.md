@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Still one \[more\] calamity I will bring upon Pharaoh, and upon Egypt, and after this he will send you from here. And whenever he should send you, he will cast you by expulsion with all \[your things\]. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Yet will I bring one plague [more] upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let [you] go, he shall surely thrust you out hence altogether.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place. And when he lets you go, he will drive you out completely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.29|<< Exodus 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.2|Exodus 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

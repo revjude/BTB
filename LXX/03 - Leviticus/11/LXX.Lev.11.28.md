@@ -1,10 +1,7 @@
 **LXX Leviticus 11:28** 
 <small><sub>**LXX:**</sub></small>
 And the \[one\] lifting  of their decaying flesh, he shall wash  his garments, and he will be unclean until evening. These shall be unclean to you. 
-<small><sub>**KJV:**</sub></small>
-And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they [are] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-and anyone who picks up a carcass must wash his clothes, and he will be unclean until evening. They are unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.27|<< Leviticus 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.29|Leviticus 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

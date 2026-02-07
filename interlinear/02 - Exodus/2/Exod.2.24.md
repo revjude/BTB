@@ -1,4 +1,4 @@
-**Exodus 2:24** 
+**Exodus 2:24**<big><big>[[Exod.2.23 God Hears the Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So God heard their groaning, and He remembered His covenant with Abraham, Isaac,
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

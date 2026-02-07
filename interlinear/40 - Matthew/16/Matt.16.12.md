@@ -1,12 +1,12 @@
-**Matthew 16:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:12**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then understood they how that he bade [them] not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 <small><sub>**BSB:**</sub></small>
 Then they understood that He was not telling them to beware of the leaven used in bread, but of the teaching of the Pharisees and Sadducees.
 <small><sub>**Literal:**</sub></small>
 Then they understood that not He said to beware of the leaven of the loaves but of the teaching of the Pharisees and Sadducees.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.11|<< Matthew 16:11]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.13|Matthew 16:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they understood |**<big>[[G4920\|συνῆκαν]]</big>**  |sunēkan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

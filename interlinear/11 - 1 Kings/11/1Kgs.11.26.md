@@ -1,4 +1,4 @@
-**1 Kings 11:26** 
+**1 Kings 11:26**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name [was] Zeruah, a widow woman, even he lifted up [his] hand against the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jeroboam son of Nebat was an Ephraimite from Zeredah whose mother was a wido
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.25|<< 1 Kings 11:25]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.27|1 Kings 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jeroboam  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3379G\|יָרָבְעָם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

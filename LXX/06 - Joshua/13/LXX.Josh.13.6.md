@@ -1,10 +1,7 @@
 **LXX Joshua 13:6** 
 <small><sub>**LXX:**</sub></small>
 every one  dwelling the mountainous area from  Lebanon unto Misrephoth-maim, \[and\] all the ones of Sidon -- I will utterly destroy them from \[the\] face of \[the\] sons of Israel; but distribute it \[to\] Israel by lot! in which manner I charged you. 
-<small><sub>**KJV:**</sub></small>
-All the inhabitants of the hill country from Lebanon unto Misrephothmaim, [and] all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee.
-<small><sub>**BSB:**</sub></small>
-All the inhabitants of the hill country from Lebanon to Misrephoth-maim—all the Sidonians—I Myself will drive out before the Israelites. Be sure to divide it by lot as an inheritance to Israel, as I have commanded you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.5|<< Joshua 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.7|Joshua 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

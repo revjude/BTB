@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 If you should sit to have supper at \[the\] table of a monarch, intelligibly comprehend the \[things\] being placed near you! 
-<small><sub>**KJV:**</sub></small>
-When thou sittest to eat with a ruler, consider diligently what [is] before thee:
-<small><sub>**BSB:**</sub></small>
-When you sit down to dine with a ruler, consider carefully what is set before you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.29|<< Proverbs 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.2|Proverbs 23:2 >>]]</td></tr></table>
 
 | Translation | Greek |

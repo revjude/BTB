@@ -1,4 +1,4 @@
-**Exodus 39:24** 
+**Exodus 39:24**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made upon the hems of the robe pomegranates [of] blue, and purple, and scarlet, [and] twined [linen].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They made pomegranates of blue, purple, and scarlet yarn and finely spun linen o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.23|<< Exodus 39:23]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.25|Exodus 39:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6213H\|יַּעֲשׂוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

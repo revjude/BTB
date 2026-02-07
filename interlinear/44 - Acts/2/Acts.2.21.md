@@ -1,5 +1,5 @@
-**Acts 2:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:21**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] whosoever shall call on the name of the Lord shall be saved.
 <small><sub>**BSB:**</sub></small>
 And everyone who calls on the name of the Lord will be saved.’
@@ -10,7 +10,7 @@ And it will be, everyone who when they shall call upon the name of [the] Lord wi
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it will be, |**<big>[[G1510\|ἔσται,]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

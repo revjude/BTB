@@ -1,12 +1,12 @@
-**Colossians 3:8
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:8**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 <small><sub>**BSB:**</sub></small>
 But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips.
 <small><sub>**Literal:**</sub></small>
 Now however do put off also you yourselves <the> all [these] things: anger, rage, malice, slander, foul language out of the mouth of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.7|<< Colossians 3:7]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.9|Colossians 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|Νυνὶ]]</big>**  |Nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

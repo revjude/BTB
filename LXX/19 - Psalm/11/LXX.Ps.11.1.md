@@ -6,10 +6,7 @@ For the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Upon the <span class="smallcaps">lord</span> I have yielded. How shall you say \[to\] my soul, Migrate unto the mountains as a sparrow? 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, [A Psalm] of David. In the LORD put I my trust: how say ye to my soul, Flee [as] a bird to your mountain?
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. Of David. In the LORD I take refuge. How then can you say to me: “Flee like a bird to your mountain!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.18|<< Psalm 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.2|Psalm 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

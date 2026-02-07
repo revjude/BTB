@@ -1,4 +1,4 @@
-**2 Chronicles 25:20** 
+**2 Chronicles 25:20**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Amaziah would not hear; for it [came] of God, that he might deliver them into the hand [of their enemies], because they sought after the gods of Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Amaziah would not listen, for this had come from God in order to deliver the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.19|<< 2 Chronicles 25:19]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.21|2 Chronicles 25:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he listened  |**<big>&#8207;[[H8085G\|שָׁמַ֣ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

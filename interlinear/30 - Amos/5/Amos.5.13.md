@@ -1,4 +1,4 @@
-**Amos 5:13** 
+**Amos 5:13**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the prudent shall keep silence in that time; for it [is] an evil time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, the prudent keep silent in such times, for the days are evil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.12|<< Amos 5:12]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.14|Amos 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prudent [person]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7919A\|מַּשְׂכִּ֛יל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

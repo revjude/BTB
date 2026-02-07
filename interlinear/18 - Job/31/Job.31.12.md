@@ -1,4 +1,4 @@
-**Job 31:12** 
+**Job 31:12**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it [is] a fire [that] consumeth to destruction, and would root out all mine increase.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For it is a fire that burns down to Abaddon; it would root out my entire harvest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.11|<< Job 31:11]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.13|Job 31:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a fire  |**<big>&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

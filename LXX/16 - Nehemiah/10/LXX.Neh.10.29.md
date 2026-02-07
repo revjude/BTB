@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:29** 
 <small><sub>**LXX:**</sub></small>
 growing in strength with  their brethren, and imprecating maledictions upon themselves, and entering into a curse, and into an oath,  to go by \[the\] law  of God, which was given by \[the\] hand of Moses \[the\] servant  of God, to guard and to observe all the commandments of \[the\] <span class="smallcaps">lord</span>  our God, and  his judgments, and  his orders; 
-<small><sub>**KJV:**</sub></small>
-They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;
-<small><sub>**BSB:**</sub></small>
-hereby join with their noble brothers and commit themselves with a sworn oath to follow the Law of God given through His servant Moses and to obey carefully all the commandments, ordinances, and statutes of the LORD our Lord.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.28|<< Nehemiah 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.30|Nehemiah 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

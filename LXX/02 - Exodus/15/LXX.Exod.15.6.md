@@ -1,10 +1,7 @@
 **LXX Exodus 15:6** 
 <small><sub>**LXX:**</sub></small>
  Your right \[hand\], O <span class="smallcaps">lord</span>, has been glorified in strength;  your right hand, O <span class="smallcaps">lord</span>, devastated \[the\] enemies. 
-<small><sub>**KJV:**</sub></small>
-Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy.
-<small><sub>**BSB:**</sub></small>
-Your right hand, O LORD, is majestic in power; Your right hand, O LORD, has shattered the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.5|<< Exodus 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.7|Exodus 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

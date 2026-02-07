@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:9** 
 <small><sub>**LXX:**</sub></small>
 Have you yourselves forgotten the evils  of your fathers, and the evils of the kings of Judah, and the evils  of your rulers, and the evils  of your wives, which they did in \[the\] land of Judah, and outside of Jerusalem? 
-<small><sub>**KJV:**</sub></small>
-Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
-<small><sub>**BSB:**</sub></small>
-Have you forgotten the wickedness of your fathers and of the kings of Judah and their wives, as well as the wickedness that you and your wives committed in the land of Judah and in the streets of Jerusalem?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.8|<< Jeremiah 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.10|Jeremiah 44:10 >>]]</td></tr></table>
 
 | Translation | Greek |

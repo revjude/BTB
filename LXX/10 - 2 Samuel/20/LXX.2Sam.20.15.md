@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:15** 
 <small><sub>**LXX:**</sub></small>
 And they came and assaulted against him in  Abel and Beth-maacah. And they cast a seige mound against the city, and it stood in the area around the wall. And all the people  with Joab purposed to throw down the wall. 
-<small><sub>**KJV:**</sub></small>
-And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that [were] with Joab battered the wall, to throw it down.
-<small><sub>**BSB:**</sub></small>
-And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city. As all the troops with Joab were battering the wall to topple it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.14|<< 2 Samuel 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.16|2 Samuel 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

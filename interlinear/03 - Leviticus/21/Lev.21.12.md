@@ -1,4 +1,4 @@
-**Leviticus 21:12** 
+**Leviticus 21:12**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God [is] upon him: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must not leave or desecrate the sanctuary of his God, for the consecration of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.11|<< Leviticus 21:11]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.13|Leviticus 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sanctuary  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4720\|מִּקְדָּשׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Dash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

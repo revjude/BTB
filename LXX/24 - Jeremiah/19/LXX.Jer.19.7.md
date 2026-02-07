@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:7** 
 <small><sub>**LXX:**</sub></small>
 And I will slay the counsel of Judah, and the counsel of Jerusalem in  this place; and I will throw them down by \[the\] sword before  their enemies, and by \[the\] hands of the ones seeking  their lives. And I will give  their dead for food to the winged creatures of the heaven, and to the wild beasts of the earth. 
-<small><sub>**KJV:**</sub></small>
-And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
-<small><sub>**BSB:**</sub></small>
-And in this place I will ruin the plans of Judah and Jerusalem. I will make them fall by the sword before their enemies, by the hands of those who seek their lives, and I will give their carcasses as food to the birds of the air and the beasts of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.6|<< Jeremiah 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.8|Jeremiah 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

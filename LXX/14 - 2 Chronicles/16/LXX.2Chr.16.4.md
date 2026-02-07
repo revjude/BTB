@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Hadad hearkened to  king Asa, and sent the rulers  of his force against the cities of Israel. And he struck  Ijon, and  Dan, and  Abel-maim, and all the places round about Naphtali. 
-<small><sub>**KJV:**</sub></small>
-And Benhadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store cities of Naphtali.
-<small><sub>**BSB:**</sub></small>
-And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-maim, and all the store cities of Naphtali.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.3|<< 2 Chronicles 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.5|2 Chronicles 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

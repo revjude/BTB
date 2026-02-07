@@ -1,12 +1,12 @@
-**Romans 2:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:3**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?
 <small><sub>**BSB:**</sub></small>
 So when you, O man, pass judgment on others, yet do the same things, do you think you will escape God’s judgment?
 <small><sub>**Literal:**</sub></small>
 Suppose you now this, O man you who [are] judging those <the> such things practicing and doing them [yourself], that you yourself will escape the judgment <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.2|<< Romans 2:2]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.4|Romans 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Suppose you |**<big>[[G3049\|λογίζῃ]]</big>**  |logizē <small><sup>[[V-PNI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

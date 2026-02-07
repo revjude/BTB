@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:17** 
 <small><sub>**LXX:**</sub></small>
 then the two men shall stand, in which the dispute is with them, before \[the\] <span class="smallcaps">lord</span>, and before the priests, and before the judges -- the \[ones\] as might be in  those days. 
-<small><sub>**KJV:**</sub></small>
-Then both the men, between whom the controversy [is], shall stand before the LORD, before the priests and the judges, which shall be in those days;
-<small><sub>**BSB:**</sub></small>
-both parties to the dispute must stand in the presence of the LORD, before the priests and judges who are in office at that time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.16|<< Deuteronomy 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.18|Deuteronomy 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

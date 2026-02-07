@@ -1,12 +1,12 @@
-**Luke 13:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:1**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 <small><sub>**BSB:**</sub></small>
 At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.
 <small><sub>**Literal:**</sub></small>
 Were present now some at the same <the> time telling to Him about the Galileans of whom the blood Pilate mingled with the sacrifices of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.59|<< Luke 12:59]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.2|Luke 13:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were present |**<big>[[G3918\|Παρῆσαν]]</big>**  |Parēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

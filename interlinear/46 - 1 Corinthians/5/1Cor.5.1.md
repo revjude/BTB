@@ -1,12 +1,12 @@
-**1 Corinthians 5:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:1**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is reported commonly [that there is] fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
 <small><sub>**BSB:**</sub></small>
 It is actually reported that there is sexual immorality among you, and of a kind that is intolerable even among pagans: A man has his father’s wife.
 <small><sub>**Literal:**</sub></small>
 Actually is reported among you sexual immorality, and such sexual immorality as not even among the pagans is named so as for [the] wife one of the father to have;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.21|<< 1 Corinthians 4:21]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.2|1 Corinthians 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Actually |**<big>[[G3654\|Ὅλως]]</big>**  |Holōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is reported |**<big>[[G0191\|ἀκούεται]]</big>**  |akouetai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

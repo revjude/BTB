@@ -1,12 +1,12 @@
-**Psalms 31:1** (31:2)
+**Psalms 31:1**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
+In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.0|<< Psalms 31:0]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.2|Psalms 31:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

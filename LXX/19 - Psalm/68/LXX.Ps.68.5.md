@@ -1,10 +1,7 @@
 **LXX Psalm 68:5** 
 <small><sub>**LXX:**</sub></small>
 The father of the orphans, and judge of the widows --  God in his holy place. 
-<small><sub>**KJV:**</sub></small>
-A father of the fatherless, and a judge of the widows, [is] God in his holy habitation.
-<small><sub>**BSB:**</sub></small>
-A father of the fatherless and a defender of widows is God in His holy habitation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.4|<< Psalm 68:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.6|Psalm 68:6 >>]]</td></tr></table>
 
 | Translation | Greek |

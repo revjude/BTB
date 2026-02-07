@@ -1,4 +1,4 @@
-**Jeremiah 42:13** 
+**Jeremiah 42:13**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye say, We will not dwell in this land, neither obey the voice of the LORD your God,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you say, ‘We will not stay in this land,’ and you thus disobey the vo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.12|<< Jeremiah 42:12]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.14|Jeremiah 42:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] saying  |**<big>&#8207;[[H0559\|אֹמְרִ֣ים]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

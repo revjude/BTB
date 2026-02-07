@@ -1,4 +1,4 @@
-**Proverbs 12:7** 
+**Proverbs 12:7**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked are overthrown, and [are] not: but the house of the righteous shall stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked are overthrown and perish, but the house of the righteous will stand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.6|<< Proverbs 12:6]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.8|Proverbs 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [someone] overthrows  |**<big>&#8207;[[H2015\|הָפ֣וֹךְ]]&#8207; </big>**| ha.Fokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 21:19** 
+**Exodus 21:19**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he rise again, and walk abroad upon his staff, then shall he that smote [him] be quit: only he shall pay [for] the loss of his time, and shall cause [him] to be thoroughly healed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the one who struck him shall go unpunished, as long as the other can get up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will arise  |**<big>&#8207;[[H6965B\|יָק֞וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

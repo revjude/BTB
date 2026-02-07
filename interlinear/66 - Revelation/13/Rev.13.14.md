@@ -1,5 +1,5 @@
-**Revelation 13:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:14**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And deceiveth them that dwell on the earth by [the means of] those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
 <small><sub>**BSB:**</sub></small>
 Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived.
@@ -10,7 +10,7 @@ And it deceives those mine who dwelling on the earth through the signs that were
 > $\quad$ possibly alluding to: [[LXX.Dan.3.3|Dan 3:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it deceives |**<big>[[G4105\|πλανᾷ]]</big>**  |plana <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

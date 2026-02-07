@@ -1,10 +1,7 @@
 **LXX Psalm 102:16** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> shall build up  Zion, and he shall appear in  his glory. 
-<small><sub>**KJV:**</sub></small>
-When the LORD shall build up Zion, he shall appear in his glory.
-<small><sub>**BSB:**</sub></small>
-For the LORD will rebuild Zion; He has appeared in His glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.15|<< Psalm 102:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.17|Psalm 102:17 >>]]</td></tr></table>
 
 | Translation | Greek |

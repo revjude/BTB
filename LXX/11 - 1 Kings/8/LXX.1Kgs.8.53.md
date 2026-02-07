@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:53** 
 <small><sub>**LXX:**</sub></small>
 For you drew them apart unto yourself for an inheritance from out of all the peoples of the earth, as you spoke by \[the\] hand  of your servant Moses, in  your leading out  our fathers from \[the\] land of Egypt, O Lord, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For thou didst separate them from among all the people of the earth, [to be] thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord GOD.
-<small><sub>**BSB:**</sub></small>
-For You, O Lord GOD, have set them apart from all the peoples of the earth as Your inheritance, as You spoke through Your servant Moses when You brought our fathers out of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.52|<< 1 Kings 8:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.54|1 Kings 8:54 >>]]</td></tr></table>
 
 | Translation | Greek |

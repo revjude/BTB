@@ -1,4 +1,4 @@
-**2 Chronicles 1:15** 
+**2 Chronicles 1:15**<big><big>[[2Chr.1.14 Solomon’s Riches|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king made silver and gold at Jerusalem [as plenteous] as stones, and cedar trees made he as the sycomore trees that [are] in the vale for abundance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king made silver and gold as common in Jerusalem as stones, and cedar as abu
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.14|<< 2 Chronicles 1:14]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.16|2 Chronicles 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414I\|יִּתֵּ֨ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֜לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

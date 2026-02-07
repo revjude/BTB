@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:14** 
 <small><sub>**LXX:**</sub></small>
 You shall not transgress from all the words which I give charge to you today, to \[the\] right or to \[the\] left, to go after other gods, to serve them. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt not go aside from any of the words which I command thee this day, [to] the right hand, or [to] the left, to go after other gods to serve them.
-<small><sub>**BSB:**</sub></small>
-Do not turn aside to the right or to the left from any of the words I command you today, and do not go after other gods to serve them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.13|<< Deuteronomy 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.15|Deuteronomy 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

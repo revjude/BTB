@@ -1,4 +1,4 @@
-**Genesis 11:8** 
+**Genesis 11:8**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD scattered them from there over the face of all the earth, and they s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.7|<< Genesis 11:7]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.9|Genesis 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he scattered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|יָּ֨פֶץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.fetz<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And king Solomon sacrificed the sacrifice of calves -- twenty and two thousand, and pastured \[sheep\] -- a hundred and twenty thousand. And the of God king and all the people dedicated the house. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God.
-<small><sub>**BSB:**</sub></small>
-And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.4|<< 2 Chronicles 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.6|2 Chronicles 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

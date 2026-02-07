@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:18** 
 <small><sub>**LXX:**</sub></small>
 And \[if\] these three men \[were\] in \[the\] midst of it, \[as\] I live, says Adonai \[the\] <span class="smallcaps">lord</span>, that in no way sons nor daughters be rescued, but these alone shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-Though these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.
-<small><sub>**BSB:**</sub></small>
-then as surely as I live, declares the Lord GOD, even if these three men were in it, they could not deliver their own sons or daughters. They alone would be delivered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.17|<< Ezekiel 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.19|Ezekiel 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

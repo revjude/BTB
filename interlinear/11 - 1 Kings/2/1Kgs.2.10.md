@@ -1,4 +1,4 @@
-**1 Kings 2:10** 
+**1 Kings 2:10**<big><big>[[1Kgs.2.10 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David slept with his fathers, and was buried in the city of David.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then David rested with his fathers and was buried in the City of David.
 > $\quad$ referenced by: [[Acts.13.36|Acts 13:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

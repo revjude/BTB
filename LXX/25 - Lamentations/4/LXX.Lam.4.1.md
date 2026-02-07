@@ -6,10 +6,7 @@
 <p style="text-align:center;font-weight:600;">ΑΛΕΦ</p>
 
 O how the gold shall be darkened, \[and\] the good silver changed; holy stones were discharged at \[the\] top of all \[the\] streets, 
-<small><sub>**KJV:**</sub></small>
-How is the gold become dim! [how] is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
-<small><sub>**BSB:**</sub></small>
-How the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 24:17** 
+**Proverbs 24:17**<big><big>[[Prov.24.17 Saying 28|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not gloat when your enemy falls, and do not let your heart rejoice when he st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.16|<< Proverbs 24:16]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.18|Proverbs 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when falls  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5307G\|נְפֹ֣ל]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.Fol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemy your  [^2]|**<big>&#8207;[[H0341\|אֽ֭וֹיִבְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**[^3] | 'oy.vei.<small><sup>[[HVqrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

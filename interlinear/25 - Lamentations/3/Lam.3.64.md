@@ -1,4 +1,4 @@
-**Lamentations 3:64** 
+**Lamentations 3:64**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Render unto them a recompence, O LORD, according to the work of their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will pay them back what they deserve, O LORD, according to the work of their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.63|<< Lamentations 3:63]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.65|Lamentations 3:65 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will repay  |**<big>&#8207;[[H7725K\|תָּשִׁ֨יב]]&#8207; </big>**| ta.Shiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

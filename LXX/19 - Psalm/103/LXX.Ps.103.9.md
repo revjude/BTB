@@ -1,10 +1,7 @@
 **LXX Psalm 103:9** 
 <small><sub>**LXX:**</sub></small>
 Not unto \[the\] end shall he be provoked to anger, nor into the eon will he cherish wrath. 
-<small><sub>**KJV:**</sub></small>
-He will not always chide: neither will he keep [his anger] for ever.
-<small><sub>**BSB:**</sub></small>
-He will not always accuse us, nor harbor His anger forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.8|<< Psalm 103:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.10|Psalm 103:10 >>]]</td></tr></table>
 
 | Translation | Greek |

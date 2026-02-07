@@ -1,4 +1,4 @@
-**Ezekiel 28:26** 
+**Ezekiel 28:26**<big><big>[[Ezek.28.25 The Restoration of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I [am] the LORD their God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there they will dwell securely, build houses, and plant vineyards. They will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.25|<< Ezekiel 28:25]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.1|Ezekiel 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשְׁב֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.she.Vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלֶי]]&#8207;&#8207;[[H9034\|הָ֮]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

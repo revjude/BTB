@@ -1,4 +1,4 @@
-**Genesis 32:15** (32:16)
+**Genesis 32:15**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.14|<< Genesis 32:14]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.16|Genesis 32:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | camels  |**<big>&#8207;[[H1581\|גְּמַלִּ֧ים]]&#8207; </big>**| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | suckling  |**<big>&#8207;[[H3243H\|מֵינִיק֛וֹת]]&#8207; </big>**| mei.ni.Kot<small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

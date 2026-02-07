@@ -1,12 +1,12 @@
-**Mark 5:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:14**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that fed the swine fled, and told [it] in the city, and in the country. And they went out to see what it was that was done.
 <small><sub>**BSB:**</sub></small>
 Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.
 <small><sub>**Literal:**</sub></small>
 And those now feeding them pigs fled and proclaimed [it] to the city and to the country. And they went out to see what it is that having happened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.13|<< Mark 5:13]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.15|Mark 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

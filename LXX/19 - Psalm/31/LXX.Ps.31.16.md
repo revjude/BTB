@@ -1,10 +1,7 @@
 **LXX Psalm 31:16** 
 <small><sub>**LXX:**</sub></small>
 your face appear unto  your servant! Deliver me in  your mercy! 
-<small><sub>**KJV:**</sub></small>
-Make thy face to shine upon thy servant: save me for thy mercies’ sake.
-<small><sub>**BSB:**</sub></small>
-Make Your face shine on Your servant; save me by Your loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.15|<< Psalm 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.17|Psalm 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

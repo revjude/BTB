@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:23** 
 <small><sub>**LXX:**</sub></small>
 Sing to the <span class="smallcaps">lord</span> all the earth! announce from day to day his deliverance! 
-<small><sub>**KJV:**</sub></small>
-Sing unto the LORD, all the earth; shew forth from day to day his salvation.
-<small><sub>**BSB:**</sub></small>
-Sing to the LORD, all the earth. Proclaim His salvation day after day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.22|<< 1 Chronicles 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.24|1 Chronicles 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

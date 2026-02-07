@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:24** 
 <small><sub>**LXX:**</sub></small>
 And supports from beneath  its rim round about encircled it. Ten by a cubit raising up the sea round about. Two rows of supports cast in the foundry furnace of them. 
-<small><sub>**KJV:**</sub></small>
-And under the brim of it round about [there were] knops compassing it, ten in a cubit, compassing the sea round about: the knops [were] cast in two rows, when it was cast.
-<small><sub>**BSB:**</sub></small>
-Below the rim, ornamental buds encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.23|<< 1 Kings 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.25|1 Kings 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

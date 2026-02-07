@@ -1,4 +1,4 @@
-**Jeremiah 30:20** 
+**Jeremiah 30:20**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their children will be as in days of old, and their congregation will be establi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.19|<< Jeremiah 30:19]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.21|Jeremiah 30:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children its  |**<big>&#8207;[[H1121A\|בָנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

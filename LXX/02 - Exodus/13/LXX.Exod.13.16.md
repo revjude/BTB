@@ -1,10 +1,7 @@
 **LXX Exodus 13:16** 
 <small><sub>**LXX:**</sub></small>
 And it shall be for a sign upon  your hand, and unshaken before  your eyes. For by a fortified hand \[the\] <span class="smallcaps">lord</span> led you out of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.
-<small><sub>**BSB:**</sub></small>
-So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.15|<< Exodus 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.17|Exodus 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

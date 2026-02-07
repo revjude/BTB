@@ -1,10 +1,7 @@
 **LXX Judges 21:5** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said, Who \[is\] the one not ascending among the assembly from all of \[the\] tribes of Israel to \[the\] <span class="smallcaps">lord</span>? For  there was a great oath \[concerning\] the one not ascending to \[the\] <span class="smallcaps">lord</span> in Mizpeh, saying, To death he shall die. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel said, Who [is there] among all the tribes of Israel that came not up with the congregation unto the LORD? For they had made a great oath concerning him that came not up to the LORD to Mizpeh, saying, He shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-The Israelites asked, “Who among all the tribes of Israel did not come to the assembly before the LORD?” For they had taken a solemn oath that anyone who failed to come up before the LORD at Mizpah would surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.4|<< Judges 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.6|Judges 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:11** 
 <small><sub>**LXX:**</sub></small>
 And  king David sent to Zadok and to Abiathar the priests, saying, Speak to the elders of Judah! saying, Why have you become last  to return the king to  his house? And the word of all Israel came to the king. 
-<small><sub>**KJV:**</sub></small>
-And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, [even] to his house.
-<small><sub>**BSB:**</sub></small>
-Then King David sent this message to Zadok and Abiathar, the priests: “Say to the elders of Judah, ‘Why should you be the last to restore the king to his palace, since the talk of all Israel has reached the king at his quarters?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.10|<< 2 Samuel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.12|2 Samuel 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

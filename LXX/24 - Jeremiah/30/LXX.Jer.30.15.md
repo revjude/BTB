@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:15** 
 <small><sub>**LXX:**</sub></small>
 Why yell over your destruction? Your misery is incurable. On account of the magnitude  of your iniquity, and on account of  your recalcitrant sins I did to you these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Why criest thou for thine affliction? thy sorrow [is] incurable for the multitude of thine iniquity: [because] thy sins were increased, I have done these things unto thee.
-<small><sub>**BSB:**</sub></small>
-Why do you cry out over your wound? Your pain has no cure! Because of your great iniquity and your numerous sins I have done these things to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.14|<< Jeremiah 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.16|Jeremiah 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

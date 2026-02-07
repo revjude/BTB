@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:17** 
 <small><sub>**LXX:**</sub></small>
 And they shall be in  their entering into the gates of the inner courtyard \[that\] they shall put on flaxen linen apparels, and they shall not put on wool in  their ministering from the inner gate of \[the\] courtyard. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, whiles they minister in the gates of the inner court, and within.
-<small><sub>**BSB:**</sub></small>
-When they enter the gates of the inner court, they are to wear linen garments; they must not wear anything made of wool when they minister at the gates of the inner court or inside the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
 | Translation | Greek |

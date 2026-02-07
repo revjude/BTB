@@ -1,10 +1,7 @@
 **LXX Numbers 5:19** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall adjure her, and he shall say to the woman, If no one has gone to bed with you, if you have not violated to be defiled \[being\] under  your own husband, be innocent from this accursing by the water of rebuke! 
-<small><sub>**KJV:**</sub></small>
-And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness [with another] instead of thy husband, be thou free from this bitter water that causeth the curse:
-<small><sub>**BSB:**</sub></small>
-And he is to put the woman under oath and say to her, ‘If no other man has slept with you and you have not gone astray and become defiled while under your husband’s authority, may you be immune to this bitter water that brings a curse.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.18|<< Numbers 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.20|Numbers 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

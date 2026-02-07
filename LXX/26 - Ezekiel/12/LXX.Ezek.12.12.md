@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:12** 
 <small><sub>**LXX:**</sub></small>
 And the ruler in \[the\] midst of them shall be lifted upon a shoulder, and being hid he shall come forth through the wall, and he shall dig through  to come forth himself through it;  he shall cover up his face, so that he should not be seen by an eye, and he shall not see the ground. 
-<small><sub>**KJV:**</sub></small>
-And the prince that [is] among them shall bear upon [his] shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with [his] eyes.
-<small><sub>**BSB:**</sub></small>
-And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.11|<< Ezekiel 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.13|Ezekiel 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

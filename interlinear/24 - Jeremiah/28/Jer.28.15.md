@@ -1,4 +1,4 @@
-**Jeremiah 28:15** 
+**Jeremiah 28:15**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the prophet Jeremiah unto Hananiah the prophet, Hear now, Hananiah; The LORD hath not sent thee; but thou makest this people to trust in a lie.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the prophet Jeremiah said to the prophet Hananiah, “Listen, Hananiah! The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.14|<< Jeremiah 28:14]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.16|Jeremiah 28:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֧ה]]&#8207; </big>**| yir.me.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

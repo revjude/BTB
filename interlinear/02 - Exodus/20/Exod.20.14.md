@@ -1,4 +1,4 @@
-**Exodus 20:14** 
+**Exodus 20:14**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not commit adultery.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall not commit adultery.
 > $\quad$ referenced by: [[Matt.5.21|Matt 5:21]] ☩ [[Matt.19.18|Matt 19:18-19]] ☩ [[Mark.10.19|Mark 10:19]] ☩ [[Luke.18.20|Luke 18:20]] ☩ [[Rom.13.9|Rom 13:9]] ☩ [[Jas.2.11|Jas 2:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣֖א]]&#8207; </big>**[^1] | lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | you must commit adultery  |**<big>&#8207;[[H5003\|תִּֿנְאָֽ֑ף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^2] | tne.'Af<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

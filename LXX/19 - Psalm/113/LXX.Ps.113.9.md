@@ -1,10 +1,7 @@
 **LXX Psalm 113:9** 
 <small><sub>**LXX:**</sub></small>
 The one who settles \[the\] sterile \[woman\] in a house as a mother being glad with children. 
-<small><sub>**KJV:**</sub></small>
-He maketh the barren woman to keep house, [and to be] a joyful mother of children. Praise ye the LORD.
-<small><sub>**BSB:**</sub></small>
-He settles the barren woman in her home as a joyful mother to her children. Hallelujah!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.113.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.8|<< Psalm 113:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.1|Psalm 114:1 >>]]</td></tr></table>
 
 | Translation | Greek |

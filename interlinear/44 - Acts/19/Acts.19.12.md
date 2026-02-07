@@ -1,12 +1,12 @@
-**Acts 19:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:12**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
 <small><sub>**BSB:**</sub></small>
 so that even handkerchiefs and aprons that had touched him were taken to the sick, and the diseases and evil spirits left them.
 <small><sub>**Literal:**</sub></small>
 so that even to the ailing carrying from the skin of him handkerchiefs or aprons and departing from them the diseases the also spirits <the> evil coming out from of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.11|<< Acts 19:11]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.13|Acts 19:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 1:17** 
+**Proverbs 1:17**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely in vain the net is spread in the sight of any bird.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How futile it is to spread the net where any bird can see it!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.16|<< Proverbs 1:16]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.18|Proverbs 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in vain  |**<big>&#8207;[[H2600\|חִ֭נָּם]]&#8207; </big>**| Chi.nom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

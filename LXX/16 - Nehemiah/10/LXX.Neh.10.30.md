@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:30** 
 <small><sub>**LXX:**</sub></small>
 and  to not give our daughters to the peoples of the land, and  to not take their daughters  for our sons. 
-<small><sub>**KJV:**</sub></small>
-And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:
-<small><sub>**BSB:**</sub></small>
-We will not give our daughters in marriage to the people of the land, and we will not take their daughters for our sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.29|<< Nehemiah 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.31|Nehemiah 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

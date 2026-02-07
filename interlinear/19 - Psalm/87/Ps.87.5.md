@@ -1,4 +1,4 @@
-**Psalms 87:5** 
+**Psalms 87:5**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it will be said of Zion: “This one and that one were born in her, and the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.4|<< Psalms 87:4]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.6|Psalms 87:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of Zion  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לֲ]]&#8207;&#8207;[[H6726\|צִיּ֨וֹן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be said  |**<big>&#8207;[[H0559\|יֵאָמַ֗ר]]&#8207; </big>**| ye.'a.Mar<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

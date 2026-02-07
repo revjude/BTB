@@ -1,12 +1,12 @@
-**1 Corinthians 14:27
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:27**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man speak in an [unknown] tongue, [let it be] by two, or at the most [by] three, and [that] by course; and let one interpret.
 <small><sub>**BSB:**</sub></small>
 If anyone speaks in a tongue, two, or at most three, should speak in turn, and someone must interpret.
 <small><sub>**Literal:**</sub></small>
 If with a tongue anyone speaks, [let it be] by two or the most three and in turn; and one should interpret;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.26|<< 1 Corinthians 14:26]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.28|1 Corinthians 14:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with a tongue |**<big>[[G1100\|γλώσσῃ]]</big>**  |glōssē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

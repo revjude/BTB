@@ -1,10 +1,7 @@
 **LXX Daniel 1:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave into his hand  Jehoiakim king of Judah, and from part of the items of \[the\] house of \[the\] <span class="smallcaps">lord</span>. And he brought them into \[the\] land of Shinar of \[the\] house  of his god. And the items he carried into the house of \[the\] treasury  of his god. 
-<small><sub>**KJV:**</sub></small>
-And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
-<small><sub>**BSB:**</sub></small>
-And the Lord delivered into his hand Jehoiakim king of Judah, along with some of the articles from the house of God. He carried these off to the land of Shinar, to the house of his god, where he put them in the treasury of his god.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.1|<< Daniel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.3|Daniel 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

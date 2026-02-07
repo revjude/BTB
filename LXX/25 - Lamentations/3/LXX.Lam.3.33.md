@@ -1,10 +1,7 @@
 **LXX Lamentations 3:33** 
 <small><sub>**LXX:**</sub></small>
 He was not answered from his heart, and he humbled sons of man, 
-<small><sub>**KJV:**</sub></small>
-For he doth not afflict willingly nor grieve the children of men.
-<small><sub>**BSB:**</sub></small>
-For He does not willingly afflict or grieve the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.32|<< Lamentations 3:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.34|Lamentations 3:34 >>]]</td></tr></table>
 
 | Translation | Greek |

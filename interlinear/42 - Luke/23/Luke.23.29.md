@@ -1,5 +1,5 @@
-**Luke 23:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:29**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For, behold, the days are coming, in the which they shall say, Blessed [are] the barren, and the wombs that never bare, and the paps which never gave suck.
 <small><sub>**BSB:**</sub></small>
 Look, the days are coming when people will say, ‘Blessed are the barren women, the wombs that never bore, and breasts that never nursed!’
@@ -10,7 +10,7 @@ For behold are coming days in which they will say; Blessed [are] the barren and 
 > $\quad$ alluding to: [[LXX.Isa.54.1|Isa 54:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:2** 
 <small><sub>**LXX:**</sub></small>
 And the city became for being encompassed about until the eleventh year of Zedekiah the king, \[the\] ninth of the month. 
-<small><sub>**KJV:**</sub></small>
-And the city was besieged unto the eleventh year of king Zedekiah.
-<small><sub>**BSB:**</sub></small>
-And the city was kept under siege until King Zedekiah’s eleventh year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.1|<< 2 Kings 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.3|2 Kings 25:3 >>]]</td></tr></table>
 
 | Translation | Greek |

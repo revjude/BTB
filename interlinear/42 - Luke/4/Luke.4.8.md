@@ -1,5 +1,5 @@
-**Luke 4:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:8**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It is written: ‘Worship the Lord your God and serve Him only.’”
@@ -10,7 +10,7 @@ And answering <the> Jesus said to him do go behind me Satan; It has been written
 > $\quad$ referencing: [[LXX.Deut.6.13|Deut 6:13]] ☩ [[LXX.Deut.10.20|Deut 10:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

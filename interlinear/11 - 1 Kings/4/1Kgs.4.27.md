@@ -1,4 +1,4 @@
-**1 Kings 4:27** (5:7)
+**1 Kings 4:27**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each month the governors in turn provided food for King Solomon and all who came
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.26|<< 1 Kings 4:26]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.28|1 Kings 4:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they supplied  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3557\|כִלְכְּלוּ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khil.ke.Lu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the overseers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5324\|נִּצָּבִ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ni.tza.Vim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

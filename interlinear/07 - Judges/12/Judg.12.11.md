@@ -1,4 +1,4 @@
-**Judges 12:11** 
+**Judges 12:11**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Ibzan, Elon the Zebulunite judged Israel ten years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.10|<< Judges 12:10]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.12|Judges 12:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after him  |**<big>&#8207;[[H0310A\|אַֽחֲרָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

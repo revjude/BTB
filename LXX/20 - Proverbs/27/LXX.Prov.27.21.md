@@ -1,10 +1,7 @@
 **LXX Proverbs 27:21** 
 <small><sub>**LXX:**</sub></small>
 Proving silver and gold \[is through\] burning by fire; but a man is tried by \[the\] mouth of ones lauding him. 
-<small><sub>**KJV:**</sub></small>
-[As] the fining pot for silver, and the furnace for gold; so [is] a man to his praise.
-<small><sub>**BSB:**</sub></small>
-A crucible for silver and a furnace for gold, but a man is tested by the praise accorded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.20|<< Proverbs 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.22|Proverbs 27:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 13:12** (13:13)
+**Deuteronomy 13:12**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt hear [say] in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, regarding one of the cities the LORD your God is giving you to inhabit, you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.11|<< Deuteronomy 13:11]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.13|Deuteronomy 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will hear  |**<big>&#8207;[[H8085G\|תִשְׁמַ֞ע]]&#8207; </big>**| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:28** 
 <small><sub>**LXX:**</sub></small>
 And the ones escaping from \[the\] broadsword shall return into \[the\] land of Judah \[being\] few in number. And all the remnant of Judah shall know, the ones sojourning in \[the\] land of Egypt to sojourn there, whose word will adhere,  mine or  theirs. 
-<small><sub>**KJV:**</sub></small>
-Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.
-<small><sub>**BSB:**</sub></small>
-Those who escape the sword will return from Egypt to Judah, few in number, and the whole remnant of Judah who went to dwell in the land of Egypt will know whose word will stand, Mine or theirs!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.27|<< Jeremiah 44:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.29|Jeremiah 44:29 >>]]</td></tr></table>
 
 | Translation | Greek |

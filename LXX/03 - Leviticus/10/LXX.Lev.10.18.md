@@ -1,10 +1,7 @@
 **LXX Leviticus 10:18** 
 <small><sub>**LXX:**</sub></small>
 For not was brought from the blood of it into the holy \[place\]. In person inside you shall eat it in \[the\] holy place, in which manner it was ordered to me. 
-<small><sub>**KJV:**</sub></small>
-Behold, the blood of it was not brought in within the holy [place]: ye should indeed have eaten it in the holy [place], as I commanded.
-<small><sub>**BSB:**</sub></small>
-Since its blood was not brought inside the holy place, you should have eaten it in the sanctuary area, as I commanded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.17|<< Leviticus 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.19|Leviticus 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

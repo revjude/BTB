@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΖΑΙΝ</p>
 
 Jerusalem remembered \[the\] days of her humiliation, and her repulsions. All  her desirable \[things\], as many as \[were\] from ancient days during the falling  of her people into \[the\] hands of \[the\] one afflicting, and there was no one  helping her. Seeing,  her enemies laughed upon  her displacement. 
-<small><sub>**KJV:**</sub></small>
-Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, [and] did mock at her sabbaths.
-<small><sub>**BSB:**</sub></small>
-In the days of her affliction and wandering Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands she received no help. Her enemies looked upon her, laughing at her downfall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.6|<< Lamentations 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.8|Lamentations 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

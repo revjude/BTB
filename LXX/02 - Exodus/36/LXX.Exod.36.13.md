@@ -1,10 +1,7 @@
 **LXX Exodus 36:13** 
 <small><sub>**LXX:**</sub></small>
 And he made fifty hooks of gold. And he joined together the curtains an other \[to\] an other by the hooks. And the tent became one. 
-<small><sub>**KJV:**</sub></small>
-And he made fifty taches of gold, and coupled the curtains one unto another with the taches: so it became one tabernacle.
-<small><sub>**BSB:**</sub></small>
-He also made fifty gold clasps to join the curtains together, so that the tabernacle was a unit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.12|<< Exodus 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.14|Exodus 36:14 >>]]</td></tr></table>
 
 | Translation | Greek |

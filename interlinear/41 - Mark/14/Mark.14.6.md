@@ -1,12 +1,12 @@
-**Mark 14:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:6**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.
 <small><sub>**BSB:**</sub></small>
 But Jesus said, “Leave her alone; why are you bothering her? She has done a beautiful deed to Me.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said; do leave alone her, why to her trouble do you cause? A good work she did toward Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.5|<< Mark 14:5]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.7|Mark 14:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

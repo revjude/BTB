@@ -1,4 +1,4 @@
-**Psalms 119:34** 
+**Psalms 119:34**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give me understanding, and I shall keep thy law; yea, I shall observe it with [my] whole heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give me understanding that I may obey Your law, and follow it with all my heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.33|<< Psalms 119:33]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.35|Psalms 119:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give understanding me  |**<big>&#8207;[[H0995\|הֲ֭בִינֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ha.vi.ne.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so let me observe  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5341\|אֶצְּרָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.tze.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

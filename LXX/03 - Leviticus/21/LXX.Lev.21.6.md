@@ -1,10 +1,7 @@
 **LXX Leviticus 21:6** 
 <small><sub>**LXX:**</sub></small>
 They shall be holy to their God, and they shall not profane the name  of their God. For they offer the sacrifices \[of the\] <span class="smallcaps">lord</span> as gifts \[to\] their God, and they shall be holy. 
-<small><sub>**KJV:**</sub></small>
-They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, [and] the bread of their God, they do offer: therefore they shall be holy.
-<small><sub>**BSB:**</sub></small>
-They must be holy to their God and not profane the name of their God. Because they present to the LORD the food offerings, the food of their God, they must be holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.5|<< Leviticus 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.7|Leviticus 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

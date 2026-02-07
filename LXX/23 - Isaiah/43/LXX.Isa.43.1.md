@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, thus says \[the\] <span class="smallcaps">lord</span>  God, the one making you, O Jacob, and the one shaping you, O Israel, Do not fear! for I ransomed you, I called you  by your name, you are mine. 
-<small><sub>**KJV:**</sub></small>
-But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called [thee] by thy name; thou [art] mine.
-<small><sub>**BSB:**</sub></small>
-But now, this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.25|<< Isaiah 42:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.2|Isaiah 43:2 >>]]</td></tr></table>
 
 | Translation | Greek |

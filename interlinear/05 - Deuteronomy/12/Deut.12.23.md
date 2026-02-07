@@ -1,4 +1,4 @@
-**Deuteronomy 12:23** 
+**Deuteronomy 12:23**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only be sure that thou eat not the blood: for the blood [is] the life; and thou mayest not eat the life with the flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only be sure not to eat the blood, because the blood is the life, and you must n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.22|<< Deuteronomy 12:22]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.24|Deuteronomy 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֣ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be strong  |**<big>&#8207;[[H2388I\|חֲזַ֗ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

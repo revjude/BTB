@@ -1,12 +1,12 @@
-**Acts 2:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:36**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.
 <small><sub>**BSB:**</sub></small>
 Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!”
 <small><sub>**Literal:**</sub></small>
 Assuredly therefore should know all [the] house of Israel that both Lord Him and Christ has made <the> God — this <the> Jesus whom you yourselves crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.35|<< Acts 2:35]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.37|Acts 2:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Assuredly |**<big>[[G0806\|ἀσφαλῶς]]</big>**  |asphalōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

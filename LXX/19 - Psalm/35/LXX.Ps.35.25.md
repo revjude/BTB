@@ -1,10 +1,7 @@
 **LXX Psalm 35:25** 
 <small><sub>**LXX:**</sub></small>
 May they not say in their heart, Well done, well done \[to\] our soul. Nor may they say, We swallowed him down. 
-<small><sub>**KJV:**</sub></small>
-Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.
-<small><sub>**BSB:**</sub></small>
-Let them not say in their hearts, “Aha, just what we wanted!” Let them not say, “We have swallowed him up!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.24|<< Psalm 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.26|Psalm 35:26 >>]]</td></tr></table>
 
 | Translation | Greek |

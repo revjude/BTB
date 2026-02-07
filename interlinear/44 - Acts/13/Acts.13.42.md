@@ -1,12 +1,12 @@
-**Acts 13:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:42**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.
 <small><sub>**BSB:**</sub></small>
 As Paul and Barnabas were leaving the synagogue, the people urged them to continue this message on the next Sabbath.
 <small><sub>**Literal:**</sub></small>
 When are departing then they from the synagogue of the Jews were begging the gentiles on the next Sabbath to be spoken to them <the> declarations these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.41|<< Acts 13:41]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.43|Acts 13:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are departing |**<big>[[G1826\|Ἐξιόντων]]</big>**  |Exiontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

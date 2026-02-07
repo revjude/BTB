@@ -1,10 +1,7 @@
 **LXX Job 34:29** 
 <small><sub>**LXX:**</sub></small>
 and he will furnish rest, and who will condemn? and he will hide \[his\] face, and who shall see him? even against a nation and against a man together; 
-<small><sub>**KJV:**</sub></small>
-When he giveth quietness, who then can make trouble? and when he hideth [his] face, who then can behold him? whether [it be done] against a nation, or against a man only:
-<small><sub>**BSB:**</sub></small>
-But when He remains silent, who can condemn Him? When He hides His face, who can see Him? Yet He watches over both man and nation,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.28|<< Job 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.30|Job 34:30 >>]]</td></tr></table>
 
 | Translation | Greek |

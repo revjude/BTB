@@ -1,4 +1,4 @@
-**Jeremiah 31:34** 
+**Jeremiah 31:34**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more.
 <small><sub>**BSB:**</sub></small>
@@ -11,7 +11,7 @@ No longer will each man teach his neighbor or his brother, saying, ‘Know the L
 > $\quad$ referenced by: [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will teach  |**<big>&#8207;[[H3925G\|יְלַמְּד֣וּ]]&#8207; </big>**| ye.la.me.Du<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

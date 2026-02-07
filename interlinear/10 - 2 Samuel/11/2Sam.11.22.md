@@ -1,4 +1,4 @@
-**2 Samuel 11:22** 
+**2 Samuel 11:22**<big><big>[[2Sam.11.14 David Arranges Uriah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the messenger went, and came and shewed David all that Joab had sent him for.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the messenger set out and reported to David all that Joab had sent him to say
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.21|<< 2 Samuel 11:21]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.23|2 Samuel 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֖לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the messenger  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397G\|מַּלְאָ֑ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

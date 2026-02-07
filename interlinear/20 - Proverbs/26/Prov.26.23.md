@@ -1,4 +1,4 @@
-**Proverbs 26:23** 
+**Proverbs 26:23**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Burning lips and a wicked heart [are like] a potsherd covered with silver dross.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like glaze covering an earthen vessel are burning lips and a wicked heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.22|<< Proverbs 26:22]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.24|Proverbs 26:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | silver of  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dross\<es>  |**<big>&#8207;[[H5509\|סִ֭יגִים]]&#8207; </big>**| Si.gim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

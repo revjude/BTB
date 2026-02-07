@@ -1,10 +1,7 @@
 **LXX Leviticus 11:40** 
 <small><sub>**LXX:**</sub></small>
 And the \[one\] eating from  their decaying flesh, he shall wash  his garments, and shall be unclean until evening. And the \[one\] lifting of  their decaying flesh, he shall wash  his garments, and he shall bathe in water, and he shall be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Whoever eats from the carcass must wash his clothes and will be unclean until evening, and anyone who picks up the carcass must wash his clothes and will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.39|<< Leviticus 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.41|Leviticus 11:41 >>]]</td></tr></table>
 
 | Translation | Greek |

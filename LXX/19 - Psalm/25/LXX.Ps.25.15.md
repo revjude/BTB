@@ -1,10 +1,7 @@
 **LXX Psalm 25:15** 
 <small><sub>**LXX:**</sub></small>
  My eyes \[are\] always towards the <span class="smallcaps">lord</span>, for he shall pull out my feet from \[the\] snare. 
-<small><sub>**KJV:**</sub></small>
-Mine eyes [are] ever toward the LORD; for he shall pluck my feet out of the net.
-<small><sub>**BSB:**</sub></small>
-My eyes are always on the LORD, for He will free my feet from the mesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.14|<< Psalm 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.16|Psalm 25:16 >>]]</td></tr></table>
 
 | Translation | Greek |

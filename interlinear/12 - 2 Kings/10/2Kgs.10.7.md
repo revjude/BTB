@@ -1,4 +1,4 @@
-**2 Kings 10:7** 
+**2 Kings 10:7**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the letter came to them, that they took the king’s sons, and slew seventy persons, and put their heads in baskets, and sent him [them] to Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the letter arrived, they took the sons of the king and slaughtered all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.6|<< 2 Kings 10:6]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.8|2 Kings 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|בֹ֤א]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

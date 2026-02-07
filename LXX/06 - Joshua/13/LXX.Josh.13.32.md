@@ -1,10 +1,7 @@
 **LXX Joshua 13:32** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] which Moses gave to inherit in \[the\] wilderness of Moab on the other side of the Jordan  by Jericho from \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-These [are the countries] which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.
-<small><sub>**BSB:**</sub></small>
-These were the portions Moses had given them on the plains of Moab beyond the Jordan, east of Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.31|<< Joshua 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.33|Joshua 13:33 >>]]</td></tr></table>
 
 | Translation | Greek |

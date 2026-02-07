@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:3** 
 <small><sub>**LXX:**</sub></small>
 but Baruch son of Neriah unites with you against us, that you should give us into \[the\] hands of the Chaldeans,  to put us to death, and to resettle us in Babylon. 
-<small><sub>**KJV:**</sub></small>
-But Baruch the son of Neriah setteth thee on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
-<small><sub>**BSB:**</sub></small>
-Rather, Baruch son of Neriah is inciting you against us to deliver us into the hands of the Chaldeans, so that they may put us to death or exile us to Babylon!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.2|<< Jeremiah 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.4|Jeremiah 43:4 >>]]</td></tr></table>
 
 | Translation | Greek |

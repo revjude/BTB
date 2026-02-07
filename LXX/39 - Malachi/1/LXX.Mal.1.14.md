@@ -1,10 +1,7 @@
 **LXX Malachi 1:14** 
 <small><sub>**LXX:**</sub></small>
 And accursed be the man who was mighty, and a male existed among his flock, and  his vow \[was\] upon him, and he sacrifices a \[thing\] being corrupted to the <span class="smallcaps">lord</span>. For I am great king, says \[the\] <span class="smallcaps">lord</span> almighty, and  my name is prominent among the nations. 
-<small><sub>**KJV:**</sub></small>
-But cursed [be] the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I [am] a great King, saith the LORD of hosts, and my name [is] dreadful among the heathen.
-<small><sub>**BSB:**</sub></small>
-“But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

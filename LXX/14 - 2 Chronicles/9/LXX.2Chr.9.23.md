@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:23** 
 <small><sub>**LXX:**</sub></small>
 And all the kings of the earth sought the face of Solomon to hear  his wisdom, of which God put in his heart. 
-<small><sub>**KJV:**</sub></small>
-And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart.
-<small><sub>**BSB:**</sub></small>
-All the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.22|<< 2 Chronicles 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.24|2 Chronicles 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

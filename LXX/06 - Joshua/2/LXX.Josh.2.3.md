@@ -1,10 +1,7 @@
 **LXX Joshua 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the king of Jericho sent, and said to Rahab, saying, Lead out the men! the ones entering into  your house in the night, for they have come to spy out the land. 
-<small><sub>**KJV:**</sub></small>
-And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country.
-<small><sub>**BSB:**</sub></small>
-So the king of Jericho sent to Rahab and said, “Bring out the men who came to you and entered your house, for they have come to spy out the whole land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.2|<< Joshua 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.4|Joshua 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

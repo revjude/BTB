@@ -1,4 +1,4 @@
-**2 Samuel 10:10** 
+**2 Samuel 10:10**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the people he delivered into the hand of Abishai his brother, that he might put [them] in array against the children of Ammon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he placed the rest of the troops under the command of his brother Abishai, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.9|<< 2 Samuel 10:9]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.11|2 Samuel 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rest of  |**<big>&#8207;[[H3499A\|יֶ֣תֶר]]&#8207; </big>**| Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

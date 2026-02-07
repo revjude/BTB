@@ -1,10 +1,7 @@
 **LXX Job 38:4** 
 <small><sub>**LXX:**</sub></small>
 Where were you in  my laying the foundation for the earth? And report to me! if you should have knowledge of understanding. 
-<small><sub>**KJV:**</sub></small>
-Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.
-<small><sub>**BSB:**</sub></small>
-Where were you when I laid the foundations of the earth? Tell Me, if you have understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.3|<< Job 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.5|Job 38:5 >>]]</td></tr></table>
 
 | Translation | Greek |

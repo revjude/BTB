@@ -1,10 +1,7 @@
 **LXX Isaiah 1:16** 
 <small><sub>**LXX:**</sub></small>
 Bathe yourself! Become clean! Remove the wickednesses from  your souls before  my eyes! Cease from  your wickednesses! 
-<small><sub>**KJV:**</sub></small>
-Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
-<small><sub>**BSB:**</sub></small>
-Wash and cleanse yourselves. Remove your evil deeds from My sight. Stop doing evil!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.15|<< Isaiah 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.17|Isaiah 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

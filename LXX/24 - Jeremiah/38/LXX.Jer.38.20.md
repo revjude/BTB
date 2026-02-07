@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:20** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said, In no way shall they deliver you up. Hearken to the word of \[the\] <span class="smallcaps">lord</span>! which I say to you, and it will be better for you, and your soul shall live! 
-<small><sub>**KJV:**</sub></small>
-But Jeremiah said, They shall not deliver [thee]. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live.
-<small><sub>**BSB:**</sub></small>
-“They will not hand you over,” Jeremiah replied. “Obey the voice of the LORD in what I am telling you, that it may go well with you and you may live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.19|<< Jeremiah 38:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.21|Jeremiah 38:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:30** 
 <small><sub>**LXX:**</sub></small>
 And you shall prophesy against them all  these words, and shall say, \[The\] <span class="smallcaps">lord</span> from on high shall execute from  his holy place he shall give his voice; he will execute a word against  his place; and thus as ones gathering vintage shall be answered, and against the ones settling upon the earth shall come ruin, 
-<small><sub>**KJV:**</sub></small>
-Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread [the grapes], against all the inhabitants of the earth.
-<small><sub>**BSB:**</sub></small>
-So you are to prophesy all these words against them and say to them: ‘The LORD will roar from on high; He will raise His voice from His holy habitation. He will roar loudly over His pasture; like those who tread the grapes, He will call out with a shout against all the inhabitants of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.29|<< Jeremiah 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.31|Jeremiah 25:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 25:30** is...

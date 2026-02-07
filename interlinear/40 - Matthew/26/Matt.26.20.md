@@ -1,12 +1,12 @@
-**Matthew 26:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:20**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the even was come, he sat down with the twelve.
 <small><sub>**BSB:**</sub></small>
 When evening came, Jesus was reclining with the twelve disciples.
 <small><sub>**Literal:**</sub></small>
 As evening now having arrived He was reclining with the twelve disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.19|<< Matthew 26:19]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.21|Matthew 26:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As evening |**<big>[[G3798\|Ὀψίας]]</big>**  |Opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

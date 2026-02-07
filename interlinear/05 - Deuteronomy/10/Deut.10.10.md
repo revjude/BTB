@@ -1,4 +1,4 @@
-**Deuteronomy 10:10** 
+**Deuteronomy 10:10**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, [and] the LORD would not destroy thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I stayed on the mountain forty days and forty nights, like the first time, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.9|<< Deuteronomy 10:9]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.11|Deuteronomy 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֞י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I remained  |**<big>&#8207;[[H5975G\|עָמַ֣דְתִּי]]&#8207; </big>**| 'a.Mad.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

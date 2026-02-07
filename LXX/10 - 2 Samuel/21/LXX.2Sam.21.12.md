@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:12** 
 <small><sub>**LXX:**</sub></small>
 And David went and took the bones of Saul, and the bones of Jonathan  his son from the men of Jabish Gilead, of the ones stealing them from the square of Beth-shan, of the Philistines hanging them there in the day in which the Philistines struck  Saul in Gilboa. 
-<small><sub>**KJV:**</sub></small>
-And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabeshgilead, which had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa:
-<small><sub>**BSB:**</sub></small>
-he went and took the bones of Saul and his son Jonathan from the men of Jabesh-gilead, who had stolen them from the public square of Beth-shan where the Philistines had hung the bodies after they had struck down Saul at Gilboa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.11|<< 2 Samuel 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.13|2 Samuel 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

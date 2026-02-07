@@ -1,10 +1,7 @@
 **LXX Psalm 89:19** 
 <small><sub>**LXX:**</sub></small>
 Then you spoke in a vision \[to\] your sons, and said, I put help upon a mighty one; raising up high a chosen one from out of  my people. 
-<small><sub>**KJV:**</sub></small>
-Then thou spakest in vision to thy holy one, and saidst, I have laid help upon [one that is] mighty; I have exalted [one] chosen out of the people.
-<small><sub>**BSB:**</sub></small>
-You once spoke in a vision; to Your godly ones You said, “I have bestowed help on a warrior; I have exalted one chosen from the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.18|<< Psalm 89:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.20|Psalm 89:20 >>]]</td></tr></table>
 
 | Translation | Greek |

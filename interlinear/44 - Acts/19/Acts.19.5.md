@@ -1,12 +1,12 @@
-**Acts 19:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:5**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they heard [this], they were baptized in the name of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 On hearing this, they were baptized into the name of the Lord Jesus.
 <small><sub>**Literal:**</sub></small>
 Having heard then they were baptized in the name of the Lord Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.4|<< Acts 19:4]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.6|Acts 19:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

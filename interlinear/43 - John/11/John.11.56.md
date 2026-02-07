@@ -1,12 +1,12 @@
-**John 11:56
-**<small><sub>**KJV:**</sub></small>
+**John 11:56**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
 <small><sub>**BSB:**</sub></small>
 They kept looking for Jesus and asking one another as they stood in the temple courts, “What do you think? Will He come to the feast at all?”
 <small><sub>**Literal:**</sub></small>
 They were seeking therefore <the> Jesus and were saying among one another in the temple already standing; What does it seem to you, that certainly not He may come to the feast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.55|<< John 11:55]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.57|John 11:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were seeking |**<big>[[G2212\|ἐζήτουν]]</big>**  |ezētoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

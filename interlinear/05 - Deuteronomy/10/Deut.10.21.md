@@ -1,4 +1,4 @@
-**Deuteronomy 10:21** 
+**Deuteronomy 10:21**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [is] thy praise, and he [is] thy God, that hath done for thee these great and terrible things, which thine eyes have seen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is your praise and He is your God, who has done for you these great and aweso
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.20|<< Deuteronomy 10:20]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.22|Deuteronomy 10:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] praise your  |**<big>&#8207;[[H8416\|תְהִלָּתְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| te.hi.la.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

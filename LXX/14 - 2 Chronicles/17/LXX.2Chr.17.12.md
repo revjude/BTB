@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:12** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat was going in greatness unto height, and he built places of abode in Judah, and fortified cities. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.
-<small><sub>**BSB:**</sub></small>
-Jehoshaphat grew stronger and stronger, and he built fortresses and store cities in Judah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.11|<< 2 Chronicles 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.13|2 Chronicles 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

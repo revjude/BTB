@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:24** 
 <small><sub>**LXX:**</sub></small>
 And the ones shooting shot unto  your servants from of the wall, and there died \[some\] of the servants of the king, and even  your subject Uriah the Hittite has died. 
-<small><sub>**KJV:**</sub></small>
-And the shooters shot from off the wall upon thy servants; and [some] of the king’s servants be dead, and thy servant Uriah the Hittite is dead also.
-<small><sub>**BSB:**</sub></small>
-Then the archers shot at your servants from the wall, and some of the king’s servants were killed. And your servant Uriah the Hittite is dead as well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 6:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:8**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And commanded them that they should take nothing for [their] journey, save a staff only; no scrip, no bread, no money in [their] purse:
 <small><sub>**BSB:**</sub></small>
 He instructed them to take nothing but a staff for the journey—no bread, no bag, no money in their belts—
 <small><sub>**Literal:**</sub></small>
 And He instructed to them that nothing they may take for [the] journey only except a staff alone, no bread nor bag nor in the belt money,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.7|<< Mark 6:7]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.9|Mark 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He instructed |**<big>[[G3853\|παρήγγειλεν]]</big>**  |parēngeilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

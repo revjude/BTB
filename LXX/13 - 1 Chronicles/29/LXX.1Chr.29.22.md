@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they ate and drank before \[the\] <span class="smallcaps">lord</span> in that  day with great joy. And they gave reign for a second \[time\]  for Solomon son of David. And they anointed him to the <span class="smallcaps">lord</span> as king, and  Zadok for priest. 
-<small><sub>**KJV:**</sub></small>
-And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed [him] unto the LORD [to be] the chief governor, and Zadok [to be] priest.
-<small><sub>**BSB:**</sub></small>
-That day they ate and drank with great joy in the presence of the LORD. Then, for a second time, they designated David’s son Solomon as king, anointing him before the LORD as ruler, and Zadok as the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.21|<< 1 Chronicles 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.23|1 Chronicles 29:23 >>]]</td></tr></table>
 
 | Translation | Greek |

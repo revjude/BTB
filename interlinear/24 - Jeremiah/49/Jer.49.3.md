@@ -1,4 +1,4 @@
-**Jeremiah 49:3** 
+**Jeremiah 49:3**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, [and] his priests and his princes together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H3213\|הֵילִ֨ילִי]]&#8207; </big>**| hei.Li.li<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֜וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 6:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:7**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:
 <small><sub>**BSB:**</sub></small>
 For land that drinks in the rain often falling on it and that produces a crop useful to those for whom it is tended receives the blessing of God.
 <small><sub>**Literal:**</sub></small>
 Land for <the> having drunk in the upon it coming often rain and producing vegetation useful for those for the sake of whom also it is tilled, partakes of blessing from <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.6|<< Hebrews 6:6]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.8|Hebrews 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Land |**<big>[[G1093H\|Γῆ]]</big>**  |Gē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

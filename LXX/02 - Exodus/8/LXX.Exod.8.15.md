@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh seeing that there came to pass a respite, \[therefore\] his heart was weighed down, and he did not hearken to them, just as \[the\] <span class="smallcaps">lord</span> said. 
-<small><sub>**KJV:**</sub></small>
-But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said.
-<small><sub>**BSB:**</sub></small>
-When Pharaoh saw that there was relief, however, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.14|<< Exodus 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.16|Exodus 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 22:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:18**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
 <small><sub>**BSB:**</sub></small>
 I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book.
@@ -10,7 +10,7 @@ Testify I myself to everyone who is hearing the words of the prophecy of the boo
 > $\quad$ alluding to: [[LXX.Deut.4.2|Deut 4:2]] ☩ [[LXX.Deut.12.32|Deut 12:32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Testify [^1] |**<big>[[G3140\|Μαρτυρῶ]]</big>**  |Marturō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | I myself [^2] [^3] |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |

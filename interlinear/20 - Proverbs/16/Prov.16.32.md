@@ -1,4 +1,4 @@
-**Proverbs 16:32** 
+**Proverbs 16:32**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] slow to anger [is] better than the mighty; and he that ruleth his spirit than he that taketh a city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who is slow to anger is better than a warrior, and he who controls his temper
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.31|<< Proverbs 16:31]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.33|Proverbs 16:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a [person] long of  |**<big>&#8207;[[H0750\|אֶ֣רֶךְ]]&#8207; </big>**| 'E.rekh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

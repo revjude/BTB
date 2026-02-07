@@ -1,4 +1,4 @@
-**Psalms 19:2** (19:3)
+**Psalms 19:2**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Day unto day uttereth speech, and night unto night sheweth knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Day after day they pour forth speech; night after night they reveal knowledge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.1|<< Psalms 19:1]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.3|Psalms 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | day  |**<big>&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to day  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H3117G\|יוֹם]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

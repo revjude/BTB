@@ -1,4 +1,4 @@
-**Jeremiah 9:24** (9:23)
+**Jeremiah 9:24**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let him that glorieth glory in this, that he understandeth and knoweth me, that I [am] the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these [things] I delight, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But let him who boasts boast in this, that he understands and knows Me, that I a
 > $\quad$ referenced by: [[1Cor.1.31|1Cor 1:31]] ☩ [[2Cor.10.17|2Cor 10:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

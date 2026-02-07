@@ -1,10 +1,7 @@
 **LXX Exodus 8:8** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh called Moses and Aaron, and said, Make a vow for me to \[the\] <span class="smallcaps">lord</span>, and remove the frogs from me, and from  my people! And I will send the people, and they shall sacrifice \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.7|<< Exodus 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.9|Exodus 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

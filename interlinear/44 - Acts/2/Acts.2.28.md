@@ -1,5 +1,5 @@
-**Acts 2:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:28**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance.
 <small><sub>**BSB:**</sub></small>
 You have made known to me the paths of life; You will fill me with joy in Your presence.’
@@ -10,7 +10,7 @@ You have made known to me [the] paths of life, You will fill me with joy in the 
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have made known |**<big>[[G1107\|ἐγνώρισάς]]</big>**  |egnōrisas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to me |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

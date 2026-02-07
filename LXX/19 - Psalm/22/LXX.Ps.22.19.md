@@ -1,10 +1,7 @@
 **LXX Psalm 22:19** 
 <small><sub>**LXX:**</sub></small>
 But you, O <span class="smallcaps">lord</span>, your help should not be far from me; take heed to my assistance! 
-<small><sub>**KJV:**</sub></small>
-But be not thou far from me, O LORD: O my strength, haste thee to help me.
-<small><sub>**BSB:**</sub></small>
-But You, O LORD, be not far off; O my Strength, come quickly to help me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.18|<< Psalm 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.20|Psalm 22:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:19** is...

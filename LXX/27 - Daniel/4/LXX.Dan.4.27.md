@@ -1,10 +1,7 @@
 **LXX Daniel 4:27** 
 <small><sub>**LXX:**</sub></small>
 On account of this, O king,  let my counsel please you, and  ransom your sins by charities, and  your iniquities by compassions on \[the\] needy! Perhaps it will be lenient \[to\] your transgressions. 
-<small><sub>**KJV:**</sub></small>
-Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.
-<small><sub>**BSB:**</sub></small>
-Therefore, may my advice be pleasing to you, O king. Break away from your sins by doing what is right, and from your iniquities by showing mercy to the oppressed. Perhaps there will be an extension of your prosperity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.26|<< Daniel 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.28|Daniel 4:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 4:27** is...

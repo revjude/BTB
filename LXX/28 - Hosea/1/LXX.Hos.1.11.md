@@ -1,10 +1,7 @@
 **LXX Hosea 1:11** 
 <small><sub>**LXX:**</sub></small>
 And shall be gathered \[the\] sons of Judah, and \[the\] sons of Israel together. And they shall appoint to themselves one sovereign. And they shall ascend from out of the land. For great \[is\] the day  of Jezreel. 
-<small><sub>**KJV:**</sub></small>
-Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great [shall be] the day of Jezreel.
-<small><sub>**BSB:**</sub></small>
-Then the people of Judah and of Israel will be gathered together, and they will appoint for themselves one leader, and will go up out of the land. For great will be the day of Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.10|<< Hosea 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.1|Hosea 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:12** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint  her land for destruction in \[the\] midst of a land being made desolated, and  her cities shall be in \[the\] midst of cities being made desolated for extinction forty years. And I will scatter Egypt among the nations, and I will winnow them among the places. 
-<small><sub>**KJV:**</sub></small>
-And I will make the land of Egypt desolate in the midst of the countries [that are] desolate, and her cities among the cities [that are] laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.
-<small><sub>**BSB:**</sub></small>
-I will make the land of Egypt a desolation among desolate lands, and her cities will lie desolate for forty years among the ruined cities. And I will disperse the Egyptians among the nations and scatter them throughout the countries.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.11|<< Ezekiel 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.13|Ezekiel 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

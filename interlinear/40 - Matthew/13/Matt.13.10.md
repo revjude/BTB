@@ -1,12 +1,12 @@
-**Matthew 13:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:10**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the disciples came, and said unto him, Why speakest thou unto them in parables?
 <small><sub>**BSB:**</sub></small>
 Then the disciples came to Jesus and asked, “Why do You speak to the people in parables?”
 <small><sub>**Literal:**</sub></small>
 And having come the disciples said to Him; Because of why in parables speak You to them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.9|<< Matthew 13:9]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.11|Matthew 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

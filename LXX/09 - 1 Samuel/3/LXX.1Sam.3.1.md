@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the boy Samuel was officiating to the <span class="smallcaps">lord</span> before Eli the priest. And \[the\] word of \[the\] <span class="smallcaps">lord</span> was esteemed in  those days, because there was no vision for giving orders. 
-<small><sub>**KJV:**</sub></small>
-And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; [there was] no open vision.
-<small><sub>**BSB:**</sub></small>
-And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.36|<< 1 Samuel 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.2|1 Samuel 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

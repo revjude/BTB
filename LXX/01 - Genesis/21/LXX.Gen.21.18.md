@@ -1,10 +1,7 @@
 **LXX Genesis 21:18** 
 <small><sub>**LXX:**</sub></small>
 Rise up and take the child, and hold  it in your hand! For I will make it into a great nation. 
-<small><sub>**KJV:**</sub></small>
-Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.
-<small><sub>**BSB:**</sub></small>
-Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.17|<< Genesis 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.19|Genesis 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

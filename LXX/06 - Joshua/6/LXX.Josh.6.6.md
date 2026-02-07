@@ -1,10 +1,7 @@
 **LXX Joshua 6:6** 
 <small><sub>**LXX:**</sub></small>
 And Joshua \[the\] son of Nun entered to the priests, and he said to them, You take the ark of the covenant! and seven priests shall take seven horns of the ram, according to the front of the ark of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD.
-<small><sub>**BSB:**</sub></small>
-So Joshua son of Nun summoned the priests and said, “Take up the ark of the covenant and have seven priests carry seven rams’ horns in front of the ark of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.5|<< Joshua 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.7|Joshua 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

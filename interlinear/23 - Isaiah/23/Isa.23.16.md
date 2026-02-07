@@ -1,4 +1,4 @@
-**Isaiah 23:16** 
+**Isaiah 23:16**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take an harp, go about the city, thou harlot that hast been forgotten; make sweet melody, sing many songs, that thou mayest be remembered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take an harp, go about the city, thou harlot that hast been forgotten; make swee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.15|<< Isaiah 23:15]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.17|Isaiah 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קְחִ֥י]]&#8207; </big>**| ke.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a harp  |**<big>&#8207;[[H3658\|כִנּ֛וֹר]]&#8207; </big>**| khi.Nor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

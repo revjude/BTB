@@ -1,12 +1,12 @@
 (KJV) **Deuteronomy 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24|<< Deuteronomy 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26|Deuteronomy 26 >>]]</td></tr></table>
 
-***Fairness and Mercy*** ^bsb524
+<big><big>[[Deut.25.1 Fairness and Mercy|⥃]]</big></big>***Fairness and Mercy***
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.25.1|1]]**<span class="endversemarker">]</span> If there be a controversy between men, and they come unto judgment, that \[the judges\] may judge them; then they shall justify the righteous, and condemn the wicked.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Deut.25.2|2]]**<span class="endversemarker">]</span> And it shall be, if the wicked man \[be\] worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.<small><small>[^3]</small></small> <span class="startversemarker">[</span>**[[Deut.25.3|3]]**<span class="endversemarker">]</span> Forty stripes he may give him, \[and\] not exceed<small><small>[^4]</small></small>: lest, \[if\] he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee<small><small>[^5]</small></small>. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.25.4|4]]**<span class="endversemarker">]</span> [¶]Thou shalt not<small><small>[^6]</small></small> muzzle<small><small>[^7]</small></small> the ox when he treadeth out<small><small>[^8]</small></small> \[the corn\].
 
-***Widowhood and Marriage*** ^bsb525
+<big><big>[[Deut.25.5 Widowhood and Marriage|⥃]]</big></big>***Widowhood and Marriage***
 
  
 
@@ -14,13 +14,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.25.5|5]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.25.11|11]]**<span class="endversemarker">]</span> [¶]When men strive together one with another, and the wife of the one draweth near for to deliver her husband<small><small>[^17]</small></small> out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets: <span class="startversemarker">[</span>**[[Deut.25.12|12]]**<span class="endversemarker">]</span> Then thou shalt cut off her hand, thine eye shall not pity \[her\].<small><small>[^18]</small></small>
 
-***Standard Weights and Measures***&emsp;<small><sup>\[ [[Prov.11|Proverbs 11:1–3]] <big>†</big> [[Ezek.45|Ezekiel 45:10–12]] ]</sup></small> ^bsb526
+<big><big>[[Deut.25.13 Standard Weights and Measures|⥃]]</big></big>***Standard Weights and Measures***&emsp;<small><sup>\[ [[Prov.11|Proverbs 11:1–3]] <big>†</big> [[Ezek.45|Ezekiel 45:10–12]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.25.13|13]]**<span class="endversemarker">]</span> Thou shalt not have in thy bag<small><small>[^19]</small></small> divers weights<small><small>[^20]</small></small>, a great and a small. <span class="startversemarker">[</span>**[[Deut.25.14|14]]**<span class="endversemarker">]</span> Thou shalt not have in thine house divers measures<small><small>[^21]</small></small>, a great and a small. <span class="startversemarker">[</span>**[[Deut.25.15|15]]**<span class="endversemarker">]</span> \[But\] thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days<small><small>[^22]</small></small> may be lengthened in the land which the <span class="smallcaps">Lord</span> thy God giveth thee. <span class="startversemarker">[</span>**[[Deut.25.16|16]]**<span class="endversemarker">]</span> For all that do<small><small>[^23]</small></small> such things, \[and\] all that do unrighteously, \[are\] an abomination unto the <span class="smallcaps">Lord</span> thy God.
 
-***Revenge on the Amalekites*** ^bsb527
+<big><big>[[Deut.25.17 Revenge on the Amalekites|⥃]]</big></big>***Revenge on the Amalekites***
 
  
 

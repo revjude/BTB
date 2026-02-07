@@ -1,4 +1,4 @@
-**Joshua 21:1** 
+**Joshua 21:1**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the family heads of the Levites approached Eleazar the priest, Joshua son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.9|<< Joshua 20:9]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.2|Joshua 21:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they approached  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5066G\|יִּגְּשׁ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ge.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁי֙]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

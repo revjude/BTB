@@ -1,10 +1,7 @@
 **LXX Psalm 104:27** 
 <small><sub>**LXX:**</sub></small>
 All expect from you to give  them nourishment in an opportune time. 
-<small><sub>**KJV:**</sub></small>
-These wait all upon thee; that thou mayest give [them] their meat in due season.
-<small><sub>**BSB:**</sub></small>
-All creatures look to You to give them their food in due season.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.26|<< Psalm 104:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.28|Psalm 104:28 >>]]</td></tr></table>
 
 | Translation | Greek |

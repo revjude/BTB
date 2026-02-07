@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:16** 
 <small><sub>**LXX:**</sub></small>
 And I will disperse them among the nations which they knew not, nor  their fathers. And the sword as a successor upon them, until  they are completely consumed by it. 
-<small><sub>**KJV:**</sub></small>
-I will scatter them also among the heathen, whom neither they nor their fathers have known: and I will send a sword after them, till I have consumed them.
-<small><sub>**BSB:**</sub></small>
-I will scatter them among the nations that neither they nor their fathers have known, and I will send a sword after them until I have finished them off.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.15|<< Jeremiah 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.17|Jeremiah 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

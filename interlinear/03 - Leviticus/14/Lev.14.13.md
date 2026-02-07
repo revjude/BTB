@@ -1,4 +1,4 @@
-**Leviticus 14:13** 
+**Leviticus 14:13**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering [is] the priest’s, [so is] the trespass offering: it [is] most holy:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he is to slaughter the lamb in the sanctuary area where the sin offering an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.12|<< Leviticus 14:12]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.14|Leviticus 14:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cut [the] throat of  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7819A\|שָׁחַ֣ט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Chat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

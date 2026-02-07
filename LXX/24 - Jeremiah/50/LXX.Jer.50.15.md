@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:15** 
 <small><sub>**LXX:**</sub></small>
 And secure her! Her hands were disabled; the parapets fell; her wall was razed. For it is vengeance by God. Take vengeance against her. As she did, you do to her! 
-<small><sub>**KJV:**</sub></small>
-Shout against her round about: she hath given her hand: her foundations are fallen, her walls are thrown down: for it [is] the vengeance of the LORD: take vengeance upon her; as she hath done, do unto her.
-<small><sub>**BSB:**</sub></small>
-Raise a war cry against her on every side! She has thrown up her hands in surrender; her towers have fallen; her walls are torn down. Since this is the vengeance of the LORD, take out your vengeance upon her; as she has done, do the same to her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.14|<< Jeremiah 50:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.16|Jeremiah 50:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 50:15** is...

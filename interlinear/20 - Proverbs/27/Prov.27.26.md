@@ -1,4 +1,4 @@
-**Proverbs 27:26** 
+**Proverbs 27:26**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lambs [are] for thy clothing, and the goats [are] the price of the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the lambs will provide you with clothing, and the goats with the price of a fiel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.25|<< Proverbs 27:25]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.27|Proverbs 27:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lambs  |**<big>&#8207;[[H3532\|כְּבָשִׂ֥ים]]&#8207; </big>**| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] for clothing your  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3830\|לְבוּשֶׁ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> l.vu.She.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

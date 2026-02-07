@@ -1,4 +1,4 @@
-**Daniel 9:22** 
+**Daniel 9:22**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he informed [me], and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He instructed me and spoke with me, saying: “O Daniel, I have come now to give
 > $\quad$ referenced by: [[Rev.20.4|Rev 20:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave understanding  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0995\|יָּ֖בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.ven<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

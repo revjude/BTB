@@ -1,10 +1,7 @@
 **LXX Daniel 7:7** 
 <small><sub>**LXX:**</sub></small>
 After this I viewed, and behold, a fourth wild beast, fearful and utterly astonishing, and extremely great, and  its teeth iron, strong, eating, and making fine, and the rest \[with\] its feet it trampled. And it \[was\] extremely diverse from all the wild beasts, the ones before it. And ten horns \[were\] to it. 
-<small><sub>**KJV:**</sub></small>
-After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it [was] diverse from all the beasts that [were] before it; and it had ten horns.
-<small><sub>**BSB:**</sub></small>
-After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.6|<< Daniel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.8|Daniel 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:7** is...

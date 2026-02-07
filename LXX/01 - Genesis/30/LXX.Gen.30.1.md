@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Rachel saw that she has not borne  to Jacob. And Rachel envied  her sister. And she said  to Jacob, Give to me a child! and if not, I will come to an end. 
-<small><sub>**KJV:**</sub></small>
-And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
-<small><sub>**BSB:**</sub></small>
-When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.35|<< Genesis 29:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.2|Genesis 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

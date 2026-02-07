@@ -1,4 +1,4 @@
-**2 Chronicles 34:17** 
+**2 Chronicles 34:17**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have paid out the money that was found in the house of the LORD and have pu
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.16|<< 2 Chronicles 34:16]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.18|2 Chronicles 34:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have poured out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5413\|יַּתִּ֕יכוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ti.khu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

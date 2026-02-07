@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:18** 
 <small><sub>**LXX:**</sub></small>
 And with them  their brethren the ones second \[ranked\] -- Zechariah son of Jaaziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed Edom, and Jeiel, the gatekeepers. 
-<small><sub>**KJV:**</sub></small>
-And with them their brethren of the second [degree], Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters.
-<small><sub>**BSB:**</sub></small>
-and with them their brothers next in rank: Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, and the gatekeepers Obed-edom and Jeiel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.17|<< 1 Chronicles 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.19|1 Chronicles 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

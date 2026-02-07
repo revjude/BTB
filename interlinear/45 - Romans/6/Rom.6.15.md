@@ -1,12 +1,12 @@
-**Romans 6:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:15**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What then? shall we sin, because we are not under the law, but under grace? God forbid.
 <small><sub>**BSB:**</sub></small>
 What then? Shall we sin because we are not under law, but under grace? Certainly not!
 <small><sub>**Literal:**</sub></small>
 What then? Shall we sin because not we are under law but under grace? Never would it be!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.14|<< Romans 6:14]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.16|Romans 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then? |**<big>[[G3767\|οὖν;]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

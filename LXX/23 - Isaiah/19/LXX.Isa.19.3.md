@@ -1,10 +1,7 @@
 **LXX Isaiah 19:3** 
 <small><sub>**LXX:**</sub></small>
 And the spirit of the Egyptians shall be disturbed in themselves; and  I shall efface their plan. And they shall ask  of their gods, and  of their statues, and the ones that speak out loud from out of the earth, and the ones delivering oracles. 
-<small><sub>**KJV:**</sub></small>
-And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.
-<small><sub>**BSB:**</sub></small>
-Then the spirit of the Egyptians will be emptied out from among them, and I will frustrate their plans, so that they will resort to idols and spirits of the dead, to mediums and spiritists.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.2|<< Isaiah 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.4|Isaiah 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

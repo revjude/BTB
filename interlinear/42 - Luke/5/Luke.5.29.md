@@ -1,12 +1,12 @@
-**Luke 5:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:29**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.
 <small><sub>**BSB:**</sub></small>
 Then Levi hosted a great banquet for Jesus at his house. A large crowd of tax collectors was there, along with others who were eating with them.
 <small><sub>**Literal:**</sub></small>
 And made a banquet great <the> Levi for Him in the house of him, and there was a multitude great of tax collectors and others who were with them reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.28|<< Luke 5:28]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.30|Luke 5:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | made |**<big>[[G4160G\|ἐποίησεν]]</big>**  |epoiēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

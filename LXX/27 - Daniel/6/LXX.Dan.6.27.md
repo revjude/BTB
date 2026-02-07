@@ -1,10 +1,7 @@
 **LXX Daniel 6:27** 
 <small><sub>**LXX:**</sub></small>
 He takes hold of and he rescues, and he produces signs and miracles in the heaven and upon the earth, who rescued  Daniel from \[the\] mouth of the lions. 
-<small><sub>**KJV:**</sub></small>
-He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
-<small><sub>**BSB:**</sub></small>
-He delivers and rescues; He performs signs and wonders in the heavens and on the earth, for He has rescued Daniel from the power of the lions.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.26|<< Daniel 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.28|Daniel 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

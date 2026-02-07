@@ -1,4 +1,4 @@
-**Jeremiah 46:19** 
+**Jeremiah 46:19**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pack your bags for exile, O daughter dwelling in Egypt! For Memphis will be laid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.18|<< Jeremiah 46:18]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.20|Jeremiah 46:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | baggage\<s> of  |**<big>&#8207;[[H3627\|כְּלֵ֤י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | exile  |**<big>&#8207;[[H1473\|גוֹלָה֙]]&#8207; </big>**| go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

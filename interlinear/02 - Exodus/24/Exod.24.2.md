@@ -1,4 +1,4 @@
-**Exodus 24:2** 
+**Exodus 24:2**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses alone shall approach the LORD, but the others must not come near. And the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.1|<< Exodus 24:1]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.3|Exodus 24:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will draw near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5066G\|נִגַּ֨שׁ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.Gash<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֤ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

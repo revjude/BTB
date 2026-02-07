@@ -1,10 +1,7 @@
 **LXX Isaiah 37:36** 
 <small><sub>**LXX:**</sub></small>
 And an angel \[of the\] <span class="smallcaps">lord</span> came forth, and he did away with the camp of the Assyrians -- a hundred eighty-five thousand. And rising up in the morning he found all the dead bodies. 
-<small><sub>**KJV:**</sub></small>
-Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.
-<small><sub>**BSB:**</sub></small>
-Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.35|<< Isaiah 37:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.37|Isaiah 37:37 >>]]</td></tr></table>
 
 | Translation | Greek |

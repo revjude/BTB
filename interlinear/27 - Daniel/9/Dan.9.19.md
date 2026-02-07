@@ -1,4 +1,4 @@
-**Daniel 9:19** 
+**Daniel 9:19**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.18|<< Daniel 9:18]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.20|Daniel 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear !  |**<big>&#8207;[[H8085G\|שְׁמָ֙עָ]]&#8207;&#8207;[[H9012\|ה֙]]&#8207; </big>**| she.Ma.'a<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

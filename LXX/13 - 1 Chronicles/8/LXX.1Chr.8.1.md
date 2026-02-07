@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Benjamin engendered  Bela his first-born, and Ashbel the second, Aharah the third, 
-<small><sub>**KJV:**</sub></small>
-Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
-<small><sub>**BSB:**</sub></small>
-Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.40|<< 1 Chronicles 7:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.2|1 Chronicles 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

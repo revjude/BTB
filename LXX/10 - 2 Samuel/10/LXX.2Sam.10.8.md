@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon came forth, and deployed for war by the door of the gate. And the Syrian Zoba, and Rehob, and IshTob, and Maacah \[were\] by themselves in the field. 
-<small><sub>**KJV:**</sub></small>
-And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, [were] by themselves in the field.
-<small><sub>**BSB:**</sub></small>
-The Ammonites marched out and arrayed themselves for battle at the entrance of the city gate, while the Arameans of Zobah and Rehob and the men of Tob and Maacah were by themselves in the open country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.7|<< 2 Samuel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.9|2 Samuel 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

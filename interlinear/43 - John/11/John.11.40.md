@@ -1,12 +1,12 @@
-**John 11:40
-**<small><sub>**KJV:**</sub></small>
+**John 11:40**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Did I not tell you that if you believed, you would see the glory of God?”
 <small><sub>**Literal:**</sub></small>
 Says to her <the> Jesus; Surely I said to you that if you shall believe you will see the glory <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.39|<< John 11:39]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.41|John 11:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to her |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

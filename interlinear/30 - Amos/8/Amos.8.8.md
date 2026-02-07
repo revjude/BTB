@@ -1,4 +1,4 @@
-**Amos 8:8** 
+**Amos 8:8**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as [by] the flood of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will not the land quake for this, and all its dwellers mourn? All of it will swe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.7|<< Amos 8:7]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.9|Amos 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ on  |**<big>&#8207;[[H9008\|הַ֤]]&#8207;&#8207;[[H5921A\|עַל]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

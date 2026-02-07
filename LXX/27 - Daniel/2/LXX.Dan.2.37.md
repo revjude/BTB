@@ -1,10 +1,7 @@
 **LXX Daniel 2:37** 
 <small><sub>**LXX:**</sub></small>
 You, O king, \[are\] king of kings, to whom the God  of heaven gave a strong and fortified and honorable kingdom. 
-<small><sub>**KJV:**</sub></small>
-Thou, O king, [art] a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.
-<small><sub>**BSB:**</sub></small>
-You, O king, are the king of kings, to whom the God of heaven has given sovereignty, power, strength, and glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.36|<< Daniel 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.38|Daniel 2:38 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 2:37** is...

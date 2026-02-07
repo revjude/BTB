@@ -1,4 +1,4 @@
-**1 Samuel 26:5** 
+**1 Samuel 26:5**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David set out and went to the place where Saul had camped. He saw the place
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֗ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -38,7 +38,7 @@ Then David set out and went to the place where Saul had camped. He saw the place
 | around him  [^2]|**<big>&#8207;[[H5439G\|סְבִיבֹתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | se.vi.vo.to<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
-[^1]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
+[^1]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^2]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃</big></span>**
 

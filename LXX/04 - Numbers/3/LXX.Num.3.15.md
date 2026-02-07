@@ -1,10 +1,7 @@
 **LXX Numbers 3:15** 
 <small><sub>**LXX:**</sub></small>
 Number the sons of Levi according to the houses of their patrimony, according to their kin! Every male from a month and up you number them! 
-<small><sub>**KJV:**</sub></small>
-Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.
-<small><sub>**BSB:**</sub></small>
-“Number the Levites by their families and clans. You are to count every male a month old or more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.14|<< Numbers 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.16|Numbers 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

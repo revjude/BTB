@@ -1,10 +1,7 @@
 **LXX Genesis 31:37** 
 <small><sub>**LXX:**</sub></small>
 and that you searched all the items  of my house? What did you find from all the items  of your house? Put here before  your brethren and  my brethren, and let them reprove between the two of us! 
-<small><sub>**KJV:**</sub></small>
-Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set [it] here before my brethren and thy brethren, that they may judge betwixt us both.
-<small><sub>**BSB:**</sub></small>
-You have searched all my goods! Have you found anything that belongs to you? Put it here before my brothers and yours, that they may judge between the two of us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.36|<< Genesis 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.38|Genesis 31:38 >>]]</td></tr></table>
 
 | Translation | Greek |

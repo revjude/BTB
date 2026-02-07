@@ -1,4 +1,4 @@
-**Micah 5:12** (5:11)
+**Micah 5:12**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cut off witchcrafts out of thine hand; and thou shalt have no [more] soothsayers:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will cut the sorceries from your hand, and you will have no fortune-tellers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.11|<< Micah 5:11]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.13|Micah 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|הִכְרַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sorceries  |**<big>&#8207;[[H3785\|כְשָׁפִ֖ים]]&#8207; </big>**| khe.sha.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 13:12** 
 <small><sub>**LXX:**</sub></small>
 all the kingdom of Og in  Bashan, who reigned in Ashtaroth and in Edrei -- this one was left from the remnant of giants; for Moses struck him and utterly destroyed him. 
-<small><sub>**KJV:**</sub></small>
-All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.
-<small><sub>**BSB:**</sub></small>
-the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had remained as a remnant of the Rephaim. Moses had struck them down and dispossessed them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.11|<< Joshua 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.13|Joshua 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

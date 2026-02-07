@@ -1,10 +1,7 @@
 **LXX Genesis 19:20** 
 <small><sub>**LXX:**</sub></small>
 Behold,  this city \[is\] near  for me to take refuge there, which is small, there I will be delivered. Is it not a small \[thing\] that my soul will live because of you? 
-<small><sub>**KJV:**</sub></small>
-Behold now, this city [is] near to flee unto, and it [is] a little one: Oh, let me escape thither, ([is] it not a little one?) and my soul shall live.
-<small><sub>**BSB:**</sub></small>
-Look, there is a town nearby where I can flee, and it is a small place. Please let me flee there—is it not a small place? Then my life will be saved.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.19|<< Genesis 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.21|Genesis 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

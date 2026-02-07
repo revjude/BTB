@@ -1,12 +1,12 @@
-**2 Thessalonians 2:6
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:6**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now ye know what withholdeth that he might be revealed in his time.
 <small><sub>**BSB:**</sub></small>
 And you know what is now restraining him, so that he may be revealed at the proper time.
 <small><sub>**Literal:**</sub></small>
 And now that which is restraining you know for <the> to be revealed him in <the> his own time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.5|<< 2 Thessalonians 2:5]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.7|2 Thessalonians 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

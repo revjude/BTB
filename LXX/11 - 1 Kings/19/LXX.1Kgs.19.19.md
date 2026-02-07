@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:19** 
 <small><sub>**LXX:**</sub></small>
 And he went forth from there, and he finds  Elisha son of Shaphat, and he was plowing with oxen. Twelve teams \[were\] before him, and he \[was\] among the twelve. And Elijah went forth unto Elisha, and he tossed upon him  his sheepskin. 
-<small><sub>**KJV:**</sub></small>
-So he departed thence, and found Elisha the son of Shaphat, who [was] plowing [with] twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
-<small><sub>**BSB:**</sub></small>
-So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.18|<< 1 Kings 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.20|1 Kings 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

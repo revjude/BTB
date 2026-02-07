@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:32** 
 <small><sub>**LXX:**</sub></small>
 And two chiefdoms will be his, on account of  my servant David, and on account of Jerusalem the city which I chose in it from out of all \[the\] tribes of Israel; 
-<small><sub>**KJV:**</sub></small>
-(But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:)
-<small><sub>**BSB:**</sub></small>
-But one tribe will remain for the sake of My servant David and for the sake of Jerusalem, the city I have chosen out of all the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.31|<< 1 Kings 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.33|1 Kings 11:33 >>]]</td></tr></table>
 
 | Translation | Greek |

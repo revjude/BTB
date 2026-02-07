@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:18** 
 <small><sub>**LXX:**</sub></small>
 the one executing judgment for a foreigner, and orphan, and widow; and he loves the foreigner \[so as\] to give to him bread and a garment. 
-<small><sub>**KJV:**</sub></small>
-He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.
-<small><sub>**BSB:**</sub></small>
-He executes justice for the fatherless and widow, and He loves the foreigner, giving him food and clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.17|<< Deuteronomy 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.19|Deuteronomy 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

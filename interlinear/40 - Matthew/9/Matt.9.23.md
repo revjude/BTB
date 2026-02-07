@@ -1,12 +1,12 @@
-**Matthew 9:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:23**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,
 <small><sub>**BSB:**</sub></small>
 When Jesus entered the house of the synagogue leader, He saw the flute players and the noisy crowd.
 <small><sub>**Literal:**</sub></small>
 And having come <the> Jesus into the house of the ruler and having seen the flute players and the crowd making a commotion<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.22|<< Matthew 9:22]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.24|Matthew 9:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

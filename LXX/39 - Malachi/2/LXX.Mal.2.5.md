@@ -1,10 +1,7 @@
 **LXX Malachi 2:5** 
 <small><sub>**LXX:**</sub></small>
  My covenant was with him, the one of life and  of peace; and I gave to him fear to fear me, and from \[the\] presence of my name to put him in readiness. 
-<small><sub>**KJV:**</sub></small>
-My covenant was with him of life and peace; and I gave them to him [for] the fear wherewith he feared me, and was afraid before my name.
-<small><sub>**BSB:**</sub></small>
-“My covenant with him was one of life and peace, which I gave to him; it called for reverence, and he revered Me and stood in awe of My name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.4|<< Malachi 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.6|Malachi 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

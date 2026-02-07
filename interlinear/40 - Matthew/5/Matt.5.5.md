@@ -1,5 +1,5 @@
-**Matthew 5:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:5**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [are] the meek: for they shall inherit the earth.
 <small><sub>**BSB:**</sub></small>
 Blessed are the meek, for they will inherit the earth.
@@ -10,7 +10,7 @@ Blessed [are] the meek, for they themselves will inherit the earth.<br><table wi
 > $\quad$ referencing: [[LXX.Ps.37.11|Ps 37:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [are] |**<big>[[G3107\|Μακάριοι]]</big>**  |Makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

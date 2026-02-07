@@ -1,12 +1,12 @@
-**Matthew 13:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:46**<big><big>[[Matt.13.44 The Parables of the Treasure and the Pearl|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, when he had found one pearl of great price, went and sold all that he had, and bought it.
 <small><sub>**BSB:**</sub></small>
 When he found one very precious pearl, he went away and sold all he had and bought it.
 <small><sub>**Literal:**</sub></small>
 who having found now one very precious pearl, having gone away he has sold all things as much as he was having and he bought it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.45|<< Matthew 13:45]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.47|Matthew 13:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | having found |**<big>[[G2147\|εὑρὼν]]</big>**  |heurōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

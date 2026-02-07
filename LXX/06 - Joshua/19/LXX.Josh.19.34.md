@@ -1,10 +1,7 @@
 **LXX Joshua 19:34** 
 <small><sub>**LXX:**</sub></small>
 And the borders turned unto \[the\] west to Aznoth Tabor, and it shall go from there unto Hukkok, and it shall join together with Zebulun from \[the\] south, and Asher will join \[it\] towards \[the\] west, and Judah of the Jordan from \[the\] east sun. 
-<small><sub>**KJV:**</sub></small>
-And [then] the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.
-<small><sub>**BSB:**</sub></small>
-Then the border turned westward to Aznoth-tabor and ran from there to Hukkok, touching Zebulun on the south side, Asher on the west, and Judah at the Jordan on the east.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.33|<< Joshua 19:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.35|Joshua 19:35 >>]]</td></tr></table>
 
 | Translation | Greek |

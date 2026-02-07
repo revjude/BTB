@@ -1,5 +1,5 @@
-**2 Corinthians 8:21
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:21**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 <small><sub>**BSB:**</sub></small>
 For we are taking great care to do what is right, not only in the eyes of the Lord, but also in the eyes of men.
@@ -10,7 +10,7 @@ We plan for what is right not only before [the] Lord but also before men.<br><ta
 > $\quad$ referencing: [[LXX.Prov.3.4|Prov 3:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We plan [^1] |**<big>[[G4306\|προνοοῦμεν]]</big>**  |pronooumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

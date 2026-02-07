@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:18** 
 <small><sub>**LXX:**</sub></small>
 And  his wife Jehudijah bore to him  Jered father of Gedor, and  Heber father of Socho, and  Jekuthiel father of Zanoah. And these \[are\] \[the\] sons of Bithiah daughter of Pharaoh, which Mered took. 
-<small><sub>**KJV:**</sub></small>
-And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these [are] the sons of Bithiah the daughter of Pharaoh, which Mered took.
-<small><sub>**BSB:**</sub></small>
-These were the children of Pharaoh’s daughter Bithiah. Mered also took a Judean wife, who gave birth to Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.17|<< 1 Chronicles 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.19|1 Chronicles 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

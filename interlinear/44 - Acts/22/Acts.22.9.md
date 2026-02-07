@@ -1,12 +1,12 @@
-**Acts 22:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:9**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.
 <small><sub>**BSB:**</sub></small>
 My companions saw the light, but they could not understand the voice of the One speaking to me.
 <small><sub>**Literal:**</sub></small>
 Those then with me myself being the indeed light beheld and terrified they were the however voice not did they hear the [One] speaking to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.8|<< Acts 22:8]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.10|Acts 22:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

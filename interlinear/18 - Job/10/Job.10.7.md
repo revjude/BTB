@@ -1,4 +1,4 @@
-**Job 10:7** 
+**Job 10:7**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou knowest that I am not wicked; and [there is] none that can deliver out of thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ though You know that I am not guilty, and there is no deliverance from Your hand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.6|<< Job 10:6]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.8|Job 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | knowledge your  |**<big>&#8207;[[H1847\|דַּ֭עְתְּ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Da'.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

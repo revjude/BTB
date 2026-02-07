@@ -1,4 +1,4 @@
-**Psalms 35:7** 
+**Psalms 35:7**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For without cause have they hid for me their net [in] a pit, [which] without cause they have digged for my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For without cause they laid their net for me; without reason they dug a pit for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.6|<< Psalms 35:6]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.8|Psalms 35:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | without cause  |**<big>&#8207;[[H2600\|חִנָּ֣ם]]&#8207; </big>**| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

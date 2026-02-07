@@ -1,4 +1,4 @@
-**1 Kings 6:20** 
+**1 Kings 6:20**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the oracle in the forepart [was] twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and [so] covered the altar [which was of] cedar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The inner sanctuary was twenty cubits long, twenty cubits wide, and twenty cubit
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.19|<< 1 Kings 6:19]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.21|1 Kings 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the innermost room  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1687\|דְּבִ֡יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.Vir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

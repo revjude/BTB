@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:9** 
 <small><sub>**LXX:**</sub></small>
 And Joash king of Israel sent to Amaziah king of Judah, saying, The thorn  in  Lebanon sent to the cedar  in  Lebanon, saying, Give  your daughter \[to\] my son for a wife! And the wild beasts went through the field  in  Lebanon, and trampled upon the thorn. 
-<small><sub>**KJV:**</sub></small>
-And Jehoash the king of Israel sent to Amaziah king of Judah, saying, The thistle that [was] in Lebanon sent to the cedar that [was] in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that [was] in Lebanon, and trode down the thistle.
-<small><sub>**BSB:**</sub></small>
-But Jehoash king of Israel replied to Amaziah king of Judah: “A thistle in Lebanon sent a message to a cedar in Lebanon, saying, ‘Give your daughter to my son in marriage.’ Then a wild beast in Lebanon came along and trampled the thistle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.8|<< 2 Kings 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.10|2 Kings 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

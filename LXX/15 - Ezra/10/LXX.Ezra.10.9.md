@@ -1,10 +1,7 @@
 **LXX Ezra 10:9** 
 <small><sub>**LXX:**</sub></small>
 And all \[the\] men of Judah and Benjamin gathered together in Jerusalem for the three days. \[And\] this \[was\] the ninth month. On the twentieth of the month all the people sat in \[the\] square of \[the\] house  of God in trembling concerning the matter, and because of the distress. 
-<small><sub>**KJV:**</sub></small>
-Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It [was] the ninth month, on the twentieth [day] of the month; and all the people sat in the street of the house of God, trembling because of [this] matter, and for the great rain.
-<small><sub>**BSB:**</sub></small>
-So within the three days, all the men of Judah and Benjamin assembled in Jerusalem, and on the twentieth day of the ninth month, all the people sat in the square at the house of God, trembling regarding this matter and because of the heavy rain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.8|<< Ezra 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.10|Ezra 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

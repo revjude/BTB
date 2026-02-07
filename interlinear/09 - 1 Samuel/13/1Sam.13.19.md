@@ -1,4 +1,4 @@
-**1 Samuel 13:19** 
+**1 Samuel 13:19**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make [them] swords or spears:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And no blacksmith could be found in all the land of Israel, because the Philisti
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.18|<< 1 Samuel 13:18]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.20|1 Samuel 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a craftsman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2796\|חָרָשׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

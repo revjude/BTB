@@ -1,4 +1,4 @@
-**1 Samuel 30:6** 
+**1 Samuel 30:6**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David was greatly distressed because the people spoke of stoning him, becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.5|<< 1 Samuel 30:5]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.7|1 Samuel 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was distress  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3334\|תֵּ֨צֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.tzer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֜ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

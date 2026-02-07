@@ -1,4 +1,4 @@
-**Deuteronomy 1:3** 
+**Deuteronomy 1:3**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the fortieth year, in the eleventh month, on the first [day] of the month, [that] Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fortieth year, on the first day of the eleventh month, Moses proclaimed t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.2|<< Deuteronomy 1:2]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.4|Deuteronomy 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in forty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0705\|אַרְבָּעִ֣ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

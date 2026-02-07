@@ -1,12 +1,12 @@
-**1 Corinthians 14:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:19**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet in the church I had rather speak five words with my understanding, that [by my voice] I might teach others also, than ten thousand words in an [unknown] tongue.
 <small><sub>**BSB:**</sub></small>
 But in the church, I would rather speak five coherent words to instruct others than ten thousand words in a tongue.
 <small><sub>**Literal:**</sub></small>
 but in [the] church I desire five words through the with mind of mine to speak that also others I may instruct, rather than ten thousand words in a tongue.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.18|<< 1 Corinthians 14:18]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.20|1 Corinthians 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

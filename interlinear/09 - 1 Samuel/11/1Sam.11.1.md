@@ -1,4 +1,4 @@
-**1 Samuel 11:1** 
+**1 Samuel 11:1**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.27|<< 1 Samuel 10:27]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.2|1 Samuel 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֗עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nahash  |**<big>&#8207;[[H5176G\|נָחָשׁ֙]]&#8207; </big>**| na.Chash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

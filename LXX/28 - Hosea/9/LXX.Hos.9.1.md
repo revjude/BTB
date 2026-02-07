@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Rejoice not, O Israel, nor be glad as the peoples! For you went whoring from \[the\] <span class="smallcaps">lord</span> your God. You loved gifts upon every threshing-floor of grain. 
-<small><sub>**KJV:**</sub></small>
-Rejoice not, O Israel, for joy, as [other] people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
-<small><sub>**BSB:**</sub></small>
-Do not rejoice, O Israel, with exultation like the nations, for you have played the harlot against your God; you have made love for hire on every threshing floor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.14|<< Hosea 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.2|Hosea 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

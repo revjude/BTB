@@ -1,4 +1,4 @@
-**Exodus 37:18** 
+**Exodus 37:18**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six branches extended from the sides, three on one side and three on the other.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.17|<< Exodus 37:17]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.19|Exodus 37:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שִׁשָּׁ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | branches  |**<big>&#8207;[[H7070G\|קָנִ֔ים]]&#8207; </big>**| ka.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

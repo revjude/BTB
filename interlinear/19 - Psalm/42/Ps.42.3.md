@@ -1,4 +1,4 @@
-**Psalms 42:3** (42:4)
+**Psalms 42:3**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tears have been my meat day and night, while they continually say unto me, Where [is] thy God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My tears have been my food both day and night, while men ask me all day long, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.2|<< Psalms 42:2]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.4|Psalms 42:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been  |**<big>&#8207;[[H1961\|הָֽיְתָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.ye.tah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H9005\|לִּ֬]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

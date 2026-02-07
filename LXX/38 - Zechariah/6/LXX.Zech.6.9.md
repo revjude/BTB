@@ -1,10 +1,7 @@
 **LXX Zechariah 6:9** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to me, saying, 
-<small><sub>**KJV:**</sub></small>
-And the word of the LORD came unto me, saying,
-<small><sub>**BSB:**</sub></small>
-The word of the LORD also came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.8|<< Zechariah 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.10|Zechariah 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

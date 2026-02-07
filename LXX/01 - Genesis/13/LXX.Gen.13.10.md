@@ -1,10 +1,7 @@
 **LXX Genesis 13:10** 
 <small><sub>**LXX:**</sub></small>
 And Lot, lifting up  his eyes, looked upon all the place round about the Jordan, that all was watered (before the eradicating  by God \[of\] Sodom and Gomorrah) as the paradise  of God, and as the land of Egypt unto coming into Zoar. 
-<small><sub>**KJV:**</sub></small>
-And Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
-<small><sub>**BSB:**</sub></small>
-And Lot looked out and saw that the whole plain of the Jordan, all the way to Zoar, was well watered like the garden of the LORD, like the land of Egypt. (This was before the LORD destroyed Sodom and Gomorrah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.9|<< Genesis 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.11|Genesis 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

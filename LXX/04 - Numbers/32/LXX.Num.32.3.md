@@ -1,10 +1,7 @@
 **LXX Numbers 32:3** 
 <small><sub>**LXX:**</sub></small>
 Ataroth and Dibon and Jazer and Nimrah and Heshbon and Elealeh and Shebam and Nebo and Beon, 
-<small><sub>**KJV:**</sub></small>
-Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
-<small><sub>**BSB:**</sub></small>
-“Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.2|<< Numbers 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.4|Numbers 32:4 >>]]</td></tr></table>
 
 | Translation | Greek |

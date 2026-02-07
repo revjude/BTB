@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:16** 
 <small><sub>**LXX:**</sub></small>
 And he went forth at midday. And \[the\] son of Hadad \[was\] drinking and being intoxicated in Succoth, he and the kings, thirty and two kings, the allies with him. 
-<small><sub>**KJV:**</sub></small>
-And they went out at noon. But Benhadad [was] drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.
-<small><sub>**BSB:**</sub></small>
-They marched out at noon while Ben-hadad and the 32 kings allied with him were in their tents getting drunk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.15|<< 1 Kings 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.17|1 Kings 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

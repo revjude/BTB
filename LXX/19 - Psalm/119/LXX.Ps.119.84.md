@@ -1,10 +1,7 @@
 **LXX Psalm 119:84** 
 <small><sub>**LXX:**</sub></small>
 How many are the days  of your servant? When will you execute for me a judgment against the ones pursuing me? 
-<small><sub>**KJV:**</sub></small>
-How many [are] the days of thy servant? when wilt thou execute judgment on them that persecute me?
-<small><sub>**BSB:**</sub></small>
-How many days must Your servant wait? When will You execute judgment on my persecutors?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.84|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.83|<< Psalm 119:83]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.85|Psalm 119:85 >>]]</td></tr></table>
 
 | Translation | Greek |

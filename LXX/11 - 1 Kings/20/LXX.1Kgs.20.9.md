@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to the messengers of \[the\] son of Hadad, Say \[to\] your master! All as much as you sent to  your servant at first, I will do;  but this thing I shall not be able to do. And the men departed and returned to him \[the\] word. 
-<small><sub>**KJV:**</sub></small>
-Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.
-<small><sub>**BSB:**</sub></small>
-So Ahab answered the messengers of Ben-hadad, “Tell my lord the king, ‘All that you demanded of your servant the first time I will do, but this thing I cannot do.’” So the messengers departed and relayed the message to Ben-hadad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.8|<< 1 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.10|1 Kings 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

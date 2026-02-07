@@ -1,4 +1,4 @@
-**2 Kings 7:6** 
+**2 Kings 7:6**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, [even] the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the Lord had caused the Arameans to hear the sound of chariots, horses, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.5|<< 2 Kings 7:5]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.7|2 Kings 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Lord  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0136\|אדֹנָ֞י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had caused to hear  |**<big>&#8207;[[H8085G\|הִשְׁמִ֣יעַ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hish.Mi.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

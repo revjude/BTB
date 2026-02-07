@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΤΗΘ</p>
 
 Her gates are stuck into \[the\] ground; he destroyed and broke her \[gate\] bars. Her king and her rulers \[are\] in the nations. There is no law, and indeed her prophets beheld not a vision by \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes [are] among the Gentiles: the law [is] no [more]; her prophets also find no vision from the LORD.
-<small><sub>**BSB:**</sub></small>
-Her gates have sunk into the ground; He has destroyed and shattered their bars. Her king and her princes are exiled among the nations, the law is no more, and even her prophets find no vision from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.8|<< Lamentations 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.10|Lamentations 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 9:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:20**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, This [is] the blood of the testament which God hath enjoined unto you.
 <small><sub>**BSB:**</sub></small>
 saying, “This is the blood of the covenant, which God has commanded you to keep.”
@@ -10,7 +10,7 @@ saying; This [is] the blood of the covenant which commanded unto you <the> God;<
 > $\quad$ referencing: [[LXX.Exod.24.8|Exod 24:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | This [is] |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

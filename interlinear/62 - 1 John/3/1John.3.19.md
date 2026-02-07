@@ -1,12 +1,12 @@
-**1 John 3:19
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:19**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hereby we know that we are of the truth, and shall assure our hearts before him.
 <small><sub>**BSB:**</sub></small>
 And by this we will know that we belong to the truth, and will assure our hearts in His presence:
 <small><sub>**Literal:**</sub></small>
 And by this we will know that of the truth we are and before Him we will assure <the> heart of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.18|<< 1 John 3:18]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.20|1 John 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

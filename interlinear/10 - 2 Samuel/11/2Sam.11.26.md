@@ -1,4 +1,4 @@
-**2 Samuel 11:26** 
+**2 Samuel 11:26**<big><big>[[2Sam.11.26 David Marries Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Uriah’s wife heard that her husband was dead, she mourned for him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.25|<< 2 Samuel 11:25]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.27|2 Samuel 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|תִּשְׁמַע֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Ma'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

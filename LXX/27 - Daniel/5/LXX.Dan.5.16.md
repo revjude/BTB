@@ -1,10 +1,7 @@
 **LXX Daniel 5:16** 
 <small><sub>**LXX:**</sub></small>
 And I heard concerning you, that you are able to interpret judgments. Now then, if you should be able  to read this writing, and  its interpretation to make known to me, purple shall be put on \[you\], and the necklace  of gold will be upon  your neck, and as third in  my kingdom you shall rule. 
-<small><sub>**KJV:**</sub></small>
-And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and [have] a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
-<small><sub>**BSB:**</sub></small>
-But I have heard about you, that you are able to give interpretations and solve difficult problems. Therefore, if you can read this inscription and give me its interpretation, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.15|<< Daniel 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.17|Daniel 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

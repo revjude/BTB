@@ -1,10 +1,7 @@
 **LXX Joshua 22:3** 
 <small><sub>**LXX:**</sub></small>
 And you have not abandoned  your brethren these  many days; until \[the\] day  of today you guarded the commandment of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-Ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of the LORD your God.
-<small><sub>**BSB:**</sub></small>
-All this time you have not deserted your brothers, up to this very day, but have kept the charge given you by the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.2|<< Joshua 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.4|Joshua 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

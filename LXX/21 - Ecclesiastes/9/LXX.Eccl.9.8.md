@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:8** 
 <small><sub>**LXX:**</sub></small>
 In every time your garments be white, and let not oil be lacking upon your head! 
-<small><sub>**KJV:**</sub></small>
-Let thy garments be always white; and let thy head lack no ointment.
-<small><sub>**BSB:**</sub></small>
-Let your garments always be white, and never spare the oil for your head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.7|<< Ecclesiastes 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.9|Ecclesiastes 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

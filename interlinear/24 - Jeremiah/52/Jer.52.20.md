@@ -1,4 +1,4 @@
-**Jeremiah 52:20** 
+**Jeremiah 52:20**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two pillars, one sea, and twelve brasen bulls that [were] under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the two pillars, the Sea, the twelve bronze bulls under it, and the movab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.19|<< Jeremiah 52:19]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.21|Jeremiah 52:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the pillars  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5982G\|עַמּוּדִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֗יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

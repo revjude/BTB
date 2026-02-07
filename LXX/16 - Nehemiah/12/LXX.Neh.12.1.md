@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the priests and the Levites, the ones ascending with Zerubbabel son of Shealtiel, and Jeshua; Saraiah, Jeremiah, Ezra, 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
-<small><sub>**BSB:**</sub></small>
-Now these are the priests and Levites who went up with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.36|<< Nehemiah 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.2|Nehemiah 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

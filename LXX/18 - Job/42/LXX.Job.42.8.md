@@ -1,10 +1,7 @@
 **LXX Job 42:8** 
 <small><sub>**LXX:**</sub></small>
 And now, take seven calves, and seven rams, and go to  my attendant Job! and he shall offer a yield \[offering\] for you, for in no way shall I receive of his face, for but on account of him I \[would\] have destroyed you. For you did not speak true concerning  my attendant Job. 
-<small><sub>**KJV:**</sub></small>
-Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you [after your] folly, in that ye have not spoken of me [the thing which is] right, like my servant Job.
-<small><sub>**BSB:**</sub></small>
-So now, take seven bulls and seven rams, go to My servant Job, and sacrifice a burnt offering for yourselves. Then My servant Job will pray for you, for I will accept his prayer and not deal with you according to your folly. For you have not spoken accurately about Me, as My servant Job has.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.7|<< Job 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.9|Job 42:9 >>]]</td></tr></table>
 
 | Translation | Greek |

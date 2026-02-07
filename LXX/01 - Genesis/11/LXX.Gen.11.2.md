@@ -1,10 +1,7 @@
 **LXX Genesis 11:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  their moving from \[the\] east, they found a plain in \[the\] land of Shinar, and they dwelt there. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
-<small><sub>**BSB:**</sub></small>
-And as people journeyed eastward, they found a plain in the land of Shinar and settled there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.1|<< Genesis 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.3|Genesis 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

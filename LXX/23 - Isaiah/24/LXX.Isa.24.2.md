@@ -1,10 +1,7 @@
 **LXX Isaiah 24:2** 
 <small><sub>**LXX:**</sub></small>
 And the people will be as priests; and the servant as the master; and the female attendant will be as the lady; the one buying as the one selling; the one borrowing as the one lending; and the one owing as the one who is owed. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.
-<small><sub>**BSB:**</sub></small>
-people and priest alike, servant and master, maid and mistress, buyer and seller, lender and borrower, creditor and debtor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.1|<< Isaiah 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.3|Isaiah 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 20:26** 
+**Proverbs 20:26**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise king scattereth the wicked, and bringeth the wheel over them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wise king separates out the wicked and drives the threshing wheel over them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.25|<< Proverbs 20:25]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.27|Proverbs 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] winnowing  |**<big>&#8207;[[H2219\|מְזָרֶ֣ה]]&#8207; </big>**| me.za.Reh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 7:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:16**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor [the father] of Sychem.
 <small><sub>**BSB:**</sub></small>
 Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.
@@ -10,7 +10,7 @@ and they were carried over into Shechem and were placed in the tomb which bought
 > $\quad$ alluding to: [[LXX.Josh.24.32|Josh 24:32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were carried over |**<big>[[G3346\|μετετέθησαν]]</big>**  |metetethēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

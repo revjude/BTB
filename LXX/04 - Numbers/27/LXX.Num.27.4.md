@@ -1,10 +1,7 @@
 **LXX Numbers 27:4** 
 <small><sub>**LXX:**</sub></small>
 And Moses brought  their case before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Why should the name of our father be done away from among his family, because he hath no son? Give unto us [therefore] a possession among the brethren of our father.
-<small><sub>**BSB:**</sub></small>
-Why should the name of our father disappear from his clan because he had no sons? Give us property among our father’s brothers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.3|<< Numbers 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.5|Numbers 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

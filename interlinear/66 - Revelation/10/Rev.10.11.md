@@ -1,5 +1,5 @@
-**Revelation 10:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:11**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
 <small><sub>**BSB:**</sub></small>
 And they told me, “You must prophesy again about many peoples and nations and tongues and kings.”
@@ -11,7 +11,7 @@ And they say to me; It is necessary for you again to prophesy concerning peoples
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they say [^1] |**<big>[[G3004G\|λέγουσίν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

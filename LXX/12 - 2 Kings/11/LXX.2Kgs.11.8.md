@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall encircle around the king -- \[every\] man round about, and  his weapon \[shall be\] in his hand. And the one entering into the ranks shall die. And they will be with the king in  his entering and in  his exiting. 
-<small><sub>**KJV:**</sub></small>
-And ye shall compass the king round about, every man with his weapons in his hand: and he that cometh within the ranges, let him be slain: and be ye with the king as he goeth out and as he cometh in.
-<small><sub>**BSB:**</sub></small>
-You must surround the king with weapons in hand, and anyone who approaches the ranks must be put to death. You must stay close to the king wherever he goes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.7|<< 2 Kings 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.9|2 Kings 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

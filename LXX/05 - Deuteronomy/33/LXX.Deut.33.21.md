@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:21** 
 <small><sub>**LXX:**</sub></small>
 And he beheld his first-fruit, for there \[the\] land was portioned by rulers being brought together, heads of peoples; \[the\] <span class="smallcaps">lord</span> did righteousness, and his equity \[was\] with Israel. 
-<small><sub>**KJV:**</sub></small>
-And he provided the first part for himself, because there, [in] a portion of the lawgiver, [was he] seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.
-<small><sub>**BSB:**</sub></small>
-He chose the best land for himself, because a ruler’s portion was reserved for him there. He came with the leaders of the people; he administered the LORD’s justice and His ordinances for Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.20|<< Deuteronomy 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.22|Deuteronomy 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

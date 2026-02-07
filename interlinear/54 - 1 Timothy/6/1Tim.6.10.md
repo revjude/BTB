@@ -1,12 +1,12 @@
-**1 Timothy 6:10
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:10**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 <small><sub>**BSB:**</sub></small>
 For the love of money is the root of all kinds of evil. By craving it, some have wandered away from the faith and pierced themselves with many sorrows.
 <small><sub>**Literal:**</sub></small>
 A root for of all kinds <the> of evils is the love of money, which some stretching after were seduced away from the faith and themselves pierced with sorrows many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.9|<< 1 Timothy 6:9]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.11|1 Timothy 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A root |**<big>[[G4491\|ῥίζα]]</big>**  |rhiza <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

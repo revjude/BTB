@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Better a man of reproofs, \[than\] a man hard-necked; for suddenly there is no healing blazing up for him. 
-<small><sub>**KJV:**</sub></small>
-He, that being often reproved hardeneth [his] neck, shall suddenly be destroyed, and that without remedy.
-<small><sub>**BSB:**</sub></small>
-A man who remains stiff-necked after much reproof will suddenly be shattered beyond recovery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.28|<< Proverbs 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.2|Proverbs 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

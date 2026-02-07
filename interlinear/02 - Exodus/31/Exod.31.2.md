@@ -1,4 +1,4 @@
-**Exodus 31:2** 
+**Exodus 31:2**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.1|<< Exodus 31:1]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.3|Exodus 31:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאֵ֖ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have called  |**<big>&#8207;[[H7121G\|קָרָ֣אתִֽי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

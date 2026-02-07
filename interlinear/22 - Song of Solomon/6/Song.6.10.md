@@ -1,4 +1,4 @@
-**Song of Solomon 6:10** 
+**Song of Solomon 6:10**<big><big>[[Song.6.10 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] she [that] looketh forth as the morning, fair as the moon, clear as the sun, [and] terrible as [an army] with banners?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who is this who shines like the dawn, as fair as the moon, as bright as the sun,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

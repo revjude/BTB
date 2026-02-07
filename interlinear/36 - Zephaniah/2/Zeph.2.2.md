@@ -1,4 +1,4 @@
-**Zephaniah 2:2** 
+**Zephaniah 2:2**<big><big>[[Zeph.2.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the decree bring forth, [before] the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’S anger come upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ before the decree takes effect and the day passes like chaff, before the burning
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.1|<< Zephaniah 2:1]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.3|Zephaniah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֙רֶם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brings forth  |**<big>&#8207;[[H3205\|לֶ֣דֶת]]&#8207; </big>**| Le.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 40:38** 
+**Exodus 40:38**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the cloud of the LORD [was] upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the cloud of the LORD was over the tabernacle by day, and fire was in the cl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.37|<< Exodus 40:37]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.1|Leviticus 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cloud of  |**<big>&#8207;[[H6051\|עֲנַ֨ן]]&#8207; </big>**| 'a.Nan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

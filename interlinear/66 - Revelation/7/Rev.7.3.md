@@ -1,5 +1,5 @@
-**Revelation 7:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:3**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.
 <small><sub>**BSB:**</sub></small>
 “Do not harm the land or sea or trees until we have placed a seal on the foreheads of the servants of our God.”
@@ -10,7 +10,7 @@ saying; Not may harm the earth nor the sea nor the trees until when we may have 
 > $\quad$ possibly alluding to: [[LXX.Ezek.9.2|Ezek 9:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear these \[things\], O priests! And take heed, O house of Israel! And give ear O house of the king! For judgment is against you. For you were a snare in the Height, and as a net being stretched out upon  Tabor, 
-<small><sub>**KJV:**</sub></small>
-Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment [is] toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
-<small><sub>**BSB:**</sub></small>
-“Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 43:11** 
 <small><sub>**LXX:**</sub></small>
 And Israel their father said to them, If so it is, this you do! You take from the fruits of the earth in  your containers, and bring to the man gifts  of balm, and  of honey, and incense, and balsam, and turpentine, and walnuts! 
-<small><sub>**KJV:**</sub></small>
-And their father Israel said unto them, If [it must be] so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
-<small><sub>**BSB:**</sub></small>
-Then their father Israel said to them, “If it must be so, then do this: Put some of the best products of the land in your packs and carry them down as a gift for the man—a little balm and a little honey, spices and myrrh, pistachios and almonds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.10|<< Genesis 43:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.12|Genesis 43:12 >>]]</td></tr></table>
 
 | Translation | Greek |

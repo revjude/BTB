@@ -1,10 +1,7 @@
 **LXX Zechariah 8:16** 
 <small><sub>**LXX:**</sub></small>
 These are the matters which you shall do. each speak truth to  his neighbor, and peaceable judgment, and judge righteously at  your gates! 
-<small><sub>**KJV:**</sub></small>
-These [are] the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
-<small><sub>**BSB:**</sub></small>
-These are the things you must do: Speak truth to one another, render true and sound judgments in your gates,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.15|<< Zechariah 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.17|Zechariah 8:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 8:16** is...

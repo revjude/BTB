@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:40** 
 <small><sub>**LXX:**</sub></small>
 And all the people ascended after him, and all the people joined in a dance by companies of dancers, and making glad in great gladness. And the earth tore with the sound of them. 
-<small><sub>**KJV:**</sub></small>
-And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.
-<small><sub>**BSB:**</sub></small>
-All the people followed him, playing flutes and rejoicing with such a great joy that the earth was split by the sound.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.39|<< 1 Kings 1:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.41|1 Kings 1:41 >>]]</td></tr></table>
 
 | Translation | Greek |

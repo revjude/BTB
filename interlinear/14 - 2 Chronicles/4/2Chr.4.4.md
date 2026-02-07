@@ -1,4 +1,4 @@
-**2 Chronicles 4:4** 
+**2 Chronicles 4:4**<big><big>[[2Chr.4.1 The Bronze Altar and Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea [was set] above upon them, and all their hinder parts [were] inward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Sea stood on twelve oxen, three facing north, three facing west, three facin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.3|<< 2 Chronicles 4:3]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.5|2 Chronicles 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [it was] standing  |**<big>&#8207;[[H5975G\|עוֹמֵ֞ד]]&#8207; </big>**| o.Med<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

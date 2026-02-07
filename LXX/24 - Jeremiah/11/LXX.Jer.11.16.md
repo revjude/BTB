@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> called your name a beautiful well-shaded olive tree to the sight. In \[the\] sound of its being lopped a fire was lit unto it; her tender branches were made useless. 
-<small><sub>**KJV:**</sub></small>
-The LORD called thy name, A green olive tree, fair, [and] of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.
-<small><sub>**BSB:**</sub></small>
-The LORD once called you a flourishing olive tree, beautiful with well-formed fruit. But with a mighty roar He will set it on fire, and its branches will be consumed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.15|<< Jeremiah 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.17|Jeremiah 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

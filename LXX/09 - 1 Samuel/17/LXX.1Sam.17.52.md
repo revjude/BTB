@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:52** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men of Israel and Judah rose up, and shouted, and pursued after the Philistines unto  \[the\] entrance of Gath, and unto the gate of Ekron. And \[the\] slain of the Philistines fell in the way of the gates, and unto Gath, and unto Ekron. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron.
-<small><sub>**BSB:**</sub></small>
-Then the men of Israel and Judah charged forward with a shout and pursued the Philistines to the entrance of Gath and to the gates of Ekron. And the bodies of the Philistines were strewn along the Shaaraim road to Gath and Ekron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.51|<< 1 Samuel 17:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.53|1 Samuel 17:53 >>]]</td></tr></table>
 
 | Translation | Greek |

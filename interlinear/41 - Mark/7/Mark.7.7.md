@@ -1,5 +1,5 @@
-**Mark 7:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:7**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit in vain do they worship me, teaching [for] doctrines the commandments of men.
 <small><sub>**BSB:**</sub></small>
 They worship Me in vain; they teach as doctrine the precepts of men.’
@@ -10,7 +10,7 @@ In vain now they worship Me teaching [as] doctrines [the] precepts of men.’<br
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In vain |**<big>[[G3155\|μάτην]]</big>**  |matēn <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

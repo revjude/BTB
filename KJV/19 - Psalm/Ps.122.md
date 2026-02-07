@@ -1,6 +1,6 @@
 (KJV) **Psalm 122**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121|<< Psalm 121]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123|Psalm 123 >>]]</td></tr></table>
 
-***Pray for the Peace of Jerusalem*** ^bsb1415
+<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥃]]</big></big>***Pray for the Peace of Jerusalem***
 
 
 

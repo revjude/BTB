@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:34** 
 <small><sub>**LXX:**</sub></small>
 And I shall shield over  this city  to deliver her because of myself, and because of David  my servant. 
-<small><sub>**KJV:**</sub></small>
-For I will defend this city, to save it, for mine own sake, and for my servant David’s sake.
-<small><sub>**BSB:**</sub></small>
-I will defend this city and save it for My own sake and for the sake of My servant David.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.33|<< 2 Kings 19:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.35|2 Kings 19:35 >>]]</td></tr></table>
 
 | Translation | Greek |

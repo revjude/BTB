@@ -1,10 +1,7 @@
 **LXX Job 4:6** 
 <small><sub>**LXX:**</sub></small>
 Is it not that your fear is in folly, and  your hope, and the evil  of your way? 
-<small><sub>**KJV:**</sub></small>
-[Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?
-<small><sub>**BSB:**</sub></small>
-Is your reverence not your confidence, and the uprightness of your ways your hope?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.5|<< Job 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.7|Job 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

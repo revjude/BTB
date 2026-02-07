@@ -1,10 +1,7 @@
 **LXX Proverbs 29:12** 
 <small><sub>**LXX:**</sub></small>
 A king hearkening in an unjust matter \[makes\] all \[the\] ones under him lawbreakers. 
-<small><sub>**KJV:**</sub></small>
-If a ruler hearken to lies, all his servants [are] wicked.
-<small><sub>**BSB:**</sub></small>
-If a ruler listens to lies, all his officials will be wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.11|<< Proverbs 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.13|Proverbs 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

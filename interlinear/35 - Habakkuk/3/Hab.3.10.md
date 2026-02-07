@@ -1,4 +1,4 @@
-**Habakkuk 3:10** 
+**Habakkuk 3:10**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains saw thee, [and] they trembled: the overflowing of the water passed by: the deep uttered his voice, [and] lifted up his hands on high.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains saw You and quaked; torrents of water swept by. The deep roared wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.9|<< Habakkuk 3:9]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.11|Habakkuk 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have seen you  |**<big>&#8207;[[H7200G\|רָא֤וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ra.'U.<small><sup>[[HVqp3cp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they writhe  |**<big>&#8207;[[H2342J\|יָחִ֙ילוּ֙]]&#8207; </big>**| ya.Chi.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

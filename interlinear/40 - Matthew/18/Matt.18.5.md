@@ -1,12 +1,12 @@
-**Matthew 18:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:5**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whoso shall receive one such little child in my name receiveth me.
 <small><sub>**BSB:**</sub></small>
 And whoever welcomes a little child like this in My name welcomes Me.
 <small><sub>**Literal:**</sub></small>
 And who[ever] if shall receive one little child such in the name of Me, Me myself receives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.4|<< Matthew 18:4]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.6|Matthew 18:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

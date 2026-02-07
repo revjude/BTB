@@ -1,4 +1,4 @@
-**Daniel 2:36** 
+**Daniel 2:36**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the dream; and we will tell the interpretation thereof before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was the dream; now we will tell the king its interpretation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.35|<< Daniel 2:35]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.37|Daniel 2:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H1836\|דְּנָ֣ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] dream the  |**<big>&#8207;[[H2493\|חֶלְמָ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| chel.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

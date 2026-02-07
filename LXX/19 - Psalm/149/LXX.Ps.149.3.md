@@ -1,10 +1,7 @@
 **LXX Psalm 149:3** 
 <small><sub>**LXX:**</sub></small>
 Let them praise  his name among \[the\] company of dancers! with tambourine and psaltery let them strum to him! 
-<small><sub>**KJV:**</sub></small>
-Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
-<small><sub>**BSB:**</sub></small>
-Let them praise His name with dancing, and make music to Him with tambourine and harp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.149.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.149.2|<< Psalm 149:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.4|Psalm 149:4 >>]]</td></tr></table>
 
 | Translation | Greek |

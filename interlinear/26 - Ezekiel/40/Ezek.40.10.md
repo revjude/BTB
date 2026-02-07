@@ -1,4 +1,4 @@
-**Ezekiel 40:10** 
+**Ezekiel 40:10**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the little chambers of the gate eastward [were] three on this side, and three on that side; they three [were] of one measure: and the posts had one measure on this side and on that side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There were three gate chambers on each side of the east gate, each with the same
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.9|<< Ezekiel 40:9]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.11|Ezekiel 40:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] chambers of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8372\|תָאֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gate  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8179G\|שַּׁ֜עַר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

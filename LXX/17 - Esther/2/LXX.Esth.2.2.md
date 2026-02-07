@@ -1,10 +1,7 @@
 **LXX Esther 2:2** 
 <small><sub>**LXX:**</sub></small>
 And the servants of the king said, Let there be sought to the king young women uncorrupted, beautiful  in appearance! 
-<small><sub>**KJV:**</sub></small>
-Then said the king’s servants that ministered unto him, Let there be fair young virgins sought for the king:
-<small><sub>**BSB:**</sub></small>
-Then the king’s attendants proposed, “Let a search be made for beautiful young virgins for the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.1|<< Esther 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.3|Esther 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

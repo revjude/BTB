@@ -1,10 +1,7 @@
 **LXX Judges 1:27** 
 <small><sub>**LXX:**</sub></small>
 And Manasseh did not remove  Beth-shean nor  its daughter \[towns\], nor Taanach and  her daughter \[towns\], nor the ones dwelling in Dor and  her daughter \[towns\], nor the ones dwelling Megiddo and  her daughter \[towns\], nor the ones dwelling Ibleam nor  her daughter \[towns\]. And the Canaanite began to dwell in  this land. 
-<small><sub>**KJV:**</sub></small>
-Neither did Manasseh drive out [the inhabitants of] Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.
-<small><sub>**BSB:**</sub></small>
-At that time Manasseh failed to drive out the inhabitants of Beth-shean, Taanach, Dor, Ibleam, Megiddo, and their villages; for the Canaanites were determined to dwell in that land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.26|<< Judges 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.28|Judges 1:28 >>]]</td></tr></table>
 
 | Translation | Greek |

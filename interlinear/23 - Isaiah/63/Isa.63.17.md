@@ -1,4 +1,4 @@
-**Isaiah 63:17** 
+**Isaiah 63:17**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, why hast thou made us to err from thy ways, [and] hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why, O LORD, do You make us stray from Your ways and harden our hearts from fear
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you make wander us  |**<big>&#8207;[[H8582\|תַתְעֵ֤]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| tat.'E.<small><sup>[[HVhi2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

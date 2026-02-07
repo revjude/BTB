@@ -1,12 +1,12 @@
-**Revelation 20:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:15**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever was not found written in the book of life was cast into the lake of fire.
 <small><sub>**BSB:**</sub></small>
 And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire.
 <small><sub>**Literal:**</sub></small>
 And if anyone not was found in the book <the> of life written, he was cast into the lake <the> of fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.14|<< Revelation 20:14]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.1|Revelation 21:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

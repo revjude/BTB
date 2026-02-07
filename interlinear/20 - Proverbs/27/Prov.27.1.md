@@ -1,4 +1,4 @@
-**Proverbs 27:1** 
+**Proverbs 27:1**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Boast not thyself of to morrow; for thou knowest not what a day may bring forth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not boast about tomorrow, for you do not know what a day may bring.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.28|<< Proverbs 26:28]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.2|Proverbs 27:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you boast  |**<big>&#8207;[[H1984H\|תִּ֭תְהַלֵּל]]&#8207; </big>**| Tit.ha.lel<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

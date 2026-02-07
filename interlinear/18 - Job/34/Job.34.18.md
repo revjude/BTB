@@ -1,4 +1,4 @@
-**Job 34:18** 
+**Job 34:18**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it fit] to say to a king, [Thou art] wicked? [and] to princes, [Ye are] ungodly?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who says to kings, ‘You are worthless!’ and to nobles, ‘You are wicked,’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.17|<< Job 34:17]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.19|Job 34:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ to say  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0559\|אֲמֹ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'a.Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a king  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

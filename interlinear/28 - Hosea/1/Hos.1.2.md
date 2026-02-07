@@ -1,4 +1,4 @@
-**Hosea 1:2** 
+**Hosea 1:2**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, [departing] from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD first spoke through Hosea, He told him, “Go, take a prostitute a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.1|<< Hosea 1:1]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.3|Hosea 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] beginning  |**<big>&#8207;[[H8462\|תְּחִלַּ֥ת]]&#8207; </big>**| te.chi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> [when] he spoke  |**<big>&#8207;[[H1696G\|דִּבֶּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di.ber-<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

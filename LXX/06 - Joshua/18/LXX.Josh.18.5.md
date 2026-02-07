@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he divided to them seven portions -- Judah shall stand as a border from \[the\] south to them, and the sons of Joseph shall stand upon  their border from \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.
-<small><sub>**BSB:**</sub></small>
-and divide the land into seven portions. Judah shall remain in their territory in the south, and the house of Joseph shall remain in their territory in the north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.4|<< Joshua 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.6|Joshua 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

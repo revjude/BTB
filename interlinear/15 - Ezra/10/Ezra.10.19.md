@@ -1,4 +1,4 @@
-**Ezra 10:19** 
+**Ezra 10:19**<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave their hands that they would put away their wives; and [being] guilty, [they offered] a ram of the flock for their trespass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They pledged to send their wives away, and for their guilt they presented a ram 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.18|<< Ezra 10:18]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.20|Ezra 10:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand their  |**<big>&#8207;[[H3027I\|יָדָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

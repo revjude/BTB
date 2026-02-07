@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> increased  Job. And of his making a vow and because of \[being\]  his friends he forgave to them the sin. And the <span class="smallcaps">lord</span> gave double, as much as was Job's before, by doubling. 
-<small><sub>**KJV:**</sub></small>
-And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.
-<small><sub>**BSB:**</sub></small>
-After Job had prayed for his friends, the LORD restored his prosperity and doubled his former possessions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.9|<< Job 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.11|Job 42:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 42:10** is...

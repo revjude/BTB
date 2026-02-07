@@ -1,4 +1,4 @@
-**Leviticus 13:28** 
+**Leviticus 13:28**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the bright spot stay in his place, [and] spread not in the skin, but it [be] somewhat dark; it [is] a rising of the burning, and the priest shall pronounce him clean: for it [is] an inflammation of the burning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the spot is unchanged and has not spread on the skin but has faded, it is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in place its  |**<big>&#8207;[[H8478I\|תַּחְתֶּי]]&#8207;&#8207;[[H9034\|הָ֩]]&#8207; </big>**| tach.tei.<small><sup>[[HNcmpc]]</sup></small> Ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

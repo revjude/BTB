@@ -1,12 +1,12 @@
-**Revelation 3:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:8**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
 <small><sub>**BSB:**</sub></small>
 I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name.
 <small><sub>**Literal:**</sub></small>
 I know your <the> deeds. Behold I have set before you a door opened which no [one] is able to shut it; because little you have power and yet you have kept My <the> word and not denied the name of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.7|<< Revelation 3:7]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.9|Revelation 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδά]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

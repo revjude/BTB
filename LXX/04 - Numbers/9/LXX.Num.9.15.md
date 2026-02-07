@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the day which the tent was set up the cloud covered the tent -- the house of the testimony. And in the evening there was upon the tent as a form of fire until morning. 
-<small><sub>**KJV:**</sub></small>
-And on the day that the tabernacle was reared up the cloud covered the tabernacle, [namely], the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.
-<small><sub>**BSB:**</sub></small>
-On the day that the tabernacle, the Tent of the Testimony, was set up, the cloud covered it and appeared like fire above the tabernacle from evening until morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.14|<< Numbers 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.16|Numbers 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

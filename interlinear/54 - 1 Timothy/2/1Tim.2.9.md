@@ -1,12 +1,12 @@
-**1 Timothy 2:9
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:9**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
 <small><sub>**BSB:**</sub></small>
 Likewise, I want the women to adorn themselves with respectable apparel, with modesty, and with self-control, not with braided hair or gold or pearls or expensive clothes,
 <small><sub>**Literal:**</sub></small>
 likewise also <the> women in apparel respectable with modesty and self-control adorning themselves, not with braided hair or with gold or with pearls or with clothing costly,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.8|<< 1 Timothy 2:8]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.10|1 Timothy 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NKO</abbr> | |

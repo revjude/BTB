@@ -1,10 +1,7 @@
 **LXX Proverbs 26:26** 
 <small><sub>**LXX:**</sub></small>
 The one hiding hatred stands together \[with\] treachery, and he conceals the \[things\] of his own well-known sins in \[the\] sanhedrin. 
-<small><sub>**KJV:**</sub></small>
-[Whose] hatred is covered by deceit, his wickedness shall be shewed before the [whole] congregation.
-<small><sub>**BSB:**</sub></small>
-Though his hatred is concealed by deception, his wickedness will be exposed in the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.25|<< Proverbs 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.27|Proverbs 26:27 >>]]</td></tr></table>
 
 | Translation | Greek |

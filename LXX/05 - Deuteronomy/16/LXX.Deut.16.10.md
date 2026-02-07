@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall observe \[the\] holiday of \[the\] period of sevens \[to the\] <span class="smallcaps">lord</span>  your God, as  your hand is strong, \[in\] as much as \[the\] <span class="smallcaps">lord</span> your God should give to you in so far as he blessed you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt keep the feast of weeks unto the LORD thy God with a tribute of a freewill offering of thine hand, which thou shalt give [unto the LORD thy God], according as the LORD thy God hath blessed thee:
-<small><sub>**BSB:**</sub></small>
-And you shall celebrate the Feast of Weeks to the LORD your God with a freewill offering that you give in proportion to how the LORD your God has blessed you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.9|<< Deuteronomy 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.11|Deuteronomy 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

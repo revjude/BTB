@@ -1,4 +1,4 @@
-**Jeremiah 19:10** 
+**Jeremiah 19:10**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou break the bottle in the sight of the men that go with thee,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you are to shatter the jar in the presence of the men who accompany you,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.9|<< Jeremiah 19:9]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.11|Jeremiah 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will break  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7665\|שָׁבַרְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.var.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bottle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1228\|בַּקְבֻּ֑ק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bak.Buk<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 24:23** 
 <small><sub>**LXX:**</sub></small>
 And now, remove the alien gods, the ones among you, and straighten the heart to \[the\] <span class="smallcaps">lord</span> God of Israel! 
-<small><sub>**KJV:**</sub></small>
-Now therefore put away, [said he], the strange gods which [are] among you, and incline your heart unto the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-“Now, therefore,” he said, “get rid of the foreign gods among you and incline your hearts to the LORD, the God of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.22|<< Joshua 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.24|Joshua 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

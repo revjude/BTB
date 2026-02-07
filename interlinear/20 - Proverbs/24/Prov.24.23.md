@@ -1,4 +1,4 @@
-**Proverbs 24:23** 
+**Proverbs 24:23**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] also [belong] to the wise. [It is] not good to have respect of persons in judgment.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ These also are sayings of the wise: To show partiality in judgment is not good.
 > $\quad$ referenced by: [[Jas.2.1|Jas 2:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

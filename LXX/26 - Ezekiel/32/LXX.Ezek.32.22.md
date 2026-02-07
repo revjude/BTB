@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:22** 
 <small><sub>**LXX:**</sub></small>
 There \[is\] Assyria and all  his gathering  around  his grave; all slain  having fallen by \[the\] sword; 
-<small><sub>**KJV:**</sub></small>
-Asshur [is] there and all her company: his graves [are] about him: all of them slain, fallen by the sword:
-<small><sub>**BSB:**</sub></small>
-Assyria is there with her whole company; her graves are all around her. All of them are slain, fallen by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.21|<< Ezekiel 32:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.23|Ezekiel 32:23 >>]]</td></tr></table>
 
 | Translation | Greek |

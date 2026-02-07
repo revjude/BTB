@@ -1,10 +1,7 @@
 **LXX Amos 2:2** 
 <small><sub>**LXX:**</sub></small>
 And I will send fire upon Moab, and it shall devour the foundations of the cities. And Moab shall die in powerlessness with a sound and with a cry of a trumpet. 
-<small><sub>**KJV:**</sub></small>
-But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, [and] with the sound of the trumpet:
-<small><sub>**BSB:**</sub></small>
-So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram’s horn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.1|<< Amos 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.3|Amos 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

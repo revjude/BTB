@@ -1,4 +1,4 @@
-**Proverbs 23:26** 
+**Proverbs 23:26**<big><big>[[Prov.23.26 Saying 18|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, give me thine heart, and let thine eyes observe my ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My son, give me your heart, and let your eyes delight in my ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.25|<< Proverbs 23:25]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.27|Proverbs 23:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give !  |**<big>&#8207;[[H5414G\|תְּנָֽ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.na<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son my  |**<big>&#8207;[[H1121A\|בְנִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

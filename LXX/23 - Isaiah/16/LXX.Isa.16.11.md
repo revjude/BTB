@@ -1,10 +1,7 @@
 **LXX Isaiah 16:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this  my belly shall sound as a harp for Moab, and you renewed the \[things\] within me as a wall. 
-<small><sub>**KJV:**</sub></small>
-Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kirharesh.
-<small><sub>**BSB:**</sub></small>
-Therefore my heart laments for Moab like a harp, my inmost being for Kir-heres.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.10|<< Isaiah 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.12|Isaiah 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

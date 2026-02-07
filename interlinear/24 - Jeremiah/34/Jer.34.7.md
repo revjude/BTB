@@ -1,4 +1,4 @@
-**Jeremiah 34:7** 
+**Jeremiah 34:7**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the king of Babylon’s army fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azekah: for these defenced cities remained of the cities of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as the army of the king of Babylon was fighting against Jerusalem and the remain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.6|<< Jeremiah 34:6]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.8|Jeremiah 34:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] army of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2428A\|חֵ֣יל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Cheil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

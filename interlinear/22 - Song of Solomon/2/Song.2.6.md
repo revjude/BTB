@@ -1,4 +1,4 @@
-**Song of Solomon 2:6** 
+**Song of Solomon 2:6**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His left hand [is] under my head, and his right hand doth embrace me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His left hand is under my head, and his right arm embraces me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.5|<< Song of Solomon 2:5]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.7|Song of Solomon 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | left [hand] his  |**<big>&#8207;[[H8040G\|שְׂמֹאל]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| se.mo.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

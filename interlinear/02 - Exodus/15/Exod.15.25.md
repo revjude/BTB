@@ -1,4 +1,4 @@
-**Exodus 15:25** 
+**Exodus 15:25**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cried unto the LORD; and the LORD shewed him a tree, [which] when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Moses cried out to the LORD, and the LORD showed him a log. And when he cast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.24|<< Exodus 15:24]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.26|Exodus 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצְעַ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.'Ak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

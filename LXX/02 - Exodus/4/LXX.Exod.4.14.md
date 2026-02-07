@@ -1,10 +1,7 @@
 **LXX Exodus 4:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> being enraged in anger over Moses, said, Behold, \[is\] not Aaron  your brother, the Levite? I know that speaking, he will speak to you. And behold, he will come forth to meet you; and seeing you, he will rejoice in himself. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was kindled against Moses, and he said, [Is] not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
-<small><sub>**BSB:**</sub></small>
-Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.13|<< Exodus 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.15|Exodus 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

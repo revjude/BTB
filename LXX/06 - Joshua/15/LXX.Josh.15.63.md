@@ -1,10 +1,7 @@
 **LXX Joshua 15:63** 
 <small><sub>**LXX:**</sub></small>
 And the Jebusite dwelt in Jerusalem, and the sons of Judah were not able to destroy them; and the Jebusites dwelt with the sons of Judah in Jerusalem until  this day. 
-<small><sub>**KJV:**</sub></small>
-As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
-<small><sub>**BSB:**</sub></small>
-But the descendants of Judah could not drive out the Jebusites living in Jerusalem. So to this day the Jebusites live there among the descendants of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.62|<< Joshua 15:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.1|Joshua 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

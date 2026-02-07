@@ -1,4 +1,4 @@
-**Jeremiah 9:26** (9:25)
+**Jeremiah 9:26**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all [that are] in the utmost corners, that dwell in the wilderness: for all [these] nations [are] uncircumcised, and all the house of Israel [are] uncircumcised in the heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.25|<< Jeremiah 9:25]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.1|Jeremiah 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֣יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

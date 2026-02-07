@@ -1,4 +1,4 @@
-**Exodus 35:14** 
+**Exodus 35:14**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the lampstand for light with its accessories and lamps and oil for the light;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.13|<< Exodus 35:13]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.15|Exodus 35:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] lampstand of  |**<big>&#8207;[[H4501\|מְנֹרַ֧ת]]&#8207; </big>**| me.no.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

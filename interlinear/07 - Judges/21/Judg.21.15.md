@@ -1,4 +1,4 @@
-**Judges 21:15** 
+**Judges 21:15**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people repented them for Benjamin, because that the LORD had made a breach in the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people grieved for Benjamin, because the LORD had made a void in the tribes 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.14|<< Judges 21:14]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.16|Judges 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had compassion  |**<big>&#8207;[[H5162G\|נִחָ֖ם]]&#8207; </big>**| ni.Cham<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

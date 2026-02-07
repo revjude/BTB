@@ -1,12 +1,12 @@
-**Matthew 8:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:5**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
 <small><sub>**BSB:**</sub></small>
 When Jesus had entered Capernaum, a centurion came and pleaded with Him,
 <small><sub>**Literal:**</sub></small>
 When was entering now He <the> Jesus into Capernaum came to Him a centurion imploring Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.4|<< Matthew 8:4]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.6|Matthew 8:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was entering [^1] |**<big>[[G1525\|Εἰσελθόντος]]</big>**  |Eiselthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

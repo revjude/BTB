@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:7** 
 <small><sub>**LXX:**</sub></small>
 And Moses called Joshua, and said to him before all Israel, Be manly and strong! For you shall enter before \[the\] face  of this people, into the land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers to give to them, and you shall allot it to them. 
-<small><sub>**KJV:**</sub></small>
-And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.
-<small><sub>**BSB:**</sub></small>
-Then Moses called for Joshua and said to him in the presence of all Israel, “Be strong and courageous, for you will go with this people into the land that the LORD swore to their fathers to give them, and you shall give it to them as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.6|<< Deuteronomy 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.8|Deuteronomy 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

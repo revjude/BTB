@@ -1,10 +1,7 @@
 **LXX Proverbs 21:22** 
 <small><sub>**LXX:**</sub></small>
 A wise \[man\] mounts against fortified cities, and demolishes the fortress upon which the impious relied upon. 
-<small><sub>**KJV:**</sub></small>
-A wise [man] scaleth the city of the mighty, and casteth down the strength of the confidence thereof.
-<small><sub>**BSB:**</sub></small>
-A wise man scales the city of the mighty and pulls down the stronghold in which they trust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.21|<< Proverbs 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.23|Proverbs 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

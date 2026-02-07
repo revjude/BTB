@@ -1,5 +1,5 @@
-**Hebrews 11:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:12**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore sprang there even of one, and him as good as dead, [so many] as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.
 <small><sub>**BSB:**</sub></small>
 And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.
@@ -10,7 +10,7 @@ Therefore also from one man were born, and he as good as dead, even as the stars
 > $\quad$ alluding to: [[LXX.Gen.22.17|Gen 22:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

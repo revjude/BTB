@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] beginning \[of the reign\] of king Jehoiakim son of Josiah came  this word from \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying,
-<small><sub>**BSB:**</sub></small>
-At the beginning of the reign of Jehoiakim son of Josiah king of Judah, this word came from the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.38|<< Jeremiah 25:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.2|Jeremiah 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

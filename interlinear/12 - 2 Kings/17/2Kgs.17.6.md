@@ -1,4 +1,4 @@
-**2 Kings 17:6** 
+**2 Kings 17:6**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the ninth year of Hoshea, the king of Assyria captured Samaria and carried aw
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.5|<< 2 Kings 17:5]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.7|2 Kings 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of the> ninth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8671\|תְּשִׁיעִ֜ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.shi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 34:17** 
 <small><sub>**LXX:**</sub></small>
 But if you should not listen to us, of the being circumcised, taking  our daughter, we shall go forth. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone.
-<small><sub>**BSB:**</sub></small>
-But if you will not agree to be circumcised, then we will take our sister and go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.16|<< Genesis 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.18|Genesis 34:18 >>]]</td></tr></table>
 
 | Translation | Greek |

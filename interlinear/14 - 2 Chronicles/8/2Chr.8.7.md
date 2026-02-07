@@ -1,4 +1,4 @@
-**2 Chronicles 8:7** 
+**2 Chronicles 8:7**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] all the people [that were] left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which [were] not of Israel,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for all the people who remained of the Hittites, Amorites, Perizzites, Hivite
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.6|<< 2 Chronicles 8:6]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.8|2 Chronicles 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H5971A\|עָם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

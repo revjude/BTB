@@ -1,4 +1,4 @@
-**Job 39:14** 
+**Job 39:14**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which leaveth her eggs in the earth, and warmeth them in dust,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For she leaves her eggs on the ground and lets them warm in the sand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.13|<< Job 39:13]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.15|Job 39:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it abandons  |**<big>&#8207;[[H5800A\|תַעֲזֹ֣ב]]&#8207; </big>**| ta.'a.Zo<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

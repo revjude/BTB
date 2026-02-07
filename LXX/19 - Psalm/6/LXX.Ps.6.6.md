@@ -1,10 +1,7 @@
 **LXX Psalm 6:6** 
 <small><sub>**LXX:**</sub></small>
 I tired in  my moaning. I shall bathe  my bed each night; with my tears  I shall rain my strewn bed. 
-<small><sub>**KJV:**</sub></small>
-I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.
-<small><sub>**BSB:**</sub></small>
-I am weary from groaning; all night I flood my bed with weeping and drench my couch with tears.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.5|<< Psalm 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.7|Psalm 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

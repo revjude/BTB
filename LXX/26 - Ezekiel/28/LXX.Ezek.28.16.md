@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:16** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] abundance  of your trade you filled  your storerooms with lawlessness, and sinned. And you were wounded from \[the\] mountain  of God, and the cherub overshadowing led you from out of \[the\] midst of \[the\] stones of fire. 
-<small><sub>**KJV:**</sub></small>
-By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.
-<small><sub>**BSB:**</sub></small>
-By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.15|<< Ezekiel 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.17|Ezekiel 28:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 21:30** 
 <small><sub>**LXX:**</sub></small>
 And he said, that,  You shall take of these seven ewe-lambs of mine, that they should be to me for a testimony that I dug  this well. 
-<small><sub>**KJV:**</sub></small>
-And he said, For [these] seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.
-<small><sub>**BSB:**</sub></small>
-He replied, “You are to accept the seven ewe lambs from my hand as my witness that I dug this well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.29|<< Genesis 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.31|Genesis 21:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 1:27** 
+**Ezekiel 1:27**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ From what seemed to be His waist up, I saw a gleam like amber, with what looked 
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֣רֶא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] appearance of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5869I\|עֵ֣ין]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

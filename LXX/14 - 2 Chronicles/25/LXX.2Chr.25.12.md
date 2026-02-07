@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Judah took alive ten thousand, and they brought them upon the tip of the precipice, and flung them from the tip of the precipice, and all were torn to pieces. 
-<small><sub>**KJV:**</sub></small>
-And [other] ten thousand [left] alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces.
-<small><sub>**BSB:**</sub></small>
-and the army of Judah also captured 10,000 men alive. They took them to the top of a cliff and threw them down so that all were dashed to pieces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.11|<< 2 Chronicles 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.13|2 Chronicles 25:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 24:8** 
 <small><sub>**LXX:**</sub></small>
 And as the bad figs which shall not be eaten because of their badness, thus says \[the\] <span class="smallcaps">lord</span>, So will I deliver up  Zedekiah king of Judah, and  his great men, and the rest of Jerusalem  being left behind in  this land, and the ones dwelling in Egypt. 
-<small><sub>**KJV:**</sub></small>
-And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:
-<small><sub>**BSB:**</sub></small>
-But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will I deal with Zedekiah king of Judah, his officials, and the remnant of Jerusalem—those remaining in this land and those living in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.7|<< Jeremiah 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.9|Jeremiah 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

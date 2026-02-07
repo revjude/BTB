@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:9** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch of the gatehouse neighboring the columned porch of the gate -- eight cubits, and the portals -- two cubits, and the columned porches of the gate \[were\] inside. 
-<small><sub>**KJV:**</sub></small>
-Then measured he the porch of the gate, eight cubits; and the posts thereof, two cubits; and the porch of the gate [was] inward.
-<small><sub>**BSB:**</sub></small>
-it was eight cubits deep, and its jambs were two cubits thick. And the portico of the gateway faced the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.8|<< Ezekiel 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.10|Ezekiel 40:10 >>]]</td></tr></table>
 
 | Translation | Greek |

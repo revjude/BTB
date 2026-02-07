@@ -1,10 +1,7 @@
 **LXX Isaiah 64:12** 
 <small><sub>**LXX:**</sub></small>
 And over all these \[things\] you endured, O <span class="smallcaps">lord</span>, and kept silent, and humbled us very much. 
-<small><sub>**KJV:**</sub></small>
-Wilt thou refrain thyself for these [things], O LORD? wilt thou hold thy peace, and afflict us very sore?
-<small><sub>**BSB:**</sub></small>
-After all this, O LORD, will You restrain Yourself? Will You keep silent and afflict us beyond measure?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.11|<< Isaiah 64:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.1|Isaiah 65:1 >>]]</td></tr></table>
 
 | Translation | Greek |

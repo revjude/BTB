@@ -1,4 +1,4 @@
-**Joshua 8:16** 
+**Joshua 8:16**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people that [were] in Ai were called together to pursue after them: and they pursued after Joshua, and were drawn away from the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the men of Ai were summoned to pursue them, and they followed Joshua an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.15|<< Joshua 8:15]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.17|Joshua 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were called together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יִּזָּעֲק֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.za.'a.Ku<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

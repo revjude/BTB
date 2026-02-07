@@ -1,12 +1,12 @@
-**2 Corinthians 10:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:13**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we will not boast of things without [our] measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.
 <small><sub>**BSB:**</sub></small>
 We, however, will not boast beyond our limits, but only within the field of influence that God has assigned to us—a field that reaches even to you.
 <small><sub>**Literal:**</sub></small>
 We ourselves however not into the [things] beyond measure will boast but according to the measure of the area that has assigned to us <the> God a measure to reach as far as also you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.12|<< 2 Corinthians 10:12]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.14|2 Corinthians 10:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

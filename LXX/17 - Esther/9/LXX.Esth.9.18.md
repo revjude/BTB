@@ -1,10 +1,7 @@
 **LXX Esther 9:18** 
 <small><sub>**LXX:**</sub></small>
 And the Jews in Shushan the city gathered together also on the fourteenth and rested. But they celebrated even on the fifteenth with joy and gladness. 
-<small><sub>**KJV:**</sub></small>
-But the Jews that [were] at Shushan assembled together on the thirteenth [day] thereof, and on the fourteenth thereof; and on the fifteenth [day] of the same they rested, and made it a day of feasting and gladness.
-<small><sub>**BSB:**</sub></small>
-The Jews in Susa, however, had assembled on the thirteenth and the fourteenth days of the month. So they rested on the fifteenth day, making it a day of feasting and joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.17|<< Esther 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.19|Esther 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

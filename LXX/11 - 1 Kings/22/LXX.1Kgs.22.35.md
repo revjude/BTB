@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:35** 
 <small><sub>**LXX:**</sub></small>
 And the war turned in  that day. And the king was set upon the chariot right opposite Syria, from morning until evening. And the blood poured out from the wound into the cavity of the chariot. 
-<small><sub>**KJV:**</sub></small>
-And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.
-<small><sub>**BSB:**</sub></small>
-The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.34|<< 1 Kings 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.36|1 Kings 22:36 >>]]</td></tr></table>
 
 | Translation | Greek |

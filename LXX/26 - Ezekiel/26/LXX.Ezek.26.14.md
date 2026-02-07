@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:14** 
 <small><sub>**LXX:**</sub></small>
 And I will make you for a smooth rock. You will be \[a place\] for freshening dragnets. In no way shall you be rebuilt any more; for I \[the\] <span class="smallcaps">lord</span> spoke, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will make thee like the top of a rock: thou shalt be [a place] to spread nets upon; thou shalt be built no more: for I the LORD have spoken [it], saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I will make you a bare rock, and you will become a place to spread the fishing nets. You will never be rebuilt, for I, the LORD, have spoken, declares the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.13|<< Ezekiel 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.15|Ezekiel 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

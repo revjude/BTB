@@ -1,12 +1,12 @@
-**2 Timothy 2:16
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:16**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But shun profane [and] vain babblings: for they will increase unto more ungodliness.
 <small><sub>**BSB:**</sub></small>
 But avoid irreverent, empty chatter, which will only lead to more ungodliness,
 <small><sub>**Literal:**</sub></small>
 <the> But worldly empty babblings do yourself avoid; on to more for they will lead to ungodliness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.15|<< 2 Timothy 2:15]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.17|2 Timothy 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὰς]]</big>**  |Tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

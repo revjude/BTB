@@ -1,4 +1,4 @@
-**Leviticus 4:21** 
+**Leviticus 4:21**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it [is] a sin offering for the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he is to take the bull outside the camp and burn it, just as he burned the 
 > $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצִ֣יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Tzi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

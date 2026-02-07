@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:12** 
 <small><sub>**LXX:**</sub></small>
 And by the river shall ascend by  its edge on this side and that side every eatable tree; in no way shall anything be old upon it, nor its fruit fail of the newness of it -- it shall put forth first; for  their waters \[are\] of the holy place. These \[waters\] go forth, and their fruit will be for food, and their ascending \[parts\] for health. 
-<small><sub>**KJV:**</sub></small>
-And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.
-<small><sub>**BSB:**</sub></small>
-Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.11|<< Ezekiel 47:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.13|Ezekiel 47:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 47:12** is...

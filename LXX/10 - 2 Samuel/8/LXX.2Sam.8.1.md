@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], David struck the Philistines, and put them to flight. And David took the \[things\] being separated from out of \[the\] hand of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And after this it came to pass, that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-Some time later, David defeated the Philistines, subdued them, and took Metheg-ammah from the hand of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.29|<< 2 Samuel 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.2|2 Samuel 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

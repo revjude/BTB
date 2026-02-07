@@ -1,10 +1,7 @@
 **LXX Judges 16:5** 
 <small><sub>**LXX:**</sub></small>
 And the satraps of the Philistines ascended to her, and said to her, Beguile him, and see by what \[means\]  his great strength is, and by what \[means\] we shall be able to prevail against him, and tie him so as to humble him. And we will give to you by man a thousand and a hundred \[pieces\] of silver. 
-<small><sub>**KJV:**</sub></small>
-And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength [lieth], and by what [means] we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred [pieces] of silver.
-<small><sub>**BSB:**</sub></small>
-The lords of the Philistines went to her and said, “Entice him and find out the source of his great strength and how we can overpower him to tie him up and subdue him. Then each one of us will give you eleven hundred shekels of silver.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.4|<< Judges 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.6|Judges 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

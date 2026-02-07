@@ -1,4 +1,4 @@
-**Psalms 86:14** 
+**Psalms 86:14**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, the proud are risen against me, and the assemblies of violent [men] have sought after my soul; and have not set thee before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The arrogant rise against me, O God; a band of ruthless men seeks my life; they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.13|<< Psalms 86:13]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.15|Psalms 86:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrogant [people]  |**<big>&#8207;[[H2086\|זֵ֘דִ֤ים]]&#8207; </big>**| ze.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

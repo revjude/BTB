@@ -1,12 +1,12 @@
-**James 4:10
-**<small><sub>**KJV:**</sub></small>
+**James 4:10**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Humble yourselves in the sight of the Lord, and he shall lift you up.
 <small><sub>**BSB:**</sub></small>
 Humble yourselves before the Lord, and He will exalt you.
 <small><sub>**Literal:**</sub></small>
 do be humbled in the presence of the Lord and He will exalt you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.9|<< James 4:9]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.11|James 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be humbled |**<big>[[G5013\|ταπεινώθητε]]</big>**  |tapeinōthēte <small><sup>[[V-APM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in the presence of |**<big>[[G1799\|ἐνώπιον]]</big>**  |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

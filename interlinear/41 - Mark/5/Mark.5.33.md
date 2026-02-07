@@ -1,12 +1,12 @@
-**Mark 5:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:33**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.
 <small><sub>**BSB:**</sub></small>
 Then the woman, knowing what had happened to her, came and fell down before Him trembling in fear, and she told Him the whole truth.
 <small><sub>**Literal:**</sub></small>
 <the> And the woman having been frightened and trembling, know what has been done upon to her, came and she fell down before Him and she told Him all the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.32|<< Mark 5:32]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.34|Mark 5:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

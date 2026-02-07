@@ -1,4 +1,4 @@
-**Numbers 34:2** 
+**Numbers 34:2**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this [is] the land that shall fall unto you for an inheritance, [even] the land of Canaan with the coasts thereof:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command the children of Israel, and say unto them, When ye come into the land of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.1|<< Numbers 34:1]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.3|Numbers 34:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַ֞ו]]&#8207; </big>**| tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

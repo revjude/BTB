@@ -1,4 +1,4 @@
-**Genesis 36:4** 
+**Genesis 36:4**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Adah bore Eliphaz to Esau, Basemath gave birth to Reuel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.3|<< Genesis 36:3]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.5|Genesis 36:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֧לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adah  |**<big>&#8207;[[H5711H\|עָדָ֛ה]]&#8207; </big>**| 'a.Dah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 65:20** 
 <small><sub>**LXX:**</sub></small>
 nor in any way shall there be yet an untimely \[miscarriage\], \[nor\] an old man who shall not fill up  his time. For the young man will be a hundred years \[old\], and the sinner will be accursed dying \[at\] a hundred years \[old\]. 
-<small><sub>**KJV:**</sub></small>
-There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner [being] an hundred years old shall be accursed.
-<small><sub>**BSB:**</sub></small>
-No longer will a nursing infant live but a few days, or an old man fail to live out his years. For the youth will die at a hundred years, and he who fails to reach a hundred will be considered accursed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.19|<< Isaiah 65:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.21|Isaiah 65:21 >>]]</td></tr></table>
 
 | Translation | Greek |

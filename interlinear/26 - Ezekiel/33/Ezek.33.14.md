@@ -1,4 +1,4 @@
-**Ezekiel 33:14** 
+**Ezekiel 33:14**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if I tell the wicked man, ‘You will surely die,’ and he turns from his s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.13|<< Ezekiel 33:13]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.15|Ezekiel 33:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when say I  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0559\|אָמְרִ֥]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.me.R<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the wicked [person]  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H7563\|רָשָׁ֖ע]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

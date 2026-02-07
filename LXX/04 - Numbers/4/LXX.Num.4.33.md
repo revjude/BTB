@@ -1,10 +1,7 @@
 **LXX Numbers 4:33** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the ministration of \[the\] people of \[the\] sons of Merari, in all  their works, in the tent of the testimony, by \[the\] hand of Ithamar the son of Aaron the priest. 
-<small><sub>**KJV:**</sub></small>
-This [is] the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.
-<small><sub>**BSB:**</sub></small>
-This is the service of the Merarite clans according to all their work at the Tent of Meeting, under the direction of Ithamar son of Aaron the priest.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.32|<< Numbers 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.34|Numbers 4:34 >>]]</td></tr></table>
 
 | Translation | Greek |

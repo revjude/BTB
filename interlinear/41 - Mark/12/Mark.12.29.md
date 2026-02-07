@@ -1,5 +1,5 @@
-**Mark 12:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:29**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord:
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is One.
@@ -10,7 +10,7 @@ now Answered <the> Jesus to him The first is of all <the> commandments: do liste
 > $\quad$ referencing: [[LXX.Deut.6.4|Deut 6:4-5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

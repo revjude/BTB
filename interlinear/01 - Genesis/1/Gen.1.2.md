@@ -1,4 +1,4 @@
-**Genesis 1:2** 
+**Genesis 1:2**<big><big>[[Gen.1.1 The Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now the earth was formless and void, and darkness was over the surface of the de
 > $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the earth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֗רֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<it> was  |**<big>&#8207;[[H1961\|הָיְתָ֥ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:15** 
 <small><sub>**LXX:**</sub></small>
 They did not go by \[without heeding\] the commandments of the king, concerning the priests and the Levites, in any matter, and in the treasures. 
-<small><sub>**KJV:**</sub></small>
-And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures.
-<small><sub>**BSB:**</sub></small>
-They did not turn aside from the king’s command regarding the priests or the Levites in any matter, including that of the treasuries.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.14|<< 2 Chronicles 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.16|2 Chronicles 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

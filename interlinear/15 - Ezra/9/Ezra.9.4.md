@@ -1,4 +1,4 @@
-**Ezra 9:4** 
+**Ezra 9:4**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then everyone who trembled at the words of the God of Israel gathered around me 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.3|<< Ezra 9:3]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.5|Ezra 9:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֵלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they gathered  |**<big>&#8207;[[H0622\|יֵאָסְפ֗וּ]]&#8207; </big>**| ye.'a.se.Fu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

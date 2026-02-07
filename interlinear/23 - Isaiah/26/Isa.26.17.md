@@ -1,4 +1,4 @@
-**Isaiah 26:17** 
+**Isaiah 26:17**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like as a woman with child, [that] draweth near the time of her delivery, is in pain, [and] crieth out in her pangs; so have we been in thy sight, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a woman with child about to give birth writhes and cries out in pain, so were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like  |**<big>&#8207;[[H3644G\|כְּמ֤וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a pregnant [woman]  |**<big>&#8207;[[H2030A\|הָרָה֙]]&#8207; </big>**| ha.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

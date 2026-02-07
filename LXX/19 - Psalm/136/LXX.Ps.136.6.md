@@ -1,10 +1,7 @@
 **LXX Psalm 136:6** 
 <small><sub>**LXX:**</sub></small>
 To the one solidifying the earth upon the waters, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-To him that stretched out the earth above the waters: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-He spread out the earth upon the waters. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.5|<< Psalm 136:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.7|Psalm 136:7 >>]]</td></tr></table>
 
 | Translation | Greek |

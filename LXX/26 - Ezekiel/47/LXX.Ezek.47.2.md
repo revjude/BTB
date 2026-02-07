@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:2** 
 <small><sub>**LXX:**</sub></small>
 And he led me according to the way of the gate, of the one towards \[the\] north; and he led me by the way outside to the gate of the courtyard, of the one looking according to \[the\] east; and behold, the water carried down from the right side. 
-<small><sub>**KJV:**</sub></small>
-Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.
-<small><sub>**BSB:**</sub></small>
-Next he brought me out through the north gate and led me around the outside to the outer gate facing east, and there I saw the water trickling out from the south side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.1|<< Ezekiel 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.3|Ezekiel 47:3 >>]]</td></tr></table>
 
 | Translation | Greek |

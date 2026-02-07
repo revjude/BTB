@@ -1,12 +1,12 @@
-**Luke 6:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:35**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and [to] the evil.
 <small><sub>**BSB:**</sub></small>
 But love your enemies, do good to them, and lend to them, expecting nothing in return. Then your reward will be great, and you will be sons of the Most High; for He is kind to the ungrateful and wicked.
 <small><sub>**Literal:**</sub></small>
 But do love the enemies of you and do good and do lend nothing expecting in return; and will be the reward of you great, and you will be sons of the Most High, for He himself kind is to the ungrateful and evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.34|<< Luke 6:34]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.36|Luke 6:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do love |**<big>[[G0025\|ἀγαπᾶτε]]</big>**  |agapate <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

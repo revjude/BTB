@@ -1,10 +1,7 @@
 **LXX Psalm 83:7** 
 <small><sub>**LXX:**</sub></small>
 Gebal, and Ammon, and Amalek; \[the\] Philistines with the ones dwelling in Tyre. 
-<small><sub>**KJV:**</sub></small>
-Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
-<small><sub>**BSB:**</sub></small>
-of Gebal, Ammon, and Amalek, of Philistia with the people of Tyre.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.6|<< Psalm 83:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.8|Psalm 83:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:10** 
 <small><sub>**LXX:**</sub></small>
 They uncovered  her shame. They took her sons and daughters, and they killed her by \[the\] broadsword. And she became a discussion for women; and they executed acts of vengeance in her. 
-<small><sub>**KJV:**</sub></small>
-These discovered her nakedness: they took her sons and her daughters, and slew her with the sword: and she became famous among women; for they had executed judgment upon her.
-<small><sub>**BSB:**</sub></small>
-They exposed her nakedness, seized her sons and daughters, and put her to the sword. Thus she became a byword among women, and they executed judgment against her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.9|<< Ezekiel 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.11|Ezekiel 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

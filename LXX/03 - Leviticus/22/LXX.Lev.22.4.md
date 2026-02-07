@@ -1,10 +1,7 @@
 **LXX Leviticus 22:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of the seed of Aaron of the priest, that this one \[being\] leprous or \[having\] gonorrhea, shall not eat of the holy \[things\], until whenever he should be cleansed. And the one touching any uncleanness of soul, or a man in whom ever should come forth from out of his marriage-bed of semen, 
-<small><sub>**KJV:**</sub></small>
-What man soever of the seed of Aaron [is] a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing [that is] unclean [by] the dead, or a man whose seed goeth from him;
-<small><sub>**BSB:**</sub></small>
-If a descendant of Aaron has a skin disease or a discharge, he may not eat the sacred offerings until he is clean. Whoever touches anything defiled by a corpse or by a man who has an emission of semen,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.3|<< Leviticus 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.5|Leviticus 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

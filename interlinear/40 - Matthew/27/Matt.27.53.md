@@ -1,12 +1,12 @@
-**Matthew 27:53
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:53**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.
 <small><sub>**BSB:**</sub></small>
 After Jesus’ resurrection, when they had come out of the tombs, they entered the holy city and appeared to many people.
 <small><sub>**Literal:**</sub></small>
 and having gone forth out of the tombs after the resurrection of Him they entered into the holy city and appeared to many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.52|<< Matthew 27:52]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.54|Matthew 27:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forth |**<big>[[G1831\|ἐξελθόντες]]</big>**  |exelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

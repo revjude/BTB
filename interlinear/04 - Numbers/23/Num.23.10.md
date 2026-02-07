@@ -1,4 +1,4 @@
-**Numbers 23:10** 
+**Numbers 23:10**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can count the dust of Jacob, and the number of the fourth [part] of Israel? Let me die the death of the righteous, and let my last end be like his!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who can count the dust of Jacob or number even a fourth of Israel? Let me die th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.9|<< Numbers 23:9]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.11|Numbers 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he counted  |**<big>&#8207;[[H4487\|מָנָה֙]]&#8207; </big>**| ma.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

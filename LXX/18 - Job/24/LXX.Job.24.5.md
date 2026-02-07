@@ -1,10 +1,7 @@
 **LXX Job 24:5** 
 <small><sub>**LXX:**</sub></small>
 And they resulted as if donkeys in \[the\] field going forth for me on their own action; their bread for \[the\] young is delicious. 
-<small><sub>**KJV:**</sub></small>
-Behold, [as] wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness [yieldeth] food for them [and] for [their] children.
-<small><sub>**BSB:**</sub></small>
-Indeed, like wild donkeys in the desert, the poor go to work foraging for food; the wasteland is food for their children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.4|<< Job 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.6|Job 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

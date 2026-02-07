@@ -1,4 +1,4 @@
-**Isaiah 19:11** 
+**Isaiah 19:11**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the princes of Zoan [are] fools, the counsel of the wise counsellers of Pharaoh is become brutish: how say ye unto Pharaoh, I [am] the son of the wise, the son of ancient kings?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes of Zoan are mere fools; Pharaoh’s wise counselors give senseless a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.10|<< Isaiah 19:10]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.12|Isaiah 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fools  |**<big>&#8207;[[H0191\|אֱוִלִים֙]]&#8207; </big>**| 'e.vi.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

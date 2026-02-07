@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:14** 
 <small><sub>**LXX:**</sub></small>
 And David asked again to God. And God said to him, Do not go after them! turn from them, and come to them near the pear trees! 
-<small><sub>**KJV:**</sub></small>
-Therefore David inquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.
-<small><sub>**BSB:**</sub></small>
-So David again inquired of God, who answered him, “Do not march up after them, but circle around them and attack them in front of the balsam trees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.13|<< 1 Chronicles 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.15|1 Chronicles 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

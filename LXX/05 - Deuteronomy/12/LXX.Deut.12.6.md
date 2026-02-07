@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall bring there the whole burnt-offerings of yours, and  your sacrifices, and  your tenths, and  your vow \[offerings\], and  your voluntary \[offerings\], and  your acknowledgment \[offerings\], the first-born  of your oxen, and  of your sheep. 
-<small><sub>**KJV:**</sub></small>
-And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:
-<small><sub>**BSB:**</sub></small>
-To that place you are to bring your burnt offerings and sacrifices, your tithes and heave offerings, your vow offerings and freewill offerings, as well as the firstborn of your herds and flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.5|<< Deuteronomy 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.7|Deuteronomy 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

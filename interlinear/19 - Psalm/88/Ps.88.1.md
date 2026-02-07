@@ -1,12 +1,12 @@
-**Psalms 88:1** (88:2)
+**Psalms 88:1**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song [or] Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. O LORD God of my salvation, I have cried day [and] night before thee:
+O LORD God of my salvation, I have cried day [and] night before thee:
 <small><sub>**BSB:**</sub></small>
 A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, day and night I cry out before You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.0|<< Psalms 88:0]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.2|Psalms 88:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

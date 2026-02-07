@@ -1,4 +1,4 @@
-**Job 2:7** 
+**Job 2:7**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Satan went out from the presence of the LORD and infected Job with terrible b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.6|<< Job 2:6]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.8|Job 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the adversary  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7854\|שָּׂטָ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Tan<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

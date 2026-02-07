@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] diagram of the house upon the top of the mountain, all  its limits round about \[the\] holy of holies -- this is the rule of the house. 
-<small><sub>**KJV:**</sub></small>
-This [is] the law of the house; Upon the top of the mountain the whole limit thereof round about [shall be] most holy. Behold, this [is] the law of the house.
-<small><sub>**BSB:**</sub></small>
-This is the law of the temple: All its surrounding territory on top of the mountain will be most holy. Yes, this is the law of the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.11|<< Ezekiel 43:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.13|Ezekiel 43:13 >>]]</td></tr></table>
 
 | Translation | Greek |

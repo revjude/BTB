@@ -1,4 +1,4 @@
-**Nehemiah 13:4** 
+**Nehemiah 13:4**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, [was] allied unto Tobiah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now before this, Eliashib the priest, a relative of Tobiah, had been put in char
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from this  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2088\|זֶּ֔ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

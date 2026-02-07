@@ -1,4 +1,4 @@
-**2 Samuel 17:3** 
+**2 Samuel 17:3**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring back all the people unto thee: the man whom thou seekest [is] as if all returned: [so] all the people shall be in peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and bring all the people back to you as a bride returning to her husband. You se
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.2|<< 2 Samuel 17:2]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.4|2 Samuel 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring back  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|אָשִׁ֥יבָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shi.vah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

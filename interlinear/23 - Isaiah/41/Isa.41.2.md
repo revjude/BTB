@@ -1,4 +1,4 @@
-**Isaiah 41:2** 
+**Isaiah 41:2**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who raised up the righteous [man] from the east, called him to his foot, gave the nations before him, and made [him] rule over kings? he gave [them] as the dust to his sword, [and] as driven stubble to his bow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who has aroused one from the east and called him to his feet in righteousness? H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.1|<< Isaiah 41:1]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.3|Isaiah 41:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he stirred up  |**<big>&#8207;[[H5782\|הֵעִיר֙]]&#8207; </big>**| he.'Ir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

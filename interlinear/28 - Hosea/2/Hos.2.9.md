@@ -1,4 +1,4 @@
-**Hosea 2:9** (2:11)
+**Hosea 2:9**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax [given] to cover her nakedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I will take back My grain in its time and My new wine in its season; I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.8|<< Hosea 2:8]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.10|Hosea 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֣ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will return  |**<big>&#8207;[[H7725G\|אָשׁ֔וּב]]&#8207; </big>**| 'a.Shuv<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 17:7** 
+**Job 17:7**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye also is dim by reason of sorrow, and all my members [are] as a shadow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My eyes have grown dim with grief, and my whole body is but a shadow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.6|<< Job 17:6]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.8|Job 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has grown dim  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3543A\|תֵּ֣כַהּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.khah<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from grief  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3708B\|כַּ֣עַשׂ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

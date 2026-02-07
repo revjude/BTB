@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the people seeing that Moses passed time to come down from out of the mountain, the people stood together by Aaron, and they say to him, Rise up and make for us gods! the ones who will go before us.  For Moses, this  man who led us from out of \[the\] land of Egypt, we do not know what has happened to him. 
-<small><sub>**KJV:**</sub></small>
-And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for [as for] this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
-<small><sub>**BSB:**</sub></small>
-Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.18|<< Exodus 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.2|Exodus 32:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 32:1** is...

@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:22** 
 <small><sub>**LXX:**</sub></small>
 And behold, while she spoke with the king, that Nathan the prophet entered. 
-<small><sub>**KJV:**</sub></small>
-And, lo, while she yet talked with the king, Nathan the prophet also came in.
-<small><sub>**BSB:**</sub></small>
-And just then, while Bathsheba was still speaking with the king, Nathan the prophet arrived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.21|<< 1 Kings 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.23|1 Kings 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

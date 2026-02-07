@@ -1,10 +1,7 @@
 **LXX Daniel 4:3** 
 <small><sub>**LXX:**</sub></small>
 As of \[how\] great  his signs, and as of \[how\] mighty  his wonders.  His kingdom \[is an\] everlasting kingdom, and  his authority unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-How great [are] his signs! and how mighty [are] his wonders! his kingdom [is] an everlasting kingdom, and his dominion [is] from generation to generation.
-<small><sub>**BSB:**</sub></small>
-How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.2|<< Daniel 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.4|Daniel 4:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 4:3** is...

@@ -1,10 +1,7 @@
 **LXX Joshua 23:3** 
 <small><sub>**LXX:**</sub></small>
 And you have seen all things as much as \[the\] <span class="smallcaps">lord</span> our God did to all  these nations from in front of you; for \[the\] <span class="smallcaps">lord</span>  our God, he \[is\] the one waging war for you. 
-<small><sub>**KJV:**</sub></small>
-And ye have seen all that the LORD your God hath done unto all these nations because of you; for the LORD your God [is] he that hath fought for you.
-<small><sub>**BSB:**</sub></small>
-“and you have seen everything that the LORD your God has done to all these nations for your sake, because it was the LORD your God who fought for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.2|<< Joshua 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.4|Joshua 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

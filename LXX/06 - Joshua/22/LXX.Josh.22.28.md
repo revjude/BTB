@@ -1,10 +1,7 @@
 **LXX Joshua 22:28** 
 <small><sub>**LXX:**</sub></small>
 And we said, If it comes to pass at some time or other, and they shall speak to us or \[to\] our generations tomorrow, then we shall say, Behold! \[it is\] a representation of the altar of \[the\] <span class="smallcaps">lord</span> which our fathers made. \[It is\] not for yield \[offerings\], nor for sacrifices, but it is a testimony between you, and between us, and between  our sons. 
-<small><sub>**KJV:**</sub></small>
-Therefore said we, that it shall be, when they should [so] say to us or to our generations in time to come, that we may say [again], Behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings, nor for sacrifices; but it [is] a witness between us and you.
-<small><sub>**BSB:**</sub></small>
-Therefore we said, ‘If they ever say this to us or to our descendants, we will answer: Look at the replica of the altar of the LORD that our fathers made, not for burnt offerings or sacrifices, but as a witness between us and you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.27|<< Joshua 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.29|Joshua 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

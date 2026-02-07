@@ -1,10 +1,7 @@
 **LXX Proverbs 28:20** 
 <small><sub>**LXX:**</sub></small>
 A man worthy of trust in many \[things\] shall be blessed; but the evil one shall not be unpunished. 
-<small><sub>**KJV:**</sub></small>
-A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.
-<small><sub>**BSB:**</sub></small>
-A faithful man will abound with blessings, but one eager to be rich will not go unpunished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.19|<< Proverbs 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.21|Proverbs 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

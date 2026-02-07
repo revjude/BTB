@@ -1,12 +1,12 @@
-**Romans 12:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:11**<big><big>[[Rom.12.9 Love, Zeal, Hope, Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not slothful in business; fervent in spirit; serving the Lord;
 <small><sub>**BSB:**</sub></small>
 Do not let your zeal subside; keep your spiritual fervor, serving the Lord.
 <small><sub>**Literal:**</sub></small>
 <the> in diligence not lagging, <the> in spirit being fervent, the Lord serving,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.10|<< Romans 12:10]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.12|Romans 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in diligence |**<big>[[G4710\|σπουδῇ]]</big>**  |spoudēa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

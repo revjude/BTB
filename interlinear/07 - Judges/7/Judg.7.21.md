@@ -1,4 +1,4 @@
-**Judges 7:21** 
+**Judges 7:21**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they stood every man in his place round about the camp: and all the host ran, and cried, and fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each Israelite took his position around the camp, and the entire Midianite army 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.20|<< Judges 7:20]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.22|Judges 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּֽעַמְדוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'am.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | everyone  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

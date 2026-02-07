@@ -1,10 +1,7 @@
 **LXX Genesis 23:19** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] Abraham entombed Sarah  his wife in the cave of the field at Double \[Cave\], which is before Mamre; this is Hebron in the land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same [is] Hebron in the land of Canaan.
-<small><sub>**BSB:**</sub></small>
-After this, Abraham buried his wife Sarah in the cave of the field at Machpelah near Mamre (that is, Hebron) in the land of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.18|<< Genesis 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.20|Genesis 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

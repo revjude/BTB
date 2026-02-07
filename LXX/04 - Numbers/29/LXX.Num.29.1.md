@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the seventh month, \[day\] one of the month, will be a holy summoning to you; all servile work you shall not do; a day of signal it will be to you. 
-<small><sub>**KJV:**</sub></small>
-And in the seventh month, on the first [day] of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
-<small><sub>**BSB:**</sub></small>
-“On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.31|<< Numbers 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.2|Numbers 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

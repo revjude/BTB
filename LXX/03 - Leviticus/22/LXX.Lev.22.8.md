@@ -1,10 +1,7 @@
 **LXX Leviticus 22:8** 
 <small><sub>**LXX:**</sub></small>
 Decaying flesh and that taken by wild beasts he shall not eat, to be defiled by it. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That which dieth of itself, or is torn [with beasts], he shall not eat to defile himself therewith: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-He must not eat anything found dead or torn by wild animals, which would make him unclean. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

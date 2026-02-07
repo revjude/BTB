@@ -1,4 +1,4 @@
-**Ezekiel 16:31** 
+**Ezekiel 16:31**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornest hire;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when you built your mounds at the head of every street and made your lofty s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.30|<< Ezekiel 16:30]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.32|Ezekiel 16:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when built you  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1129\|בְנוֹתַ֤יִ]]&#8207;&#8207;[[H9042\|ךְ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> v.no.Ta.yi<small><sup>[[HVqcc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mound your  |**<big>&#8207;[[H1354\|גַּבֵּ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| ga.be<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

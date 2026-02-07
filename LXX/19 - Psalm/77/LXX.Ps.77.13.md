@@ -1,10 +1,7 @@
 **LXX Psalm 77:13** 
 <small><sub>**LXX:**</sub></small>
 O God, your way \[is\] in the holy place. What God \[is\] great as  our God? 
-<small><sub>**KJV:**</sub></small>
-Thy way, O God, [is] in the sanctuary: who [is so] great a God as [our] God?
-<small><sub>**BSB:**</sub></small>
-Your way, O God, is holy. What god is so great as our God?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.12|<< Psalm 77:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.14|Psalm 77:14 >>]]</td></tr></table>
 
 | Translation | Greek |

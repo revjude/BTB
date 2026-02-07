@@ -1,4 +1,4 @@
-**Jeremiah 8:18** 
+**Jeremiah 8:18**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [When] I would comfort myself against sorrow, my heart [is] faint in me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My sorrow is beyond healing; my heart is faint within me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.17|<< Jeremiah 8:17]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.19|Jeremiah 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cheerfulness my  |**<big>&#8207;[[H4010\|מַבְלִ֥יגִיתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mav.Li.gi.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עֲלֵ֣י]]&#8207; </big>**| 'a.Lei<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

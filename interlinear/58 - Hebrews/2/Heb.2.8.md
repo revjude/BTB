@@ -1,5 +1,5 @@
-**Hebrews 2:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:8**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing [that is] not put under him. But now we see not yet all things put under him.
 <small><sub>**BSB:**</sub></small>
 and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him.
@@ -10,7 +10,7 @@ all things You have put in subjection under the feet of him. In <the> for subjec
 > $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You have put in subjection |**<big>[[G5293\|ὑπέταξας]]</big>**  |hupetaxas <small><sup>[[V-2AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ecclesiastes 2:13** 
+**Ecclesiastes 2:13**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I saw that wisdom excelleth folly, as far as light excelleth darkness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I saw that wisdom exceeds folly, just as light exceeds darkness:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.12|<< Ecclesiastes 2:12]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.14|Ecclesiastes 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|רָאִ֣יתִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אָ֔נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

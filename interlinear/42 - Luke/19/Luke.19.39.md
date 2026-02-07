@@ -1,12 +1,12 @@
-**Luke 19:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:39**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
 <small><sub>**BSB:**</sub></small>
 But some of the Pharisees in the crowd said to Him, “Teacher, rebuke Your disciples!”
 <small><sub>**Literal:**</sub></small>
 And some of the Pharisees from the crowd said to Him; Teacher, do rebuke the disciples of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.38|<< Luke 19:38]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.40|Luke 19:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καί]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

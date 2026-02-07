@@ -1,4 +1,4 @@
-**Leviticus 27:12** 
+**Leviticus 27:12**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall value it, whether it be good or bad: as thou valuest it, [who art] the priest, so shall it be.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest shall set its value, whether high or low; as the priest values it, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.11|<< Leviticus 27:11]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.13|Leviticus 27:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will evaluate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6186B\|הֶעֱרִ֤יךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Rikh<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

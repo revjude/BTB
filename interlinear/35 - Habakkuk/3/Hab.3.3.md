@@ -1,4 +1,4 @@
-**Habakkuk 3:3** 
+**Habakkuk 3:3**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God came from Teman, and the Holy One from Mount Paran. Selah His glory covered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0433\|אֱל֙וֹהַ֙]]&#8207; </big>**| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Teman  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8487H\|תֵּימָ֣ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tei.Man<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

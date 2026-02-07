@@ -1,4 +1,4 @@
-**Genesis 45:24** 
+**Genesis 45:24**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joseph sent his brothers on their way, and as they were leaving, he said to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.23|<< Genesis 45:23]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.25|Genesis 45:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יְשַׁלַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Lach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

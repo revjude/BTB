@@ -1,4 +1,4 @@
-**Malachi 3:8** 
+**Malachi 3:8**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will a man rob God? Yet you are robbing Me! But you ask, ‘How do we rob You?�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.7|<< Malachi 3:7]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.9|Malachi 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will he rob  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H6906\|יִקְבַּ֨ע]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yik.Ba'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone  |**<big>&#8207;[[H0120G\|אָדָ֜ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

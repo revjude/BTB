@@ -1,4 +1,4 @@
-**Hosea 2:22** (2:24)
+**Hosea 2:22**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the earth will respond to the grain, to the new wine and oil, and they will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.21|<< Hosea 2:21]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.23|Hosea 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the earth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֣רֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will answer  |**<big>&#8207;[[H6030B\|תַּעֲנֶ֔ה]]&#8207; </big>**| ta.'a.Neh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 103:5** 
 <small><sub>**LXX:**</sub></small>
 the one filling your desire with good \[things\]. Your youth shall be renewed as an eagle. 
-<small><sub>**KJV:**</sub></small>
-Who satisfieth thy mouth with good [things; so that] thy youth is renewed like the eagle’s.
-<small><sub>**BSB:**</sub></small>
-who satisfies you with good things, so that your youth is renewed like the eagle’s.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.4|<< Psalm 103:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.6|Psalm 103:6 >>]]</td></tr></table>
 
 | Translation | Greek |

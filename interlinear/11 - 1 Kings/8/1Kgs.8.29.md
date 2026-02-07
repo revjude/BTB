@@ -1,4 +1,4 @@
-**1 Kings 8:29** 
+**1 Kings 8:29**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thine eyes may be open toward this house night and day, [even] toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May Your eyes be open toward this temple night and day, toward the place of whic
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.28|<< 1 Kings 8:28]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.30|1 Kings 8:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to be  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1961\|הְיוֹת֩]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.yOt<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵינֶ֨]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

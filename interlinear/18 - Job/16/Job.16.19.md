@@ -1,4 +1,4 @@
-**Job 16:19** 
+**Job 16:19**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also now, behold, my witness [is] in heaven, and my record [is] on high.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Even now my witness is in heaven, and my advocate is on high.
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַ֭תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

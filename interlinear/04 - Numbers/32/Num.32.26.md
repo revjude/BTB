@@ -1,4 +1,4 @@
-**Numbers 32:26** 
+**Numbers 32:26**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our children, our wives, our livestock, and all our animals will remain here in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.25|<< Numbers 32:25]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.27|Numbers 32:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | little one[s] our  |**<big>&#8207;[[H2945\|טַפֵּ֣]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ta.Pe.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wives our  |**<big>&#8207;[[H0802H\|נָשֵׁ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| na.Shei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

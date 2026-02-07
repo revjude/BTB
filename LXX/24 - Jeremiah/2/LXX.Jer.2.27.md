@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:27** 
 <small><sub>**LXX:**</sub></small>
 They said to the tree that, You are my father; and to the stone, You engendered me. And they turned \[their\] backs against me, and not their faces. And in the time  of their evils they shall say, Rise up and deliver us! 
-<small><sub>**KJV:**</sub></small>
-Saying to a stock, Thou [art] my father; and to a stone, Thou hast brought me forth: for they have turned [their] back unto me, and not [their] face: but in the time of their trouble they will say, Arise, and save us.
-<small><sub>**BSB:**</sub></small>
-say to a tree, ‘You are my father,’ and to a stone, ‘You gave me birth.’ They have turned their backs to Me and not their faces. Yet in the time of trouble, they say, ‘Rise up and save us!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.26|<< Jeremiah 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.28|Jeremiah 2:28 >>]]</td></tr></table>
 
 | Translation | Greek |

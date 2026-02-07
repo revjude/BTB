@@ -1,10 +1,7 @@
 **LXX Ruth 3:12** 
 <small><sub>**LXX:**</sub></small>
 And now truly I am a relative; but indeed there is a relative in \[the\] land who \[is\] over me. 
-<small><sub>**KJV:**</sub></small>
-And now it is true that I [am thy] near kinsman: howbeit there is a kinsman nearer than I.
-<small><sub>**BSB:**</sub></small>
-Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer than I.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.11|<< Ruth 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.13|Ruth 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 109**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108|<< Psalm 108]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110|Psalm 110 >>]]</td></tr></table>
 
-***The Song of the Slandered*** <small><small>[^2]</small></small>  ^bsb1402
+<big><big>[[Ps.109.1 The Song of the Slandered|⥃]]</big></big>***The Song of the Slandered*** <small><small>[^2]</small></small> 
 
 
 

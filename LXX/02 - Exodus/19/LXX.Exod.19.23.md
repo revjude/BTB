@@ -1,10 +1,7 @@
 **LXX Exodus 19:23** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to  God, the people shall not be able to ascend to  mount  Sinai, for you testified to us, saying, Separate \[from\] the mountain and sanctify it! 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.
-<small><sub>**BSB:**</sub></small>
-But Moses said to the LORD, “The people cannot come up Mount Sinai, for You solemnly warned us, ‘Put a boundary around the mountain and set it apart as holy.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.22|<< Exodus 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.24|Exodus 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

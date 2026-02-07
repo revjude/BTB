@@ -1,12 +1,12 @@
-**Acts 14:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:6**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They were ware of [it], and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:
 <small><sub>**BSB:**</sub></small>
 they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region,
 <small><sub>**Literal:**</sub></small>
 having become aware they fled to the cities <the> of Lycaonia, Lystra and Derbe and the surrounding region,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.5|<< Acts 14:5]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.7|Acts 14:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having become aware |**<big>[[G4894\|συνιδόντες]]</big>**  |sunidontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they fled |**<big>[[G2703\|κατέφυγον]]</big>**  |katephugon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

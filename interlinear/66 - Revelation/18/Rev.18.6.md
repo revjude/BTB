@@ -1,5 +1,5 @@
-**Revelation 18:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:6**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.
 <small><sub>**BSB:**</sub></small>
 Give back to her as she has done to others; pay her back double for what she has done; mix her a double portion in her own cup.
@@ -10,7 +10,7 @@ do give back to her as also she has rendered to you and do pay back double to he
 > $\quad$ alluding to: [[LXX.Ps.137.8|Ps 137:8]] ☩ [[LXX.Jer.50.15|Jer 50:15]] ☩ [[LXX.Jer.50.29|Jer 50:29]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do give back |**<big>[[G0591\|ἀπόδοτε]]</big>**  |apodote <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to her |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

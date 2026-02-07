@@ -1,10 +1,7 @@
 **LXX Psalm 54:2** 
 <small><sub>**LXX:**</sub></small>
 O God, listen to  my prayer, give ear to the words  of my mouth! 
-<small><sub>**KJV:**</sub></small>
-Hear my prayer, O God; give ear to the words of my mouth.
-<small><sub>**BSB:**</sub></small>
-Hear my prayer, O God; listen to the words of my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.54.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.54.1|<< Psalm 54:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.54.3|Psalm 54:3 >>]]</td></tr></table>
 
 | Translation | Greek |

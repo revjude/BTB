@@ -1,12 +1,12 @@
-**Acts 2:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:12**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were all amazed, and were in doubt, saying one to another, What meaneth this?
 <small><sub>**BSB:**</sub></small>
 Astounded and perplexed, they asked one another, “What does this mean?”
 <small><sub>**Literal:**</sub></small>
 Were amazed then all and they were perplexed other to other saying; What maybe intends this to be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.11|<< Acts 2:11]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.13|Acts 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were amazed |**<big>[[G1839\|ἐξίσταντο]]</big>**  |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

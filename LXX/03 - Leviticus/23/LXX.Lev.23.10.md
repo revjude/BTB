@@ -1,10 +1,7 @@
 **LXX Leviticus 23:10** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, Whenever you should enter into the land which I give to you, and should harvest  its harvest, that you shall bring the sheaf first-fruit  of your harvest to the priest. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say, ‘When you enter the land that I am giving you and you reap its harvest, you are to bring to the priest a sheaf of the firstfruits of your harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.9|<< Leviticus 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.11|Leviticus 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 36:15** 
+**Ezekiel 36:15**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I cause [men] to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will no longer allow the taunts of the nations to be heard against you, and yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.14|<< Ezekiel 36:14]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.16|Ezekiel 36:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make heard  |**<big>&#8207;[[H8085G\|אַשְׁמִ֨יעַ]]&#8207; </big>**| 'ash.Mi.a'<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 15:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, The man, a man in whom ever should have a flow from out of  his body,  his flow is unclean. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, [because of] his issue he [is] unclean.
-<small><sub>**BSB:**</sub></small>
-“Say to the Israelites, ‘When any man has a bodily discharge, the discharge is unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.1|<< Leviticus 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.3|Leviticus 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

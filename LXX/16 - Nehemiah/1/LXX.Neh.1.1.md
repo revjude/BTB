@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] words of Nehemiah son of Hachaliah. And it came to pass in \[the\] month of Chislev, \[in the\] twentieth year, that I was in Susa Abira. 
-<small><sub>**KJV:**</sub></small>
-The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
-<small><sub>**BSB:**</sub></small>
-These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.44|<< Ezra 10:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.2|Nehemiah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

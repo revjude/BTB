@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:12** 
 <small><sub>**LXX:**</sub></small>
 And David gave charge \[to\] his servants, and they killed them, and lopped off  their hands and  their feet, and they hung them upon the fountain in Hebron. And the head of Ishbosheth they entombed in the tomb of Abner son of Ner in Hebron. 
-<small><sub>**KJV:**</sub></small>
-And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged [them] up over the pool in Hebron. But they took the head of Ishbosheth, and buried [it] in the sepulchre of Abner in Hebron.
-<small><sub>**BSB:**</sub></small>
-So David commanded his young men, and they killed Rechab and Baanah. They cut off their hands and feet and hung their bodies by the pool in Hebron, but they took the head of Ish-bosheth and buried it in Abner’s tomb in Hebron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.11|<< 2 Samuel 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.1|2 Samuel 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 5:21** 
+**Daniel 5:21**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling [was] with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and [that] he appointeth over it whomsoever he will.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was driven away from mankind, and his mind was like that of a beast. He lived
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.20|<< Daniel 5:20]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.22|Daniel 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and away from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1247I\|בְּנֵי֩]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

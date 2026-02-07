@@ -1,12 +1,12 @@
-**Revelation 3:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:5**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
 <small><sub>**BSB:**</sub></small>
 Like them, he who overcomes will be dressed in white. And I will never blot out his name from the Book of Life, but I will confess his name before My Father and His angels.
 <small><sub>**Literal:**</sub></small>
 The [one] overcoming thus will be clothed in garments white, And certainly not will I blot out the name of him from the book <the> of life and I will acknowledge the name of him before the Father of Mine and before the angels of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.4|<< Revelation 3:4]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.6|Revelation 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | overcoming |**<big>[[G3528\|νικῶν]]</big>**  |nikōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

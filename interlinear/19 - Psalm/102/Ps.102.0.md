@@ -1,12 +1,10 @@
-**Psalms 102:0** (102:1)
+**Psalms 102:0**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. Hear my prayer, O LORD, and let my cry come unto thee.
-<small><sub>**BSB:**</sub></small>
-A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.
+A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.8|<< Psalms 101:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.1|Psalms 102:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a prayer  |**<big>&#8207;[[H8605\|תְּ֭פִלָּה]]&#8207; </big>**| Te.fi.lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of an afflicted [person]  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

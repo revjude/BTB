@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 What \[the\] <span class="smallcaps">lord</span> spoke by \[the\] hand of Jeremiah the prophet \[concerning\] the coming of Nebuchadnezzar king of Babylon  to smite the land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-The word that the LORD spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come [and] smite the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-This is the word that the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.12|<< Jeremiah 46:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.14|Jeremiah 46:14 >>]]</td></tr></table>
 
 | Translation | Greek |

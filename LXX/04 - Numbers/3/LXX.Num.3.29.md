@@ -1,10 +1,7 @@
 **LXX Numbers 3:29** 
 <small><sub>**LXX:**</sub></small>
 The peoples of the sons of Kohath shall camp by \[the\] side of the tent towards \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-The families of the sons of Kohath shall pitch on the side of the tabernacle southward.
-<small><sub>**BSB:**</sub></small>
-The clans of the Kohathites were to camp on the south side of the tabernacle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.28|<< Numbers 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.30|Numbers 3:30 >>]]</td></tr></table>
 
 | Translation | Greek |

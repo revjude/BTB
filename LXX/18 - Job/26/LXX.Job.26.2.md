@@ -1,10 +1,7 @@
 **LXX Job 26:2** 
 <small><sub>**LXX:**</sub></small>
 To whom do you lie near to, or to whom are you about to help? Is it not \[the\] one who \[has\] much strength, and whose arm is fortified? 
-<small><sub>**KJV:**</sub></small>
-How hast thou helped [him that is] without power? [how] savest thou the arm [that hath] no strength?
-<small><sub>**BSB:**</sub></small>
-“How you have helped the powerless and saved the arm that is feeble!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.1|<< Job 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.3|Job 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

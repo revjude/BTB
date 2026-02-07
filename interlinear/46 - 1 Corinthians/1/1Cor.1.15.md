@@ -1,12 +1,12 @@
-**1 Corinthians 1:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:15**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lest any should say that I had baptized in mine own name.
 <small><sub>**BSB:**</sub></small>
 so no one can say that you were baptized into my name.
 <small><sub>**Literal:**</sub></small>
 so that not anyone may say that into <the> my name you were baptized.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.14|<< 1 Corinthians 1:14]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.16|1 Corinthians 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

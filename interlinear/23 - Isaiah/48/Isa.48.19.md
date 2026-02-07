@@ -1,4 +1,4 @@
-**Isaiah 48:19** 
+**Isaiah 48:19**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your descendants would have been as countless as the sand, and your offspring as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.18|<< Isaiah 48:18]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.20|Isaiah 48:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the sand  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H2344\|חוֹל֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> chOl<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 11:44
-**<small><sub>**KJV:**</sub></small>
+**John 11:44**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
 <small><sub>**BSB:**</sub></small>
 The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth. “Unwrap him and let him go,” Jesus told them.
 <small><sub>**Literal:**</sub></small>
 and Came forth the [one] having died bound the feet and the hands with linen strips, and the face of him in a headcloth had bound about. Says to them <the> Jesus: do unbind him and do allow him to go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.43|<< John 11:43]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.45|John 11:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Came forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

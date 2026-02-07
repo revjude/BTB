@@ -1,4 +1,4 @@
-**Exodus 12:40** 
+**Exodus 12:40**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sojourning of the children of Israel, who dwelt in Egypt, [was] four hundred and thirty years.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now the duration of the Israelites’ stay in Egypt was 430 years.
 > $\quad$ referenced by: [[Gal.3.17|Gal 3:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] dwelling of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4186\|מוֹשַׁב֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Shav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

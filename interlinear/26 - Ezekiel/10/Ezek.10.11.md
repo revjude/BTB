@@ -1,4 +1,4 @@
-**Ezekiel 10:11** 
+**Ezekiel 10:11**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they went, they went upon their four sides; they turned not as they went, but to the place whither the head looked they followed it; they turned not as they went.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they moved, they would go in any of the four directions, without turning as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.10|<< Ezekiel 10:10]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.12|Ezekiel 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when moved they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1980G\|לֶכְתָּ֗]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lekh.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

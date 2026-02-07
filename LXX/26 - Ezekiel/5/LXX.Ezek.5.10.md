@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this, fathers shall eat the children in your midst, and children shall eat fathers. And I shall execute judgments among you; and I shall scatter all the rest of you unto every wind. 
-<small><sub>**KJV:**</sub></small>
-Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter into all the winds.
-<small><sub>**BSB:**</sub></small>
-As a result, fathers among you will eat their sons, and sons will eat their fathers. I will execute judgments against you and scatter all your remnant to every wind.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.9|<< Ezekiel 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.11|Ezekiel 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

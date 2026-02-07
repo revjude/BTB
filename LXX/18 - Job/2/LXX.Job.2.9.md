@@ -1,10 +1,7 @@
 **LXX Job 2:9** 
 <small><sub>**LXX:**</sub></small>
 And his wife said to him, Until how long will you persevere? But speak any word to God, and come to an end! 
-<small><sub>**KJV:**</sub></small>
-Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.
-<small><sub>**BSB:**</sub></small>
-Then Job’s wife said to him, “Do you still retain your integrity? Curse God and die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.8|<< Job 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.10|Job 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

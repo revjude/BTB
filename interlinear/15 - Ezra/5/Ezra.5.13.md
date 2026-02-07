@@ -1,4 +1,4 @@
-**Ezra 5:13** 
+**Ezra 5:13**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the first year of his reign, however, Cyrus king of Babylon issued a decree t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H1297\|בְּרַם֙]]&#8207; </big>**| be.Ram<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8140\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[AR]]</sup></small> sh.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

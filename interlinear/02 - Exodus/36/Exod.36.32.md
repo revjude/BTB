@@ -1,4 +1,4 @@
-**Exodus 36:32** 
+**Exodus 36:32**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the tabernacle for the sides westward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ five for those on the other side, and five for those on the rear side of the tab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.31|<< Exodus 36:31]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.33|Exodus 36:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֣ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bars  |**<big>&#8207;[[H1280\|בְרִיחִ֔ם]]&#8207; </big>**| ve.ri.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

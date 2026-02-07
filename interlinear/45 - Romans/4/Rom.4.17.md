@@ -1,5 +1,5 @@
-**Romans 4:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:17**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (As it is written, I have made thee a father of many nations,) before him whom he believed, [even] God, who quickeneth the dead, and calleth those things which be not as though they were.
 <small><sub>**BSB:**</sub></small>
 As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.
@@ -10,7 +10,7 @@ even as it has been written that A father of many nations I have made you, befor
 > $\quad$ referencing: [[LXX.Gen.17.5|Gen 17:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

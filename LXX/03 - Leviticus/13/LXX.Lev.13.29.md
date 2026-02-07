@@ -1,10 +1,7 @@
 **LXX Leviticus 13:29** 
 <small><sub>**LXX:**</sub></small>
 And a man or a woman, in whom ever has in themselves an infection of leprosy in the head or in the beard; 
-<small><sub>**KJV:**</sub></small>
-If a man or woman have a plague upon the head or the beard;
-<small><sub>**BSB:**</sub></small>
-If a man or woman has an infection on the head or chin,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.28|<< Leviticus 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.30|Leviticus 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

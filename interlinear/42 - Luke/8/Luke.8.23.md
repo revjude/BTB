@@ -1,12 +1,12 @@
-**Luke 8:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:23**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled [with water], and were in jeopardy.
 <small><sub>**BSB:**</sub></small>
 As they sailed, He fell asleep, and a windstorm came down on the lake, so that the boat was being swamped, and they were in great danger.
 <small><sub>**Literal:**</sub></small>
 When were sailing then they He fell asleep, And came down a storm of wind on the lake, and they were being swamped and were in danger.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.22|<< Luke 8:22]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.24|Luke 8:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were sailing |**<big>[[G4126\|πλεόντων]]</big>**  |pleontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

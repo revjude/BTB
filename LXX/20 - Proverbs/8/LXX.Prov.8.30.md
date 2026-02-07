@@ -1,10 +1,7 @@
 **LXX Proverbs 8:30** 
 <small><sub>**LXX:**</sub></small>
 I was by him. I was being in accord, in which he rejoiced with. And each day I was glad in front of him at all time, 
-<small><sub>**KJV:**</sub></small>
-Then I was by him, [as] one brought up [with him]: and I was daily [his] delight, rejoicing always before him;
-<small><sub>**BSB:**</sub></small>
-Then I was a skilled craftsman at His side, and His delight day by day, rejoicing always in His presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.29|<< Proverbs 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.31|Proverbs 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

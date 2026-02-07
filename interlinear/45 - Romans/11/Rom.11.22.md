@@ -1,12 +1,12 @@
-**Romans 11:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:22**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in [his] goodness: otherwise thou also shalt be cut off.
 <small><sub>**BSB:**</sub></small>
 Take notice, therefore, of the kindness and severity of God: severity to those who fell, but kindness to you, if you continue in His kindness. Otherwise you also will be cut off.
 <small><sub>**Literal:**</sub></small>
 Behold therefore [the] kindness and severity of God; upon indeed those having fallen severity, toward however you kindness of God, if you shall continue in the kindness; otherwise also you yourself will be cut off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.21|<< Romans 11:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.23|Romans 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2396\|Ἴδε]]</big>**  |Ide <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

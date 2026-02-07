@@ -1,10 +1,7 @@
 **LXX Joel 3:18** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day the mountains will trickle down sweetness, and the hills shall flow milk, and all the releases of Judah shall flow waters; and a spring shall come forth from out of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and it shall water the rushing stream of the rushes. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.
-<small><sub>**BSB:**</sub></small>
-And in that day the mountains will drip with sweet wine, and the hills will flow with milk. All the streams of Judah will run with water, and a spring will flow from the house of the LORD to water the Valley of Acacias.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.17|<< Joel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.19|Joel 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

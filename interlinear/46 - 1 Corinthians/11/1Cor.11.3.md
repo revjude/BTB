@@ -1,12 +1,12 @@
-**1 Corinthians 11:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:3**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I would have you know, that the head of every man is Christ; and the head of the woman [is] the man; and the head of Christ [is] God.
 <small><sub>**BSB:**</sub></small>
 But I want you to understand that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.
 <small><sub>**Literal:**</sub></small>
 I want however you to know that of every man the head <the> Christ is, [the] head now of [the] woman [is] the man; [the] head now <the> of Christ <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.2|<< 1 Corinthians 11:2]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.4|1 Corinthians 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I want |**<big>[[G2309\|Θέλω]]</big>**  |Thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

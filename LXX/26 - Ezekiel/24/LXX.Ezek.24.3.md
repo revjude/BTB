@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:3** 
 <small><sub>**LXX:**</sub></small>
 And speak a parable against the rebelling house! And you shall say to them, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Set up the kettle! Set up and pour water into it! 
-<small><sub>**KJV:**</sub></small>
-And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set [it] on, and also pour water into it:
-<small><sub>**BSB:**</sub></small>
-Now speak a parable to this rebellious house and tell them that this is what the Lord GOD says: ‘Put the pot on the fire; put it on and pour in the water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.2|<< Ezekiel 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.4|Ezekiel 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

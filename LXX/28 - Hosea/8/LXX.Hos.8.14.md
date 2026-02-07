@@ -1,10 +1,7 @@
 **LXX Hosea 8:14** 
 <small><sub>**LXX:**</sub></small>
 And Israel forgot the one making him. And they built sacred precincts, and Judah multiplied cities being walled up. And I will send out fire unto  his cities, and it shall devour  his foundations. 
-<small><sub>**KJV:**</sub></small>
-For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.
-<small><sub>**BSB:**</sub></small>
-Israel has forgotten his Maker and built palaces; Judah has multiplied its fortified cities. But I will send fire upon their cities, and it will consume their citadels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.13|<< Hosea 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.1|Hosea 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

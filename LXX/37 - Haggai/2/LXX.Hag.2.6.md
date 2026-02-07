@@ -1,10 +1,7 @@
 **LXX Haggai 2:6** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> almighty, Still once I shall shake the heaven, and the earth, and the sea, and the dry \[land\]. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts; Yet once, it [is] a little while, and I will shake the heavens, and the earth, and the sea, and the dry [land];
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts says: “Once more, in a little while, I will shake the heavens and the earth, the sea and the dry land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.5|<< Haggai 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.7|Haggai 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Haggai 2:6** is...

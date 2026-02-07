@@ -1,10 +1,7 @@
 **LXX Job 38:39** 
 <small><sub>**LXX:**</sub></small>
 And will you hunt a prey for \[the\] lions? and fill up \[the\] souls of dragons? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,
-<small><sub>**BSB:**</sub></small>
-Can you hunt the prey for a lioness or satisfy the hunger of young lions<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.38|<< Job 38:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.40|Job 38:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 57:3** 
 <small><sub>**LXX:**</sub></small>
 But you lead forward here, O lawless sons, seed of adulterers, and of a harlot! 
-<small><sub>**KJV:**</sub></small>
-But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.
-<small><sub>**BSB:**</sub></small>
-“But come here, you sons of a sorceress, you offspring of adulterers and prostitutes!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.2|<< Isaiah 57:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.4|Isaiah 57:4 >>]]</td></tr></table>
 
 | Translation | Greek |

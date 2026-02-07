@@ -1,4 +1,4 @@
-**Ezra 2:41** 
+**Ezra 2:41**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The singers: the children of Asaph, an hundred twenty and eight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The singers: the descendants of Asaph, 128.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.40|<< Ezra 2:40]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.42|Ezra 2:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the singers  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H7891\|מְשֹׁרְרִ֑ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.sho.re.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

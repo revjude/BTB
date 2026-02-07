@@ -1,10 +1,7 @@
 **LXX Leviticus 23:31** 
 <small><sub>**LXX:**</sub></small>
 All work you shall not do; \[it is\] an eternal law unto  your generations in all  your houses. 
-<small><sub>**KJV:**</sub></small>
-Ye shall do no manner of work: [it shall be] a statute for ever throughout your generations in all your dwellings.
-<small><sub>**BSB:**</sub></small>
-You are not to do any work at all. This is a permanent statute for the generations to come, wherever you live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.30|<< Leviticus 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.32|Leviticus 23:32 >>]]</td></tr></table>
 
 | Translation | Greek |

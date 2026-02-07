@@ -1,10 +1,7 @@
 **LXX Job 39:17** 
 <small><sub>**LXX:**</sub></small>
 For God quelled her wisdom, and portioned not to her with  understanding. 
-<small><sub>**KJV:**</sub></small>
-Because God hath deprived her of wisdom, neither hath he imparted to her understanding.
-<small><sub>**BSB:**</sub></small>
-For God has deprived her of wisdom; He has not endowed her with understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.16|<< Job 39:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.18|Job 39:18 >>]]</td></tr></table>
 
 | Translation | Greek |

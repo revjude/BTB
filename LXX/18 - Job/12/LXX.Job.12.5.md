@@ -1,10 +1,7 @@
 **LXX Job 12:5** 
 <small><sub>**LXX:**</sub></small>
 For at an appointed time \[man\] had been prepared to fall under others; also for his house to be pillaged by lawless ones. But let not however any one being wicked rely on he shall be \[considered\] innocent; 
-<small><sub>**KJV:**</sub></small>
-He that is ready to slip with [his] feet [is as] a lamp despised in the thought of him that is at ease.
-<small><sub>**BSB:**</sub></small>
-The one at ease scorns misfortune as the fate of those whose feet are slipping.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.4|<< Job 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.6|Job 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 28:7** 
+**1 Chronicles 28:7**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will establish his kingdom forever, if he resolutely carries out My commandmen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.6|<< 1 Chronicles 28:6]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.8|1 Chronicles 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will establish  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3559H\|הֲכִינוֹתִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.khi.no.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

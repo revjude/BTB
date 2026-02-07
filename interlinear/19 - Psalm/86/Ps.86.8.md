@@ -1,4 +1,4 @@
-**Psalms 86:8** 
+**Psalms 86:8**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the gods [there is] none like unto thee, O Lord; neither [are there any works] like unto thy works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, there is none like You among the gods, nor any works like Yours.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.7|<< Psalms 86:7]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.9|Psalms 86:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like you  |**<big>&#8207;[[H3644G\|כָּמ֖וֹ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ka.Mo.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

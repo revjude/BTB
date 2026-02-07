@@ -1,12 +1,12 @@
-**Romans 1:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:8**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 <small><sub>**BSB:**</sub></small>
 First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world.
 <small><sub>**Literal:**</sub></small>
 First indeed I thank the God of mine through Jesus Christ for all of you because the faith of you is being proclaimed in all the world;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.7|<< Romans 1:7]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.9|Romans 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | First |**<big>[[G4413G\|Πρῶτον]]</big>**  |Prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

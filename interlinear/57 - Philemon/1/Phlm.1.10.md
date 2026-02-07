@@ -1,12 +1,12 @@
-**Philemon 1:10
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:10**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I beseech thee for my son Onesimus, whom I have begotten in my bonds:
 <small><sub>**BSB:**</sub></small>
 I appeal to you for my child Onesimus, whose father I became while I was in chains.
 <small><sub>**Literal:**</sub></small>
 I exhort you for <the> my child whom I have begotten in the chains of mine Onesimus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.9|<< Philemon 1:9]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.11|Philemon 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I exhort |**<big>[[G3870\|παρακαλῶ]]</big>**  |parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to the sons of Israel, Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, saying, I led  Israel from out of Egypt, and I rescued you from \[the\] hand of Pharaoh king of Egypt, and from \[the\] hand of all the kingdoms of the ones afflicting you. 
-<small><sub>**KJV:**</sub></small>
-And said unto the children of Israel, Thus saith the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, [and] of them that oppressed you:
-<small><sub>**BSB:**</sub></small>
-and said to the Israelites, “This is what the LORD, the God of Israel, says: ‘I brought Israel up out of Egypt, and I rescued you from the hands of the Egyptians and of all the kingdoms that oppressed you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.17|<< 1 Samuel 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.19|1 Samuel 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

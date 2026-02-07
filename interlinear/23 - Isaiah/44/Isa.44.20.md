@@ -1,4 +1,4 @@
-**Isaiah 44:20** 
+**Isaiah 44:20**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He feedeth on ashes: a deceived heart hath turned him aside, that he cannot deliver his soul, nor say, [Is there] not a lie in my right hand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He feeds on ashes. His deluded heart has led him astray, and he cannot deliver h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.19|<< Isaiah 44:19]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.21|Isaiah 44:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] feeding  |**<big>&#8207;[[H7462B\|רֹעֶ֣ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ash[es]  |**<big>&#8207;[[H0665\|אֵ֔פֶר]]&#8207; </big>**| 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

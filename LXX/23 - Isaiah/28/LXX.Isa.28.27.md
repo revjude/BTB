@@ -1,10 +1,7 @@
 **LXX Isaiah 28:27** 
 <small><sub>**LXX:**</sub></small>
 For not with hardness \[is the\] pepperwort cleansed, nor shall \[the\] wheel of a wagon lead about upon the cummin; but the pepperwort \[is\] shaken off by a rod. 
-<small><sub>**KJV:**</sub></small>
-For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.
-<small><sub>**BSB:**</sub></small>
-Surely caraway is not threshed with a sledge, and the wheel of a cart is not rolled over the cumin. But caraway is beaten out with a stick, and cumin with a rod.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.26|<< Isaiah 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.28|Isaiah 28:28 >>]]</td></tr></table>
 
 | Translation | Greek |

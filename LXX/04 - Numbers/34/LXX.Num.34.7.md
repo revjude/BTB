@@ -1,10 +1,7 @@
 **LXX Numbers 34:7** 
 <small><sub>**LXX:**</sub></small>
 And this will be to you the boundaries towards \[the\] north. From the great sea you shall measure them to yourselves by the mountain. 
-<small><sub>**KJV:**</sub></small>
-And this shall be your north border: from the great sea ye shall point out for you mount Hor:
-<small><sub>**BSB:**</sub></small>
-Your northern border will run from the Great Sea directly to Mount Hor,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.6|<< Numbers 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.8|Numbers 34:8 >>]]</td></tr></table>
 
 | Translation | Greek |

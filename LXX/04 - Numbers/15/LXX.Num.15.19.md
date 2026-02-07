@@ -1,10 +1,7 @@
 **LXX Numbers 15:19** 
 <small><sub>**LXX:**</sub></small>
 that it will be whenever you yourselves should eat from the bread loaves of the land, you shall remove a cut-away portion \[as\] a separation \[offering\] to the <span class="smallcaps">lord</span>, a first-fruit of your batch \[of dough\]. 
-<small><sub>**KJV:**</sub></small>
-Then it shall be, that, when ye eat of the bread of the land, ye shall offer up an heave offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-and you eat the food of the land, you shall lift up an offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.18|<< Numbers 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.20|Numbers 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

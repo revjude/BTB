@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:15** 
 <small><sub>**LXX:**</sub></small>
 Seven days you shall solemnize a holiday \[to the\] <span class="smallcaps">lord</span>  your God in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose for himself. But if \[the\] <span class="smallcaps">lord</span> your God should bless you in all  your offspring, and in every work  of your hands, then you shall be glad. 
-<small><sub>**KJV:**</sub></small>
-Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose: because the LORD thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice.
-<small><sub>**BSB:**</sub></small>
-For seven days you shall celebrate a feast to the LORD your God in the place He will choose, because the LORD your God will bless you in all your produce and in all the work of your hands, so that your joy will be complete.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.14|<< Deuteronomy 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.16|Deuteronomy 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

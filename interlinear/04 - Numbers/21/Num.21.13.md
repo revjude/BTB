@@ -1,4 +1,4 @@
-**Numbers 21:13** 
+**Numbers 21:13**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thence they removed, and pitched on the other side of Arnon, which [is] in the wilderness that cometh out of the coasts of the Amorites: for Arnon [is] the border of Moab, between Moab and the Amorites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there they moved on and camped on the other side of the Arnon, in the wilde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.12|<< Numbers 21:12]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.14|Numbers 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁם֮]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they set out  |**<big>&#8207;[[H5265\|נָסָעוּ֒]]&#8207; </big>**| na.sa.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

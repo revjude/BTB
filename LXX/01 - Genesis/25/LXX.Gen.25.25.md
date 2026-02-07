@@ -1,10 +1,7 @@
 **LXX Genesis 25:25** 
 <small><sub>**LXX:**</sub></small>
 And came forth the first-born fiery red entirely, and of hairy skin. And she named  his name Esau. 
-<small><sub>**KJV:**</sub></small>
-And the first came out red, all over like an hairy garment; and they called his name Esau.
-<small><sub>**BSB:**</sub></small>
-The first one came out red, covered with hair like a fur coat; so they named him Esau.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.24|<< Genesis 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.26|Genesis 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

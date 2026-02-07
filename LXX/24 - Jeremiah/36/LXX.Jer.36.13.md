@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:13** 
 <small><sub>**LXX:**</sub></small>
 And Michaiah announced to them all the words which he heard Baruch reading in \[the\] scroll, in the ears of the people. 
-<small><sub>**KJV:**</sub></small>
-Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.
-<small><sub>**BSB:**</sub></small>
-And Micaiah reported to them all the words he had heard Baruch read from the scroll in the hearing of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.12|<< Jeremiah 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.14|Jeremiah 36:14 >>]]</td></tr></table>
 
 | Translation | Greek |

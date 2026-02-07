@@ -1,12 +1,12 @@
-**Luke 1:72
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:72**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To perform the mercy [promised] to our fathers, and to remember his holy covenant;
 <small><sub>**BSB:**</sub></small>
 to show mercy to our fathers and to remember His holy covenant,
 <small><sub>**Literal:**</sub></small>
 to fulfill mercy toward the fathers of us, and to remember [the] covenant holy of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.71|<< Luke 1:71]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.73|Luke 1:73 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to fulfill |**<big>[[G4160G\|ποιῆσαι]]</big>**  |poiēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mercy |**<big>[[G1656\|ἔλεος]]</big>**  |eleos <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:29** 
 <small><sub>**LXX:**</sub></small>
 And there ascended  an exiting from out of Egypt -- a chariot for six hundred \[pieces\] of silver, and a horse for a hundred fifty \[pieces\] of silver. And thus for all the kings of \[the\] Hittites, and to the kings of Syria, by their hand they came forth. 
-<small><sub>**KJV:**</sub></small>
-And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
-<small><sub>**BSB:**</sub></small>
-A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.28|<< 1 Kings 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.1|1 Kings 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

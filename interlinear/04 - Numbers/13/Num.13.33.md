@@ -1,4 +1,4 @@
-**Numbers 13:33** 
+**Numbers 13:33**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there we saw the giants, the sons of Anak, [which come] of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We even saw the Nephilim there—the descendants of Anak that come from the Neph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.32|<< Numbers 13:32]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.1|Numbers 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we saw  |**<big>&#8207;[[H7200G\|רָאִ֗ינוּ]]&#8207; </big>**| ra.'I.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

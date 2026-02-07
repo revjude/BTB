@@ -1,12 +1,12 @@
-**Acts 21:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:6**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had taken our leave one of another, we took ship; and they returned home again.
 <small><sub>**BSB:**</sub></small>
 And after we had said our farewells, we went aboard the ship, and they returned home.
 <small><sub>**Literal:**</sub></small>
 we greeted one another and we went up into the boat, they then returned to <the> [their] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.5|<< Acts 21:5]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.7|Acts 21:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we greeted [^1] |**<big>[[G0782\|ἀπησπασάμεθα]]</big>**  |apēspasametha <small><sup>[[V-AMI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | one another |**<big>[[G0240\|ἀλλήλους]]</big>**  |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

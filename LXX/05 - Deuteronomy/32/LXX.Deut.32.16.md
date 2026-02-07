@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:16** 
 <small><sub>**LXX:**</sub></small>
 They provoked me over \[the\] alien \[ones\]; in their abominations they greatly embittered me. 
-<small><sub>**KJV:**</sub></small>
-They provoked him to jealousy with strange [gods], with abominations provoked they him to anger.
-<small><sub>**BSB:**</sub></small>
-They provoked His jealousy with foreign gods; they enraged Him with abominations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.15|<< Deuteronomy 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.17|Deuteronomy 32:17 >>]]</td></tr></table>
 
 | Translation | Greek |

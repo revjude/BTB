@@ -1,10 +1,7 @@
 **LXX Isaiah 49:13** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O heavens, and exult, O earth! Break asunder, O mountains, with gladness! for God showed mercy on  his people, and the humble  of his people he comforted. 
-<small><sub>**KJV:**</sub></small>
-Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.
-<small><sub>**BSB:**</sub></small>
-Shout for joy, O heavens; rejoice, O earth; break forth in song, O mountains! For the LORD has comforted His people, and He will have compassion on His afflicted ones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.12|<< Isaiah 49:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.14|Isaiah 49:14 >>]]</td></tr></table>
 
 | Translation | Greek |

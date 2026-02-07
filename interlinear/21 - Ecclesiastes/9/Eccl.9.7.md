@@ -1,4 +1,4 @@
-**Ecclesiastes 9:7** 
+**Ecclesiastes 9:7**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go, eat your bread with joy, and drink your wine with a cheerful heart, for God 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.6|<< Ecclesiastes 9:6]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.8|Ecclesiastes 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵ֣ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eat  |**<big>&#8207;[[H0398\|אֱכֹ֤ל]]&#8207; </big>**| 'e.Khol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

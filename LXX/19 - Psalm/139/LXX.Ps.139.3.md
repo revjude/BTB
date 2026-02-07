@@ -1,10 +1,7 @@
 **LXX Psalm 139:3** 
 <small><sub>**LXX:**</sub></small>
  My path and  my \[bent\] rush \[grass\] you traced; and all  my ways you looked out ahead. 
-<small><sub>**KJV:**</sub></small>
-Thou compassest my path and my lying down, and art acquainted [with] all my ways.
-<small><sub>**BSB:**</sub></small>
-You search out my path and my lying down; You are aware of all my ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.2|<< Psalm 139:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.4|Psalm 139:4 >>]]</td></tr></table>
 
 | Translation | Greek |

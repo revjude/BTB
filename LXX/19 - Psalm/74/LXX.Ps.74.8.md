@@ -1,10 +1,7 @@
 **LXX Psalm 74:8** 
 <small><sub>**LXX:**</sub></small>
 Their kin together said in their heart, Come and let us cause to cease all the holidays  of God from the land! 
-<small><sub>**KJV:**</sub></small>
-They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.
-<small><sub>**BSB:**</sub></small>
-They said in their hearts, “We will crush them completely.” They burned down every place where God met us in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.7|<< Psalm 74:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.9|Psalm 74:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:18** 
 <small><sub>**LXX:**</sub></small>
 And \[for\] many days Joshua made war against all these kings. 
-<small><sub>**KJV:**</sub></small>
-Joshua made war a long time with all those kings.
-<small><sub>**BSB:**</sub></small>
-Joshua waged war against all these kings for a long period of time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.17|<< Joshua 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.19|Joshua 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**John 19:37
-**<small><sub>**KJV:**</sub></small>
+**John 19:37**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again another scripture saith, They shall look on him whom they pierced.
 <small><sub>**BSB:**</sub></small>
 And, as another Scripture says: “They will look on the One they have pierced.”
@@ -10,7 +10,7 @@ And again another Scripture says: They will behold on the [One] they have pierce
 > $\quad$ referencing: [[LXX.Zech.12.10|Zech 12:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

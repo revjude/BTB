@@ -1,4 +1,4 @@
-**Zechariah 14:2** 
+**Zechariah 14:2**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For I will gather all the nations for battle against Jerusalem, and the city wil
 > $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will gather  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0622\|אָסַפְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.saf.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

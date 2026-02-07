@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:36** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah and all the people were glad, because  God prepared the people; for the matter happened suddenly. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was [done] suddenly.
-<small><sub>**BSB:**</sub></small>
-Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.35|<< 2 Chronicles 29:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.1|2 Chronicles 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

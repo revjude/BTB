@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:35** 
 <small><sub>**LXX:**</sub></small>
 and Joel, and Jehu son of Josibiah, son of Seraiah, son of Asiel, 
-<small><sub>**KJV:**</sub></small>
-And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,
-<small><sub>**BSB:**</sub></small>
-Joel, Jehu son of Joshibiah (son of Seraiah, son of Asiel),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.34|<< 1 Chronicles 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.36|1 Chronicles 4:36 >>]]</td></tr></table>
 
 | Translation | Greek |

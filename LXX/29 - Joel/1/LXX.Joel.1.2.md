@@ -1,10 +1,7 @@
 **LXX Joel 1:2** 
 <small><sub>**LXX:**</sub></small>
 Hear these \[things\], O elders, and give ear all  dwelling the land! Have such \[things\] taken place in  your days, or in the days  of your fathers? 
-<small><sub>**KJV:**</sub></small>
-Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?
-<small><sub>**BSB:**</sub></small>
-Hear this, O elders; and give ear, all who dwell in the land. Has anything like this ever happened in your days or in the days of your fathers?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.1|<< Joel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.3|Joel 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

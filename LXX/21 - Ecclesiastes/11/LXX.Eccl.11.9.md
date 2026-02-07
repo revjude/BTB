@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 11:9** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O young man, in your youth! and your heart do you good in \[the\] days of your youth! And walk in \[the\] ways of your heart unblemished, and in \[the\] vision of your eyes! And know that in all these God shall lead you in equity! 
-<small><sub>**KJV:**</sub></small>
-Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these [things] God will bring thee into judgment.
-<small><sub>**BSB:**</sub></small>
-Rejoice, O young man, while you are young, and let your heart be glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you to judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.8|<< Ecclesiastes 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.10|Ecclesiastes 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

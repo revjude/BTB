@@ -1,4 +1,4 @@
-**Psalms 121:8** 
+**Psalms 121:8**<big><big>[[Ps.121.1 I Lift Up My Eyes to the Hills|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will watch over your coming and going, both now and forevermore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.121.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.7|<< Psalms 121:7]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.0|Psalms 122:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will protect  |**<big>&#8207;[[H8104H\|יִשְׁמָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.mor-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

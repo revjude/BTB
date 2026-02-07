@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:13** 
 <small><sub>**LXX:**</sub></small>
 And he raised up high the sheepskin of Elijah which fell on top of him. And Elisha turned, and stood upon the edge of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;
-<small><sub>**BSB:**</sub></small>
-Elisha also picked up the cloak that had fallen from Elijah, and he went back and stood on the bank of the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.12|<< 2 Kings 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.14|2 Kings 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Amos 7:7** 
 <small><sub>**LXX:**</sub></small>
 So \[the\] <span class="smallcaps">lord</span> showed to me. And behold, \[the\] Lord was standing upon a wall of adamantine, and in  his hand adamant. 
-<small><sub>**KJV:**</sub></small>
-Thus he shewed me: and, behold, the Lord stood upon a wall [made] by a plumbline, with a plumbline in his hand.
-<small><sub>**BSB:**</sub></small>
-This is what He showed me: Behold, the Lord was standing by a wall true to plumb, with a plumb line in His hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.6|<< Amos 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.8|Amos 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

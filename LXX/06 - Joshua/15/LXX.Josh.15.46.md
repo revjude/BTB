@@ -1,10 +1,7 @@
 **LXX Joshua 15:46** 
 <small><sub>**LXX:**</sub></small>
 From Ekron and unto \[the\] sea, Jemnath and all as much as are neighboring Ashdod, and  their towns. 
-<small><sub>**KJV:**</sub></small>
-From Ekron even unto the sea, all that [lay] near Ashdod, with their villages:
-<small><sub>**BSB:**</sub></small>
-from Ekron to the sea, all the cities near Ashdod, along with their villages;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.45|<< Joshua 15:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.47|Joshua 15:47 >>]]</td></tr></table>
 
 | Translation | Greek |

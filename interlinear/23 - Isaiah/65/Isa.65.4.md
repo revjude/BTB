@@ -1,4 +1,4 @@
-**Isaiah 65:4** 
+**Isaiah 65:4**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which remain among the graves, and lodge in the monuments, which eat swine’s flesh, and broth of abominable [things is in] their vessels;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ sitting among the graves, spending nights in secret places, eating the meat of p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.3|<< Isaiah 65:3]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.5|Isaiah 65:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who sit  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|יֹּֽשְׁבִים֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the graves  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6913\|קְּבָרִ֔ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ke.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

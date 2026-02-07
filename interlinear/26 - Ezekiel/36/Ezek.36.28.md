@@ -1,4 +1,4 @@
-**Ezekiel 36:28** 
+**Ezekiel 36:28**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will live in the land that I gave your forefathers; you will be My peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.27|<< Ezekiel 36:27]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.29|Ezekiel 36:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will dwell  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H3427\|ישַׁבְתֶּ֣ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> shav.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

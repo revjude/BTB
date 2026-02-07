@@ -1,10 +1,7 @@
 **LXX Proverbs 2:20** 
 <small><sub>**LXX:**</sub></small>
 For if they went by good paths, they would have found even \[the\] paths of righteousness smooth. \[The\] inhabitants of \[the\] earth will be gracious, and \[the\] guileless will be left behind in her. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest walk in the way of good [men], and keep the paths of the righteous.
-<small><sub>**BSB:**</sub></small>
-So you will follow in the ways of the good, and keep to the paths of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.19|<< Proverbs 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.21|Proverbs 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

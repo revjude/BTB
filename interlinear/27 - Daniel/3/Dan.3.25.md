@@ -1,4 +1,4 @@
-**Daniel 3:25** 
+**Daniel 3:25**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He answered and said, Lo, I see four men loose, walking in the midst of the fire
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he was] replying  |**<big>&#8207;[[H6032\|עָנֵ֣ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [he was] saying  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0560\|אָמַ֗ר]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

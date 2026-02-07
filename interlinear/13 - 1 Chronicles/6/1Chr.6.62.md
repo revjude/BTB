@@ -1,4 +1,4 @@
-**1 Chronicles 6:62** (6:47)
+**1 Chronicles 6:62**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Gershomites, according to their clans, were allotted thirteen cities from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.61|<< 1 Chronicles 6:61]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.63|1 Chronicles 6:63 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] descendants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gershom  |**<big>&#8207;[[H1647H\|גֵרְשׁ֜וֹם]]&#8207; </big>**| ge.re.Shom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

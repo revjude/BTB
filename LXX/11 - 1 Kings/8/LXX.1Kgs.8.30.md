@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:30** 
 <small><sub>**LXX:**</sub></small>
 Then you shall hearken to the supplication  of your servant, and  of your people Israel, as many \[things\] as they should pray in  this place. And you should hear in  your dwelling place in heaven, and you shall do; and you shall be propitious, 
-<small><sub>**KJV:**</sub></small>
-And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.
-<small><sub>**BSB:**</sub></small>
-Hear the plea of Your servant and of Your people Israel when they pray toward this place. May You hear from heaven, Your dwelling place. May You hear and forgive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.29|<< 1 Kings 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.31|1 Kings 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 22:10** 
 <small><sub>**LXX:**</sub></small>
 And if any should give to the neighbor a beast of burden, or a calf, or sheep, or any cattle to guard; and it should break, or come to an end, or become captive, and no one should know, 
-<small><sub>**KJV:**</sub></small>
-If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing [it]:
-<small><sub>**BSB:**</sub></small>
-If a man gives a donkey, an ox, a sheep, or any other animal to be cared for by his neighbor, but it dies or is injured or stolen while no one is watching,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.9|<< Exodus 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.11|Exodus 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

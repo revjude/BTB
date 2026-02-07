@@ -1,4 +1,4 @@
-**1 Samuel 15:29** 
+**1 Samuel 15:29**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also the Strength of Israel will not lie nor repent: for he [is] not a man, that he should repent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the Glory of Israel does not lie or change His mind, for He is not a m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.28|<< 1 Samuel 15:28]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.30|1 Samuel 15:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] eminence of  |**<big>&#8207;[[H5331\|נֵ֣צַח]]&#8207; </big>**| Ne.tzach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

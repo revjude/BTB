@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:16** 
 <small><sub>**LXX:**</sub></small>
 And Joab trumped with the trumpet, and the people returned  to not pursue after Israel, for Joab spared the people. 
-<small><sub>**KJV:**</sub></small>
-And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.
-<small><sub>**BSB:**</sub></small>
-Then Joab blew the ram’s horn, and the troops broke off their pursuit of Israel because Joab had restrained them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.15|<< 2 Samuel 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.17|2 Samuel 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

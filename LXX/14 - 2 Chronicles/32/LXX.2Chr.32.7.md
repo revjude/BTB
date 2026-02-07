@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:7** 
 <small><sub>**LXX:**</sub></small>
 Be strong and be manly! fear not, nor be terrified from \[the\] face of \[the\] king of Assyria, nor from \[the\] face of any of the nations  with him! for with us \[are\] more over the ones with him. 
-<small><sub>**KJV:**</sub></small>
-Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that [is] with him: for [there be] more with us than with him:
-<small><sub>**BSB:**</sub></small>
-“Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.6|<< 2 Chronicles 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.8|2 Chronicles 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

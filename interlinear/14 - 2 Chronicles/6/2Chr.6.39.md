@@ -1,4 +1,4 @@
-**2 Chronicles 6:39** 
+**2 Chronicles 6:39**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then hear thou from the heavens, [even] from thy dwelling place, their prayer and their supplications, and maintain their cause, and forgive thy people which have sinned against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may You hear from heaven, Your dwelling place, their prayer and pleas, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.38|<< 2 Chronicles 6:38]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.40|2 Chronicles 6:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמַעְתָּ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.ma'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 20:5** 
 <small><sub>**LXX:**</sub></small>
 And came to pass yet again war with the Philistines. And Elhanan son of Jair struck  Lahmi brother of Goliath the Gittite; and \[the\] wood of his spear \[was\] as \[the\] beam of a loom of one weaving. 
-<small><sub>**KJV:**</sub></small>
-And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff [was] like a weaver’s beam.
-<small><sub>**BSB:**</sub></small>
-Once again there was a battle with the Philistines, and Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.4|<< 1 Chronicles 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.6|1 Chronicles 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

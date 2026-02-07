@@ -1,4 +1,4 @@
-**Jeremiah 52:18** 
+**Jeremiah 52:18**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.17|<< Jeremiah 52:17]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.19|Jeremiah 52:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pots  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H5518A\|סִּרוֹת]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> si.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

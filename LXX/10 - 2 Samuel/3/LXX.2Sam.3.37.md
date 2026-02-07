@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:37** 
 <small><sub>**LXX:**</sub></small>
 And all the people knew, and all Israel in  that day, that the putting to death of Abner son of Ner happened not by the king. 
-<small><sub>**KJV:**</sub></small>
-For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.
-<small><sub>**BSB:**</sub></small>
-So on that day all the troops and all Israel were convinced that the king had no part in the murder of Abner son of Ner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.36|<< 2 Samuel 3:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.38|2 Samuel 3:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 16:22** 
+**Numbers 16:22**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Moses and Aaron fell facedown and said, “O God, the God of the spirits of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.21|<< Numbers 16:21]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.23|Numbers 16:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יִּפְּל֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.pe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

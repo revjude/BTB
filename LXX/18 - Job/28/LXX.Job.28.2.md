@@ -1,10 +1,7 @@
 **LXX Job 28:2** 
 <small><sub>**LXX:**</sub></small>
 For iron comes from out of \[the\] earth, and brass equally is quarried \[like\] stone. 
-<small><sub>**KJV:**</sub></small>
-Iron is taken out of the earth, and brass [is] molten [out of] the stone.
-<small><sub>**BSB:**</sub></small>
-Iron is taken from the earth, and copper is smelted from ore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.1|<< Job 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.3|Job 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

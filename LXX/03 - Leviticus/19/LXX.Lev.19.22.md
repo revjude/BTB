@@ -1,10 +1,7 @@
 **LXX Leviticus 19:22** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall atone for him with the ram of the trespass \[offering\] before \[the\] <span class="smallcaps">lord</span> for  his sin of which he sinned; and the sin shall be forgiven him which he sinned. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.
-<small><sub>**BSB:**</sub></small>
-The priest shall make atonement on his behalf before the LORD with the ram of the guilt offering for the sin he has committed, and he will be forgiven the sin he has committed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.21|<< Leviticus 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.23|Leviticus 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

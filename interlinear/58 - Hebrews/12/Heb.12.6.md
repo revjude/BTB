@@ -1,5 +1,5 @@
-**Hebrews 12:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:6**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
 <small><sub>**BSB:**</sub></small>
 For the Lord disciplines the one He loves, and He chastises every son He receives.”
@@ -10,7 +10,7 @@ Whom for He loves [the] Lord disciplines, He scourges now every son whom He rece
 > $\quad$ referencing: [[LXX.Prov.3.11|Prov 3:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

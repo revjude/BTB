@@ -1,12 +1,12 @@
-**Luke 18:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:42**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Receive thy sight: thy faith hath saved thee.
 <small><sub>**BSB:**</sub></small>
 “Receive your sight!” Jesus replied. “Your faith has healed you.”
 <small><sub>**Literal:**</sub></small>
 And <the> Jesus said to him; do receive sight: The faith of you has healed you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.41|<< Luke 18:41]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.43|Luke 18:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

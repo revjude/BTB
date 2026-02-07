@@ -1,12 +1,12 @@
-**Matthew 25:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:36**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.
 <small><sub>**BSB:**</sub></small>
 I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’
 <small><sub>**Literal:**</sub></small>
 naked and you clothed Me, I was sick and you visited Me, in prison I was and you came to Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.35|<< Matthew 25:35]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.37|Matthew 25:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | naked |**<big>[[G1131\|γυμνὸς]]</big>**  |gumnos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:5** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; This  \[is\] Jerusalem; I have placed her in \[the\] midst of the nations, and the ones round about her place. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; This [is] Jerusalem: I have set it in the midst of the nations and countries [that are] round about her.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘This is Jerusalem, which I have set in the center of the nations, with countries all around her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.4|<< Ezekiel 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.6|Ezekiel 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

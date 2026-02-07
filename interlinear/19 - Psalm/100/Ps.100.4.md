@@ -1,4 +1,4 @@
-**Psalms 100:4** 
+**Psalms 100:4**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Enter His gates with thanksgiving and His courts with praise; give thanks to Him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.3|<< Psalms 100:3]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.5|Psalms 100:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H0935G\|בֹּ֤אוּ]]&#8207; </big>**| Bo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gates his  |**<big>&#8207;[[H8179G\|שְׁעָרָ֨י]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| she.'a.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

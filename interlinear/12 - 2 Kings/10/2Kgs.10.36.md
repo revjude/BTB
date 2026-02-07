@@ -1,4 +1,4 @@
-**2 Kings 10:36** 
+**2 Kings 10:36**<big><big>[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that Jehu reigned over Israel in Samaria [was] twenty and eight years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the duration of Jehu’s reign over Israel in Samaria was twenty-eight years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.35|<< 2 Kings 10:35]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.1|2 Kings 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the days  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

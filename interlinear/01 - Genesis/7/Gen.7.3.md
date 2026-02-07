@@ -1,4 +1,4 @@
-**Genesis 7:3** 
+**Genesis 7:3**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and seven pairs of every kind of bird of the air, male and female, to preserve t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.2|<< Genesis 7:2]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.4|Genesis 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] bird[s] of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5775\|ע֧וֹף]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'of<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 6:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:10**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
 <small><sub>**BSB:**</sub></small>
 And after looking around at all of them, He said to the man, “Stretch out your hand.” He did so, and it was restored.
 <small><sub>**Literal:**</sub></small>
 And having looked around all on them He said to him; do stretch out the hand of you. <the> And he did thus; and was restored the hand of him sound as <the> another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.9|<< Luke 6:9]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.11|Luke 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked around |**<big>[[G4017\|περιβλεψάμενος]]</big>**  |periblepsamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

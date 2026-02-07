@@ -1,4 +1,4 @@
-**Job 11:14** 
+**Job 11:14**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If iniquity [be] in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if you put away the iniquity in your hand, and allow no injustice to dwell in yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.13|<< Job 11:13]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.15|Job 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness  |**<big>&#8207;[[H0205G\|אָ֣וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 14:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:18**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.
 <small><sub>**BSB:**</sub></small>
 And while they were reclining and eating, Jesus said, “Truly I tell you, one of you who is eating with Me will betray Me.”
 <small><sub>**Literal:**</sub></small>
 And when were reclining they and were eating <the> Jesus said: Amen I say to you that one of you will betray Me, who is eating with Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.17|<< Mark 14:17]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.19|Mark 14:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when were reclining |**<big>[[G0345\|ἀνακειμένων]]</big>**  |anakeimenōn <small><sup>[[V-PNP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

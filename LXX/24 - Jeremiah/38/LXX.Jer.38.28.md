@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:28** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah stayed in the courtyard of the guard until a time of which Jerusalem was seized. 
-<small><sub>**KJV:**</sub></small>
-So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was [there] when Jerusalem was taken.
-<small><sub>**BSB:**</sub></small>
-And Jeremiah remained in the courtyard of the guard until the day Jerusalem was captured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.27|<< Jeremiah 38:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.1|Jeremiah 39:1 >>]]</td></tr></table>
 
 | Translation | Greek |

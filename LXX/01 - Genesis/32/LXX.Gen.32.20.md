@@ -1,10 +1,7 @@
 **LXX Genesis 32:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Behold,  your servant Jacob comes after us. For he said, I will appease  his face by the gifts  going before him; and after this I will see  his countenance, for perhaps he will favorably receive  my person. 
-<small><sub>**KJV:**</sub></small>
-And say ye moreover, Behold, thy servant Jacob [is] behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
-<small><sub>**BSB:**</sub></small>
-You are also to say, ‘Look, your servant Jacob is right behind us.’” For he thought, “I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.19|<< Genesis 32:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.21|Genesis 32:21 >>]]</td></tr></table>
 
 | Translation | Greek |

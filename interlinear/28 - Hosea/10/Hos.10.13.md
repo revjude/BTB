@@ -1,4 +1,4 @@
-**Hosea 10:13** 
+**Hosea 10:13**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have plowed wickedness and reaped injustice; you have eaten the fruit of lie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.12|<< Hosea 10:12]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.14|Hosea 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have plowed  |**<big>&#8207;[[H2790A\|חֲרַשְׁתֶּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.rash.tem-<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness  |**<big>&#8207;[[H7562\|רֶ֛שַׁע]]&#8207; </big>**| Re.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

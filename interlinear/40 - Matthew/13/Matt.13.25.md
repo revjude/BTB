@@ -1,12 +1,12 @@
-**Matthew 13:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:25**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But while men slept, his enemy came and sowed tares among the wheat, and went his way.
 <small><sub>**BSB:**</sub></small>
 But while everyone was asleep, his enemy came and sowed weeds among the wheat, and slipped away.
 <small><sub>**Literal:**</sub></small>
 In now the [time] to sleep the men came his <the> enemy and over-sowed weeds in [the] midst of the wheat and went away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.24|<< Matthew 13:24]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.26|Matthew 13:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

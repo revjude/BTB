@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:27** 
 <small><sub>**LXX:**</sub></small>
 And the king made  silver in Jerusalem as stones, and he made the cedars as \[the\] sycamine trees, the ones in the plain in multitude. 
-<small><sub>**KJV:**</sub></small>
-And the king made silver in Jerusalem as stones, and cedar trees made he as the sycomore trees that [are] in the low plains in abundance.
-<small><sub>**BSB:**</sub></small>
-The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.26|<< 2 Chronicles 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.28|2 Chronicles 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

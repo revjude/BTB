@@ -1,12 +1,12 @@
-**Luke 10:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:2**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore said he unto them, The harvest truly [is] great, but the labourers [are] few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.
 <small><sub>**BSB:**</sub></small>
 And He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest.
 <small><sub>**Literal:**</sub></small>
 He was saying then to them; The indeed harvest [is] plentiful, <the> however the workmen [are] few; do pray earnestly therefore to the Lord of the harvest that workmen He may send out into the harvest of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.1|<< Luke 10:1]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.3|Luke 10:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] [^2] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:16** 
 <small><sub>**LXX:**</sub></small>
 And you turned and profaned  my covenant,  to return each  his manservant, and each  his maidservant, whom you sent out as ones free  in their soul, and you subjected them \[again\]  to be to you for manservants and maidservants. 
-<small><sub>**KJV:**</sub></small>
-But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.
-<small><sub>**BSB:**</sub></small>
-But now you have changed your minds and profaned My name. Each of you has taken back the menservants and maidservants whom you had set at liberty to go wherever they wanted, and you have again forced them to be your slaves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.15|<< Jeremiah 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.17|Jeremiah 34:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 16:3** 
+**Deuteronomy 16:3**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, [even] the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not eat leavened bread with it; for seven days you are to eat with it u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.2|<< Deuteronomy 16:2]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.4|Deuteronomy 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will eat  |**<big>&#8207;[[H0398\|תֹאכַ֤ל]]&#8207; </big>**| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

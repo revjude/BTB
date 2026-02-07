@@ -1,10 +1,7 @@
 **LXX Leviticus 10:12** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to Aaron, and to Eleazar and Ithamar, the sons of his  being left, You take the sacrifice \[offering\]  being left from the yield \[offerings\] of \[the\] <span class="smallcaps">lord</span>, and eat unleavened \[breads\] by the altar! For it is a holy of holies. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the LORD made by fire, and eat it without leaven beside the altar: for it [is] most holy:
-<small><sub>**BSB:**</sub></small>
-And Moses said to Aaron and his remaining sons, Eleazar and Ithamar, “Take the grain offering that remains from the food offerings to the LORD and eat it without leaven beside the altar, because it is most holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.11|<< Leviticus 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.13|Leviticus 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

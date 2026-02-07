@@ -1,4 +1,4 @@
-**2 Chronicles 18:9** 
+**2 Chronicles 18:9**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in [their] robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] king of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֡ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

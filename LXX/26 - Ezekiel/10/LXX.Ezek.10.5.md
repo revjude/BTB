@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sound of the wings of the cherubim was heard unto  the outer courtyard, as \[the\] sound of God Saddai speaking. 
-<small><sub>**KJV:**</sub></small>
-And the sound of the cherubims’ wings was heard [even] to the outer court, as the voice of the Almighty God when he speaketh.
-<small><sub>**BSB:**</sub></small>
-The sound of the wings of the cherubim could be heard as far as the outer court, like the voice of God Almighty when He speaks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.4|<< Ezekiel 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.6|Ezekiel 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

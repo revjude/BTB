@@ -1,10 +1,7 @@
 **LXX Genesis 11:31** 
 <small><sub>**LXX:**</sub></small>
 And Terah took  Abram his son, and  Lot \[the\] son of Haran, \[the\] son  of his son, and  Sarai  his daughter-in-law, \[the\] wife of Abram  his son. And he led them from out of the region of the Chaldeans to go into the land of Canaan. And they came unto Haran and dwelt there. 
-<small><sub>**KJV:**</sub></small>
-And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
-<small><sub>**BSB:**</sub></small>
-And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai the wife of Abram, and they set out from Ur of the Chaldeans for the land of Canaan. But when they arrived in Haran, they settled there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.30|<< Genesis 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.32|Genesis 11:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 11:31** is...

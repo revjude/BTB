@@ -1,4 +1,4 @@
-**Genesis 6:12** 
+**Genesis 6:12**<big><big>[[Gen.6.8 Noah’s Favor with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And God looked upon the earth and saw that it was corrupt; for all living creatu
 > $\quad$ referenced by: [[1Pet.3.20|1Pet 3:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֧רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 9:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:2**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after six days Jesus taketh [with him] Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.
 <small><sub>**BSB:**</sub></small>
 After six days Jesus took with Him Peter, James, and John, and led them up a high mountain by themselves. There He was transfigured before them.
 <small><sub>**Literal:**</sub></small>
 And after days six takes along <the> Jesus <the> Peter and <the> James and <the> John and brings up them into a mountain high apart [on their] own alone. And He was transfigured before them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.1|<< Mark 9:1]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.3|Mark 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  [^1] |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

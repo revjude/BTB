@@ -1,10 +1,7 @@
 **LXX Psalm 101:4** 
 <small><sub>**LXX:**</sub></small>
 A crooked heart cleaved not to me, turning aside from me, the wicked man I knew not. 
-<small><sub>**KJV:**</sub></small>
-A froward heart shall depart from me: I will not know a wicked [person].
-<small><sub>**BSB:**</sub></small>
-A perverse heart shall depart from me; I will know nothing of evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.101.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.3|<< Psalm 101:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.5|Psalm 101:5 >>]]</td></tr></table>
 
 | Translation | Greek |

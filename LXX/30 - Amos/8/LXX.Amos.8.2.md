@@ -1,10 +1,7 @@
 **LXX Amos 8:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, What do you see, Amos? And I said, A container of a fowler. And \[the\] <span class="smallcaps">lord</span> said to me, The end is come for  my people  Israel; I shall not proceed any longer  to pass by \[them\]. 
-<small><sub>**KJV:**</sub></small>
-And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the LORD unto me, The end is come upon my people of Israel; I will not again pass by them any more.
-<small><sub>**BSB:**</sub></small>
-“Amos, what do you see?” He asked. “A basket of summer fruit,” I replied. So the LORD said to me, “The end has come for My people Israel; I will no longer spare them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.1|<< Amos 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.3|Amos 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

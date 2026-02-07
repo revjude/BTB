@@ -1,4 +1,4 @@
-**Nehemiah 3:20** 
+**Nehemiah 3:20**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning [of the wall] unto the door of the house of Eliashib the high priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next to him, Baruch son of Zabbai diligently repaired another section, from the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.19|<< Nehemiah 3:19]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.21|Nehemiah 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֨י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | zealously  |**<big>&#8207;[[H2734\|הֶחֱרָ֧ה]]&#8207; </big>**| he.che.Rah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

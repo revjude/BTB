@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:22** 
 <small><sub>**LXX:**</sub></small>
 And David said to Ornan, Give to me the place of the threshing-floor! for I shall build upon it an altar to the <span class="smallcaps">lord</span>. Give it to me for \[its\] money's worth! and the calamity shall cease from \[among\] the people. 
-<small><sub>**KJV:**</sub></small>
-Then David said to Ornan, Grant me the place of [this] threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.
-<small><sub>**BSB:**</sub></small>
-Then David said to Ornan, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.21|<< 1 Chronicles 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.23|1 Chronicles 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

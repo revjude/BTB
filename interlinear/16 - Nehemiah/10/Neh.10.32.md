@@ -1,4 +1,4 @@
-**Nehemiah 10:32** (10:33)
+**Nehemiah 10:32**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We also place ourselves under the obligation to contribute a third of a shekel y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.31|<< Nehemiah 10:31]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.33|Nehemiah 10:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we establish  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975H\|הֶעֱמַ֤דְנוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Mad.nu<small><sup>[[HVhq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on ourselves  |**<big>&#8207;[[H5921A\|עָלֵ֙י]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

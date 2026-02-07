@@ -1,10 +1,7 @@
 **LXX Psalm 66:3** 
 <small><sub>**LXX:**</sub></small>
 Say  to God! How fearful  \[are\] your works. In the magnitude  of your power your enemies shall lie to you. 
-<small><sub>**KJV:**</sub></small>
-Say unto God, How terrible [art thou in] thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.
-<small><sub>**BSB:**</sub></small>
-Say to God, “How awesome are Your deeds! So great is Your power that Your enemies cower before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.2|<< Psalm 66:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.4|Psalm 66:4 >>]]</td></tr></table>
 
 | Translation | Greek |

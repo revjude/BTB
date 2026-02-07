@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:30** 
 <small><sub>**LXX:**</sub></small>
 And the kingdom of Jehoshaphat had peace, and his God rested him round about. 
-<small><sub>**KJV:**</sub></small>
-So the realm of Jehoshaphat was quiet: for his God gave him rest round about.
-<small><sub>**BSB:**</sub></small>
-Then Jehoshaphat’s kingdom was at peace, for his God had given him rest on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.29|<< 2 Chronicles 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.31|2 Chronicles 20:31 >>]]</td></tr></table>
 
 | Translation | Greek |

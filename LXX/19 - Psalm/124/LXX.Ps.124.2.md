@@ -1,10 +1,7 @@
 **LXX Psalm 124:2** 
 <small><sub>**LXX:**</sub></small>
 Unless it was that \[the\] <span class="smallcaps">lord</span> was with us in the rising up of men against us, 
-<small><sub>**KJV:**</sub></small>
-If [it had] not [been] the LORD who was on our side, when men rose up against us:
-<small><sub>**BSB:**</sub></small>
-if the LORD had not been on our side when men attacked us,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.124.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.1|<< Psalm 124:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.3|Psalm 124:3 >>]]</td></tr></table>
 
 | Translation | Greek |

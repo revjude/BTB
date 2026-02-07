@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:4** 
 <small><sub>**LXX:**</sub></small>
 And Samuel did all as much as \[the\] <span class="smallcaps">lord</span> said. And he came unto Beth-lehem, and startled the elders of the city  meeting him. And they said, \[Is\] your entrance for peace? 
-<small><sub>**KJV:**</sub></small>
-And Samuel did that which the LORD spake, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?
-<small><sub>**BSB:**</sub></small>
-So Samuel did what the LORD had said and went to Bethlehem. When the elders of the town met him, they trembled and asked, “Do you come in peace?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.3|<< 1 Samuel 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.5|1 Samuel 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

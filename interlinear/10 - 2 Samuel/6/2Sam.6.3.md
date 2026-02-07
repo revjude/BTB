@@ -1,4 +1,4 @@
-**2 Samuel 6:3** 
+**2 Samuel 6:3**<big><big>[[2Sam.6.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that [was] in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set the ark of God on a new cart and brought it from the house of Abinadab,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.2|<< 2 Samuel 6:2]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.4|2 Samuel 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made to ride  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יַּרְכִּ֜בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.Ki.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

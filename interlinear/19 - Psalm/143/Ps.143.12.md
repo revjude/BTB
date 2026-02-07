@@ -1,4 +1,4 @@
-**Psalms 143:12** 
+**Psalms 143:12**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I [am] thy servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.11|<< Psalms 143:11]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.0|Psalms 144:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in covenant loyalty your  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2617A\|חַסְדְּ]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> chas.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will destroy  |**<big>&#8207;[[H6789\|תַּצְמִ֪ית]]&#8207; </big>**| tatz.Mit<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

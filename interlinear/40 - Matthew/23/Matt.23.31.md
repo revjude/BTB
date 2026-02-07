@@ -1,12 +1,12 @@
-**Matthew 23:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:31**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.
 <small><sub>**BSB:**</sub></small>
 So you testify against yourselves that you are the sons of those who murdered the prophets.
 <small><sub>**Literal:**</sub></small>
 Thus you bear witness to yourselves that sons you are of those having murdered the prophets;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.30|<< Matthew 23:30]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.32|Matthew 23:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you bear witness |**<big>[[G3140\|μαρτυρεῖτε]]</big>**  |martureite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

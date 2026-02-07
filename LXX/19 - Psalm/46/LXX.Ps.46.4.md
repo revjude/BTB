@@ -1,10 +1,7 @@
 **LXX Psalm 46:4** 
 <small><sub>**LXX:**</sub></small>
 The rapid movements of the river gladdens the city  of God. The highest sanctified his tent. 
-<small><sub>**KJV:**</sub></small>
-[There is] a river, the streams whereof shall make glad the city of God, the holy [place] of the tabernacles of the most High.
-<small><sub>**BSB:**</sub></small>
-There is a river whose streams delight the city of God, the holy place where the Most High dwells.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.3|<< Psalm 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.5|Psalm 46:5 >>]]</td></tr></table>
 
 | Translation | Greek |

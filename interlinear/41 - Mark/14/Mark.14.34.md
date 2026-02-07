@@ -1,5 +1,5 @@
-**Mark 14:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:34**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.
 <small><sub>**BSB:**</sub></small>
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.”
@@ -10,7 +10,7 @@ And He says to them; Very sorrowful is the soul of Mine until death. do remain h
 > $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]] ☩ [[LXX.Ps.43.5|Ps 43:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:61** 
 <small><sub>**LXX:**</sub></small>
 And every infirmity, and every calamity  not being written, and every  one being written in  this scroll of the law, \[the\] <span class="smallcaps">lord</span> shall bring upon you, until whenever he should utterly destroy you. 
-<small><sub>**KJV:**</sub></small>
-Also every sickness, and every plague, which [is] not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed.
-<small><sub>**BSB:**</sub></small>
-The LORD will also bring upon you every sickness and plague not recorded in this Book of the Law, until you are destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.60|<< Deuteronomy 28:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.62|Deuteronomy 28:62 >>]]</td></tr></table>
 
 | Translation | Greek |

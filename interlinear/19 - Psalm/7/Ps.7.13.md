@@ -1,4 +1,4 @@
-**Psalms 7:13** (7:14)
+**Psalms 7:13**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has prepared His deadly weapons; He ordains His arrows with fire.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.12|<< Psalms 7:12]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.14|Psalms 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for him  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has prepared  |**<big>&#8207;[[H3559A\|הֵכִ֣ין]]&#8207; </big>**| he.Khin<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

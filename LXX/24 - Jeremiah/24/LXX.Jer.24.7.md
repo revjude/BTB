@@ -1,10 +1,7 @@
 **LXX Jeremiah 24:7** 
 <small><sub>**LXX:**</sub></small>
 And I will give them a heart  for them to know me, that I am \[the\] <span class="smallcaps">lord</span>. And they will be to me for a people, and I will be to them for God. For they shall turn towards me with their entire heart. 
-<small><sub>**KJV:**</sub></small>
-And I will give them an heart to know me, that I [am] the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.
-<small><sub>**BSB:**</sub></small>
-I will give them a heart to know Me, that I am the LORD. They will be My people, and I will be their God, for they will return to Me with all their heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.6|<< Jeremiah 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.8|Jeremiah 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

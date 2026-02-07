@@ -1,4 +1,4 @@
-**Psalms 50:18** 
+**Psalms 50:18**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you see a thief, you befriend him, and throw in your lot with adulterers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.17|<< Psalms 50:17]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.19|Psalms 50:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you saw  |**<big>&#8207;[[H7200G\|רָאִ֣יתָ]]&#8207; </big>**| ra.'I.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:13** 
 <small><sub>**LXX:**</sub></small>
 And David said, Well, I shall ordain with you a covenant, except one word I ask from you, saying, You shall not see  my face, if you do not lead  Michal daughter of Saul, in your coming to behold  my face. 
-<small><sub>**KJV:**</sub></small>
-And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul’s daughter, when thou comest to see my face.
-<small><sub>**BSB:**</sub></small>
-“Good,” replied David, “I will make a covenant with you. But there is one thing I require of you: Do not appear before me unless you bring Saul’s daughter Michal when you come to see me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.12|<< 2 Samuel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.14|2 Samuel 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

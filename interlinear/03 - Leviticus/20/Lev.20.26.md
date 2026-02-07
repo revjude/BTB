@@ -1,4 +1,4 @@
-**Leviticus 20:26** 
+**Leviticus 20:26**<big><big>[[Lev.20.22 Distinguish between Clean and Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be holy unto me: for I the LORD [am] holy, and have severed you from [other] people, that ye should be mine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to be holy to Me because I, the LORD, am holy, and I have set you apart 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.25|<< Leviticus 20:25]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.27|Leviticus 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H1961\|הְיִ֤יתֶם]]&#8207; </big>**| vi<small><sup>[[Hc]]</sup></small> h.Yi.tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

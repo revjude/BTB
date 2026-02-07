@@ -1,10 +1,7 @@
 **LXX Daniel 1:15** 
 <small><sub>**LXX:**</sub></small>
 And after the end of the ten days their shape looked good and strong  in flesh above all the boys  eating at the table of the king. 
-<small><sub>**KJV:**</sub></small>
-And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat.
-<small><sub>**BSB:**</sub></small>
-And at the end of ten days, they looked healthier and better nourished than all the young men who were eating the king’s food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.14|<< Daniel 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.16|Daniel 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:27** 
 <small><sub>**LXX:**</sub></small>
 And the king put the silver in Jerusalem as stones, and the cedars he put as the sycamine trees  in the plain in multitude. 
-<small><sub>**KJV:**</sub></small>
-And the king made silver [to be] in Jerusalem as stones, and cedars made he [to be] as the sycomore trees that [are] in the vale, for abundance.
-<small><sub>**BSB:**</sub></small>
-The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.26|<< 1 Kings 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.28|1 Kings 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 27:44
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:44**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the rest, some on boards, and some on [broken pieces] of the ship. And so it came to pass, that they escaped all safe to land.
 <small><sub>**BSB:**</sub></small>
 The rest were to follow on planks and various parts of the ship. In this way everyone was brought safely to land.
 <small><sub>**Literal:**</sub></small>
 and the rest some indeed on boards, some however on things <the> from the ship. And thus it came to pass that all being saved to the land.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.43|<< Acts 27:43]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.1|Acts 28:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

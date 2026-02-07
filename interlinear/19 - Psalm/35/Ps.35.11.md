@@ -1,4 +1,4 @@
-**Psalms 35:11** 
+**Psalms 35:11**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 False witnesses did rise up; they laid to my charge [things] that I knew not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hostile witnesses come forward; they make charges I know nothing about.
 > $\quad$ referenced by: [[Matt.26.60|Matt 26:60]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they rise up !  |**<big>&#8207;[[H6965B\|יְ֭קוּמוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| Ye.ku.mu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | witnesses of  |**<big>&#8207;[[H5707\|עֵדֵ֣י]]&#8207; </big>**| 'e.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 20:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:4**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.
 <small><sub>**BSB:**</sub></small>
 ‘You also go into my vineyard,’ he said, ‘and I will pay you whatever is right.’
 <small><sub>**Literal:**</sub></small>
 and to those he said; do go also you yourselves into the vineyard, and whatever if shall be right I will give you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.3|<< Matthew 20:3]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.5|Matthew 20:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
 | to those |**<big>[[G1565\|ἐκείνοις]]</big>**  [^1] |ekeinois <small><sup>[[D-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

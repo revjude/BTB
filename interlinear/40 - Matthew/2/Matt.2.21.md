@@ -1,12 +1,12 @@
-**Matthew 2:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:21**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he arose, and took the young child and his mother, and came into the land of Israel.
 <small><sub>**BSB:**</sub></small>
 So Joseph got up, took the Child and His mother, and went to the land of Israel.
 <small><sub>**Literal:**</sub></small>
 <the> And having arisen he took the Child and the mother of Him and entered into [the] land of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.20|<< Matthew 2:20]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.22|Matthew 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

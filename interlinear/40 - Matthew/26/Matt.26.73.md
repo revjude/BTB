@@ -1,12 +1,12 @@
-**Matthew 26:73
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:73**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after a while came unto [him] they that stood by, and said to Peter, Surely thou also art [one] of them; for thy speech bewrayeth thee.
 <small><sub>**BSB:**</sub></small>
 After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.”
 <small><sub>**Literal:**</sub></small>
 After a little while also having come to [him] those having stood they said <the> to Peter; Surely also you yourself of them are; even for the speech of you away you gives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.72|<< Matthew 26:72]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.74|Matthew 26:74 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a little while |**<big>[[G3398\|μικρὸν]]</big>**  |mikron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

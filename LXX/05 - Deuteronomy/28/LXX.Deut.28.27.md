@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:27** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> strike you with \[the\] sore of Egypt in the buttocks, and wild mange, and itching, so as to not be able to heal. 
-<small><sub>**KJV:**</sub></small>
-The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed.
-<small><sub>**BSB:**</sub></small>
-The LORD will afflict you with the boils of Egypt, with tumors and scabs and itch from which you cannot be cured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.26|<< Deuteronomy 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.28|Deuteronomy 28:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:8** 
 <small><sub>**LXX:**</sub></small>
 And came to Gedaliah in Mizpah, even Ishmael son of Nethaniah, and Johanan son of Kareah, and Seraiah son of Tanhumeth, and \[the\] sons of Ephai the Netophathite, and Jezaniah son of the Maachathite -- they and  their men. 
-<small><sub>**KJV:**</sub></small>
-Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.
-<small><sub>**BSB:**</sub></small>
-they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite—they and their men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.7|<< Jeremiah 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.9|Jeremiah 40:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:5** 
 <small><sub>**LXX:**</sub></small>
 And they built high \[places\]  to Baal  to incinerate  their sons in fire, which I did not give charge nor spoke, and did not consider in  my heart. 
-<small><sub>**KJV:**</sub></small>
-They have built also the high places of Baal, to burn their sons with fire [for] burnt offerings unto Baal, which I commanded not, nor spake [it], neither came [it] into my mind:
-<small><sub>**BSB:**</sub></small>
-They have built high places to Baal on which to burn their children in the fire as offerings to Baal—something I never commanded or mentioned, nor did it even enter My mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.4|<< Jeremiah 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.6|Jeremiah 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

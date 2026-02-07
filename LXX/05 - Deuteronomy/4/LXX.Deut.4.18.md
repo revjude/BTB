@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:18** 
 <small><sub>**LXX:**</sub></small>
 a representation of any reptile which crawls upon the earth; a representation of any fish, as many as are in the waters underneath the earth. 
-<small><sub>**KJV:**</sub></small>
-The likeness of any thing that creepeth on the ground, the likeness of any fish that [is] in the waters beneath the earth:
-<small><sub>**BSB:**</sub></small>
-or of any creature that crawls on the ground or fish that is in the waters below.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.17|<< Deuteronomy 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.19|Deuteronomy 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

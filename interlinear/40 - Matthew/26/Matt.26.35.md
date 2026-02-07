@@ -1,12 +1,12 @@
-**Matthew 26:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:35**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.
 <small><sub>**BSB:**</sub></small>
 Peter replied, “Even if I have to die with You, I will never deny You.” And all the other disciples said the same thing.
 <small><sub>**Literal:**</sub></small>
 Says to Him <the> Peter; Even if it shall be necessary for me with You to die, certainly not You I will deny. Likewise now also all the disciples said.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.34|<< Matthew 26:34]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.36|Matthew 26:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

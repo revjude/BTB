@@ -1,4 +1,4 @@
-**1 Kings 8:1** 
+**1 Kings 8:1**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which [is] Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Solomon assembled before him in Jerusalem the elders of Israel—al
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.51|<< 1 Kings 7:51]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.2|1 Kings 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he called together  |**<big>&#8207;[[H6950\|יַקְהֵ֣ל]]&#8207; </big>**| yak.Hel<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 9:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> is known by executing judgments; the sinner is seized by the works of his hands. AN ODE. 
-<small><sub>**KJV:**</sub></small>
-The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.
-<small><sub>**BSB:**</sub></small>
-The LORD is known by the justice He brings; the wicked are ensnared by the work of their hands. Higgaion Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.15|<< Psalm 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.17|Psalm 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

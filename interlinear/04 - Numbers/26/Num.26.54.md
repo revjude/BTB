@@ -1,4 +1,4 @@
-**Numbers 26:54** 
+**Numbers 26:54**<big><big>[[Num.26.52 Inheritance by Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Increase the inheritance for a large tribe and decrease it for a small one; each
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.55|Numbers 26:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for the many  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7227A\|רַ֗ב]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make great  |**<big>&#8207;[[H7235A\|תַּרְבֶּה֙]]&#8207; </big>**| tar.Beh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

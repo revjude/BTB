@@ -1,10 +1,7 @@
 **LXX Genesis 26:16** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech said to Isaac, Go forth from us! for you became exceedingly mightier than us. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.
-<small><sub>**BSB:**</sub></small>
-Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.15|<< Genesis 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.17|Genesis 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 26:29** 
+**1 Chronicles 26:29**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the Izharites, Chenaniah and his sons [were] for the outward business over Israel, for officers and judges.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the Izharites, Chenaniah and his sons had the outside duties as officers an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.28|<< 1 Chronicles 26:28]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.30|1 Chronicles 26:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the Izharite[s]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3325\|יִּצְהָרִ֞י]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.yitz.ha.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kenaniah  |**<big>&#8207;[[H3663\|כְּנַנְיָ֣הוּ]]&#8207; </big>**| ke.nan.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

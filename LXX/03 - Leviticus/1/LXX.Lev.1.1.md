@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he called Moses, and \[the\] <span class="smallcaps">lord</span> spoke to him from out of the tent of the testimony, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
-<small><sub>**BSB:**</sub></small>
-Then the LORD called to Moses and spoke to him from the Tent of Meeting, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.38|<< Exodus 40:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.2|Leviticus 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

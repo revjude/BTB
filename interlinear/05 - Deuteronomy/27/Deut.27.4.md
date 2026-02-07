@@ -1,4 +1,4 @@
-**Deuteronomy 27:4** 
+**Deuteronomy 27:4**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it shall be when ye be gone over Jordan, [that] ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when you have crossed the Jordan, you are to set up these stones on Mount Eb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.3|<< Deuteronomy 27:3]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.5|Deuteronomy 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֮]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when have passed over you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5674A\|עָבְרְ]]&#8207;&#8207;[[H9046\|כֶ֣ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.ve.re.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

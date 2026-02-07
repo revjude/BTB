@@ -1,4 +1,4 @@
-**Ezekiel 10:3** 
+**Ezekiel 10:3**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when the man went in, the cherubim were standing on the south side of the te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cherubim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרֻבִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] standing  |**<big>&#8207;[[H5975G\|עֹֽמְדִ֛ים]]&#8207; </big>**| 'o.me.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

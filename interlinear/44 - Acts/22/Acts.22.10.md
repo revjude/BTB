@@ -1,12 +1,12 @@
-**Acts 22:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:10**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.
 <small><sub>**BSB:**</sub></small>
 Then I asked, ‘What should I do, Lord?’ ‘Get up and go into Damascus,’ He told me. ‘There you will be told all that you have been appointed to do.’
 <small><sub>**Literal:**</sub></small>
 I said then; What shall I do Lord? <the> And the Lord said to me; Having risen up do go to Damascus, and there you it will be told concerning all things that it has been appointed you to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.9|<< Acts 22:9]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.11|Acts 22:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then; |**<big>[[G1161\|δέ·]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

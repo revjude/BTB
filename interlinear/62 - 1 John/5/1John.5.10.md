@@ -1,12 +1,12 @@
-**1 John 5:10
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:10**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in the Son of God has this testimony within him; whoever does not believe God has made Him out to be a liar, because he has not believed in the testimony that God has given about His Son.
 <small><sub>**Literal:**</sub></small>
 The [one] believing in the Son <the> of God has the testimony in himself; The [one] not believing <the> in God a liar has made Him, because not he has believed in the testimony that has testified <the> God concerning the Son Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.9|<< 1 John 5:9]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.11|1 John 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | believing |**<big>[[G4100\|πιστεύων]]</big>**  |pisteuōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

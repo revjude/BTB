@@ -1,4 +1,4 @@
-**Leviticus 24:16** 
+**Leviticus 24:16**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that blasphemeth the name of the LORD, he shall surely be put to death, [and] all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name [of the LORD], shall be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever blasphemes the name of the LORD must surely be put to death; the whole a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.15|<< Leviticus 24:15]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.17|Leviticus 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [one who] slanders  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5344B\|נֹקֵ֤ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> no.Kev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

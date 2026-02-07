@@ -1,4 +1,4 @@
-**Daniel 4:33** (4:30)
+**Daniel 4:33**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles’ [feathers], and his nails like birds’ [claws].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.32|<< Daniel 4:32]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.34|Daniel 4:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at it  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba<small><sup>[[AR]]</sup></small> h-<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | moment the  |**<big>&#8207;[[H8160\|שַׁעֲתָ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| sha.'a.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

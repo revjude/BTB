@@ -1,4 +1,4 @@
-**Deuteronomy 27:20** 
+**Deuteronomy 27:20**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that lieth with his father’s wife; because he uncovereth his father’s skirt. And all the people shall say, Amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cursed [be] he that lieth with his father’s wife; because he uncovereth his fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.19|<< Deuteronomy 27:19]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.21|Deuteronomy 27:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָר֗וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] lies  |**<big>&#8207;[[H7901I\|שֹׁכֵב֙]]&#8207; </big>**| sho.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

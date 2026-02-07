@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hiram king of Tyre sent  his servants to Solomon; for he heard that they anointed him for king in place of David  his father. For Hiram was loving  David all the days. 
-<small><sub>**KJV:**</sub></small>
-And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
-<small><sub>**BSB:**</sub></small>
-Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.34|<< 1 Kings 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.2|1 Kings 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 16:2** 
 <small><sub>**LXX:**</sub></small>
 And Sarai said to Abram, Behold, \[the\] <span class="smallcaps">lord</span> closed me up  to not bear. Enter then to  my maidservant, that I may produce children from her! And Abram obeyed the voice of Sarai. 
-<small><sub>**KJV:**</sub></small>
-And Sarai said unto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.
-<small><sub>**BSB:**</sub></small>
-So Sarai said to Abram, “Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her.” And Abram listened to the voice of Sarai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.1|<< Genesis 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.3|Genesis 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

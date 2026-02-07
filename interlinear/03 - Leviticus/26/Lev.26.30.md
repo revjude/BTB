@@ -1,4 +1,4 @@
-**Leviticus 26:30** 
+**Leviticus 26:30**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will destroy your high places, cut down your incense altars, and heap your lif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.29|<< Leviticus 26:29]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.31|Leviticus 26:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will destroy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8045\|הִשְׁמַדְתִּ֞י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.mad.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:12** 
 <small><sub>**LXX:**</sub></small>
 For you did \[it\] secretly, but I will do  this thing before all Israel, and before  this sun. 
-<small><sub>**KJV:**</sub></small>
-For thou didst [it] secretly: but I will do this thing before all Israel, and before the sun.
-<small><sub>**BSB:**</sub></small>
-You have acted in secret, but I will do this thing in broad daylight before all Israel.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.11|<< 2 Samuel 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.13|2 Samuel 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

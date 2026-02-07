@@ -1,10 +1,7 @@
 **LXX Ezra 6:16** 
 <small><sub>**LXX:**</sub></small>
 And they made (the sons of Israel, the priests and the Levites, and the rest of \[the\] sons of \[the\] resettlement) a holiday of rededication of the house  of God with gladness. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,
-<small><sub>**BSB:**</sub></small>
-Then the people of Israel—the priests, the Levites, and the rest of the exiles—celebrated the dedication of the house of God with joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.15|<< Ezra 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.17|Ezra 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

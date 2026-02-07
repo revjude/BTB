@@ -1,10 +1,7 @@
 **LXX Isaiah 19:25** 
 <small><sub>**LXX:**</sub></small>
 which \[the\] <span class="smallcaps">lord</span> of Hosts blessed, saying, Blessed be  my people, the one in Egypt, and the one among \[the\] Assyrians, and  my inheritance Israel. 
-<small><sub>**KJV:**</sub></small>
-Whom the LORD of hosts shall bless, saying, Blessed [be] Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts will bless them, saying, “Blessed be Egypt My people, Assyria My handiwork, and Israel My inheritance.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.24|<< Isaiah 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.20.1|Isaiah 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

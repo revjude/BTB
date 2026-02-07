@@ -1,4 +1,4 @@
-**Psalms 28:9** 
+**Psalms 28:9**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Save Your people and bless Your inheritance; shepherd them and carry them foreve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.8|<< Psalms 28:8]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.0|Psalms 29:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | save !  |**<big>&#8207;[[H3467\|הוֹשִׁ֤יעָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ho.Shi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 16:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:4**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
 <small><sub>**BSB:**</sub></small>
 I know what I will do so that after my removal from management, people will welcome me into their homes.’
 <small><sub>**Literal:**</sub></small>
 I know what I may do so that when I may have been removed from the management they may receive me into the homes of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.3|<< Luke 16:3]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.5|Luke 16:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G1097\|ἔγνων]]</big>**  |egnōn <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

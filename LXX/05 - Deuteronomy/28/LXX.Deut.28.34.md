@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:34** 
 <small><sub>**LXX:**</sub></small>
 And you will be deranged through the visions  of your eyes which you shall see. 
-<small><sub>**KJV:**</sub></small>
-So that thou shalt be mad for the sight of thine eyes which thou shalt see.
-<small><sub>**BSB:**</sub></small>
-You will be driven mad by the sights you see.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.33|<< Deuteronomy 28:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.35|Deuteronomy 28:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Psalms 45:1** (45:2)
+**Psalms 45:1**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves. My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue [is] the pen of a ready writer.
+My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue [is] the pen of a ready writer.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.0|<< Psalms 45:0]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.2|Psalms 45:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is aroused  |**<big>&#8207;[[H7370\|רָ֘חַ֤שׁ]]&#8207; </big>**| ra.Chash<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart my  |**<big>&#8207;[[H3820A\|לִבִּ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

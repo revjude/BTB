@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:14** 
 <small><sub>**LXX:**</sub></small>
 I knew that all \[things\] as many as God did, they shall be into the eon. Unto them it is not to add, and from them it is not to remove. And  God did that they should fear from in front of him. 
-<small><sub>**KJV:**</sub></small>
-I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth [it], that [men] should fear before him.
-<small><sub>**BSB:**</sub></small>
-I know that everything God does endures forever; nothing can be added to it or taken from it. God does it so that they should fear Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.13|<< Ecclesiastes 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.15|Ecclesiastes 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

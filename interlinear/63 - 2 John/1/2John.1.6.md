@@ -1,12 +1,12 @@
-**2 John 1:6
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:6**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
 <small><sub>**BSB:**</sub></small>
 And this is love, that we walk according to His commandments. This is the very commandment you have heard from the beginning, that you must walk in love.
 <small><sub>**Literal:**</sub></small>
 And this is <the> love that we may walk according to the commandments of Him. This the commandment is even as you have heard from [the] beginning, so that in it you may walk;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.5|<< 2 John 1:5]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.7|2 John 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

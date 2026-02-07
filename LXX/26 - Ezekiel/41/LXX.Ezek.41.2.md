@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:2** 
 <small><sub>**LXX:**</sub></small>
 And the breadth of the gatehouse -- ten cubits; and \[the\] side-pieces of the gatehouse -- five cubits on this side and five cubits on that side; and he measured  its length -- forty cubits, and the breadth -- twenty cubits. 
-<small><sub>**KJV:**</sub></small>
-And the breadth of the door [was] ten cubits; and the sides of the door [were] five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits.
-<small><sub>**BSB:**</sub></small>
-The width of the entrance was ten cubits, and the sides of the entrance were five cubits on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.1|<< Ezekiel 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.3|Ezekiel 41:3 >>]]</td></tr></table>
 
 | Translation | Greek |

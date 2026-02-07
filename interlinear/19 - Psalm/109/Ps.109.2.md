@@ -1,4 +1,4 @@
-**Psalms 109:2** 
+**Psalms 109:2**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For wicked and deceitful mouths open against me; they speak against me with lyin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.1|<< Psalms 109:1]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.3|Psalms 109:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310G\|פִ֪י]]&#8207; </big>**| fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

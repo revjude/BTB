@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:2** 
 <small><sub>**LXX:**</sub></small>
 And there came Hanani one of my brethren, he and \[the\] men of Judah. And I asked them concerning the Jews, of the ones having survived, the ones left behind from the captivity, and concerning Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-That Hanani, one of my brethren, came, he and [certain] men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.1|<< Nehemiah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.3|Nehemiah 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

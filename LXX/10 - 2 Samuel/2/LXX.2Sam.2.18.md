@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:18** 
 <small><sub>**LXX:**</sub></small>
 And there were there three sons of Zeruiah -- Joab and Abishai and Asahel. And Asahel was light  of his feet, as one doe of the ones in \[the\] field. 
-<small><sub>**KJV:**</sub></small>
-And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel [was as] light of foot as a wild roe.
-<small><sub>**BSB:**</sub></small>
-The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Now Asahel was fleet of foot like a wild gazelle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.17|<< 2 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.19|2 Samuel 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

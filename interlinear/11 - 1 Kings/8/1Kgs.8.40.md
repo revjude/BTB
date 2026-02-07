@@ -1,4 +1,4 @@
-**1 Kings 8:40** 
+**1 Kings 8:40**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may fear thee all the days that they live in the land which thou gavest unto our fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that they may fear You all the days they live in the land that You gave to ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.39|<< 1 Kings 8:39]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.41|1 Kings 8:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may fear you  |**<big>&#8207;[[H3372G\|יִֽרָא֔וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yi.ra.'U.<small><sup>[[HVqj3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

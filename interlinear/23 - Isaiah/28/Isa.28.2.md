@@ -1,4 +1,4 @@
-**Isaiah 28:2** 
+**Isaiah 28:2**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the Lord hath a mighty and strong one, [which] as a tempest of hail [and] a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the Lord has one who is strong and mighty. Like a hailstorm or destructi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.1|<< Isaiah 28:1]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.3|Isaiah 28:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mighty [one]  |**<big>&#8207;[[H2389\|חָזָ֤ק]]&#8207; </big>**| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

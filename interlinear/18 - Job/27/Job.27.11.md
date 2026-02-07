@@ -1,4 +1,4 @@
-**Job 27:11** 
+**Job 27:11**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will teach you by the hand of God: [that] which [is] with the Almighty will I not conceal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will instruct you in the power of God. I will not conceal the ways of the Almi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.10|<< Job 27:10]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.12|Job 27:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will instruct  |**<big>&#8207;[[H3384B\|אוֹרֶ֣ה]]&#8207; </big>**| 'o.Reh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֣ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

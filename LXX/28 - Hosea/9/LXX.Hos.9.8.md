@@ -1,10 +1,7 @@
 **LXX Hosea 9:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] watchman of Ephraim \[was\] with God; \[the\] prophet \[is\] a crooked snare upon all  his ways; they firmly fastened frenzy in \[the\] house of God. 
-<small><sub>**KJV:**</sub></small>
-The watchman of Ephraim [was] with my God: [but] the prophet [is] a snare of a fowler in all his ways, [and] hatred in the house of his God.
-<small><sub>**BSB:**</sub></small>
-The prophet is Ephraim’s watchman, along with my God, yet the snare of the fowler lies on all his paths. Hostility is in the house of his God!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.7|<< Hosea 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.9|Hosea 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

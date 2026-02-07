@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:11** 
 <small><sub>**LXX:**</sub></small>
 Moab rested from boyhood, and is relying upon  his glory. He has not poured \[dregs\] from receptacle unto receptacle, and into settlement he has not set out. On account of this his taste stood with him,  his scent dissipated not. 
-<small><sub>**KJV:**</sub></small>
-Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.
-<small><sub>**BSB:**</sub></small>
-Moab has been at ease from youth, settled like wine on its dregs; he has not been poured from vessel to vessel or gone into exile. So his flavor has remained the same, and his aroma is unchanged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:2** 
 <small><sub>**LXX:**</sub></small>
 Strum indeed \[to\] his name! Give glory of his praise! 
-<small><sub>**KJV:**</sub></small>
-Sing forth the honour of his name: make his praise glorious.
-<small><sub>**BSB:**</sub></small>
-Sing the glory of His name; make His praise glorious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.1|<< Psalm 66:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.3|Psalm 66:3 >>]]</td></tr></table>
 
 | Translation | Greek |

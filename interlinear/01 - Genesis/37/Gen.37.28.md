@@ -1,4 +1,4 @@
-**Genesis 37:28** 
+**Genesis 37:28**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty [pieces] of silver: and they brought Joseph into Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So when the Midianite traders passed by, his brothers pulled Joseph out of the p
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they passed by  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּֽעַבְרוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֨ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

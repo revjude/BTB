@@ -1,4 +1,4 @@
-**Isaiah 38:14** 
+**Isaiah 38:14**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like a crane [or] a swallow, so did I chatter: I did mourn as a dove: mine eyes fail [with looking] upward: O LORD, I am oppressed; undertake for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I chirp like a swallow or crane; I moan like a dove. My eyes grow weak as I look
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.13|<< Isaiah 38:13]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.15|Isaiah 38:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a swallow  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5483A\|ס֤וּס]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Sus<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a crane  |**<big>&#8207;[[H5693\|עָגוּר֙]]&#8207; </big>**| 'a.Gur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

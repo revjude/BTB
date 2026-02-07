@@ -1,10 +1,7 @@
 **LXX Psalm 139:17** 
 <small><sub>**LXX:**</sub></small>
 But your friends exceedingly were esteemed by me, O God, their beginnings strengthened exceedingly. 
-<small><sub>**KJV:**</sub></small>
-How precious also are thy thoughts unto me, O God! how great is the sum of them!
-<small><sub>**BSB:**</sub></small>
-How precious to me are Your thoughts, O God, how vast is their sum!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.16|<< Psalm 139:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.18|Psalm 139:18 >>]]</td></tr></table>
 
 | Translation | Greek |

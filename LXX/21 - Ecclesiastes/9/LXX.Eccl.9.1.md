@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 As the just, and the wise, even  their works are in \[the\] hand  of God. Indeed even love, indeed even hatred, there is no man knowing all the \[things\] before them. 
-<small><sub>**KJV:**</sub></small>
-For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, [are] in the hand of God: no man knoweth either love or hatred [by] all [that is] before them.
-<small><sub>**BSB:**</sub></small>
-So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.17|<< Ecclesiastes 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.2|Ecclesiastes 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

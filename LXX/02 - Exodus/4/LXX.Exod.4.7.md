@@ -1,10 +1,7 @@
 **LXX Exodus 4:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said again to him, Insert  your hand into  your bosom! And he inserted the hand into  his bosom. And he brought it out of  his bosom, and again it was restored unto the complexion  of his flesh. 
-<small><sub>**KJV:**</sub></small>
-And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his [other] flesh.
-<small><sub>**BSB:**</sub></small>
-“Put your hand back inside your cloak,” said the LORD. So Moses put his hand back inside his cloak, and when he took it out, it was restored, like the rest of his skin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.6|<< Exodus 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.8|Exodus 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

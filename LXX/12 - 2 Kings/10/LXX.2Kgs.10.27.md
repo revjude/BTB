@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:27** 
 <small><sub>**LXX:**</sub></small>
 And they tore down the monuments  of Baal, and they demolished  his house. And the house  of Baal they established for a bathhouse until  this day. 
-<small><sub>**KJV:**</sub></small>
-And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
-<small><sub>**BSB:**</sub></small>
-They also demolished the sacred pillar of Baal. Then they tore down the temple of Baal and made it into a latrine, which it is to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.26|<< 2 Kings 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.28|2 Kings 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

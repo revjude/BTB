@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:44** 
 <small><sub>**LXX:**</sub></small>
 And the Amorite dwelling in that mountain came forth to meet you. And they pursued you as do the bees, and pierced you from Seir until Hormah. 
-<small><sub>**KJV:**</sub></small>
-And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, [even] unto Hormah.
-<small><sub>**BSB:**</sub></small>
-Then the Amorites who lived in the hills came out against you and chased you like a swarm of bees. They routed you from Seir all the way to Hormah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.43|<< Deuteronomy 1:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.45|Deuteronomy 1:45 >>]]</td></tr></table>
 
 | Translation | Greek |

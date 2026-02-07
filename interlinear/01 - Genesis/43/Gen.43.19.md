@@ -1,4 +1,4 @@
-**Genesis 43:19** 
+**Genesis 43:19**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they approached Joseph’s steward and spoke to him at the entrance to the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.18|<< Genesis 43:18]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.20|Genesis 43:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they approached  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5066G\|יִּגְּשׁוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ge.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

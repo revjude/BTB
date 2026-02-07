@@ -1,10 +1,7 @@
 **LXX Joshua 17:4** 
 <small><sub>**LXX:**</sub></small>
 And they stood before Eleazar the priest, and before Joshua son of Nun, and before the rulers, saying,  God gave charge through \[the\] hand of Moses to give to us an inheritance in \[the\] midst  of our brethren. And there was given to them an inheritance by order of \[the\] <span class="smallcaps">lord</span>, a lot in \[the\] midst  of their brethren  of their father. 
-<small><sub>**KJV:**</sub></small>
-And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.
-<small><sub>**BSB:**</sub></small>
-They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said, “The LORD commanded Moses to give us an inheritance among our brothers.” So Joshua gave them an inheritance among their father’s brothers, in keeping with the command of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.3|<< Joshua 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.5|Joshua 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

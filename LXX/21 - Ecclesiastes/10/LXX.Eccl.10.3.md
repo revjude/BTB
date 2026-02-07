@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:3** 
 <small><sub>**LXX:**</sub></small>
 And indeed whenever a fool goes in \[the\] way of his heart, he will fail, and all which he considers is folly. 
-<small><sub>**KJV:**</sub></small>
-Yea also, when he that is a fool walketh by the way, his wisdom faileth [him], and he saith to every one [that] he [is] a fool.
-<small><sub>**BSB:**</sub></small>
-Even as the fool walks along the road, his sense is lacking, and he shows everyone that he is a fool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.2|<< Ecclesiastes 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.4|Ecclesiastes 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:12** 
 <small><sub>**LXX:**</sub></small>
 And the man who ever should do in pride  to not obey the priest  standing beside to officiate in the name of \[the\] <span class="smallcaps">lord</span>  your God, or the judge who ever should be in  those days, then that man shall die, and you shall lift away the wicked \[one\] from out of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel.
-<small><sub>**BSB:**</sub></small>
-But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.11|<< Deuteronomy 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.13|Deuteronomy 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

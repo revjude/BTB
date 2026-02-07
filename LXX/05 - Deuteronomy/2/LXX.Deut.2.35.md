@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:35** 
 <small><sub>**LXX:**</sub></small>
 Except the cattle we despoiled for ourselves. And the spoils from the cities we took, 
-<small><sub>**KJV:**</sub></small>
-Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.
-<small><sub>**BSB:**</sub></small>
-We carried off for ourselves only the livestock and the plunder from the cities we captured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.34|<< Deuteronomy 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.36|Deuteronomy 2:36 >>]]</td></tr></table>
 
 | Translation | Greek |

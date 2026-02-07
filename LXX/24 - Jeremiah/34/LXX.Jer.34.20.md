@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:20** 
 <small><sub>**LXX:**</sub></small>
 and I will give them to their enemies, and into \[the\] hand of ones seeking  their life. And their decaying flesh will be food to the winged creatures of the heaven, and to the wild beasts of the earth. 
-<small><sub>**KJV:**</sub></small>
-I will even give them into the hand of their enemies, and into the hand of them that seek their life: and their dead bodies shall be for meat unto the fowls of the heaven, and to the beasts of the earth.
-<small><sub>**BSB:**</sub></small>
-I will deliver into the hands of their enemies who seek their lives. Their corpses will become food for the birds of the air and the beasts of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.19|<< Jeremiah 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.21|Jeremiah 34:21 >>]]</td></tr></table>
 
 | Translation | Greek |

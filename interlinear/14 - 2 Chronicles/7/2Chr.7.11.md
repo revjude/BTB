@@ -1,4 +1,4 @@
-**2 Chronicles 7:11** 
+**2 Chronicles 7:11**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Solomon finished the house of the LORD, and the king’s house: and all that came into Solomon’s heart to make in the house of the LORD, and in his own house, he prosperously effected.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Solomon had finished the house of the LORD and the royal palace, successful
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.10|<< 2 Chronicles 7:10]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.12|2 Chronicles 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַ֧ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Khal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֛ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

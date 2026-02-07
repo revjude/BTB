@@ -1,5 +1,5 @@
-**Revelation 5:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:6**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 <small><sub>**BSB:**</sub></small>
 Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven spirits of God sent out into all the earth.
@@ -10,7 +10,7 @@ And I saw and behold in [the] midst of the throne and of the four living creatur
 > $\quad$ possibly alluding to: [[LXX.2Chr.16.9|2Chr 16:9]] ☩ [[LXX.Isa.53.7|Isa 53:7]] ☩ [[LXX.Zech.4.10|Zech 4:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

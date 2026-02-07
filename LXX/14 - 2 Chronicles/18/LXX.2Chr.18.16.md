@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:16** 
 <small><sub>**LXX:**</sub></small>
 And Michaiah said, I see  Israel all being scattered in the mountains, as sheep in which there is no shepherd. And \[the\] <span class="smallcaps">lord</span> said, These have no leader. each return to  his house in peace. 
-<small><sub>**KJV:**</sub></small>
-Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return [therefore] every man to his house in peace.
-<small><sub>**BSB:**</sub></small>
-So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.15|<< 2 Chronicles 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.17|2 Chronicles 18:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Chronicles 18:16** is...

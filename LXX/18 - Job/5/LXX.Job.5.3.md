@@ -1,10 +1,7 @@
 **LXX Job 5:3** 
 <small><sub>**LXX:**</sub></small>
 And I have seen fools laying root; and I cursed  their attractiveness immediately. 
-<small><sub>**KJV:**</sub></small>
-I have seen the foolish taking root: but suddenly I cursed his habitation.
-<small><sub>**BSB:**</sub></small>
-I have seen a fool taking root, but suddenly his house was cursed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.2|<< Job 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.4|Job 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

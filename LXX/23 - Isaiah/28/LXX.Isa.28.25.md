@@ -1,10 +1,7 @@
 **LXX Isaiah 28:25** 
 <small><sub>**LXX:**</sub></small>
 Does he not whenever he should level the face of it, then sow \[the\] small pepperwort or cummin, and again sow wheat, and barley, and spelt, in  your boundaries? 
-<small><sub>**KJV:**</sub></small>
-When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?
-<small><sub>**BSB:**</sub></small>
-When he has leveled its surface, does he not sow caraway and scatter cumin? He plants wheat in rows and barley in plots, and rye within its border.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.24|<< Isaiah 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.26|Isaiah 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

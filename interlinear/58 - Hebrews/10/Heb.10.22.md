@@ -1,12 +1,12 @@
-**Hebrews 10:22
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:22**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
 <small><sub>**BSB:**</sub></small>
 let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water.
 <small><sub>**Literal:**</sub></small>
 we may draw near with a sincere heart in full assurance of faith sprinkled clean <the> [our] hearts from a conscience evil and having ourselves washed <the> [our] body with water pure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.21|<< Hebrews 10:21]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.23|Hebrews 10:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we may draw near |**<big>[[G4334\|προσερχώμεθα]]</big>**  |proserchōmetha <small><sup>[[V-PNS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

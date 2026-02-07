@@ -1,10 +1,7 @@
 **LXX Isaiah 16:10** 
 <small><sub>**LXX:**</sub></small>
 And gladness and \[the\] leap for joy shall be lifted away from the vineyards; and in  your vineyards in no way shall they be glad; and in no way shall they tread wine in the wine-vats; for \[the vintage\] has been ceased. 
-<small><sub>**KJV:**</sub></small>
-And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in [their] presses; I have made [their vintage] shouting to cease.
-<small><sub>**BSB:**</sub></small>
-Joy and gladness are removed from the orchard; no one sings or shouts in the vineyards. No one tramples the grapes in the winepresses; I have put an end to the cheering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

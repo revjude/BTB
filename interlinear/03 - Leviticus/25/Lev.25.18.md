@@ -1,4 +1,4 @@
-**Leviticus 25:18** 
+**Leviticus 25:18**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to keep My statutes and carefully observe My judgments, so that you may 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.17|<< Leviticus 25:17]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.19|Leviticus 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|עֲשִׂיתֶם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

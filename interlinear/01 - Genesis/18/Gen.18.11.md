@@ -1,4 +1,4 @@
-**Genesis 18:11** 
+**Genesis 18:11**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Abraham and Sarah [were] old [and] well stricken in age; [and] it ceased to be with Sarah after the manner of women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Abraham and Sarah were already old and well along in years; Sarah had passed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.10|<< Genesis 18:10]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.12|Genesis 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abraham  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Sarah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8283\|שָׂרָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

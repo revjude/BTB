@@ -1,12 +1,12 @@
-**Luke 18:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:14**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I tell you, this man went down to his house justified [rather] than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 <small><sub>**BSB:**</sub></small>
 I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”
 <small><sub>**Literal:**</sub></small>
 I say to you; went down this one justified to the house of him rather than compared with that [one]. For everyone who is exalting himself will be humbled, the [one] however humbling himself will be exalted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.13|<< Luke 18:13]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.15|Luke 18:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you; |**<big>[[G4771\|ὑμῖν·]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 2:15** 
 <small><sub>**LXX:**</sub></small>
 And she let them down through the window, for  her house \[was\] in the wall, and in the wall she dwelt. 
-<small><sub>**KJV:**</sub></small>
-Then she let them down by a cord through the window: for her house [was] upon the town wall, and she dwelt upon the wall.
-<small><sub>**BSB:**</sub></small>
-Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.14|<< Joshua 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.16|Joshua 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

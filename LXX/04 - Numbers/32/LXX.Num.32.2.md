@@ -1,10 +1,7 @@
 **LXX Numbers 32:2** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Reuben coming forward, and the sons of Gad, said to Moses, and to Eleazar the priest, and to the rulers of the congregation, saying, 
-<small><sub>**KJV:**</sub></small>
-The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
-<small><sub>**BSB:**</sub></small>
-So the Gadites and Reubenites came to Moses, Eleazar the priest, and the leaders of the congregation, and said,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.1|<< Numbers 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.3|Numbers 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

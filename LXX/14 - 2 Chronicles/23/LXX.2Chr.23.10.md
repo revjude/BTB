@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:10** 
 <small><sub>**LXX:**</sub></small>
 And he stationed all the people, each with  his weapons, from the protrusion of the house at the right, unto the protrusion of the house at the left by the altar, and at the house by the king round about. 
-<small><sub>**KJV:**</sub></small>
-And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
-<small><sub>**BSB:**</sub></small>
-He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.9|<< 2 Chronicles 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.11|2 Chronicles 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

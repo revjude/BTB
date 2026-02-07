@@ -1,10 +1,7 @@
 **LXX Genesis 24:42** 
 <small><sub>**LXX:**</sub></small>
 And coming today upon the spring, I said, O <span class="smallcaps">lord</span>, the God  of my master Abraham; if you prosper  my way, in which now I go by it, 
-<small><sub>**KJV:**</sub></small>
-And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:
-<small><sub>**BSB:**</sub></small>
-So when I came to the spring today, I prayed: O LORD, God of my master Abraham, if only You would make my journey a success!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.41|<< Genesis 24:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.43|Genesis 24:43 >>]]</td></tr></table>
 
 | Translation | Greek |

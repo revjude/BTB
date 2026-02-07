@@ -1,10 +1,7 @@
 **LXX Genesis 37:35** 
 <small><sub>**LXX:**</sub></small>
 And all his sons and daughters came together. And they came to comfort him, and he did not want to be comforted, saying that, I will go down to  my son in mourning into Hades. And his father wept for him. 
-<small><sub>**KJV:**</sub></small>
-And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
-<small><sub>**BSB:**</sub></small>
-All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.34|<< Genesis 37:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.36|Genesis 37:36 >>]]</td></tr></table>
 
 | Translation | Greek |

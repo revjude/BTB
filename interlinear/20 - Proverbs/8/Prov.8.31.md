@@ -1,4 +1,4 @@
-**Proverbs 8:31** 
+**Proverbs 8:31**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoicing in the habitable part of his earth; and my delights [were] with the sons of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I was rejoicing in His whole world, delighting together in the sons of men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.30|<< Proverbs 8:30]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.32|Proverbs 8:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | playing  |**<big>&#8207;[[H7832\|מְ֭שַׂחֶקֶת]]&#8207; </big>**| Me.sa.che.ket<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] world of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8398\|תֵבֵ֣ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> te.Vel<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jephthah vowed a vow to the <span class="smallcaps">lord</span>, and he said, If by delivering up you should deliver up the sons of Ammon in my hand, 
-<small><sub>**KJV:**</sub></small>
-And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,
-<small><sub>**BSB:**</sub></small>
-Jephthah made this vow to the LORD: “If indeed You will deliver the Ammonites into my hand,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.29|<< Judges 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.31|Judges 11:31 >>]]</td></tr></table>
 
 | Translation | Greek |

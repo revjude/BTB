@@ -1,10 +1,7 @@
 **LXX Numbers 24:9** 
 <small><sub>**LXX:**</sub></small>
 Lying down he rested as a lion, and as a cub who shall raise him? The ones blessing you, they are blessed; and the ones cursing you, they are cursed. 
-<small><sub>**KJV:**</sub></small>
-He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed [is] he that blesseth thee, and cursed [is] he that curseth thee.
-<small><sub>**BSB:**</sub></small>
-He crouches, he lies down like a lion, like a lioness—who dares to rouse him? Blessed are those who bless you and cursed are those who curse you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.8|<< Numbers 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.10|Numbers 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

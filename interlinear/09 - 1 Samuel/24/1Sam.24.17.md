@@ -1,4 +1,4 @@
-**1 Samuel 24:17** (24:18)
+**1 Samuel 24:17**<big><big>[[1Sam.24.16 David’s Oath to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said to David, Thou [art] more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said to David, “You are more righteous than I, for you have rewarded me wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.16|<< 1 Samuel 24:16]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.18|1 Samuel 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

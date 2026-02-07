@@ -1,12 +1,12 @@
-**Ephesians 2:21
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:21**<big><big>[[Eph.2.19 Christ Our Cornerstone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom all the building fitly framed together groweth unto an holy temple in the Lord:
 <small><sub>**BSB:**</sub></small>
 In Him the whole building is fitted together and grows into a holy temple in the Lord.
 <small><sub>**Literal:**</sub></small>
 in whom [the] whole <the> building being fitted together is increasing into a temple holy in [the] Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.20|<< Ephesians 2:20]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.22|Ephesians 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

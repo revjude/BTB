@@ -1,4 +1,4 @@
-**Exodus 9:11** 
+**Exodus 9:11**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The magicians could not stand before Moses, because the boils had broken out on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.10|<< Exodus 9:10]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.12|Exodus 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were able  |**<big>&#8207;[[H3201\|יָכְל֣וּ]]&#8207; </big>**| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

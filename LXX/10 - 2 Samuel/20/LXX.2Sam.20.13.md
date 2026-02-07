@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he removed him from out of the road, all the people of Israel went by after Joab,  to pursue after Sheba son of Bichri. 
-<small><sub>**KJV:**</sub></small>
-When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.
-<small><sub>**BSB:**</sub></small>
-As soon as Amasa’s body was removed from the road, all the men went on with Joab to pursue Sheba son of Bichri.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.12|<< 2 Samuel 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.14|2 Samuel 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

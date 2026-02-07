@@ -1,4 +1,4 @@
-**Deuteronomy 16:17** 
+**Deuteronomy 16:17**<big><big>[[Deut.16.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man [shall give] as he is able, according to the blessing of the LORD thy God which he hath given thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everyone must appear with a gift as he is able, according to the blessing the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.16|<< Deuteronomy 16:16]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.18|Deuteronomy 16:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] gift of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4979\|מַתְּנַ֣ת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ma.te.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

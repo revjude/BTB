@@ -1,4 +1,4 @@
-**Leviticus 23:29** 
+**Leviticus 23:29**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whatsoever soul [it be] that shall not be afflicted in that same day, he shall be cut off from among his people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If anyone does not humble himself on this day, he must be cut off from his peopl
 > $\quad$ referenced by: [[Acts.3.22|Acts 3:22]] ☩ [[Acts.3.23|Acts 3:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | any  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

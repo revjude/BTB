@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:17** 
 <small><sub>**LXX:**</sub></small>
 Remember as many \[things\] Amalek did to you in the way of your going forth from Egypt! 
-<small><sub>**KJV:**</sub></small>
-Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
-<small><sub>**BSB:**</sub></small>
-Remember what the Amalekites did to you along your way from Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.16|<< Deuteronomy 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.18|Deuteronomy 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 2:55** 
 <small><sub>**LXX:**</sub></small>
 sons of the servants of Solomon -- sons of Sotai, sons of Sophereth, sons of Peruda, 
-<small><sub>**KJV:**</sub></small>
-The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,
-<small><sub>**BSB:**</sub></small>
-The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.54|<< Ezra 2:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.56|Ezra 2:56 >>]]</td></tr></table>
 
 | Translation | Greek |

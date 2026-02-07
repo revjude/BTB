@@ -1,10 +1,7 @@
 **LXX Psalm 37:28** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> loves equity, and shall not abandon  his sacred ones; into the eon they shall be guarded. But lawless ones shall be driven out, and \[the\] seed of \[the\] impious shall be utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.
-<small><sub>**BSB:**</sub></small>
-For the LORD loves justice and will not forsake His saints. They are preserved forever, but the offspring of the wicked will be cut off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.27|<< Psalm 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.29|Psalm 37:29 >>]]</td></tr></table>
 
 | Translation | Greek |

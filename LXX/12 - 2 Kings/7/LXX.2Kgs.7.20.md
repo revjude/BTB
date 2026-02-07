@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass so; and the people trampled him in the gate, and he died. 
-<small><sub>**KJV:**</sub></small>
-And so it fell out unto him: for the people trode upon him in the gate, and he died.
-<small><sub>**BSB:**</sub></small>
-And that is just what happened to him. The people trampled him in the gateway, and he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.19|<< 2 Kings 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.1|2 Kings 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

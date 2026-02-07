@@ -1,4 +1,4 @@
-**Jeremiah 48:8** 
+**Jeremiah 48:8**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The destroyer will move against every city, and not one town will escape. The va
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.7|<< Jeremiah 48:7]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.9|Jeremiah 48:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may come  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|יָבֹ֨א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Vo'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a destroyer  |**<big>&#8207;[[H7703\|שֹׁדֵ֜ד]]&#8207; </big>**| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

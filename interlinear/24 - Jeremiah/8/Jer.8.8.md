@@ -1,4 +1,4 @@
-**Jeremiah 8:8** 
+**Jeremiah 8:8**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How do ye say, We [are] wise, and the law of the LORD [is] with us? Lo, certainly in vain made he [it]; the pen of the scribes [is] in vain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349B\|אֵיכָ֤ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you say  |**<big>&#8207;[[H0559\|תֹֽאמְרוּ֙]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

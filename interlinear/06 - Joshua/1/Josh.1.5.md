@@ -1,4 +1,4 @@
-**Joshua 1:5** 
+**Joshua 1:5**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, [so] I will be with thee: I will not fail thee, nor forsake thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ No one shall stand against you all the days of your life. As I was with Moses, s
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will stand  |**<big>&#8207;[[H3320\|יִתְיַצֵּ֥ב]]&#8207; </big>**| yit.ya.Tzev<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

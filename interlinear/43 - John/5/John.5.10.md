@@ -1,12 +1,12 @@
-**John 5:10
-**<small><sub>**KJV:**</sub></small>
+**John 5:10**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry [thy] bed.
 <small><sub>**BSB:**</sub></small>
 so the Jews said to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.”
 <small><sub>**Literal:**</sub></small>
 Were saying therefore the Jews to the [one] healed; Sabbath it is, and not it is lawful for you to take up the mat of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.9|<< John 5:9]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.11|John 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

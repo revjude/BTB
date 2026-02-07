@@ -1,10 +1,7 @@
 **LXX Isaiah 13:8** 
 <small><sub>**LXX:**</sub></small>
 And the ambassadors shall be disturbed, and they shall have their pangs as a woman giving birth; and they shall lament together, another to  another; and they shall be startled; and  they shall change countenance as a flame. 
-<small><sub>**KJV:**</sub></small>
-And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces [shall be as] flames.
-<small><sub>**BSB:**</sub></small>
-Terror, pain, and anguish will seize them; they will writhe like a woman in labor. They will look at one another, their faces flushed with fear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

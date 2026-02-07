@@ -1,10 +1,7 @@
 **LXX Joshua 5:15** 
 <small><sub>**LXX:**</sub></small>
 And the commander-in-chief \[of the\] <span class="smallcaps">lord</span> says to Joshua, Untie  your sandal from  your feet! for the place upon which you stand upon it is holy. And Josua did thus. 
-<small><sub>**KJV:**</sub></small>
-And the captain of the LORD’S host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest [is] holy. And Joshua did so.
-<small><sub>**BSB:**</sub></small>
-The Commander of the LORD’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

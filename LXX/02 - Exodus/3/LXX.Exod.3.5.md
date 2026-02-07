@@ -1,10 +1,7 @@
 **LXX Exodus 3:5** 
 <small><sub>**LXX:**</sub></small>
  And he said, You should not approach here. Untie the sandal from  your feet, for the place in which you stand is holy ground. 
-<small><sub>**KJV:**</sub></small>
-And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest [is] holy ground.
-<small><sub>**BSB:**</sub></small>
-“Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.4|<< Exodus 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.6|Exodus 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:5** is...

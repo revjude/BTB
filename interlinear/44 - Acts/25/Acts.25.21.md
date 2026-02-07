@@ -1,12 +1,12 @@
-**Acts 25:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:21**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar.
 <small><sub>**BSB:**</sub></small>
 But when Paul appealed to be held over for the decision of the Emperor, I ordered that he be held until I could send him to Caesar.”
 <small><sub>**Literal:**</sub></small>
 <the> But Paul having appealed for to be kept himself for the <the> Emperor's decision I commanded to be kept him until that I may return him to Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.20|<< Acts 25:20]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.22|Acts 25:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

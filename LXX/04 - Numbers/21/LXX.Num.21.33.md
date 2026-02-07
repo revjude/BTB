@@ -1,10 +1,7 @@
 **LXX Numbers 21:33** 
 <small><sub>**LXX:**</sub></small>
 And having turned they ascended \[the\] way  unto Bashan. And came forth Og king  of Bashan to meet with them, and all  his people for war in Edrei. 
-<small><sub>**KJV:**</sub></small>
-And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.
-<small><sub>**BSB:**</sub></small>
-Then they turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet them in battle at Edrei.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.32|<< Numbers 21:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.34|Numbers 21:34 >>]]</td></tr></table>
 
 | Translation | Greek |

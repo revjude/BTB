@@ -1,10 +1,7 @@
 **LXX Numbers 8:17** 
 <small><sub>**LXX:**</sub></small>
 For every first-born among the sons of Israel \[is\] mine, from man unto beast; in which day I struck every first-born in \[the\] land of Egypt, I sanctified them to myself. 
-<small><sub>**KJV:**</sub></small>
-For all the firstborn of the children of Israel [are] mine, [both] man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself.
-<small><sub>**BSB:**</sub></small>
-For every firstborn male in Israel is Mine, both man and beast. I set them apart for Myself on the day I struck down all the firstborn in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.16|<< Numbers 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.18|Numbers 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

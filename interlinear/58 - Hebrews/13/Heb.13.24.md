@@ -1,12 +1,12 @@
-**Hebrews 13:24
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:24**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute all them that have the rule over you, and all the saints. They of Italy salute you.
 <small><sub>**BSB:**</sub></small>
 Greet all your leaders and all the saints. Those from Italy send you greetings.
 <small><sub>**Literal:**</sub></small>
 do greet all those leading you and all the saints. Greet you those from <the> Italy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.23|<< Hebrews 13:23]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.25|Hebrews 13:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|Ἀσπάσασθε]]</big>**  |Aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντας]]</big>**  |pantas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

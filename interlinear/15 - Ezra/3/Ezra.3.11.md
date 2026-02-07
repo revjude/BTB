@@ -1,4 +1,4 @@
-**Ezra 3:11** 
+**Ezra 3:11**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sang together by course in praising and giving thanks unto the LORD; because [he is] good, for his mercy [endureth] for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they sang responsively with praise and thanksgiving to the LORD: “For He i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.10|<< Ezra 3:10]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.12|Ezra 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sang  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H6030C\|יַּעֲנוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with praising  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1984B\|הַלֵּ֨ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ha.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:37** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Again for this I shall be sought by the house of Israel  to deal with them; I will multiply them -- men as sheep, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; I will yet [for] this be inquired of by the house of Israel, to do [it] for them; I will increase them with men like a flock.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.36|<< Ezekiel 36:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.38|Ezekiel 36:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 7:5** 
+**Job 7:5**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My flesh is clothed with worms and encrusted with dirt; my skin is cracked and f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.4|<< Job 7:4]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.6|Job 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is clothed  |**<big>&#8207;[[H3847\|לָ֘בַ֤שׁ]]&#8207; </big>**| la.Vash<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh my  |**<big>&#8207;[[H1320\|בְּשָׂרִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.sa.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

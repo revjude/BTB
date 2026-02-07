@@ -1,12 +1,12 @@
-**Acts 21:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:13**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.”
 <small><sub>**Literal:**</sub></small>
 Then answered <the> Paul; What are you doing weeping and breaking my <the> heart? I myself for not only to be bound but also to die at Jerusalem readiness have for the name of the Lord Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.12|<< Acts 21:12]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.14|Acts 21:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then [^1] |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz»1">N(k)O</abbr> | |
 | answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 11:30** 
+**Proverbs 11:30**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fruit of the righteous [is] a tree of life; and he that winneth souls [is] wise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fruit of the righteous is a tree of life, and he who wins souls is wise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.29|<< Proverbs 11:29]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.31|Proverbs 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fruit of  |**<big>&#8207;[[H6529\|פְּֽרִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

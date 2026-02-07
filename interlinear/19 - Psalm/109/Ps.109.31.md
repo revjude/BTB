@@ -1,4 +1,4 @@
-**Psalms 109:31** 
+**Psalms 109:31**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall stand at the right hand of the poor, to save [him] from those that condemn his soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He stands at the right hand of the needy one, to save him from the condemner
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.30|<< Psalms 109:30]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.0|Psalms 110:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he stands  |**<big>&#8207;[[H5975G\|יַ֭עֲמֹד]]&#8207; </big>**| Ya.'a.mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 33:19** 
 <small><sub>**LXX:**</sub></small>
 And he acquired the portion of the field which sat there  \[by\] his tent, from Hamor father of Shechem, \[for a\] hundred lambs. 
-<small><sub>**KJV:**</sub></small>
-And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for an hundred pieces of money.
-<small><sub>**BSB:**</sub></small>
-And the plot of ground where he pitched his tent, he purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.18|<< Genesis 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.20|Genesis 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

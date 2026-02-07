@@ -1,4 +1,4 @@
-**Judges 15:2** 
+**Judges 15:2**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: [is] not her younger sister fairer than she? take her, I pray thee, instead of her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And her father said, I verily thought that thou hadst utterly hated her; therefo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.1|<< Judges 15:1]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.3|Judges 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father her  |**<big>&#8207;[[H0001G\|אָבִ֗י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

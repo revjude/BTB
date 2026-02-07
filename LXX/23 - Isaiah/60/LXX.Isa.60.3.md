@@ -1,10 +1,7 @@
 **LXX Isaiah 60:3** 
 <small><sub>**LXX:**</sub></small>
 And nations shall go \[by\] your light, and kings \[in\] your brightness. 
-<small><sub>**KJV:**</sub></small>
-And the Gentiles shall come to thy light, and kings to the brightness of thy rising.
-<small><sub>**BSB:**</sub></small>
-Nations will come to your light, and kings to the brightness of your dawn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.2|<< Isaiah 60:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.4|Isaiah 60:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 60:3** is...

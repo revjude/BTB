@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:13** 
 <small><sub>**LXX:**</sub></small>
 And they drew him with the rough cords, and led him up from out of the pit. And Jeremiah stayed in the courtyard of the guard. 
-<small><sub>**KJV:**</sub></small>
-So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.
-<small><sub>**BSB:**</sub></small>
-and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.12|<< Jeremiah 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.14|Jeremiah 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

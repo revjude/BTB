@@ -1,10 +1,7 @@
 **LXX Isaiah 35:9** 
 <small><sub>**LXX:**</sub></small>
 And there will not be a lion there. Nor the ferocious wild beasts in any way shall ascend unto it, nor even should be found there. But the ones being ransomed shall go in it, 
-<small><sub>**KJV:**</sub></small>
-No lion shall be there, nor [any] ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk [there]:
-<small><sub>**BSB:**</sub></small>
-No lion will be there, and no vicious beast will go up on it. Such will not be found there, but the redeemed will walk upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.8|<< Isaiah 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.10|Isaiah 35:10 >>]]</td></tr></table>
 
 | Translation | Greek |

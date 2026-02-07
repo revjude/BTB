@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:5** 
 <small><sub>**LXX:**</sub></small>
 I made the earth, and the men, and the cattle, the ones upon \[the\] face of the earth, by  my great strength and by  my high arm, and I shall give it \[to\] whom ever it seems \[fit\] in my eyes. 
-<small><sub>**KJV:**</sub></small>
-I have made the earth, the man and the beast that [are] upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.
-<small><sub>**BSB:**</sub></small>
-By My great power and outstretched arm, I made the earth and the men and beasts on the face of it, and I give it to whom I please.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.4|<< Jeremiah 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.6|Jeremiah 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

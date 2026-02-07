@@ -1,12 +1,12 @@
-**1 Timothy 6:8
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:8**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And having food and raiment let us be therewith content.
 <small><sub>**BSB:**</sub></small>
 But if we have food and clothing, we will be content with these.
 <small><sub>**Literal:**</sub></small>
 Having however sustenance and coverings, with these we will be content.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.7|<< 1 Timothy 6:7]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.9|1 Timothy 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having |**<big>[[G2192\|ἔχοντες]]</big>**  |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

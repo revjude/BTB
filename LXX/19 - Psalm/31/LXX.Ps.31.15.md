@@ -1,10 +1,7 @@
 **LXX Psalm 31:15** 
 <small><sub>**LXX:**</sub></small>
 My lots \[are\] in your hands. Rescue me from \[the\] hand of my enemies, and from the ones pursuing me! 
-<small><sub>**KJV:**</sub></small>
-My times [are] in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
-<small><sub>**BSB:**</sub></small>
-My times are in Your hands; deliver me from my enemies and from those who pursue me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.14|<< Psalm 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.16|Psalm 31:16 >>]]</td></tr></table>
 
 | Translation | Greek |

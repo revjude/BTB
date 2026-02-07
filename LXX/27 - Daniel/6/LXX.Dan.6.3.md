@@ -1,10 +1,7 @@
 **LXX Daniel 6:3** 
 <small><sub>**LXX:**</sub></small>
 And Daniel was over them, for extra spirit was in him, and the king placed him over his entire kingdom. 
-<small><sub>**KJV:**</sub></small>
-Then this Daniel was preferred above the presidents and princes, because an excellent spirit [was] in him; and the king thought to set him over the whole realm.
-<small><sub>**BSB:**</sub></small>
-Soon, by his extraordinary spirit, Daniel distinguished himself among the administrators and satraps. So the king planned to set him over the whole kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.2|<< Daniel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.4|Daniel 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

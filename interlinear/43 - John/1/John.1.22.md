@@ -1,12 +1,12 @@
-**John 1:22
-**<small><sub>**KJV:**</sub></small>
+**John 1:22**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
 <small><sub>**BSB:**</sub></small>
 So they said to him, “Who are you? We need an answer for those who sent us. What do you say about yourself?”
 <small><sub>**Literal:**</sub></small>
 They said therefore to him; Who are you? That an answer we may give to those having sent us; what say you about yourself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.21|<< John 1:21]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.23|John 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

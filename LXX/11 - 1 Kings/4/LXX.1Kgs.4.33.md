@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:33** 
 <small><sub>**LXX:**</sub></small>
 And he spoke concerning the timbers from the cedars  in  Lebanon, and unto the hyssop  coming forth from the wall. And he spoke concerning the cattle, and concerning the winged creatures, and concerning the reptiles, and concerning the fishes. 
-<small><sub>**KJV:**</sub></small>
-And he spake of trees, from the cedar tree that [is] in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.
-<small><sub>**BSB:**</sub></small>
-He spoke of trees, from the cedar in Lebanon to the hyssop growing in the wall, and he taught about animals, birds, reptiles, and fish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.32|<< 1 Kings 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.34|1 Kings 4:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 5:37
-**<small><sub>**KJV:**</sub></small>
+**John 5:37**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.
 <small><sub>**BSB:**</sub></small>
 And the Father who sent Me has Himself testified about Me. You have never heard His voice nor seen His form,
 <small><sub>**Literal:**</sub></small>
 And the [One] having sent Me [the] Father Himself has borne witness concerning Me; Neither voice of Him at any time have You heard nor form of Him have you seen,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.36|<< John 5:36]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.38|John 5:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

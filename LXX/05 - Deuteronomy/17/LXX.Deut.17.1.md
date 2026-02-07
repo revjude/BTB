@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You shall not sacrifice \[to the\] <span class="smallcaps">lord</span>  your God a calf or sheep in which there is in it a blemish, any thing in a sorry state, for it is an abomination \[to the\] <span class="smallcaps">lord</span> your God. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not sacrifice unto the LORD thy God [any] bullock, or sheep, wherein is blemish, [or] any evilfavouredness: for that [is] an abomination unto the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.22|<< Deuteronomy 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.2|Deuteronomy 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

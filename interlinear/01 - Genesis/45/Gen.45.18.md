@@ -1,4 +1,4 @@
-**Genesis 45:18** 
+**Genesis 45:18**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then bring your father and your families and return to me. I will give you the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.17|<< Genesis 45:17]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.19|Genesis 45:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and fetch  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3947G\|קְח֧וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

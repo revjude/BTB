@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:22** 
 <small><sub>**LXX:**</sub></small>
 And the woman went in to all the people, and she spoke to all the city in  her wisdom. And they removed the head of Sheba son of Bichri, and they tossed it to Joab. And he trumped with \[the\] horn, and they scattered from the city, each man to  his tents. And Joab returned to Jerusalem to the king. 
-<small><sub>**KJV:**</sub></small>
-Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast [it] out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.
-<small><sub>**BSB:**</sub></small>
-Then the woman went to all the people with her wise counsel, and they cut off the head of Sheba son of Bichri and threw it to Joab. So he blew the ram’s horn and his men dispersed from the city, each to his own home. And Joab returned to the king in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.21|<< 2 Samuel 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.23|2 Samuel 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

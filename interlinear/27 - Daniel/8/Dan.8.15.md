@@ -1,4 +1,4 @@
-**Daniel 8:15** 
+**Daniel 8:15**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when I, [even] I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While I, Daniel, was watching the vision and trying to understand it, there stoo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.14|<< Daniel 8:14]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.16|Daniel 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw I  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7200G\|רְאֹתִ֛]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.'o.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

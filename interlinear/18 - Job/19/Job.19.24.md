@@ -1,4 +1,4 @@
-**Job 19:24** 
+**Job 19:24**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they were graven with an iron pen and lead in the rock for ever!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ by an iron stylus on lead, or chiseled in stone forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.23|<< Job 19:23]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.25|Job 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with a stylus of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5842\|עֵט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'et-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iron  |**<big>&#8207;[[H1270\|בַּרְזֶ֥ל]]&#8207; </big>**| bar.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

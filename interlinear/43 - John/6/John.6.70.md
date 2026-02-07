@@ -1,12 +1,12 @@
-**John 6:70
-**<small><sub>**KJV:**</sub></small>
+**John 6:70**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
 <small><sub>**BSB:**</sub></small>
 Jesus answered them, “Have I not chosen you, the Twelve? Yet one of you is a devil!”
 <small><sub>**Literal:**</sub></small>
 Answered them <the> Jesus; Not I myself you the Twelve did choose, and of you one a devil is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.69|<< John 6:69]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.71|John 6:71 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

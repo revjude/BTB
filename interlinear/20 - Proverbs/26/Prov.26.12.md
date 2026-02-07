@@ -1,4 +1,4 @@
-**Proverbs 26:12** 
+**Proverbs 26:12**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou a man wise in his own conceit? [there is] more hope of a fool than of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you see a man who is wise in his own eyes? There is more hope for a fool than
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.11|<< Proverbs 26:11]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.13|Proverbs 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you see  |**<big>&#8207;[[H7200G\|רָאִ֗יתָ]]&#8207; </big>**| ra.'I.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

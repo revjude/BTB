@@ -1,4 +1,4 @@
-**2 Kings 10:27** 
+**2 Kings 10:27**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also demolished the sacred pillar of Baal. Then they tore down the temple o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.26|<< 2 Kings 10:26]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.28|2 Kings 10:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pulled down  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5422\|יִּתְּצ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Tzu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

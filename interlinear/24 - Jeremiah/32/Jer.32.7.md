@@ -1,4 +1,4 @@
-**Jeremiah 32:7** 
+**Jeremiah 32:7**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that [is] in Anathoth: for the right of redemption [is] thine to buy [it].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy 
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hanamel  |**<big>&#8207;[[H2601\|חֲנַמְאֵ֗ל]]&#8207; </big>**| cha.nam.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

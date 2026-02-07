@@ -1,4 +1,4 @@
-**Job 29:10** 
+**Job 29:10**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nobles held their peace, and their tongue cleaved to the roof of their mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The voices of the nobles were hushed, and their tongues stuck to the roofs of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.9|<< Job 29:9]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.11|Job 29:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] voice of  |**<big>&#8207;[[H6963A\|קוֹל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nobles  |**<big>&#8207;[[H5057\|נְגִידִ֥ים]]&#8207; </big>**| ne.gi.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 4:17** 
 <small><sub>**LXX:**</sub></small>
 And Joshua gave charge to the priests, saying, Go up out of the Jordan! 
-<small><sub>**KJV:**</sub></small>
-Joshua therefore commanded the priests, saying, Come ye up out of Jordan.
-<small><sub>**BSB:**</sub></small>
-So Joshua commanded the priests, “Come up from the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.16|<< Joshua 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.18|Joshua 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 4:18** 
+**Judges 4:18**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.19|Judges 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|תֵּצֵ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jael  |**<big>&#8207;[[H3278\|יָעֵל֮]]&#8207; </big>**| ya.'El<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

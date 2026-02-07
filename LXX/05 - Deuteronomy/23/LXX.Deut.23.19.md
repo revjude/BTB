@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:19** 
 <small><sub>**LXX:**</sub></small>
 You shall not lend \[to\] your brother with interest of silver, and interest of foods, and interest of any thing of which ever you should lend. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
-<small><sub>**BSB:**</sub></small>
-Do not charge your brother interest on money, food, or any other type of loan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

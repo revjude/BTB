@@ -1,4 +1,4 @@
-**1 Samuel 8:17** 
+**1 Samuel 8:17**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will take the tenth of your sheep: and ye shall be his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will take a tenth of your flocks, and you yourselves will become his slaves.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.16|<< 1 Samuel 8:16]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.18|1 Samuel 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flock[s] your  |**<big>&#8207;[[H6629G\|צֹאנְ]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| tzon.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will take a tenth  |**<big>&#8207;[[H6237\|יַעְשֹׂ֑ר]]&#8207; </big>**| ya'.Sor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

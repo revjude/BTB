@@ -1,10 +1,7 @@
 **LXX Psalm 119:55** 
 <small><sub>**LXX:**</sub></small>
 I remembered your name in \[the\] night, O <span class="smallcaps">lord</span>, and I kept  your law. 
-<small><sub>**KJV:**</sub></small>
-I have remembered thy name, O LORD, in the night, and have kept thy law.
-<small><sub>**BSB:**</sub></small>
-In the night, O LORD, I remember Your name, that I may keep Your law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.54|<< Psalm 119:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.56|Psalm 119:56 >>]]</td></tr></table>
 
 | Translation | Greek |

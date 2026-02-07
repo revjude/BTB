@@ -1,10 +1,7 @@
 **LXX Joshua 9:12** 
 <small><sub>**LXX:**</sub></small>
 These \[are\]  our bread loaves \[we took\] hot, being provided of them from our houses in the day in which we came forth to come to you. And now behold, they are dry, and have become \[worm\] eaten. 
-<small><sub>**KJV:**</sub></small>
-This our bread we took hot [for] our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
-<small><sub>**BSB:**</sub></small>
-This bread of ours was warm when we packed it at home on the day we left to come to you. But look, it is now dry and moldy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.11|<< Joshua 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.13|Joshua 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

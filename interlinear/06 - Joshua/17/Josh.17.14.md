@@ -1,4 +1,4 @@
-**Joshua 17:14** 
+**Joshua 17:14**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Joseph spake unto Joshua, saying, Why hast thou given me [but] one lot and one portion to inherit, seeing I [am] a great people, forasmuch as the LORD hath blessed me hitherto?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the sons of Joseph said to Joshua, “Why have you given us only one portio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.13|<< Joshua 17:13]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.15|Joshua 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1696G\|יְדַבְּרוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

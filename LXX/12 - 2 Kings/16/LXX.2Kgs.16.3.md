@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:3** 
 <small><sub>**LXX:**</sub></small>
 And he went in \[the\] way of \[the\] kings of Israel, and indeed  he led his son through fire, according to the abominations of the nations, which \[the\] <span class="smallcaps">lord</span> removed in front of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the LORD cast out from before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Instead, he walked in the ways of the kings of Israel and even sacrificed his son in the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.2|<< 2 Kings 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.4|2 Kings 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

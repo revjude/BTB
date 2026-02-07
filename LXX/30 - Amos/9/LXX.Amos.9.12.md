@@ -1,10 +1,7 @@
 **LXX Amos 9:12** 
 <small><sub>**LXX:**</sub></small>
 so that the ones remaining of the men should inquire, and all the nations, the ones of whom my name was called upon by them, says \[the\] <span class="smallcaps">lord</span>, the one doing these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the LORD that doeth this.
-<small><sub>**BSB:**</sub></small>
-that they may possess the remnant of Edom and all the nations that bear My name,” declares the LORD, who will do this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.11|<< Amos 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.13|Amos 9:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 9:12** is...

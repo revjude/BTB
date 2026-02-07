@@ -1,4 +1,4 @@
-**Jeremiah 44:27** 
+**Jeremiah 44:27**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will watch over them for evil, and not for good: and all the men of Judah that [are] in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am watching over them for harm and not for good, and every man of Judah who is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] watching  |**<big>&#8207;[[H8245\|שֹׁקֵ֧ד]]&#8207; </big>**| sho.Ked<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

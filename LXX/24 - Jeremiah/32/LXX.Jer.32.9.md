@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:9** 
 <small><sub>**LXX:**</sub></small>
 And I acquired the field \[from\] Hanameel \[the\] son of \[the\] brother of my father, the \[field\] in Anathoth. And I set for him seven and ten silver shekels. 
-<small><sub>**KJV:**</sub></small>
-And I bought the field of Hanameel my uncle’s son, that [was] in Anathoth, and weighed him the money, [even] seventeen shekels of silver.
-<small><sub>**BSB:**</sub></small>
-So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seventeen shekels of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 32:9** is...

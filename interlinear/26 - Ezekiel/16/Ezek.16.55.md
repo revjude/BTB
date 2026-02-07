@@ -1,4 +1,4 @@
-**Ezekiel 16:55** 
+**Ezekiel 16:55**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And your sisters, Sodom with her daughters and Samaria with her daughters, will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.54|<< Ezekiel 16:54]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.56|Ezekiel 16:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sisters your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0269\|אֲחוֹתַ֗יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.cho.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sodom  |**<big>&#8207;[[H5467\|סְדֹ֤ם]]&#8207; </big>**| se.Dom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

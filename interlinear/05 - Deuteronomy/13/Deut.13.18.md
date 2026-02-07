@@ -1,4 +1,4 @@
-**Deuteronomy 13:18** (13:19)
+**Deuteronomy 13:18**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do [that which is] right in the eyes of the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because you obey the LORD your God, keeping all His commandments I am giving you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.17|<< Deuteronomy 13:17]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.1|Deuteronomy 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will listen  |**<big>&#8207;[[H8085H\|תִשְׁמַ֗ע]]&#8207; </big>**| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

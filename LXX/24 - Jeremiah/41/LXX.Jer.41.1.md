@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the seventh month came Ishmael son of Nethaniah son of Elishama, from \[the\] family of the king, and leaders of the king, and ten men with him to Gedaliah in Mizpah; and they ate bread together there. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass in the seventh month, [that] Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.
-<small><sub>**BSB:**</sub></small>
-In the seventh month, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah, and they ate a meal together there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.16|<< Jeremiah 40:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.2|Jeremiah 41:2 >>]]</td></tr></table>
 
 | Translation | Greek |

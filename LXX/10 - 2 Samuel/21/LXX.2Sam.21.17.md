@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:17** 
 <small><sub>**LXX:**</sub></small>
 And Abishai son of Zeruiah helped him, and he struck the Philistine and killed him. Then the men of David swore by an oath, saying, You shall not come forth still with us into battle, that in no way the lamp of Israel should be extinguished. 
-<small><sub>**KJV:**</sub></small>
-But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
-<small><sub>**BSB:**</sub></small>
-But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never again go out with us to battle, so that the lamp of Israel may not be extinguished.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.16|<< 2 Samuel 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.18|2 Samuel 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

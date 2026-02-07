@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:3** 
 <small><sub>**LXX:**</sub></small>
 Do not boast, and do not speak high \[things\] in superiority! Let not come forth lofty language from out of  your mouth! For \[the\] <span class="smallcaps">lord</span> \[is\] a God of knowledge, and God is preparing his practices. 
-<small><sub>**KJV:**</sub></small>
-Talk no more so exceeding proudly; let [not] arrogancy come out of your mouth: for the LORD [is] a God of knowledge, and by him actions are weighed.
-<small><sub>**BSB:**</sub></small>
-Do not boast so proudly, or let arrogance come from your mouth, for the LORD is a God who knows, and by Him actions are weighed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.2|<< 1 Samuel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.4|1 Samuel 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

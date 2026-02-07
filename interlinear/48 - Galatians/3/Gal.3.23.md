@@ -1,12 +1,12 @@
-**Galatians 3:23
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:23**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.
 <small><sub>**BSB:**</sub></small>
 Before this faith came, we were held in custody under the law, locked up until faith should be revealed.
 <small><sub>**Literal:**</sub></small>
 Before <the> now coming <the> faith under [the] Law we were held in custody being locked up until which is being soon faith to be revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.22|<< Galatians 3:22]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.24|Galatians 3:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Before |**<big>[[G4253\|Πρὸ]]</big>**  |Pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

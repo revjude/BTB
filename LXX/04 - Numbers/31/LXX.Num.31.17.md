@@ -1,10 +1,7 @@
 **LXX Numbers 31:17** 
 <small><sub>**LXX:**</sub></small>
 And now kill every male among all the chattel! And every woman who knew \[the\] marriage-bed of a man kill! 
-<small><sub>**KJV:**</sub></small>
-Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.
-<small><sub>**BSB:**</sub></small>
-So now, kill all the boys, as well as every woman who has had relations with a man,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.16|<< Numbers 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.18|Numbers 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 19:2** 
+**Judges 19:2**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his concubine played the whore against him, and went away from him unto her father’s house to Bethlehemjudah, and was there four whole months.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But she was unfaithful to him and left him to return to her father’s house in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.1|<< Judges 19:1]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.3|Judges 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2181\|תִּזְנֶ֤ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiz.Neh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

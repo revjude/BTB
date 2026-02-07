@@ -1,4 +1,4 @@
-**Numbers 17:13** (17:28)
+**Numbers 17:13**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone who comes near the tabernacle of the LORD will die. Are we all going to p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [person] approaching  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7131\|קָּרֵ֧ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Rev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

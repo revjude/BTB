@@ -1,12 +1,12 @@
-**Luke 15:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:23**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And bring hither the fatted calf, and kill [it]; and let us eat, and be merry:
 <small><sub>**BSB:**</sub></small>
 Bring the fattened calf and kill it. Let us feast and celebrate.
 <small><sub>**Literal:**</sub></small>
 and do bring the calf <the> fattened, do kill [it], and having eaten let us be merry,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.22|<< Luke 15:22]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.24|Luke 15:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do bring [^1] |**<big>[[G5342\|φέρετε]]</big>**  |pherete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 109:11** 
 <small><sub>**LXX:**</sub></small>
 \[the\] money-lender search out all as much as exists to him, and strangers plunder  his toils! 
-<small><sub>**KJV:**</sub></small>
-Let the extortioner catch all that he hath; and let the strangers spoil his labour.
-<small><sub>**BSB:**</sub></small>
-May the creditor seize all he owns, and strangers plunder the fruits of his labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.10|<< Psalm 109:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.12|Psalm 109:12 >>]]</td></tr></table>
 
 | Translation | Greek |

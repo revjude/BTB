@@ -1,4 +1,4 @@
-**1 Kings 20:30** 
+**1 Kings 20:30**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the rest fled to Aphek, into the city; and [there] a wall fell upon twenty and seven thousand of the men [that were] left. And Benhadad fled, and came into the city, into an inner chamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rest of them fled into the city of Aphek, where the wall fell on twenty-seve
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.29|<< 1 Kings 20:29]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.31|1 Kings 20:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנֻ֨סוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [ones who] remained  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָרִ֥ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.ta.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

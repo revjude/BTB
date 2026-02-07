@@ -1,10 +1,7 @@
 **LXX Judges 19:9** 
 <small><sub>**LXX:**</sub></small>
 And the man rose up  to go, he and  his concubine, and  his servant. And his father-in-law said to him, the father of the young woman, Behold, indeed \[the\] day is declined into evening, lodge here and do good \[to\] your heart, and rise early tomorrow unto  your way, and you shall depart unto  your tent! 
-<small><sub>**KJV:**</sub></small>
-And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home.
-<small><sub>**BSB:**</sub></small>
-When the man got up to depart with his concubine and his servant, his father-in-law, the girl’s father, said to him, “Look, the day is drawing to a close. Please spend the night. See, the day is almost over. Spend the night here, that your heart may be merry. Then you can get up early tomorrow for your journey home.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.8|<< Judges 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.10|Judges 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

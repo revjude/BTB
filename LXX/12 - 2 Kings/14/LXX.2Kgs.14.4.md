@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:4** 
 <small><sub>**LXX:**</sub></small>
 Only the high \[places\] he did not remove, \[and\] still the people sacrificed and burned incense in the high \[places\]. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the high places were not taken away, and the people continued sacrificing and burning incense on the high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.3|<< 2 Kings 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.5|2 Kings 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

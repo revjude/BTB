@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:23** 
 <small><sub>**LXX:**</sub></small>
 And I lifted up  my hand against them in the wilderness,  to disperse them among the nations, and to scatter them in the places; 
-<small><sub>**KJV:**</sub></small>
-I lifted up mine hand unto them also in the wilderness, that I would scatter them among the heathen, and disperse them through the countries;
-<small><sub>**BSB:**</sub></small>
-However, with an uplifted hand I swore to them in the wilderness that I would scatter them among the nations and disperse them throughout the lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.22|<< Ezekiel 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.24|Ezekiel 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

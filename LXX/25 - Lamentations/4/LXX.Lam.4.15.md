@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΜΕΧ</p>
 
 Separate from \[the\] unclean! Call them! Separate, separate, do not touch! for they were lit, and indeed, they were shaken. Say among the nations! In no way should they proceed  to sojourn \[there\]. 
-<small><sub>**KJV:**</sub></small>
-They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn [there].
-<small><sub>**BSB:**</sub></small>
-“Go away! Unclean!” men shouted at them. “Away, away! Do not touch us!” So they fled and wandered. Among the nations it was said, “They can stay here no longer.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 44:21** 
+**Isaiah 44:21**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember these, O Jacob and Israel; for thou [art] my servant: I have formed thee; thou [art] my servant: O Israel, thou shalt not be forgotten of me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember these things, O Jacob, for you are My servant, O Israel. I have made yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.20|<< Isaiah 44:20]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.22|Isaiah 44:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ze.khor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

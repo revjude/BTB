@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:13** 
 <small><sub>**LXX:**</sub></small>
 and Shallum engendered  Helkiah, and Helkiah engendered  Azariah, 
-<small><sub>**KJV:**</sub></small>
-And Shallum begat Hilkiah, and Hilkiah begat Azariah,
-<small><sub>**BSB:**</sub></small>
-Shallum was the father of Hilkiah, Hilkiah was the father of Azariah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.12|<< 1 Chronicles 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.14|1 Chronicles 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

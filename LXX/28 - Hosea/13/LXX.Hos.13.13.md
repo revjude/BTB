@@ -1,10 +1,7 @@
 **LXX Hosea 13:13** 
 <small><sub>**LXX:**</sub></small>
 Pangs as one giving birth shall come to him; he \[is\]  your intelligent son, because now in no way should he stand in \[the\] destruction of children. 
-<small><sub>**KJV:**</sub></small>
-The sorrows of a travailing woman shall come upon him: he [is] an unwise son; for he should not stay long in [the place of] the breaking forth of children.
-<small><sub>**BSB:**</sub></small>
-Labor pains come upon him, but he is an unwise son. When the time arrives, he fails to present himself at the opening of the womb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.12|<< Hosea 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.14|Hosea 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

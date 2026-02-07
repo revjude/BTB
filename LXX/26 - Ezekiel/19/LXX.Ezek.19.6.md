@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:6** 
 <small><sub>**LXX:**</sub></small>
 And he paced in \[the\] midst of lions; he became a lion, and learned to seize prey, and he devoured men. 
-<small><sub>**KJV:**</sub></small>
-And he went up and down among the lions, he became a young lion, and learned to catch the prey, [and] devoured men.
-<small><sub>**BSB:**</sub></small>
-He prowled among the lions, and became a young lion. After learning to tear his prey, he devoured men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.5|<< Ezekiel 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.7|Ezekiel 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

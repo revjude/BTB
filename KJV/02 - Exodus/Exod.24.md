@@ -1,6 +1,6 @@
 (KJV) **Exodus 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23|<< Exodus 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25|Exodus 25 >>]]</td></tr></table>
 
-***The Covenant Sealed*** ^bsb208
+<big><big>[[Exod.24.1 The Covenant Sealed|⥃]]</big></big>***The Covenant Sealed***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.24.1|1]]**<span class="endversemarker">]</span> And he said unto Moses, Come up<small><small>[^2]</small></small> unto the <span class="smallcaps">Lord</span>, thou, and Aaron, Nadab<small><small>[^3]</small></small>, and Abihu, and seventy<small><small>[^4]</small></small> of the elders of Israel; and worship ye afar off. <span class="startversemarker">[</span>**[[Exod.24.2|2]]**<span class="endversemarker">]</span> And Moses alone shall come near the <span class="smallcaps">Lord</span>: but they shall not come nigh; neither shall the people go up with him.<small><small>[^5]</small></small> 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.24.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.24.9|9]]**<span class="endversemarker">]</span> Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Exod.24.10|10]]**<span class="endversemarker">]</span> And they saw<small><small>[^23]</small></small> the God of Israel: and \[there was\] under his feet as it were a paved work of a sapphire stone<small><small>[^24]</small></small>, and as it were the body of heaven in \[his\] clearness<small><small>[^25]</small></small>. <span class="startversemarker">[</span>**[[Exod.24.11|11]]**<span class="endversemarker">]</span> And upon the nobles<small><small>[^26]</small></small> of the children of Israel he laid not<small><small>[^27]</small></small> his hand: also they saw<small><small>[^28]</small></small> God, and did eat<small><small>[^29]</small></small> and drink.
 
-***Moses on the Mountain*** ^bsb209
+<big><big>[[Exod.24.12 Moses on the Mountain|⥃]]</big></big>***Moses on the Mountain***
 
  
 

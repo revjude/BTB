@@ -1,4 +1,4 @@
-**Proverbs 19:16** 
+**Proverbs 19:16**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that keepeth the commandment keepeth his own soul; [but] he that despiseth his ways shall die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who keeps a commandment preserves his soul, but he who is careless in his way
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] keeps  |**<big>&#8207;[[H8104G\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a commandment  |**<big>&#8207;[[H4687\|מִ֭צְוָה]]&#8207; </big>**| Mitz.vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

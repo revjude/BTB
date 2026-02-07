@@ -1,4 +1,4 @@
-**Hosea 8:1** 
+**Hosea 8:1**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Set] the trumpet to thy mouth. [He shall come] as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put the ram’s horn to your lips! An eagle looms over the house of the LORD, be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.16|<< Hosea 7:16]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.2|Hosea 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth your  |**<big>&#8207;[[H2441\|חִכְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| chi.ke.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

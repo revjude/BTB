@@ -1,4 +1,4 @@
-**Psalms 109:29** 
+**Psalms 109:29**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May my accusers be clothed with disgrace; may they wear their shame like a robe.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.28|<< Psalms 109:28]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.30|Psalms 109:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be clothed  |**<big>&#8207;[[H3847\|יִלְבְּשׁ֣וּ]]&#8207; </big>**| yil.be.Shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | accusers my  |**<big>&#8207;[[H7853\|שׂוֹטְנַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| sot.Na<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

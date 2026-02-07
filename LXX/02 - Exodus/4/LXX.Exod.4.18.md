@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses went, and he returned to Jethro  his father-in-law. And he says, I will go, and return to  my brethren, the \[ones\] in Egypt, and I will see if they still live. And Jethro said \[to\] Moses, Proceed, be in health! But after  those many days the king of Egypt came to an end. 
-<small><sub>**KJV:**</sub></small>
-And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which [are] in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.
-<small><sub>**BSB:**</sub></small>
-Then Moses went back to his father-in-law Jethro and said to him, “Please let me return to my brothers in Egypt to see if they are still alive.” “Go in peace,” Jethro replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.17|<< Exodus 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.19|Exodus 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

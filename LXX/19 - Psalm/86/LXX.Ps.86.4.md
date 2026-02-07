@@ -1,10 +1,7 @@
 **LXX Psalm 86:4** 
 <small><sub>**LXX:**</sub></small>
 Gladden the soul  of your servant! for to you I lifted  my soul. 
-<small><sub>**KJV:**</sub></small>
-Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.
-<small><sub>**BSB:**</sub></small>
-Bring joy to Your servant, for to You, O Lord, I lift up my soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.3|<< Psalm 86:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.5|Psalm 86:5 >>]]</td></tr></table>
 
 | Translation | Greek |

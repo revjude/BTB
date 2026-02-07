@@ -1,10 +1,7 @@
 **LXX Genesis 36:40** 
 <small><sub>**LXX:**</sub></small>
 These are the names of the princes of Esau, in  their tribes according to their place, in  their regions, and in  their nations -- prince Timnah, prince Alvah, prince Jetheth, 
-<small><sub>**KJV:**</sub></small>
-And these [are] the names of the dukes [that came] of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,
-<small><sub>**BSB:**</sub></small>
-These are the names of Esau’s chiefs, according to their families and regions, by their names: Chiefs Timna, Alvah, Jetheth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.39|<< Genesis 36:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.41|Genesis 36:41 >>]]</td></tr></table>
 
 | Translation | Greek |

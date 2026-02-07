@@ -1,4 +1,4 @@
-**Genesis 25:23** 
+**Genesis 25:23**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto her, Two nations [are] in thy womb, and two manner of people shall be separated from thy bowels; and [the one] people shall be stronger than [the other] people; and the elder shall serve the younger.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and He declared to her: “Two nations are in your womb, and two peoples from wi
 > $\quad$ referenced by: [[Rom.9.12|Rom 9:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

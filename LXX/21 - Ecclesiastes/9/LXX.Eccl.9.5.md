@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:5** 
 <small><sub>**LXX:**</sub></small>
 For the living shall know that they shall die; but the dead are not knowing anything; and there is not a wage to them any longer, for their remembrance was forgotten. 
-<small><sub>**KJV:**</sub></small>
-For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
-<small><sub>**BSB:**</sub></small>
-For the living know that they will die, but the dead know nothing. They have no further reward, because the memory of them is forgotten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.4|<< Ecclesiastes 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.6|Ecclesiastes 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 21:21** 
 <small><sub>**LXX:**</sub></small>
 And they gave to them the city of the place of refuge for the  one manslaying --  Shechem and the \[parts\] being separated  with it in  mount Ephraim, and Gezer and the \[parts\] being separated  with it, 
-<small><sub>**KJV:**</sub></small>
-For they gave them Shechem with her suburbs in mount Ephraim, [to be] a city of refuge for the slayer; and Gezer with her suburbs,
-<small><sub>**BSB:**</sub></small>
-they were given Shechem in the hill country of Ephraim (a city of refuge for the manslayer), Gezer,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.20|<< Joshua 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.22|Joshua 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after two years of days, Pharaoh saw a dream. He imagined standing at the river. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
-<small><sub>**BSB:**</sub></small>
-After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.23|<< Genesis 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.2|Genesis 41:2 >>]]</td></tr></table>
 
 | Translation | Greek |

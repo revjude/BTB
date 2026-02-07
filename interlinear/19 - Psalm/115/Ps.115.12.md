@@ -1,4 +1,4 @@
-**Psalms 115:12** 
+**Psalms 115:12**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath been mindful of us: he will bless [us]; he will bless the house of Israel; he will bless the house of Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is mindful of us; He will bless us. He will bless the house of Israel; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.11|<< Psalms 115:11]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.13|Psalms 115:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has remembered us  |**<big>&#8207;[[H2142\|זְכָרָ֪]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ze.kha.Ra.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

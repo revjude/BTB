@@ -1,4 +1,4 @@
-**2 Samuel 19:6** (19:7)
+**2 Samuel 19:6**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that thou lovest thine enemies, and hatest thy friends. For thou hast declared this day, that thou regardest neither princes nor servants: for this day I perceive, that if Absalom had lived, and all we had died this day, then it had pleased thee well.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You love those who hate you and hate those who love you! For you have made it cl
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.5|<< 2 Samuel 19:5]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.7|2 Samuel 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by loving  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0157G\|אַֽהֲבָה֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ha.Vah<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 42:22** 
+**Jeremiah 42:22**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go [and] to sojourn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, know for sure that by sword and famine and plague you will die in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.21|<< Jeremiah 42:21]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.1|Jeremiah 43:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | assuredly \<know>  |**<big>&#8207;[[H3045\|יָדֹ֣עַ]]&#8207; </big>**| ya.Do.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

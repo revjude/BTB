@@ -1,12 +1,12 @@
-**2 Peter 2:19
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:19**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.
 <small><sub>**BSB:**</sub></small>
 They promise them freedom, while they themselves are slaves to depravity. For a man is a slave to whatever has mastered him.
 <small><sub>**Literal:**</sub></small>
 freedom them promising, themselves slaves being <the> of corruption; By what for anyone has been subdued, by that and he has been enslaved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.18|<< 2 Peter 2:18]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.20|2 Peter 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | freedom |**<big>[[G1657\|ἐλευθερίαν]]</big>**  |eleutherian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 2:26** 
+**Jeremiah 2:26**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the thief is ashamed when he is caught, so the house of Israel is disgraced. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.25|<< Jeremiah 2:25]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.27|Jeremiah 2:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] shame of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1322\|בֹ֤שֶׁת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Vo.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thief  |**<big>&#8207;[[H1590\|גַּנָּב֙]]&#8207; </big>**| ga.Nav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 42:3** 
 <small><sub>**LXX:**</sub></small>
 And the brothers of Joseph went down, the ten, to buy grain from Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Joseph’s ten brethren went down to buy corn in Egypt.
-<small><sub>**BSB:**</sub></small>
-So ten of Joseph’s brothers went down to buy grain from Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.2|<< Genesis 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.4|Genesis 42:4 >>]]</td></tr></table>
 
 | Translation | Greek |

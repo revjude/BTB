@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:20** 
 <small><sub>**LXX:**</sub></small>
 You then hearken to the words of \[the\] <span class="smallcaps">lord</span>! \[even\] all the displacement which I sent from Jerusalem into Babylon. 
-<small><sub>**KJV:**</sub></small>
-Hear ye therefore the word of the LORD, all ye of the captivity, whom I have sent from Jerusalem to Babylon:
-<small><sub>**BSB:**</sub></small>
-So hear the word of the LORD, all you exiles I have sent away from Jerusalem to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.19|<< Jeremiah 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.21|Jeremiah 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

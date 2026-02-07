@@ -1,4 +1,4 @@
-**1 Samuel 10:11** 
+**1 Samuel 10:11**<big><big>[[1Sam.10.9 Samuel’s Signs Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when all that knew him beforetime saw that, behold, he prophesied among the prophets, then the people said one to another, What [is] this [that] is come unto the son of Kish? [Is] Saul also among the prophets?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all those who had formerly known Saul saw him prophesying with the prophets
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.10|<< 1 Samuel 10:10]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.12|1 Samuel 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

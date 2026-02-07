@@ -1,4 +1,4 @@
-**1 Kings 11:13** 
+**1 Kings 11:13**<big><big>[[1Kgs.11.9 God’s Anger against Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I will not rend away all the kingdom; [but] will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet I will not tear the whole kingdom away from him. I will give one tribe to yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.12|<< 1 Kings 11:12]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.14|1 Kings 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֤ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

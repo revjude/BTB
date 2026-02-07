@@ -1,4 +1,4 @@
-**Job 28:28** 
+**Job 28:28**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto man he said, Behold, the fear of the Lord, that [is] wisdom; and to depart from evil [is] understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He said to man, ‘Behold, the fear of the Lord, that is wisdom, and to turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.27|<< Job 28:27]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.1|Job 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> humankind  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

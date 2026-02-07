@@ -1,4 +1,4 @@
-**Joshua 22:31** 
+**Joshua 22:31**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the LORD [is] among us, because ye have not committed this trespass against the LORD: now ye have delivered the children of Israel out of the hand of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Phinehas son of Eleazar the priest said to the descendants of Reuben, Gad, and M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.30|<< Joshua 22:30]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.32|Joshua 22:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Phinehas  |**<big>&#8207;[[H6372G\|פִּֽינְחָ֣ס]]&#8207; </big>**| pin.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

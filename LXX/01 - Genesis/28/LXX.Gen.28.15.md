@@ -1,10 +1,7 @@
 **LXX Genesis 28:15** 
 <small><sub>**LXX:**</sub></small>
 And behold, I am with you, guarding you in  every way of which ever you may go. And I will return you to  this land, for no way would I abandon you until  my doing all as much as I spoke to you. 
-<small><sub>**KJV:**</sub></small>
-And, behold, I [am] with thee, and will keep thee in all [places] whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done [that] which I have spoken to thee of.
-<small><sub>**BSB:**</sub></small>
-Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.14|<< Genesis 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.16|Genesis 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

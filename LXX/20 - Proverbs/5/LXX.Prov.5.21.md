@@ -1,10 +1,7 @@
 **LXX Proverbs 5:21** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] ways of a man are before the eyes of God, and he watches unto all his tracks. 
-<small><sub>**KJV:**</sub></small>
-For the ways of man [are] before the eyes of the LORD, and he pondereth all his goings.
-<small><sub>**BSB:**</sub></small>
-For a man’s ways are before the eyes of the LORD, and the LORD examines all his paths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.20|<< Proverbs 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.22|Proverbs 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

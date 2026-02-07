@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:7** 
 <small><sub>**LXX:**</sub></small>
 \[To\] Edom, thus says \[the\] <span class="smallcaps">lord</span>, There is no more wisdom in Teman. \[The\] counsel of experts was destroyed. Their wisdom was undone. 
-<small><sub>**KJV:**</sub></small>
-Concerning Edom, thus saith the LORD of hosts; [Is] wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
-<small><sub>**BSB:**</sub></small>
-Concerning Edom, this is what the LORD of Hosts says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.6|<< Jeremiah 49:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.8|Jeremiah 49:8 >>]]</td></tr></table>
 
 | Translation | Greek |

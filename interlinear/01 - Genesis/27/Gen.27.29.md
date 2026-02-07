@@ -1,4 +1,4 @@
-**Genesis 27:29** 
+**Genesis 27:29**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed [be] every one that curseth thee, and blessed [be] he that blesseth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May peoples serve you and nations bow down to you. May you be the master of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.28|<< Genesis 27:28]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.30|Genesis 27:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they serve you  |**<big>&#8207;[[H5647G\|יַֽעַבְד֣וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ya.'av.Du.<small><sup>[[HVqi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּ֗ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 74:21** 
 <small><sub>**LXX:**</sub></small>
 Let not \[the\] one being humbled be turned away being disgraced! \[The\] poor and needy shall praise  your name. 
-<small><sub>**KJV:**</sub></small>
-O let not the oppressed return ashamed: let the poor and needy praise thy name.
-<small><sub>**BSB:**</sub></small>
-Do not let the oppressed retreat in shame; may the poor and needy praise Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.20|<< Psalm 74:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.22|Psalm 74:22 >>]]</td></tr></table>
 
 | Translation | Greek |

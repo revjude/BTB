@@ -1,4 +1,4 @@
-**2 Chronicles 13:2** 
+**2 Chronicles 13:2**<big><big>[[2Chr.13.1 Abijah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He reigned three years in Jerusalem. His mother’s name also [was] Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he reigned in Jerusalem three years. His mother’s name was Micaiah daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.1|<< 2 Chronicles 13:1]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.3|2 Chronicles 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁל֣וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִ֗ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

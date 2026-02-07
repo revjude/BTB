@@ -1,10 +1,7 @@
 **LXX Exodus 14:26** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Stretch out  your hand upon the sea, and restore the water, and cover over the Egyptians, over both the chariots and over the riders! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Stretch out your hand over the sea, so that the waters may flow back over the Egyptians and their chariots and horsemen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.25|<< Exodus 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.27|Exodus 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

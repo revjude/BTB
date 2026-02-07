@@ -1,4 +1,4 @@
-**Jeremiah 4:22** 
+**Jeremiah 4:22**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my people [is] foolish, they have not known me; they [are] sottish children, and they have none understanding: they [are] wise to do evil, but to do good they have no knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For my people [is] foolish, they have not known me; they [are] sottish children,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.21|<< Jeremiah 4:21]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.23|Jeremiah 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a fool  |**<big>&#8207;[[H0191\|אֱוִ֣יל]]&#8207; </big>**| 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

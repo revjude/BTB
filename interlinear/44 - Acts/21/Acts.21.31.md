@@ -1,12 +1,12 @@
-**Acts 21:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:31**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.
 <small><sub>**BSB:**</sub></small>
 While they were trying to kill him, the commander of the Roman regiment received a report that all Jerusalem was in turmoil.
 <small><sub>**Literal:**</sub></small>
 Of them seeking then him to kill there came a report to the commander of the cohort that all are in an uproar Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.30|<< Acts 21:30]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.32|Acts 21:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of them seeking |**<big>[[G2212\|ζητούντων]]</big>**  |zētountōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

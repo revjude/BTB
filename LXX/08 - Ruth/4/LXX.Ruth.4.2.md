@@ -1,10 +1,7 @@
 **LXX Ruth 4:2** 
 <small><sub>**LXX:**</sub></small>
 And Boaz took ten men from the elders of the city, and said, Sit here! And they sat. 
-<small><sub>**KJV:**</sub></small>
-And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.
-<small><sub>**BSB:**</sub></small>
-Then Boaz took ten of the elders of the city and said, “Sit here,” and they did so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.1|<< Ruth 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.3|Ruth 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

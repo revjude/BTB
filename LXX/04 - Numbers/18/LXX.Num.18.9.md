@@ -1,10 +1,7 @@
 **LXX Numbers 18:9** 
 <small><sub>**LXX:**</sub></small>
 And let this be to you from the holy \[things\] having been sanctified of the yield \[offerings\], from all  their gifts, and from all  their sacrifices, and from all their trespass \[offerings\], and from all  their sin \[offerings\]! as many as they give back to me of all of the holy \[things\], it shall be to you and \[to\] your sons. 
-<small><sub>**KJV:**</sub></small>
-This shall be thine of the most holy things, [reserved] from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, [shall be] most holy for thee and for thy sons.
-<small><sub>**BSB:**</sub></small>
-A portion of the most holy offerings reserved from the fire will be yours. From all the offerings they render to Me as most holy offerings, whether grain offerings or sin offerings or guilt offerings, that part belongs to you and your sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.8|<< Numbers 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.10|Numbers 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 11:14** 
 <small><sub>**LXX:**</sub></small>
 And they shall fly in \[the\] boast of \[the\] Philistines west; together they shall despoil even the ones from \[the\] dawn of \[the\] sun, and Edom; and they shall put hands upon Moab first; but the sons of Ammon at first shall obey. 
-<small><sub>**KJV:**</sub></small>
-But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
-<small><sub>**BSB:**</sub></small>
-They will swoop down on the slopes of the Philistines to the west; together they will plunder the sons of the east. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.13|<< Isaiah 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.15|Isaiah 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

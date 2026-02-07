@@ -1,4 +1,4 @@
-**Psalms 146:4** 
+**Psalms 146:4**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When his spirit departs, he returns to the ground; on that very day his plans pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.3|<< Psalms 146:3]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.5|Psalms 146:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will go out  |**<big>&#8207;[[H3318G\|תֵּצֵ֣א]]&#8207; </big>**| te.Tze'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | breath his  |**<big>&#8207;[[H7307H\|ר֭וּח]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ru.ch<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

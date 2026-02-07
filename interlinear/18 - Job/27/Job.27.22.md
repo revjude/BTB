@@ -1,4 +1,4 @@
-**Job 27:22** 
+**Job 27:22**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [God] shall cast upon him, and not spare: he would fain flee out of his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It hurls itself against him without mercy as he flees headlong from its power.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.21|<< Job 27:21]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.23|Job 27:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will throw [it]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7993\|יַשְׁלֵ֣ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yash.Lekh<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָ֭לָי]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'A.la<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

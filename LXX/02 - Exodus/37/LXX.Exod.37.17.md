@@ -1,10 +1,7 @@
 **LXX Exodus 37:17** 
 <small><sub>**LXX:**</sub></small>
 And he made the lamp-stand of pure gold; a turned piece he made the lamp-stand.  Its stem, and the branches, and the basins, and the knobs, and the lilies were of it. 
-<small><sub>**KJV:**</sub></small>
-And he made the candlestick [of] pure gold: [of] beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:
-<small><sub>**BSB:**</sub></small>
-Then he made the lampstand out of pure hammered gold, all of one piece: its base and shaft, its cups, and its buds and petals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.16|<< Exodus 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.18|Exodus 37:18 >>]]</td></tr></table>
 
 | Translation | Greek |

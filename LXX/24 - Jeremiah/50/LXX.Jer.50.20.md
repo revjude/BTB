@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:20** 
 <small><sub>**LXX:**</sub></small>
 In  those days, and in  that time, says \[the\] <span class="smallcaps">lord</span>, they shall seek the unrighteousness of Israel, and it will not exist. And \[they shall seek\] the sins of Judah, and in no way shall they be found. For I will be kindness to the ones being left behind. 
-<small><sub>**KJV:**</sub></small>
-In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and [there shall be] none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.
-<small><sub>**BSB:**</sub></small>
-In those days and at that time, declares the LORD, a search will be made for Israel’s guilt, but there will be none, and for Judah’s sins, but they will not be found; for I will forgive the remnant I preserve.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.19|<< Jeremiah 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.21|Jeremiah 50:21 >>]]</td></tr></table>
 
 | Translation | Greek |

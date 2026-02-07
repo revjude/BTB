@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:24** 
 <small><sub>**LXX:**</sub></small>
 And Pethahiah son of Meshezabeel of the sons of Zerah, son of Judah, \[was\] by \[the\] hand of the king for all matters \[concerning\] the people. 
-<small><sub>**KJV:**</sub></small>
-And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, [was] at the king’s hand in all matters concerning the people.
-<small><sub>**BSB:**</sub></small>
-Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’s agent in every matter concerning the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.23|<< Nehemiah 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.25|Nehemiah 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

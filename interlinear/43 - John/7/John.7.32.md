@@ -1,12 +1,12 @@
-**John 7:32
-**<small><sub>**KJV:**</sub></small>
+**John 7:32**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
 <small><sub>**BSB:**</sub></small>
 When the Pharisees heard the crowd whispering these things about Jesus, they and the chief priests sent officers to arrest Him.
 <small><sub>**Literal:**</sub></small>
 Heard the Pharisees the crowd murmuring about Him these things, and sent the chief priests and the Pharisees officers that they may seize Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.31|<< John 7:31]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.33|John 7:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Heard |**<big>[[G0191\|ἤκουσαν]]</big>**  |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

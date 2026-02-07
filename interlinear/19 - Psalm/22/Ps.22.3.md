@@ -1,4 +1,4 @@
-**Psalms 22:3** (22:4)
+**Psalms 22:3**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou [art] holy, [O thou] that inhabitest the praises of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet You are holy, enthroned on the praises of Israel.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] holy  |**<big>&#8207;[[H6918G\|קָד֑וֹשׁ]]&#8207; </big>**| ka.Do.osh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

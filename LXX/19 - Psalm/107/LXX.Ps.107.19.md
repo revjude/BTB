@@ -1,10 +1,7 @@
 **LXX Psalm 107:19** 
 <small><sub>**LXX:**</sub></small>
 And they cried out to \[the\] <span class="smallcaps">lord</span> in  their being afflicted; and he delivered them from out of their distresses. 
-<small><sub>**KJV:**</sub></small>
-Then they cry unto the LORD in their trouble, [and] he saveth them out of their distresses.
-<small><sub>**BSB:**</sub></small>
-Then they cried out to the LORD in their trouble, and He saved them from their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.18|<< Psalm 107:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.20|Psalm 107:20 >>]]</td></tr></table>
 
 | Translation | Greek |

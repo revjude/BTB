@@ -1,12 +1,12 @@
-**Luke 1:66
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:66**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all they that heard [them] laid [them] up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.
 <small><sub>**BSB:**</sub></small>
 And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him.
 <small><sub>**Literal:**</sub></small>
 And laid [them] up all those having heard in the heart of them saying; What then <the> child this will be? And for [the] hand of [the] Lord was with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.65|<< Luke 1:65]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.67|Luke 1:67 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | laid [them] up |**<big>[[G5087\|ἔθεντο]]</big>**  |ethento <small><sup>[[V-2AMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

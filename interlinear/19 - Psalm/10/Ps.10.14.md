@@ -1,4 +1,4 @@
-**Psalms 10:14** 
+**Psalms 10:14**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast seen [it]; for thou beholdest mischief and spite, to requite [it] with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You have regarded trouble and grief; You see to repay it by Your hand. The v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.13|<< Psalms 10:13]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.15|Psalms 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have seen  |**<big>&#8207;[[H7200G\|רָאִ֡תָה]]&#8207; </big>**| ra.'I.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

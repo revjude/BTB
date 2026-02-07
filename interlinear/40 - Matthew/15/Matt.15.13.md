@@ -1,12 +1,12 @@
-**Matthew 15:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:13**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Every plant that My heavenly Father has not planted will be pulled up by its roots.
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said; Every plant that not has planted the Father of Mine <the> Heavenly it will be rooted up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.12|<< Matthew 15:12]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.14|Matthew 15:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

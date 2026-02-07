@@ -1,12 +1,12 @@
-**Luke 5:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:33**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise [the disciples] of the Pharisees; but thine eat and drink?
 <small><sub>**BSB:**</sub></small>
 Then they said to Him, “John’s disciples and those of the Pharisees frequently fast and pray, but Yours keep on eating and drinking.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said to Him; through why The disciples of John fast often and prayers make, likewise also those of the Pharisees, those however of You eat and drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.32|<< Luke 5:32]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.34|Luke 5:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

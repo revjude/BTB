@@ -1,10 +1,7 @@
 **LXX Exodus 13:3** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to the people, Remember  this day in which you came forth from out of Egypt, from out of \[the\] house of slavery. For with a fortified hand \[the\] <span class="smallcaps">lord</span> led you from here, and you shall not eat yeast. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this [place]: there shall no leavened bread be eaten.
-<small><sub>**BSB:**</sub></small>
-So Moses told the people, “Remember this day, the day you came out of Egypt, out of the house of slavery; for the LORD brought you out of it by the strength of His hand. And nothing leavened shall be eaten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.2|<< Exodus 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.4|Exodus 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

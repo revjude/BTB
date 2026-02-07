@@ -1,12 +1,12 @@
-**Matthew 21:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:11**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude said, This is Jesus the prophet of Nazareth of Galilee.
 <small><sub>**BSB:**</sub></small>
 The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”
 <small><sub>**Literal:**</sub></small>
 <the> And the crowds were saying; This is the prophet Jesus, the [One] from Nazareth <the> of Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.10|<< Matthew 21:10]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.12|Matthew 21:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

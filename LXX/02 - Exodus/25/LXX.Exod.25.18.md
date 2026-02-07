@@ -1,10 +1,7 @@
 **LXX Exodus 25:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall make two cherubim wrought in gold, and you shall place them at both of the sides of the atonement-seat. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make two cherubims [of] gold, [of] beaten work shalt thou make them, in the two ends of the mercy seat.
-<small><sub>**BSB:**</sub></small>
-Make two cherubim of hammered gold at the ends of the mercy seat,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.17|<< Exodus 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.19|Exodus 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

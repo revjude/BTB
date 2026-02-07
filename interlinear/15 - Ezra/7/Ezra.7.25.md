@@ -1,4 +1,4 @@
-**Ezra 7:25** 
+**Ezra 7:25**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, Ezra, after the wisdom of thy God, that [is] in thine hand, set magistrates and judges, which may judge all the people that [are] beyond the river, all such as know the laws of thy God; and teach ye them that know [them] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you, Ezra, according to the wisdom of your God, which you possess, are to ap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.24|<< Ezra 7:24]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.26|Ezra 7:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0607\|אַ֣נְתְּ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'Ant<small><sup>[[APp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Ezra  |**<big>&#8207;[[H5831\|עֶזְרָ֗א]]&#8207; </big>**| 'ez.Ra'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

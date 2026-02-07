@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:18** 
 <small><sub>**LXX:**</sub></small>
 And to the house of the Rechabites, Jeremiah said, Thus said \[the\] <span class="smallcaps">lord</span>, Since \[the\] sons of Jonadab son of Rechab hearkened to the commandment  of their father, to do in so far as their father gave charge to them; on account of this thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, 
-<small><sub>**KJV:**</sub></small>
-And Jeremiah said unto the house of the Rechabites, Thus saith the LORD of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah said to the house of the Rechabites: “This is what the LORD of Hosts, the God of Israel, says: ‘Because you have obeyed the command of your forefather Jonadab and have kept all his commandments and have done all that he charged you to do,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.17|<< Jeremiah 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.19|Jeremiah 35:19 >>]]</td></tr></table>
 
 | Translation | Greek |

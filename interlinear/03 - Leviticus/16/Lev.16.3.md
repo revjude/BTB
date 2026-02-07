@@ -1,4 +1,4 @@
-**Leviticus 16:3** 
+**Leviticus 16:3**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall Aaron come into the holy [place]: with a young bullock for a sin offering, and a ram for a burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is how Aaron is to enter the Holy Place: with a young bull for a sin offeri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.2|<< Leviticus 16:2]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.4|Leviticus 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with this  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2063\|זֹ֛את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will come  |**<big>&#8207;[[H0935G\|יָבֹ֥א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

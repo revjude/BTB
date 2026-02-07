@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:33** 
 <small><sub>**LXX:**</sub></small>
 \[but\] according to every  way which \[the\] <span class="smallcaps">lord</span> your God gave charge to you to go by it, so that he should rest you, and good might be to you, and you should prolong your days upon the land which you shall inherit. 
-<small><sub>**KJV:**</sub></small>
-Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and [that it may be] well with you, and [that] ye may prolong [your] days in the land which ye shall possess.
-<small><sub>**BSB:**</sub></small>
-You must walk in all the ways that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.32|<< Deuteronomy 5:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.1|Deuteronomy 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

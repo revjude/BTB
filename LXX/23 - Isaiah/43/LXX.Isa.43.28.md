@@ -1,10 +1,7 @@
 **LXX Isaiah 43:28** 
 <small><sub>**LXX:**</sub></small>
 And the rulers defiled  my holy \[things\]; and I gave Jacob up to be destroyed, and Israel for scorning. 
-<small><sub>**KJV:**</sub></small>
-Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
-<small><sub>**BSB:**</sub></small>
-So I will disgrace the princes of your sanctuary, and I will devote Jacob to destruction and Israel to reproach.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.27|<< Isaiah 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.1|Isaiah 44:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 6:18** (6:11)
+**Leviticus 6:18**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the males among the children of Aaron shall eat of it. [It shall be] a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Any male among the sons of Aaron may eat it. This is a permanent portion from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.17|<< Leviticus 6:17]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.19|Leviticus 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | male  |**<big>&#8207;[[H2145\|זָכָ֞ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

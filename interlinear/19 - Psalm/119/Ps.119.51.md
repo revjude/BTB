@@ -1,4 +1,4 @@
-**Psalms 119:51** 
+**Psalms 119:51**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The proud have had me greatly in derision: [yet] have I not declined from thy law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The arrogant utterly deride me, but I do not turn from Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.50|<< Psalms 119:50]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.52|Psalms 119:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arrogant [people]  |**<big>&#8207;[[H2086\|זֵ֭דִים]]&#8207; </big>**| Ze.dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have mocked me  |**<big>&#8207;[[H3887\|הֱלִיצֻ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| he.li.Tzu.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 2:22
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:22**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.
 <small><sub>**BSB:**</sub></small>
 Behold, I will cast her onto a bed of sickness, and those who commit adultery with her will suffer great tribulation unless they repent of her deeds.
 <small><sub>**Literal:**</sub></small>
 Behold I myself I cast her into a sickbed and those committing adultery with her into tribulation great, only unless they shall repent of the deeds of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.21|<< Revelation 2:21]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.23|Revelation 2:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="TR">k</abbr> | |

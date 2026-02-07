@@ -1,12 +1,12 @@
-**Acts 10:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:24**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
 <small><sub>**BSB:**</sub></small>
 The following day he arrived in Caesarea, where Cornelius was expecting them and had called together his relatives and close friends.
 <small><sub>**Literal:**</sub></small>
 and On the now next day he entered into <the> Caesarea; <the> and Cornelius was expecting them having called together the relatives of him and <the> close friends.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.23|<< Acts 10:23]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.25|Acts 10:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | On the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

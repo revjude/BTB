@@ -1,12 +1,12 @@
-**John 21:20
-**<small><sub>**KJV:**</sub></small>
+**John 21:20**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
 <small><sub>**BSB:**</sub></small>
 Peter turned and saw the disciple whom Jesus loved following them. He was the one who had leaned back against Jesus at the supper to ask, “Lord, who is going to betray You?”
 <small><sub>**Literal:**</sub></small>
 Having turned now <the> Peter sees the disciple whom was loving <the> Jesus following who also had reclined at the supper on the bosom of Him and said; Lord, who is it who is betraying You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.19|<< John 21:19]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.21|John 21:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having turned |**<big>[[G1994\|Ἐπιστραφεὶς]]</big>**  |Epistrapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

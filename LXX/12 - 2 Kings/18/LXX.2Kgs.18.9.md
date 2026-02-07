@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:9** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the fourth year to king Hezekiah, this is the seventh year  of Hoshea son of Elah king of Israel, ascended Shalmaneser king of \[the\] Assyrians against Samaria, and assaulted it. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the fourth year of king Hezekiah, which [was] the seventh year of Hoshea son of Elah king of Israel, [that] Shalmaneser king of Assyria came up against Samaria, and besieged it.
-<small><sub>**BSB:**</sub></small>
-In the fourth year of Hezekiah’s reign, which was the seventh year of the reign of Hoshea son of Elah over Israel, Shalmaneser king of Assyria marched against Samaria and besieged it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.8|<< 2 Kings 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.10|2 Kings 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

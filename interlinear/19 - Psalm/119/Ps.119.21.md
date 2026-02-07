@@ -1,4 +1,4 @@
-**Psalms 119:21** 
+**Psalms 119:21**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast rebuked the proud [that are] cursed, which do err from thy commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You rebuke the arrogant—the cursed who stray from Your commandments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.20|<< Psalms 119:20]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.22|Psalms 119:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you rebuke  |**<big>&#8207;[[H1605\|גָּ֭עַרְתָּ]]&#8207; </big>**| Ga.'ar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrogant [people]  |**<big>&#8207;[[H2086\|זֵדִ֣ים]]&#8207; </big>**| ze.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

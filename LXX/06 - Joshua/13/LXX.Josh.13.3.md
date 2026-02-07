@@ -1,10 +1,7 @@
 **LXX Joshua 13:3** 
 <small><sub>**LXX:**</sub></small>
 from the uninhabited part  by \[the\] face of Egypt, unto the borders of Ekron, from \[the\] left of the Canaanites -- \[which is\] counted in addition to; the five satrapies of the Philistines, to the Gazite, and to the Ashdodite and to the Ashkelonite, and to the Gittite, and to the Ekronite, and to the Hivite; 
-<small><sub>**KJV:**</sub></small>
-From Sihor, which [is] before Egypt, even unto the borders of Ekron northward, [which] is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
-<small><sub>**BSB:**</sub></small>
-from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.2|<< Joshua 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.4|Joshua 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

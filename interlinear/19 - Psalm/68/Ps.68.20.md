@@ -1,4 +1,4 @@
-**Psalms 68:20** (68:21)
+**Psalms 68:20**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] our God [is] the God of salvation; and unto GOD the Lord [belong] the issues from death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our God is a God of deliverance; the Lord GOD is our rescuer from death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.19|<< Psalms 68:19]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.21|Psalms 68:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ֤]]&#8207;&#8207;[[H0410G\|אֵ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of us  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9035\|נוּ֮]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

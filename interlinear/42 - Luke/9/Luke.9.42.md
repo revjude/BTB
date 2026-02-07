@@ -1,12 +1,12 @@
-**Luke 9:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:42**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he was yet a coming, the devil threw him down, and tare [him]. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.
 <small><sub>**BSB:**</sub></small>
 Even while the boy was approaching, the demon slammed him to the ground in a convulsion. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.
 <small><sub>**Literal:**</sub></small>
 While then when is coming near he threw down him the demon and threw [him] into convulsions. Rebuked then <the> Jesus the spirit <the> unclean and healed the boy and gave back him to the father of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.41|<< Luke 9:41]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.43|Luke 9:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

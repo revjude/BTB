@@ -1,10 +1,7 @@
 **LXX Judges 6:39** 
 <small><sub>**LXX:**</sub></small>
 And Gideon said to  God, Let not your rage be provoked to anger against me! for I will speak still once \[more\], and I will test still once \[more\] by the fleece. And let there become yet dryness upon the fleece only, and upon all the ground let there become dew! 
-<small><sub>**KJV:**</sub></small>
-And Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew.
-<small><sub>**BSB:**</sub></small>
-Then Gideon said to God, “Do not be angry with me; let me speak one more time. Please allow me one more test with the fleece. This time let it be dry, and the ground covered with dew.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.38|<< Judges 6:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.40|Judges 6:40 >>]]</td></tr></table>
 
 | Translation | Greek |

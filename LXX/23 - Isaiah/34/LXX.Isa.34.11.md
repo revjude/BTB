@@ -1,10 +1,7 @@
 **LXX Isaiah 34:11** 
 <small><sub>**LXX:**</sub></small>
 Birds, and hedgehogs, and ibises, and crows shall dwell in her; and a surveying cord of desolation shall be put upon her; and satyrs shall live in her. 
-<small><sub>**KJV:**</sub></small>
-But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.
-<small><sub>**BSB:**</sub></small>
-The desert owl and screech owl will possess it, and the great owl and raven will dwell in it. The LORD will stretch out over Edom a measuring line of chaos and a plumb line of destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.10|<< Isaiah 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.12|Isaiah 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

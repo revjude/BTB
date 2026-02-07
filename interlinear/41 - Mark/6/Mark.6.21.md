@@ -1,12 +1,12 @@
-**Mark 6:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:21**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief [estates] of Galilee;
 <small><sub>**BSB:**</sub></small>
 On Herod’s birthday, her opportunity arose. Herod held a banquet for his nobles and military commanders and the leading men of Galilee.
 <small><sub>**Literal:**</sub></small>
 And when was coming [a] day opportune when Herod on the birthday of him a banquet made for the great men of him and for the chief captains and for the leading [men] <the> of Galilee<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.20|<< Mark 6:20]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.22|Mark 6:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was coming |**<big>[[G1096\|γενομένης]]</big>**  |genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

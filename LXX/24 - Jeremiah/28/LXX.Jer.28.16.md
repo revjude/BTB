@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus said \[the\] <span class="smallcaps">lord</span>, Behold, I send you out from \[the\] face of the land. In this  year you shall die, for you spoke against the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: ‘I am about to remove you from the face of the earth. You will die this year because you have preached rebellion against the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.15|<< Jeremiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.17|Jeremiah 28:17 >>]]</td></tr></table>
 
 | Translation | Greek |

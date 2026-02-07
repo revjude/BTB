@@ -1,6 +1,6 @@
 (KJV) **Hosea 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5|<< Hosea 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7|Hosea 7 >>]]</td></tr></table>
 
-***The Unrepentance of Israel and Judah*** ^bsb1977
+<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥃]]</big></big>***The Unrepentance of Israel and Judah***
 
  $\quad$ <span class="startversemarker">[</span>**[[Hos.6.1|1]]**<span class="endversemarker">]</span> Come, and let<small><small>[^2]</small></small> us return unto the <span class="smallcaps">Lord</span>: for he hath torn<small><small>[^3]</small></small>, and he will heal us; he hath smitten, and he will bind us up. <span class="startversemarker">[</span>**[[Hos.6.2|2]]**<span class="endversemarker">]</span> After two<small><small>[^4]</small></small> days will he revive us: in the third day he will raise us up, and we<small><small>[^5]</small></small> shall live in his sight. <span class="startversemarker">[</span>**[[Hos.6.3|3]]**<span class="endversemarker">]</span> Then shall we know<small><small>[^6]</small></small>, \[if<small><small>[^7]</small></small>\] we follow on to know the <span class="smallcaps">Lord</span>: his going<small><small>[^8]</small></small> forth is prepared as the morning; and he shall come unto us as the rain<small><small>[^9]</small></small>, as the latter \[and\] former rain unto the earth. 
 

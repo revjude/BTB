@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:6** 
 <small><sub>**LXX:**</sub></small>
 And Baasha slept with  his fathers, and they entombed \[him\] in Tirzah, and Elah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Baasha rested with his fathers and was buried in Tirzah, and his son Elah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.5|<< 1 Kings 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.7|1 Kings 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

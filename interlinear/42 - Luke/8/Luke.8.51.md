@@ -1,12 +1,12 @@
-**Luke 8:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:51**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.
 <small><sub>**BSB:**</sub></small>
 When He entered the house, He did not allow anyone to go in with Him except Peter, John, James, and the child’s father and mother.
 <small><sub>**Literal:**</sub></small>
 having entered then into the house not He did allow to go in anyone with Him only except Peter and John and James, and the father of the child and the mother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.50|<< Luke 8:50]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.52|Luke 8:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having entered [^1] |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Zechariah 12:11** 
 <small><sub>**LXX:**</sub></small>
 In  that day beating the breast shall be magnified in Jerusalem, as the beating of the breast \[over the\] pomegranate grove in \[the\] plain having been cut down. 
-<small><sub>**KJV:**</sub></small>
-In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
-<small><sub>**BSB:**</sub></small>
-On that day the wailing in Jerusalem will be as great as the wailing of Hadad-rimmon in the plain of Megiddo.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.10|<< Zechariah 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.12|Zechariah 12:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 12:11** is...

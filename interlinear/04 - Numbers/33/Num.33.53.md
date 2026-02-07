@@ -1,4 +1,4 @@
-**Numbers 33:53** 
+**Numbers 33:53**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dispossess [the inhabitants of] the land, and dwell therein: for I have given you the land to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to take possession of the land and settle in it, for I have given you th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.52|<< Numbers 33:52]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.54|Numbers 33:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take possession of  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3423H\|הוֹרַשְׁתֶּ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.rash.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

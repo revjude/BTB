@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:8** 
 <small><sub>**LXX:**</sub></small>
 How shall you say that, We are wise, and \[the\] law of \[the\] <span class="smallcaps">lord</span> is with us? For \[the\] lying rush \[reed pen\] became vain to \[the\] scribes. 
-<small><sub>**KJV:**</sub></small>
-How do ye say, We [are] wise, and the law of the LORD [is] with us? Lo, certainly in vain made he [it]; the pen of the scribes [is] in vain.
-<small><sub>**BSB:**</sub></small>
-How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in fact the lying pen of the scribes has produced a deception?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

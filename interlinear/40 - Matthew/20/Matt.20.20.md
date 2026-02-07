@@ -1,12 +1,12 @@
-**Matthew 20:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:20**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came to him the mother of Zebedee’s children with her sons, worshipping [him], and desiring a certain thing of him.
 <small><sub>**BSB:**</sub></small>
 Then the mother of Zebedee’s sons came to Jesus with her sons and knelt down to make a request of Him.
 <small><sub>**Literal:**</sub></small>
 Then came to Him the mother of the sons of Zebedee with the sons of her kneeling down and asking something away from Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.19|<< Matthew 20:19]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.21|Matthew 20:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G4334\|προσῆλθεν]]</big>**  |prosēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

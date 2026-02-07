@@ -1,12 +1,12 @@
-**Acts 13:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:9**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Saul, (who also [is called] Paul,) filled with the Holy Ghost, set his eyes on him,
 <small><sub>**BSB:**</sub></small>
 Then Saul, who was also called Paul, filled with the Holy Spirit, looked directly at Elymas
 <small><sub>**Literal:**</sub></small>
 Saul then <the> also [called] Paul having been filled [the] Spirit Holy and having looked intently upon him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.8|<< Acts 13:8]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.10|Acts 13:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saul |**<big>[[G4569G\|Σαῦλος]]</big>**  |Saulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

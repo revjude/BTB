@@ -1,12 +1,12 @@
-**1 Thessalonians 5:5
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:5**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
 <small><sub>**BSB:**</sub></small>
 For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness.
 <small><sub>**Literal:**</sub></small>
 All for you yourselves sons of light are and sons of day; Not we are of night nor of darkness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.4|<< 1 Thessalonians 5:4]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.6|1 Thessalonians 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

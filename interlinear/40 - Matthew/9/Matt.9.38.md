@@ -1,12 +1,12 @@
-**Matthew 9:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:38**<big><big>[[Matt.9.35 The Lord of the Harvest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
 <small><sub>**BSB:**</sub></small>
 Ask the Lord of the harvest, therefore, to send out workers into His harvest.”
 <small><sub>**Literal:**</sub></small>
 do beseech therefore the Lord of the harvest that He may send out workmen into the harvest of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.37|<< Matthew 9:37]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.1|Matthew 10:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do beseech |**<big>[[G1189\|δεήθητε]]</big>**  |deēthēte <small><sup>[[V-AOM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:18** 
 <small><sub>**LXX:**</sub></small>
 The one going justly is helped; but the one going by crooked ways shall be entangled. 
-<small><sub>**KJV:**</sub></small>
-Whoso walketh uprightly shall be saved: but [he that is] perverse [in his] ways shall fall at once.
-<small><sub>**BSB:**</sub></small>
-He who walks with integrity will be kept safe, but whoever is perverse in his ways will suddenly fall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.17|<< Proverbs 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.19|Proverbs 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

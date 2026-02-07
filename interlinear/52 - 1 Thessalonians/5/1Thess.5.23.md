@@ -1,12 +1,12 @@
-**1 Thessalonians 5:23
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:23**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the very God of peace sanctify you wholly; and [I pray God] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Now may the God of peace Himself sanctify you completely, and may your entire spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Himself now the God <the> of peace would sanctify you completely, and entirely your <the> spirit and <the> soul and <the> body blameless at the coming of the Lord of us Jesus Christ would be preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.22|<< 1 Thessalonians 5:22]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.24|1 Thessalonians 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

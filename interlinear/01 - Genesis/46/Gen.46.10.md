@@ -1,4 +1,4 @@
-**Genesis 46:10** 
+**Genesis 46:10**<big><big>[[Gen.46.8 The Children of Leah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a C
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.9|<< Genesis 46:9]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.11|Genesis 46:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Simeon  |**<big>&#8207;[[H8095G\|שִׁמְע֗וֹן]]&#8207; </big>**| shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

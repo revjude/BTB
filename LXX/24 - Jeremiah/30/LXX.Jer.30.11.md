@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:11** 
 <small><sub>**LXX:**</sub></small>
 For I am with you, says \[the\] <span class="smallcaps">lord</span>,  to deliver you. For I shall appoint a consumation in all the nations in which I scattered you, but you in no way will I appoint for consumation. But I shall correct you with equity and cleansing of which I shall cleanse you. 
-<small><sub>**KJV:**</sub></small>
-For I [am] with thee, saith the LORD, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.
-<small><sub>**BSB:**</sub></small>
-For I am with you to save you, declares the LORD. Though I will completely destroy all the nations to which I have scattered you, I will not completely destroy you. Yet I will discipline you justly, and will by no means leave you unpunished.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.10|<< Jeremiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.12|Jeremiah 30:12 >>]]</td></tr></table>
 
 | Translation | Greek |

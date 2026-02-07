@@ -1,4 +1,4 @@
-**Lamentations 3:20** 
+**Lamentations 3:20**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul hath [them] still in remembrance, and is humbled in me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely my soul remembers and is humbled within me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | continually \<remember>  |**<big>&#8207;[[H2142\|זָכ֣וֹר]]&#8207; </big>**| za.Khor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it remembers  |**<big>&#8207;[[H2142\|תִּזְכּ֔וֹר]]&#8207; </big>**| tiz.Kor<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

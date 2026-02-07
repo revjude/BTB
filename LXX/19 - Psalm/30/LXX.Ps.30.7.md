@@ -1,10 +1,7 @@
 **LXX Psalm 30:7** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, in  your will you furnished power \[to\] my beauty; but you turned  your face, and I became disturbed. 
-<small><sub>**KJV:**</sub></small>
-LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, [and] I was troubled.
-<small><sub>**BSB:**</sub></small>
-O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.6|<< Psalm 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.8|Psalm 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 14:27** 
 <small><sub>**LXX:**</sub></small>
 For what the holy God planned, who shall efface? And  who shall turn his high hand? 
-<small><sub>**KJV:**</sub></small>
-For the LORD of hosts hath purposed, and who shall disannul [it]? and his hand [is] stretched out, and who shall turn it back?
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched, so who can turn it back?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.26|<< Isaiah 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.28|Isaiah 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

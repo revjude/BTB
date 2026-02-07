@@ -1,12 +1,12 @@
-**Luke 5:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:7**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they beckoned unto [their] partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
 <small><sub>**BSB:**</sub></small>
 So they signaled to their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.
 <small><sub>**Literal:**</sub></small>
 And they beckoned to the partners to the in the other boat <the> having come to help them. and they came and filled both the boats so that [were] sinking they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.6|<< Luke 5:6]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.8|Luke 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they beckoned |**<big>[[G2656\|κατένευσαν]]</big>**  |kateneusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

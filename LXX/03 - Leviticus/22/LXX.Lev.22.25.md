@@ -1,10 +1,7 @@
 **LXX Leviticus 22:25** 
 <small><sub>**LXX:**</sub></small>
 And from out of \[the\] hand of a son of another race you shall not offer the gifts  of your God of all these \[things\]. For there is corruption in them, a blemish in them; these shall not be received to you. 
-<small><sub>**KJV:**</sub></small>
-Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption [is] in them, [and] blemishes [be] in them: they shall not be accepted for you.
-<small><sub>**BSB:**</sub></small>
-Neither you nor a foreigner shall present food to your God from any such animal. They will not be accepted on your behalf, because they are deformed and flawed.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.24|<< Leviticus 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.26|Leviticus 22:26 >>]]</td></tr></table>
 
 | Translation | Greek |

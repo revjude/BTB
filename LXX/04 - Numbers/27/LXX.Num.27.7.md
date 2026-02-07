@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Israel you shall speak, saying, 
-<small><sub>**KJV:**</sub></small>
-The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them.
-<small><sub>**BSB:**</sub></small>
-“The daughters of Zelophehad speak correctly. You certainly must give them property as an inheritance among their father’s brothers and transfer their father’s inheritance to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.6|<< Numbers 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.8|Numbers 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

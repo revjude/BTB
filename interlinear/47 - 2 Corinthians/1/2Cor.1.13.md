@@ -1,12 +1,12 @@
-**2 Corinthians 1:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:13**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;
 <small><sub>**BSB:**</sub></small>
 For we do not write you anything that is beyond your ability to read and understand. And I hope that you will understand us completely,
 <small><sub>**Literal:**</sub></small>
 No for other things we write to you, other than what you read or even understand; I hope now that and to [the] end you will understand,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.12|<< 2 Corinthians 1:12]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.14|2 Corinthians 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

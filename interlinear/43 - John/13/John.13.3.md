@@ -1,12 +1,12 @@
-**John 13:3
-**<small><sub>**KJV:**</sub></small>
+**John 13:3**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;
 <small><sub>**BSB:**</sub></small>
 Jesus knew that the Father had delivered all things into His hands, and that He had come from God and was returning to God.
 <small><sub>**Literal:**</sub></small>
 knowing <the> Jesus that all things has given to Him the Father into the hands, and that from God He came forth and to <the> God He is going,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.2|<< John 13:2]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.4|John 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδὼς]]</big>**  |eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

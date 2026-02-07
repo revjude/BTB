@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:4** 
 <small><sub>**LXX:**</sub></small>
  To Heman -- \[the\] sons of Heman -- Bukkiah, and Mattaniah, and Uzziel, and Shebuel, and Jerimoth, and Hananiah, and Hanani, and Eliathah, and Giddalti, and Romamti-ezer, and Joshbekashah, and Mallothi, and Hothir, and Mahazioth. 
-<small><sub>**KJV:**</sub></small>
-Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, [and] Mahazioth:
-<small><sub>**BSB:**</sub></small>
-From the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.3|<< 1 Chronicles 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.5|1 Chronicles 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

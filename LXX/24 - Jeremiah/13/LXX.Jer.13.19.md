@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:19** 
 <small><sub>**LXX:**</sub></small>
 \[The\] cities, the ones towards \[the\] south were closed up, and there was not  one opening. Judah was resettled, they completed in it a complete resettlement. 
-<small><sub>**KJV:**</sub></small>
-The cities of the south shall be shut up, and none shall open [them]: Judah shall be carried away captive all of it, it shall be wholly carried away captive.
-<small><sub>**BSB:**</sub></small>
-The cities of the Negev have been shut tight, and no one can open them. All Judah has been carried into exile, wholly taken captive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.18|<< Jeremiah 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.20|Jeremiah 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

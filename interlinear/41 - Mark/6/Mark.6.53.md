@@ -1,12 +1,12 @@
-**Mark 6:53
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:53**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had passed over, they came into the land of Gennesaret, and drew to the shore.
 <small><sub>**BSB:**</sub></small>
 When they had crossed over, they landed at Gennesaret and moored the boat.
 <small><sub>**Literal:**</sub></small>
 And having passed over to the land they came to Gennesaret and drew to shore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.52|<< Mark 6:52]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.54|Mark 6:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having passed over |**<big>[[G1276\|διαπεράσαντες]]</big>**  |diaperasantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

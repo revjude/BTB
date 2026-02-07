@@ -1,12 +1,12 @@
-**Matthew 20:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:2**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.
 <small><sub>**BSB:**</sub></small>
 He agreed to pay them a denarius for the day and sent them into his vineyard.
 <small><sub>**Literal:**</sub></small>
 and Having agreed then with the workmen for a denarius for the day he sent them into the vineyard of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.1|<< Matthew 20:1]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.3|Matthew 20:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">o</abbr> | |
 | Having agreed |**<big>[[G4856\|συμφωνήσας]]</big>**  |sumphōnēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 73:25** 
 <small><sub>**LXX:**</sub></small>
 For what exists to me in the heaven? And besides you, what did I want upon the earth? 
-<small><sub>**KJV:**</sub></small>
-Whom have I in heaven [but thee]? and [there is] none upon earth [that] I desire beside thee.
-<small><sub>**BSB:**</sub></small>
-Whom have I in heaven but You? And on earth I desire no one besides You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.24|<< Psalm 73:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.26|Psalm 73:26 >>]]</td></tr></table>
 
 | Translation | Greek |

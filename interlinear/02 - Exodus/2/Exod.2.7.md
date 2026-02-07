@@ -1,4 +1,4 @@
-**Exodus 2:7** 
+**Exodus 2:7**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the 
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sister his  |**<big>&#8207;[[H0269\|אֲחֹת]]&#8207;&#8207;[[H9023\|וֹ֮]]&#8207; </big>**| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

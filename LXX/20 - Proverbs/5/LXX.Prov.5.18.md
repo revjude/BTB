@@ -1,10 +1,7 @@
 **LXX Proverbs 5:18** 
 <small><sub>**LXX:**</sub></small>
 The spring of your  water -- let it be to you in particular! and be glad with \[the\] wife  of your youth! 
-<small><sub>**KJV:**</sub></small>
-Let thy fountain be blessed: and rejoice with the wife of thy youth.
-<small><sub>**BSB:**</sub></small>
-May your fountain be blessed, and may you rejoice in the wife of your youth:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.17|<< Proverbs 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.19|Proverbs 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

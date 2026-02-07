@@ -1,4 +1,4 @@
-**Daniel 6:7** (6:8)
+**Daniel 6:7**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the presidents of the kingdom, the governors, and the princes, the counsellers, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the royal administrators, prefects, satraps, advisers, and governors have ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.6|<< Daniel 6:6]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.8|Daniel 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they took counsel together  |**<big>&#8207;[[H3272A\|אִתְיָעַ֜טוּ]]&#8207; </big>**| 'it.ya.'A.tu<small><sup>[[AVPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3606\|כֹּ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

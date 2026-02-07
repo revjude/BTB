@@ -1,5 +1,5 @@
-**Hebrews 3:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:17**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But with whom was he grieved forty years? [was it] not with them that had sinned, whose carcases fell in the wilderness?
 <small><sub>**BSB:**</sub></small>
 And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
@@ -10,7 +10,7 @@ With whom now was He indignant forty years? Surely with those having sinned whos
 > $\quad$ possibly alluding to: [[LXX.Num.14.35|Num 14:35-36]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With whom |**<big>[[G5101\|τίσιν]]</big>**  |tisin <small><sup>[[I-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

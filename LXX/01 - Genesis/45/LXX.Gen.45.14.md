@@ -1,10 +1,7 @@
 **LXX Genesis 45:14** 
 <small><sub>**LXX:**</sub></small>
 And falling upon the neck of Benjamin  his brother, he weeped upon him. And Benjamin weeped upon  his neck. 
-<small><sub>**KJV:**</sub></small>
-And he fell upon his brother Benjamin’s neck, and wept; and Benjamin wept upon his neck.
-<small><sub>**BSB:**</sub></small>
-Then Joseph threw his arms around his brother Benjamin and wept, and Benjamin wept as they embraced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.13|<< Genesis 45:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.15|Genesis 45:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 6:15** 
+**Job 6:15**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My brethren have dealt deceitfully as a brook, [and] as the stream of brooks they pass away;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But my brothers are as faithless as wadis, as seasonal streams that overflow,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.14|<< Job 6:14]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.16|Job 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | brothers my  |**<big>&#8207;[[H0251G\|אַ֭חַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.cha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have acted treacherously  |**<big>&#8207;[[H0898\|בָּגְד֣וּ]]&#8207; </big>**| ba.ge.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

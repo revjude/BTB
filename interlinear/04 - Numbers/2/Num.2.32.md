@@ -1,4 +1,4 @@
-**Numbers 2:32** 
+**Numbers 2:32**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts [were] six hundred thousand and three thousand and five hundred and fifty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the Israelites, numbered according to their families. The total of tho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.31|<< Numbers 2:31]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.33|Numbers 2:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] [men] enrolled of  |**<big>&#8207;[[H6485A\|פְּקוּדֵ֥י]]&#8207; </big>**| pe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

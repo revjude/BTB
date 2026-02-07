@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Do not fear! for in no way the hand of Saul my father find you. And you shall reign over Israel, and I will be to you for second. And Saul  my father knows so. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Fear not: for the hand of Saul my father shall not find thee; and thou shalt be king over Israel, and I shall be next unto thee; and that also Saul my father knoweth.
-<small><sub>**BSB:**</sub></small>
-saying, “Do not be afraid, for my father Saul will never lay a hand on you. And you will be king over Israel, and I will be your second-in-command. Even my father Saul knows this is true.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.16|<< 1 Samuel 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.18|1 Samuel 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

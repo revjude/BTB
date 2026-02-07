@@ -1,10 +1,7 @@
 **LXX Daniel 7:6** 
 <small><sub>**LXX:**</sub></small>
 After it I viewed, and behold, another wild beast as a leopard; and to her \[were\] four wings of a bird above her, and four heads \[were\] to the wild beast, and authority was given to her. 
-<small><sub>**KJV:**</sub></small>
-After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
-<small><sub>**BSB:**</sub></small>
-Next, as I watched, suddenly another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.5|<< Daniel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.7|Daniel 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:6** is...

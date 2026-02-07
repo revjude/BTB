@@ -1,10 +1,7 @@
 **LXX Judges 11:26** 
 <small><sub>**LXX:**</sub></small>
 In the living of Israel in Heshbon, and in  her daughter \[cities\], and in Aroer, and in  her daughter \[cities\], and in all the cities  by the Jordan for three hundred years -- Why \[is it\] that you did not rescue them in  that time? 
-<small><sub>**KJV:**</sub></small>
-While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that [be] along by the coasts of Arnon, three hundred years? why therefore did ye not recover [them] within that time?
-<small><sub>**BSB:**</sub></small>
-For three hundred years Israel has lived in Heshbon, Aroer, and their villages, as well as all the cities along the banks of the Arnon. Why did you not take them back during that time?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.25|<< Judges 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.27|Judges 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

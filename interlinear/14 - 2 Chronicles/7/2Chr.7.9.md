@@ -1,4 +1,4 @@
-**2 Chronicles 7:9** 
+**2 Chronicles 7:9**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the eighth day they held a solemn assembly, for the dedication of the altar h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.8|<< 2 Chronicles 7:8]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.10|2 Chronicles 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they observed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6213A\|יַּעֲשׂ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֥וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

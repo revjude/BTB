@@ -1,4 +1,4 @@
-**Isaiah 49:18** 
+**Isaiah 49:18**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thine eyes round about, and behold: all these gather themselves together, [and] come to thee. [As] I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them [on thee], as a bride [doeth].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Lift up your eyes and look around. They all gather together; they come to you. A
 > $\quad$ referenced by: [[Rom.14.11|Rom 14:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375M\|שְׂאִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all around  |**<big>&#8207;[[H5439G\|סָבִ֤יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

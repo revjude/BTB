@@ -1,10 +1,7 @@
 **LXX Leviticus 2:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring the sacrifice, what ever he should have made of these, to the <span class="smallcaps">lord</span>. And you shall bring \[it\] to the priest. And in drawing near to the altar, 
-<small><sub>**KJV:**</sub></small>
-And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar.
-<small><sub>**BSB:**</sub></small>
-When you bring to the LORD the grain offering made in any of these ways, it is to be presented to the priest, and he shall take it to the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.7|<< Leviticus 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.9|Leviticus 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

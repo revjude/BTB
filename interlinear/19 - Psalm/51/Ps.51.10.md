@@ -1,4 +1,4 @@
-**Psalms 51:10** (51:12)
+**Psalms 51:10**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Create in me a clean heart, O God; and renew a right spirit within me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Create in me a clean heart, O God, and renew a right spirit within me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.9|<< Psalms 51:9]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.11|Psalms 51:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a heart  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pure  |**<big>&#8207;[[H2889\|טָ֭הוֹר]]&#8207; </big>**| Ta.hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

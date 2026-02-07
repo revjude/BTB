@@ -1,10 +1,7 @@
 **LXX Leviticus 19:23** 
 <small><sub>**LXX:**</sub></small>
 And whenever you should enter into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you, and you should plant any eatable tree, then you shall purge away  its uncleanness.  Its fruit for three years will be impure to you, it shall not be eaten. 
-<small><sub>**KJV:**</sub></small>
-And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
-<small><sub>**BSB:**</sub></small>
-When you enter the land and plant any kind of tree for food, you shall regard the fruit as forbidden. For three years it will be forbidden to you and must not be eaten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.22|<< Leviticus 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.24|Leviticus 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

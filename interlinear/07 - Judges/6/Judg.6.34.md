@@ -1,4 +1,4 @@
-**Judges 6:34** 
+**Judges 6:34**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Spirit of the LORD came upon Gideon, who blew the ram’s horn and rallie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.33|<< Judges 6:33]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.35|Judges 6:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] spirit of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

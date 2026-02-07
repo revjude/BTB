@@ -1,4 +1,4 @@
-**Ezekiel 16:6** 
+**Ezekiel 16:6**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee [when thou wast] in thy blood, Live; yea, I said unto thee [when thou wast] in thy blood, Live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I passed by and saw you wallowing in your blood, and as you lay there in yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.5|<< Ezekiel 16:5]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.7|Ezekiel 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I passed by  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5674A\|אֶעֱבֹ֤ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.'e.Vor<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at you  |**<big>&#8207;[[H5921A\|עָלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 14:44
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:44**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead [him] away safely.
 <small><sub>**BSB:**</sub></small>
 Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him and lead Him away securely.”
 <small><sub>**Literal:**</sub></small>
 Had given then the [one] delivering up Him a sign to them saying: Whomever maybe I may kiss, He himself is. do seize Him and do lead [him] away securely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.43|<< Mark 14:43]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.45|Mark 14:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had given |**<big>[[G1325\|δεδώκει]]</big>**  |dedōkei <small><sup>[[V-LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

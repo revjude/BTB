@@ -1,4 +1,4 @@
-**2 Samuel 12:28** 
+**2 Samuel 12:28**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, therefore, assemble the rest of the troops, lay siege to the city, and capt
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.27|<< 2 Samuel 12:27]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.29|2 Samuel 12:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gather  |**<big>&#8207;[[H0622\|אֱסֹף֙]]&#8207; </big>**| 'e.Sof<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

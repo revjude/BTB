@@ -1,12 +1,12 @@
-**Luke 19:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:30**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Go ye into the village over against [you]; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring [him hither].
 <small><sub>**BSB:**</sub></small>
 saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here.
 <small><sub>**Literal:**</sub></small>
 speaking; do go into the ahead village, in which entering you will find a colt tied on which no [one] ever yet of men has sat; and having untied it do bring [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.29|<< Luke 19:29]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.31|Luke 19:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speaking; [^1] |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | do go |**<big>[[G5217\|ὑπάγετε]]</big>**  |hupagete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

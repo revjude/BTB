@@ -1,4 +1,4 @@
-**Leviticus 10:5** 
+**Leviticus 10:5**<big><big>[[Lev.10.1 The Sin of Nadab and Abihu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they went near, and carried them in their coats out of the camp; as Moses had said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they came forward and carried them, still in their tunics, outside the camp, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.4|<< Leviticus 10:4]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.6|Leviticus 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7126G\|יִּקְרְב֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they carried them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375H\|יִּשָּׂאֻ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa.'U<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

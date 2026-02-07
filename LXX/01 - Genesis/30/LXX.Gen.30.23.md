@@ -1,10 +1,7 @@
 **LXX Genesis 30:23** 
 <small><sub>**LXX:**</sub></small>
 And conceiving, she bore  to Jacob a son. And Rachel said, God removed \[from\] me the scorn. 
-<small><sub>**KJV:**</sub></small>
-And she conceived, and bare a son; and said, God hath taken away my reproach:
-<small><sub>**BSB:**</sub></small>
-and she conceived and gave birth to a son. “God has taken away my shame,” she said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.22|<< Genesis 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.24|Genesis 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

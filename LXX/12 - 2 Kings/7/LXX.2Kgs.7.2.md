@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:2** 
 <small><sub>**LXX:**</sub></small>
 And the tribune responded (upon whom the king rested upon  his hand) to the man  of God, and he said, And if \[the\] <span class="smallcaps">lord</span> should make a torrent in the heaven, shall this thing be, \[no\]. And Elisha said, Behold, you shall see with your eyes, but you shall not eat from there. 
-<small><sub>**KJV:**</sub></small>
-Then a lord on whose hand the king leaned answered the man of God, and said, Behold, [if] the LORD would make windows in heaven, might this thing be? And he said, Behold, thou shalt see [it] with thine eyes, but shalt not eat thereof.
-<small><sub>**BSB:**</sub></small>
-But the officer on whose arm the king leaned answered the man of God, “Look, even if the LORD were to make windows in heaven, could this really happen?” “You will see it with your own eyes,” replied Elisha, “but you will not eat any of it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.1|<< 2 Kings 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.3|2 Kings 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

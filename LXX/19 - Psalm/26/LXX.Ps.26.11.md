@@ -1,10 +1,7 @@
 **LXX Psalm 26:11** 
 <small><sub>**LXX:**</sub></small>
 But I was gone in my innocence. Ransom me, and show mercy on me! 
-<small><sub>**KJV:**</sub></small>
-But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.
-<small><sub>**BSB:**</sub></small>
-But I will walk with integrity; redeem me and be merciful to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.10|<< Psalm 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.12|Psalm 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

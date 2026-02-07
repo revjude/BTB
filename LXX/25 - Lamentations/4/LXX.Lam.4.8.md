@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΗΘ</p>
 
 their appearance darkened above lamp black, they are not recognized in the streets; their skin was fixed against  their bones; they are dried up, they were as wood. 
-<small><sub>**KJV:**</sub></small>
-Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
-<small><sub>**BSB:**</sub></small>
-But now their appearance is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as a stick.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

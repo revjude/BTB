@@ -1,4 +1,4 @@
-**Psalms 78:6** 
+**Psalms 78:6**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the generation to come might know [them, even] the children [which] should be born; [who] should arise and declare [them] to their children:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that the coming generation would know them—even children yet to be born—to a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.5|<< Psalms 78:5]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.7|Psalms 78:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may know  |**<big>&#8207;[[H3045\|יֵדְע֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

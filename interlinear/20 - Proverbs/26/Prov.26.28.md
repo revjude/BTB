@@ -1,4 +1,4 @@
-**Proverbs 26:28** 
+**Proverbs 26:28**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A lying tongue hateth [those that are] afflicted by it; and a flattering mouth worketh ruin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A lying tongue hates those it crushes, and a flattering mouth causes ruin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.27|<< Proverbs 26:27]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.1|Proverbs 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a tongue of  |**<big>&#8207;[[H3956G\|לְֽשׁוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.sho.no.She-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falsehood  |**<big>&#8207;[[H8267\|שֶׁ֭קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

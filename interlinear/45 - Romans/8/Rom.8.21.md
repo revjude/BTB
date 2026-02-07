@@ -1,12 +1,12 @@
-**Romans 8:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:21**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.
 <small><sub>**BSB:**</sub></small>
 that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God.
 <small><sub>**Literal:**</sub></small>
 for also itself the creation will be set free from the bondage <the> of decay into the freedom of the glory of the children <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.20|<< Romans 8:20]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.22|Romans 8:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:3** 
 <small><sub>**LXX:**</sub></small>
 And they fornicated in Egypt; in  their youth they committed harlotry. There their breasts fell; there they lost their virginity. 
-<small><sub>**KJV:**</sub></small>
-And they committed whoredoms in Egypt; they committed whoredoms in their youth: there were their breasts pressed, and there they bruised the teats of their virginity.
-<small><sub>**BSB:**</sub></small>
-and they played in Egypt, prostituting themselves from their youth. Their breasts were fondled there, and their virgin bosoms caressed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.2|<< Ezekiel 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.4|Ezekiel 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:19** 
 <small><sub>**LXX:**</sub></small>
 And I said to the important ones, and to the rulers, and to the rest of the people, The work \[is\] spacious and vast, and we are dispersed upon the wall, \[with each\] man far from  his brother. 
-<small><sub>**KJV:**</sub></small>
-And I said unto the nobles, and to the rulers, and to the rest of the people, The work [is] great and large, and we are separated upon the wall, one far from another.
-<small><sub>**BSB:**</sub></small>
-Then I said to the nobles, the officials, and the rest of the people: “The work is great and extensive, and we are spread out far from one another along the wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.18|<< Nehemiah 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.20|Nehemiah 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

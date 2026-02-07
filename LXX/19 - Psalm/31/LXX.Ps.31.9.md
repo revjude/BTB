@@ -1,10 +1,7 @@
 **LXX Psalm 31:9** 
 <small><sub>**LXX:**</sub></small>
 Show mercy on me, O <span class="smallcaps">lord</span>! for I am afflicted. My eye my soul and my belly are disturbed in rage; 
-<small><sub>**KJV:**</sub></small>
-Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, [yea], my soul and my belly.
-<small><sub>**BSB:**</sub></small>
-Be merciful to me, O LORD, for I am in distress; my eyes fail from sorrow, my soul and body as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.8|<< Psalm 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.10|Psalm 31:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 66:2** 
+**Psalms 66:2**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing forth the honour of his name: make his praise glorious.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing the glory of His name; make His praise glorious.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.1|<< Psalms 66:1]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.3|Psalms 66:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing praises  |**<big>&#8207;[[H2167\|זַמְּר֥וּ]]&#8207; </big>**| za.me.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְבֽוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khe.Vod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

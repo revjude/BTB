@@ -1,4 +1,4 @@
-**Isaiah 32:1** 
+**Isaiah 32:1**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, a king shall reign in righteousness, and princes shall rule in judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, a king will reign in righteousness, and princes will rule with justice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.9|<< Isaiah 31:9]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.2|Isaiah 32:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֥ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for righteousness  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6664G\|צֶ֖דֶק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

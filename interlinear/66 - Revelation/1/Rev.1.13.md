@@ -1,5 +1,5 @@
-**Revelation 1:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:13**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in the midst of the seven candlesticks [one] like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
 <small><sub>**BSB:**</sub></small>
 and among the lampstands was One like the Son of Man, dressed in a long robe, with a golden sash around His chest.
@@ -10,7 +10,7 @@ and in [the] midst of the seven lampstands [One] like [the] Son of Man having cl
 > $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 10:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:35**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.
 <small><sub>**BSB:**</sub></small>
 Then James and John, the sons of Zebedee, came to Jesus and declared, “Teacher, we want You to do for us whatever we ask.”
 <small><sub>**Literal:**</sub></small>
 And come up to Him James and John, the two sons of Zebedee, saying  to Him; Teacher, we desire that whatever if we shall ask you You shall do for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.34|<< Mark 10:34]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.36|Mark 10:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | come up |**<big>[[G4365\|προσπορεύονται]]</big>**  |prosporeuontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

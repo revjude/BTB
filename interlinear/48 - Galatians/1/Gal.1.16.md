@@ -1,12 +1,12 @@
-**Galatians 1:16
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:16**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
 <small><sub>**BSB:**</sub></small>
 to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood,
 <small><sub>**Literal:**</sub></small>
 to reveal the Son of Him in me myself, that I may evangelise Him among the Gentiles, immediately not I consulted with flesh and with blood,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.15|<< Galatians 1:15]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.17|Galatians 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to reveal |**<big>[[G0601\|ἀποκαλύψαι]]</big>**  |apokalupsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

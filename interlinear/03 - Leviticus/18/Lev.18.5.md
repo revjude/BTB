@@ -1,4 +1,4 @@
-**Leviticus 18:5** 
+**Leviticus 18:5**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Keep My statutes and My judgments, for the man who does these things will live b
 > $\quad$ referenced by: [[Luke.10.28|Luke 10:28]] ☩ [[Gal.3.12|Gal 3:12]] ☩ [[Rom.10.5|Rom 10:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104G\|שְׁמַרְתֶּ֤ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 2:7** 
 <small><sub>**LXX:**</sub></small>
 And he treasures up deliverance to the ones keeping straight; and he will shield  their goings; 
-<small><sub>**KJV:**</sub></small>
-He layeth up sound wisdom for the righteous: [he is] a buckler to them that walk uprightly.
-<small><sub>**BSB:**</sub></small>
-He stores up sound wisdom for the upright; He is a shield to those who walk with integrity,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.6|<< Proverbs 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.8|Proverbs 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

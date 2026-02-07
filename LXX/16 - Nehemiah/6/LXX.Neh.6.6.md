@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:6** 
 <small><sub>**LXX:**</sub></small>
 And was written on it, Among \[the\] nations it was heard, and Geshem said that you and the Jews are considering to defect. On account of this you are building the wall, and you should be to them for king. 
-<small><sub>**KJV:**</sub></small>
-Wherein [was] written, It is reported among the heathen, and Gashmu saith [it, that] thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
-<small><sub>**BSB:**</sub></small>
-that read: “It is reported among the nations—and Geshem agrees—that you and the Jews are plotting to revolt, and this is why you are building the wall. According to these reports, you are to become their king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.5|<< Nehemiah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.7|Nehemiah 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

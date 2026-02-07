@@ -1,10 +1,10 @@
-**Proverbs 24:8** 
+**Proverbs 24:8**<big><big>[[Prov.24.8 Saying 24|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that deviseth to do evil shall be called a mischievous person.
 <small><sub>**BSB:**</sub></small>
 He who plots evil will be called a schemer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.7|<< Proverbs 24:7]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] plans  |**<big>&#8207;[[H2803I\|מְחַשֵּׁ֥ב]]&#8207; </big>**| me.cha.Shev<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do evil  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7489A\|הָרֵ֑עַ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Re.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

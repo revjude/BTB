@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  he ate bread and drank water, that he saddled for him the donkey, for the prophet, and he returned. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, [to wit], for the prophet whom he had brought back.
-<small><sub>**BSB:**</sub></small>
-And after the man of God had finished eating and drinking, the old prophet who had brought him back saddled the donkey for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.22|<< 1 Kings 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.24|1 Kings 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

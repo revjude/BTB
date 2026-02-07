@@ -1,4 +1,4 @@
-**Numbers 18:27** 
+**Numbers 18:27**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [this] your heave offering shall be reckoned unto you, as though [it were] the corn of the threshingfloor, and as the fulness of the winepress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your offering will be reckoned to you as grain from the threshing floor or juice
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.26|<< Numbers 18:26]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.28|Numbers 18:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be reckoned  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2803H\|נֶחְשַׁ֥ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nech.Shav<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

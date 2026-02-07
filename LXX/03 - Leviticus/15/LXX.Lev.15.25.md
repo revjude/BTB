@@ -1,10 +1,7 @@
 **LXX Leviticus 15:25** 
 <small><sub>**LXX:**</sub></small>
 And a woman if she should flow a flow of blood many days, not in \[the\] time  of her menstruation; if also it should flow after  her menstruation, all the days of \[the\] flow of her uncleanness \[shall be\] just as the days  of her menstruation -- she shall be unclean. 
-<small><sub>**KJV:**</sub></small>
-And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she [shall be] unclean.
-<small><sub>**BSB:**</sub></small>
-When a woman has a discharge of her blood for many days at a time other than her menstrual period, or if it continues beyond her period, she will be unclean all the days of her unclean discharge, just as she is during the days of her menstruation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.24|<< Leviticus 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.26|Leviticus 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

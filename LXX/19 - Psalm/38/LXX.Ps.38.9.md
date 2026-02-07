@@ -1,10 +1,7 @@
 **LXX Psalm 38:9** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, before you \[is\] all  my desire; and  my moaning from you \[can\] not be concealed. 
-<small><sub>**KJV:**</sub></small>
-Lord, all my desire [is] before thee; and my groaning is not hid from thee.
-<small><sub>**BSB:**</sub></small>
-O Lord, my every desire is before You; my groaning is not hidden from You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.8|<< Psalm 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.10|Psalm 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

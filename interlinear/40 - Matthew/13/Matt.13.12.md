@@ -1,12 +1,12 @@
-**Matthew 13:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:12**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
 <small><sub>**BSB:**</sub></small>
 Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken away from him.
 <small><sub>**Literal:**</sub></small>
 Whoever for has, will be given to him and will be abundant [to him] whoever now not has, even what he has will be taken away from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.11|<< Matthew 13:11]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.13|Matthew 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whoever |**<big>[[G3748\|ὅστις]]</big>**  |hostis <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

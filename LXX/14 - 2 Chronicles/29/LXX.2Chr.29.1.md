@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hezekiah was\[ a son being twenty and five years \]old\[ in  his taking reign, and twenty nine years he reigned in Jerusalem. And \]the\[ name \]to\[ his mother \]was| Abijah, daughter of Zechariah. 
-<small><sub>**KJV:**</sub></small>
-Hezekiah began to reign [when he was] five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name [was] Abijah, the daughter of Zechariah.
-<small><sub>**BSB:**</sub></small>
-Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah, the daughter of Zechariah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.27|<< 2 Chronicles 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.2|2 Chronicles 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

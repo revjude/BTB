@@ -1,10 +1,7 @@
 **LXX Joshua 24:32** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel took up the bones of Joseph from out of Egypt, and they buried \[them\] in Shechem, in the portion of the field of which Jacob acquired from the Amorites  dwelling in Shechem \[for a\] hundred ewe-lambs, and he gave it  to Joseph for a portion. 
-<small><sub>**KJV:**</sub></small>
-And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
-<small><sub>**BSB:**</sub></small>
-And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 24:32** is...

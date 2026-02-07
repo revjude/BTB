@@ -1,10 +1,7 @@
 **LXX Leviticus 15:30** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer the one for a sin \[offering\], and the one for a whole burnt-offering. And the priest shall atone for her before \[the\] <span class="smallcaps">lord</span> of \[the\] flow of her uncleanness. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall offer the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.
-<small><sub>**BSB:**</sub></small>
-The priest is to sacrifice one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for her before the LORD for her unclean discharge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.29|<< Leviticus 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.31|Leviticus 15:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 69:36** (69:37)
+**Psalms 69:36**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The seed also of his servants shall inherit it: and they that love his name shall dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The descendants of His servants will inherit it, and those who love His name wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.35|<< Psalms 69:35]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.0|Psalms 70:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] offspring of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2233H\|זֶ֣רַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲ֭בָדָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'A.va.da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

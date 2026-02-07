@@ -1,10 +1,7 @@
 **LXX Isaiah 8:22** 
 <small><sub>**LXX:**</sub></small>
 and they shall look to the earth below, and behold, darkness, affliction and straits, and darkness so as to not see unto a time. 
-<small><sub>**KJV:**</sub></small>
-And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and [they shall be] driven to darkness.
-<small><sub>**BSB:**</sub></small>
-Then they will look to the earth and see only distress and darkness and the gloom of anguish. And they will be driven into utter darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.21|<< Isaiah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.1|Isaiah 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

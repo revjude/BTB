@@ -1,4 +1,4 @@
-**Daniel 5:2** 
+**Daniel 5:2**<big><big>[[Dan.5.1 Belshazzar’s Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which [was] in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Under the influence of the wine, Belshazzar gave orders to bring in the gold and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.1|<< Daniel 5:1]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.3|Daniel 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Belshazzar  |**<big>&#8207;[[H1113\|בֵּלְשַׁאצַּ֞ר]]&#8207; </big>**| be.le.sha.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0560\|אֲמַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Mar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:17** 
 <small><sub>**LXX:**</sub></small>
 And he wrote a scroll  to berate \[the\] <span class="smallcaps">lord</span>  God of Israel. And he said concerning him, saying, As the gods of the nations of the earth did not rescue  their people from my hand, so in no way the God of Hezekiah rescue  his people from out of my hand. 
-<small><sub>**KJV:**</sub></small>
-He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of [other] lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand.
-<small><sub>**BSB:**</sub></small>
-He also wrote letters mocking the LORD, the God of Israel, and saying against Him: “Just as the gods of the nations did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.16|<< 2 Chronicles 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.18|2 Chronicles 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

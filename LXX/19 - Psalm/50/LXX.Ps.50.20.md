@@ -1,10 +1,7 @@
 **LXX Psalm 50:20** 
 <small><sub>**LXX:**</sub></small>
 In sitting down, you spoke ill against your brother; even to place an obstacle against the son of your mother. 
-<small><sub>**KJV:**</sub></small>
-Thou sittest [and] speakest against thy brother; thou slanderest thine own mother’s son.
-<small><sub>**BSB:**</sub></small>
-You sit and malign your brother; you slander your own mother’s son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.19|<< Psalm 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.21|Psalm 50:21 >>]]</td></tr></table>
 
 | Translation | Greek |

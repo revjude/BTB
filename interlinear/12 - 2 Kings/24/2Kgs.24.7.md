@@ -1,4 +1,4 @@
-**2 Kings 24:7** 
+**2 Kings 24:7**<big><big>[[2Kgs.24.6 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the king of Egypt did not march out of his land again, because the king of B
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.6|<< 2 Kings 24:6]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.8|2 Kings 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repeated  |**<big>&#8207;[[H3254G\|הֹסִ֥יף]]&#8207; </big>**| ho.Sif<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

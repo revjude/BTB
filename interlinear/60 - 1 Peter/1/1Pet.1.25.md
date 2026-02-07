@@ -1,5 +1,5 @@
-**1 Peter 1:25
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:25**<big><big>[[1Pet.1.22 The Enduring Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
 <small><sub>**BSB:**</sub></small>
 but the word of the Lord stands forever.” And this is the word that was proclaimed to you.
@@ -10,7 +10,7 @@ but the word of the Lord stands forever.” And this is the word that was procla
 > $\quad$ referencing: [[LXX.Isa.40.6|Isa 40:6-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

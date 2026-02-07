@@ -1,5 +1,5 @@
-**Galatians 2:6
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:6**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed [to be somewhat] in conference added nothing to me:
 <small><sub>**BSB:**</sub></small>
 But as for the highly esteemed—whatever they were makes no difference to me; God does not show favoritism—those leaders added nothing to me.
@@ -10,7 +10,7 @@ Of now those esteemed to be something — whatsoever formerly they were no [thin
 > $\quad$ referencing: [[LXX.Deut.10.17|Deut 10:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

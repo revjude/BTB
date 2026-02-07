@@ -1,10 +1,7 @@
 **LXX Ruth 3:14** 
 <small><sub>**LXX:**</sub></small>
 And she went to sleep at his feet until morning.  And she rose up before  a man \[could\] recognize  his neighbor. And Boaz said, Do not let it be known, that a woman has come unto the threshing-floor! 
-<small><sub>**KJV:**</sub></small>
-And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.
-<small><sub>**BSB:**</sub></small>
-So she lay down at his feet until morning, but she got up before anyone else could recognize her. Then Boaz said, “Do not let it be known that a woman came to the threshing floor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.13|<< Ruth 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.15|Ruth 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

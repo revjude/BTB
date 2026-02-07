@@ -1,4 +1,4 @@
-**Isaiah 50:4** 
+**Isaiah 50:4**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to [him that is] weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Lord GOD has given Me the tongue of discipleship, to sustain the weary with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.3|<< Isaiah 50:3]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.5|Isaiah 50:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

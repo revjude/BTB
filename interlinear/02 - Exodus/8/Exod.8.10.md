@@ -1,4 +1,4 @@
-**Exodus 8:10** (8:6)
+**Exodus 8:10**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, To morrow. And he said, [Be it] according to thy word: that thou mayest know that [there is] none like unto the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, To morrow. And he said, [Be it] according to thy word: that thou ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.9|<< Exodus 8:9]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.11|Exodus 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to tomorrow  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4279\|מָחָ֑ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:13** 
 <small><sub>**LXX:**</sub></small>
 And Joab son of Zeruiah, and the servants of David, came forth out of Hebron, and met them at the fountain  of Gibeon. And these sat here \[on this side\], and these \[others\] at the fountain here \[on that side\]. 
-<small><sub>**KJV:**</sub></small>
-And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.
-<small><sub>**BSB:**</sub></small>
-So Joab son of Zeruiah and the servants of David marched out and met them by the pool of Gibeon. And the two groups took up positions on opposite sides of the pool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.12|<< 2 Samuel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.14|2 Samuel 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

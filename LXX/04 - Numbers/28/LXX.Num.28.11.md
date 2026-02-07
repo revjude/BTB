@@ -1,10 +1,7 @@
 **LXX Numbers 28:11** 
 <small><sub>**LXX:**</sub></small>
 And in the new moons you shall lead a whole burnt-offering to the <span class="smallcaps">lord</span>, two calves of \[the\] oxen, and one ram, seven unblemished lambs of a year \[old\]. 
-<small><sub>**KJV:**</sub></small>
-And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;
-<small><sub>**BSB:**</sub></small>
-At the beginning of every month, you are to present to the LORD a burnt offering of two young bulls, one ram, and seven male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.10|<< Numbers 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.12|Numbers 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

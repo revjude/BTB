@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:50** 
 <small><sub>**LXX:**</sub></small>
 and you shall be propitious \[to\] their iniquities which they sinned against you, and according to all  their wickednesses which ever they disregarded. And you shall appoint them for compassions before \[the\] ones capturing them, and they shall pity them. 
-<small><sub>**KJV:**</sub></small>
-And forgive thy people that have sinned against thee, and all their transgressions wherein they have transgressed against thee, and give them compassion before them who carried them captive, that they may have compassion on them:
-<small><sub>**BSB:**</sub></small>
-May You forgive Your people who have sinned against You and all the transgressions they have committed against You, and may You grant them compassion in the eyes of their captors to show them mercy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.49|<< 1 Kings 8:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.51|1 Kings 8:51 >>]]</td></tr></table>
 
 | Translation | Greek |

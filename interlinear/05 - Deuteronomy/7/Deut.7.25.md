@@ -1,4 +1,4 @@
-**Deuteronomy 7:25** 
+**Deuteronomy 7:25**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold [that is] on them, nor take [it] unto thee, lest thou be snared therein: for it [is] an abomination to the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must burn up the images of their gods; do not covet the silver and gold that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.24|<< Deuteronomy 7:24]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.26|Deuteronomy 7:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] images of  |**<big>&#8207;[[H6456\|פְּסִילֵ֥י]]&#8207; </big>**| pe.si.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gods their  |**<big>&#8207;[[H0430J\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

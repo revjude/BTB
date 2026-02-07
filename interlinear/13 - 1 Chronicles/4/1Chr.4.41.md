@@ -1,4 +1,4 @@
-**1 Chronicles 4:41** 
+**1 Chronicles 4:41**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because [there was] pasture there for their flocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These who were noted by name came in the days of Hezekiah king of Judah. They at
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.40|<< 1 Chronicles 4:40]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.42|1 Chronicles 4:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֡אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵלֶּה֩]]&#8207; </big>**| 'e.Leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

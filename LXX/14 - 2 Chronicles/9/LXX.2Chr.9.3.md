@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] queen of Sheba beheld the wisdom of Solomon, and the house which he built, 
-<small><sub>**KJV:**</sub></small>
-And when the queen of Sheba had seen the wisdom of Solomon, and the house that he had built,
-<small><sub>**BSB:**</sub></small>
-When the queen of Sheba saw the wisdom of Solomon, the palace he had built,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.2|<< 2 Chronicles 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.4|2 Chronicles 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

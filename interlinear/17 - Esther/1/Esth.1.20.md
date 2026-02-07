@@ -1,4 +1,4 @@
-**Esther 1:20** 
+**Esther 1:20**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The edict the king issues will be heard throughout his vast kingdom—and so all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.19|<< Esther 1:19]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.21|Esther 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be heard  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085I\|נִשְׁמַע֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.Ma'<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] decree of  |**<big>&#8207;[[H6599\|פִּתְגָ֨ם]]&#8207; </big>**| pit.Gam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

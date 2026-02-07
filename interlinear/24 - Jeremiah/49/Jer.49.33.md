@@ -1,4 +1,4 @@
-**Jeremiah 49:33** 
+**Jeremiah 49:33**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hazor shall be a dwelling for dragons, [and] a desolation for ever: there shall no man abide there, nor [any] son of man dwell in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Hazor shall be a dwelling for dragons, [and] a desolation for ever: there sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.32|<< Jeremiah 49:32]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.34|Jeremiah 49:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hazor  |**<big>&#8207;[[H2674K\|חָצ֜וֹר]]&#8207; </big>**| cha.Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

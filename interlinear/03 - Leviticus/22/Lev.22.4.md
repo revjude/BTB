@@ -1,4 +1,4 @@
-**Leviticus 22:4** 
+**Leviticus 22:4**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man soever of the seed of Aaron [is] a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing [that is] unclean [by] the dead, or a man whose seed goeth from him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a descendant of Aaron has a skin disease or a discharge, he may not eat the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.3|<< Leviticus 22:3]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.5|Leviticus 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֞ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

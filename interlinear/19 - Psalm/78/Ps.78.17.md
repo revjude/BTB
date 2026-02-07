@@ -1,4 +1,4 @@
-**Psalms 78:17** 
+**Psalms 78:17**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sinned yet more against him by provoking the most High in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they continued to sin against Him, rebelling in the desert against the Most 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.16|<< Psalms 78:16]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.18|Psalms 78:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יּוֹסִ֣יפוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Si.fu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֭וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 4:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:16**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
 <small><sub>**BSB:**</sub></small>
 the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.”
@@ -10,7 +10,7 @@ The nation the [one] sitting in darkness light have seen great, and to those sit
 > $\quad$ referencing: [[LXX.Isa.9.1|Isa 9:1-2]] ☩ [[LXX.Isa.42.7|Isa 42:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | nation |**<big>[[G2992\|λαὸς]]</big>**  |laos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

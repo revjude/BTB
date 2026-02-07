@@ -1,4 +1,4 @@
-**2 Chronicles 9:19** 
+**2 Chronicles 9:19**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And twelve lions stood there on the one side and on the other upon the six steps. There was not the like made in any kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Twelve lions stood on the six steps, one at either end of each step. Nothing lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.18|<< 2 Chronicles 9:18]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.20|2 Chronicles 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two [plus]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנֵ֧ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Neim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עָשָׂ֣ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

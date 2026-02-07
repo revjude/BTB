@@ -1,10 +1,7 @@
 **LXX Ezra 8:19** 
 <small><sub>**LXX:**</sub></small>
 And  Hashabiah and  Jeshaiah from the sons of Merari, his brethren and his sons -- twenty. 
-<small><sub>**KJV:**</sub></small>
-And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;
-<small><sub>**BSB:**</sub></small>
-also Hashabiah, together with Jeshaiah, from the descendants of Merari, and his brothers and their sons, 20 men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.18|<< Ezra 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.20|Ezra 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

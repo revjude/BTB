@@ -1,10 +1,7 @@
 **LXX Genesis 18:6** 
 <small><sub>**LXX:**</sub></small>
 And Abraham hastened unto the tent to Sarah. And he said to her, Hasten and mix up three measures of fine flour, and make a cake baked in hot ashes! 
-<small><sub>**KJV:**</sub></small>
-And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead [it], and make cakes upon the hearth.
-<small><sub>**BSB:**</sub></small>
-So Abraham hurried into the tent and said to Sarah, “Quick! Prepare three seahs of fine flour, knead it, and bake some bread.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.5|<< Genesis 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.7|Genesis 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

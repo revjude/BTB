@@ -1,4 +1,4 @@
-**2 Samuel 9:12** 
+**2 Samuel 9:12**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mephibosheth had a young son, whose name [was] Micha. And all that dwelt in the house of Ziba [were] servants unto Mephibosheth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Mephibosheth had a young son named Mica, and all who dwelt in the house of Z
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.11|<< 2 Samuel 9:11]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.13|2 Samuel 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to Mephibosheth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4648G\|מְפִיבֹ֥שֶׁת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> m.fi.Vo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a son  |**<big>&#8207;[[H1121A\|בֵּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

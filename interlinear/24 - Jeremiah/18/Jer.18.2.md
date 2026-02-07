@@ -1,4 +1,4 @@
-**Jeremiah 18:2** 
+**Jeremiah 18:2**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, and go down to the potter’s house, and there I will cause thee to hear my words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, and go down to the potter’s house, and there I will cause thee to hear 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.1|<< Jeremiah 18:1]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.3|Jeremiah 18:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֥וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will go down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַדְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.rad.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

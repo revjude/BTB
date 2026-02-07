@@ -1,10 +1,7 @@
 **LXX Exodus 8:14** 
 <small><sub>**LXX:**</sub></small>
 And they brought them heaps \[upon\] heaps, and the land stunk. 
-<small><sub>**KJV:**</sub></small>
-And they gathered them together upon heaps: and the land stank.
-<small><sub>**BSB:**</sub></small>
-They were piled into countless heaps, and there was a terrible stench in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.13|<< Exodus 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.15|Exodus 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

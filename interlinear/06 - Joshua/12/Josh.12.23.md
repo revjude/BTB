@@ -1,4 +1,4 @@
-**Joshua 12:23** 
+**Joshua 12:23**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the king of Dor in Naphath-dor, one; the king of Goiim in Gilgal, one;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.22|<< Joshua 12:22]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.24|Joshua 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dor  |**<big>&#8207;[[H1756G\|דּ֛וֹר]]&#8207; </big>**| Dor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 48:11** 
 <small><sub>**LXX:**</sub></small>
 Be glad,  mount Zion! and exult  daughters  of Judea! because of  your judgments, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.
-<small><sub>**BSB:**</sub></small>
-Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.10|<< Psalm 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.12|Psalm 48:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 106:38** 
+**Psalms 106:38**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shed innocent blood—the blood of their sons and daughters, whom they sacr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.37|<< Psalms 106:37]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.39|Psalms 106:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they shed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8210G\|יִּֽשְׁפְּכ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.pe.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood  |**<big>&#8207;[[H1818\|דָ֪ם]]&#8207; </big>**| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

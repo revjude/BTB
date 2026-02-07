@@ -1,4 +1,4 @@
-**Leviticus 20:25** 
+**Leviticus 20:25**<big><big>[[Lev.20.22 Distinguish between Clean and Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are therefore to distinguish between clean and unclean animals and birds. Do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.24|<< Leviticus 20:24]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.26|Leviticus 20:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will separate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0914\|הִבְדַּלְתֶּ֞ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hiv.dal.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | between  |**<big>&#8207;[[H0996G\|בֵּֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bein-<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

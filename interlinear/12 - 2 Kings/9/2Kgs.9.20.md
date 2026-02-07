@@ -1,4 +1,4 @@
-**2 Kings 9:20** 
+**2 Kings 9:20**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the watchman told, saying, He came even unto them, and cometh not again: and the driving [is] like the driving of Jehu the son of Nimshi; for he driveth furiously.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again the watchman reported, “He reached them, but he is not coming back. And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.19|<< 2 Kings 9:19]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.21|2 Kings 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reported  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֵּ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ged<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the watchman  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6822\|צֹּפֶה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzo.Peh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

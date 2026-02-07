@@ -1,4 +1,4 @@
-**Joel 2:30** (3:3)
+**Joel 2:30**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will show wonders in the heavens and on the earth, blood and fire and columns 
 > $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rev.8.7|Rev 8:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414I\|נָֽתַתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wonders  |**<big>&#8207;[[H4159\|מֽוֹפְתִ֔ים]]&#8207; </big>**| mof.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

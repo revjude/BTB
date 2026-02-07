@@ -1,10 +1,7 @@
 **LXX Exodus 32:2** 
 <small><sub>**LXX:**</sub></small>
 And Aaron says to them, Remove the gold ear-rings! the ones in the ears  of your wives, and  daughters; and bring \[them\] to me! 
-<small><sub>**KJV:**</sub></small>
-And Aaron said unto them, Break off the golden earrings, which [are] in the ears of your wives, of your sons, and of your daughters, and bring [them] unto me.
-<small><sub>**BSB:**</sub></small>
-So Aaron told them, “Take off the gold earrings that are on your wives and sons and daughters, and bring them to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.1|<< Exodus 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.3|Exodus 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

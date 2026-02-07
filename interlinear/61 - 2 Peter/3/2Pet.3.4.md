@@ -1,5 +1,5 @@
-**2 Peter 3:4
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:4**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as [they were] from the beginning of the creation.
 <small><sub>**BSB:**</sub></small>
 “Where is the promise of His coming?” they will ask. “Ever since our fathers fell asleep, everything continues as it has from the beginning of creation.”
@@ -10,7 +10,7 @@ and saying; Where is the promise of the coming of Him? From [the time] that for 
 > $\quad$ possibly alluding to: [[LXX.Ezek.12.22|Ezek 12:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

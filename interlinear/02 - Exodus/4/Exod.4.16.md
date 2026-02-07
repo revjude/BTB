@@ -1,4 +1,4 @@
-**Exodus 4:16** 
+**Exodus 4:16**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be thy spokesman unto the people: and he shall be, [even] he shall be to thee instead of a mouth, and thou shalt be to him instead of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will speak to the people for you. He will be your spokesman, and it will be a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will speak  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבֶּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.ber-<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

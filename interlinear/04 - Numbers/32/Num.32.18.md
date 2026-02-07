@@ -1,4 +1,4 @@
-**Numbers 32:18** 
+**Numbers 32:18**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will not return unto our houses, until the children of Israel have inherited every man his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will not return to our homes until every Israelite has taken possession of hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.17|<< Numbers 32:17]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.19|Numbers 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will return  |**<big>&#8207;[[H7725G\|נָשׁ֖וּב]]&#8207; </big>**| na.Shuv<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

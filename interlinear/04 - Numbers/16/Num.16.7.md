@@ -1,4 +1,4 @@
-**Numbers 16:7** 
+**Numbers 16:7**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And put fire therein, and put incense in them before the LORD to morrow: and it shall be [that] the man whom the LORD doth choose, he [shall be] holy: [ye take] too much upon you, ye sons of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and tomorrow you are to place fire and incense in them in the presence of the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.6|<< Numbers 16:6]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.8|Numbers 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and put  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5414H\|תְנ֣וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9039\|הֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

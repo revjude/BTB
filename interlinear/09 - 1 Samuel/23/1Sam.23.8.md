@@ -1,4 +1,4 @@
-**1 Samuel 23:8** 
+**1 Samuel 23:8**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Saul summoned all his troops to go to war at Keilah and besiege David and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.7|<< 1 Samuel 23:7]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.9|1 Samuel 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085I\|יְשַׁמַּ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Ma'<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֛וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

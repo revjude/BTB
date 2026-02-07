@@ -1,10 +1,7 @@
 **LXX Genesis 38:4** 
 <small><sub>**LXX:**</sub></small>
 And she conceived \[and\] bore a son still \[again\], and she called  his name, Onan. 
-<small><sub>**KJV:**</sub></small>
-And she conceived again, and bare a son; and she called his name Onan.
-<small><sub>**BSB:**</sub></small>
-Again she conceived and gave birth to a son, and she named him Onan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.3|<< Genesis 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.5|Genesis 38:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 20:11** 
+**Job 20:11**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His bones are full [of the sin] of his youth, which shall lie down with him in the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The youthful vigor that fills his bones will lie down with him in the dust.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.10|<< Job 20:10]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.12|Job 20:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bones his  |**<big>&#8207;[[H6106G\|עַ֭צְמוֹתָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Atz.mo.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were full  |**<big>&#8207;[[H4390\|מָלְא֣וּ]]&#8207; </big>**| mal.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

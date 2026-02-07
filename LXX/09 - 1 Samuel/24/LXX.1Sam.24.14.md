@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:14** 
 <small><sub>**LXX:**</sub></small>
 And now, after whom do you go forth, O king  of Israel? After whom do you pursue? After a dog having died, or after one flea? 
-<small><sub>**KJV:**</sub></small>
-After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.
-<small><sub>**BSB:**</sub></small>
-Against whom has the king of Israel come out? Whom are you pursuing? A dead dog? A flea?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.13|<< 1 Samuel 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.15|1 Samuel 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 37:2** 
 <small><sub>**LXX:**</sub></small>
 And he gilded it in pure gold from inside and from outside. And he made for it a waved border twisted of gold round about. 
-<small><sub>**KJV:**</sub></small>
-And he overlaid it with pure gold within and without, and made a crown of gold to it round about.
-<small><sub>**BSB:**</sub></small>
-He overlaid it with pure gold, both inside and out, and made a gold molding around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.1|<< Exodus 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.3|Exodus 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

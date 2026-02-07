@@ -1,4 +1,4 @@
-**Joshua 6:21** 
+**Joshua 6:21**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they utterly destroyed all that [was] in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With the edge of the sword they devoted to destruction everything in the city—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.20|<< Joshua 6:20]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.22|Joshua 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they totally destroyed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2763A\|יַּחֲרִ֙ימוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Ri.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

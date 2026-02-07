@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΜΗΜ</p>
 
 because of \[the\] sins of her prophets, \[and\] iniquities of her priests, the ones pouring out just blood in her midst. 
-<small><sub>**KJV:**</sub></small>
-For the sins of her prophets, [and] the iniquities of her priests, that have shed the blood of the just in the midst of her,
-<small><sub>**BSB:**</sub></small>
-But this was for the sins of her prophets and the guilt of her priests, who shed the blood of the righteous in her midst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.12|<< Lamentations 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.14|Lamentations 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

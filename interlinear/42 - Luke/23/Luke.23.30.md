@@ -1,5 +1,5 @@
-**Luke 23:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:30**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.
 <small><sub>**BSB:**</sub></small>
 At that time ‘they will say to the mountains, “Fall on us!” and to the hills, “Cover us!”’
@@ -10,7 +10,7 @@ Then They will begin to say to the mountains; do fall upon us; and to the hills;
 > $\quad$ referencing: [[LXX.Hos.10.8|Hos 10:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | They will begin |**<big>[[G0757\|ἄρξονται]]</big>**  |arxontai <small><sup>[[V-FMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

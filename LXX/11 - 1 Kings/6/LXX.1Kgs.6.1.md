@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the eightieth and four hundredth year of the exodus of the sons of Israel from out of  Egypt, in the fourth year in the second month in \[the\] reigning  of king Solomon over  Israel, that he built the house to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which [is] the second month, that he began to build the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.18|<< 1 Kings 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.2|1 Kings 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

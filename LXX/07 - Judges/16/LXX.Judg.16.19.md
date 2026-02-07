@@ -1,10 +1,7 @@
 **LXX Judges 16:19** 
 <small><sub>**LXX:**</sub></small>
 And she rested him between  her knees. And she called the barber, and he shaved the seven curls  of his head; and it began to humble him, and his strength left from him. 
-<small><sub>**KJV:**</sub></small>
-And she made him sleep upon her knees; and she called for a man, and she caused him to shave off the seven locks of his head; and she began to afflict him, and his strength went from him.
-<small><sub>**BSB:**</sub></small>
-And having lulled him to sleep on her lap, she called a man to shave off the seven braids of his head. In this way she began to subdue him, and his strength left him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.18|<< Judges 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.20|Judges 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

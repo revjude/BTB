@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the people of the land, Thus says Adonai \[the\] <span class="smallcaps">lord</span>, to the ones dwelling in Jerusalem upon the land  of Israel;  they shall eat their bread loaves with lack, and  they shall drink their water with obliteration, so that the land should be extinct with its fullness in impiety of all the ones dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, [and] of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.
-<small><sub>**BSB:**</sub></small>
-Then tell the people of the land that this is what the Lord GOD says about those living in Jerusalem and in the land of Israel: ‘They will eat their bread with anxiety and drink their water in dread, for their land will be stripped of everything in it because of the violence of all who dwell in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.18|<< Ezekiel 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.20|Ezekiel 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

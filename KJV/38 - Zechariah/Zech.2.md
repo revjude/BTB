@@ -1,10 +1,10 @@
 (KJV) **Zechariah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1|<< Zechariah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3|Zechariah 3 >>]]</td></tr></table>
 
-***The Vision of the Measuring Line***&emsp;<small><sup>\[ [[Ezek.40|Ezekiel 40:1–4]] ]</sup></small> ^bsb2064
+<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥃]]</big></big>***The Vision of the Measuring Line***&emsp;<small><sup>\[ [[Ezek.40|Ezekiel 40:1–4]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Zech.2.1|1]]**<span class="endversemarker">]</span> I lifted<small><small>[^2]</small></small> up mine eyes again, and looked, and behold a man<small><small>[^3]</small></small> with a measuring line in his hand. <span class="startversemarker">[</span>**[[Zech.2.2|2]]**<span class="endversemarker">]</span> Then said I, Whither<small><small>[^4]</small></small> goest thou? And he said unto<small><small>[^5]</small></small> me, To measure Jerusalem, to see what \[is\] the breadth thereof, and what \[is\] the length thereof. <span class="startversemarker">[</span>**[[Zech.2.3|3]]**<span class="endversemarker">]</span> And, behold, the angel<small><small>[^6]</small></small> that talked with me went forth, and another<small><small>[^7]</small></small> angel went out to meet him, <span class="startversemarker">[</span>**[[Zech.2.4|4]]**<span class="endversemarker">]</span> And said unto him, Run, speak to this young<small><small>[^8]</small></small> man, saying, Jerusalem<small><small>[^9]</small></small> shall be inhabited \[as\] towns without walls for the multitude of men and cattle therein: <span class="startversemarker">[</span>**[[Zech.2.5|5]]**<span class="endversemarker">]</span> For I, saith the <span class="smallcaps">Lord</span>, will be unto her a wall<small><small>[^10]</small></small> of fire round about, and will be the glory<small><small>[^11]</small></small> in the midst of her.
 
-***The Redemption of Zion***&emsp;<small><sup>\[ [[Hos.3|Hosea 3:1–5]] ]</sup></small> ^bsb2065
+<big><big>[[Zech.2.6 The Redemption of Zion|⥃]]</big></big>***The Redemption of Zion***&emsp;<small><sup>\[ [[Hos.3|Hosea 3:1–5]] ]</sup></small>
 
  
 

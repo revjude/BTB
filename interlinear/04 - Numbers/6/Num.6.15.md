@@ -1,4 +1,4 @@
-**Numbers 6:15** 
+**Numbers 6:15**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ together with their grain offerings and drink offerings—and a basket of unleav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.14|<< Numbers 6:14]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.16|Numbers 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a basket of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5536\|סַ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unleavened bread\<s>  |**<big>&#8207;[[H4682\|מַצּ֗וֹת]]&#8207; </big>**| ma.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

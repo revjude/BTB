@@ -1,10 +1,7 @@
 **LXX Leviticus 7:17** 
 <small><sub>**LXX:**</sub></small>
 And the \[thing\] being left from the meats of the sacrifice until \[the\] third day shall be incinerated in fire. 
-<small><sub>**KJV:**</sub></small>
-But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.
-<small><sub>**BSB:**</sub></small>
-But any meat of the sacrifice remaining until the third day must be burned up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.16|<< Leviticus 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.18|Leviticus 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

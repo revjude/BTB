@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:43** 
 <small><sub>**LXX:**</sub></small>
 And there shall be acquired still fields in the land, in which you say, It is untrodden of men and beast; and they were delivered up into \[the\] hands of Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-And fields shall be bought in this land, whereof ye say, [It is] desolate without man or beast; it is given into the hand of the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-And fields will be bought in this land about which you are saying, ‘It is a desolation, without man or beast; it has been delivered into the hands of the Chaldeans.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.42|<< Jeremiah 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.44|Jeremiah 32:44 >>]]</td></tr></table>
 
 | Translation | Greek |

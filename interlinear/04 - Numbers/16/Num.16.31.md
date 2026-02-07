@@ -1,4 +1,4 @@
-**Numbers 16:31** 
+**Numbers 16:31**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that [was] under them:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As soon as Moses had finished saying all this, the ground beneath them split ope
 > $\quad$ referenced by: [[1John.3.12|1John 3:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when finished he  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3615G\|כַלֹּת֔]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> kha.lo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

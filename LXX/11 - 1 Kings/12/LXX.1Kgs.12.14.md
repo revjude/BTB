@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:14** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to them according to the counsel of the young men, saying,  My father oppressed  your neck yoke, and I shall add to  your neck yoke.  My father corrected you with whips, and I will correct you with scorpions. 
-<small><sub>**KJV:**</sub></small>
-And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father [also] chastised you with whips, but I will chastise you with scorpions.
-<small><sub>**BSB:**</sub></small>
-and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.13|<< 1 Kings 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.15|1 Kings 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

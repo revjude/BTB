@@ -1,4 +1,4 @@
-**Proverbs 31:16** 
+**Proverbs 31:16**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She appraises a field and buys it; from her earnings she plants a vineyard.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.15|<< Proverbs 31:15]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.17|Proverbs 31:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she considers  |**<big>&#8207;[[H2161\|זָמְמָ֣ה]]&#8207; </big>**| za.me.Mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a field  |**<big>&#8207;[[H7704G\|שָׂ֭דֶה]]&#8207; </big>**| Sa.deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

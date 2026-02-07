@@ -1,4 +1,4 @@
-**Judges 5:19** 
+**Judges 5:19**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The kings came [and] fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kings came and fought; then the kings of Canaan fought at Taanach by the waters 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.18|<< Judges 5:18]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.20|Judges 5:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they came  |**<big>&#8207;[[H0935G\|בָּ֤אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְלָכִים֙]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

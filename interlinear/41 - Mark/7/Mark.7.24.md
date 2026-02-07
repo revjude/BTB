@@ -1,12 +1,12 @@
-**Mark 7:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:24**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know [it]: but he could not be hid.
 <small><sub>**BSB:**</sub></small>
 Jesus left that place and went to the region of Tyre. Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice.
 <small><sub>**Literal:**</sub></small>
 and From there also having risen up He went away into the region of Tyre and Sidon. And having entered into <the> a house no [one] He was wishing to know [it] and not He was able to be hidden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.23|<< Mark 7:23]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.25|Mark 7:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | From there |**<big>[[G1564\|Ἐκεῖθεν]]</big>**  |Ekeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

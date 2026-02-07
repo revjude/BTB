@@ -1,5 +1,5 @@
-**James 4:6
-**<small><sub>**KJV:**</sub></small>
+**James 4:6**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
 <small><sub>**BSB:**</sub></small>
 But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”
@@ -10,7 +10,7 @@ Greater however He gives grace; Therefore it says: <the> God [the] proud opposes
 > $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greater |**<big>[[G3173\|μείζονα]]</big>**  |meizona <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

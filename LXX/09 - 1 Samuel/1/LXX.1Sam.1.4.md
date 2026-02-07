@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:4** 
 <small><sub>**LXX:**</sub></small>
 And came to pass a day that Elkanah sacrificed, and he gave  to Peninnah his wife, and to all  her sons, and \[to\] her daughters, portions. 
-<small><sub>**KJV:**</sub></small>
-And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:
-<small><sub>**BSB:**</sub></small>
-And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.3|<< 1 Samuel 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.5|1 Samuel 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

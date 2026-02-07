@@ -1,10 +1,7 @@
 **LXX Hosea 3:2** 
 <small><sub>**LXX:**</sub></small>
 And I hired her to myself \[for\] fifteen \[pieces\] of silver, and a homer of barley, and a skin flask of wine. 
-<small><sub>**KJV:**</sub></small>
-So I bought her to me for fifteen [pieces] of silver, and [for] an homer of barley, and an half homer of barley:
-<small><sub>**BSB:**</sub></small>
-So I bought her for fifteen shekels of silver and a homer and a lethech of barley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.1|<< Hosea 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.3|Hosea 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

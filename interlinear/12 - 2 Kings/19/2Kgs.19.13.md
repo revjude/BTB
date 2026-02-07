@@ -1,4 +1,4 @@
-**2 Kings 19:13** 
+**2 Kings 19:13**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.12|<< 2 Kings 19:12]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.14|2 Kings 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where [is]? he  |**<big>&#8207;[[H0335\|אַיּ֤]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| 'ai.Y<small><sup>[[HTi]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

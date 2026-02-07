@@ -1,10 +1,7 @@
 **LXX Genesis 8:17** 
 <small><sub>**LXX:**</sub></small>
 And all flesh from winged creatures unto cattle, and every reptile moving upon the earth, lead out with yourself! And grow and multiply upon the earth! 
-<small><sub>**KJV:**</sub></small>
-Bring forth with thee every living thing that [is] with thee, of all flesh, [both] of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.
-<small><sub>**BSB:**</sub></small>
-Bring out all the living creatures that are with you—birds, livestock, and everything that crawls upon the ground—so that they can spread out over the earth and be fruitful and multiply upon it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.16|<< Genesis 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.18|Genesis 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 3:8** 
 <small><sub>**LXX:**</sub></small>
 All holding a broadsword, being taught war; \[every\] man \[with\] his broadsword upon his thigh, because of consternation in \[the\] nights. 
-<small><sub>**KJV:**</sub></small>
-They all hold swords, [being] expert in war: every man [hath] his sword upon his thigh because of fear in the night.
-<small><sub>**BSB:**</sub></small>
-All are skilled with the sword, experienced in warfare. Each has his sword at his side prepared for the terror of the night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.7|<< Song of Solomon 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.9|Song of Solomon 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:8** 
 <small><sub>**LXX:**</sub></small>
 In  that day, said \[the\] <span class="smallcaps">lord</span> of the forces, I will break the yoke from  their neck, and  their bonds I will tear up, and they shall not work themselves any longer for strangers. 
-<small><sub>**KJV:**</sub></small>
-For it shall come to pass in that day, saith the LORD of hosts, [that] I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:
-<small><sub>**BSB:**</sub></small>
-On that day, declares the LORD of Hosts, I will break the yoke off their necks and tear off their bonds, and no longer will strangers enslave them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.7|<< Jeremiah 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.9|Jeremiah 30:9 >>]]</td></tr></table>
 
 | Translation | Greek |

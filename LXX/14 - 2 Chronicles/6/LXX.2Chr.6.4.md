@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:4** 
 <small><sub>**LXX:**</sub></small>
 And he said, Blessed be \[the\] <span class="smallcaps">lord</span>  God of Israel, who spoke by his mouth to David  my father, and by his hands he fulfilled, saying, 
-<small><sub>**KJV:**</sub></small>
-And he said, Blessed [be] the LORD God of Israel, who hath with his hands fulfilled [that] which he spake with his mouth to my father David, saying,
-<small><sub>**BSB:**</sub></small>
-and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.3|<< 2 Chronicles 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.5|2 Chronicles 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

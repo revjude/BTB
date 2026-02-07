@@ -1,4 +1,4 @@
-**Joshua 7:20** 
+**Joshua 7:20**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Achan answered Joshua, and said, Indeed I have sinned against the LORD God o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.19|<< Joshua 7:19]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.21|Joshua 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֧עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Achan  |**<big>&#8207;[[H5912\|עָכָ֛ן]]&#8207; </big>**| 'a.Khan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

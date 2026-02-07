@@ -1,4 +1,4 @@
-**Isaiah 54:13** 
+**Isaiah 54:13**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all thy children [shall be] taught of the LORD; and great [shall be] the peace of thy children.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then all your sons will be taught by the LORD, and great will be their prosperit
 > $\quad$ referenced by: [[John.6.45|John 6:45]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children your  |**<big>&#8207;[[H1121A\|בָּנַ֖יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ba.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

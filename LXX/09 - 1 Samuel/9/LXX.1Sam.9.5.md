@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:5** 
 <small><sub>**LXX:**</sub></small>
 And of their coming unto  Zuph, and Saul said \[to\] his servant-lad  with him, Come, for we should return, lest my father sparing concerning the donkeys, should be thoughtful  concerning us. 
-<small><sub>**KJV:**</sub></small>
-[And] when they were come to the land of Zuph, Saul said to his servant that [was] with him, Come, and let us return; lest my father leave [caring] for the asses, and take thought for us.
-<small><sub>**BSB:**</sub></small>
-When they reached the land of Zuph, Saul said to his servant, “Come, let us go back, or my father will stop worrying about the donkeys and start worrying about us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.4|<< 1 Samuel 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.6|1 Samuel 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

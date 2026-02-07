@@ -1,4 +1,4 @@
-**Deuteronomy 16:13** 
+**Deuteronomy 16:13**<big><big>[[Deut.16.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to celebrate the Feast of Tabernacles for seven days after you have gath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.12|<< Deuteronomy 16:12]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.14|Deuteronomy 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] festival of  |**<big>&#8207;[[H2282\|חַ֧ג]]&#8207; </big>**| chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the booths  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5521\|סֻּכֹּ֛ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> su.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

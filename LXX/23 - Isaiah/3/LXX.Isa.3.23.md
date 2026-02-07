@@ -1,10 +1,7 @@
 **LXX Isaiah 3:23** 
 <small><sub>**LXX:**</sub></small>
 and the fine linens, and the ones of blue, and scarlet, and the linen being interwoven with gold and blue, and \[the\] lightweight coverings for divans. 
-<small><sub>**KJV:**</sub></small>
-The glasses, and the fine linen, and the hoods, and the vails.
-<small><sub>**BSB:**</sub></small>
-and their mirrors, linen garments, tiaras, and shawls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.22|<< Isaiah 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.24|Isaiah 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

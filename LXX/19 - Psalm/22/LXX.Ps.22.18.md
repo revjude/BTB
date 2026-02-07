@@ -1,10 +1,7 @@
 **LXX Psalm 22:18** 
 <small><sub>**LXX:**</sub></small>
 my garments into parts to themselves; and over  my clothes they cast a lot. 
-<small><sub>**KJV:**</sub></small>
-They part my garments among them, and cast lots upon my vesture.
-<small><sub>**BSB:**</sub></small>
-They divide my garments among them and cast lots for my clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.17|<< Psalm 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.19|Psalm 22:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:18** is...

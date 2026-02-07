@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> heard the voice  of your words, and he being provoked swore by an oath, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD heard the voice of your words, and was wroth, and sware, saying,
-<small><sub>**BSB:**</sub></small>
-When the LORD heard your words, He grew angry and swore an oath, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.33|<< Deuteronomy 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.35|Deuteronomy 1:35 >>]]</td></tr></table>
 
 | Translation | Greek |

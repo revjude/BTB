@@ -1,4 +1,4 @@
-**Ezekiel 4:11** 
+**Ezekiel 4:11**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to measure out a sixth of a hin of water to drink, and you are to d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.10|<< Ezekiel 4:10]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.12|Ezekiel 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and water  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4325G\|מַ֛יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by measure  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4884\|מְשׂוּרָ֥ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.su.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

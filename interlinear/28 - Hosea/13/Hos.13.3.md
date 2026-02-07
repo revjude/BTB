@@ -1,4 +1,4 @@
-**Hosea 13:3** 
+**Hosea 13:3**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff [that] is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore they will be like the morning mist, like the early dew that vanishes, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will become  |**<big>&#8207;[[H1961\|יִֽהְיוּ֙]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

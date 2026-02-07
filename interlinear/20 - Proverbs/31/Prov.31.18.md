@@ -1,4 +1,4 @@
-**Proverbs 31:18** 
+**Proverbs 31:18**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She perceiveth that her merchandise [is] good: her candle goeth not out by night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She sees that her gain is good, and her lamp is not extinguished at night.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.17|<< Proverbs 31:17]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.19|Proverbs 31:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she perceives  |**<big>&#8207;[[H2938\|טָ֭עֲמָה]]&#8207; </big>**| Ta.'a.mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

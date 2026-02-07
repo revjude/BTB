@@ -1,4 +1,4 @@
-**Amos 5:18** 
+**Amos 5:18**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto you that desire the day of the LORD! to what end [is] it for you? the day of the LORD [is] darkness, and not light.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you who long for the Day of the LORD! What will the Day of the LORD be fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.17|<< Amos 5:17]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.19|Amos 5:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֥וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] desire  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0183\|מִּתְאַוִּ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mit.'a.Vim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

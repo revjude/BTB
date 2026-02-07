@@ -1,4 +1,4 @@
-**Daniel 9:26** 
+**Daniel 9:26**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof [shall be] with a flood, and unto the end of the war desolations are determined.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then after the sixty-two weeks the Messiah will be cut off and will have nothing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.25|<< Daniel 9:25]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.27|Daniel 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sevens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7620I\|שָּׁבֻעִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.vu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

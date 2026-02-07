@@ -1,10 +1,7 @@
 **LXX Job 32:4** 
 <small><sub>**LXX:**</sub></small>
 And Elihu waited to give an answer to Job, for they were older than he in days. 
-<small><sub>**KJV:**</sub></small>
-Now Elihu had waited till Job had spoken, because they [were] elder than he.
-<small><sub>**BSB:**</sub></small>
-Now Elihu had waited to speak to Job because the others were older than he.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.3|<< Job 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.5|Job 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 19:5** 
+**Jeremiah 19:5**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have built also the high places of Baal, to burn their sons with fire [for] burnt offerings unto Baal, which I commanded not, nor spake [it], neither came [it] into my mind:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have built high places to Baal on which to burn their children in the fire 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.4|<< Jeremiah 19:4]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.6|Jeremiah 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have built  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנ֞וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

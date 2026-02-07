@@ -1,10 +1,7 @@
 **LXX Genesis 13:2** 
 <small><sub>**LXX:**</sub></small>
 And Abram was exceedingly rich in cattle, and silver, and gold. 
-<small><sub>**KJV:**</sub></small>
-And Abram [was] very rich in cattle, in silver, and in gold.
-<small><sub>**BSB:**</sub></small>
-And Abram had become extremely wealthy in livestock and silver and gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.1|<< Genesis 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.3|Genesis 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 19:14** 
 <small><sub>**LXX:**</sub></small>
 And Moses went down from the mountain to the people, and sanctified them. And they washed  their garments. 
-<small><sub>**KJV:**</sub></small>
-And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.
-<small><sub>**BSB:**</sub></small>
-When Moses came down from the mountain to the people, he consecrated them, and they washed their clothes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.13|<< Exodus 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.15|Exodus 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

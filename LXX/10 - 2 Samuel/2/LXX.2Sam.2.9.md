@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:9** 
 <small><sub>**LXX:**</sub></small>
 and gave him to reign over  Gilead, and over the Ashurites, and over  Jezreel, and over  Ephraim, and over  Benjamin, and over all Israel. 
-<small><sub>**KJV:**</sub></small>
-And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
-<small><sub>**BSB:**</sub></small>
-and made him king over Gilead, Asher, Jezreel, Ephraim, and Benjamin—over all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.8|<< 2 Samuel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.10|2 Samuel 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

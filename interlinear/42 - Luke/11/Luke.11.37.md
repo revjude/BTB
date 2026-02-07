@@ -1,12 +1,12 @@
-**Luke 11:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:37**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.
 <small><sub>**BSB:**</sub></small>
 As Jesus was speaking, a Pharisee invited Him to dine with him; so He went in and reclined at the table.
 <small><sub>**Literal:**</sub></small>
 While then <the> speaking asked Him a Pharisee a certain one that He would dine with him. having entered then He reclined.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.36|<< Luke 11:36]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.38|Luke 11:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

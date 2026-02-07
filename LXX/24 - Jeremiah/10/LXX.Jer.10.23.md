@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:23** 
 <small><sub>**LXX:**</sub></small>
 I know, O <span class="smallcaps">lord</span>, that the way of man \[is\] not his \[own\]; nor shall a man go and his goings straight. 
-<small><sub>**KJV:**</sub></small>
-O LORD, I know that the way of man [is] not in himself: [it is] not in man that walketh to direct his steps.
-<small><sub>**BSB:**</sub></small>
-I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.22|<< Jeremiah 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.24|Jeremiah 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

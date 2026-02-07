@@ -1,12 +1,12 @@
-**John 6:68
-**<small><sub>**KJV:**</sub></small>
+**John 6:68**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 <small><sub>**BSB:**</sub></small>
 Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life.
 <small><sub>**Literal:**</sub></small>
 Answered therefore Him Simon Peter; Lord, to whom will we go? declarations of life eternal You have,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.67|<< John 6:67]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.69|John 6:69 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

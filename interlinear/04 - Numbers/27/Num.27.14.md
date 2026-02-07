@@ -1,4 +1,4 @@
-**Numbers 27:14** 
+**Numbers 27:14**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that [is] the water of Meribah in Kadesh in the wilderness of Zin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for when the congregation contended in the Wilderness of Zin, both of you rebell
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.13|<< Numbers 27:13]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.15|Numbers 27:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<as> since  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֩]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you rebelled against  |**<big>&#8207;[[H4784\|מְרִיתֶ֨ם]]&#8207; </big>**| me.ri.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

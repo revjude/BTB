@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:16** 
 <small><sub>**LXX:**</sub></small>
 And Joab son of Zeruiah \[was\] over the military. And Jehoshaphat son of Ahilud \[was\] over the ones recording. 
-<small><sub>**KJV:**</sub></small>
-And Joab the son of Zeruiah [was] over the host; and Jehoshaphat the son of Ahilud [was] recorder;
-<small><sub>**BSB:**</sub></small>
-Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.15|<< 2 Samuel 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.17|2 Samuel 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

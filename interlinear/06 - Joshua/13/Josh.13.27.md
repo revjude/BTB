@@ -1,4 +1,4 @@
-**Joshua 13:27** 
+**Joshua 13:27**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and [his] border, [even] unto the edge of the sea of Chinnereth on the other side Jordan eastward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.26|<< Joshua 13:26]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.28|Joshua 13:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the valley  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6010R\|עֵ֡מֶק]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> 'E.mek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Beth  |**<big>&#8207;[[H1027\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

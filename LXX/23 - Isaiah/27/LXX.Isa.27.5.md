@@ -1,10 +1,7 @@
 **LXX Isaiah 27:5** 
 <small><sub>**LXX:**</sub></small>
 All the ones dwelling in her shall yell, We should make peace with him, we should make peace. 
-<small><sub>**KJV:**</sub></small>
-Or let him take hold of my strength, [that] he may make peace with me; [and] he shall make peace with me.
-<small><sub>**BSB:**</sub></small>
-Or let them lay claim to My protection; let them make peace with Me—yes, let them make peace with Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.4|<< Isaiah 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.6|Isaiah 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

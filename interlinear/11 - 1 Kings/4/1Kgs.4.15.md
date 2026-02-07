@@ -1,4 +1,4 @@
-**1 Kings 4:15** 
+**1 Kings 4:15**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ahimaaz [was] in Naphtali; he also took Basmath the daughter of Solomon to wife:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahimaaz in Naphtali (he had married Basemath, a daughter of Solomon);
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.14|<< 1 Kings 4:14]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.16|1 Kings 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ahimaaz  |**<big>&#8207;[[H0290I\|אֲחִימַ֖עַץ]]&#8207; </big>**| 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Naphtali  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5321G\|נַפְתָּלִ֑י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

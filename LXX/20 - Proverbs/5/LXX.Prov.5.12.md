@@ -1,10 +1,7 @@
 **LXX Proverbs 5:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, O how I detested instruction, and my heart turned aside reproofs! 
-<small><sub>**KJV:**</sub></small>
-And say, How have I hated instruction, and my heart despised reproof;
-<small><sub>**BSB:**</sub></small>
-and you will say, “How I hated discipline, and my heart despised reproof!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.11|<< Proverbs 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.13|Proverbs 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

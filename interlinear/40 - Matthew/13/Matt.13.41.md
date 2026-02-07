@@ -1,12 +1,12 @@
-**Matthew 13:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:41**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
 <small><sub>**BSB:**</sub></small>
 The Son of Man will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness.
 <small><sub>**Literal:**</sub></small>
 Will send forth the Son <the> of Man the angels of Him, and they will gather out of the kingdom of Him all the causes of sin and those practicing <the> lawlessness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.40|<< Matthew 13:40]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.42|Matthew 13:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will send forth |**<big>[[G0649\|ἀποστελεῖ]]</big>**  |apostelei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 12:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:2**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he killed James the brother of John with the sword.
 <small><sub>**BSB:**</sub></small>
 He had James, the brother of John, put to death with the sword.
 <small><sub>**Literal:**</sub></small>
 He executed then James the brother of John with the sword.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.1|<< Acts 12:1]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.3|Acts 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He executed |**<big>[[G0337\|ἀνεῖλεν]]</big>**  |aneilen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

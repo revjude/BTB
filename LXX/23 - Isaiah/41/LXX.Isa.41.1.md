@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Dedicate \[a feast\] to me, O islands, for the rulers shall change strength. Let them approach and speak together, then let them announce judgment! 
-<small><sub>**KJV:**</sub></small>
-Keep silence before me, O islands; and let the people renew [their] strength: let them come near; then let them speak: let us come near together to judgment.
-<small><sub>**BSB:**</sub></small>
-“Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.31|<< Isaiah 40:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.2|Isaiah 41:2 >>]]</td></tr></table>
 
 | Translation | Greek |

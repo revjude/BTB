@@ -1,10 +1,7 @@
 **LXX Psalm 106:43** 
 <small><sub>**LXX:**</sub></small>
 Many times he rescued them, but they greatly embittered him by  their counsel, and they were humbled in  their lawless deeds. 
-<small><sub>**KJV:**</sub></small>
-Many times did he deliver them; but they provoked [him] with their counsel, and were brought low for their iniquity.
-<small><sub>**BSB:**</sub></small>
-Many times He rescued them, but they were bent on rebellion and sank down in their iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.42|<< Psalm 106:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.44|Psalm 106:44 >>]]</td></tr></table>
 
 | Translation | Greek |

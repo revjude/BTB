@@ -1,10 +1,7 @@
 **LXX Obadiah 1:16** 
 <small><sub>**LXX:**</sub></small>
 For in which manner you drank upon  my holy mountain, \[so\] all the nations shall drink wine; they shall drink, and they shall swallow down, and they shall be as not having existed. 
-<small><sub>**KJV:**</sub></small>
-For as ye have drunk upon my holy mountain, [so] shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
-<small><sub>**BSB:**</sub></small>
-For as you drank on My holy mountain, so all the nations will drink continually. They will drink and gulp it down; they will be as if they had never existed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.15|<< Obadiah 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.17|Obadiah 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

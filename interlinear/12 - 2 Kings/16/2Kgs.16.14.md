@@ -1,4 +1,4 @@
-**2 Kings 16:14** 
+**2 Kings 16:14**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought also the brasen altar, which [was] before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also took the bronze altar that stood before the LORD from the front of the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.13|<< 2 Kings 16:13]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.15|2 Kings 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the altar of  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבַּ֣ח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

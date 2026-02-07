@@ -1,10 +1,7 @@
 **LXX Isaiah 44:8** 
 <small><sub>**LXX:**</sub></small>
 Do not cover up yourselves, nor wander! \[Have\] you not from \[the\] beginning given ear, and I reported \[it\] to you? You are witnesses if there is a God besides me. 
-<small><sub>**KJV:**</sub></small>
-Fear ye not, neither be afraid: have not I told thee from that time, and have declared [it]? ye [are] even my witnesses. Is there a God beside me? yea, [there is] no God; I know not [any].
-<small><sub>**BSB:**</sub></small>
-Do not tremble or fear. Have I not told you and declared it long ago? You are My witnesses! Is there any God but Me? There is no other Rock; I know not one.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.7|<< Isaiah 44:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.9|Isaiah 44:9 >>]]</td></tr></table>
 
 | Translation | Greek |

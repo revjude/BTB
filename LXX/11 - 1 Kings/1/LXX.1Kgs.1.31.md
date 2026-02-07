@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:31** 
 <small><sub>**LXX:**</sub></small>
 And Bath-sheba bowed upon \[her\] face upon the earth, and did obeisance to the king, and said, my master king David live into the eon! 
-<small><sub>**KJV:**</sub></small>
-Then Bathsheba bowed with [her] face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.
-<small><sub>**BSB:**</sub></small>
-Bathsheba bowed facedown in homage to the king and said, “May my lord King David live forever!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.30|<< 1 Kings 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.32|1 Kings 1:32 >>]]</td></tr></table>
 
 | Translation | Greek |

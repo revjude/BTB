@@ -1,4 +1,4 @@
-**Isaiah 20:1** 
+**Isaiah 20:1**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before the year that the chief commander, sent by Sargon king of Assyria, came t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.25|<< Isaiah 19:25]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.2|Isaiah 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | came  |**<big>&#8207;[[H0935G\|בֹּ֤א]]&#8207; </big>**| bo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

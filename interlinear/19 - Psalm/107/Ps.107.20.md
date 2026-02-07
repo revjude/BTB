@@ -1,4 +1,4 @@
-**Psalms 107:20** 
+**Psalms 107:20**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent his word, and healed them, and delivered [them] from their destructions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent forth His word and healed them; He rescued them from the Pit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.19|<< Psalms 107:19]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.21|Psalms 107:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971G\|יִשְׁלַ֣ח]]&#8207; </big>**| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word his  |**<big>&#8207;[[H1697G\|דְּ֭בָר]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| de.va.r<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

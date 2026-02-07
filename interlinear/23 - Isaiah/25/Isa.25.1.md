@@ -1,4 +1,4 @@
-**Isaiah 25:1** 
+**Isaiah 25:1**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou [art] my God; I will exalt thee, I will praise thy name; for thou hast done wonderful [things; thy] counsels of old [are] faithfulness [and] truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, You are my God! I will exalt You; I will praise Your name. For You have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.23|<< Isaiah 24:23]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.2|Isaiah 25:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 65:11** 
 <small><sub>**LXX:**</sub></small>
 But you \[are\] the ones having abandoned me, and having forgotten  my holy mountain, and \[are\] preparing a table to the demon, and filling  a mixture to good luck. 
-<small><sub>**KJV:**</sub></small>
-But ye [are] they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.
-<small><sub>**BSB:**</sub></small>
-But you who forsake the LORD, who forget My holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.10|<< Isaiah 65:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.12|Isaiah 65:12 >>]]</td></tr></table>
 
 | Translation | Greek |

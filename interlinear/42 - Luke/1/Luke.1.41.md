@@ -1,12 +1,12 @@
-**Luke 1:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:41**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:
 <small><sub>**BSB:**</sub></small>
 When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 And it came to pass as heard the greeting <the> of Mary <the> Elizabeth, leaped the baby in the womb of her, and was filled with [the] Spirit Holy <the> Elizabeth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.40|<< Luke 1:40]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.42|Luke 1:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

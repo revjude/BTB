@@ -1,4 +1,4 @@
-**Psalms 111:2** 
+**Psalms 111:2**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The works of the LORD [are] great, sought out of all them that have pleasure therein.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Great are the works of the LORD; they are pondered by all who delight in them.
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] great  |**<big>&#8207;[[H1419A\|גְּ֭דֹלִים]]&#8207; </big>**| Ge.do.lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] works of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣י]]&#8207; </big>**| ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

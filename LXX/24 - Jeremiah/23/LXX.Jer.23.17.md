@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:17** 
 <small><sub>**LXX:**</sub></small>
 They say to the ones thrusting away the word of \[the\] <span class="smallcaps">lord</span>, Peace will be to you; and to all the ones going  by their wants, and to all  going in a delusion of his heart, Evils shall not come upon you. 
-<small><sub>**KJV:**</sub></small>
-They say still unto them that despise me, The LORD hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.
-<small><sub>**BSB:**</sub></small>
-They keep saying to those who despise Me, ‘The LORD says that you will have peace,’ and to everyone who walks in the stubbornness of his own heart, ‘No harm will come to you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.16|<< Jeremiah 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.18|Jeremiah 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

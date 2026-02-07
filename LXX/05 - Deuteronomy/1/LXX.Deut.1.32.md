@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:32** 
 <small><sub>**LXX:**</sub></small>
 And in  this word you did not entrust \[to the\] <span class="smallcaps">lord</span>  your God, 
-<small><sub>**KJV:**</sub></small>
-Yet in this thing ye did not believe the LORD your God,
-<small><sub>**BSB:**</sub></small>
-But in spite of all this, you did not trust the LORD your God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.31|<< Deuteronomy 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.33|Deuteronomy 1:33 >>]]</td></tr></table>
 
 | Translation | Greek |

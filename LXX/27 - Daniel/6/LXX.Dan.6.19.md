@@ -1,10 +1,7 @@
 **LXX Daniel 6:19** 
 <small><sub>**LXX:**</sub></small>
 Then the king rose up in the morning at the light. And in haste he came unto the pit of the lions. 
-<small><sub>**KJV:**</sub></small>
-Then the king arose very early in the morning, and went in haste unto the den of lions.
-<small><sub>**BSB:**</sub></small>
-At the first light of dawn, the king got up and hurried to the den of lions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.18|<< Daniel 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.20|Daniel 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

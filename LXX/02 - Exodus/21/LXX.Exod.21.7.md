@@ -1,10 +1,7 @@
 **LXX Exodus 21:7** 
 <small><sub>**LXX:**</sub></small>
 But if any should give over  his own daughter as a domestic servant, she shall not go forth as the maidservants run forth. 
-<small><sub>**KJV:**</sub></small>
-And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.
-<small><sub>**BSB:**</sub></small>
-And if a man sells his daughter as a servant, she is not to go free as the menservants do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.6|<< Exodus 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.8|Exodus 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

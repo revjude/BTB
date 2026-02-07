@@ -1,12 +1,12 @@
-**Revelation 1:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:3**<big><big>[[Rev.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [is] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time [is] at hand.
 <small><sub>**BSB:**</sub></small>
 Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear and obey what is written in it, because the time is near.
 <small><sub>**Literal:**</sub></small>
 blessed [is] the [one] reading and those hearing the words of the prophecy and keeping the [things] in it written; <the> for the time [is] near.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.2|<< Revelation 1:2]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.4|Revelation 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | blessed [is] |**<big>[[G3107\|μακάριος]]</big>**  |makarios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

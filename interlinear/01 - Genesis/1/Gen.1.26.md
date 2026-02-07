@@ -1,4 +1,4 @@
-**Genesis 1:26** 
+**Genesis 1:26**<big><big>[[Gen.1.24 The Sixth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then God said, “Let Us make man in Our image, after Our likeness, to rule over
 > $\quad$ referenced by: [[Rom.1.23|Rom 1:23]] ☩ [[1Cor.11.7|1Cor 11:7]] ☩ [[1Cor.15.49|1Cor 15:49]] ☩ [[2Cor.3.18|2Cor 3:18]] ☩ [[2Cor.4.4|2Cor 4:4]] ☩ [[Col.3.10|Col 3:10]] ☩ [[Jas.3.9|Jas 3:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

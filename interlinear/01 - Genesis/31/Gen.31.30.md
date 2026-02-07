@@ -1,4 +1,4 @@
-**Genesis 31:30** 
+**Genesis 31:30**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, [though] thou wouldest needs be gone, because thou sore longedst after thy father’s house, [yet] wherefore hast thou stolen my gods?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now you have gone off because you long for your father’s house. But why have y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.29|<< Genesis 31:29]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.31|Genesis 31:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to go>  |**<big>&#8207;[[H1980G\|הָלֹ֣ךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

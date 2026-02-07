@@ -1,10 +1,7 @@
 **LXX Daniel 2:14** 
 <small><sub>**LXX:**</sub></small>
 Then Daniel answered counsel and opinion \[to\] Arioch the chief guard of the king, who came forth to do away with the wise men of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Then Daniel answered with counsel and wisdom to Arioch the captain of the king’s guard, which was gone forth to slay the wise [men] of Babylon:
-<small><sub>**BSB:**</sub></small>
-When Arioch, the commander of the king’s guard, went out to execute the wise men of Babylon, Daniel responded with discretion and tact.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.13|<< Daniel 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.15|Daniel 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

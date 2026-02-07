@@ -1,4 +1,4 @@
-**Lamentations 3:59** 
+**Lamentations 3:59**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou hast seen my wrong: judge thou my cause.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have seen, O LORD, the wrong done to me; vindicate my cause!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.58|<< Lamentations 3:58]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.60|Lamentations 3:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have seen  |**<big>&#8207;[[H7200G\|רָאִ֤יתָה]]&#8207; </big>**| ra.'I.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

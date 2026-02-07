@@ -1,6 +1,6 @@
 (KJV) **Psalm 73**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72|<< Psalm 72]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74|Psalm 74 >>]]</td></tr></table>
 
-***Surely God Is Good to Israel*** ^bsb1366
+<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥃]]</big></big>***Surely God Is Good to Israel***
 
 
 

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel proceeded to do  wickedly before \[the\] <span class="smallcaps">lord</span>, and they served to the Baalim, and to the Ashtaroths, and to the gods of Syria, and to the gods of Sidon, and to the gods of Moab, and to the gods of \[the\] sons of Ammon, and to the gods of the Philistines; and they abandoned the <span class="smallcaps">lord</span>, and did not serve to him. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him.
-<small><sub>**BSB:**</sub></small>
-And again the Israelites did evil in the sight of the LORD. They served the Baals, the Ashtoreths, the gods of Aram, Sidon, and Moab, and the gods of the Ammonites and Philistines. Thus they forsook the LORD and did not serve Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.5|<< Judges 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.7|Judges 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

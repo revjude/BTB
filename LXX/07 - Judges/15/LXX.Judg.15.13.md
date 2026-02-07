@@ -1,10 +1,7 @@
 **LXX Judges 15:13** 
 <small><sub>**LXX:**</sub></small>
 And they swore by an oath to him, saying, No, but only by a bond will we tie you, for we should deliver you up into their hands; but to death we will not kill you. And they tied him with two new ropes, and bore him from the rock. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock.
-<small><sub>**BSB:**</sub></small>
-“No,” they answered, “we will not kill you, but we will tie you up securely and hand you over to them.” So they bound him with two new ropes and led him up from the rock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.12|<< Judges 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.14|Judges 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

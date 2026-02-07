@@ -1,10 +1,7 @@
 **LXX Isaiah 1:15** 
 <small><sub>**LXX:**</sub></small>
 Whenever you should stretch out \[your\] hands, I shall turn  my eyes from you. And if you should multiply  \[your\] supplication, I will not listen to you,  for your hands \[are\] full of blood. 
-<small><sub>**KJV:**</sub></small>
-And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.
-<small><sub>**BSB:**</sub></small>
-When you spread out your hands in prayer, I will hide My eyes from you; even though you multiply your prayers, I will not listen. Your hands are covered with blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.14|<< Isaiah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.16|Isaiah 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

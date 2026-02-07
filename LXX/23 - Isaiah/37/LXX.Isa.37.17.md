@@ -1,10 +1,7 @@
 **LXX Isaiah 37:17** 
 <small><sub>**LXX:**</sub></small>
 Lean, O <span class="smallcaps">lord</span>,  your ear! Hearken, O <span class="smallcaps">lord</span>! Open, O <span class="smallcaps">lord</span>,  your eyes! Look in, O <span class="smallcaps">lord</span>, and know and hear all the words of Sennacherib! which he sent to berate \[the\] living God. 
-<small><sub>**KJV:**</sub></small>
-Incline thine ear, O LORD, and hear; open thine eyes, O LORD, and see: and hear all the words of Sennacherib, which hath sent to reproach the living God.
-<small><sub>**BSB:**</sub></small>
-Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to all the words that Sennacherib has sent to defy the living God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.16|<< Isaiah 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.18|Isaiah 37:18 >>]]</td></tr></table>
 
 | Translation | Greek |

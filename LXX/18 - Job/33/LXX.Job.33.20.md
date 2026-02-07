@@ -1,10 +1,7 @@
 **LXX Job 33:20** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall he be able to favorably receive any eatable grain, \[even though\]  his soul desires food; 
-<small><sub>**KJV:**</sub></small>
-So that his life abhorreth bread, and his soul dainty meat.
-<small><sub>**BSB:**</sub></small>
-so that he detests his bread, and his soul loathes his favorite food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.19|<< Job 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.21|Job 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

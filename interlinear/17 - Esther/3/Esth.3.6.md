@@ -1,4 +1,4 @@
-**Esther 3:6** 
+**Esther 3:6**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he thought scorn to lay hands on Mordecai alone; for they had shewed him the people of Mordecai: wherefore Haman sought to destroy all the Jews that [were] throughout the whole kingdom of Ahasuerus, [even] the people of Mordecai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when he learned the identity of Mordecai’s people, he scorned the notion o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.5|<< Esther 3:5]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.7|Esther 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he despised  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0959\|יִּ֣בֶז]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.vez<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 13:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:15**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of [our] lips giving thanks to his name.
 <small><sub>**BSB:**</sub></small>
 Through Jesus, therefore, let us continually offer to God a sacrifice of praise, the fruit of lips that confess His name.
 <small><sub>**Literal:**</sub></small>
 Through Him then we may offer [the] sacrifice of praise through all [times] <the> to God, That is [the] fruit of [the] lips confessing the name of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.14|<< Hebrews 13:14]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.16|Hebrews 13:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

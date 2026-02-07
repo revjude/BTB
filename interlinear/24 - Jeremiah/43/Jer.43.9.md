@@ -1,4 +1,4 @@
-**Jeremiah 43:9** 
+**Jeremiah 43:9**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take great stones in thine hand, and hide them in the clay in the brickkiln, which [is] at the entry of Pharaoh’s house in Tahpanhes, in the sight of the men of Judah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take great stones in thine hand, and hide them in the clay in the brickkiln, whi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קַ֣ח]]&#8207; </big>**| kach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדְ]]&#8207;&#8207;[[H9021\|ךָ֞]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

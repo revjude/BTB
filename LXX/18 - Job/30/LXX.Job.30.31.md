@@ -1,10 +1,7 @@
 **LXX Job 30:31** 
 <small><sub>**LXX:**</sub></small>
 And my harp turned into mourning,  and my psalm into weeping for me. 
-<small><sub>**KJV:**</sub></small>
-My harp also is [turned] to mourning, and my organ into the voice of them that weep.
-<small><sub>**BSB:**</sub></small>
-My harp is tuned to mourning and my flute to the sound of weeping.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.30|<< Job 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.1|Job 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

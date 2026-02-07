@@ -1,4 +1,4 @@
-**Isaiah 26:9** 
+**Isaiah 26:9**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments [are] in the earth, the inhabitants of the world will learn righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My soul longs for You in the night; indeed, my spirit seeks You at dawn. For whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.8|<< Isaiah 26:8]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.10|Isaiah 26:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have desired you  |**<big>&#8207;[[H0183\|אִוִּיתִ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'i.vi.Ti.<small><sup>[[HVpp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

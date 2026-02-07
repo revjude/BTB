@@ -1,4 +1,4 @@
-**Deuteronomy 15:8** 
+**Deuteronomy 15:8**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, [in that] which he wanteth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, you are to open your hand to him and freely loan him whatever he needs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.7|<< Deuteronomy 15:7]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.9|Deuteronomy 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to open>  |**<big>&#8207;[[H6605A\|פָתֹ֧חַ]]&#8207; </big>**| fa.To.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

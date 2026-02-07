@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:7** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>,  my God, you gave reign to  your servant in place of David  my father. And I am a small boy; and I do not know  my entering and  my exiting. 
-<small><sub>**KJV:**</sub></small>
-And now, O LORD my God, thou hast made thy servant king instead of David my father: and I [am but] a little child: I know not [how] to go out or come in.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.6|<< 1 Kings 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.8|1 Kings 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

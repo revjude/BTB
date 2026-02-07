@@ -1,10 +1,7 @@
 **LXX Proverbs 13:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] law for \[the\] wise \[is\] a spring of life; but the mindless man shall die by a snare. 
-<small><sub>**KJV:**</sub></small>
-The law of the wise [is] a fountain of life, to depart from the snares of death.
-<small><sub>**BSB:**</sub></small>
-The teaching of the wise is a fountain of life, turning one from the snares of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.13|<< Proverbs 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.15|Proverbs 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:5** 
 <small><sub>**LXX:**</sub></small>
 Who will spare over you, O Jerusalem? And who will show timidity against you? Or, who shall return to \[say\], Peace to you? 
-<small><sub>**KJV:**</sub></small>
-For who shall have pity upon thee, O Jerusalem? or who shall bemoan thee? or who shall go aside to ask how thou doest?
-<small><sub>**BSB:**</sub></small>
-Who will have pity on you, O Jerusalem? Who will mourn for you? Who will turn aside to ask about your welfare?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.4|<< Jeremiah 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.6|Jeremiah 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

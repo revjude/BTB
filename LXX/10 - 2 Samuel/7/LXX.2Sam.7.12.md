@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever your days should have been fulfilled, and you shall sleep with  your fathers, that I shall raise up  your seed after you, who will be from out of  your belly, and I shall prepare  his kingdom. 
-<small><sub>**KJV:**</sub></small>
-And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
-<small><sub>**BSB:**</sub></small>
-And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.11|<< 2 Samuel 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.13|2 Samuel 7:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Samuel 7:12** is...

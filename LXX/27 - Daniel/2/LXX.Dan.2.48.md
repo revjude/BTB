@@ -1,10 +1,7 @@
 **LXX Daniel 2:48** 
 <small><sub>**LXX:**</sub></small>
 And the king magnified  Daniel, and he gave to him great and many gifts, and he established him over all \[the\] places of Babylon, and ruler of satraps, over all the wise men of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise [men] of Babylon.
-<small><sub>**BSB:**</sub></small>
-Then the king promoted Daniel and gave him many generous gifts. He made him ruler over the entire province of Babylon and chief administrator over all the wise men of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.47|<< Daniel 2:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.49|Daniel 2:49 >>]]</td></tr></table>
 
 | Translation | Greek |

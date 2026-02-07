@@ -1,4 +1,4 @@
-**Daniel 2:26** 
+**Daniel 2:26**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king answered and said to Daniel, whose name [was] Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king responded to Daniel, whose name was Belteshazzar, “Are you able to te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.25|<< Daniel 2:25]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.27|Daniel 2:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] replying  |**<big>&#8207;[[H6032\|עָנֵ֤ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

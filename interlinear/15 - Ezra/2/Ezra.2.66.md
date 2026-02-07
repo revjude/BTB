@@ -1,4 +1,4 @@
-**Ezra 2:66** 
+**Ezra 2:66**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their horses [were] seven hundred thirty and six; their mules, two hundred forty and five;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They had 736 horses, 245 mules,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.65|<< Ezra 2:65]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.67|Ezra 2:67 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | horses their  |**<big>&#8207;[[H5483M\|סוּסֵי]]&#8207;&#8207;[[H9028\|הֶ֕ם]]&#8207; </big>**| su.sei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שְׁבַ֥ע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

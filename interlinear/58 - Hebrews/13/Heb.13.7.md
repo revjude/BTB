@@ -1,12 +1,12 @@
-**Hebrews 13:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:7**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of [their] conversation.
 <small><sub>**BSB:**</sub></small>
 Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith.
 <small><sub>**Literal:**</sub></small>
 do remember those leading you, who spoke to you the word of the God, of whom considering the outcome of [their] way of life, do imitate the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.6|<< Hebrews 13:6]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.8|Hebrews 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|Μνημονεύετε]]</big>**  |Mnēmoneuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

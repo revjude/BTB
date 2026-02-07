@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall give to the priests, to the Levites, to the ones from out of the seed of Zadok, to the ones approaching to me, says \[the\] <span class="smallcaps">lord</span>  God,  to officiate to me, a calf from \[the\] oxen for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering.
-<small><sub>**BSB:**</sub></small>
-You are to give a young bull from the herd as a sin offering to the Levitical priests who are of the family of Zadok, who approach Me to minister before Me, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.18|<< Ezekiel 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.20|Ezekiel 43:20 >>]]</td></tr></table>
 
 | Translation | Greek |

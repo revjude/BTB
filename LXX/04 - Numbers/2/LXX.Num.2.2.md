@@ -1,10 +1,7 @@
 **LXX Numbers 2:2** 
 <small><sub>**LXX:**</sub></small>
 \[Each\] man having according to his order, according to the signals, according to \[the\] houses of their patrimony, the sons of Israel camp opposite -- round about the tent of the testimony the sons of Israel shall camp. 
-<small><sub>**KJV:**</sub></small>
-Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.
-<small><sub>**BSB:**</sub></small>
-“The Israelites are to camp around the Tent of Meeting at a distance from it, each man under his standard, with the banners of his family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.1|<< Numbers 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.3|Numbers 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

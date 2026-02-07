@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:11** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I shall awaken evils against you from out of  your house, and I shall take  your wives before your eyes, and I will give \[them\] \[to\] your neighbor, and he shall go to bed with  your wives before  this sun. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give [them] unto thy neighbour, and he shall lie with thy wives in the sight of this sun.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.10|<< 2 Samuel 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.12|2 Samuel 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

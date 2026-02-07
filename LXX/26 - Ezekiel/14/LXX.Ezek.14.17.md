@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:17** 
 <small><sub>**LXX:**</sub></small>
 Or even if I bring a broadsword against  that land, and I should say, Let \[the\] broadsword go through the land! and I shall lift away from out of them man and beast. 
-<small><sub>**KJV:**</sub></small>
-Or [if] I bring a sword upon that land, and say, Sword, go through the land; so that I cut off man and beast from it:
-<small><sub>**BSB:**</sub></small>
-Or if I bring a sword against that land and say, ‘Let a sword pass through it,’ so that I cut off from it both man and beast,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.16|<< Ezekiel 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.18|Ezekiel 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

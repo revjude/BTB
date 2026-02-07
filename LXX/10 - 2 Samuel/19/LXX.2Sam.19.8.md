@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:8** 
 <small><sub>**LXX:**</sub></small>
 And the king rose up, and he sat at the gate. And all the people announced, saying, Behold, the king sits down at the gate. And all the people came before the king. And Israel fled, each to  his tent. 
-<small><sub>**KJV:**</sub></small>
-Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king doth sit in the gate. And all the people came before the king: for Israel had fled every man to his tent.
-<small><sub>**BSB:**</sub></small>
-So the king got up and sat in the gate, and all the people were told: “Behold, the king is sitting in the gate.” So they all came before the king. Meanwhile, the Israelites had fled, each man to his home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.7|<< 2 Samuel 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.9|2 Samuel 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

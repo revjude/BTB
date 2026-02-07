@@ -1,10 +1,7 @@
 **LXX Job 34:14** 
 <small><sub>**LXX:**</sub></small>
 For if he might want to constrain, and to hold down the spirit by himself, 
-<small><sub>**KJV:**</sub></small>
-If he set his heart upon man, [if] he gather unto himself his spirit and his breath;
-<small><sub>**BSB:**</sub></small>
-If He were to set His heart to it and withdraw His Spirit and breath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.13|<< Job 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.15|Job 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

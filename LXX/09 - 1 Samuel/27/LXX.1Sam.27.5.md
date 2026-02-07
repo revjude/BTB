@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:5** 
 <small><sub>**LXX:**</sub></small>
 And David said to Achish, If indeed your servant has found favor in your eyes, give indeed to me a place in one of the cities of the ones in the country! and I shall settle there. For why \[does\] your servant settle in a city reigning with you? 
-<small><sub>**KJV:**</sub></small>
-And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?
-<small><sub>**BSB:**</sub></small>
-Then David said to Achish, “If I have found favor in your eyes, let me be assigned a place in one of the outlying towns, so I can live there. For why should your servant live in the royal city with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

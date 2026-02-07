@@ -1,4 +1,4 @@
-**Psalms 74:14** 
+**Psalms 74:14**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou brakest the heads of leviathan in pieces, [and] gavest him [to be] meat to the people inhabiting the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You crushed the heads of Leviathan; You fed him to the creatures of the desert.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.13|<< Psalms 74:13]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.15|Psalms 74:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you crushed  |**<big>&#8207;[[H7533\|רִ֭צַּצְתָּ]]&#8207; </big>**| Ri.tzatz.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

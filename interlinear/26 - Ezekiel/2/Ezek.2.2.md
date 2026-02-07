@@ -1,4 +1,4 @@
-**Ezekiel 2:2** 
+**Ezekiel 2:2**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And as He spoke to me, the Spirit entered me and set me on my feet, and I heard 
 > $\quad$ referenced by: [[Rev.5.1|Rev 5:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּ֧בֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in me  |**<big>&#8207;[[H9003\|בִ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

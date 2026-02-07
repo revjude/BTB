@@ -1,4 +1,4 @@
-**1 Kings 19:7** 
+**1 Kings 19:7**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD came again the second time, and touched him, and said, Arise [and] eat; because the journey [is] too great for thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A second time the angel of the LORD returned and touched him, saying, “Get up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.6|<< 1 Kings 19:6]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.8|1 Kings 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725J\|יָּשָׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֨ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

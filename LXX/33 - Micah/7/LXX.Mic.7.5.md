@@ -1,10 +1,7 @@
 **LXX Micah 7:5** 
 <small><sub>**LXX:**</sub></small>
 Do not confide in friends; do not hope upon leaders; of  your bed-mate watch out  to not present anything to her. 
-<small><sub>**KJV:**</sub></small>
-Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.
-<small><sub>**BSB:**</sub></small>
-Do not rely on a friend; do not trust in a companion. Seal the doors of your mouth from her who lies in your arms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.4|<< Micah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.6|Micah 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

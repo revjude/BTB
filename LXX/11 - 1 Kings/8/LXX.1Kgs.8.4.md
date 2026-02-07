@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:4** 
 <small><sub>**LXX:**</sub></small>
 and the tent of the testimony, and all the holy items, the ones for the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And they brought up the ark of the LORD, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, even those did the priests and the Levites bring up.
-<small><sub>**BSB:**</sub></small>
-and they brought up the ark of the LORD and the Tent of Meeting with all its sacred furnishings. So the priests and Levites carried them up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.3|<< 1 Kings 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.5|1 Kings 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

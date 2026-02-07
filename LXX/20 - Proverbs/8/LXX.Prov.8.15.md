@@ -1,10 +1,7 @@
 **LXX Proverbs 8:15** 
 <small><sub>**LXX:**</sub></small>
 By me kings reign, and the mighty ones write righteousness. 
-<small><sub>**KJV:**</sub></small>
-By me kings reign, and princes decree justice.
-<small><sub>**BSB:**</sub></small>
-By me kings reign, and rulers enact just laws;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.14|<< Proverbs 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.16|Proverbs 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

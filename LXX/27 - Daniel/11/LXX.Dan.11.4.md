@@ -1,10 +1,7 @@
 **LXX Daniel 11:4** 
 <small><sub>**LXX:**</sub></small>
 And when ever his kingdom should stand, it shall be broken, and shall be divided into the four winds of the heaven; and not unto  his latter end, nor according to  his dominion which he lorded over. For his kingdom was plucked up, and to others outside of these it shall be given. 
-<small><sub>**KJV:**</sub></small>
-And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
-<small><sub>**BSB:**</sub></small>
-But as soon as he is established, his kingdom will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the authority with which he ruled, because his kingdom will be uprooted and given to others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.3|<< Daniel 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.5|Daniel 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

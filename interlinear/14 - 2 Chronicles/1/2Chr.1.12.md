@@ -1,4 +1,4 @@
-**2 Chronicles 1:12** 
+**2 Chronicles 1:12**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom and knowledge [is] granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that [have been] before thee, neither shall there any after thee have the like.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ therefore wisdom and knowledge have been granted to you. And I will also give yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.11|<< 2 Chronicles 1:11]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.13|2 Chronicles 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the wisdom  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2451\|חָכְמָ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the knowledge  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4093\|מַּדָּ֖ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.ma.Da'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

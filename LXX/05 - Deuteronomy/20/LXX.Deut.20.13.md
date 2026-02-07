@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:13** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] <span class="smallcaps">lord</span> your God shall deliver it into  your hands, then you shall strike every male of it by carnage \[of the\] sword, 
-<small><sub>**KJV:**</sub></small>
-And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:
-<small><sub>**BSB:**</sub></small>
-When the LORD your God has delivered it into your hand, you must put every male to the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.12|<< Deuteronomy 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.14|Deuteronomy 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

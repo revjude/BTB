@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Josiah \[was\] a son \[being\] eight years \[old\] in  his taking reign, and thirty and one year \[s\] he reigned in Jerusalem. And \[the\] name  of his mother was Jedidah, daughter of Adaiah of Boseath. 
-<small><sub>**KJV:**</sub></small>
-Josiah [was] eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name [was] Jedidah, the daughter of Adaiah of Boscath.
-<small><sub>**BSB:**</sub></small>
-Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother’s name was Jedidah daughter of Adaiah; she was from Bozkath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.26|<< 2 Kings 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.2|2 Kings 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

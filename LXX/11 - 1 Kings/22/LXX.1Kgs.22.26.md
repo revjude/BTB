@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel said, Take  Micaiah, and return him to Amon the ruler of the city, and to Joash son of the king! 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;
-<small><sub>**BSB:**</sub></small>
-And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.25|<< 1 Kings 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.27|1 Kings 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

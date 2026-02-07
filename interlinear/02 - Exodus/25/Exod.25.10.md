@@ -1,4 +1,4 @@
-**Exodus 25:10** 
+**Exodus 25:10**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make an ark [of] shittim wood: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they are to construct an ark of acacia wood, two and a half cubits long, a c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.9|<< Exodus 25:9]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.11|Exodus 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשׂ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an ark of  |**<big>&#8207;[[H0727\|אֲר֖וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

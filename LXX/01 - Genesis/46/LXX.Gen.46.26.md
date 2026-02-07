@@ -1,10 +1,7 @@
 **LXX Genesis 46:26** 
 <small><sub>**LXX:**</sub></small>
 And all the souls  entering with Jacob into Egypt -- the \[ones\] coming forth from out of  his thighs, separate from the wives of Jacob's sons -- all souls \[were\] sixty-six. 
-<small><sub>**KJV:**</sub></small>
-All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls [were] threescore and six;
-<small><sub>**BSB:**</sub></small>
-All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.25|<< Genesis 46:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.27|Genesis 46:27 >>]]</td></tr></table>
 
 | Translation | Greek |

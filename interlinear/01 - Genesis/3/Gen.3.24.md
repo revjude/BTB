@@ -1,4 +1,4 @@
-**Genesis 3:24** 
+**Genesis 3:24**<big><big>[[Gen.3.21 The Expulsion from Paradise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So He drove out the man and stationed cherubim on the east side of the Garden of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.23|<< Genesis 3:23]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.1|Genesis 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drove out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1644G\|יְגָ֖רֶשׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Ga.resh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

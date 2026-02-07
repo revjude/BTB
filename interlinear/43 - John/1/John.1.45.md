@@ -1,12 +1,12 @@
-**John 1:45
-**<small><sub>**KJV:**</sub></small>
+**John 1:45**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 <small><sub>**BSB:**</sub></small>
 Philip found Nathanael and told him, “We have found the One Moses wrote about in the Law, the One the prophets foretold—Jesus of Nazareth, the son of Joseph.”
 <small><sub>**Literal:**</sub></small>
 Finds Philip <the> Nathanael and says to him; [Him] whom wrote of Moses in the Law also the prophets, we have found, Jesus <the> son <the> of Joseph <the> of Nazareth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.44|<< John 1:44]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.46|John 1:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Finds |**<big>[[G2147\|Εὑρίσκει]]</big>**  |Heuriskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Philip |**<big>[[G5376G\|Φίλιππος]]</big>**  |Philippos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

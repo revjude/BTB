@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:10** 
 <small><sub>**LXX:**</sub></small>
 Giving, you shall give to him, and you shall lend to him a loan as much as he wants of you. And you shall not fret \[in\] your heart of your giving to him, for on account of  this matter \[the\] <span class="smallcaps">lord</span> your God will bless you in all  your works, and in all \[things\] of which ever you should put  your hand \[to\]. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.
-<small><sub>**BSB:**</sub></small>
-Give generously to him, and do not let your heart be grieved when you do so. And because of this the LORD your God will bless you in all your work and in everything to which you put your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.9|<< Deuteronomy 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.11|Deuteronomy 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

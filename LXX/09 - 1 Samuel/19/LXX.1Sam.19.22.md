@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:22** 
 <small><sub>**LXX:**</sub></small>
 And Saul was enraged in anger, and went even himself unto Ramah. And he comes unto well of the threshing-floor of the one in  Sechu. And he asked and said, Where \[are\] Samuel and David? And they said, Behold, in Naioth in Ramah. 
-<small><sub>**KJV:**</sub></small>
-Then went he also to Ramah, and came to a great well that [is] in Sechu: and he asked and said, Where [are] Samuel and David? And [one] said, Behold, [they be] at Naioth in Ramah.
-<small><sub>**BSB:**</sub></small>
-Finally, Saul himself left for Ramah and came to the large cistern at Secu, where he asked, “Where are Samuel and David?” “At Naioth in Ramah,” he was told.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.21|<< 1 Samuel 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.23|1 Samuel 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

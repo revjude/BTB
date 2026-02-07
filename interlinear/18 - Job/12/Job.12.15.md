@@ -1,4 +1,4 @@
-**Job 12:15** 
+**Job 12:15**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If He holds back the waters, they dry up, and if He releases them, they overwhel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.14|<< Job 12:14]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.16|Job 12:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he holds back  |**<big>&#8207;[[H6113\|יַעְצֹ֣ר]]&#8207; </big>**| ya'.Tzor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

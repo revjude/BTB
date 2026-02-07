@@ -1,4 +1,4 @@
-**Psalms 52:7** (52:9)
+**Psalms 52:7**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, [this is] the man [that] made not God his strength; but trusted in the abundance of his riches, [and] strengthened himself in his wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lo, [this is] the man [that] made not God his strength; but trusted in the abund
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.6|<< Psalms 52:6]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.8|Psalms 52:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1397\|גֶּ֗בֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

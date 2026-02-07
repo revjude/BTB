@@ -1,10 +1,7 @@
 **LXX Numbers 15:27** 
 <small><sub>**LXX:**</sub></small>
 And if one soul should sin unintentionally, he shall lead forward one goat of a year \[old\] for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering.
-<small><sub>**BSB:**</sub></small>
-Also, if one person sins unintentionally, he is to present a year-old female goat as a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.26|<< Numbers 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.28|Numbers 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 10:23** 
 <small><sub>**LXX:**</sub></small>
 And of the Levites -- Jozabad, and Shemei, and Kelaiah -- he \[is\] Kelita, and Pethahiah, and Judah, and Eliezer. 
-<small><sub>**KJV:**</sub></small>
-Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same [is] Kelita,) Pethahiah, Judah, and Eliezer.
-<small><sub>**BSB:**</sub></small>
-Among the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.22|<< Ezra 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.24|Ezra 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

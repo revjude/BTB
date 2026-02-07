@@ -1,4 +1,4 @@
-**Isaiah 47:8** 
+**Isaiah 47:8**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hear now this, [thou that art] given to pleasures, that dwellest carelessly, that sayest in thine heart, I [am], and none else beside me; I shall not sit [as] a widow, neither shall I know the loss of children:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now hear this, O lover of luxury who sits securely, who says to herself, ‘I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | listen to  |**<big>&#8207;[[H8085G\|שִׁמְעִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

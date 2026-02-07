@@ -1,10 +1,7 @@
 **LXX Leviticus 22:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall guard  my injunctions, that they should not take sin on account of them, and should die because of them, if they shall profane them. I \[am\] \[the\] <span class="smallcaps">lord</span>, the one sanctifying them. 
-<small><sub>**KJV:**</sub></small>
-They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.
-<small><sub>**BSB:**</sub></small>
-The priests must keep My charge, lest they bear the guilt and die because they profane it. I am the LORD who sanctifies them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.8|<< Leviticus 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.10|Leviticus 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 33:13** 
 <small><sub>**LXX:**</sub></small>
 If then I have found favor before you, reveal to me yourself knowingly! that I might see you, how ever I should be found in favor before you; and that I might know, that this nation \[is\] your people. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation [is] thy people.
-<small><sub>**BSB:**</sub></small>
-Now if indeed I have found favor in Your sight, please let me know Your ways, that I may know You and find favor in Your sight. Remember that this nation is Your people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.12|<< Exodus 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.14|Exodus 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:21** 
 <small><sub>**LXX:**</sub></small>
 And in every work in which he began in the work in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in the law, and in the orders, he sought after  his God from his entire soul. And he acted, and his way prospered. 
-<small><sub>**KJV:**</sub></small>
-And in every work that he began in the service of the house of God, and in the law, and in the commandments, to seek his God, he did [it] with all his heart, and prospered.
-<small><sub>**BSB:**</sub></small>
-He acted with all his heart in every work that he began in the service of the house of God, and in the law and the commandments, in order to seek his God. And so he prospered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.20|<< 2 Chronicles 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.1|2 Chronicles 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

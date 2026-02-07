@@ -1,10 +1,7 @@
 **LXX Isaiah 37:31** 
 <small><sub>**LXX:**</sub></small>
 And they shall be the ones being left behind in  Judea. They shall germinate a root below, and they shall produce grain upward. 
-<small><sub>**KJV:**</sub></small>
-And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:
-<small><sub>**BSB:**</sub></small>
-And the surviving remnant of the house of Judah will again take root below and bear fruit above.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.30|<< Isaiah 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.32|Isaiah 37:32 >>]]</td></tr></table>
 
 | Translation | Greek |

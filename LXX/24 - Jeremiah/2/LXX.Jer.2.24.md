@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:24** 
 <small><sub>**LXX:**</sub></small>
  Her ways widen over waters of \[the\] wilderness; in \[the\] desires of her soul she was being carried by the wind; she was delivered up to them, who will turn her? All the ones seeking her shall not tire; in  her humiliation they shall find her. 
-<small><sub>**KJV:**</sub></small>
-A wild ass used to the wilderness, [that] snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her.
-<small><sub>**BSB:**</sub></small>
-a wild donkey at home in the wilderness, sniffing the wind in the heat of her desire. Who can restrain her passion? All who seek her need not weary themselves; in mating season they will find her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.23|<< Jeremiah 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.25|Jeremiah 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

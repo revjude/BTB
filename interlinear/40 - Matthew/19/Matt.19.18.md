@@ -1,5 +1,5 @@
-**Matthew 19:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:18**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
 <small><sub>**BSB:**</sub></small>
 “Which ones?” the man asked. Jesus answered, “‘Do not murder, do not commit adultery, do not steal, do not bear false witness,
@@ -10,7 +10,7 @@ He says to him; Which [commandments]? <the> And Jesus was speaking; <the> Not wi
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him; |**<big>[[G0846\|αὐτῷ·]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

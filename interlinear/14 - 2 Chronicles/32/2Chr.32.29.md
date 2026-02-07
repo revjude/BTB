@@ -1,4 +1,4 @@
-**2 Chronicles 32:29** 
+**2 Chronicles 32:29**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he provided him cities, and possessions of flocks and herds in abundance: for God had given him substance very much.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made cities for himself, and he acquired herds of sheep and cattle in abundan
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.28|<< 2 Chronicles 32:28]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.30|2 Chronicles 32:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5892B\|עָרִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָ֣שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

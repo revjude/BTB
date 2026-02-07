@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:39** 
 <small><sub>**LXX:**</sub></small>
 And every new child, whoever does not know today good or bad, this one shall enter there, and to these I shall give it, and to them they shall inherit it. 
-<small><sub>**KJV:**</sub></small>
-Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
-<small><sub>**BSB:**</sub></small>
-And the little ones you said would become captives—your children who on that day did not know good from evil—will enter the land that I will give them, and they will possess it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.38|<< Deuteronomy 1:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.40|Deuteronomy 1:40 >>]]</td></tr></table>
 
 | Translation | Greek |

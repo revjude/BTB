@@ -1,10 +1,7 @@
 **LXX Exodus 8:3** 
 <small><sub>**LXX:**</sub></small>
 And the river will discharge forth frogs. And in ascending, they shall enter into  your houses, and into the closets  of your bedrooms, and upon  your beds, and into the houses  of your attendants, and  your people, and in  your batches \[of flour\], and in  your ovens. 
-<small><sub>**KJV:**</sub></small>
-And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
-<small><sub>**BSB:**</sub></small>
-The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.2|<< Exodus 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.4|Exodus 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

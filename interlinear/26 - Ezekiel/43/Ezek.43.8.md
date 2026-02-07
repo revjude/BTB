@@ -1,4 +1,4 @@
-**Ezekiel 43:8** 
+**Ezekiel 43:8**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they placed their threshold next to My threshold and their doorposts beside
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.7|<< Ezekiel 43:7]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.9|Ezekiel 43:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when put they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5414H\|תִתָּ֨]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ti.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | threshold their  |**<big>&#8207;[[H5592B\|סִפָּ֜]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| si.Pa<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

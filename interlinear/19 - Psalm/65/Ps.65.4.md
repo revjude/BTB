@@ -1,4 +1,4 @@
-**Psalms 65:4** (65:5)
+**Psalms 65:4**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is the man whom] thou choosest, and causest to approach [unto thee, that] he may dwell in thy courts: we shall be satisfied with the goodness of thy house, [even] of thy holy temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the one You choose and bring near to dwell in Your courts! We are fil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.3|<< Psalms 65:3]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.5|Psalms 65:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is [the] one whom] you choose  |**<big>&#8207;[[H0977\|תִּֽבְחַ֣ר]]&#8207; </big>**| tiv.Char<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 39:21** 
+**Job 39:21**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He paweth in the valley, and rejoiceth in [his] strength: he goeth on to meet the armed men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He paws in the valley and rejoices in his strength; he charges into battle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.20|<< Job 39:20]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.22|Job 39:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they paw  |**<big>&#8207;[[H2658\|יַחְפְּר֣וּ]]&#8207; </big>**| yach.pe.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the valley  |**<big>&#8207;[[H9003\|בָ֭]]&#8207;&#8207;[[H6010R\|עֵמֶק]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> 'e.mek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

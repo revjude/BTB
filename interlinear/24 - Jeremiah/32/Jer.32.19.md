@@ -1,4 +1,4 @@
-**Jeremiah 32:19** 
+**Jeremiah 32:19**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great in counsel, and mighty in work: for thine eyes [are] open upon all the ways of the sons of men: to give every one according to his ways, and according to the fruit of his doings:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the One great in counsel and mighty in deed, whose eyes are on all the ways of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.18|<< Jeremiah 32:18]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.20|Jeremiah 32:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> great of  |**<big>&#8207;[[H1419A\|גְּדֹל֙]]&#8207; </big>**| ge.Dol<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> counsel  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H6098\|עֵצָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nahum 1:1** 
+**Nahum 1:1**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against Nineveh, the book of the vision of Nahum the Elkoshit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.20|<< Micah 7:20]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.2|Nahum 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nineveh  |**<big>&#8207;[[H5210\|נִֽינְוֵ֑ה]]&#8207; </big>**| nin.Veh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

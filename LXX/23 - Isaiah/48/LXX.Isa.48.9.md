@@ -1,10 +1,7 @@
 **LXX Isaiah 48:9** 
 <small><sub>**LXX:**</sub></small>
 Because of  my name I will show to you  my rage, and  I will bring my noble deeds upon you, that I should not utterly destroy you. 
-<small><sub>**KJV:**</sub></small>
-For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
-<small><sub>**BSB:**</sub></small>
-For the sake of My name I will delay My wrath; for the sake of My praise I will restrain it, so that you will not be cut off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.8|<< Isaiah 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.10|Isaiah 48:10 >>]]</td></tr></table>
 
 | Translation | Greek |

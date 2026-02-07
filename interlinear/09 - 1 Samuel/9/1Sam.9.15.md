@@ -1,4 +1,4 @@
-**1 Samuel 9:15** 
+**1 Samuel 9:15**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the LORD had told Samuel in his ear a day before Saul came, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now on the day before Saul’s arrival, the LORD had revealed to Samuel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.14|<< 1 Samuel 9:14]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.16|1 Samuel 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had uncovered  |**<big>&#8207;[[H1540H\|גָּלָ֖ה]]&#8207; </big>**| ga.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

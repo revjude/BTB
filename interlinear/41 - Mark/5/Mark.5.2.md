@@ -1,12 +1,12 @@
-**Mark 5:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:2**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus got out of the boat, He was met by a man with an unclean spirit, who was coming from the tombs.
 <small><sub>**Literal:**</sub></small>
 And when was exiting He out of the boat immediately met with Him out of the tombs a man with a spirit unclean<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.1|<< Mark 5:1]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.3|Mark 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was exiting [^1] |**<big>[[G1831\|ἐξελθόντος]]</big>**  |exelthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

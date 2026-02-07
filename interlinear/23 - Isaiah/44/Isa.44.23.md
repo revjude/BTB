@@ -1,4 +1,4 @@
-**Isaiah 44:23** 
+**Isaiah 44:23**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing, O ye heavens; for the LORD hath done [it]: shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the LORD hath redeemed Jacob, and glorified himself in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Sing for joy, O heavens, for the LORD has done this; shout aloud, O depths of th
 > $\quad$ referenced by: [[Rev.18.20|Rev 18:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רָנּ֨וּ]]&#8207; </big>**| ra.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heaven  |**<big>&#8207;[[H8064\|שָׁמַ֜יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 10:6** 
 <small><sub>**LXX:**</sub></small>
 And Ezra rose up from in front \[of the\] house  of God, and went into \[the\] treasury of Johanan son of Eliashib, and he lodged there; he did not eat bread, and did not drink water, for he mourned over the breach-of-contract by the resettlement. 
-<small><sub>**KJV:**</sub></small>
-Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and [when] he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.
-<small><sub>**BSB:**</sub></small>
-Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.5|<< Ezra 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.7|Ezra 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

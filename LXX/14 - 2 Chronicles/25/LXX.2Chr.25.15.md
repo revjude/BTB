@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] anger \[of the\] <span class="smallcaps">lord</span> came against Amaziah, and he sent to him a prophet, and he said to him, Why did you seek the gods of the people, the ones which did not rescue  their own people from your hand? 
-<small><sub>**KJV:**</sub></small>
-Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?
-<small><sub>**BSB:**</sub></small>
-Therefore the anger of the LORD burned against Amaziah, and He sent him a prophet, who said, “Why have you sought this people’s gods, which could not deliver them from your hand?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.14|<< 2 Chronicles 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.16|2 Chronicles 25:16 >>]]</td></tr></table>
 
 | Translation | Greek |

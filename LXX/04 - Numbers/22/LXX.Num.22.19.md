@@ -1,10 +1,7 @@
 **LXX Numbers 22:19** 
 <small><sub>**LXX:**</sub></small>
 And now remain behind here, even you  this night! and I will know what \[the\] <span class="smallcaps">lord</span> shall add to speak to me. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more.
-<small><sub>**BSB:**</sub></small>
-So now, please stay here overnight as the others did, that I may find out what else the LORD has to tell me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.18|<< Numbers 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.20|Numbers 22:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Habakkuk 3:4** 
+**Habakkuk 3:4**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [his] brightness was as the light; he had horns [coming] out of his hand: and there [was] the hiding of his power.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His radiance was like the sunlight; rays flashed from His hand, where His power 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.3|<< Habakkuk 3:3]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.5|Habakkuk 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and brightness  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5051\|נֹ֙גַהּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.gah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the light  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0216\|א֣וֹר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

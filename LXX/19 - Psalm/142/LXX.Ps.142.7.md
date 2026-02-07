@@ -1,10 +1,7 @@
 **LXX Psalm 142:7** 
 <small><sub>**LXX:**</sub></small>
 my soul out of prison!  to make acknowledgment \[to\] your name. \[The\] just shall wait for me, until of which \[time\] you should recompense me. 
-<small><sub>**KJV:**</sub></small>
-Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.
-<small><sub>**BSB:**</sub></small>
-Free my soul from prison, that I may praise Your name. The righteous will gather around me because of Your goodness to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.6|<< Psalm 142:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.1|Psalm 143:1 >>]]</td></tr></table>
 
 | Translation | Greek |

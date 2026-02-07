@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:33** 
 <small><sub>**LXX:**</sub></small>
 And the men foretold and hastened and gathered up the word out of  his mouth, and they said, Your brother \[the\] son of Hadad. And he said, Enter, and receive him! And \[the\] son of Hadad came forth to him; and they transported him upon the chariot to him. 
-<small><sub>**KJV:**</sub></small>
-Now the men did diligently observe whether [any thing would come] from him, and did hastily catch [it]: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot.
-<small><sub>**BSB:**</sub></small>
-Now the men were looking for a sign of hope, and they quickly grasped at this word and replied, “Yes, your brother Ben-hadad.” “Go and get him!” said the king. Then Ben-hadad came out, and Ahab had him come up into his chariot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.32|<< 1 Kings 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.34|1 Kings 20:34 >>]]</td></tr></table>
 
 | Translation | Greek |

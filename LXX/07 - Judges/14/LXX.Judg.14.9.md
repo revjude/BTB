@@ -1,10 +1,7 @@
 **LXX Judges 14:9** 
 <small><sub>**LXX:**</sub></small>
 And he took of it into  his mouth, and went forth going and eating. And he went to  his father and to  his mother, and he gave to them, and they ate, and he did not announce to them that he took the honey from the manner of the lion. 
-<small><sub>**KJV:**</sub></small>
-And he took thereof in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion.
-<small><sub>**BSB:**</sub></small>
-So he scooped some honey into his hands and ate it as he went along. And when he returned to his father and mother, he gave some to them and they ate it. But he did not tell them that he had taken the honey from the lion’s carcass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.8|<< Judges 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.10|Judges 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

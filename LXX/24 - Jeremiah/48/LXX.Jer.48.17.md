@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:17** 
 <small><sub>**LXX:**</sub></small>
 Move him, all ones round about him! All seeing his name, say! O how \[the\] renowned staff broken, \[the\] rod of magnificence. 
-<small><sub>**KJV:**</sub></small>
-All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, [and] the beautiful rod!
-<small><sub>**BSB:**</sub></small>
-Mourn for him, all you who surround him, everyone who knows his name; tell how the mighty scepter is shattered—the glorious staff!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.16|<< Jeremiah 48:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.18|Jeremiah 48:18 >>]]</td></tr></table>
 
 | Translation | Greek |

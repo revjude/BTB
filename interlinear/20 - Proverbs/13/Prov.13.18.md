@@ -1,4 +1,4 @@
-**Proverbs 13:18** 
+**Proverbs 13:18**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Poverty and shame [shall be to] him that refuseth instruction: but he that regardeth reproof shall be honoured.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Poverty and shame come to him who ignores discipline, but whoever heeds correcti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.17|<< Proverbs 13:17]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.19|Proverbs 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | poverty  |**<big>&#8207;[[H7389A\|רֵ֣ישׁ]]&#8207; </big>**| reish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and shame  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7036\|קָלוֹן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ka.lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

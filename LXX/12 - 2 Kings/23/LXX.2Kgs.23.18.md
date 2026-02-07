@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:18** 
 <small><sub>**LXX:**</sub></small>
 And he said, Allow him! no one move  his bones! And he preserved  his bones with the bones of the prophet  having come from out of Samaria. 
-<small><sub>**KJV:**</sub></small>
-And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.
-<small><sub>**BSB:**</sub></small>
-“Let him rest,” said Josiah. “Do not let anyone disturb his bones.” So they left his bones undisturbed, along with those of the prophet who had come from Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.17|<< 2 Kings 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.19|2 Kings 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

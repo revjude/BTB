@@ -1,4 +1,4 @@
-**Judges 18:12** 
+**Judges 18:12**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, [it is] behind Kirjathjearim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They went up and camped at Kiriath-jearim in Judah. That is why the place west o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.11|<< Judges 18:11]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.13|Judges 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they encamped  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2583\|יַּחֲנ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

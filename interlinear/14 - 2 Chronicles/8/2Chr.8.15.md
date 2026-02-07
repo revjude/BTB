@@ -1,4 +1,4 @@
-**2 Chronicles 8:15** 
+**2 Chronicles 8:15**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They did not turn aside from the king’s command regarding the priests or the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.14|<< 2 Chronicles 8:14]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.16|2 Chronicles 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they turned aside  |**<big>&#8207;[[H5493I\|סָרוּ֩]]&#8207; </big>**| sa.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Ezra -- Jether, and Mered, and Epher, and Jalon. And Jether engendered  Miriam, and Shammai, and  Ishbah \[the\] father of Eshtemoa. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Ezra [were], Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.
-<small><sub>**BSB:**</sub></small>
-The sons of Ezrah: Jether, Mered, Epher, and Jalon. And Mered’s wife Bithiah gave birth to Miriam, Shammai, and Ishbah the father of Eshtemoa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.16|<< 1 Chronicles 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.18|1 Chronicles 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

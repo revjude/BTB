@@ -1,10 +1,7 @@
 **LXX Leviticus 5:8** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring them to the priest. And the priest shall bring the \[one\] for the prior sin \[offering\]. And the priest shall pluck off  its head from the neck, and shall not divide \[it\]. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring them unto the priest, who shall offer [that] which [is] for the sin offering first, and wring off his head from his neck, but shall not divide [it] asunder:
-<small><sub>**BSB:**</sub></small>
-He is to bring them to the priest, who shall first present the one for the sin offering. He is to twist its head at the front of its neck without severing it;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.7|<< Leviticus 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.9|Leviticus 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

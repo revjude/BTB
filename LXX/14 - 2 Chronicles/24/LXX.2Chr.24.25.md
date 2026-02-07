@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:25** 
 <small><sub>**LXX:**</sub></small>
 And after  their going forth from him, in  abandoning him with great infirmities, that his servants assailed against him because of \[the\] blood of the sons of Jehoiada the priest; and they killed him upon  his bed, and he died. And they entombed him in \[the\] city of David, but they did not entomb him in the tomb of the kings. 
-<small><sub>**KJV:**</sub></small>
-And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
-<small><sub>**BSB:**</sub></small>
-And when the Arameans had withdrawn, they left Joash severely wounded. His own servants conspired against him for shedding the blood of the son of Jehoiada the priest, and they killed him on his bed. So he died and was buried in the City of David, but not in the tombs of the kings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.24|<< 2 Chronicles 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.26|2 Chronicles 24:26 >>]]</td></tr></table>
 
 | Translation | Greek |

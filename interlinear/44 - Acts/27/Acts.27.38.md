@@ -1,12 +1,12 @@
-**Acts 27:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:38**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea.
 <small><sub>**BSB:**</sub></small>
 After the men had eaten their fill, they lightened the ship by throwing the grain into the sea.
 <small><sub>**Literal:**</sub></small>
 Having been filled then <the> with food they were lightening the ship casting out the wheat into the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.37|<< Acts 27:37]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.39|Acts 27:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been filled |**<big>[[G2880\|κορεσθέντες]]</big>**  |koresthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

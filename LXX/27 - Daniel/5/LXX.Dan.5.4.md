@@ -1,10 +1,7 @@
 **LXX Daniel 5:4** 
 <small><sub>**LXX:**</sub></small>
 They drank wine, and they praised the gods  of gold, and of silver, and of brass, and of iron, and of wood, and of stones. 
-<small><sub>**KJV:**</sub></small>
-They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
-<small><sub>**BSB:**</sub></small>
-As they drank the wine, they praised their gods of gold and silver, bronze and iron, wood and stone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.3|<< Daniel 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.5|Daniel 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

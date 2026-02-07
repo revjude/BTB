@@ -1,10 +1,7 @@
 **LXX Ezra 8:7** 
 <small><sub>**LXX:**</sub></small>
 Of the sons of Elam -- Jeshaiaih son of Athaliah, and with him seventy  males. 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.
-<small><sub>**BSB:**</sub></small>
-from the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.6|<< Ezra 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.8|Ezra 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

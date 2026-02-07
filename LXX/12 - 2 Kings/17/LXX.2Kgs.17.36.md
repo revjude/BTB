@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:36** 
 <small><sub>**LXX:**</sub></small>
 For only to the <span class="smallcaps">lord</span>, who led you from out of \[the\] land of Egypt with great strength and with a high arm, him you shall fear, and to him you shall do obeisance, and to him you shall sacrifice. 
-<small><sub>**KJV:**</sub></small>
-But the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice.
-<small><sub>**BSB:**</sub></small>
-Instead, worship the LORD, who brought you out of the land of Egypt with great power and an outstretched arm. You are to bow down to Him and offer sacrifices to Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.35|<< 2 Kings 17:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.37|2 Kings 17:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:12** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to all the rulers, and to all the people, saying, \[The\] <span class="smallcaps">lord</span> sent me to prophesy against  this house and against  this city all the words which you heard. 
-<small><sub>**KJV:**</sub></small>
-Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.
-<small><sub>**BSB:**</sub></small>
-But Jeremiah said to all the officials and all the people, “The LORD sent me to prophesy against this house and against this city all the words that you have heard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.11|<< Jeremiah 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.13|Jeremiah 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

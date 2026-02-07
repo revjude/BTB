@@ -1,10 +1,7 @@
 **LXX Exodus 21:19** 
 <small><sub>**LXX:**</sub></small>
 if in arising, the man should walk outside upon his cane, the \[one\] striking will be innocent; except  he shall pay for his idleness, and the physician's fee. 
-<small><sub>**KJV:**</sub></small>
-If he rise again, and walk abroad upon his staff, then shall he that smote [him] be quit: only he shall pay [for] the loss of his time, and shall cause [him] to be thoroughly healed.
-<small><sub>**BSB:**</sub></small>
-then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

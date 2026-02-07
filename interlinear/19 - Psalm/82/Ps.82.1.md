@@ -1,12 +1,12 @@
-**Psalms 82:1** 
+**Psalms 82:1**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods.
+God standeth in the congregation of the mighty; he judgeth among the gods.
 <small><sub>**BSB:**</sub></small>
 A Psalm of Asaph. God presides in the divine assembly; He renders judgment among the gods:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.0|<< Psalms 82:0]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.2|Psalms 82:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] taking his stand  |**<big>&#8207;[[H5324\|נִצָּ֥ב]]&#8207; </big>**| ni.Tzav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

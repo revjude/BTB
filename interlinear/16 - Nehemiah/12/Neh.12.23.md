@@ -1,4 +1,4 @@
-**Nehemiah 12:23** 
+**Nehemiah 12:23**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Levi, the chief of the fathers, [were] written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the descendants of Levi, the family heads up to the days of Johanan son o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.22|<< Nehemiah 12:22]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.24|Nehemiah 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Levi  |**<big>&#8207;[[H3878\|לֵוִי֙]]&#8207; </big>**| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

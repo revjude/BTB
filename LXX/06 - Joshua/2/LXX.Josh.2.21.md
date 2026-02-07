@@ -1,10 +1,7 @@
 **LXX Joshua 2:21** 
 <small><sub>**LXX:**</sub></small>
 And she said to them, According to  your word thus let it be! And she sent them out, and they went. And she tied the scarlet sign in the window. 
-<small><sub>**KJV:**</sub></small>
-And she said, According unto your words, so [be] it. And she sent them away, and they departed: and she bound the scarlet line in the window.
-<small><sub>**BSB:**</sub></small>
-“Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.20|<< Joshua 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.22|Joshua 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

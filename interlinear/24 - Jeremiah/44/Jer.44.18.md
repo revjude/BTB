@@ -1,4 +1,4 @@
-**Jeremiah 44:18** 
+**Jeremiah 44:18**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all [things], and have been consumed by the sword and by the famine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But from the time we stopped burning incense to the Queen of Heaven and pouring 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.17|<< Jeremiah 44:17]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.19|Jeremiah 44:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0227B\|אָ֡ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 11:8** 
+**Zechariah 11:8**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in one month I dismissed three shepherds. My soul grew impatient with the fl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.7|<< Zechariah 11:7]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.9|Zechariah 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I annihilated  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3582\|אַכְחִ֛ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'akh.Chid<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 13:6** 
 <small><sub>**LXX:**</sub></small>
 And the woman went in and said  to her husband, saying, A man  of God came to me, and  his appearance was as \[the\] appearance of an angel  of God -- very prominent. And I did not ask him from what place he is, and  his name he did not report to me. 
-<small><sub>**KJV:**</sub></small>
-Then the woman came and told her husband, saying, A man of God came unto me, and his countenance [was] like the countenance of an angel of God, very terrible: but I asked him not whence he [was], neither told he me his name:
-<small><sub>**BSB:**</sub></small>
-So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.5|<< Judges 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.7|Judges 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

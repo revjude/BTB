@@ -1,12 +1,12 @@
-**1 Corinthians 1:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:5**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That in every thing ye are enriched by him, in all utterance, and [in] all knowledge;
 <small><sub>**BSB:**</sub></small>
 For in Him you have been enriched in every way, in all speech and all knowledge,
 <small><sub>**Literal:**</sub></small>
 for in everything you have been enriched in Him in all speech and in all knowledge,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.4|<< 1 Corinthians 1:4]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.6|1 Corinthians 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

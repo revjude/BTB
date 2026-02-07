@@ -1,4 +1,4 @@
-**Isaiah 16:5** 
+**Isaiah 16:5**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in loving devotion a throne will be established in the tent of David. A judge se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.4|<< Isaiah 16:4]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.6|Isaiah 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be established  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3559H\|הוּכַ֤ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.Khan<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> covenant loyalty  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2617A\|חֶ֙סֶד֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

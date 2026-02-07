@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:23** 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah son of Chenaanah approached and struck  Michaiah upon the jaw, and said to him, By what  way passed \[the\] spirit of \[the\] <span class="smallcaps">lord</span> from me  to speak to you? 
-<small><sub>**KJV:**</sub></small>
-Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
-<small><sub>**BSB:**</sub></small>
-Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.22|<< 2 Chronicles 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.24|2 Chronicles 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

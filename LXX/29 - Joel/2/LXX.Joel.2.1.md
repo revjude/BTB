@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Trump with trumpet in Zion! Proclaim in my holy mountain! and confound all the ones dwelling in the land! for the day \[of the\] <span class="smallcaps">lord</span> is at hand -- for \[it is\] near. 
-<small><sub>**KJV:**</sub></small>
-Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for [it is] nigh at hand;
-<small><sub>**BSB:**</sub></small>
-Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.20|<< Joel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.2|Joel 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

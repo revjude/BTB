@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:29** 
 <small><sub>**LXX:**</sub></small>
 And as they completed offering, the king bent, and all the ones being found with him, and they did obeisance. 
-<small><sub>**KJV:**</sub></small>
-And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.
-<small><sub>**BSB:**</sub></small>
-When the offerings were completed, the king and all those present with him bowed down and worshiped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.28|<< 2 Chronicles 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.30|2 Chronicles 29:30 >>]]</td></tr></table>
 
 | Translation | Greek |

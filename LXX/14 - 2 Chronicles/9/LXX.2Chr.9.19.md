@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:19** 
 <small><sub>**LXX:**</sub></small>
 And twelve lions standing there upon the six stairs on this side and on that side; there was not such in any kingdom. 
-<small><sub>**KJV:**</sub></small>
-And twelve lions stood there on the one side and on the other upon the six steps. There was not the like made in any kingdom.
-<small><sub>**BSB:**</sub></small>
-Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.18|<< 2 Chronicles 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.20|2 Chronicles 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 22:21** 
 <small><sub>**LXX:**</sub></small>
 And Balaam rising in the morning, saddled  his donkey, and went with the rulers of Moab. 
-<small><sub>**KJV:**</sub></small>
-And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
-<small><sub>**BSB:**</sub></small>
-So in the morning Balaam got up, saddled his donkey, and went with the princes of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.20|<< Numbers 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.22|Numbers 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

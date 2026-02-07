@@ -1,10 +1,7 @@
 **LXX Leviticus 14:6** 
 <small><sub>**LXX:**</sub></small>
 And \[as for\] the small bird, the one living, he shall take it, and the wood  of cedar, and the spun scarlet, and the hyssop; and he shall dip them and the small bird that is living into the blood of the small bird  being slain over living water. 
-<small><sub>**KJV:**</sub></small>
-As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird [that was] killed over the running water:
-<small><sub>**BSB:**</sub></small>
-And he is to take the live bird together with the cedar wood, scarlet yarn, and hyssop, and dip them into the blood of the bird that was slaughtered over the fresh water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.5|<< Leviticus 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.7|Leviticus 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

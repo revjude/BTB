@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:2** 
 <small><sub>**LXX:**</sub></small>
 And to him \[were\] brothers, sons of Jehoshaphat -- Azariah, and Jehiel, and Zechariah, and Michael, and Shephatiah; all these \[were\] sons of Jehoshaphat king of Judah. 
-<small><sub>**KJV:**</sub></small>
-And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these [were] the sons of Jehoshaphat king of Israel.
-<small><sub>**BSB:**</sub></small>
-Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.1|<< 2 Chronicles 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.3|2 Chronicles 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

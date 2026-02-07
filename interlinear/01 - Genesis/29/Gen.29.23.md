@@ -1,4 +1,4 @@
-**Genesis 29:23** 
+**Genesis 29:23**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when evening came, Laban took his daughter Leah and gave her to Jacob, and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.22|<< Genesis 29:22]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.24|Genesis 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the evening  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6153\|עֶ֔רֶב]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

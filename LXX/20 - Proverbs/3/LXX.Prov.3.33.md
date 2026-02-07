@@ -1,10 +1,7 @@
 **LXX Proverbs 3:33** 
 <small><sub>**LXX:**</sub></small>
 \[The\] curse of \[the\] <span class="smallcaps">lord</span> \[is\] in \[the\] houses of \[the\] impious, but \[the\] properties of \[the\] just are blessed. 
-<small><sub>**KJV:**</sub></small>
-The curse of the LORD [is] in the house of the wicked: but he blesseth the habitation of the just.
-<small><sub>**BSB:**</sub></small>
-The curse of the LORD is on the house of the wicked, but He blesses the home of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.32|<< Proverbs 3:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.34|Proverbs 3:34 >>]]</td></tr></table>
 
 | Translation | Greek |

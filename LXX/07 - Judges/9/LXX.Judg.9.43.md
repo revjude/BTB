@@ -1,10 +1,7 @@
 **LXX Judges 9:43** 
 <small><sub>**LXX:**</sub></small>
 And he took the people, and he divided them into three companies, and he laid in wait in \[the\] field. And he watched, and behold, a people came forth from out of the city, and he rose up against them and struck them. 
-<small><sub>**KJV:**</sub></small>
-And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people [were] come forth out of the city; and he rose up against them, and smote them.
-<small><sub>**BSB:**</sub></small>
-So he took his men, divided them into three companies, and lay in wait in the fields. When he saw the people coming out of the city, he rose up against them and attacked them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.42|<< Judges 9:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.44|Judges 9:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 26:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:34**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” Jesus declared, “this very night, before the rooster crows, you will deny Me three times.”
 <small><sub>**Literal:**</sub></small>
 was saying to him <the> Jesus; Amen I say to you that during this <the> night before [the] rooster crowing three times you will deny Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.33|<< Matthew 26:33]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.35|Matthew 26:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was saying |**<big>[[G5346\|Ἔφη]]</big>**  |Ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

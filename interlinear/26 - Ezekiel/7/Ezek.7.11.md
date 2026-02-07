@@ -1,4 +1,4 @@
-**Ezekiel 7:11** 
+**Ezekiel 7:11**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Violence is risen up into a rod of wickedness: none of them [shall remain], nor of their multitude, nor of any of theirs: neither [shall there be] wailing for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their violence has grown into a rod to punish their wickedness. None of them wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.10|<< Ezekiel 7:10]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.12|Ezekiel 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> violence  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2555\|חָמָ֥ס]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has arisen  |**<big>&#8207;[[H6965H\|קָ֖ם]]&#8207; </big>**| kam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

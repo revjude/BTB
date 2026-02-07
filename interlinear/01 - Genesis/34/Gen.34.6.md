@@ -1,4 +1,4 @@
-**Genesis 34:6** 
+**Genesis 34:6**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hamor the father of Shechem went out unto Jacob to commune with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Shechem’s father Hamor came to speak with Jacob.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.5|<< Genesis 34:5]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.7|Genesis 34:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֛א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hamor  |**<big>&#8207;[[H2544\|חֲמ֥וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

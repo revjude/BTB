@@ -1,12 +1,12 @@
-**Matthew 27:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:27**<big><big>[[Matt.27.27 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band [of soldiers].
 <small><sub>**BSB:**</sub></small>
 Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company around Him.
 <small><sub>**Literal:**</sub></small>
 Then the soldiers of the governor having taken with [them] <the> Jesus to the Praetorium gathered before Him all the cohort,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.26|<< Matthew 27:26]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.28|Matthew 27:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

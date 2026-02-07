@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:2** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>, and went after the sins of Jeroboam son of Nebat, who led Israel into sin. He did not abstain from them. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD and followed the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.1|<< 2 Kings 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.3|2 Kings 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

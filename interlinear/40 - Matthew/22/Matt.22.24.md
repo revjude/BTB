@@ -1,5 +1,5 @@
-**Matthew 22:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:24**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him.
@@ -11,7 +11,7 @@ saying; Teacher, Moses said; If anyone shall die not having children, will marry
 > $\quad$ alluding to: [[LXX.Deut.25.5|Deut 25:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Teacher, |**<big>[[G1320\|διδάσκαλε,]]</big>**  |didaskale <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

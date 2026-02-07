@@ -1,4 +1,4 @@
-**Ezekiel 40:44** 
+**Ezekiel 40:44**<big><big>[[Ezek.40.44 Chambers for Ministry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And without the inner gate [were] the chambers of the singers in the inner court, which [was] at the side of the north gate; and their prospect [was] toward the south: one at the side of the east gate [having] the prospect toward the north.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Outside the inner gate, within the inner court, were two chambers, one beside th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.43|<< Ezekiel 40:43]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.45|Ezekiel 40:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] outside \<towards>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2351\|חוּצָ]]&#8207;&#8207;[[H9011\|ה֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> chu.Tza<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the gate  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8179G\|שַּׁ֨עַר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

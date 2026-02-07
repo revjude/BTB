@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:25** 
 <small><sub>**LXX:**</sub></small>
 And the king sat upon  his chair as once and once before that, upon the chair by \[the\] wall. And Jonathan went beforehand by him, and Abner sat by \[the\] side  of Saul. And the place of David was watched. 
-<small><sub>**KJV:**</sub></small>
-And the king sat upon his seat, as at other times, [even] upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.
-<small><sub>**BSB:**</sub></small>
-He sat in his usual place by the wall, opposite Jonathan and beside Abner, but David’s place was empty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.24|<< 1 Samuel 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.26|1 Samuel 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

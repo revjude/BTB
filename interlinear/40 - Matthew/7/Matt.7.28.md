@@ -1,12 +1,12 @@
-**Matthew 7:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:28**<big><big>[[Matt.7.28 The Authority of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
 <small><sub>**BSB:**</sub></small>
 When Jesus had finished saying these things, the crowds were astonished at His teaching,
 <small><sub>**Literal:**</sub></small>
 And it came to pass when finished <the> Jesus <the> words these, were astonished the crowds at the teaching of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.27|<< Matthew 7:27]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.29|Matthew 7:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

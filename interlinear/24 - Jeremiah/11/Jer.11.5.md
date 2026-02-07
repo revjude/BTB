@@ -1,4 +1,4 @@
-**Jeremiah 11:5** 
+**Jeremiah 11:5**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as [it is] this day. Then answered I, and said, So be it, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was in order to establish the oath I swore to your forefathers, to give the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַעַן֩]]&#8207; </big>**| le.ma.'An<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to carry out  |**<big>&#8207;[[H6965I\|הָקִ֨ים]]&#8207; </big>**| ha.Kim<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

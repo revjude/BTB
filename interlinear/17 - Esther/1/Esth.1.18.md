@@ -1,4 +1,4 @@
-**Esther 1:18** 
+**Esther 1:18**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Likewise] shall the ladies of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus [shall there arise] too much contempt and wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This very day the noble women of Persia and Media who have heard about the queen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.17|<< Esther 1:17]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.19|Esther 1:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the day  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּ֨וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

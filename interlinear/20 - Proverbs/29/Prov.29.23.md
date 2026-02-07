@@ -1,4 +1,4 @@
-**Proverbs 29:23** 
+**Proverbs 29:23**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man’s pride shall bring him low: but honour shall uphold the humble in spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man’s pride will bring him low, but a humble spirit will obtain honor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.22|<< Proverbs 29:22]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.24|Proverbs 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] pride of  |**<big>&#8207;[[H1346\|גַּאֲוַ֣ת]]&#8207; </big>**| ga.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

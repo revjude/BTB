@@ -1,10 +1,7 @@
 **LXX Joshua 14:5** 
 <small><sub>**LXX:**</sub></small>
 In which manner \[the\] <span class="smallcaps">lord</span> gave charge  to Moses, so the sons of Israel did, and they portioned the land. 
-<small><sub>**KJV:**</sub></small>
-As the LORD commanded Moses, so the children of Israel did, and they divided the land.
-<small><sub>**BSB:**</sub></small>
-So the Israelites did as the LORD had commanded Moses, and they divided the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.4|<< Joshua 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.6|Joshua 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

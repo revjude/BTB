@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:3** 
 <small><sub>**LXX:**</sub></small>
 And David divided them, even Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar according to  their numbering, according to  their ministration. 
-<small><sub>**KJV:**</sub></small>
-And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.
-<small><sub>**BSB:**</sub></small>
-With the help of Eleazar’s descendant Zadok and Ithamar’s descendant Ahimelech, David divided them according to the offices of their service.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.2|<< 1 Chronicles 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.4|1 Chronicles 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

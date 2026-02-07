@@ -1,4 +1,4 @@
-**Jeremiah 26:3** 
+**Jeremiah 26:3**<big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Perhaps they will listen and turn—each from his evil way of life—so that I m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.2|<< Jeremiah 26:2]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.4|Jeremiah 26:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֣י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will listen  |**<big>&#8207;[[H8085G\|יִשְׁמְע֔וּ]]&#8207; </big>**| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

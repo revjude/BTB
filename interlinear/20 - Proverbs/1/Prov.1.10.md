@@ -1,4 +1,4 @@
-**Proverbs 1:10** 
+**Proverbs 1:10**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, if sinners entice thee, consent thou not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My son, if sinners entice you, do not yield to them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.9|<< Proverbs 1:9]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.11|Proverbs 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son my  |**<big>&#8207;[[H1121A\|בְּנִ֡]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

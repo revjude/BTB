@@ -1,4 +1,4 @@
-**Job 9:10** 
+**Job 9:10**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which doeth great things past finding out; yea, and wonders without number.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He does great things beyond searching out, and wonders without number.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.9|<< Job 9:9]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.11|Job 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] does  |**<big>&#8207;[[H6213A\|עֹשֶׂ֣ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great [things]  |**<big>&#8207;[[H1419A\|גְ֭דֹלוֹת]]&#8207; </big>**| Ge.do.lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

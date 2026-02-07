@@ -1,4 +1,4 @@
-**2 Chronicles 17:19** 
+**2 Chronicles 17:19**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These waited on the king, beside [those] whom the king put in the fenced cities throughout all Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the men who served the king, besides those he stationed in the fortif
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.18|<< 2 Chronicles 17:18]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.1|2 Chronicles 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] the [ones who] served  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8334\|מְשָׁרְתִ֣ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.sha.re.Tim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

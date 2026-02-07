@@ -1,10 +1,7 @@
 **LXX Job 4:2** 
 <small><sub>**LXX:**</sub></small>
 If we take to speak to you, will you tire? But \[the\] strength of your words, who shall endure? 
-<small><sub>**KJV:**</sub></small>
-[If] we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?
-<small><sub>**BSB:**</sub></small>
-“If one ventures a word with you, will you be wearied? Yet who can keep from speaking?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.1|<< Job 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.3|Job 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

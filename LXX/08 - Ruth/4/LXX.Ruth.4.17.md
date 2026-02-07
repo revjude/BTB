@@ -1,10 +1,7 @@
 **LXX Ruth 4:17** 
 <small><sub>**LXX:**</sub></small>
 And the neighbor women called to him the name, saying, A son was birthed \[to\] Naomi. And they called  his name Obed. This one \[is\] father of Jesse, father of David. 
-<small><sub>**KJV:**</sub></small>
-And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he [is] the father of Jesse, the father of David.
-<small><sub>**BSB:**</sub></small>
-The neighbor women said, “A son has been born to Naomi,” and they named him Obed. He became the father of Jesse, the father of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.16|<< Ruth 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.18|Ruth 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

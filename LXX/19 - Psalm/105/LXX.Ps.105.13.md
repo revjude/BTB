@@ -1,10 +1,7 @@
 **LXX Psalm 105:13** 
 <small><sub>**LXX:**</sub></small>
 that they went from nation to nation, and from a kingdom to another people. 
-<small><sub>**KJV:**</sub></small>
-When they went from one nation to another, from [one] kingdom to another people;
-<small><sub>**BSB:**</sub></small>
-they wandered from nation to nation, from one kingdom to another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.12|<< Psalm 105:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.14|Psalm 105:14 >>]]</td></tr></table>
 
 | Translation | Greek |

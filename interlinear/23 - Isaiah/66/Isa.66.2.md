@@ -1,4 +1,4 @@
-**Isaiah 66:2** 
+**Isaiah 66:2**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all those [things] hath mine hand made, and all those [things] have been, saith the LORD: but to this [man] will I look, [even] to [him that is] poor and of a contrite spirit, and trembleth at my word.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Has not My hand made all these things? And so they came into being,” declares 
 > $\quad$ referenced by: [[Acts.7.49|Acts 7:49-50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

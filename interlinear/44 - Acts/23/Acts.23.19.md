@@ -1,12 +1,12 @@
-**Acts 23:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:19**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the chief captain took him by the hand, and went [with him] aside privately, and asked [him], What is that thou hast to tell me?
 <small><sub>**BSB:**</sub></small>
 The commander took the young man by the hand, drew him aside, and asked, “What do you need to tell me?”
 <small><sub>**Literal:**</sub></small>
 Having taken hold then of the hand of him the commander and having withdrawn in private he was inquiring: What is it that you have to report to me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.18|<< Acts 23:18]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.20|Acts 23:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having taken hold |**<big>[[G1949\|ἐπιλαβόμενος]]</big>**  |epilabomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

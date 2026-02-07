@@ -1,4 +1,4 @@
-**1 Chronicles 7:10** 
+**1 Chronicles 7:10**<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.9|<< 1 Chronicles 7:9]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.11|1 Chronicles 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jediael  |**<big>&#8207;[[H3043G\|יְדִיעֲאֵ֖ל]]&#8207; </big>**| ye.di.'a.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

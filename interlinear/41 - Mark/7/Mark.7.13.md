@@ -1,12 +1,12 @@
-**Mark 7:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:13**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.
 <small><sub>**BSB:**</sub></small>
 Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”
 <small><sub>**Literal:**</sub></small>
 making void the word <the> of God for the tradition of you which you have handed down; And like [things] such many you do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.12|<< Mark 7:12]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.14|Mark 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | making void |**<big>[[G0208\|ἀκυροῦντες]]</big>**  |akurountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 35:2** 
+**Psalms 35:2**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take hold of shield and buckler, and stand up for mine help.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take up Your shield and buckler; arise and come to my aid.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.1|<< Psalms 35:1]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.3|Psalms 35:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take hold of  |**<big>&#8207;[[H2388H\|הַחֲזֵ֣ק]]&#8207; </big>**| ha.cha.Zek<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shield  |**<big>&#8207;[[H4043\|מָגֵ֣ן]]&#8207; </big>**| ma.Gen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

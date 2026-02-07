@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:8** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I bring upon you \[the\] broadsword; and I will destroy men from you, and beasts. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: I will bring a sword against you and cut off from you man and beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.7|<< Ezekiel 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.9|Ezekiel 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

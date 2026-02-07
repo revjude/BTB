@@ -1,4 +1,4 @@
-**Jeremiah 20:9** 
+**Jeremiah 20:9**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I said, I will not make mention of him, nor speak any more in his name. But [his word] was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not [stay].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I say, “I will not mention Him or speak any more in His name,” His messag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.8|<< Jeremiah 20:8]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.10|Jeremiah 20:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

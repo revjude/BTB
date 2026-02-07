@@ -1,10 +1,7 @@
 **LXX Exodus 23:18** 
 <small><sub>**LXX:**</sub></small>
 For whenever I should cast out the nations from your face, and widen  your boundaries, you shall not sacrifice with yeast \[the\] blood of my sacrifice, neither \[the\] fat of my holiday \[feast\] remain through the night until morning. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.
-<small><sub>**BSB:**</sub></small>
-You must not offer the blood of My sacrifices with anything leavened, nor may the fat of My feast remain until morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.17|<< Exodus 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.19|Exodus 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

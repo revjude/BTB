@@ -1,10 +1,7 @@
 **LXX Hosea 2:5** 
 <small><sub>**LXX:**</sub></small>
 For their mother fornicated; the one bearing them disgraced \[them\]. For she said, I will go after  my lovers, the ones giving to me  my bread loaves, and  my water, and  my garments, and  my linen bands, and  my olive oil, and all as much as is fit for me. 
-<small><sub>**KJV:**</sub></small>
-For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.
-<small><sub>**BSB:**</sub></small>
-For their mother has played the harlot and has conceived them in disgrace. For she thought, ‘I will go after my lovers, who give me bread and water, wool and linen, oil and drink.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.4|<< Hosea 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.6|Hosea 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

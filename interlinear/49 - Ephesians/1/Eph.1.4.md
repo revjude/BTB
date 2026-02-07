@@ -1,12 +1,12 @@
-**Ephesians 1:4
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:4**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
 <small><sub>**BSB:**</sub></small>
 For He chose us in Him before the foundation of the world to be holy and blameless in His presence. In love
 <small><sub>**Literal:**</sub></small>
 even as He chose us in Him before [the] foundation of [the] world to be for us holy and blameless before Him in love<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.3|<< Ephesians 1:3]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.5|Ephesians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He chose |**<big>[[G1586\|ἐξελέξατο]]</big>**  |exelexato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

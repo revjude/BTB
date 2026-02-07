@@ -1,10 +1,7 @@
 **LXX Psalm 62:12** 
 <small><sub>**LXX:**</sub></small>
 and of you, O <span class="smallcaps">lord</span>,  \[is\] mercy. For you recompense each according to  his works. 
-<small><sub>**KJV:**</sub></small>
-Also unto thee, O Lord, [belongeth] mercy: for thou renderest to every man according to his work.
-<small><sub>**BSB:**</sub></small>
-and loving devotion to You, O Lord. For You will repay each man according to his deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.11|<< Psalm 62:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.1|Psalm 63:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 62:12** is...

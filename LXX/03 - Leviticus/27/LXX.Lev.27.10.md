@@ -1,10 +1,7 @@
 **LXX Leviticus 27:10** 
 <small><sub>**LXX:**</sub></small>
 He shall not change it good \[for\] bad, nor bad \[for\] good. And if by bartering he should barter it cattle \[for\] cattle, it and the \[thing\] bartered shall be holy. 
-<small><sub>**KJV:**</sub></small>
-He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.
-<small><sub>**BSB:**</sub></small>
-He must not replace it or exchange it, either good for bad or bad for good. But if he does substitute one animal for another, both that animal and its substitute will be holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.9|<< Leviticus 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.11|Leviticus 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

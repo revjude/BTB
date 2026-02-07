@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:27** 
 <small><sub>**LXX:**</sub></small>
 And at the time when Amaziah departed from the <span class="smallcaps">lord</span>,  they made an attempt against him in a conspiracy in Jerusalem, and he fled unto Lachish; but they sent after him unto Lachish, and they killed him there. 
-<small><sub>**KJV:**</sub></small>
-Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.
-<small><sub>**BSB:**</sub></small>
-From the time that Amaziah turned from following the LORD, a conspiracy was formed against him in Jerusalem, and he fled to Lachish. But men were sent after him to Lachish, and they killed him there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.26|<< 2 Chronicles 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.28|2 Chronicles 25:28 >>]]</td></tr></table>
 
 | Translation | Greek |

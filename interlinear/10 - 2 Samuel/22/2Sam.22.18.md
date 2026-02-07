@@ -1,4 +1,4 @@
-**2 Samuel 22:18** 
+**2 Samuel 22:18**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivered me from my strong enemy, [and] from them that hated me: for they were too strong for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He rescued me from my powerful enemy, from foes too mighty for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.17|<< 2 Samuel 22:17]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.19|2 Samuel 22:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he rescued me  |**<big>&#8207;[[H5337\|יַצִּילֵ֕]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ya.tzi.Le.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from enemy my  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0341\|אֹיְבִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.ye.V<small><sup>[[HVqrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

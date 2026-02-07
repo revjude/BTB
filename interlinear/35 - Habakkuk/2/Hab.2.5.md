@@ -1,4 +1,4 @@
-**Habakkuk 2:5** 
+**Habakkuk 2:5**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea also, because he transgresseth by wine, [he is] a proud man, neither keepeth at home, who enlargeth his desire as hell, and [is] as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.4|<< Habakkuk 2:4]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.6|Habakkuk 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0637\|אַף֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

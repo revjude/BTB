@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Elisha said to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, and it will be at \[this\] hour tomorrow at the gate of Samaria. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria:
-<small><sub>**BSB:**</sub></small>
-It happened just as the man of God had told the king: “About this time tomorrow at the gate of Samaria, two seahs of barley will sell for a shekel, and a seah of fine flour will sell for a shekel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.17|<< 2 Kings 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.19|2 Kings 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

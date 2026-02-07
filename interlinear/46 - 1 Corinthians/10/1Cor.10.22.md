@@ -1,5 +1,5 @@
-**1 Corinthians 10:22
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:22**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do we provoke the Lord to jealousy? are we stronger than he?
 <small><sub>**BSB:**</sub></small>
 Are we trying to provoke the Lord to jealousy? Are we stronger than He?
@@ -10,7 +10,7 @@ Or do we provoke to jealousy the Lord? Surely not stronger than He are we?<br><t
 > $\quad$ referencing: [[LXX.Deut.32.21|Deut 32:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do we provoke to jealousy |**<big>[[G3863\|παραζηλοῦμεν]]</big>**  |parazēloumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 31:17** 
 <small><sub>**LXX:**</sub></small>
 And even if  I ate my morsel alone, and I shared of it not with an orphan, 
-<small><sub>**KJV:**</sub></small>
-Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
-<small><sub>**BSB:**</sub></small>
-if I have eaten my morsel alone, not sharing it with the fatherless—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.16|<< Job 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.18|Job 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

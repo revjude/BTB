@@ -1,4 +1,4 @@
-**Exodus 10:2** 
+**Exodus 10:2**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and that you may tell your children and grandchildren how severely I dealt with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.1|<< Exodus 10:1]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.3|Exodus 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and so that  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4616\|לְמַ֡עַן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may recount  |**<big>&#8207;[[H5608A\|תְּסַפֵּר֩]]&#8207; </big>**| te.sa.Per<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

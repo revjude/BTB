@@ -1,4 +1,4 @@
-**Proverbs 15:19** 
+**Proverbs 15:19**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the slothful [man is] as an hedge of thorns: but the way of the righteous [is] made plain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The way of the slacker is like a hedge of thorns, but the path of the upright is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.18|<< Proverbs 15:18]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.20|Proverbs 15:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sluggard  |**<big>&#8207;[[H6102\|עָ֭צֵל]]&#8207; </big>**| 'A.tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

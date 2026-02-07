@@ -1,4 +1,4 @@
-**Genesis 10:29** 
+**Genesis 10:29**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ophir, Havilah, and Jobab. All these were sons of Joktan.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.28|<< Genesis 10:28]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.30|Genesis 10:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ophir  |**<big>&#8207;[[H0211G\|אוֹפִ֥ר]]&#8207; </big>**| 'o.Fir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

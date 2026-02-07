@@ -1,10 +1,7 @@
 **LXX Joshua 7:9** 
 <small><sub>**LXX:**</sub></small>
 And hearing, the Canaanite and all the ones dwelling in the land shall surround us, and shall obliterate us from the land. And what will you do  for your great name? 
-<small><sub>**KJV:**</sub></small>
-For the Canaanites and all the inhabitants of the land shall hear [of it], and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
-<small><sub>**BSB:**</sub></small>
-When the Canaanites and all who live in the land hear about this, they will surround us and wipe out our name from the earth. Then what will You do for Your great name?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.8|<< Joshua 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.10|Joshua 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

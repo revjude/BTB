@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Prophesy over the wind! Prophesy, O son of man, and say to the wind! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; From out of the four winds, come wind and breathe onto  these dead, and let them live! 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live.
-<small><sub>**BSB:**</sub></small>
-Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.8|<< Ezekiel 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.10|Ezekiel 37:10 >>]]</td></tr></table>
 
 | Translation | Greek |

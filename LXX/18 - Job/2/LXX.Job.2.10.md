@@ -1,10 +1,7 @@
 **LXX Job 2:10** 
 <small><sub>**LXX:**</sub></small>
 And he, looking to her said, Why as one of the foolish women did you speak? If we looked \[for\] the good \[things\] from \[the\] hand of \[the\] <span class="smallcaps">lord</span>, shall we not endure the bad? In all these \[things\], the ones coming to pass to him, not one \[thing\] Job sinned \[with his\] lips before the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.
-<small><sub>**BSB:**</sub></small>
-“You speak as a foolish woman speaks,” he told her. “Should we accept from God only good and not adversity?” In all this, Job did not sin in what he said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.9|<< Job 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.11|Job 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

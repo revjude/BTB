@@ -1,4 +1,4 @@
-**Numbers 33:52** 
+**Numbers 33:52**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you must drive out before you all the inhabitants of the land, destroy all their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.51|<< Numbers 33:51]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.53|Numbers 33:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will dispossess  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3423H\|ה֨וֹרַשְׁתֶּ֜ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ho.rash.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

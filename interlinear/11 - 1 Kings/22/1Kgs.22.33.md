@@ -1,4 +1,4 @@
-**1 Kings 22:33** 
+**1 Kings 22:33**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the captains of the chariots perceived that it [was] not the king of Israel, that they turned back from pursuing him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the chariot commanders saw that he was not the king of Israel, they tur
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.32|<< 1 Kings 22:32]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.34|1 Kings 22:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְאוֹת֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'Ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

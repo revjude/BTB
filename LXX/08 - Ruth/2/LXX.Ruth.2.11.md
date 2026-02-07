@@ -1,10 +1,7 @@
 **LXX Ruth 2:11** 
 <small><sub>**LXX:**</sub></small>
 And Boaz answered and said to her, By report it was reported to me all as much as you have done with  your mother-in-law after the dying  of your husband; and how you left behind  your father, and  your mother, and the land of your origin, and went to a people which you did not know yesterday and \[the\] third \[day before\]. 
-<small><sub>**KJV:**</sub></small>
-And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and [how] thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.
-<small><sub>**BSB:**</sub></small>
-Boaz replied, “I have been made fully aware of all you have done for your mother-in-law since the death of your husband, how you left your father and mother and the land of your birth, and how you came to a people you did not know before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.10|<< Ruth 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.12|Ruth 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

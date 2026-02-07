@@ -1,10 +1,7 @@
 **LXX Exodus 2:12** 
 <small><sub>**LXX:**</sub></small>
 And looking about here \[on this side\] and here \[on that side\] he did not see anyone. And striking the Egyptian, he hid him in the sand. 
-<small><sub>**KJV:**</sub></small>
-And he looked this way and that way, and when he saw that [there was] no man, he slew the Egyptian, and hid him in the sand.
-<small><sub>**BSB:**</sub></small>
-After looking this way and that and seeing no one, he struck down the Egyptian and hid his body in the sand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.11|<< Exodus 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.13|Exodus 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

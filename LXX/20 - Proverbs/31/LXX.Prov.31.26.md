@@ -1,10 +1,7 @@
 **LXX Proverbs 31:26** 
 <small><sub>**LXX:**</sub></small>
 And of her mouth she opens wisely and lawfully; and her charity \[is\] in  her tongue. 
-<small><sub>**KJV:**</sub></small>
-She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.
-<small><sub>**BSB:**</sub></small>
-She opens her mouth with wisdom, and faithful instruction is on her tongue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.25|<< Proverbs 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.27|Proverbs 31:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 78:38** 
 <small><sub>**LXX:**</sub></small>
 But he is one pitying, and he shall atone  their sins, and he will not utterly destroy. And he will fill the turning  of his rage, and shall not kindle all  his anger. 
-<small><sub>**KJV:**</sub></small>
-But he, [being] full of compassion, forgave [their] iniquity, and destroyed [them] not: yea, many a time turned he his anger away, and did not stir up all his wrath.
-<small><sub>**BSB:**</sub></small>
-And yet He was compassionate; He forgave their iniquity and did not destroy them. He often restrained His anger and did not unleash His full wrath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.37|<< Psalm 78:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.39|Psalm 78:39 >>]]</td></tr></table>
 
 | Translation | Greek |

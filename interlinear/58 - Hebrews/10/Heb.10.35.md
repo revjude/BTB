@@ -1,12 +1,12 @@
-**Hebrews 10:35
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:35**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Cast not away therefore your confidence, which hath great recompence of reward.
 <small><sub>**BSB:**</sub></small>
 So do not throw away your confidence; it holds a great reward.
 <small><sub>**Literal:**</sub></small>
 Not may throw away therefore the boldness of you, which has a great reward.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.34|<< Hebrews 10:34]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.36|Hebrews 10:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may throw away |**<big>[[G0577\|ἀποβάλητε]]</big>**  |apobalēte <small><sup>[[V-2AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

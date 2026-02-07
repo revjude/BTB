@@ -1,6 +1,6 @@
 (KJV) **Exodus 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22|<< Exodus 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24|Exodus 24 >>]]</td></tr></table>
 
-***Justice and Mercy*** ^bsb204
+<big><big>[[Exod.23.1 Justice and Mercy|⥃]]</big></big>***Justice and Mercy***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.23.1|1]]**<span class="endversemarker">]</span> Thou shalt not<small><small>[^2]</small></small> raise<small><small>[^3]</small></small> a false report: put not thine hand with the wicked to be an unrighteous witness<small><small>[^4]</small></small>. 
 
@@ -14,17 +14,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.23.8|8]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.23.9|9]]**<span class="endversemarker">]</span> [¶]Also thou shalt not<small><small>[^18]</small></small> oppress a stranger: for ye know<small><small>[^19]</small></small> the heart<small><small>[^20]</small></small> of a stranger, seeing ye were strangers in the land of Egypt.
 
-***Sabbath Laws***&emsp;<small><sup>\[ [[Lev.25|Leviticus 25:1–7]] <big>†</big> [[Deut.15|Deuteronomy 15:1–6]] ]</sup></small> ^bsb205
+<big><big>[[Exod.23.10 Sabbath Laws|⥃]]</big></big>***Sabbath Laws***&emsp;<small><sup>\[ [[Lev.25|Leviticus 25:1–7]] <big>†</big> [[Deut.15|Deuteronomy 15:1–6]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Exod.23.10|10]]**<span class="endversemarker">]</span> And six years<small><small>[^21]</small></small> thou shalt sow thy land, and shalt gather in the fruits thereof: <span class="startversemarker">[</span>**[[Exod.23.11|11]]**<span class="endversemarker">]</span> But the seventh<small><small>[^22]</small></small> \[year\] thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, \[and\] with thy oliveyard<small><small>[^23]</small></small>. <span class="startversemarker">[</span>**[[Exod.23.12|12]]**<span class="endversemarker">]</span> Six days<small><small>[^24]</small></small> thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son<small><small>[^25]</small></small> of thy handmaid, and the stranger, may be refreshed. <span class="startversemarker">[</span>**[[Exod.23.13|13]]**<span class="endversemarker">]</span> And in all \[things\] that I have said unto you be circumspect<small><small>[^26]</small></small>: and make no mention<small><small>[^27]</small></small> of the name of other gods, neither let it be heard out of thy mouth.
 
-***The Three Feasts of Pilgrimage***&emsp;<small><sup>\[ [[Lev.23|Leviticus 23:1–3]] ]</sup></small> ^bsb206
+<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥃]]</big></big>***The Three Feasts of Pilgrimage***&emsp;<small><sup>\[ [[Lev.23|Leviticus 23:1–3]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.23.14|14]]**<span class="endversemarker">]</span> [¶]Three times thou shalt keep a feast unto me in the year.<small><small>[^28]</small></small> <span class="startversemarker">[</span>**[[Exod.23.15|15]]**<span class="endversemarker">]</span> Thou shalt keep the feast<small><small>[^29]</small></small> of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none<small><small>[^30]</small></small> shall appear before me empty:) <span class="startversemarker">[</span>**[[Exod.23.16|16]]**<span class="endversemarker">]</span> And the feast of harvest<small><small>[^31]</small></small>, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering<small><small>[^32]</small></small>, \[which is\] in the end of the year, when thou hast gathered in thy labours out of the field. <span class="startversemarker">[</span>**[[Exod.23.17|17]]**<span class="endversemarker">]</span> Three times in the year all thy males shall appear before the Lord <span class="smallcaps">God</span>.<small><small>[^33]</small></small> <span class="startversemarker">[</span>**[[Exod.23.18|18]]**<span class="endversemarker">]</span> Thou shalt not offer the blood<small><small>[^34]</small></small> of my sacrifice<small><small>[^35]</small></small> with leavened bread; neither shall the fat of my sacrifice remain<small><small>[^36]</small></small> until the morning. <span class="startversemarker">[</span>**[[Exod.23.19|19]]**<span class="endversemarker">]</span> The first of the<small><small>[^37]</small></small> firstfruits of thy land thou shalt bring into the house of the <span class="smallcaps">Lord</span> thy God. Thou shalt not seethe a kid<small><small>[^38]</small></small> in his mother’s milk.
 
-***God’s Angel to Lead***&emsp;<small><sup>\[ [[Deut.7|Deuteronomy 7:12–26]] ]</sup></small> ^bsb207
+<big><big>[[Exod.23.20 God’s Angel to Lead|⥃]]</big></big>***God’s Angel to Lead***&emsp;<small><sup>\[ [[Deut.7|Deuteronomy 7:12–26]] ]</sup></small>
 
  
 

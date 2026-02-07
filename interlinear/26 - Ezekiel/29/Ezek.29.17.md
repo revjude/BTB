@@ -1,4 +1,4 @@
-**Ezekiel 29:17** 
+**Ezekiel 29:17**<big><big>[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the seven and twentieth year, in the first [month], in the first [day] of the month, the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twenty-seventh year, on the first day of the first month, the word of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.16|<< Ezekiel 29:16]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.18|Ezekiel 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in twenty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֤ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

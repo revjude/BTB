@@ -1,10 +1,7 @@
 **LXX Genesis 36:14** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Aholibamah daughter of Anah, of the son of Zibeon wife of Esau; and she bore  to Esau  Jeush, and  Jaalam, and  Korah. 
-<small><sub>**KJV:**</sub></small>
-And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau’s wife: and she bare to Esau Jeush, and Jaalam, and Korah.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Esau’s wife Oholibamah (daughter of Anah and granddaughter of Zibeon) whom she bore to Esau: Jeush, Jalam, and Korah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.13|<< Genesis 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.15|Genesis 36:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 11:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:29**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.
 <small><sub>**BSB:**</sub></small>
 As the crowds were increasing, Jesus said, “This is a wicked generation. It demands a sign, but none will be given it except the sign of Jonah.
 <small><sub>**Literal:**</sub></small>
 Of the now crowds being pressed around together He began to say; <the> generation this generation an evil is. a sign it seeks after, and a sign not will be given to it only except the sign of Jonah the prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.28|<< Luke 11:28]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.30|Luke 11:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of the |**<big>[[G3588\|Τῶν]]</big>**  |Tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

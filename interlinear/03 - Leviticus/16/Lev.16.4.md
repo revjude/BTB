@@ -1,4 +1,4 @@
-**Leviticus 16:4** 
+**Leviticus 16:4**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these [are] holy garments; therefore shall he wash his flesh in water, and [so] put them on.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to wear the sacred linen tunic, with linen undergarments. He must tie a li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.3|<< Leviticus 16:3]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.5|Leviticus 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a tunic of  |**<big>&#8207;[[H3801\|כְּתֹֽנֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.to.net-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | linen of  |**<big>&#8207;[[H0906\|בַּ֨ד]]&#8207; </big>**| bad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

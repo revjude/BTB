@@ -1,4 +1,4 @@
-**Exodus 32:11** 
+**Exodus 32:11**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.10|<< Exodus 32:10]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.12|Exodus 32:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he entreated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2470B\|יְחַ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

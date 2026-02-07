@@ -1,4 +1,4 @@
-**Job 31:17** 
+**Job 31:17**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if I have eaten my morsel alone, not sharing it with the fatherless—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.16|<< Job 31:16]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.18|Job 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I may eat  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0398\|אֹכַ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Khal<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | morsel of bread my  |**<big>&#8207;[[H6595A\|פִּתִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| pi.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

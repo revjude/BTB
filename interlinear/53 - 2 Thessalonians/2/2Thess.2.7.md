@@ -1,12 +1,12 @@
-**2 Thessalonians 2:7
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:7**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the mystery of iniquity doth already work: only he who now letteth [will let], until he be taken out of the way.
 <small><sub>**BSB:**</sub></small>
 For the mystery of lawlessness is already at work, but the one who now restrains it will continue until he is taken out of the way.
 <small><sub>**Literal:**</sub></small>
 The for mystery already is working <the> of lawlessness, only [there is] the [one] restraining [it] at present until out of [the] midst he may be [gone];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.6|<< 2 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.8|2 Thessalonians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

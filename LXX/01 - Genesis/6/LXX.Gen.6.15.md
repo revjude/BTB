@@ -1,10 +1,7 @@
 **LXX Genesis 6:15** 
 <small><sub>**LXX:**</sub></small>
 And so you shall make the ark -- three hundred cubits the length of the ark, and fifty cubits the width, and thirty cubits the height of it. 
-<small><sub>**KJV:**</sub></small>
-And this [is the fashion] which thou shalt make it [of]: The length of the ark [shall be] three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.
-<small><sub>**BSB:**</sub></small>
-And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.14|<< Genesis 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.16|Genesis 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

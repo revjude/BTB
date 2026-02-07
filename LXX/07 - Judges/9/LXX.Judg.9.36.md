@@ -1,10 +1,7 @@
 **LXX Judges 9:36** 
 <small><sub>**LXX:**</sub></small>
 And Gaal son of Ebed saw the people. And he said to Zebul, Behold, a people coming from the tops of the mountains. And Zebul said to him, The shadow of the mountains you see as men. 
-<small><sub>**KJV:**</sub></small>
-And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as [if they were] men.
-<small><sub>**BSB:**</sub></small>
-When Gaal saw the people, he said to Zebul, “Look, people are coming down from the mountains!” But Zebul replied, “The shadows of the mountains look like men to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.35|<< Judges 9:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.37|Judges 9:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:20** 
 <small><sub>**LXX:**</sub></small>
 And Elisha left the oxen, and he ran after Elijah, and said, I shall kiss  my father and  my mother, and I shall follow after you. And he said to him, Go, return! for I have done it to you. 
-<small><sub>**KJV:**</sub></small>
-And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and [then] I will follow thee. And he said unto him, Go back again: for what have I done to thee?
-<small><sub>**BSB:**</sub></small>
-So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.19|<< 1 Kings 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.21|1 Kings 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

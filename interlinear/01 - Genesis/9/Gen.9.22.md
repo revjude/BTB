@@ -1,4 +1,4 @@
-**Genesis 9:22** 
+**Genesis 9:22**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Ham, the father of Canaan, saw his father’s nakedness and told his two bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.21|<< Genesis 9:21]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.23|Genesis 9:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֗רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ham  |**<big>&#8207;[[H2526G\|חָ֚ם]]&#8207; </big>**| cham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

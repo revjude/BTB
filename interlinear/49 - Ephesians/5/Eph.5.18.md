@@ -1,5 +1,5 @@
-**Ephesians 5:18
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:18**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And be not drunk with wine, wherein is excess; but be filled with the Spirit;
 <small><sub>**BSB:**</sub></small>
 Do not get drunk on wine, which leads to reckless indiscretion. Instead, be filled with the Spirit.
@@ -10,7 +10,7 @@ And not do be drunk with wine, in which is debauchery, Instead do be filled with
 > $\quad$ alluding to: [[LXX.Prov.23.31|Prov 23:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

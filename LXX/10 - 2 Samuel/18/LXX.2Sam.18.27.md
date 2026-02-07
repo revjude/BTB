@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:27** 
 <small><sub>**LXX:**</sub></small>
 And the watchman said, I see the racing of the first as \[the\] racing of Ahimaaz son of Zadok. And the king said, This is a good man, and indeed for good news he shall come. 
-<small><sub>**KJV:**</sub></small>
-And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He [is] a good man, and cometh with good tidings.
-<small><sub>**BSB:**</sub></small>
-The watchman said, “The first man appears to me to be running like Ahimaaz son of Zadok.” “This is a good man,” said the king. “He comes with good news.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.26|<< 2 Samuel 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.28|2 Samuel 18:28 >>]]</td></tr></table>
 
 | Translation | Greek |

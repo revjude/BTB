@@ -1,10 +1,7 @@
 **LXX Judges 8:28** 
 <small><sub>**LXX:**</sub></small>
 And Midian was in remorse before the sons of Israel, and they did not proceed yet to lift their head; and the land was tranquil forty years in \[the\] days of Gideon. 
-<small><sub>**KJV:**</sub></small>
-Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.
-<small><sub>**BSB:**</sub></small>
-In this way Midian was subdued before the Israelites and did not raise its head again. So the land had rest for forty years in the days of Gideon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.27|<< Judges 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.29|Judges 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

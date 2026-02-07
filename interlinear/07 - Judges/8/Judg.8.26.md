@@ -1,4 +1,4 @@
-**Judges 8:26** 
+**Judges 8:26**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the weight of the golden earrings that he requested was a thousand and seven hundred [shekels] of gold; beside ornaments, and collars, and purple raiment that [was] on the kings of Midian, and beside the chains that [were] about their camels’ necks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The weight of the gold earrings he had requested was 1,700 shekels, in addition 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.25|<< Judges 8:25]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.27|Judges 8:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] weight of  |**<big>&#8207;[[H4948\|מִשְׁקַ֞ל]]&#8207; </big>**| mish.Kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

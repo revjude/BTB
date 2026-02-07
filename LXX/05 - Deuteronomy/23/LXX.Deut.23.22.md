@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:22** 
 <small><sub>**LXX:**</sub></small>
 But if you should not want to make a vow, it is not a sin to you. 
-<small><sub>**KJV:**</sub></small>
-But if thou shalt forbear to vow, it shall be no sin in thee.
-<small><sub>**BSB:**</sub></small>
-But if you refrain from making a vow, you will not be guilty of sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.21|<< Deuteronomy 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.23|Deuteronomy 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 12:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:14**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Bless them which persecute you: bless, and curse not.
 <small><sub>**BSB:**</sub></small>
 Bless those who persecute you. Bless and do not curse.
 <small><sub>**Literal:**</sub></small>
 do bless those persecuting you; do bless and not do curse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.13|<< Romans 12:13]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.15|Romans 12:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do bless |**<big>[[G2127\|εὐλογεῖτε]]</big>**  |eulogeite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

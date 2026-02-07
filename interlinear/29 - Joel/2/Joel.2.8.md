@@ -1,4 +1,4 @@
-**Joel 2:8** 
+**Joel 2:8**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall one thrust another; they shall walk every one in his path: and [when] they fall upon the sword, they shall not be wounded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They do not jostle one another; each proceeds in his path. They burst through th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.7|<< Joel 2:7]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.9|Joel 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and each  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִ֤ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother its  |**<big>&#8207;[[H0251I\|אָחִי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

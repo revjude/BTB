@@ -1,12 +1,12 @@
-**John 10:25
-**<small><sub>**KJV:**</sub></small>
+**John 10:25**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
 <small><sub>**BSB:**</sub></small>
 “I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf.
 <small><sub>**Literal:**</sub></small>
 Answered them <the> Jesus; I told you, and not you believe. The works that I myself do in the name of the Father of Mine, these bear witness concerning Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.24|<< John 10:24]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.26|John 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

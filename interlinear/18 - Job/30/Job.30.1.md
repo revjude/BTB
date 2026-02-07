@@ -1,4 +1,4 @@
-**Job 30:1** 
+**Job 30:1**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now [they that are] younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now [they that are] younger than I have me in derision, whose fathers I woul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.25|<< Job 29:25]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.2|Job 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have laughed  |**<big>&#8207;[[H7832\|שָֽׂחֲק֣וּ]]&#8207; </big>**| sa.cha.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

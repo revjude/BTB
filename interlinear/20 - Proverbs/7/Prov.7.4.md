@@ -1,4 +1,4 @@
-**Proverbs 7:4** 
+**Proverbs 7:4**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto wisdom, Thou [art] my sister; and call understanding [thy] kinswoman:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Say to wisdom, “You are my sister,” and call understanding your kinsman,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.3|<< Proverbs 7:3]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.5|Proverbs 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֣ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> wisdom  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H2451\|חָכְמָה]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> cha.khe.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

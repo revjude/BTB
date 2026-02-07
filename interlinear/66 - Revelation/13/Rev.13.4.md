@@ -1,12 +1,12 @@
-**Revelation 13:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:4**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who [is] like unto the beast? who is able to make war with him?
 <small><sub>**BSB:**</sub></small>
 They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”
 <small><sub>**Literal:**</sub></small>
 And they worshiped the dragon that gave <the> authority to the beast and they worshiped the beast saying; Who [is] like as the beast And who is able to make war against it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.3|<< Revelation 13:3]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.5|Revelation 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they worshiped |**<big>[[G4352\|προσεκύνησαν]]</big>**  |prosekunēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 59:14** 
 <small><sub>**LXX:**</sub></small>
 They shall return at evening, and be famished as a dog, and shall circle \[the\] city. 
-<small><sub>**KJV:**</sub></small>
-And at evening let them return; [and] let them make a noise like a dog, and go round about the city.
-<small><sub>**BSB:**</sub></small>
-They return in the evening, snarling like dogs and prowling around the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.13|<< Psalm 59:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.15|Psalm 59:15 >>]]</td></tr></table>
 
 | Translation | Greek |

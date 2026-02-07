@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And turning we departed into the wilderness by way \[of the\] red sea, in which manner \[the\] <span class="smallcaps">lord</span> spoke to me. And we encircled  mount  Seir many days. 
-<small><sub>**KJV:**</sub></small>
-Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
-<small><sub>**BSB:**</sub></small>
-Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.46|<< Deuteronomy 1:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.2|Deuteronomy 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

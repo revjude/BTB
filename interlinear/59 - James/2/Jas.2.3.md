@@ -1,12 +1,12 @@
-**James 2:3
-**<small><sub>**KJV:**</sub></small>
+**James 2:3**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
 <small><sub>**BSB:**</sub></small>
 If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,”
 <small><sub>**Literal:**</sub></small>
 and you may look also upon the [one] wearing the apparel <the> splendid and may say to him: You yourself do sit here honorably, and to the poor may say; You yourself do stand there or do sit here under the footstool of mine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.2|<< James 2:2]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.4|James 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">ko</abbr> | |
 | you may look |**<big>[[G1914\|ἐπιβλέψητε]]</big>**  |epiblepsēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

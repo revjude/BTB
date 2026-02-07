@@ -1,4 +1,4 @@
-**Isaiah 32:11** 
+**Isaiah 32:11**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird [sackcloth] upon [your] loins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shudder, you ladies of leisure; tremble, you daughters of complacency. Strip you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.10|<< Isaiah 32:10]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.12|Isaiah 32:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tremble  |**<big>&#8207;[[H2729\|חִרְדוּ֙]]&#8207; </big>**| chir.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O carefree [women]  |**<big>&#8207;[[H7600\|שַֽׁאֲנַנּ֔וֹת]]&#8207; </big>**| sha.'a.na.Not<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

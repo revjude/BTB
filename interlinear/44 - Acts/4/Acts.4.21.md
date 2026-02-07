@@ -1,12 +1,12 @@
-**Acts 4:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:21**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all [men] glorified God for that which was done.
 <small><sub>**BSB:**</sub></small>
 After further threats they let them go. They could not find a way to punish them, because all the people were glorifying God for what had happened.
 <small><sub>**Literal:**</sub></small>
 <the> And having further threatened [them] they let go them nothing finding the how they may punish them, on account of the people, because all were glorifying <the> God for that having happened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.20|<< Acts 4:20]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.22|Acts 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

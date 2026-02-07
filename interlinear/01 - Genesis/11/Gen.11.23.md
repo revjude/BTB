@@ -1,4 +1,4 @@
-**Genesis 11:23** 
+**Genesis 11:23**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after he had become the father of Nahor, Serug lived 200 years and had other
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.22|<< Genesis 11:22]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.24|Genesis 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Serug  |**<big>&#8207;[[H8286\|שְׂר֗וּג]]&#8207; </big>**| se.Rug<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

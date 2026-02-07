@@ -1,10 +1,7 @@
 **LXX Exodus 13:7** 
 <small><sub>**LXX:**</sub></small>
 Unleavened \[bread\] shall you eat seven days. There shall not be seen in you leavened \[bread\], nor shall there be to you yeast in all  your boundaries. 
-<small><sub>**KJV:**</sub></small>
-Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.
-<small><sub>**BSB:**</sub></small>
-Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.6|<< Exodus 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.8|Exodus 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

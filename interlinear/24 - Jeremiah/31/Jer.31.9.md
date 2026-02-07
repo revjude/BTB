@@ -1,4 +1,4 @@
-**Jeremiah 31:9** 
+**Jeremiah 31:9**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim [is] my firstborn.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will come with weeping, and by their supplication I will lead them; I will 
 > $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with weeping  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1065\|בְכִ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> v.Khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will come  |**<big>&#8207;[[H0935G\|יָבֹ֗אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

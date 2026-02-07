@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:8** 
 <small><sub>**LXX:**</sub></small>
 And David said to Ahimelech, See if there is here under  your hand a spear or broadsword! for  my broadsword and  my weapons I have not taken in  my hand, for the matter of the king was in haste. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.
-<small><sub>**BSB:**</sub></small>
-Then David asked Ahimelech, “Is there not a spear or sword on hand here? For I have brought neither my sword nor my weapons with me, because the king’s mission was urgent.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.7|<< 1 Samuel 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.9|1 Samuel 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

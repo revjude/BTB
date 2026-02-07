@@ -1,12 +1,12 @@
-**Mark 14:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:32**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.
 <small><sub>**BSB:**</sub></small>
 Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.”
 <small><sub>**Literal:**</sub></small>
 And they come to a place of which the name [is] Gethsemane, and He says to the disciples of Him; do sit here while I may pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.31|<< Mark 14:31]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.33|Mark 14:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they come |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

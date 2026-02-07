@@ -1,10 +1,7 @@
 **LXX Leviticus 13:34** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look at the outbreak on the seventh day; and behold, \[if\] the outbreak should not be diffused in the skin after the shaving of it, and the appearance of the outbreak is not hollow under the skin, then the priest shall cleanse him; and washing  his garments, he will be clean. 
-<small><sub>**KJV:**</sub></small>
-And in the seventh day the priest shall look on the scall: and, behold, [if] the scall be not spread in the skin, nor [be] in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.
-<small><sub>**BSB:**</sub></small>
-On the seventh day the priest shall examine the scaly outbreak, and if it has not spread on the skin and does not appear to be deeper than the skin, the priest is to pronounce him clean. He must wash his clothes, and he will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.33|<< Leviticus 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.35|Leviticus 13:35 >>]]</td></tr></table>
 
 | Translation | Greek |

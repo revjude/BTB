@@ -1,10 +1,7 @@
 **LXX Proverbs 17:5** 
 <small><sub>**LXX:**</sub></small>
 The one ridiculing \[the\] poor provokes the one making him. And the one rejoicing at one being destroyed shall not be acquitted; but the one showing compassion shall be shown mercy. 
-<small><sub>**KJV:**</sub></small>
-Whoso mocketh the poor reproacheth his Maker: [and] he that is glad at calamities shall not be unpunished.
-<small><sub>**BSB:**</sub></small>
-He who mocks the poor insults their Maker; whoever gloats over calamity will not go unpunished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.4|<< Proverbs 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.6|Proverbs 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

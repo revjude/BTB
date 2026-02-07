@@ -1,10 +1,10 @@
 (KJV) **Song of Solomon 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2|<< Song of Solomon 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4|Song of Solomon 4 >>]]</td></tr></table>
 
-***The Bride’s Dream*** ^bsb1552
+<big><big>[[Song.3.1 The Bride’s Dream|⥃]]</big></big>***The Bride’s Dream***
 
  $\quad$ <span class="startversemarker">[</span>**[[Song.3.1|1]]**<span class="endversemarker">]</span> By night<small><small>[^2]</small></small> on my bed I sought him whom<small><small>[^3]</small></small> my soul loveth: I sought him, but<small><small>[^4]</small></small> I found him not. <span class="startversemarker">[</span>**[[Song.3.2|2]]**<span class="endversemarker">]</span> I will rise<small><small>[^5]</small></small> now, and go about the city in the streets<small><small>[^6]</small></small>, and in the broad ways I will seek him whom my soul loveth: I sought<small><small>[^7]</small></small> him, but I found him not. <span class="startversemarker">[</span>**[[Song.3.3|3]]**<span class="endversemarker">]</span> The watchmen<small><small>[^8]</small></small> that go about the city found me: \[to whom I said\], Saw<small><small>[^9]</small></small> ye him whom my soul loveth? <span class="startversemarker">[</span>**[[Song.3.4|4]]**<span class="endversemarker">]</span> \[It was\] but<small><small>[^10]</small></small> a little that I passed from them, but I found him whom my soul loveth: I held<small><small>[^11]</small></small> him, and would not let him go, until I had<small><small>[^12]</small></small> brought him into my mother’s house, and into the chamber of her that conceived me. <span class="startversemarker">[</span>**[[Song.3.5|5]]**<span class="endversemarker">]</span> I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake \[my\] love, till he please.<small><small>[^13]</small></small>
 
-***Solomon Arrives on His Wedding Day*** ^bsb1553
+<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥃]]</big></big>***Solomon Arrives on His Wedding Day***
 
  
 

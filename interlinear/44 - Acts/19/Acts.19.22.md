@@ -1,12 +1,12 @@
-**Acts 19:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:22**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.
 <small><sub>**BSB:**</sub></small>
 He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed for a time in the province of Asia.
 <small><sub>**Literal:**</sub></small>
 Having sent then into <the> Macedonia two of those ministering to him, Timothy and Erastus, he himself remained for a time in <the> Asia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.21|<< Acts 19:21]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.23|Acts 19:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having sent |**<big>[[G0649\|ἀποστείλας]]</big>**  |aposteilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

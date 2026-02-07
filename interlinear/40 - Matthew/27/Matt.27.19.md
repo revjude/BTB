@@ -1,12 +1,12 @@
-**Matthew 27:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:19**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
 <small><sub>**BSB:**</sub></small>
 While Pilate was sitting on the judgment seat, his wife sent him this message: “Have nothing to do with that innocent man, for I have suffered terribly in a dream today because of Him.”
 <small><sub>**Literal:**</sub></small>
 When was sitting now he on the judgment seat sent to him the wife of him saying; [Let there be] nothing between you and the righteous [man] that; many things for I suffered today in a dream because of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.18|<< Matthew 27:18]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.20|Matthew 27:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was sitting |**<big>[[G2521\|Καθημένου]]</big>**  |Kathēmenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 33:19** 
+**Psalms 33:19**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To deliver their soul from death, and to keep them alive in famine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to deliver them from death and keep them alive in famine.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.18|<< Psalms 33:18]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.20|Psalms 33:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to deliver  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5337\|הַצִּ֣יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Tzil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from death  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4194\|מָּ֣וֶת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

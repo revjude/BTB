@@ -1,12 +1,12 @@
-**Luke 9:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:19**<big><big>[[Luke.9.18 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They answering said, John the Baptist; but some [say], Elias; and others [say], that one of the old prophets is risen again.
 <small><sub>**BSB:**</sub></small>
 They replied, “Some say John the Baptist; others say Elijah; and still others, that a prophet of old has arisen.”
 <small><sub>**Literal:**</sub></small>
 <the> And answering they said; John the Baptist, others also Elijah, others now that a prophet one of the ancients has arisen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.18|<< Luke 9:18]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.20|Luke 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:16** 
 <small><sub>**LXX:**</sub></small>
 and the kettles, and the meat hooks and bowls. And all  their items which Hiram made,  he brought  to king Solomon in \[the\] house of \[the\] <span class="smallcaps">lord</span> -- \[all\] of pure brass. 
-<small><sub>**KJV:**</sub></small>
-The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass.
-<small><sub>**BSB:**</sub></small>
-and the pots, shovels, meat forks, and all the other articles. All these objects that Huram-abi made for King Solomon for the house of the LORD were of polished bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.15|<< 2 Chronicles 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.17|2 Chronicles 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

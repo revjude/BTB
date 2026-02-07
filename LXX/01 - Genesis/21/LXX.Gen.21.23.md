@@ -1,10 +1,7 @@
 **LXX Genesis 21:23** 
 <small><sub>**LXX:**</sub></small>
 Now then swear by an oath to me  \[by\] God \[that you will\] not wrong me, nor  my seed, nor  my name! but according to the righteousness which I did with you, you shall do with me, and in the land where you sojourned in it. 
-<small><sub>**KJV:**</sub></small>
-Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: [but] according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, swear to me here before God that you will not deal falsely with me or my children or descendants. Show to me and to the country in which you reside the same kindness that I have shown to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.22|<< Genesis 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.24|Genesis 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

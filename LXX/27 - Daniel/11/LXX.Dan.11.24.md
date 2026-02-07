@@ -1,10 +1,7 @@
 **LXX Daniel 11:24** 
 <small><sub>**LXX:**</sub></small>
 And in prosperity and in plentiful places he shall come; and he shall do what his fathers did not do, and the fathers  of his fathers. Plunder, and spoils, and substance, he will disperse to them. And against Egypt he will devise his devices for a time. 
-<small><sub>**KJV:**</sub></small>
-He shall enter peaceably even upon the fattest places of the province; and he shall do [that] which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: [yea], and he shall forecast his devices against the strong holds, even for a time.
-<small><sub>**BSB:**</sub></small>
-In a time of peace, he will invade the richest provinces and do what his fathers and forefathers never did. He will lavish plunder, loot, and wealth on his followers, and he will plot against the strongholds—but only for a time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.23|<< Daniel 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.25|Daniel 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

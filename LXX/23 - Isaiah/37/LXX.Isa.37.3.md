@@ -1,10 +1,7 @@
 **LXX Isaiah 37:3** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Thus says Hezekiah, A day of affliction, and scorning, and rebuke, and anger  \[is\] today's day. For the pangs of giving birth come, but she does not have strength  to give birth. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Thus saith Hezekiah, This day [is] a day of trouble, and of rebuke, and of blasphemy: for the children are come to the birth, and [there is] not strength to bring forth.
-<small><sub>**BSB:**</sub></small>
-to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.2|<< Isaiah 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.4|Isaiah 37:4 >>]]</td></tr></table>
 
 | Translation | Greek |

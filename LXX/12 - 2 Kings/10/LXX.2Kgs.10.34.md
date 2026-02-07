@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:34** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Jehu, and all as much as he did, and all  his dominations, and the associations which he joined, behold \[are\] not these written upon \[the\] scroll of \[the\] words of the days of the kings of Israel? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Jehu, and all that he did, and all his might, [are] they not written in the book of the chronicles of the kings of Israel?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Jehu, along with all his accomplishments and all his might, are they not written in the Book of the Chronicles of the Kings of Israel?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.33|<< 2 Kings 10:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.35|2 Kings 10:35 >>]]</td></tr></table>
 
 | Translation | Greek |

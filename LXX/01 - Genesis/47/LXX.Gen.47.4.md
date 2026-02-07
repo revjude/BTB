@@ -1,10 +1,7 @@
 **LXX Genesis 47:4** 
 <small><sub>**LXX:**</sub></small>
 And they said to Pharaoh, We come to sojourn in the land, for there is no pasture for the cattle  of your servants, for the famine grew in strength in \[the\] land of Canaan. Now then your servants dwell in \[the\] land of Goshen! 
-<small><sub>**KJV:**</sub></small>
-They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine [is] sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
-<small><sub>**BSB:**</sub></small>
-Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.3|<< Genesis 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.5|Genesis 47:5 >>]]</td></tr></table>
 
 | Translation | Greek |

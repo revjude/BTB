@@ -1,4 +1,4 @@
-**1 Chronicles 29:6** 
+**1 Chronicles 29:6**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the leaders of the families, the officers of the tribes of Israel, the comm
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.5|<< 1 Chronicles 29:5]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.7|1 Chronicles 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made a contribution  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5068\|יִּֽתְנַדְּבוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.na.de.Vu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H8269\|שָׂרֵ֨י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

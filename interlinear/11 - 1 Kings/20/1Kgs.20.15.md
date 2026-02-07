@@ -1,4 +1,4 @@
-**1 Kings 20:15** 
+**1 Kings 20:15**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, [even] all the children of Israel, [being] seven thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ahab assembled the young officers of the district governors, and there were 2
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.14|<< 1 Kings 20:14]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.16|1 Kings 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he mustered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6485A\|יִּפְקֹ֗ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

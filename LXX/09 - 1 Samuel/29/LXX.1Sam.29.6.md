@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:6** 
 <small><sub>**LXX:**</sub></small>
 And Achish called  David, and said to him, As \[the\] <span class="smallcaps">lord</span> lives, \[know\] that you \[are\] upright and good in my eyes, and \[so is\] your exiting and  your entering with me in the camp. For I did not find against you an evil from which day you came to me until  this day. But in \[the\] eyes of the satraps you are not good. 
-<small><sub>**KJV:**</sub></small>
-Then Achish called David, and said unto him, Surely, [as] the LORD liveth, thou hast been upright, and thy going out and thy coming in with me in the host [is] good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.
-<small><sub>**BSB:**</sub></small>
-So Achish summoned David and told him, “As surely as the LORD lives, you have been upright, and it seems right in my sight that you should march in and out with me in the army, because I have found no fault in you from the day you came to me until this day. But you are not good in the sight of the leaders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.5|<< 1 Samuel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.7|1 Samuel 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

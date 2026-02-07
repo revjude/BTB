@@ -1,4 +1,4 @@
-**Isaiah 58:9** 
+**Isaiah 58:9**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I [am]. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will call, and the LORD will answer; you will cry out, and He will say,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.8|<< Isaiah 58:8]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.10|Isaiah 58:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will call  |**<big>&#8207;[[H7121G\|תִּקְרָא֙]]&#8207; </big>**| tik.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

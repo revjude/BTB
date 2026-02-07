@@ -1,4 +1,4 @@
-**Ezekiel 27:5** 
+**Ezekiel 27:5**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have made all thy [ship] boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They constructed all your planking with cypress from Senir. They took a cedar fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.4|<< Ezekiel 27:4]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.6|Ezekiel 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fir trees  |**<big>&#8207;[[H1265\|בְּרוֹשִׁ֤ים]]&#8207; </big>**| be.ro.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Senir  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8149\|שְּׂנִיר֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> se.Nir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

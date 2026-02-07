@@ -1,10 +1,7 @@
 **LXX Genesis 18:2** 
 <small><sub>**LXX:**</sub></small>
 And lifting up  his eyes he saw; and behold, three men had set upon him. And seeing, he ran up to meet with them from the door  of his tent. And he did obeisance upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw [them], he ran to meet them from the tent door, and bowed himself toward the ground,
-<small><sub>**BSB:**</sub></small>
-And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.1|<< Genesis 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.3|Genesis 18:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 18:2** is...

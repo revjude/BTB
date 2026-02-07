@@ -1,10 +1,7 @@
 **LXX Genesis 25:13** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the names of the sons of Ishmael, according to \[the\] names  of his generations. First-born of Ishmael, Nebajoth, and Kedar, and Adbeel, and Mibsam, 
-<small><sub>**KJV:**</sub></small>
-And these [are] the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
-<small><sub>**BSB:**</sub></small>
-These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.12|<< Genesis 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.14|Genesis 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

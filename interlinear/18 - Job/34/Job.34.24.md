@@ -1,4 +1,4 @@
-**Job 34:24** 
+**Job 34:24**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall break in pieces mighty men without number, and set others in their stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shatters the mighty without inquiry and sets up others in their place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.23|<< Job 34:23]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.25|Job 34:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he breaks  |**<big>&#8207;[[H7489B\|יָרֹ֣עַ]]&#8207; </big>**| ya.Ro.a'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mighty [ones]  |**<big>&#8207;[[H3524\|כַּבִּירִ֣ים]]&#8207; </big>**| ka.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

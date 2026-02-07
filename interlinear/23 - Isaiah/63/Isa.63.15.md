@@ -1,4 +1,4 @@
-**Isaiah 63:15** 
+**Isaiah 63:15**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where [is] thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look down from heaven and see, from Your holy and glorious habitation. Where are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.14|<< Isaiah 63:14]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.16|Isaiah 63:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | look  |**<big>&#8207;[[H5027\|הַבֵּ֤ט]]&#8207; </big>**| ha.Bet<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַ֙יִם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

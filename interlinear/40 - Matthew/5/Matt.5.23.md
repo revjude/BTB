@@ -1,12 +1,12 @@
-**Matthew 5:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:23**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 <small><sub>**BSB:**</sub></small>
 So if you are offering your gift at the altar and there remember that your brother has something against you,
 <small><sub>**Literal:**</sub></small>
 If therefore you shall offer the gift of you at the altar and there shall remember that the brother of you has something against you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.22|<< Matthew 5:22]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.24|Matthew 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

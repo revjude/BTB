@@ -1,10 +1,7 @@
 **LXX Ruth 2:2** 
 <small><sub>**LXX:**</sub></small>
 And Ruth the Moabitess said to Naomi, I should go indeed into \[the\] field, and gather among the ears of corn after of whom ever I should find favor in his eyes. And she said to her, Go, O daughter! 
-<small><sub>**KJV:**</sub></small>
-And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after [him] in whose sight I shall find grace. And she said unto her, Go, my daughter.
-<small><sub>**BSB:**</sub></small>
-And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.1|<< Ruth 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.3|Ruth 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

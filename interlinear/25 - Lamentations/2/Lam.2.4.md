@@ -1,4 +1,4 @@
-**Lamentations 2:4** 
+**Lamentations 2:4**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all [that were] pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has bent His bow like an enemy; His right hand is positioned. Like a foe He h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.3|<< Lamentations 2:3]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.5|Lamentations 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has bent  |**<big>&#8207;[[H1869\|דָּרַ֨ךְ]]&#8207; </big>**| da.Rakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bow his  |**<big>&#8207;[[H7198\|קַשְׁתּ֜]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| kash.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

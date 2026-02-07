@@ -1,10 +1,7 @@
 **LXX Numbers 20:5** 
 <small><sub>**LXX:**</sub></small>
 And why is this you led us from Egypt to come unto  this bad place? A place which you cannot sow, nor \[is there\] fig-trees, nor grapevines, nor pomegranates, nor is there water to drink. 
-<small><sub>**KJV:**</sub></small>
-And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it [is] no place of seed, or of figs, or of vines, or of pomegranates; neither [is] there any water to drink.
-<small><sub>**BSB:**</sub></small>
-Why have you led us up out of Egypt to bring us to this wretched place? It is not a place of grain, figs, vines, or pomegranates—and there is no water to drink!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.4|<< Numbers 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.6|Numbers 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

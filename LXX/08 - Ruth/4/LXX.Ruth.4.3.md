@@ -1,10 +1,7 @@
 **LXX Ruth 4:3** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said to the one acting as next of kin, \[Concerning\] the portion of the field which is  of our brother  Elimelech, which he gave to Naomi, the one returning from out of \[the\] country of Moab, 
-<small><sub>**KJV:**</sub></small>
-And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which [was] our brother Elimelech’s:
-<small><sub>**BSB:**</sub></small>
-And he said to the kinsman-redeemer, “Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

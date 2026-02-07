@@ -1,4 +1,4 @@
-**2 Chronicles 12:15** 
+**2 Chronicles 12:15**<big><big>[[2Chr.12.13 Rehoboam’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the acts of Rehoboam, first and last, [are] they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And [there were] wars between Rehoboam and Jeroboam continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the acts of Rehoboam, from first to last, are they not written in the record
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.14|<< 2 Chronicles 12:14]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.16|2 Chronicles 12:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] matters of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1697K\|דִבְרֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָ֗ם]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 4:7** 
+**Numbers 4:7**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Over the table of the Presence they are to spread a blue cloth and place the pla
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.6|<< Numbers 4:6]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.8|Numbers 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] table of  |**<big>&#8207;[[H7979\|שֻׁלְחַ֣ן]]&#8207; </big>**| shul.Chan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 14:16** 
+**Isaiah 14:16**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that see thee shall narrowly look upon thee, [and] consider thee, [saying, Is] this the man that made the earth to tremble, that did shake kingdoms;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who see you will stare; they will ponder your fate: “Is this the man who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.15|<< Isaiah 14:15]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.17|Isaiah 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] see you  |**<big>&#8207;[[H7200G\|רֹאֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ro.'Ei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

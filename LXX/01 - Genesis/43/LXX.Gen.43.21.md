@@ -1,10 +1,7 @@
 **LXX Genesis 43:21** 
 <small><sub>**LXX:**</sub></small>
 and it happened when we came to  rest up, and we opened  our bags, that thus, the silver \[was\] in each  of his bag.  We returned now our silver with \[the\] weight in  our hands, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when we came to the inn, that we opened our sacks, and, behold, [every] man’s money [was] in the mouth of his sack, our money in full weight: and we have brought it again in our hand.
-<small><sub>**BSB:**</sub></small>
-But when we came to the place we lodged for the night, we opened our sacks and, behold, each of us found his silver in the mouth of his sack! It was the full amount of our silver, and we have brought it back with us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.20|<< Genesis 43:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.22|Genesis 43:22 >>]]</td></tr></table>
 
 | Translation | Greek |

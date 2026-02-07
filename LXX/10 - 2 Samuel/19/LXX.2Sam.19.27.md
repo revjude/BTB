@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:27** 
 <small><sub>**LXX:**</sub></small>
 And he used craft with  your servant against  my master the king. But  my master the king \[is\] as a messenger of God, and you do \[what is\] good in your eyes! 
-<small><sub>**KJV:**</sub></small>
-And he hath slandered thy servant unto my lord the king; but my lord the king [is] as an angel of God: do therefore [what is] good in thine eyes.
-<small><sub>**BSB:**</sub></small>
-and he has slandered your servant to my lord the king. Yet my lord the king is like the angel of God, so do what is good in your eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.26|<< 2 Samuel 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.28|2 Samuel 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

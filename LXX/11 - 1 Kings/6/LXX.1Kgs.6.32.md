@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:32** 
 <small><sub>**LXX:**</sub></small>
 And two doors of woods of pines. And sculptures upon them being sculpted of cherubim, and palms. And panels were opening and spreading out. And he compassed \[them\] with gold; and the palms gold came down upon the cherubim and over the. 
-<small><sub>**KJV:**</sub></small>
-The two doors also [were of] olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid [them] with gold, and spread gold upon the cherubims, and upon the palm trees.
-<small><sub>**BSB:**</sub></small>
-The double doors were made of olive wood, and he carved into them cherubim, palm trees, and open flowers and overlaid the cherubim and palm trees with hammered gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.31|<< 1 Kings 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.33|1 Kings 6:33 >>]]</td></tr></table>
 
 | Translation | Greek |

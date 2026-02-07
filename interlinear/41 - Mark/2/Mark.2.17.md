@@ -1,12 +1,12 @@
-**Mark 2:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:17**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus heard [it], he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”
 <small><sub>**Literal:**</sub></small>
 And having heard <the> Jesus says to them: that No need have those being strong of a physician but those sick being; Not I came to call [the] righteous  but sinners into repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.16|<< Mark 2:16]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.18|Mark 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

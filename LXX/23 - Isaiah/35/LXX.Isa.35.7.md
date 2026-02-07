@@ -1,10 +1,7 @@
 **LXX Isaiah 35:7** 
 <small><sub>**LXX:**</sub></small>
 And the waterless \[place\] will be \[turned\] into marshes, and the thirsting land into a spring of water. There will be there a gladness of birds, properties of reed and marshes. 
-<small><sub>**KJV:**</sub></small>
-And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, [shall be] grass with reeds and rushes.
-<small><sub>**BSB:**</sub></small>
-The parched ground will become a pool, the thirsty land springs of water. In the haunt where jackals once lay, there will be grass and reeds and papyrus.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.6|<< Isaiah 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.8|Isaiah 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

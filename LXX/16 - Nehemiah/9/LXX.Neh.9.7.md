@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:7** 
 <small><sub>**LXX:**</sub></small>
 You are, O <span class="smallcaps">lord</span>, the God. You chose Abram, and you led him from the place of the Chaldeans, and placed unto him \[the\] name Abraham. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
-<small><sub>**BSB:**</sub></small>
-You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.6|<< Nehemiah 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.8|Nehemiah 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Nehemiah 9:7** is...

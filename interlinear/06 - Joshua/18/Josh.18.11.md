@@ -1,4 +1,4 @@
-**Joshua 18:11** 
+**Joshua 18:11**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The first lot came up for the clans of the tribe of Benjamin. Their allotted ter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.10|<< Joshua 18:10]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.12|Joshua 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֗עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] lot of  |**<big>&#8207;[[H1486\|גּוֹרַ֛ל]]&#8207; </big>**| go.Ral<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

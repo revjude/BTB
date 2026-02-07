@@ -1,10 +1,7 @@
 **LXX Isaiah 40:20** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] fabricator chooses incorruptible wood, and wisely seeks how to station his image, that it should not be shaken. 
-<small><sub>**KJV:**</sub></small>
-He that [is] so impoverished that he hath no oblation chooseth a tree [that] will not rot; he seeketh unto him a cunning workman to prepare a graven image, [that] shall not be moved.
-<small><sub>**BSB:**</sub></small>
-One lacking such an offering chooses wood that will not rot. He seeks a skilled craftsman to set up an idol that will not topple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 
 | Translation | Greek |

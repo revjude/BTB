@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:14** 
 <small><sub>**LXX:**</sub></small>
 And you, pray not for  this people, and do not petition concerning them with supplication and prayer! For I will not listen in the time in which they call upon me, in \[the\] time of their affliction. 
-<small><sub>**KJV:**</sub></small>
-Therefore pray not thou for this people, neither lift up a cry or prayer for them: for I will not hear [them] in the time that they cry unto me for their trouble.
-<small><sub>**BSB:**</sub></small>
-As for you, do not pray for these people. Do not raise up a cry or a prayer on their behalf, for I will not be listening when they call out to Me in their time of disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.13|<< Jeremiah 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.15|Jeremiah 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

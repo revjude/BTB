@@ -1,12 +1,12 @@
-**John 1:8
-**<small><sub>**KJV:**</sub></small>
+**John 1:8**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He was not that Light, but [was sent] to bear witness of that Light.
 <small><sub>**BSB:**</sub></small>
 He himself was not the Light, but he came to testify about the Light.
 <small><sub>**Literal:**</sub></small>
 Not was He the Light, but that he may witness concerning the Light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.7|<< John 1:7]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.9|John 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

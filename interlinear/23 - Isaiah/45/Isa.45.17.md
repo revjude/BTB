@@ -1,4 +1,4 @@
-**Isaiah 45:17** 
+**Isaiah 45:17**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Israel will be saved by the LORD with an everlasting salvation; you will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.16|<< Isaiah 45:16]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.18|Isaiah 45:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been saved  |**<big>&#8207;[[H3467\|נוֹשַׁ֣ע]]&#8207; </big>**| no.Sha'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

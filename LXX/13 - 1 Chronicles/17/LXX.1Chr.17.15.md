@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:15** 
 <small><sub>**LXX:**</sub></small>
 According to all  these words, and according to all  this vision, so spoke Nathan to David. 
-<small><sub>**KJV:**</sub></small>
-According to all these words, and according to all this vision, so did Nathan speak unto David.
-<small><sub>**BSB:**</sub></small>
-So Nathan relayed to David all the words of this entire revelation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.14|<< 1 Chronicles 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.16|1 Chronicles 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

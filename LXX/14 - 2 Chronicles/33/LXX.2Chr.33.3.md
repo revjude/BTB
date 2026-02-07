@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:3** 
 <small><sub>**LXX:**</sub></small>
 And he returned and built the high \[places\] which Hezekiah his father tore down. And he set up altars to the Baals, and he made sacred groves, and he did obeisance to all the military of the heaven, and he served to them. 
-<small><sub>**KJV:**</sub></small>
-For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
-<small><sub>**BSB:**</sub></small>
-For he rebuilt the high places that his father Hezekiah had torn down, and he raised up altars for the Baals and made Asherah poles. And he worshiped and served all the host of heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.2|<< 2 Chronicles 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.4|2 Chronicles 33:4 >>]]</td></tr></table>
 
 | Translation | Greek |

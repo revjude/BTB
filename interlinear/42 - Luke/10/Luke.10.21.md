@@ -1,12 +1,12 @@
-**Luke 10:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:21**<big><big>[[Luke.10.21 Jesus’ Prayer of Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus rejoiced in the Holy Spirit and declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was well-pleasing in Your sight.
 <small><sub>**Literal:**</sub></small>
 In [the] same <the> hour He rejoiced in the Spirit <the> Holy and said; I fully consent to You, Father, Lord of the heaven and of the earth, for You have hidden these things from wise and intelligent and revealed them to little children. yes O Father, for thus well-pleasing was it before You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.20|<< Luke 10:20]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.22|Luke 10:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] same |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

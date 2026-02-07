@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:24** 
 <small><sub>**LXX:**</sub></small>
 And indeed the soothsayers, and the diviners, and the teraphim, and the idols, and all the loathsome things  taking place in the land of Judah and in  Jerusalem, king Josiah removed, that the words of the law should be established, the ones being written upon the scroll which Hilkiah the priest found in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Moreover the [workers with] familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Furthermore, Josiah removed the mediums and spiritists, the household gods and idols, and all the abominations that were seen in the land of Judah and in Jerusalem. He did this to carry out the words of the law written in the book that Hilkiah the priest had found in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.23|<< 2 Kings 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.25|2 Kings 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

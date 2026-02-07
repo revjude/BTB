@@ -1,10 +1,7 @@
 **LXX Job 7:19** 
 <small><sub>**LXX:**</sub></small>
 For how long do you not allow me, nor let me go, until whenever I should swallow down  my spittle in grief? 
-<small><sub>**KJV:**</sub></small>
-How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?
-<small><sub>**BSB:**</sub></small>
-Will You never look away from me, or leave me alone to swallow my spittle?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.20|Job 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

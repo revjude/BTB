@@ -1,10 +1,7 @@
 **LXX Psalm 56:13** 
 <small><sub>**LXX:**</sub></small>
 For you rescued  my soul from death,  my eyes from tears, and  my feet from a slip. I shall be well-pleasing before \[the\] <span class="smallcaps">lord</span> in \[the\] light of \[the\] living. 
-<small><sub>**KJV:**</sub></small>
-For thou hast delivered my soul from death: [wilt] not [thou deliver] my feet from falling, that I may walk before God in the light of the living?
-<small><sub>**BSB:**</sub></small>
-For You have delivered my soul from death, and my feet from stumbling, that I may walk before God in the light of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.12|<< Psalm 56:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.1|Psalm 57:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 44:16** 
+**Isaiah 44:16**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth [himself], and saith, Aha, I am warm, I have seen the fire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He burns half of it in the fire, and he roasts meat on that half. He eats the ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.15|<< Isaiah 44:15]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.17|Isaiah 44:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | half of it  |**<big>&#8207;[[H2677\|חֶצְי]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| chetz.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he burns  |**<big>&#8207;[[H8313\|שָׂרַ֣ף]]&#8207; </big>**| sa.Raf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

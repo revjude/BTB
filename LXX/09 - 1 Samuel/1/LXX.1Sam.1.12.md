@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:12** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when she multiplied praying before \[the\] <span class="smallcaps">lord</span>, that Eli the priest watched  her mouth. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.
-<small><sub>**BSB:**</sub></small>
-As Hannah kept on praying before the LORD, Eli watched her mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.11|<< 1 Samuel 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.13|1 Samuel 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 101:3** 
+**Psalms 101:3**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; [it] shall not cleave to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will set no worthless thing before my eyes. I hate the work of those who fall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.2|<< Psalms 101:2]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.4|Psalms 101:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will set  |**<big>&#8207;[[H7896G\|אָשִׁ֨ית]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

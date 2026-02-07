@@ -1,4 +1,4 @@
-**Ezekiel 20:49** (21:5)
+**Ezekiel 20:49**<big><big>[[Ezek.20.45 A Prophecy against the South|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I said, “Ah, Lord GOD, they are saying of me, ‘Is he not just telling p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.48|<< Ezekiel 20:48]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.1|Ezekiel 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֕ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | alas!  |**<big>&#8207;[[H0162\|אֲהָ֖הּ]]&#8207; </big>**| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

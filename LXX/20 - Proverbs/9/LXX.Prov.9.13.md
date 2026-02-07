@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A foolish lacking of a morsel and bold woman who does not have knowledge of shame becomes. 
-<small><sub>**KJV:**</sub></small>
-A foolish woman [is] clamorous: [she is] simple, and knoweth nothing.
-<small><sub>**BSB:**</sub></small>
-The woman named Folly is loud; she is naive and knows nothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.12|<< Proverbs 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.14|Proverbs 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

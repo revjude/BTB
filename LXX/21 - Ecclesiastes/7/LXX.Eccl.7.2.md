@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:2** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] good to go into a house of mourning, than than to go into a house of a banquet; in so far as this \[is the\] end of every man; and the living \[man\] will give good to his heart. 
-<small><sub>**KJV:**</sub></small>
-[It is] better to go to the house of mourning, than to go to the house of feasting: for that [is] the end of all men; and the living will lay [it] to his heart.
-<small><sub>**BSB:**</sub></small>
-It is better to enter a house of mourning than a house of feasting, since death is the end of every man, and the living should take this to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.1|<< Ecclesiastes 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.3|Ecclesiastes 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

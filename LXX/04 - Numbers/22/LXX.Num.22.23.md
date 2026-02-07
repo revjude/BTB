@@ -1,10 +1,7 @@
 **LXX Numbers 22:23** 
 <small><sub>**LXX:**</sub></small>
 And the donkey seeing the angel  of God opposing it in the way, and the broadsword being unsheathed in  his hand, that the donkey turned aside from the way, and went into the plain. And he struck the donkey  to straighten it in the way. 
-<small><sub>**KJV:**</sub></small>
-And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
-<small><sub>**BSB:**</sub></small>
-When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.22|<< Numbers 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.24|Numbers 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

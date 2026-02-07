@@ -1,4 +1,4 @@
-**Psalms 58:3** (58:4)
+**Psalms 58:3**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked are estranged from the womb; the liars go astray from birth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.2|<< Psalms 58:2]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.4|Psalms 58:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they turn aside  |**<big>&#8207;[[H2114A\|זֹ֣רוּ]]&#8207; </big>**| Zo.ru<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

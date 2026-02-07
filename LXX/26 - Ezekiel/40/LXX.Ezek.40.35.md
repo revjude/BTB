@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:35** 
 <small><sub>**LXX:**</sub></small>
 And he brought me unto the door, the one towards \[the\] north; and he measured according to  these measures; 
-<small><sub>**KJV:**</sub></small>
-And he brought me to the north gate, and measured [it] according to these measures;
-<small><sub>**BSB:**</sub></small>
-Then he brought me to the north gate and measured it. It had the same measurements as the others,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.34|<< Ezekiel 40:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.36|Ezekiel 40:36 >>]]</td></tr></table>
 
 | Translation | Greek |

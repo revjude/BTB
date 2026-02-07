@@ -1,4 +1,4 @@
-**Deuteronomy 29:23** (29:22)
+**Deuteronomy 29:23**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And that] the whole land thereof [is] brimstone, and salt, [and] burning, [that] it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All its soil will be a burning waste of sulfur and salt, unsown and unproductive
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] sulfur  |**<big>&#8207;[[H1614\|גָּפְרִ֣ית]]&#8207; </big>**| ga.fe.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and salt  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H4417M\|מֶלַח֮]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> me.Lach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

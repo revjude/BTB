@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:7** 
 <small><sub>**LXX:**</sub></small>
 And the king said to them, What \[was\] the distinguishing \[mark\] of the man  ascending to meet you, and speaking to you  these words? 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, What manner of man [was he] which came up to meet you, and told you these words?
-<small><sub>**BSB:**</sub></small>
-The king asked them, “What sort of man came up to meet you and spoke these words to you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.6|<< 2 Kings 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.8|2 Kings 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

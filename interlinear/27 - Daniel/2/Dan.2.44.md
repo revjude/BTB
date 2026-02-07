@@ -1,4 +1,4 @@
-**Daniel 2:44** 
+**Daniel 2:44**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In the days of those kings, the God of heaven will set up a kingdom that will ne
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]] ☩ [[Rev.11.15|Rev 11:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in days their  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3118\|יוֹמֵי]]&#8207;&#8207;[[H9028\|ה֞וֹן]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.<small><sup>[[AR]]</sup></small> yo.mei.<small><sup>[[ANcmpc]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H1768\|דִּ֧י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

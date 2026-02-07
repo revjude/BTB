@@ -1,4 +1,4 @@
-**Ezekiel 44:29** 
+**Ezekiel 44:29**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall eat the grain offerings, the sin offerings, and the guilt offerings. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.28|<< Ezekiel 44:28]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.30|Ezekiel 44:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the grain offering  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4503G\|מִּנְחָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the sin offering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2403H\|חַטָּ֣את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

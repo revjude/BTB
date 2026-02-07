@@ -1,10 +1,7 @@
 **LXX Genesis 30:18** 
 <small><sub>**LXX:**</sub></small>
 And Leah said, God gave to me  my wage because I gave  my maidservant  to my husband. And she called  his name, Issachar, which is, Wage. 
-<small><sub>**KJV:**</sub></small>
-And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
-<small><sub>**BSB:**</sub></small>
-Then Leah said, “God has rewarded me for giving my maidservant to my husband.” So she named him Issachar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.17|<< Genesis 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.19|Genesis 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

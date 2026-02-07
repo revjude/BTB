@@ -1,4 +1,4 @@
-**Judges 1:35** 
+**Judges 1:35**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Amorites were determined to dwell in Mount Heres, Aijalon, and Shaalbim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.34|<< Judges 1:34]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.36|Judges 1:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was determined  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2974\|יּ֤וֹאֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.'el<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Amorite[s]  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0567\|אֱמֹרִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 24:16** 
+**Isaiah 24:16**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the uttermost part of the earth have we heard songs, [even] glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the ends of the earth we hear singing: “Glory to the Righteous One.” Bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.15|<< Isaiah 24:15]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.17|Isaiah 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] extremity of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3671\|כְּנַ֨ף]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ke.Naf<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֜רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

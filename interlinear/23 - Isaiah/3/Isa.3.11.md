@@ -1,4 +1,4 @@
-**Isaiah 3:11** 
+**Isaiah 3:11**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto the wicked! [it shall be] ill [with him]: for the reward of his hands shall be given him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to the wicked; disaster is upon them! For they will be repaid with what thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.10|<< Isaiah 3:10]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.12|Isaiah 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0188\|א֖וֹי]]&#8207; </big>**| 'o<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] wicked  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7563\|רָשָׁ֣ע]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

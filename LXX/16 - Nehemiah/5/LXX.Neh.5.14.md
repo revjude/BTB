@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:14** 
 <small><sub>**LXX:**</sub></small>
 And also from the day which he gave charge to me to be as their ruler in \[the\] land of Judah, from \[the\] twentieth year, and until \[the\] thirtieth and second year  of Artaxerxes the king, twelve years, \[that\] even I and  my brethren did not eat bread of my governing. 
-<small><sub>**KJV:**</sub></small>
-Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, [that is], twelve years, I and my brethren have not eaten the bread of the governor.
-<small><sub>**BSB:**</sub></small>
-Furthermore, from the day King Artaxerxes appointed me to be their governor in the land of Judah, from his twentieth year until his thirty-second year (twelve years total), neither I nor my brothers ate the food allotted to the governor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.13|<< Nehemiah 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.15|Nehemiah 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

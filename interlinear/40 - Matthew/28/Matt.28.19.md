@@ -1,12 +1,12 @@
-**Matthew 28:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:19**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 <small><sub>**BSB:**</sub></small>
 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 <small><sub>**Literal:**</sub></small>
 Having gone therefore do disciple all the nations baptizing them in the name of the Father and of the Son and of the Holy Spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.18|<< Matthew 28:18]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.20|Matthew 28:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone |**<big>[[G4198\|πορευθέντες]]</big>**  |poreuthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:27** 
 <small><sub>**LXX:**</sub></small>
 And  of your sitting-down, and  of your exiting, and  of your entering, and  of your rage against me I knew. 
-<small><sub>**KJV:**</sub></small>
-But I know thy abode, and thy going out, and thy coming in, and thy rage against me.
-<small><sub>**BSB:**</sub></small>
-But I know your sitting down, your going out and coming in, and your raging against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.26|<< 2 Kings 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.28|2 Kings 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

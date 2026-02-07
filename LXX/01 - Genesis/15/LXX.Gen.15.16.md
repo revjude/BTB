@@ -1,10 +1,7 @@
 **LXX Genesis 15:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] fourth generation shall return here, for not yet the sins of the Amorites been filled up unto the present. 
-<small><sub>**KJV:**</sub></small>
-But in the fourth generation they shall come hither again: for the iniquity of the Amorites [is] not yet full.
-<small><sub>**BSB:**</sub></small>
-In the fourth generation your descendants will return here, for the iniquity of the Amorites is not yet complete.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.15|<< Genesis 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.17|Genesis 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

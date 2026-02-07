@@ -1,12 +1,12 @@
-**Matthew 8:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:15**<big><big>[[Matt.8.14 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he touched her hand, and the fever left her: and she arose, and ministered unto them.
 <small><sub>**BSB:**</sub></small>
 So He touched her hand, and the fever left her, and she got up and began to serve Him.
 <small><sub>**Literal:**</sub></small>
 And He touched the hand of her, and left her the fever. and she arose and was ministering to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.14|<< Matthew 8:14]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.16|Matthew 8:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He touched |**<big>[[G0681\|ἥψατο]]</big>**  |hēpsato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

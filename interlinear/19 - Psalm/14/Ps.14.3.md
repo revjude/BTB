@@ -1,4 +1,4 @@
-**Psalms 14:3** 
+**Psalms 14:3**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are all gone aside, they are [all] together become filthy: [there is] none that doeth good, no, not one.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All have turned away, they have together become corrupt; there is no one who doe
 > $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> everyone  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3605\|כֹּ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turns aside  |**<big>&#8207;[[H5493I\|סָר֮]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

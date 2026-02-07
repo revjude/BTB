@@ -1,4 +1,4 @@
-**1 Chronicles 26:14** 
+**1 Chronicles 26:14**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counseller, they cast lots; and his lot came out northward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zec
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.13|<< 1 Chronicles 26:13]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.15|1 Chronicles 26:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307I\|יִּפֹּ֧ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָ֛ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

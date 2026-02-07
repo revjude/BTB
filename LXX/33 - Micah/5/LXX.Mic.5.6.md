@@ -1,10 +1,7 @@
 **LXX Micah 5:6** 
 <small><sub>**LXX:**</sub></small>
 And they shall tend  Assyria with a broadsword, and the land  of Nimrod at  her trench. And he shall rescue from  Assyria whenever it should come against  your land, and whenever it should mount over  your borders. 
-<small><sub>**KJV:**</sub></small>
-And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver [us] from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
-<small><sub>**BSB:**</sub></small>
-And they will rule the land of Assyria with the sword, and the land of Nimrod with the blade drawn. So He will deliver us when Assyria invades our land and marches into our borders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.5|<< Micah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.7|Micah 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

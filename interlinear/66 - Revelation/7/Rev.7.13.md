@@ -1,12 +1,12 @@
-**Revelation 7:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:13**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
 <small><sub>**BSB:**</sub></small>
 Then one of the elders addressed me: “These in white robes,” he asked, “who are they, and where have they come from?”
 <small><sub>**Literal:**</sub></small>
 And answered one of the elders saying to me; These ones having clothed themselves with the robes <the> white, who are they and from where have they come?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.12|<< Revelation 7:12]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.14|Revelation 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

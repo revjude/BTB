@@ -1,10 +1,7 @@
 **LXX Proverbs 6:21** 
 <small><sub>**LXX:**</sub></small>
 But affix them upon your soul always, and bind them with a cord around your neck! 
-<small><sub>**KJV:**</sub></small>
-Bind them continually upon thine heart, [and] tie them about thy neck.
-<small><sub>**BSB:**</sub></small>
-Bind them always upon your heart; tie them around your neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.20|<< Proverbs 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.22|Proverbs 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

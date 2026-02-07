@@ -1,10 +1,7 @@
 **LXX Genesis 12:20** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh charged \[the\] men concerning Abram, to escort him \[out\], and  his wife, and all, as much as was his, and Lot with him. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh commanded [his] men concerning him: and they sent him away, and his wife, and all that he had.
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh gave his men orders concerning Abram, and they sent him away with his wife and all his possessions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.19|<< Genesis 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.1|Genesis 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

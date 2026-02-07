@@ -1,10 +1,7 @@
 **LXX Leviticus 12:5** 
 <small><sub>**LXX:**</sub></small>
 But if she should give birth to a female, then she will be unclean twice seven days, according to  her menstruation; and sixty days and six she shall be seated in her unclean blood. 
-<small><sub>**KJV:**</sub></small>
-But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
-<small><sub>**BSB:**</sub></small>
-If, however, she gives birth to a daughter, the woman will be unclean for two weeks as she is during her menstruation. Then she must continue in purification from her bleeding for sixty-six days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.4|<< Leviticus 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.6|Leviticus 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

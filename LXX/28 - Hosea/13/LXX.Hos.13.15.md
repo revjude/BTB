@@ -1,10 +1,7 @@
 **LXX Hosea 13:15** 
 <small><sub>**LXX:**</sub></small>
 For this, he will separate between brethren; \[the\] <span class="smallcaps">lord</span> will bring up a burning wind from out of the wilderness upon him, and he shall dry up  his arteries; he shall make quite desolate  his springs; he shall totally dry up  his land, and all  his desirable items. 
-<small><sub>**KJV:**</sub></small>
-Though he be fruitful among [his] brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
-<small><sub>**BSB:**</sub></small>
-Although he flourishes among his brothers, an east wind will come—a wind from the LORD rising up from the desert. His fountain will fail, and his spring will run dry. The wind will plunder his treasury of every precious article.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

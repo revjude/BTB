@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] queen of Sheba beheld all the intellect of Solomon, and the house which he built, 
-<small><sub>**KJV:**</sub></small>
-And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,
-<small><sub>**BSB:**</sub></small>
-When the queen of Sheba saw all the wisdom of Solomon, the palace he had built,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.3|<< 1 Kings 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.5|1 Kings 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

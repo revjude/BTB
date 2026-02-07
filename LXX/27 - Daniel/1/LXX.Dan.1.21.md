@@ -1,10 +1,7 @@
 **LXX Daniel 1:21** 
 <small><sub>**LXX:**</sub></small>
 And Daniel existed until year one of Cyrus the king. 
-<small><sub>**KJV:**</sub></small>
-And Daniel continued [even] unto the first year of king Cyrus.
-<small><sub>**BSB:**</sub></small>
-And Daniel remained there until the first year of King Cyrus.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.20|<< Daniel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.1|Daniel 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

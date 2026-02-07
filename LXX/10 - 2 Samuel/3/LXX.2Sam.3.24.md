@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:24** 
 <small><sub>**LXX:**</sub></small>
 And Joab entered to the king, and he said to him, What is this you did? Behold, Abner came to you, and why have you sent him away, and he has gone forth in peace? 
-<small><sub>**KJV:**</sub></small>
-Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why [is] it [that] thou hast sent him away, and he is quite gone?
-<small><sub>**BSB:**</sub></small>
-So Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you dismiss him? Now he is getting away!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.23|<< 2 Samuel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.25|2 Samuel 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

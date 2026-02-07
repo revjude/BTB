@@ -1,10 +1,7 @@
 **LXX Job 31:28** 
 <small><sub>**LXX:**</sub></small>
 then let this \[be\] imputed so to me \[as\] the greatest lawlessness; for I lied before \[the\] <span class="smallcaps">lord</span> of the highest. 
-<small><sub>**KJV:**</sub></small>
-This also [were] an iniquity [to be punished by] the judge: for I should have denied the God [that is] above.
-<small><sub>**BSB:**</sub></small>
-this would also be an iniquity to be judged, for I would have denied God on high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.27|<< Job 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.29|Job 31:29 >>]]</td></tr></table>
 
 | Translation | Greek |

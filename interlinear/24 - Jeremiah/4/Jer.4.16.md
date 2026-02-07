@@ -1,4 +1,4 @@
-**Jeremiah 4:16** 
+**Jeremiah 4:16**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make ye mention to the nations; behold, publish against Jerusalem, [that] watchers come from a far country, and give out their voice against the cities of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Warn the nations now! Proclaim to Jerusalem: “A besieging army comes from a di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.15|<< Jeremiah 4:15]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.17|Jeremiah 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make known  |**<big>&#8207;[[H2142\|הַזְכִּ֣ירוּ]]&#8207; </big>**| haz.Ki.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the nations  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֗ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

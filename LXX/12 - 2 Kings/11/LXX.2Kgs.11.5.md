@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:5** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to them, saying, This \[is\] the thing which you shall do; the third \[part\] of you -- the ones entering on the Sabbath, let them guard the watch of \[the\] house of the king! 
-<small><sub>**KJV:**</sub></small>
-And he commanded them, saying, This [is] the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king’s house;
-<small><sub>**BSB:**</sub></small>
-and commanded them, “This is what you are to do: A third of you who come on duty on the Sabbath shall guard the royal palace,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.4|<< 2 Kings 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.6|2 Kings 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

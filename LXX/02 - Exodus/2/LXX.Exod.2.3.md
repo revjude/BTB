@@ -1,10 +1,7 @@
 **LXX Exodus 2:3** 
 <small><sub>**LXX:**</sub></small>
 But when they were not able to hide it any longer, his mother took for him a wicker basket of papyrus, and besmeared it \[with\] tar, and put the male child into it, and put it into the marsh by the river. 
-<small><sub>**KJV:**</sub></small>
-And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid [it] in the flags by the river’s brink.
-<small><sub>**BSB:**</sub></small>
-But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.2|<< Exodus 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.4|Exodus 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:3** is...

@@ -1,12 +1,12 @@
-**Matthew 3:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:9**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And think not to say within yourselves, We have Abraham to [our] father: for I say unto you, that God is able of these stones to raise up children unto Abraham.
 <small><sub>**BSB:**</sub></small>
 And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.
 <small><sub>**Literal:**</sub></small>
 And not may you presume to say within yourselves; [As] father we have <the> Abraham; I say for to you that able is <the> God out of <the> stones these to raise up children <the> to Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.8|<< Matthew 3:8]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.10|Matthew 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

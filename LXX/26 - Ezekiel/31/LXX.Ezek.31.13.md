@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:13** 
 <small><sub>**LXX:**</sub></small>
 All the birds of the heaven rested upon his downfall; and upon  his trunks existed all the wild beasts of the field, 
-<small><sub>**KJV:**</sub></small>
-Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:
-<small><sub>**BSB:**</sub></small>
-All the birds of the air nested on its fallen trunk, and all the beasts of the field lived among its boughs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.12|<< Ezekiel 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.14|Ezekiel 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

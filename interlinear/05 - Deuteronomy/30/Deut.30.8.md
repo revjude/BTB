@@ -1,4 +1,4 @@
-**Deuteronomy 30:8** 
+**Deuteronomy 30:8**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you will again obey the voice of the LORD and follow all His commandments I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.7|<< Deuteronomy 30:7]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.9|Deuteronomy 30:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn  |**<big>&#8207;[[H7725J\|תָשׁ֔וּב]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

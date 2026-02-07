@@ -1,10 +1,7 @@
 **LXX Numbers 32:24** 
 <small><sub>**LXX:**</sub></small>
 And \[thus\] you shall build to yourselves for them cities  for your belongings, and properties  for your cattle; and the \[thing\] going forth from out of  your mouth you shall do. 
-<small><sub>**KJV:**</sub></small>
-Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.
-<small><sub>**BSB:**</sub></small>
-Build cities for your little ones and folds for your flocks, but do what you have promised.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.23|<< Numbers 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.25|Numbers 32:25 >>]]</td></tr></table>
 
 | Translation | Greek |

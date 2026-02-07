@@ -1,10 +1,7 @@
 **LXX Psalm 17:13** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O <span class="smallcaps">lord</span>! Be there beforehand with them, and trip them! Rescue  my soul from \[the\] impious by your broadsword! 
-<small><sub>**KJV:**</sub></small>
-Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, [which is] thy sword:
-<small><sub>**BSB:**</sub></small>
-Arise, O LORD, confront them! Bring them to their knees; deliver me from the wicked by Your sword,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.12|<< Psalm 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.14|Psalm 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

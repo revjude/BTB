@@ -1,4 +1,4 @@
-**Psalms 69:22** (69:23)
+**Psalms 69:22**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let their table become a snare before them: and [that which should have been] for [their] welfare, [let it become] a trap.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May their table become a snare; may it be a retribution and a trap.
 > $\quad$ referenced by: [[Rom.11.9|Rom 11:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it become  |**<big>&#8207;[[H1961\|יְהִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | table their  |**<big>&#8207;[[H7979\|שֻׁלְחָנָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| shul.cha.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

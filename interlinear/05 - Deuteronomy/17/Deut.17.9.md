@@ -1,4 +1,4 @@
-**Deuteronomy 17:9** 
+**Deuteronomy 17:9**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You are to go to the Levitical priests and to the judge who presides at that tim
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָאתָ֗]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 41:22** 
 <small><sub>**LXX:**</sub></small>
 And in his neck lodges power. Destruction runs before him. 
-<small><sub>**KJV:**</sub></small>
-In his neck remaineth strength, and sorrow is turned into joy before him.
-<small><sub>**BSB:**</sub></small>
-Strength resides in his neck, and dismay leaps before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.21|<< Job 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.23|Job 41:23 >>]]</td></tr></table>
 
 | Translation | Greek |

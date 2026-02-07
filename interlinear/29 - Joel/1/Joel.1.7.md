@@ -1,4 +1,4 @@
-**Joel 1:7** 
+**Joel 1:7**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It has laid waste My grapevine and splintered My fig tree. It has stripped off t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.6|<< Joel 1:6]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.8|Joel 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has made  |**<big>&#8207;[[H7760A\|שָׂ֤ם]]&#8207; </big>**| sam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vine[s] my  |**<big>&#8207;[[H1612\|גַּפְנִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| gaf.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

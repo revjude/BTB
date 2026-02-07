@@ -1,4 +1,4 @@
-**Haggai 1:14** 
+**Haggai 1:14**<big><big>[[Hag.1.12 The People Obey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD stirred the spirit of Zerubbabel son of Shealtiel, governor of Judah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.13|<< Haggai 1:13]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.15|Haggai 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stirred up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5782\|יָּ֣עַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'ar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֡ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

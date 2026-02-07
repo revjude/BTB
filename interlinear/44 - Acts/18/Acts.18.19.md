@@ -1,12 +1,12 @@
-**Acts 18:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:19**<big><big>[[Acts.18.18 Paul Returns to Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.
 <small><sub>**BSB:**</sub></small>
 When they reached Ephesus, Paul left Priscilla and Aquila. He himself went into the synagogue there and reasoned with the Jews.
 <small><sub>**Literal:**</sub></small>
 They came now to Ephesus; and them left there, He himself then having entered into the synagogue he reasoned with the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.18|<< Acts 18:18]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.20|Acts 18:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They came [^1] [^2] |**<big>[[G2658\|κατήντησαν]]</big>**  |katēntēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

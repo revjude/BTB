@@ -1,4 +1,4 @@
-**Psalms 119:40** 
+**Psalms 119:40**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have longed after thy precepts: quicken me in thy righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How I long for Your precepts! Revive me in Your righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.39|<< Psalms 119:39]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.41|Psalms 119:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִ֭נֵּה]]&#8207; </big>**| Hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I long  |**<big>&#8207;[[H8373\|תָּאַ֣בְתִּי]]&#8207; </big>**| ta.'Av.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

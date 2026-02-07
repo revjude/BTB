@@ -1,10 +1,7 @@
 **LXX Amos 2:9** 
 <small><sub>**LXX:**</sub></small>
 But I lifted away the Amorite from in front of them, as \[the\] height of cedar  in his height, and he was strong as an oak; and I removed  his fruit on top, and  his roots beneath. 
-<small><sub>**KJV:**</sub></small>
-Yet destroyed I the Amorite before them, whose height [was] like the height of the cedars, and he [was] strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.
-<small><sub>**BSB:**</sub></small>
-Yet it was I who destroyed the Amorite before them, though his height was like that of the cedars, and he was as strong as the oaks. Yet I destroyed his fruit above and his roots below.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.8|<< Amos 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.10|Amos 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

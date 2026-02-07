@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the land  of Israel, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you, and I will pull  my knife from out of  its sheath, and I will utterly destroy from you \[the\] lawless one and unjust one. 
-<small><sub>**KJV:**</sub></small>
-And say to the land of Israel, Thus saith the LORD; Behold, I [am] against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.
-<small><sub>**BSB:**</sub></small>
-and tell her that this is what the LORD says: ‘I am against you, and I will draw My sword from its sheath and cut off from you both the righteous and the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.2|<< Ezekiel 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.4|Ezekiel 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

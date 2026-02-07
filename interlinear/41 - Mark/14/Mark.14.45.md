@@ -1,12 +1,12 @@
-**Mark 14:45
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:45**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.
 <small><sub>**BSB:**</sub></small>
 Going directly to Jesus, he said, “Rabbi!” and kissed Him.
 <small><sub>**Literal:**</sub></small>
 And having arrived immediately having come up to Him he says to him: Rabbi Rabbi! And he kissed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.44|<< Mark 14:44]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.46|Mark 14:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having arrived |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

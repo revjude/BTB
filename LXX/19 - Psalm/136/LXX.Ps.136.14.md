@@ -1,10 +1,7 @@
 **LXX Psalm 136:14** 
 <small><sub>**LXX:**</sub></small>
 And leading  Israel through the middle of it, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-And made Israel to pass through the midst of it: for his mercy [endureth] for ever:
-<small><sub>**BSB:**</sub></small>
-and led Israel through the midst, His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.13|<< Psalm 136:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.15|Psalm 136:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 13:32** 
+**Numbers 13:32**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they gave the Israelites a bad report about the land that they had spied out:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.31|<< Numbers 13:31]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.33|Numbers 13:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִ֜יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> bad report of  |**<big>&#8207;[[H1681\|דִּבַּ֤ת]]&#8207; </big>**| di.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 12:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:3**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
 <small><sub>**BSB:**</sub></small>
 And seeing that this pleased the Jews, Herod proceeded to seize Peter during the Feast of Unleavened Bread.
 <small><sub>**Literal:**</sub></small>
 and Having seen now that pleasing it is to the Jews, he proceeded to take also Peter — these were now the days of the Unleavened [Bread] —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.2|<< Acts 12:2]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.4|Acts 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Corinthians 11:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:23**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the [same] night in which he was betrayed took bread:
 <small><sub>**BSB:**</sub></small>
 For I received from the Lord what I also passed on to you: The Lord Jesus, on the night He was betrayed, took bread,
 <small><sub>**Literal:**</sub></small>
 I myself for received from the Lord that which also I delivered to you that the Lord Jesus in the night in which He was betrayed took bread,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.22|<< 1 Corinthians 11:22]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.24|1 Corinthians 11:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

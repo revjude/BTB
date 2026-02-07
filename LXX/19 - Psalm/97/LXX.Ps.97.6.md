@@ -1,10 +1,7 @@
 **LXX Psalm 97:6** 
 <small><sub>**LXX:**</sub></small>
 The heavens announced  his righteousness; and all the peoples beheld  his glory. 
-<small><sub>**KJV:**</sub></small>
-The heavens declare his righteousness, and all the people see his glory.
-<small><sub>**BSB:**</sub></small>
-The heavens proclaim His righteousness; all the peoples see His glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.5|<< Psalm 97:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.7|Psalm 97:7 >>]]</td></tr></table>
 
 | Translation | Greek |

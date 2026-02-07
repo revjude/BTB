@@ -1,12 +1,12 @@
-**1 Corinthians 3:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:10**<big><big>[[1Cor.3.10 Christ Our Foundation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
 <small><sub>**BSB:**</sub></small>
 By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one must be careful how he builds.
 <small><sub>**Literal:**</sub></small>
 According to the grace <the> of God which having been given to me as a wise master builder [the] foundation I  laid, another however is building upon [it]. Each one however should take heed how he builds upon [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.9|<< 1 Corinthians 3:9]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.11|1 Corinthians 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | According to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

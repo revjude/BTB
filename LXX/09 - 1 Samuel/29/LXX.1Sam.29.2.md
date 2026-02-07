@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:2** 
 <small><sub>**LXX:**</sub></small>
 And the satraps of the Philistines came by \[the\] hundreds and thousands. And David and  his men came near at \[the\] last with Achish. 
-<small><sub>**KJV:**</sub></small>
-And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.
-<small><sub>**BSB:**</sub></small>
-As the Philistine leaders marched out with their units of hundreds and thousands, David and his men marched behind them with Achish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.1|<< 1 Samuel 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.3|1 Samuel 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:55** 
 <small><sub>**LXX:**</sub></small>
 And he stood, and blessed all the assembly of Israel with a great voice, saying, 
-<small><sub>**KJV:**</sub></small>
-And he stood, and blessed all the congregation of Israel with a loud voice, saying,
-<small><sub>**BSB:**</sub></small>
-And he stood and blessed the whole assembly of Israel in a loud voice, saying:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.54|<< 1 Kings 8:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.56|1 Kings 8:56 >>]]</td></tr></table>
 
 | Translation | Greek |

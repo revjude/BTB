@@ -1,4 +1,4 @@
-**Joshua 2:11** 
+**Joshua 2:11**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as soon as we had heard [these things], our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he [is] God in heaven above, and in earth beneath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When we heard this, our hearts melted and everyone’s courage failed because of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.10|<< Joshua 2:10]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.12|Joshua 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|נִּשְׁמַע֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nish.Ma'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it melted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4549\|יִּמַּ֣ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Mas<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 30:12** 
 <small><sub>**LXX:**</sub></small>
 O how that my glory strum to you, and in no way should I be vexed, O <span class="smallcaps">lord</span>  my God. Into the eon I shall acknowledge you. 
-<small><sub>**KJV:**</sub></small>
-To the end that [my] glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.
-<small><sub>**BSB:**</sub></small>
-that my heart may sing Your praises and not be silent. O LORD my God, I will give thanks forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.11|<< Psalm 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.1|Psalm 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

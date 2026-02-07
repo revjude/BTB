@@ -1,4 +1,4 @@
-**Judges 8:3** 
+**Judges 8:3**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.2|<< Judges 8:2]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.4|Judges 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יֶדְ]]&#8207;&#8207;[[H9026\|כֶם֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yed.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has given  |**<big>&#8207;[[H5414G\|נָתַ֨ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 11:3** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah ran away from \[the\] face  of his brothers, and he dwelt in \[the\] land of Tob. And cheap men collected together with Jephthah, and went forth together with him. 
-<small><sub>**KJV:**</sub></small>
-Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
-<small><sub>**BSB:**</sub></small>
-So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.2|<< Judges 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.4|Judges 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

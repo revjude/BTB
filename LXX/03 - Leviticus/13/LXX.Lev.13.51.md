@@ -1,10 +1,7 @@
 **LXX Leviticus 13:51** 
 <small><sub>**LXX:**</sub></small>
 And he shall look at the infection on the seventh day. But if the infection should diffuse in the garment, or in the warp, or in the woof, or in the skin, according to all as much as might be made with \[the\] skins in the work, it is permanent leprosy;  it is an unclean infection. 
-<small><sub>**KJV:**</sub></small>
-And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, [or] in any work that is made of skin; the plague [is] a fretting leprosy; it [is] unclean.
-<small><sub>**BSB:**</sub></small>
-On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how it is used, it is a harmful mildew; the article is unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.50|<< Leviticus 13:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.52|Leviticus 13:52 >>]]</td></tr></table>
 
 | Translation | Greek |

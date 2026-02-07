@@ -1,4 +1,4 @@
-**Deuteronomy 28:54** 
+**Deuteronomy 28:54**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [So that] the man [that is] tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The most gentle and refined man among you will begrudge his brother, the wife he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.53|<< Deuteronomy 28:53]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.55|Deuteronomy 28:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> gentle  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7390\|רַ֣ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Rakh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

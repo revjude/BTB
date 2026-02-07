@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  But Ephraim \[is\] an evil spirit. He pursued \[the\] burning wind \[the\] entire  day. He multiplied empty and vain \[things\]. And he ordained a covenant with \[the\] Assyrians, and traded olive oil in Egypt. 
-<small><sub>**KJV:**</sub></small>
-Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
-<small><sub>**BSB:**</sub></small>
-Ephraim feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.12|<< Hosea 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.2|Hosea 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

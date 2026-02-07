@@ -1,10 +1,7 @@
 **LXX Proverbs 20:23** 
 <small><sub>**LXX:**</sub></small>
 A double weight \[is\] an abomination \[to the\] <span class="smallcaps">lord</span>; and a deceitful yoke \[balance scale\] is not good before him. 
-<small><sub>**KJV:**</sub></small>
-Divers weights [are] an abomination unto the LORD; and a false balance [is] not good.
-<small><sub>**BSB:**</sub></small>
-Unequal weights are detestable to the LORD, and dishonest scales are no good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.22|<< Proverbs 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.24|Proverbs 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

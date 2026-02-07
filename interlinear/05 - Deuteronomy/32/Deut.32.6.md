@@ -1,4 +1,4 @@
-**Deuteronomy 32:6** 
+**Deuteronomy 32:6**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do ye thus requite the LORD, O foolish people and unwise? [is] not he thy father [that] hath bought thee? hath he not made thee, and established thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is this how you repay the LORD, O foolish and senseless people? Is He not your F
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.5|<< Deuteronomy 32:5]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.7|Deuteronomy 32:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hă-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

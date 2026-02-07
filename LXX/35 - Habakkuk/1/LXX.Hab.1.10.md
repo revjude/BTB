@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:10** 
 <small><sub>**LXX:**</sub></small>
 And he shall revel among kings, and sovereigns \[are\] his playthings. And he shall mock at every fortress, and shall throw up an embankment, and shall prevail over it. 
-<small><sub>**KJV:**</sub></small>
-And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
-<small><sub>**BSB:**</sub></small>
-They scoff at kings and make rulers an object of scorn. They laugh at every fortress and build up siege ramps to seize it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.9|<< Habakkuk 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.11|Habakkuk 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

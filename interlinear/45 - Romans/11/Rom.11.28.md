@@ -1,12 +1,12 @@
-**Romans 11:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:28**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As concerning the gospel, [they are] enemies for your sakes: but as touching the election, [they are] beloved for the fathers’ sakes.
 <small><sub>**BSB:**</sub></small>
 Regarding the gospel, they are enemies on your account; but regarding election, they are loved on account of the patriarchs.
 <small><sub>**Literal:**</sub></small>
 As regards indeed the gospel [they are] enemies on account of you As regards however the election beloved on account of the patriarchs;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.27|<< Romans 11:27]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.29|Romans 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As regards |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

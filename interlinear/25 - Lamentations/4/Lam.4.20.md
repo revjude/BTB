@@ -1,4 +1,4 @@
-**Lamentations 4:20** 
+**Lamentations 4:20**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD’s anointed, the breath of our life, was captured in their pits. We ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.19|<< Lamentations 4:19]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.21|Lamentations 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] breath of  |**<big>&#8207;[[H7307H\|ר֤וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nostrils our  |**<big>&#8207;[[H0639H\|אַפֵּ֙י]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| 'a.Pei.<small><sup>[[HNcmdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

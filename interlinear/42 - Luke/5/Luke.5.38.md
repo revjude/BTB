@@ -1,12 +1,12 @@
-**Luke 5:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:38**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But new wine must be put into new bottles; and both are preserved.
 <small><sub>**BSB:**</sub></small>
 Instead, new wine is poured into new wineskins.
 <small><sub>**Literal:**</sub></small>
 But wine new into wineskins fresh must be put and both are preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.37|<< Luke 5:37]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.39|Luke 5:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wine |**<big>[[G3631\|οἶνον]]</big>**  |oinon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

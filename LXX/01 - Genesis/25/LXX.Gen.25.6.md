@@ -1,10 +1,7 @@
 **LXX Genesis 25:6** 
 <small><sub>**LXX:**</sub></small>
 And to the sons  of his concubines Abraham gave gifts. And he sent them from Isaac  his son \[while\] he was still living towards \[the\] east into \[the\] land of \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
-<small><sub>**BSB:**</sub></small>
-But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.5|<< Genesis 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.7|Genesis 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

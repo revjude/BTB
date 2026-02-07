@@ -1,4 +1,4 @@
-**Proverbs 19:3** 
+**Proverbs 19:3**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The foolishness of man perverteth his way: and his heart fretteth against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man’s own folly subverts his way, yet his heart rages against the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.2|<< Proverbs 19:2]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.4|Proverbs 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] folly of  |**<big>&#8207;[[H0200\|אִוֶּ֣לֶת]]&#8207; </big>**| 'i.Ve.let<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

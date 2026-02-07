@@ -1,12 +1,12 @@
-**Luke 4:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:44**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he preached in the synagogues of Galilee.
 <small><sub>**BSB:**</sub></small>
 And He continued to preach in the synagogues of Judea.
 <small><sub>**Literal:**</sub></small>
 And He was preaching in the synagogues <the> of Judea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:34** 
 <small><sub>**LXX:**</sub></small>
 Only as lives \[the\] <span class="smallcaps">lord</span>  God of Israel, who detained me today  of doing evil to you, that unless you hastened and came to meet me, not would there have been left behind \[to\] Nabal unto \[the\] light of the morning one urinating against \[the\] wall. 
-<small><sub>**KJV:**</sub></small>
-For in very deed, [as] the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.
-<small><sub>**BSB:**</sub></small>
-Otherwise, as surely as the LORD, the God of Israel, lives, who has restrained me from harming you, if you had not come quickly to meet me, then surely no male belonging to Nabal would have been left alive by morning light.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.33|<< 1 Samuel 25:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.35|1 Samuel 25:35 >>]]</td></tr></table>
 
 | Translation | Greek |

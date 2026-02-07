@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:13** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span>, Ask indeed among \[the\] nations! who heard such causes for shuddering which virgin Israel did exceedingly? 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: “Inquire among the nations: Who has ever heard things like these? Virgin Israel has done a most terrible thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.12|<< Jeremiah 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.14|Jeremiah 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

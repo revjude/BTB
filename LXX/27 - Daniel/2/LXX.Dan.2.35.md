@@ -1,10 +1,7 @@
 **LXX Daniel 2:35** 
 <small><sub>**LXX:**</sub></small>
 Then they were thinned out at once -- the potsherd, the iron, the brass, the silver, the gold; and they became as a cloud of dust from \[the\] threshing-floor at harvest; and the abundance of the wind lifted them away, and no place \[was\] found for them; and the stone which struck the image became a great mountain, and it filled all the earth. 
-<small><sub>**KJV:**</sub></small>
-Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
-<small><sub>**BSB:**</sub></small>
-Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.34|<< Daniel 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.36|Daniel 2:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 2:35** is...

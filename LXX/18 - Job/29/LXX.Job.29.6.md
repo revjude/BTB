@@ -1,10 +1,7 @@
 **LXX Job 29:6** 
 <small><sub>**LXX:**</sub></small>
 when my ways poured forth butter,  and my mountains poured forth milk; 
-<small><sub>**KJV:**</sub></small>
-When I washed my steps with butter, and the rock poured me out rivers of oil;
-<small><sub>**BSB:**</sub></small>
-when my steps were bathed in cream and the rock poured out for me streams of oil!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.5|<< Job 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.7|Job 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

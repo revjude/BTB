@@ -1,10 +1,7 @@
 **LXX Psalm 79:5** 
 <small><sub>**LXX:**</sub></small>
 For how long, O <span class="smallcaps">lord</span>? Will you be provoked to anger to \[the\] end? your zeal burn as fire? 
-<small><sub>**KJV:**</sub></small>
-How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?
-<small><sub>**BSB:**</sub></small>
-How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.4|<< Psalm 79:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.6|Psalm 79:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 6:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:12**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 <small><sub>**BSB:**</sub></small>
 Therefore do not let sin reign in your mortal body so that you obey its desires.
 <small><sub>**Literal:**</sub></small>
 Not therefore should reign <the> sin in the mortal of you body in order <the> to obey it in the desires of it,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.11|<< Romans 6:11]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.13|Romans 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

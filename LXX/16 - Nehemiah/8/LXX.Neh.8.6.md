@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:6** 
 <small><sub>**LXX:**</sub></small>
 And Ezra blessed \[the\] <span class="smallcaps">lord</span>, the great God. And all the people answered, and said, Amen, amen, lifting up  their hands; and they bowed and did obeisance to the <span class="smallcaps">lord</span> with \[their\] face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with [their] faces to the ground.
-<small><sub>**BSB:**</sub></small>
-Then Ezra blessed the LORD, the great God, and with their hands uplifted, all the people said, “Amen, Amen!” Then they bowed down and worshiped the LORD with their faces to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.5|<< Nehemiah 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.7|Nehemiah 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

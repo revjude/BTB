@@ -1,4 +1,4 @@
-**Ecclesiastes 11:8** 
+**Ecclesiastes 11:8**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if a man live many years, [and] rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So if a man lives many years, let him rejoice in them all. But let him remember 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.7|<< Ecclesiastes 11:7]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.9|Ecclesiastes 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

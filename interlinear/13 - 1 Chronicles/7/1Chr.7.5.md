@@ -1,4 +1,4 @@
-**1 Chronicles 7:5** 
+**1 Chronicles 7:5**<big><big>[[1Chr.7.1 The Descendants of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren among all the families of Issachar [were] valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their kinsmen belonging to all the families of Issachar who were mighty men of v
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.4|<< 1 Chronicles 7:4]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.6|1 Chronicles 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

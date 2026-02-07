@@ -1,10 +1,7 @@
 **LXX Isaiah 63:17** 
 <small><sub>**LXX:**</sub></small>
 Why did you wander us, O <span class="smallcaps">lord</span>, from  your way? You hardened  our hearts  to not fear you? Return on account of  your servants! on account of the tribes  of your inheritance. 
-<small><sub>**KJV:**</sub></small>
-O LORD, why hast thou made us to err from thy ways, [and] hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
-<small><sub>**BSB:**</sub></small>
-Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
 
 | Translation | Greek |

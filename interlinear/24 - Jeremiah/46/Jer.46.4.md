@@ -1,4 +1,4 @@
-**Jeremiah 46:4** 
+**Jeremiah 46:4**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Harness the horses; and get up, ye horsemen, and stand forth with [your] helmets; furbish the spears, [and] put on the brigandines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Harness the horses; mount the steeds; take your positions with helmets on! Polis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.3|<< Jeremiah 46:3]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.5|Jeremiah 46:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | harness  |**<big>&#8207;[[H0631\|אִסְר֣וּ]]&#8207; </big>**| 'is.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the horses  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5483M\|סּוּסִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

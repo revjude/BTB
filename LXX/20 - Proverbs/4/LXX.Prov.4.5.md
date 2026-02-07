@@ -1,10 +1,7 @@
 **LXX Proverbs 4:5** 
 <small><sub>**LXX:**</sub></small>
 Acquire wisdom! Acquire understanding! You should not forget, nor should you ignore \[the\] saying of my mouth; nor should you turn aside from \[the\] words of my mouth. 
-<small><sub>**KJV:**</sub></small>
-Get wisdom, get understanding: forget [it] not; neither decline from the words of my mouth.
-<small><sub>**BSB:**</sub></small>
-Get wisdom, get understanding; do not forget my words or turn from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.4|<< Proverbs 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.6|Proverbs 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

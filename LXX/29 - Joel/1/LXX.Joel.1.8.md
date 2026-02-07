@@ -1,10 +1,7 @@
 **LXX Joel 1:8** 
 <small><sub>**LXX:**</sub></small>
 Wail to me more than a bride being girded with sackcloth for the husband of her  virginity. 
-<small><sub>**KJV:**</sub></small>
-Lament like a virgin girded with sackcloth for the husband of her youth.
-<small><sub>**BSB:**</sub></small>
-Wail like a virgin dressed in sackcloth, grieving for the husband of her youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.7|<< Joel 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.9|Joel 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

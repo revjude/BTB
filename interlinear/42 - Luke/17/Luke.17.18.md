@@ -1,12 +1,12 @@
-**Luke 17:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:18**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There are not found that returned to give glory to God, save this stranger.
 <small><sub>**BSB:**</sub></small>
 Was no one found except this foreigner to return and give glory to God?”
 <small><sub>**Literal:**</sub></small>
 None was there found having returned to give glory <the> to God only except <the> foreigner this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.17|<< Luke 17:17]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.19|Luke 17:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | None |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was there found |**<big>[[G2147\|εὑρέθησαν]]</big>**  |heurethēsan <small><sup>[[V-2API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

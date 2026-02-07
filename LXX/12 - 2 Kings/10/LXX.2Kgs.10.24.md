@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they entered  to offer the sacrifices and the whole burnt-offerings. And Jehu stationed for himself outside eighty men. And he said, A man who ever should preserve \[anyone\] of the men whom I bring in unto your hands,  his life will be for  his life. 
-<small><sub>**KJV:**</sub></small>
-And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, [If] any of the men whom I have brought into your hands escape, [he that letteth him go], his life [shall be] for the life of him.
-<small><sub>**BSB:**</sub></small>
-And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and warned them, “If anyone allows one of the men I am delivering into your hands to escape, he will forfeit his life for theirs.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.23|<< 2 Kings 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.25|2 Kings 10:25 >>]]</td></tr></table>
 
 | Translation | Greek |

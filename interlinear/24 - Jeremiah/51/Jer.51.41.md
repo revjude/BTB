@@ -1,4 +1,4 @@
-**Jeremiah 51:41** 
+**Jeremiah 51:41**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is Sheshach taken! and how is the praise of the whole earth surprised! how is Babylon become an astonishment among the nations!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How Sheshach has been captured! The praise of all the earth has been seized. Wha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.40|<< Jeremiah 51:40]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.42|Jeremiah 51:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֚יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be captured  |**<big>&#8207;[[H3920\|נִלְכְּדָ֣ה]]&#8207; </big>**| nil.ke.Dah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

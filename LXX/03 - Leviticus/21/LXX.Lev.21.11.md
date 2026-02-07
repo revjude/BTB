@@ -1,10 +1,7 @@
 **LXX Leviticus 21:11** 
 <small><sub>**LXX:**</sub></small>
 and he shall not enter unto any soul coming to an end; he shall not be defiled by his father nor by his mother. 
-<small><sub>**KJV:**</sub></small>
-Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;
-<small><sub>**BSB:**</sub></small>
-He must not go near any dead body; he must not defile himself, even for his father or mother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.10|<< Leviticus 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.12|Leviticus 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

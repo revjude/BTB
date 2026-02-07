@@ -1,4 +1,4 @@
-**1 Samuel 15:27** 
+**1 Samuel 15:27**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Samuel turned to go, Saul grabbed the hem of his robe, and it tore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.26|<< 1 Samuel 15:26]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.28|1 Samuel 15:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned round  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|יִּסֹּ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.So<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֖ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

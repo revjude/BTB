@@ -1,12 +1,12 @@
-**Acts 10:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:36**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The word which [God] sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 <small><sub>**BSB:**</sub></small>
 He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all.
 <small><sub>**Literal:**</sub></small>
 the word that He sent to the sons of Israel evangelising [about] peace through Jesus Christ — He is of all Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.35|<< Acts 10:35]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.37|Acts 10:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | word |**<big>[[G3056\|λόγον]]</big>**  |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

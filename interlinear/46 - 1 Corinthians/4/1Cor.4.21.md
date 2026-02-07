@@ -1,12 +1,12 @@
-**1 Corinthians 4:21
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:21**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What will ye? shall I come unto you with a rod, or in love, and [in] the spirit of meekness?
 <small><sub>**BSB:**</sub></small>
 Which do you prefer? Shall I come to you with a rod, or in love and with a gentle spirit?
 <small><sub>**Literal:**</sub></small>
 What desire you? With a rod I may come to you or in love a spirit then of gentleness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.20|<< 1 Corinthians 4:20]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.1|1 Corinthians 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | desire you? |**<big>[[G2309\|θέλετε;]]</big>**  |thelete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

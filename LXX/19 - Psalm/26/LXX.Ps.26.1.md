@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Judge me, O <span class="smallcaps">lord</span>! for I went in my innocence, and hoping upon the <span class="smallcaps">lord</span>. In no way should I weaken. 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; [therefore] I shall not slide.
-<small><sub>**BSB:**</sub></small>
-Of David. Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.22|<< Psalm 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.2|Psalm 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

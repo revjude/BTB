@@ -1,4 +1,4 @@
-**Isaiah 43:26** 
+**Isaiah 43:26**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remind Me, let us argue the matter together. State your case, so that you may be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.25|<< Isaiah 43:25]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.27|Isaiah 43:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cause to remember me  |**<big>&#8207;[[H2142\|הַזְכִּירֵ֕]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| haz.ki.Re.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us enter into judgment  |**<big>&#8207;[[H8199\|נִשָּׁפְטָ֖ה]]&#8207; </big>**| ni.sha.fe.Tah<small><sup>[[HVNc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

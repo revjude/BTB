@@ -1,4 +1,4 @@
-**1 Kings 7:19** 
+**1 Kings 7:19**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chapiters that [were] upon the top of the pillars [were] of lily work in the porch, four cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the capitals atop the pillars in the portico were shaped like lilies, four c
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.18|<< 1 Kings 7:18]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.20|1 Kings 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] capitals  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3805\|כֹֽתָרֹ֗ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.ta.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

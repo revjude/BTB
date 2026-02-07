@@ -1,4 +1,4 @@
-**Job 8:18** 
+**Job 8:18**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he destroy him from his place, then [it] shall deny him, [saying], I have not seen thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he is uprooted from his place, it will disown him, saying, ‘I never saw you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.17|<< Job 8:17]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.19|Job 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone will swallow it  |**<big>&#8207;[[H1104\|יְבַלְּעֶ֥]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ye.val.le.'E.<small><sup>[[HVpi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

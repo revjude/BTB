@@ -1,4 +1,4 @@
-**Daniel 2:28** 
+**Daniel 2:28**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there is a God in heaven who reveals mysteries, and He has made known to Kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.27|<< Daniel 2:27]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.29|Daniel 2:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H1297\|בְּרַ֡ם]]&#8207; </big>**| be.Ram<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H0383\|אִיתַ֞י]]&#8207; </big>**| 'i.Tai<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

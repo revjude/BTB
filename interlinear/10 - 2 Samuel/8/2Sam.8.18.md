@@ -1,4 +1,4 @@
-**2 Samuel 8:18** 
+**2 Samuel 8:18**<big><big>[[2Sam.8.15 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benaiah the son of Jehoiada [was over] both the Cherethites and the Pelethites; and David’s sons were chief rulers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.17|<< 2 Samuel 8:17]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.1|2 Samuel 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Benaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1141G\|בְנָיָ֙הוּ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

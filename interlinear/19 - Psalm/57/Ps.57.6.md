@@ -1,4 +1,4 @@
-**Psalms 57:6** (57:7)
+**Psalms 57:6**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen [themselves]. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They spread a net for my feet; my soul was despondent. They dug a pit before me,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.5|<< Psalms 57:5]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.7|Psalms 57:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a net  |**<big>&#8207;[[H7568\|רֶ֤שֶׁת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Re.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they prepared  |**<big>&#8207;[[H3559H\|הֵכִ֣ינוּ]]&#8207; </big>**| he.Khi.nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

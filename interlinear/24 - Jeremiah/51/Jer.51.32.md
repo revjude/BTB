@@ -1,4 +1,4 @@
-**Jeremiah 51:32** 
+**Jeremiah 51:32**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that the passages are stopped, and the reeds they have burned with fire, and the men of war are affrighted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fords have been seized, the marshes set on fire, and the soldiers are terrif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.31|<< Jeremiah 51:31]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.33|Jeremiah 51:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the fords  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4569B\|מַּעְבָּר֣וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ma'.ba.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been seized  |**<big>&#8207;[[H8610\|נִתְפָּ֔שׂוּ]]&#8207; </big>**| nit.Pa.su<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 12:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:19**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, [and] be merry.
 <small><sub>**BSB:**</sub></small>
 Then I will say to myself, “You have plenty of good things laid up for many years. Take it easy. Eat, drink, and be merry!”’
 <small><sub>**Literal:**</sub></small>
 And I will say to the soul of mine; Soul, you have many good things laid up for years many. do rest yourself do eat, do drink, do be merry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.18|<< Luke 12:18]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.20|Luke 12:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will say |**<big>[[G4483\|ἐρῶ]]</big>**  |erō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

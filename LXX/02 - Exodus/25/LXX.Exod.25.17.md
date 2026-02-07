@@ -1,10 +1,7 @@
 **LXX Exodus 25:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall make an atonement-seat, a lid of pure gold; two cubits and a half \[is\] the length, and a cubit and a half the width. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make a mercy seat [of] pure gold: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof.
-<small><sub>**BSB:**</sub></small>
-And you are to construct a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.16|<< Exodus 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.18|Exodus 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

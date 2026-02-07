@@ -1,4 +1,4 @@
-**Ezekiel 24:4** 
+**Ezekiel 24:4**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather the pieces thereof into it, [even] every good piece, the thigh, and the shoulder; fill [it] with the choice bones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put in the pieces of meat, every good piece—thigh and shoulder—fill it with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.3|<< Ezekiel 24:3]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.5|Ezekiel 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gather  |**<big>&#8207;[[H0622\|אֱסֹ֤ף]]&#8207; </big>**| 'e.Sof<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pieces of meat its  |**<big>&#8207;[[H5409\|נְתָחֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ne.ta.Chei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

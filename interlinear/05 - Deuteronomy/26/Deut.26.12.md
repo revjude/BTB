@@ -1,4 +1,4 @@
-**Deuteronomy 26:12** 
+**Deuteronomy 26:12**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou hast made an end of tithing all the tithes of thine increase the third year, [which is] the year of tithing, and hast given [it] unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you have finished laying aside a tenth of all your produce in the third yea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.11|<< Deuteronomy 26:11]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.13|Deuteronomy 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will finish  |**<big>&#8207;[[H3615G\|תְכַלֶּ֞ה]]&#8207; </big>**| te.kha.Leh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

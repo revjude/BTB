@@ -1,10 +1,7 @@
 **LXX Job 41:17** 
 <small><sub>**LXX:**</sub></small>
 as a man \[to\] his brother they shall be cleaved; they are held together, and in no way draw apart. 
-<small><sub>**KJV:**</sub></small>
-They are joined one to another, they stick together, that they cannot be sundered.
-<small><sub>**BSB:**</sub></small>
-They are joined to one another; they clasp and cannot be separated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.18|Job 41:18 >>]]</td></tr></table>
 
 | Translation | Greek |

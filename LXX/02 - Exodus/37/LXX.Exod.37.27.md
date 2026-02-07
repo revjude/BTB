@@ -1,10 +1,7 @@
 **LXX Exodus 37:27** 
 <small><sub>**LXX:**</sub></small>
 And two rings of pure gold he made for it under  \[its\] twisted rim for  \[its\] two corners on  \[its\] two sides for holders for the bearing poles to lift it by them. 
-<small><sub>**KJV:**</sub></small>
-And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal.
-<small><sub>**BSB:**</sub></small>
-He made two gold rings below the molding on opposite sides to hold the poles used to carry it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.26|<< Exodus 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.28|Exodus 37:28 >>]]</td></tr></table>
 
 | Translation | Greek |

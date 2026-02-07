@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:12** 
 <small><sub>**LXX:**</sub></small>
 And the oxen straightened out in the journey on the way to Beth-Shemesh, in a road in  \[its\] going, and they labored, and they turned not aside right nor left; and the satraps of the Philistines went after them unto \[the\] borders of Beth-shemesh. 
-<small><sub>**KJV:**</sub></small>
-And the kine took the straight way to the way of Bethshemesh, [and] went along the highway, lowing as they went, and turned not aside [to] the right hand or [to] the left; and the lords of the Philistines went after them unto the border of Bethshemesh.
-<small><sub>**BSB:**</sub></small>
-And the cows headed straight up the road toward Beth-shemesh, staying on that one highway and lowing as they went, never straying to the right or to the left. The rulers of the Philistines followed behind them to the border of Beth-shemesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.11|<< 1 Samuel 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.13|1 Samuel 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

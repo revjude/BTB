@@ -1,12 +1,12 @@
-**Luke 12:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:47**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that servant, which knew his lord’s will, and prepared not [himself], neither did according to his will, shall be beaten with many [stripes].
 <small><sub>**BSB:**</sub></small>
 That servant who knows his master’s will but does not get ready or follow his instructions will be beaten with many blows.
 <small><sub>**Literal:**</sub></small>
 That [very] now <the> servant the [one] having known the will of the master of him and not having prepared or having done according to the will of him will be beaten with many [blows].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.46|<< Luke 12:46]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.48|Luke 12:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That [very] |**<big>[[G1565\|Ἐκεῖνος]]</big>**  |Ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

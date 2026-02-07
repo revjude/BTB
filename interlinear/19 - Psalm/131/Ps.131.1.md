@@ -1,12 +1,12 @@
-**Psalms 131:1** 
+**Psalms 131:1**<big><big>[[Ps.131.1 I Have Stilled My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
+LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.131.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.131.0|<< Psalms 131:0]]</td><td align="center" style="border:none;">[[Ps.131|Psalms 131]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131.2|Psalms 131:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

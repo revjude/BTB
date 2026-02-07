@@ -1,10 +1,7 @@
 **LXX Psalm 11:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] in his holy temple; \[the\] <span class="smallcaps">lord</span> \[is\] in heaven  his throne;  his eyes pay attention unto the needy;  his eyelids inquire diligently of the sons  of men. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] in his holy temple, the LORD’S throne [is] in heaven: his eyes behold, his eyelids try, the children of men.
-<small><sub>**BSB:**</sub></small>
-The LORD is in His holy temple; the LORD is on His heavenly throne. His eyes are watching closely; they examine the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.3|<< Psalm 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.5|Psalm 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

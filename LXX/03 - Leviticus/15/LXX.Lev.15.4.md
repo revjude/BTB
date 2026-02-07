@@ -1,10 +1,7 @@
 **LXX Leviticus 15:4** 
 <small><sub>**LXX:**</sub></small>
 Every bed upon which ever he should go to bed upon it, the one having a seminal emission, it is unclean; and every item upon which ever he should sit upon it, the one having a seminal emission, it is unclean. 
-<small><sub>**KJV:**</sub></small>
-Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.
-<small><sub>**BSB:**</sub></small>
-Any bed on which the man with the discharge lies will be unclean, and any furniture on which he sits will be unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.3|<< Leviticus 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.5|Leviticus 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

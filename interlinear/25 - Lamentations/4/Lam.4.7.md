@@ -1,4 +1,4 @@
-**Lamentations 4:7** 
+**Lamentations 4:7**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing [was] of sapphire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her dignitaries were brighter than snow, whiter than milk; their bodies were mor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were bright  |**<big>&#8207;[[H2141\|זַכּ֤וּ]]&#8207; </big>**| za.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ones of high rank its  |**<big>&#8207;[[H5139\|נְזִירֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ne.zi.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 John 3:16
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:16**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hereby perceive we the love [of God], because he laid down his life for us: and we ought to lay down [our] lives for the brethren.
 <small><sub>**BSB:**</sub></small>
 By this we know what love is: Jesus laid down His life for us, and we ought to lay down our lives for our brothers.
 <small><sub>**Literal:**</sub></small>
 By this we have known <the> love because He for us the life of Him laid down; and we ourselves ought for <the> [our] brothers <the> [our] lives to lay down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.15|<< 1 John 3:15]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.17|1 John 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 1:49
-**<small><sub>**KJV:**</sub></small>
+**John 1:49**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.
 <small><sub>**BSB:**</sub></small>
 “Rabbi,” Nathanael answered, “You are the Son of God! You are the King of Israel!”
 <small><sub>**Literal:**</sub></small>
 Answered to him Nathanael and says: Rabbi, You yourself are the Son <the> of God, You yourself <the> King are <the> of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.48|<< John 1:48]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.50|John 1:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |

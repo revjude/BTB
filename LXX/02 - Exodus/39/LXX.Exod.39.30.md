@@ -1,10 +1,7 @@
 **LXX Exodus 39:30** 
 <small><sub>**LXX:**</sub></small>
 And they made the golden panel, a separation \[offering\] for the holy \[place\], of pure gold. And they wrote upon it letters being shaped as of a seal, Sanctified \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they made the plate of the holy crown [of] pure gold, and wrote upon it a writing, [like to] the engravings of a signet, HOLINESS TO THE LORD.
-<small><sub>**BSB:**</sub></small>
-They also made the plate of the holy crown of pure gold, and they engraved on it, like an inscription on a seal: HOLY TO THE LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.29|<< Exodus 39:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.31|Exodus 39:31 >>]]</td></tr></table>
 
 | Translation | Greek |

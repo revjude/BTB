@@ -1,4 +1,4 @@
-**Daniel 11:3** 
+**Daniel 11:3**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a mighty king will arise, who will rule with great authority and do as he p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.2|<< Daniel 11:2]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.4|Daniel 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will arise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975I\|עָמַ֖ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a king  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

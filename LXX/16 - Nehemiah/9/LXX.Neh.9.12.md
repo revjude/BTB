@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:12** 
 <small><sub>**LXX:**</sub></small>
 And in a column of cloud you guided them by day; and by a column of fire  at night,  to give light to them for the way in which they went by it. 
-<small><sub>**KJV:**</sub></small>
-Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.
-<small><sub>**BSB:**</sub></small>
-You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.11|<< Nehemiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.13|Nehemiah 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

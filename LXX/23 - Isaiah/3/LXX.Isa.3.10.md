@@ -1,10 +1,7 @@
 **LXX Isaiah 3:10** 
 <small><sub>**LXX:**</sub></small>
 having said, We should bind the just, for he is inconvenient to us; therefore the produce  of their works they shall eat. 
-<small><sub>**KJV:**</sub></small>
-Say ye to the righteous, that [it shall be] well [with him]: for they shall eat the fruit of their doings.
-<small><sub>**BSB:**</sub></small>
-Tell the righteous it will be well with them, for they will enjoy the fruit of their labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.9|<< Isaiah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.11|Isaiah 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

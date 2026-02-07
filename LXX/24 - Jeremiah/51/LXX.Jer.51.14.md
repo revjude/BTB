@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:14** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> swore by an oath according to  his arm, \[saying\], For I shall fill you of men as locusts, and the ones going down shall utter a sound against you; 
-<small><sub>**KJV:**</sub></small>
-The LORD of hosts hath sworn by himself, [saying], Surely I will fill thee with men, as with caterpillers; and they shall lift up a shout against thee.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts has sworn by Himself: “Surely I will fill you up with men as with locusts, and they will shout in triumph over you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.13|<< Jeremiah 51:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.15|Jeremiah 51:15 >>]]</td></tr></table>
 
 | Translation | Greek |

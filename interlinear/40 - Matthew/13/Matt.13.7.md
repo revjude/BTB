@@ -1,12 +1,12 @@
-**Matthew 13:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:7**<big><big>[[Matt.13.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some fell among thorns; and the thorns sprung up, and choked them:
 <small><sub>**BSB:**</sub></small>
 Other seed fell among thorns, which grew up and choked the seedlings.
 <small><sub>**Literal:**</sub></small>
 Other now fell upon the thorns, and grew up the thorns and choked them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.6|<< Matthew 13:6]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.8|Matthew 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Other |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

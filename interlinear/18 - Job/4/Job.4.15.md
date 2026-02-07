@@ -1,4 +1,4 @@
-**Job 4:15** 
+**Job 4:15**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then a spirit passed before my face; the hair of my flesh stood up:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a spirit glided past my face, and the hair on my body bristled.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.14|<< Job 4:14]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.16|Job 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a wind  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7307G\|רוּחַ]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

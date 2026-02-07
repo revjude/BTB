@@ -1,10 +1,7 @@
 **LXX Psalm 30:5** 
 <small><sub>**LXX:**</sub></small>
 For wrath \[is\] in  his rage, but life \[is\] in  his will. Weeping shall lodge the evening, but in the morning, exultation. 
-<small><sub>**KJV:**</sub></small>
-For his anger [endureth but] a moment; in his favour [is] life: weeping may endure for a night, but joy [cometh] in the morning.
-<small><sub>**BSB:**</sub></small>
-For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.4|<< Psalm 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.6|Psalm 30:6 >>]]</td></tr></table>
 
 | Translation | Greek |

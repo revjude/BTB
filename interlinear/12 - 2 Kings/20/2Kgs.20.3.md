@@ -1,4 +1,4 @@
-**2 Kings 20:3** 
+**2 Kings 20:3**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I beseech thee, O LORD, remember now how I have walked before thee in truth and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.2|<< 2 Kings 20:2]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.4|2 Kings 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I beg you  |**<big>&#8207;[[H0577\|אָנָּ֣ה]]&#8207; </big>**| 'a.Nah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

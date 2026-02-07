@@ -1,10 +1,7 @@
 **LXX Exodus 29:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall place the mitre upon  his head; and you shall place the sanctified panel upon the mitre. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.
-<small><sub>**BSB:**</sub></small>
-Put the turban on his head and attach the holy diadem to the turban.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.5|<< Exodus 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.7|Exodus 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

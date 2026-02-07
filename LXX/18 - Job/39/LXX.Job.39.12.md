@@ -1,10 +1,7 @@
 **LXX Job 39:12** 
 <small><sub>**LXX:**</sub></small>
 And do you trust that he will give back to you the seed, and carry it into your  threshing-floor? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou believe him, that he will bring home thy seed, and gather [it into] thy barn?
-<small><sub>**BSB:**</sub></small>
-Can you trust him to bring in your grain and gather it to your threshing floor?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.11|<< Job 39:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.13|Job 39:13 >>]]</td></tr></table>
 
 | Translation | Greek |

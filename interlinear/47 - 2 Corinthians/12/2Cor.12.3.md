@@ -1,12 +1,12 @@
-**2 Corinthians 12:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:3**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
 <small><sub>**BSB:**</sub></small>
 And I know that this man—whether in the body or out of it I do not know, but God knows—
 <small><sub>**Literal:**</sub></small>
 And I know <the> such a man — whether in [the] body or out of the body, not I know, <the> God knows —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.2|<< 2 Corinthians 12:2]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.4|2 Corinthians 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

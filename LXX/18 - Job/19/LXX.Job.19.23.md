@@ -1,10 +1,7 @@
 **LXX Job 19:23** 
 <small><sub>**LXX:**</sub></small>
 For what that my words might be given to be written, and to put them in a scroll for the eon; 
-<small><sub>**KJV:**</sub></small>
-Oh that my words were now written! oh that they were printed in a book!
-<small><sub>**BSB:**</sub></small>
-I wish that my words were recorded and inscribed in a book,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.22|<< Job 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.24|Job 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

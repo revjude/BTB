@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:11** 
 <small><sub>**LXX:**</sub></small>
 And she became a rod of strength over a tribe of ones leading; and she was raised up high in her greatness in \[the\] midst of \[the\] trunks; and she beheld  her greatness in \[the\] multitude of her branches. 
-<small><sub>**KJV:**</sub></small>
-And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
-<small><sub>**BSB:**</sub></small>
-It had strong branches, fit for a ruler’s scepter. It towered high above the thick branches, conspicuous for its height and for its dense foliage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.10|<< Ezekiel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.12|Ezekiel 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

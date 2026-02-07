@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, You have seen, O son of man, is it a small \[thing\] to the house of Judah  to commit the lawless deeds which they have done here? For they filled the land of lawlessness, and returned  to provoke me to anger. And behold, these stretch out the vine branch as ones sneering. 
-<small><sub>**KJV:**</sub></small>
-Then he said unto me, Hast thou seen [this], O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “do you see this? Is it not enough for the house of Judah to commit the abominations they are practicing here, that they must also fill the land with violence and continually provoke Me to anger? Look, they are even putting the branch to their nose!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.16|<< Ezekiel 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.18|Ezekiel 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

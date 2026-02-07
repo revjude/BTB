@@ -1,4 +1,4 @@
-**Psalms 107:29** 
+**Psalms 107:29**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh the storm a calm, so that the waves thereof are still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He calmed the storm to a whisper, and the waves of the sea were hushed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.28|<< Psalms 107:28]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.30|Psalms 107:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he raised  |**<big>&#8207;[[H6965I\|יָקֵ֣ם]]&#8207; </big>**| ya.Kem<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] storm  |**<big>&#8207;[[H5591B\|סְ֭עָרָה]]&#8207; </big>**| Se.'a.rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

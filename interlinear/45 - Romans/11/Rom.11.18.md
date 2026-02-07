@@ -1,12 +1,12 @@
-**Romans 11:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:18**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
 <small><sub>**BSB:**</sub></small>
 do not boast over those branches. If you do, remember this: You do not support the root, but the root supports you.
 <small><sub>**Literal:**</sub></small>
 not do boast over the branches; If now you boast against [them], not you yourself the root support but the root you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.17|<< Romans 11:17]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.19|Romans 11:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do boast |**<big>[[G2620\|κατακαυχῶ]]</big>**  |katakauchō <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 27:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:16**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had then a notable prisoner, called Barabbas.
 <small><sub>**BSB:**</sub></small>
 At that time they were holding a notorious prisoner named Barabbas.
 <small><sub>**Literal:**</sub></small>
 They were holding now at that time a prisoner notable  being named Jesus Barabbas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.15|<< Matthew 27:15]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.17|Matthew 27:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were holding |**<big>[[G2192\|εἶχον]]</big>**  |eichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

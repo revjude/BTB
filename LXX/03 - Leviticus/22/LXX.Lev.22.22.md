@@ -1,10 +1,7 @@
 **LXX Leviticus 22:22** 
 <small><sub>**LXX:**</sub></small>
 Blind, or broken, or with the tongue cut out, or troubled with warts, or chronic mange, or having scabs -- they shall not bring these to the <span class="smallcaps">lord</span>; and for a yield \[offering\] you shall not give of them upon the altar to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You are not to present to the LORD any animal that is blind, injured, or maimed, or anything with a running sore, a festering rash, or a scab; you must not put any of these on the altar as a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.21|<< Leviticus 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.23|Leviticus 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

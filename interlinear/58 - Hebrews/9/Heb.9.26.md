@@ -1,12 +1,12 @@
-**Hebrews 9:26
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:26**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.
 <small><sub>**BSB:**</sub></small>
 Otherwise, Christ would have had to suffer repeatedly since the foundation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself.
 <small><sub>**Literal:**</sub></small>
 Otherwise it was necessary for Him repeatedly to have suffered from [the] foundation of [the] world, now however once in [the] consummation of the ages for [the] putting away <the> of sin through the sacrifice of Himself He has been revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.25|<< Hebrews 9:25]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.27|Hebrews 9:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Otherwise |**<big>[[G1893\|ἐπεὶ]]</big>**  |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was necessary for |**<big>[[G1163\|ἔδει]]</big>**  |edei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

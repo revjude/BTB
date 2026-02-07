@@ -1,10 +1,7 @@
 **LXX Judges 9:15** 
 <small><sub>**LXX:**</sub></small>
 And the white-thorn shrub said to the trees, If in truth you anoint me yourselves  to reign over you, come rely in  my protection; and if not fire come forth from the white-thorn shrub, and may it devour the cedars  of Lebanon. 
-<small><sub>**KJV:**</sub></small>
-And the bramble said unto the trees, If in truth ye anoint me king over you, [then] come [and] put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
-<small><sub>**BSB:**</sub></small>
-But the thornbush replied, ‘If you really are anointing me as king over you, come and find refuge in my shade. But if not, may fire come out of the thornbush and consume the cedars of Lebanon.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.14|<< Judges 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.16|Judges 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

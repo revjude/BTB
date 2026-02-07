@@ -1,5 +1,5 @@
-**Acts 7:47
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:47**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Solomon built him an house.
 <small><sub>**BSB:**</sub></small>
 But it was Solomon who built the house for Him.
@@ -10,7 +10,7 @@ Solomon however built for Him [the] house.<br><table width="100%" border="0"><tr
 > $\quad$ alluding to: [[LXX.1Kgs.8.13|1Kgs 8:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Solomon |**<big>[[G4672G\|Σολομὼν]]</big>**  |Solomōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 58:11** 
+**Isaiah 58:11**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD will always guide you; He will satisfy you in a sun-scorched land and s
 > $\quad$ referenced by: [[John.7.38|John 7:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lead you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5148\|נָחֲ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.cha.<small><sup>[[HVqq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

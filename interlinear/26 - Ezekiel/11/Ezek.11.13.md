@@ -1,4 +1,4 @@
-**Ezekiel 11:13** 
+**Ezekiel 11:13**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GOD! wilt thou make a full end of the remnant of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.12|<< Ezekiel 11:12]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.14|Ezekiel 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when prophesied I  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5012\|הִנָּ֣בְאִ֔]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> hi.Na.ve.'<small><sup>[[HVNcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

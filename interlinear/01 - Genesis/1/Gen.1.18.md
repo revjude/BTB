@@ -1,4 +1,4 @@
-**Genesis 1:18** 
+**Genesis 1:18**<big><big>[[Gen.1.14 The Fourth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to rule over the day and over the night, and to divide the light from the darkness: and God saw that [it was] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to preside over the day and the night, and to separate the light from the darkne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.17|<< Genesis 1:17]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.19|Genesis 1:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to rule  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4910\|מְשֹׁל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> m.Shol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

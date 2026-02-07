@@ -1,4 +1,4 @@
-**2 Chronicles 32:9** 
+**2 Chronicles 32:9**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he [himself laid siege] against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that [were] at Jerusalem, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, as Sennacherib king of Assyria and all his forces besieged Lachish, he se
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.8|<< 2 Chronicles 32:8]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.10|2 Chronicles 32:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַ֣חַר]]&#8207; </big>**| 'A.char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֗ה]]&#8207; </big>**| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

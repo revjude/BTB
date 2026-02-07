@@ -1,4 +1,4 @@
-**Jeremiah 44:12** 
+**Jeremiah 44:12**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, [and] fall in the land of Egypt; they shall [even] be consumed by the sword [and] by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, [and] an astonishment, and a curse, and a reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will take away the remnant of Judah who have resolved to go to the land of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.11|<< Jeremiah 44:11]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.13|Jeremiah 44:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will take away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתִּ֞י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

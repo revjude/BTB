@@ -1,12 +1,12 @@
-**John 10:19
-**<small><sub>**KJV:**</sub></small>
+**John 10:19**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There was a division therefore again among the Jews for these sayings.
 <small><sub>**BSB:**</sub></small>
 Again there was division among the Jews because of Jesus’ message.
 <small><sub>**Literal:**</sub></small>
 Division therefore again there was among the Jews on account of <the> words these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.18|<< John 10:18]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.20|John 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Division |**<big>[[G4978\|Σχίσμα]]</big>**  |Schisma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

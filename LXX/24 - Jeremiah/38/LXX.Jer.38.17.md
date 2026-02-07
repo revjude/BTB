@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:17** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to him, Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, If by going forth you should go forth to \[the\] governors of \[the\] king of Babylon, your soul shall live, and  this city in no way shall be incinerated by fire; and you shall live, and  your family. 
-<small><sub>**KJV:**</sub></small>
-Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah said to Zedekiah, “This is what the LORD God of Hosts, the God of Israel, says: ‘If you indeed surrender to the officers of the king of Babylon, then you will live, this city will not be burned down, and you and your household will survive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.16|<< Jeremiah 38:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.18|Jeremiah 38:18 >>]]</td></tr></table>
 
 | Translation | Greek |

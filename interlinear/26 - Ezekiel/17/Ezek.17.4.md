@@ -1,4 +1,4 @@
-**Ezekiel 17:4** 
+**Ezekiel 17:4**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He plucked off its topmost shoot, carried it to the land of merchants, and plant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.3|<< Ezekiel 17:3]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.5|Ezekiel 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] top  |**<big>&#8207;[[H7218I\|רֹ֥אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 50**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49|<< Psalm 49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51|Psalm 51 >>]]</td></tr></table>
 
-***The Mighty One Calls*** ^bsb1343
+<big><big>[[Ps.50.1 The Mighty One Calls|⥃]]</big></big>***The Mighty One Calls***
 
 
 

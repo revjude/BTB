@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:14** 
 <small><sub>**LXX:**</sub></small>
 And he shall prepare a gift \[offering\] for it, morning \[by\] morning, the sixth  of a measure, and olive oil the third  of a hin  to intermingle with the fine flour as a gift \[offering\] to the <span class="smallcaps">lord</span>, a continual order. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You are also to provide with it every morning a grain offering of a sixth of an ephah with a third of a hin of oil to moisten the fine flour—a grain offering to the LORD. This is a permanent statute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.13|<< Ezekiel 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.15|Ezekiel 46:15 >>]]</td></tr></table>
 
 | Translation | Greek |

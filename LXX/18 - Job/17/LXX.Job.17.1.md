@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I am destroyed, being borne by a wind; and I beseech a burial, and attain it not. 
-<small><sub>**KJV:**</sub></small>
-My breath is corrupt, my days are extinct, the graves [are ready] for me.
-<small><sub>**BSB:**</sub></small>
-“My spirit is broken; my days are extinguished; the grave awaits me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.22|<< Job 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.2|Job 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

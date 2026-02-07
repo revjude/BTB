@@ -1,10 +1,7 @@
 **LXX Numbers 28:9** 
 <small><sub>**LXX:**</sub></small>
 And in the day of the Sabbaths you shall lead forward two lambs of a year \[old\], unblemished; and two tenths of fine flour being prepared in olive oil for a sacrifice \[offering\] and its libation; 
-<small><sub>**KJV:**</sub></small>
-And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour [for] a meat offering, mingled with oil, and the drink offering thereof:
-<small><sub>**BSB:**</sub></small>
-On the Sabbath day, present two unblemished year-old male lambs, accompanied by a grain offering of two-tenths of an ephah of fine flour mixed with oil, as well as a drink offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.8|<< Numbers 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.10|Numbers 28:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 28:9** is...

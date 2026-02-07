@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:3** 
 <small><sub>**LXX:**</sub></small>
 And he was with her in \[the\] house of \[the\] <span class="smallcaps">lord</span> being hid six years. And Athaliah reigned over the land. 
-<small><sub>**KJV:**</sub></small>
-And he was with her hid in the house of the LORD six years. And Athaliah did reign over the land.
-<small><sub>**BSB:**</sub></small>
-And Joash remained hidden with his nurse in the house of the LORD for six years while Athaliah ruled the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.2|<< 2 Kings 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.4|2 Kings 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

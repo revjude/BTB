@@ -1,4 +1,4 @@
-**1 Samuel 17:50** 
+**1 Samuel 17:50**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but [there was] no sword in the hand of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus David prevailed over the Philistine with a sling and a stone; without a swo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.49|<< 1 Samuel 17:49]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.51|1 Samuel 17:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was strong  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388J\|יֶּחֱזַ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Zak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֤ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 20:5** (20:6)
+**Psalms 20:5**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will rejoice in thy salvation, and in the name of our God we will set up [our] banners: the LORD fulfil all thy petitions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May we shout for joy at your victory and raise a banner in the name of our God. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.4|<< Psalms 20:4]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.6|Psalms 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we will shout for joy  |**<big>&#8207;[[H7442B\|נְרַנְּנָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ne.ra.ne.Nah<small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at victory your  |**<big>&#8207;[[H9003\|בִּ֘]]&#8207;&#8207;[[H3444\|ישׁ֤וּעָתֶ֗]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Shu.'a.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:7** 
 <small><sub>**LXX:**</sub></small>
 I have abandoned  my house; I let go  of my inheritance; I gave the one being loved of my soul into \[the\] hands of her enemies. 
-<small><sub>**KJV:**</sub></small>
-I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.
-<small><sub>**BSB:**</sub></small>
-I have forsaken My house; I have abandoned My inheritance. I have given the beloved of My soul into the hands of her enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.6|<< Jeremiah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.8|Jeremiah 12:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 12:7** is...

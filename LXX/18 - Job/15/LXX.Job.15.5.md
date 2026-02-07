@@ -1,10 +1,7 @@
 **LXX Job 15:5** 
 <small><sub>**LXX:**</sub></small>
 You are liable \[by the\] sayings of your mouth, of which you litigated sayings of mighty ones. 
-<small><sub>**KJV:**</sub></small>
-For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
-<small><sub>**BSB:**</sub></small>
-For your iniquity instructs your mouth, and you choose the language of the crafty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.4|<< Job 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.6|Job 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

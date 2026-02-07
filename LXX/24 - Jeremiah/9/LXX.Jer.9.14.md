@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:14** 
 <small><sub>**LXX:**</sub></small>
 but went after the \[things\] pleasing  their heart -- the evil \[thing\]; and after the idols which their fathers taught them \[to worship\]. 
-<small><sub>**KJV:**</sub></small>
-But have walked after the imagination of their own heart, and after Baalim, which their fathers taught them:
-<small><sub>**BSB:**</sub></small>
-Instead, they have followed the stubbornness of their hearts and gone after the Baals, as their fathers taught them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.13|<< Jeremiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.15|Jeremiah 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

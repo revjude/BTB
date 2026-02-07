@@ -1,4 +1,4 @@
-**Hosea 11:3** 
+**Hosea 11:3**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It was I who taught Ephraim to walk, taking them by the arms, but they never rea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.2|<< Hosea 11:2]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.4|Hosea 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I taught to walk  |**<big>&#8207;[[H8637\|תִרְגַּ֙לְתִּי֙]]&#8207; </big>**| tir.Gal.ti<small><sup>[[HVcp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

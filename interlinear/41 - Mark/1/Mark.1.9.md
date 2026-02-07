@@ -1,12 +1,12 @@
-**Mark 1:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:9**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
 <small><sub>**BSB:**</sub></small>
 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
 <small><sub>**Literal:**</sub></small>
 And it came to pass in those <the> days [that] came Jesus from Nazareth <the> of Galilee and was baptized in the Jordan by John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.8|<< Mark 1:8]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.10|Mark 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

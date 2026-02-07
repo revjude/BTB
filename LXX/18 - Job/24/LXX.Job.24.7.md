@@ -1,10 +1,7 @@
 **LXX Job 24:7** 
 <small><sub>**LXX:**</sub></small>
 They rested many naked without clothes; and they removed clothing \[necessary for\] their life. 
-<small><sub>**KJV:**</sub></small>
-They cause the naked to lodge without clothing, that [they have] no covering in the cold.
-<small><sub>**BSB:**</sub></small>
-Without clothing, they spend the night naked; they have no covering against the cold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.6|<< Job 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.8|Job 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

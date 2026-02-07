@@ -1,4 +1,4 @@
-**Ezekiel 21:20** (21:25)
+**Ezekiel 21:20**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Appoint a way, that the sword may come to Rabbath of the Ammonites, and to Judah in Jerusalem the defenced.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mark out one road for the sword to come against Rabbah of the Ammonites, and ano
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.19|<< Ezekiel 21:19]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.21|Ezekiel 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a road  |**<big>&#8207;[[H1870K\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make  |**<big>&#8207;[[H7760A\|תָּשִׂ֔ים]]&#8207; </big>**| ta.Sim<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

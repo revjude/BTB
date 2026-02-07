@@ -1,12 +1,12 @@
-**Acts 13:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:31**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.
 <small><sub>**BSB:**</sub></small>
 and for many days He was seen by those who had accompanied Him from Galilee to Jerusalem. They are now His witnesses to our people.
 <small><sub>**Literal:**</sub></small>
 who appeared for days many to those having come up with Him from <the> Galilee to Jerusalem, who now are witnesses of Him to the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.30|<< Acts 13:30]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.32|Acts 13:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | appeared |**<big>[[G3700H\|ὤφθη]]</big>**  |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

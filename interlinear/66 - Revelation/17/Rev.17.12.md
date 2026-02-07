@@ -1,5 +1,5 @@
-**Revelation 17:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:12**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
 <small><sub>**BSB:**</sub></small>
 The ten horns you saw are ten kings who have not yet received a kingdom, but will receive one hour of authority as kings along with the beast.
@@ -10,7 +10,7 @@ And the ten horns which you saw, ten kings are, who a kingdom not yet have recei
 > $\quad$ alluding to: [[LXX.Dan.7.20|Dan 7:20]] ☩ [[LXX.Dan.7.24|Dan 7:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

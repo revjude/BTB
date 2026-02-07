@@ -1,5 +1,5 @@
-**Revelation 13:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:5**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months.
 <small><sub>**BSB:**</sub></small>
 The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.
@@ -10,7 +10,7 @@ And was given to it a mouth speaking great things and blasphemies and was given 
 > $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was given |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

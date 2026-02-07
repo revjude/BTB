@@ -1,10 +1,7 @@
 **LXX Proverbs 1:14** 
 <small><sub>**LXX:**</sub></small>
  and throw your lot in with us, and let there become one money bag for us. 
-<small><sub>**KJV:**</sub></small>
-Cast in thy lot among us; let us all have one purse:
-<small><sub>**BSB:**</sub></small>
-Throw in your lot with us; let us all share one purse”—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.13|<< Proverbs 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.15|Proverbs 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

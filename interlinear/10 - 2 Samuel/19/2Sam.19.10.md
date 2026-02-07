@@ -1,4 +1,4 @@
-**2 Samuel 19:10** (19:11)
+**2 Samuel 19:10**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Absalom, the man we anointed over us, has died in battle. So why do you say 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.9|<< 2 Samuel 19:9]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.11|2 Samuel 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Absalom  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלוֹם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.sha.lOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

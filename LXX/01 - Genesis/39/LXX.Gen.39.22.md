@@ -1,10 +1,7 @@
 **LXX Genesis 39:22** 
 <small><sub>**LXX:**</sub></small>
 And the chief jailer gave the jail \[over to\] \[the\] hand of Joseph, and all the \[ones\] being taken away, as many as \[were\] in the jail, and all as much as they do there, he was doing. 
-<small><sub>**KJV:**</sub></small>
-And the keeper of the prison committed to Joseph’s hand all the prisoners that [were] in the prison; and whatsoever they did there, he was the doer [of it].
-<small><sub>**BSB:**</sub></small>
-And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.21|<< Genesis 39:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.23|Genesis 39:23 >>]]</td></tr></table>
 
 | Translation | Greek |

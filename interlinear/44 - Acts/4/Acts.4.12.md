@@ -1,12 +1,12 @@
-**Acts 4:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:12**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
 <small><sub>**BSB:**</sub></small>
 Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.”
 <small><sub>**Literal:**</sub></small>
 And not there is in other no [one] the salvation; not for name is there another under <the> heaven which given among men by which it behooves to be saved us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.11|<< Acts 4:11]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.13|Acts 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

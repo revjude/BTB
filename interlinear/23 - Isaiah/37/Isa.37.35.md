@@ -1,4 +1,4 @@
-**Isaiah 37:35** 
+**Isaiah 37:35**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will defend this city to save it for mine own sake, and for my servant David’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will defend this city to save it for mine own sake, and for my servant Dav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.34|<< Isaiah 37:34]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.36|Isaiah 37:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will defend  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1598\|גַנּוֹתִ֛י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ga.no.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on>  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

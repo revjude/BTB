@@ -1,4 +1,4 @@
-**Daniel 5:16** 
+**Daniel 5:16**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and [have] a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I have heard about you, that you are able to give interpretations and solve 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.15|<< Daniel 5:15]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.17|Daniel 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0576B\|אֲנָה֙]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Nah<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8086\|שִׁמְעֵ֣ת]]&#8207; </big>**| shim.'Et<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

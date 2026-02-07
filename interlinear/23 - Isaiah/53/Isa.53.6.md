@@ -1,4 +1,4 @@
-**Isaiah 53:6** 
+**Isaiah 53:6**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ We all like sheep have gone astray, each one has turned to his own way; and the 
 > $\quad$ referenced by: [[1Pet.2.25|1Pet 2:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of us  |**<big>&#8207;[[H3605\|כֻּלָּ֙]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| ku.La.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> sheep  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6629G\|צֹּ֣אן]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:21** 
 <small><sub>**LXX:**</sub></small>
 And if there might be in it a blemish -- lame or blind, or even any severe blemish, you shall not sacrifice it \[to the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And if there be [any] blemish therein, [as if it be] lame, or blind, [or have] any ill blemish, thou shalt not sacrifice it unto the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-But if an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.20|<< Deuteronomy 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.22|Deuteronomy 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

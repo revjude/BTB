@@ -1,4 +1,4 @@
-**Psalms 47:5** (47:6)
+**Psalms 47:5**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God is gone up with a shout, the LORD with the sound of a trumpet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God has ascended amid shouts of joy, the LORD with the sound of the horn.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.4|<< Psalms 47:4]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.6|Psalms 47:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has gone up  |**<big>&#8207;[[H5927G\|עָלָ֣ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

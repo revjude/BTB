@@ -1,4 +1,4 @@
-**Amos 2:15** 
+**Amos 2:15**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall he stand that handleth the bow; and [he that is] swift of foot shall not deliver [himself]: neither shall he that rideth the horse deliver himself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The archer will not stand his ground, the fleet of foot will not escape, and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.14|<< Amos 2:14]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.16|Amos 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] handler of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8610\|תֹפֵ֤שׂ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Fes<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bow  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7198\|קֶּ֙שֶׁת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

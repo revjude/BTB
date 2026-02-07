@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joseph came to report  to Pharaoh, saying,  my father and  my brothers, and the cattle, and  their oxen, and all their \[things\], are come from \[the\] land of Canaan, and behold, they are in the land of Goshen. 
-<small><sub>**KJV:**</sub></small>
-Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they [are] in the land of Goshen.
-<small><sub>**BSB:**</sub></small>
-So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.34|<< Genesis 46:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.2|Genesis 47:2 >>]]</td></tr></table>
 
 | Translation | Greek |

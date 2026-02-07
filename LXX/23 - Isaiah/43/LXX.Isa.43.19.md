@@ -1,10 +1,7 @@
 **LXX Isaiah 43:19** 
 <small><sub>**LXX:**</sub></small>
 Behold, I do new \[things\] which now shall arise, and you all shall know them. And I will make a way in the wilderness, and rivers in the waterless \[place\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, [and] rivers in the desert.
-<small><sub>**BSB:**</sub></small>
-Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.18|<< Isaiah 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.20|Isaiah 43:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 43:19** is...

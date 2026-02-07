@@ -1,10 +1,7 @@
 **LXX Exodus 33:3** 
 <small><sub>**LXX:**</sub></small>
 And I will bring you into a land flowing milk and honey. For I will not go up with you, because   you are a hard-necked people, that I should not completely consume you in the way. 
-<small><sub>**KJV:**</sub></small>
-Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou [art] a stiffnecked people: lest I consume thee in the way.
-<small><sub>**BSB:**</sub></small>
-Go up to a land flowing with milk and honey. But I will not go with you, because you are a stiff-necked people; otherwise, I might destroy you on the way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.2|<< Exodus 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.4|Exodus 33:4 >>]]</td></tr></table>
 
 | Translation | Greek |

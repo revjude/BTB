@@ -1,10 +1,7 @@
 **LXX Proverbs 25:7** 
 <small><sub>**LXX:**</sub></small>
 For better the saying to you, Ascend to me! than to humble you in \[the\] presence of a mighty one. What you beheld \[with\] your eyes, speak! 
-<small><sub>**KJV:**</sub></small>
-For better [it is] that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.
-<small><sub>**BSB:**</sub></small>
-for it is better to be told, “Come up here!” than to be demoted in the presence of the prince. Even what you have seen with your own eyes,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.6|<< Proverbs 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.8|Proverbs 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

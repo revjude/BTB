@@ -1,12 +1,12 @@
-**1 Timothy 1:18
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:18**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;
 <small><sub>**BSB:**</sub></small>
 Timothy, my child, I entrust you with this command in keeping with the previous prophecies about you, so that by them you may fight the good fight,
 <small><sub>**Literal:**</sub></small>
 This <the> charge I commit to you, [my] child Timothy, according to the going before as to you prophecies, that you may war by them the good warfare<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.17|<< 1 Timothy 1:17]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.19|1 Timothy 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Ταύτην]]</big>**  |Tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:31** 
 <small><sub>**LXX:**</sub></small>
 And thus in the \[matters concerning\] \[the\] ambassadors of the rulers of the ones from Babylon  being sent to him, to inquire of him of the miracle which took place in the land, that \[the\] <span class="smallcaps">lord</span> abandoned him,  to test him, to know the \[things\] in  his heart. 
-<small><sub>**KJV:**</sub></small>
-Howbeit in [the business of] the ambassadors of the princes of Babylon, who sent unto him to inquire of the wonder that was [done] in the land, God left him, to try him, that he might know all [that was] in his heart.
-<small><sub>**BSB:**</sub></small>
-And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.30|<< 2 Chronicles 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.32|2 Chronicles 32:32 >>]]</td></tr></table>
 
 | Translation | Greek |

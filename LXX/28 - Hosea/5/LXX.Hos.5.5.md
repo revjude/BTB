@@ -1,10 +1,7 @@
 **LXX Hosea 5:5** 
 <small><sub>**LXX:**</sub></small>
 And the insolence of Israel shall be humbled unto his face; and Israel and Ephraim shall weaken in  their iniquities; and Judah also shall be weak with them. 
-<small><sub>**KJV:**</sub></small>
-And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.
-<small><sub>**BSB:**</sub></small>
-Israel’s arrogance testifies against them; Israel and Ephraim stumble in their iniquity; even Judah stumbles with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.4|<< Hosea 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.6|Hosea 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

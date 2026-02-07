@@ -1,4 +1,4 @@
-**Genesis 1:10** 
+**Genesis 1:10**<big><big>[[Gen.1.9 The Third Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God called the dry [land] Earth; and the gathering together of the waters called he Seas: and God saw that [it was] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God called the dry land “earth,” and the gathering of waters He called “se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.9|<< Genesis 1:9]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.11|Genesis 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

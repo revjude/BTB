@@ -1,4 +1,4 @@
-**Leviticus 10:7** 
+**Leviticus 10:7**<big><big>[[Lev.10.1 The Sin of Nadab and Abihu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD [is] upon you. And they did according to the word of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not go outside the entrance to the Tent of Meeting, or you will die, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.6|<< Leviticus 10:6]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.8|Leviticus 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] entrance of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6607\|פֶּתַח֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> pe.Tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֨הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

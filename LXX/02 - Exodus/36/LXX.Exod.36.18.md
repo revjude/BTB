@@ -1,10 +1,7 @@
 **LXX Exodus 36:18** 
 <small><sub>**LXX:**</sub></small>
 And he made fifty hooks of brass. And he joined together the hooks by the hooks, and he joined together the hide coverings, and it became one. 
-<small><sub>**KJV:**</sub></small>
-And he made fifty taches [of] brass to couple the tent together, that it might be one.
-<small><sub>**BSB:**</sub></small>
-He also made fifty bronze clasps to join the tent together as a unit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.17|<< Exodus 36:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.19|Exodus 36:19 >>]]</td></tr></table>
 
 | Translation | Greek |

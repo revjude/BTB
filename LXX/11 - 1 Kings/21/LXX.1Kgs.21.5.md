@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:5** 
 <small><sub>**LXX:**</sub></small>
 And Jezebel his wife entered to him, and she said to him, Why  \[is\] your spirit disturbed, and you are not eating bread? 
-<small><sub>**KJV:**</sub></small>
-But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?
-<small><sub>**BSB:**</sub></small>
-Soon his wife Jezebel came in and asked, “Why are you so sullen that you refuse to eat?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

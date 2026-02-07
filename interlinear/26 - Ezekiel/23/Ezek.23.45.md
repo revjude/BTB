@@ -1,4 +1,4 @@
-**Ezekiel 23:45** 
+**Ezekiel 23:45**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they [are] adulteresses, and blood [is] in their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But righteous men will sentence them to the punishment of those who commit adult
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.44|<< Ezekiel 23:44]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.46|Ezekiel 23:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֣ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous  |**<big>&#8207;[[H6662\|צַדִּיקִ֗ם]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

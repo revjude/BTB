@@ -1,4 +1,4 @@
-**Song of Solomon 2:12** 
+**Song of Solomon 2:12**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flowers appear on the earth; the time of the singing [of birds] is come, and the voice of the turtle is heard in our land;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The flowers have appeared in the countryside; the season of singing has come, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.11|<< Song of Solomon 2:11]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.13|Song of Solomon 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the blossoms  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5339\|נִּצָּנִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ni.tza.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have appeared  |**<big>&#8207;[[H7200G\|נִרְא֣וּ]]&#8207; </big>**| nir.'U<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

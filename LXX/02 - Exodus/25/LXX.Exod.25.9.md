@@ -1,10 +1,7 @@
 **LXX Exodus 25:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for me according to all as much as I show you in the mountain -- the model of the tent, and the model of all the items of it -- even so shall you do. 
-<small><sub>**KJV:**</sub></small>
-According to all that I shew thee, [after] the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make [it].
-<small><sub>**BSB:**</sub></small>
-You must make the tabernacle and design all its furnishings according to the pattern I show you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.8|<< Exodus 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.10|Exodus 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

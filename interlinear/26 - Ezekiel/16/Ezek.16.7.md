@@ -1,4 +1,4 @@
-**Ezekiel 16:7** 
+**Ezekiel 16:7**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: [thy] breasts are fashioned, and thine hair is grown, whereas thou [wast] naked and bare.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I made you thrive like a plant of the field. You grew up and matured and became 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.6|<< Ezekiel 16:6]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.8|Ezekiel 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ten thousand  |**<big>&#8207;[[H7233\|רְבָבָ֗ה]]&#8207; </big>**| re.va.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] growth of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6780\|צֶ֤מַח]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tze.mach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

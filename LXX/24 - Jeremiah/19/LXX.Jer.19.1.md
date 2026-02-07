@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then \[the\] <span class="smallcaps">lord</span> said to me, Proceed and acquire a pitcher! one being shaped of earthenware from the elders of the people and of the priests. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Go and get a potter’s earthen bottle, and [take] of the ancients of the people, and of the ancients of the priests;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.23|<< Jeremiah 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.2|Jeremiah 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

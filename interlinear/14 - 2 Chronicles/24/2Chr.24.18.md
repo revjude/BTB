@@ -1,4 +1,4 @@
-**2 Chronicles 24:18** 
+**2 Chronicles 24:18**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They abandoned the house of the LORD, the God of their fathers, and served the A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.17|<< 2 Chronicles 24:17]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.19|2 Chronicles 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they abandoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּֽעַזְב֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'az.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

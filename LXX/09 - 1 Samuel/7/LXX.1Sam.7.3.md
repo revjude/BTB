@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:3** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to all \[the\] house of Israel, saying, If with your entire heart you turn to \[the\] <span class="smallcaps">lord</span>, remove the gods of the aliens from your midst, and the sacred groves, and prepare  your hearts to \[the\] <span class="smallcaps">lord</span>, and serve him alone! and he will rescue you from out of \[the\] hand of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, [then] put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-Then Samuel said to all the house of Israel, “If you are returning to the LORD with all your hearts, then put away the foreign gods and Ashtoreths among you, prepare your hearts for the LORD, and serve Him only. And He will deliver you from the hand of the Philistines.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.2|<< 1 Samuel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.4|1 Samuel 7:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:3** is...

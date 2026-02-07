@@ -1,10 +1,7 @@
 **LXX Leviticus 19:19** 
 <small><sub>**LXX:**</sub></small>
  My law you shall keep.  Your cattle you shall not mate unequally yoked. And  \[in\] your vineyard you shall not scatter abroad diverse \[seed\]. And a garment of two \[materials\] being woven commingled you shall not put upon yourself. 
-<small><sub>**KJV:**</sub></small>
-Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
-<small><sub>**BSB:**</sub></small>
-You are to keep My statutes. You shall not crossbreed two different kinds of livestock; you shall not sow your fields with two kinds of seed; and you shall not wear clothing made of two kinds of material.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.18|<< Leviticus 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.20|Leviticus 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:13** 
 <small><sub>**LXX:**</sub></small>
 Only know  your iniquity! For \[it is\] against \[the\] <span class="smallcaps">lord</span>  your God you acted impious, and dispersed  your ways unto strangers underneath every tree of \[the\] woods;  but my voice you obeyed not, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Only acknowledge your guilt, that you have rebelled against the LORD your God. You have scattered your favors to foreign gods under every green tree and have not obeyed My voice,’” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.12|<< Jeremiah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.14|Jeremiah 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

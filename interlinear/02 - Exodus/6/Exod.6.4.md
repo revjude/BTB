@@ -1,4 +1,4 @@
-**Exodus 6:4** 
+**Exodus 6:4**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I also established My covenant with them to give them the land of Canaan, the la
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.3|<< Exodus 6:3]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.5|Exodus 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I established  |**<big>&#8207;[[H6965I\|הֲקִמֹ֤תִי]]&#8207; </big>**| ha.ki.Mo.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

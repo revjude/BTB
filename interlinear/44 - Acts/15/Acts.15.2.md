@@ -1,12 +1,12 @@
-**Acts 15:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:2**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
 <small><sub>**BSB:**</sub></small>
 And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.
 <small><sub>**Literal:**</sub></small>
 When was hapening then commotion and controversy no small <the> by Paul and <the> Barnabas with them they appointed to go up Paul and Barnabas and certain others out from them to the apostles and elders to Jerusalem about <the> question this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.1|<< Acts 15:1]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.3|Acts 15:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was hapening |**<big>[[G1096\|γενομένης]]</big>**  |genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 24:27** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to all the people, Behold,  this stone will be to you for a testimony; for it has heard all the things being said by \[the\] <span class="smallcaps">lord</span>, as much as he spoke to you today. And this will be in you for a testimony unto \[the\] last of the days, when ever you should lie \[to the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God.
-<small><sub>**BSB:**</sub></small>
-And Joshua said to all the people, “You see this stone. It will be a witness against us, for it has heard all the words the LORD has spoken to us, and it will be a witness against you if you ever deny your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.26|<< Joshua 24:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.28|Joshua 24:28 >>]]</td></tr></table>
 
 | Translation | Greek |

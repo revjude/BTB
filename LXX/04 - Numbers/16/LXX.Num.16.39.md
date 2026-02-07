@@ -1,10 +1,7 @@
 **LXX Numbers 16:39** 
 <small><sub>**LXX:**</sub></small>
 And Eleazar son of Aaron the priest took the censers  of brass, as many as the men having been incinerated brought near; and they added them as an adornment to the altar, 
-<small><sub>**KJV:**</sub></small>
-And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad [plates for] a covering of the altar:
-<small><sub>**BSB:**</sub></small>
-So Eleazar the priest took the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.38|<< Numbers 16:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.40|Numbers 16:40 >>]]</td></tr></table>
 
 | Translation | Greek |

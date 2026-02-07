@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:18** 
 <small><sub>**LXX:**</sub></small>
 And after him \[was\] Jehozabad, and with him a hundred eighty thousand mighty \[men\] of war. 
-<small><sub>**KJV:**</sub></small>
-And next him [was] Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.
-<small><sub>**BSB:**</sub></small>
-and next to him, Jehozabad, and with him 180,000 armed for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.17|<< 2 Chronicles 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.19|2 Chronicles 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

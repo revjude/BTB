@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:13** 
 <small><sub>**LXX:**</sub></small>
 And David went, and all  his men in the way; and Shimei went according to the side of the mountain, being next to him -- he went, and cursed, and cast stones on him, and  strewing dust. 
-<small><sub>**KJV:**</sub></small>
-And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.
-<small><sub>**BSB:**</sub></small>
-So David and his men proceeded along the road as Shimei went along the ridge of the hill opposite him. As Shimei went, he yelled curses, threw stones, and flung dust at David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.12|<< 2 Samuel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.14|2 Samuel 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

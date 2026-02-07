@@ -1,4 +1,4 @@
-**1 Chronicles 26:12** 
+**1 Chronicles 26:12**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among these [were] the divisions of the porters, [even] among the chief men, [having] wards one against another, to minister in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These divisions of the gatekeepers, through their chief men, had duties for mini
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.11|<< 1 Chronicles 26:11]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.13|1 Chronicles 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belonged] to these  |**<big>&#8207;[[H9005\|לְ֠]]&#8207;&#8207;[[H0428\|אֵלֶּה]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] divisions of  |**<big>&#8207;[[H4256\|מַחְלְק֨וֹת]]&#8207; </big>**| mach.le.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

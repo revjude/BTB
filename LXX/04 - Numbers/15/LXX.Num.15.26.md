@@ -1,10 +1,7 @@
 **LXX Numbers 15:26** 
 <small><sub>**LXX:**</sub></small>
 And to all \[the\] congregation of \[the\] sons of Israel it shall be forgiven, and to the foreigner  lying near to you, for to all the people \[it is\] unintentional. 
-<small><sub>**KJV:**</sub></small>
-And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people [were] in ignorance.
-<small><sub>**BSB:**</sub></small>
-Then the whole congregation of Israel and the foreigners residing among them will be forgiven, since it happened to all the people unintentionally.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.25|<< Numbers 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.27|Numbers 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

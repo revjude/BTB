@@ -1,10 +1,7 @@
 **LXX Leviticus 21:9** 
 <small><sub>**LXX:**</sub></small>
 And a daughter of a man \[being\] a priest, if she should be profaned  to fornicate, she profanes the name of her father; with fire she shall be incinerated. 
-<small><sub>**KJV:**</sub></small>
-And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.
-<small><sub>**BSB:**</sub></small>
-If a priest’s daughter defiles herself by prostituting herself, she profanes her father; she must be burned in the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.8|<< Leviticus 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.10|Leviticus 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

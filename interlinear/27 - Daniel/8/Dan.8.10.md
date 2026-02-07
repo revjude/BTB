@@ -1,4 +1,4 @@
-**Daniel 8:10** 
+**Daniel 8:10**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it waxed great, [even] to the host of heaven; and it cast down [some] of the host and of the stars to the ground, and stamped upon them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ It grew as high as the host of heaven, and it cast down some of the host and som
 > $\quad$ referenced by: [[Rev.12.4|Rev 12:4]] ☩ [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it became great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|תִּגְדַּ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tig.Dal<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

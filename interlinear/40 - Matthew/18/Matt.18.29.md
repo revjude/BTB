@@ -1,12 +1,12 @@
-**Matthew 18:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:29**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.
 <small><sub>**BSB:**</sub></small>
 So his fellow servant fell down and begged him, ‘Have patience with me, and I will pay you back.’
 <small><sub>**Literal:**</sub></small>
 Having fallen down therefore the fellow servant of him into the feet of him was begging him saying; do have patience with me myself, and all things I will pay you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.28|<< Matthew 18:28]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.30|Matthew 18:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having fallen down |**<big>[[G4098\|πεσὼν]]</big>**  |pesōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

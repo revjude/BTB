@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:35** 
 <small><sub>**LXX:**</sub></small>
 And one man of the sons of the prophets said to  his neighbor, by a word of \[the\] <span class="smallcaps">lord</span>, Strike me indeed! And the man would not strike him. 
-<small><sub>**KJV:**</sub></small>
-And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, “Strike me, please!” But the man refused to strike him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.34|<< 1 Kings 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.36|1 Kings 20:36 >>]]</td></tr></table>
 
 | Translation | Greek |

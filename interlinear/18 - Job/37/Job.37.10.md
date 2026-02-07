@@ -1,4 +1,4 @@
-**Job 37:10** 
+**Job 37:10**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the breath of God frost is given: and the breadth of the waters is straitened.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the breath of God the ice is formed and the watery expanses are frozen.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.9|<< Job 37:9]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.11|Job 37:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] breath of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5397\|נִּשְׁמַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> nish.mat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֥ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:41** 
 <small><sub>**LXX:**</sub></small>
 And he hastened and removed the ligature from  his eyes. And the king of Israel recognized him, that this one \[was\] of the prophets. 
-<small><sub>**KJV:**</sub></small>
-And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he [was] of the prophets.
-<small><sub>**BSB:**</sub></small>
-Then the prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.40|<< 1 Kings 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.42|1 Kings 20:42 >>]]</td></tr></table>
 
 | Translation | Greek |

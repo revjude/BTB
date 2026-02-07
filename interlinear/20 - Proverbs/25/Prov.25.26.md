@@ -1,4 +1,4 @@
-**Proverbs 25:26** 
+**Proverbs 25:26**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A righteous man falling down before the wicked [is as] a troubled fountain, and a corrupt spring.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a muddied spring or a polluted well is a righteous man who gives way to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.25|<< Proverbs 25:25]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.27|Proverbs 25:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a spring  |**<big>&#8207;[[H4599\|מַעְיָ֣ן]]&#8207; </big>**| ma'.Yan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fouled  |**<big>&#8207;[[H7515\|נִ֭רְפָּשׂ]]&#8207; </big>**| Nir.pos<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

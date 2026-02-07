@@ -1,4 +1,4 @@
-**Isaiah 9:15** (9:14)
+**Isaiah 9:15**<big><big>[[Isa.9.13 Judgment against Israel’s Hypocrisy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ancient and honourable, he [is] the head; and the prophet that teacheth lies, he [is] the tail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The head is the elder and honorable man, and the tail is the prophet who teaches
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.14|<< Isaiah 9:14]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.16|Isaiah 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an old [man]  |**<big>&#8207;[[H2205G\|זָקֵ֥ן]]&#8207; </big>**| za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [one] uplifted of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5375Q\|נְשׂוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.su'-<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

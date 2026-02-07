@@ -1,5 +1,5 @@
-**Romans 9:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:21**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
 <small><sub>**BSB:**</sub></small>
 Does not the potter have the right to make from the same lump of clay one vessel for special occasions and another for common use?
@@ -10,7 +10,7 @@ Or not has authority the potter over the clay out of the same lump to make one i
 > $\quad$ alluding to: [[LXX.Jer.18.6|Jer 18:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joshua 10:39** 
+**Joshua 10:39**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that [were] therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they captured Debir, its king, and all its villages. They put them to the sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.38|<< Joshua 10:38]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.40|Joshua 10:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he captured it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּדָ֞]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Da<small><sup>[[HVqw3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

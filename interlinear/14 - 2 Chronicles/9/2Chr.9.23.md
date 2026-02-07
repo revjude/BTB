@@ -1,4 +1,4 @@
-**2 Chronicles 9:23** 
+**2 Chronicles 9:23**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the kings of the earth sought an audience with Solomon to hear the wisdom th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.22|<< 2 Chronicles 9:22]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.24|2 Chronicles 9:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֣י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

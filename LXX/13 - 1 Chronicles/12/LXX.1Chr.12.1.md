@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the ones coming to David in Ziglag, while banding together from \[the\] face of Saul son of Kish. And they \[are\] among the mighty ones helping in  war, 
-<small><sub>**KJV:**</sub></small>
-Now these [are] they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they [were] among the mighty men, helpers of the war.
-<small><sub>**BSB:**</sub></small>
-Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.47|<< 1 Chronicles 11:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.2|1 Chronicles 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

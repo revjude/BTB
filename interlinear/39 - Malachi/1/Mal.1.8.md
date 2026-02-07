@@ -1,4 +1,4 @@
-**Malachi 1:8** 
+**Malachi 1:8**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye offer the blind for sacrifice, [is it] not evil? and if ye offer the lame and sick, [is it] not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you offer blind animals for sacrifice, is it not wrong? And when you presen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.7|<< Malachi 1:7]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.9|Malachi 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you bring near !  |**<big>&#8207;[[H5066H\|תַגִּשׁ֨וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ta.gi.Shu<small><sup>[[HVhi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

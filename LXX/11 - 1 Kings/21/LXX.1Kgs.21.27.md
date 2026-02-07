@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:27** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Ahab heard  these words, he tore  his inner-garment, and he wore sackcloth upon  his body, and he fasted, and he laid in sackcloth, and he went having downcast eyes. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
-<small><sub>**BSB:**</sub></small>
-When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.26|<< 1 Kings 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.28|1 Kings 21:28 >>]]</td></tr></table>
 
 | Translation | Greek |

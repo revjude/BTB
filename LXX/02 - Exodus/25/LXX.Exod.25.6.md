@@ -1,10 +1,7 @@
 **LXX Exodus 25:6** 
 <small><sub>**LXX:**</sub></small>
 and oil for the giving light, incenses for the oil of the anointing, and for the composition of the incense, 
-<small><sub>**KJV:**</sub></small>
-Oil for the light, spices for anointing oil, and for sweet incense,
-<small><sub>**BSB:**</sub></small>
-olive oil for the light; spices for the anointing oil and for the fragrant incense;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.5|<< Exodus 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.7|Exodus 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

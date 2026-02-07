@@ -1,4 +1,4 @@
-**Ezekiel 21:32** (21:37)
+**Ezekiel 21:32**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no [more] remembered: for I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be fuel for the fire. Your blood will stain your own land. You will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.31|<< Ezekiel 21:31]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.1|Ezekiel 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for the fire  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0784\|אֵ֤שׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will become  |**<big>&#8207;[[H1961\|תִּֽהְיֶה֙]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

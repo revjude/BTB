@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:29** 
 <small><sub>**LXX:**</sub></small>
 And the king said, \[Is there\] peace to the young man  Absalom? And Ahimaaz said, I saw the great multitude being gladdened in the sending Joab the servant of the king, and  your servant, and I do not know what \[happened\] there. 
-<small><sub>**KJV:**</sub></small>
-And the king said, [Is] the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and [me] thy servant, I saw a great tumult, but I knew not what [it was].
-<small><sub>**BSB:**</sub></small>
-The king asked, “Is the young man Absalom all right?” And Ahimaaz replied, “When Joab sent the king’s servant and your servant, I saw a great tumult, but I do not know what it was.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.28|<< 2 Samuel 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.30|2 Samuel 18:30 >>]]</td></tr></table>
 
 | Translation | Greek |

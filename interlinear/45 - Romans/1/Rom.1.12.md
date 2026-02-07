@@ -1,12 +1,12 @@
-**Romans 1:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:12**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That is, that I may be comforted together with you by the mutual faith both of you and me.
 <small><sub>**BSB:**</sub></small>
 that is, that you and I may be mutually encouraged by each other’s faith.
 <small><sub>**Literal:**</sub></small>
 that now is to be encouraged together among you through the among one another faith of you both and of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.11|<< Romans 1:11]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.13|Romans 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 1:35** 
+**1 Kings 1:35**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you shall go up with him, and he is to come and sit on my throne and reign 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.34|<< 1 Kings 1:34]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.36|1 Kings 1:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will come up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|עֲלִיתֶ֣ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.li.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

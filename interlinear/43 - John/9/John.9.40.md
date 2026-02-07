@@ -1,12 +1,12 @@
-**John 9:40
-**<small><sub>**KJV:**</sub></small>
+**John 9:40**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [some] of the Pharisees which were with him heard these words, and said unto him, Are we blind also?
 <small><sub>**BSB:**</sub></small>
 Some of the Pharisees who were with Him heard this, and they asked Him, “Are we blind too?”
 <small><sub>**Literal:**</sub></small>
 and Heard from the Pharisees these things who with Him being and they said to Him; Surely not also we ourselves blind are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.39|<< John 9:39]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.41|John 9:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Heard |**<big>[[G0191\|ἤκουσαν]]</big>**  |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

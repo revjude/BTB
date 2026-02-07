@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:7** 
 <small><sub>**LXX:**</sub></small>
 Are you not  our God, the one utterly destroying the ones dwelling  this land from in front  of your people Israel, and gave it to \[the\] seed of Abraham, \[to\] your friend into the eon? 
-<small><sub>**KJV:**</sub></small>
-[Art] not thou our God, [who] didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?
-<small><sub>**BSB:**</sub></small>
-Our God, did You not drive out the inhabitants of this land before Your people Israel and give it forever to the descendants of Abraham Your friend?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.6|<< 2 Chronicles 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.8|2 Chronicles 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

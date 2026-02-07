@@ -1,4 +1,4 @@
-**Isaiah 29:23** 
+**Isaiah 29:23**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For when he sees his children around him, the work of My hands, they will honor 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.22|<< Isaiah 29:22]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.24|Isaiah 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when sees it  |**<big>&#8207;[[H9003\|בִ֠]]&#8207;&#8207;[[H7200G\|רְאֹת]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| vi<small><sup>[[HR]]</sup></small> r.'o.t<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

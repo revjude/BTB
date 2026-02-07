@@ -1,12 +1,12 @@
-**Acts 14:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:19**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came thither [certain] Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew [him] out of the city, supposing he had been dead.
 <small><sub>**BSB:**</sub></small>
 Then some Jews arrived from Antioch and Iconium and won over the crowds. They stoned Paul and dragged him outside the city, presuming he was dead.
 <small><sub>**Literal:**</sub></small>
 Came however from Antioch and Iconium Jews, and having persuaded the crowds and having stoned <the> Paul they were dragging [him] outside the city supposing him to have died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.18|<< Acts 14:18]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.20|Acts 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G1904\|Ἐπῆλθαν]]</big>**  [^1] |Epēlthan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

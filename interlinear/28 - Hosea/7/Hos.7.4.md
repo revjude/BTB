@@ -1,4 +1,4 @@
-**Hosea 7:4** 
+**Hosea 7:4**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] all adulterers, as an oven heated by the baker, [who] ceaseth from raising after he hath kneaded the dough, until it be leavened.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are all adulterers, like an oven heated by a baker who needs not stoke the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.3|<< Hosea 7:3]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.5|Hosea 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] adulterers  |**<big>&#8207;[[H5003\|מְנָ֣אֲפִ֔ים]]&#8207; </big>**| me.Na.'a.Fim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:8** 
 <small><sub>**LXX:**</sub></small>
 And the messenger came and reported to him, saying, They brought the heads of the sons of the king. And he said, Place them \[in\] two hills by the door of the gate until morning. 
-<small><sub>**KJV:**</sub></small>
-And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.
-<small><sub>**BSB:**</sub></small>
-When the messenger arrived, he told Jehu, “They have brought the heads of the sons of the king.” And Jehu ordered, “Pile them in two heaps at the entrance of the gate until morning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.7|<< 2 Kings 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.9|2 Kings 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

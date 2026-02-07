@@ -1,4 +1,4 @@
-**Judges 5:5** 
+**Judges 5:5**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains melted from before the LORD, [even] that Sinai from before the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains quaked before the LORD, the One of Sinai, before the LORD, the God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.4|<< Judges 5:4]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.6|Judges 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] mountains  |**<big>&#8207;[[H2022G\|הָרִ֥ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they flowed  |**<big>&#8207;[[H5140\|נָזְל֖וּ]]&#8207; </big>**| na.ze.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

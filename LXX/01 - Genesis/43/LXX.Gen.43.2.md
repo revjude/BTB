@@ -1,10 +1,7 @@
 **LXX Genesis 43:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when they completed eating up the grain which they brought from Egypt, that their father said to them, In again going, you buy us a small \[amount\] of foods! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
-<small><sub>**BSB:**</sub></small>
-So when Jacob’s sons had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.1|<< Genesis 43:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.3|Genesis 43:3 >>]]</td></tr></table>
 
 | Translation | Greek |

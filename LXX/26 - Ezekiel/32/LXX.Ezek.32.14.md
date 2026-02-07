@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:14** 
 <small><sub>**LXX:**</sub></small>
 Then their waters be still, and  their rivers shall go \[forth\] as oil, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then will I make their waters deep, and cause their rivers to run like oil, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Then I will let her waters settle and will make her rivers flow like oil,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.13|<< Ezekiel 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.15|Ezekiel 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Luke 1:76
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:76**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;
 <small><sub>**BSB:**</sub></small>
 And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him,
@@ -10,7 +10,7 @@ And you yourself now, child, prophet of [the] Most High will be called; you will
 > $\quad$ alluding to: [[LXX.Mal.3.1|Mal 3:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

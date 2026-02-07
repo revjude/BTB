@@ -1,10 +1,7 @@
 **LXX Genesis 42:30** 
 <small><sub>**LXX:**</sub></small>
 The man the master of the land spoke to us hard, and put us in prison as spying out the land. 
-<small><sub>**KJV:**</sub></small>
-The man, [who is] the lord of the land, spake roughly to us, and took us for spies of the country.
-<small><sub>**BSB:**</sub></small>
-“The man who is lord of the land spoke harshly to us and accused us of spying on the country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.29|<< Genesis 42:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.31|Genesis 42:31 >>]]</td></tr></table>
 
 | Translation | Greek |

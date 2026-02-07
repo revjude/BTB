@@ -1,4 +1,4 @@
-**Judges 16:25** 
+**Judges 16:25**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And while their hearts were merry, they said, “Call for Samson to entertain us
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.24|<< Judges 16:24]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.26|Judges 16:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [ ]  [^1]|**<big>&#8207;[[\|]]&#8207; </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

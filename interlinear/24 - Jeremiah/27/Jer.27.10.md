@@ -1,4 +1,4 @@
-**Jeremiah 27:10** 
+**Jeremiah 27:10**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they prophesy a lie unto you, to remove you far from your land; and that I should drive you out, and ye should perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they prophesy to you a lie that will serve to remove you from your land; I w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.9|<< Jeremiah 27:9]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.11|Jeremiah 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falsehood  |**<big>&#8207;[[H8267\|שֶׁ֔קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 6:26** 
 <small><sub>**LXX:**</sub></small>
 This Aaron and Moses, \[is\] whom God said to them to lead the sons of Israel from out of Egypt with their force. 
-<small><sub>**KJV:**</sub></small>
-These [are] that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.
-<small><sub>**BSB:**</sub></small>
-It was this Aaron and Moses to whom the LORD said, “Bring the Israelites out of the land of Egypt by their divisions.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.25|<< Exodus 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.27|Exodus 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

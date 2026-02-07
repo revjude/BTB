@@ -1,4 +1,4 @@
-**Isaiah 1:2** 
+**Isaiah 1:2**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Listen, O heavens, and give ear, O earth, for the LORD has spoken: “I have rai
 > $\quad$ referenced by: [[Acts.13.17|Acts 13:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heavens  |**<big>&#8207;[[H8064\|שָׁמַ֙יִם֙]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

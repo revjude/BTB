@@ -1,6 +1,6 @@
 (KJV) **Ecclesiastes 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5|<< Ecclesiastes 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7|Ecclesiastes 7 >>]]</td></tr></table>
 
-***The Futility of Life*** ^bsb1522
+<big><big>[[Eccl.6.1 The Futility of Life|⥃]]</big></big>***The Futility of Life***
 
  $\quad$ <span class="startversemarker">[</span>**[[Eccl.6.1|1]]**<span class="endversemarker">]</span> There is an evil which I have seen under the sun, and it \[is\] common among men:<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Eccl.6.2|2]]**<span class="endversemarker">]</span> A man<small><small>[^3]</small></small> to whom God hath given riches, wealth, and honour, so<small><small>[^4]</small></small> that he wanteth nothing for his soul of all that he desireth, yet<small><small>[^5]</small></small> God giveth him not power to eat thereof, but<small><small>[^6]</small></small> a stranger eateth it: this \[is\] vanity<small><small>[^7]</small></small>, and it \[is\] an evil disease. 
 

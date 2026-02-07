@@ -1,10 +1,7 @@
 **LXX Isaiah 29:22** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span> concerning the house of Jacob, whom he separated from Abraham, Jacob be ashamed not now, nor now  shall Israel change countenance. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
-<small><sub>**BSB:**</sub></small>
-Therefore the LORD who redeemed Abraham says of the house of Jacob: “No longer will Jacob be ashamed and no more will his face grow pale.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.21|<< Isaiah 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.23|Isaiah 29:23 >>]]</td></tr></table>
 
 | Translation | Greek |

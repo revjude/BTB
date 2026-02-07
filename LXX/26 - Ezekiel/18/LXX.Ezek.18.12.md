@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:12** 
 <small><sub>**LXX:**</sub></small>
 and tyrannized over \[the\] poor and needy, and seized by force, and did not give back collateral taken as a pledge, and for the idols put  his eyes to do lawlessness, 
-<small><sub>**KJV:**</sub></small>
-Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,
-<small><sub>**BSB:**</sub></small>
-He oppresses the poor and needy; he commits robbery and does not restore a pledge. He lifts his eyes to idols; he commits abominations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.11|<< Ezekiel 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.13|Ezekiel 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

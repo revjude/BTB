@@ -1,12 +1,12 @@
-**John 20:24
-**<small><sub>**KJV:**</sub></small>
+**John 20:24**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.
 <small><sub>**BSB:**</sub></small>
 Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.
 <small><sub>**Literal:**</sub></small>
 Thomas however one of the Twelve who is being named Didymus not was with them when came <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.23|<< John 20:23]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.25|John 20:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thomas |**<big>[[G2381\|Θωμᾶς]]</big>**  |Thōmas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

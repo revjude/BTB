@@ -1,4 +1,4 @@
-**Genesis 25:27** 
+**Genesis 25:27**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob [was] a plain man, dwelling in tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the boys grew up, Esau became a skillful hunter, a man of the field, while 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.26|<< Genesis 25:26]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.28|Genesis 25:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they grew up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1431\|יִּגְדְּלוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.de.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lads  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נְּעָרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

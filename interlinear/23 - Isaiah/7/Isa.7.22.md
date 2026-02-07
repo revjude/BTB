@@ -1,4 +1,4 @@
-**Isaiah 7:22** 
+**Isaiah 7:22**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, for the abundance of milk [that] they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and from the abundance of milk they give, he will eat curds; for all who remain 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.21|<< Isaiah 7:21]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.23|Isaiah 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] abundance of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7230\|רֹ֛ב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

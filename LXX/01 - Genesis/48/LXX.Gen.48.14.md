@@ -1,10 +1,7 @@
 **LXX Genesis 48:14** 
 <small><sub>**LXX:**</sub></small>
 And Israel stretching out the right hand put it upon the head of Ephraim, and this one was the younger; and the left upon the head of Manasseh; crosswise \[with\] the hands. 
-<small><sub>**KJV:**</sub></small>
-And Israel stretched out his right hand, and laid [it] upon Ephraim’s head, who [was] the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh [was] the firstborn.
-<small><sub>**BSB:**</sub></small>
-But Israel stretched out his right hand and put it on the head of Ephraim, the younger; and crossing his hands, he put his left on Manasseh’s head, although Manasseh was the firstborn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 5:19** 
 <small><sub>**LXX:**</sub></small>
 \[Let\] \[your\] hind of friendship, and your filly of favors, consort with you!  and in particular let her be esteemed by you, and be with you at all time! For in  this friendship you will be accommodated a great deal. 
-<small><sub>**KJV:**</sub></small>
-[Let her be as] the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
-<small><sub>**BSB:**</sub></small>
-A loving doe, a graceful fawn—may her breasts satisfy you always; may you be captivated by her love forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.18|<< Proverbs 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.20|Proverbs 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jonah 2:3** 
 <small><sub>**LXX:**</sub></small>
 You threw me into \[the\] depths of \[the\] heart of \[the\] sea, and rivers encircled me. All  your crests and  your waves went upon me. 
-<small><sub>**KJV:**</sub></small>
-For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.
-<small><sub>**BSB:**</sub></small>
-For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.2|<< Jonah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.4|Jonah 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

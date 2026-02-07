@@ -1,4 +1,4 @@
-**Ezekiel 5:16** 
+**Ezekiel 5:16**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall send upon them the evil arrows of famine, which shall be for [their] destruction, [and] which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I shower you with the deadly arrows of famine and destruction that I will s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.15|<< Ezekiel 5:15]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.17|Ezekiel 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when shoot I  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H7971G\|שַׁלְּחִ֡]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.le.Ch<small><sup>[[HVpcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

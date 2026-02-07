@@ -1,10 +1,7 @@
 **LXX Micah 7:19** 
 <small><sub>**LXX:**</sub></small>
 He shall turn and shall pity us; he shall sink  our iniquities, and shall throw away into the depths of the sea all  our sins. 
-<small><sub>**KJV:**</sub></small>
-He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
-<small><sub>**BSB:**</sub></small>
-He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.18|<< Micah 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.20|Micah 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

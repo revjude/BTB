@@ -1,4 +1,4 @@
-**Psalms 81:5** (81:6)
+**Psalms 81:5**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This he ordained in Joseph [for] a testimony, when he went out through the land of Egypt: [where] I heard a language [that] I understood not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He ordained it as a testimony for Joseph when he went out over the land of Egypt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.4|<< Psalms 81:4]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.6|Psalms 81:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a testimony  |**<big>&#8207;[[H5715\|עֵ֤דוּת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Joseph  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3084\|יה֘וֹסֵ֤ף]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Ho.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

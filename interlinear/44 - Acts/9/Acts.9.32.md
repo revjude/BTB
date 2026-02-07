@@ -1,12 +1,12 @@
-**Acts 9:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:32**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as Peter passed throughout all [quarters], he came down also to the saints which dwelt at Lydda.
 <small><sub>**BSB:**</sub></small>
 As Peter traveled throughout the area, he went to visit the saints in Lydda.
 <small><sub>**Literal:**</sub></small>
 It came to pass that now Peter passing through all [quarters] descending also to the saints those inhabiting Lydda.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.31|<< Acts 9:31]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.33|Acts 9:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass that |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

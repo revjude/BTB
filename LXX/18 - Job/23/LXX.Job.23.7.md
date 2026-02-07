@@ -1,10 +1,7 @@
 **LXX Job 23:7** 
 <small><sub>**LXX:**</sub></small>
 For truth and reproof are from him; and may he bring equity unto my end. 
-<small><sub>**KJV:**</sub></small>
-There the righteous might dispute with him; so should I be delivered for ever from my judge.
-<small><sub>**BSB:**</sub></small>
-Then an upright man could reason with Him, and I would be delivered forever from my Judge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.6|<< Job 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.8|Job 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

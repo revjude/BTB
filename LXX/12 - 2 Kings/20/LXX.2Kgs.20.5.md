@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:5** 
 <small><sub>**LXX:**</sub></small>
 Return! and you shall say to Hezekiah, the one leading  my people, Thus says \[the\] <span class="smallcaps">lord</span>, the God of David  your father! I heard  your prayer, and I beheld  your tears. Behold, I shall heal you on the third day, and you shall ascend into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-“Go back and tell Hezekiah the leader of My people that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.4|<< 2 Kings 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.6|2 Kings 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

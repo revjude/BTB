@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:20** 
 <small><sub>**LXX:**</sub></small>
 How then \[do\] words of \[the\] lips and counsel become \[the\] battle array for war? Now then, upon whom \[are\] you relying upon, that you annulled \[allegiance\] to me? 
-<small><sub>**KJV:**</sub></small>
-Thou sayest, (but [they are but] vain words,) [I have] counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?
-<small><sub>**BSB:**</sub></small>
-You claim to have a strategy and strength for war, but these are empty words. In whom are you now trusting, that you have rebelled against me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.19|<< 2 Kings 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.21|2 Kings 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

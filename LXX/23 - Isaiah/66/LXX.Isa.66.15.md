@@ -1,10 +1,7 @@
 **LXX Isaiah 66:15** 
 <small><sub>**LXX:**</sub></small>
 For behold \[the\] <span class="smallcaps">lord</span> shall come as a fire, even as a blast \[by\] his chariots, to recompense punishment in rage, and being contemptuously rejected in a flame of fire. 
-<small><sub>**KJV:**</sub></small>
-For, behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.
-<small><sub>**BSB:**</sub></small>
-For behold, the LORD will come with fire—His chariots are like a whirlwind—to execute His anger with fury and His rebuke with flames of fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.14|<< Isaiah 66:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.16|Isaiah 66:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 66:15** is...

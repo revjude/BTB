@@ -1,4 +1,4 @@
-**Judges 1:24** 
+**Judges 1:24**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when the spies saw a man coming out of the city, they said to him, “Please
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.23|<< Judges 1:23]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.25|Judges 1:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְאוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] watched  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8104I\|שֹּׁ֣מְרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

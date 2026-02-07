@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:25** 
 <small><sub>**LXX:**</sub></small>
 Do not go forth into a field, and do not proceed in the ways! For a broadsword of the enemies sojourns round about. 
-<small><sub>**KJV:**</sub></small>
-Go not forth into the field, nor walk by the way; for the sword of the enemy [and] fear [is] on every side.
-<small><sub>**BSB:**</sub></small>
-Do not go out to the fields; do not walk the road. For the enemy has a sword; terror is on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.24|<< Jeremiah 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.26|Jeremiah 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

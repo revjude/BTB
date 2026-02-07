@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:4** 
 <small><sub>**LXX:**</sub></small>
 And Ezra the scribe stood upon \[the\] wooden rostrum, the one he made for  delivering a public address. And stood next to him, Mattithiah, and Shema, and Anaiah, and Uriah, and Hilkiah, and Maaseiah at his right. And at \[the\] left, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, and Zechariah, and Meshullam. 
-<small><sub>**KJV:**</sub></small>
-And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, [and] Meshullam.
-<small><sub>**BSB:**</sub></small>
-Ezra the scribe stood on a high wooden platform built for this occasion. At his right side stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, and at his left were Pedaiah, Mishael, Malchijah, Hashum, Hash-baddanah, Zechariah, and Meshullam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.3|<< Nehemiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.5|Nehemiah 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

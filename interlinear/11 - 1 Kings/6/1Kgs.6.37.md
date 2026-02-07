@@ -1,4 +1,4 @@
-**1 Kings 6:37** 
+**1 Kings 6:37**<big><big>[[1Kgs.6.36 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fourth year was the foundation of the house of the LORD laid, in the month Zif:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The foundation of the house of the LORD was laid in the fourth year of Solomon�
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.36|<< 1 Kings 6:36]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.38|1 Kings 6:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָה֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7243\|רְבִיעִ֔ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

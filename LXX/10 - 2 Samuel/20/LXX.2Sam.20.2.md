@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:2** 
 <small><sub>**LXX:**</sub></small>
 And ascended every man of Israel from behind David \[to follow\] after Sheba son of Bichri. But the men of Judah cleaved to  their king from the Jordan and unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-So every man of Israel went up from after David, [and] followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So all the men of Israel deserted David to follow Sheba son of Bichri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.1|<< 2 Samuel 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.3|2 Samuel 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

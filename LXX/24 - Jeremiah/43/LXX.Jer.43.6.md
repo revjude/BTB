@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:6** 
 <small><sub>**LXX:**</sub></small>
 the mighty men, and the women, and the infants remaining, and the daughters of the king, and the souls which Nabuzar-adan the chief guard left behind with Gedaliah son of Ahikam, and Jeremiah the prophet, and Baruch son of Neriah. 
-<small><sub>**KJV:**</sub></small>
-[Even] men, and women, and children, and the king’s daughters, and every person that Nebuzaradan the captain of the guard had left with Gedaliah the son of Ahikam the son of Shaphan, and Jeremiah the prophet, and Baruch the son of Neriah.
-<small><sub>**BSB:**</sub></small>
-the men, the women, the children, the king’s daughters, and everyone whom Nebuzaradan captain of the guard had allowed to remain with Gedaliah son of Ahikam, the son of Shaphan, as well as Jeremiah the prophet and Baruch son of Neriah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.5|<< Jeremiah 43:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.7|Jeremiah 43:7 >>]]</td></tr></table>
 
 | Translation | Greek |

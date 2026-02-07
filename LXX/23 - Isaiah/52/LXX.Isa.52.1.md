@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Awaken! Awaken, O Zion! Put on  your strength, O Zion! And you, put on  your glory, O Jerusalem, the holy city! No longer shall there proceed to go through you uncircumcised and unclean. 
-<small><sub>**KJV:**</sub></small>
-Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
-<small><sub>**BSB:**</sub></small>
-Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.23|<< Isaiah 51:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.2|Isaiah 52:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 52:1** is...

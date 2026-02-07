@@ -1,10 +1,7 @@
 **LXX Ezra 9:8** 
 <small><sub>**LXX:**</sub></small>
 And now as \[the\] <span class="smallcaps">lord</span> our God was lenient to us a little,  to leave us for deliverance, and to give to us reliance in \[the\] place of his sanctuary,  to enlighten our eyes, and to give a little restoration to life in  our servitude, 
-<small><sub>**KJV:**</sub></small>
-And now for a little space grace hath been [shewed] from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
-<small><sub>**BSB:**</sub></small>
-But now, for a brief moment, grace has come from the LORD our God to preserve for us a remnant and to give us a stake in His holy place. Even in our bondage, our God has given us new life and light to our eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.7|<< Ezra 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.9|Ezra 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

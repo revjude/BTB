@@ -1,4 +1,4 @@
-**Genesis 47:29** 
+**Genesis 47:29**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the time drew near for Israel to die, he called his son Joseph and said to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.28|<< Genesis 47:28]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.30|Genesis 47:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126G\|יִּקְרְב֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

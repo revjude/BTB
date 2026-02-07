@@ -1,12 +1,12 @@
-**Mark 12:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:35**<big><big>[[Mark.12.35 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?
 <small><sub>**BSB:**</sub></small>
 While Jesus was teaching in the temple courts, He asked, “How can the scribes say that the Christ is the Son of David?
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus was saying teaching in the temple; How say the scribes that the Christ [the] son of David is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.34|<< Mark 12:34]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.36|Mark 12:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

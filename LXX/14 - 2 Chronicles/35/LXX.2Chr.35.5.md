@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:5** 
 <small><sub>**LXX:**</sub></small>
 And stand in the house according to the divisions of \[the\] houses of your families,  of your brethren, \[the\] sons of the people, and \[the\] portion of the house of \[the\] family to the Levites! 
-<small><sub>**KJV:**</sub></small>
-And stand in the holy [place] according to the divisions of the families of the fathers of your brethren the people, and [after] the division of the families of the Levites.
-<small><sub>**BSB:**</sub></small>
-Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.4|<< 2 Chronicles 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.6|2 Chronicles 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

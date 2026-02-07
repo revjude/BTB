@@ -1,4 +1,4 @@
-**Ezekiel 42:20** 
+**Ezekiel 42:20**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He measured it by the four sides: it had a wall round about, five hundred [reeds] long, and five hundred broad, to make a separation between the sanctuary and the profane place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he measured the area on all four sides. It had a wall all around, five hundre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.19|<< Ezekiel 42:19]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.1|Ezekiel 43:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to four  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֨ע]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sides  |**<big>&#8207;[[H7307I\|רוּח֜וֹת]]&#8207; </big>**| ru.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 19:6** 
 <small><sub>**LXX:**</sub></small>
 And he sat down, and both ate together, and drank. And the father of the young woman said to the man, For a beginning, lodge and do good \[to\] your heart! 
-<small><sub>**KJV:**</sub></small>
-And they sat down, and did eat and drink both of them together: for the damsel’s father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.
-<small><sub>**BSB:**</sub></small>
-So they sat down and the two of them ate and drank together. Then the girl’s father said to the man, “Please agree to stay overnight and let your heart be merry.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.5|<< Judges 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.7|Judges 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

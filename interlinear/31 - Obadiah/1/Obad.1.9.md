@@ -1,4 +1,4 @@
-**Obadiah 1:9** 
+**Obadiah 1:9**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy mighty [men], O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then your mighty men, O Teman, will be terrified, so that everyone in the mounta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.8|<< Obadiah 1:8]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.10|Obadiah 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be dismayed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2865\|חַתּ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | warriors your  |**<big>&#8207;[[H1368\|גִבּוֹרֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| gi.bo.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

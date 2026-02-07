@@ -1,10 +1,7 @@
 **LXX Psalm 28:9** 
 <small><sub>**LXX:**</sub></small>
 Deliver  your people, and bless  your inheritance, and tend them, and lift them up unto the eon! 
-<small><sub>**KJV:**</sub></small>
-Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.
-<small><sub>**BSB:**</sub></small>
-Save Your people and bless Your inheritance; shepherd them and carry them forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.8|<< Psalm 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.1|Psalm 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

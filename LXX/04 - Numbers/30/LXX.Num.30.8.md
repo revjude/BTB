@@ -1,10 +1,7 @@
 **LXX Numbers 30:8** 
 <small><sub>**LXX:**</sub></small>
 But if in shaking his head in dissent her husband should dissent in which ever day he should hear all  her vows, and  her sets of limits which she confirmed on  her life, they shall not abide, for  her husband shook his head in dissent concerning her, and \[the\] <span class="smallcaps">lord</span> shall clear her. 
-<small><sub>**KJV:**</sub></small>
-But if her husband disallowed her on the day that he heard [it]; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her.
-<small><sub>**BSB:**</sub></small>
-But if her husband prohibits her when he hears of it, he nullifies the vow that binds her or the rash promise she has made, and the LORD will absolve her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.7|<< Numbers 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.9|Numbers 30:9 >>]]</td></tr></table>
 
 | Translation | Greek |

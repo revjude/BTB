@@ -1,10 +1,7 @@
 **LXX Proverbs 26:12** 
 <small><sub>**LXX:**</sub></small>
 I beheld a man seeming to be wise of himself, however a fool had \[more\] hope rather than he. 
-<small><sub>**KJV:**</sub></small>
-Seest thou a man wise in his own conceit? [there is] more hope of a fool than of him.
-<small><sub>**BSB:**</sub></small>
-Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.11|<< Proverbs 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.13|Proverbs 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

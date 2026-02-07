@@ -1,4 +1,4 @@
-**Nahum 1:13** 
+**Nahum 1:13**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now will I break his yoke from off thee, and will burst thy bonds in sunder.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will now break their yoke from your neck and tear away your shackles.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.12|<< Nahum 1:12]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.14|Nahum 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will break  |**<big>&#8207;[[H7665\|אֶשְׁבֹּ֥ר]]&#8207; </big>**| 'esh.Bor<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

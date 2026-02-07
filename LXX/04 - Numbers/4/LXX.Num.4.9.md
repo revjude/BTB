@@ -1,10 +1,7 @@
 **LXX Numbers 4:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall take \[the\] cloak of blue, and they shall cover the lamp-stand, the one giving light, and  its lamps, and  its tongs, and  its oil funnels, and all the receptacles  for its oil, as many \[things\] as they officiate with them. 
-<small><sub>**KJV:**</sub></small>
-And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
-<small><sub>**BSB:**</sub></small>
-They are to take a blue cloth and cover the lampstand used for light, together with its lamps, wick trimmers, and trays, as well as the jars of oil with which to supply it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.8|<< Numbers 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.10|Numbers 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

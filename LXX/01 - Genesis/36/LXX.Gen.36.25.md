@@ -1,10 +1,7 @@
 **LXX Genesis 36:25** 
 <small><sub>**LXX:**</sub></small>
 And these \[were the\] sons of Anah -- Dishon, and Aholibama \[was\] daughter of Anah. 
-<small><sub>**KJV:**</sub></small>
-And the children of Anah [were] these; Dishon, and Aholibamah the daughter of Anah.
-<small><sub>**BSB:**</sub></small>
-These are the children of Anah: Dishon and Oholibamah daughter of Anah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.24|<< Genesis 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.26|Genesis 36:26 >>]]</td></tr></table>
 
 | Translation | Greek |

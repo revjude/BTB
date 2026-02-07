@@ -1,6 +1,6 @@
 (KJV) **Judges 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7|<< Judges 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9|Judges 9 >>]]</td></tr></table>
 
-***Gideon Defeats Zebah and Zalmunna*** ^bsb618
+<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥃]]</big></big>***Gideon Defeats Zebah and Zalmunna***
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.8.1|1]]**<span class="endversemarker">]</span> And the men<small><small>[^2]</small></small> of Ephraim said unto him, Why<small><small>[^3]</small></small> hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply. <span class="startversemarker">[</span>**[[Judg.8.2|2]]**<span class="endversemarker">]</span> And he said unto them, What<small><small>[^4]</small></small> have I done now in comparison of you? \[Is\] not the<small><small>[^5]</small></small> gleaning of the grapes of Ephraim better than the vintage of Abi–ezer<small><small>[^6]</small></small>? <span class="startversemarker">[</span>**[[Judg.8.3|3]]**<span class="endversemarker">]</span> God<small><small>[^7]</small></small> hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then<small><small>[^8]</small></small> their anger<small><small>[^9]</small></small> was abated toward him, when he had said that. 
 
@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.8.13|13]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.8.18|18]]**<span class="endversemarker">]</span> Then said he unto Zebah and Zalmunna, What manner of men \[were they\] whom ye slew at Tabor<small><small>[^33]</small></small>? And they answered, As thou \[art<small><small>[^34]</small></small>\], so \[were\] they; each one resembled<small><small>[^35]</small></small> the children of a king. <span class="startversemarker">[</span>**[[Judg.8.19|19]]**<span class="endversemarker">]</span> And he said, They \[were\] my brethren, \[even\] the sons of my mother: \[as\] the <span class="smallcaps">Lord</span> liveth, if ye had saved them alive, I would not slay you. <span class="startversemarker">[</span>**[[Judg.8.20|20]]**<span class="endversemarker">]</span> And he said unto Jether his firstborn, Up, \[and\] slay them. But the youth drew not his sword: for he feared, because he \[was\] yet a youth.<small><small>[^36]</small></small> <span class="startversemarker">[</span>**[[Judg.8.21|21]]**<span class="endversemarker">]</span> Then Zebah and Zalmunna said, Rise thou<small><small>[^37]</small></small>, and fall upon us: for as the man \[is\], \[so is\] his strength. And Gideon arose, and slew<small><small>[^38]</small></small> Zebah and Zalmunna, and took away the ornaments<small><small>[^39]</small></small> that \[were\] on their camels’ necks.
 
-***Gideon’s Ephod*** ^bsb619
+<big><big>[[Judg.8.22 Gideon’s Ephod|⥃]]</big></big>***Gideon’s Ephod***
 
  
 
@@ -26,7 +26,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.8.22|22]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.8.24|24]]**<span class="endversemarker">]</span> [¶]And Gideon said unto them, I would desire a request of you, that ye would give me<small><small>[^43]</small></small> every man the earrings of his prey. (For they had golden earrings, because<small><small>[^44]</small></small> they \[were\] Ishmaelites.) <span class="startversemarker">[</span>**[[Judg.8.25|25]]**<span class="endversemarker">]</span> And they answered, We will willingly give \[them\]. And they spread a garment, and did cast therein every man the earrings of his prey. <span class="startversemarker">[</span>**[[Judg.8.26|26]]**<span class="endversemarker">]</span> And the weight of the golden earrings that he requested was a thousand<small><small>[^45]</small></small> and seven hundred \[shekels\] of gold; beside ornaments, and collars<small><small>[^46]</small></small>, and purple<small><small>[^47]</small></small> raiment that \[was\] on the kings of Midian, and beside the chains<small><small>[^48]</small></small> that \[were\] about their camels’ necks. <span class="startversemarker">[</span>**[[Judg.8.27|27]]**<span class="endversemarker">]</span> And Gideon made an ephod<small><small>[^49]</small></small> thereof, and put it in his city, \[even\] in Ophrah<small><small>[^50]</small></small>: and all Israel went thither a whoring<small><small>[^51]</small></small> after it: which thing became a snare<small><small>[^52]</small></small> unto Gideon, and to his house.
 
-***Forty Years of Peace*** ^bsb620
+<big><big>[[Judg.8.28 Forty Years of Peace|⥃]]</big></big>***Forty Years of Peace***
 
  
 
@@ -34,7 +34,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.8.28|28]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.8.29|29]]**<span class="endversemarker">]</span> And Jerubbaal<small><small>[^55]</small></small> the son of Joash went and dwelt in his own house<small><small>[^56]</small></small>. <span class="startversemarker">[</span>**[[Judg.8.30|30]]**<span class="endversemarker">]</span> And Gideon had threescore<small><small>[^57]</small></small> and ten sons of his body begotten<small><small>[^58]</small></small>: for he had many wives<small><small>[^59]</small></small>. <span class="startversemarker">[</span>**[[Judg.8.31|31]]**<span class="endversemarker">]</span> And his concubine<small><small>[^60]</small></small> that \[was\] in Shechem, she also bare him a son, whose name he called<small><small>[^61]</small></small> Abimelech<small><small>[^62]</small></small>.
 
-***Gideon’s Death*** ^bsb621
+<big><big>[[Judg.8.32 Gideon’s Death|⥃]]</big></big>***Gideon’s Death***
 
  
 

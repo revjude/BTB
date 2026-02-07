@@ -1,12 +1,12 @@
-**Luke 8:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:24**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
 <small><sub>**BSB:**</sub></small>
 The disciples went and woke Him, saying, “Master, Master, we are perishing!” Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm.
 <small><sub>**Literal:**</sub></small>
 Having come to [Him] then they awoke Him saying; Master Master, we are perishing! <the> And having arisen up He rebuked the wind and the raging of the water. and they ceased, and there was a calm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.23|<< Luke 8:23]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.25|Luke 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come to [Him] |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

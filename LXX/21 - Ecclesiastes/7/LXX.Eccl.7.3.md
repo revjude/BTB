@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:3** 
 <small><sub>**LXX:**</sub></small>
 Better \[is\] rage than laughter, for by hurt of countenance \[the\] heart will be made better. 
-<small><sub>**KJV:**</sub></small>
-Sorrow [is] better than laughter: for by the sadness of the countenance the heart is made better.
-<small><sub>**BSB:**</sub></small>
-Sorrow is better than laughter, for a sad countenance is good for the heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.2|<< Ecclesiastes 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.4|Ecclesiastes 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

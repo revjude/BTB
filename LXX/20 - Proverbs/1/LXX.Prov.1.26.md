@@ -1,10 +1,7 @@
 **LXX Proverbs 1:26** 
 <small><sub>**LXX:**</sub></small>
 accordingly I also  laugh at your destruction; and I will rejoice when ever ruin comes to you. 
-<small><sub>**KJV:**</sub></small>
-I also will laugh at your calamity; I will mock when your fear cometh;
-<small><sub>**BSB:**</sub></small>
-in turn I will mock your calamity; I will sneer when terror strikes you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.25|<< Proverbs 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.27|Proverbs 1:27 >>]]</td></tr></table>
 
 | Translation | Greek |

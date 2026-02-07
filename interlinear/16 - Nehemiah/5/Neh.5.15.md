@@ -1,4 +1,4 @@
-**Nehemiah 5:15** 
+**Nehemiah 5:15**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the former governors that [had been] before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The governors before me had heavily burdened the people, taking from them bread 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.14|<< Nehemiah 5:14]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.16|Nehemiah 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the governors  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6346\|פַּחוֹת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> pa.chOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> former  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223H\|רִאשֹׁנִ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.sho.Nim<small><sup>[[HAompa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

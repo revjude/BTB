@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:11** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people he put into \[the\] hand of Abishai  his brother, and they deployed right opposite \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the people he delivered unto the hand of Abishai his brother, and they set [themselves] in array against the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.10|<< 1 Chronicles 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.12|1 Chronicles 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

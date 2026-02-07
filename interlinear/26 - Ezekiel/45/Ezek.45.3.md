@@ -1,4 +1,4 @@
-**Ezekiel 45:3** 
+**Ezekiel 45:3**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of this measure shalt thou measure the length of five and twenty thousand, and the breadth of ten thousand: and in it shall be the sanctuary [and] the most holy [place].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From this holy portion, you are to measure off a length of 25,000 cubits and a w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.2|<< Ezekiel 45:2]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.4|Ezekiel 45:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the measured area  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4060A\|מִּדָּ֤ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

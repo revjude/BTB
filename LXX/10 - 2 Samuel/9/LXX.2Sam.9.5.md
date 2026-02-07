@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:5** 
 <small><sub>**LXX:**</sub></small>
 And king David sent, and took him from out of the house of Machir, son of Ammiel, of  Lo-debar. 
-<small><sub>**KJV:**</sub></small>
-Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.
-<small><sub>**BSB:**</sub></small>
-So King David had him brought from the house of Machir son of Ammiel in Lo-debar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.4|<< 2 Samuel 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.6|2 Samuel 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

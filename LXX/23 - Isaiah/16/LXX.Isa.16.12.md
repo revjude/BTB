@@ -1,10 +1,7 @@
 **LXX Isaiah 16:12** 
 <small><sub>**LXX:**</sub></small>
 And it shall be for  your feeling of shame (for Moab tired upon the shrines) that he shall enter unto the handmade \[things\] of hers so as to pray; and in no way should \[they\] be able to rescue her. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail.
-<small><sub>**BSB:**</sub></small>
-When Moab appears on the high place, when he wearies himself and enters his sanctuary to pray, it will do him no good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.11|<< Isaiah 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.13|Isaiah 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 41:15** 
+**Jeremiah 41:15**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Ishmael the son of Nethaniah escaped from Johanan with eight men, and went to the Ammonites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Ishmael son of Nethaniah and eight of his men escaped from Johanan and went 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.14|<< Jeremiah 41:14]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.16|Jeremiah 41:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ishmael  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3458H\|יִשְׁמָעֵ֣אל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

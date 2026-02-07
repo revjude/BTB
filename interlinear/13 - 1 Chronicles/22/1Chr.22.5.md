@@ -1,4 +1,4 @@
-**1 Chronicles 22:5** 
+**1 Chronicles 22:5**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, Solomon my son [is] young and tender, and the house [that is] to be builded for the LORD [must be] exceeding magnifical, of fame and of glory throughout all countries: I will [therefore] now make preparation for it. So David prepared abundantly before his death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David said, “My son Solomon is young and inexperienced, and the house to b
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.4|<< 1 Chronicles 22:4]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.6|1 Chronicles 22:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֗יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

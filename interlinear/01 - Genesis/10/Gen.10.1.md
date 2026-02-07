@@ -1,4 +1,4 @@
-**Genesis 10:1** 
+**Genesis 10:1**<big><big>[[Gen.10.1 The Table of Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.29|<< Genesis 9:29]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.2|Genesis 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] accounts of  |**<big>&#8207;[[H8435\|תּוֹלְדֹ֣ת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

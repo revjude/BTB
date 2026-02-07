@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:25** 
 <small><sub>**LXX:**</sub></small>
 And David said to the messenger, Thus you shall say to Joab, Do not let this matter be severe in your eyes, for perhaps indeed it is thus \[one way\], and perhaps thus \[another way\] \[that\] the broadsword devours; strengthen  your battle against the city, and raze it, and strengthen against it. 
-<small><sub>**KJV:**</sub></small>
-Then David said unto the messenger, Thus shalt thou say unto Joab, Let not this thing displease thee, for the sword devoureth one as well as another: make thy battle more strong against the city, and overthrow it: and encourage thou him.
-<small><sub>**BSB:**</sub></small>
-Then David told the messenger, “Say this to Joab: ‘Do not let this matter upset you, for the sword devours one as well as another. Strengthen your attack against the city and demolish it.’ Encourage him with these words.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.24|<< 2 Samuel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.26|2 Samuel 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

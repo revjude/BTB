@@ -1,4 +1,4 @@
-**Jeremiah 30:22** 
+**Jeremiah 30:22**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be my people, and I will be your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And ye shall be my people, and I will be your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.21|<< Jeremiah 30:21]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.23|Jeremiah 30:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will become  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H1961\|הְיִ֥יתֶם]]&#8207; </big>**| vi<small><sup>[[Hc]]</sup></small> h.Yi.tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> me  |**<big>&#8207;[[H9005\|לִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 8:14** 
+**Hosea 8:14**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel has forgotten his Maker and built palaces; Judah has multiplied its forti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.13|<< Hosea 8:13]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.1|Hosea 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has forgotten  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7911\|יִּשְׁכַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

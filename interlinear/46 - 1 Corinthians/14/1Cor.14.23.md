@@ -1,12 +1,12 @@
-**1 Corinthians 14:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:23**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If therefore the whole church be come together into one place, and all speak with tongues, and there come in [those that are] unlearned, or unbelievers, will they not say that ye are mad?
 <small><sub>**BSB:**</sub></small>
 So if the whole church comes together and everyone speaks in tongues, and some who are uninstructed or some unbelievers come in, will they not say that you are out of your minds?
 <small><sub>**Literal:**</sub></small>
 If therefore shall gather the church whole together the place and all shall speak in tongues may come in however uninstructed ones or unbelievers, surely they will say that you are mad?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.22|<< 1 Corinthians 14:22]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.24|1 Corinthians 14:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

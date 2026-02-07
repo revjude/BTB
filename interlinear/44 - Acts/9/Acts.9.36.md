@@ -1,12 +1,12 @@
-**Acts 9:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:36**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.
 <small><sub>**BSB:**</sub></small>
 In Joppa there was a disciple named Tabitha (which is translated as Dorcas), who was always occupied with works of kindness and charity.
 <small><sub>**Literal:**</sub></small>
 In Joppa now certain there was a disciple named Tabitha, which being translated is called Dorcas; She was full of works good and of alms that she was doing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.35|<< Acts 9:35]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.37|Acts 9:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Joppa |**<big>[[G2445\|Ἰόππῃ]]</big>**  |Ioppē <small><sup>[[N-DSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

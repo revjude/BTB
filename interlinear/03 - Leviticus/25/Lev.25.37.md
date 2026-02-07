@@ -1,4 +1,4 @@
-**Leviticus 25:37** 
+**Leviticus 25:37**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not lend him your silver at interest or sell him your food for profit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.36|<< Leviticus 25:36]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.38|Leviticus 25:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶ֨ת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'Et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver your  |**<big>&#8207;[[H3701G\|כַּסְפְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| kas.pe.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

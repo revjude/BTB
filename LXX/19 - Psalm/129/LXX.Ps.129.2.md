@@ -1,10 +1,7 @@
 **LXX Psalm 129:2** 
 <small><sub>**LXX:**</sub></small>
 Many times they waged war \[against\] me from my youth; and yet they were not able \[to prevail\] against me. 
-<small><sub>**KJV:**</sub></small>
-Many a time have they afflicted me from my youth: yet they have not prevailed against me.
-<small><sub>**BSB:**</sub></small>
-many a time they have persecuted me from my youth, but they have not prevailed against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.129.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.1|<< Psalm 129:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.3|Psalm 129:3 >>]]</td></tr></table>
 
 | Translation | Greek |

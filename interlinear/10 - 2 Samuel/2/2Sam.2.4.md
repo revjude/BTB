@@ -1,4 +1,4 @@
-**2 Samuel 2:4** 
+**2 Samuel 2:4**<big><big>[[2Sam.2.1 David Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, [That] the men of Jabeshgilead [were they] that buried Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the men of Judah came to Hebron, and there they anointed David king over th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.3|<< 2 Samuel 2:3]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.5|2 Samuel 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֙אוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 13:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:21**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
 <small><sub>**BSB:**</sub></small>
 Then the people asked for a king, and God gave them Saul son of Kish, from the tribe of Benjamin, who ruled forty years.
@@ -10,7 +10,7 @@ Then they asked for a king, and gave to them <the> God <the> Saul son of Kish, a
 > $\quad$ alluding to: [[LXX.1Sam.8.5|1Sam 8:5]] ☩ [[LXX.1Sam.10.21|1Sam 10:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they asked for |**<big>[[G0154\|ᾐτήσαντο]]</big>**  |ētēsanto <small><sup>[[V-AMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

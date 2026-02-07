@@ -1,4 +1,4 @@
-**Job 18:18** 
+**Job 18:18**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall be driven from light into darkness, and chased out of the world.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is driven from light into darkness and is chased from the inhabited world.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.17|<< Job 18:17]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.19|Job 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people drive him  |**<big>&#8207;[[H1920\|יֶ֭הְדְּפֻ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Yeh.de.fu.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from light  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0216\|א֣וֹר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

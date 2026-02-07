@@ -1,10 +1,7 @@
 **LXX Leviticus 7:16** 
 <small><sub>**LXX:**</sub></small>
 And if it should be a vow, he should sacrifice the voluntary \[offering\], the one of his gift \[offering\]; in which ever day he should bring  his sacrifice, it shall be eaten and in the next morning. 
-<small><sub>**KJV:**</sub></small>
-But if the sacrifice of his offering [be] a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:
-<small><sub>**BSB:**</sub></small>
-If, however, the sacrifice he offers is a vow or a freewill offering, it shall be eaten on the day he presents his sacrifice, but the remainder may be eaten on the next day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.15|<< Leviticus 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.17|Leviticus 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

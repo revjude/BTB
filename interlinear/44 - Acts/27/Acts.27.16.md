@@ -1,12 +1,12 @@
-**Acts 27:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:16**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And running under a certain island which is called Clauda, we had much work to come by the boat:
 <small><sub>**BSB:**</sub></small>
 Passing to the lee of a small island called Cauda, we barely managed to secure the lifeboat.
 <small><sub>**Literal:**</sub></small>
 An Island then certain having run under being called Cauda we were able with difficulty control to gain of the lifeboat,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.15|<< Acts 27:15]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.17|Acts 27:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | An Island |**<big>[[G3519\|νησίον]]</big>**  |nēsion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

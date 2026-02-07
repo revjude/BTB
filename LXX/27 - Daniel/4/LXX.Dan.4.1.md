@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Nebuchadnezzar the king to all the peoples, tribes, languages, to the ones dwelling in all the land; \[be\] multiplied peace to you. 
-<small><sub>**KJV:**</sub></small>
-Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
-<small><sub>**BSB:**</sub></small>
-King Nebuchadnezzar, To the people of every nation and language who dwell in all the earth: May your prosperity be multiplied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.30|<< Daniel 3:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.2|Daniel 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

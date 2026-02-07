@@ -1,4 +1,4 @@
-**Nehemiah 6:9** 
+**Nehemiah 6:9**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, [O God], strengthen my hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they were all trying to frighten us, saying, “Their hands will be weakened
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.8|<< Nehemiah 6:8]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.10|Nehemiah 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all of them  |**<big>&#8207;[[H3605\|כֻלָּ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| khu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

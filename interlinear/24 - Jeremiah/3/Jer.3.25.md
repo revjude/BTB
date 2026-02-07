@@ -1,4 +1,4 @@
-**Jeremiah 3:25** 
+**Jeremiah 3:25**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let us lie down in our shame; let our disgrace cover us. We have sinned against 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.24|<< Jeremiah 3:24]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.1|Jeremiah 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us lie down  |**<big>&#8207;[[H7901G\|נִשְׁכְּבָ֣ה]]&#8207; </big>**| nish.ke.Vah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in shame our  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1322\|בָשְׁתֵּ֗]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> va.she.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

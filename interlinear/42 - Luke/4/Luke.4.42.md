@@ -1,12 +1,12 @@
-**Luke 4:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:42**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.
 <small><sub>**BSB:**</sub></small>
 At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving.
 <small><sub>**Literal:**</sub></small>
 When was arriving now daybreak having gone out He went into a solitary place, and the crowds were sought after Him and they came up to Him and were detaining Him of the not to go from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.41|<< Luke 4:41]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.43|Luke 4:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was arriving |**<big>[[G1096\|Γενομένης]]</big>**  |Genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

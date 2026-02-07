@@ -1,4 +1,4 @@
-**Genesis 4:22** 
+**Genesis 4:22**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain [was] Naamah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zillah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6741\|צִלָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzi.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

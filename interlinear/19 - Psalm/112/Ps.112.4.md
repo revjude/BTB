@@ -1,4 +1,4 @@
-**Psalms 112:4** 
+**Psalms 112:4**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the upright there ariseth light in the darkness: [he is] gracious, and full of compassion, and righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Light dawns in the darkness for the upright—for the gracious, compassionate, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.3|<< Psalms 112:3]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.5|Psalms 112:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it rises  |**<big>&#8207;[[H2224\|זָ֘רַ֤ח]]&#8207; </big>**| za.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the darkness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2822\|חֹ֣שֶׁךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

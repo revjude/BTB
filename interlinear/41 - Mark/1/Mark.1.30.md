@@ -1,12 +1,12 @@
-**Mark 1:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:30**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her.
 <small><sub>**BSB:**</sub></small>
 Simon’s mother-in-law was sick in bed with a fever, and they promptly told Jesus about her.
 <small><sub>**Literal:**</sub></small>
 <the> and the mother-in-law of Simon was laying sick fevering, And immediately they speak to Him about her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.29|<< Mark 1:29]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.31|Mark 1:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

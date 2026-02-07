@@ -1,10 +1,7 @@
 **LXX Numbers 5:20** 
 <small><sub>**LXX:**</sub></small>
 But if being married you violated, or were defiled, and any gave  of his marriage-bed with you, besides  your husband; 
-<small><sub>**KJV:**</sub></small>
-But if thou hast gone aside [to another] instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:
-<small><sub>**BSB:**</sub></small>
-But if you have gone astray while under your husband’s authority and have defiled yourself and lain carnally with a man other than your husband’—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.21|Numbers 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

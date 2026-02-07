@@ -1,4 +1,4 @@
-**Deuteronomy 4:33** 
+**Deuteronomy 4:33**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did [ever] people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Has a people ever heard the voice of God speaking out of the fire, as you have, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.32|<< Deuteronomy 4:32]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.34|Deuteronomy 4:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ has it heard  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H8085G\|שָׁ֣מַֽע]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Sha.ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a people  |**<big>&#8207;[[H5971A\|עָם֩]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

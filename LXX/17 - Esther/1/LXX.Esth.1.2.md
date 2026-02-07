@@ -1,10 +1,7 @@
 **LXX Esther 1:2** 
 <small><sub>**LXX:**</sub></small>
 And in those  days when king Artaxerxes was enthroned in Shushan the city, 
-<small><sub>**KJV:**</sub></small>
-[That] in those days, when the king Ahasuerus sat on the throne of his kingdom, which [was] in Shushan the palace,
-<small><sub>**BSB:**</sub></small>
-In those days King Xerxes sat on his royal throne in the citadel of Susa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.1|<< Esther 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.3|Esther 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

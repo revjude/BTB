@@ -1,10 +1,7 @@
 **LXX Numbers 17:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to Moses, saying, Behold, we have been completely consumed, we have been destroyed, we all have been uselessly consumed, 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites declared to Moses, “Look, we are perishing! We are lost; we are all lost!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.11|<< Numbers 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.13|Numbers 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

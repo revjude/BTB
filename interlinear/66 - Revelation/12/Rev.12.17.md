@@ -1,12 +1,12 @@
-**Revelation 12:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:17**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 And the dragon was enraged at the woman and went to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus. And the dragon stood on the shore of the sea.
 <small><sub>**Literal:**</sub></small>
 And was angry the dragon with the woman and went to make war with the rest of the children of her who are keeping the commandments <the> of God and holding the testimony <the> of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.16|<< Revelation 12:16]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.18|Revelation 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was angry |**<big>[[G3710\|ὠργίσθη]]</big>**  |ōrgisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

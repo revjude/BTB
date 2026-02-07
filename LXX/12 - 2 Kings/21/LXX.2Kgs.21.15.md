@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:15** 
 <small><sub>**LXX:**</sub></small>
 because of as much as they did the wicked \[thing\] in my eyes, and they were provoking me to anger from the day which I led  their fathers from out of Egypt, and until  this day. 
-<small><sub>**KJV:**</sub></small>
-Because they have done [that which was] evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.
-<small><sub>**BSB:**</sub></small>
-because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.14|<< 2 Kings 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.16|2 Kings 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

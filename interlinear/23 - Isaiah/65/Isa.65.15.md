@@ -1,4 +1,4 @@
-**Isaiah 65:15** 
+**Isaiah 65:15**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will leave behind your name as a curse for My chosen ones, and the Lord GOD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.14|<< Isaiah 65:14]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.16|Isaiah 65:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will leave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5117\|הִנַּחְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.nach.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9026\|כֶ֤ם]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

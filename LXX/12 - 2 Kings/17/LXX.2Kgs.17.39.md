@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:39** 
 <small><sub>**LXX:**</sub></small>
 For only the <span class="smallcaps">lord</span>  your God -- him you shall fear; and he will rescue you from \[the\] hand of all  your enemies. 
-<small><sub>**KJV:**</sub></small>
-But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies.
-<small><sub>**BSB:**</sub></small>
-but worship the LORD your God, and He will deliver you from the hands of all your enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.38|<< 2 Kings 17:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.40|2 Kings 17:40 >>]]</td></tr></table>
 
 | Translation | Greek |

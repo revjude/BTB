@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, you are fair  my dear one; behold, you are fair. Your eyes -- doves outside  your veil. Your head of hair \[is\] as herds  of goats, the ones who were revealed from  Gilead. 
-<small><sub>**KJV:**</sub></small>
-Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves’ eyes within thy locks: thy hair [is] as a flock of goats, that appear from mount Gilead.
-<small><sub>**BSB:**</sub></small>
-How beautiful you are, my darling—how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.11|<< Song of Solomon 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.2|Song of Solomon 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

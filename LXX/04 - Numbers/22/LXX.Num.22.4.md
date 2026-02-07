@@ -1,10 +1,7 @@
 **LXX Numbers 22:4** 
 <small><sub>**LXX:**</sub></small>
 And Moab said to the council of elders of Midian, Now this congregation shall lick up all the ones round about us, as the calf licks up the green \[grass\] from the plain. And Balak son of Zippor was king of Moab at  that time. 
-<small><sub>**KJV:**</sub></small>
-And Moab said unto the elders of Midian, Now shall this company lick up all [that are] round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor [was] king of the Moabites at that time.
-<small><sub>**BSB:**</sub></small>
-So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.3|<< Numbers 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.5|Numbers 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

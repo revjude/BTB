@@ -1,4 +1,4 @@
-**2 Samuel 22:44** 
+**2 Samuel 22:44**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou also hast delivered me from the strivings of my people, thou hast kept me [to be] head of the heathen: a people [which] I knew not shall serve me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have delivered me from the strife of my people; You have preserved me as the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.43|<< 2 Samuel 22:43]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.45|2 Samuel 22:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you rescued me  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6403\|תְּפַלְּטֵ֔]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.fa.le.Te.<small><sup>[[HVpw2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] strifes of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7379\|רִיבֵ֖י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ri.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

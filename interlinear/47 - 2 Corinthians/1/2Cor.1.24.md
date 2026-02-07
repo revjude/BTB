@@ -1,12 +1,12 @@
-**2 Corinthians 1:24
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:24**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.
 <small><sub>**BSB:**</sub></small>
 Not that we lord it over your faith, but we are fellow workers with you for your joy, because it is by faith that you stand firm.
 <small><sub>**Literal:**</sub></small>
 Not for we lord it over your <the> faith, but fellow workers are of the joy with you; in the for faith you have stood firm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.23|<< 2 Corinthians 1:23]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.1|2 Corinthians 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

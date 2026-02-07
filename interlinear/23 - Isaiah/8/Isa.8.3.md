@@ -1,4 +1,4 @@
-**Isaiah 8:3** 
+**Isaiah 8:3**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I went unto the prophetess; and she conceived, and bare a son. Then said the LORD to me, Call his name Mahershalalhashbaz.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I had relations with the prophetess, and she conceived and gave birth to a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.2|<< Isaiah 8:2]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.4|Isaiah 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I drew near  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7126G\|אֶקְרַב֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.Rav<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

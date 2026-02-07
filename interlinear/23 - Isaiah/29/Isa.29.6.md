@@ -1,4 +1,4 @@
-**Isaiah 29:6** 
+**Isaiah 29:6**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you will be visited by the LORD of Hosts with thunder and earthquake and loud no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.5|<< Isaiah 29:5]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.7|Isaiah 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5973B\|עִ֨ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

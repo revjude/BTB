@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:22** 
 <small><sub>**LXX:**</sub></small>
 And David relieved  his items from himself unto \[the\] hand of the provisions officer, and he ran to the battle array, and he came and asked  his brothers the \[things\] for peace. 
-<small><sub>**KJV:**</sub></small>
-And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and saluted his brethren.
-<small><sub>**BSB:**</sub></small>
-Then David left his supplies in the care of the quartermaster and ran to the battle line. When he arrived, he asked his brothers how they were doing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.21|<< 1 Samuel 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.23|1 Samuel 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

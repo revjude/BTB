@@ -1,10 +1,7 @@
 **LXX Psalm 109:31** 
 <small><sub>**LXX:**</sub></small>
 For he stands at \[the\] right \[hand\] of \[the\] needy,  to deliver from the ones pursuing  my soul. 
-<small><sub>**KJV:**</sub></small>
-For he shall stand at the right hand of the poor, to save [him] from those that condemn his soul.
-<small><sub>**BSB:**</sub></small>
-For He stands at the right hand of the needy one, to save him from the condemners of his soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.30|<< Psalm 109:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.1|Psalm 110:1 >>]]</td></tr></table>
 
 | Translation | Greek |

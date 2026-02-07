@@ -1,10 +1,7 @@
 **LXX Leviticus 15:7** 
 <small><sub>**LXX:**</sub></small>
 And the one touching the flesh of the one having a seminal emission, he shall wash  his garments, and shall bathe in water, and he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Whoever touches the body of the man with a discharge must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.6|<< Leviticus 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.8|Leviticus 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

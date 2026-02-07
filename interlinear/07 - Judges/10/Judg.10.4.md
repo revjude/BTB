@@ -1,4 +1,4 @@
-**Judges 10:4** 
+**Judges 10:4**<big><big>[[Judg.10.3 Jair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which [are] in the land of Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had thirty sons who rode on thirty donkeys. And they had thirty towns in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.3|<< Judges 10:3]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.5|Judges 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֞]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

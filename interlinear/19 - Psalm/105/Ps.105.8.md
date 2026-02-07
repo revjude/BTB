@@ -1,4 +1,4 @@
-**Psalms 105:8** 
+**Psalms 105:8**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath remembered his covenant for ever, the word [which] he commanded to a thousand generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He remembers His covenant forever, the word He ordained for a thousand generatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.7|<< Psalms 105:7]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.9|Psalms 105:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he remembers  |**<big>&#8207;[[H2142\|זָכַ֣ר]]&#8207; </big>**| za.Khar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֣ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

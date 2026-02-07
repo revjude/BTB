@@ -1,10 +1,7 @@
 **LXX Psalm 61:5** 
 <small><sub>**LXX:**</sub></small>
 For you, O God, listened to  my vows. You gave an inheritance to the ones fearing  your name. 
-<small><sub>**KJV:**</sub></small>
-For thou, O God, hast heard my vows: thou hast given [me] the heritage of those that fear thy name.
-<small><sub>**BSB:**</sub></small>
-For You have heard my vows, O God; You have given me the inheritance reserved for those who fear Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.4|<< Psalm 61:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.6|Psalm 61:6 >>]]</td></tr></table>
 
 | Translation | Greek |

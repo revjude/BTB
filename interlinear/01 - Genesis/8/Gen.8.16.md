@@ -1,4 +1,4 @@
-**Genesis 8:16** 
+**Genesis 8:16**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.15|<< Genesis 8:15]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.17|Genesis 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go out  |**<big>&#8207;[[H3318G\|צֵ֖א]]&#8207; </big>**| tze'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

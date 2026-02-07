@@ -1,10 +1,7 @@
 **LXX Psalm 107:6** 
 <small><sub>**LXX:**</sub></small>
 And they cried out to \[the\] <span class="smallcaps">lord</span> in  their being afflicted, and from  their distresses he rescued them. 
-<small><sub>**KJV:**</sub></small>
-Then they cried unto the LORD in their trouble, [and] he delivered them out of their distresses.
-<small><sub>**BSB:**</sub></small>
-Then they cried out to the LORD in their trouble, and He delivered them from their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.5|<< Psalm 107:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.7|Psalm 107:7 >>]]</td></tr></table>
 
 | Translation | Greek |

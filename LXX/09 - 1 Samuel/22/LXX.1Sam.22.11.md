@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:11** 
 <small><sub>**LXX:**</sub></small>
 And the king sent to call  Ahimelech son of Ahitub the priest, and all the sons  of his father of the priests, of the ones in Nob. And they all came to the king. 
-<small><sub>**KJV:**</sub></small>
-Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests that [were] in Nob: and they came all of them to the king.
-<small><sub>**BSB:**</sub></small>
-Then the king sent messengers to summon Ahimelech the priest, the son of Ahitub, and his father’s whole family, who were priests at Nob. And all of them came to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.10|<< 1 Samuel 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.12|1 Samuel 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

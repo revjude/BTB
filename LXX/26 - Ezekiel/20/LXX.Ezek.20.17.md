@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:17** 
 <small><sub>**LXX:**</sub></small>
 And my eye spared them  to not wipe them away, and I did not commit them unto consumption in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.
-<small><sub>**BSB:**</sub></small>
-Yet I looked on them with pity and did not destroy them or bring them to an end in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.16|<< Ezekiel 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.18|Ezekiel 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

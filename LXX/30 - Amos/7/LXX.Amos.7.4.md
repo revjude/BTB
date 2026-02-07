@@ -1,10 +1,7 @@
 **LXX Amos 7:4** 
 <small><sub>**LXX:**</sub></small>
 Thus \[the\] <span class="smallcaps">lord</span> showed to me. And behold \[the\] <span class="smallcaps">lord</span> called punishment by fire, and it devoured the great abyss, and it devoured the portion. 
-<small><sub>**KJV:**</sub></small>
-Thus hath the Lord GOD shewed unto me: and, behold, the Lord GOD called to contend by fire, and it devoured the great deep, and did eat up a part.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD showed me: The Lord GOD was calling for judgment by fire. It consumed the great deep and devoured the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.3|<< Amos 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.5|Amos 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

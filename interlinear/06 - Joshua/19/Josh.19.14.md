@@ -1,4 +1,4 @@
-**Joshua 19:14** 
+**Joshua 19:14**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the border circled around the north side of Neah to Hannathon and ended at 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.13|<< Joshua 19:13]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.15|Joshua 19:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437G\|נָסַ֤ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sav<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> itself  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

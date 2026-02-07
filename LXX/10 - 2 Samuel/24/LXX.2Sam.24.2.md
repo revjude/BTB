@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:2** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Joab, ruler of the forces of the ones with him, Go around indeed all the tribes  of Israel and Judah, from Dan and unto Beer-sheba, and number the people! and I shall know the number of the people. 
-<small><sub>**KJV:**</sub></small>
-For the king said to Joab the captain of the host, which [was] with him, Go now through all the tribes of Israel, from Dan even to Beersheba, and number ye the people, that I may know the number of the people.
-<small><sub>**BSB:**</sub></small>
-So the king said to Joab the commander of his army, who was with him, “Go now throughout the tribes of Israel from Dan to Beersheba and register the troops, so that I may know their number.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.1|<< 2 Samuel 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.3|2 Samuel 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

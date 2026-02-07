@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:20** 
 <small><sub>**LXX:**</sub></small>
 Before \[the\] <span class="smallcaps">lord</span>  your God you shall eat it year by year, in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose -- you and  your house. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt eat [it] before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.
-<small><sub>**BSB:**</sub></small>
-Each year you and your household are to eat it before the LORD your God in the place the LORD will choose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.19|<< Deuteronomy 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.21|Deuteronomy 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

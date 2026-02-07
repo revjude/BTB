@@ -1,12 +1,12 @@
-**1 Timothy 4:8
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:8**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.
 <small><sub>**BSB:**</sub></small>
 For physical exercise is of limited value, but godliness is valuable in every way, holding promise for the present life and for the one to come.
 <small><sub>**Literal:**</sub></small>
 <the> For bodily exercise of a little is profit, <the> but godliness for everything profitable is [the] promise holding of life of the present and which is coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.7|<< 1 Timothy 4:7]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.9|1 Timothy 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

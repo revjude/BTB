@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:3** 
 <small><sub>**LXX:**</sub></small>
 From the sons of Perez ruler of all the rulers of the force of the first month. 
-<small><sub>**KJV:**</sub></small>
-Of the children of Perez [was] the chief of all the captains of the host for the first month.
-<small><sub>**BSB:**</sub></small>
-He was a descendant of Perez and chief of all the army commanders for the first month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.2|<< 1 Chronicles 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.4|1 Chronicles 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

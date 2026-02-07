@@ -1,4 +1,4 @@
-**Jeremiah 50:17** 
+**Jeremiah 50:17**<big><big>[[Jer.50.17 Redemption for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel [is] a scattered sheep; the lions have driven [him] away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel is a scattered flock, chased away by lions. The first to devour him was t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.16|<< Jeremiah 50:16]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.18|Jeremiah 50:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] sheep  |**<big>&#8207;[[H7716\|שֶׂ֧ה]]&#8207; </big>**| seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | scattered  |**<big>&#8207;[[H6340\|פְזוּרָ֛ה]]&#8207; </big>**| fe.zu.Rah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

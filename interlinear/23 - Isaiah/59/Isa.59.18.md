@@ -1,4 +1,4 @@
-**Isaiah 59:18** 
+**Isaiah 59:18**<big><big>[[Isa.59.18 The Covenant of the Redeemer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to [their] deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So He will repay according to their deeds: fury to His enemies, retribution to H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.17|<< Isaiah 59:17]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.19|Isaiah 59:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as on  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deeds  |**<big>&#8207;[[H1578\|גְּמֻלוֹת֙]]&#8207; </big>**| ge.mu.lOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

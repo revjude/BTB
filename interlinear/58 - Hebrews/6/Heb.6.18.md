@@ -1,12 +1,12 @@
-**Hebrews 6:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:18**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That by two immutable things, in which [it was] impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
 <small><sub>**BSB:**</sub></small>
 Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged.
 <small><sub>**Literal:**</sub></small>
 so that through two things unchangeable, in which [it is] impossible to lie <the> [for] God, strong encouragement we may have <the> having fled for refuge to take hold of what is being set before [us] hope;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.17|<< Hebrews 6:17]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.19|Hebrews 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

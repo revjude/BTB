@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:12** 
 <small><sub>**LXX:**</sub></small>
 And Samuel rose early and went to meet  Israel in the morning. And it was reported  to Samuel, saying, Saul comes to  Carmel. And behold, he has raised up to himself a hand, and turned  his chariot, and went down into Gilgal. 
-<small><sub>**KJV:**</sub></small>
-And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal.
-<small><sub>**BSB:**</sub></small>
-Early in the morning Samuel got up to confront Saul, but he was told, “Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.11|<< 1 Samuel 15:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.13|1 Samuel 15:13 >>]]</td></tr></table>
 
 | Translation | Greek |

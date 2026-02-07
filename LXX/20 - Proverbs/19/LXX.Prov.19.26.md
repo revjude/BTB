@@ -1,10 +1,7 @@
 **LXX Proverbs 19:26** 
 <small><sub>**LXX:**</sub></small>
 The one dishonoring \[his\] father, and thrusting away his mother, he will be disgraced and reviled. 
-<small><sub>**KJV:**</sub></small>
-He that wasteth [his] father, [and] chaseth away [his] mother, [is] a son that causeth shame, and bringeth reproach.
-<small><sub>**BSB:**</sub></small>
-He who assaults his father or evicts his mother is a son who brings shame and disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.25|<< Proverbs 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.27|Proverbs 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

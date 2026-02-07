@@ -1,4 +1,4 @@
-**Proverbs 31:25** 
+**Proverbs 31:25**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strength and honour [are] her clothing; and she shall rejoice in time to come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Strength and honor are her clothing, and she can laugh at the days to come.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.24|<< Proverbs 31:24]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.26|Proverbs 31:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] strength  |**<big>&#8207;[[H5797\|עֹז]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'oz-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and honor  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1926\|הָדָ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Dar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

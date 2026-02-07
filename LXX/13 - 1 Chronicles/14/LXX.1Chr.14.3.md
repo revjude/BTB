@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:3** 
 <small><sub>**LXX:**</sub></small>
 And David took still \[more\] wives in Jerusalem. And were born to David again sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And David took more wives at Jerusalem: and David begat more sons and daughters.
-<small><sub>**BSB:**</sub></small>
-And David took more wives in Jerusalem and became the father of more sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.2|<< 1 Chronicles 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.4|1 Chronicles 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

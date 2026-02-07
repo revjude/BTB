@@ -1,10 +1,7 @@
 **LXX Genesis 26:4** 
 <small><sub>**LXX:**</sub></small>
 And I will multiply  your seed as the stars of the heaven. And I will give  your seed all  this land. And shall be blessed by  your seed all the nations of the earth; 
-<small><sub>**KJV:**</sub></small>
-And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;
-<small><sub>**BSB:**</sub></small>
-I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.3|<< Genesis 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.5|Genesis 26:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 26:4** is...

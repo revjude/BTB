@@ -1,4 +1,4 @@
-**Exodus 4:9** 
+**Exodus 4:9**<big><big>[[Exod.4.6 Moses’ Hand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour [it] upon the dry [land]: and the water which thou takest out of the river shall become blood upon the dry [land].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if they do not believe even these two signs or listen to your voice, take so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.8|<< Exodus 4:8]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.10|Exodus 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

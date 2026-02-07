@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:18** 
 <small><sub>**LXX:**</sub></small>
 And they shall have flaxen linen turbans upon  their heads, and shall have flaxen linen pants upon  their loins, and they shall not gird with force. 
-<small><sub>**KJV:**</sub></small>
-They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird [themselves] with any thing that causeth sweat.
-<small><sub>**BSB:**</sub></small>
-They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.17|<< Ezekiel 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.19|Ezekiel 44:19 >>]]</td></tr></table>
 
 | Translation | Greek |

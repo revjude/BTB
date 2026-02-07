@@ -1,10 +1,7 @@
 **LXX Proverbs 16:32** 
 <small><sub>**LXX:**</sub></small>
 Better a lenient man \[than\] a strong \[man\]; and a man of intelligence \[than\] one having a great farm; and the one holding \[his\] anger \[is\] better \[than\] one overtaking a city. 
-<small><sub>**KJV:**</sub></small>
-[He that is] slow to anger [is] better than the mighty; and he that ruleth his spirit than he that taketh a city.
-<small><sub>**BSB:**</sub></small>
-He who is slow to anger is better than a warrior, and he who controls his temper is greater than one who captures a city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.31|<< Proverbs 16:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.33|Proverbs 16:33 >>]]</td></tr></table>
 
 | Translation | Greek |

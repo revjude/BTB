@@ -1,12 +1,12 @@
-**Luke 6:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:23**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Rejoice ye in that day, and leap for joy: for, behold, your reward [is] great in heaven: for in the like manner did their fathers unto the prophets.
 <small><sub>**BSB:**</sub></small>
 Rejoice in that day and leap for joy, because great is your reward in heaven. For their fathers treated the prophets in the same way.
 <small><sub>**Literal:**</sub></small>
 do rejoice in that [very] <the> day and do leap for joy; behold for the reward of you [is] great in <the> heaven. According to the [things] of them for were treating the prophets the fathers of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.22|<< Luke 6:22]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.24|Luke 6:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do rejoice [^1] |**<big>[[G5463\|χάρητε]]</big>**  |charēte <small><sup>[[V-2AOM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

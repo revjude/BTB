@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:4** 
 <small><sub>**LXX:**</sub></small>
 And I will stretch out  my hand upon Judah and upon all the ones dwelling in Jerusalem. And I will remove from out of  this place the names  of Baal, and the names of the priests with the consecrated \[things\]; 
-<small><sub>**KJV:**</sub></small>
-I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, [and] the name of the Chemarims with the priests;
-<small><sub>**BSB:**</sub></small>
-“I will stretch out My hand against Judah and against all who dwell in Jerusalem. I will cut off from this place every remnant of Baal, the names of the idolatrous and pagan priests—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.3|<< Zephaniah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.5|Zephaniah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

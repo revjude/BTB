@@ -1,10 +1,7 @@
 **LXX Ezra 2:57** 
 <small><sub>**LXX:**</sub></small>
 sons of Shephatiah, sons of Hattil, sons of Pochereth, sons of Zebaim, sons of Ami. 
-<small><sub>**KJV:**</sub></small>
-The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.
-<small><sub>**BSB:**</sub></small>
-the descendants of Shephatiah, the descendants of Hattil, the descendants of Pochereth-hazzebaim, and the descendants of Ami.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.56|<< Ezra 2:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.58|Ezra 2:58 >>]]</td></tr></table>
 
 | Translation | Greek |

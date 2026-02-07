@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:8** 
 <small><sub>**LXX:**</sub></small>
 And he built the city round about from the Akra and unto the circuit. And Joab procured the rest of the city. 
-<small><sub>**KJV:**</sub></small>
-And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
-<small><sub>**BSB:**</sub></small>
-He built up the city around it, from the supporting terraces to the surrounding wall, while Joab restored the rest of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.7|<< 1 Chronicles 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.9|1 Chronicles 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

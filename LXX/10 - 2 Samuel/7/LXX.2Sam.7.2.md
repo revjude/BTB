@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:2** 
 <small><sub>**LXX:**</sub></small>
 that the king said to Nathan the prophet, Behold, indeed, I dwell in a house of cedar, and the ark  of God sits in \[the\] midst of the tent. 
-<small><sub>**KJV:**</sub></small>
-That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.
-<small><sub>**BSB:**</sub></small>
-he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of God remains in a tent.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.1|<< 2 Samuel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.3|2 Samuel 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Samuel 7:2** is...

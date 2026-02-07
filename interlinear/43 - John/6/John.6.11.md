@@ -1,12 +1,12 @@
-**John 6:11
-**<small><sub>**KJV:**</sub></small>
+**John 6:11**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
 <small><sub>**BSB:**</sub></small>
 Then Jesus took the loaves and the fish, gave thanks, and distributed to those who were seated as much as they wanted.
 <small><sub>**Literal:**</sub></small>
 Took then the loaves <the> Jesus and having given thanks He distributed to the disciples <the> now the disciples to those reclining, likewise also of the fish as much as they were wishing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.10|<< John 6:10]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.12|John 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took |**<big>[[G2983\|ἔλαβεν]]</big>**  |elaben <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

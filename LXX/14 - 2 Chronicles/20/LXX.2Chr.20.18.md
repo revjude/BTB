@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:18** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat bowed upon his face upon the earth; and all Judah and the ones dwelling Jerusalem fell before \[the\] <span class="smallcaps">lord</span>,  to do obeisance to \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat bowed his head with [his] face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Jehoshaphat bowed facedown, and all the people of Judah and Jerusalem fell down before the LORD to worship Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.17|<< 2 Chronicles 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.19|2 Chronicles 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

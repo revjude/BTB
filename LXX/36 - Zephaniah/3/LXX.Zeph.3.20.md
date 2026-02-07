@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:20** 
 <small><sub>**LXX:**</sub></small>
 And \[their enemies\] shall be disgraced in  that time, whenever I should do well with you, and in the time whenever I should take you in. For I will make you famous and for boasting among all the peoples of the earth, in  my returning  your captivity before your \[eyes\], says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-At that time will I bring you [again], even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-At that time I will bring you in; yes, at that time I will gather you. For I will give you fame and praise among all the peoples of the earth when I restore your captives before your very eyes,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.19|<< Zephaniah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.1|Haggai 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 8:26** 
 <small><sub>**LXX:**</sub></small>
 And the vision of the evening and of the morning of the \[thing\] being spoken -- it is true. And you set a seal upon the vision, for \[it is\] for many days! 
-<small><sub>**KJV:**</sub></small>
-And the vision of the evening and the morning which was told [is] true: wherefore shut thou up the vision; for it [shall be] for many days.
-<small><sub>**BSB:**</sub></small>
-The vision of the evenings and the mornings that has been spoken is true. Now you must seal up the vision, for it concerns the distant future.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.25|<< Daniel 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.27|Daniel 8:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 8:26** is...

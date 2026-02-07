@@ -1,10 +1,7 @@
 **LXX Exodus 16:7** 
 <small><sub>**LXX:**</sub></small>
 And \[in the\] morning you will see the glory of \[the\] <span class="smallcaps">lord</span>, in the hearing  of your grumbling against  God. And we, what are we that you complain against us? 
-<small><sub>**KJV:**</sub></small>
-And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what [are] we, that ye murmur against us?
-<small><sub>**BSB:**</sub></small>
-and in the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we, that you should grumble against us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.6|<< Exodus 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.8|Exodus 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:58** 
 <small><sub>**LXX:**</sub></small>
 \[but\] to incline our heart to himself,  to go in all  his ways, and to guard all  his commandments, and  his orders, and  his judgments, which he gave charge \[to\] our fathers. 
-<small><sub>**KJV:**</sub></small>
-That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers.
-<small><sub>**BSB:**</sub></small>
-May He incline our hearts to Himself, to walk in all His ways and to keep the commandments and statutes and ordinances He commanded our fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.57|<< 1 Kings 8:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.59|1 Kings 8:59 >>]]</td></tr></table>
 
 | Translation | Greek |

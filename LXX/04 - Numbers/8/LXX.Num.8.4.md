@@ -1,10 +1,7 @@
 **LXX Numbers 8:4** 
 <small><sub>**LXX:**</sub></small>
 And this is the apparatus of the lamp-stand; its stem \[is\] solid gold,, and  its lilies \[are\] solid entirely, according to the form which \[the\] <span class="smallcaps">lord</span> showed  Moses -- thus he made the lamp-stand. 
-<small><sub>**KJV:**</sub></small>
-And this work of the candlestick [was of] beaten gold, unto the shaft thereof, unto the flowers thereof, [was] beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick.
-<small><sub>**BSB:**</sub></small>
-This is how the lampstand was constructed: it was made of hammered gold from its base to its blossoms, fashioned according to the pattern the LORD had shown Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.3|<< Numbers 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.5|Numbers 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

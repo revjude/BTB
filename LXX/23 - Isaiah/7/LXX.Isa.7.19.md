@@ -1,10 +1,7 @@
 **LXX Isaiah 7:19** 
 <small><sub>**LXX:**</sub></small>
 And they shall come, and they shall all rest in the ravines of the place, and in the burrows of the rocks, and into the caves, and into every breach, and in every tree. 
-<small><sub>**KJV:**</sub></small>
-And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
-<small><sub>**BSB:**</sub></small>
-And they will all come and settle in the steep ravines and clefts of the rocks, in all the thornbushes and watering holes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.18|<< Isaiah 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.20|Isaiah 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

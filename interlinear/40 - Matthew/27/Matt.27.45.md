@@ -1,12 +1,12 @@
-**Matthew 27:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:45**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now from the sixth hour there was darkness over all the land unto the ninth hour.
 <small><sub>**BSB:**</sub></small>
 From the sixth hour until the ninth hour darkness came over all the land.
 <small><sub>**Literal:**</sub></small>
 From then [the] sixth hour darkness was over all the land until [the] hour ninth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.44|<< Matthew 27:44]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.46|Matthew 27:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπὸ]]</big>**  |Apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

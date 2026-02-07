@@ -1,4 +1,4 @@
-**Ezekiel 16:57** 
+**Ezekiel 16:57**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before thy wickedness was discovered, as at the time of [thy] reproach of the daughters of Syria, and all [that are] round about her, the daughters of the Philistines, which despise thee round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ before your wickedness was uncovered? Even so, you are now scorned by the daught
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.56|<< Ezekiel 16:56]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.58|Ezekiel 16:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶרֶם֮]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> te.Rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was uncovered  |**<big>&#8207;[[H1540H\|תִּגָּלֶ֣ה]]&#8207; </big>**| ti.ga.Leh<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

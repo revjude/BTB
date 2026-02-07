@@ -1,4 +1,4 @@
-**Genesis 6:16** 
+**Genesis 6:16**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; [with] lower, second, and third [stories] shalt thou make it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to make a roof for the ark, finish its walls a cubit from the top, place
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.15|<< Genesis 6:15]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.17|Genesis 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a roof  |**<big>&#8207;[[H6672B\|צֹ֣הַר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Tzo.har<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make  |**<big>&#8207;[[H6213H\|תַּֽעֲשֶׂ֣ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nahum 2:2** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> perverted the insolence of Jacob, as \[the\] insolence  of Israel; for \[the ones\] shaking off shook them off, and  they ruined their vine branches. 
-<small><sub>**KJV:**</sub></small>
-For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.
-<small><sub>**BSB:**</sub></small>
-For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.1|<< Nahum 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.3|Nahum 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

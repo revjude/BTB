@@ -1,10 +1,7 @@
 **LXX Joshua 15:3** 
 <small><sub>**LXX:**</sub></small>
 And it travels over before the ascent leading to Acrabbim, and goes around Zin, and ascends from \[the\] south upon Kadesh Barnea, and it goes forth to Hezron, and ascends into Adar, and it marches around  by \[the\] descent of Kadesh. 
-<small><sub>**KJV:**</sub></small>
-And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
-<small><sub>**BSB:**</sub></small>
-proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the south of Kadesh-barnea, ran past Hezron up to Addar, and curved toward Karka.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.2|<< Joshua 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.4|Joshua 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

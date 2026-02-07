@@ -1,12 +1,12 @@
-**2 Corinthians 8:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:18**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we have sent with him the brother, whose praise [is] in the gospel throughout all the churches;
 <small><sub>**BSB:**</sub></small>
 Along with Titus we are sending the brother who is praised by all the churches for his work in the gospel.
 <small><sub>**Literal:**</sub></small>
 We have sent now with him the brother whose <the> praise [is] in the gospel through all [times] of the churches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.17|<< 2 Corinthians 8:17]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.19|2 Corinthians 8:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We have sent |**<big>[[G4842\|συνεπέμψαμεν]]</big>**  |sunepempsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

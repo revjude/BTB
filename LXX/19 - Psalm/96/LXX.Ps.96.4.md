@@ -1,10 +1,7 @@
 **LXX Psalm 96:4** 
 <small><sub>**LXX:**</sub></small>
 For great \[is the\] <span class="smallcaps">lord</span>, and praiseworthy -- exceedingly. He is fearful above all the gods. 
-<small><sub>**KJV:**</sub></small>
-For the LORD [is] great, and greatly to be praised: he [is] to be feared above all gods.
-<small><sub>**BSB:**</sub></small>
-For great is the LORD, and greatly to be praised; He is to be feared above all gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.3|<< Psalm 96:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.5|Psalm 96:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:12** 
 <small><sub>**LXX:**</sub></small>
 And Michal let down  David through the window. And he went forth, and fled, and escaped. 
-<small><sub>**KJV:**</sub></small>
-So Michal let David down through a window: and he went, and fled, and escaped.
-<small><sub>**BSB:**</sub></small>
-So Michal lowered David from the window, and he ran away and escaped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.11|<< 1 Samuel 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.13|1 Samuel 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

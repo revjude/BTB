@@ -1,4 +1,4 @@
-**Psalms 92:5** (92:6)
+**Psalms 92:5**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, how great are thy works! [and] thy thoughts are very deep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How great are Your works, O LORD, how deep are Your thoughts!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.4|<< Psalms 92:4]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.6|Psalms 92:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are great  |**<big>&#8207;[[H1431\|גָּדְל֣וּ]]&#8207; </big>**| ga.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

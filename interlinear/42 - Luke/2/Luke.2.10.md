@@ -1,12 +1,12 @@
-**Luke 2:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:10**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.
 <small><sub>**BSB:**</sub></small>
 But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people:
 <small><sub>**Literal:**</sub></small>
 And said to them the angel; Not do fear; behold for I bring good news to you [of] joy great which will be to all the people<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.9|<< Luke 2:9]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.11|Luke 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

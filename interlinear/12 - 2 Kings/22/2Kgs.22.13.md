@@ -1,4 +1,4 @@
-**2 Kings 22:13** 
+**2 Kings 22:13**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go ye, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great [is] the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go ye, inquire of the LORD for me, and for the people, and for all Judah, concer
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.12|<< 2 Kings 22:12]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.14|2 Kings 22:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לְכוּ֩]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consult  |**<big>&#8207;[[H1875\|דִרְשׁ֨וּ]]&#8207; </big>**| dir.Shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

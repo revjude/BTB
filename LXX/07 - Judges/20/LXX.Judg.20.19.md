@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel rose up in the morning, and camped at Gibeah. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel rose up in the morning, and encamped against Gibeah.
-<small><sub>**BSB:**</sub></small>
-The next morning the Israelites set out and camped near Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.18|<< Judges 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.20|Judges 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

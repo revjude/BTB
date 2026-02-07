@@ -1,10 +1,7 @@
 **LXX Numbers 6:5** 
 <small><sub>**LXX:**</sub></small>
 All the days of the vow  of his purification a razor shall not come upon  his head, until whenever the days should be fulfilled, as many as he made a vow \[to the\] <span class="smallcaps">lord</span>. He shall be holy, maintaining \[the\] lock of hair on his head. 
-<small><sub>**KJV:**</sub></small>
-All the days of the vow of his separation there shall no rasor come upon his head: until the days be fulfilled, in the which he separateth [himself] unto the LORD, he shall be holy, [and] shall let the locks of the hair of his head grow.
-<small><sub>**BSB:**</sub></small>
-For the entire period of his vow of separation, no razor shall touch his head. He must be holy until the time of his separation to the LORD is complete; he must let the hair of his head grow long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

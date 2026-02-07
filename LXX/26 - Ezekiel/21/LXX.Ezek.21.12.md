@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:12** 
 <small><sub>**LXX:**</sub></small>
 Shout aloud and shriek, O son of man! for it happened unto  my people. It \[is\] \[come\] upon all the ones guiding  Israel. They shall sojourn upon \[the\] broadsword. It happened unto  my people. On account of this, clap with  your hand! 
-<small><sub>**KJV:**</sub></small>
-Cry and howl, son of man: for it shall be upon my people, it [shall be] upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon [thy] thigh.
-<small><sub>**BSB:**</sub></small>
-Cry out and wail, O son of man, for the sword is wielded against My people; it is against all the princes of Israel! They are tossed to the sword with My people; therefore strike your thigh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.11|<< Ezekiel 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.13|Ezekiel 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

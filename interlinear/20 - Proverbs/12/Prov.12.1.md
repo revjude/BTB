@@ -1,4 +1,4 @@
-**Proverbs 12:1** 
+**Proverbs 12:1**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso loveth instruction loveth knowledge: but he that hateth reproof [is] brutish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever loves discipline loves knowledge, but he who hates correction is stupid.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.31|<< Proverbs 11:31]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.2|Proverbs 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] loves  |**<big>&#8207;[[H0157G\|אֹהֵ֣ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discipline  |**<big>&#8207;[[H4148G\|מ֭וּסָר]]&#8207; </big>**| Mu.sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

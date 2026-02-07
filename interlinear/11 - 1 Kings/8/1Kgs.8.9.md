@@ -1,4 +1,4 @@
-**1 Kings 8:9** 
+**1 Kings 8:9**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There was] nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made [a covenant] with the children of Israel, when they came out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was nothing in the ark except the two stone tablets that Moses had placed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.8|<< 1 Kings 8:8]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.10|1 Kings 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֚ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] in the ark  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0727\|אָר֔וֹן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

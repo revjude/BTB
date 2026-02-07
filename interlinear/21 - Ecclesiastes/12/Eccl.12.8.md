@@ -1,4 +1,4 @@
-**Ecclesiastes 12:8** 
+**Ecclesiastes 12:8**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Vanity of vanities, saith the preacher; all [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Vanity of vanities, saith the preacher; all [is] vanity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.7|<< Ecclesiastes 12:7]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.9|Ecclesiastes 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | futility of  |**<big>&#8207;[[H1892\|הֲבֵ֧ל]]&#8207; </big>**| ha.Vel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | futilities  |**<big>&#8207;[[H1892\|הֲבָלִ֛ים]]&#8207; </big>**| ha.va.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

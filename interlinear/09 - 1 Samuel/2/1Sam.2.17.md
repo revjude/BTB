@@ -1,4 +1,4 @@
-**1 Samuel 2:17** 
+**1 Samuel 2:17**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the sin of these young men was severe in the sight of the LORD, for they we
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.16|<< 1 Samuel 2:16]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.18|1 Samuel 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sin of  |**<big>&#8207;[[H2403B\|חַטַּ֧את]]&#8207; </big>**| cha.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

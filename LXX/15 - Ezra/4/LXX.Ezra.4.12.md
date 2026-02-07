@@ -1,10 +1,7 @@
 **LXX Ezra 4:12** 
 <small><sub>**LXX:**</sub></small>
 And now let it be made known to the king, that the Jews ascending from you to us came into Jerusalem the defecting and wicked city, which they are building; and the walls of it are being readied, and \[the\] foundations of it they elevated. 
-<small><sub>**KJV:**</sub></small>
-Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls [thereof], and joined the foundations.
-<small><sub>**BSB:**</sub></small>
-Let it be known to the king that the Jews who came from you to us have returned to Jerusalem and are rebuilding that rebellious and wicked city. They are restoring its walls and repairing its foundations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.11|<< Ezra 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.13|Ezra 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

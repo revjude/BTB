@@ -1,12 +1,12 @@
-**2 Corinthians 4:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:7**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.
 <small><sub>**BSB:**</sub></small>
 Now we have this treasure in jars of clay to show that this surpassingly great power is from God and not from us.
 <small><sub>**Literal:**</sub></small>
 We have now <the> treasure this in earthen vessels, that the surpassingness of the power may be <the> from God and not from us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.6|<< 2 Corinthians 4:6]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.8|2 Corinthians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We have |**<big>[[G2192\|Ἔχομεν]]</big>**  |Echomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

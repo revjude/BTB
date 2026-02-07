@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:3** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Where is the son  of your master? And Ziba said to the king, Behold, he sits in Jerusalem, for he said, Today the house of Israel shall return to me the kingdom  of my father. 
-<small><sub>**KJV:**</sub></small>
-And the king said, And where [is] thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father.
-<small><sub>**BSB:**</sub></small>
-“Where is your master’s grandson?” asked the king. And Ziba answered, “Indeed, he is staying in Jerusalem, for he has said, ‘Today, the house of Israel will restore to me the kingdom of my grandfather.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.2|<< 2 Samuel 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.4|2 Samuel 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

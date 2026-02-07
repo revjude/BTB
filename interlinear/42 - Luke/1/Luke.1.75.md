@@ -1,12 +1,12 @@
-**Luke 1:75
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:75**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In holiness and righteousness before him, all the days of our life.
 <small><sub>**BSB:**</sub></small>
 in holiness and righteousness before Him all the days of our lives.
 <small><sub>**Literal:**</sub></small>
 in holiness and righteousness before Him all the days of the life of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.74|<< Luke 1:74]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.76|Luke 1:76 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | holiness |**<big>[[G3742\|ὁσιότητι]]</big>**  |hosiotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

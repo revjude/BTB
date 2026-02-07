@@ -1,10 +1,7 @@
 **LXX Joshua 24:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  our God, he led us and  our fathers from out of \[the\] land of Egypt, from \[the\] house of slavery, and as many as these great signs he did to us, and guarded us in all the way which we went by it, and among all the nations which we went through them. 
-<small><sub>**KJV:**</sub></small>
-For the LORD our God, he [it is] that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:
-<small><sub>**BSB:**</sub></small>
-For the LORD our God brought us and our fathers out of the land of Egypt, out of the house of slavery, and performed these great signs before our eyes. He also protected us throughout our journey and among all the nations through which we traveled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.16|<< Joshua 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.18|Joshua 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

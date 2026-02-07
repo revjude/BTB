@@ -1,4 +1,4 @@
-**Daniel 6:28** (6:29)
+**Daniel 6:28**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Daniel prospered during the reign of Darius and the reign of Cyrus the Persia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.27|<< Daniel 6:27]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.1|Daniel 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Daniel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1841H\|דָנִיֵּ֣אל]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H1836\|דְּנָ֔ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

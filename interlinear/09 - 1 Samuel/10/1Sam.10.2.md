@@ -1,4 +1,4 @@
-**1 Samuel 10:2** 
+**1 Samuel 10:2**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you leave me today, you will find two men at Rachel’s tomb in Zelzah on t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.1|<< 1 Samuel 10:1]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.3|1 Samuel 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when going you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1980G\|לֶכְתְּ]]&#8207;&#8207;[[H9041\|ךָ֤]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lekh.te.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

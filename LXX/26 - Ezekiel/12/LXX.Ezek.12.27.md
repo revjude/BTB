@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:27** 
 <small><sub>**LXX:**</sub></small>
 O son of man, behold, the house of Israel, the one rebelling. In saying they say, The vision which this \[man\] sees \[is\] for many days, and this one prophesies for long times. 
-<small><sub>**KJV:**</sub></small>
-Son of man, behold, [they of] the house of Israel say, The vision that he seeth [is] for many days [to come], and he prophesieth of the times [that are] far off.
-<small><sub>**BSB:**</sub></small>
-“Son of man, take note that the house of Israel is saying, ‘The vision that he sees is for many years from now; he prophesies about the distant future.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.26|<< Ezekiel 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.28|Ezekiel 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

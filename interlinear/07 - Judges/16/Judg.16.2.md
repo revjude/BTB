@@ -1,4 +1,4 @@
-**Judges 16:2** 
+**Judges 16:2**<big><big>[[Judg.16.1 Samson Escapes Gaza|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And it was told] the Gazites, saying, Samson is come hither. And they compassed [him] in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Gazites heard that Samson was there, they surrounded that place and lay
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.1|<< Judges 16:1]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.3|Judges 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the Gazites  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H5841\|עַזָּתִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.za.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֗ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

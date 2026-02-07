@@ -1,10 +1,7 @@
 **LXX Psalm 9:3** 
 <small><sub>**LXX:**</sub></small>
 In the turning  of my enemy unto the rear, they shall weaken and be destroyed from your face. 
-<small><sub>**KJV:**</sub></small>
-When mine enemies are turned back, they shall fall and perish at thy presence.
-<small><sub>**BSB:**</sub></small>
-When my enemies retreat, they stumble and perish before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.2|<< Psalm 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.4|Psalm 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

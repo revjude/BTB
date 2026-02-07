@@ -1,4 +1,4 @@
-**Joshua 22:30** 
+**Joshua 22:30**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which [were] with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Phinehas the priest and the chiefs of the congregation—the heads of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.29|<< Joshua 22:29]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.31|Joshua 22:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Phinehas  |**<big>&#8207;[[H6372G\|פִּֽינְחָ֣ס]]&#8207; </big>**| pin.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

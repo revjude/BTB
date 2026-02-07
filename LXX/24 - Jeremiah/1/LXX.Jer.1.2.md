@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:2** 
 <small><sub>**LXX:**</sub></small>
 As \[the\] word of God came to him in the days of Josiah son of Amon king of Judah, in the thirteenth year of his kingship. 
-<small><sub>**KJV:**</sub></small>
-To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
-<small><sub>**BSB:**</sub></small>
-The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.1|<< Jeremiah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.3|Jeremiah 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

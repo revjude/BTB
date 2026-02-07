@@ -1,4 +1,4 @@
-**1 Kings 20:25** 
+**1 Kings 20:25**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, [and] surely we shall be stronger than they. And he hearkened unto their voice, and did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you must raise an army like the one you have lost—horse for horse and char
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.24|<< 1 Kings 20:24]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.26|1 Kings 20:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will muster  |**<big>&#8207;[[H4487\|תִֽמְנֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tim.neh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

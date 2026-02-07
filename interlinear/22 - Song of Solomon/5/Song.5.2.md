@@ -1,4 +1,4 @@
-**Song of Solomon 5:2** 
+**Song of Solomon 5:2**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sleep, but my heart waketh: [it is] the voice of my beloved that knocketh, [saying], Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, [and] my locks with the drops of the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.1|<< Song of Solomon 5:1]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.3|Song of Solomon 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] sleeping  |**<big>&#8207;[[H3463\|יְשֵׁנָ֖ה]]&#8207; </big>**| ye.she.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

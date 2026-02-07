@@ -1,10 +1,7 @@
 **LXX Psalm 68:12** 
 <small><sub>**LXX:**</sub></small>
 The king of the forces of the beloved, for the beauty of the house to divide \[the\] spoils. 
-<small><sub>**KJV:**</sub></small>
-Kings of armies did flee apace: and she that tarried at home divided the spoil.
-<small><sub>**BSB:**</sub></small>
-“Kings and their armies flee in haste; she who waits at home divides the plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.11|<< Psalm 68:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.13|Psalm 68:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 27:6** 
+**Deuteronomy 27:6**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt build the altar of the LORD thy God of whole stones: and thou shalt offer burnt offerings thereon unto the LORD thy God:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall build the altar of the LORD your God with uncut stones and offer upon 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.5|<< Deuteronomy 27:5]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.7|Deuteronomy 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֤ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | complete  |**<big>&#8207;[[H8003\|שְׁלֵמוֹת֙]]&#8207; </big>**| she.le.mOt<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

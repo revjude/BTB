@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>, O sons of Israel! For \[there is\] a case to the <span class="smallcaps">lord</span> against the ones dwelling the land, because there is no truth, nor mercy, nor full knowledge of God upon the land. 
-<small><sub>**KJV:**</sub></small>
-Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because [there is] no truth, nor mercy, nor knowledge of God in the land.
-<small><sub>**BSB:**</sub></small>
-Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.5|<< Hosea 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.2|Hosea 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

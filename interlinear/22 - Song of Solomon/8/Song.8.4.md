@@ -1,4 +1,4 @@
-**Song of Solomon 8:4** 
+**Song of Solomon 8:4**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I charge you, O daughters of Jerusalem, that ye stir not up, nor awake [my] love, until he please.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O daughters of Jerusalem, I adjure you: Do not arouse or awaken love until the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.3|<< Song of Solomon 8:3]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.5|Song of Solomon 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I adjure  |**<big>&#8207;[[H7650\|הִשְׁבַּ֥עְתִּי]]&#8207; </big>**| hish.Ba'.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

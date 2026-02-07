@@ -1,12 +1,12 @@
-**Hebrews 8:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:4**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
 <small><sub>**BSB:**</sub></small>
 Now if He were on earth, He would not be a priest, since there are already priests who offer gifts according to the law.
 <small><sub>**Literal:**</sub></small>
 If certainly then He were on earth, not even then would He was being a priest while are being <the> priests those offering according to <the> law the gifts,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.3|<< Hebrews 8:3]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.5|Hebrews 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certainly |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

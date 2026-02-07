@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:16** 
 <small><sub>**LXX:**</sub></small>
 be that man as the cities which \[the\] <span class="smallcaps">lord</span> eradicated in rage, and he did not repent! Let him hear \[the\] cry in the morning, and \[the\] shout at midday! 
-<small><sub>**KJV:**</sub></small>
-And let that man be as the cities which the LORD overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;
-<small><sub>**BSB:**</sub></small>
-May that man be like the cities that the LORD overthrew without compassion. May he hear an outcry in the morning and a battle cry at noon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.15|<< Jeremiah 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.17|Jeremiah 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

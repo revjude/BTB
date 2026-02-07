@@ -1,10 +1,7 @@
 **LXX Leviticus 18:23** 
 <small><sub>**LXX:**</sub></small>
 And with any four-footed \[creature\], you shall not give your marriage-bed for a discharge of semen to be thoroughly defiled with it. And a woman shall not set \[herself\] with any four-footed \[creature\] to breed; for it is detestable. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it [is] confusion.
-<small><sub>**BSB:**</sub></small>
-You must not lie carnally with any animal, thus defiling yourself with it; a woman must not stand before an animal to mate with it; that is a perversion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.22|<< Leviticus 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.24|Leviticus 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

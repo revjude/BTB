@@ -1,12 +1,12 @@
-**2 Timothy 3:10
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:10**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,
 <small><sub>**BSB:**</sub></small>
 You, however, have observed my teaching, my conduct, my purpose, my faith, my patience, my love, my perseverance,
 <small><sub>**Literal:**</sub></small>
 You yourself however closely followed after my <the> teaching, <the> conduct, <the> purpose, <the> faith, <the> patience, <the> love, <the> endurance,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.9|<< 2 Timothy 3:9]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.11|2 Timothy 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|Σὺ]]</big>**  |Su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

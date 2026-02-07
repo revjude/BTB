@@ -1,10 +1,7 @@
 **LXX Exodus 28:32** 
 <small><sub>**LXX:**</sub></small>
 And the cleft of it will be in the middle, having an edge round about the cleft -- a work of a weaver; being woven together in the coupling of it that it should not be torn. 
-<small><sub>**KJV:**</sub></small>
-And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.
-<small><sub>**BSB:**</sub></small>
-with an opening at its top in the center. Around the opening shall be a woven collar with an opening like that of a garment, so that it will not tear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.31|<< Exodus 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.33|Exodus 28:33 >>]]</td></tr></table>
 
 | Translation | Greek |

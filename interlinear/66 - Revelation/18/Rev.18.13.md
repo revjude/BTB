@@ -1,12 +1,12 @@
-**Revelation 18:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:13**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
 <small><sub>**BSB:**</sub></small>
 of cinnamon, spice, incense, myrrh, and frankincense; of wine, olive oil, fine flour, and wheat; of cattle, sheep, horses, and carriages; of bodies and souls of slaves.
 <small><sub>**Literal:**</sub></small>
 and cinnamon and spice and incense and myrrh and frankincense and wine and oil and finest flour and wheat and cattle and sheep and of horses and of chariots and of slaves and souls of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.12|<< Revelation 18:12]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.14|Revelation 18:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | cinnamon |**<big>[[G2792\|κιννάμωμον]]</big>**  [^1] |kinnamōmon <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

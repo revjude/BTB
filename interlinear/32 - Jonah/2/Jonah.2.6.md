@@ -1,4 +1,4 @@
-**Jonah 2:6** (2:7)
+**Jonah 2:6**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went down to the bottoms of the mountains; the earth with her bars [was] about me for ever: yet hast thou brought up my life from corruption, O LORD my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the roots of the mountains I descended; the earth beneath me barred me in for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.5|<< Jonah 2:5]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.7|Jonah 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to extremities of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7095\|קִצְבֵ֤י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kitz.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

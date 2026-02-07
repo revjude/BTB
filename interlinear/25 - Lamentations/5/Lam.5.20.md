@@ -1,4 +1,4 @@
-**Lamentations 5:20** 
+**Lamentations 5:20**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore dost thou forget us for ever, [and] forsake us so long time?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why have You forgotten us forever? Why have You forsaken us for so long?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.19|<< Lamentations 5:19]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.21|Lamentations 5:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to perpetuity  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5331\|נֶ֙צַח֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

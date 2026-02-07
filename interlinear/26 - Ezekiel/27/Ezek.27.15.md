@@ -1,4 +1,4 @@
-**Ezekiel 27:15** 
+**Ezekiel 27:15**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The men of Dedan [were] thy merchants; many isles [were] the merchandise of thine hand: they brought thee [for] a present horns of ivory and ebony.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The men of Dedan were your clients; many coastlands were your market; they paid 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.14|<< Ezekiel 27:14]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.16|Ezekiel 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dedan  |**<big>&#8207;[[H1719A\|דְדָן֙]]&#8207; </big>**| de.Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 3:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:6**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.
 <small><sub>**BSB:**</sub></small>
 But Christ is faithful as the Son over God’s house. And we are His house, if we hold firmly to our confidence and the hope of which we boast.
 <small><sub>**Literal:**</sub></small>
 Christ however as [the] Son over the house of Him, whose house are we ourselves if indeed <the> [our] confidence and the boast <the> of [our] hope until end unshakable we may hold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.5|<< Hebrews 3:5]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.7|Hebrews 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Christ |**<big>[[G5547\|Χριστὸς]]</big>**  |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

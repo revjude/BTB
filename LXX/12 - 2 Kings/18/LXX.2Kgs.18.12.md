@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:12** 
 <small><sub>**LXX:**</sub></small>
 because they did not hearken to the voice of \[the\] <span class="smallcaps">lord</span>  their God, and they violated  his covenant, all as much as he gave charge \[to\] Moses the manservant of \[the\] <span class="smallcaps">lord</span>; and they did not hearken, and they did not do. 
-<small><sub>**KJV:**</sub></small>
-Because they obeyed not the voice of the LORD their God, but transgressed his covenant, [and] all that Moses the servant of the LORD commanded, and would not hear [them], nor do [them].
-<small><sub>**BSB:**</sub></small>
-This happened because they did not listen to the voice of the LORD their God, but violated His covenant—all that Moses the servant of the LORD had commanded—and would neither listen nor obey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.11|<< 2 Kings 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.13|2 Kings 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

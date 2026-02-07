@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:18** 
 <small><sub>**LXX:**</sub></small>
 And David fled, and was delivered, and comes to Samuel in Ramah. And he reports to him all as much as Saul did to him. And Samuel and David went and stayed in Naioth in Ramah. 
-<small><sub>**KJV:**</sub></small>
-So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.
-<small><sub>**BSB:**</sub></small>
-So David ran away and escaped. And he went to Samuel at Ramah and told him all that Saul had done to him. Then he and Samuel went to Naioth and stayed there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.17|<< 1 Samuel 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.19|1 Samuel 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 16:30** 
+**1 Kings 16:30**<big><big>[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab the son of Omri did evil in the sight of the LORD above all that [were] before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, Ahab son of Omri did evil in the sight of the LORD, more than all who w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.29|<< 1 Kings 16:29]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.31|1 Kings 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahab  |**<big>&#8207;[[H0256G\|אַחְאָ֧ב]]&#8207; </big>**| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

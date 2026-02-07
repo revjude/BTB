@@ -1,12 +1,12 @@
-**Acts 21:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:27**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,
 <small><sub>**BSB:**</sub></small>
 When the seven days were almost over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him,
 <small><sub>**Literal:**</sub></small>
 When now were about the seven days to be completed, the from <the> Asia Jews having seen him in the temple were stirring up all the crowd and laid upon him <the> hands<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.26|<< Acts 21:26]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.28|Acts 21:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

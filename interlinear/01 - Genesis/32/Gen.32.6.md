@@ -1,4 +1,4 @@
-**Genesis 32:6** (32:7)
+**Genesis 32:6**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the messengers returned to Jacob, they said, “We went to your brother Esa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.5|<< Genesis 32:5]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.7|Genesis 32:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשֻׁ֙בוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the messengers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397G\|מַּלְאָכִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

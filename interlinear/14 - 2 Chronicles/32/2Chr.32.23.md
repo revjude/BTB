@@ -1,4 +1,4 @@
-**2 Chronicles 32:23** 
+**2 Chronicles 32:23**<big><big>[[2Chr.32.20 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many brought offerings to Jerusalem for the LORD and valuable gifts for Hezekiah
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.22|<< 2 Chronicles 32:22]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.24|2 Chronicles 32:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and many [people]  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H7227A\|רַבִּים]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ra.bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] bringing  |**<big>&#8207;[[H0935P\|מְבִיאִ֨ים]]&#8207; </big>**| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

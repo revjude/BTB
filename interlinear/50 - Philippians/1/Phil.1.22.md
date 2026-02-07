@@ -1,12 +1,12 @@
-**Philippians 1:22
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:22**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if I live in the flesh, this [is] the fruit of my labour: yet what I shall choose I wot not.
 <small><sub>**BSB:**</sub></small>
 But if I go on living in the body, this will mean fruitful labor for me. So what shall I choose? I do not know.
 <small><sub>**Literal:**</sub></small>
 If [I am] however <the> to live in flesh, this for me [is the] fruit of labor; And what will I choose Not I know!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.21|<< Philippians 1:21]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.23|Philippians 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If [I am] |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

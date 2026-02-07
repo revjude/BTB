@@ -1,4 +1,4 @@
-**Judges 8:14** 
+**Judges 8:14**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And caught a young man of the men of Succoth, and inquired of him: and he described unto him the princes of Succoth, and the elders thereof, [even] threescore and seventeen men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There he captured a young man of Succoth and interrogated him. The young man wro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.13|<< Judges 8:13]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.15|Judges 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he captured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|יִּלְכָּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.kod-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a young man  |**<big>&#8207;[[H5288\|נַ֛עַר]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 8:3** 
+**Jeremiah 8:3**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places whither I have driven them, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And wherever I have banished them, the remnant of this evil family will choose d
 > $\quad$ referenced by: [[Rev.9.6|Rev 9:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be chosen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0977\|נִבְחַ֥ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> niv.Char<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | death  |**<big>&#8207;[[H4194\|מָ֙וֶת֙]]&#8207; </big>**| ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:7** 
 <small><sub>**LXX:**</sub></small>
 And David said, Solomon, My child, it was upon my soul  to build a house to the name of \[the\] <span class="smallcaps">lord</span>  my God. 
-<small><sub>**KJV:**</sub></small>
-And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:
-<small><sub>**BSB:**</sub></small>
-“My son,” said David to Solomon, “it was in my heart to build a house for the Name of the LORD my God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.6|<< 1 Chronicles 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.8|1 Chronicles 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

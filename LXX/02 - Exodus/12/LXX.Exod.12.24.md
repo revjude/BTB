@@ -1,10 +1,7 @@
 **LXX Exodus 12:24** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard  this thing for the law to yourself, and \[to\] your sons unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-And ye shall observe this thing for an ordinance to thee and to thy sons for ever.
-<small><sub>**BSB:**</sub></small>
-And you are to keep this command as a permanent statute for you and your descendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.23|<< Exodus 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.25|Exodus 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

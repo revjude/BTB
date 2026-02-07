@@ -1,12 +1,12 @@
-**Luke 11:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:32**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas [is] here.
 <small><sub>**BSB:**</sub></small>
 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here.
 <small><sub>**Literal:**</sub></small>
 [The] men Ninevites will stand up in the judgment with <the> generation this and will condemn it; For they repented at the preaching of Jonah, and behold greater than Jonah [is] here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.31|<< Luke 11:31]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.33|Luke 11:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Ninevites [^1] |**<big>[[G3536\|Νινευῖται]]</big>**  [^2] |Nineuitai <small><sup>[[N-NPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

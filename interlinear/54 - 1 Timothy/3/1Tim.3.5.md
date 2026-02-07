@@ -1,12 +1,12 @@
-**1 Timothy 3:5
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:5**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For if a man know not how to rule his own house, how shall he take care of the church of God?)
 <small><sub>**BSB:**</sub></small>
 For if someone does not know how to manage his own household, how can he care for the church of God?
 <small><sub>**Literal:**</sub></small>
 if but one <the> his [own] household to manage not knows, how [the] church of God will he care for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.4|<< 1 Timothy 3:4]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.6|1 Timothy 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

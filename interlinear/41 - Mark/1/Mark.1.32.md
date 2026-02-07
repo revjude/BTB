@@ -1,12 +1,12 @@
-**Mark 1:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:32**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.
 <small><sub>**BSB:**</sub></small>
 That evening, after sunset, people brought to Jesus all the sick and demon-possessed,
 <small><sub>**Literal:**</sub></small>
 When evening now having come, when went down the sun, they were bringing to Him all those sick being and those being demonised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.31|<< Mark 1:31]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.33|Mark 1:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When evening |**<big>[[G3798\|Ὀψίας]]</big>**  |Opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

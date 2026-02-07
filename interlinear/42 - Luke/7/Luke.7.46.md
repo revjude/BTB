@@ -1,12 +1,12 @@
-**Luke 7:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:46**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.
 <small><sub>**BSB:**</sub></small>
 You did not anoint My head with oil, but she has anointed My feet with perfume.
 <small><sub>**Literal:**</sub></small>
 With oil the head of Mine not you did anoint; she herself however with fragrant oil anointed the feet of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.45|<< Luke 7:45]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.47|Luke 7:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With oil |**<big>[[G1637\|ἐλαίῳ]]</big>**  |elaiō <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

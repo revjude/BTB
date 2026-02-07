@@ -1,4 +1,4 @@
-**1 Kings 15:32** 
+**1 Kings 15:32**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war between Asa and Baasha king of Israel all their days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there was war between Asa and Baasha king of Israel throughout their days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.31|<< 1 Kings 15:31]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.33|1 Kings 15:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and war  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4421\|מִלְחָמָ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיְתָ֜ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

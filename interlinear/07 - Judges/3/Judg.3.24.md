@@ -1,4 +1,4 @@
-**Judges 3:24** 
+**Judges 3:24**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour [were] locked, they said, Surely he covereth his feet in his summer chamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Ehud was gone, Eglon’s servants came in and found the doors of the upper
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.23|<< Judges 3:23]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.25|Judges 3:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֤וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went forth  |**<big>&#8207;[[H3318G\|יָצָא֙]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

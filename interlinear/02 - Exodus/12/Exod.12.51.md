@@ -1,4 +1,4 @@
-**Exodus 12:51** 
+**Exodus 12:51**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the selfsame day, [that] the LORD did bring the children of Israel out of the land of Egypt by their armies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that very day the LORD brought the Israelites out of the land of Egypt by
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.50|<< Exodus 12:50]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.1|Exodus 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] substance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6106H\|עֶ֖צֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

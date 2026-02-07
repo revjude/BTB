@@ -1,4 +1,4 @@
-**Deuteronomy 27:25** 
+**Deuteronomy 27:25**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that taketh reward to slay an innocent person. And all the people shall say, Amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cursed [be] he that taketh reward to slay an innocent person. And all the people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.24|<< Deuteronomy 27:24]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.26|Deuteronomy 27:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָרוּר֙]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] takes  |**<big>&#8207;[[H3947G\|לֹקֵ֣חַ]]&#8207; </big>**| lo.Ke.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

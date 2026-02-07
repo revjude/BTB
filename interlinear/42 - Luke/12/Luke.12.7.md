@@ -1,12 +1,12 @@
-**Luke 12:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:7**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.
 <small><sub>**BSB:**</sub></small>
 And even the very hairs of your head are all numbered. So do not be afraid; you are worth more than many sparrows.
 <small><sub>**Literal:**</sub></small>
 But even the hairs of the head of you all have been numbered. Not therefore do fear; than many sparrows you are more valuable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.6|<< Luke 12:6]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.8|Luke 12:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

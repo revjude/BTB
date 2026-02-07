@@ -1,4 +1,4 @@
-**2 Samuel 7:19** 
+**2 Samuel 7:19**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And [is] this the manner of man, O Lord GOD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as if this was a small thing in Your eyes, O Lord GOD, You have also spoken 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.18|<< 2 Samuel 7:18]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.20|2 Samuel 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was small  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6994\|תִּקְטַן֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Tan<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | yet  |**<big>&#8207;[[H5750\|ע֨וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

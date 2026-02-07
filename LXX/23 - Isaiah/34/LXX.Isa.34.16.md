@@ -1,10 +1,7 @@
 **LXX Isaiah 34:16** 
 <small><sub>**LXX:**</sub></small>
 They go by in number, and not one of them perished; \[the\] other did not seek the other; for the <span class="smallcaps">lord</span> gave charge to them, and  his spirit gathered them. 
-<small><sub>**KJV:**</sub></small>
-Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
-<small><sub>**BSB:**</sub></small>
-Search and read the scroll of the LORD: Not one of these will go missing, not one will lack her mate, because He has ordered it by His mouth, and He will gather them by His Spirit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.15|<< Isaiah 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.17|Isaiah 34:17 >>]]</td></tr></table>
 
 | Translation | Greek |

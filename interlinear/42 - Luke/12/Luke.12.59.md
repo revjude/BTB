@@ -1,12 +1,12 @@
-**Luke 12:59
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:59**<big><big>[[Luke.12.57 Reconciling with an Adversary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.
 <small><sub>**BSB:**</sub></small>
 I tell you, you will not get out until you have paid the very last penny.”
 <small><sub>**Literal:**</sub></small>
 I say to you; certainly not shall you come out from there until of which even the last lepton you may have paid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.58|<< Luke 12:58]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.1|Luke 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you; |**<big>[[G4771\|σοι·]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

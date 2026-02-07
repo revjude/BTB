@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΔΗ</p>
 
 \[The\] <span class="smallcaps">lord</span> is just; for  I greatly embittered his mouth. Hear indeed all  peoples, and behold  my pain! My virgins and my young men were gone into captivity. 
-<small><sub>**KJV:**</sub></small>
-The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
-<small><sub>**BSB:**</sub></small>
-The LORD is righteous, yet I rebelled against His command. Listen, all you people; look upon my suffering. My young men and maidens have gone into captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.17|<< Lamentations 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.19|Lamentations 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

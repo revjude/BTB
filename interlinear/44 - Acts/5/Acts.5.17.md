@@ -1,12 +1,12 @@
-**Acts 5:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:17**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,
 <small><sub>**BSB:**</sub></small>
 Then the high priest and all his associates, who belonged to the party of the Sadducees, were filled with jealousy. They went out
 <small><sub>**Literal:**</sub></small>
 Having risen up however the high priest and all those with him, which is being [the] sect of the Sadducees, were filled with jealousy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.16|<< Acts 5:16]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.18|Acts 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|Ἀναστὰς]]</big>**  |Anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

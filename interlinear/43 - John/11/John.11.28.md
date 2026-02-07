@@ -1,12 +1,12 @@
-**John 11:28
-**<small><sub>**KJV:**</sub></small>
+**John 11:28**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.
 <small><sub>**BSB:**</sub></small>
 After Martha had said this, she went back and called her sister Mary aside to tell her, “The Teacher is here and is asking for you.”
 <small><sub>**Literal:**</sub></small>
 And these things having said she went away and she called Mary the sister of her secretly having said; The Teacher is come and He calls you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.27|<< John 11:27]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.29|John 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things [^1] |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

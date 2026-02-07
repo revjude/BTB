@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:15** 
 <small><sub>**LXX:**</sub></small>
 And he made in Jerusalem machines being constructed for devices  to be upon the towers, and upon the corners,  to throw arrows and great stones. And their apparatus was heard about unto a distance, for he was wonderfully  helped until of which \[time\] he grew strong. 
-<small><sub>**KJV:**</sub></small>
-And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong.
-<small><sub>**BSB:**</sub></small>
-And in Jerusalem he made skillfully designed devices to shoot arrows and catapult large stones from the towers and corners. So his fame spread far and wide, for he was helped tremendously until he became powerful.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.14|<< 2 Chronicles 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.16|2 Chronicles 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

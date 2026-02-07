@@ -1,4 +1,4 @@
-**Isaiah 11:2** 
+**Isaiah 11:2**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The Spirit of the LORD will rest on Him—the Spirit of wisdom and understanding
 > $\quad$ referenced by: [[1Pet.4.14|1Pet 4:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will rest  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5117\|נָחָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Chah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

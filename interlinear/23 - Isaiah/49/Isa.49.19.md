@@ -1,4 +1,4 @@
-**Isaiah 49:19** 
+**Isaiah 49:19**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For your ruined and desolate places and your ravaged land will now indeed be too
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.18|<< Isaiah 49:18]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.20|Isaiah 49:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | waste places your  |**<big>&#8207;[[H2723\|חָרְבֹתַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| cha.re.vo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

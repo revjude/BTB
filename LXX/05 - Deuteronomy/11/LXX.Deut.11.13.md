@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:13** 
 <small><sub>**LXX:**</sub></small>
 But if in hearing you should hear all  his commandments, as many as I give charge to you today, to love \[the\] <span class="smallcaps">lord</span>  your God, and to serve to him from your entire heart, and from your entire soul, 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,
-<small><sub>**BSB:**</sub></small>
-So if you carefully obey the commandments I am giving you today, to love the LORD your God and to serve Him with all your heart and with all your soul,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.12|<< Deuteronomy 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.14|Deuteronomy 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

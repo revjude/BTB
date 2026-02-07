@@ -1,4 +1,4 @@
-**Nehemiah 6:10** 
+**Nehemiah 6:10**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who [was] shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay thee; yea, in the night will they come to slay thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.9|<< Nehemiah 6:9]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.11|Nehemiah 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ni-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I went  |**<big>&#8207;[[H0935G\|בָ֗אתִי]]&#8207; </big>**| Va.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 27:26** 
+**Deuteronomy 27:26**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that confirmeth not [all] the words of this law to do them. And all the people shall say, Amen.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Cursed [be] he that confirmeth not [all] the words of this law to do them. And a
 > $\quad$ referenced by: [[Gal.3.10|Gal 3:10]] ☩ [[Gal.3.13|Gal 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָר֗וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

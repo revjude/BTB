@@ -1,4 +1,4 @@
-**1 Kings 22:12** 
+**1 Kings 22:12**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver [it] into the king’s hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilea
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.11|<< 1 Kings 22:11]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.13|1 Kings 22:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophets  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נְּבִאִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

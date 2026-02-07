@@ -1,12 +1,12 @@
-**1 Timothy 6:21
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:21**<big><big>[[1Tim.6.20 Guard the Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which some professing have erred concerning the faith. Grace [be] with thee. Amen.
 <small><sub>**BSB:**</sub></small>
 which some have professed and thus swerved away from the faith. Grace be with you all.
 <small><sub>**Literal:**</sub></small>
 which some professing from the faith went astray. {22} <the>  Grace [be] with you [all] Amen. to Timothy first it was written from Laodicea which is capital of Phrygia <the> of Pacatiana.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἥν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

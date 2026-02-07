@@ -1,10 +1,7 @@
 **LXX Joshua 6:26** 
 <small><sub>**LXX:**</sub></small>
 And Joshua bound them by an oath in  that day, saying, Accursed \[is\] the man who before \[the\] <span class="smallcaps">lord</span>, who shall raise up or shall build  that city  Jericho; with  his first-born he will lay the foundation for it, and with the least of his he shall set the gates of it. 
-<small><sub>**KJV:**</sub></small>
-And Joshua adjured [them] at that time, saying, Cursed [be] the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest [son] shall he set up the gates of it.
-<small><sub>**BSB:**</sub></small>
-At that time Joshua invoked this solemn oath: “Cursed before the LORD is the man who rises up and rebuilds this city, Jericho; at the cost of his firstborn he will lay its foundations; at the cost of his youngest he will set up its gates.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.25|<< Joshua 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.27|Joshua 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

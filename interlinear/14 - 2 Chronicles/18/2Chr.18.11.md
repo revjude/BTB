@@ -1,4 +1,4 @@
-**2 Chronicles 18:11** 
+**2 Chronicles 18:11**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver [it] into the hand of the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilea
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.10|<< 2 Chronicles 18:10]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.12|2 Chronicles 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophets  |**<big>&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H5030\|נְּבִאִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

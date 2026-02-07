@@ -1,4 +1,4 @@
-**Ruth 2:20** 
+**Ruth 2:20**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naomi said unto her daughter in law, Blessed [be] he of the LORD, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man [is] near of kin unto us, one of our next kinsmen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.19|<< Ruth 2:19]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.21|Ruth 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֨אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naomi  |**<big>&#8207;[[H5281\|נָעֳמִ֜י]]&#8207; </big>**| no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

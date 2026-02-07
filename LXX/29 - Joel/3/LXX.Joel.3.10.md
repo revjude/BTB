@@ -1,10 +1,7 @@
 **LXX Joel 3:10** 
 <small><sub>**LXX:**</sub></small>
 Cut up  your plows into broadswords, and  your sickles into spears! Let the powerless say that, I am strong! 
-<small><sub>**KJV:**</sub></small>
-Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I [am] strong.
-<small><sub>**BSB:**</sub></small>
-Beat your plowshares into swords and your pruning hooks into spears. Let the weak say, ‘I am strong!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.9|<< Joel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.11|Joel 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

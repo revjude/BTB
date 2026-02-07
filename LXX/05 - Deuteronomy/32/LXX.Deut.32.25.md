@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:25** 
 <small><sub>**LXX:**</sub></small>
 From outside \[the\] sword shall make them childless, and from out of the inner chambers fear; \[the\] young man with \[the\] virgin, \[the\] one nursing being placed with \[the\] old man. 
-<small><sub>**KJV:**</sub></small>
-The sword without, and terror within, shall destroy both the young man and the virgin, the suckling [also] with the man of gray hairs.
-<small><sub>**BSB:**</sub></small>
-Outside, the sword will take their children, and inside, terror will strike the young man and the young woman, the infant and the gray-haired man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.24|<< Deuteronomy 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.26|Deuteronomy 32:26 >>]]</td></tr></table>
 
 | Translation | Greek |

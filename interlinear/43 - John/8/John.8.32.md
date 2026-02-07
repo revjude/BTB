@@ -1,12 +1,12 @@
-**John 8:32
-**<small><sub>**KJV:**</sub></small>
+**John 8:32**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall know the truth, and the truth shall make you free.
 <small><sub>**BSB:**</sub></small>
 Then you will know the truth, and the truth will set you free.”
 <small><sub>**Literal:**</sub></small>
 And you will know the truth, and the truth will set free you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.31|<< John 8:31]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.33|John 8:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will know |**<big>[[G1097\|γνώσεσθε]]</big>**  |gnōsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

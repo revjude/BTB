@@ -1,10 +1,7 @@
 **LXX Psalm 65:3** 
 <small><sub>**LXX:**</sub></small>
 Lawless words overpowered us; but  you shall atone our impieties. 
-<small><sub>**KJV:**</sub></small>
-Iniquities prevail against me: [as for] our transgressions, thou shalt purge them away.
-<small><sub>**BSB:**</sub></small>
-When iniquities prevail against me, You atone for our transgressions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.2|<< Psalm 65:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.4|Psalm 65:4 >>]]</td></tr></table>
 
 | Translation | Greek |

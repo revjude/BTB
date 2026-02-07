@@ -1,4 +1,4 @@
-**1 Kings 5:14** (5:28)
+**1 Kings 5:14**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, [and] two months at home: and Adoniram [was] over the levy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.13|<< 1 Kings 5:13]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.15|1 Kings 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלָחֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.la.Che<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lebanon towards  |**<big>&#8207;[[H3844G\|לְבָנ֗וֹנָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| le.va.No.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

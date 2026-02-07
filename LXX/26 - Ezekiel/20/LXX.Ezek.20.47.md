@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:47** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the grove of Negev, Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! Thus says \[the\] <span class="smallcaps">lord</span>; Behold, I kindle in you a fire, and it shall devour in you every green tree, and every dry tree. The flame being lit up shall not be extinguished, and every face from \[the\] east wind unto \[the\] north shall be incinerated by it. 
-<small><sub>**KJV:**</sub></small>
-And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
-<small><sub>**BSB:**</sub></small>
-Say to the forest of the Negev: Hear the word of the LORD! This is what the Lord GOD says: I am about to ignite in you a fire, and it will devour all your trees, both green and dry. The blazing flame will not be quenched, and by it every face from south to north will be scorched.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.46|<< Ezekiel 20:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.48|Ezekiel 20:48 >>]]</td></tr></table>
 
 | Translation | Greek |

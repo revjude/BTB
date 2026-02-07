@@ -1,10 +1,7 @@
 **LXX Exodus 7:9** 
 <small><sub>**LXX:**</sub></small>
 And if Pharaoh should speak to you, saying, Give to us a sign or miracle, then your brother Aaron shall say, Take the rod and toss it upon the ground before Pharaoh, and before  his attendants, and it will be a serpent. 
-<small><sub>**KJV:**</sub></small>
-When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast [it] before Pharaoh, [and] it shall become a serpent.
-<small><sub>**BSB:**</sub></small>
-“When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.8|<< Exodus 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.10|Exodus 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

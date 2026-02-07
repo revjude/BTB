@@ -1,12 +1,12 @@
-**Acts 9:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:39**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
 <small><sub>**BSB:**</sub></small>
 So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them.
 <small><sub>**Literal:**</sub></small>
 Having risen up then Peter went with them; who having arrived they brought [him] into the upper room, And stood by him all the widows weeping and showing [the] tunics and garments how much was making with them being <the> Dorcas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.38|<< Acts 9:38]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.40|Acts 9:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:8** 
 <small><sub>**LXX:**</sub></small>
 And send to me timbers of cedars, and of junipers, and of pines, from out of  Lebanon! for I know that  your servants know how to fell timbers from  Lebanon. And behold,  my servants shall go with  your servants, 
-<small><sub>**KJV:**</sub></small>
-Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants [shall be] with thy servants,
-<small><sub>**BSB:**</sub></small>
-Send me also cedar, cypress, and algum logs from Lebanon, for I know that your servants have skill to cut timber there. And indeed, my servants will work with yours<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.7|<< 2 Chronicles 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.9|2 Chronicles 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

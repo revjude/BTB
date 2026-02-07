@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:19** 
 <small><sub>**LXX:**</sub></small>
 Except  your wives, and  your children, and  your cattle, for I know \[there are\] many cattle to you, let them dwell at  your cities in which I gave to you, 
-<small><sub>**KJV:**</sub></small>
-But your wives, and your little ones, and your cattle, ([for] I know that ye have much cattle,) shall abide in your cities which I have given you;
-<small><sub>**BSB:**</sub></small>
-But your wives, your children, and your livestock—I know that you have much livestock—may remain in the cities I have given you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.18|<< Deuteronomy 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.20|Deuteronomy 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

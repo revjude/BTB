@@ -1,10 +1,7 @@
 **LXX Judges 20:30** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel ascended against the sons of Benjamin on the third day. And they deployed against  Gibeah as once \[before\], and once \[before that\]. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel went up against the children of Benjamin on the third day, and put themselves in array against Gibeah, as at other times.
-<small><sub>**BSB:**</sub></small>
-On the third day the Israelites went up against the Benjamites and arrayed themselves against Gibeah as they had done before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.29|<< Judges 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.31|Judges 20:31 >>]]</td></tr></table>
 
 | Translation | Greek |

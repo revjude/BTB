@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:5** 
 <small><sub>**LXX:**</sub></small>
 And I have appointed to you the two \[things\] for their iniquities for a number of days -- ninety and three hundred days; and you shall take the iniquities of the house of Israel. 
-<small><sub>**KJV:**</sub></small>
-For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
-<small><sub>**BSB:**</sub></small>
-For I have assigned to you 390 days, according to the number of years of their iniquity. So you shall bear the iniquity of the house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.4|<< Ezekiel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.6|Ezekiel 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

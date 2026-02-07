@@ -1,12 +1,12 @@
-**Acts 17:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:14**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.
 <small><sub>**BSB:**</sub></small>
 The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea.
 <small><sub>**Literal:**</sub></small>
 Immediately also then <the> Paul sent away the brothers to go until to the sea; remained but <the> both Silas and <the> Timothy there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.13|<< Acts 17:13]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.15|Acts 17:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

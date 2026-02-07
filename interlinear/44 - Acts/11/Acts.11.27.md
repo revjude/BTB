@@ -1,12 +1,12 @@
-**Acts 11:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:27**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in these days came prophets from Jerusalem unto Antioch.
 <small><sub>**BSB:**</sub></small>
 In those days some prophets came down from Jerusalem to Antioch.
 <small><sub>**Literal:**</sub></small>
 In these now <the> days came down from Jerusalem prophets to Antioch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.26|<< Acts 11:26]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.28|Acts 11:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|ταύταις]]</big>**  |tautais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 38:9** 
+**Ezekiel 38:9**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You and all your troops, and many peoples with you will go up, advancing like a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.8|<< Ezekiel 38:8]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.10|Ezekiel 38:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָלִ֙יתָ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Li.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> storm  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H7722B\|שֹּׁאָ֣ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> sho.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

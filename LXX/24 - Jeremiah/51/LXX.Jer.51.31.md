@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:31** 
 <small><sub>**LXX:**</sub></small>
 One \[is\] pursuing to meet one pursuing to pursue; and one announcing to meet one announcing  to announce to the king of Babylon that his city is captured. 
-<small><sub>**KJV:**</sub></small>
-One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at [one] end,
-<small><sub>**BSB:**</sub></small>
-One courier races to meet another, and messenger follows messenger, to announce to the king of Babylon that his city has been captured from end to end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.30|<< Jeremiah 51:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.32|Jeremiah 51:32 >>]]</td></tr></table>
 
 | Translation | Greek |

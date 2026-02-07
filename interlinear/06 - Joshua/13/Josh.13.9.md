@@ -1,4 +1,4 @@
-**Joshua 13:9** 
+**Joshua 13:9**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Aroer, that [is] upon the bank of the river Arnon, and the city that [is] in the midst of the river, and all the plain of Medeba unto Dibon;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The area from Aroer on the rim of the Arnon Valley, along with the city in the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.8|<< Joshua 13:8]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.10|Joshua 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Aroer  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6177H\|עֲרוֹעֵ֡ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ro.'Er<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

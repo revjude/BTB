@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:4** 
 <small><sub>**LXX:**</sub></small>
 And he appealed to the person of the king of Moab. And they dwelt with him all the days of David being in the citadel. 
-<small><sub>**KJV:**</sub></small>
-And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
-<small><sub>**BSB:**</sub></small>
-So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.3|<< 1 Samuel 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.5|1 Samuel 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

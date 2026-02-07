@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:29** 
 <small><sub>**LXX:**</sub></small>
 And Zephaniah read the scroll into the ears of Jeremiah the prophet. 
-<small><sub>**KJV:**</sub></small>
-And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.
-<small><sub>**BSB:**</sub></small>
-(Zephaniah the priest, however, had read this letter to Jeremiah the prophet.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.28|<< Jeremiah 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.30|Jeremiah 29:30 >>]]</td></tr></table>
 
 | Translation | Greek |

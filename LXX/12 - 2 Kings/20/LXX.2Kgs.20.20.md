@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:20** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Hezekiah, and all as much as he did, and all  his dominations, and the fountain and the aqueduct, and \[how\] he brought the water into the city; behold \[are\] not these written upon \[the\] scroll of \[the\] words \[of the\] days of the kings of Judah? 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, [are] they not written in the book of the chronicles of the kings of Judah?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Hezekiah, along with all his might and how he constructed the pool and the tunnel to bring water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.19|<< 2 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.21|2 Kings 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

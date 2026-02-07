@@ -1,4 +1,4 @@
-**Nehemiah 11:4** 
+**Nehemiah 11:4**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at Jerusalem dwelt [certain] of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ while some of the descendants of Judah and Benjamin settled in Jerusalem.) From 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.3|<< Nehemiah 11:3]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.5|Nehemiah 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֙ם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they dwelt  |**<big>&#8207;[[H3427\|יָֽשְׁב֔וּ]]&#8207; </big>**| ya.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 45:10** 
+**Genesis 45:10**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children’s children, and thy flocks, and thy herds, and all that thou hast:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall settle in the land of Goshen and be near me—you and your children an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.9|<< Genesis 45:9]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.11|Genesis 45:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשַׁבְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.shav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] land of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0776G\|אֶֽרֶץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

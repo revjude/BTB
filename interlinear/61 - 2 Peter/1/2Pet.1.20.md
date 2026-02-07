@@ -1,12 +1,12 @@
-**2 Peter 1:20
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:20**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing this first, that no prophecy of the scripture is of any private interpretation.
 <small><sub>**BSB:**</sub></small>
 Above all, you must understand that no prophecy of Scripture comes from one’s own interpretation.
 <small><sub>**Literal:**</sub></small>
 this first knowing that any prophecy of Scripture of its own interpretation not is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.19|<< 2 Peter 1:19]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.21|2 Peter 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | first |**<big>[[G4413G\|πρῶτον]]</big>**  |prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

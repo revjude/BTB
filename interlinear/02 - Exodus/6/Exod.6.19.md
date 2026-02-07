@@ -1,4 +1,4 @@
-**Exodus 6:19** 
+**Exodus 6:19**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Merari; Mahali and Mushi: these [are] the families of Levi according to their generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Merari were Mahli and Mushi. These were the clans of the Levites acc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.18|<< Exodus 6:18]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.20|Exodus 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Merari  |**<big>&#8207;[[H4847\|מְרָרִ֖י]]&#8207; </big>**| me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

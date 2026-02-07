@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> added again to call Samuel. And he went to Eli the second \[time\], and said, Behold, \[it is\] I, for you called me. And he said, I have not called you child, return and sleep! 
-<small><sub>**KJV:**</sub></small>
-And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here [am] I; for thou didst call me. And he answered, I called not, my son; lie down again.
-<small><sub>**BSB:**</sub></small>
-Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.” “My son, I did not call,” Eli replied. “Go back and lie down.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.5|<< 1 Samuel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.7|1 Samuel 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

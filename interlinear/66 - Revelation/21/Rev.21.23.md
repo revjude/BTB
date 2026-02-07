@@ -1,5 +1,5 @@
-**Revelation 21:23
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:23**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb [is] the light thereof.
 <small><sub>**BSB:**</sub></small>
 And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp.
@@ -11,7 +11,7 @@ And the city no need has of the sun nor of the moon that they may shine in in it
 > $\quad$ possibly alluding to: [[LXX.Ezek.48.35|Ezek 48:35]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

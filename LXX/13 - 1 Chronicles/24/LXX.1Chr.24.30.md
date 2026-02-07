@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:30** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Mushi -- Mahli, and Eder, and Jerimoth. These \[were\] \[the\] sons of the Levites according to \[the\] houses  of their families. 
-<small><sub>**KJV:**</sub></small>
-The sons also of Mushi; Mahli, and Eder, and Jerimoth. These [were] the sons of the Levites after the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-And the sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites, according to their families.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.29|<< 1 Chronicles 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.31|1 Chronicles 24:31 >>]]</td></tr></table>
 
 | Translation | Greek |

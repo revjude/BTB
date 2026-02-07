@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:29** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Solomon, the first and the last, behold \[are\] not these written by the words of Nathan the prophet, and by the words of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam \[the\] son of Nebat? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Solomon, first and last, [are] they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Solomon, from beginning to end, are they not written in the Records of Nathan the Prophet, in the Prophecy of Ahijah the Shilonite, and in the Visions of Iddo the Seer concerning Jeroboam son of Nebat?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.28|<< 2 Chronicles 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.30|2 Chronicles 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

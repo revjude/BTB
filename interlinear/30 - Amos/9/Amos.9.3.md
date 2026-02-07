@@ -1,4 +1,4 @@
-**Amos 9:3** 
+**Amos 9:3**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And though they hide themselves in the top of Carmel, I will search and take them out thence; and though they be hid from my sight in the bottom of the sea, thence will I command the serpent, and he shall bite them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though they hide themselves atop Carmel, there I will track them and seize them;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.2|<< Amos 9:2]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.4|Amos 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will hide themselves  |**<big>&#8207;[[H2244\|יֵחָֽבְאוּ֙]]&#8207; </big>**| ye.cha.ve.'U<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

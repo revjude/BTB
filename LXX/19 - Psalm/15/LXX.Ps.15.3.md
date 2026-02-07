@@ -1,10 +1,7 @@
 **LXX Psalm 15:3** 
 <small><sub>**LXX:**</sub></small>
 who did not \[speak\] treacherously with his tongue, and did not \[do\]  bad \[to\] his neighbor, and did not take up scorning \[against\] the ones near him. 
-<small><sub>**KJV:**</sub></small>
-[He that] backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.
-<small><sub>**BSB:**</sub></small>
-who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.15.2|<< Psalm 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.4|Psalm 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

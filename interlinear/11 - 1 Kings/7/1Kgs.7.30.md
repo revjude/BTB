@@ -1,4 +1,4 @@
-**1 Kings 7:30** 
+**1 Kings 7:30**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every base had four brasen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver [were] undersetters molten, at the side of every addition.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each stand had four bronze wheels with bronze axles and a basin resting on four 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.29|<< 1 Kings 7:29]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.31|1 Kings 7:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wheels of  |**<big>&#8207;[[H0212\|אוֹפַנֵּ֨י]]&#8207; </big>**| 'o.fa.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

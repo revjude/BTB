@@ -1,12 +1,12 @@
-**1 Thessalonians 1:9
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:9**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;
 <small><sub>**BSB:**</sub></small>
 For they themselves report what kind of welcome you gave us, and how you turned to God from idols to serve the living and true God
 <small><sub>**Literal:**</sub></small>
 They themselves for concerning us report what reception we had from you, and how you turned to <the> God from <the> idols to serve [the] God living and true<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.8|<< 1 Thessalonians 1:8]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.10|1 Thessalonians 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

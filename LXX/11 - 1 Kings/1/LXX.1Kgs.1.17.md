@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:17** 
 <small><sub>**LXX:**</sub></small>
 And she said, O my master, O king, you swore by an oath to \[the\] <span class="smallcaps">lord</span>  your God \[to\] your maidservant, saying that, Solomon  your son, he shall reign after me, and he shall sit upon  my throne. 
-<small><sub>**KJV:**</sub></small>
-And she said unto him, My lord, thou swarest by the LORD thy God unto thine handmaid, [saying], Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.
-<small><sub>**BSB:**</sub></small>
-“My lord,” she replied, “you yourself swore to your maidservant by the LORD your God: ‘Surely your son Solomon will reign after me, and he will sit on my throne.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.16|<< 1 Kings 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.18|1 Kings 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

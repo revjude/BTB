@@ -1,4 +1,4 @@
-**Genesis 40:17** 
+**Genesis 40:17**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the uppermost basket [there was] of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the top basket were all sorts of baked goods for Pharaoh, but the birds were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.16|<< Genesis 40:16]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.18|Genesis 40:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] in the basket  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5536\|סַּ֣ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Sal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> upper  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5945A\|עֶלְי֔וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'el.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

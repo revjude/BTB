@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:29** 
 <small><sub>**LXX:**</sub></small>
 But if \[the\] <span class="smallcaps">lord</span> your God should utterly destroy the nations into which you enter there to inherit  their land from your presence, and you should inherit them, and dwell in  their land; 
-<small><sub>**KJV:**</sub></small>
-When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;
-<small><sub>**BSB:**</sub></small>
-When the LORD your God cuts off before you the nations you are entering to dispossess, and you drive them out and live in their land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.28|<< Deuteronomy 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.30|Deuteronomy 12:30 >>]]</td></tr></table>
 
 | Translation | Greek |

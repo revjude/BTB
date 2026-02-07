@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:32** 
 <small><sub>**LXX:**</sub></small>
 Every word which I give charge to you today, this you shall guard to do. You shall not add unto it, nor remove from it. 
-<small><sub>**KJV:**</sub></small>
-What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.
-<small><sub>**BSB:**</sub></small>
-See that you do everything I command you; do not add to it or subtract from it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.31|<< Deuteronomy 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.1|Deuteronomy 13:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 12:32** is...

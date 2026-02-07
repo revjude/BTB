@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:13** 
 <small><sub>**LXX:**</sub></small>
 And the columns, of the ones of brass, of the ones in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and the bases, and the brass sea, the one in \[the\] house of \[the\] <span class="smallcaps">lord</span>, the Chaldeans cut up, and they carried  their brass unto Babylon. 
-<small><sub>**KJV:**</sub></small>
-And the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.
-<small><sub>**BSB:**</sub></small>
-Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried the bronze to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.12|<< 2 Kings 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.14|2 Kings 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

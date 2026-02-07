@@ -1,5 +1,5 @@
-**Matthew 22:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:39**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the second [is] like unto it, Thou shalt love thy neighbour as thyself.
 <small><sub>**BSB:**</sub></small>
 And the second is like it: ‘Love your neighbor as yourself.’
@@ -10,7 +10,7 @@ And the second is like it: ‘Love your neighbor as yourself.’
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] second |**<big>[[G1208\|δευτέρα]]</big>**  |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NKO</abbr> | |

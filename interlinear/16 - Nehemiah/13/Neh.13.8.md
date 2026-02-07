@@ -1,4 +1,4 @@
-**Nehemiah 13:8** 
+**Nehemiah 13:8**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I was greatly displeased and threw all of Tobiah’s household goods out of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.7|<< Nehemiah 13:7]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.9|Nehemiah 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was displeasing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7489A\|יֵּ֥רַֽע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 50:2** 
 <small><sub>**LXX:**</sub></small>
 Why \[is it\] that I came, and there was no man? I called and there was none  hearkening. Is not my hand strong  to rescue? or \[am I\] not able  to rescue? Behold,  by my rebuke I shall make quite desolate the sea, and I shall make rivers desolate \[places\]; and their fishes shall be dried up from  there not being water; and they shall die for thirst. 
-<small><sub>**KJV:**</sub></small>
-Wherefore, when I came, [was there] no man? when I called, [was there] none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because [there is] no water, and dieth for thirst.
-<small><sub>**BSB:**</sub></small>
-Why was no one there when I arrived? Why did no one answer when I called? Is My hand too short to redeem you? Or do I lack the strength to deliver you? Behold, My rebuke dries up the sea; I turn the rivers into a desert; the fish rot for lack of water and die of thirst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.1|<< Isaiah 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.3|Isaiah 50:3 >>]]</td></tr></table>
 
 | Translation | Greek |

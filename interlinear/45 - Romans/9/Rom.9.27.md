@@ -1,5 +1,5 @@
-**Romans 9:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:27**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
 <small><sub>**BSB:**</sub></small>
 Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved.
@@ -11,7 +11,7 @@ Isaiah also cries out concerning <the> Israel: Though shall be the number of the
 > $\quad$ referencing: [[LXX.Hos.2.1|Hos 2:1]] ☩ [[LXX.Isa.10.22|Isa 10:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Isaiah |**<big>[[G2268\|Ἠσαΐας]]</big>**  [^1] |Ēsaias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

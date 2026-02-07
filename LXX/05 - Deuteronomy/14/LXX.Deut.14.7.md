@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:7** 
 <small><sub>**LXX:**</sub></small>
 And these you shall not eat -- from of the ones embarking chewing the cud, and of the ones being cloven of the hoofs, and clawing cloven-footed -- the camel, and hare, and hyrax -- for they embark chewing the cud, but \[the\] hoof is not cloven, these \[are\] unclean to you. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; [as] the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; [therefore] they [are] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-But of those that chew the cud or have a completely divided hoof, you are not to eat the following: the camel, the rabbit, or the rock badger. Although they chew the cud, they do not have a divided hoof. They are unclean for you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.6|<< Deuteronomy 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.8|Deuteronomy 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

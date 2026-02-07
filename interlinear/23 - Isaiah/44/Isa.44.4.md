@@ -1,4 +1,4 @@
-**Isaiah 44:4** 
+**Isaiah 44:4**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall spring up [as] among the grass, as willows by the water courses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will sprout among the grass like willows by flowing streams.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.3|<< Isaiah 44:3]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.5|Isaiah 44:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will spring up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6779\|צָמְח֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tza.me.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in between  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0996H\|בֵ֣ין]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

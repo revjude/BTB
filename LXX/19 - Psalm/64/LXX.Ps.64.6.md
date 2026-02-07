@@ -1,10 +1,7 @@
 **LXX Psalm 64:6** 
 <small><sub>**LXX:**</sub></small>
 They searched out lawlessness; they failed \[while\] searching out in \[the\] search. Man shall come forward and \[the\] heart \[is\] deep, 
-<small><sub>**KJV:**</sub></small>
-They search out iniquities; they accomplish a diligent search: both the inward [thought] of every one [of them], and the heart, [is] deep.
-<small><sub>**BSB:**</sub></small>
-They devise injustice and say, “We have perfected a secret plan.” For the inner man and the heart are mysterious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.5|<< Psalm 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.7|Psalm 64:7 >>]]</td></tr></table>
 
 | Translation | Greek |

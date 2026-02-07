@@ -1,10 +1,7 @@
 **LXX Numbers 22:41** 
 <small><sub>**LXX:**</sub></small>
 And it became morning, and Balak taking  Balaam transported him unto the stele  of Baal, and showed to him from there a certain part of the people. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost [part] of the people.
-<small><sub>**BSB:**</sub></small>
-The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see the outskirts of the camp of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.40|<< Numbers 22:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.1|Numbers 23:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 22:41** is...

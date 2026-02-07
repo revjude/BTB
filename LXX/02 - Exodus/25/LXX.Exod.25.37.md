@@ -1,10 +1,7 @@
 **LXX Exodus 25:37** 
 <small><sub>**LXX:**</sub></small>
 And you shall make  \[its\] seven lamps. And you shall place  \[its\] lamps. And they shall shine forth from the one before it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.
-<small><sub>**BSB:**</sub></small>
-Make seven lamps and set them up on the lampstand so that they illuminate the area in front of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.36|<< Exodus 25:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.38|Exodus 25:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 4:17** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall dip \[his\] finger into the blood of the calf, and shall sprinkle \[it\] seven times before \[the\] <span class="smallcaps">lord</span> in front of the holy veil. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall dip his finger [in some] of the blood, and sprinkle [it] seven times before the LORD, [even] before the vail.
-<small><sub>**BSB:**</sub></small>
-and he is to dip his finger in the blood and sprinkle it seven times before the LORD in front of the veil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.16|<< Leviticus 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.18|Leviticus 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

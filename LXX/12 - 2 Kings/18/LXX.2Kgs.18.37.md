@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:37** 
 <small><sub>**LXX:**</sub></small>
 And Eliakim son of Hilkiah the manager entered, and Shebna the scribe, and Joah son of Asaph the one recording to Hezekiah tearing  \[their\] garments. And announced to him the words of Rabshakeh. 
-<small><sub>**KJV:**</sub></small>
-Then came Eliakim the son of Hilkiah, which [was] over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.
-<small><sub>**BSB:**</sub></small>
-Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.36|<< 2 Kings 18:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.1|2 Kings 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

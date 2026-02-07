@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:3** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] vision \[is\] yet for a time, and it shall rise in \[the\] end, and not in vain. If he should lack, wait for him! for in coming he shall come and in no way should he delay. 
-<small><sub>**KJV:**</sub></small>
-For the vision [is] yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
-<small><sub>**BSB:**</sub></small>
-For the vision awaits an appointed time; it testifies of the end and does not lie. Though it lingers, wait for it, since it will surely come and will not delay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.2|<< Habakkuk 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.4|Habakkuk 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Habakkuk 2:3** is...

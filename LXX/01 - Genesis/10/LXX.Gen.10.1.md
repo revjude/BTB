@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the generations of the sons of Noah -- Shem, Ham, Japheth. And were born to them sons after the flood. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
-<small><sub>**BSB:**</sub></small>
-This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.29|<< Genesis 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.2|Genesis 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

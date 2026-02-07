@@ -1,4 +1,4 @@
-**Ezekiel 29:16** 
+**Ezekiel 29:16**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be no more the confidence of the house of Israel, which bringeth [their] iniquity to remembrance, when they shall look after them: but they shall know that I [am] the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Egypt will never again be an object of trust for the house of Israel, but will r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.15|<< Ezekiel 29:15]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.17|Ezekiel 29:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will become  |**<big>&#8207;[[H1961\|יִֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

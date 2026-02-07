@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:13** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, I ordained a covenant with  your fathers in the day in which I rescued them from out of \[the\] land of Egypt, from out of \[the\] house of slavery, saying, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD, the God of Israel, says: I made a covenant with your forefathers when I brought them out of the land of Egypt, out of the house of slavery, saying:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.12|<< Jeremiah 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.14|Jeremiah 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

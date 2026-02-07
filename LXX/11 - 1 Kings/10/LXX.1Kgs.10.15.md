@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:15** 
 <small><sub>**LXX:**</sub></small>
 apart from the tribute of the ones submitting, and the merchants, and all the kings of the other side \[of the Jordan\], and the satraps of the land. 
-<small><sub>**KJV:**</sub></small>
-Beside [that he had] of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
-<small><sub>**BSB:**</sub></small>
-not including the revenue from the merchants, traders, and all the Arabian kings and governors of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.14|<< 1 Kings 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.16|1 Kings 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

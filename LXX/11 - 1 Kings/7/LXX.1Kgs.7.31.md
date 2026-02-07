@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:31** 
 <small><sub>**LXX:**</sub></small>
 And the mouth of it \[was\] globular, a thing made thus -- a cubit and half a cubit. And upon  its mouth \[were\] carvings. And their small pillars \[were\] four-cornered, not globular. 
-<small><sub>**KJV:**</sub></small>
-And the mouth of it within the chapiter and above [was] a cubit: but the mouth thereof [was] round [after] the work of the base, a cubit and an half: and also upon the mouth of it [were] gravings with their borders, foursquare, not round.
-<small><sub>**BSB:**</sub></small>
-The opening to each stand inside the crown at the top was one cubit deep, with a round opening like the design of a pedestal, a cubit and a half wide. And around its opening were engravings, but the panels of the stands were square, not round.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.30|<< 1 Kings 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.32|1 Kings 7:32 >>]]</td></tr></table>
 
 | Translation | Greek |

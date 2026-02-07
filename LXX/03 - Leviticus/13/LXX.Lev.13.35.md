@@ -1,10 +1,7 @@
 **LXX Leviticus 13:35** 
 <small><sub>**LXX:**</sub></small>
 But if \[the\] diffusion should be diffused in the outbreak in the skin after  cleansing it, 
-<small><sub>**KJV:**</sub></small>
-But if the scall spread much in the skin after his cleansing;
-<small><sub>**BSB:**</sub></small>
-If, however, the scaly outbreak spreads further on the skin after his cleansing,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.34|<< Leviticus 13:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.36|Leviticus 13:36 >>]]</td></tr></table>
 
 | Translation | Greek |

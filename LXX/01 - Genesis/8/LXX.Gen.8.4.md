@@ -1,10 +1,7 @@
 **LXX Genesis 8:4** 
 <small><sub>**LXX:**</sub></small>
 And the ark settled in the seventh month, \[the\] seventh and twentieth of the month, upon the mountains  of Ararat. 
-<small><sub>**KJV:**</sub></small>
-And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
-<small><sub>**BSB:**</sub></small>
-On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.3|<< Genesis 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.5|Genesis 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

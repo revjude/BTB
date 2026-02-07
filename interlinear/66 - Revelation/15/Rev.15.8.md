@@ -1,5 +1,5 @@
-**Revelation 15:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:8**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
 <small><sub>**BSB:**</sub></small>
 And the temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.
@@ -10,7 +10,7 @@ And was filled the temple with smoke from the glory <the> of God and from the po
 > $\quad$ alluding to: [[LXX.Isa.6.4|Isa 6:4]] ☩ [[LXX.Ezek.10.4|Ezek 10:4]] ☩ [[LXX.1Kgs.8.11|1Kgs 8:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was filled |**<big>[[G1072\|ἐγεμίσθη]]</big>**  |egemisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

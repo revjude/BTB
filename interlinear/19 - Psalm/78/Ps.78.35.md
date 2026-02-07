@@ -1,4 +1,4 @@
-**Psalms 78:35** 
+**Psalms 78:35**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they remembered that God [was] their rock, and the high God their redeemer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they remembered that God was their Rock, that God Most High was their Redeem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.34|<< Psalms 78:34]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.36|Psalms 78:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they remembered  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H2142\|יִּזְכְּרוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiz.ke.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

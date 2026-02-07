@@ -1,4 +1,4 @@
-**Proverbs 25:3** 
+**Proverbs 25:3**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heaven for height, and the earth for depth, and the heart of kings [is] unsearchable.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the heavens are high and the earth is deep, so the hearts of kings cannot be 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.2|<< Proverbs 25:2]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.4|Proverbs 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heaven  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> height  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H7312\|רוּם]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> rum<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

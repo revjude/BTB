@@ -1,10 +1,7 @@
 **LXX Exodus 29:32** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and his sons shall eat the meats of the ram, and the bread loaves \[that are\] in the bin by the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And Aaron and his sons shall eat the flesh of the ram, and the bread that [is] in the basket, [by] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-At the entrance to the Tent of Meeting, Aaron and his sons are to eat the meat of the ram and the bread that is in the basket.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.31|<< Exodus 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.33|Exodus 29:33 >>]]</td></tr></table>
 
 | Translation | Greek |

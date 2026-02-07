@@ -1,6 +1,6 @@
 (KJV) **Joshua 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8|<< Joshua 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10|Joshua 10 >>]]</td></tr></table>
 
-***The Deceit of the Gibeonites*** ^bsb560
+<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥃]]</big></big>***The Deceit of the Gibeonites***
 
  $\quad$ <span class="startversemarker">[</span>**[[Josh.9.1|1]]**<span class="endversemarker">]</span> And it came to pass, when all the kings<small><small>[^2]</small></small> which \[were\] on this<small><small>[^3]</small></small> side Jordan, in the hills, and in the valleys, and in all the coasts of the great<small><small>[^4]</small></small> sea over against Lebanon<small><small>[^5]</small></small>, the Hittite<small><small>[^6]</small></small>, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard \[thereof\]; <span class="startversemarker">[</span>**[[Josh.9.2|2]]**<span class="endversemarker">]</span> That they gathered<small><small>[^7]</small></small> themselves together, to fight with Joshua and with Israel, with one accord<small><small>[^8]</small></small>. 
 

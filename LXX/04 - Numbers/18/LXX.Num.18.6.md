@@ -1,10 +1,7 @@
 **LXX Numbers 18:6** 
 <small><sub>**LXX:**</sub></small>
 And behold, I have taken  your brethren the Levites from \[the\] midst of the sons of Israel \[as\] a gift being given \[to the\] <span class="smallcaps">lord</span>, to officiate the ministrations of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And I, behold, I have taken your brethren the Levites from among the children of Israel: to you [they are] given [as] a gift for the LORD, to do the service of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Behold, I Myself have selected your fellow Levites from the Israelites as a gift to you, dedicated to the LORD to perform the service for the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.5|<< Numbers 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.7|Numbers 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

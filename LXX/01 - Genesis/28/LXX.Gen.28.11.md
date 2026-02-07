@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he encountered a place, and slept there, for the sun went down. And he took from \[one\] of the stones of the place, and put \[it\] at his head, and went to sleep in  that place. 
-<small><sub>**KJV:**</sub></small>
-And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put [them for] his pillows, and lay down in that place to sleep.
-<small><sub>**BSB:**</sub></small>
-On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.10|<< Genesis 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.12|Genesis 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

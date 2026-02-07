@@ -1,4 +1,4 @@
-**Genesis 12:4** 
+**Genesis 12:4**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram [was] seventy and five years old when he departed out of Haran.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Abram departed, as the LORD had directed him, and Lot went with him. Abram wa
 > $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָ֗ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

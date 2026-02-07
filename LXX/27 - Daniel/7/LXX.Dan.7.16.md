@@ -1,10 +1,7 @@
 **LXX Daniel 7:16** 
 <small><sub>**LXX:**</sub></small>
 And I came forward to one of the ones standing, and the exactness I sought of him to learn concerning all these \[things\]. And he spoke to me the exactness; and the interpretation of the words he made known to me. 
-<small><sub>**KJV:**</sub></small>
-I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
-<small><sub>**BSB:**</sub></small>
-I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.15|<< Daniel 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.17|Daniel 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

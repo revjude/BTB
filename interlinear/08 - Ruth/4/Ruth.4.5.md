@@ -1,4 +1,4 @@
-**Ruth 4:5** 
+**Ruth 4:5**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy [it] also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.4|<< Ruth 4:4]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.6|Ruth 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Boaz  |**<big>&#8207;[[H1162G\|בֹּ֔עַז]]&#8207; </big>**| Bo.'az<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

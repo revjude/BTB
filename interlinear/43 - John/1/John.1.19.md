@@ -1,12 +1,12 @@
-**John 1:19
-**<small><sub>**KJV:**</sub></small>
+**John 1:19**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 <small><sub>**BSB:**</sub></small>
 And this was John’s testimony when the Jews of Jerusalem sent priests and Levites to ask him, “Who are you?”
 <small><sub>**Literal:**</sub></small>
 And this is the testimony <the> of John when sent to him the Jews from Jerusalem priests and Levites that they may ask him; You yourself who are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.18|<< John 1:18]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.20|John 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

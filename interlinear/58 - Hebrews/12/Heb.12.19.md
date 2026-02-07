@@ -1,12 +1,12 @@
-**Hebrews 12:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:19**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the sound of a trumpet, and the voice of words; which [voice] they that heard intreated that the word should not be spoken to them any more:
 <small><sub>**BSB:**</sub></small>
 to a trumpet blast or to a voice that made its hearers beg that no further word be spoken.
 <small><sub>**Literal:**</sub></small>
 and of a trumpet to [the] sound and to a voice of declaration which those having heard they excused themselves [asking] not to be addressed to them [the] word;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.18|<< Hebrews 12:18]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.20|Hebrews 12:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of a trumpet |**<big>[[G4536\|σάλπιγγος]]</big>**  |salpingos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

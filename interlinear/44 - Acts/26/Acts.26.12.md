@@ -1,12 +1,12 @@
-**Acts 26:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:12**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereupon as I went to Damascus with authority and commission from the chief priests,
 <small><sub>**BSB:**</sub></small>
 In this pursuit I was on my way to Damascus with the authority and commission of the chief priests.
 <small><sub>**Literal:**</sub></small>
 during which and journeying to <the> Damascus with [the] authority and commission which [is] from the chief priests<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.11|<< Acts 26:11]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.13|Acts 26:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | during |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

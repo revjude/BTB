@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:21** 
 <small><sub>**LXX:**</sub></small>
 to the half tribe of Manasseh of the ones in \[the\] land of Gilead \[was\] Iddo the \[son of\] Zechariah; to the sons of Benjamin \[was\] Jaasiel the \[son\] of Abner; 
-<small><sub>**KJV:**</sub></small>
-Of the half [tribe] of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
-<small><sub>**BSB:**</sub></small>
-over the half-tribe of Manasseh in Gilead was Iddo son of Zechariah; over Benjamin was Jaasiel son of Abner;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.20|<< 1 Chronicles 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.22|1 Chronicles 27:22 >>]]</td></tr></table>
 
 | Translation | Greek |

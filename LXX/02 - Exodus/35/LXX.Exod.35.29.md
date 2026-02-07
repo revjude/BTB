@@ -1,10 +1,7 @@
 **LXX Exodus 35:29** 
 <small><sub>**LXX:**</sub></small>
 And every man and woman which brought  their consideration, entering to do all the work; as many as \[the\] <span class="smallcaps">lord</span> ordered them to do through Moses -- the sons of Israel brought \[the\] choice-portion \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-So all the men and women of the Israelites whose hearts prompted them brought a freewill offering to the LORD for all the work that the LORD through Moses had commanded them to do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.28|<< Exodus 35:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.30|Exodus 35:30 >>]]</td></tr></table>
 
 | Translation | Greek |

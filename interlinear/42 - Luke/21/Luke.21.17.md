@@ -1,12 +1,12 @@
-**Luke 21:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:17**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall be hated of all [men] for my name’s sake.
 <small><sub>**BSB:**</sub></small>
 And you will be hated by everyone because of My name.
 <small><sub>**Literal:**</sub></small>
 And you will be hated by all because of the name of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.16|<< Luke 21:16]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.18|Luke 21:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will be |**<big>[[G1510\|ἔσεσθε]]</big>**  |esesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

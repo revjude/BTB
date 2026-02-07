@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:3** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Execute equity and righteousness, and rescue the one being plundered from out of \[the\] hand of the one wronging him! And \[the\] foreigner, and orphan, and widow, do not tyrannize! And do not be impious! And you should not pour out innocent blood in  this place. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Execute ye judgment and righteousness, and deliver the spoiled out of the hand of the oppressor: and do no wrong, do no violence to the stranger, the fatherless, nor the widow, neither shed innocent blood in this place.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: Administer justice and righteousness. Rescue the victim of robbery from the hand of his oppressor. Do no wrong or violence to the foreigner, the fatherless, or the widow. Do not shed innocent blood in this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.2|<< Jeremiah 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.4|Jeremiah 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

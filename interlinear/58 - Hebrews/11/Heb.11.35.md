@@ -1,5 +1,5 @@
-**Hebrews 11:35
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:35**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:
 <small><sub>**BSB:**</sub></small>
 Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection.
@@ -10,7 +10,7 @@ Received back women by resurrection the dead of them; others then were tortured 
 > $\quad$ alluding to: [[LXX.1Kgs.19.1|1Kgs 19:1]] ☩ [[LXX.2Kgs.4.20|2Kgs 4:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Received back |**<big>[[G2983\|ἔλαβον]]</big>**  |elabon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | women |**<big>[[G1135G\|γυναῖκες]]</big>**  |gunaikes <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 33:31** 
 <small><sub>**LXX:**</sub></small>
 Give ear, O Job, and hear me! Be silent! for I \[myself\] shall speak. 
-<small><sub>**KJV:**</sub></small>
-Mark well, O Job, hearken unto me: hold thy peace, and I will speak.
-<small><sub>**BSB:**</sub></small>
-Pay attention, Job, and listen to me; be silent, and I will speak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.30|<< Job 33:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.32|Job 33:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:15** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said, Why did you give trouble to me \[to cause\] me to ascend? And Saul said, I am afflicted very much, and the Philistines wage war with me, and  God has left from me, and he does not heed me any longer, nor by \[the\] hand of the prophets, nor by  dreams. And now I call you  to make known to me what I should do. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do.
-<small><sub>**BSB:**</sub></small>
-Then Samuel said to Saul, “Why have you disturbed me by bringing me up?” “I am deeply distressed,” replied Saul. “The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.14|<< 1 Samuel 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.16|1 Samuel 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

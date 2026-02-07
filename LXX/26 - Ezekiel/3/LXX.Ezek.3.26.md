@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:26** 
 <small><sub>**LXX:**</sub></small>
 And  I shall tie your tongue \[to\] your throat, and you shall become mute, and you will not be to them for a man reproving; for it is a rebellious house. 
-<small><sub>**KJV:**</sub></small>
-And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they [are] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-I will make your tongue stick to the roof of your mouth, and you will be silent and unable to rebuke them, though they are a rebellious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.25|<< Ezekiel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.27|Ezekiel 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 100:5** 
+**Psalms 100:5**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD [is] good; his mercy [is] everlasting; and his truth [endureth] to all generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD is good, and His loving devotion endures forever; His faithfulness 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.4|<< Psalms 100:4]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.0|Psalms 101:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

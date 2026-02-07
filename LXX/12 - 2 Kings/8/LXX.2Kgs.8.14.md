@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:14** 
 <small><sub>**LXX:**</sub></small>
 And he went forth from Elisha, and came to  his master. And he said to him, What said Elisha to you? And he said, He said to me, To life you shall live. 
-<small><sub>**KJV:**</sub></small>
-So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me [that] thou shouldest surely recover.
-<small><sub>**BSB:**</sub></small>
-So Hazael left Elisha and went to his master, who asked him, “What did Elisha say to you?” And he replied, “He told me that you would surely recover.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:19** 
 <small><sub>**LXX:**</sub></small>
 They shall utterly destroy nations, and you shall call upon there, and you shall sacrifice a sacrifice of righteousness; for \[the\] riches of \[the\] sea shall nurse you, and market-places dwelling on the coast. 
-<small><sub>**KJV:**</sub></small>
-They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck [of] the abundance of the seas, and [of] treasures hid in the sand.
-<small><sub>**BSB:**</sub></small>
-They will call the peoples to a mountain; there they will offer sacrifices of righteousness. For they will feast on the abundance of the seas and the hidden treasures of the sand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.18|<< Deuteronomy 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.20|Deuteronomy 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

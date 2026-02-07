@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:12** 
 <small><sub>**LXX:**</sub></small>
 And the woman beheld  Samuel, and she yelled with a great voice. And the woman said to Saul, Why did you mislead me, even you are Saul? 
-<small><sub>**KJV:**</sub></small>
-And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou [art] Saul.
-<small><sub>**BSB:**</sub></small>
-But when the woman saw Samuel, she cried out in a loud voice and said to Saul, “Why have you deceived me? You are Saul!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.11|<< 1 Samuel 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.13|1 Samuel 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

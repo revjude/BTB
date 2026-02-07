@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:22** 
 <small><sub>**LXX:**</sub></small>
 And I will turn  my face from them, and they shall defile  my overseeing, and they shall enter to them unguardedly, and profane them. 
-<small><sub>**KJV:**</sub></small>
-My face will I turn also from them, and they shall pollute my secret [place]: for the robbers shall enter into it, and defile it.
-<small><sub>**BSB:**</sub></small>
-I will turn My face away from them, and they will defile My treasured place. Violent men will enter it, and they will defile it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.21|<< Ezekiel 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.23|Ezekiel 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

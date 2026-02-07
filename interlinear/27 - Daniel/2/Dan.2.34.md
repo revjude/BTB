@@ -1,4 +1,4 @@
-**Daniel 2:34** 
+**Daniel 2:34**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sawest till that a stone was cut out without hands, which smote the image upon his feet [that were] of iron and clay, and brake them to pieces.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As you watched, a stone was cut out, but not by human hands. It struck the statu
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seeing  |**<big>&#8207;[[H2370\|חָזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you were  |**<big>&#8207;[[H1934\|הֲוַ֗יְתָ]]&#8207; </big>**| ha.Vay.ta<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:36** 
 <small><sub>**LXX:**</sub></small>
 On account of this thus says \[the\] <span class="smallcaps">lord</span>, Behold, I shall judge  your opponent, and I will avenge  your punishment, and I will make desolate  her sea, and dry up  her spring. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: “Behold, I will plead your case and take vengeance on your behalf; I will dry up her sea and make her springs run dry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.35|<< Jeremiah 51:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.37|Jeremiah 51:37 >>]]</td></tr></table>
 
 | Translation | Greek |

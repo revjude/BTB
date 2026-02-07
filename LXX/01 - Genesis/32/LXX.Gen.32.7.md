@@ -1,10 +1,7 @@
 **LXX Genesis 32:7** 
 <small><sub>**LXX:**</sub></small>
 And Jacob feared exceedingly, and he was perplexed. And he divided the people, the one with himself, and the oxen, and the sheep into two camps. 
-<small><sub>**KJV:**</sub></small>
-Then Jacob was greatly afraid and distressed: and he divided the people that [was] with him, and the flocks, and herds, and the camels, into two bands;
-<small><sub>**BSB:**</sub></small>
-In great fear and distress, Jacob divided his people into two camps, as well as the flocks and herds and camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.6|<< Genesis 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.8|Genesis 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

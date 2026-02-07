@@ -1,4 +1,4 @@
-**1 Kings 8:35** 
+**1 Kings 8:35**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou afflictest them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the skies are shut and there is no rain because Your people have sinned aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.34|<< 1 Kings 8:34]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.36|1 Kings 8:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when are shut up  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6113\|הֵעָצֵ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> he.'a.Tzer<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֛יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

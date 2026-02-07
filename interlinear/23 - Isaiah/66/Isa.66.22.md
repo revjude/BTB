@@ -1,4 +1,4 @@
-**Isaiah 66:22** 
+**Isaiah 66:22**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For as the new heavens and the new earth, which I will make, shall remain before
 > $\quad$ referenced by: [[2Pet.3.13|2Pet 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

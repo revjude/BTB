@@ -1,10 +1,7 @@
 **LXX Exodus 38:10** 
 <small><sub>**LXX:**</sub></small>
 And  their posts -- twenty, and  their twenty brass bases. And  their hooks and  their clips \[were of\] silver. 
-<small><sub>**KJV:**</sub></small>
-Their pillars [were] twenty, and their brasen sockets twenty; the hooks of the pillars and their fillets [were of] silver.
-<small><sub>**BSB:**</sub></small>
-with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.9|<< Exodus 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.11|Exodus 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

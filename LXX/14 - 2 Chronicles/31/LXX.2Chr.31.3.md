@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:3** 
 <small><sub>**LXX:**</sub></small>
 And the portion of the king from  his possessions \[were appointed\] for the whole burnt-offerings -- the early morning and the dusk, and for the whole burnt-offerings of the Sabbaths, and for the new moons, and for the holidays, the ones being written in the law of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[He appointed] also the king’s portion of his substance for the burnt offerings, [to wit], for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as [it is] written in the law of the LORD.
-<small><sub>**BSB:**</sub></small>
-The king contributed from his own possessions for the regular morning and evening burnt offerings and for the burnt offerings on the Sabbaths, New Moons, and appointed feasts, as written in the Law of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.2|<< 2 Chronicles 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.4|2 Chronicles 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

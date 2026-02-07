@@ -1,4 +1,4 @@
-**Proverbs 22:9** 
+**Proverbs 22:9**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A generous man will be blessed, for he shares his bread with the poor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.8|<< Proverbs 22:8]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.10|Proverbs 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a [person] good of  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eye  |**<big>&#8207;[[H5869A\|עַ֭יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

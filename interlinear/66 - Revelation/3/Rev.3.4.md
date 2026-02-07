@@ -1,12 +1,12 @@
-**Revelation 3:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:4**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
 <small><sub>**BSB:**</sub></small>
 But you do have a few people in Sardis who have not soiled their garments, and because they are worthy, they will walk with Me in white.
 <small><sub>**Literal:**</sub></small>
 But you have a few people in Sardis who not soiled the garments of them, and they will walk with Me in white, because worthy they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.3|<< Revelation 3:3]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.5|Revelation 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But [^1] |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^2] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
 | you have |**<big>[[G2192\|ἔχεις]]</big>**  |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz»1">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 22:11** 
 <small><sub>**LXX:**</sub></small>
 Behold, a people come forth from out of Egypt, and covered the appearance of the earth, and now come curse it for me! if it is so I shall be able to strike it, and I will cast it out. 
-<small><sub>**KJV:**</sub></small>
-Behold, [there is] a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
-<small><sub>**BSB:**</sub></small>
-‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.10|<< Numbers 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.12|Numbers 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

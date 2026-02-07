@@ -1,10 +1,7 @@
 **LXX Genesis 24:65** 
 <small><sub>**LXX:**</sub></small>
 And she said to the servant, Who is  that man  going in the plain to meet us? And said the servant, This  \[is\] my master. And she having taken the lightweight covering put it on. 
-<small><sub>**KJV:**</sub></small>
-For she [had] said unto the servant, What man [is] this that walketh in the field to meet us? And the servant [had] said, It [is] my master: therefore she took a vail, and covered herself.
-<small><sub>**BSB:**</sub></small>
-and asked the servant, “Who is that man in the field coming to meet us?” “It is my master,” the servant answered. So she took her veil and covered herself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.64|<< Genesis 24:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.66|Genesis 24:66 >>]]</td></tr></table>
 
 | Translation | Greek |

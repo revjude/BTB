@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:26** 
 <small><sub>**LXX:**</sub></small>
 And Abner called  Joab, and he said, Shall the broadsword devour in victory, or do you not know that it will be bitter at the last? And for how long shall you in no way speak to the people to return from \[following\] after  their brethren? 
-<small><sub>**KJV:**</sub></small>
-Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?
-<small><sub>**BSB:**</sub></small>
-Then Abner called out to Joab: “Must the sword devour forever? Do you not realize that this will only end in bitterness? How long before you tell the troops to stop pursuing their brothers?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.25|<< 2 Samuel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.27|2 Samuel 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

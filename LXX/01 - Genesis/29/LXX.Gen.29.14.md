@@ -1,10 +1,7 @@
 **LXX Genesis 29:14** 
 <small><sub>**LXX:**</sub></small>
 And Laban said to him, From out  of my bones, and from out  of my flesh are you. And he was with him a month of days. 
-<small><sub>**KJV:**</sub></small>
-And Laban said to him, Surely thou [art] my bone and my flesh. And he abode with him the space of a month.
-<small><sub>**BSB:**</sub></small>
-Then Laban declared, “You are indeed my own flesh and blood.” After Jacob had stayed with him a month,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.13|<< Genesis 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.15|Genesis 29:15 >>]]</td></tr></table>
 
 | Translation | Greek |

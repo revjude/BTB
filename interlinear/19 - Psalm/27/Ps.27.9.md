@@ -1,4 +1,4 @@
-**Psalms 27:9** 
+**Psalms 27:9**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hide not thy face [far] from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hide not Your face from me, nor turn away Your servant in anger. You have been m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.8|<< Psalms 27:8]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.10|Psalms 27:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you hide  |**<big>&#8207;[[H5641\|תַּסְתֵּ֬ר]]&#8207; </big>**| tas.Ter<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

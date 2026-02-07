@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:5** 
 <small><sub>**LXX:**</sub></small>
 And Solomon went after  Ashtoreth god of \[the\] Sidonians, and after  Milcom \[the\] abomination of Ammon. 
-<small><sub>**KJV:**</sub></small>
-For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
-<small><sub>**BSB:**</sub></small>
-Solomon followed Ashtoreth the goddess of the Sidonians and Milcom the abomination of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.4|<< 1 Kings 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.6|1 Kings 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

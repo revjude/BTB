@@ -1,4 +1,4 @@
-**1 Chronicles 4:33** 
+**1 Chronicles 4:33**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all their villages that [were] round about the same cities, unto Baal. These [were] their habitations, and their genealogy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and all their surrounding villages as far as Baal. These were their settlements,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.32|<< 1 Chronicles 4:32]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.34|1 Chronicles 4:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | villages their  |**<big>&#8207;[[H2691A\|חַצְרֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

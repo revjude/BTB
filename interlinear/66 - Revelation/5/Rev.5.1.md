@@ -1,5 +1,5 @@
-**Revelation 5:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:1**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
 <small><sub>**BSB:**</sub></small>
 Then I saw a scroll in the right hand of the One seated on the throne. It had writing on both sides and was sealed with seven seals.
@@ -10,7 +10,7 @@ And I saw on the right hand of the [One] sitting upon the throne a scroll writte
 > $\quad$ possibly alluding to: [[LXX.Ezek.2.2|Ezek 2:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

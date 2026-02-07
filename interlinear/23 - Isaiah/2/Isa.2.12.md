@@ -1,4 +1,4 @@
-**Isaiah 2:12** 
+**Isaiah 2:12**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the day of the LORD of hosts [shall be] upon every [one that is] proud and lofty, and upon every [one that is] lifted up; and he shall be brought low:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the Day of the LORD of Hosts will come against all the proud and lofty, agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.11|<< Isaiah 2:11]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.13|Isaiah 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a day  |**<big>&#8207;[[H3117G\|י֞וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 34:13** 
 <small><sub>**LXX:**</sub></small>
 And thorny woods shall grow up in their cities, and also in  her fortresses; and they will be properties of sirens, and a courtyard of ostriches. 
-<small><sub>**KJV:**</sub></small>
-And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, [and] a court for owls.
-<small><sub>**BSB:**</sub></small>
-Her towers will be overgrown with thorns, her fortresses with thistles and briers. She will become a haunt for jackals, an abode for ostriches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.12|<< Isaiah 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.14|Isaiah 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

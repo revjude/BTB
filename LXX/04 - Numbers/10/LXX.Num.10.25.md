@@ -1,10 +1,7 @@
 **LXX Numbers 10:25** 
 <small><sub>**LXX:**</sub></small>
 And shall lift away in order \[the\] camp of \[the\] sons of Dan last of all the camps with their force. And over  their force \[was\] Ahiezer the \[son of\] Ammishaddai. 
-<small><sub>**KJV:**</sub></small>
-And the standard of the camp of the children of Dan set forward, [which was] the rereward of all the camps throughout their hosts: and over his host [was] Ahiezer the son of Ammishaddai.
-<small><sub>**BSB:**</sub></small>
-Finally, the divisions of the camp of Dan set out under their standard, serving as the rear guard for all units, with Ahiezer son of Ammishaddai in command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.24|<< Numbers 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.26|Numbers 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

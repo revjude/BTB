@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span>, the one going with you will not send you \[away\], nor in any way abandon you. Do not fear nor be timid! 
-<small><sub>**KJV:**</sub></small>
-And the LORD, he [it is] that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.
-<small><sub>**BSB:**</sub></small>
-The LORD Himself goes before you; He will be with you. He will never leave you nor forsake you. Do not be afraid or discouraged.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.7|<< Deuteronomy 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.9|Deuteronomy 31:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 31:8** is...

@@ -1,5 +1,5 @@
-**Acts 7:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:7**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
 <small><sub>**BSB:**</sub></small>
 ‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’
@@ -10,7 +10,7 @@ And the nation to which then they will be in bondage, will judge I myself, <the>
 > $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.3.12|Exod 3:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

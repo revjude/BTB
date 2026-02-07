@@ -1,10 +1,7 @@
 **LXX Judges 1:10** 
 <small><sub>**LXX:**</sub></small>
 And Judah went to the Canaanite  dwelling in Hebron; and the name Hebron was  formerly Kirjath-arba. And they struck  Sheshai, and Ahiman, and  Talmai, offspring of the Anak. 
-<small><sub>**KJV:**</sub></small>
-And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before [was] Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.
-<small><sub>**BSB:**</sub></small>
-Judah also marched against the Canaanites who were living in Hebron (formerly known as Kiriath-arba), and they struck down Sheshai, Ahiman, and Talmai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.9|<< Judges 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.11|Judges 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

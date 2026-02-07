@@ -1,12 +1,12 @@
-**Mark 13:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:6**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For many shall come in my name, saying, I am [Christ]; and shall deceive many.
 <small><sub>**BSB:**</sub></small>
 Many will come in My name, claiming, ‘I am He,’ and will deceive many.
 <small><sub>**Literal:**</sub></small>
 Many for will come in the name of Me saying that I myself am [He], and many they will mislead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.5|<< Mark 13:5]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.7|Mark 13:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

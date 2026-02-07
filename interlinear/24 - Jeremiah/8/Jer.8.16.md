@@ -1,4 +1,4 @@
-**Jeremiah 8:16** 
+**Jeremiah 8:16**<big><big>[[Jer.8.14 The People Respond|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The snorting of enemy horses is heard from Dan. At the sound of the neighing of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.15|<< Jeremiah 8:15]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.17|Jeremiah 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Dan  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1835G\|דָּ֤ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been heard  |**<big>&#8207;[[H8085G\|נִשְׁמַע֙]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

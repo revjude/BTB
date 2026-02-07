@@ -1,10 +1,7 @@
 **LXX Isaiah 57:5** 
 <small><sub>**LXX:**</sub></small>
 ones calling for aid upon the idols under bushy trees? slaying  their children in the ravines between the rocks? 
-<small><sub>**KJV:**</sub></small>
-Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
-<small><sub>**BSB:**</sub></small>
-who burn with lust among the oaks, under every luxuriant tree, who slaughter your children in the valleys, under the clefts of the rocks?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.4|<< Isaiah 57:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.6|Isaiah 57:6 >>]]</td></tr></table>
 
 | Translation | Greek |

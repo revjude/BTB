@@ -1,4 +1,4 @@
-**Isaiah 2:21** 
+**Isaiah 2:21**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will flee to caverns in the rocks and crevices in the cliffs, away from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.20|<< Isaiah 2:20]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.22|Isaiah 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to go  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0935G\|בוֹא֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] crevices of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5366\|נִקְר֣וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> nik.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

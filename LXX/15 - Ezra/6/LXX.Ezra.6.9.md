@@ -1,10 +1,7 @@
 **LXX Ezra 6:9** 
 <small><sub>**LXX:**</sub></small>
 And what ever deficiency -- both male offspring of oxen, and rams, and lambs for whole burnt-offerings to the God of the heaven, \[and\] wheat, salt, wine, olive oil, according to the word of the priests, the ones in Jerusalem, let it be given to them day by day, unalterable, what ever they should ask! 
-<small><sub>**KJV:**</sub></small>
-And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which [are] at Jerusalem, let it be given them day by day without fail:
-<small><sub>**BSB:**</sub></small>
-Whatever is needed—young bulls, rams, and lambs for burnt offerings to the God of heaven, as well as wheat, salt, wine, and oil, as requested by the priests in Jerusalem—must be given to them daily without fail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.8|<< Ezra 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.10|Ezra 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

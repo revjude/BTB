@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:18** 
 <small><sub>**LXX:**</sub></small>
 And after him their brethren repaired -- Bavai son of Henadad, ruler of half \[the\] place round about Keilah. 
-<small><sub>**KJV:**</sub></small>
-After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.
-<small><sub>**BSB:**</sub></small>
-Next to him, their countrymen made repairs under Binnui son of Henadad, ruler of the other half-district of Keilah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.17|<< Nehemiah 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.19|Nehemiah 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 12:23** (12:24)
+**1 Chronicles 12:23**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the numbers of the bands [that were] ready armed to the war, [and] came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now these are the numbers of men armed for battle who came to David at Hebron to
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.22|<< 1 Chronicles 12:22]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.24|1 Chronicles 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0428\|אֵלֶּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] numbers of  |**<big>&#8207;[[H4557\|מִסְפְּרֵ֞י]]&#8207; </big>**| mis.pe.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

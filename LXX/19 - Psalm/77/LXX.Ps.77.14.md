@@ -1,10 +1,7 @@
 **LXX Psalm 77:14** 
 <small><sub>**LXX:**</sub></small>
 You are  God, the one doing wonders. You made known among the peoples  your power. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] the God that doest wonders: thou hast declared thy strength among the people.
-<small><sub>**BSB:**</sub></small>
-You are the God who works wonders; You display Your strength among the peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.13|<< Psalm 77:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.15|Psalm 77:15 >>]]</td></tr></table>
 
 | Translation | Greek |

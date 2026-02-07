@@ -1,4 +1,4 @@
-**Jeremiah 2:34** 
+**Jeremiah 2:34**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, your skirts are stained with the blood of the innocent poor, though yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.33|<< Jeremiah 2:33]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.35|Jeremiah 2:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on skirts your  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3671\|כְנָפַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> kh.na.Fa.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

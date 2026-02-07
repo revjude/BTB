@@ -1,12 +1,12 @@
-**Matthew 6:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:4**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.
 <small><sub>**BSB:**</sub></small>
 so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you.
 <small><sub>**Literal:**</sub></small>
 so that may be your <the> giving in <the> secret. And the Father of you the [One] seeing in <the> secret himself will reward you in <the> public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.3|<< Matthew 6:3]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.5|Matthew 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be |**<big>[[G1510\|ᾖ]]</big>**  |ē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

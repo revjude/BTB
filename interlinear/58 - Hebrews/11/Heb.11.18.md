@@ -1,5 +1,5 @@
-**Hebrews 11:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:18**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of whom it was said, That in Isaac shall thy seed be called:
 <small><sub>**BSB:**</sub></small>
 even though God had said to him, “Through Isaac your offspring will be reckoned.”
@@ -10,7 +10,7 @@ as to whom it was said that In Isaac will be reckoned your offspring;<br><table 
 > $\quad$ referencing: [[LXX.Gen.21.12|Gen 21:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

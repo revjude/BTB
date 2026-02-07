@@ -1,12 +1,12 @@
-**Psalms 9:1** (9:2)
+**Psalms 9:1**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Muthlabben, A Psalm of David. I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works.
+I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David. I will give thanks to the LORD with all my heart; I will recount all Your wonders.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.0|<< Psalms 9:0]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.2|Psalms 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give thanks to  |**<big>&#8207;[[H3034\|אוֹדֶ֣ה]]&#8207; </big>**| 'o.Deh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

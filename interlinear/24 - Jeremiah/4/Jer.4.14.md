@@ -1,4 +1,4 @@
-**Jeremiah 4:14** 
+**Jeremiah 4:14**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wash the evil from your heart, O Jerusalem, so that you may be saved. How long w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.13|<< Jeremiah 4:13]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.15|Jeremiah 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wash  |**<big>&#8207;[[H3526H\|כַּבְּסִ֨י]]&#8207; </big>**| ka.be.Si<small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from evil  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7451I\|רָעָ֤ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

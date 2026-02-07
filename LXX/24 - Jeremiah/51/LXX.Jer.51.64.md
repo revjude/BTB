@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:64** 
 <small><sub>**LXX:**</sub></small>
 and shall say, So shall Babylon descend, and in no way shall she rise up from in front of the evils which I bring upon her, and it shall vanish. Until this \[are\] the words  of Jeremiah. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far [are] the words of Jeremiah.
-<small><sub>**BSB:**</sub></small>
-Then you are to say, ‘In the same way Babylon will sink and never rise again, because of the disaster I will bring upon her. And her people will grow weary.’” Here end the words of Jeremiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 51:64** is...

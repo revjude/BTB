@@ -1,12 +1,12 @@
-**2 Corinthians 11:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:10**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.
 <small><sub>**BSB:**</sub></small>
 As surely as the truth of Christ is in me, this boasting of mine will not be silenced in the regions of Achaia.
 <small><sub>**Literal:**</sub></small>
 Is [the] truth of Christ in me myself that <the> boasting this not will be stopped of mine in the regions <the> of Achaia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.9|<< 2 Corinthians 11:9]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.11|2 Corinthians 11:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] truth |**<big>[[G0225\|ἀλήθεια]]</big>**  |alētheia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

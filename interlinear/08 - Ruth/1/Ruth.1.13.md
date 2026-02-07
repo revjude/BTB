@@ -1,4 +1,4 @@
-**Ruth 1:13** 
+**Ruth 1:13**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ would you wait for them to grow up? Would you refrain from having husbands? No, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.12|<< Ruth 1:12]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.14|Ruth 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ therefore  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3860\|לָהֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> la.Hen<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you wait  |**<big>&#8207;[[H7663B\|תְּשַׂבֵּ֗רְנָה]]&#8207; </big>**| te.sa.Be.re.nah<small><sup>[[HVpi2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

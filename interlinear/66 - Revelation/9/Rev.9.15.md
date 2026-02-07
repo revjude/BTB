@@ -1,12 +1,12 @@
-**Revelation 9:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:15**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.
 <small><sub>**BSB:**</sub></small>
 So the four angels who had been prepared for this hour and day and month and year were released to kill a third of mankind.
 <small><sub>**Literal:**</sub></small>
 And were released the four angels who prepared for the hour and for the day and month and year so that they may kill <the> a third <the> of mankind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.14|<< Revelation 9:14]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.16|Revelation 9:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were released |**<big>[[G3089\|ἐλύθησαν]]</big>**  |eluthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

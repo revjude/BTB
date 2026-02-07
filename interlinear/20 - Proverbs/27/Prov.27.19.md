@@ -1,4 +1,4 @@
-**Proverbs 27:19** 
+**Proverbs 27:19**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As in water face [answereth] to face, so the heart of man to man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As water reflects the face, so the heart reflects the true man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.18|<< Proverbs 27:18]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.20|Proverbs 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like \<the> water  |**<big>&#8207;[[H9004\|כַּ֭]]&#8207;&#8207;[[H4325G\|מַּיִם]]&#8207; </big>**| Ka.<small><sup>[[HRd]]</sup></small> ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the face  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6440H\|פָּנִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

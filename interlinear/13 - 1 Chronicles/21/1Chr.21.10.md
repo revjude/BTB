@@ -1,4 +1,4 @@
-**1 Chronicles 21:10** 
+**1 Chronicles 21:10**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and tell David, saying, Thus saith the LORD, I offer thee three [things]: choose thee one of them, that I may do [it] unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go and tell David, saying, Thus saith the LORD, I offer thee three [things]: cho
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.9|<< 1 Chronicles 21:9]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.11|1 Chronicles 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵךְ֩]]&#8207; </big>**| leKh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will speak  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבַּרְתָּ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.bar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

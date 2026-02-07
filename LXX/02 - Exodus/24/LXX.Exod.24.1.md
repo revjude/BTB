@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And to Moses he said, Ascend to \[the\] <span class="smallcaps">lord</span>, you and Aaron and Nadab and Abihu, and seventy of the elders of Israel! And they shall do obeisance far off to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Come up to the LORD—you and Aaron, Nadab and Abihu, and seventy of Israel’s elders—and you are to worship at a distance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.33|<< Exodus 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.2|Exodus 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

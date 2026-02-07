@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:12** 
 <small><sub>**LXX:**</sub></small>
 And the weight twenty oboli five shekels; twenty five shekels, and five and ten shekels let it be to you for the mina. 
-<small><sub>**KJV:**</sub></small>
-And the shekel [shall be] twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.
-<small><sub>**BSB:**</sub></small>
-The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels will equal one mina.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 
 | Translation | Greek |

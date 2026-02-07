@@ -1,12 +1,12 @@
-**John 6:17
-**<small><sub>**KJV:**</sub></small>
+**John 6:17**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.
 <small><sub>**BSB:**</sub></small>
 got into a boat, and started across the sea to Capernaum. It was already dark, and Jesus had not yet gone out to them.
 <small><sub>**Literal:**</sub></small>
 and having climbed into <the> a boat they were going over the sea to Capernaum. And dark already it had become, and not yet had come to them <the> Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.16|<< John 6:16]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.18|John 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having climbed |**<big>[[G1684\|ἐμβάντες]]</big>**  |embantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

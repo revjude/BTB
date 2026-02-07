@@ -1,12 +1,12 @@
-**Mark 1:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:24**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Let [us] alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.
 <small><sub>**BSB:**</sub></small>
 “What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!”
 <small><sub>**Literal:**</sub></small>
 saying; ha What to us and to You, Jesus of Nazareth? Did You come to destroy us? I know You who are, the Holy [One] <the> of God!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.23|<< Mark 1:23]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.25|Mark 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | ha [^1] |**<big>[[G1436\|ἔα]]</big>**  |ea <small><sup>[[INJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

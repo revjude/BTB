@@ -1,4 +1,4 @@
-**1 Chronicles 10:9** 
+**1 Chronicles 10:9**<big><big>[[1Chr.10.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had stripped him, they took his head, and his armour, and sent into the land of the Philistines round about, to carry tidings unto their idols, and to the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They stripped Saul, cut off his head, took his armor, and sent messengers throug
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.8|<< 1 Chronicles 10:8]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.10|1 Chronicles 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they stripped him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6584\|יַּ֨פְשִׁיטֻ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yaf.shi.Tu.<small><sup>[[HVhw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|יִּשְׂא֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

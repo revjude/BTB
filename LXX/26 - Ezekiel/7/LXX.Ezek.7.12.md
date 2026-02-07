@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:12** 
 <small><sub>**LXX:**</sub></small>
 The time is come; behold, the day. Let not the one acquiring \[things\] rejoice! and let not the one selling \[things\] wail! for wrath for all the magnitude of it. 
-<small><sub>**KJV:**</sub></small>
-The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath [is] upon all the multitude thereof.
-<small><sub>**BSB:**</sub></small>
-The time has come; the day has arrived. Let the buyer not rejoice and the seller not mourn, for wrath is upon the whole multitude.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.11|<< Ezekiel 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.13|Ezekiel 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

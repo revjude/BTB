@@ -1,10 +1,7 @@
 **LXX Genesis 49:12** 
 <small><sub>**LXX:**</sub></small>
 His eyes causing joy away from wine, and \[the\] white  of his teeth than milk. 
-<small><sub>**KJV:**</sub></small>
-His eyes [shall be] red with wine, and his teeth white with milk.
-<small><sub>**BSB:**</sub></small>
-His eyes are darker than wine, and his teeth are whiter than milk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.11|<< Genesis 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.13|Genesis 49:13 >>]]</td></tr></table>
 
 | Translation | Greek |

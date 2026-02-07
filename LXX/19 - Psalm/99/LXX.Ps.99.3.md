@@ -1,10 +1,7 @@
 **LXX Psalm 99:3** 
 <small><sub>**LXX:**</sub></small>
 Let them acknowledge  your great name! for he is fearful and holy. 
-<small><sub>**KJV:**</sub></small>
-Let them praise thy great and terrible name; [for] it [is] holy.
-<small><sub>**BSB:**</sub></small>
-Let them praise Your great and awesome name—He is holy!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.99.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.99.2|<< Psalm 99:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.99.4|Psalm 99:4 >>]]</td></tr></table>
 
 | Translation | Greek |

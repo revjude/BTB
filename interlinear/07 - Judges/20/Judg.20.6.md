@@ -1,4 +1,4 @@
-**Judges 20:6** 
+**Judges 20:6**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel: for they have committed lewdness and folly in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I took my concubine, cut her into pieces, and sent her throughout the land 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.5|<< Judges 20:5]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.7|Judges 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I took hold  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H0270\|אֹחֵ֤ז]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Chez<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on concubine my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6370\|פִֽילַגְשִׁ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fi.lag.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

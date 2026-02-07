@@ -1,10 +1,7 @@
 **LXX Genesis 4:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said  to Cain, Why are you dejected, and why \[is\] your face downcast? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?
-<small><sub>**BSB:**</sub></small>
-“Why are you angry,” said the LORD to Cain, “and why has your countenance fallen?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.5|<< Genesis 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.7|Genesis 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

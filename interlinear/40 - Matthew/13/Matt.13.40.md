@@ -1,12 +1,12 @@
-**Matthew 13:40
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:40**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.
 <small><sub>**BSB:**</sub></small>
 As the weeds are collected and burned in the fire, so will it be at the end of the age.
 <small><sub>**Literal:**</sub></small>
 As therefore is gathered the weeds and in fire is burned up, thus it will be in the consummation of the age this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.39|<< Matthew 13:39]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.41|Matthew 13:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

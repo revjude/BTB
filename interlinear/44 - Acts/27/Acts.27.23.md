@@ -1,12 +1,12 @@
-**Acts 27:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:23**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there stood by me this night the angel of God, whose I am, and whom I serve,
 <small><sub>**BSB:**</sub></small>
 For just last night an angel of the God to whom I belong and whom I serve stood beside me
 <small><sub>**Literal:**</sub></small>
 Stood by for me this <the> night <the> of God whose am I myself whom and I serve an angel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.22|<< Acts 27:22]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.24|Acts 27:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Stood by |**<big>[[G3936\|παρέστη]]</big>**  |parestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

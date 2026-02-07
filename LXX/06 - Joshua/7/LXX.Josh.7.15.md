@@ -1,10 +1,7 @@
 **LXX Joshua 7:15** 
 <small><sub>**LXX:**</sub></small>
 And who ever should be pointed out in the offering for consumption, he shall be burnt by the fire himself, and all as much as is his; for he violated the covenant of \[the\] <span class="smallcaps">lord</span>, and that he committed a violation of the law in Israel. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.
-<small><sub>**BSB:**</sub></small>
-The one who is caught with the things devoted to destruction must be burned, along with all that belongs to him, because he has transgressed the covenant of the LORD and committed an outrage in Israel.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.14|<< Joshua 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.16|Joshua 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

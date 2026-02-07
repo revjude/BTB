@@ -1,5 +1,5 @@
-**Luke 2:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:24**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.
 <small><sub>**BSB:**</sub></small>
 and to offer the sacrifice specified in the Law of the Lord: “A pair of turtledoves or two young pigeons.”
@@ -10,7 +10,7 @@ and <the> to offer a sacrifice according to that said in the law of [the] Lord; 
 > $\quad$ referencing: [[LXX.Lev.12.8|Lev 12:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

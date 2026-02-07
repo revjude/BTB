@@ -1,12 +1,12 @@
-**Acts 10:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:16**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This was done thrice: and the vessel was received up again into heaven.
 <small><sub>**BSB:**</sub></small>
 This happened three times, and all at once the sheet was taken back up into heaven.
 <small><sub>**Literal:**</sub></small>
 This now took place for three times and immediately was taken up the vessel into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.15|<< Acts 10:15]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.17|Acts 10:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

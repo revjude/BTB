@@ -1,4 +1,4 @@
-**Hosea 10:8** 
+**Hosea 10:8**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The high places of Aven will be destroyed—it is the sin of Israel; thorns and 
 > $\quad$ referenced by: [[Luke.23.30|Luke 23:30]] ☩ [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be destroyed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8045\|נִשְׁמְד֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.me.Du<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] high places of  |**<big>&#8207;[[H1116\|בָּמ֣וֹת]]&#8207; </big>**| ba.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

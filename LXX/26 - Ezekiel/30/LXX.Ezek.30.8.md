@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:8** 
 <small><sub>**LXX:**</sub></small>
 And they shall know that I am \[the\] <span class="smallcaps">lord</span>, whenever I shall appoint fire against Egypt, and all the ones helping her shall be broken. 
-<small><sub>**KJV:**</sub></small>
-And they shall know that I [am] the LORD, when I have set a fire in Egypt, and [when] all her helpers shall be destroyed.
-<small><sub>**BSB:**</sub></small>
-Then they will know that I am the LORD when I set fire to Egypt and all her helpers are shattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.7|<< Ezekiel 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.9|Ezekiel 30:9 >>]]</td></tr></table>
 
 | Translation | Greek |

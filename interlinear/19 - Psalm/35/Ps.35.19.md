@@ -1,4 +1,4 @@
-**Psalms 35:19** 
+**Psalms 35:19**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not them that are mine enemies wrongfully rejoice over me: [neither] let them wink with the eye that hate me without a cause.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Let not my enemies gloat over me without cause, nor those who hate me without re
 > $\quad$ referenced by: [[John.15.25|John 15:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they rejoice  |**<big>&#8207;[[H8055\|יִשְׂמְחוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yis.me.chu-<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

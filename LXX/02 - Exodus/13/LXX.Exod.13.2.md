@@ -1,10 +1,7 @@
 **LXX Exodus 13:2** 
 <small><sub>**LXX:**</sub></small>
 Sanctify to me every first-born, first-born of \[its\] kind opening wide every womb among the sons of Israel, from man unto beast -- it is mine. 
-<small><sub>**KJV:**</sub></small>
-Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, [both] of man and of beast: it [is] mine.
-<small><sub>**BSB:**</sub></small>
-“Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.1|<< Exodus 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.3|Exodus 13:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 13:2** is...

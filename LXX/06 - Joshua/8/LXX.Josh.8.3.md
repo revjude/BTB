@@ -1,10 +1,7 @@
 **LXX Joshua 8:3** 
 <small><sub>**LXX:**</sub></small>
 And Joshua rose up, and all the people, the warriors, so as to ascend to Ai. And Joshua chose thirty thousand men, mighty in strength, and sent them by night. 
-<small><sub>**KJV:**</sub></small>
-So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.
-<small><sub>**BSB:**</sub></small>
-So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.2|<< Joshua 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.4|Joshua 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

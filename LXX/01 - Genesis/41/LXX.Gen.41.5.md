@@ -1,10 +1,7 @@
 **LXX Genesis 41:5** 
 <small><sub>**LXX:**</sub></small>
 And he dreamed the second \[time\]. And behold, seven choice and good ears of corn ascended in the one lower branch. 
-<small><sub>**KJV:**</sub></small>
-And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
-<small><sub>**BSB:**</sub></small>
-but he fell back asleep and dreamed a second time: Seven heads of grain, plump and ripe, came up on one stalk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.4|<< Genesis 41:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.6|Genesis 41:6 >>]]</td></tr></table>
 
 | Translation | Greek |

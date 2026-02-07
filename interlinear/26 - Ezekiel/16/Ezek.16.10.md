@@ -1,4 +1,4 @@
-**Ezekiel 16:10** 
+**Ezekiel 16:10**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I clothed you in embroidered cloth and gave you sandals of fine leather. I wrapp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.9|<< Ezekiel 16:9]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.11|Ezekiel 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I clothed you  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3847\|אַלְבִּישֵׁ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'al.bi.She<small><sup>[[HVhw1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | multicolored cloth  |**<big>&#8207;[[H7553\|רִקְמָ֔ה]]&#8207; </big>**| rik.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

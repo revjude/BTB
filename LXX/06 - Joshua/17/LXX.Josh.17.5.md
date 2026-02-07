@@ -1,10 +1,7 @@
 **LXX Joshua 17:5** 
 <small><sub>**LXX:**</sub></small>
 And a piece of measured out land fell to Manasseh -- \[the\] plain of Labed of the land of Gilead and  Bashan, which is on the other side of the Jordan; 
-<small><sub>**KJV:**</sub></small>
-And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which [were] on the other side Jordan;
-<small><sub>**BSB:**</sub></small>
-Thus ten shares fell to Manasseh, in addition to the land of Gilead and Bashan beyond the Jordan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.4|<< Joshua 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.6|Joshua 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

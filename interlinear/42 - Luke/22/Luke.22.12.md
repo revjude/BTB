@@ -1,12 +1,12 @@
-**Luke 22:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:12**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall shew you a large upper room furnished: there make ready.
 <small><sub>**BSB:**</sub></small>
 And he will show you a large upper room, already furnished. Make preparations there.”
 <small><sub>**Literal:**</sub></small>
 And he you will show an upper room large furnished; there do prepare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.11|<< Luke 22:11]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.13|Luke 22:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And he |**<big>[[G2532\|κἀκεῖνος]]</big>**  |kakeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

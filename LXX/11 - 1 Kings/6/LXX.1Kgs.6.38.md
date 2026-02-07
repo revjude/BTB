@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:38** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] eleventh year, in \[the\] month of Bul, this \[is\] the eighth month, the house was completed according to all  his words, and according to all  his responsibilities. And he built it in seven years. 
-<small><sub>**KJV:**</sub></small>
-And in the eleventh year, in the month Bul, which [is] the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.
-<small><sub>**BSB:**</sub></small>
-In the eleventh year, in the month of Bul, the eighth month, the temple was finished in every detail and according to every specification. So he built the temple in seven years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

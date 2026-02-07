@@ -1,4 +1,4 @@
-**2 Samuel 15:20** 
+**2 Samuel 15:20**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas thou camest [but] yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth [be] with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In fact, you arrived only yesterday; should I make you wander around with us tod
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.19|<< 2 Samuel 15:19]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.21|2 Samuel 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] yesterday  |**<big>&#8207;[[H8543\|תְּמ֣וֹל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | coming you  |**<big>&#8207;[[H0935G\|בּוֹאֶ֗]]&#8207;&#8207;[[H9041\|ךָ]]&#8207; </big>**| bo.'E.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

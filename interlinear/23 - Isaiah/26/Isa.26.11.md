@@ -1,4 +1,4 @@
-**Isaiah 26:11** 
+**Isaiah 26:11**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, [when] thy hand is lifted up, they will not see: [but] they shall see, and be ashamed for [their] envy at the people; yea, the fire of thine enemies shall devour them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O LORD, Your hand is upraised, but they do not see it. They will see Your zeal f
 > $\quad$ referenced by: [[Heb.10.27|Heb 10:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is raised  |**<big>&#8207;[[H7311A\|רָ֥מָה]]&#8207; </big>**| Ra.mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

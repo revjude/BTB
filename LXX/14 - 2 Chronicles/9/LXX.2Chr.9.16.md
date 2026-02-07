@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:16** 
 <small><sub>**LXX:**</sub></small>
 And three hundred shields of hammered out gold \[of\] three hundred \[weights\] of gold bore upon  each shield. And the king put them in \[the\] house of \[the\] forest  of Lebanon. 
-<small><sub>**KJV:**</sub></small>
-And three hundred shields [made he of] beaten gold: three hundred [shekels] of gold went to one shield. And the king put them in the house of the forest of Lebanon.
-<small><sub>**BSB:**</sub></small>
-He also made three hundred small shields of hammered gold; three hundred shekels of gold went into each shield. And the king put them in the House of the Forest of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.15|<< 2 Chronicles 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.17|2 Chronicles 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

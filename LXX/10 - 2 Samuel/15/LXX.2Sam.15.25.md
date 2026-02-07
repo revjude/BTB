@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:25** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Zadok, Return the ark  of God unto the city! If I should find favor in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>, and he returns me, then he shall show it to me, and  its beauty. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the LORD, he will bring me again, and shew me [both] it, and his habitation:
-<small><sub>**BSB:**</sub></small>
-Then the king said to Zadok, “Return the ark of God to the city. If I find favor in the eyes of the LORD, He will bring me back and let me see both it and His dwelling place again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.24|<< 2 Samuel 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.26|2 Samuel 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

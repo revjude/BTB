@@ -1,4 +1,4 @@
-**Joshua 14:2** 
+**Joshua 14:2**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By lot [was] their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and [for] the half tribe.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Their inheritance was assigned by lot for the nine and a half tribes, as the LOR
 > $\quad$ referenced by: [[Acts.13.19|Acts 13:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] allotted portion of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1486\|גוֹרַ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> go.Ral<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | inheritance their  |**<big>&#8207;[[H5159\|נַחֲלָתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| na.cha.la.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 6:12** 
+**Ezekiel 6:12**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who is far off will die by the plague, he who is near will fall by the sword,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.11|<< Ezekiel 6:11]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.13|Ezekiel 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the distant [person]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7350\|רָח֞וֹק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the pestilence  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1698\|דֶּ֣בֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

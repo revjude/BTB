@@ -1,10 +1,7 @@
 **LXX Isaiah 21:8** 
 <small><sub>**LXX:**</sub></small>
 And call Uriah to the watchtower of \[the\] <span class="smallcaps">lord</span>! And he said, I stood always by day, and over the camp I stood all the night. 
-<small><sub>**KJV:**</sub></small>
-And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:
-<small><sub>**BSB:**</sub></small>
-Then the lookout shouted: “Day after day, my lord, I stand on the watchtower; night after night I stay at my post.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.7|<< Isaiah 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.9|Isaiah 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

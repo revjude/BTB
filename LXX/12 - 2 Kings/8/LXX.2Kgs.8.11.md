@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:11** 
 <small><sub>**LXX:**</sub></small>
 And Hazael stood in front of him, and he placed before him the gifts until he was ashamed. And the man of God wept. 
-<small><sub>**KJV:**</sub></small>
-And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.
-<small><sub>**BSB:**</sub></small>
-Elisha fixed his gaze steadily on him until Hazael became uncomfortable. Then the man of God began to weep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.10|<< 2 Kings 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.12|2 Kings 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

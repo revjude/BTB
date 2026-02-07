@@ -1,4 +1,4 @@
-**Proverbs 15:12** 
+**Proverbs 15:12**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A scorner loveth not one that reproveth him: neither will he go unto the wise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A mocker does not love to be reproved, nor will he consult the wise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.11|<< Proverbs 15:11]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.13|Proverbs 15:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he loves  |**<big>&#8207;[[H0157G\|יֶאֱהַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.'e.hav-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

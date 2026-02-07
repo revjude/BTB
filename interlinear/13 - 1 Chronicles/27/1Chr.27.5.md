@@ -1,4 +1,4 @@
-**1 Chronicles 27:5** 
+**1 Chronicles 27:5**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The third captain of the host for the third month [was] Benaiah the son of Jehoiada, a chief priest: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The third army commander, as chief for the third month, was Benaiah son of Jehoi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] [the] commander of  |**<big>&#8207;[[H8269\|שַׂ֣ר]]&#8207; </big>**| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the army  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6635A\|צָּבָ֤א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

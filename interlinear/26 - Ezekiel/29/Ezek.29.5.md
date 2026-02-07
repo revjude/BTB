@@ -1,4 +1,4 @@
-**Ezekiel 29:5** 
+**Ezekiel 29:5**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will leave thee [thrown] into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will leave you in the desert, you and all the fish of your streams. You will f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.4|<< Ezekiel 29:4]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.6|Ezekiel 29:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will abandon you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5203\|נְטַשְׁתִּ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.tash.Ti.<small><sup>[[HVqq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wilderness towards  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֗רָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 8:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:3**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As for Saul, he made havock of the church, entering into every house, and haling men and women committed [them] to prison.
 <small><sub>**BSB:**</sub></small>
 But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.
 <small><sub>**Literal:**</sub></small>
 Saul however was destroying the church by <the> houses entering, dragging off then men and women he was delivering [them] to prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.2|<< Acts 8:2]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.4|Acts 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saul |**<big>[[G4569G\|Σαῦλος]]</big>**  |Saulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:4** 
 <small><sub>**LXX:**</sub></small>
 And I will lead you about, and I will put a bridle into  your jaws. And I will gather you, and all  your force -- horses and horsemen, all putting on chest- \[plates\]; a great gathering -- small shields and helmets and swords; 
-<small><sub>**KJV:**</sub></small>
-And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts [of armour, even] a great company [with] bucklers and shields, all of them handling swords:
-<small><sub>**BSB:**</sub></small>
-I will turn you around, put hooks in your jaws, and bring you out with all your army—your horses, your horsemen in full armor, and a great company armed with shields and bucklers, all brandishing their swords.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.3|<< Ezekiel 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.5|Ezekiel 38:5 >>]]</td></tr></table>
 
 | Translation | Greek |

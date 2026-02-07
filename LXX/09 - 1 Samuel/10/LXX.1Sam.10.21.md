@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he led forward the tribe of Benjamin according to family, and \[the\] family of Matri was chosen by lot. And Saul son of Kish was chosen by lot. And he sought him, and he was not found. 
-<small><sub>**KJV:**</sub></small>
-When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found.
-<small><sub>**BSB:**</sub></small>
-Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 10:21** is...

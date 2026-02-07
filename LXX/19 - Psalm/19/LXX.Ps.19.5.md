@@ -1,10 +1,7 @@
 **LXX Psalm 19:5** 
 <small><sub>**LXX:**</sub></small>
 And he, as a groom going forth from out of his nuptial chamber, shall exult as a giant running a journey. 
-<small><sub>**KJV:**</sub></small>
-Which [is] as a bridegroom coming out of his chamber, [and] rejoiceth as a strong man to run a race.
-<small><sub>**BSB:**</sub></small>
-Like a bridegroom emerging from his chamber, like a champion rejoicing to run his course,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.4|<< Psalm 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.6|Psalm 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

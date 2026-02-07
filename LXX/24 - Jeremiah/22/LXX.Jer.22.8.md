@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:8** 
 <small><sub>**LXX:**</sub></small>
 And many nations shall go through  this city. And they shall say each to  his neighbor, Why did \[the\] <span class="smallcaps">lord</span> do thus to this great city? 
-<small><sub>**KJV:**</sub></small>
-And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the LORD done thus unto this great city?
-<small><sub>**BSB:**</sub></small>
-And many nations will pass by this city and ask one another, ‘Why has the LORD done such a thing to this great city?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.7|<< Jeremiah 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.9|Jeremiah 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

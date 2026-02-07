@@ -1,10 +1,7 @@
 **LXX Zechariah 6:15** 
 <small><sub>**LXX:**</sub></small>
 And the ones far from them shall come, and they shall build in the house of \[the\] <span class="smallcaps">lord</span>. And you shall know that \[the\] <span class="smallcaps">lord</span> almighty has sent me to you; and it will be as if ones listening should have listened to the voice of \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And they [that are] far off shall come and build in the temple of the LORD, and ye shall know that the LORD of hosts hath sent me unto you. And [this] shall come to pass, if ye will diligently obey the voice of the LORD your God.
-<small><sub>**BSB:**</sub></small>
-Even those far away will come and build the temple of the LORD, and you will know that the LORD of Hosts has sent Me to you. This will happen if you diligently obey the voice of the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.14|<< Zechariah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.1|Zechariah 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

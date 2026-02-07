@@ -1,4 +1,4 @@
-**Psalms 139:6** 
+**Psalms 139:6**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Such] knowledge [is] too wonderful for me; it is high, I cannot [attain] unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Such knowledge is too wonderful for me, too lofty for me to attain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.5|<< Psalms 139:5]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.7|Psalms 139:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is too] wonderful  |**<big>&#8207;[[H6383\|פְּלִ֣יאָֽה]]&#8207; </big>**[^1] [^2] | pil.'i.yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | knowledge  |**<big>&#8207;[[H1847\|דַ֣עַת]]&#8207; </big>**| Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

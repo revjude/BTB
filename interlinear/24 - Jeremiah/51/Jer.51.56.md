@@ -1,4 +1,4 @@
-**Jeremiah 51:56** 
+**Jeremiah 51:56**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the spoiler is come upon her, [even] upon Babylon, and her mighty men are taken, every one of their bows is broken: for the LORD God of recompences shall surely requite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a destroyer is coming against her—against Babylon. Her warriors will be ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.55|<< Jeremiah 51:55]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.57|Jeremiah 51:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] about to come  |**<big>&#8207;[[H0935G\|בָ֨א]]&#8207; </big>**| va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

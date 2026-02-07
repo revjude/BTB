@@ -1,10 +1,7 @@
 **LXX Judges 20:24** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel came forward against \[the\] sons of Benjamin in the second day. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel came near against the children of Benjamin the second day.
-<small><sub>**BSB:**</sub></small>
-On the second day the Israelites advanced against the Benjamites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.23|<< Judges 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.25|Judges 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

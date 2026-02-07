@@ -1,12 +1,12 @@
-**Acts 1:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:12**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey.
 <small><sub>**BSB:**</sub></small>
 Then they returned to Jerusalem from the Mount of Olives, which is near the city, a Sabbath day’s journey away.
 <small><sub>**Literal:**</sub></small>
 Then they returned to Jerusalem from [the] mount which is being called Olivet, which is near Jerusalem a Sabbath day’s holding journey.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.11|<< Acts 1:11]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.13|Acts 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they returned |**<big>[[G5290\|ὑπέστρεψαν]]</big>**  |hupestrepsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 109:17** 
+**Psalms 109:17**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The cursing that he loved, may it fall on him; the blessing in which he refused 
 > $\quad$ referenced by: [[John.17.12|John 17:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he loved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|יֶּאֱהַ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Hav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a curse  |**<big>&#8207;[[H7045\|קְ֭לָלָה]]&#8207; </big>**| Ke.la.lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

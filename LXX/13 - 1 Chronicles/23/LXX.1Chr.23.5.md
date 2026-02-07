@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:5** 
 <small><sub>**LXX:**</sub></small>
 and four thousand gatekeepers; and four thousand praising the <span class="smallcaps">lord</span> with  instruments, which made  praise to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Moreover four thousand [were] porters; and four thousand praised the LORD with the instruments which I made, [said David], to praise [therewith].
-<small><sub>**BSB:**</sub></small>
-4,000 are to be gatekeepers, and 4,000 are to praise the LORD with the instruments I have made for giving praise.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.4|<< 1 Chronicles 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.6|1 Chronicles 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

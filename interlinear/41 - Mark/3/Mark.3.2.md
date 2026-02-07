@@ -1,12 +1,12 @@
-**Mark 3:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:2**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they watched him, whether he would heal him on the sabbath day; that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.
 <small><sub>**Literal:**</sub></small>
 and they were watching Him whether on the Sabbaths He will heal him in order that they may accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.1|<< Mark 3:1]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.3|Mark 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were watching |**<big>[[G3906\|παρετήρουν]]</big>**  |paretēroun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

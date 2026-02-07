@@ -1,4 +1,4 @@
-**2 Chronicles 4:9** 
+**2 Chronicles 4:9**<big><big>[[2Chr.4.9 The Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore he made the court of the priests, and the great court, and doors for the court, and overlaid the doors of them with brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made the courtyard of the priests and the large court with its doors, and he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.8|<< 2 Chronicles 4:8]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.10|2 Chronicles 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֙עַשׂ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] court of  |**<big>&#8207;[[H2691A\|חֲצַ֣ר]]&#8207; </big>**| cha.Tzar<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now  this commandment \[is\] to you, O priests. 
-<small><sub>**KJV:**</sub></small>
-And now, O ye priests, this commandment [is] for you.
-<small><sub>**BSB:**</sub></small>
-“And now this decree is for you, O priests:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.14|<< Malachi 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.2|Malachi 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 7:36** 
 <small><sub>**LXX:**</sub></small>
 in so far as \[the\] <span class="smallcaps">lord</span> gave charge to give to them in which day he anointed them from the sons of Israel, an eternal law unto  their generations. 
-<small><sub>**KJV:**</sub></small>
-Which the LORD commanded to be given them of the children of Israel, in the day that he anointed them, [by] a statute for ever throughout their generations.
-<small><sub>**BSB:**</sub></small>
-On the day they were anointed, the LORD commanded that this be given them by the sons of Israel. It is a permanent portion for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.35|<< Leviticus 7:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.37|Leviticus 7:37 >>]]</td></tr></table>
 
 | Translation | Greek |

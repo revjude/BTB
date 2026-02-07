@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:17** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to the people  with him, You number \[yourselves\] indeed, and see who has gone out from us! And they numbered. And behold, Jonathan was not found and the one carrying  his weapons. 
-<small><sub>**KJV:**</sub></small>
-Then said Saul unto the people that [were] with him, Number now, and see who is gone from us. And when they had numbered, behold, Jonathan and his armourbearer [were] not [there].
-<small><sub>**BSB:**</sub></small>
-Saul said to the troops who were with him, “Call the roll and see who has left us.” And when they had called the roll, they saw that Jonathan and his armor-bearer were not there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.16|<< 1 Samuel 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.18|1 Samuel 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

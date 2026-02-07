@@ -1,4 +1,4 @@
-**2 Samuel 22:50** 
+**2 Samuel 22:50**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name.
 <small><sub>**BSB:**</sub></small>
@@ -11,7 +11,7 @@ Therefore I will praise You, O LORD, among the nations; I will sing praises to Y
 > $\quad$ referenced by: [[Rom.15.9|Rom 15:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֛ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

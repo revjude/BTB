@@ -1,12 +1,12 @@
-**Luke 14:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:11**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 <small><sub>**BSB:**</sub></small>
 For everyone who exalts himself will be humbled, and the one who humbles himself will be exalted.”
 <small><sub>**Literal:**</sub></small>
 For everyone who is exalting himself will be humbled, and the [one] humbling himself will be exalted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.10|<< Luke 14:10]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.12|Luke 14:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

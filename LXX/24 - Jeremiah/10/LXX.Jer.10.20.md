@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:20** 
 <small><sub>**LXX:**</sub></small>
  My tent is in miserable \[condition\], it was destroyed; and all  of my hide coverings were pulled apart.  My sons and  my sheep are no \[more\]; there is no more place  for my tent, \[nor\] a place  for my hide coverings. 
-<small><sub>**KJV:**</sub></small>
-My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they [are] not: [there is] none to stretch forth my tent any more, and to set up my curtains.
-<small><sub>**BSB:**</sub></small>
-My tent is destroyed, and all its ropes are snapped. My sons have departed from me and are no more. I have no one left to pitch my tent or set up my curtains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.19|<< Jeremiah 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.21|Jeremiah 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

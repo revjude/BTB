@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall affix them for a sign upon  your hand, and it shall be unshaken before your eyes. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.
-<small><sub>**BSB:**</sub></small>
-Tie them as reminders on your hands and bind them on your foreheads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.7|<< Deuteronomy 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.9|Deuteronomy 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

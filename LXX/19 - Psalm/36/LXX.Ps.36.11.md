@@ -1,10 +1,7 @@
 **LXX Psalm 36:11** 
 <small><sub>**LXX:**</sub></small>
 Let not \[the\] foot of pride come against me! nor \[the\] hand of \[the\] sinner to shake me. 
-<small><sub>**KJV:**</sub></small>
-Let not the foot of pride come against me, and let not the hand of the wicked remove me.
-<small><sub>**BSB:**</sub></small>
-Let not the foot of the proud come against me, nor the hand of the wicked drive me away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.10|<< Psalm 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.12|Psalm 36:12 >>]]</td></tr></table>
 
 | Translation | Greek |

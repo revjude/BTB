@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, stand upon  your feet, and I shall speak to you! 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “stand up on your feet and I will speak to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.28|<< Ezekiel 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.2|Ezekiel 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

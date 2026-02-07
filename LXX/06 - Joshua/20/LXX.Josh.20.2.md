@@ -1,10 +1,7 @@
 **LXX Joshua 20:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, Appoint to you the cities of the places of refuge! which I spoke to you through Moses, 
-<small><sub>**KJV:**</sub></small>
-Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites to designate the cities of refuge, as I instructed you through Moses,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.1|<< Joshua 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.3|Joshua 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

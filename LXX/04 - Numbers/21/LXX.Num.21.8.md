@@ -1,10 +1,7 @@
 **LXX Numbers 21:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Make to yourself a serpent of brass, and put it upon a sign. And all  having been bitten, beholding it, shall live. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Make a fiery serpent and mount it on a pole. When anyone who is bitten looks at it, he will live.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.7|<< Numbers 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.9|Numbers 21:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 21:8** is...

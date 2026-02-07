@@ -1,4 +1,4 @@
-**Amos 9:2** 
+**Amos 9:2**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though they dig down to Sheol, from there My hand will take them; and though the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.1|<< Amos 9:1]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.3|Amos 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will dig  |**<big>&#8207;[[H2864\|יַחְתְּר֣וּ]]&#8207; </big>**| yach.te.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

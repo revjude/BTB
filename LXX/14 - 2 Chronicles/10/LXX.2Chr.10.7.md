@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:7** 
 <small><sub>**LXX:**</sub></small>
 And they spoke to him, saying, If in  today you should be for good \[to\] this people, and you should please them, and should speak to them good words, then they will be to you \[for\] servants all the days. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, they will be thy servants for ever.
-<small><sub>**BSB:**</sub></small>
-They replied, “If you will be kind to these people and please them by speaking kind words to them, they will be your servants forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.6|<< 2 Chronicles 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.8|2 Chronicles 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

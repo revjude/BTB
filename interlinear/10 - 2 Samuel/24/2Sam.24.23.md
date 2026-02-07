@@ -1,4 +1,4 @@
-**2 Samuel 24:23** 
+**2 Samuel 24:23**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [things] did Araunah, [as] a king, give unto the king. And Araunah said unto the king, The LORD thy God accept thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O king, Araunah gives all these to the king.” He also said to the king, “May
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.22|<< 2 Samuel 24:22]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.24|2 Samuel 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> everything  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3605\|כֹּ֗ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gives  |**<big>&#8207;[[H5414G\|נָתַ֛ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

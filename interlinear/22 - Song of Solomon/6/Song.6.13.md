@@ -1,4 +1,4 @@
-**Song of Solomon 6:13** (7:1)
+**Song of Solomon 6:13**<big><big>[[Song.6.13 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come back, come back, O Shulammite! Come back, come back, that we may gaze upon 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.12|<< Song of Solomon 6:12]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.1|Song of Solomon 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725G\|שׁ֤וּבִי]]&#8207; </big>**| Shu.vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | return  |**<big>&#8207;[[H7725G\|שׁ֙וּבִי֙]]&#8207; </big>**| shu.vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

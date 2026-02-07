@@ -1,4 +1,4 @@
-**Psalms 83:18** (83:19)
+**Psalms 83:18**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May they know that You alone, whose name is the LORD, are Most High over all the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.17|<< Psalms 83:17]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.0|Psalms 84:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they may know  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3045\|יֵדְע֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.de.'U<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

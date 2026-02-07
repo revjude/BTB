@@ -1,10 +1,7 @@
 **LXX Job 15:35** 
 <small><sub>**LXX:**</sub></small>
 And he shall conceive griefs in \[the\] womb, and there shall result unto him emptiness,  and his belly shall endure deceit. 
-<small><sub>**KJV:**</sub></small>
-They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
-<small><sub>**BSB:**</sub></small>
-They conceive trouble and give birth to evil; their womb is pregnant with deceit.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.34|<< Job 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.1|Job 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

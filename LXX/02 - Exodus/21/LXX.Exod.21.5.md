@@ -1,10 +1,7 @@
 **LXX Exodus 21:5** 
 <small><sub>**LXX:**</sub></small>
 And if responding the servant should have said, I have loved  my master, and  my wife, and the children; I \[do\] not run free. 
-<small><sub>**KJV:**</sub></small>
-And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:
-<small><sub>**BSB:**</sub></small>
-But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.4|<< Exodus 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.6|Exodus 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

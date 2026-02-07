@@ -1,4 +1,4 @@
-**Isaiah 9:21** (9:20)
+**Isaiah 9:21**<big><big>[[Isa.9.18 Judgment against Israel’s Unrepentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Manasseh, Ephraim; and Ephraim, Manasseh: [and] they together [shall be] against Judah. For all this his anger is not turned away, but his hand [is] stretched out still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.20|<< Isaiah 9:20]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.1|Isaiah 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֣ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

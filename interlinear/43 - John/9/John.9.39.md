@@ -1,12 +1,12 @@
-**John 9:39
-**<small><sub>**KJV:**</sub></small>
+**John 9:39**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
 <small><sub>**BSB:**</sub></small>
 Then Jesus declared, “For judgment I have come into this world, so that the blind may see and those who see may become blind.”
 <small><sub>**Literal:**</sub></small>
 And said <the> Jesus; For judgment I myself into <the> world this came, that those not seeing may see and those seeing blind may become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.38|<< John 9:38]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.40|John 9:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

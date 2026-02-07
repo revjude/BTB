@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:30** 
 <small><sub>**LXX:**</sub></small>
 And Solomon multiplied exceedingly over the intellect of all \[the\] ancient men, and above all \[the\] intelligent ones of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
-<small><sub>**BSB:**</sub></small>
-Solomon’s wisdom was greater than that of all the men of the East, greater than all the wisdom of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.29|<< 1 Kings 4:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.31|1 Kings 4:31 >>]]</td></tr></table>
 
 | Translation | Greek |

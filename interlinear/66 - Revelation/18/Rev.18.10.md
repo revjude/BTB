@@ -1,12 +1,12 @@
-**Revelation 18:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:10**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.
 <small><sub>**BSB:**</sub></small>
 In fear of her torment, they will stand at a distance and cry out: “Woe, woe to the great city, the mighty city of Babylon! For in a single hour your judgment has come.”
 <small><sub>**Literal:**</sub></small>
 from afar standing because of the fear of the torment of her saying: Woe woe you who [are] the city <the> great Babylon the city <the> strong! For in one hour has come the judgment of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.9|<< Revelation 18:9]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.11|Revelation 18:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | afar |**<big>[[G3113\|μακρόθεν]]</big>**  |makrothen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

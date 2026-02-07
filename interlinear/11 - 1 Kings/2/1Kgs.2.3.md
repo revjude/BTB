@@ -1,4 +1,4 @@
-**1 Kings 2:3** 
+**1 Kings 2:3**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And keep the charge of the LORD your God to walk in His ways and to keep His sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.2|<< 1 Kings 2:2]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.4|1 Kings 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104G\|שָׁמַרְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

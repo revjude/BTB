@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses and Aaron, saying, Take with you hands full of soot of a furnace! and let Moses strew \[it\] into the heaven before Pharaoh, and before  his attendants! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses and Aaron, “Take handfuls of soot from the furnace; in the sight of Pharaoh, Moses is to toss it into the air.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.7|<< Exodus 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.9|Exodus 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

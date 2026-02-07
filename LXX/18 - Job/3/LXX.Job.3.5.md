@@ -1,10 +1,7 @@
 **LXX Job 3:5** 
 <small><sub>**LXX:**</sub></small>
 But take darkness and \[the\] shadow of death it. dimness come upon it. And that day be disturbed, 
-<small><sub>**KJV:**</sub></small>
-Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.
-<small><sub>**BSB:**</sub></small>
-May darkness and gloom reclaim it, and a cloud settle over it; may the blackness of the day overwhelm it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.4|<< Job 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.6|Job 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

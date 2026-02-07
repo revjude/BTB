@@ -1,4 +1,4 @@
-**Isaiah 3:9** 
+**Isaiah 3:9**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide [it] not. Woe unto their soul! for they have rewarded evil unto themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The expression on their faces testifies against them, and like Sodom they flaunt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.8|<< Isaiah 3:8]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.10|Isaiah 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] expression of  |**<big>&#8207;[[H1971\|הַכָּרַ֤ת]]&#8207; </big>**| ha.ka.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces their  |**<big>&#8207;[[H6440H\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

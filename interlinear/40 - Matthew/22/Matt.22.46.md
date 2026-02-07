@@ -1,12 +1,12 @@
-**Matthew 22:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:46**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And no man was able to answer him a word, neither durst any [man] from that day forth ask him any more [questions].
 <small><sub>**BSB:**</sub></small>
 No one was able to answer a word, and from that day on no one dared to question Him any further.
 <small><sub>**Literal:**</sub></small>
 And no [one] was able to answer Him a word nor dared anyone from that [very] <the> day to question Him no longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.45|<< Matthew 22:45]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.1|Matthew 23:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

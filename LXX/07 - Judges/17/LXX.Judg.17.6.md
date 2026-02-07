@@ -1,10 +1,7 @@
 **LXX Judges 17:6** 
 <small><sub>**LXX:**</sub></small>
 In  those days there was not a king in Israel; a man  did upright in his \[own\] eyes. 
-<small><sub>**KJV:**</sub></small>
-In those days [there was] no king in Israel, [but] every man did [that which was] right in his own eyes.
-<small><sub>**BSB:**</sub></small>
-In those days there was no king in Israel; everyone did what was right in his own eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.5|<< Judges 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.7|Judges 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

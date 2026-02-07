@@ -1,12 +1,12 @@
-**Acts 9:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:43**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that he tarried many days in Joppa with one Simon a tanner.
 <small><sub>**BSB:**</sub></small>
 And Peter stayed for several days in Joppa with a tanner named Simon.
 <small><sub>**Literal:**</sub></small>
 It came to pass then days many staying he in Joppa with a certain Simon a tanner.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.42|<< Acts 9:42]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.1|Acts 10:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

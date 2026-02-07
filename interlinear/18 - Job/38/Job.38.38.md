@@ -1,4 +1,4 @@
-**Job 38:38** 
+**Job 38:38**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the dust groweth into hardness, and the clods cleave fast together?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when the dust hardens into a mass and the clods of earth stick together?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.37|<< Job 38:37]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.39|Job 38:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when flows  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3332G\|צֶ֣קֶת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tze.ket<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] dust  |**<big>&#8207;[[H6083\|עָ֭פָר]]&#8207; </big>**| 'A.for<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

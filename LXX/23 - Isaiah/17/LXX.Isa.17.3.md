@@ -1,10 +1,7 @@
 **LXX Isaiah 17:3** 
 <small><sub>**LXX:**</sub></small>
 And no longer shall there be a fortified place  to take refuge there  for Ephraim; and no longer a kingdom in Damascus, nor  a remaining of the Syrians. For you are no better \[than\] the sons of Israel, even  their glory; thus says \[the\] <span class="smallcaps">lord</span> of Hosts. 
-<small><sub>**KJV:**</sub></small>
-The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-The fortress will disappear from Ephraim, and the sovereignty from Damascus. The remnant of Aram will be like the splendor of the Israelites,” declares the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.2|<< Isaiah 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.4|Isaiah 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

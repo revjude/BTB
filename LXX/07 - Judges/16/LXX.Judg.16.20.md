@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Delilah said, \[The\] Philistines \[are\] upon you, Samson. And he was awakened from out of  his sleep. And he said, I shall go forth, and I shall do as continually \[before\], and I shall brush myself off. And he did not know that the <span class="smallcaps">lord</span> left from him. 
-<small><sub>**KJV:**</sub></small>
-And she said, The Philistines [be] upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.
-<small><sub>**BSB:**</sub></small>
-Then she called out, “Samson, the Philistines are here!” When Samson awoke from his sleep, he thought, “I will escape as I did before and shake myself free.” But he did not know that the LORD had departed from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.19|<< Judges 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.21|Judges 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

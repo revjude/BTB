@@ -1,10 +1,7 @@
 **LXX Exodus 5:3** 
 <small><sub>**LXX:**</sub></small>
 And they say to him, The God of the Hebrews called on us. We will go then \[on\] a journey of three days into the wilderness, that we may sacrifice to \[the\] <span class="smallcaps">lord</span>  our God, lest at any time death or murder might meet with us. 
-<small><sub>**KJV:**</sub></small>
-And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.
-<small><sub>**BSB:**</sub></small>
-“The God of the Hebrews has met with us,” they answered. “Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.2|<< Exodus 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.4|Exodus 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

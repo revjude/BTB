@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:44** 
 <small><sub>**LXX:**</sub></small>
 These are all as much as they spoke against you in a parable, saying, As the mother, so also the daughter. 
-<small><sub>**KJV:**</sub></small>
-Behold, every one that useth proverbs shall use [this] proverb against thee, saying, As [is] the mother, [so is] her daughter.
-<small><sub>**BSB:**</sub></small>
-Behold, all who speak in proverbs will quote this proverb about you: ‘Like mother, like daughter.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.43|<< Ezekiel 16:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.45|Ezekiel 16:45 >>]]</td></tr></table>
 
 | Translation | Greek |

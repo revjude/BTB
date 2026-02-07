@@ -1,10 +1,7 @@
 **LXX Psalm 41:7** 
 <small><sub>**LXX:**</sub></small>
 All my enemies whispered against me; against me they devised bad \[things\] for me. 
-<small><sub>**KJV:**</sub></small>
-All that hate me whisper together against me: against me do they devise my hurt.
-<small><sub>**BSB:**</sub></small>
-All who hate me whisper against me; they imagine the worst for me:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.6|<< Psalm 41:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.8|Psalm 41:8 >>]]</td></tr></table>
 
 | Translation | Greek |

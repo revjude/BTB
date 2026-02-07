@@ -1,10 +1,7 @@
 **LXX Psalm 49:17** 
 <small><sub>**LXX:**</sub></small>
 for take not anything in his dying, nor his glory go down with him! 
-<small><sub>**KJV:**</sub></small>
-For when he dieth he shall carry nothing away: his glory shall not descend after him.
-<small><sub>**BSB:**</sub></small>
-For when he dies, he will carry nothing away; his abundance will not follow him down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.16|<< Psalm 49:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.18|Psalm 49:18 >>]]</td></tr></table>
 
 | Translation | Greek |

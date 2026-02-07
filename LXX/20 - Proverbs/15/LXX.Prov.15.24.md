@@ -1,10 +1,7 @@
 **LXX Proverbs 15:24** 
 <small><sub>**LXX:**</sub></small>
 \[The\] thoughts of \[the\] discerning \[are\] ways of life; that turning aside from  Hades he should be delivered. 
-<small><sub>**KJV:**</sub></small>
-The way of life [is] above to the wise, that he may depart from hell beneath.
-<small><sub>**BSB:**</sub></small>
-The path of life leads upward for the wise, that he may avoid going down to Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.23|<< Proverbs 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.25|Proverbs 15:25 >>]]</td></tr></table>
 
 | Translation | Greek |

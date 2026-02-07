@@ -1,4 +1,4 @@
-**Numbers 15:26** 
+**Numbers 15:26**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people [were] in ignorance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the whole congregation of Israel and the foreigners residing among them wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.25|<< Numbers 15:25]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.27|Numbers 15:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be forgiven  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5545\|נִסְלַ֗ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nis.Lach<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

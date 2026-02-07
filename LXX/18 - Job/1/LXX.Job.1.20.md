@@ -1,10 +1,7 @@
 **LXX Job 1:20** 
 <small><sub>**LXX:**</sub></small>
 Thus rising up, Job tore up  his garments, and sheared the hair  of his head, and falling to the ground he did obeisance. 
-<small><sub>**KJV:**</sub></small>
-Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
-<small><sub>**BSB:**</sub></small>
-Then Job stood up, tore his robe, and shaved his head. He fell to the ground and worshiped,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.19|<< Job 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.21|Job 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

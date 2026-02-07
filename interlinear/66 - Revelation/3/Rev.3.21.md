@@ -1,5 +1,5 @@
-**Revelation 3:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:21**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
 <small><sub>**BSB:**</sub></small>
 To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne.
@@ -10,7 +10,7 @@ The [one] overcoming, I will give to him to sit with Me on the throne of Mine as
 > $\quad$ possibly alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | overcoming, |**<big>[[G3528\|νικῶν,]]</big>**  |nikōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

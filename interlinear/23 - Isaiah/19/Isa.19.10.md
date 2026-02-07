@@ -1,4 +1,4 @@
-**Isaiah 19:10** 
+**Isaiah 19:10**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be broken in the purposes thereof, all that make sluices [and] ponds for fish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The workers in cloth will be dejected, and all the hired workers will be sick at
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.9|<< Isaiah 19:9]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.11|Isaiah 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foundations its  |**<big>&#8207;[[H8356\|שָׁתֹתֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sha.to.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:34** 
 <small><sub>**LXX:**</sub></small>
 If into the city you should return, then you shall say  to Absalom, I am your servant, O king, allow me to live! \[for\] I was a servant of your father then and just now, and now I \[am\] your servant. And \[by saying this\] efface to me the counsel of Ahithophel! 
-<small><sub>**KJV:**</sub></small>
-But if thou return to the city, and say unto Absalom, I will be thy servant, O king; [as] I [have been] thy father’s servant hitherto, so [will] I now also [be] thy servant: then mayest thou for me defeat the counsel of Ahithophel.
-<small><sub>**BSB:**</sub></small>
-But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.33|<< 2 Samuel 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.35|2 Samuel 15:35 >>]]</td></tr></table>
 
 | Translation | Greek |

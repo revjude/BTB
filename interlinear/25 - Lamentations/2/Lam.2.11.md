@@ -1,4 +1,4 @@
-**Lamentations 2:11** 
+**Lamentations 2:11**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My eyes fail from weeping; I am churning within. My heart is poured out in grief
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.10|<< Lamentations 2:10]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.12|Lamentations 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have failed  |**<big>&#8207;[[H3615J\|כָּל֨וּ]]&#8207; </big>**| ka.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> tears  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1832\|דְּמָע֤וֹת]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> de.ma.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

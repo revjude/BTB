@@ -1,10 +1,7 @@
 **LXX Daniel 7:24** 
 <small><sub>**LXX:**</sub></small>
 And the ten horns of it \[are\] ten kings, \[and\] they shall rise up. And after them shall rise up another who shall overwhelm all the ones prior, and three kings he shall humble, 
-<small><sub>**KJV:**</sub></small>
-And the ten horns out of this kingdom [are] ten kings [that] shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
-<small><sub>**BSB:**</sub></small>
-And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.23|<< Daniel 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.25|Daniel 7:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:24** is...

@@ -1,5 +1,5 @@
-**Matthew 1:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:3**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;
 <small><sub>**BSB:**</sub></small>
 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
@@ -10,7 +10,7 @@ Judah then begat <the> Perez and <the> Zerah out of <the> Tamar; Perez then bega
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Judah |**<big>[[G2455N\|Ἰούδας]]</big>**  |Ioudas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

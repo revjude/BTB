@@ -1,10 +1,7 @@
 **LXX Numbers 7:52** 
 <small><sub>**LXX:**</sub></small>
 and one winter yearling from \[the\] goats for a sin \[offering\]; 
-<small><sub>**KJV:**</sub></small>
-One kid of the goats for a sin offering:
-<small><sub>**BSB:**</sub></small>
-one male goat for a sin offering;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.51|<< Numbers 7:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.53|Numbers 7:53 >>]]</td></tr></table>
 
 | Translation | Greek |

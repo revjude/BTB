@@ -1,10 +1,7 @@
 **LXX Ezra 7:5** 
 <small><sub>**LXX:**</sub></small>
 son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the foremost priest. 
-<small><sub>**KJV:**</sub></small>
-The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
-<small><sub>**BSB:**</sub></small>
-the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.4|<< Ezra 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.6|Ezra 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

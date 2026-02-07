@@ -1,4 +1,4 @@
-**Psalms 22:25** (22:26)
+**Psalms 22:25**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My praise [shall be] of thee in the great congregation: I will pay my vows before them that fear him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My praise for You resounds in the great assembly; I will fulfill my vows before 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] from with \<the> you  |**<big>&#8207;[[H9006\|מֵ֥]]&#8207;&#8207;[[H0854\|אִתְּ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.te.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | praise my  |**<big>&#8207;[[H8416\|תְֽהִלָּ֫תִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| te.hi.La.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

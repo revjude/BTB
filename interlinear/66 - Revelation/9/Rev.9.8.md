@@ -1,5 +1,5 @@
-**Revelation 9:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:8**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had hair as the hair of women, and their teeth were as [the teeth] of lions.
 <small><sub>**BSB:**</sub></small>
 They had hair like that of women, and teeth like those of lions.
@@ -10,7 +10,7 @@ And they had hair like hair of women, and the teeth of them like [those] of lion
 > $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they had |**<big>[[G2192\|εἶχον]]</big>**  [^1] |eichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

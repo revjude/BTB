@@ -1,4 +1,4 @@
-**1 Samuel 4:5** 
+**1 Samuel 4:5**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the ark of the covenant of the LORD entered the camp, all the Israelites ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.4|<< 1 Samuel 4:4]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.6|1 Samuel 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|ב֨וֹא]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

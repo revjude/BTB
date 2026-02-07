@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:19** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to Saul, saying, Behold, David \[is\] in Naioth in Ramah. 
-<small><sub>**KJV:**</sub></small>
-And it was told Saul, saying, Behold, David [is] at Naioth in Ramah.
-<small><sub>**BSB:**</sub></small>
-When Saul was told that David was at Naioth in Ramah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.18|<< 1 Samuel 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.20|1 Samuel 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

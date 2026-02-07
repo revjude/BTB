@@ -1,10 +1,7 @@
 **LXX Isaiah 46:5** 
 <small><sub>**LXX:**</sub></small>
 To whom do you liken me? Behold cunningly contrive, O misleading ones! 
-<small><sub>**KJV:**</sub></small>
-To whom will ye liken me, and make [me] equal, and compare me, that we may be like?
-<small><sub>**BSB:**</sub></small>
-To whom will you liken Me or count Me equal? To whom will you compare Me, that we should be alike?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.4|<< Isaiah 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.6|Isaiah 46:6 >>]]</td></tr></table>
 
 | Translation | Greek |

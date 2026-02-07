@@ -1,10 +1,7 @@
 **LXX Psalm 56:10** 
 <small><sub>**LXX:**</sub></small>
 Unto  God I will praise by discourse; unto the <span class="smallcaps">lord</span> I will praise by word. 
-<small><sub>**KJV:**</sub></small>
-In God will I praise [his] word: in the LORD will I praise [his] word.
-<small><sub>**BSB:**</sub></small>
-In God, whose word I praise, in the LORD, whose word I praise,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.9|<< Psalm 56:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.11|Psalm 56:11 >>]]</td></tr></table>
 
 | Translation | Greek |

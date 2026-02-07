@@ -1,12 +1,12 @@
-**Matthew 15:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:35**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded the multitude to sit down on the ground.
 <small><sub>**BSB:**</sub></small>
 And He instructed the crowd to sit down on the ground.
 <small><sub>**Literal:**</sub></small>
 And He having commanded to the crowd to sit down on the ground<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.34|<< Matthew 15:34]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.36|Matthew 15:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He having commanded [^1] |**<big>[[G3853\|παραγγείλας]]</big>**  |parangeilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

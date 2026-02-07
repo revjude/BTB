@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:14** 
 <small><sub>**LXX:**</sub></small>
  to become a weak kingdom, \[so that\] altogether it should not lift itself up; but to keep  its covenant and to establish her. 
-<small><sub>**KJV:**</sub></small>
-That the kingdom might be base, that it might not lift itself up, [but] that by keeping of his covenant it might stand.
-<small><sub>**BSB:**</sub></small>
-so that the kingdom would be brought low, unable to lift itself up, surviving only by keeping his covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.13|<< Ezekiel 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.15|Ezekiel 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 5:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:41**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall compel thee to go a mile, go with him twain.
 <small><sub>**BSB:**</sub></small>
 and if someone forces you to go one mile, go with him two miles.
 <small><sub>**Literal:**</sub></small>
 and whoever you will compel to go mile one, do go with him two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.40|<< Matthew 5:40]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.42|Matthew 5:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whoever |**<big>[[G3748\|ὅστις]]</big>**  |hostis <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

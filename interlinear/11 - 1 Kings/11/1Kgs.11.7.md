@@ -1,4 +1,4 @@
-**1 Kings 11:7** 
+**1 Kings 11:7**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that [is] before Jerusalem, and for Molech, the abomination of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time on a hill east of Jerusalem, Solomon built a high place for Chemosh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.6|<< 1 Kings 11:6]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.8|1 Kings 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָז֩]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|יִבְנֶ֨ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

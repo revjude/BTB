@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:22** 
 <small><sub>**LXX:**</sub></small>
 And Judah acted  wickedly before \[the\] <span class="smallcaps">lord</span>, and provoked him to jealousy in all the \[things\] which his fathers did in  their sins which they sinned. 
-<small><sub>**KJV:**</sub></small>
-And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
-<small><sub>**BSB:**</sub></small>
-And Judah did evil in the sight of the LORD, and by the sins they committed they provoked Him to jealous anger more than all their fathers had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.21|<< 1 Kings 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.23|1 Kings 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

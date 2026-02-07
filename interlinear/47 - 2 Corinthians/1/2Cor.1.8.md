@@ -1,12 +1,12 @@
-**2 Corinthians 1:8
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:8**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 <small><sub>**BSB:**</sub></small>
 We do not want you to be unaware, brothers, of the hardships we encountered in the province of Asia. We were under a burden far beyond our ability to endure, so that we despaired even of life.
 <small><sub>**Literal:**</sub></small>
 Not for do we want you to be ignorant brothers, as to the affliction of us <the> having happened to us in <the> Asia that against excessively beyond [our] power we were weighed so as to despair for us even <the> to live;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.7|<< 2 Corinthians 1:7]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.9|2 Corinthians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

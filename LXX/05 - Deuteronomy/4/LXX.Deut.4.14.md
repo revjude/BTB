@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave charge to me in  that time to teach you ordinances and judgments, for you to do them upon the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.
-<small><sub>**BSB:**</sub></small>
-At that time the LORD commanded me to teach you the statutes and ordinances you are to follow in the land that you are crossing the Jordan to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.13|<< Deuteronomy 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.15|Deuteronomy 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

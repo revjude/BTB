@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:17** 
 <small><sub>**LXX:**</sub></small>
 And the elders of his house rose up to him,  to raise him from the ground, and he did not want, and he would not eat bread with them. 
-<small><sub>**KJV:**</sub></small>
-And the elders of his house arose, [and went] to him, to raise him up from the earth: but he would not, neither did he eat bread with them.
-<small><sub>**BSB:**</sub></small>
-The elders of his household stood beside him to help him up from the ground, but he was unwilling and would not eat anything with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.16|<< 2 Samuel 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.18|2 Samuel 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

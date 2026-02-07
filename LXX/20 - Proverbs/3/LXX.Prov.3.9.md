@@ -1,10 +1,7 @@
 **LXX Proverbs 3:9** 
 <small><sub>**LXX:**</sub></small>
 Esteem the <span class="smallcaps">lord</span> by your just toils, and dedicate to him from your fruits of righteousness! 
-<small><sub>**KJV:**</sub></small>
-Honour the LORD with thy substance, and with the firstfruits of all thine increase:
-<small><sub>**BSB:**</sub></small>
-Honor the LORD with your wealth and with the firstfruits of all your crops;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.8|<< Proverbs 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.10|Proverbs 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

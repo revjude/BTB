@@ -1,12 +1,12 @@
-**Matthew 10:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:9**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Provide neither gold, nor silver, nor brass in your purses,
 <small><sub>**BSB:**</sub></small>
 Do not take along any gold or silver or copper in your belts.
 <small><sub>**Literal:**</sub></small>
 Neither may take along gold nor silver nor copper in the belts of you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.8|<< Matthew 10:8]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.10|Matthew 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may take along |**<big>[[G2932\|κτήσησθε]]</big>**  |ktēsēsthe <small><sup>[[V-ADS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 27:4** 
+**Proverbs 27:4**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wrath [is] cruel, and anger [is] outrageous; but who [is] able to stand before envy?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wrath is cruel and anger is like a flood, but who can withstand jealousy?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.3|<< Proverbs 27:3]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.5|Proverbs 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] cruelty of  |**<big>&#8207;[[H0395\|אַכְזְרִיּ֣וּת]]&#8207; </big>**| 'akh.ze.ri.Yut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage  |**<big>&#8207;[[H2534\|חֵ֭מָה]]&#8207; </big>**| Che.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

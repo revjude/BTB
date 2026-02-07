@@ -1,12 +1,12 @@
-**Revelation 3:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:10**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
 <small><sub>**BSB:**</sub></small>
 Because you have kept My command to persevere, I will also keep you from the hour of testing that is about to come upon the whole world, to test those who dwell on the earth.
 <small><sub>**Literal:**</sub></small>
 Because you have kept the word of the patient endurance of Mine, I myself also you will keep out of the hour of the trial which is being about to come upon the inhabited world whole to try those dwelling upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.9|<< Revelation 3:9]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.11|Revelation 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you have kept |**<big>[[G5083G\|ἐτήρησας]]</big>**  |etērēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

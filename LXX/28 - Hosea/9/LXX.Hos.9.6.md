@@ -1,10 +1,7 @@
 **LXX Hosea 9:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, they are gone from \[the\] misery of Egypt, and Memphis shall look out for them, and Machmas shall entomb them.  Their silver -- ruin shall inherit it; thorn-bushes in  their tents. 
-<small><sub>**KJV:**</sub></small>
-For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant [places] for their silver, nettles shall possess them: thorns [shall be] in their tabernacles.
-<small><sub>**BSB:**</sub></small>
-For even if they flee destruction, Egypt will gather them and Memphis will bury them. Their precious silver will be taken over by thistles, and thorns will overrun their tents.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.5|<< Hosea 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.7|Hosea 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

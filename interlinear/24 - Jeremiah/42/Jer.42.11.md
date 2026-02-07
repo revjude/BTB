@@ -1,4 +1,4 @@
-**Jeremiah 42:11** 
+**Jeremiah 42:11**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I [am] with you to save you, and to deliver you from his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be afraid of the king of Babylon, whom you now fear; do not be afraid of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.10|<< Jeremiah 42:10]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.12|Jeremiah 42:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be afraid  |**<big>&#8207;[[H3372G\|תִּֽירְא֗וּ]]&#8207; </big>**| ti.re.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

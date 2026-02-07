@@ -1,10 +1,7 @@
 **LXX Psalm 121:3** 
 <small><sub>**LXX:**</sub></small>
 May he not give your foot to tossing about, nor the one guarding you slumber. 
-<small><sub>**KJV:**</sub></small>
-He will not suffer thy foot to be moved: he that keepeth thee will not slumber.
-<small><sub>**BSB:**</sub></small>
-He will not allow your foot to slip; your Protector will not slumber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.121.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.121.2|<< Psalm 121:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.121.4|Psalm 121:4 >>]]</td></tr></table>
 
 | Translation | Greek |

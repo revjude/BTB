@@ -1,4 +1,4 @@
-**2 Samuel 14:26** 
+**2 Samuel 14:26**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he polled his head, (for it was at every year’s end that he polled [it]: because [the hair] was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when he cut the hair of his head—he shaved it every year because his hair 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when shaved he  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1548\|גַלְּח]]&#8207;&#8207;[[H9043\|וֹ֮]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ga.le.Ch<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

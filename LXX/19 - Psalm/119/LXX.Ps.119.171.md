@@ -1,10 +1,7 @@
 **LXX Psalm 119:171** 
 <small><sub>**LXX:**</sub></small>
 My lips discharged forth a hymn, whenever you should teach me  your ordinances. 
-<small><sub>**KJV:**</sub></small>
-My lips shall utter praise, when thou hast taught me thy statutes.
-<small><sub>**BSB:**</sub></small>
-My lips pour forth praise, for You teach me Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.171|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.170|<< Psalm 119:170]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.172|Psalm 119:172 >>]]</td></tr></table>
 
 | Translation | Greek |

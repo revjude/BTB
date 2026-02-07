@@ -1,4 +1,4 @@
-**Deuteronomy 2:18** 
+**Deuteronomy 2:18**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art to pass over through Ar, the coast of Moab, this day:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou art to pass over through Ar, the coast of Moab, this day:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.17|<< Deuteronomy 2:17]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.19|Deuteronomy 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֨ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] about to pass over  |**<big>&#8207;[[H5674A\|עֹבֵ֥ר]]&#8207; </big>**| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

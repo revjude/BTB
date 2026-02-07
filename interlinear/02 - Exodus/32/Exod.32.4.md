@@ -1,4 +1,4 @@
-**Exodus 32:4** 
+**Exodus 32:4**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he received [them] at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These [be] thy gods, O Israel, which brought thee up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took the gold from their hands, and with an engraving tool he fashioned it in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.3|<< Exodus 32:3]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.5|Exodus 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took [them]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947H\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from hand their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027I\|יָּדָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 28:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:7**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.
 <small><sub>**BSB:**</sub></small>
 Nearby stood an estate belonging to Publius, the chief official of the island. He welcomed us and entertained us hospitably for three days.
 <small><sub>**Literal:**</sub></small>
 In now the [parts] around the place that [one] were lands [belonging] to the chief of the island, named Publius, who having received us three days hospitably entertained [us].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.6|<< Acts 28:6]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.8|Acts 28:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

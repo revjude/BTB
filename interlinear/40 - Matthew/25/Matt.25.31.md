@@ -1,12 +1,12 @@
-**Matthew 25:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:31**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:
 <small><sub>**BSB:**</sub></small>
 When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne.
 <small><sub>**Literal:**</sub></small>
 When then may come the Son <the> of Man in the glory of Him and all the holy angels with Him, then He will sit upon [the] throne of glory of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.30|<< Matthew 25:30]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.32|Matthew 25:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

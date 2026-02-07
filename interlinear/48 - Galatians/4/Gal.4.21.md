@@ -1,12 +1,12 @@
-**Galatians 4:21
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:21**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Tell me, ye that desire to be under the law, do ye not hear the law?
 <small><sub>**BSB:**</sub></small>
 Tell me, you who want to be under the law, do you not understand what the law says?
 <small><sub>**Literal:**</sub></small>
 do tell me, you who [are] under [the] Law wishing to be, the Law not you do listen to?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.20|<< Galatians 4:20]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.22|Galatians 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do tell |**<big>[[G3004G\|Λέγετέ]]</big>**  |Legete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | me, |**<big>[[G3165\|μοι,]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

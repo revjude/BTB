@@ -1,10 +1,7 @@
 **LXX Genesis 41:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass \[in the\] morning and his soul was disturbed. And sending, he called all the expositors of Egypt, and all  her wise \[men\]. And Pharaoh described to them  his dream. And there was no one  reporting it  to Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but [there was] none that could interpret them unto Pharaoh.
-<small><sub>**BSB:**</sub></small>
-In the morning his spirit was troubled, so he summoned all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.7|<< Genesis 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.9|Genesis 41:9 >>]]</td></tr></table>
 
 | Translation | Greek |

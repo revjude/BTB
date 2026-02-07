@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:22** 
 <small><sub>**LXX:**</sub></small>
 And Joab fell upon his face upon the ground, and did obeisance, and blessed the king. And Joab said, Today your servant knows that he found favor in your eyes, O my master, O king, for my master the king did the matter  for his servant. 
-<small><sub>**KJV:**</sub></small>
-And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant.
-<small><sub>**BSB:**</sub></small>
-Joab fell facedown in homage and blessed the king. “Today,” said Joab, “your servant knows that he has found favor in your eyes, my lord the king, because the king has granted his request.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.21|<< 2 Samuel 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.23|2 Samuel 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

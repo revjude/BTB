@@ -1,4 +1,4 @@
-**Hosea 2:4** (2:6)
+**Hosea 2:4**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will not have mercy upon her children; for they [be] the children of whoredoms.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will have no compassion on her children, because they are the children of adul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.3|<< Hosea 2:3]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.5|Hosea 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children her  |**<big>&#8207;[[H1121A\|בָּנֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

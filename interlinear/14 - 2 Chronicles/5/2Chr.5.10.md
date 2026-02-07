@@ -1,4 +1,4 @@
-**2 Chronicles 5:10** 
+**2 Chronicles 5:10**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There was] nothing in the ark save the two tables which Moses put [therein] at Horeb, when the LORD made [a covenant] with the children of Israel, when they came out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was nothing in the ark except the two tablets that Moses had placed in it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.9|<< 2 Chronicles 5:9]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.11|2 Chronicles 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֚ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] in the ark  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0727\|אָר֔וֹן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

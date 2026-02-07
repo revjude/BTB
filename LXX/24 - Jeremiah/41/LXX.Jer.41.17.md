@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:17** 
 <small><sub>**LXX:**</sub></small>
 And they set out and stayed in Chimham, the one by Beth-lehem,  to go into Egypt, 
-<small><sub>**KJV:**</sub></small>
-And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,
-<small><sub>**BSB:**</sub></small>
-And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed into Egypt<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.16|<< Jeremiah 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.18|Jeremiah 41:18 >>]]</td></tr></table>
 
 | Translation | Greek |

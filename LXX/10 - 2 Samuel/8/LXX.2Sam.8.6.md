@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:6** 
 <small><sub>**LXX:**</sub></small>
 And David put a detachment in Syria  near Damascus. And the Syrians became \[to\] David for servants bearing tribute. And \[the\] <span class="smallcaps">lord</span> delivered  David wheresoever he went. 
-<small><sub>**KJV:**</sub></small>
-Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, [and] brought gifts. And the LORD preserved David whithersoever he went.
-<small><sub>**BSB:**</sub></small>
-Then he placed garrisons in Aram of Damascus, and the Arameans became subject to David and brought him tribute. So the LORD made David victorious wherever he went.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.5|<< 2 Samuel 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.7|2 Samuel 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

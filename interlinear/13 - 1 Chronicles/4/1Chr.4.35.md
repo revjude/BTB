@@ -1,4 +1,4 @@
-**1 Chronicles 4:35** 
+**1 Chronicles 4:35**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joel, Jehu son of Joshibiah (son of Seraiah, son of Asiel),
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.34|<< 1 Chronicles 4:34]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.36|1 Chronicles 4:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3100H\|יוֹאֵ֑ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jehu  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3058J\|יֵהוּא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

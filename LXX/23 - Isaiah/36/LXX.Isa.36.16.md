@@ -1,10 +1,7 @@
 **LXX Isaiah 36:16** 
 <small><sub>**LXX:**</sub></small>
 Do not hearken to Hezekiah! Thus says the king of \[the\] Assyrians, If you want to be blessed, come forth to me! and each eat  of his own grapevine and  fig-trees, and shall drink water from out of  his own well; 
-<small><sub>**KJV:**</sub></small>
-Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement] with me [by] a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;
-<small><sub>**BSB:**</sub></small>
-Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me. Then every one of you will eat from his own vine and his own fig tree, and drink water from his own cistern,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.15|<< Isaiah 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.17|Isaiah 36:17 >>]]</td></tr></table>
 
 | Translation | Greek |

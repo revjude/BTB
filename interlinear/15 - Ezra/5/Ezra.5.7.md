@@ -1,4 +1,4 @@
-**Ezra 5:7** 
+**Ezra 5:7**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The report they sent him read as follows: To King Darius: All peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.6|<< Ezra 5:6]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.8|Ezra 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | word the  |**<big>&#8207;[[H6600\|פִּתְגָמָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| pit.ga.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they sent  |**<big>&#8207;[[H7972\|שְׁלַ֣חוּ]]&#8207; </big>**| she.La.chu<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

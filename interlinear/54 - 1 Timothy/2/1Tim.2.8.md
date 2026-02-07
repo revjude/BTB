@@ -1,12 +1,12 @@
-**1 Timothy 2:8
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:8**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 <small><sub>**BSB:**</sub></small>
 Therefore I want the men everywhere to pray, lifting up holy hands, without anger or dissension.
 <small><sub>**Literal:**</sub></small>
 I desire therefore to pray the men in every place lifting up holy hands apart from anger and dissension;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.7|<< 1 Timothy 2:7]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.9|1 Timothy 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I desire |**<big>[[G1014\|Βούλομαι]]</big>**  |Boulomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

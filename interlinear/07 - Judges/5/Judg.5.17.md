@@ -1,4 +1,4 @@
-**Judges 5:17** 
+**Judges 5:17**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gilead remained beyond the Jordan. Dan, why did you linger by the ships? Asher s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.16|<< Judges 5:16]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.18|Judges 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Gilead  |**<big>&#8207;[[H1568G\|גִּלְעָ֗ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] other side of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5676H\|עֵ֤בֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

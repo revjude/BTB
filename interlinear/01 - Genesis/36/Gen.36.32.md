@@ -1,4 +1,4 @@
-**Genesis 36:32** 
+**Genesis 36:32**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bela the son of Beor reigned in Edom: and the name of his city [was] Dinhabah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bela son of Beor reigned in Edom; the name of his city was Dinhabah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.31|<< Genesis 36:31]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.33|Genesis 36:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reigned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֣ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Edom  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H0123G\|אֱד֔וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

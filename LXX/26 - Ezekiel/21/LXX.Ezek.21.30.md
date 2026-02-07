@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:30** 
 <small><sub>**LXX:**</sub></small>
 Return to  your sheath! In  this place which you were engendered in  your own land, I will judge you. 
-<small><sub>**KJV:**</sub></small>
-Shall I cause [it] to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.
-<small><sub>**BSB:**</sub></small>
-Return the sword to its sheath! In the place where you were created, in the land of your origin, I will judge you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.29|<< Ezekiel 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.31|Ezekiel 21:31 >>]]</td></tr></table>
 
 | Translation | Greek |

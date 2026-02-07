@@ -1,4 +1,4 @@
-**Genesis 36:30** 
+**Genesis 36:30**<big><big>[[Gen.36.20 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Duke Dishon, duke Ezer, duke Dishan: these [are] the dukes [that came] of Hori, among their dukes in the land of Seir.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dishon, Ezer, and Dishan. They are the chiefs of the Horites, according to their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.29|<< Genesis 36:29]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.31|Genesis 36:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chief  |**<big>&#8207;[[H0441B\|אַלּ֥וּף]]&#8207; </big>**| 'a.Luf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dishon  |**<big>&#8207;[[H1787G\|דִּשֹׁ֛ן]]&#8207; </big>**| di.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

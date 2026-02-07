@@ -1,10 +1,7 @@
 **LXX Amos 5:6** 
 <small><sub>**LXX:**</sub></small>
 Inquire of the <span class="smallcaps">lord</span>, and live! so that the house of Joseph should not blaze up as fire, and it should devour him, and there shall not be the one extinguishing to the house of Israel. 
-<small><sub>**KJV:**</sub></small>
-Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour [it], and [there be] none to quench [it] in Bethel.
-<small><sub>**BSB:**</sub></small>
-Seek the LORD and live, or He will sweep like fire through the house of Joseph; it will devour everything, with no one at Bethel to extinguish it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.5|<< Amos 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.7|Amos 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses and Aaron, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and unto Aaron, saying,
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses and Aaron,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.32|<< Numbers 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.2|Numbers 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

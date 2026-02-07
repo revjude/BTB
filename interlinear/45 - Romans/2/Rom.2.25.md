@@ -1,12 +1,12 @@
-**Romans 2:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:25**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.
 <small><sub>**BSB:**</sub></small>
 Circumcision has value if you observe the law, but if you break the law, your circumcision has become uncircumcision.
 <small><sub>**Literal:**</sub></small>
 Circumcision indeed for profits if [the] law you shall do; if however a transgressor of law you shall be, the circumcision of you uncircumcision has become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.24|<< Romans 2:24]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.26|Romans 2:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Circumcision |**<big>[[G4061\|Περιτομὴ]]</big>**  |Peritomē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

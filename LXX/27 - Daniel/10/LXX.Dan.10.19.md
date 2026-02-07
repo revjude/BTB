@@ -1,10 +1,7 @@
 **LXX Daniel 10:19** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Fear not, man desired! Peace to you, be manly and strong! And in  his speaking with me, I strengthened, and I said, Speak,  my lord! for you strengthened me. 
-<small><sub>**KJV:**</sub></small>
-And said, O man greatly beloved, fear not: peace [be] unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid, you who are highly precious,” he said. “Peace be with you! Be strong now; be very strong!” As he spoke with me, I was strengthened and said, “Speak, my lord, for you have strengthened me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.18|<< Daniel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.20|Daniel 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

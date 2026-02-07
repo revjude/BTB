@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:39** 
 <small><sub>**LXX:**</sub></small>
 And I will give to you  Israel, and I will mistreat the seed of David on account of these \[things\], except not for all the days. 
-<small><sub>**KJV:**</sub></small>
-And I will for this afflict the seed of David, but not for ever.
-<small><sub>**BSB:**</sub></small>
-Because of this, I will humble David’s descendants—but not forever.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.38|<< 1 Kings 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.40|1 Kings 11:40 >>]]</td></tr></table>
 
 | Translation | Greek |

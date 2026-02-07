@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:40** 
 <small><sub>**LXX:**</sub></small>
 Olive trees will be to you in all  your borders, but with olive oil you will not anoint, for your olive shall flow away. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint [thyself] with the oil; for thine olive shall cast [his fruit].
-<small><sub>**BSB:**</sub></small>
-You will have olive trees throughout your territory but will never anoint yourself with oil, because the olives will drop off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.39|<< Deuteronomy 28:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.41|Deuteronomy 28:41 >>]]</td></tr></table>
 
 | Translation | Greek |

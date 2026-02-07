@@ -1,4 +1,4 @@
-**Jeremiah 8:19** 
+**Jeremiah 8:19**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: [Is] not the LORD in Zion? [is] not her king in her? Why have they provoked me to anger with their graven images, [and] with strange vanities?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to the cry of the daughter of my people from a land far away: “Is the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.18|<< Jeremiah 8:18]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.20|Jeremiah 8:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֞וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 26:17** 
+**1 Samuel 26:17**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul knew David’s voice, and said, [Is] this thy voice, my son David? And David said, [It is] my voice, my lord, O king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Saul recognized David’s voice and asked, “Is that your voice, David my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.16|<< 1 Samuel 26:16]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.18|1 Samuel 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recognized  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5234A\|יַּכֵּ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ker<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁאוּל֙]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

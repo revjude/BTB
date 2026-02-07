@@ -1,5 +1,5 @@
-**Hebrews 12:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:5**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:
 <small><sub>**BSB:**</sub></small>
 And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you.
@@ -10,7 +10,7 @@ and you have forgotten the exhortation that you as to sons addresses: Son of Min
 > $\quad$ referencing: [[LXX.Prov.3.11|Prov 3:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you have forgotten |**<big>[[G1585\|ἐκλέλησθε]]</big>**  |eklelēsthe <small><sup>[[V-RMI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

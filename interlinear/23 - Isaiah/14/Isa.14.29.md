@@ -1,4 +1,4 @@
-**Isaiah 14:29** 
+**Isaiah 14:29**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit [shall be] a fiery flying serpent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not rejoice, all you Philistines, that the rod that struck you is broken. For
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.28|<< Isaiah 14:28]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.30|Isaiah 14:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you rejoice  |**<big>&#8207;[[H8055\|תִּשְׂמְחִ֤י]]&#8207; </big>**| tis.me.Chi<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

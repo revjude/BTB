@@ -1,10 +1,7 @@
 **LXX Psalm 119:2** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[are\] the ones searching out  his testimonies; with \[the\] entire heart they shall seek after him. 
-<small><sub>**KJV:**</sub></small>
-Blessed [are] they that keep his testimonies, [and that] seek him with the whole heart.
-<small><sub>**BSB:**</sub></small>
-Blessed are those who keep His testimonies and seek Him with all their heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.1|<< Psalm 119:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.3|Psalm 119:3 >>]]</td></tr></table>
 
 | Translation | Greek |

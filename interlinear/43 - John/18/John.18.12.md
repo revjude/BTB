@@ -1,12 +1,12 @@
-**John 18:12
-**<small><sub>**KJV:**</sub></small>
+**John 18:12**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the band and the captain and officers of the Jews took Jesus, and bound him,
 <small><sub>**BSB:**</sub></small>
 Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him.
 <small><sub>**Literal:**</sub></small>
 <the> Then the cohort and the commander and the officers of the Jews took hold of <the> Jesus and bound Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.11|<< John 18:11]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.13|John 18:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

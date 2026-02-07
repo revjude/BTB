@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:4** 
 <small><sub>**LXX:**</sub></small>
 And Hanun took the servants of David, and he shaved  their beards, and cut off  their uniforms in  half unto  their hips, and he sent them out. 
-<small><sub>**KJV:**</sub></small>
-Wherefore Hanun took David’s servants, and shaved off the one half of their beards, and cut off their garments in the middle, [even] to their buttocks, and sent them away.
-<small><sub>**BSB:**</sub></small>
-So Hanun took David’s servants, shaved off half of each man’s beard, cut off their garments at the hips, and sent them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.3|<< 2 Samuel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.5|2 Samuel 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

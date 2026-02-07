@@ -1,10 +1,7 @@
 **LXX Numbers 26:25** 
 <small><sub>**LXX:**</sub></small>
 These \[are the\] peoples of Issachar by their numbering -- four and sixty thousand and three hundred. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Issachar, and their registration numbered 64,300.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.24|<< Numbers 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.26|Numbers 26:26 >>]]</td></tr></table>
 
 | Translation | Greek |

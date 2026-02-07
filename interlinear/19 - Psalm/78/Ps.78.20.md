@@ -1,4 +1,4 @@
-**Psalms 78:20** 
+**Psalms 78:20**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When He struck the rock, water gushed out and torrents raged. But can He also gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.19|<< Psalms 78:19]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.21|Psalms 78:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he struck  |**<big>&#8207;[[H5221\|הִכָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.kah-<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

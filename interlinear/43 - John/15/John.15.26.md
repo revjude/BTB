@@ -1,12 +1,12 @@
-**John 15:26
-**<small><sub>**KJV:**</sub></small>
+**John 15:26**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the Comforter is come, whom I will send unto you from the Father, [even] the Spirit of truth, which proceedeth from the Father, he shall testify of me:
 <small><sub>**BSB:**</sub></small>
 When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who proceeds from the Father—He will testify about Me.
 <small><sub>**Literal:**</sub></small>
 When now may come the Helper whom I myself will send to you from the Father, the Spirit <the> of truth who from the Father goes forth, He will bear witness concerning Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.25|<< John 15:25]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.27|John 15:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

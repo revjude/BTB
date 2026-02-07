@@ -1,4 +1,4 @@
-**Isaiah 53:9** 
+**Isaiah 53:9**<big><big>[[Isa.53.9 A Grave Assigned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither [was any] deceit in his mouth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He was assigned a grave with the wicked, and with a rich man in His death, altho
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]] ☩ [[1Pet.2.22|1Pet 2:22]] ☩ [[Rev.14.5|Rev 14:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone assigned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

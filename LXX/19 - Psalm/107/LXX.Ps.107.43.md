@@ -1,10 +1,7 @@
 **LXX Psalm 107:43** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] wise and will guard these \[things\], and perceive the mercies of the <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-Whoso [is] wise, and will observe these [things], even they shall understand the lovingkindness of the LORD.
-<small><sub>**BSB:**</sub></small>
-Let him who is wise pay heed to these things and consider the loving devotion of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.42|<< Psalm 107:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.1|Psalm 108:1 >>]]</td></tr></table>
 
 | Translation | Greek |

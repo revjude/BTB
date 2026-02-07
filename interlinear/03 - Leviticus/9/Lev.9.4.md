@@ -1,4 +1,4 @@
-**Leviticus 9:4** 
+**Leviticus 9:4**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ an ox and a ram for a peace offering to sacrifice before the LORD, and a grain o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.3|<< Leviticus 9:3]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.5|Leviticus 9:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and an ox  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7794\|שׁ֨וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a ram  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0352A\|אַ֜יִל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

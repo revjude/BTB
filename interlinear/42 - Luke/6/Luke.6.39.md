@@ -1,12 +1,12 @@
-**Luke 6:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:39**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?
 <small><sub>**BSB:**</sub></small>
 Jesus also told them a parable: “Can a blind man lead a blind man? Will they not both fall into a pit?
 <small><sub>**Literal:**</sub></small>
 He spoke then also a parable to them; surely not ever is able a blind [man] a blind [man] to lead? Surely both into a pit will fall in?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.38|<< Luke 6:38]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.40|Luke 6:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He spoke |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

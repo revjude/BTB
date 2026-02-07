@@ -1,4 +1,4 @@
-**2 Samuel 3:3** 
+**2 Samuel 3:3**<big><big>[[2Sam.3.1 The House of David Strengthened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ his second was Chileab, by Abigail the widow of Nabal of Carmel; his third was A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.2|<< 2 Samuel 3:2]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.4|2 Samuel 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] second his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4932H\|מִשְׁנֵ֣]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Ne.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kileab  |**<big>&#8207;[[H3609\|כִלְאָ֔ב]]&#8207; </big>**| khil.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

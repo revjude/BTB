@@ -1,4 +1,4 @@
-**1 Kings 20:29** 
+**1 Kings 20:29**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they pitched one over against the other seven days. And [so] it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For seven days the armies camped opposite each other, and on the seventh day the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.28|<< 1 Kings 20:28]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.30|1 Kings 20:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they encamped  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2583\|יַּחֲנ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֦לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

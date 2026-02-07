@@ -1,4 +1,4 @@
-**Psalms 89:33** (89:34)
+**Psalms 89:33**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will not withdraw My loving devotion from him, nor ever betray My faithful
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.32|<< Psalms 89:32]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.34|Psalms 89:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and covenant loyalty my  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H2617A\|חַסְדִּ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> chas.d<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

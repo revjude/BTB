@@ -1,4 +1,4 @@
-**2 Chronicles 8:2** 
+**2 Chronicles 8:2**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon rebuilt the cities Hiram had given him and settled Israelites there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.1|<< 2 Chronicles 8:1]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.3|2 Chronicles 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

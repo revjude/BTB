@@ -1,10 +1,7 @@
 **LXX Psalm 55:11** 
 <small><sub>**LXX:**</sub></small>
 and injustice, and usury and treachery ceased not from out of her squares. 
-<small><sub>**KJV:**</sub></small>
-Wickedness [is] in the midst thereof: deceit and guile depart not from her streets.
-<small><sub>**BSB:**</sub></small>
-Destruction is within; oppression and deceit never leave the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.10|<< Psalm 55:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.12|Psalm 55:12 >>]]</td></tr></table>
 
 | Translation | Greek |

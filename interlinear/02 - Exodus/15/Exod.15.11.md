@@ -1,4 +1,4 @@
-**Exodus 15:11** 
+**Exodus 15:11**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] like unto thee, O LORD, among the gods? who [is] like thee, glorious in holiness, fearful [in] praises, doing wonders?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who among the gods is like You, O LORD? Who is like You—majestic in holiness, 
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like you  |**<big>&#8207;[[H3644G\|כָמֹ֤]]&#8207;&#8207;[[H9031\|כָה]]&#8207; </big>**| kha.Mo.<small><sup>[[HRd]]</sup></small> khah<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

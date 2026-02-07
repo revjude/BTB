@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:28** 
 <small><sub>**LXX:**</sub></small>
 This is the people whom Nebuchadnezzar transferred in \[the\] seventh year, of Jews -- three thousand and twenty-three. 
-<small><sub>**KJV:**</sub></small>
-This [is] the people whom Nebuchadrezzar carried away captive: in the seventh year three thousand Jews and three and twenty:
-<small><sub>**BSB:**</sub></small>
-These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.27|<< Jeremiah 52:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.29|Jeremiah 52:29 >>]]</td></tr></table>
 
 | Translation | Greek |

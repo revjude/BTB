@@ -1,4 +1,4 @@
-**Ezekiel 20:31** 
+**Ezekiel 20:31**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be inquired of by you, O house of Israel? [As] I live, saith the Lord GOD, I will not be inquired of by you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you offer your gifts, sacrificing your sons in the fire, you continue to de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.30|<< Ezekiel 20:30]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.32|Ezekiel 20:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when lift up  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H5375H\|שְׂאֵ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.'Et<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gifts your  |**<big>&#8207;[[H4979\|מַתְּנֹֽתֵי]]&#8207;&#8207;[[H9026\|כֶ֡ם]]&#8207; </big>**| ma.te.no.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

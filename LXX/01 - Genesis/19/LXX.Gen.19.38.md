@@ -1,10 +1,7 @@
 **LXX Genesis 19:38** 
 <small><sub>**LXX:**</sub></small>
 And the younger also bore a son, and she called  his name Ammon, \[he is\] a son of my family. This one \[is\] father of \[the\] Ammonites until  today's day. 
-<small><sub>**KJV:**</sub></small>
-And the younger, she also bare a son, and called his name Benammi: the same [is] the father of the children of Ammon unto this day.
-<small><sub>**BSB:**</sub></small>
-The younger daughter also gave birth to a son, and she named him Ben-ammi. He is the father of the Ammonites of today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.37|<< Genesis 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.1|Genesis 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

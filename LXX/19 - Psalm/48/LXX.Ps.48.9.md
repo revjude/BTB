@@ -1,10 +1,7 @@
 **LXX Psalm 48:9** 
 <small><sub>**LXX:**</sub></small>
 We undertook, O God,  of your mercy in \[the\] midst  of your people. 
-<small><sub>**KJV:**</sub></small>
-We have thought of thy lovingkindness, O God, in the midst of thy temple.
-<small><sub>**BSB:**</sub></small>
-Within Your temple, O God, we contemplate Your loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.8|<< Psalm 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.10|Psalm 48:10 >>]]</td></tr></table>
 
 | Translation | Greek |

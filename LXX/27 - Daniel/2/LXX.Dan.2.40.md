@@ -1,10 +1,7 @@
 **LXX Daniel 2:40** 
 <small><sub>**LXX:**</sub></small>
 And a fourth kingdom which shall be strong as iron, in which manner  iron makes fine and tames all \[things\] -- so it shall be made fine and be tamed. 
-<small><sub>**KJV:**</sub></small>
-And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all [things]: and as iron that breaketh all these, shall it break in pieces and bruise.
-<small><sub>**BSB:**</sub></small>
-Finally, there will be a fourth kingdom as strong as iron; for iron shatters and crushes all things, and like iron that crushes all things, it will shatter and crush all the others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.39|<< Daniel 2:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.41|Daniel 2:41 >>]]</td></tr></table>
 
 | Translation | Greek |

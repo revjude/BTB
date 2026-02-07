@@ -1,4 +1,4 @@
-**1 Chronicles 2:41** 
+**1 Chronicles 2:41**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shallum begat Jekamiah, and Jekamiah begat Elishama.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.40|<< 1 Chronicles 2:40]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.42|1 Chronicles 2:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shallum  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7967I\|שַׁלּוּם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

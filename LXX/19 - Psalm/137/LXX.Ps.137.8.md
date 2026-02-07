@@ -1,10 +1,7 @@
 **LXX Psalm 137:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] daughter of Babylon, the miserable; blessed \[is\] \[the one\] who shall recompense you \[with\] your recompense, which he was recompensing against us. 
-<small><sub>**KJV:**</sub></small>
-O daughter of Babylon, who art to be destroyed; happy [shall he be], that rewardeth thee as thou hast served us.
-<small><sub>**BSB:**</sub></small>
-O Daughter of Babylon, doomed to destruction, blessed is he who repays you as you have done to us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.137.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.7|<< Psalm 137:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.9|Psalm 137:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 137:8** is...

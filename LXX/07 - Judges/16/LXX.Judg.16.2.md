@@ -1,10 +1,7 @@
 **LXX Judges 16:2** 
 <small><sub>**LXX:**</sub></small>
 And it was reported to the Gazites, saying, Samson comes here. And they encircled, and laid in wait for him the entire night at the gate of the city. And they were silent \[the\] entire  night, saying, We should wait until light shows through at dawn, and we should kill him. 
-<small><sub>**KJV:**</sub></small>
-[And it was told] the Gazites, saying, Samson is come hither. And they compassed [him] in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.
-<small><sub>**BSB:**</sub></small>
-When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, “Let us wait until dawn; then we will kill him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.1|<< Judges 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.3|Judges 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

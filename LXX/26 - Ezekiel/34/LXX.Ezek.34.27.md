@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:27** 
 <small><sub>**LXX:**</sub></small>
 And the trees, the ones in the plain will yield  their fruit, and the earth shall yield  her strength. And they shall dwell upon  their land in a hope of peace. And they shall know that I am \[the\] <span class="smallcaps">lord</span> in  my breaking the chain  of their yoke; and I will rescue them from out of \[the\] hand of the ones reducing them to slavery. 
-<small><sub>**KJV:**</sub></small>
-And the tree of the field shall yield her fruit, and the earth shall yield her increase, and they shall be safe in their land, and shall know that I [am] the LORD, when I have broken the bands of their yoke, and delivered them out of the hand of those that served themselves of them.
-<small><sub>**BSB:**</sub></small>
-The trees of the field will give their fruit, and the land will yield its produce; My flock will be secure in their land. Then they will know that I am the LORD, when I have broken the bars of their yoke and delivered them from the hands that enslaved them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.26|<< Ezekiel 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.28|Ezekiel 34:28 >>]]</td></tr></table>
 
 | Translation | Greek |

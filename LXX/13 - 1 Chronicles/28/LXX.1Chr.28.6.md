@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:6** 
 <small><sub>**LXX:**</sub></small>
 And God said to me, Solomon  your son shall build  my house, and  my courtyards; for I chose in him to be to me for a son, and I will be to him for a father. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him [to be] my son, and I will be his father.
-<small><sub>**BSB:**</sub></small>
-And He said to me, ‘Solomon your son is the one who will build My house and My courts, for I have chosen him as My son, and I will be his Father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.5|<< 1 Chronicles 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.7|1 Chronicles 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

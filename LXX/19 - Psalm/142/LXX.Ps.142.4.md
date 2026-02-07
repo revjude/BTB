@@ -1,10 +1,7 @@
 **LXX Psalm 142:4** 
 <small><sub>**LXX:**</sub></small>
 I contemplated to the right, and I looked; for there was not  one recognizing me. Flight perished from me, and there is not  one inquiring after  my soul. 
-<small><sub>**KJV:**</sub></small>
-I looked on [my] right hand, and beheld, but [there was] no man that would know me: refuge failed me; no man cared for my soul.
-<small><sub>**BSB:**</sub></small>
-Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.3|<< Psalm 142:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.5|Psalm 142:5 >>]]</td></tr></table>
 
 | Translation | Greek |

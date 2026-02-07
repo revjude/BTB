@@ -1,12 +1,12 @@
-**Acts 5:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:21**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they heard [that], they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.
 <small><sub>**BSB:**</sub></small>
 At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles.
 <small><sub>**Literal:**</sub></small>
 Having heard now they entered at the dawn into the temple and were teaching. Having come now the high priest and those with him they called together the Council even all the Senate of the sons of Israel and sent to the prison house to bring them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.20|<< Acts 5:20]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.22|Acts 5:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

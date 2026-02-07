@@ -1,4 +1,4 @@
-**Proverbs 3:23** 
+**Proverbs 3:23**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou walk in thy way safely, and thy foot shall not stumble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will go on your way in safety, and your foot will not stumble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.22|<< Proverbs 3:22]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.24|Proverbs 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will walk  |**<big>&#8207;[[H1980I\|תֵּלֵ֣ךְ]]&#8207; </big>**| te.Lekh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

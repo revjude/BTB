@@ -1,4 +1,4 @@
-**Judges 1:13** 
+**Judges 1:13**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Othniel son of Caleb’s younger brother Kenaz captured the city, and Caleb g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.12|<< Judges 1:12]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.14|Judges 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he captured it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּדָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Da<small><sup>[[HVqw3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Othniel  |**<big>&#8207;[[H6274\|עָתְנִיאֵ֣ל]]&#8207; </big>**| 'a.te.ni.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

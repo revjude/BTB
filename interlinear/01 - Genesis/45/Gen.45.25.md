@@ -1,4 +1,4 @@
-**Genesis 45:25** 
+**Genesis 45:25**<big><big>[[Gen.45.25 The Revival of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the brothers went up out of Egypt and came to their father Jacob in the land 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.24|<< Genesis 45:24]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.26|Genesis 45:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרָ֑יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

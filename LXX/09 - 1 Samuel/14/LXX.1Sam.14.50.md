@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:50** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] name  of Saul's wife \[was\] Ahinoam daughter of Ahimaaz. And \[the\] name \[to\] his commander-in-chief \[was\] Abner son of Ner, son of a member of the family of Saul. 
-<small><sub>**KJV:**</sub></small>
-And the name of Saul’s wife [was] Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host [was] Abner, the son of Ner, Saul’s uncle.
-<small><sub>**BSB:**</sub></small>
-His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner, the son of Saul’s uncle Ner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.49|<< 1 Samuel 14:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.51|1 Samuel 14:51 >>]]</td></tr></table>
 
 | Translation | Greek |

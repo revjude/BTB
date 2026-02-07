@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:21** 
 <small><sub>**LXX:**</sub></small>
 You shall not desire the wife  of your neighbor. You shall not desire the house  of your neighbor, nor  his field, nor  his manservant, nor  his maidservant, nor  his ox, nor  his beast of burden, nor any beast of his, nor any \[thing\] as much as  is of your neighbor. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any [thing] that [is] thy neighbour’s.
-<small><sub>**BSB:**</sub></small>
-You shall not covet your neighbor’s wife. You shall not covet your neighbor’s house or field, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.20|<< Deuteronomy 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.22|Deuteronomy 5:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 5:21** is...

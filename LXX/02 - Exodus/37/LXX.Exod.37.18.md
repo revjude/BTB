@@ -1,10 +1,7 @@
 **LXX Exodus 37:18** 
 <small><sub>**LXX:**</sub></small>
 And six branches were going forth sideways -- three branches of the lamp-stand from out of  \[its\] one side, and three branches of the lamp-stand from the second side. 
-<small><sub>**KJV:**</sub></small>
-And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:
-<small><sub>**BSB:**</sub></small>
-Six branches extended from the sides, three on one side and three on the other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.17|<< Exodus 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.19|Exodus 37:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 23:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:19**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] fools and blind: for whether [is] greater, the gift, or the altar that sanctifieth the gift?
 <small><sub>**BSB:**</sub></small>
 You blind men! Which is greater: the gift, or the altar that makes it sacred?
 <small><sub>**Literal:**</sub></small>
 foolish and You blind men! Which for [is] greater, the gift or the altar which is sanctifying the gift?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.18|<< Matthew 23:18]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.20|Matthew 23:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | foolish |**<big>[[G3474\|μωροὶ]]</big>**  |mōroi <small><sup>[[A-VPM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | and [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

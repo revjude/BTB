@@ -1,4 +1,4 @@
-**Jeremiah 50:23** 
+**Jeremiah 50:23**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How the hammer of the whole earth lies broken and shattered! What a horror Babyl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.22|<< Jeremiah 50:22]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.24|Jeremiah 50:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֤יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been cut off  |**<big>&#8207;[[H1438\|נִגְדַּע֙]]&#8207; </big>**| nig.Da'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

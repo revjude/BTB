@@ -1,10 +1,7 @@
 **LXX Esther 2:21** 
 <small><sub>**LXX:**</sub></small>
 And the two eunuchs of the king fretted, and the chiefs of the body guards, for Mordecai advanced. And they sought to kill Artaxerxes the king. 
-<small><sub>**KJV:**</sub></small>
-In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.
-<small><sub>**BSB:**</sub></small>
-In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who guarded the entrance, grew angry and conspired to assassinate King Xerxes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.20|<< Esther 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.22|Esther 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

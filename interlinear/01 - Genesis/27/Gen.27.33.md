@@ -1,4 +1,4 @@
-**Genesis 27:33** 
+**Genesis 27:33**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac trembled very exceedingly, and said, Who? where [is] he that hath taken venison, and brought [it] me, and I have eaten of all before thou camest, and have blessed him? yea, [and] he shall be blessed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Isaac began to tremble violently and said, “Who was it, then, who hunted the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.32|<< Genesis 27:32]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.34|Genesis 27:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he trembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2729\|יֶּחֱרַ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Rad<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֣ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

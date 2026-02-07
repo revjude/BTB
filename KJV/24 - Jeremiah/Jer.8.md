@@ -1,6 +1,6 @@
 (KJV) **Jeremiah 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7|<< Jeremiah 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9|Jeremiah 9 >>]]</td></tr></table>
 
-***Judah’s Sin and Punishment*** ^bsb1712
+<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥃]]</big></big>***Judah’s Sin and Punishment***
 
  $\quad$ <span class="startversemarker">[</span>**[[Jer.8.1|1]]**<span class="endversemarker">]</span> At that time, saith the <span class="smallcaps">Lord</span>, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Jer.8.2|2]]**<span class="endversemarker">]</span> And they shall spread them before the sun, and the moon, and all<small><small>[^3]</small></small> the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be<small><small>[^4]</small></small> for dung upon the face of the earth. <span class="startversemarker">[</span>**[[Jer.8.3|3]]**<span class="endversemarker">]</span> And death<small><small>[^5]</small></small> shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all<small><small>[^6]</small></small> the places whither I have driven them, saith the <span class="smallcaps">Lord</span> of hosts. 
 
@@ -8,11 +8,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Jer.8.4|4]]**<span class="end
 
 $\quad$ <span class="startversemarker">[</span>**[[Jer.8.13|13]]**<span class="endversemarker">]</span> I will surely consume<small><small>[^35]</small></small> them, saith the <span class="smallcaps">Lord</span>: \[there<small><small>[^36]</small></small> shall be\] no grapes on the vine, nor figs on the fig tree, and the leaf<small><small>[^37]</small></small> shall fade; and \[the things that\] I have given them shall pass away from them.
 
-***The People Respond*** ^bsb1713
+<big><big>[[Jer.8.14 The People Respond|⥃]]</big></big>***The People Respond***
 
  <span class="startversemarker">[</span>**[[Jer.8.14|14]]**<span class="endversemarker">]</span> Why do<small><small>[^38]</small></small> we sit still? assemble yourselves, and let us enter<small><small>[^39]</small></small> into the defenced cities, and let us be silent<small><small>[^40]</small></small> there: for the <span class="smallcaps">Lord</span> our God hath put us to silence, and given us water<small><small>[^41]</small></small> of gall<small><small>[^42]</small></small> to drink, because we have sinned against the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Jer.8.15|15]]**<span class="endversemarker">]</span> We looked for peace, but no good \[came\]; \[and\] for a time of health, and behold trouble!<small><small>[^43]</small></small> <span class="startversemarker">[</span>**[[Jer.8.16|16]]**<span class="endversemarker">]</span> The snorting<small><small>[^44]</small></small> of his horses was heard<small><small>[^45]</small></small> from Dan: the whole<small><small>[^46]</small></small> land trembled at the<small><small>[^47]</small></small> sound of the neighing of his strong ones<small><small>[^48]</small></small>; for they are come, and have devoured the land, and all that is in it<small><small>[^49]</small></small>; the city, and those that dwell therein. <span class="startversemarker">[</span>**[[Jer.8.17|17]]**<span class="endversemarker">]</span> For, behold, I will<small><small>[^50]</small></small> send serpents, cockatrices, among you, which<small><small>[^51]</small></small> \[will\] not \[be\] charmed, and they shall bite you, saith the <span class="smallcaps">Lord</span>.
 
-***Jeremiah Weeps for His People*** ^bsb1714
+<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥃]]</big></big>***Jeremiah Weeps for His People***
 
  
 

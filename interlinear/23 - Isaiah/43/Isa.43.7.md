@@ -1,4 +1,4 @@
-**Isaiah 43:7** 
+**Isaiah 43:7**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ everyone called by My name and created for My glory, whom I have indeed formed a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.6|<< Isaiah 43:6]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.8|Isaiah 43:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [one who] is called  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7121H\|נִּקְרָ֣א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nik.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

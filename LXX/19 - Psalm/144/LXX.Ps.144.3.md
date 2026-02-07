@@ -1,10 +1,7 @@
 **LXX Psalm 144:3** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, what is man that you were known to him? or \[the\] son of man that you should consider him? 
-<small><sub>**KJV:**</sub></small>
-LORD, what [is] man, that thou takest knowledge of him! [or] the son of man, that thou makest account of him!
-<small><sub>**BSB:**</sub></small>
-O LORD, what is man, that You regard him, the son of man that You think of him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.2|<< Psalm 144:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.4|Psalm 144:4 >>]]</td></tr></table>
 
 | Translation | Greek |

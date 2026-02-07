@@ -1,12 +1,12 @@
-**Acts 8:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:38**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.
 <small><sub>**BSB:**</sub></small>
 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him.
 <small><sub>**Literal:**</sub></small>
 And he commanded to stop the chariot, And they went down both to the water, <the> both Philip and the eunuch, and he baptized him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.37|<< Acts 8:37]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.39|Acts 8:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he commanded |**<big>[[G2753\|ἐκέλευσεν]]</big>**  |ekeleusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

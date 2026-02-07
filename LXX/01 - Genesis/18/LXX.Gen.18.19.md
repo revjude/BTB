@@ -1,10 +1,7 @@
 **LXX Genesis 18:19** 
 <small><sub>**LXX:**</sub></small>
 For I had known that he will order  his sons, and  his house after him; and they will guard the ways of \[the\] <span class="smallcaps">lord</span>,  to do righteousness and judgment; that  \[the\] <span class="smallcaps">lord</span> may bring upon Abraham all as much as he said to him. 
-<small><sub>**KJV:**</sub></small>
-For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.
-<small><sub>**BSB:**</sub></small>
-For I have chosen him, so that he will command his children and his household after him to keep the way of the LORD by doing what is right and just, in order that the LORD may bring upon Abraham what He has promised.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.18|<< Genesis 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.20|Genesis 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

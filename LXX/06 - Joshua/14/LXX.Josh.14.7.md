@@ -1,10 +1,7 @@
 **LXX Joshua 14:7** 
 <small><sub>**LXX:**</sub></small>
 For I was forty years \[old\] when Moses the servant of God sent me from Kadesh Barnea to spy out the land. And I answered him a word according to  his mind. 
-<small><sub>**KJV:**</sub></small>
-Forty years old [was] I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as [it was] in mine heart.
-<small><sub>**BSB:**</sub></small>
-I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back to him an honest report.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.6|<< Joshua 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.8|Joshua 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

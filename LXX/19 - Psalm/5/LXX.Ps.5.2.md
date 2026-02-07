@@ -1,10 +1,7 @@
 **LXX Psalm 5:2** 
 <small><sub>**LXX:**</sub></small>
 Take heed to the voice  of my supplication, O my king and  my God! for to you I shall pray, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.
-<small><sub>**BSB:**</sub></small>
-Attend to the sound of my cry, my King and my God, for to You I pray.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.1|<< Psalm 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.3|Psalm 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 16:13** 
 <small><sub>**LXX:**</sub></small>
 And she called \[the\] name of \[the\] <span class="smallcaps">lord</span>, the \[one\] speaking to her, You, the God, the \[one\] looking upon me; for she said, For even face to face I beheld \[the\] one appearing to me. 
-<small><sub>**KJV:**</sub></small>
-And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?
-<small><sub>**BSB:**</sub></small>
-So Hagar gave this name to the LORD who had spoken to her: “You are the God who sees me,” for she said, “Here I have seen the One who sees me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.12|<< Genesis 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.14|Genesis 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

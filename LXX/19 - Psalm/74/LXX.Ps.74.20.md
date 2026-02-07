@@ -1,10 +1,7 @@
 **LXX Psalm 74:20** 
 <small><sub>**LXX:**</sub></small>
 Look unto  your covenant! for the ones being darkened filled the earth with houses of lawless deeds. 
-<small><sub>**KJV:**</sub></small>
-Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.
-<small><sub>**BSB:**</sub></small>
-Consider Your covenant, for haunts of violence fill the dark places of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.19|<< Psalm 74:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.21|Psalm 74:21 >>]]</td></tr></table>
 
 | Translation | Greek |

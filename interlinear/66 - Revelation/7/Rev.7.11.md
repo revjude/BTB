@@ -1,12 +1,12 @@
-**Revelation 7:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:11**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the angels stood round about the throne, and [about] the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
 <small><sub>**BSB:**</sub></small>
 And all the angels stood around the throne and around the elders and the four living creatures. And they fell facedown before the throne and worshiped God,
 <small><sub>**Literal:**</sub></small>
 And all the angels had stood around the throne and the elders and the four living creatures and they fell before the throne upon the faces of them and worshiped <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.10|<< Revelation 7:10]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.12|Revelation 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

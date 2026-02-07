@@ -1,4 +1,4 @@
-**Nehemiah 6:7** 
+**Nehemiah 6:7**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou hast also appointed prophets to preach of thee at Jerusalem, saying, [There is] a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and you have even appointed prophets in Jerusalem to proclaim on your behalf: �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.6|<< Nehemiah 6:6]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.8|Nehemiah 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophets  |**<big>&#8207;[[H5030\|נְבִיאִ֡ים]]&#8207; </big>**| ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

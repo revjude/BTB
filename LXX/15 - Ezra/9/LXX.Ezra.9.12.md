@@ -1,10 +1,7 @@
 **LXX Ezra 9:12** 
 <small><sub>**LXX:**</sub></small>
 And now,  do not give your daughters \[to\] their sons, and of  their daughters do not take \[to\] your sons, and do not require their peace and their good \[will\] into \[the\] eon! for you should grow in strength, and should eat the good of the land, and allot it to your sons unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave [it] for an inheritance to your children for ever.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, do not give your daughters in marriage to their sons or take their daughters for your sons. Never seek their peace or prosperity, so that you may be strong and may eat the good things of the land, leaving it as an inheritance to your sons forever.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.11|<< Ezra 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.13|Ezra 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

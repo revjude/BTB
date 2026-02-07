@@ -1,4 +1,4 @@
-**Isaiah 36:12** 
+**Isaiah 36:12**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Rabshakeh said, Hath my master sent me to thy master and to thee to speak these words? [hath he] not [sent me] to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the Rabshakeh replied, “Has my master sent me to speak these words only to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.11|<< Isaiah 36:11]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.13|Isaiah 36:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chief  |**<big>&#8207;[[H7262\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

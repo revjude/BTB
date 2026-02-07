@@ -1,4 +1,4 @@
-**Psalms 119:159** 
+**Psalms 119:159**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consider how I love Your precepts, O LORD; give me life according to Your loving
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.159|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.158|<< Psalms 119:158]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.160|Psalms 119:160 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200H\|רְ֭אֵה]]&#8207; </big>**| Re.'eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

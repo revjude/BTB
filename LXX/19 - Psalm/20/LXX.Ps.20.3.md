@@ -1,10 +1,7 @@
 **LXX Psalm 20:3** 
 <small><sub>**LXX:**</sub></small>
 every sacrifice of yours be remembered, and  let him fatten your whole burnt-offering! 
-<small><sub>**KJV:**</sub></small>
-Remember all thy offerings, and accept thy burnt sacrifice; Selah.
-<small><sub>**BSB:**</sub></small>
-May He remember all your gifts and look favorably on your burnt offerings. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.2|<< Psalm 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.4|Psalm 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

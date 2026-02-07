@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard the watch of \[the\] <span class="smallcaps">lord</span>  your God,  to go in  his ways, to guard  his commandments, and the ordinances, and the judgments, and  his testimonies, as written in the law of Moses; that you should perceive all what you shall do, and everywhere of which ever you should have paid attention there. 
-<small><sub>**KJV:**</sub></small>
-And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:
-<small><sub>**BSB:**</sub></small>
-And keep the charge of the LORD your God to walk in His ways and to keep His statutes, commandments, ordinances, and decrees, as written in the Law of Moses, so that you may prosper in all you do and wherever you turn,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.2|<< 1 Kings 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.4|1 Kings 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

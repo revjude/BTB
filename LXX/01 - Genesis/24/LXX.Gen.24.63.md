@@ -1,10 +1,7 @@
 **LXX Genesis 24:63** 
 <small><sub>**LXX:**</sub></small>
 And Isaac came forth to meditate in the plain towards afternoon. And looking up with  his eyes, he saw camels coming. 
-<small><sub>**KJV:**</sub></small>
-And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels [were] coming.
-<small><sub>**BSB:**</sub></small>
-Early in the evening, Isaac went out to the field to meditate, and looking up, he saw the camels approaching.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.62|<< Genesis 24:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.64|Genesis 24:64 >>]]</td></tr></table>
 
 | Translation | Greek |

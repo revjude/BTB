@@ -1,10 +1,7 @@
 **LXX Joshua 22:11** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel heard, saying, Behold, they built (the sons of Reuben, and the sons of Gad, and the half tribe of Manasseh) a shrine upon \[the\] border of \[the\] land of Canaan, at  Gilead  of Jordan, on the other side of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel heard say, Behold, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites received the report: “Behold, the Reubenites, the Gadites, and the half-tribe of Manasseh have built an altar on the border of the land of Canaan, at Geliloth near the Jordan on the Israelite side.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.10|<< Joshua 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.12|Joshua 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

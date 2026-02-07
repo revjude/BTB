@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΤΗΘ</p>
 
 Better were the ones slain by \[the\] broadsword than the ones slain by hunger; they went being pierced by \[want\] of produce of \[the\] fields. 
-<small><sub>**KJV:**</sub></small>
-[They that be] slain with the sword are better than [they that be] slain with hunger: for these pine away, stricken through for [want of] the fruits of the field.
-<small><sub>**BSB:**</sub></small>
-Those slain by the sword are better off than those who die of hunger, who waste away, pierced with pain because the fields lack produce.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

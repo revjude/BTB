@@ -1,4 +1,4 @@
-**Proverbs 31:12** 
+**Proverbs 31:12**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She will do him good and not evil all the days of her life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She brings him good and not harm all the days of her life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.11|<< Proverbs 31:11]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.13|Proverbs 31:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she feeds him  |**<big>&#8207;[[H1580\|גְּמָלַ֣תְ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ge.ma.Lat.<small><sup>[[HVqp3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896B\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

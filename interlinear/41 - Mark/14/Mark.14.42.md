@@ -1,12 +1,12 @@
-**Mark 14:42
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:42**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Rise up, let us go; lo, he that betrayeth me is at hand.
 <small><sub>**BSB:**</sub></small>
 Rise, let us go. See, My betrayer is approaching!”
 <small><sub>**Literal:**</sub></small>
 do rise, let us go; behold the [one] betraying Me has drawn near!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.41|<< Mark 14:41]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.43|Mark 14:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do rise, |**<big>[[G1453\|ἐγείρεσθε,]]</big>**  |egeiresthe <small><sup>[[V-PEM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | let us go; |**<big>[[G0071\|ἄγωμεν·]]</big>**  |agōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

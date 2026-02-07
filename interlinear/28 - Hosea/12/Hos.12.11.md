@@ -1,4 +1,4 @@
-**Hosea 12:11** (12:12)
+**Hosea 12:11**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is there] iniquity [in] Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars [are] as heaps in the furrows of the fields.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there iniquity in Gilead? They will surely come to nothing. Do they sacrifice
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.10|<< Hosea 12:10]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.12|Hosea 12:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>?  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] Gilead  |**<big>&#8207;[[H1568G\|גִּלְעָ֥ד]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

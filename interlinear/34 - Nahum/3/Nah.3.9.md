@@ -1,4 +1,4 @@
-**Nahum 3:9** 
+**Nahum 3:9**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ethiopia and Egypt [were] her strength, and [it was] infinite; Put and Lubim were thy helpers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cush and Egypt were her boundless strength; Put and Libya were her allies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.8|<< Nahum 3:8]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.10|Nahum 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Cush  |**<big>&#8207;[[H3568A\|כּ֥וּשׁ]]&#8207; </big>**| kush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] strength its  |**<big>&#8207;[[H6109\|עָצְמָ֛]]&#8207;&#8207;[[H9024\|ה]]&#8207; </big>**| 'a.tze.Ma<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

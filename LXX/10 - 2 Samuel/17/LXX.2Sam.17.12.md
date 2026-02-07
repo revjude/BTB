@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:12** 
 <small><sub>**LXX:**</sub></small>
 And we shall come upon him in one of the places, which ever we should find him there. And we shall camp upon him as falls \[the\] dew upon the ground. And we shall not leave behind among to him, and  of his men  with him, even indeed one. 
-<small><sub>**KJV:**</sub></small>
-So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground: and of him and of all the men that [are] with him there shall not be left so much as one.
-<small><sub>**BSB:**</sub></small>
-Then we will attack David wherever we find him, and we will descend on him like dew on the ground. And of all the men with him, not even one will remain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.11|<< 2 Samuel 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.13|2 Samuel 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

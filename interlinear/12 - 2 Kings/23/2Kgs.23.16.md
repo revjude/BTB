@@ -1,4 +1,4 @@
-**2 Kings 23:16** 
+**2 Kings 23:16**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Josiah turned himself, he spied the sepulchres that [were] there in the mount, and sent, and took the bones out of the sepulchres, and burned [them] upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as Josiah turned, he saw the tombs there on the hillside, and he sent someon
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.15|<< 2 Kings 23:15]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.17|2 Kings 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּ֣פֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.fen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּ֗הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

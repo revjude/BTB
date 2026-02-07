@@ -1,10 +1,7 @@
 **LXX Daniel 11:17** 
 <small><sub>**LXX:**</sub></small>
 And he shall arrange  his face to enter in \[the\] strength of all  his kingdom, and all upright with him; \[thus\] he shall do. And \[the\] daughter  of women he will give to him  to corrupt her. But in no way shall she remain, and be not to him. 
-<small><sub>**KJV:**</sub></small>
-He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand [on his side], neither be for him.
-<small><sub>**BSB:**</sub></small>
-He will resolve to come with the strength of his whole kingdom, and will reach an agreement with the king of the South. He will give him a daughter in marriage in order to overthrow the kingdom, but his plan will not succeed or help him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.16|<< Daniel 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.18|Daniel 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

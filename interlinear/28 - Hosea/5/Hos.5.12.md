@@ -1,4 +1,4 @@
-**Hosea 5:12** 
+**Hosea 5:12**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore [will] I [be] unto Ephraim as a moth, and to the house of Judah as rottenness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I am like a moth to Ephraim, and like decay to the house of Judah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.11|<< Hosea 5:11]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.13|Hosea 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] like \<the> moth  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H6211A\|עָ֖שׁ]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'Ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

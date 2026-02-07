@@ -1,4 +1,4 @@
-**Zephaniah 1:7** 
+**Zephaniah 1:7**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hold thy peace at the presence of the Lord GOD: for the day of the LORD [is] at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be silent in the presence of the Lord GOD, for the Day of the LORD is near. Inde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.6|<< Zephaniah 1:6]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.8|Zephaniah 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hush!  |**<big>&#8207;[[H2013\|הַ֕ס]]&#8207; </big>**| has<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵ֖י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

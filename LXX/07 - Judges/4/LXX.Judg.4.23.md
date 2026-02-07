@@ -1,10 +1,7 @@
 **LXX Judges 4:23** 
 <small><sub>**LXX:**</sub></small>
 And God abased in  that day  Jabin king of Canaan in front of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-So God subdued on that day Jabin the king of Canaan before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-On that day God subdued Jabin king of Canaan before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.22|<< Judges 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.24|Judges 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

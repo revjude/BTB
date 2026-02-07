@@ -1,10 +1,7 @@
 **LXX Amos 6:2** 
 <small><sub>**LXX:**</sub></small>
 Pass over all and behold, and go through from there into Hamath Rabba! And go down to Gath \[of the\] Philistines! Are \[you\] the most excellent out of these kingdoms? Are your borders greater than their borders? 
-<small><sub>**KJV:**</sub></small>
-Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: [be they] better than these kingdoms? or their border greater than your border?
-<small><sub>**BSB:**</sub></small>
-Cross over to Calneh and see; go from there to the great Hamath; then go down to Gath of the Philistines. Are you better than these kingdoms? Is their territory larger than yours?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.1|<< Amos 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.3|Amos 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

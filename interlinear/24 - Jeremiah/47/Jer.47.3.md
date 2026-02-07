@@ -1,4 +1,4 @@
-**Jeremiah 47:3** 
+**Jeremiah 47:3**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the noise of the stamping of the hoofs of his strong [horses], at the rushing of his chariots, [and at] the rumbling of his wheels, the fathers shall not look back to [their] children for feebleness of hands;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ at the sound of the galloping hooves of stallions, the rumbling of chariots, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֗וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] stamping of  |**<big>&#8207;[[H8161\|שַֽׁעֲטַת֙]]&#8207; </big>**| sha.'a.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

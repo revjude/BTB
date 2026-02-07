@@ -1,10 +1,7 @@
 **LXX Psalm 49:11** 
 <small><sub>**LXX:**</sub></small>
 And  their tombs \[are\] their houses into the eon, \[and\] their tents unto generation and generation. They call  lands after their names. 
-<small><sub>**KJV:**</sub></small>
-Their inward thought [is, that] their houses [shall continue] for ever, [and] their dwelling places to all generations; they call [their] lands after their own names.
-<small><sub>**BSB:**</sub></small>
-Their graves are their eternal homes—their dwellings for endless generations—even though their lands were their namesakes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.10|<< Psalm 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.12|Psalm 49:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΜΕΧ</p>
 
 The <span class="smallcaps">lord</span> lifted away all my strong men from \[the\] midst of me. He called upon me a time  to break my choice men. \[The\] <span class="smallcaps">lord</span> trod \[the\] wine vat \[for the\] virgin daughter of Judah. 
-<small><sub>**KJV:**</sub></small>
-The Lord hath trodden under foot all my mighty [men] in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, [as] in a winepress.
-<small><sub>**BSB:**</sub></small>
-The Lord has rejected all the mighty men in my midst; He has summoned an army against me to crush my young warriors. Like grapes in a winepress, the Lord has trampled the Virgin Daughter of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.14|<< Lamentations 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.16|Lamentations 1:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Lamentations 1:15** is...

@@ -1,4 +1,4 @@
-**2 Chronicles 24:13** 
+**2 Chronicles 24:13**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the workmen wrought, and the work was perfected by them, and they set the house of God in his state, and strengthened it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the workmen labored, and in their hands the repair work progressed. They rest
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.12|<< 2 Chronicles 24:12]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.14|2 Chronicles 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they worked  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6213A\|יַּעֲשׂוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] doers of  |**<big>&#8207;[[H6213A\|עֹשֵׂ֣י]]&#8207; </big>**| 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

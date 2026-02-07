@@ -1,10 +1,7 @@
 **LXX Job 37:10** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] breath of \[the\] strong one he appoints ice; and he steers the water where ever he wants. 
-<small><sub>**KJV:**</sub></small>
-By the breath of God frost is given: and the breadth of the waters is straitened.
-<small><sub>**BSB:**</sub></small>
-By the breath of God the ice is formed and the watery expanses are frozen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.9|<< Job 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.11|Job 37:11 >>]]</td></tr></table>
 
 | Translation | Greek |

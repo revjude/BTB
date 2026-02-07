@@ -1,12 +1,12 @@
-**John 19:23
-**<small><sub>**KJV:**</sub></small>
+**John 19:23**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also [his] coat: now the coat was without seam, woven from the top throughout.
 <small><sub>**BSB:**</sub></small>
 When the soldiers had crucified Jesus, they divided His garments into four parts, one for each soldier, with the tunic remaining. It was seamless, woven in one piece from top to bottom.
 <small><sub>**Literal:**</sub></small>
 The then soldiers, when they crucified <the> Jesus, took the garments of Him and made four parts, to each soldier a part, and also the tunic. Was now the tunic seamless, from the top woven throughout all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.22|<< John 19:22]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.24|John 19:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

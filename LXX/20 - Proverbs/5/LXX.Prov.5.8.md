@@ -1,10 +1,7 @@
 **LXX Proverbs 5:8** 
 <small><sub>**LXX:**</sub></small>
 Make your way far from her! You should not approach to doors of her houses; 
-<small><sub>**KJV:**</sub></small>
-Remove thy way far from her, and come not nigh the door of her house:
-<small><sub>**BSB:**</sub></small>
-Keep your path far from her; do not go near the door of her house,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.7|<< Proverbs 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.9|Proverbs 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

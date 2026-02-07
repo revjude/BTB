@@ -1,4 +1,4 @@
-**Isaiah 45:7** 
+**Isaiah 45:7**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I form the light, and create darkness: I make peace, and create evil: I the LORD do all these [things].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I form the light and create the darkness; I bring prosperity and create calamity
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.6|<< Isaiah 45:6]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.8|Isaiah 45:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] forms  |**<big>&#8207;[[H3335G\|יוֹצֵ֥ר]]&#8207; </big>**| yo.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | light  |**<big>&#8207;[[H0216\|אוֹר֙]]&#8207; </big>**| 'Or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 12:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:41**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.
 <small><sub>**BSB:**</sub></small>
 As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts.
 <small><sub>**Literal:**</sub></small>
 And having sat down <the> Jesus opposite the treasury He was watching how the crowd cast money into the treasury. and many rich were casting [in] much;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.40|<< Mark 12:40]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.42|Mark 12:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having sat down |**<big>[[G2523\|καθίσας]]</big>**  |kathisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

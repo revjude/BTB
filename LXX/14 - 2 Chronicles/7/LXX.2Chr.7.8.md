@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:8** 
 <small><sub>**LXX:**</sub></small>
 And Solomon observed the holiday at  that time for seven days, and all Israel with him; an exceedingly great assembly, from \[the\] entrance of Hamath, and unto \[the\] rushing stream of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt.
-<small><sub>**BSB:**</sub></small>
-So at that time Solomon and all Israel with him—a very great assembly of people from Lebo-hamath to the Brook of Egypt—kept the feast for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.7|<< 2 Chronicles 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.9|2 Chronicles 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

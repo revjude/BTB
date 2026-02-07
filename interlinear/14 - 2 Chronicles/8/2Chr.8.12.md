@@ -1,4 +1,4 @@
-**2 Chronicles 8:12** 
+**2 Chronicles 8:12**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Solomon offered burnt offerings to the LORD on the altar of the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.11|<< 2 Chronicles 8:11]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.13|2 Chronicles 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he offered up  |**<big>&#8207;[[H5927I\|הֶעֱלָ֧ה]]&#8207; </big>**| he.'e.Lah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

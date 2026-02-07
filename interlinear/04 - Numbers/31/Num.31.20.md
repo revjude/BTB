@@ -1,4 +1,4 @@
-**Numbers 31:20** 
+**Numbers 31:20**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And purify all [your] raiment, and all that is made of skins, and all work of goats’ [hair], and all things made of wood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And purify every garment and leather good, everything made of goat’s hair, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.19|<< Numbers 31:19]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.21|Numbers 31:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | garment  |**<big>&#8207;[[H0899B\|בֶּ֧גֶד]]&#8207; </big>**| Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

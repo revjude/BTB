@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:21** 
 <small><sub>**LXX:**</sub></small>
 And Jozachar son of Shimeath, and Jehozabad son of Shomer,  his servants struck him, and he died. And they entombed him with  his fathers in \[the\] city of David. And Amaziah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-His servants Jozabad son of Shimeath and Jehozabad son of Shomer struck him down, and he died. And they buried him with his fathers in the City of David, and his son Amaziah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.20|<< 2 Kings 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.1|2 Kings 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

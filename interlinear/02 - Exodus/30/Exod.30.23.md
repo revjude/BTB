@@ -1,4 +1,4 @@
-**Exodus 30:23** 
+**Exodus 30:23**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou also unto thee principal spices, of pure myrrh five hundred [shekels], and of sweet cinnamon half so much, [even] two hundred and fifty [shekels], and of sweet calamus two hundred and fifty [shekels],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take thou also unto thee principal spices, of pure myrrh five hundred [shekels],
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.22|<< Exodus 30:22]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.24|Exodus 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take  |**<big>&#8207;[[H3947G\|קַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

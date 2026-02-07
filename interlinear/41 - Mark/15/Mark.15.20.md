@@ -1,12 +1,12 @@
-**Mark 15:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:20**<big><big>[[Mark.15.16 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.
 <small><sub>**BSB:**</sub></small>
 After they had mocked Him, they removed the purple robe and put His own clothes back on Him. Then they led Him out to crucify Him.
 <small><sub>**Literal:**</sub></small>
 And when they had mocked Him, they took off him the purple and put on Him the garments His. And they are leading out him that they may crucify Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.19|<< Mark 15:19]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.21|Mark 15:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

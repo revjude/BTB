@@ -1,12 +1,12 @@
-**Acts 9:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:27**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Barnabas took him, and brought [him] to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
 <small><sub>**BSB:**</sub></small>
 Then Barnabas brought him to the apostles and described how Saul had seen the Lord, who had spoken to him on the road to Damascus, and how Saul had spoken boldly in that city in the name of Jesus.
 <small><sub>**Literal:**</sub></small>
 Barnabas however having taken him he brought [him] to the apostles and he related to them how on the road he had seen the Lord and that He had spoken to him and how in Damascus he had spoken boldly in the name <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.26|<< Acts 9:26]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.28|Acts 9:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Barnabas |**<big>[[G0921G\|Βαρναβᾶς]]</big>**  |Barnabas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

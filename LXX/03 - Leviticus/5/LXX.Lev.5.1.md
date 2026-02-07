@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if a soul should sin, and should hear a voice of conjuring, and witness this, or see, or be fully conscious \[of it\], if he should not report \[it\], he takes \[responsibility\]  for his sin. 
-<small><sub>**KJV:**</sub></small>
-And if a soul sin, and hear the voice of swearing, and [is] a witness, whether he hath seen or known [of it]; if he do not utter [it], then he shall bear his iniquity.
-<small><sub>**BSB:**</sub></small>
-“If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.35|<< Leviticus 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.2|Leviticus 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 5:4** 
+**Leviticus 5:4**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if a soul swear, pronouncing with [his] lips to do evil, or to do good, whatsoever [it be] that a man shall pronounce with an oath, and it be hid from him; when he knoweth [of it], then he shall be guilty in one of these.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if someone swears thoughtlessly with his lips to do anything good or evil—i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.3|<< Leviticus 5:3]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.5|Leviticus 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone  |**<big>&#8207;[[H5315J\|נֶ֡פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

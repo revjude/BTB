@@ -1,4 +1,4 @@
-**Numbers 32:8** 
+**Numbers 32:8**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did your fathers, when I sent them from Kadeshbarnea to see the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what your fathers did when I sent them from Kadesh-barnea to inspect the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.7|<< Numbers 32:7]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.9|Numbers 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they did  |**<big>&#8207;[[H6213A\|עָשׂ֖וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

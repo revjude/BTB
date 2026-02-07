@@ -1,10 +1,7 @@
 **LXX Psalm 5:11** 
 <small><sub>**LXX:**</sub></small>
 And all hoping upon you be glad. They shall exult into \[the\] eon, and you shall encamp with them; and the ones loving your name shall boast in you. 
-<small><sub>**KJV:**</sub></small>
-But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.
-<small><sub>**BSB:**</sub></small>
-But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.10|<< Psalm 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.12|Psalm 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Psalms 39:1** (39:2)
+**Psalms 39:1**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, [even] to Jeduthun, A Psalm of David. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
+I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.0|<< Psalms 39:0]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.2|Psalms 39:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֗רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will guard  |**<big>&#8207;[[H8104H\|אֶֽשְׁמְרָ֣ה]]&#8207; </big>**| 'esh.me.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

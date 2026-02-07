@@ -1,12 +1,12 @@
-**Acts 23:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:34**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the governor had read [the letter], he asked of what province he was. And when he understood that [he was] of Cilicia;
 <small><sub>**BSB:**</sub></small>
 The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia,
 <small><sub>**Literal:**</sub></small>
 Having read [it] then <the> governor and having asked from what province he is and having learned that from Cilicia [he is],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.33|<< Acts 23:33]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.35|Acts 23:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having read [it] |**<big>[[G0314\|ἀναγνοὺς]]</big>**  |anagnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

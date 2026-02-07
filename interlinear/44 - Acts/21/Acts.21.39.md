@@ -1,12 +1,12 @@
-**Acts 21:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:39**<big><big>[[Acts.21.37 Paul Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Paul said, I am a man [which am] a Jew of Tarsus, [a city] in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.
 <small><sub>**BSB:**</sub></small>
 But Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of no ordinary city. Now I beg you to allow me to speak to the people.”
 <small><sub>**Literal:**</sub></small>
 Said however <the> Paul; I myself a man indeed am a Jew of Tarsus <the> of Cilicia not [of an] insignificant city a citizen, I implore however you; do allow me to speak to the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.38|<< Acts 21:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.40|Acts 21:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

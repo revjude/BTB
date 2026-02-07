@@ -1,5 +1,5 @@
-**Romans 9:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:20**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed [it], Why hast thou made me thus?
 <small><sub>**BSB:**</sub></small>
 But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”
@@ -11,7 +11,7 @@ O man, but rather, you yourself who are who is answering against <the> to God? N
 > $\quad$ alluding to: [[LXX.Isa.45.9|Isa 45:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O |**<big>[[G5599\|ὦ]]</big>**  |ō <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | man, |**<big>[[G0444\|ἄνθρωπε,]]</big>**  |anthrōpe <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

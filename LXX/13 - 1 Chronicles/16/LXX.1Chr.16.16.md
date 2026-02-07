@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:16** 
 <small><sub>**LXX:**</sub></small>
 which he ordained  with Abraham, and  his oath  to Isaac. 
-<small><sub>**KJV:**</sub></small>
-[Even of the covenant] which he made with Abraham, and of his oath unto Isaac;
-<small><sub>**BSB:**</sub></small>
-the covenant He made with Abraham, and the oath He swore to Isaac.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.15|<< 1 Chronicles 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.17|1 Chronicles 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

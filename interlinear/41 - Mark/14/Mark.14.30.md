@@ -1,12 +1,12 @@
-**Mark 14:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:30**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus saith unto him, Verily I say unto thee, That this day, [even] in this night, before the cock crow twice, thou shalt deny me thrice.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” Jesus replied, “this very night, before the rooster crows twice, you will deny Me three times.”
 <small><sub>**Literal:**</sub></small>
 And says to him <the> Jesus; Amen I say to you that yourself now this in <the> night before than twice [the] rooster crowing three times Me you will deny.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.29|<< Mark 14:29]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.31|Mark 14:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

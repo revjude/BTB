@@ -1,10 +1,7 @@
 **LXX Daniel 2:45** 
 <small><sub>**LXX:**</sub></small>
 In which manner you beheld that from a mountain a stone was trimmed without hands, and it thinned the potsherd, the iron, the brass, the silver, the gold; the great God made known to the king what must take place after these \[things\]. And the dream \[is\] true, and the interpretation of it \[is\] trustworthy. 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream [is] certain, and the interpretation thereof sure.
-<small><sub>**BSB:**</sub></small>
-And just as you saw a stone being cut out of the mountain without human hands, and it shattered the iron, bronze, clay, silver, and gold, so the great God has told the king what will happen in the future. The dream is true, and its interpretation is trustworthy.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.44|<< Daniel 2:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.46|Daniel 2:46 >>]]</td></tr></table>
 
 | Translation | Greek |

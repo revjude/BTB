@@ -1,4 +1,4 @@
-**Ezekiel 35:8** 
+**Ezekiel 35:8**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fill his mountains with his slain [men]: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will fill its mountains with the slain; those killed by the sword will fall on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.7|<< Ezekiel 35:7]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.9|Ezekiel 35:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will fill  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מִלֵּאתִ֥י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mi.le.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

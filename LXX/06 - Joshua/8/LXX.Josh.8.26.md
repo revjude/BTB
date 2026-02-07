@@ -1,10 +1,7 @@
 **LXX Joshua 8:26** 
 <small><sub>**LXX:**</sub></small>
 And Joshua returned not his hand which he stretched out by the javelin until he devoted to consumption the whole of the ones dwelling Ai. 
-<small><sub>**KJV:**</sub></small>
-For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai.
-<small><sub>**BSB:**</sub></small>
-Joshua did not draw back the hand that held his battle lance until he had devoted to destruction all who lived in Ai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.25|<< Joshua 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.27|Joshua 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 14:2** 
+**Isaiah 14:2**<big><big>[[Isa.14.1 Restoration for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the LORD for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The nations will escort Israel and bring it to its homeland. Then the house of I
 > $\quad$ referenced by: [[Rev.13.10|Rev 13:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3947G\|לְקָח֣וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> le.ka.Chu<small><sup>[[HVqq3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּים֮]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

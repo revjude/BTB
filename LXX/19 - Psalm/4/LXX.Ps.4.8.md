@@ -1,10 +1,7 @@
 **LXX Psalm 4:8** 
 <small><sub>**LXX:**</sub></small>
 In peace I will go to bed at the same \[place\] and sleep. For you, O <span class="smallcaps">lord</span>, alone settled me with hope. 
-<small><sub>**KJV:**</sub></small>
-I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.
-<small><sub>**BSB:**</sub></small>
-I will lie down and sleep in peace, for You alone, O LORD, make me dwell in safety.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.7|<< Psalm 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.1|Psalm 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

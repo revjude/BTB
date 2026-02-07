@@ -1,10 +1,7 @@
 **LXX Judges 14:3** 
 <small><sub>**LXX:**</sub></small>
 And his father said to him, and  his mother, Is it that there is not a woman of the daughters of your brethren and among all my people, that you should go to take a wife from the uncircumcised Philistines? And Samson said to  his father, Take this one for me! for she pleases in my eyes. 
-<small><sub>**KJV:**</sub></small>
-Then his father and his mother said unto him, [Is there] never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
-<small><sub>**BSB:**</sub></small>
-But his father and mother replied, “Can’t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?” But Samson told his father, “Get her for me, for she is pleasing to my eyes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.2|<< Judges 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.4|Judges 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

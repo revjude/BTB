@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:15** 
 <small><sub>**LXX:**</sub></small>
 Accursed \[is\] \[the\] man who shall make a carving and a molten \[image\], an abomination \[to the\] <span class="smallcaps">lord</span>, a work of \[the\] hands of a craftsman, and shall put it in concealment. And answering all the people shall say, May it be. 
-<small><sub>**KJV:**</sub></small>
-Cursed [be] the man that maketh [any] graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth [it] in [a] secret [place]. And all the people shall answer and say, Amen.
-<small><sub>**BSB:**</sub></small>
-‘Cursed is the man who makes a carved idol or molten image—an abomination to the LORD, the work of the hands of a craftsman—and sets it up in secret.’ And let all the people say, ‘Amen!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
 
 | Translation | Greek |

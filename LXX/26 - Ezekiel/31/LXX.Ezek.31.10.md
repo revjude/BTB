@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Because you became great \[to\] greatness, and you put  your top into \[the\] midst of clouds; and his heart was lifted up unto  his height; 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘Since it became great in height and set its top among the clouds, and it grew proud on account of its height,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.9|<< Ezekiel 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.11|Ezekiel 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

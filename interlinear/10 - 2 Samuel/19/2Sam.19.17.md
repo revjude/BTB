@@ -1,4 +1,4 @@
-**2 Samuel 19:17** (19:18)
+**2 Samuel 19:17**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over Jordan before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with a thousand men of Benjamin, as well as Ziba the steward of the house 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.16|<< 2 Samuel 19:16]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.18|2 Samuel 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and one thousand  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0505G\|אֶ֨לֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

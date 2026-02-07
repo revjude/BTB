@@ -1,10 +1,7 @@
 **LXX Numbers 7:12** 
 <small><sub>**LXX:**</sub></small>
 And was the one bringing on the first day  of his gift -- Nahshon son of Amminadab, ruler of the tribe of Judah. 
-<small><sub>**KJV:**</sub></small>
-And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:
-<small><sub>**BSB:**</sub></small>
-On the first day Nahshon son of Amminadab from the tribe of Judah drew near with his offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.11|<< Numbers 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.13|Numbers 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

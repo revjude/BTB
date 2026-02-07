@@ -1,10 +1,7 @@
 **LXX Esther 6:5** 
 <small><sub>**LXX:**</sub></small>
 And the servants of the king said, Behold, Haman stands in the courtyard. And the king said, Call him! 
-<small><sub>**KJV:**</sub></small>
-And the king’s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.
-<small><sub>**BSB:**</sub></small>
-So the king’s attendants answered him, “Haman is there, standing in the court.” “Bring him in,” ordered the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.4|<< Esther 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.6|Esther 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

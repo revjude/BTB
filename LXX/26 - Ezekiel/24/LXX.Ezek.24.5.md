@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:5** 
 <small><sub>**LXX:**</sub></small>
 having taken from choice cattle, then fire up the bones underneath them; boiled erupted and cooked \[are\] her bones in her midst. 
-<small><sub>**KJV:**</sub></small>
-Take the choice of the flock, and burn also the bones under it, [and] make it boil well, and let them seethe the bones of it therein.
-<small><sub>**BSB:**</sub></small>
-Take the choicest of the flock and pile the fuel beneath it. Bring it to a boil and cook the bones in it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.4|<< Ezekiel 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.6|Ezekiel 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

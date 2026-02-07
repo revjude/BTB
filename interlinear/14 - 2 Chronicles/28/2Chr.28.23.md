@@ -1,4 +1,4 @@
-**2 Chronicles 28:23** 
+**2 Chronicles 28:23**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, [therefore] will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sacrificed to the gods of Damascus, who had defeated him, and he said, “Bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.22|<< 2 Chronicles 28:22]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.24|2 Chronicles 28:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] gods of  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430J\|אלֹהֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

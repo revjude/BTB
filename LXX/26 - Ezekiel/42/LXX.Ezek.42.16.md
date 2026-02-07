@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:16** 
 <small><sub>**LXX:**</sub></small>
 And he stood at the back of the gate  looking according to \[the\] east, and he measured five hundred with the reed  measure. 
-<small><sub>**KJV:**</sub></small>
-He measured the east side with the measuring reed, five hundred reeds, with the measuring reed round about.
-<small><sub>**BSB:**</sub></small>
-With a measuring rod he measured the east side to be five hundred cubits long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.15|<< Ezekiel 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.17|Ezekiel 42:17 >>]]</td></tr></table>
 
 | Translation | Greek |

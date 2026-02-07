@@ -1,10 +1,7 @@
 **LXX Judges 11:40** 
 <small><sub>**LXX:**</sub></small>
 from days unto days the daughters of Israel go with \[one another\] to wail \[over\] the daughter of Jephthah the Gileadite  four days in the year. 
-<small><sub>**KJV:**</sub></small>
-[That] the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
-<small><sub>**BSB:**</sub></small>
-that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.1|Judges 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

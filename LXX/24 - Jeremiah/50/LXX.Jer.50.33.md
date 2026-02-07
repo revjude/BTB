@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:33** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, The sons of Israel and the sons of Judah together have been tyrannized. All the ones capturing them tyrannized them; for they did not want to send them out. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; The children of Israel and the children of Judah [were] oppressed together: and all that took them captives held them fast; they refused to let them go.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “The sons of Israel are oppressed, and the sons of Judah as well. All their captors hold them fast, refusing to release them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.32|<< Jeremiah 50:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.34|Jeremiah 50:34 >>]]</td></tr></table>
 
 | Translation | Greek |

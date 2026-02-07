@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:3** 
 <small><sub>**LXX:**</sub></small>
 And he went in the sins  of his father which he did before him. And his heart was not perfect with \[the\] <span class="smallcaps">lord</span> his God, as the heart of David  his \[grand\] father. 
-<small><sub>**KJV:**</sub></small>
-And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.
-<small><sub>**BSB:**</sub></small>
-And Abijam walked in all the sins that his father before him had committed, and his heart was not as fully devoted to the LORD his God as the heart of David his forefather had been.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.2|<< 1 Kings 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.4|1 Kings 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

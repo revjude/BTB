@@ -1,12 +1,12 @@
-**Ephesians 4:13
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:13**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 <small><sub>**BSB:**</sub></small>
 until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ.
 <small><sub>**Literal:**</sub></small>
 until we may attain <the> all to the unity of the faith and of the knowledge of the Son <the> of God, unto a man a complete, to [the] measure of [the] stature of the fullness <the> of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.12|<< Ephesians 4:12]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.14|Ephesians 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until |**<big>[[G3360\|μέχρι]]</big>**  |mechri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we may attain |**<big>[[G2658\|καταντήσωμεν]]</big>**  |katantēsōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

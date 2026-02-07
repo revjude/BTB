@@ -1,4 +1,4 @@
-**1 Chronicles 11:24** 
+**1 Chronicles 11:24**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] did Benaiah the son of Jehoiada, and had the name among the three mighties.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the exploits of Benaiah son of Jehoiada, who won a name along with th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.23|<< 1 Chronicles 11:23]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.25|1 Chronicles 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he did  |**<big>&#8207;[[H6213A\|עָשָׂ֔ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 5:21** 
+**Isaiah 5:21**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto [them that are] wise in their own eyes, and prudent in their own sight!
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Woe to those who are wise in their own eyes and clever in their own sight.
 > $\quad$ referenced by: [[Rom.12.16|Rom 12:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֖וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [people] wise  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

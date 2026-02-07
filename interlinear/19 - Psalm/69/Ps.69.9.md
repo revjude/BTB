@@ -1,4 +1,4 @@
-**Psalms 69:9** (69:10)
+**Psalms 69:9**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ because zeal for Your house has consumed me, and the insults of those who insult
 > $\quad$ referenced by: [[John.2.17|John 2:17]] ☩ [[Rom.15.3|Rom 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] zeal of  |**<big>&#8207;[[H7068\|קִנְאַ֣ת]]&#8207; </big>**| kin.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

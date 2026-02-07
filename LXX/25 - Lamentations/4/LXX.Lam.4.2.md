@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΒΗΘ</p>
 
 \[even\] the esteemed sons of Zion being encouraged by gold, O how they are considered as earthenware receptacles, works of \[the\] hands of \[the\] potter. 
-<small><sub>**KJV:**</sub></small>
-The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
-<small><sub>**BSB:**</sub></small>
-How the precious sons of Zion, once worth their weight in pure gold, are now esteemed as jars of clay, the work of a potter’s hands!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.1|<< Lamentations 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.3|Lamentations 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

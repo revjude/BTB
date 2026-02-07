@@ -1,4 +1,4 @@
-**Deuteronomy 15:22** 
+**Deuteronomy 15:22**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt eat it within thy gates: the unclean and the clean [person shall eat it] alike, as the roebuck, and as the hart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eat it within your gates; both the ceremonially unclean and clean may eat it as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.21|<< Deuteronomy 15:21]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.23|Deuteronomy 15:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in gates your  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8179H\|שְׁעָרֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will eat it  |**<big>&#8207;[[H0398\|תֹּאכֲלֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| to.kha.Le.<small><sup>[[HVqi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

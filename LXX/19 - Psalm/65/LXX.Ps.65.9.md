@@ -1,10 +1,7 @@
 **LXX Psalm 65:9** 
 <small><sub>**LXX:**</sub></small>
 You visited the earth, and you intoxicated it. You multiplied  to enrich it. The river  of God is filled \[with\] waters. You prepared  their nourishment, for thus \[is its\] preparation. 
-<small><sub>**KJV:**</sub></small>
-Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, [which] is full of water: thou preparest them corn, when thou hast so provided for it.
-<small><sub>**BSB:**</sub></small>
-You attend to the earth and water it; with abundance You enrich it. The streams of God are full of water, for You prepare our grain by providing for the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.8|<< Psalm 65:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.10|Psalm 65:10 >>]]</td></tr></table>
 
 | Translation | Greek |

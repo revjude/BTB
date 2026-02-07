@@ -1,4 +1,4 @@
-**Amos 1:1** 
+**Amos 1:1**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the words of Amos, who was among the sheepherders of Tekoa—what he s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.21|<< Joel 3:21]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.2|Amos 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amos  |**<big>&#8207;[[H5986\|עָמ֔וֹס]]&#8207; </big>**| a.Mos<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

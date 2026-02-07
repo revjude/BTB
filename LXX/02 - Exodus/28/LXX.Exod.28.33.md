@@ -1,10 +1,7 @@
 **LXX Exodus 28:33** 
 <small><sub>**LXX:**</sub></small>
 And you shall make upon the hem of the undergarment below, as it were of a blossoming pomegranate -- figures of pomegranates from out of blue, and purple, and scarlet being spun, and linen being twined upon the hem of the undergarment round about. And the form of it \[as the\] figures of pomegranates of gold, and bells in between these \[that are\] surrounding. 
-<small><sub>**KJV:**</sub></small>
-And [beneath] upon the hem of it thou shalt make pomegranates [of] blue, and [of] purple, and [of] scarlet, round about the hem thereof; and bells of gold between them round about:
-<small><sub>**BSB:**</sub></small>
-Make pomegranates of blue, purple, and scarlet yarn all the way around the lower hem, with gold bells between them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.32|<< Exodus 28:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.34|Exodus 28:34 >>]]</td></tr></table>
 
 | Translation | Greek |

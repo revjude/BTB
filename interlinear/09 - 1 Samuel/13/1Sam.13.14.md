@@ -1,4 +1,4 @@
-**1 Samuel 13:14** 
+**1 Samuel 13:14**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him [to be] captain over his people, because thou hast not kept [that] which the LORD commanded thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But now your kingdom will not endure; the LORD has sought a man after His own he
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kingdom your  |**<big>&#8207;[[H4467\|מַמְלַכְתְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| mam.lakh.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

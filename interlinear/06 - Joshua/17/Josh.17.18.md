@@ -1,4 +1,4 @@
-**Joshua 17:18** 
+**Joshua 17:18**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the mountain shall be thine; for it [is] a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, [and] though they [be] strong.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because the hill country will be yours as well. It is a forest; clear it, and it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hill country  |**<big>&#8207;[[H2022H\|הַ֤ר]]&#8207; </big>**| har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

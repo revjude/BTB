@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:26** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the strengthening by God, of the Levites lifting the ark of the covenant of \[the\] <span class="smallcaps">lord</span>, that they sacrificed seven calves and seven rams. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams.
-<small><sub>**BSB:**</sub></small>
-And because God helped the Levites who were carrying the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.25|<< 1 Chronicles 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.27|1 Chronicles 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

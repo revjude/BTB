@@ -1,10 +1,7 @@
 **LXX Judges 8:3** 
 <small><sub>**LXX:**</sub></small>
 In your hand \[the\] <span class="smallcaps">lord</span> delivered up the rulers of Midian --  Oreb and  Zeeb; and what was I able to do as you? Then their spirit was spared towards them in  his speaking with them  this word. 
-<small><sub>**KJV:**</sub></small>
-God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that.
-<small><sub>**BSB:**</sub></small>
-God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What was I able to do compared to you?” When he had said this, their anger against him subsided.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.2|<< Judges 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.4|Judges 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

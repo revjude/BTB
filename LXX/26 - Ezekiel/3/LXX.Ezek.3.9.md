@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:9** 
 <small><sub>**LXX:**</sub></small>
 And it shall be always more strong than a rock. You should not fear from them, nor should you be terrified before their face; for it is a rebellious house. 
-<small><sub>**KJV:**</sub></small>
-As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-I will make your forehead like a diamond, harder than flint. Do not be afraid of them or dismayed at their presence, even though they are a rebellious house.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 89:22** (89:23)
+**Psalms 89:22**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The enemy shall not exact upon him; nor the son of wickedness afflict him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No enemy will exact tribute; no wicked man will oppress him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.21|<< Psalms 89:21]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.23|Psalms 89:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will deceive  |**<big>&#8207;[[H5377\|יַשִּׁ֣א]]&#8207; </big>**| ya.Shi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

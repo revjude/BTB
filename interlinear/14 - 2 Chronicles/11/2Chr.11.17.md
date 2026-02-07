@@ -1,4 +1,4 @@
-**2 Chronicles 11:17** 
+**2 Chronicles 11:17**<big><big>[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they strengthened the kingdom of Judah and supported Rehoboam son of Solomon 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.16|<< 2 Chronicles 11:16]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.18|2 Chronicles 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they strengthened  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2388G\|יְחַזְּקוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.ze.Ku<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 142:5** (142:6)
+**Psalms 142:5**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried unto thee, O LORD: I said, Thou [art] my refuge [and] my portion in the land of the living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cry to You, O LORD: “You are my refuge, my portion in the land of the living
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.4|<< Psalms 142:4]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.6|Psalms 142:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I cry out  |**<big>&#8207;[[H2199\|זָעַ֥קְתִּי]]&#8207; </big>**| za.'Ak.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֗י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

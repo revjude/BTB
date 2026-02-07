@@ -1,4 +1,4 @@
-**Job 23:9** 
+**Job 23:9**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the left hand, where he doth work, but I cannot behold [him]: he hideth himself on the right hand, that I cannot see [him]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When He is at work in the north, I cannot behold Him; when He turns to the south
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.8|<< Job 23:8]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.10|Job 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] left [side]  |**<big>&#8207;[[H8040G\|שְׂמֹ֣אול]]&#8207; </big>**| se.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when acts he  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6213A\|עֲשֹׂת֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.so.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

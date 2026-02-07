@@ -1,12 +1,12 @@
-**2 Corinthians 1:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:10**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver [us];
 <small><sub>**BSB:**</sub></small>
 He has delivered us from such a deadly peril, and He will deliver us. In Him we have placed our hope that He will yet again deliver us,
 <small><sub>**Literal:**</sub></small>
 who from such a great a death has delivered us and will deliver [us] in whom we have hope that also still He will deliver [us]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.9|<< 2 Corinthians 1:9]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.11|2 Corinthians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

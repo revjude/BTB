@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:23** 
 <small><sub>**LXX:**</sub></small>
 The \[things\] going forth through  your lips you shall guard, and you shall do in which manner you made a vow \[to the\] <span class="smallcaps">lord</span>  your God \[in the matter of\] a gift which your mouth spoke. 
-<small><sub>**KJV:**</sub></small>
-That which is gone out of thy lips thou shalt keep and perform; [even] a freewill offering, according as thou hast vowed unto the LORD thy God, which thou hast promised with thy mouth.
-<small><sub>**BSB:**</sub></small>
-Be careful to follow through on what comes from your lips, because you have freely vowed to the LORD your God with your own mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.22|<< Deuteronomy 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.24|Deuteronomy 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

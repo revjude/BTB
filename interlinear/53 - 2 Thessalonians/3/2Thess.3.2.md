@@ -1,12 +1,12 @@
-**2 Thessalonians 3:2
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:2**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that we may be delivered from unreasonable and wicked men: for all [men] have not faith.
 <small><sub>**BSB:**</sub></small>
 And pray that we may be delivered from wicked and evil men; for not everyone holds to the faith.
 <small><sub>**Literal:**</sub></small>
 and that we may be delivered from <the> perverse and evil men; not for all [are] of the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.1|<< 2 Thessalonians 3:1]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.3|2 Thessalonians 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

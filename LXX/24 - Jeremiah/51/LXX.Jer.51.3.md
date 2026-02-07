@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:3** 
 <small><sub>**LXX:**</sub></small>
 Upon her \[let\] the one stretching stretch  his bow, and put on what is his weapons! And spare not against  her young men, and obliterate all  her force! 
-<small><sub>**KJV:**</sub></small>
-Against [him that] bendeth let the archer bend his bow, and against [him that] lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
-<small><sub>**BSB:**</sub></small>
-Do not let the archer bend his bow or put on his armor. Do not spare her young men; devote all her army to destruction!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.2|<< Jeremiah 51:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.4|Jeremiah 51:4 >>]]</td></tr></table>
 
 | Translation | Greek |

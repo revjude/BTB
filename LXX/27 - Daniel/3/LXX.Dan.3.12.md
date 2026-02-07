@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There are men Jews whom you placed over the works of the region of Babylon -- Shadrach, Meshach, Abed-nego.  These men obeyed not, O king,  your decree, and  your gods they serve not, and to the image  of gold which you stationed they do not do obeisance to. 
-<small><sub>**KJV:**</sub></small>
-There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
-<small><sub>**BSB:**</sub></small>
-But there are some Jews you have appointed to manage the province of Babylon—Shadrach, Meshach, and Abednego—who have ignored you, O king, and have refused to serve your gods or worship the golden statue you have set up.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.11|<< Daniel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.13|Daniel 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

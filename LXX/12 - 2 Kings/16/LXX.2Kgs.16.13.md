@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:13** 
 <small><sub>**LXX:**</sub></small>
 And he offered  his whole burnt-offering, and  his sacrifice \[offering\]; and  he offered a libation of his libation \[offering\] to it; and he poured upon it the blood  of his peace \[offerings\] -- upon the altar, 
-<small><sub>**KJV:**</sub></small>
-And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.
-<small><sub>**BSB:**</sub></small>
-He offered his burnt offering and his grain offering, poured out his drink offering, and splattered the blood of his peace offerings on the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.12|<< 2 Kings 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.14|2 Kings 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

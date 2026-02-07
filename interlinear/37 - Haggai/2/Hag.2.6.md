@@ -1,4 +1,4 @@
-**Haggai 2:6** 
+**Haggai 2:6**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts; Yet once, it [is] a little while, and I will shake the heavens, and the earth, and the sea, and the dry [land];
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For this is what the LORD of Hosts says: “Once more, in a little while, I will
 > $\quad$ referenced by: [[Heb.12.26|Heb 12:26]] ☩ [[Rev.6.12|Rev 6:12-13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֤ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

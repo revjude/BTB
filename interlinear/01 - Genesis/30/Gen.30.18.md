@@ -1,4 +1,4 @@
-**Genesis 30:18** 
+**Genesis 30:18**<big><big>[[Gen.30.17 Issachar, Zebulun, and Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Leah said, “God has rewarded me for giving my maidservant to my husband.�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.17|<< Genesis 30:17]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.19|Genesis 30:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Leah  |**<big>&#8207;[[H3812\|לֵאָ֗ה]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:4** 
 <small><sub>**LXX:**</sub></small>
 And they came forth, they and  their kings with them, a vast people as the sand which \[is\] by the edge of the sea  in multitude, and horses, and very many chariots. 
-<small><sub>**KJV:**</sub></small>
-And they went out, they and all their hosts with them, much people, even as the sand that [is] upon the sea shore in multitude, with horses and chariots very many.
-<small><sub>**BSB:**</sub></small>
-So these kings came out with all their armies, a multitude as numerous as the sand on the seashore, along with a great number of horses and chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.3|<< Joshua 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.5|Joshua 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

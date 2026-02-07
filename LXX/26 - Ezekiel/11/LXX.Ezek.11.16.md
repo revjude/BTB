@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this, you say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>, that, I will thrust them into the nations, and I will disperse them into every land, and I will be to them for a small sanctuary in the places where ever they shall enter into there. 
-<small><sub>**KJV:**</sub></small>
-Therefore say, Thus saith the Lord GOD; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come.
-<small><sub>**BSB:**</sub></small>
-Therefore declare that this is what the Lord GOD says: ‘Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries to which they have gone.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.15|<< Ezekiel 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.17|Ezekiel 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

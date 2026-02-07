@@ -1,12 +1,12 @@
-**Luke 23:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:49**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.
 <small><sub>**BSB:**</sub></small>
 But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things.
 <small><sub>**Literal:**</sub></small>
 Had stood now all those who knew with Him from afar off also women those having followed Him from <the> Galilee beholding these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.48|<< Luke 23:48]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.50|Luke 23:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had stood |**<big>[[G2476\|Εἱστήκεισαν]]</big>**  [^1] |Heistēkeisan <small><sup>[[V-LAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

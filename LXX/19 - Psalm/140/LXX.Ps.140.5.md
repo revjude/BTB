@@ -1,10 +1,7 @@
 **LXX Psalm 140:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] proud hid a snare for me; and they extended lines \[for a\] snare for my foot; next to a road they placed an obstacle for me. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
-<small><sub>**BSB:**</sub></small>
-The proud hide a snare for me; the cords of their net are spread along the path, and lures are set out for me. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.4|<< Psalm 140:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.6|Psalm 140:6 >>]]</td></tr></table>
 
 | Translation | Greek |

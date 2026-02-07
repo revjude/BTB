@@ -1,4 +1,4 @@
-**Jeremiah 18:12** 
+**Jeremiah 18:12**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they will reply, ‘It is hopeless. We will follow our own plans, and each o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.11|<< Jeremiah 18:11]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.13|Jeremiah 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְר֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | despairing  |**<big>&#8207;[[H2976\|נוֹאָ֑שׁ]]&#8207; </big>**| no.'Ash<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

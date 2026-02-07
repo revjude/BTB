@@ -1,10 +1,7 @@
 **LXX Genesis 35:5** 
 <small><sub>**LXX:**</sub></small>
 And Israel lifted away from Shechem. And there was a fear of God upon the cities  round about them. And they did not pursue after the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And they journeyed: and the terror of God was upon the cities that [were] round about them, and they did not pursue after the sons of Jacob.
-<small><sub>**BSB:**</sub></small>
-As they set out, a terror from God fell over the surrounding cities, so that they did not pursue Jacob’s sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.4|<< Genesis 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.6|Genesis 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

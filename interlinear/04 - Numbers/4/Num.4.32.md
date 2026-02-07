@@ -1,4 +1,4 @@
-**Numbers 4:32** 
+**Numbers 4:32**<big><big>[[Num.4.29 The Duties of the Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the posts of the surrounding courtyard with their bases, tent pegs, and rope
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.31|<< Numbers 4:31]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.33|Numbers 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] pillars of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5982G\|עַמּוּדֵי֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.mu.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2691A\|חָצֵ֨ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

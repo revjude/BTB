@@ -1,12 +1,12 @@
-**Hebrews 13:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:16**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to do good and to communicate forget not: for with such sacrifices God is well pleased.
 <small><sub>**BSB:**</sub></small>
 And do not neglect to do good and to share with others, for with such sacrifices God is pleased.
 <small><sub>**Literal:**</sub></small>
 <the> And the good and of sharing not do be forgetful; with such for sacrifices is well pleased <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.15|<< Hebrews 13:15]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.17|Hebrews 13:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

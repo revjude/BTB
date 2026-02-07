@@ -1,10 +1,7 @@
 **LXX Psalm 76:8** 
 <small><sub>**LXX:**</sub></small>
 From out of the heaven judgment to be heard. \[The\] earth feared, and was still, 
-<small><sub>**KJV:**</sub></small>
-Thou didst cause judgment to be heard from heaven; the earth feared, and was still,
-<small><sub>**BSB:**</sub></small>
-From heaven You pronounced judgment, and the earth feared and was still<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.7|<< Psalm 76:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.9|Psalm 76:9 >>]]</td></tr></table>
 
 | Translation | Greek |

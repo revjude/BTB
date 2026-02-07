@@ -1,10 +1,7 @@
 **LXX Judges 21:18** 
 <small><sub>**LXX:**</sub></small>
 For we are not able to give to them wives from  our daughters, for the sons of Israel swore by an oath, saying, Accursed \[is\] the one giving a wife  to Benjamin. 
-<small><sub>**KJV:**</sub></small>
-Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed [be] he that giveth a wife to Benjamin.
-<small><sub>**BSB:**</sub></small>
-But we cannot give them our daughters as wives.” For the Israelites had sworn, “Cursed is he who gives a wife to a Benjamite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.17|<< Judges 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.19|Judges 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

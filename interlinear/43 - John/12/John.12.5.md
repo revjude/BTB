@@ -1,12 +1,12 @@
-**John 12:5
-**<small><sub>**KJV:**</sub></small>
+**John 12:5**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Why was not this ointment sold for three hundred pence, and given to the poor?
 <small><sub>**BSB:**</sub></small>
 “Why wasn’t this perfume sold for three hundred denarii and the money given to the poor?”
 <small><sub>**Literal:**</sub></small>
 Because of why this <the> fragrant oil not was sold for three hundred denarii and given to [the] poor?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.4|<< John 12:4]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.6|John 12:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

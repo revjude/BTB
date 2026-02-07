@@ -1,5 +1,5 @@
-**Hebrews 6:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:8**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that which beareth thorns and briers [is] rejected, and [is] nigh unto cursing; whose end [is] to be burned.
 <small><sub>**BSB:**</sub></small>
 But land that produces thorns and thistles is worthless, and its curse is imminent. In the end it will be burned.
@@ -10,7 +10,7 @@ But land that produces thorns and thistles is worthless, and its curse is immine
 > $\quad$ alluding to: [[LXX.Gen.3.18|Gen 3:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [That] bringing forth |**<big>[[G1627\|ἐκφέρουσα]]</big>**  |ekpherousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

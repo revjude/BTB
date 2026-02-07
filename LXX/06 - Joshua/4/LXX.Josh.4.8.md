@@ -1,10 +1,7 @@
 **LXX Joshua 4:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did thus, in so far as \[the\] <span class="smallcaps">lord</span> gave charge  to Joshua. And taking twelve stones from \[the\] midst of the Jordan, just as \[the\] <span class="smallcaps">lord</span> gave orders  to Joshua, in the completion of the fording of the sons of Israel, that they carried \[them\] across together themselves into the camp, and they put them aside there. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the LORD spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there.
-<small><sub>**BSB:**</sub></small>
-Thus the Israelites did as Joshua had commanded them. They took up twelve stones from the middle of the Jordan, one for each tribe of Israel, just as the LORD had told Joshua; and they carried them to the camp, where they set them down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.7|<< Joshua 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.9|Joshua 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

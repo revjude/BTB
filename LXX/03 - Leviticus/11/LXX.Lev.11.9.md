@@ -1,10 +1,7 @@
 **LXX Leviticus 11:9** 
 <small><sub>**LXX:**</sub></small>
 And these you shall eat out of all the \[ones\] in the waters -- all as many as there are fins to them and scales in the waters, and in the seas, and in the rushing streams -- these you shall eat. 
-<small><sub>**KJV:**</sub></small>
-These shall ye eat of all that [are] in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
-<small><sub>**BSB:**</sub></small>
-Of all the creatures that live in the water, whether in the seas or in the streams, you may eat anything with fins and scales.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.8|<< Leviticus 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.10|Leviticus 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

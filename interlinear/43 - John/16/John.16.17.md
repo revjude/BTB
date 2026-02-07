@@ -1,12 +1,12 @@
-**John 16:17
-**<small><sub>**KJV:**</sub></small>
+**John 16:17**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said [some] of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?
 <small><sub>**BSB:**</sub></small>
 Then some of His disciples asked one another, “Why is He telling us, ‘In a little while you will not see Me, and then after a little while you will see Me’ and ‘Because I am going to the Father’?”
 <small><sub>**Literal:**</sub></small>
 Said therefore [some] of the disciples of him to one another; What is this that He says to us; A little [while] and not you do behold Me, and again a little [while] and you will behold Me’? and Because I myself I am going to the Father’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.16|<< John 16:16]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.18|John 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

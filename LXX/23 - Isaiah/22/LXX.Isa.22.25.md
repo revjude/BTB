@@ -1,10 +1,7 @@
 **LXX Isaiah 22:25** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of Hosts, The man being fixed fast in a trustworthy place shall be moved; and the glory upon him shall be removed and shall fall and shall waste away; for \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-In that day, saith the LORD of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that [was] upon it shall be cut off: for the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-In that day, declares the LORD of Hosts, the peg driven into a firm place will give way; it will be sheared off and fall, and the load upon it will be cut down.” Indeed, the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.24|<< Isaiah 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.1|Isaiah 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

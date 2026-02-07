@@ -1,4 +1,4 @@
-**Exodus 30:15** 
+**Exodus 30:15**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich shall not give more, and the poor shall not give less than half a shekel, when [they] give an offering unto the LORD, to make an atonement for your souls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In making the offering to the LORD to atone for your lives, the rich shall not g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.14|<< Exodus 30:14]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.16|Exodus 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the rich [person]  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H6223\|עָשִׁ֣יר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

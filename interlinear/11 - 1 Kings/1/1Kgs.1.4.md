@@ -1,4 +1,4 @@
-**1 Kings 1:4** 
+**1 Kings 1:4**<big><big>[[1Kgs.1.1 Abishag Cares for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the damsel [was] very fair, and cherished the king, and ministered to him: but the king knew her not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The girl was unsurpassed in beauty; she cared for the king and served him, but h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.3|<< 1 Kings 1:3]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.5|1 Kings 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the young woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] beautiful  |**<big>&#8207;[[H3303\|יָפָ֣ה]]&#8207; </big>**| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

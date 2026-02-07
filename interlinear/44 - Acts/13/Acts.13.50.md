@@ -1,12 +1,12 @@
-**Acts 13:50
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:50**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.
 <small><sub>**BSB:**</sub></small>
 The Jews, however, incited the religious women of prominence and the leading men of the city. They stirred up persecution against Paul and Barnabas and drove them out of their district.
 <small><sub>**Literal:**</sub></small>
 The but Jews incited the worshipping women and <the>[those] prominent and the principals of the city and they stirred up a persecution against <the> Paul and <the> Barnabas and expelled them from the district of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.49|<< Acts 13:49]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.51|Acts 13:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

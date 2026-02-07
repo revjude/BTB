@@ -1,12 +1,12 @@
-**Acts 27:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:41**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves.
 <small><sub>**BSB:**</sub></small>
 But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was being broken up by the pounding of the waves.
 <small><sub>**Literal:**</sub></small>
 Having fallen however into a place between two seas they ran aground the vessel; and the indeed bow having stuck fast it remained immovable, <the> however the stern was being broken up by the violence of the waves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.40|<< Acts 27:40]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.42|Acts 27:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having fallen |**<big>[[G4045\|περιπεσόντες]]</big>**  |peripesontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

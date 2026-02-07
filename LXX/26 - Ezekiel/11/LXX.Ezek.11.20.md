@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:20** 
 <small><sub>**LXX:**</sub></small>
 so that they shall go by my orders, and  they shall guard my ordinances, and they shall execute them. And they will be to me for a people, and I will be to them for God. 
-<small><sub>**KJV:**</sub></small>
-That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
-<small><sub>**BSB:**</sub></small>
-so that they may follow My statutes, keep My ordinances, and practice them. Then they will be My people, and I will be their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.19|<< Ezekiel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.21|Ezekiel 11:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 11:20** is...

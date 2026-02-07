@@ -1,10 +1,7 @@
 **LXX Psalm 106:37** 
 <small><sub>**LXX:**</sub></small>
 And they sacrificed  their sons and  their daughters to the demons; 
-<small><sub>**KJV:**</sub></small>
-Yea, they sacrificed their sons and their daughters unto devils,
-<small><sub>**BSB:**</sub></small>
-They sacrificed their sons and their daughters to demons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.36|<< Psalm 106:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.38|Psalm 106:38 >>]]</td></tr></table>
 
 | Translation | Greek |

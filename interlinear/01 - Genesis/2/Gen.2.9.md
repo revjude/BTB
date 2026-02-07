@@ -1,4 +1,4 @@
-**Genesis 2:9** 
+**Genesis 2:9**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Out of the ground the LORD God gave growth to every tree that is pleasing to the
 > $\quad$ referenced by: [[Rev.2.7|Rev 2:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made sprout  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6779\|יַּצְמַ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yatz.Mach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

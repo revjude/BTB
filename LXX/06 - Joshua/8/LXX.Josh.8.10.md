@@ -1,10 +1,7 @@
 **LXX Joshua 8:10** 
 <small><sub>**LXX:**</sub></small>
 And Joshua rising early in the morning, numbered the people. And they ascended, he and the elders of Israel, before \[the\] face of the people, against Ai. 
-<small><sub>**KJV:**</sub></small>
-And Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai.
-<small><sub>**BSB:**</sub></small>
-Joshua got up early the next morning and mobilized his men, and he and the elders of Israel marched before them up to Ai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.9|<< Joshua 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.11|Joshua 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

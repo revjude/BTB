@@ -1,10 +1,7 @@
 **LXX Esther 2:8** 
 <small><sub>**LXX:**</sub></small>
 And when the king's order was heard, many young women were gathered together in Shushan the city, by \[the\] hand of Hegai; and Esther was led to Hegai the keeper of the women. 
-<small><sub>**KJV:**</sub></small>
-So it came to pass, when the king’s commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king’s house, to the custody of Hegai, keeper of the women.
-<small><sub>**BSB:**</sub></small>
-When the king’s command and edict had been proclaimed, many young women gathered at the citadel of Susa under the care of Hegai. Esther was also taken to the palace and placed under the care of Hegai, the custodian of the women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.7|<< Esther 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.9|Esther 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

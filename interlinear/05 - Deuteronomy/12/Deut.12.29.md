@@ -1,4 +1,4 @@
-**Deuteronomy 12:29** 
+**Deuteronomy 12:29**<big><big>[[Deut.12.29 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD your God cuts off before you the nations you are entering to dispo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.28|<< Deuteronomy 12:28]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.30|Deuteronomy 12:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will cut off  |**<big>&#8207;[[H3772I\|יַכְרִית֩]]&#8207; </big>**| yakh.Rit<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

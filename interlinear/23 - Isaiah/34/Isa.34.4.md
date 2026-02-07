@@ -1,4 +1,4 @@
-**Isaiah 34:4** 
+**Isaiah 34:4**<big><big>[[Isa.34.1 Judgment on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling [fig] from the fig tree.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All the stars of heaven will be dissolved. The skies will be rolled up like a sc
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24]] ☩ [[Luke.21.26|Luke 21:26]] ☩ [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.6.14|Rev 6:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will rot away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4743\|נָמַ֙קּוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ma.ku<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

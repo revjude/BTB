@@ -1,10 +1,7 @@
 **LXX Genesis 39:9** 
 <small><sub>**LXX:**</sub></small>
 and not exists in  this house one thing outside of me, nor one \[thing\] secretly removed from me, besides you, on account of  you being his wife, then how should I do  this wicked thing, and sin before  God? 
-<small><sub>**KJV:**</sub></small>
-[There is] none greater in this house than I; neither hath he kept back any thing from me but thee, because thou [art] his wife: how then can I do this great wickedness, and sin against God?
-<small><sub>**BSB:**</sub></small>
-No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.8|<< Genesis 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.10|Genesis 39:10 >>]]</td></tr></table>
 
 | Translation | Greek |

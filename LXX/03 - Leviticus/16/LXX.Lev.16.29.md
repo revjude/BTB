@@ -1,10 +1,7 @@
 **LXX Leviticus 16:29** 
 <small><sub>**LXX:**</sub></small>
 And this shall be to you an eternal law. In the seventh month \[the\] tenth of the month humble  your souls! And you shall not do any work -- the native born and the foreigner  joining up with you. 
-<small><sub>**KJV:**</sub></small>
-And [this] shall be a statute for ever unto you: [that] in the seventh month, on the tenth [day] of the month, ye shall afflict your souls, and do no work at all, [whether it be] one of your own country, or a stranger that sojourneth among you:
-<small><sub>**BSB:**</sub></small>
-This is to be a permanent statute for you: On the tenth day of the seventh month, you shall humble yourselves and not do any work—whether the native or the foreigner who resides among you—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.28|<< Leviticus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.30|Leviticus 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

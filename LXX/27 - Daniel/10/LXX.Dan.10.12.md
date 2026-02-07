@@ -1,10 +1,7 @@
 **LXX Daniel 10:12** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Fear not Daniel! for from the first day of which you gave  your heart  to perceive, and to afflict yourself before \[the\] <span class="smallcaps">lord</span>  your God, your words were heard, and I came because of  your words. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.11|<< Daniel 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.13|Daniel 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

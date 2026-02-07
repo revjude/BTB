@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:17** 
 <small><sub>**LXX:**</sub></small>
 and the meat hooks and libation bowls, and bowls  of gold; and the basins  of gold in weight for basin and basin; and the weight of the \[things\] of gold and  of silver of each weight; 
-<small><sub>**KJV:**</sub></small>
-Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons [he gave gold] by weight for every bason; and [likewise silver] by weight for every bason of silver:
-<small><sub>**BSB:**</sub></small>
-the weight of the pure gold for the forks, sprinkling bowls, and pitchers; the weight of each gold dish; the weight of each silver bowl;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.16|<< 1 Chronicles 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.18|1 Chronicles 28:18 >>]]</td></tr></table>
 
 | Translation | Greek |

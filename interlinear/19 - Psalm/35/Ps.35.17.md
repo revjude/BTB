@@ -1,4 +1,4 @@
-**Psalms 35:17** 
+**Psalms 35:17**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long, O Lord, will You look on? Rescue my soul from their ravages, my precio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.16|<< Psalms 35:16]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.18|Psalms 35:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָי֮]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how long?  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4100\|מָּ֪ה]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

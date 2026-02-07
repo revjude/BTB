@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:2** 
 <small><sub>**LXX:**</sub></small>
 Except the people were burning incense upon the high \[places\], for a house was not built to the name of \[the\] <span class="smallcaps">lord</span> until  now. 
-<small><sub>**KJV:**</sub></small>
-Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days.
-<small><sub>**BSB:**</sub></small>
-The people, however, were still sacrificing on the high places because a house for the Name of the LORD had not yet been built.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.1|<< 1 Kings 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.3|1 Kings 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

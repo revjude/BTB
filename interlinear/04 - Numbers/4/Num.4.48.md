@@ -1,4 +1,4 @@
-**Numbers 4:48** 
+**Numbers 4:48**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even those that were numbered of them, were eight thousand and five hundred and fourscore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the number of men was 8,580.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enrolled [men] their  |**<big>&#8207;[[H6485A\|פְּקֻדֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| pe.ku.dei.<small><sup>[[HVqsmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

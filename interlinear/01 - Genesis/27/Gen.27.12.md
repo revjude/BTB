@@ -1,4 +1,4 @@
-**Genesis 27:12** 
+**Genesis 27:12**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ What if my father touches me? Then I would be revealed to him as a deceiver, and
 > $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֤י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will feel me  |**<big>&#8207;[[H4959\|יְמֻשֵּׁ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| ye.mu.She.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

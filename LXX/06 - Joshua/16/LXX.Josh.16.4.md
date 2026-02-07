@@ -1,10 +1,7 @@
 **LXX Joshua 16:4** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Joseph -- Manasseh and Ephraim inherited. 
-<small><sub>**KJV:**</sub></small>
-So the children of Joseph, Manasseh and Ephraim, took their inheritance.
-<small><sub>**BSB:**</sub></small>
-So Ephraim and Manasseh, the sons of Joseph, received their inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.3|<< Joshua 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.5|Joshua 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

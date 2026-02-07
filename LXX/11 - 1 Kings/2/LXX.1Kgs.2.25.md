@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:25** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon sent out by \[the\] hand of Benaiah son of Jehoiada; and he did away with him, and he died. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died.
-<small><sub>**BSB:**</sub></small>
-So King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah and he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.24|<< 1 Kings 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.26|1 Kings 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

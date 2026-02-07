@@ -1,10 +1,7 @@
 **LXX Leviticus 25:35** 
 <small><sub>**LXX:**</sub></small>
 And if your brother \[who is\] with you should be in need, and he shall be powerless in the hands with you; you shall take hold of him, and he shall live with you as a foreigner and a sojourner. 
-<small><sub>**KJV:**</sub></small>
-And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: [yea, though he be] a stranger, or a sojourner; that he may live with thee.
-<small><sub>**BSB:**</sub></small>
-Now if your countryman becomes destitute and cannot support himself among you, then you are to help him as you would a foreigner or stranger, so that he can continue to live among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.34|<< Leviticus 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.36|Leviticus 25:36 >>]]</td></tr></table>
 
 | Translation | Greek |

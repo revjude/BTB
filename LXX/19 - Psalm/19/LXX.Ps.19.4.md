@@ -1,10 +1,7 @@
 **LXX Psalm 19:4** 
 <small><sub>**LXX:**</sub></small>
 Into all the earth went forth  their knell; and unto the ends of the inhabitable world  their words. He put his tent in the sun. 
-<small><sub>**KJV:**</sub></small>
-Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
-<small><sub>**BSB:**</sub></small>
-their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.3|<< Psalm 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.5|Psalm 19:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 19:4** is...

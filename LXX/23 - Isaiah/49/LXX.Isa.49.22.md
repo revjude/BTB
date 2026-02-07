@@ -1,10 +1,7 @@
 **LXX Isaiah 49:22** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord, \[the\] <span class="smallcaps">lord</span>, Behold, I lift my hand unto the nations, and unto the islands I shall lift my agreed upon sign. And they shall lead  your sons in \[their\] bosom;  and they shall lift your daughters upon \[their\] shoulders. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in [their] arms, and thy daughters shall be carried upon [their] shoulders.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: “Behold, I will lift up My hand to the nations, and raise My banner to the peoples. They will bring your sons in their arms and carry your daughters on their shoulders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.21|<< Isaiah 49:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.23|Isaiah 49:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 37:10** 
+**Ezekiel 37:10**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So I prophesied as He had commanded me, and the breath entered them, and they ca
 > $\quad$ referenced by: [[Rev.11.11|Rev 11:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prophesied  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5012\|הִנַּבֵּ֖אתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.na.Be.ti<small><sup>[[HVtq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

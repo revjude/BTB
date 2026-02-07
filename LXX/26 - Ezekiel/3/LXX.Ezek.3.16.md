@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the seven days, and \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,
-<small><sub>**BSB:**</sub></small>
-At the end of seven days the word of the LORD came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.15|<< Ezekiel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.17|Ezekiel 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

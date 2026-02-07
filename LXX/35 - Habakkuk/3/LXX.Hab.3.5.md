@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:5** 
 <small><sub>**LXX:**</sub></small>
 Before his face shall go a word, and it shall go forth for a flat ground. 
-<small><sub>**KJV:**</sub></small>
-Before him went the pestilence, and burning coals went forth at his feet.
-<small><sub>**BSB:**</sub></small>
-Plague went before Him, and fever followed in His steps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.4|<< Habakkuk 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.6|Habakkuk 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

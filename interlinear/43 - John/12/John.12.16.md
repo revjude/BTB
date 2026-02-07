@@ -1,12 +1,12 @@
-**John 12:16
-**<small><sub>**KJV:**</sub></small>
+**John 12:16**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and [that] they had done these things unto him.
 <small><sub>**BSB:**</sub></small>
 At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.
 <small><sub>**Literal:**</sub></small>
 These things now not knew of Him the disciples from the first, but when was glorified <the> Jesus, then they remembered that these things were about Him written and these things they had done to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.15|<< John 12:15]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.17|John 12:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

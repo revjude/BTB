@@ -1,4 +1,4 @@
-**Deuteronomy 33:24** 
+**Deuteronomy 33:24**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Asher he said, [Let] Asher [be] blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And concerning Asher he said: “May Asher be the most blessed of sons; may he b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.23|<< Deuteronomy 33:23]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.25|Deuteronomy 33:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of Asher  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0836\|אָשֵׁ֣ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֔ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

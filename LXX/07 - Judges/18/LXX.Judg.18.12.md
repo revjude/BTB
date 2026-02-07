@@ -1,10 +1,7 @@
 **LXX Judges 18:12** 
 <small><sub>**LXX:**</sub></small>
 And they ascended and camped in Kirjath-jearim in Judah. On account of this that place was called, Camp of Dan until  this day. Behold, \[it is\] behind Kirjath-jearim. 
-<small><sub>**KJV:**</sub></small>
-And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, [it is] behind Kirjathjearim.
-<small><sub>**BSB:**</sub></small>
-They went up and camped at Kiriath-jearim in Judah. That is why the place west of Kiriath-jearim is called Mahaneh-dan to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.11|<< Judges 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.13|Judges 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

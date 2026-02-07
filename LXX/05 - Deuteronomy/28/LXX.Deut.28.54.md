@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:54** 
 <small><sub>**LXX:**</sub></small>
 The one tender among you, and the very delicate shall charm \[with\] his eye  his brother, and the wife  in  his bosom, and the left behind children, who ever should be left to him; 
-<small><sub>**KJV:**</sub></small>
-[So that] the man [that is] tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
-<small><sub>**BSB:**</sub></small>
-The most gentle and refined man among you will begrudge his brother, the wife he embraces, and the rest of his children who have survived,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.53|<< Deuteronomy 28:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.55|Deuteronomy 28:55 >>]]</td></tr></table>
 
 | Translation | Greek |

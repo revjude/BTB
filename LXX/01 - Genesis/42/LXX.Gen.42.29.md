@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they came to Jacob  their father in \[the\] land of Canaan. And they reported to him all the \[things\] coming to pass to them, saying, 
-<small><sub>**KJV:**</sub></small>
-And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,
-<small><sub>**BSB:**</sub></small>
-When they reached their father Jacob in the land of Canaan, they described to him all that had happened to them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.28|<< Genesis 42:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.30|Genesis 42:30 >>]]</td></tr></table>
 
 | Translation | Greek |

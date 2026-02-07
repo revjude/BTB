@@ -1,10 +1,7 @@
 **LXX Exodus 39:42** 
 <small><sub>**LXX:**</sub></small>
 According to all as much as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses, thus the sons of Israel made all the accoutrements. And Moses saw all the works; and they were doing them in the manner \[the\] <span class="smallcaps">lord</span> gave orders 
-<small><sub>**KJV:**</sub></small>
-According to all that the LORD commanded Moses, so the children of Israel made all the work.
-<small><sub>**BSB:**</sub></small>
-The Israelites had done all the work just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.41|<< Exodus 39:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.43|Exodus 39:43 >>]]</td></tr></table>
 
 | Translation | Greek |

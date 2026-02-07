@@ -1,10 +1,7 @@
 **LXX Psalm 78:22** 
 <small><sub>**LXX:**</sub></small>
 For they did not trust in  God, nor did they hope upon  his deliverance. 
-<small><sub>**KJV:**</sub></small>
-Because they believed not in God, and trusted not in his salvation:
-<small><sub>**BSB:**</sub></small>
-because they did not believe God or rely on His salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.21|<< Psalm 78:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.23|Psalm 78:23 >>]]</td></tr></table>
 
 | Translation | Greek |

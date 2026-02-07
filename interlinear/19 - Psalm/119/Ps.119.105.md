@@ -1,12 +1,12 @@
-**Psalms 119:105** 
+**Psalms 119:105**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-NUN. Thy word [is] a lamp unto my feet, and a light unto my path.
+Thy word [is] a lamp unto my feet, and a light unto my path.
 <small><sub>**BSB:**</sub></small>
 Your word is a lamp to my feet and a light to my path.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.105|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.104|<< Psalms 119:104]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.106|Psalms 119:106 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a lamp  |**<big>&#8207;[[H5216A\|נֵר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ner-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for foot my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7272\|רַגְלִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> rag.L<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

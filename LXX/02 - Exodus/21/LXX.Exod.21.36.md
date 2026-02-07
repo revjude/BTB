@@ -1,10 +1,7 @@
 **LXX Exodus 21:36** 
 <small><sub>**LXX:**</sub></small>
 And if it is made known that the bull is given to goring before  yesterday and before the third day, and they should have been testifying to \[its\] owner, and he did not remove it, he shall pay bull for bull, but the \[bull\] coming to an end will be his. 
-<small><sub>**KJV:**</sub></small>
-Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.
-<small><sub>**BSB:**</sub></small>
-But if it was known that the ox had a habit of goring, yet its owner failed to restrain it, he shall pay full compensation, ox for ox, and the dead animal will be his.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.35|<< Exodus 21:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.1|Exodus 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 29:19** 
+**Job 29:19**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My root [was] spread out by the waters, and the dew lay all night upon my branch.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My roots will spread out to the waters, and the dew will rest nightly on my bran
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.18|<< Job 29:18]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.20|Job 29:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | root my  |**<big>&#8207;[[H8328\|שָׁרְשִׁ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| sha.re.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] opened  |**<big>&#8207;[[H6605A\|פָת֣וּחַ]]&#8207; </big>**| fa.Tu.ach<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

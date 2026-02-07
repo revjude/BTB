@@ -1,10 +1,7 @@
 **LXX Isaiah 65:9** 
 <small><sub>**LXX:**</sub></small>
 And I shall lead out the one of \[the\] seed of Jacob, and the one of Judah. And he shall inherit  my holy mountain, and my chosen and my servants shall inherit it, and they shall dwell there. 
-<small><sub>**KJV:**</sub></small>
-And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.
-<small><sub>**BSB:**</sub></small>
-And I will bring forth descendants from Jacob, and heirs from Judah; My elect will possess My mountains, and My servants will dwell there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.8|<< Isaiah 65:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.10|Isaiah 65:10 >>]]</td></tr></table>
 
 | Translation | Greek |

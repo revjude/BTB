@@ -1,10 +1,7 @@
 **LXX Proverbs 29:19** 
 <small><sub>**LXX:**</sub></small>
 A recalcitrant domestic servant will not be corrected by words; for even if he comprehends he will not obey. 
-<small><sub>**KJV:**</sub></small>
-A servant will not be corrected by words: for though he understand he will not answer.
-<small><sub>**BSB:**</sub></small>
-A servant cannot be corrected by words alone; though he understands, he will not respond.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.18|<< Proverbs 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.20|Proverbs 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

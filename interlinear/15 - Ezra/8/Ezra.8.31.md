@@ -1,4 +1,4 @@
-**Ezra 8:31** 
+**Ezra 8:31**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then we departed from the river of Ahava on the twelfth [day] of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the twelfth day of the first month we set out from the Ahava Canal to go to J
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.30|<< Ezra 8:30]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.32|Ezra 8:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we set out !  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5265\|נִּסְעָ֞]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nis.'A<small><sup>[[HVqw1cp]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] river of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5104H\|נְּהַ֣ר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ne.Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

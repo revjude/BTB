@@ -1,10 +1,7 @@
 **LXX Ezra 8:13** 
 <small><sub>**LXX:**</sub></small>
 Of the sons of Adonikam last, and these are the names of them -- Eliphelet, Jeiel, and Shemaiah, and with them sixty  males. 
-<small><sub>**KJV:**</sub></small>
-And of the last sons of Adonikam, whose names [are] these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.
-<small><sub>**BSB:**</sub></small>
-from the later descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.12|<< Ezra 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.14|Ezra 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

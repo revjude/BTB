@@ -1,10 +1,7 @@
 **LXX Job 36:15** 
 <small><sub>**LXX:**</sub></small>
 because they afflicted \[the\] weak and disabled; and he will expound judgment for \[the\] gentle. 
-<small><sub>**KJV:**</sub></small>
-He delivereth the poor in his affliction, and openeth their ears in oppression.
-<small><sub>**BSB:**</sub></small>
-God rescues the afflicted by their affliction and opens their ears in oppression.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.14|<< Job 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.16|Job 36:16 >>]]</td></tr></table>
 
 | Translation | Greek |

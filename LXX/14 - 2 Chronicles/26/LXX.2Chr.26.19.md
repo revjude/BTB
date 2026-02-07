@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:19** 
 <small><sub>**LXX:**</sub></small>
 And Uzziah was enraged. And in  his hand \[was\] the incense pan  to burn incense in the temple. And in  his being enraged against the priests, that  leprosy rose on  his forehead before the priests in the house of \[the\] <span class="smallcaps">lord</span> upon the altar of the incenses. 
-<small><sub>**KJV:**</sub></small>
-Then Uzziah was wroth, and [had] a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar.
-<small><sub>**BSB:**</sub></small>
-Uzziah, with a censer in his hand to offer incense, was enraged. But while he raged against the priests in their presence in the house of the LORD before the altar of incense, leprosy broke out on his forehead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.18|<< 2 Chronicles 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.20|2 Chronicles 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

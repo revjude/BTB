@@ -1,4 +1,4 @@
-**Isaiah 36:22** 
+**Isaiah 36:22**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Eliakim, the son of Hilkiah, that [was] over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and As
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.21|<< Isaiah 36:21]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.1|Isaiah 37:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eliakim  |**<big>&#8207;[[H0471G\|אֶלְיָקִ֣ים]]&#8207; </big>**| 'el.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

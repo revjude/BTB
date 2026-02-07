@@ -1,4 +1,4 @@
-**Esther 4:5** 
+**Esther 4:5**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then called Esther for Hatach, [one] of the king’s chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it [was], and why it [was].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Esther summoned Hathach, one of the king’s eunuchs appointed to her, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.4|<< Esther 4:4]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.6|Esther 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|תִּקְרָא֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֨ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Hebrews 11:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:17**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten [son],
 <small><sub>**BSB:**</sub></small>
 By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,
@@ -10,7 +10,7 @@ By faith has offered up Abraham <the> Isaac Being tested, even <the> [his] only 
 > $\quad$ alluding to: [[LXX.Gen.22.1|Gen 22:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has offered up |**<big>[[G4374\|προσενήνοχεν]]</big>**  |prosenēnochen <small><sup>[[V-2RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 2:34** 
+**1 Chronicles 2:34**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name [was] Jarha.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sheshan had no sons, but only daughters. He also had an Egyptian servant named J
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.33|<< 1 Chronicles 2:33]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.35|1 Chronicles 2:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it belonged  |**<big>&#8207;[[H1961\|הָיָ֧ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

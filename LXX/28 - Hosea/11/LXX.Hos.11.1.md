@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Early they were disowned, \[the\] king of Israel was disowned; for Israel \[is\] an infant, and I loved him, and from out of Egypt I called back  his children. 
-<small><sub>**KJV:**</sub></small>
-When Israel [was] a child, then I loved him, and called my son out of Egypt.
-<small><sub>**BSB:**</sub></small>
-When Israel was a child, I loved him, and out of Egypt I called My son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.15|<< Hosea 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.2|Hosea 11:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 11:1** is...

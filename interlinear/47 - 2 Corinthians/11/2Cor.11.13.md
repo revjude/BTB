@@ -1,12 +1,12 @@
-**2 Corinthians 11:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:13**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For such [are] false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 <small><sub>**BSB:**</sub></small>
 For such men are false apostles, deceitful workers, masquerading as apostles of Christ.
 <small><sub>**Literal:**</sub></small>
 <the> For such [are] false apostles, workers deceitful, disguising themselves as apostles of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.12|<< 2 Corinthians 11:12]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.14|2 Corinthians 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

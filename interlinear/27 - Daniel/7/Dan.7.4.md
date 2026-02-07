@@ -1,4 +1,4 @@
-**Daniel 7:4** 
+**Daniel 7:4**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The first [was] like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The first beast was like a lion, and it had the wings of an eagle. I watched unt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.3|<< Daniel 7:3]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.5|Daniel 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | first the  |**<big>&#8207;[[H6933\|קַדְמָיְתָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| kad.ma.ye.Ta<small><sup>[[AAofsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] like a lion  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H0744\|אַרְיֵ֔ה]]&#8207; </big>**| khe.<small><sup>[[AR]]</sup></small> 'ar.Yeh<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:12** 
 <small><sub>**LXX:**</sub></small>
 And he was being hid with her in the house  of God six years. And Athaliah reigned over the land. 
-<small><sub>**KJV:**</sub></small>
-And he was with them hid in the house of God six years: and Athaliah reigned over the land.
-<small><sub>**BSB:**</sub></small>
-And Joash remained hidden with them in the house of God for six years while Athaliah ruled the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.11|<< 2 Chronicles 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.1|2 Chronicles 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

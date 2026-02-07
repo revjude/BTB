@@ -1,4 +1,4 @@
-**Isaiah 13:3** 
+**Isaiah 13:3**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have commanded my sanctified ones, I have also called my mighty ones for mine anger, [even] them that rejoice in my highness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have commanded My sanctified ones; I have even summoned My warriors to execute
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.2|<< Isaiah 13:2]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.4|Isaiah 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have commanded  |**<big>&#8207;[[H6680\|צִוֵּ֖יתִי]]&#8207; </big>**| tzi.Vei.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 19:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed straw and fodder exists for our donkeys, and indeed bread and wine exists to me, and to the maidservant, and to the servant; \[and to\] your servants there is no deficiency of any thing. 
-<small><sub>**KJV:**</sub></small>
-Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man [which is] with thy servants: [there is] no want of any thing.
-<small><sub>**BSB:**</sub></small>
-even though there is both straw and feed for our donkeys, and bread and wine for me and the maidservant and young man with me. There is nothing that we, your servants, lack.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.18|<< Judges 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.20|Judges 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

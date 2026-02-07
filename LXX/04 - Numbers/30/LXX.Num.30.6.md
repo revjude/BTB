@@ -1,10 +1,7 @@
 **LXX Numbers 30:6** 
 <small><sub>**LXX:**</sub></small>
 But if in coming to pass she should become a man's \[wife\], and  her vows \[be\] upon her, according to the distinction  from her lips as many \[things\] as she confirmed on  her life; 
-<small><sub>**KJV:**</sub></small>
-And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;
-<small><sub>**BSB:**</sub></small>
-If a woman marries while under a vow or rash promise by which she has bound herself,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.5|<< Numbers 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.7|Numbers 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

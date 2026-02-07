@@ -1,4 +1,4 @@
-**1 Kings 21:13** 
+**1 Kings 21:13**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, [even] against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the two scoundrels came in and sat opposite Naboth, and these men testified 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.12|<< 1 Kings 21:12]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.14|1 Kings 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935G\|יָּבֹאוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵ֨י]]&#8207; </big>**| she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

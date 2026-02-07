@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:18** 
 <small><sub>**LXX:**</sub></small>
 And I detested all my effort which I made an effort under the sun. For I must leave it to the man  coming after me. 
-<small><sub>**KJV:**</sub></small>
-Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
-<small><sub>**BSB:**</sub></small>
-I hated all for which I had toiled under the sun, because I must leave it to the man who comes after me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.17|<< Ecclesiastes 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.19|Ecclesiastes 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

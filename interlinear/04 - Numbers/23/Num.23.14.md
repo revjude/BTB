@@ -1,4 +1,4 @@
-**Numbers 23:14** 
+**Numbers 23:14**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on [every] altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Balak took him to the field of Zophim, to the top of Pisgah, where he built s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.13|<< Numbers 23:13]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.15|Numbers 23:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקָּחֵ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Che.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field of  |**<big>&#8207;[[H7704G\|שְׂדֵ֣ה]]&#8207; </big>**| se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

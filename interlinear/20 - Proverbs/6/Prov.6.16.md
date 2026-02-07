@@ -1,4 +1,4 @@
-**Proverbs 6:16** 
+**Proverbs 6:16**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These six [things] doth the LORD hate: yea, seven [are] an abomination unto him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There are six things that the LORD hates, seven that are detestable to Him:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.15|<< Proverbs 6:15]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.17|Proverbs 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six [things]  |**<big>&#8207;[[H8337\|שֶׁשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those  |**<big>&#8207;[[H2007\|הֵ֭נָּה]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

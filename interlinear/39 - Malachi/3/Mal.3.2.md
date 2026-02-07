@@ -1,4 +1,4 @@
-**Malachi 3:2** 
+**Malachi 3:2**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But who may abide the day of his coming? and who shall stand when he appeareth? for he [is] like a refiner’s fire, and like fullers’ soap:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But who can endure the day of His coming? And who can stand when He appears? For
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.1|<< Malachi 3:1]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.3|Malachi 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will] endure  |**<big>&#8207;[[H3557\|מְכַלְכֵּל֙]]&#8207; </big>**| me.khal.Kel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

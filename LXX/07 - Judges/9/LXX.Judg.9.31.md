@@ -1,10 +1,7 @@
 **LXX Judges 9:31** 
 <small><sub>**LXX:**</sub></small>
 And he sent messengers to Abimelech with bribes, saying, Behold, Gaal \[the\] son of Ebed, and  his brothers have come unto Shechem; and know, they assault the city against you. 
-<small><sub>**KJV:**</sub></small>
-And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee.
-<small><sub>**BSB:**</sub></small>
-So he covertly sent messengers to Abimelech to say, “Look, Gaal son of Ebed and his brothers have come to Shechem and are stirring up the city against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.30|<< Judges 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.32|Judges 9:32 >>]]</td></tr></table>
 
 | Translation | Greek |

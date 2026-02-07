@@ -1,4 +1,4 @@
-**Ezra 8:32** 
+**Ezra 8:32**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we came to Jerusalem, and abode there three days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we arrived at Jerusalem and rested there for three days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.31|<< Ezra 8:31]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.33|Ezra 8:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|נָּב֖וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> na.Vo'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:23** 
 <small><sub>**LXX:**</sub></small>
 And he did not recognized him, for his hands were as the hands of Esau  his brother -- hairy; and he blessed him. 
-<small><sub>**KJV:**</sub></small>
-And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.
-<small><sub>**BSB:**</sub></small>
-Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.22|<< Genesis 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.24|Genesis 27:24 >>]]</td></tr></table>
 
 | Translation | Greek |

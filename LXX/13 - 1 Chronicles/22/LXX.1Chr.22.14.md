@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:14** 
 <small><sub>**LXX:**</sub></small>
 And behold, I according to  my poorness prepared for the house of \[the\] <span class="smallcaps">lord</span> -- gold of a hundred thousand talents, and silver of a thousand thousand of talents, and brass, and iron of which there is no \[counting the\] weight, for it is in multitude. And wood and stones I prepared. And you add unto these \[things\]! 
-<small><sub>**KJV:**</sub></small>
-Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.
-<small><sub>**BSB:**</sub></small>
-Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.13|<< 1 Chronicles 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.15|1 Chronicles 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

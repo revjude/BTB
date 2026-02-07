@@ -1,4 +1,4 @@
-**Psalms 119:118** 
+**Psalms 119:118**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast trodden down all them that err from thy statutes: for their deceit [is] falsehood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You reject all who stray from Your statutes, for their deceitfulness is in vain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.118|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.117|<< Psalms 119:117]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.119|Psalms 119:119 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you reject  |**<big>&#8207;[[H5541A\|סָ֭לִיתָ]]&#8207; </big>**| Sa.li.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

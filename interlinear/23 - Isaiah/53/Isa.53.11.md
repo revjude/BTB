@@ -1,4 +1,4 @@
-**Isaiah 53:11** 
+**Isaiah 53:11**<big><big>[[Isa.53.9 A Grave Assigned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall see of the travail of his soul, [and] shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the anguish of His soul, He will see the light of life and be satisfied. B
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.10|<< Isaiah 53:10]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.12|Isaiah 53:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] labor of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5999\|עֲמַ֤ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Mal<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self his  |**<big>&#8207;[[H5315G\|נַפְשׁ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

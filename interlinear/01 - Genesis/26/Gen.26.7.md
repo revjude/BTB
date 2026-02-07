@@ -1,4 +1,4 @@
-**Genesis 26:7** 
+**Genesis 26:7**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of the place asked [him] of his wife; and he said, She [is] my sister: for he feared to say, [She is] my wife; lest, [said he], the men of the place should kill me for Rebekah; because she [was] fair to look upon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when the men of that place asked about his wife, he said, “She is my siste
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they asked  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7592\|יִּשְׁאֲל֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֤י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

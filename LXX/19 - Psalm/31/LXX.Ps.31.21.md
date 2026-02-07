@@ -1,10 +1,7 @@
 **LXX Psalm 31:21** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>, for his mercy caused wonders in \[the\] city encompassed about. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD: for he hath shewed me his marvellous kindness in a strong city.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD, for He has shown me His loving devotion in a city under siege.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.20|<< Psalm 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.22|Psalm 31:22 >>]]</td></tr></table>
 
 | Translation | Greek |

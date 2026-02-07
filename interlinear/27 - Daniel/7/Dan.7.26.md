@@ -1,4 +1,4 @@
-**Daniel 7:26** 
+**Daniel 7:26**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the judgment shall sit, and they shall take away his dominion, to consume and to destroy [it] unto the end.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But the court will convene, and his dominion will be taken away and completely d
 > $\quad$ referenced by: [[Rev.19.20|Rev 19:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and court the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1780\|דִינָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> di.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will sit  |**<big>&#8207;[[H3488\|יִתִּ֑ב]]&#8207; </big>**| yi.Tiv<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

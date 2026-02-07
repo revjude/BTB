@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:20** 
 <small><sub>**LXX:**</sub></small>
 And spirit of God was put on  Zechariah the \[son of\] Jehoiada the priest, and he rose above the people, and said to them, Thus says \[the\] <span class="smallcaps">lord</span>, Why do you pass by the commandments of \[the\] <span class="smallcaps">lord</span>, and your way shall not prosper? For you abandoned the <span class="smallcaps">lord</span>, and he shall abandon you. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit of God came upon Zechariah son of Jehoiada the priest, who stood up before the people and said to them, “This is what God says: ‘Why do you transgress the commandments of the LORD so that you cannot prosper? Because you have forsaken the LORD, He has forsaken you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.19|<< 2 Chronicles 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.21|2 Chronicles 24:21 >>]]</td></tr></table>
 
 | Translation | Greek |

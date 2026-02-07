@@ -1,4 +1,4 @@
-**Daniel 1:16** 
+**Daniel 1:16**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the steward continued to withhold their choice food and the wine they were to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.15|<< Daniel 1:15]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.17|Daniel 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the guardian  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4453\|מֶּלְצַ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mel.Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

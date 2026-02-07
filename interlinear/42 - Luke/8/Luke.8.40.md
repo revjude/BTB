@@ -1,12 +1,12 @@
-**Luke 8:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:40**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, when Jesus was returned, the people [gladly] received him: for they were all waiting for him.
 <small><sub>**BSB:**</sub></small>
 When Jesus returned, the crowd welcomed Him, for they had all been waiting for Him.
 <small><sub>**Literal:**</sub></small>
 it came to pass When then <the> [is] returning <the> Jesus received Him the crowd; they were for all looking for Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.39|<< Luke 8:39]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.41|Luke 8:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it came to pass [^1] |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | When |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 37:16** 
+**Psalms 37:16**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A little that a righteous man hath [is] better than the riches of many wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better is the little of the righteous than the abundance of many who are wicked.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.15|<< Psalms 37:15]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.17|Psalms 37:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] little  |**<big>&#8207;[[H4592\|מְ֭עַט]]&#8207; </big>**| Me.'at<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

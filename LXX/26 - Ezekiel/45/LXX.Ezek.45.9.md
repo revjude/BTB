@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:9** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God; Let it be enough to you, O ones guiding  Israel! Let injustice and misery be removed, and observe equity and righteousness! Lift away the tyrannies from  my people, says \[the\] <span class="smallcaps">lord</span>  God! 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘Enough, O princes of Israel! Cease your violence and oppression, and do what is just and right. Stop dispossessing My people, declares the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.8|<< Ezekiel 45:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.10|Ezekiel 45:10 >>]]</td></tr></table>
 
 | Translation | Greek |

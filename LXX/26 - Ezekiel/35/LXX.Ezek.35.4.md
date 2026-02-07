@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:4** 
 <small><sub>**LXX:**</sub></small>
 And  I will make your cities desolate, and you will be a wilderness, and you shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will turn your cities into ruins, and you will become a desolation. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.3|<< Ezekiel 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.5|Ezekiel 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:26** 
 <small><sub>**LXX:**</sub></small>
 If in deed I beheld yesterday the blood of Naboth and the blood of his sons, says \[the\] <span class="smallcaps">lord</span>? And I shall recompense to you in  this portion \[of land\], says \[the\] <span class="smallcaps">lord</span>. And now lift him, and toss him in the portion \[of land\], according to the word of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the LORD; and I will requite thee in this plat, saith the LORD. Now therefore take [and] cast him into the plat [of ground], according to the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-‘As surely as I saw the blood of Naboth and the blood of his sons yesterday, declares the LORD, so will I repay you on this plot of ground, declares the LORD.’ Now then, according to the word of the LORD, pick him up and throw him on the plot of ground.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.25|<< 2 Kings 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.27|2 Kings 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt, and \[the\] <span class="smallcaps">lord</span> your God ransomed you from there. On account of this I give charge to you to do  this thing. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.
-<small><sub>**BSB:**</sub></small>
-Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.14|<< Deuteronomy 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.16|Deuteronomy 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

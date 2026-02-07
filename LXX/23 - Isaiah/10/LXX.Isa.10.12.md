@@ -1,10 +1,7 @@
 **LXX Isaiah 10:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever \[the\] <span class="smallcaps">lord</span> should complete all his doings on  mount Zion and Jerusalem, he will strike against the great mind, against the ruler of the Assyrians, and against the haughtiness of the glory  of his eyes. 
-<small><sub>**KJV:**</sub></small>
-Wherefore it shall come to pass, [that] when the Lord hath performed his whole work upon mount Zion and on Jerusalem, I will punish the fruit of the stout heart of the king of Assyria, and the glory of his high looks.
-<small><sub>**BSB:**</sub></small>
-So when the Lord has completed all His work against Mount Zion and Jerusalem, He will say, “I will punish the king of Assyria for the fruit of his arrogant heart and the proud look in his eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.11|<< Isaiah 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.13|Isaiah 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

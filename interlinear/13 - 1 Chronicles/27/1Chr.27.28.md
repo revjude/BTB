@@ -1,4 +1,4 @@
-**1 Chronicles 27:28** 
+**1 Chronicles 27:28**<big><big>[[1Chr.27.25 David’s Various Overseers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over the olive trees and the sycomore trees that [were] in the low plains [was] Baalhanan the Gederite: and over the cellars of oil [was] Joash:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Baal-hanan the Gederite was in charge of the olive and sycamore trees in the foo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.27|<< 1 Chronicles 27:27]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.29|1 Chronicles 27:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the olive trees  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2132H\|זֵּיתִ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> zei.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

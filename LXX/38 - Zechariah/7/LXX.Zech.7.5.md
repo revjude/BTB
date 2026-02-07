@@ -1,10 +1,7 @@
 **LXX Zechariah 7:5** 
 <small><sub>**LXX:**</sub></small>
 Speak to all the people of the land, and to the priests, saying, If you should fast or beat your chest in the fifth or in the seventh \[months\], and behold, \[for\] seventy years, by fasting have you fasted to me? 
-<small><sub>**KJV:**</sub></small>
-Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh [month], even those seventy years, did ye at all fast unto me, [even] to me?
-<small><sub>**BSB:**</sub></small>
-“Ask all the people of the land and the priests, ‘When you fasted and mourned in the fifth and seventh months for these seventy years, was it really for Me that you fasted?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.4|<< Zechariah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.6|Zechariah 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

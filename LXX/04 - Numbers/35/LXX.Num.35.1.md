@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses upon \[the\] descent of Moab, by the Jordan, across from Jericho, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,
-<small><sub>**BSB:**</sub></small>
-Again the LORD spoke to Moses on the plains of Moab by the Jordan across from Jericho:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.29|<< Numbers 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.2|Numbers 35:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:168** 
 <small><sub>**LXX:**</sub></small>
 I kept  your commandments and  your testimonies, for all  my ways \[are\] before you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have kept thy precepts and thy testimonies: for all my ways [are] before thee.
-<small><sub>**BSB:**</sub></small>
-I obey Your precepts and Your testimonies, for all my ways are before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.168|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.167|<< Psalm 119:167]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.169|Psalm 119:169 >>]]</td></tr></table>
 
 | Translation | Greek |

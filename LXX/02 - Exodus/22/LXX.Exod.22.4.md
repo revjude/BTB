@@ -1,10 +1,7 @@
 **LXX Exodus 22:4** 
 <small><sub>**LXX:**</sub></small>
 And if \[anything\] should be left and should be found in  his hand from the theft, from both donkey unto sheep \[which may be\] living, he shall pay double for it. 
-<small><sub>**KJV:**</sub></small>
-If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.
-<small><sub>**BSB:**</sub></small>
-If what was stolen is actually found alive in his possession—whether ox or donkey or sheep—he must pay back double.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.3|<< Exodus 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.5|Exodus 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

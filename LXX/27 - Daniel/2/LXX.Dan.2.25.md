@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then Arioch in haste brought  Daniel before the king, and said to him, I found a man from out of the sons of the captivity  of Judea, one who will announce the interpretation to the king. 
-<small><sub>**KJV:**</sub></small>
-Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.
-<small><sub>**BSB:**</sub></small>
-Arioch hastily brought Daniel before the king and said to him, “I have found a man among the exiles from Judah who will tell the king the interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.24|<< Daniel 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.26|Daniel 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

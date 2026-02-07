@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:36** 
 <small><sub>**LXX:**</sub></small>
 And I shall bring upon Elam four winds from the four uttermost parts of the heaven; and I will scatter them in all  these winds; and there will not be a nation which shall not come -- the ones being pushing out of Elam. 
-<small><sub>**KJV:**</sub></small>
-And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.
-<small><sub>**BSB:**</sub></small>
-I will bring the four winds against Elam from the four corners of the heavens, and I will scatter them to all these winds. There will not be a nation to which Elam’s exiles will not go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
 | Translation | Greek |

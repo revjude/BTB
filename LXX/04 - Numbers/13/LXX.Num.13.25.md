@@ -1,10 +1,7 @@
 **LXX Numbers 13:25** 
 <small><sub>**LXX:**</sub></small>
 And they returned from there after surveying the land forty days. 
-<small><sub>**KJV:**</sub></small>
-And they returned from searching of the land after forty days.
-<small><sub>**BSB:**</sub></small>
-After forty days the men returned from spying out the land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.24|<< Numbers 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.26|Numbers 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

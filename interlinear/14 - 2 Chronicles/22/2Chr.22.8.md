@@ -1,4 +1,4 @@
-**2 Chronicles 22:8** 
+**2 Chronicles 22:8**<big><big>[[2Chr.22.8 Jehu Kills the Princes of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So while Jehu was executing judgment on the house of Ahab, he found the rulers o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.7|<< 2 Chronicles 22:7]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.9|2 Chronicles 22:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when entered into judgment  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8199\|הִשָּׁפֵ֥ט]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> hi.sha.Fet<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

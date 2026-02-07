@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:13** 
 <small><sub>**LXX:**</sub></small>
 And David said  to Nathan, I have sinned against the <span class="smallcaps">lord</span>. And Nathan said to David, And \[the\] <span class="smallcaps">lord</span> cast aside  your sin, and you shall not die. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.
-<small><sub>**BSB:**</sub></small>
-Then David said to Nathan, “I have sinned against the LORD.” “The LORD has taken away your sin,” Nathan replied. “You will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.12|<< 2 Samuel 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.14|2 Samuel 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

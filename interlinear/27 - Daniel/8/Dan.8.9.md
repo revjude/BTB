@@ -1,4 +1,4 @@
-**Daniel 8:9** 
+**Daniel 8:9**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant [land].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From one of these horns a little horn emerged and grew extensively toward the so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.8|<< Daniel 8:8]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.10|Daniel 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אַחַ֣ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 28:9** 
 <small><sub>**LXX:**</sub></small>
 that Esau went to Ishmael, and he took  Mahalath daughter of Ishmael, the son of Abraham, sister of Nebajoth, to  his wives, \[as a\] wife. 
-<small><sub>**KJV:**</sub></small>
-Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife.
-<small><sub>**BSB:**</sub></small>
-Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.8|<< Genesis 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.10|Genesis 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

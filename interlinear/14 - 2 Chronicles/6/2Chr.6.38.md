@@ -1,4 +1,4 @@
-**2 Chronicles 6:38** 
+**2 Chronicles 6:38**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and [toward] the city which thou hast chosen, and toward the house which I have built for thy name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when they return to You with all their heart and soul in the land of the ene
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.37|<< 2 Chronicles 6:37]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.39|2 Chronicles 6:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725O\|שָׁ֣בוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֗י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

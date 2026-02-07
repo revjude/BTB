@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:19** 
 <small><sub>**LXX:**</sub></small>
 And the king said  to Jeremiah, I have a matter with the Jews  having fled to the Chaldeans, lest they give me into their hands, and they shall deride me. 
-<small><sub>**KJV:**</sub></small>
-And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me.
-<small><sub>**BSB:**</sub></small>
-But King Zedekiah said to Jeremiah, “I am afraid of the Jews who have deserted to the Chaldeans, for the Chaldeans may deliver me into their hands to abuse me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.18|<< Jeremiah 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.20|Jeremiah 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

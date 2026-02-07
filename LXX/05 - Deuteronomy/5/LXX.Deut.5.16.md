@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:16** 
 <small><sub>**LXX:**</sub></small>
 Esteem  your father and  your mother! in which manner \[the\] <span class="smallcaps">lord</span> your God gave charge to you, that good should be to you, and that you may be a long time upon the earth, of which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.
-<small><sub>**BSB:**</sub></small>
-Honor your father and your mother, as the LORD your God has commanded you, so that your days may be long and that it may go well with you in the land that the LORD your God is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.15|<< Deuteronomy 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.17|Deuteronomy 5:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 5:16** is...

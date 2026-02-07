@@ -1,4 +1,4 @@
-**Psalms 16:10** 
+**Psalms 16:10**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For You will not abandon my soul to Sheol, nor will You let Your Holy One see de
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[John.20.9|John 20:9]] ☩ [[Acts.2.25|Acts 2:25-28]] ☩ [[Acts.2.31|Acts 2:31]] ☩ [[Acts.13.35|Acts 13:35]] ☩ [[1Cor.15.4|1Cor 15:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

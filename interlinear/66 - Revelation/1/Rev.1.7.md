@@ -1,5 +1,5 @@
-**Revelation 1:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:7**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, he cometh with clouds; and every eye shall see him, and they [also] which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 <small><sub>**BSB:**</sub></small>
 Behold, He is coming with the clouds, and every eye will see Him—even those who pierced Him. And all the tribes of the earth will mourn because of Him. So shall it be! Amen.
@@ -11,7 +11,7 @@ Behold He is coming with the clouds, and will behold Him every eye and those who
 > $\quad$ possibly alluding to: [[LXX.Dan.7.13|Dan 7:13]] ☩ [[LXX.Isa.40.5|Isa 40:5]] ☩ [[LXX.Zech.12.10|Zech 12:10-14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|Ἰδοὺ]]</big>**  |Idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He is coming |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

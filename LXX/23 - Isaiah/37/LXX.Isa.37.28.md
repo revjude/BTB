@@ -1,10 +1,7 @@
 **LXX Isaiah 37:28** 
 <small><sub>**LXX:**</sub></small>
 But now  I know your rest and your exit and your entrance, 
-<small><sub>**KJV:**</sub></small>
-But I know thy abode, and thy going out, and thy coming in, and thy rage against me.
-<small><sub>**BSB:**</sub></small>
-But I know your sitting down, your going out and coming in, and your raging against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.27|<< Isaiah 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.29|Isaiah 37:29 >>]]</td></tr></table>
 
 | Translation | Greek |

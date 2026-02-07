@@ -1,4 +1,4 @@
-**Leviticus 26:37** 
+**Leviticus 26:37**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will stumble over one another as before the sword, though no one is behind 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.36|<< Leviticus 26:36]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.38|Leviticus 26:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stumble  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3782\|כָשְׁל֧וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.she.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each  |**<big>&#8207;[[H0376I\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

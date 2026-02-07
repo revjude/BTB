@@ -1,10 +1,7 @@
 **LXX Psalm 69:23** 
 <small><sub>**LXX:**</sub></small>
 their eyes be darkened \[to\] not see, and  their back always bent downwards! 
-<small><sub>**KJV:**</sub></small>
-Let their eyes be darkened, that they see not; and make their loins continually to shake.
-<small><sub>**BSB:**</sub></small>
-May their eyes be darkened so they cannot see, and their backs be bent forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.22|<< Psalm 69:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.24|Psalm 69:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 69:23** is...

@@ -1,4 +1,4 @@
-**Jeremiah 51:42** 
+**Jeremiah 51:42**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sea is come up upon Babylon: she is covered with the multitude of the waves thereof.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sea has come up over Babylon; she is covered in turbulent waves.
 > $\quad$ referenced by: [[Rev.17.15|Rev 17:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will go up  |**<big>&#8207;[[H5927G\|עָלָ֥ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

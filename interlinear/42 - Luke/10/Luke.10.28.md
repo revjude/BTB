@@ -1,5 +1,5 @@
-**Luke 10:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:28**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto him, Thou hast answered right: this do, and thou shalt live.
 <small><sub>**BSB:**</sub></small>
 “You have answered correctly,” Jesus said. “Do this and you will live.”
@@ -10,7 +10,7 @@ He said then to him; Correctly you have answered; This do perform and you will l
 > $\quad$ alluding to: [[LXX.Lev.18.5|Lev 18:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

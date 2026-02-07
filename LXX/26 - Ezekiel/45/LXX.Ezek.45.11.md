@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:11** 
 <small><sub>**LXX:**</sub></small>
 And the choenix in like manner will be one  to receive the tenth of the homer, a choenix and a tenth of the homer -- \[the\] ephah shall be equal to the homer. 
-<small><sub>**KJV:**</sub></small>
-The ephah and the bath shall be of one measure, that the bath may contain the tenth part of an homer, and the ephah the tenth part of an homer: the measure thereof shall be after the homer.
-<small><sub>**BSB:**</sub></small>
-The ephah and the bath shall be the same quantity so that the bath will contain a tenth of a homer, and the ephah a tenth of a homer; the homer will be the standard measure for both.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.10|<< Ezekiel 45:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.12|Ezekiel 45:12 >>]]</td></tr></table>
 
 | Translation | Greek |

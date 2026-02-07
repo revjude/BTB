@@ -1,12 +1,12 @@
-**2 Timothy 2:2
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:2**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.
 <small><sub>**BSB:**</sub></small>
 And the things that you have heard me say among many witnesses, entrust these to faithful men who will be qualified to teach others as well.
 <small><sub>**Literal:**</sub></small>
 And [the things] which you have heard from me among many witnesses, these do yourself entrust to faithful men, such as sufficient will be also others to teach.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.1|<< 2 Timothy 2:1]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.3|2 Timothy 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the things] which |**<big>[[G3739\|ἃ]]</big>**  |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

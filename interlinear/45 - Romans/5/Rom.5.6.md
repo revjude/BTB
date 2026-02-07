@@ -1,12 +1,12 @@
-**Romans 5:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:6**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when we were yet without strength, in due time Christ died for the ungodly.
 <small><sub>**BSB:**</sub></small>
 For at just the right time, while we were still powerless, Christ died for the ungodly.
 <small><sub>**Literal:**</sub></small>
 Yet for Christ being of us without strength still according to [the] right time for [the] ungodly died;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.5|<< Romans 5:5]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.7|Romans 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yet [^1] [^2] |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |
 | for [^3] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |

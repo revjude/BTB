@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:2** 
 <small><sub>**LXX:**</sub></small>
 Ahaz was a son \[being\] twenty years \[old\] in  his reigning. And sixteen years he reigned in Jerusalem, and he did not do the upright \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span> his God as David  his father. 
-<small><sub>**KJV:**</sub></small>
-Twenty years old [was] Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not [that which was] right in the sight of the LORD his God, like David his father.
-<small><sub>**BSB:**</sub></small>
-Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.1|<< 2 Kings 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.3|2 Kings 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

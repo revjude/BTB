@@ -1,4 +1,4 @@
-**Joshua 9:20** 
+**Joshua 9:20**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is how we will treat them: We will let them live, so that no wrath will fal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.19|<< Joshua 9:19]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.21|Joshua 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֛את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will do  |**<big>&#8207;[[H6213A\|נַעֲשֶׂ֥ה]]&#8207; </big>**| na.'a.Seh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

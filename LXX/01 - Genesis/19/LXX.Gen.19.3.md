@@ -1,10 +1,7 @@
 **LXX Genesis 19:3** 
 <small><sub>**LXX:**</sub></small>
 And he constrained them, and they turned aside towards him, and entered unto  his house. And he made for them a banquet, and he baked unleavened \[breads\] for them, and they ate. 
-<small><sub>**KJV:**</sub></small>
-And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
-<small><sub>**BSB:**</sub></small>
-But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.2|<< Genesis 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.4|Genesis 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

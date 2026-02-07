@@ -1,10 +1,7 @@
 **LXX Daniel 1:8** 
 <small><sub>**LXX:**</sub></small>
 And Daniel put unto  his heart so as in no way he should be polluted in the table of the king, and in the wine  of his banquet. And he petitioned the chief eunuch so that in no way he should be polluted. 
-<small><sub>**KJV:**</sub></small>
-But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
-<small><sub>**BSB:**</sub></small>
-But Daniel made up his mind that he would not defile himself with the king’s food or wine. So he asked the chief official for permission not to defile himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.7|<< Daniel 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.9|Daniel 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

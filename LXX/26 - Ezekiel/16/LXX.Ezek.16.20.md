@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:20** 
 <small><sub>**LXX:**</sub></small>
 And you took  your sons and  your daughters whom you bore, and sacrificed \[these\] to them unto consumption, as you fornicated a little. 
-<small><sub>**KJV:**</sub></small>
-Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. [Is this] of thy whoredoms a small matter,
-<small><sub>**BSB:**</sub></small>
-You even took the sons and daughters you bore to Me and sacrificed them as food to idols. Was your prostitution not enough?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.19|<< Ezekiel 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.21|Ezekiel 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

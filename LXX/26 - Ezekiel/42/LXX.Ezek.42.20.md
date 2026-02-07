@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:20** 
 <small><sub>**LXX:**</sub></small>
 The four parts of it, and he set in order their enclosure round about -- five hundred towards \[the\] east, and five hundred cubits in breadth  to separate between the holy places, and between the area around the wall in arrangement of the house. 
-<small><sub>**KJV:**</sub></small>
-He measured it by the four sides: it had a wall round about, five hundred [reeds] long, and five hundred broad, to make a separation between the sanctuary and the profane place.
-<small><sub>**BSB:**</sub></small>
-So he measured the area on all four sides. It had a wall all around, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.19|<< Ezekiel 42:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.1|Ezekiel 43:1 >>]]</td></tr></table>
 
 | Translation | Greek |

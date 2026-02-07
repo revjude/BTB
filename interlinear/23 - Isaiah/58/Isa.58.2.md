@@ -1,4 +1,4 @@
-**Isaiah 58:2** 
+**Isaiah 58:2**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For day after day they seek Me and delight to know My ways, like a nation that d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.1|<< Isaiah 58:1]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.3|Isaiah 58:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אוֹתִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | day  |**<big>&#8207;[[H3117J\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

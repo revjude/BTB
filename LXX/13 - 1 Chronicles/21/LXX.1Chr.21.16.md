@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:16** 
 <small><sub>**LXX:**</sub></small>
 And David lifted up  his eyes, and he beheld the angel of \[the\] <span class="smallcaps">lord</span> standing between the earth and between the heaven, and  his broadsword being unsheathed in  his hand, being stretched out over Jerusalem. And David and the elders wearing sackcloths fell upon their face. 
-<small><sub>**KJV:**</sub></small>
-And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders [of Israel, who were] clothed in sackcloth, fell upon their faces.
-<small><sub>**BSB:**</sub></small>
-When David lifted up his eyes and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand stretched out over Jerusalem, David and the elders, clothed in sackcloth, fell facedown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.15|<< 1 Chronicles 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.17|1 Chronicles 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

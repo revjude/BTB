@@ -1,12 +1,12 @@
-**John 15:22
-**<small><sub>**KJV:**</sub></small>
+**John 15:22**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.
 <small><sub>**BSB:**</sub></small>
 If I had not come and spoken to them, they would not be guilty of sin. Now, however, they have no excuse for their sin.
 <small><sub>**Literal:**</sub></small>
 only unless I come and I said to them, sin not they had; now however excuse not they have for the sin of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.21|<< John 15:21]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.23|John 15:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only |**<big>[[G1487H\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | unless |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

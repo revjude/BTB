@@ -1,4 +1,4 @@
-**1 Samuel 14:48** 
+**1 Samuel 14:48**<big><big>[[1Sam.14.47 Saul’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered an host, and smote the Amalekites, and delivered Israel out of the hands of them that spoiled them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He fought valiantly and defeated the Amalekites, delivering Israel from the hand
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.47|<< 1 Samuel 14:47]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.49|1 Samuel 14:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H2428G\|חַ֔יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

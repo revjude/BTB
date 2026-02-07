@@ -1,4 +1,4 @@
-**Psalms 51:12** (51:14)
+**Psalms 51:12**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Restore unto me the joy of thy salvation; and uphold me [with thy] free spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Restore to me the joy of Your salvation, and sustain me with a willing spirit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.11|<< Psalms 51:11]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.13|Psalms 51:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | restore !  |**<big>&#8207;[[H7725H\|הָשִׁ֣יבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.Shi.va<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִּ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

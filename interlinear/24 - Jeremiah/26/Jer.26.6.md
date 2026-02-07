@@ -1,4 +1,4 @@
-**Jeremiah 26:6** 
+**Jeremiah 26:6**<big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I make this house like Shiloh, and will make this city a curse to all the nations of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will make this house like Shiloh, and I will make this city an object of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.5|<< Jeremiah 26:5]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.7|Jeremiah 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414I\|נָתַתִּ֛י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

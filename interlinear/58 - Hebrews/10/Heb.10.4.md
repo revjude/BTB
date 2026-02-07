@@ -1,12 +1,12 @@
-**Hebrews 10:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:4**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [it is] not possible that the blood of bulls and of goats should take away sins.
 <small><sub>**BSB:**</sub></small>
 because it is impossible for the blood of bulls and goats to take away sins.
 <small><sub>**Literal:**</sub></small>
 Impossible [it is] indeed [for the] blood of bulls and of goats to take away sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.3|<< Hebrews 10:3]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.5|Hebrews 10:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Impossible [it is] |**<big>[[G0102\|ἀδύνατον]]</big>**  |adunaton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

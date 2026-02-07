@@ -1,10 +1,7 @@
 **LXX Hosea 14:5** 
 <small><sub>**LXX:**</sub></small>
 and I will be as dew \[to\] Israel; he shall bloom as a lily, and shall cast  his roots as  Lebanon. 
-<small><sub>**KJV:**</sub></small>
-I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.
-<small><sub>**BSB:**</sub></small>
-I will be like the dew to Israel; he will blossom like the lily and take root like the cedars of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.4|<< Hosea 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.6|Hosea 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

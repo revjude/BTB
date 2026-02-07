@@ -1,12 +1,12 @@
-**Luke 7:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:29**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the people that heard [him], and the publicans, justified God, being baptized with the baptism of John.
 <small><sub>**BSB:**</sub></small>
 All the people who heard this, even the tax collectors, acknowledged God’s justice. For they had received the baptism of John.
 <small><sub>**Literal:**</sub></small>
 And all the people having heard even the tax collectors declared as righteous <the> God having been baptized [with] the baptism of John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.28|<< Luke 7:28]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.30|Luke 7:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

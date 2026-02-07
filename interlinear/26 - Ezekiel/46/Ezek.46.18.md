@@ -1,4 +1,4 @@
-**Ezekiel 46:18** 
+**Ezekiel 46:18**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; [but] he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prince must not take any of the inheritance of the people by evicting them f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.17|<< Ezekiel 46:17]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.19|Ezekiel 46:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will take away  |**<big>&#8207;[[H3947G\|יִקַּ֨ח]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

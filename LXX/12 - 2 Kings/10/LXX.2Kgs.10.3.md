@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:3** 
 <small><sub>**LXX:**</sub></small>
 that you shall look for the good, and the upright \[one\] among the sons  of your master. And you shall place him upon the throne  of his father, and you shall wage war for the house  of your master. 
-<small><sub>**KJV:**</sub></small>
-Look even out the best and meetest of your master’s sons, and set [him] on his father’s throne, and fight for your master’s house.
-<small><sub>**BSB:**</sub></small>
-select the best and most worthy son of your master, set him on his father’s throne, and fight for your master’s house.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.2|<< 2 Kings 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.4|2 Kings 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:26** 
 <small><sub>**LXX:**</sub></small>
 Bells of gold and pomegranate figures upon the hem of the undergarment round about, for the officiating, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-A bell and a pomegranate, a bell and a pomegranate, round about the hem of the robe to minister [in]; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-alternating the bells and pomegranates around the lower hem of the robe to be worn for ministry, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.25|<< Exodus 39:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.27|Exodus 39:27 >>]]</td></tr></table>
 
 | Translation | Greek |

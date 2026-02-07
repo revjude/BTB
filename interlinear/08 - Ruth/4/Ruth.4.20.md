@@ -1,4 +1,4 @@
-**Ruth 4:20** 
+**Ruth 4:20**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amminadab begat Nahshon, and Nahshon begat Salmon,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Amminadab was the father of Nahshon, Nahshon was the father of Salmon,
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Amminadab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5992G\|עַמִּֽינָדָב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.mi.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

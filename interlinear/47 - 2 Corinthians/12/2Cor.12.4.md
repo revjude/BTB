@@ -1,12 +1,12 @@
-**2 Corinthians 12:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:4**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
 <small><sub>**BSB:**</sub></small>
 was caught up to Paradise. The things he heard were inexpressible, things that man is not permitted to tell.
 <small><sub>**Literal:**</sub></small>
 that he was caught up into <the> Paradise and he heard inexpressible declaration which not being permitted to man to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.3|<< 2 Corinthians 12:3]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.5|2 Corinthians 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was caught up |**<big>[[G0726\|ἡρπάγη]]</big>**  |hērpagē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

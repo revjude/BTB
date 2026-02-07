@@ -1,5 +1,5 @@
-**Revelation 4:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:7**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the first beast [was] like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast [was] like a flying eagle.
 <small><sub>**BSB:**</sub></small>
 The first living creature was like a lion, the second like a calf, the third had a face like a man, and the fourth was like an eagle in flight.
@@ -10,7 +10,7 @@ And the living creature <the> first [was] like as a lion, and the second living 
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.10|Ezek 1:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

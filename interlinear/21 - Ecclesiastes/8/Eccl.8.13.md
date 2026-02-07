@@ -1,4 +1,4 @@
-**Ecclesiastes 8:13** 
+**Ecclesiastes 8:13**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it shall not be well with the wicked, neither shall he prolong [his] days, [which are] as a shadow; because he feareth not before God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet because the wicked do not fear God, it will not go well with them, and their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.12|<< Ecclesiastes 8:12]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.14|Ecclesiastes 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and good  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2896A\|טוֹב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

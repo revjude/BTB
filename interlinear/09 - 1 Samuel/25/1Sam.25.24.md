@@ -1,4 +1,4 @@
-**1 Samuel 25:24** 
+**1 Samuel 25:24**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And fell at his feet, and said, Upon me, my lord, [upon] me [let this] iniquity [be]: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She fell at his feet and said, “My lord, may the blame be on me alone, but ple
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.23|<< 1 Samuel 25:23]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.25|1 Samuel 25:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|תִּפֹּל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Pol<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

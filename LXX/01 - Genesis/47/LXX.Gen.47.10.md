@@ -1,10 +1,7 @@
 **LXX Genesis 47:10** 
 <small><sub>**LXX:**</sub></small>
 And Jacob having blessed  Pharaoh, he went forth from him. 
-<small><sub>**KJV:**</sub></small>
-And Jacob blessed Pharaoh, and went out from before Pharaoh.
-<small><sub>**BSB:**</sub></small>
-Then Jacob blessed Pharaoh and departed from his presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.9|<< Genesis 47:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.11|Genesis 47:11 >>]]</td></tr></table>
 
 | Translation | Greek |

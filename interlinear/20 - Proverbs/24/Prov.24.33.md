@@ -1,4 +1,4 @@
-**Proverbs 24:33** 
+**Proverbs 24:33**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] a little sleep, a little slumber, a little folding of the hands to sleep:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A little sleep, a little slumber, a little folding of the hands to rest,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.32|<< Proverbs 24:32]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.34|Proverbs 24:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a little of  |**<big>&#8207;[[H4592\|מְעַ֣ט]]&#8207; </big>**| me.'At<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sleep\<s>  |**<big>&#8207;[[H8142\|שֵׁ֭נוֹת]]&#8207; </big>**| She.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 10:5
-**<small><sub>**KJV:**</sub></small>
+**John 10:5**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
 <small><sub>**BSB:**</sub></small>
 But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.”
 <small><sub>**Literal:**</sub></small>
 After a stranger however certainly not they will follow but will flee from him, because not they know <the> of strangers the voice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.4|<< John 10:4]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.6|John 10:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After a stranger |**<big>[[G0245\|ἀλλοτρίῳ]]</big>**  |allotriō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 22:9** 
+**2 Samuel 22:9**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Smoke rose from His nostrils, and consuming fire came from His mouth; glowing co
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.8|<< 2 Samuel 22:8]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.10|2 Samuel 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it went up  |**<big>&#8207;[[H5927G\|עָלָ֤ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | smoke  |**<big>&#8207;[[H6227\|עָשָׁן֙]]&#8207; </big>**| 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

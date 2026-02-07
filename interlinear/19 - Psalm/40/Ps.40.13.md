@@ -1,4 +1,4 @@
-**Psalms 40:13** (40:14)
+**Psalms 40:13**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be pleased, O LORD, to deliver me: O LORD, make haste to help me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Be pleased, O LORD, to deliver me; hurry, O LORD, to help me.
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be pleased  |**<big>&#8207;[[H7521\|רְצֵ֣ה]]&#8207; </big>**| re.Tzeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

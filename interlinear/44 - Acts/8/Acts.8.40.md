@@ -1,12 +1,12 @@
-**Acts 8:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:40**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.
 <small><sub>**BSB:**</sub></small>
 But Philip appeared at Azotus and traveled through that region, preaching the gospel in all the towns until he came to Caesarea.
 <small><sub>**Literal:**</sub></small>
 Philip however was found at Azotus, and passing through he was evangelising to the towns all until <the> coming of him to Caesarea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.39|<< Acts 8:39]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.1|Acts 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Philip |**<big>[[G5376J\|Φίλιππος]]</big>**  |Philippos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

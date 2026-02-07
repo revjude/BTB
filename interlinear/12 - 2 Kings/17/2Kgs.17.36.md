@@ -1,4 +1,4 @@
-**2 Kings 17:36** 
+**2 Kings 17:36**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, worship the LORD, who brought you out of the land of Egypt with great p
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.35|<< 2 Kings 17:35]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.37|2 Kings 17:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

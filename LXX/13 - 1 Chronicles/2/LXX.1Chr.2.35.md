@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:35** 
 <small><sub>**LXX:**</sub></small>
 And Sheshan gave  his daughter  to Jarha his servant for a wife; and she bore to him  Attai. 
-<small><sub>**KJV:**</sub></small>
-And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.
-<small><sub>**BSB:**</sub></small>
-Sheshan gave his daughter in marriage to his servant Jarha, and she bore to him Attai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.34|<< 1 Chronicles 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.36|1 Chronicles 2:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 10:32** 
+**Genesis 10:32**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All these are the clans of Noah’s sons, according to their generations and nat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.31|<< Genesis 10:31]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.1|Genesis 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֧ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

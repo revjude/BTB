@@ -1,10 +1,7 @@
 **LXX Numbers 33:49** 
 <small><sub>**LXX:**</sub></small>
 And they camped by the Jordan between Jesimoth unto Abel-shittim by the descent of Moab. 
-<small><sub>**KJV:**</sub></small>
-And they pitched by Jordan, from Bethjesimoth [even] unto Abelshittim in the plains of Moab.
-<small><sub>**BSB:**</sub></small>
-And there on the plains of Moab they camped by the Jordan, from Beth-jeshimoth to Abel-shittim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.48|<< Numbers 33:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.50|Numbers 33:50 >>]]</td></tr></table>
 
 | Translation | Greek |

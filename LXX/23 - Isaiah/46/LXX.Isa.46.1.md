@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Bel fell, Dagon was broken. Their carved \[images\] became for \[the\] wild beasts; and cattle lift them being bound for a load, tiring, fainting, 
-<small><sub>**KJV:**</sub></small>
-Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages [were] heavy loaden; [they are] a burden to the weary [beast].
-<small><sub>**BSB:**</sub></small>
-Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.25|<< Isaiah 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.2|Isaiah 46:2 >>]]</td></tr></table>
 
 | Translation | Greek |

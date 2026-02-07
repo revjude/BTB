@@ -1,4 +1,4 @@
-**Genesis 41:37** 
+**Genesis 41:37**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This proposal pleased Pharaoh and all his officials.
 > $\quad$ referenced by: [[Acts.7.10|Acts 7:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was good  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3190\|יִּיטַ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

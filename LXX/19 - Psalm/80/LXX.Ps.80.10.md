@@ -1,10 +1,7 @@
 **LXX Psalm 80:10** 
 <small><sub>**LXX:**</sub></small>
 Her shadow covered mountains, and  her tendrils \[covered\] the cedars  of God. 
-<small><sub>**KJV:**</sub></small>
-The hills were covered with the shadow of it, and the boughs thereof [were like] the goodly cedars.
-<small><sub>**BSB:**</sub></small>
-The mountains were covered by its shade, and the mighty cedars with its branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.9|<< Psalm 80:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.11|Psalm 80:11 >>]]</td></tr></table>
 
 | Translation | Greek |

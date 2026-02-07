@@ -1,4 +1,4 @@
-**Judges 9:56** 
+**Judges 9:56**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In this way God repaid the wickedness that Abimelech had done to his father in m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.55|<< Judges 9:55]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.57|Judges 9:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725K\|יָּ֣שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

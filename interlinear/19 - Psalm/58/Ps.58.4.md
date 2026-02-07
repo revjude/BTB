@@ -1,4 +1,4 @@
-**Psalms 58:4** (58:5)
+**Psalms 58:4**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their poison [is] like the poison of a serpent: [they are] like the deaf adder [that] stoppeth her ear;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their venom is like the venom of a snake, like a cobra that shuts its ears,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.3|<< Psalms 58:3]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.5|Psalms 58:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | venom  |**<big>&#8207;[[H2534\|חֲמַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.mat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of them  |**<big>&#8207;[[H9005\|לָ֗]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

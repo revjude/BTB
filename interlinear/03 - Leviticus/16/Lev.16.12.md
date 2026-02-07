@@ -1,4 +1,4 @@
-**Leviticus 16:12** 
+**Leviticus 16:12**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring [it] within the vail:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he must take a censer full of burning coals from the altar before the LORD,
 > $\quad$ referenced by: [[Heb.6.19|Heb 6:19]] ☩ [[Rev.8.3|Rev 8:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fullness of  |**<big>&#8207;[[H4393\|מְלֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.lo'-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

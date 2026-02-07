@@ -1,10 +1,7 @@
 **LXX Judges 9:30** 
 <small><sub>**LXX:**</sub></small>
 And Zebul the ruler of the city heard the words of Gaal son of Ebed, and he was enraged in anger. 
-<small><sub>**KJV:**</sub></small>
-And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
-<small><sub>**BSB:**</sub></small>
-When Zebul the governor of the city heard the words of Gaal son of Ebed, he burned with anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.29|<< Judges 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.31|Judges 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

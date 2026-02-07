@@ -1,12 +1,12 @@
-**Romans 11:31
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:31**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so have these also now not believed, that through your mercy they also may obtain mercy.
 <small><sub>**BSB:**</sub></small>
 so they too have now disobeyed, in order that they too may now receive mercy through the mercy shown to you.
 <small><sub>**Literal:**</sub></small>
 so also these now were disobedient <the> to your mercy so that also they themselves now may have mercy shown [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.30|<< Romans 11:30]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.32|Romans 11:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

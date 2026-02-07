@@ -1,10 +1,7 @@
 **LXX Genesis 49:9** 
 <small><sub>**LXX:**</sub></small>
 Judah \[is\] a lion cub. From a bud, O son of mine, you ascended. Reclining, you went to bed as a lion; and as a cub who will rouse him? 
-<small><sub>**KJV:**</sub></small>
-Judah [is] a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
-<small><sub>**BSB:**</sub></small>
-Judah is a young lion—my son, you return from the prey. Like a lion he crouches and lies down; like a lioness, who dares to rouse him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.8|<< Genesis 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.10|Genesis 49:10 >>]]</td></tr></table>
 
 | Translation | Greek |

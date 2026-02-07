@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:15** 
 <small><sub>**LXX:**</sub></small>
 And from the needy of the people, and the rest of the people, and the ones being left behind in the city, and the ones falling in, the ones who fell to the king  of Babylon, and the extra of the multitude the chief guard moved. 
-<small><sub>**KJV:**</sub></small>
-Then Nebuzaradan the captain of the guard carried away captive [certain] of the poor of the people, and the residue of the people that remained in the city, and those that fell away, that fell to the king of Babylon, and the rest of the multitude.
-<small><sub>**BSB:**</sub></small>
-Then Nebuzaradan captain of the guard carried into exile some of the poorest people and those who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the craftsmen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.14|<< Jeremiah 52:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.16|Jeremiah 52:16 >>]]</td></tr></table>
 
 | Translation | Greek |

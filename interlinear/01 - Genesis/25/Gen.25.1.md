@@ -1,4 +1,4 @@
-**Genesis 25:1** 
+**Genesis 25:1**<big><big>[[Gen.25.1 Abraham and Keturah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then again Abraham took a wife, and her name [was] Keturah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abraham had taken another wife, named Keturah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.67|<< Genesis 24:67]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.2|Genesis 25:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254H\|יֹּ֧סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֛ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

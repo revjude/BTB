@@ -1,4 +1,4 @@
-**Isaiah 55:1** 
+**Isaiah 55:1**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Ho, every one that thirsteth, come ye to the waters, and he that hath no money; 
 > $\quad$ referenced by: [[John.7.38|John 7:38]] ☩ [[Rev.21.6|Rev 21:6]] ☩ [[Rev.22.17|Rev 22:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H1945\|ה֤וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

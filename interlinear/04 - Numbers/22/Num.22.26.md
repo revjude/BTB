@@ -1,4 +1,4 @@
-**Numbers 22:26** 
+**Numbers 22:26**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD went further, and stood in a narrow place, where [was] no way to turn either to the right hand or to the left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the angel of the LORD moved on ahead and stood in a narrow place where there
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.25|<< Numbers 22:25]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.27|Numbers 22:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he increased  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254H\|יּ֥וֹסֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.'akh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

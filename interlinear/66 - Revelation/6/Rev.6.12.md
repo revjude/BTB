@@ -1,5 +1,5 @@
-**Revelation 6:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:12**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
 <small><sub>**BSB:**</sub></small>
 And I watched as the Lamb opened the sixth seal, and there was a great earthquake, and the sun became black like sackcloth of goat hair, and the whole moon turned blood red,
@@ -11,7 +11,7 @@ And I saw when He opened the seal <the> sixth, and behold an earthquake great th
 > $\quad$ alluding to: [[LXX.Isa.34.4|Isa 34:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

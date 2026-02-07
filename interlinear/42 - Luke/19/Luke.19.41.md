@@ -1,12 +1,12 @@
-**Luke 19:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:41**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come near, he beheld the city, and wept over it,
 <small><sub>**BSB:**</sub></small>
 As Jesus approached Jerusalem and saw the city, He wept over it
 <small><sub>**Literal:**</sub></small>
 And as He drew near, having seen the city He wept over it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.40|<< Luke 19:40]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.42|Luke 19:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 5:22** 
+**Isaiah 5:22**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto [them that are] mighty to drink wine, and men of strength to mingle strong drink:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who are heroes in drinking wine and champions in mixing strong drin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.21|<< Isaiah 5:21]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.23|Isaiah 5:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֕וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [men] mighty  |**<big>&#8207;[[H1368\|גִּבּוֹרִ֖ים]]&#8207; </big>**| gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

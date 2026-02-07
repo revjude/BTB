@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:32** 
 <small><sub>**LXX:**</sub></small>
 And king David said, Call to me Zadok the priest, and Nathan the prophet, and Benaiah son of Jehoiada! And they entered before the king. 
-<small><sub>**KJV:**</sub></small>
-And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
-<small><sub>**BSB:**</sub></small>
-Then King David said, “Call in for me Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada.” So they came before the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.31|<< 1 Kings 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.33|1 Kings 1:33 >>]]</td></tr></table>
 
 | Translation | Greek |

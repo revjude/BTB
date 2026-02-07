@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there came forth all the sons of Israel, and the congregation held an assembly as one man, from Dan and unto Beer-sheba, and \[the\] land of Gilead, before \[the\] <span class="smallcaps">lord</span> in Mizpeh. 
-<small><sub>**KJV:**</sub></small>
-Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.
-<small><sub>**BSB:**</sub></small>
-Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.30|<< Judges 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.2|Judges 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

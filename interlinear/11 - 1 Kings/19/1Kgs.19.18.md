@@ -1,4 +1,4 @@
-**1 Kings 19:18** 
+**1 Kings 19:18**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet I have left [me] seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Nevertheless, I have reserved seven thousand in Israel—all whose knees have no
 > $\quad$ referenced by: [[Rom.11.4|Rom 11:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will leave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7604\|הִשְׁאַרְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.'ar.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among Israel  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

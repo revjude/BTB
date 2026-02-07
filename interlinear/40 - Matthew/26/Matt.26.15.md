@@ -1,5 +1,5 @@
-**Matthew 26:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:15**<big><big>[[Matt.26.14 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said [unto them], What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
 <small><sub>**BSB:**</sub></small>
 and asked, “What are you willing to give me if I hand Him over to you?” And they set out for him thirty pieces of silver.
@@ -10,7 +10,7 @@ he said; What are you willing me to give, and I myself to you will betray Him? <
 > $\quad$ referencing: [[LXX.Zech.11.12|Zech 11:12-13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

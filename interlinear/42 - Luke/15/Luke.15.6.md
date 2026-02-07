@@ -1,12 +1,12 @@
-**Luke 15:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:6**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he cometh home, he calleth together [his] friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.
 <small><sub>**BSB:**</sub></small>
 comes home, and calls together his friends and neighbors to tell them, ‘Rejoice with me, for I have found my lost sheep!’
 <small><sub>**Literal:**</sub></small>
 And having come to the house he calls together the friends and the neighbours saying to them; do rejoice with me, for I have found the sheep of mine the [one] having been lost!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.5|<< Luke 15:5]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.7|Luke 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

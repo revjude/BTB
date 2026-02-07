@@ -1,10 +1,7 @@
 **LXX Hosea 2:17** 
 <small><sub>**LXX:**</sub></small>
 And I will lift away the names of the Baalim from her mouth, and in no way their names be remembered any longer. 
-<small><sub>**KJV:**</sub></small>
-For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.
-<small><sub>**BSB:**</sub></small>
-For I will remove from her lips the names of the Baals; no longer will their names be invoked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.16|<< Hosea 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.18|Hosea 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

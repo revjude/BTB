@@ -6,10 +6,7 @@ A praise of an ode \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 The one dwelling in \[the\] help of the highest, shall lodge in \[the\] protection of the God of the of heaven. 
-<small><sub>**KJV:**</sub></small>
-He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
-<small><sub>**BSB:**</sub></small>
-He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.17|<< Psalm 90:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.2|Psalm 91:2 >>]]</td></tr></table>
 
 | Translation | Greek |

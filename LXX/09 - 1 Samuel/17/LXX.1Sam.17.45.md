@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:45** 
 <small><sub>**LXX:**</sub></small>
 And David said to the Philistine, You come to me with a broadsword, and with a spear, and with a shield. But I come to you in \[the\] name of \[the\] <span class="smallcaps">lord</span> God of hosts, \[the\] God of \[the\] battle array of Israel, whom you berate today. 
-<small><sub>**KJV:**</sub></small>
-Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.
-<small><sub>**BSB:**</sub></small>
-But David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.44|<< 1 Samuel 17:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.46|1 Samuel 17:46 >>]]</td></tr></table>
 
 | Translation | Greek |

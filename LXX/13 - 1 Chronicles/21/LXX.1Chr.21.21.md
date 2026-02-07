@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:21** 
 <small><sub>**LXX:**</sub></small>
 And David came to Ornan, and Ornan came forth from the threshing-floor. And Ornan looked up, and he saw  David, and he did obeisance to  David with \[the\] face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with [his] face to the ground.
-<small><sub>**BSB:**</sub></small>
-David came to Ornan, and when Ornan looked out and saw David, he left the threshing floor and bowed facedown before David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.20|<< 1 Chronicles 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.22|1 Chronicles 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 7:3** 
+**Nehemiah 7:3**<big><big>[[Neh.7.1 Securing the City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar [them]: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one [to be] over against his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I told them, “Do not open the gates of Jerusalem until the sun is hot. Whi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  [^2]|**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֣ר]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

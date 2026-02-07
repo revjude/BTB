@@ -1,4 +1,4 @@
-**Amos 8:14** 
+**Amos 8:14**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who swear by the guilt of Samaria and say, ‘As surely as your god lives,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.13|<< Amos 8:13]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.1|Amos 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] swear  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7650\|נִּשְׁבָּעִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nish.ba.'Im<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] guilt of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0819\|אַשְׁמַ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ash.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

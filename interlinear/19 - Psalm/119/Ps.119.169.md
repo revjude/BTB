@@ -1,12 +1,12 @@
-**Psalms 119:169** 
+**Psalms 119:169**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-TAU. Let my cry come near before thee, O LORD: give me understanding according to thy word.
+Let my cry come near before thee, O LORD: give me understanding according to thy word.
 <small><sub>**BSB:**</sub></small>
 May my cry come before You, O LORD; give me understanding according to Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.169|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.168|<< Psalms 119:168]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.170|Psalms 119:170 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it draw near  |**<big>&#8207;[[H7126G\|תִּקְרַ֤ב]]&#8207; </big>**| tik.Rav<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cry of entreaty my  |**<big>&#8207;[[H7440\|רִנָּתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ri.na.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

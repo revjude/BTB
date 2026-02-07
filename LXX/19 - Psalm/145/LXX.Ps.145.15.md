@@ -1,10 +1,7 @@
 **LXX Psalm 145:15** 
 <small><sub>**LXX:**</sub></small>
 The eyes of all hope in you; and you give  them nourishment at an opportune time. 
-<small><sub>**KJV:**</sub></small>
-The eyes of all wait upon thee; and thou givest them their meat in due season.
-<small><sub>**BSB:**</sub></small>
-The eyes of all look to You, and You give them their food in season.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.14|<< Psalm 145:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.16|Psalm 145:16 >>]]</td></tr></table>
 
 | Translation | Greek |

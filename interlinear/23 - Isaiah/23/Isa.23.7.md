@@ -1,4 +1,4 @@
-**Isaiah 23:7** 
+**Isaiah 23:7**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] this your joyous [city], whose antiquity [is] of ancient days? her own feet shall carry her afar off to sojourn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is this your jubilant city, whose origin is from antiquity, whose feet have take
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.6|<< Isaiah 23:6]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.8|Isaiah 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is] this  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

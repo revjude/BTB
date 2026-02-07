@@ -1,4 +1,4 @@
-**Job 30:9** 
+**Job 30:9**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now am I their song, yea, I am their byword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now they mock me in song; I have become a byword among them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.8|<< Job 30:8]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.10|Job 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H6258\|עַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | taunt song their  |**<big>&#8207;[[H5058\|נְגִינָתָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ne.gi.na.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

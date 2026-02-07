@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:44** 
 <small><sub>**LXX:**</sub></small>
 And you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span> in  my doing thus to you, so that  my name should not be profaned, not according to  your evil ways, nor according to  your corrupting practices, O house of Israel, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And ye shall know that I [am] the LORD, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Then you will know, O house of Israel, that I am the LORD, when I have dealt with you for the sake of My name and not according to your wicked ways and corrupt acts, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.43|<< Ezekiel 20:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.45|Ezekiel 20:45 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:25** 
 <small><sub>**LXX:**</sub></small>
 And for the properties in their fields,  \[some\] from \[the\] sons of Judah settled in Kirjath-arba, and in  her daughter \[towns\], and in Dibon, and in  her daughter \[towns\], and in Jekabseel, and in  her courtyards, 
-<small><sub>**KJV:**</sub></small>
-And for the villages, with their fields, [some] of the children of Judah dwelt at Kirjatharba, and [in] the villages thereof, and at Dibon, and [in] the villages thereof, and at Jekabzeel, and [in] the villages thereof,
-<small><sub>**BSB:**</sub></small>
-As for the villages with their fields, some of the people of Judah lived in Kiriath-arba, Dibon, Jekabzeel, and their villages;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.24|<< Nehemiah 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.26|Nehemiah 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 5:22** 
+**Job 5:22**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will laugh at destruction and famine, and need not fear the beasts of the ea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.21|<< Job 5:21]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.23|Job 5:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to destruction  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7701\|שֹׁ֣ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to famine  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3720\|כָפָ֣ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> kha.Fan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

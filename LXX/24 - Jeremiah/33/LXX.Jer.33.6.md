@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, I lead to her a closing of her wound and a cure. And I will treat them, and I will make manifest to them to hear, and I will make to them peace and trust. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, I will bring to it health and healing, and I will heal its people and reveal to them the abundance of peace and truth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.5|<< Jeremiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.7|Jeremiah 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

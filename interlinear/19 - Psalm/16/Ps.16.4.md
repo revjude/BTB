@@ -1,4 +1,4 @@
-**Psalms 16:4** 
+**Psalms 16:4**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their sorrows shall be multiplied [that] hasten [after] another [god]: their drink offerings of blood will I not offer, nor take up their names into my lips.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sorrows will multiply to those who chase other gods. I will not pour out their l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.3|<< Psalms 16:3]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.5|Psalms 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will increase  |**<big>&#8207;[[H7235A\|יִרְבּ֥וּ]]&#8207; </big>**| yir.Bu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sorrows their  |**<big>&#8207;[[H6094\|עַצְּבוֹתָ]]&#8207;&#8207;[[H9028\|ם֮]]&#8207; </big>**| a.tze.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 1:45** 
+**Deuteronomy 1:45**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you returned and wept before the LORD, but He would not listen to your voice
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.44|<< Deuteronomy 1:44]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.46|Deuteronomy 1:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|תָּשֻׁ֥בוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Shu.vu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|תִּבְכּ֖וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiv.Ku<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

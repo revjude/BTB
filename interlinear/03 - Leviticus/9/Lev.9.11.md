@@ -1,4 +1,4 @@
-**Leviticus 9:11** 
+**Leviticus 9:11**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flesh and the hide he burnt with fire without the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But he burned up the flesh and the hide outside the camp.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.10|<< Leviticus 9:10]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.12|Leviticus 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the flesh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1320\|בָּשָׂ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 3:19** 
 <small><sub>**LXX:**</sub></small>
 and he returned from the carvings by  Gilgal. And Ehud said, \[There is\] with me a secret word for you, O king. And Eglon said to him, Be silent! And went forth from him all the ones standing around him. 
-<small><sub>**KJV:**</sub></small>
-But he himself turned again from the quarries that [were] by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him.
-<small><sub>**BSB:**</sub></small>
-But upon reaching the idols near Gilgal, he himself turned back and said, “I have a secret message for you, O king.” “Silence,” said the king, and all his attendants left him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.18|<< Judges 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.20|Judges 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

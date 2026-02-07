@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:21** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  of \[the\] forces, the God of Israel, concerning the vessels  being left behind in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in \[the\] house of \[the\] king of Judah, and Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Yea, thus saith the LORD of hosts, the God of Israel, concerning the vessels that remain [in] the house of the LORD, and [in] the house of the king of Judah and of Jerusalem;
-<small><sub>**BSB:**</sub></small>
-Yes, this is what the LORD of Hosts, the God of Israel, says about the articles that remain in the house of the LORD, in the palace of the king of Judah, and in Jerusalem:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.20|<< Jeremiah 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.22|Jeremiah 27:22 >>]]</td></tr></table>
 
 | Translation | Greek |

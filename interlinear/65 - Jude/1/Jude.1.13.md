@@ -1,12 +1,12 @@
-**Jude 1:13
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:13**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
 <small><sub>**BSB:**</sub></small>
 They are wild waves of the sea, foaming up their own shame; wandering stars, for whom blackest darkness has been reserved forever.
 <small><sub>**Literal:**</sub></small>
 waves wild of [the] sea foaming out <the> their own shame, stars wandering to whom the gloom <the> of darkness to the age has been reserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.12|<< Jude 1:12]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.14|Jude 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | waves |**<big>[[G2949\|κύματα]]</big>**  |kumata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wild |**<big>[[G0066\|ἄγρια]]</big>**  |agria <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

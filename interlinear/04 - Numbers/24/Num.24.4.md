@@ -1,4 +1,4 @@
-**Numbers 24:4** 
+**Numbers 24:4**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath said, which heard the words of God, which saw the vision of the Almighty, falling [into a trance], but having his eyes open:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the prophecy of one who hears the words of God, who sees a vision from the Almig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.3|<< Numbers 24:3]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.5|Numbers 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֕ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] [one who] hears  |**<big>&#8207;[[H8085G\|שֹׁמֵ֖עַ]]&#8207; </big>**| sho.Me.a'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

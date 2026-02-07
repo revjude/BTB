@@ -1,4 +1,4 @@
-**Ezekiel 20:39** 
+**Ezekiel 20:39**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for you, O house of Israel, thus saith the Lord GOD; Go ye, serve ye every one his idols, and hereafter [also], if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as for you, O house of Israel, this is what the Lord GOD says: Go and serve 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

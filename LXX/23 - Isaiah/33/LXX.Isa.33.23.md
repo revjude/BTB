@@ -1,10 +1,7 @@
 **LXX Isaiah 33:23** 
 <small><sub>**LXX:**</sub></small>
 Your rough cords were torn, for your mast does not have strength, it leans, it shall not let down the shrouds, it shall not lift a signal \[flag\] until of which \[time\] it should be delivered up for plunder; therefore many lame men shall cause plunder. 
-<small><sub>**KJV:**</sub></small>
-Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.
-<small><sub>**BSB:**</sub></small>
-Your ropes are slack; they cannot secure the mast or spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.22|<< Isaiah 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.24|Isaiah 33:24 >>]]</td></tr></table>
 
 | Translation | Greek |

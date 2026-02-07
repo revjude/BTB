@@ -1,4 +1,4 @@
-**Song of Solomon 1:5** 
+**Song of Solomon 1:5**<big><big>[[Song.1.5 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.4|<< Song of Solomon 1:4]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.6|Song of Solomon 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [am] black  |**<big>&#8207;[[H7838\|שְׁחוֹרָ֤ה]]&#8207; </big>**| she.cho.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

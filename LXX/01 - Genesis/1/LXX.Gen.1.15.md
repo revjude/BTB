@@ -1,10 +1,7 @@
 **LXX Genesis 1:15** 
 <small><sub>**LXX:**</sub></small>
 And let them be for giving light in the firmament of the heaven, so as to shine upon the earth! And it was so. 
-<small><sub>**KJV:**</sub></small>
-And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
-<small><sub>**BSB:**</sub></small>
-And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.14|<< Genesis 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.16|Genesis 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

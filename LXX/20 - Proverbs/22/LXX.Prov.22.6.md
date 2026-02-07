@@ -1,10 +1,7 @@
 **LXX Proverbs 22:6** 
 <small><sub>**LXX:**</sub></small>
 Dedicate the child according to  his way; and indeed if he should grow old, he will not depart from it. 
-<small><sub>**KJV:**</sub></small>
-Train up a child in the way he should go: and when he is old, he will not depart from it.
-<small><sub>**BSB:**</sub></small>
-Train up a child in the way he should go, and when he is old he will not depart from it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.5|<< Proverbs 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.7|Proverbs 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

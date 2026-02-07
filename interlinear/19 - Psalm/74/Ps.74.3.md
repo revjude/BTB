@@ -1,4 +1,4 @@
-**Psalms 74:3** 
+**Psalms 74:3**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thy feet unto the perpetual desolations; [even] all [that] the enemy hath done wickedly in the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn Your steps to the everlasting ruins, to everything in the sanctuary the ene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.2|<< Psalms 74:2]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.4|Psalms 74:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up !  |**<big>&#8207;[[H7311A\|הָרִ֣ימָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.Ri.ma<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | footsteps your  |**<big>&#8207;[[H6471\|פְ֭עָמֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Fe.'a.mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

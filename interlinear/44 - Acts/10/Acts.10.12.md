@@ -1,12 +1,12 @@
-**Acts 10:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:12**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
 <small><sub>**BSB:**</sub></small>
 It contained all kinds of four-footed animals and reptiles of the earth, as well as birds of the air.
 <small><sub>**Literal:**</sub></small>
 in which were all the quadrupeds and the beasts and the creeping things of the earth and <the> birds <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.11|<< Acts 10:11]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.13|Acts 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

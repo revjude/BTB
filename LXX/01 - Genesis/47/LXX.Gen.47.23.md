@@ -1,10 +1,7 @@
 **LXX Genesis 47:23** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to all the Egyptians, Behold, I have acquired you and  your land today  for Pharaoh. Take to yourselves seed, and sow the land! 
-<small><sub>**KJV:**</sub></small>
-Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, [here is] seed for you, and ye shall sow the land.
-<small><sub>**BSB:**</sub></small>
-Then Joseph said to the people, “Now that I have acquired you and your land for Pharaoh this day, here is seed for you to sow in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.22|<< Genesis 47:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.24|Genesis 47:24 >>]]</td></tr></table>
 
 | Translation | Greek |

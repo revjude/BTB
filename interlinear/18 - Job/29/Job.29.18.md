@@ -1,4 +1,4 @@
-**Job 29:18** 
+**Job 29:18**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I said, I shall die in my nest, and I shall multiply [my] days as the sand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I thought: ‘I will die in my nest and multiply my days as the sand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.17|<< Job 29:17]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.19|Job 29:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ֭]]&#8207;&#8207;[[H0559\|אֹמַר]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> 'o.mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

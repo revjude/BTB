@@ -1,4 +1,4 @@
-**Genesis 2:3** 
+**Genesis 2:3**<big><big>[[Gen.2.1 The Seventh Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then God blessed the seventh day and sanctified it, because on that day He reste
 > $\quad$ referenced by: [[Heb.4.4|Heb 4:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֤רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

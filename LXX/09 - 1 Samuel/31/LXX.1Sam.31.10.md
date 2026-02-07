@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:10** 
 <small><sub>**LXX:**</sub></small>
 And they presented  his weapons in the Astartion. And  his body they fastened down on the wall in Beth-shan. 
-<small><sub>**KJV:**</sub></small>
-And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan.
-<small><sub>**BSB:**</sub></small>
-They put his armor in the temple of the Ashtoreths and hung his body on the wall of Beth-shan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.9|<< 1 Samuel 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.11|1 Samuel 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

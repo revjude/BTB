@@ -1,12 +1,12 @@
-**1 John 2:13
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:13**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I write unto you, fathers, because ye have known him [that is] from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.
 <small><sub>**BSB:**</sub></small>
 I am writing to you, fathers, because you know Him who is from the beginning. I am writing to you, young men, because you have overcome the evil one. I have written to you, children, because you know the Father.
 <small><sub>**Literal:**</sub></small>
 I am writing to you, fathers, because you have known Him who [is] from [the] beginning. I am writing to you, young men, because you have overcome the evil [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.12|<< 1 John 2:12]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.14|1 John 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am writing |**<big>[[G1125\|γράφω]]</big>**  |graphō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you, |**<big>[[G4771\|ὑμῖν,]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 14:19** 
+**Jeremiah 14:19**<big><big>[[Jer.14.19 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and [there is] no healing for us? we looked for peace, and [there is] no good; and for the time of healing, and behold trouble!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have You rejected Judah completely? Do You despise Zion? Why have You stricken u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.18|<< Jeremiah 14:18]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.20|Jeremiah 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ really \<to reject>  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3988A\|מָאֹ֨ס]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ma.'Os<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you rejected  |**<big>&#8207;[[H3988A\|מָאַ֜סְתָּ]]&#8207; </big>**| ma.'As.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

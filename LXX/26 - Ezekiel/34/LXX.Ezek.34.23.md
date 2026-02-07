@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:23** 
 <small><sub>**LXX:**</sub></small>
 And I shall raise up for them one shepherd; and he will tend them as  my servant David. He will tend them, and he will be their shepherd. 
-<small><sub>**KJV:**</sub></small>
-And I will set up one shepherd over them, and he shall feed them, [even] my servant David; he shall feed them, and he shall be their shepherd.
-<small><sub>**BSB:**</sub></small>
-I will appoint over them one shepherd, My servant David, and he will feed them. He will feed them and be their shepherd.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.22|<< Ezekiel 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.24|Ezekiel 34:24 >>]]</td></tr></table>
 
 | Translation | Greek |

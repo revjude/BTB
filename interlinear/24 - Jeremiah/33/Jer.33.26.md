@@ -1,4 +1,4 @@
-**Jeremiah 33:26** 
+**Jeremiah 33:26**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I cast away the seed of Jacob, and David my servant, [so] that I will not take [any] of his seed [to be] rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I would also reject the descendants of Jacob and of My servant David, so as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.25|<< Jeremiah 33:25]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.1|Jeremiah 34:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] offspring of  |**<big>&#8207;[[H2233H\|זֶ֣רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:28** 
 <small><sub>**LXX:**</sub></small>
 And they called out with a great voice, and mutilated \[themselves\] according to  their custom with knives and by spears, until blood poured out of them. 
-<small><sub>**KJV:**</sub></small>
-And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
-<small><sub>**BSB:**</sub></small>
-So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.27|<< 1 Kings 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.29|1 Kings 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

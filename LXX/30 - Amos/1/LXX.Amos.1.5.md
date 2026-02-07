@@ -1,10 +1,7 @@
 **LXX Amos 1:5** 
 <small><sub>**LXX:**</sub></small>
 And I shall break \[the\] bars of Damascus, and I will utterly destroy \[the\] inhabitants of \[the\] plain of On; and I will cut in pieces a tribe of \[the\] men of Eden; and select people of Syria shall be captured, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will break down the gates of Damascus; I will cut off the ruler from the Valley of Aven and the one who wields the scepter in Beth-eden. The people of Aram will be exiled to Kir,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.4|<< Amos 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.6|Amos 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

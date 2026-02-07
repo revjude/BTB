@@ -1,4 +1,4 @@
-**Nehemiah 9:15** 
+**Nehemiah 9:15**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In their hunger You gave them bread from heaven; in their thirst You brought the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.14|<< Nehemiah 9:14]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.16|Nehemiah 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and bread  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H3899H\|לֶחֶם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַ֜יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

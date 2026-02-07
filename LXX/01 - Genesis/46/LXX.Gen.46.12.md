@@ -1,10 +1,7 @@
 **LXX Genesis 46:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Judah -- Er, and Onan, and Shelah, and Pharez, and Zerah. And Er and Onan died in \[the\] land of Canaan. And \[the\] sons born of Pharez -- Hezron, and Hamul. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.
-<small><sub>**BSB:**</sub></small>
-The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez: Hezron and Hamul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.11|<< Genesis 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.13|Genesis 46:13 >>]]</td></tr></table>
 
 | Translation | Greek |

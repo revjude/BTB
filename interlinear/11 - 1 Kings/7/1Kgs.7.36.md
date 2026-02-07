@@ -1,4 +1,4 @@
-**1 Kings 7:36** 
+**1 Kings 7:36**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He engraved cherubim, lions, and palm trees on the surfaces of the supports and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.35|<< 1 Kings 7:35]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.37|1 Kings 7:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he engraved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605B\|יְפַתַּ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.fa.Tach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

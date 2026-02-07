@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:26** 
 <small><sub>**LXX:**</sub></small>
 And \[there\] was another wife  to Jerahmeel, and her name \[was\] Atarah; she \[is the\] mother of Onam. 
-<small><sub>**KJV:**</sub></small>
-Jerahmeel had also another wife, whose name [was] Atarah; she [was] the mother of Onam.
-<small><sub>**BSB:**</sub></small>
-Jerahmeel had another wife named Atarah, who was the mother of Onam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.25|<< 1 Chronicles 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.27|1 Chronicles 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

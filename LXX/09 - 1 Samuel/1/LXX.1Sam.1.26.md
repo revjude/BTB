@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:26** 
 <small><sub>**LXX:**</sub></small>
 And she said, By me, O master, your soul should live; I \[am\] the woman  standing before you with you while  praying to \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And she said, Oh my lord, [as] thy soul liveth, my lord, I [am] the woman that stood by thee here, praying unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“Please, my lord,” said Hannah, “as surely as you live, my lord, I am the woman who stood here beside you praying to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.25|<< 1 Samuel 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.27|1 Samuel 1:27 >>]]</td></tr></table>
 
 | Translation | Greek |

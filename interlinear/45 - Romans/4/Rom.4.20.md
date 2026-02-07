@@ -1,12 +1,12 @@
-**Romans 4:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:20**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
 <small><sub>**BSB:**</sub></small>
 Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,
 <small><sub>**Literal:**</sub></small>
 About however the promise <the> of God not he did waver <the> through unbelief, but was strengthened <the> in faith, having given glory <the> to God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.19|<< Romans 4:19]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.21|Romans 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | About |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 78:32** 
 <small><sub>**LXX:**</sub></small>
 In all these \[things\] they sinned still, and did not trust in  his wonders. 
-<small><sub>**KJV:**</sub></small>
-For all this they sinned still, and believed not for his wondrous works.
-<small><sub>**BSB:**</sub></small>
-In spite of all this, they kept on sinning; despite His wonderful works, they did not believe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.31|<< Psalm 78:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.33|Psalm 78:33 >>]]</td></tr></table>
 
 | Translation | Greek |

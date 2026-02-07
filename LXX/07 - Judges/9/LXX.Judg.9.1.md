@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abimelech the son of Jerubbaal went into Shechem to the brothers  of his mother. And he spoke to them, and to all the kin of the house of his mother's father, saying, 
-<small><sub>**KJV:**</sub></small>
-And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,
-<small><sub>**BSB:**</sub></small>
-Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.35|<< Judges 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.2|Judges 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

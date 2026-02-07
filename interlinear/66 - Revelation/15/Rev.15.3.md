@@ -1,5 +1,5 @@
-**Revelation 15:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:3**<big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints.
 <small><sub>**BSB:**</sub></small>
 and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!
@@ -11,7 +11,7 @@ And they are singing the song of Moses the servant <the> of God and the song of 
 > $\quad$ referencing: [[LXX.Deut.32.4|Deut 32:4]] ☩ [[LXX.Ps.111.2|Ps 111:2]] ☩ [[LXX.Ps.139.14|Ps 139:14]] ☩ [[LXX.Ps.145.17|Ps 145:17]] ☩ [[LXX.Jer.10.6|Jer 10:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they are singing |**<big>[[G0103\|ᾄδουσιν]]</big>**  |adousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

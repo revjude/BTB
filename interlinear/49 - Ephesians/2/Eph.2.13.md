@@ -1,12 +1,12 @@
-**Ephesians 2:13
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:13**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
 <small><sub>**BSB:**</sub></small>
 But now in Christ Jesus you who once were far away have been brought near through the blood of Christ.
 <small><sub>**Literal:**</sub></small>
 Now however in Christ Jesus you yourselves the [ones] once being far off have become near by the blood <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.12|<< Ephesians 2:12]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.14|Ephesians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

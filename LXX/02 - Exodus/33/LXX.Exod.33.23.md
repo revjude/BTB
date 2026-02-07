@@ -1,10 +1,7 @@
 **LXX Exodus 33:23** 
 <small><sub>**LXX:**</sub></small>
 And I shall remove the hand, and then you shall see the rear of me,  but my face will not appear to you. 
-<small><sub>**KJV:**</sub></small>
-And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
-<small><sub>**BSB:**</sub></small>
-Then I will take My hand away, and you will see My back; but My face must not be seen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.22|<< Exodus 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.1|Exodus 34:1 >>]]</td></tr></table>
 
 | Translation | Greek |

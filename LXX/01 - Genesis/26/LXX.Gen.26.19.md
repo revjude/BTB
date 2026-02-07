@@ -1,10 +1,7 @@
 **LXX Genesis 26:19** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Isaac dug in the ravine of Gerar, and found there a well \[of\] living water. 
-<small><sub>**KJV:**</sub></small>
-And Isaac’s servants digged in the valley, and found there a well of springing water.
-<small><sub>**BSB:**</sub></small>
-Then Isaac’s servants dug in the valley and found a well of fresh water there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.18|<< Genesis 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.20|Genesis 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

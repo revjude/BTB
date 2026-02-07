@@ -1,4 +1,4 @@
-**2 Samuel 1:11** 
+**2 Samuel 1:11**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David took hold on his clothes, and rent them; and likewise all the men that [were] with him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David took hold of his own clothes and tore them, and all the men who were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.10|<< 2 Samuel 1:10]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.12|2 Samuel 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took hold  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388H\|יַּחֲזֵ֥ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Zek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֛ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 3:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:18**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
 <small><sub>**BSB:**</sub></small>
 Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise.
 <small><sub>**Literal:**</sub></small>
 No one himself should deceive; if anyone thinks [himself] wise to be among you in <the> age this, foolish he should become so that he may become wise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.17|<< 1 Corinthians 3:17]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.19|1 Corinthians 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No one |**<big>[[G3367\|Μηδεὶς]]</big>**  |Mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | himself |**<big>[[G1438\|ἑαυτὸν]]</big>**  |he'auton <small><sup>[[F-3ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

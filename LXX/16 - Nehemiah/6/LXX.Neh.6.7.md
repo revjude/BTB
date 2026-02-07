@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:7** 
 <small><sub>**LXX:**</sub></small>
 And to these \[things\] you established to yourself prophets to proclaim for you in Jerusalem, saying that you reigned in Judea. And now these words will be reported to the king. And now come we should consult together. 
-<small><sub>**KJV:**</sub></small>
-And thou hast also appointed prophets to preach of thee at Jerusalem, saying, [There is] a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.
-<small><sub>**BSB:**</sub></small>
-and you have even appointed prophets in Jerusalem to proclaim on your behalf: ‘There is a king in Judah.’ Soon these rumors will reach the ears of the king. So come, let us confer together.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.6|<< Nehemiah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.8|Nehemiah 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

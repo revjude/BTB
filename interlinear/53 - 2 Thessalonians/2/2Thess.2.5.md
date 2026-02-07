@@ -1,12 +1,12 @@
-**2 Thessalonians 2:5
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:5**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember ye not, that, when I was yet with you, I told you these things?
 <small><sub>**BSB:**</sub></small>
 Do you not remember that I told you these things while I was still with you?
 <small><sub>**Literal:**</sub></small>
 Surely you do remember that yet being with you these things I was saying to you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.4|<< 2 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.6|2 Thessalonians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you do remember |**<big>[[G3421\|μνημονεύετε]]</big>**  |mnēmoneuete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

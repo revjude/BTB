@@ -1,5 +1,5 @@
-**Ephesians 6:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:17**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 <small><sub>**BSB:**</sub></small>
 And take the helmet of salvation and the sword of the Spirit, which is the word of God.
@@ -10,7 +10,7 @@ And the helmet <the> of salvation do take and the sword of the Spirit which is d
 > $\quad$ alluding to: [[LXX.Isa.11.4|Isa 11:4]] ☩ [[LXX.Isa.49.2|Isa 49:2]] ☩ [[LXX.Isa.59.17|Isa 59:17]] ☩ [[LXX.Hos.6.5|Hos 6:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

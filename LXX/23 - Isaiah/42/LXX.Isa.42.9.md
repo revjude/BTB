@@ -1,10 +1,7 @@
 **LXX Isaiah 42:9** 
 <small><sub>**LXX:**</sub></small>
 The \[things\] from \[the\] beginning, behold, they have come, and \[the\] new \[things\] which I shall announce, even before the announcing, it was made manifest to you. 
-<small><sub>**KJV:**</sub></small>
-Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.
-<small><sub>**BSB:**</sub></small>
-Behold, the former things have happened, and now I declare new things. Before they spring forth I proclaim them to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.8|<< Isaiah 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.10|Isaiah 42:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 20:10** 
 <small><sub>**LXX:**</sub></small>
 \[An untrue\] weight, great and small, and \[untrue\] double measures \[are\] unclean before \[the\] <span class="smallcaps">lord</span> -- even both; even the one making them. 
-<small><sub>**KJV:**</sub></small>
-Divers weights, [and] divers measures, both of them [are] alike abomination to the LORD.
-<small><sub>**BSB:**</sub></small>
-Differing weights and unequal measures—both are detestable to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.9|<< Proverbs 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.11|Proverbs 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

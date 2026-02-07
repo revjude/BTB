@@ -1,10 +1,7 @@
 **LXX Daniel 11:6** 
 <small><sub>**LXX:**</sub></small>
 And after  his years they shall be mixed together; and \[the\] daughter of \[the\] king of the south shall enter in to \[the\] king of the north  to make treaties with him. And she shall not hold strength of arm; and his seed shall not stand, and she shall be delivered up, and the ones bringing her, and the young woman, and the one strengthening her in the times. 
-<small><sub>**KJV:**</sub></small>
-And in the end of years they shall join themselves together; for the king’s daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in [these] times.
-<small><sub>**BSB:**</sub></small>
-After some years they will form an alliance, and the daughter of the king of the South will go to the king of the North to seal the agreement. But his daughter will not retain her position of power, nor will his strength endure. At that time she will be given up, along with her royal escort and her father and the one who supported her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.5|<< Daniel 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.7|Daniel 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

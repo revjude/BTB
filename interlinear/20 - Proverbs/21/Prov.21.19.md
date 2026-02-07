@@ -1,4 +1,4 @@
-**Proverbs 21:19** 
+**Proverbs 21:19**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] better to dwell in the wilderness, than with a contentious and an angry woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better to live in the desert than with a contentious and ill-tempered wife.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.18|<< Proverbs 21:18]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.20|Proverbs 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֗וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to dwell  |**<big>&#8207;[[H3427\|שֶׁ֥בֶת]]&#8207; </big>**| She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

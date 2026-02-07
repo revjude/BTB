@@ -1,4 +1,4 @@
-**Psalms 45:8** (45:9)
+**Psalms 45:8**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy garments [smell] of myrrh, and aloes, [and] cassia, out of the ivory palaces, whereby they have made thee glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All your garments are fragrant with myrrh and aloes and cassia; from palaces of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.7|<< Psalms 45:7]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.9|Psalms 45:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] myrrh  |**<big>&#8207;[[H4753\|מֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mor-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and aloes  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0174\|אֲהָל֣וֹת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ha.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

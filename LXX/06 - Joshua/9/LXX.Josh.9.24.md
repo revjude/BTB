@@ -1,10 +1,7 @@
 **LXX Joshua 9:24** 
 <small><sub>**LXX:**</sub></small>
 And they answered  Joshua, saying that, A message was announced to us as much as \[the\] <span class="smallcaps">lord</span> your God ordered Moses  his servant to give to you this  land, and to utterly destroy us, and all the ones dwelling upon it, from in front of you. And we feared exceedingly for  our lives from your presence, and we did  this \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
-<small><sub>**BSB:**</sub></small>
-The Gibeonites answered, “Your servants were told clearly that the LORD your God had commanded His servant Moses to give you all the land and wipe out all its inhabitants before you. So we greatly feared for our lives because of you, and that is why we have done this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.23|<< Joshua 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.25|Joshua 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

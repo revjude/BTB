@@ -1,4 +1,4 @@
-**2 Chronicles 13:21** 
+**2 Chronicles 13:21**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Abijah grew strong, married fourteen wives, and became the father of twenty-
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.20|<< 2 Chronicles 13:20]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.22|2 Chronicles 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he strengthened himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יִּתְחַזֵּ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.cha.Zek<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abijah  |**<big>&#8207;[[H0029I\|אֲבִיָּ֔הוּ]]&#8207; </big>**| 'a.vi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

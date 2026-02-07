@@ -1,4 +1,4 @@
-**Exodus 20:4** 
+**Exodus 20:4**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not make for yourself an idol in the form of anything in the heavens a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.3|<< Exodus 20:3]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.5|Exodus 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make  |**<big>&#8207;[[H6213H\|תַֽעֲשֶׂ֨ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.Seh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

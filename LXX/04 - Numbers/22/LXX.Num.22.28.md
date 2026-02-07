@@ -1,10 +1,7 @@
 **LXX Numbers 22:28** 
 <small><sub>**LXX:**</sub></small>
 And God opened the mouth of the donkey, and she says  to Balaam, What did I do to you that you have hit me this third time? 
-<small><sub>**KJV:**</sub></small>
-And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
-<small><sub>**BSB:**</sub></small>
-Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have beaten me these three times?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.27|<< Numbers 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.29|Numbers 22:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 22:28** is...

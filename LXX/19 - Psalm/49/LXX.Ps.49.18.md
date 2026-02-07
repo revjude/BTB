@@ -1,10 +1,7 @@
 **LXX Psalm 49:18** 
 <small><sub>**LXX:**</sub></small>
 For  his soul shall be blessed in his life. He shall make acknowledgment to you whenever you should do good to him. 
-<small><sub>**KJV:**</sub></small>
-Though while he lived he blessed his soul: and [men] will praise thee, when thou doest well to thyself.
-<small><sub>**BSB:**</sub></small>
-Though in his lifetime he blesses his soul—and men praise you when you prosper—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.17|<< Psalm 49:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.19|Psalm 49:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 49:18** is...

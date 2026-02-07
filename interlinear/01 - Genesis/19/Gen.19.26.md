@@ -1,4 +1,4 @@
-**Genesis 19:26** 
+**Genesis 19:26**<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his wife looked back from behind him, and she became a pillar of salt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But Lot’s wife looked back, and she became a pillar of salt.
 > $\quad$ referenced by: [[Luke.17.32|Luke 17:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she looked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5027\|תַּבֵּ֥ט]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Bet<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wife his  |**<big>&#8207;[[H0802H\|אִשְׁתּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

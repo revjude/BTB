@@ -1,10 +1,7 @@
 **LXX Exodus 24:4** 
 <small><sub>**LXX:**</sub></small>
 And Moses wrote down all the words of \[the\] <span class="smallcaps">lord</span>. And Moses rising early in the morning built an altar by the mountain, and \[with\] twelve stones for the twelve tribes  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-And Moses wrote down all the words of the LORD. Early the next morning he got up and built an altar at the base of the mountain, along with twelve pillars for the twelve tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.3|<< Exodus 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.5|Exodus 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

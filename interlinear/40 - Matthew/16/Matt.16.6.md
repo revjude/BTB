@@ -1,12 +1,12 @@
-**Matthew 16:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:6**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
 <small><sub>**BSB:**</sub></small>
 “Watch out!” Jesus told them. “Beware of the leaven of the Pharisees and Sadducees.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said to them; do watch and do beware of the leaven of the Pharisees and Sadducees.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.5|<< Matthew 16:5]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.7|Matthew 16:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

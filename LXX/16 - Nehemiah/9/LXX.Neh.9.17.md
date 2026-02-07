@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:17** 
 <small><sub>**LXX:**</sub></small>
 And they shook their heads in dissent  to listen, and did not remember  your wonders which you performed among them. And they hardened  their neck, and they granted a sovereign to return them to slavery in Egypt. But you, O God, in forgiving sins \[are\] merciful and pitying, lenient and full of mercy, and did not abandon them. 
-<small><sub>**KJV:**</sub></small>
-And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou [art] a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.
-<small><sub>**BSB:**</sub></small>
-They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt. But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.16|<< Nehemiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.18|Nehemiah 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

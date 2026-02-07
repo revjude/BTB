@@ -1,4 +1,4 @@
-**Leviticus 19:25** 
+**Leviticus 19:25**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But in the fifth year you may eat its fruit; thus your harvest will be increased
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.24|<< Leviticus 19:24]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.26|Leviticus 19:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִׁ֗ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

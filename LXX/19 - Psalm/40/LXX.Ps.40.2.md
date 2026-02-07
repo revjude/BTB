@@ -1,10 +1,7 @@
 **LXX Psalm 40:2** 
 <small><sub>**LXX:**</sub></small>
 And he led me from out of \[the\] pit of misery, and from \[the\] mud of slime. And he stood my feet upon \[the\] rock, and straightened out  my footsteps. 
-<small><sub>**KJV:**</sub></small>
-He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, [and] established my goings.
-<small><sub>**BSB:**</sub></small>
-He lifted me up from the pit of despair, out of the miry clay; He set my feet upon a rock, and made my footsteps firm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.1|<< Psalm 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.3|Psalm 40:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:2** is...

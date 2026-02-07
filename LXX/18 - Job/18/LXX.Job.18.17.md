@@ -1,10 +1,7 @@
 **LXX Job 18:17** 
 <small><sub>**LXX:**</sub></small>
  May his memorial be destroyed from \[the\] earth, and what exists to his name upon \[the\] face outer. 
-<small><sub>**KJV:**</sub></small>
-His remembrance shall perish from the earth, and he shall have no name in the street.
-<small><sub>**BSB:**</sub></small>
-The memory of him perishes from the earth, and he has no name in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.16|<< Job 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.18|Job 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

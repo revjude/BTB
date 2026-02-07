@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:19** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> to me, Proceed and stand in the gates of \[the\] sons of \[the\] people! by which kings of Judah enter, and by which they go forth by them, and in all the gates of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD said to me: “Go and stand at the gate of the people, through which the kings of Judah go in and out; and stand at all the other gates of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.18|<< Jeremiah 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.20|Jeremiah 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

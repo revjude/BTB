@@ -1,10 +1,7 @@
 **LXX Genesis 31:12** 
 <small><sub>**LXX:**</sub></small>
 And he said, Look up \[with\] your eyes, and see the he-goats and the rams ascending upon the flocks, and the she-goats -- white-mixed and colored and ashen speckled! For I have seen as much as Laban does to you. 
-<small><sub>**KJV:**</sub></small>
-And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle [are] ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
-<small><sub>**BSB:**</sub></small>
-‘Look up,’ he said, ‘and see that all the males that are mating with the flock are streaked, spotted, or speckled; for I have seen all that Laban has done to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.11|<< Genesis 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.13|Genesis 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

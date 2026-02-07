@@ -1,10 +1,7 @@
 **LXX Proverbs 24:29** 
 <small><sub>**LXX:**</sub></small>
 You should not say, In which manner he treated me, I shall treat him; and I shall pay him who wronged me. 
-<small><sub>**KJV:**</sub></small>
-Say not, I will do so to him as he hath done to me: I will render to the man according to his work.
-<small><sub>**BSB:**</sub></small>
-Do not say, “I will do to him as he has done to me; I will repay the man according to his work.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.28|<< Proverbs 24:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.30|Proverbs 24:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:32** 
 <small><sub>**LXX:**</sub></small>
 And Jonadab son of Shimeah brother of David answered and said, Let not my master the king say that all the boys of the sons of the king he put to death! but only Amnon alone died, for by \[the\] mouth of Absalom it was situated to be from the day of which he abased Tamar  his sister. 
-<small><sub>**KJV:**</sub></small>
-And Jonadab, the son of Shimeah David’s brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king’s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
-<small><sub>**BSB:**</sub></small>
-But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon violated his sister Tamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Acts 4:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:26**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.
 <small><sub>**BSB:**</sub></small>
 The kings of the earth take their stand and the rulers gather together against the Lord and against His Anointed One.’
@@ -10,7 +10,7 @@ Took [their] stand the kings of the earth and the rulers were gathered together 
 > $\quad$ referencing: [[LXX.Ps.2.1|Ps 2:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took [their] stand |**<big>[[G3936\|παρέστησαν]]</big>**  |parestēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

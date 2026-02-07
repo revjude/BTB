@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:19** 
 <small><sub>**LXX:**</sub></small>
 for  his sins which he did  to act  wickedly before \[the\] <span class="smallcaps">lord</span>,  to go in \[the\] way of Jeroboam son of Nebat, and in  his sins which he committed as he led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.
-<small><sub>**BSB:**</sub></small>
-because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

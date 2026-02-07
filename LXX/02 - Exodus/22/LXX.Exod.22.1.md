@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if any should steal a calf or a sheep, and should slay it, or should sell it, he shall pay five calves for the calf, and four sheep for the sheep. 
-<small><sub>**KJV:**</sub></small>
-If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
-<small><sub>**BSB:**</sub></small>
-“If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.36|<< Exodus 21:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.2|Exodus 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

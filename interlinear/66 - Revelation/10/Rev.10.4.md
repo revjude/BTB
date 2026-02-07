@@ -1,5 +1,5 @@
-**Revelation 10:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:4**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.
 <small><sub>**BSB:**</sub></small>
 When the seven thunders had spoken, I was about to put it in writing. But I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.”
@@ -10,7 +10,7 @@ And when spoke the seven thunders, the voices of themselves I was about to write
 > $\quad$ alluding to: [[LXX.Dan.12.4|Dan 12:4]] ☩ [[LXX.Dan.7|Dan 7]] ☩ [[LXX.Dan.9|Dan 9]] ☩ [[LXX.Dan.8.26|Dan 8:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

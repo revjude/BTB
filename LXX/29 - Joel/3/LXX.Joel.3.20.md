@@ -1,10 +1,7 @@
 **LXX Joel 3:20** 
 <small><sub>**LXX:**</sub></small>
 But Judea shall dwell into the eon, and Jerusalem for generations of generations. 
-<small><sub>**KJV:**</sub></small>
-But Judah shall dwell for ever, and Jerusalem from generation to generation.
-<small><sub>**BSB:**</sub></small>
-But Judah will be inhabited forever, and Jerusalem from generation to generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.19|<< Joel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.21|Joel 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

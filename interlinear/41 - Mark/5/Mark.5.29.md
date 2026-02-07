@@ -1,12 +1,12 @@
-**Mark 5:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:29**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway the fountain of her blood was dried up; and she felt in [her] body that she was healed of that plague.
 <small><sub>**BSB:**</sub></small>
 Immediately her bleeding stopped, and she sensed in her body that she was healed of her affliction.
 <small><sub>**Literal:**</sub></small>
 And immediately was dried up the flow of the blood of her and she knew in the body that she has been healed from the affliction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.28|<< Mark 5:28]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.30|Mark 5:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

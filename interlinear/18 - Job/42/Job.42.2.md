@@ -1,4 +1,4 @@
-**Job 42:2** 
+**Job 42:2**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that thou canst do every [thing], and [that] no thought can be withholden from thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know that thou canst do every [thing], and [that] no thought can be withholden
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.1|<< Job 42:1]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.3|Job 42:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know  [^1]|**<big>&#8207;[[H3045\|יָ֭דַעְתִּי]]&#8207; </big>**[^2] | ya.da'.ta<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

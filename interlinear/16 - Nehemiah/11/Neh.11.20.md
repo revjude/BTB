@@ -1,4 +1,4 @@
-**Nehemiah 11:20** 
+**Nehemiah 11:20**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue of Israel, of the priests, [and] the Levites, [were] in all the cities of Judah, every one in his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rest of the Israelites, with the priests and Levites, were in all the villag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.19|<< Nehemiah 11:19]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.21|Nehemiah 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7605\|שְׁאָ֨ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

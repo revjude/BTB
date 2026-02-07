@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:11** 
 <small><sub>**LXX:**</sub></small>
 And shall I take  my bread \[loaves\], and  my wine, and  my \[things\] offered in sacrifices which I have sacrificed to the ones shearing for me the sheep, and shall I give them to men whom I do not know from what place they are? 
-<small><sub>**KJV:**</sub></small>
-Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give [it] unto men, whom I know not whence they [be]?
-<small><sub>**BSB:**</sub></small>
-Why should I take my bread and water and the meat I have slaughtered for my shearers, and give them to these men whose origin I do not know?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.10|<< 1 Samuel 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.12|1 Samuel 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

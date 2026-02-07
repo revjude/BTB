@@ -1,10 +1,7 @@
 **LXX Judges 11:10** 
 <small><sub>**LXX:**</sub></small>
 And the elders of Gilead said to Jephthah, Let \[the\] <span class="smallcaps">lord</span> be the one hearing between us! if we do not do according to  your word thus we will do. 
-<small><sub>**KJV:**</sub></small>
-And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words.
-<small><sub>**BSB:**</sub></small>
-And the elders of Gilead said to Jephthah, “The LORD is our witness if we do not do as you say.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.9|<< Judges 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.11|Judges 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

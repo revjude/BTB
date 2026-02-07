@@ -1,12 +1,12 @@
-**Acts 4:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:16**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them [is] manifest to all them that dwell in Jerusalem; and we cannot deny [it].
 <small><sub>**BSB:**</sub></small>
 “What shall we do with these men?” they asked. “It is clear to everyone living in Jerusalem that a remarkable miracle has occurred through them, and we cannot deny it.
 <small><sub>**Literal:**</sub></small>
 saying; What shall we do to the men these? for truly for a noteworthy sign has come to pass through them to all those inhabiting Jerusalem [is] evident, and not we are able to deny [it];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.15|<< Acts 4:15]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.17|Acts 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

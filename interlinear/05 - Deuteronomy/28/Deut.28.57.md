@@ -1,4 +1,4 @@
-**Deuteronomy 28:57** 
+**Deuteronomy 28:57**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all [things] secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the afterbirth that comes from between her legs and the children she bears, beca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.56|<< Deuteronomy 28:56]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.58|Deuteronomy 28:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on afterbirth her  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7988\|שִׁלְיָתָ֞]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> shil.ya.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which goes forth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3318G\|יּוֹצֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Tzet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

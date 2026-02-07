@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:32** 
 <small><sub>**LXX:**</sub></small>
 And he went in the ways of Asa  his father. And he did not turn aside from them,  to do  upright before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he walked in the way of Asa his father, and departed not from it, doing [that which was] right in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Jehoshaphat walked in the way of his father Asa and did not turn away from it; he did what was right in the eyes of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.31|<< 2 Chronicles 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.33|2 Chronicles 20:33 >>]]</td></tr></table>
 
 | Translation | Greek |

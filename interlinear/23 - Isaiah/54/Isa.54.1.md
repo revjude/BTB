@@ -1,4 +1,4 @@
-**Isaiah 54:1** 
+**Isaiah 54:1**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing, O barren, thou [that] didst not bear; break forth into singing, and cry aloud, thou [that] didst not travail with child: for more [are] the children of the desolate than the children of the married wife, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Sing, O barren, thou [that] didst not bear; break forth into singing, and cry al
 > $\quad$ referenced by: [[Luke.23.29|Luke 23:29]] ☩ [[Gal.4.27|Gal 4:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רָנִּ֥י]]&#8207; </big>**| ra.Ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O barren [woman]  |**<big>&#8207;[[H6135\|עֲקָרָ֖ה]]&#8207; </big>**| 'a.ka.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

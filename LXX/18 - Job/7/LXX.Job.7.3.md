@@ -1,10 +1,7 @@
 **LXX Job 7:3** 
 <small><sub>**LXX:**</sub></small>
 So I also waited months in vain; and nights of griefs are given to me. 
-<small><sub>**KJV:**</sub></small>
-So am I made to possess months of vanity, and wearisome nights are appointed to me.
-<small><sub>**BSB:**</sub></small>
-So I am allotted months of futility, and nights of misery are appointed to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.2|<< Job 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.4|Job 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

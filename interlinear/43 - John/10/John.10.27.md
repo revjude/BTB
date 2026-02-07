@@ -1,12 +1,12 @@
-**John 10:27
-**<small><sub>**KJV:**</sub></small>
+**John 10:27**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My sheep hear my voice, and I know them, and they follow me:
 <small><sub>**BSB:**</sub></small>
 My sheep listen to My voice; I know them, and they follow Me.
 <small><sub>**Literal:**</sub></small>
 The sheep <the> of Mine to the voice of Mine they listen and I myself know them, and they follow Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.26|<< John 10:26]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.28|John 10:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sheep |**<big>[[G4263\|πρόβατα]]</big>**  |probata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

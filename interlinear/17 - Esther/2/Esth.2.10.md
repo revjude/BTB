@@ -1,4 +1,4 @@
-**Esther 2:10** 
+**Esther 2:10**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esther did not reveal her people or her lineage, because Mordecai had instructed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.9|<< Esther 2:9]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.11|Esther 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she had told  |**<big>&#8207;[[H5046\|הִגִּ֣ידָה]]&#8207; </big>**| hi.Gi.dah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

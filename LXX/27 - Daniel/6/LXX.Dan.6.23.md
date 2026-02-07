@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then the king \[felt\] much good over him, and  spoke for Daniel to be brought from out of the pit. And they bore Daniel from out of the pit, and all hurt was not found on him, for he trusted in  his God. 
-<small><sub>**KJV:**</sub></small>
-Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
-<small><sub>**BSB:**</sub></small>
-The king was overjoyed and gave orders to lift Daniel out of the den, and when Daniel was lifted out of the den, no wounds whatsoever were found on him, because he had trusted in his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.22|<< Daniel 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.24|Daniel 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

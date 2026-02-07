@@ -1,10 +1,7 @@
 **LXX Judges 9:33** 
 <small><sub>**LXX:**</sub></small>
 And it will be in the morning, together with the rising of the sun, that you shall rise early and stretch out against the city. And behold, he and the people  with him go forth against you, and you shall do to him just as your hand should find \[opportunity\]. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] in the morning, as soon as the sun is up, thou shalt rise early, and set upon the city: and, behold, [when] he and the people that [is] with him come out against thee, then mayest thou do to them as thou shalt find occasion.
-<small><sub>**BSB:**</sub></small>
-And in the morning at sunrise, get up and advance against the city. When Gaal and his men come out against you, do to them whatever you are able.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.32|<< Judges 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.34|Judges 9:34 >>]]</td></tr></table>
 
 | Translation | Greek |

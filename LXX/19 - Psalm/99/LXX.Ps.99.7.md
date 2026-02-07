@@ -1,10 +1,7 @@
 **LXX Psalm 99:7** 
 <small><sub>**LXX:**</sub></small>
 In a column of cloud he spoke to them; for they guarded  his testimony, and  his orders which he gave to them. 
-<small><sub>**KJV:**</sub></small>
-He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance [that] he gave them.
-<small><sub>**BSB:**</sub></small>
-He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.99.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.99.6|<< Psalm 99:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.99.8|Psalm 99:8 >>]]</td></tr></table>
 
 | Translation | Greek |

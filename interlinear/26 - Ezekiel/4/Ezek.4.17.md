@@ -1,4 +1,4 @@
-**Ezekiel 4:17** 
+**Ezekiel 4:17**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may want bread and water, and be astonied one with another, and consume away for their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they will lack food and water; they will be appalled at the sight of one anot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.16|<< Ezekiel 4:16]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.1|Ezekiel 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֥עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may lack  |**<big>&#8207;[[H2637\|יַחְסְר֖וּ]]&#8207; </big>**| yach.se.Ru<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

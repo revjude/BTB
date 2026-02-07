@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:10** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch of the gate within, and the vestibule of the gate in front, \[were\] three on this side and three on that side; and \[there was\] one measure to the three; one measure to the columned porches on this side and that side. 
-<small><sub>**KJV:**</sub></small>
-And the little chambers of the gate eastward [were] three on this side, and three on that side; they three [were] of one measure: and the posts had one measure on this side and on that side.
-<small><sub>**BSB:**</sub></small>
-There were three gate chambers on each side of the east gate, each with the same measurements, and the gateposts on either side also had the same measurements.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.9|<< Ezekiel 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.11|Ezekiel 40:11 >>]]</td></tr></table>
 
 | Translation | Greek |

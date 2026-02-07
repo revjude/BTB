@@ -1,4 +1,4 @@
-**Hosea 9:1** 
+**Hosea 9:1**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not, O Israel, for joy, as [other] people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not rejoice, O Israel, with exultation like the nations, for you have played 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.14|<< Hosea 8:14]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.2|Hosea 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you rejoice  |**<big>&#8207;[[H8055\|תִּשְׂמַ֨ח]]&#8207; </big>**| tis.Mach<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

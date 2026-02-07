@@ -1,4 +1,4 @@
-**1 Chronicles 23:12** 
+**1 Chronicles 23:12**<big><big>[[1Chr.23.12 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Kohath: Amram, Izhar, Hebron, and Uzziel—four in all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.11|<< 1 Chronicles 23:11]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.13|1 Chronicles 23:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kohath  |**<big>&#8207;[[H6955\|קְהָ֗ת]]&#8207; </big>**| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 1:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:36**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.
 <small><sub>**BSB:**</sub></small>
 Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month.
 <small><sub>**Literal:**</sub></small>
 And behold Elizabeth the relative of you also she has conceived a son in old age of her, and this month [the] sixth is to her who [was] called barren<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.35|<< Luke 1:35]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.37|Luke 1:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

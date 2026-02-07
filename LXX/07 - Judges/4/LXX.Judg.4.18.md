@@ -1,10 +1,7 @@
 **LXX Judges 4:18** 
 <small><sub>**LXX:**</sub></small>
 And Jael came forth for a meeting with Sisera, and she said to him, Turn aside, O my master, turn aside to me, do not fear! And he turned aside to her into the tent, and she covered him with  her hide covering. 
-<small><sub>**KJV:**</sub></small>
-And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.
-<small><sub>**BSB:**</sub></small>
-Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.19|Judges 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

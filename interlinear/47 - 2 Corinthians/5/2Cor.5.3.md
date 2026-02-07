@@ -1,12 +1,12 @@
-**2 Corinthians 5:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:3**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If so be that being clothed we shall not be found naked.
 <small><sub>**BSB:**</sub></small>
 because when we are clothed, we will not be found naked.
 <small><sub>**Literal:**</sub></small>
 If even even having put off not naked we will be found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.2|<< 2 Corinthians 5:2]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.4|2 Corinthians 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NK(o)</abbr> | |
 | even [^1] |**<big>[[G1065\|γε]]</big>**  [^2] |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 18:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, I am the LORD your God.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and tell them: I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.1|<< Leviticus 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.3|Leviticus 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

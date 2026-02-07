@@ -1,12 +1,12 @@
-**Acts 20:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:17**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from Miletus he sent to Ephesus, and called the elders of the church.
 <small><sub>**BSB:**</sub></small>
 From Miletus, Paul sent to Ephesus for the elders of the church.
 <small><sub>**Literal:**</sub></small>
 From then <the> Miletus having sent to Ephesus he called for the elders of the church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.16|<< Acts 20:16]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.18|Acts 20:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπὸ]]</big>**  |Apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

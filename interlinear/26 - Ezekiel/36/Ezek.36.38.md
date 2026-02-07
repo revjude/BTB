@@ -1,4 +1,4 @@
-**Ezekiel 36:38** 
+**Ezekiel 36:38**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.37|<< Ezekiel 36:37]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.1|Ezekiel 37:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like sheep of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6629G\|צֹ֣אן]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | holiness\<es>  |**<big>&#8207;[[H6944G\|קָֽדָשִׁ֗ים]]&#8207; </big>**| ka.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

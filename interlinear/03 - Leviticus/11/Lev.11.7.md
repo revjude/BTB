@@ -1,4 +1,4 @@
-**Leviticus 11:7** 
+**Leviticus 11:7**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he [is] unclean to you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the pig, though it has a split hoof completely divided, does not chew the cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.6|<< Leviticus 11:6]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.8|Leviticus 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pig  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H2386\|חֲזִיר]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> cha.zir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

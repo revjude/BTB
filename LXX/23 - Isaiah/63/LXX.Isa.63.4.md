@@ -1,10 +1,7 @@
 **LXX Isaiah 63:4** 
 <small><sub>**LXX:**</sub></small>
 For a day of recompense came upon them, and a year of ransoming \[is\] at hand. 
-<small><sub>**KJV:**</sub></small>
-For the day of vengeance [is] in mine heart, and the year of my redeemed is come.
-<small><sub>**BSB:**</sub></small>
-For the day of vengeance was in My heart, and the year of My redemption had come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 1:9** 
+**Joshua 1:9**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God [is] with thee whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have I not commanded you to be strong and courageous? Do not be afraid; do not b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.8|<< Joshua 1:8]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.10|Joshua 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have I commanded you  |**<big>&#8207;[[H6680\|צִוִּיתִ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| tzi.vi.Ti.<small><sup>[[HVpp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

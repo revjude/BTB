@@ -1,4 +1,4 @@
-**2 Kings 23:33** 
+**2 Kings 23:33**<big><big>[[2Kgs.23.31 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaohnechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Pharaoh Neco imprisoned Jehoahaz at Riblah in the land of Hamath so that he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.32|<< 2 Kings 23:32]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.34|2 Kings 23:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he confined him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0631\|יַּאַסְרֵ]]&#8207;&#8207;[[H9033\|הוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'as.re.<small><sup>[[HVqw3ms]]</sup></small> Hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547Q\|פַרְעֹ֨ה]]&#8207; </big>**| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

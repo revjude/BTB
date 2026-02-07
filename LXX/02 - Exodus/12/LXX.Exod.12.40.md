@@ -1,10 +1,7 @@
 **LXX Exodus 12:40** 
 <small><sub>**LXX:**</sub></small>
 And the dwelling of the sons of Israel, which they dwelt in \[the\] land of Egypt, and in \[the\] land of Canaan, they and  their fathers -- four hundred thirty years. 
-<small><sub>**KJV:**</sub></small>
-Now the sojourning of the children of Israel, who dwelt in Egypt, [was] four hundred and thirty years.
-<small><sub>**BSB:**</sub></small>
-Now the duration of the Israelites’ stay in Egypt was 430 years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.39|<< Exodus 12:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.41|Exodus 12:41 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 12:40** is...

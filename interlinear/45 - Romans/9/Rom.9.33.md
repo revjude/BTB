@@ -1,5 +1,5 @@
-**Romans 9:33
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:33**<big><big>[[Rom.9.30 Israel’s Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
 <small><sub>**BSB:**</sub></small>
 as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”
@@ -10,7 +10,7 @@ even as it has been written: Behold I lay in Zion a stone of stumbling and a roc
 > $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Isa.28.16|Isa 28:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

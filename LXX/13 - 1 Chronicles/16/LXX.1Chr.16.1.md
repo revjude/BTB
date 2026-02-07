@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they carried in the ark  of God, and fastened it in \[the\] midst of the tent, which David pitched for it. And they offered whole burnt-offerings and peace \[offerings\] before  God. 
-<small><sub>**KJV:**</sub></small>
-So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
-<small><sub>**BSB:**</sub></small>
-So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.29|<< 1 Chronicles 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.2|1 Chronicles 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

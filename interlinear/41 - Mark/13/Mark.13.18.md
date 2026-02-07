@@ -1,12 +1,12 @@
-**Mark 13:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:18**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And pray ye that your flight be not in the winter.
 <small><sub>**BSB:**</sub></small>
 Pray that this will not occur in the winter.
 <small><sub>**Literal:**</sub></small>
 do pray then that it not may happen the flight of you in winter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.17|<< Mark 13:17]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.19|Mark 13:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do pray |**<big>[[G4336\|προσεύχεσθε]]</big>**  |proseuchesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

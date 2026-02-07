@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And proceeding still, Elihu says, 
-<small><sub>**KJV:**</sub></small>
-Elihu also proceeded, and said,
-<small><sub>**BSB:**</sub></small>
-And Elihu continued:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.16|<< Job 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.2|Job 36:2 >>]]</td></tr></table>
 
 | Translation | Greek |

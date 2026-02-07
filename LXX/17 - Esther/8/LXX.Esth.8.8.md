@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you write in  my name as it seems good to you, and set a seal with  my ring! For as much as \[is\] written of the king in giving an order, and \[the\] seal should be set  by my ring, it is not to them to contradict. 
-<small><sub>**KJV:**</sub></small>
-Write ye also for the Jews, as it liketh you, in the king’s name, and seal [it] with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.
-<small><sub>**BSB:**</sub></small>
-Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of the king and sealed with the royal signet ring cannot be revoked.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.7|<< Esther 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.9|Esther 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

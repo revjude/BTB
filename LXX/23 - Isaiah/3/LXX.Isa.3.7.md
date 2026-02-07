@@ -1,10 +1,7 @@
 **LXX Isaiah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And answering in  that day, he will say, I will not be your chief, for there is no bread in my house, nor a garment; I will not be a chief  of this people. 
-<small><sub>**KJV:**</sub></small>
-In that day shall he swear, saying, I will not be an healer; for in my house [is] neither bread nor clothing: make me not a ruler of the people.
-<small><sub>**BSB:**</sub></small>
-On that day he will cry aloud: “I am not a healer. I have no food or clothing in my house. Do not make me leader of the people!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.6|<< Isaiah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.8|Isaiah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

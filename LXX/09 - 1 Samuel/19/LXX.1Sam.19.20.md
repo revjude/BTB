@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:20** 
 <small><sub>**LXX:**</sub></small>
 And Saul sent messengers to take  David. And coming they saw the assembly of the prophets  prophesying, and Samuel stood ordained over them. And spirit of God became upon the messengers of Saul, and they prophesied, even they. 
-<small><sub>**KJV:**</sub></small>
-And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing [as] appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
-<small><sub>**BSB:**</sub></small>
-he sent messengers to seize him. But when they saw the group of prophets prophesying, with Samuel leading them, the Spirit of God came upon them, and Saul’s messengers also began to prophesy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.19|<< 1 Samuel 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.21|1 Samuel 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

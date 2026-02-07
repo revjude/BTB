@@ -1,12 +1,12 @@
-**John 13:11
-**<small><sub>**KJV:**</sub></small>
+**John 13:11**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he knew who should betray him; therefore said he, Ye are not all clean.
 <small><sub>**BSB:**</sub></small>
 For He knew who would betray Him. That is why He said, “Not all of you are clean.”
 <small><sub>**Literal:**</sub></small>
 He knew for the [one who] was betraying Him; on account of this He said that Not all clean you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.10|<< John 13:10]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.12|John 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He knew |**<big>[[G1492I\|ᾔδει]]</big>**  |ēdei <small><sup>[[V-2LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

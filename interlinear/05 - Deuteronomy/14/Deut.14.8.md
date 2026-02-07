@@ -1,4 +1,4 @@
-**Deuteronomy 14:8** 
+**Deuteronomy 14:8**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the swine, because it divideth the hoof, yet cheweth not the cud, it [is] unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the pig; though it has a divided hoof, it does not chew the cud. It i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.7|<< Deuteronomy 14:7]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.9|Deuteronomy 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pig  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H2386\|חֲזִיר]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> cha.zir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

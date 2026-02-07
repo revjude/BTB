@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:6** 
 <small><sub>**LXX:**</sub></small>
 as a thorn-bush being pushing out \[are\] all these; for no hand shall take \[them\]. 
-<small><sub>**KJV:**</sub></small>
-But [the sons] of Belial [shall be] all of them as thorns thrust away, because they cannot be taken with hands:
-<small><sub>**BSB:**</sub></small>
-But the worthless are all like thorns raked aside, for they can never be gathered by hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.5|<< 2 Samuel 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.7|2 Samuel 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

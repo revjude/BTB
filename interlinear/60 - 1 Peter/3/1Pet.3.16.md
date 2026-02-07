@@ -1,12 +1,12 @@
-**1 Peter 3:16
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:16**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
 <small><sub>**BSB:**</sub></small>
 keeping a clear conscience, so that those who slander you may be put to shame by your good behavior in Christ.
 <small><sub>**Literal:**</sub></small>
 yet with gentleness and fear, [16] a conscience having good, so that in this you are spoken against you as to evildoers they may be ashamed those reviling your <the> good in Christ manner of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.15|<< 1 Peter 3:15]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.17|1 Peter 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | yet [^1] |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr>[^2] | |
 | with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^3] | |

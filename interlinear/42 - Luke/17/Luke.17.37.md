@@ -1,12 +1,12 @@
-**Luke 17:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:37**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body [is], thither will the eagles be gathered together.
 <small><sub>**BSB:**</sub></small>
 “Where, Lord?” they asked. Jesus answered, “Wherever there is a carcass, there the vultures will gather.”
 <small><sub>**Literal:**</sub></small>
 And answering they say to Him; Where, Lord? <the> And He said to them; Where the body [is], there also the vultures will be gathered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.36|<< Luke 17:36]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.1|Luke 18:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθέντες]]</big>**  |apokrithentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

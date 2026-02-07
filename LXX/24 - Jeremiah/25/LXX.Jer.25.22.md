@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:22** 
 <small><sub>**LXX:**</sub></small>
 and all \[the\] kings of Tyre, and \[the\] kings of Sidon, and \[the\] kings of the ones on the other side of the sea, 
-<small><sub>**KJV:**</sub></small>
-And all the kings of Tyrus, and all the kings of Zidon, and the kings of the isles which [are] beyond the sea,
-<small><sub>**BSB:**</sub></small>
-all the kings of Tyre and Sidon; the kings of the coastlands across the sea;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.21|<< Jeremiah 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.23|Jeremiah 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 18:15** 
 <small><sub>**LXX:**</sub></small>
 And they turned aside there, and entered into the house of the young man -- the Levite, into the house of Micah, and they asked him for peace. 
-<small><sub>**KJV:**</sub></small>
-And they turned thitherward, and came to the house of the young man the Levite, [even] unto the house of Micah, and saluted him.
-<small><sub>**BSB:**</sub></small>
-So they turned aside there and went to the home of the young Levite, the house of Micah, and greeted him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.14|<< Judges 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.16|Judges 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

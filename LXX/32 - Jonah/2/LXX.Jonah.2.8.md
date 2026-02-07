@@ -1,10 +1,7 @@
 **LXX Jonah 2:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ones watching vanities and lies abandoned their mercy. 
-<small><sub>**KJV:**</sub></small>
-They that observe lying vanities forsake their own mercy.
-<small><sub>**BSB:**</sub></small>
-Those who cling to worthless idols forsake His loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.7|<< Jonah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.9|Jonah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

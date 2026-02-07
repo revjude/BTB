@@ -1,12 +1,12 @@
-**Matthew 14:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:26**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
 <small><sub>**BSB:**</sub></small>
 When the disciples saw Him walking on the sea, they were terrified. “It’s a ghost!” they said, and cried out in fear.
 <small><sub>**Literal:**</sub></small>
 <the> and the disciples having seen Him on the sea walking they were troubled saying that A ghost it is! And in <the> fear they cried out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.25|<< Matthew 14:25]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.27|Matthew 14:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn»4»4+SBL+WH+Treg»4+TR»4+Byz»4">NKO</abbr> | |
 | and [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |

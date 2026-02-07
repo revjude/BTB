@@ -1,10 +1,7 @@
 **LXX Leviticus 26:38** 
 <small><sub>**LXX:**</sub></small>
 And you shall perish among the nations, and the land of your enemies will devour you. 
-<small><sub>**KJV:**</sub></small>
-And ye shall perish among the heathen, and the land of your enemies shall eat you up.
-<small><sub>**BSB:**</sub></small>
-You will perish among the nations, and the land of your enemies will consume you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.37|<< Leviticus 26:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.39|Leviticus 26:39 >>]]</td></tr></table>
 
 | Translation | Greek |

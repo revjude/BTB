@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe, O mother, as how you bore me a man adjudicating and litigating in all the earth. I derived no benefit, nor anyone benefit me.  My strength failed among the ones cursing me. 
-<small><sub>**KJV:**</sub></small>
-Woe is me, my mother, that thou hast borne me a man of strife and a man of contention to the whole earth! I have neither lent on usury, nor men have lent to me on usury; [yet] every one of them doth curse me.
-<small><sub>**BSB:**</sub></small>
-Woe to me, my mother, that you have borne me, a man of strife and conflict in all the land. I have neither lent nor borrowed, yet everyone curses me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.9|<< Jeremiah 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.11|Jeremiah 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

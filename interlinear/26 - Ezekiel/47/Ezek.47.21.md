@@ -1,4 +1,4 @@
-**Ezekiel 47:21** 
+**Ezekiel 47:21**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall ye divide this land unto you according to the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to divide this land among yourselves according to the tribes of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.20|<< Ezekiel 47:20]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.22|Ezekiel 47:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will divide  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2505A\|חִלַּקְתֶּ֞ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.lak.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

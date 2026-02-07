@@ -1,4 +1,4 @@
-**1 Kings 2:12** 
+**1 Kings 2:12**<big><big>[[1Kgs.2.10 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Solomon sat on the throne of his father David, and his kingdom was firmly est
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.11|<< 1 Kings 2:11]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.13|1 Kings 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Solomon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֕ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sat  |**<big>&#8207;[[H3427\|יָשַׁ֕ב]]&#8207; </big>**| ya.Shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

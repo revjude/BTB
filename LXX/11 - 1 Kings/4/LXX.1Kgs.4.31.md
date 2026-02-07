@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:31** 
 <small><sub>**LXX:**</sub></small>
 And he discerned above all  men; and he discerned above Ethan the Ezrahite, and  Heman, and  Chalcol, and Darda, sons of Mahol. And his name became \[famous\] among all the nations round about. 
-<small><sub>**KJV:**</sub></small>
-For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.
-<small><sub>**BSB:**</sub></small>
-He was wiser than all men—wiser than Ethan the Ezrahite, and wiser than Heman, Calcol, and Darda, the sons of Mahol. And his fame spread throughout the surrounding nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.30|<< 1 Kings 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.32|1 Kings 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

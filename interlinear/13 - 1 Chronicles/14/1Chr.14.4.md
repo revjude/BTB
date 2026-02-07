@@ -1,4 +1,4 @@
-**1 Chronicles 14:4** 
+**1 Chronicles 14:4**<big><big>[[1Chr.14.1 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the names of [his] children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of the children born to him in Jerusalem: Shammua, Shobab, N
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.3|<< 1 Chronicles 14:3]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.5|1 Chronicles 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֣וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

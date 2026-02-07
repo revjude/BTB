@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:21** 
 <small><sub>**LXX:**</sub></small>
 And his servants said to him, What \[is\]  this thing which you do because of the boy? \[While\] still living you fasted, and wept, and \[were\] sleepless; and when the boy died you rose up and ate bread and drank? 
-<small><sub>**KJV:**</sub></small>
-Then said his servants unto him, What thing [is] this that thou hast done? thou didst fast and weep for the child, [while it was] alive; but when the child was dead, thou didst rise and eat bread.
-<small><sub>**BSB:**</sub></small>
-“What is this you have done?” his servants asked. “While the child was alive, you fasted and wept, but when he died, you got up and ate.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.20|<< 2 Samuel 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.22|2 Samuel 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

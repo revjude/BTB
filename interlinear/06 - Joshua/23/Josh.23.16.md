@@ -1,4 +1,4 @@
-**Joshua 23:16** 
+**Joshua 23:16**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you transgress the covenant of the LORD your God, which He commanded you, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.15|<< Joshua 23:15]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.1|Joshua 24:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when transgress you  |**<big>&#8207;[[H9003\|בְּ֠]]&#8207;&#8207;[[H5674D\|עָבְרְ]]&#8207;&#8207;[[H9046\|כֶם]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> 'a.ve.re.<small><sup>[[HVqcc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

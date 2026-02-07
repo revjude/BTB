@@ -1,4 +1,4 @@
-**1 Chronicles 23:13** 
+**1 Chronicles 23:13**<big><big>[[1Chr.23.12 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sons of Amram: Aaron and Moses. Aaron and his descendants were set apart for
 > $\quad$ referenced by: [[Heb.5.4|Heb 5:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amram  |**<big>&#8207;[[H6019G\|עַמְרָ֖ם]]&#8207; </big>**| 'am.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Peter 2:20
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:20**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what glory [is it], if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer [for it], ye take it patiently, this [is] acceptable with God.
 <small><sub>**BSB:**</sub></small>
 How is it to your credit if you are beaten for doing wrong and you endure it? But if you suffer for doing good and you endure it, this is commendable before God.
 <small><sub>**Literal:**</sub></small>
 What kind of for credit [is it] if sinning and being struck you will endure? But if doing good and suffering you will endure, this [is] commendable before God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.19|<< 1 Peter 2:19]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.21|1 Peter 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What kind of |**<big>[[G4169\|ποῖον]]</big>**  |poion <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

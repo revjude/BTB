@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass a day, that Jonathan \[the\] son of Saul said \[to\] the servant-lad  carrying  his weapons, Come, for we should pass over unto \[the\] support \[camp\] of the Philistines, the one on  that other side; but he did not report \[to\] his father. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines’ garrison, that [is] on the other side. But he told not his father.
-<small><sub>**BSB:**</sub></small>
-One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.23|<< 1 Samuel 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.2|1 Samuel 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

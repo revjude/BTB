@@ -1,12 +1,12 @@
-**Mark 10:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:11**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.
 <small><sub>**BSB:**</sub></small>
 So He told them, “Whoever divorces his wife and marries another woman commits adultery against her.
 <small><sub>**Literal:**</sub></small>
 And He says to them; Who[ever] maybe shall divorce the wife of him and shall marry another, commits adultery against her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.10|<< Mark 10:10]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.12|Mark 10:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

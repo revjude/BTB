@@ -1,4 +1,4 @@
-**1 Samuel 8:4** 
+**1 Samuel 8:4**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the elders of Israel gathered together and came to Samuel at Ramah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.3|<< 1 Samuel 8:3]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.5|1 Samuel 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּֽתְקַבְּצ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ka.be.Tzu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

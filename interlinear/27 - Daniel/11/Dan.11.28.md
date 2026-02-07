@@ -1,4 +1,4 @@
-**Daniel 11:28** 
+**Daniel 11:28**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he return into his land with great riches; and his heart [shall be] against the holy covenant; and he shall do [exploits], and return to his own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king of the North will return to his land with great wealth, but his heart w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.27|<< Daniel 11:27]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.29|Daniel 11:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will return  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|יָשֹׁ֤ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Sho<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | own land his  |**<big>&#8207;[[H0776G\|אַרְצ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| 'ar.Tz<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

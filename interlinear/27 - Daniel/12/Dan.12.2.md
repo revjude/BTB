@@ -1,4 +1,4 @@
-**Daniel 12:2** 
+**Daniel 12:2**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And many who sleep in the dust of the earth will awake, some to everlasting life
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.1|<< Daniel 12:1]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.3|Daniel 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and many [people]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7227A\|רַבִּ֕ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] sleepers of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3463\|יְּשֵׁנֵ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ye.she.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

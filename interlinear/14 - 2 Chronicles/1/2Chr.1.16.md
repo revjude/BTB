@@ -1,4 +1,4 @@
-**2 Chronicles 1:16** 
+**2 Chronicles 1:16**<big><big>[[2Chr.1.14 Solomon’s Riches|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon’s horses were imported from Egypt and Kue; the royal merchants purchas
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.15|<< 2 Chronicles 1:15]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.17|2 Chronicles 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] export of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4161\|מוֹצָ֧א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Tza'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the horses  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5483M\|סּוּסִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

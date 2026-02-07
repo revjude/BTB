@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses gave to them, to the sons of Gad, and to the sons of Reuben, and to the half tribe of Manasseh of \[the\] sons of Joseph, the kingdom of Sihon king of \[the\] Amorites, and the kingdom of Og king of Bashan, the land and the cities with  its boundaries -- \[the\] cities of the land round about. 
-<small><sub>**KJV:**</sub></small>
-And Moses gave unto them, [even] to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, [even] the cities of the country round about.
-<small><sub>**BSB:**</sub></small>
-So Moses gave to the Gadites, to the Reubenites, and to the half-tribe of Manasseh son of Joseph the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan—the land including its cities and the territory surrounding them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.32|<< Numbers 32:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.34|Numbers 32:34 >>]]</td></tr></table>
 
 | Translation | Greek |

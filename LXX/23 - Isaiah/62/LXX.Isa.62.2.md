@@ -1,10 +1,7 @@
 **LXX Isaiah 62:2** 
 <small><sub>**LXX:**</sub></small>
 And nations shall see  your righteousness, and all kings  your glory. And he shall call you  by your new name which the mouth of \[the\] <span class="smallcaps">lord</span> shall name it. 
-<small><sub>**KJV:**</sub></small>
-And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name.
-<small><sub>**BSB:**</sub></small>
-Nations will see your righteousness, and all kings your glory. You will be called by a new name that the mouth of the LORD will bestow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.1|<< Isaiah 62:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.3|Isaiah 62:3 >>]]</td></tr></table>
 
 | Translation | Greek |

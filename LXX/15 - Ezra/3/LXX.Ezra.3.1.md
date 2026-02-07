@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the seventh month came, and the sons of Israel \[were\] in their cities, and the people were brought together as one man unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when the seventh month was come, and the children of Israel [were] in the cities, the people gathered themselves together as one man to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.70|<< Ezra 2:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.2|Ezra 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

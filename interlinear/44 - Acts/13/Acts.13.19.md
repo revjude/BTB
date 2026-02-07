@@ -1,5 +1,5 @@
-**Acts 13:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:19**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot.
 <small><sub>**BSB:**</sub></small>
 And having vanquished seven nations in Canaan, He gave their land to His people as an inheritance.
@@ -11,7 +11,7 @@ and having destroyed nations seven in [the] land of Canaan He gave as an inherit
 > $\quad$ alluding to: [[LXX.Josh.14.2|Josh 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | having destroyed |**<big>[[G2507\|καθελὼν]]</big>**  |kathelōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:12** 
 <small><sub>**LXX:**</sub></small>
 And now, come, I will advise you with advice, so that you should preserve  your life, and the life of Solomon  your son. 
-<small><sub>**KJV:**</sub></small>
-Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon.
-<small><sub>**BSB:**</sub></small>
-Now please, come and let me advise you. Save your own life and the life of your son Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.11|<< 1 Kings 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.13|1 Kings 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

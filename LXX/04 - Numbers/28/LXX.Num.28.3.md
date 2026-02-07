@@ -1,10 +1,7 @@
 **LXX Numbers 28:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, These are the yield \[offerings\] which you shall lead \[to the\] <span class="smallcaps">lord</span> -- he-lambs of a year \[old\], unblemished, two  a day for a whole burnt-offering perpetually. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say unto them, This [is] the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, [for] a continual burnt offering.
-<small><sub>**BSB:**</sub></small>
-And tell them that this is the food offering you are to present to the LORD as a regular burnt offering each day: two unblemished year-old male lambs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.2|<< Numbers 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.4|Numbers 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

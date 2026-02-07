@@ -1,12 +1,12 @@
-**Luke 11:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:43**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.
 <small><sub>**BSB:**</sub></small>
 Woe to you Pharisees! For you love the chief seats in the synagogues and the greetings in the marketplaces.
 <small><sub>**Literal:**</sub></small>
 Woe to you <the> Pharisees, for you love the first seat in the synagogues and the greetings in the marketplaces.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.42|<< Luke 11:42]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.44|Luke 11:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

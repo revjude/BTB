@@ -1,12 +1,12 @@
-**1 Corinthians 6:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:5**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 <small><sub>**BSB:**</sub></small>
 I say this to your shame. Is there really no one among you wise enough to arbitrate between his brothers?
 <small><sub>**Literal:**</sub></small>
 For shame to you I say this. Thus not is there among you no [one] wise, who will be able to decide in between the brother of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.4|<< 1 Corinthians 6:4]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.6|1 Corinthians 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shame |**<big>[[G1791\|ἐντροπὴν]]</big>**  |entropēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

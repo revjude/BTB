@@ -1,12 +1,12 @@
-**2 Corinthians 12:19
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:19**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but [we do] all things, dearly beloved, for your edifying.
 <small><sub>**BSB:**</sub></small>
 Have you been thinking all along that we were making a defense to you? We speak before God in Christ, and all of this, beloved, is to build you up.
 <small><sub>**Literal:**</sub></small>
 Previously you have been thinking that to you we are presenting a defense. before <the> God in Christ we speak. <the> but all things, beloved, for <the> your edification.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.18|<< 2 Corinthians 12:18]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.20|2 Corinthians 12:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Previously [^1] [^2] |**<big>[[G3819\|Πάλαι]]</big>**  |Palai <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | you have been thinking |**<big>[[G1380\|δοκεῖτε]]</big>**  |dokeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:23** 
 <small><sub>**LXX:**</sub></small>
 And Jehu entered, and Jehonadab son of Rechab, into the house  of Baal. And he said to the servants  of Baal, Search and see if there is with you  servants \[of the\] <span class="smallcaps">lord</span>! for \[there is to be\] only the servants  of Baal alone. 
-<small><sub>**KJV:**</sub></small>
-And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only.
-<small><sub>**BSB:**</sub></small>
-Next, Jehu and Jehonadab son of Rechab entered the temple of Baal, and Jehu said to the servants of Baal, “Look around to see that there are no servants of the LORD here among you—only servants of Baal.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.22|<< 2 Kings 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.24|2 Kings 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

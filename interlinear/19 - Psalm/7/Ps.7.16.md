@@ -1,4 +1,4 @@
-**Psalms 7:16** (7:17)
+**Psalms 7:16**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His trouble recoils on himself, and his violence falls on his own head.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.15|<< Psalms 7:15]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.17|Psalms 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it returns  |**<big>&#8207;[[H7725G\|יָשׁ֣וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mischief his  |**<big>&#8207;[[H5999\|עֲמָל֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| a.ma.L<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

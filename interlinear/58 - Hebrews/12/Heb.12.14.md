@@ -1,12 +1,12 @@
-**Hebrews 12:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:14**<big><big>[[Heb.12.14 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Follow peace with all [men], and holiness, without which no man shall see the Lord:
 <small><sub>**BSB:**</sub></small>
 Pursue peace with everyone, as well as holiness, without which no one will see the Lord.
 <small><sub>**Literal:**</sub></small>
 Peace do pursue with all and <the> holiness, which without no [one] will behold the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.13|<< Hebrews 12:13]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.15|Hebrews 12:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peace |**<big>[[G1515\|εἰρήνην]]</big>**  |eirēnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do pursue |**<big>[[G1377\|διώκετε]]</big>**  |diōkete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

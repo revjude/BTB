@@ -1,4 +1,4 @@
-**Psalms 122:8** 
+**Psalms 122:8**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my brethren and companions’ sakes, I will now say, Peace [be] within thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of my brothers and friends, I will say, “Peace be within you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.7|<< Psalms 122:7]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.9|Psalms 122:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְ֭מַעַן]]&#8207; </big>**| Le.ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers my  |**<big>&#8207;[[H0251G\|אַחַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.Cha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 92:10** 
 <small><sub>**LXX:**</sub></small>
 And my horn shall be raised up high as a unicorn; and  my old age with plentiful oil. 
-<small><sub>**KJV:**</sub></small>
-But my horn shalt thou exalt like [the horn of] an unicorn: I shall be anointed with fresh oil.
-<small><sub>**BSB:**</sub></small>
-But You have exalted my horn like that of a wild ox; with fine oil I have been anointed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.92.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.9|<< Psalm 92:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.11|Psalm 92:11 >>]]</td></tr></table>
 
 | Translation | Greek |

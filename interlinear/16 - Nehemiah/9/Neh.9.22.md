@@ -1,4 +1,4 @@
-**Nehemiah 9:22** 
+**Nehemiah 9:22**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You gave them kingdoms and peoples and allotted to them every corner of the land
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.21|<< Nehemiah 9:21]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.23|Nehemiah 9:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|תִּתֵּ֨ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ten<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֤ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

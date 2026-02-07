@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:10** 
 <small><sub>**LXX:**</sub></small>
 And I will establish a place  for my people Israel, and I will plant \[it\], and \[they\] shall encamp by themselves, and shall not be anxious any longer. And \[the\] son of iniquity shall not proceed  to humble \[them\] as from \[the\] beginning, 
-<small><sub>**KJV:**</sub></small>
-Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,
-<small><sub>**BSB:**</sub></small>
-And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.9|<< 2 Samuel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.11|2 Samuel 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

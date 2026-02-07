@@ -1,4 +1,4 @@
-**Job 37:13** 
+**Job 37:13**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He causeth it to come, whether for correction, or for his land, or for mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whether for punishment or for His land, He accomplishes this in His loving devot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.12|<< Job 37:12]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.14|Job 37:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whether  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for a rod  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7626G\|שֵׁ֥בֶט]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

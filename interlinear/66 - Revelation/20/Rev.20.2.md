@@ -1,12 +1,12 @@
-**Revelation 20:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:2**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
 <small><sub>**BSB:**</sub></small>
 He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years.
 <small><sub>**Literal:**</sub></small>
 And he seized the dragon, the serpent <the> ancient, who is [the] devil and <the> Satan; who is deceiving the world all and bound him for a thousand years<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.1|<< Revelation 20:1]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.3|Revelation 20:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he seized |**<big>[[G2902\|ἐκράτησεν]]</big>**  |ekratēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

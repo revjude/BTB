@@ -1,10 +1,7 @@
 **LXX Exodus 39:36** 
 <small><sub>**LXX:**</sub></small>
 and the table, and all  \[its\] utensils, and the bread loaves of the place setting, 
-<small><sub>**KJV:**</sub></small>
-The table, [and] all the vessels thereof, and the shewbread,
-<small><sub>**BSB:**</sub></small>
-the table with all its utensils and the Bread of the Presence;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.35|<< Exodus 39:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.37|Exodus 39:37 >>]]</td></tr></table>
 
 | Translation | Greek |

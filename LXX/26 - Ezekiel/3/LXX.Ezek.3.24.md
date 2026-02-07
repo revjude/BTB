@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:24** 
 <small><sub>**LXX:**</sub></small>
 And spirit came upon me, and stood me upon  my feet, and spoke to me, and said to me, Enter and be locked up in \[the\] midst  of your house! 
-<small><sub>**KJV:**</sub></small>
-Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit entered me and set me on my feet. He spoke with me and said, “Go, shut yourself inside your house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.23|<< Ezekiel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.25|Ezekiel 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

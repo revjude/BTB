@@ -1,10 +1,7 @@
 **LXX Job 40:13** 
 <small><sub>**LXX:**</sub></small>
 And hide \[them\] in \[the\] earth with one accord! and the \[things\] of their faces fill with dishonor! 
-<small><sub>**KJV:**</sub></small>
-Hide them in the dust together; [and] bind their faces in secret.
-<small><sub>**BSB:**</sub></small>
-Bury them together in the dust; imprison them in the grave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.12|<< Job 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.14|Job 40:14 >>]]</td></tr></table>
 
 | Translation | Greek |

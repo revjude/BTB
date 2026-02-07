@@ -1,12 +1,12 @@
-**Luke 12:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:52**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For from henceforth there shall be five in one house divided, three against two, and two against three.
 <small><sub>**BSB:**</sub></small>
 From now on, five in one household will be divided, three against two and two against three.
 <small><sub>**Literal:**</sub></small>
 There will be for from <the> now five in one house divided, three against two and two against three<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.51|<< Luke 12:51]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.53|Luke 12:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There will be |**<big>[[G1510\|ἔσονται]]</big>**  |esontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

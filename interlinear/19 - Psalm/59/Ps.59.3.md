@@ -1,4 +1,4 @@
-**Psalms 59:3** (59:4)
+**Psalms 59:3**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, they lie in wait for my soul: the mighty are gathered against me; not [for] my transgression, nor [for] my sin, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See how they lie in wait for me. Fierce men conspire against me for no transgres
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.2|<< Psalms 59:2]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.4|Psalms 59:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֪ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

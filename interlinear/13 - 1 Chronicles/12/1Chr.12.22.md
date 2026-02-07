@@ -1,4 +1,4 @@
-**1 Chronicles 12:22** (12:23)
+**1 Chronicles 12:22**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For at [that] time day by day there came to David to help him, until [it was] a great host, like the host of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For at that time men came to David day after day to help him, until he had a gre
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.21|<< 1 Chronicles 12:21]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.23|1 Chronicles 12:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a time of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'et-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

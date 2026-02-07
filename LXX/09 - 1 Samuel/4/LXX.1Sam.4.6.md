@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:6** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines heard the sound of the cry. And they said, What \[is\] the sound of the cry --  this great one in the camp of the Hebrews? And they knew that the ark of \[the\] <span class="smallcaps">lord</span> comes into the camp. 
-<small><sub>**KJV:**</sub></small>
-And when the Philistines heard the noise of the shout, they said, What [meaneth] the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp.
-<small><sub>**BSB:**</sub></small>
-On hearing the noise of the shout, the Philistines asked, “What is this loud shouting in the camp of the Hebrews?” And when they realized that the ark of the LORD had entered the camp,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.5|<< 1 Samuel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.7|1 Samuel 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

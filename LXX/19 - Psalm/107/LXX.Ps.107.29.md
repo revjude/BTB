@@ -1,10 +1,7 @@
 **LXX Psalm 107:29** 
 <small><sub>**LXX:**</sub></small>
 And he gave orders to the gale, and it stood as a breeze, and its waves were quiet. 
-<small><sub>**KJV:**</sub></small>
-He maketh the storm a calm, so that the waves thereof are still.
-<small><sub>**BSB:**</sub></small>
-He calmed the storm to a whisper, and the waves of the sea were hushed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.28|<< Psalm 107:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.30|Psalm 107:30 >>]]</td></tr></table>
 
 | Translation | Greek |

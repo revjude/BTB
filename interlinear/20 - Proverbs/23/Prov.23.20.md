@@ -1,4 +1,4 @@
-**Proverbs 23:20** 
+**Proverbs 23:20**<big><big>[[Prov.23.19 Saying 16|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not among winebibbers; among riotous eaters of flesh:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not join those who drink too much wine or gorge themselves on meat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.19|<< Proverbs 23:19]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.21|Proverbs 23:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be  |**<big>&#8207;[[H1961\|תְּהִ֥י]]&#8207; </big>**| te.Hi<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

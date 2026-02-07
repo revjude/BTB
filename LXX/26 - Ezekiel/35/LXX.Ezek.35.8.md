@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:8** 
 <small><sub>**LXX:**</sub></small>
 And I will fill up your hills and your ravines of the slain; and in all  your plains ones being slain by \[the\] sword shall fall among you. 
-<small><sub>**KJV:**</sub></small>
-And I will fill his mountains with his slain [men]: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.
-<small><sub>**BSB:**</sub></small>
-I will fill its mountains with the slain; those killed by the sword will fall on your hills, in your valleys, and in all your ravines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.7|<< Ezekiel 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.9|Ezekiel 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

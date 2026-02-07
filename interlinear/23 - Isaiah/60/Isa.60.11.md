@@ -1,4 +1,4 @@
-**Isaiah 60:11** 
+**Isaiah 60:11**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thy gates shall be open continually; they shall not be shut day nor night; that [men] may bring unto thee the forces of the Gentiles, and [that] their kings [may be] brought.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your gates will always stand open; they will never be shut, day or night, so tha
 > $\quad$ referenced by: [[Rev.21.24|Rev 21:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be open  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6605A\|פִתְּח֨וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fi.te.Chu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gates your  |**<big>&#8207;[[H8179G\|שְׁעָרַ֧יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| she.'a.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

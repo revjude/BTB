@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be after these \[things\], I will pour out from  my spirit upon all flesh; and your sons and your daughters shall prophesy, and  your older men shall dream dreams, and  your young men shall see visions. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass afterward, [that] I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
-<small><sub>**BSB:**</sub></small>
-And afterward, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.27|<< Joel 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.29|Joel 2:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:28** is...

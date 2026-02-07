@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:2** 
 <small><sub>**LXX:**</sub></small>
 And David rose up and passed over, he and the six hundred men  with him, and he went to Achish, son of Maoch, king of Gath. 
-<small><sub>**KJV:**</sub></small>
-And David arose, and he passed over with the six hundred men that [were] with him unto Achish, the son of Maoch, king of Gath.
-<small><sub>**BSB:**</sub></small>
-So David set out with his six hundred men and went to Achish son of Maoch, the king of Gath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.1|<< 1 Samuel 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.3|1 Samuel 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

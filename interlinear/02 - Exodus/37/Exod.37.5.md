@@ -1,4 +1,4 @@
-**Exodus 37:5** 
+**Exodus 37:5**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the staves into the rings by the sides of the ark, to bear the ark.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He inserted the poles into the rings on the sides of the ark in order to carry i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.4|<< Exodus 37:4]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.6|Exodus 37:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

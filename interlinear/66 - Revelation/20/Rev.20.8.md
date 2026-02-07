@@ -1,12 +1,12 @@
-**Revelation 20:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:8**<big><big>[[Rev.20.7 Satan Cast into the Lake of Fire|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom [is] as the sand of the sea.
 <small><sub>**BSB:**</sub></small>
 and will go out to deceive the nations in the four corners of the earth—Gog and Magog—to assemble them for battle. Their number is like the sand of the seashore.
 <small><sub>**Literal:**</sub></small>
 and will go out to deceive the nations <the> in the four corners of the earth, <the> Gog and <the> Magog, to gather together them unto the war, of whom the number [is] of them like the sand of the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.7|<< Revelation 20:7]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.9|Revelation 20:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will go out |**<big>[[G1831\|ἐξελεύσεται]]</big>**  |exeleusetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

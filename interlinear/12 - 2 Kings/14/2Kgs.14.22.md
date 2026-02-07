@@ -1,4 +1,4 @@
-**2 Kings 14:22** 
+**2 Kings 14:22**<big><big>[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He built Elath, and restored it to Judah, after that the king slept with his fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Azariah was the one who rebuilt Elath and restored it to Judah after King Amazia
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.21|<< 2 Kings 14:21]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.23|2 Kings 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֚וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|בָּנָ֣ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

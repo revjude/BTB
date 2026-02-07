@@ -1,10 +1,7 @@
 **LXX Genesis 23:20** 
 <small><sub>**LXX:**</sub></small>
 And the field was validated, and the cave which was in it \[to\] Abraham for a possession of a burying-place from the sons of Heth. 
-<small><sub>**KJV:**</sub></small>
-And the field, and the cave that [is] therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.
-<small><sub>**BSB:**</sub></small>
-So the field and its cave were deeded by the Hittites to Abraham as a burial site.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.19|<< Genesis 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.1|Genesis 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

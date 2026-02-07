@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:21** 
 <small><sub>**LXX:**</sub></small>
 And all Moab heard that the kings ascended to wage war against them, and they yelled out from all \[sides\] girding on \[the\] belt, and \[went\] forward, and they stood at the border. 
-<small><sub>**KJV:**</sub></small>
-And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.
-<small><sub>**BSB:**</sub></small>
-Now all the Moabites had heard that the kings had come up to fight against them. So all who could bear arms, young and old, were summoned and stationed at the border.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.20|<< 2 Kings 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.22|2 Kings 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 19:2** 
 <small><sub>**LXX:**</sub></small>
 This is a distinction of the law, as many \[things\] as \[the\] <span class="smallcaps">lord</span> ordered, saying, Speak to the sons of Israel! And let them take to you an unblemished reddish heifer! which a blemish is not it, and which a yoke was not put upon it. 
-<small><sub>**KJV:**</sub></small>
-This [is] the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein [is] no blemish, [and] upon which never came yoke:
-<small><sub>**BSB:**</sub></small>
-“This is the statute of the law that the LORD has commanded: Instruct the Israelites to bring you an unblemished red heifer that has no defect and has never been placed under a yoke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.1|<< Numbers 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.3|Numbers 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

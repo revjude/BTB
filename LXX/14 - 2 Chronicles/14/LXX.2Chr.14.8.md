@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:8** 
 <small><sub>**LXX:**</sub></small>
 And there was to Asa a force of armor-bearers lifting shields and spears in Judah -- three hundred thousand. And in Benjamin men armed with small shields, and bowmen -- two hundred and eighty thousand, all these \[were\] warriors of power. 
-<small><sub>**KJV:**</sub></small>
-And Asa had an army [of men] that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these [were] mighty men of valour.
-<small><sub>**BSB:**</sub></small>
-Asa had an army of 300,000 men from Judah bearing large shields and spears, and 280,000 men from Benjamin bearing small shields and drawing the bow. All these were mighty men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.7|<< 2 Chronicles 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.9|2 Chronicles 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 6:5** 
 <small><sub>**LXX:**</sub></small>
 O my people, remember indeed what Balak king of Moab planned against you! and what Balaam son of Beor answered to him, from the rushes unto  Gilgal, so that the righteousness of the <span class="smallcaps">lord</span> should be known. 
-<small><sub>**KJV:**</sub></small>
-O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.
-<small><sub>**BSB:**</sub></small>
-My people, remember what Balak king of Moab counseled and what Balaam son of Beor answered. Remember your journey from Shittim to Gilgal, so that you may acknowledge the righteousness of the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.4|<< Micah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.6|Micah 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

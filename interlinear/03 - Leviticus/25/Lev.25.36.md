@@ -1,4 +1,4 @@
-**Leviticus 25:36** 
+**Leviticus 25:36**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not take any interest or profit from him, but fear your God, that your countr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.35|<< Leviticus 25:35]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.37|Leviticus 25:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you take  |**<big>&#8207;[[H3947G\|תִּקַּ֤ח]]&#8207; </big>**| ti.Kach<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

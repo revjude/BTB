@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the third day of my giving birth, this woman also gave birth. And we were in the same \[place\], and there was no one with us, only both of us in the house. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the third day after that I was delivered, that this woman was delivered also: and we [were] together; [there was] no stranger with us in the house, save we two in the house.
-<small><sub>**BSB:**</sub></small>
-On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.17|<< 1 Kings 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.19|1 Kings 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

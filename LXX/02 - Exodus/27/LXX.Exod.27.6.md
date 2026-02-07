@@ -1,10 +1,7 @@
 **LXX Exodus 27:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for the altar bearing poles from out of incorruptible woods, and you shall brass plate them in brass. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make staves for the altar, staves [of] shittim wood, and overlay them with brass.
-<small><sub>**BSB:**</sub></small>
-Additionally, make poles of acacia wood for the altar and overlay them with bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.5|<< Exodus 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.7|Exodus 27:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 4:4** 
 <small><sub>**LXX:**</sub></small>
 And Deborah, a woman prophetess, wife of Lapidoth -- she judged  Israel in  that time. 
-<small><sub>**KJV:**</sub></small>
-And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
-<small><sub>**BSB:**</sub></small>
-Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.3|<< Judges 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.5|Judges 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

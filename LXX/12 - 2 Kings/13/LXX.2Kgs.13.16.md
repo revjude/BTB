@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:16** 
 <small><sub>**LXX:**</sub></small>
 And he said to the king of Israel, Set  your hand upon the bow! And he set  his hand. And Elisha placed  his hands upon the hands of the king. 
-<small><sub>**KJV:**</sub></small>
-And he said to the king of Israel, Put thine hand upon the bow. And he put his hand [upon it]: and Elisha put his hands upon the king’s hands.
-<small><sub>**BSB:**</sub></small>
-Then Elisha said to the king of Israel, “Put your hand on the bow.” So the king put his hand on the bow, and Elisha put his hands on the king’s hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.15|<< 2 Kings 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.17|2 Kings 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

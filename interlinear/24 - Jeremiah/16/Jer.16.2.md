@@ -1,4 +1,4 @@
-**Jeremiah 16:2** 
+**Jeremiah 16:2**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou shalt not take thee a wife, neither shalt thou have sons or daughters in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.1|<< Jeremiah 16:1]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.3|Jeremiah 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must take  |**<big>&#8207;[[H3947I\|תִקַּ֥ח]]&#8207; </big>**| ti.Kach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

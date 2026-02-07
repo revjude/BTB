@@ -1,5 +1,5 @@
-**Revelation 18:22
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:22**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft [he be], shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 <small><sub>**BSB:**</sub></small>
 And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again.
@@ -10,7 +10,7 @@ And sound of harpists and musicians and flute players and trumpeters certainly n
 > $\quad$ alluding to: [[LXX.Isa.24.8|Isa 24:8]] ☩ [[LXX.Jer.7.34|Jer 7:34]] ☩ [[LXX.Jer.25.10|Jer 25:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sound |**<big>[[G5456H\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

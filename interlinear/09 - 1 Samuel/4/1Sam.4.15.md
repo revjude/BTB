@@ -1,4 +1,4 @@
-**1 Samuel 4:15** 
+**1 Samuel 4:15**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Eli was ninety-eight years old, and his gaze was fixed because he could not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.14|<< 1 Samuel 4:14]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.16|1 Samuel 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Eli  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5941\|עֵלִ֕י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

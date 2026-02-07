@@ -1,4 +1,4 @@
-**Ezekiel 41:6** 
+**Ezekiel 41:6**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the side chambers [were] three, one over another, and thirty in order; and they entered into the wall which [was] of the house for the side chambers round about, that they might have hold, but they had not hold in the wall of the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The side rooms were arranged one above another in three levels of thirty rooms e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.5|<< Ezekiel 41:5]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.7|Ezekiel 41:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the side-chambers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6763\|צְּלָעוֹת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> tze.la.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | side-chamber  |**<big>&#8207;[[H6763\|צֵלָ֨ע]]&#8207; </big>**| tze.La'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

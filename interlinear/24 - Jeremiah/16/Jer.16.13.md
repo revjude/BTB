@@ -1,4 +1,4 @@
-**Jeremiah 16:13** 
+**Jeremiah 16:13**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I cast you out of this land into a land that ye know not, [neither] ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will cast you out of this land into a land that neither you nor your father
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.12|<< Jeremiah 16:12]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.14|Jeremiah 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will throw out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2904\|הֵטַלְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.tal.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

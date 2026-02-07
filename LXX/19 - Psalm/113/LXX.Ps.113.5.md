@@ -1,10 +1,7 @@
 **LXX Psalm 113:5** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] as \[the\] <span class="smallcaps">lord</span>  our God? the one dwelling in high \[places\], 
-<small><sub>**KJV:**</sub></small>
-Who [is] like unto the LORD our God, who dwelleth on high,
-<small><sub>**BSB:**</sub></small>
-Who is like the LORD our God, the One enthroned on high?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.113.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.4|<< Psalm 113:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.6|Psalm 113:6 >>]]</td></tr></table>
 
 | Translation | Greek |

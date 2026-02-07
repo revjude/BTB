@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:13** 
 <small><sub>**LXX:**</sub></small>
 And David did not return the ark to himself into the city of David, but he turned it aside into \[the\] house of Obed Edom the Gittite. 
-<small><sub>**KJV:**</sub></small>
-So David brought not the ark [home] to himself to the city of David, but carried it aside into the house of Obededom the Gittite.
-<small><sub>**BSB:**</sub></small>
-So he did not move the ark with him to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.12|<< 1 Chronicles 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.14|1 Chronicles 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses wrote the sayings  of this law in a scroll, and he gave it to the priests, the sons of Levi, the ones lifting the ark of the covenant of \[the\] <span class="smallcaps">lord</span>, and to the elders of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.
-<small><sub>**BSB:**</sub></small>
-So Moses wrote down this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the LORD, and to all the elders of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.8|<< Deuteronomy 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.10|Deuteronomy 31:10 >>]]</td></tr></table>
 
 | Translation | Greek |

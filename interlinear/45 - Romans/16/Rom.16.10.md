@@ -1,12 +1,12 @@
-**Romans 16:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:10**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute Apelles approved in Christ. Salute them which are of Aristobulus’ [household].
 <small><sub>**BSB:**</sub></small>
 Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.
 <small><sub>**Literal:**</sub></small>
 do greet Apelles the approved in Christ. do greet those of the [household] of Aristobulus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.9|<< Romans 16:9]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.11|Romans 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Apelles |**<big>[[G0559\|Ἀπελλῆν]]</big>**  |Apellēn <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

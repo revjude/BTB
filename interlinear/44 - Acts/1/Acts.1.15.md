@@ -1,12 +1,12 @@
-**Acts 1:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:15**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
 <small><sub>**BSB:**</sub></small>
 In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said,
 <small><sub>**Literal:**</sub></small>
 And in <the> days these having stood up Peter in [the] midst of the brothers he said — was then [the] number of names together the same about a hundred twenty —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.14|<< Acts 1:14]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.16|Acts 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

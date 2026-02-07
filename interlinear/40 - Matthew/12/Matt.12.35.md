@@ -1,12 +1,12 @@
-**Matthew 12:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:35**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.
 <small><sub>**BSB:**</sub></small>
 The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure.
 <small><sub>**Literal:**</sub></small>
 The good man out of <the> good treasure <the> of [his] heart puts forth <the> good things, and the evil man out of <the> [his] evil treasure puts forth evil things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.34|<< Matthew 12:34]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.36|Matthew 12:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | good |**<big>[[G0018\|ἀγαθὸς]]</big>**  |agathos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

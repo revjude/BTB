@@ -1,4 +1,4 @@
-**2 Chronicles 18:3** 
+**2 Chronicles 18:3**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramothgilead? And he answered him, I [am] as thou [art], and my people as thy people; and [we will be] with thee in the war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.2|<< 2 Chronicles 18:2]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.4|2 Chronicles 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֜אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahab  |**<big>&#8207;[[H0256G\|אַחְאָ֣ב]]&#8207; </big>**| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

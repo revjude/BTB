@@ -1,4 +1,4 @@
-**1 Samuel 21:15** (21:16)
+**1 Samuel 21:15**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have I need of mad men, that ye have brought this [fellow] to play the mad man in my presence? shall this [fellow] come into my house?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Am I in need of madmen, that you have brought this man to rave in my presence? M
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.14|<< 1 Samuel 21:14]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.1|1 Samuel 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lacking of  |**<big>&#8207;[[H2638\|חֲסַ֤ר]]&#8207; </big>**| cha.Sar<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | madmen  |**<big>&#8207;[[H7696\|מְשֻׁגָּעִים֙]]&#8207; </big>**| me.shu.ga.'Im<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 90:3** 
 <small><sub>**LXX:**</sub></small>
 You should not return man unto humiliation, whereas you said, Return, O sons of men! 
-<small><sub>**KJV:**</sub></small>
-Thou turnest man to destruction; and sayest, Return, ye children of men.
-<small><sub>**BSB:**</sub></small>
-You return man to dust, saying, “Return, O sons of mortals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.2|<< Psalm 90:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.4|Psalm 90:4 >>]]</td></tr></table>
 
 | Translation | Greek |

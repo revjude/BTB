@@ -1,4 +1,4 @@
-**2 Kings 17:12** 
+**2 Kings 17:12**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they served idols, whereof the LORD had said unto them, Ye shall not do this thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They served idols, although the LORD had told them, “You shall not do this thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.11|<< 2 Kings 17:11]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.13|2 Kings 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּֽעַבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the idols  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1544\|גִּלֻּלִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gi.lu.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

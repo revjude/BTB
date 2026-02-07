@@ -1,12 +1,12 @@
-**Luke 1:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:31**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.
 <small><sub>**BSB:**</sub></small>
 Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus.
 <small><sub>**Literal:**</sub></small>
 and behold you will conceive in womb and will bring forth a son and you will call the name of Him Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.30|<< Luke 1:30]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.32|Luke 1:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

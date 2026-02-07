@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:11** 
 <small><sub>**LXX:**</sub></small>
 And Ebed-melech took the men, and he entered into the house of the king, the subterranean \[part\], and he took from there old rags and old rough cords; and he tossed them to Jeremiah in the pit. 
-<small><sub>**KJV:**</sub></small>
-So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.
-<small><sub>**BSB:**</sub></small>
-Then Ebed-melech took the men with him and went to the king’s palace, to a place below the storehouse. From there he took old rags and worn-out clothes and lowered them with ropes to Jeremiah in the cistern.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.10|<< Jeremiah 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.12|Jeremiah 38:12 >>]]</td></tr></table>
 
 | Translation | Greek |

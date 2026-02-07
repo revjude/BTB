@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:38** 
 <small><sub>**LXX:**</sub></small>
 and they should turn towards you with all their heart, and with all their soul in \[the\] land of their being taken captive, of which they took them captive there, and they should pray \[in the\] way of their land, of which you gave \[to\] their fathers, and of the city of which you chose, and the house of which I built \[to\] your name; 
-<small><sub>**KJV:**</sub></small>
-If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and [toward] the city which thou hast chosen, and toward the house which I have built for thy name:
-<small><sub>**BSB:**</sub></small>
-and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.37|<< 2 Chronicles 6:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.39|2 Chronicles 6:39 >>]]</td></tr></table>
 
 | Translation | Greek |

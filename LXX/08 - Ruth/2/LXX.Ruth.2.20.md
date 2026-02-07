@@ -1,10 +1,7 @@
 **LXX Ruth 2:20** 
 <small><sub>**LXX:**</sub></small>
 And Naomi said \[to\] her daughter-in-law, Blessed is the <span class="smallcaps">lord</span>, for he abandoned not  his mercy with the living and with the ones having died. And Naomi said to her, The man is near to us, of the ones acting as next of kin -- he is of us. 
-<small><sub>**KJV:**</sub></small>
-And Naomi said unto her daughter in law, Blessed [be] he of the LORD, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man [is] near of kin unto us, one of our next kinsmen.
-<small><sub>**BSB:**</sub></small>
-Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead.” Naomi continued, “The man is a close relative. He is one of our kinsman-redeemers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.19|<< Ruth 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.21|Ruth 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

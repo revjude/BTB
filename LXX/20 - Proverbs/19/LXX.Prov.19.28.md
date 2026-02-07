@@ -1,10 +1,7 @@
 **LXX Proverbs 19:28** 
 <small><sub>**LXX:**</sub></small>
 The one guaranteeing a loan of a foolish child insults \[the\] ordinance; and \[the\] mouth of \[the\] impious shall swallow down judgments. 
-<small><sub>**KJV:**</sub></small>
-An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.
-<small><sub>**BSB:**</sub></small>
-A corrupt witness mocks justice, and a wicked mouth swallows iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.27|<< Proverbs 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.29|Proverbs 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 6:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:8**<big><big>[[Rev.6.7 The Fourth Seal：Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw a pale green horse. Its rider’s name was Death, and Hades followed close behind. And they were given authority over a fourth of the earth, to kill by sword, by famine, by plague, and by the beasts of the earth.
@@ -10,7 +10,7 @@ And I looked and behold a horse pale and the [one] sitting on it [the] name of h
 > $\quad$ possibly alluding to: [[LXX.Ezek.14.21|Ezek 14:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

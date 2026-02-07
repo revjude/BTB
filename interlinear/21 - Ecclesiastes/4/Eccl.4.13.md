@@ -1,4 +1,4 @@
-**Ecclesiastes 4:13** 
+**Ecclesiastes 4:13**<big><big>[[Eccl.4.13 The Futility of Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] a poor and a wise child than an old and foolish king, who will no more be admonished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better is a poor but wise youth than an old but foolish king who no longer knows
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֛וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a youth  |**<big>&#8207;[[H3206\|יֶ֥לֶד]]&#8207; </big>**| Ye.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

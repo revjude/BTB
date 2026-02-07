@@ -1,12 +1,12 @@
-**John 12:3
-**<small><sub>**KJV:**</sub></small>
+**John 12:3**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
 <small><sub>**BSB:**</sub></small>
 Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.
 <small><sub>**Literal:**</sub></small>
 <the> Therefore Mary having taken a litra of fragrant oil of nard pure of great price anointed the feet <the> of Jesus and wiped with the hair of her the feet of Him; the now house was filled with the fragrance of the oil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.2|<< John 12:2]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.4|John 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Hebrews 3:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:4**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every house is builded by some [man]; but he that built all things [is] God.
 <small><sub>**BSB:**</sub></small>
 And every house is built by someone, but God is the builder of everything.
 <small><sub>**Literal:**</sub></small>
 Every for house is built by someone, the [One] however <the> everything having built [is] God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.3|<< Hebrews 3:3]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.5|Hebrews 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

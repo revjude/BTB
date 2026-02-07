@@ -1,4 +1,4 @@
-**Psalms 141:9** 
+**Psalms 141:9**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep me from the snares [which] they have laid for me, and the gins of the workers of iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep me from the snares they have laid for me, and from the lures of evildoers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.8|<< Psalms 141:8]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.10|Psalms 141:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | keep me  |**<big>&#8207;[[H8104H\|שָׁמְרֵ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.me.Re.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] hands of  |**<big>&#8207;[[H9006\|מִ֣]]&#8207;&#8207;[[H3027H\|ידֵי]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

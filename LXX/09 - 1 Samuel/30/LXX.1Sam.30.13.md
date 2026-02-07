@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:13** 
 <small><sub>**LXX:**</sub></small>
 And David said to him, Who are you, and from what place are you? And the Egyptian servant-lad said, I am a servant of a man, an Amalekite; and my master left me for I was unwell, today being three days. 
-<small><sub>**KJV:**</sub></small>
-And David said unto him, To whom [belongest] thou? and whence [art] thou? And he said, I [am] a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
-<small><sub>**BSB:**</sub></small>
-Then David asked him, “To whom do you belong, and where are you from?” “I am an Egyptian,” he replied, “the slave of an Amalekite. My master abandoned me three days ago when I fell ill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.12|<< 1 Samuel 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.14|1 Samuel 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

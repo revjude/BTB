@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the second year, in the second month, \[the\] twentieth of the month, the cloud ascended from the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the twentieth [day] of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
-<small><sub>**BSB:**</sub></small>
-On the twentieth day of the second month of the second year, the cloud was lifted from above the tabernacle of the Testimony,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.10|<< Numbers 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.12|Numbers 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

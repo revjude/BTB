@@ -1,4 +1,4 @@
-**Psalms 66:16** 
+**Psalms 66:16**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come [and] hear, all ye that fear God, and I will declare what he hath done for my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come and listen, all you who fear God, and I will declare what He has done for m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.15|<< Psalms 66:15]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.17|Psalms 66:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְכֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.khu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

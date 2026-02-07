@@ -1,12 +1,12 @@
-**Mark 9:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:25**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, [Thou] dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw that a crowd had come running, He rebuked the unclean spirit. “You deaf and mute spirit,” He said, “I command you to come out and never enter him again.”
 <small><sub>**Literal:**</sub></small>
 Having seen now <the> Jesus that was running together a crowd, He rebuked the spirit <the> unclean saying to it; O Mute and deaf O spirit, I myself command you: do come out of him, and no more shall you enter into him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.24|<< Mark 9:24]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.26|Mark 9:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

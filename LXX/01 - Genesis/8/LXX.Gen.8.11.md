@@ -1,10 +1,7 @@
 **LXX Genesis 8:11** 
 <small><sub>**LXX:**</sub></small>
 And the dove returned to him; and she had a twig of an olive leaf in  her mouth; and Noah knew that the water abated from the earth. 
-<small><sub>**KJV:**</sub></small>
-And the dove came in to him in the evening; and, lo, in her mouth [was] an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
-<small><sub>**BSB:**</sub></small>
-And behold, the dove returned to him in the evening with a freshly plucked olive leaf in her beak. So Noah knew that the waters had receded from the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.10|<< Genesis 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.12|Genesis 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

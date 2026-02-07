@@ -1,4 +1,4 @@
-**1 Chronicles 24:18** 
+**1 Chronicles 24:18**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The three and twentieth to Delaiah, the four and twentieth to Maaziah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the twenty-third to Delaiah, and the twenty-fourth to Maaziah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.17|<< 1 Chronicles 24:17]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.19|1 Chronicles 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to Delaiah  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1806H\|דְלָיָ֙הוּ֙]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> d.la.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֣ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

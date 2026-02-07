@@ -1,12 +1,12 @@
-**1 Timothy 1:4
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:4**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: [so do].
 <small><sub>**BSB:**</sub></small>
 or devote themselves to myths and endless genealogies, which promote speculation rather than the stewardship of God’s work, which is by faith.
 <small><sub>**Literal:**</sub></small>
 nor to give heed to myths and to genealogies endless, which speculations bring rather than stewardship of God which [is] in faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.3|<< 1 Timothy 1:3]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.5|1 Timothy 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to give heed |**<big>[[G4337\|προσέχειν]]</big>**  |prosechein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 19:14** (19:15)
+**Psalms 19:14**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the words of my mouth and the meditation of my heart be pleasing in Your sig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.13|<< Psalms 19:13]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.0|Psalms 20:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be  |**<big>&#8207;[[H1961\|יִֽהְי֥וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for acceptance  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7522\|רָצ֨וֹן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Tzon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

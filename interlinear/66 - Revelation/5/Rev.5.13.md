@@ -1,12 +1,12 @@
-**Revelation 5:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:13**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, [be] unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying: “To Him who sits on the throne and to the Lamb be praise and honor and glory and power forever and ever!”
 <small><sub>**Literal:**</sub></small>
 And every creature which is in <the> heaven and upon the earth and under the earth and on the sea that is and <the> in them everything I heard saying: To the [One] sitting on the throne and to the Lamb <the> blessing and <the> honor and <the> glory and <the> might to the ages of the ages Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.12|<< Revelation 5:12]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.14|Revelation 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

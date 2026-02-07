@@ -1,10 +1,7 @@
 **LXX Psalm 44:3** 
 <small><sub>**LXX:**</sub></small>
 For not by  their broadsword they inherited \[the\] land, and  their arm did not deliver them; but \[it was\]  your right \[hand\], and  your arm, and the illumination  of your countenance, for you thought well by them. 
-<small><sub>**KJV:**</sub></small>
-For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.
-<small><sub>**BSB:**</sub></small>
-For it was not by their sword that they took the land; their arm did not bring them victory. It was by Your right hand, Your arm, and the light of Your face, because You favored them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.2|<< Psalm 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.4|Psalm 44:4 >>]]</td></tr></table>
 
 | Translation | Greek |

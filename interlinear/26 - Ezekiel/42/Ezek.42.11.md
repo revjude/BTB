@@ -1,4 +1,4 @@
-**Ezekiel 42:11** 
+**Ezekiel 42:11**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the way before them [was] like the appearance of the chambers which [were] toward the north, as long as they, [and] as broad as they: and all their goings out [were] both according to their fashions, and according to their doors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with a passageway in front of them, just like the chambers that were on the nort
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.10|<< Ezekiel 42:10]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.12|Ezekiel 42:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a way  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1870K\|דֶ֙רֶךְ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

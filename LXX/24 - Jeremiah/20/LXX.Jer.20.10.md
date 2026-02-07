@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:10** 
 <small><sub>**LXX:**</sub></small>
 For I heard \[the\] fault of many gathering together round about, \[saying\], Rise up together against \[him\]! And, We should rise up together against him -- all his men friends. Give heed to  his thought! if he should be deceived, and we shall prevail against him, then we shall take  our vengeance on him. 
-<small><sub>**KJV:**</sub></small>
-For I heard the defaming of many, fear on every side. Report, [say they], and we will report it. All my familiars watched for my halting, [saying], Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
-<small><sub>**BSB:**</sub></small>
-For I have heard the whispering of many: “Terror is on every side! Report him; let us report him!” All my trusted friends watch for my fall: “Perhaps he will be deceived so that we may prevail against him and take our vengeance upon him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.9|<< Jeremiah 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.11|Jeremiah 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

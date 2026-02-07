@@ -1,10 +1,7 @@
 **LXX Genesis 47:29** 
 <small><sub>**LXX:**</sub></small>
 And the days approached for Israel  to die. And he called  his son Joseph, and said to him, If I have found favor before you, place  your hand upon  my thigh! and you will do for me a charity and truth -- \[that is\] to not entomb me in Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
-<small><sub>**BSB:**</sub></small>
-When the time drew near for Israel to die, he called his son Joseph and said to him, “If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.28|<< Genesis 47:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.30|Genesis 47:30 >>]]</td></tr></table>
 
 | Translation | Greek |

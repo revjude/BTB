@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:42** 
 <small><sub>**LXX:**</sub></small>
 All  your woods and the produce  of your land the blight shall completely consume. 
-<small><sub>**KJV:**</sub></small>
-All thy trees and fruit of thy land shall the locust consume.
-<small><sub>**BSB:**</sub></small>
-Swarms of locusts will consume all your trees and the produce of your land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.41|<< Deuteronomy 28:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.43|Deuteronomy 28:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 3:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:1**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, [even] as unto babes in Christ.
 <small><sub>**BSB:**</sub></small>
 Brothers, I could not address you as spiritual, but as worldly—as infants in Christ.
 <small><sub>**Literal:**</sub></small>
 And I myself brothers not was able to speak to you as to spiritual but as to fleshly, as to infants in Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.16|<< 1 Corinthians 2:16]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.2|1 Corinthians 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|Κἀγώ,]]</big>**  [^1] |Kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

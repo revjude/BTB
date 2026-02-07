@@ -1,4 +1,4 @@
-**Psalms 149:2** 
+**Psalms 149:2**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let Israel rejoice in their Maker; let the children of Zion rejoice in their Kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.1|<< Psalms 149:1]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.3|Psalms 149:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it rejoice  |**<big>&#8207;[[H8055\|יִשְׂמַ֣ח]]&#8207; </big>**| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֣ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

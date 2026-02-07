@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:11** 
 <small><sub>**LXX:**</sub></small>
 And from the Philistines they brought  to Jehoshaphat gifts and silver. And also the Arabians brought to him rams of \[the\] flocks -- seven thousand seven hundred; he-goats -- seven thousand seven hundred. 
-<small><sub>**KJV:**</sub></small>
-Also [some] of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.
-<small><sub>**BSB:**</sub></small>
-Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.10|<< 2 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.12|2 Chronicles 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

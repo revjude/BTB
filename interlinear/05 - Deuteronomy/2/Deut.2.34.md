@@ -1,4 +1,4 @@
-**Deuteronomy 2:34** 
+**Deuteronomy 2:34**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time we captured all his cities and devoted to destruction the people of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.33|<< Deuteronomy 2:33]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.35|Deuteronomy 2:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we captured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|נִּלְכֹּ֤ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nil.Kod<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

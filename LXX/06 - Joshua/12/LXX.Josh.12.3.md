@@ -1,10 +1,7 @@
 **LXX Joshua 12:3** 
 <small><sub>**LXX:**</sub></small>
 And  Araba unto the sea of Chinneroth according to \[the\] east, and unto the sea of Araba, \[the\] sea  of salts from \[the\] east, by \[the\] way  according to Beth-jeshimoth; and from Teman, the one under Ashdoth Pisgah. 
-<small><sub>**KJV:**</sub></small>
-And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, [even] the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:
-<small><sub>**BSB:**</sub></small>
-as well as the Arabah east of the Sea of Chinnereth to the Sea of the Arabah (the Salt Sea), eastward through Beth-jeshimoth, and southward below the slopes of Pisgah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.2|<< Joshua 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.4|Joshua 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 29:9** 
 <small><sub>**LXX:**</sub></small>
 A wise man judges nations; but a heedless man, in provoking to anger, ridicules and is not struck with awe. 
-<small><sub>**KJV:**</sub></small>
-[If] a wise man contendeth with a foolish man, whether he rage or laugh, [there is] no rest.
-<small><sub>**BSB:**</sub></small>
-If a wise man goes to court with a fool, there will be raving and laughing with no resolution.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.8|<< Proverbs 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.10|Proverbs 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

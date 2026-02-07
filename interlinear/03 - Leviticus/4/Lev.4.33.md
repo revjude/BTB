@@ -1,4 +1,4 @@
-**Leviticus 4:33** 
+**Leviticus 4:33**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he is to lay his hand on the head of the sin offering and slaughter it as a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.32|<< Leviticus 4:32]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.34|Leviticus 4:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5564\|סָמַךְ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.maKh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

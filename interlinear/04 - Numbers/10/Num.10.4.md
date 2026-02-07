@@ -1,4 +1,4 @@
-**Numbers 10:4** 
+**Numbers 10:4**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if they blow [but] with one [trumpet], then the princes, [which are] heads of the thousands of Israel, shall gather themselves unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if only one is sounded, then the leaders, the heads of the clans of Israel, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.3|<< Numbers 10:3]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.5|Numbers 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on one [trumpet]  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0259\|אַחַ֖ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

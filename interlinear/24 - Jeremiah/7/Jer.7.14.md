@@ -1,4 +1,4 @@
-**Jeremiah 7:14** 
+**Jeremiah 7:14**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I do unto [this] house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ therefore what I did to Shiloh I will now do to the house that bears My Name, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.13|<< Jeremiah 7:13]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.15|Jeremiah 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֜יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the house  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1004B\|בַּ֣יִת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

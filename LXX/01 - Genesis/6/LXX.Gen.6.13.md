@@ -1,10 +1,7 @@
 **LXX Genesis 6:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said  to Noah, Time for every man comes before me; for the earth is filled \[with\] iniquity by means of them. And behold, I lay them waste, and the earth. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
-<small><sub>**BSB:**</sub></small>
-Then God said to Noah, “The end of all living creatures has come before Me, because through them the earth is full of violence. Now behold, I will destroy both them and the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.12|<< Genesis 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.14|Genesis 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

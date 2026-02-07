@@ -1,12 +1,12 @@
-**John 19:35
-**<small><sub>**KJV:**</sub></small>
+**John 19:35**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that saw [it] bare record, and his record is true: and he knoweth that he saith true, that ye might believe.
 <small><sub>**BSB:**</sub></small>
 The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe.
 <small><sub>**Literal:**</sub></small>
 And the [one] having seen has borne witness and true of him is the testimony And He knows that truth he is speaking, that also you yourselves may believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.34|<< John 19:34]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.36|John 19:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

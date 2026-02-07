@@ -1,4 +1,4 @@
-**Daniel 2:30** 
+**Daniel 2:30**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, this secret is not revealed to me for [any] wisdom that I have more than any living, but for [their] sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And to me this mystery has been revealed, not because I have more wisdom than an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.29|<< Daniel 2:29]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.31|Daniel 2:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0576B\|אֲנָ֗ה]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Nah<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3809\|לָ֤א]]&#8207; </big>**| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

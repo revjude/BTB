@@ -1,10 +1,7 @@
 **LXX Psalm 71:17** 
 <small><sub>**LXX:**</sub></small>
 You taught me, O God, from my youth; and until  now I will report  your wonders. 
-<small><sub>**KJV:**</sub></small>
-O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.
-<small><sub>**BSB:**</sub></small>
-O God, You have taught me from my youth, and to this day I proclaim Your marvelous deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.16|<< Psalm 71:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.18|Psalm 71:18 >>]]</td></tr></table>
 
 | Translation | Greek |

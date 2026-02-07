@@ -1,12 +1,12 @@
-**1 Corinthians 6:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:8**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nay, ye do wrong, and defraud, and that [your] brethren.
 <small><sub>**BSB:**</sub></small>
 Instead, you yourselves cheat and do wrong, even against your own brothers!
 <small><sub>**Literal:**</sub></small>
 But you yourselves do wrong and defraud, and this [thing] to brothers!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.7|<< 1 Corinthians 6:7]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.9|1 Corinthians 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

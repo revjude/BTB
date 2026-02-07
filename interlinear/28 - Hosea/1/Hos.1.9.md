@@ -1,4 +1,4 @@
-**Hosea 1:9** 
+**Hosea 1:9**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said [God], Call his name Loammi: for ye [are] not my people, and I will not be your [God].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD said, “Name him Lo-ammi, for you are not My people, and I am not 
 > $\quad$ referenced by: [[1Pet.2.10|1Pet 2:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | call  |**<big>&#8207;[[H7121H\|קְרָ֥א]]&#8207; </big>**| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

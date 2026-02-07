@@ -1,10 +1,7 @@
 **LXX Genesis 14:24** 
 <small><sub>**LXX:**</sub></small>
 except what the young \[men\] ate and the portion of the men, of the \[ones\] going with me, Eshcol, Aner, Mamre; these will take for themselves a portion. 
-<small><sub>**KJV:**</sub></small>
-Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
-<small><sub>**BSB:**</sub></small>
-I will accept nothing but what my men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. They may take their portion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.23|<< Genesis 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.1|Genesis 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

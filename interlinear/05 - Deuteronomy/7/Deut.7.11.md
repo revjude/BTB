@@ -1,4 +1,4 @@
-**Deuteronomy 7:11** 
+**Deuteronomy 7:11**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So keep the commandments and statutes and ordinances that I am giving you to fol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.10|<< Deuteronomy 7:10]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.12|Deuteronomy 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104J\|שָׁמַרְתָּ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

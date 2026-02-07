@@ -1,12 +1,12 @@
-**Acts 17:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:21**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
 <small><sub>**BSB:**</sub></small>
 Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.
 <small><sub>**Literal:**</sub></small>
 [The] Athenians now all and the visiting strangers in no [thing] else were spending their time than to tell something and to hear something new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.20|<< Acts 17:20]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.22|Acts 17:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] Athenians |**<big>[[G0117\|Ἀθηναῖοι]]</big>**  |Athēnaioi <small><sup>[[A-NPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

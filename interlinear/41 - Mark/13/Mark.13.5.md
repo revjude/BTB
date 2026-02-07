@@ -1,5 +1,5 @@
-**Mark 13:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:5**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering them began to say, Take heed lest any [man] deceive you:
 <small><sub>**BSB:**</sub></small>
 Jesus began by telling them, “See to it that no one deceives you.
@@ -10,7 +10,7 @@ Jesus began by telling them, “See to it that no one deceives you.
 > $\quad$ alluding to: [[LXX.Jer.29.8|Jer 29:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

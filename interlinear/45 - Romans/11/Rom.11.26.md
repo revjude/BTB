@@ -1,5 +1,5 @@
-**Romans 11:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:26**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 <small><sub>**BSB:**</sub></small>
 And so all Israel will be saved, as it is written: “The Deliverer will come from Zion; He will remove godlessness from Jacob.
@@ -10,7 +10,7 @@ and so all Israel will be saved even as it has been written: Will come out of Zi
 > $\quad$ referencing: [[LXX.Isa.2.3|Isa 2:3]] ☩ [[LXX.Isa.46.13|Isa 46:13]] ☩ [[LXX.Isa.59.20|Isa 59:20-21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | so |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

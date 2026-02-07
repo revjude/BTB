@@ -1,10 +1,7 @@
 **LXX Genesis 23:2** 
 <small><sub>**LXX:**</sub></small>
 And Sarah died in the city of Arba, which is in the hollow -- this is Hebron in the land of Canaan. And Abraham came to lament Sarah, and to mourn. 
-<small><sub>**KJV:**</sub></small>
-And Sarah died in Kirjatharba; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
-<small><sub>**BSB:**</sub></small>
-She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.1|<< Genesis 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.3|Genesis 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

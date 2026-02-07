@@ -1,5 +1,5 @@
-**2 Corinthians 9:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:9**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.
 <small><sub>**BSB:**</sub></small>
 As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”
@@ -10,7 +10,7 @@ Even as it has been written: He has scattered abroad, He has given to the poor, 
 > $\quad$ referencing: [[LXX.Ps.112.9|Ps 112:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

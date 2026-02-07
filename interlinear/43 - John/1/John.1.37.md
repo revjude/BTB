@@ -1,12 +1,12 @@
-**John 1:37
-**<small><sub>**KJV:**</sub></small>
+**John 1:37**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the two disciples heard him speak, and they followed Jesus.
 <small><sub>**BSB:**</sub></small>
 And when the two disciples heard him say this, they followed Jesus.
 <small><sub>**Literal:**</sub></small>
 And heard the two disciples of Him [Him] speaking and they followed <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.36|<< John 1:36]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.38|John 1:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heard |**<big>[[G0191\|ἤκουσαν]]</big>**  |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

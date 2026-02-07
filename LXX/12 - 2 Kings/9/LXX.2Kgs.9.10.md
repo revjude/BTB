@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:10** 
 <small><sub>**LXX:**</sub></small>
 And  the dogs shall eat Jezebel in the part of Jezreel, and there shall not be \[one\] burying \[her\]. And he opened the door, and fled. 
-<small><sub>**KJV:**</sub></small>
-And the dogs shall eat Jezebel in the portion of Jezreel, and [there shall be] none to bury [her]. And he opened the door, and fled.
-<small><sub>**BSB:**</sub></small>
-And on the plot of ground at Jezreel the dogs will devour Jezebel, and there will be no one to bury her.’” Then the young prophet opened the door and ran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.9|<< 2 Kings 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.11|2 Kings 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

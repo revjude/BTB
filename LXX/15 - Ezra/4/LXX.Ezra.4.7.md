@@ -1,10 +1,7 @@
 **LXX Ezra 4:7** 
 <small><sub>**LXX:**</sub></small>
 And in the days of Artaxerxes Mithridath wrote in peace, and Tabeel, with the rest of his fellow-servants to Artaxerxes king of \[the\] Persians. The tribute-gatherer wrote the writing in Syrian and being translated. 
-<small><sub>**KJV:**</sub></small>
-And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter [was] written in the Syrian tongue, and interpreted in the Syrian tongue.
-<small><sub>**BSB:**</sub></small>
-And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.6|<< Ezra 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.8|Ezra 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

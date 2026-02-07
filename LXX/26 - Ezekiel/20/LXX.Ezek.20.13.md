@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:13** 
 <small><sub>**LXX:**</sub></small>
 And the house of Israel greatly embittered me in the wilderness. In  my orders they did not go, and  my ordinances they thrust away, which a man shall do them and shall live by them. And  they profaned my Sabbaths exceedingly. And I spoke  to pour out  my rage upon them in the wilderness,  to completely consume them. 
-<small><sub>**KJV:**</sub></small>
-But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which [if] a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.
-<small><sub>**BSB:**</sub></small>
-Yet the house of Israel rebelled against Me in the wilderness. They did not follow My statutes and they rejected My ordinances—though the man who does these things will live by them—and they utterly profaned My Sabbaths. Then I resolved to pour out My wrath upon them and put an end to them in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.12|<< Ezekiel 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.14|Ezekiel 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

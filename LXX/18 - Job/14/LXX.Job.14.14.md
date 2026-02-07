@@ -1,10 +1,7 @@
 **LXX Job 14:14** 
 <small><sub>**LXX:**</sub></small>
 For if a man should die, shall he live \[again\] having completed the days  of his existence? I shall wait until I should exist again. 
-<small><sub>**KJV:**</sub></small>
-If a man die, shall he live [again]? all the days of my appointed time will I wait, till my change come.
-<small><sub>**BSB:**</sub></small>
-When a man dies, will he live again? All the days of my hard service I will wait, until my renewal comes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.13|<< Job 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.15|Job 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

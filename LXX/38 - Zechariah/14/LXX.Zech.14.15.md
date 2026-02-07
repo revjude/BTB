@@ -1,10 +1,7 @@
 **LXX Zechariah 14:15** 
 <small><sub>**LXX:**</sub></small>
 And this will be the downfall of the horses, and the mules, and the camels, and the donkeys, and of all the cattle of the ones being in  those camps, according to  this downfall. 
-<small><sub>**KJV:**</sub></small>
-And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.
-<small><sub>**BSB:**</sub></small>
-And a similar plague will strike the horses and mules, camels and donkeys, and all the animals in those camps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.14|<< Zechariah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.16|Zechariah 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

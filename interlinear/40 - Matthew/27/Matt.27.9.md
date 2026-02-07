@@ -1,5 +1,5 @@
-**Matthew 27:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:9**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
 <small><sub>**BSB:**</sub></small>
 Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel,
@@ -10,7 +10,7 @@ Then was fulfilled that having been spoken through Jeremiah the prophet saying; 
 > $\quad$ referencing: [[LXX.Jer.32.6|Jer 32:6-9]] ☩ [[LXX.Zech.11.12|Zech 11:12-13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was fulfilled |**<big>[[G4137\|ἐπληρώθη]]</big>**  |eplērōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

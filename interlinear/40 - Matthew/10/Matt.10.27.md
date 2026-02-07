@@ -1,12 +1,12 @@
-**Matthew 10:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:27**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What I tell you in darkness, [that] speak ye in light: and what ye hear in the ear, [that] preach ye upon the housetops.
 <small><sub>**BSB:**</sub></small>
 What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the housetops.
 <small><sub>**Literal:**</sub></small>
 What I tell you in the darkness do speak in the light, and what in the ear you hear do proclaim upon the housetops!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.26|<< Matthew 10:26]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.28|Matthew 10:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I tell |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

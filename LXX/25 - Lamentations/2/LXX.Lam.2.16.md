@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΑΙΝ</p>
 
 All your enemies wide their mouth against you. They whistled and gnashed \[their\] teeth. They said, We swallowed her down. Besides, this \[is\] the day which we expected; we found it, we saw \[it\]. 
-<small><sub>**KJV:**</sub></small>
-All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed [her] up: certainly this [is] the day that we looked for; we have found, we have seen [it].
-<small><sub>**BSB:**</sub></small>
-All your enemies open their mouths against you. They hiss and gnash their teeth, saying, “We have swallowed her up. This is the day for which we have waited. We have lived to see it!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.15|<< Lamentations 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.17|Lamentations 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 30:21** 
+**Proverbs 30:21**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For three [things] the earth is disquieted, and for four [which] it cannot bear:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Under three things the earth trembles, under four it cannot bear up:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.20|<< Proverbs 30:20]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.22|Proverbs 30:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three [things]  |**<big>&#8207;[[H7969\|שָׁ֭לוֹשׁ]]&#8207; </big>**| Sha.lo.osh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

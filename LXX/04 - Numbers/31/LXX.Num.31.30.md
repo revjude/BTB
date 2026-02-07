@@ -1,10 +1,7 @@
 **LXX Numbers 31:30** 
 <small><sub>**LXX:**</sub></small>
 And from the half of the ones of the sons of Israel, you shall take one from fifty, from the people, and from the oxen, and from the sheep, and from the donkeys, and from all the cattle. And you shall give them to the Levites, to the ones guarding the watches in the tent of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD.
-<small><sub>**BSB:**</sub></small>
-From the Israelites’ half, take one out of every fifty, whether persons, cattle, donkeys, sheep, or other animals, and give them to the Levites who keep charge of the tabernacle of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.29|<< Numbers 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.31|Numbers 31:31 >>]]</td></tr></table>
 
 | Translation | Greek |

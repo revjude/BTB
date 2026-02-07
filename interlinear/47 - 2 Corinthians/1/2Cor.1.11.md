@@ -1,12 +1,12 @@
-**2 Corinthians 1:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:11**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye also helping together by prayer for us, that for the gift [bestowed] upon us by the means of many persons thanks may be given by many on our behalf.
 <small><sub>**BSB:**</sub></small>
 as you help us by your prayers. Then many will give thanks on our behalf for the favor shown us in answer to their prayers.
 <small><sub>**Literal:**</sub></small>
 joining together also of you for us <the> by supplication, so that by many persons for the toward us grace bestowed through many thanks may be given for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.10|<< 2 Corinthians 1:10]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.12|2 Corinthians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | joining together |**<big>[[G4943\|συνυπουργούντων]]</big>**  |sunupourgountōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

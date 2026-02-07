@@ -1,10 +1,7 @@
 **LXX Leviticus 13:7** 
 <small><sub>**LXX:**</sub></small>
 But if in turning, the spot degenerates in the skin after  the priest looking at him  to cleanse him, then he shall appear the second \[time\] to the priest. 
-<small><sub>**KJV:**</sub></small>
-But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:
-<small><sub>**BSB:**</sub></small>
-But if the rash spreads further on his skin after he has shown himself to the priest for his cleansing, he must present himself again to the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.6|<< Leviticus 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.8|Leviticus 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

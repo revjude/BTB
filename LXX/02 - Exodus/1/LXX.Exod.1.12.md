@@ -1,10 +1,7 @@
 **LXX Exodus 1:12** 
 <small><sub>**LXX:**</sub></small>
 And in so far as they humbled them by so much, they became many \[more\]. And they were strong exceedingly, exceedingly. And the Egyptians were abhorred of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-But the more they were oppressed, the more they multiplied and flourished; so the Egyptians came to dread the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.11|<< Exodus 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.13|Exodus 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

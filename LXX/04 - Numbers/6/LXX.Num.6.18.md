@@ -1,10 +1,7 @@
 **LXX Numbers 6:18** 
 <small><sub>**LXX:**</sub></small>
 And the one making a vow shall shave by the doors of the tent of the testimony the head  of his vow; and he shall place the hair upon the fire, the one which is upon the sacrifice of the deliverance \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And the Nazarite shall shave the head of his separation [at] the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put [it] in the fire which [is] under the sacrifice of the peace offerings.
-<small><sub>**BSB:**</sub></small>
-Then at the entrance to the Tent of Meeting, the Nazirite is to shave his consecrated head, take the hair, and put it on the fire under the peace offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.17|<< Numbers 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.19|Numbers 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

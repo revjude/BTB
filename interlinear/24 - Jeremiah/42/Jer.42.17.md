@@ -1,4 +1,4 @@
-**Jeremiah 42:17** 
+**Jeremiah 42:17**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all who resolve to go to Egypt to reside there will die by sword and famine a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.16|<< Jeremiah 42:16]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.18|Jeremiah 42:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they may be  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1961\|יִֽהְי֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yih.Yu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

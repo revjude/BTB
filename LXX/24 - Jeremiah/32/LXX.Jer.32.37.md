@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:37** 
 <small><sub>**LXX:**</sub></small>
 Behold, I will gather them from out of all the land of which I scattered them there in my anger, and in  my rage, and a great fit of temper. And I will return them unto  this place; and I will settle them having secured \[them\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
-<small><sub>**BSB:**</sub></small>
-I will surely gather My people from all the lands to which I have banished them in My furious anger and great wrath, and I will return them to this place and make them dwell in safety.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.36|<< Jeremiah 32:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.38|Jeremiah 32:38 >>]]</td></tr></table>
 
 | Translation | Greek |

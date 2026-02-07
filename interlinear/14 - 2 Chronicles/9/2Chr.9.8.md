@@ -1,4 +1,4 @@
-**2 Chronicles 9:8** 
+**2 Chronicles 9:8**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed be the LORD thy God, which delighted in thee to set thee on his throne, [to be] king for the LORD thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the LORD your God, who has delighted in you to set you on His throne 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.7|<< 2 Chronicles 9:7]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.9|2 Chronicles 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he be  |**<big>&#8207;[[H1961\|יְהִ֨י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

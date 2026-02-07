@@ -1,10 +1,7 @@
 **LXX Job 24:13** 
 <small><sub>**LXX:**</sub></small>
 But why did he in overseeing these not act in their being upon \[the\] earth? and they did not recognize, and \[the\] way of righteousness they knew not, nor were gone by their short-cuts. 
-<small><sub>**KJV:**</sub></small>
-They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.
-<small><sub>**BSB:**</sub></small>
-Then there are those who rebel against the light, not knowing its ways or staying on its paths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.12|<< Job 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.14|Job 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

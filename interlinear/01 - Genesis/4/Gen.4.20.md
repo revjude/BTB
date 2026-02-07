@@ -1,4 +1,4 @@
-**Genesis 4:20** 
+**Genesis 4:20**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adah bare Jabal: he was the father of such as dwell in tents, and [of such as have] cattle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Adah gave birth to Jabal; he was the father of those who dwell in tents and rais
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.19|<< Genesis 4:19]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.21|Genesis 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֥לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adah  |**<big>&#8207;[[H5711G\|עָדָ֖ה]]&#8207; </big>**| 'a.Dah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

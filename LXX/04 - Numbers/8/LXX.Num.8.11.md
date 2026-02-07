@@ -1,10 +1,7 @@
 **LXX Numbers 8:11** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall separate the Levites \[for\] a gift before \[the\] <span class="smallcaps">lord</span> from the sons of Israel. And they shall be so as to work the works of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall offer the Levites before the LORD [for] an offering of the children of Israel, that they may execute the service of the LORD.
-<small><sub>**BSB:**</sub></small>
-Aaron is to present the Levites before the LORD as a wave offering from the sons of Israel, so that they may perform the service of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.10|<< Numbers 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.12|Numbers 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

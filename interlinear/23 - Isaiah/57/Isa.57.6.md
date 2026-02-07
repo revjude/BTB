@@ -1,4 +1,4 @@
-**Isaiah 57:6** 
+**Isaiah 57:6**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the smooth [stones] of the stream [is] thy portion; they, they [are] thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your portion is among the smooth stones of the valley; indeed, they are your lot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] among [the] smooth [stones] of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2511\|חַלְּקֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.le.kei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wadi  |**<big>&#8207;[[H5158A\|נַ֣חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

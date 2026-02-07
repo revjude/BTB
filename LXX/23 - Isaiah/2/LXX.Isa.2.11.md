@@ -1,10 +1,7 @@
 **LXX Isaiah 2:11** 
 <small><sub>**LXX:**</sub></small>
 For the eyes of \[the\] <span class="smallcaps">lord</span> \[are\] high,  but man \[is\] low; and the height of men shall be abased, and \[the\] <span class="smallcaps">lord</span> alone shall be raised up high in  that day. 
-<small><sub>**KJV:**</sub></small>
-The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
-<small><sub>**BSB:**</sub></small>
-The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

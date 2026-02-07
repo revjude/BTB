@@ -1,10 +1,7 @@
 **LXX Isaiah 48:3** 
 <small><sub>**LXX:**</sub></small>
 The former \[things\] again I announced, and from out of  my mouth it came forth, and audibly it happened. Suddenly I did, and it came about. 
-<small><sub>**KJV:**</sub></small>
-I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did [them] suddenly, and they came to pass.
-<small><sub>**BSB:**</sub></small>
-I foretold the former things long ago; they came out of My mouth and I proclaimed them. Suddenly I acted, and they came to pass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.2|<< Isaiah 48:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.4|Isaiah 48:4 >>]]</td></tr></table>
 
 | Translation | Greek |

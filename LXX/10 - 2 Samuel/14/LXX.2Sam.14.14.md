@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:14** 
 <small><sub>**LXX:**</sub></small>
 For to death we shall die, and as the water  being discharged upon the earth, not being gathered together; that God shall not take \[the\] life; yet he himself devises a device \[to\] not thrust away from him \[the\] one being thrusted away. 
-<small><sub>**KJV:**</sub></small>
-For we must needs die, and [are] as water spilt on the ground, which cannot be gathered up again; neither doth God respect [any] person: yet doth he devise means, that his banished be not expelled from him.
-<small><sub>**BSB:**</sub></small>
-For we will surely die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life, but He devises ways that the banished one may not be cast out from Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.13|<< 2 Samuel 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.15|2 Samuel 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 53:5** 
 <small><sub>**LXX:**</sub></small>
 There they feared a fear, where there was no fear; for  God dispersed \[the\] bones of ones trying to please men. They were disgraced, for  God treated them with contempt. 
-<small><sub>**KJV:**</sub></small>
-There were they in great fear, [where] no fear was: for God hath scattered the bones of him that encampeth [against] thee: thou hast put [them] to shame, because God hath despised them.
-<small><sub>**BSB:**</sub></small>
-There they are, overwhelmed with dread, where there was nothing to fear. For God has scattered the bones of those who besieged you. You put them to shame, for God has despised them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.53.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.53.4|<< Psalm 53:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.6|Psalm 53:6 >>]]</td></tr></table>
 
 | Translation | Greek |

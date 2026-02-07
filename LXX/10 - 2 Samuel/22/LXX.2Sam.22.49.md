@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:49** 
 <small><sub>**LXX:**</sub></small>
 And he led me from my enemies. And from the ones rousing up against me, you shall raise me up high. You shall rescue me from men of offences. 
-<small><sub>**KJV:**</sub></small>
-And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.
-<small><sub>**BSB:**</sub></small>
-who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.48|<< 2 Samuel 22:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.50|2 Samuel 22:50 >>]]</td></tr></table>
 
 | Translation | Greek |

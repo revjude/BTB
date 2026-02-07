@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Because you poured out  your brass \[money\], \[therefore\] your shame shall be uncovered in  your harlotry with  your lovers, and into all the thoughts  of your lawlessnesses, and in the blood  of your children which you have given to them. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: Because you poured out your wealth and exposed your nakedness in your promiscuity with your lovers and with all your detestable idols, and because of the blood of your children which you gave to them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.35|<< Ezekiel 16:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.37|Ezekiel 16:37 >>]]</td></tr></table>
 
 | Translation | Greek |

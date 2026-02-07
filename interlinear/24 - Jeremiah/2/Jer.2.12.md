@@ -1,4 +1,4 @@
-**Jeremiah 2:12** 
+**Jeremiah 2:12**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be stunned by this, O heavens; be shocked and utterly appalled,” declares the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.11|<< Jeremiah 2:11]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.13|Jeremiah 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be appalled  |**<big>&#8207;[[H8074H\|שֹׁ֥מּוּ]]&#8207; </big>**| Sho.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heaven  |**<big>&#8207;[[H8064\|שָׁמַ֖יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

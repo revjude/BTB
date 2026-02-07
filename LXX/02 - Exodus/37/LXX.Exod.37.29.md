@@ -1,10 +1,7 @@
 **LXX Exodus 37:29** 
 <small><sub>**LXX:**</sub></small>
 And he prepared the oil for the anointing the holy, and the composition of the incense, a pure work of a perfumer. 
-<small><sub>**KJV:**</sub></small>
-And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary.
-<small><sub>**BSB:**</sub></small>
-He also made the sacred anointing oil and the pure, fragrant incense, the work of a perfumer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.28|<< Exodus 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.1|Exodus 38:1 >>]]</td></tr></table>
 
 | Translation | Greek |

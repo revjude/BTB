@@ -1,4 +1,4 @@
-**1 Kings 4:32** (5:12)
+**1 Kings 4:32**<big><big>[[1Kgs.4.29 Solomon’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake three thousand proverbs: and his songs were a thousand and five.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon composed three thousand proverbs, and his songs numbered a thousand and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.31|<< 1 Kings 4:31]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.33|1 Kings 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֕ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

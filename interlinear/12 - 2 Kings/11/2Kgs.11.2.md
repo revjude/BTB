@@ -1,4 +1,4 @@
-**2 Kings 11:2** 
+**2 Kings 11:2**<big><big>[[2Kgs.11.1 Athaliah and Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king’s sons [which were] slain; and they hid him, [even] him and his nurse, in the bedchamber from Athaliah, so that he was not slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.1|<< 2 Kings 11:1]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.3|2 Kings 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֣ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehosheba  |**<big>&#8207;[[H3089\|יְהוֹשֶׁ֣בַע]]&#8207; </big>**| ye.ho.She.va'<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -38,7 +38,7 @@ But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of A
 | he was put to death  |**<big>&#8207;[[H4191\|הוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hu.Mat<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.1|<< 2 Kings 11:1]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.3|2 Kings 11:3 >>]]</td></tr></table>
 
-[^1]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
-[^2]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
+[^1]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> 
+[^2]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>הַמֻּ֣מָותִ֔תים</big></span>**
 

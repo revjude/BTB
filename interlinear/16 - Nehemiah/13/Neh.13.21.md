@@ -1,4 +1,4 @@
-**Nehemiah 13:21** 
+**Nehemiah 13:21**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do [so] again, I will lay hands on you. From that time forth came they no [more] on the sabbath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but I warned them, “Why are you camping in front of the wall? If you do it aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.20|<< Nehemiah 13:20]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.22|Nehemiah 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I warned !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5749B\|אָעִ֣ידָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.'I.da<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

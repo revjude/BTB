@@ -1,10 +1,7 @@
 **LXX Numbers 6:21** 
 <small><sub>**LXX:**</sub></small>
 This is the law of the one making a vow; who ever should make a vow \[to the\] <span class="smallcaps">lord</span> of his gift to the <span class="smallcaps">lord</span>, concerning the vow, separate from what ever his hand should find according to ability  of his vow, of what ever he should have vowed according to the law of his purity. 
-<small><sub>**KJV:**</sub></small>
-This [is] the law of the Nazarite who hath vowed, [and of] his offering unto the LORD for his separation, beside [that] that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.
-<small><sub>**BSB:**</sub></small>
-This is the law of the Nazirite who vows his offering to the LORD for his separation, in addition to whatever else he can afford; he must fulfill whatever vow he makes, according to the law of his separation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.20|<< Numbers 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.22|Numbers 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

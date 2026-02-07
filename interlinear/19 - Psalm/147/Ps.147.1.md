@@ -1,4 +1,4 @@
-**Psalms 147:1** 
+**Psalms 147:1**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD: for [it is] good to sing praises unto our God; for [it is] pleasant; [and] praise is comely.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hallelujah! How good it is to sing praises to our God, how pleasant and lovely t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.10|<< Psalms 146:10]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.2|Psalms 147:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise  |**<big>&#8207;[[H1984B\|הַ֥לְלוּ]]&#8207; </big>**| Ha.lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3050\|יָ֨הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

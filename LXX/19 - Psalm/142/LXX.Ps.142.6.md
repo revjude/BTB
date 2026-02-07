@@ -1,10 +1,7 @@
 **LXX Psalm 142:6** 
 <small><sub>**LXX:**</sub></small>
 Take heed to  my supplication! for I was humbled exceedingly. Rescue me from the ones pursuing me! for they were strengthened above me. 
-<small><sub>**KJV:**</sub></small>
-Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.
-<small><sub>**BSB:**</sub></small>
-Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for they are too strong for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.5|<< Psalm 142:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.7|Psalm 142:7 >>]]</td></tr></table>
 
 | Translation | Greek |

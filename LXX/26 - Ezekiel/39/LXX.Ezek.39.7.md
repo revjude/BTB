@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:7** 
 <small><sub>**LXX:**</sub></small>
 And  my holy name will be known in \[the\] midst of my people Israel; and my holy name shall not be profaned any longer. And the nations shall know that I am \[the\] <span class="smallcaps">lord</span>, \[the\] holy \[one\] in Israel. 
-<small><sub>**KJV:**</sub></small>
-So will I make my holy name known in the midst of my people Israel; and I will not [let them] pollute my holy name any more: and the heathen shall know that I [am] the LORD, the Holy One in Israel.
-<small><sub>**BSB:**</sub></small>
-So I will make My holy name known among My people Israel and will no longer allow it to be profaned. Then the nations will know that I am the LORD, the Holy One in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.6|<< Ezekiel 39:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.8|Ezekiel 39:8 >>]]</td></tr></table>
 
 | Translation | Greek |

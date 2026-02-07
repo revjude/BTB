@@ -1,10 +1,7 @@
 **LXX Psalm 7:17** 
 <small><sub>**LXX:**</sub></small>
 I shall make acknowledgment to the <span class="smallcaps">lord</span> according to  his righteousness; and I shall strum to the name of \[the\] <span class="smallcaps">lord</span> the highest. 
-<small><sub>**KJV:**</sub></small>
-I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.
-<small><sub>**BSB:**</sub></small>
-I will thank the LORD for His righteousness and sing praise to the name of the LORD Most High.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.16|<< Psalm 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.1|Psalm 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

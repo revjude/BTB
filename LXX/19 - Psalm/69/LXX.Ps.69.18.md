@@ -1,10 +1,7 @@
 **LXX Psalm 69:18** 
 <small><sub>**LXX:**</sub></small>
 Take heed \[to\] my soul, and ransom it! Rescue me because of my enemies! 
-<small><sub>**KJV:**</sub></small>
-Draw nigh unto my soul, [and] redeem it: deliver me because of mine enemies.
-<small><sub>**BSB:**</sub></small>
-Draw near to my soul and redeem me; ransom me because of my foes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.17|<< Psalm 69:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.19|Psalm 69:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:4** 
 <small><sub>**LXX:**</sub></small>
 And they sent to me as  this saying four returns; and I sent to them according to  this word. 
-<small><sub>**KJV:**</sub></small>
-Yet they sent unto me four times after this sort; and I answered them after the same manner.
-<small><sub>**BSB:**</sub></small>
-Four times they sent me the same message, and each time I gave the same reply.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.3|<< Nehemiah 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.5|Nehemiah 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

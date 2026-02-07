@@ -1,10 +1,7 @@
 **LXX Genesis 30:3** 
 <small><sub>**LXX:**</sub></small>
 And Rachel said  to Jacob, Behold,  my maidservant Bilhah. Enter to her! and she will bear upon  my knees, and even I will produce children from her. 
-<small><sub>**KJV:**</sub></small>
-And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
-<small><sub>**BSB:**</sub></small>
-Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.2|<< Genesis 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.4|Genesis 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

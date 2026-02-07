@@ -1,12 +1,12 @@
-**1 Thessalonians 4:4
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:4**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That every one of you should know how to possess his vessel in sanctification and honour;
 <small><sub>**BSB:**</sub></small>
 each of you must know how to control his own body in holiness and honor,
 <small><sub>**Literal:**</sub></small>
 to know each of you [how] the his own vessel to control in holiness and honor,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.3|<< 1 Thessalonians 4:3]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.5|1 Thessalonians 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to know |**<big>[[G6063\|εἰδέναι]]</big>**  |eidenai <small><sup>[[V-RAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | each |**<big>[[G1538\|ἕκαστον]]</big>**  |hekaston <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

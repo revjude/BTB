@@ -1,4 +1,4 @@
-**Malachi 4:3** (3:21)
+**Malachi 4:3**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do [this], saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will trample the wicked, for they will be ashes under the soles of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.2|<< Malachi 4:2]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.4|Malachi 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will tread down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6072\|עַסּוֹתֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.so.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֔ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

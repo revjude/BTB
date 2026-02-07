@@ -1,12 +1,12 @@
-**Ephesians 5:24
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:24**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore as the church is subject unto Christ, so [let] the wives [be] to their own husbands in every thing.
 <small><sub>**BSB:**</sub></small>
 Now as the church submits to Christ, so also wives should submit to their husbands in everything.
 <small><sub>**Literal:**</sub></small>
 But even as the church is subjected <the> to Christ so also <the> wives <the> to [their] own husbands in everything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.23|<< Ephesians 5:23]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.25|Ephesians 5:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as [^2] |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

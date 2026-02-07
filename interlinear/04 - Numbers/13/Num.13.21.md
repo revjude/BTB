@@ -1,4 +1,4 @@
-**Numbers 13:21** 
+**Numbers 13:21**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they went up and spied out the land from the Wilderness of Zin as far as Reho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.20|<< Numbers 13:20]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.22|Numbers 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they spied out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8446\|יָּתֻ֣רוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tu.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

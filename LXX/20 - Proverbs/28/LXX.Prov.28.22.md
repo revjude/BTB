@@ -1,10 +1,7 @@
 **LXX Proverbs 28:22** 
 <small><sub>**LXX:**</sub></small>
 A bewitching man hastens to be rich, and does not know that a merciful \[man\] will prevail over him. 
-<small><sub>**KJV:**</sub></small>
-He that hasteth to be rich [hath] an evil eye, and considereth not that poverty shall come upon him.
-<small><sub>**BSB:**</sub></small>
-A stingy man hastens after wealth and does not know that poverty awaits him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.21|<< Proverbs 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.23|Proverbs 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

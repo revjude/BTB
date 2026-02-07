@@ -1,10 +1,7 @@
 **LXX Psalm 32:2** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] man to whom in no way \[the\] <span class="smallcaps">lord</span> should impute sin, nor is treachery in his mouth. 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] the man unto whom the LORD imputeth not iniquity, and in whose spirit [there is] no guile.
-<small><sub>**BSB:**</sub></small>
-Blessed is the man whose iniquity the LORD does not count against him, in whose spirit there is no deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.1|<< Psalm 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.3|Psalm 32:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 32:2** is...

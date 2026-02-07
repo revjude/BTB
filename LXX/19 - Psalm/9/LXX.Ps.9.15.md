@@ -1,10 +1,7 @@
 **LXX Psalm 9:15** 
 <small><sub>**LXX:**</sub></small>
 \[The\] nations were stuck in corruption which they produced; by this snare which they hid their own foot was seized. 
-<small><sub>**KJV:**</sub></small>
-The heathen are sunk down in the pit [that] they made: in the net which they hid is their own foot taken.
-<small><sub>**BSB:**</sub></small>
-The nations have fallen into a pit of their making; their feet are caught in the net they have hidden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.14|<< Psalm 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.16|Psalm 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

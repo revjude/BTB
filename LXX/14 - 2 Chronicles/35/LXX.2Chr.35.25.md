@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:25** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah lamented over Josiah. And all the rulers and the ones in control spoke a lamentation over Josiah \[spoken\] until  today. And they appointed it as an order unto Israel, and behold, it is written in the lamentations. 
-<small><sub>**KJV:**</sub></small>
-And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they [are] written in the lamentations.
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah lamented over Josiah, and to this day all the male and female singers recite laments over Josiah. They established them as a statute for Israel, and indeed they are written in the Book of Laments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.24|<< 2 Chronicles 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.26|2 Chronicles 35:26 >>]]</td></tr></table>
 
 | Translation | Greek |

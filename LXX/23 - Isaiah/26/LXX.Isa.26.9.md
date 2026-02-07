@@ -1,10 +1,7 @@
 **LXX Isaiah 26:9** 
 <small><sub>**LXX:**</sub></small>
 which our soul desires. From out of \[the\] night my spirit rises early to you, O God, because your orders \[are\] light upon the earth. Learn righteousness, O ones dwelling upon the earth! 
-<small><sub>**KJV:**</sub></small>
-With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments [are] in the earth, the inhabitants of the world will learn righteousness.
-<small><sub>**BSB:**</sub></small>
-My soul longs for You in the night; indeed, my spirit seeks You at dawn. For when Your judgments come upon the earth, the people of the world learn righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.8|<< Isaiah 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.10|Isaiah 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

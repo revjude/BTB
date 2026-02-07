@@ -1,5 +1,5 @@
-**Acts 7:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:43**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.
 <small><sub>**BSB:**</sub></small>
 You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’
@@ -10,7 +10,7 @@ And You took up the tabernacle <the> of Moloch and the star of the god of you Re
 > $\quad$ referencing: [[LXX.Amos.5.25|Amos 5:25-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You took up |**<big>[[G0353\|ἀνελάβετε]]</big>**  |anelabete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

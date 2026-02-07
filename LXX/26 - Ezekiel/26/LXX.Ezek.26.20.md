@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:20** 
 <small><sub>**LXX:**</sub></small>
 that I will bring you down to the ones having gone down into \[the\] pit, to \[the\] people of \[the\] eon. And I shall settle you into \[the\] depths of the earth, as an eternal desolation with ones going down into \[the\] pit, so that you should not be inhabited upon \[the\] land of life. 
-<small><sub>**KJV:**</sub></small>
-When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;
-<small><sub>**BSB:**</sub></small>
-then I will bring you down with those who descend to the Pit, to the people of antiquity. I will make you dwell in the earth below like the ancient ruins, with those who descend to the Pit, so that you will no longer be inhabited or set in splendor in the land of the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

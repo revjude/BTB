@@ -1,12 +1,12 @@
-**Romans 13:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:8**<big><big>[[Rom.13.8 Love Fulfills the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
 <small><sub>**BSB:**</sub></small>
 Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law.
 <small><sub>**Literal:**</sub></small>
 To no one nothing do owe only except <the> one another to love; the [one] for loving the other [the] Law has fulfilled;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.7|<< Romans 13:7]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.9|Romans 13:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To no one |**<big>[[G3367\|μηδενὶ]]</big>**  |mēdeni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | nothing |**<big>[[G3367\|μηδὲν]]</big>**  |mēden <small><sup>[[A-ASN-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

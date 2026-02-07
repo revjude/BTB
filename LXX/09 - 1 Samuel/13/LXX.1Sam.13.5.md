@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:5** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines gather together for war against  Israel. And they ascend upon  Israel for war -- thirty thousand chariots, and six thousand horsemen, and people as the sand  by the edge of the sea in the multitude. And they ascend and camp in Michmash opposite according to \[the\] south of Beth-aven. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which [is] on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Bethaven.
-<small><sub>**BSB:**</sub></small>
-Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.4|<< 1 Samuel 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.6|1 Samuel 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

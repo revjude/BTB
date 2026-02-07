@@ -1,4 +1,4 @@
-**2 Samuel 19:12** (19:13)
+**2 Samuel 19:12**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] my brethren, ye [are] my bones and my flesh: wherefore then are ye the last to bring back the king?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are my brothers, my own flesh and blood. So why should you be the last to re
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.11|<< 2 Samuel 19:11]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.13|2 Samuel 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] brothers my  |**<big>&#8207;[[H0251G\|אַחַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.Cha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֔ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

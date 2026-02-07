@@ -1,12 +1,12 @@
-**Acts 20:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:23**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.
 <small><sub>**BSB:**</sub></small>
 I only know that in town after town the Holy Spirit warns me that chains and afflictions await me.
 <small><sub>**Literal:**</sub></small>
 except that the Spirit <the> Holy in every city fully testifies to me saying that chains and tribulations me await.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.22|<< Acts 20:22]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.24|Acts 20:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | except |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

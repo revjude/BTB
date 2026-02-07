@@ -1,10 +1,7 @@
 **LXX Job 16:22** 
 <small><sub>**LXX:**</sub></small>
 But counted years have come; and in \[the\] way in which I shall not be returned -- I shall go. 
-<small><sub>**KJV:**</sub></small>
-When a few years are come, then I shall go the way [whence] I shall not return.
-<small><sub>**BSB:**</sub></small>
-For when only a few years are past I will go the way of no return.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.21|<< Job 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.1|Job 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

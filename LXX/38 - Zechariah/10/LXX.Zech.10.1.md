@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Ask of \[the\] <span class="smallcaps">lord</span> for rain according to season, \[the\] early and late \[rain\]. \[The\] <span class="smallcaps">lord</span> made a visible display; and \[the\] rain of winter he gives to them; to each, pasturage in \[the\] field. 
-<small><sub>**KJV:**</sub></small>
-Ask ye of the LORD rain in the time of the latter rain; [so] the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.
-<small><sub>**BSB:**</sub></small>
-Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.17|<< Zechariah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.2|Zechariah 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 4:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:2**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.
 <small><sub>**BSB:**</sub></small>
 greatly disturbed that they were teaching the people and proclaiming in Jesus the resurrection of the dead.
 <small><sub>**Literal:**</sub></small>
 being distressed because of <the> teaching of theirs to the people and [their] proclaiming in <the> Jesus the resurrection that out from [the] dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.1|<< Acts 4:1]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.3|Acts 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being distressed |**<big>[[G1278\|διαπονούμενοι]]</big>**  |diaponoumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

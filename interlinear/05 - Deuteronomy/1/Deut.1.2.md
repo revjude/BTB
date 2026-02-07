@@ -1,4 +1,4 @@
-**Deuteronomy 1:2** 
+**Deuteronomy 1:2**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 ([There are] eleven days’ [journey] from Horeb by the way of mount Seir unto Kadeshbarnea.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is an eleven-day journey from Horeb to Kadesh-barnea by way of Mount Seir.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.1|<< Deuteronomy 1:1]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.3|Deuteronomy 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] one [plus]  |**<big>&#8207;[[H0259\|אַחַ֨ד]]&#8207; </big>**| 'a.Chad<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עָשָׂ֥ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

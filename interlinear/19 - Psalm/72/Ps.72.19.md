@@ -1,4 +1,4 @@
-**Psalms 72:19** 
+**Psalms 72:19**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blessed [be] his glorious name for ever: and let the whole earth be filled [with] his glory; Amen, and Amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And blessed be His glorious name forever; may all the earth be filled with His g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.18|<< Psalms 72:18]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.20|Psalms 72:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [be] blessed  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1288\|בָר֤וּךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

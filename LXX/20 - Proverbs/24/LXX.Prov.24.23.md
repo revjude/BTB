@@ -1,10 +1,7 @@
 **LXX Proverbs 24:23** 
 <small><sub>**LXX:**</sub></small>
 But these \[things\] I say to you, to the wise, to realize \[that\] to stand in awe of a person in a judgment is not good. 
-<small><sub>**KJV:**</sub></small>
-These [things] also [belong] to the wise. [It is] not good to have respect of persons in judgment.
-<small><sub>**BSB:**</sub></small>
-These also are sayings of the wise: To show partiality in judgment is not good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.22|<< Proverbs 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.24|Proverbs 24:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 24:23** is...

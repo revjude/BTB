@@ -1,10 +1,7 @@
 **LXX Psalm 66:10** 
 <small><sub>**LXX:**</sub></small>
 For you tried us, O God; you set us on fire as silver \[is\] set to the fire. 
-<small><sub>**KJV:**</sub></small>
-For thou, O God, hast proved us: thou hast tried us, as silver is tried.
-<small><sub>**BSB:**</sub></small>
-For You, O God, have tested us; You have refined us like silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.9|<< Psalm 66:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.11|Psalm 66:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:47** 
 <small><sub>**LXX:**</sub></small>
 And they inherited  his land, and the land of Og king  of Bashan, two kings of the Amorites who were on the other side of the Jordan, according to \[the\] rising of \[the\] sun. 
-<small><sub>**KJV:**</sub></small>
-And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which [were] on this side Jordan toward the sunrising;
-<small><sub>**BSB:**</sub></small>
-They took possession of the land belonging to Sihon and to Og king of Bashan—the two Amorite kings across the Jordan to the east—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
 | Translation | Greek |

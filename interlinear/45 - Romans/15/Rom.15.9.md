@@ -1,5 +1,5 @@
-**Romans 15:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:9**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that the Gentiles might glorify God for [his] mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.
 <small><sub>**BSB:**</sub></small>
 so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”
@@ -10,7 +10,7 @@ so that the Gentiles may glorify God for His mercy. As it is written: “Therefo
 > $\quad$ referencing: [[LXX.2Sam.22.50|2Sam 22:50]] ☩ [[LXX.Ps.18.49|Ps 18:49]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and [for] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

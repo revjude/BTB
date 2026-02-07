@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after all  your evils -- woe, woe to you, says Adonai \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord GOD;)
-<small><sub>**BSB:**</sub></small>
-Woe! Woe to you, declares the Lord GOD. And in addition to all your other wickedness,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.22|<< Ezekiel 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.24|Ezekiel 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

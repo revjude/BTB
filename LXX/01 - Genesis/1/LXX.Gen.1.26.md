@@ -1,10 +1,7 @@
 **LXX Genesis 1:26** 
 <small><sub>**LXX:**</sub></small>
 And God said, Let us make man according to our image, and according to likeness! And let them control the fishes of the sea, and the winged creatures of the heaven, and the cattle, and all the earth, and all the reptiles of the ones crawling upon the earth! 
-<small><sub>**KJV:**</sub></small>
-And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
-<small><sub>**BSB:**</sub></small>
-Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.25|<< Genesis 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.27|Genesis 1:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 1:26** is...

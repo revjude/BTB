@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David comes to Nob, to Ahimelech the priest. And Ahimelech is startled in the meeting David. And he said to him, Why \[is it\] that you \[are\] alone, and no one \[is\] with you? 
-<small><sub>**KJV:**</sub></small>
-Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why [art] thou alone, and no man with thee?
-<small><sub>**BSB:**</sub></small>
-Then David came to Nob, to Ahimelech the priest. And when Ahimelech met David, he trembled and asked him, “Why are you alone? Why is no one with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.42|<< 1 Samuel 20:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.2|1 Samuel 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

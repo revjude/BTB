@@ -1,4 +1,4 @@
-**Judges 5:21** 
+**Judges 5:21**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The River Kishon swept them away, the ancient river, the River Kishon. March on,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.20|<< Judges 5:20]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.22|Judges 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wadi of  |**<big>&#8207;[[H5158A\|נַ֤חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kishon  |**<big>&#8207;[[H7028\|קִישׁוֹן֙]]&#8207; </big>**| ki.shOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

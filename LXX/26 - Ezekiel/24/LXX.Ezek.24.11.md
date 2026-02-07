@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:11** 
 <small><sub>**LXX:**</sub></small>
 and it should stand upon  her coals, so that it should be burnt through and her brass \[utensils\] should be heated, and her uncleanness should melt away in \[the\] midst of her, and her poison should fail, 
-<small><sub>**KJV:**</sub></small>
-Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and [that] the filthiness of it may be molten in it, [that] the scum of it may be consumed.
-<small><sub>**BSB:**</sub></small>
-Set the empty pot on its coals until it becomes hot and its copper glows. Then its impurity will melt within; its rust will be consumed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.10|<< Ezekiel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.12|Ezekiel 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

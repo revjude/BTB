@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall go forth into the cemetery of \[the\] sons of Hinnom, which is at the thresholds of \[the\] gate  of Charsith, and read there all the words! which ever I shall speak to you. 
-<small><sub>**KJV:**</sub></small>
-And go forth unto the valley of the son of Hinnom, which [is] by the entry of the east gate, and proclaim there the words that I shall tell thee,
-<small><sub>**BSB:**</sub></small>
-and go out to the Valley of Ben-hinnom near the entrance of the Potsherd Gate. Proclaim there the words I speak to you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.1|<< Jeremiah 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.3|Jeremiah 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

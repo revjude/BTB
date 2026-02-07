@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:19** 
 <small><sub>**LXX:**</sub></small>
 And Tamar took ashes, and put \[them\] upon  her head. And the inner garment, the one with long sleeves, the one upon her, she tore; and she put  her hands upon  her head, and she went going and crying out. 
-<small><sub>**KJV:**</sub></small>
-And Tamar put ashes on her head, and rent her garment of divers colours that [was] on her, and laid her hand on her head, and went on crying.
-<small><sub>**BSB:**</sub></small>
-And Tamar put ashes on her head and tore her robe. And putting her hand on her head, she went away crying aloud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.18|<< 2 Samuel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.20|2 Samuel 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

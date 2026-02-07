@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:28** 
 <small><sub>**LXX:**</sub></small>
 Behold, I add you to  your fathers, and you shall be added to  your grave in peace. And your eyes shall not see all the evils which I bring upon  this place, and upon the ones dwelling it. And they brought back \[the\] word to the king. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.
-<small><sub>**BSB:**</sub></small>
-‘Now I will indeed gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the calamity that I will bring on this place and on its people.’” So they brought her answer back to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.27|<< 2 Chronicles 34:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.29|2 Chronicles 34:29 >>]]</td></tr></table>
 
 | Translation | Greek |

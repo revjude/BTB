@@ -1,4 +1,4 @@
-**Isaiah 58:10** 
+**Isaiah 58:10**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness [be] as the noonday:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if you give yourself to the hungry and satisfy the afflicted soul, then your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.9|<< Isaiah 58:9]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.11|Isaiah 58:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will offer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6329\|תָפֵ֤ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Fek<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the hungry [person]  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H7457\|רָעֵב֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ra.'Ev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

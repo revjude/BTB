@@ -1,12 +1,12 @@
-**Romans 1:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:18**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
 <small><sub>**BSB:**</sub></small>
 The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness.
 <small><sub>**Literal:**</sub></small>
 Is revealed for [the] wrath of God from heaven upon all ungodliness and unrighteousness of men <the> the truth by unrighteousness suppressing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.17|<< Romans 1:17]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.19|Romans 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is revealed |**<big>[[G0601\|Ἀποκαλύπτεται]]</big>**  |Apokaluptetai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I beheld, and behold, upon the firmament  above \[the\] head of the cherubim was a likeness of a throne of sapphire stone over them. 
-<small><sub>**KJV:**</sub></small>
-Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
-<small><sub>**BSB:**</sub></small>
-And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.11|<< Ezekiel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.2|Ezekiel 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

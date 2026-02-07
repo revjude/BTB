@@ -1,4 +1,4 @@
-**Psalms 8:6** (8:7)
+**Psalms 8:6**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou madest him to have dominion over the works of thy hands; thou hast put all [things] under his feet:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You made him ruler of the works of Your hands; You have placed everything under 
 > $\quad$ referenced by: [[Matt.22.44|Matt 22:44]] ☩ [[1Cor.15.27|1Cor 15:27]] ☩ [[Eph.1.22|Eph 1:22]] ☩ [[Heb.2.6|Heb 2:6-8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you make rule him  |**<big>&#8207;[[H4910\|תַּ֭מְשִׁילֵ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Tam.shi.le.<small><sup>[[HVhi2ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over [the] works of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4639G\|מַעֲשֵׂ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

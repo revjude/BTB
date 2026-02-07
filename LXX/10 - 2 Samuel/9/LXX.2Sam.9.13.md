@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:13** 
 <small><sub>**LXX:**</sub></small>
 And Mephibosheth dwelt in Jerusalem, for at the table of the king he ate always. And he was lame of both  of his feet. 
-<small><sub>**KJV:**</sub></small>
-So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.
-<small><sub>**BSB:**</sub></small>
-So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.12|<< 2 Samuel 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.1|2 Samuel 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

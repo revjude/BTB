@@ -1,10 +1,7 @@
 **LXX Psalm 68:27** 
 <small><sub>**LXX:**</sub></small>
 There Benjamin \[the\] younger \[is\] in astonishment, \[even the\] rulers of Judah, \[and\] their governors, \[the\] rulers of Zebulun, \[the\] rulers of Naphtali. 
-<small><sub>**KJV:**</sub></small>
-There [is] little Benjamin [with] their ruler, the princes of Judah [and] their council, the princes of Zebulun, [and] the princes of Naphtali.
-<small><sub>**BSB:**</sub></small>
-There is Benjamin, the youngest, ruling them, the princes of Judah in their company, the princes of Zebulun and of Naphtali.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.26|<< Psalm 68:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.28|Psalm 68:28 >>]]</td></tr></table>
 
 | Translation | Greek |

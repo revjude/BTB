@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:7** 
 <small><sub>**LXX:**</sub></small>
 In my affliction I shall call upon the <span class="smallcaps">lord</span>, and to  my God I will yell. And he heard my voice from out of his temple, and  my cry in  his ears. 
-<small><sub>**KJV:**</sub></small>
-In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry [did enter] into his ears.
-<small><sub>**BSB:**</sub></small>
-In my distress I called upon the LORD; I cried out to my God. And from His temple He heard my voice, and my cry for help reached His ears.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.6|<< 2 Samuel 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.8|2 Samuel 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 32:10** 
+**Ezekiel 32:10**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, I will make many people amazed at thee, and their kings shall be horribly afraid for thee, when I shall brandish my sword before them; and they shall tremble at [every] moment, every man for his own life, in the day of thy fall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will cause many peoples to be appalled over you, and their kings will shudder 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.9|<< Ezekiel 32:9]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.11|Ezekiel 32:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make appalled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8074H\|הֲשִׁמּוֹתִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֜י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 143:11** 
 <small><sub>**LXX:**</sub></small>
 Because of  your name, O <span class="smallcaps">lord</span>, you shall enliven me. In  your righteousness you shall lead my soul from out of affliction. 
-<small><sub>**KJV:**</sub></small>
-Quicken me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.
-<small><sub>**BSB:**</sub></small>
-For the sake of Your name, O LORD, revive me. In Your righteousness, bring my soul out of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.10|<< Psalm 143:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.12|Psalm 143:12 >>]]</td></tr></table>
 
 | Translation | Greek |

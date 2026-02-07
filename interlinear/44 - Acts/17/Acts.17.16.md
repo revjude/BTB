@@ -1,12 +1,12 @@
-**Acts 17:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:16**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.
 <small><sub>**BSB:**</sub></small>
 While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols.
 <small><sub>**Literal:**</sub></small>
 In now <the> Athens is waiting for them <the> Paul was provoked the spirit of him in him seeing utterly idolatrous to be the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.15|<< Acts 17:15]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.17|Acts 17:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 36:16** 
 <small><sub>**LXX:**</sub></small>
 prince Korah, prince Gatam, prince Amalek. These \[were\] \[the\] princes of Eliphaz in \[the\] land of Edom; and these \[were\] \[the\] sons of Adah. 
-<small><sub>**KJV:**</sub></small>
-Duke Korah, duke Gatam, [and] duke Amalek: these [are] the dukes [that came] of Eliphaz in the land of Edom; these [were] the sons of Adah.
-<small><sub>**BSB:**</sub></small>
-Korah, Gatam, and Amalek. They are the chiefs of Eliphaz in the land of Edom, and they are the grandsons of Adah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.15|<< Genesis 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.17|Genesis 36:17 >>]]</td></tr></table>
 
 | Translation | Greek |

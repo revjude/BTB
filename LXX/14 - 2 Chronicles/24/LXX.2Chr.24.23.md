@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass at the completion of the year, \[the\] force of Syria ascended against him, and came against Judah, and against Jerusalem, and they utterly destroyed all the rulers of the people from among the people; and all  their spoils they sent to the king of Damascus. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of the year, [that] the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.
-<small><sub>**BSB:**</sub></small>
-In the spring, the army of Aram went to war against Joash. They entered Judah and Jerusalem and destroyed all the leaders of the people, and they sent all the plunder to their king in Damascus.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.22|<< 2 Chronicles 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.24|2 Chronicles 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

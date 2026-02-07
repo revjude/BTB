@@ -1,10 +1,7 @@
 **LXX Isaiah 34:5** 
 <small><sub>**LXX:**</sub></small>
 For my sword was intoxicated in the heaven. Behold, it shall go down upon Edom, and upon the people of the destruction with judgment. 
-<small><sub>**KJV:**</sub></small>
-For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
-<small><sub>**BSB:**</sub></small>
-When My sword has drunk its fill in the heavens, then it will come down upon Edom, upon the people I have devoted to destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.4|<< Isaiah 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.6|Isaiah 34:6 >>]]</td></tr></table>
 
 | Translation | Greek |

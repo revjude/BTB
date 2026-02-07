@@ -1,4 +1,4 @@
-**Exodus 21:33** 
+**Exodus 21:33**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.32|<< Exodus 21:32]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.34|Exodus 21:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will open  |**<big>&#8207;[[H6605A\|יִפְתַּ֨ח]]&#8207; </big>**| yif.Tach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

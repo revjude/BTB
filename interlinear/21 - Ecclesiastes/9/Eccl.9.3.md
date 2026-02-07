@@ -1,4 +1,4 @@
-**Ecclesiastes 9:3** 
+**Ecclesiastes 9:3**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] an evil among all [things] that are done under the sun, that [there is] one event unto all: yea, also the heart of the sons of men is full of evil, and madness [is] in their heart while they live, and after that [they go] to the dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is an evil in everything that is done under the sun: There is one fate for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.2|<< Ecclesiastes 9:2]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.4|Ecclesiastes 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] an evil  |**<big>&#8207;[[H7451B\|רָ֗ע]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

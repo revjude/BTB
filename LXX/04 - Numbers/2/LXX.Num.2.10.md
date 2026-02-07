@@ -1,10 +1,7 @@
 **LXX Numbers 2:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] order of \[the\] camp of Reuben towards \[the\] south with their forces, and the ruler of the sons of Reuben \[was\] Elizur son of Shedeur. 
-<small><sub>**KJV:**</sub></small>
-On the south side [shall be] the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben [shall be] Elizur the son of Shedeur.
-<small><sub>**BSB:**</sub></small>
-On the south side, the divisions of Reuben are to camp under their standard: The leader of the Reubenites is Elizur son of Shedeur,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.9|<< Numbers 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.11|Numbers 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:20** 
 <small><sub>**LXX:**</sub></small>
 Do not be a winebibber, nor stretch out couplings, nor purchasings of meats! 
-<small><sub>**KJV:**</sub></small>
-Be not among winebibbers; among riotous eaters of flesh:
-<small><sub>**BSB:**</sub></small>
-Do not join those who drink too much wine or gorge themselves on meat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.19|<< Proverbs 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.21|Proverbs 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

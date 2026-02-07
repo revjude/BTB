@@ -1,4 +1,4 @@
-**Job 13:27** 
+**Job 13:27**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You put my feet in the stocks and stand watch over all my paths; You set a limit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.26|<< Job 13:26]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.28|Job 13:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you put  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7760H\|תָ֘שֵׂ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ta.Sem<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the stock[s]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5465\|סַּ֨ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

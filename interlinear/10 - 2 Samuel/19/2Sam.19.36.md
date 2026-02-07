@@ -1,4 +1,4 @@
-**2 Samuel 19:36** (19:37)
+**2 Samuel 19:36**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your servant will go with the king only a short distance past the Jordan; why sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.35|<< 2 Samuel 19:35]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.37|2 Samuel 19:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a little  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4592\|מְעַ֞ט]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will pass over  |**<big>&#8207;[[H5674A\|יַעֲבֹ֧ר]]&#8207; </big>**| ya.'a.Vor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

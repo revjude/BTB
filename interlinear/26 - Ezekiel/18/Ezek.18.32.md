@@ -1,4 +1,4 @@
-**Ezekiel 18:32** 
+**Ezekiel 18:32**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn [yourselves], and live ye.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.31|<< Ezekiel 18:31]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.1|Ezekiel 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

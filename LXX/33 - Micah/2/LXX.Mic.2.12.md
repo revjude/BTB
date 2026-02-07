@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In being gathered Jacob shall be brought together with all. In looking out I shall look out for the remnant  of Israel. Together I will establish  their return, as sheep in affliction; as a flock in \[the\] midst of their fold, they leap out because of men. 
-<small><sub>**KJV:**</sub></small>
-I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of [the multitude of] men.
-<small><sub>**BSB:**</sub></small>
-I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture—a noisy throng.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.11|<< Micah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.13|Micah 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

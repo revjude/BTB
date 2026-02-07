@@ -1,10 +1,7 @@
 **LXX Job 21:15** 
 <small><sub>**LXX:**</sub></small>
 What \[is\] fit that we shall serve him? and what benefit, that we shall meet with him? 
-<small><sub>**KJV:**</sub></small>
-What [is] the Almighty, that we should serve him? and what profit should we have, if we pray unto him?
-<small><sub>**BSB:**</sub></small>
-Who is the Almighty, that we should serve Him, and what would we gain if we pray to Him?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.14|<< Job 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.16|Job 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

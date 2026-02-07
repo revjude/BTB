@@ -1,4 +1,4 @@
-**Exodus 15:8** 
+**Exodus 15:8**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, [and] the depths were congealed in the heart of the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the blast of Your nostrils the waters piled up; like a wall the currents stoo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.7|<< Exodus 15:7]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.9|Exodus 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and by [the] breath of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7307H\|ר֤וּחַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nostrils your  |**<big>&#8207;[[H0639H\|אַפֶּ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'a.Pei.<small><sup>[[HNcmdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 18:21** (18:22)
+**Psalms 18:21**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have kept the ways of the LORD, and have not wickedly departed from my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have kept the ways of the LORD and have not wickedly departed from my God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.20|<< Psalms 18:20]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.22|Psalms 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki.Sha-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have kept  |**<big>&#8207;[[H8104G\|שָׁ֭מַרְתִּי]]&#8207; </big>**| Sha.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

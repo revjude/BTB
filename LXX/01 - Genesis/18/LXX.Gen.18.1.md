@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And God appeared to him before the oak  in Mamre, at his sitting near the door  of his tent \[at\] midday. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
-<small><sub>**BSB:**</sub></small>
-Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.27|<< Genesis 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.2|Genesis 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Ephesians 4:26
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:26**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye angry, and sin not: let not the sun go down upon your wrath:
 <small><sub>**BSB:**</sub></small>
 “Be angry, yet do not sin.” Do not let the sun set upon your anger,
@@ -10,7 +10,7 @@ do be angry and yet not do sin; The sun not should set upon the anger of you;<br
 > $\quad$ referencing: [[LXX.Ps.4.4|Ps 4:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be angry |**<big>[[G3710\|ὀργίζεσθε]]</big>**  |orgizesthe <small><sup>[[V-PMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and yet |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

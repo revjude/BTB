@@ -1,4 +1,4 @@
-**Genesis 34:8** 
+**Genesis 34:8**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Hamor said to them, “My son Shechem longs for your daughter. Please give h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.7|<< Genesis 34:7]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.9|Genesis 34:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hamor  |**<big>&#8207;[[H2544\|חֲמ֖וֹר]]&#8207; </big>**| cha.Mor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

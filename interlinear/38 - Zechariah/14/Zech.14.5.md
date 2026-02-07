@@ -1,4 +1,4 @@
-**Zechariah 14:5** 
+**Zechariah 14:5**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall flee [to] the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, [and] all the saints with thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You will flee by My mountain valley, for it will extend to Azal. You will flee a
 > $\quad$ referenced by: [[1Thess.3.13|1Thess 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will flee  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5127\|נַסְתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nas.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] valley of  |**<big>&#8207;[[H1516R\|גֵּֽיא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gei'-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

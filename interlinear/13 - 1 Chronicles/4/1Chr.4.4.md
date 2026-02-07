@@ -1,4 +1,4 @@
-**1 Chronicles 4:4** 
+**1 Chronicles 4:4**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Penuel the father of Gedor, and Ezer the father of Hushah. These [are] the sons of Hur, the firstborn of Ephratah, the father of Bethlehem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Penuel was the father of Gedor, and Ezer was the father of Hushah. These were th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.3|<< 1 Chronicles 4:3]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.5|1 Chronicles 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Penuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6439H\|פְנוּאֵל֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.nu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

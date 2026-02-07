@@ -1,4 +1,4 @@
-**1 Kings 18:41** 
+**1 Kings 18:41**<big><big>[[1Kgs.18.41 The LORD Sends Rain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah said unto Ahab, Get thee up, eat and drink; for [there is] a sound of abundance of rain.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a he
 > $\quad$ referenced by: [[Jas.5.17|Jas 5:17-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּ֙הוּ֙]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

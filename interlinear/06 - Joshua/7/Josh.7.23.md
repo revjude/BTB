@@ -1,4 +1,4 @@
-**Joshua 7:23** 
+**Joshua 7:23**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They took the things from inside the tent, brought them to Joshua and all the Is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.22|<< Joshua 7:22]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.24|Joshua 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקָּחוּ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Chu<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] midst of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֣וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

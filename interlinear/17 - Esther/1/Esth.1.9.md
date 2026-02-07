@@ -1,4 +1,4 @@
-**Esther 1:9** 
+**Esther 1:9**<big><big>[[Esth.1.9 Queen Vashti’s Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Vashti the queen made a feast for the women [in] the royal house which [belonged] to king Ahasuerus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Queen Vashti also gave a banquet for the women in the royal palace of King Xerxe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.8|<< Esther 1:8]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.10|Esther 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֚ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Vashti  |**<big>&#8207;[[H2060\|וַשְׁתִּ֣י]]&#8207; </big>**| vash.Ti<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

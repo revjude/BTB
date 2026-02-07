@@ -1,10 +1,7 @@
 **LXX Judges 13:21** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> did not proceed any longer to appear to Manoah and to  his wife. Then Manoah knew that this \[was\] an angel \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he [was] an angel of the LORD.
-<small><sub>**BSB:**</sub></small>
-And when the angel of the LORD did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.20|<< Judges 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.22|Judges 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

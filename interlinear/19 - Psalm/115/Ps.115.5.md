@@ -1,4 +1,4 @@
-**Psalms 115:5** 
+**Psalms 115:5**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have mouths, but they speak not: eyes have they, but they see not:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have mouths, but cannot speak; they have eyes, but cannot see;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.4|<< Psalms 115:4]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.6|Psalms 115:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a mouth  |**<big>&#8207;[[H6310G\|פֶּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| peh-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to them  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

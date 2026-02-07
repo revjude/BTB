@@ -1,12 +1,12 @@
-**Matthew 21:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:15**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,
 <small><sub>**BSB:**</sub></small>
 But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”
 <small><sub>**Literal:**</sub></small>
 Having seen now the chief priests and the scribes the wonders that He did and the children who are crying out in the temple and saying; Hosanna to the Son of David, they were indignant<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.14|<< Matthew 21:14]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.16|Matthew 21:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

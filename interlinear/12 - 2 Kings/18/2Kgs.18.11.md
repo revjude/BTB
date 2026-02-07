@@ -1,4 +1,4 @@
-**2 Kings 18:11** 
+**2 Kings 18:11**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king of Assyria exiled the Israelites to Assyria and settled them in Halah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took into exile  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540K\|יֶּ֧גֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.gel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

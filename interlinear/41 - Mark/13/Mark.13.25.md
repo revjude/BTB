@@ -1,5 +1,5 @@
-**Mark 13:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:25**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.
 <small><sub>**BSB:**</sub></small>
 the stars will fall from the sky, and the powers of the heavens will be shaken.’
@@ -10,7 +10,7 @@ and the stars will be out of the heaven falling, and the powers that [are] in th
 > $\quad$ referencing: [[LXX.Isa.13.9|Isa 13:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

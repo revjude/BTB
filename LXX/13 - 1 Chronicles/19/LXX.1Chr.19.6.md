@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon knew that the people of David were put to shame. And Hanun and \[the\] sons of Ammon sent a thousand talents of silver  to hire for themselves of Syria of Mesopotamia, and from Syria of Maachah, and from Zobah, chariots and horsemen. 
-<small><sub>**KJV:**</sub></small>
-And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syriamaachah, and out of Zobah.
-<small><sub>**BSB:**</sub></small>
-When the Ammonites realized that they had become a stench to David, Hanun and the Ammonites sent a thousand talents of silver to hire for themselves chariots and horsemen from Aram-naharaim, Aram-maacah, and Zobah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.5|<< 1 Chronicles 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.7|1 Chronicles 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

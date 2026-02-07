@@ -1,10 +1,7 @@
 **LXX Psalm 119:132** 
 <small><sub>**LXX:**</sub></small>
 Look upon me, and show mercy on me! according to the practice of the ones loving  your name. 
-<small><sub>**KJV:**</sub></small>
-Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.
-<small><sub>**BSB:**</sub></small>
-Turn to me and show me mercy, as You do to those who love Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.132|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.131|<< Psalm 119:131]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.133|Psalm 119:133 >>]]</td></tr></table>
 
 | Translation | Greek |

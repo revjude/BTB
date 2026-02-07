@@ -1,5 +1,5 @@
-**Colossians 3:10
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:10**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And have put on the new [man], which is renewed in knowledge after the image of him that created him:
 <small><sub>**BSB:**</sub></small>
 and have put on the new self, which is being renewed in knowledge in the image of its Creator.
@@ -10,7 +10,7 @@ and having put on the new, which is being renewed in knowledge according to [the
 > $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having put on |**<big>[[G1746\|ἐνδυσάμενοι]]</big>**  |endusamenoi <small><sup>[[V-AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

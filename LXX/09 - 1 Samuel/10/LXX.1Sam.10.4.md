@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:4** 
 <small><sub>**LXX:**</sub></small>
 And they shall ask you the \[things\] for peace; and they shall give to you two first-fruits of bread \[loaves\], and you shall take \[them\] from out of  their hand. 
-<small><sub>**KJV:**</sub></small>
-And they will salute thee, and give thee two [loaves] of bread; which thou shalt receive of their hands.
-<small><sub>**BSB:**</sub></small>
-They will greet you and give you two loaves of bread, which you will accept from their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.3|<< 1 Samuel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.5|1 Samuel 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

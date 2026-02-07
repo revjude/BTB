@@ -1,4 +1,4 @@
-**Exodus 18:18** 
+**Exodus 18:18**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt surely wear away, both thou, and this people that [is] with thee: for this thing [is] too heavy for thee; thou art not able to perform it thyself alone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely you and these people with you will wear yourselves out, because the task 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.17|<< Exodus 18:17]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.19|Exodus 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to wear out>  |**<big>&#8207;[[H5034B\|נָבֹ֣ל]]&#8207; </big>**| na.Vol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will wear yourself out  |**<big>&#8207;[[H5034B\|תִּבֹּ֔ל]]&#8207; </big>**| ti.Bol<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

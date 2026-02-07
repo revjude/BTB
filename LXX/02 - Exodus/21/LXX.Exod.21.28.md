@@ -1,10 +1,7 @@
 **LXX Exodus 21:28** 
 <small><sub>**LXX:**</sub></small>
 And if a bull should gore a man or woman, and \[either\] die; with stones you shall stone the bull, and you shall not eat  of \[its\] meats; but the owner of the bull shall be innocent. 
-<small><sub>**KJV:**</sub></small>
-If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox [shall be] quit.
-<small><sub>**BSB:**</sub></small>
-If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. But the owner of the ox shall not be held responsible.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.27|<< Exodus 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.29|Exodus 21:29 >>]]</td></tr></table>
 
 | Translation | Greek |

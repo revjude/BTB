@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:22** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] likeness  of their faces -- these \[are\] the faces which I saw underneath the glory of the God of Israel by the river  Chebar, in the vision of them. And these -- each of them went according to their face. 
-<small><sub>**KJV:**</sub></small>
-And the likeness of their faces [was] the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.
-<small><sub>**BSB:**</sub></small>
-Their faces looked like the faces I had seen by the River Kebar. Each creature went straight ahead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.21|<< Ezekiel 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.1|Ezekiel 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Timothy 6:9
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:9**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they that will be rich fall into temptation and a snare, and [into] many foolish and hurtful lusts, which drown men in destruction and perdition.
 <small><sub>**BSB:**</sub></small>
 Those who want to be rich, however, fall into temptation and become ensnared by many foolish and harmful desires that plunge them into ruin and destruction.
 <small><sub>**Literal:**</sub></small>
 Those however desiring to be rich they fall into temptation and a snare and desires many foolish and harmful, which plunge <the> men into ruin and destruction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.8|<< 1 Timothy 6:8]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.10|1 Timothy 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

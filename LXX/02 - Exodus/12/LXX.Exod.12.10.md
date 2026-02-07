@@ -1,10 +1,7 @@
 **LXX Exodus 12:10** 
 <small><sub>**LXX:**</sub></small>
 You shall not leave \[anything\] from it into the morning. And you shall not break a bone of it. And the \[things\] being left behind from it unto morning, you shall incinerate in fire. 
-<small><sub>**KJV:**</sub></small>
-And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.
-<small><sub>**BSB:**</sub></small>
-Do not leave any of it until morning; before the morning you must burn up any part that is left over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.9|<< Exodus 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.11|Exodus 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

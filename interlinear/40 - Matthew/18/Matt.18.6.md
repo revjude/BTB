@@ -1,12 +1,12 @@
-**Matthew 18:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:6**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and [that] he were drowned in the depth of the sea.
 <small><sub>**BSB:**</sub></small>
 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea.
 <small><sub>**Literal:**</sub></small>
 Who[ever] then maybe may cause to stumble one of the little ones of these who are believing in Me myself, it is better for him that may be hung a millstone heavy around the neck of him, and he may be sunk in the depth of the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.5|<< Matthew 18:5]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.7|Matthew 18:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δ᾽]]</big>**  |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

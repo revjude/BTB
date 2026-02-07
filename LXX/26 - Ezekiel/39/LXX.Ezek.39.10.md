@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:10** 
 <small><sub>**LXX:**</sub></small>
 And no way shall they take trees from out of the plain, nor shall they fell \[trees\] from out of the groves; but only the weapons shall they incinerate with fire. And they shall plunder the ones plundering them, and shall despoil the ones despoiling them, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So that they shall take no wood out of the field, neither cut down [any] out of the forests; for they shall burn the weapons with fire: and they shall spoil those that spoiled them, and rob those that robbed them, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-They will not gather wood from the countryside or cut it from the forests, for they will use the weapons for fuel. They will loot those who looted them and plunder those who plundered them, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.9|<< Ezekiel 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.11|Ezekiel 39:11 >>]]</td></tr></table>
 
 | Translation | Greek |

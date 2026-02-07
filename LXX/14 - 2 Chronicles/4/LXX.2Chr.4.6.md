@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:6** 
 <small><sub>**LXX:**</sub></small>
 And he made ten bathing tubs, and put  five on \[the\] right, and  five on \[the\] left,  to wash in them the works of the whole burnt-offerings, and to rinse off in them. But the sea \[was\] for the washing of the priests in it. 
-<small><sub>**KJV:**</sub></small>
-He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea [was] for the priests to wash in.
-<small><sub>**BSB:**</sub></small>
-He also made ten basins for washing and placed five on the south side and five on the north. The parts of the burnt offering were rinsed in them, but the priests used the Sea for washing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.5|<< 2 Chronicles 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.7|2 Chronicles 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

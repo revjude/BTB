@@ -1,12 +1,12 @@
-**Luke 1:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:22**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.
 <small><sub>**BSB:**</sub></small>
 When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained unable to speak.
 <small><sub>**Literal:**</sub></small>
 Having come out then not he was able to speak to them; and they recognized that a vision he has seen in the temple. And he himself was making signs to them and was remaining mute.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.21|<< Luke 1:21]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.23|Luke 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come out |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

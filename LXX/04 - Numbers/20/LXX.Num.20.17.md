@@ -1,10 +1,7 @@
 **LXX Numbers 20:17** 
 <small><sub>**LXX:**</sub></small>
 We shall go through  your land. We will not go through \[the\] fields, nor through \[the\] vineyards, nor shall we drink water from out of your cistern. We shall go \[by the\] royal way. We shall not turn aside to \[the\] right nor left, until whenever we should have gone by  your borders. 
-<small><sub>**KJV:**</sub></small>
-Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink [of] the water of the wells: we will go by the king’s [high] way, we will not turn to the right hand nor to the left, until we have passed thy borders.
-<small><sub>**BSB:**</sub></small>
-Please let us pass through your land. We will not go through any field or vineyard, or drink water from any well. We will stay on the King’s Highway; we will not turn to the right or to the left until we have passed through your territory.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

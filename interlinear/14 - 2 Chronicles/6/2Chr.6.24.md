@@ -1,4 +1,4 @@
-**2 Chronicles 6:24** 
+**2 Chronicles 6:24**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Your people Israel are defeated before an enemy because they have sinned ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.23|<< 2 Chronicles 6:23]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.25|2 Chronicles 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be defeated  |**<big>&#8207;[[H5062\|יִנָּגֵ֞ף]]&#8207; </big>**| yi.na.Gef<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

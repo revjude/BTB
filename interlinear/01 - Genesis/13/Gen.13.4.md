@@ -1,4 +1,4 @@
-**Genesis 13:4** 
+**Genesis 13:4**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to the site where he had built the altar. And there Abram called on the name of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.3|<< Genesis 13:3]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.5|Genesis 13:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] place of  |**<big>&#8207;[[H4725\|מְקוֹם֙]]&#8207; </big>**| me.kOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

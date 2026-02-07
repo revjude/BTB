@@ -1,12 +1,12 @@
-**1 Corinthians 16:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:12**<big><big>[[1Cor.16.10 Timothy and Apollos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As touching [our] brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.
 <small><sub>**BSB:**</sub></small>
 Now about our brother Apollos: I strongly urged him to go to you with the brothers. He was not at all inclined to go now, but he will go when he has the opportunity.
 <small><sub>**Literal:**</sub></small>
 Concerning now Apollos the brother, greatly I exhorted him that he may go to you with the brothers; and at all not was [his] will that now he may come, he will come however when he may have opportunity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.11|<< 1 Corinthians 16:11]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.13|1 Corinthians 16:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

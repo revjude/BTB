@@ -1,4 +1,4 @@
-**1 Samuel 29:3** 
+**1 Samuel 29:3**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes of the Philistines, What [do] these Hebrews [here]? And Achish said unto the princes of the Philistines, [Is] not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell [unto me] unto this day?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the commanders of the Philistines asked, “What about these Hebrews?” Ac
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּֽאמְרוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commanders of  |**<big>&#8207;[[H8269\|שָׂרֵ֣י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 4:26** 
+**Deuteronomy 4:26**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong [your] days upon it, but shall utterly be destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I call heaven and earth as witnesses against you this day that you will quickly 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I call as witnesses  |**<big>&#8207;[[H5749B\|הַעִידֹתִי֩]]&#8207; </big>**| ha.'i.do.Ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against you  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9036\|כֶ֨ם]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

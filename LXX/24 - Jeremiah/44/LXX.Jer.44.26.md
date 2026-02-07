@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:26** 
 <small><sub>**LXX:**</sub></small>
 On account of this, hear \[the\] word of \[the\] <span class="smallcaps">lord</span> all Judah  settling down in \[the\] land of Egypt! Behold, I swore by an oath \[to\] my great name, said \[the\] <span class="smallcaps">lord</span>. My name shall no longer be in the mouth of all Judah to say, Live O Lord \[the\] <span class="smallcaps">lord</span>, in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, hear the word of the LORD, all you people of Judah living in Egypt: Behold, I have sworn by My great name, says the LORD, that never again will any man of Judah living in the land of Egypt invoke My name or say, ‘As surely as the Lord GOD lives.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.25|<< Jeremiah 44:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.27|Jeremiah 44:27 >>]]</td></tr></table>
 
 | Translation | Greek |

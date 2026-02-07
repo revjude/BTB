@@ -1,4 +1,4 @@
-**Exodus 31:5** 
+**Exodus 31:5**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in cutting of stones, to set [them], and in carving of timber, to work in all manner of workmanship.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to cut gemstones for settings, and to carve wood, so that he may be a master of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.4|<< Exodus 31:4]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.6|Exodus 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in carving of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2799\|חֲרֹ֥שֶׁת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> cha.Ro.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stone  |**<big>&#8207;[[H0068G\|אֶ֛בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

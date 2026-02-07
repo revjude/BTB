@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΗΘ</p>
 
 Jerusalem sinned a sin; on account of this she became for tossing about. All the ones glorifying her humbled her, for they beheld  her indecency. And indeed she is moaning herself and turns to the rear. 
-<small><sub>**KJV:**</sub></small>
-Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
-<small><sub>**BSB:**</sub></small>
-Jerusalem has sinned greatly; therefore she has become an object of scorn. All who honored her now despise her, for they have seen her nakedness; she herself groans and turns away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.7|<< Lamentations 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.9|Lamentations 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

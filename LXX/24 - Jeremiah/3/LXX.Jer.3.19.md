@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:19** 
 <small><sub>**LXX:**</sub></small>
 And I said, May it be, O <span class="smallcaps">lord</span>, for \[you said\], I shall arrange you among children, and I shall give to you a choice land (\[the\] inheritance of God almighty) of nations. And I said, you shall call me father; and you shall not be turned from me. 
-<small><sub>**KJV:**</sub></small>
-But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me.
-<small><sub>**BSB:**</sub></small>
-Then I said, ‘How I long to make you My sons and give you a desirable land, the most beautiful inheritance of all the nations!’ I thought you would call Me ‘Father’ and never turn away from following Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.18|<< Jeremiah 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.20|Jeremiah 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

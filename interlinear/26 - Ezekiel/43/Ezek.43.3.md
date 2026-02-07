@@ -1,4 +1,4 @@
-**Ezekiel 43:3** 
+**Ezekiel 43:3**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it was] according to the appearance of the vision which I saw, [even] according to the vision that I saw when I came to destroy the city: and the visions [were] like the vision that I saw by the river Chebar; and I fell upon my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The vision I saw was like the vision I had seen when He came to destroy the city
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.2|<< Ezekiel 43:2]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.4|Ezekiel 43:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and like [the] appearance of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H4758\|מַרְאֵ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the vision  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4758\|מַּרְאֶ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mar.'Eh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

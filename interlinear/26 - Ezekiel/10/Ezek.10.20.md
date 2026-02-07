@@ -1,4 +1,4 @@
-**Ezekiel 10:20** 
+**Ezekiel 10:20**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they [were] the cherubims.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the living creatures I had seen beneath the God of Israel by the Rive
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.19|<< Ezekiel 10:19]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.21|Ezekiel 10:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1931\|הִ֣יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] the living creature  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2416C\|חַיָּ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

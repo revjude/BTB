@@ -1,4 +1,4 @@
-**2 Chronicles 28:11** 
+**2 Chronicles 28:11**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD [is] upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, listen to me and return the captives you took from your kinsmen, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.10|<< 2 Chronicles 28:10]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.12|2 Chronicles 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | listen to me  |**<big>&#8207;[[H8085G\|שְׁמָע֔וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| she.ma.'U.<small><sup>[[HVqv2mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

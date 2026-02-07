@@ -1,4 +1,4 @@
-**Jeremiah 44:8** 
+**Jeremiah 44:8**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are you provoking Me to anger by the work of your hands by burning incense t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.7|<< Jeremiah 44:7]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.9|Jeremiah 44:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by provoking to anger me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3707\|הַכְעִסֵ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hakh.'i.Se.<small><sup>[[HVhcc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] deeds of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4639K\|מַעֲשֵׂ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

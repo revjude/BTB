@@ -1,10 +1,7 @@
 **LXX Proverbs 4:7** 
 <small><sub>**LXX:**</sub></small>
 Wisdom \[is the\] beginning, acquire wisdom! And in all of your possessing acquire understanding! 
-<small><sub>**KJV:**</sub></small>
-Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding.
-<small><sub>**BSB:**</sub></small>
-Wisdom is supreme; so acquire wisdom. And whatever you may acquire, gain understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.6|<< Proverbs 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.8|Proverbs 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

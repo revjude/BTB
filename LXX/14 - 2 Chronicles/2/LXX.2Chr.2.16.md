@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:16** 
 <small><sub>**LXX:**</sub></small>
 And we will fell trees from out of  Lebanon, according to all  your need. And we will bring them \[by\] barge upon the sea to Joppa; and you shall bring them up unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-We will cut logs from Lebanon, as many as you need, and we will float them to you as rafts by sea down to Joppa. Then you can take them up to Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.15|<< 2 Chronicles 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.17|2 Chronicles 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

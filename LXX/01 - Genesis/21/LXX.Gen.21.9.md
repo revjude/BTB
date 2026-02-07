@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Sarah beholding the son of Hagar the Egyptian, who was born \[to\] Abraham, playing with Isaac  her son, 
-<small><sub>**KJV:**</sub></small>
-And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.
-<small><sub>**BSB:**</sub></small>
-But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.8|<< Genesis 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.10|Genesis 21:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 21:9** is...

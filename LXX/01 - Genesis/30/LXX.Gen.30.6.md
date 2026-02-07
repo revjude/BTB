@@ -1,10 +1,7 @@
 **LXX Genesis 30:6** 
 <small><sub>**LXX:**</sub></small>
 And Rachel said, God judged me, and he heeded  my voice, and he gave to me a son through this \[one\]. On account of this she called  his name, Dan. 
-<small><sub>**KJV:**</sub></small>
-And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.
-<small><sub>**BSB:**</sub></small>
-Then Rachel said, “God has vindicated me; He has heard my plea and given me a son.” So she named him Dan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.5|<< Genesis 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.7|Genesis 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

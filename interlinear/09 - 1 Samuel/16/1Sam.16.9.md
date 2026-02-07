@@ -1,4 +1,4 @@
-**1 Samuel 16:9** 
+**1 Samuel 16:9**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next Jesse presented Shammah, but Samuel said, “The LORD has not chosen this o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.8|<< 1 Samuel 16:8]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.10|1 Samuel 16:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made pass by  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֵ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Ver<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jesse  |**<big>&#8207;[[H3448\|יִשַׁ֖י]]&#8207; </big>**| yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

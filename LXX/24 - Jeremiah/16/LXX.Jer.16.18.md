@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:18** 
 <small><sub>**LXX:**</sub></small>
 And I shall recompense double  their iniquities, and  their sins upon which they profaned  my land by the decaying flesh  of their abominations, and by  their lawless deeds in which they filled  my inheritance. 
-<small><sub>**KJV:**</sub></small>
-And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things.
-<small><sub>**BSB:**</sub></small>
-And I will first repay them double their iniquity and their sin, because they have defiled My land with the carcasses of their detestable idols, and they have filled My inheritance with their abominations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.17|<< Jeremiah 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.19|Jeremiah 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

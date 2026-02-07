@@ -1,10 +1,7 @@
 **LXX Exodus 29:21** 
 <small><sub>**LXX:**</sub></small>
 And you shall take from of the blood, of \[blood\] before the altar, and from the oil of the anointing, and you shall sprinkle \[it\] upon Aaron, and upon  his apparel, and upon  his sons, and upon the apparels  of his sons with him. And you shall sanctify him, and  his apparel, and  his sons, and the apparels  of his sons with him. And the blood of the ram you shall pour before the altar round about. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take of the blood that [is] upon the altar, and of the anointing oil, and sprinkle [it] upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he shall be hallowed, and his garments, and his sons, and his sons’ garments with him.
-<small><sub>**BSB:**</sub></small>
-And take some of the blood on the altar and some of the anointing oil and sprinkle it on Aaron and his garments, as well as on his sons and their garments. Then he and his garments will be consecrated, as well as his sons and their garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.20|<< Exodus 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.22|Exodus 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

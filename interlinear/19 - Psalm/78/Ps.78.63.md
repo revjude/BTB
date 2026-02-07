@@ -1,4 +1,4 @@
-**Psalms 78:63** 
+**Psalms 78:63**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fire consumed their young men; and their maidens were not given to marriage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fire consumed His young men, and their maidens were left without wedding songs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.62|<< Psalms 78:62]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.64|Psalms 78:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | young men its  |**<big>&#8207;[[H0970\|בַּחוּרָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ba.chu.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it consumed  |**<big>&#8207;[[H0398\|אָֽכְלָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.khe.lah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

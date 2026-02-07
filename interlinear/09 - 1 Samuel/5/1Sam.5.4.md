@@ -1,4 +1,4 @@
-**1 Samuel 5:4** 
+**1 Samuel 5:4**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they arose early on the morrow morning, behold, Dagon [was] fallen upon his face to the ground before the ark of the LORD; and the head of Dagon and both the palms of his hands [were] cut off upon the threshold; only [the stump of] Dagon was left to him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when they got up early the next morning, there was Dagon, fallen on his face
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.3|<< 1 Samuel 5:3]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.5|1 Samuel 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכִּ֣מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1242\|בֹּקֶר֮]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> bo.Ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

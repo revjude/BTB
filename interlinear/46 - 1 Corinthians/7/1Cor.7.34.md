@@ -1,12 +1,12 @@
-**1 Corinthians 7:34
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:34**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is difference [also] between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please [her] husband.
 <small><sub>**BSB:**</sub></small>
 and his interests are divided. The unmarried woman or virgin is concerned about the work of the Lord, how she can be holy in both body and spirit. But the married woman is concerned about the affairs of this world, how she can please her husband.
 <small><sub>**Literal:**</sub></small>
 and has he been divided. And the woman <the> unmarried and <the> virgin cares for the [things] of the Lord, that she may be holy both in body and in the spirit; the [one] however having been married she cares for the [things] of the world, how she may please the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.33|<< 1 Corinthians 7:33]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.35|1 Corinthians 7:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | has he been divided. |**<big>[[G3307\|μεμέρισται.]]</big>**  |memeristai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

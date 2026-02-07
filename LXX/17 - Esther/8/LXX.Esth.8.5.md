@@ -1,10 +1,7 @@
 **LXX Esther 8:5** 
 <small><sub>**LXX:**</sub></small>
 And Esther said, If it seems \[good\] to you, and I found favor, let it be sent forth to return the letters  being sent from Haman, the ones having been written to destroy the Jews who are in  your kingdom. 
-<small><sub>**KJV:**</sub></small>
-And said, If it please the king, and if I have found favour in his sight, and the thing [seem] right before the king, and I [be] pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which [are] in all the king’s provinces:
-<small><sub>**BSB:**</sub></small>
-“If it pleases the king,” she said, “and if I have found favor in his sight, and the matter seems proper to the king, and I am pleasing in his sight, may an order be written to revoke the letters that the scheming Haman son of Hammedatha, the Agagite, wrote to destroy the Jews in all the king’s provinces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.4|<< Esther 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.6|Esther 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

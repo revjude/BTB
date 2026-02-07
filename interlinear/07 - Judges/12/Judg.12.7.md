@@ -1,4 +1,4 @@
-**Judges 12:7** 
+**Judges 12:7**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in [one of] the cities of Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jephthah judged Israel six years, and when he died, he was buried in one of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.6|<< Judges 12:6]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.8|Judges 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֥ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּ֛ח]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

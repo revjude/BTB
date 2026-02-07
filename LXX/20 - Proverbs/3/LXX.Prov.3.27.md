@@ -1,10 +1,7 @@
 **LXX Proverbs 3:27** 
 <small><sub>**LXX:**</sub></small>
 You should not be at a distance to do good \[to the\] one lacking, when you should have  your hand to help. 
-<small><sub>**KJV:**</sub></small>
-Withhold not good from them to whom it is due, when it is in the power of thine hand to do [it].
-<small><sub>**BSB:**</sub></small>
-Do not withhold good from the deserving when it is within your power to act.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.26|<< Proverbs 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.28|Proverbs 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

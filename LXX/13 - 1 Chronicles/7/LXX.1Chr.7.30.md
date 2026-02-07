@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:30** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Asher -- Imnah, and Ishuah, and Ishuai, and Beriah, and Serah their sister. 
-<small><sub>**KJV:**</sub></small>
-The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.
-<small><sub>**BSB:**</sub></small>
-The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.29|<< 1 Chronicles 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.31|1 Chronicles 7:31 >>]]</td></tr></table>
 
 | Translation | Greek |

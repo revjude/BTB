@@ -1,4 +1,4 @@
-**Numbers 16:30** 
+**Numbers 16:30**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that [appertain] unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the LORD brings about something unprecedented, and the earth opens its mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.29|<< Numbers 16:29]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.31|Numbers 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a creation  |**<big>&#8207;[[H1278\|בְּרִיאָ֞ה]]&#8207; </big>**| be.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

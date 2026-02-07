@@ -1,4 +1,4 @@
-**Isaiah 26:18** 
+**Isaiah 26:18**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We were with child; we writhed in pain; but we gave birth to wind. We have given
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.17|<< Isaiah 26:17]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.19|Isaiah 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we were pregnant  |**<big>&#8207;[[H2029\|הָרִ֣ינוּ]]&#8207; </big>**| ha.Ri.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we were in labor  |**<big>&#8207;[[H2342I\|חַ֔לְנוּ]]&#8207; </big>**| Chal.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

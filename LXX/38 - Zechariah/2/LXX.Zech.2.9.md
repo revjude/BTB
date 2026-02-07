@@ -1,10 +1,7 @@
 **LXX Zechariah 2:9** 
 <small><sub>**LXX:**</sub></small>
 For behold, I bear  my hand against them, and they will be spoils to the ones serving them. And you shall know that \[the\] <span class="smallcaps">lord</span> almighty has sent me. 
-<small><sub>**KJV:**</sub></small>
-For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me.
-<small><sub>**BSB:**</sub></small>
-I will surely wave My hand over them, so that they will become plunder for their own servants. Then you will know that the LORD of Hosts has sent Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.8|<< Zechariah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.10|Zechariah 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

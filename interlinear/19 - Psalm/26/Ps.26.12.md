@@ -1,4 +1,4 @@
-**Psalms 26:12** 
+**Psalms 26:12**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My foot standeth in an even place: in the congregations will I bless the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My feet stand on level ground; in the congregations I will bless the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.11|<< Psalms 26:11]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.0|Psalms 27:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | foot my  |**<big>&#8207;[[H7272\|רַ֭גְלִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Rag.l<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has stood  |**<big>&#8207;[[H5975G\|עָֽמְדָ֣ה]]&#8207; </big>**| 'a.me.Dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

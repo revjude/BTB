@@ -1,4 +1,4 @@
-**Psalms 10:13** 
+**Psalms 10:13**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why has the wicked man renounced God? He says to himself, “You will never call
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.12|<< Psalms 10:12]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.14|Psalms 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

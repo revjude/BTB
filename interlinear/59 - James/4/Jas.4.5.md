@@ -1,12 +1,12 @@
-**James 4:5
-**<small><sub>**KJV:**</sub></small>
+**James 4:5**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?
 <small><sub>**BSB:**</sub></small>
 Or do you think the Scripture says without reason that the Spirit He caused to dwell in us yearns with envy?
 <small><sub>**Literal:**</sub></small>
 Or think you that in vain the Scripture speaks? With envy yearns the Spirit that he settled in us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.4|<< James 4:4]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.6|James 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | think you |**<big>[[G1380\|δοκεῖτε]]</big>**  |dokeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

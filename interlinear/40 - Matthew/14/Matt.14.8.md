@@ -1,12 +1,12 @@
-**Matthew 14:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:8**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger.
 <small><sub>**BSB:**</sub></small>
 Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”
 <small><sub>**Literal:**</sub></small>
 <the> And having been urged on by the mother of her; do give to me she says here on a platter the head of John the Baptist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.7|<< Matthew 14:7]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.9|Matthew 14:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

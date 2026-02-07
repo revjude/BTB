@@ -1,4 +1,4 @@
-**Isaiah 48:4** 
+**Isaiah 48:4**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because I knew that thou [art] obstinate, and thy neck [is] an iron sinew, and thy brow brass;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I knew that you are stubborn; your neck is iron and your forehead is bronze.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.3|<< Isaiah 48:3]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.5|Isaiah 48:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for knew I  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3045\|דַּעְתִּ֕]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> da'.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

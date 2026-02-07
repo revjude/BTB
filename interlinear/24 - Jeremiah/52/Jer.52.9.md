@@ -1,4 +1,4 @@
-**Jeremiah 52:9** 
+**Jeremiah 52:9**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they took the king, and carried him up unto the king of Babylon to Riblah in the land of Hamath; where he gave judgment upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Chaldeans seized the king and brought him up to the king of Babylon at Ribla
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.8|<< Jeremiah 52:8]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.10|Jeremiah 52:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they seized  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8610\|יִּתְפְּשׂוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pe.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

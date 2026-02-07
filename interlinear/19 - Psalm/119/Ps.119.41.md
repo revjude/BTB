@@ -1,12 +1,12 @@
-**Psalms 119:41** 
+**Psalms 119:41**<big><big>[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-VAU. Let thy mercies come also unto me, O LORD, [even] thy salvation, according to thy word.
+Let thy mercies come also unto me, O LORD, [even] thy salvation, according to thy word.
 <small><sub>**BSB:**</sub></small>
 May Your loving devotion come to me, O LORD, Your salvation, according to Your promise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.40|<< Psalms 119:40]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.42|Psalms 119:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may they come to me  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H0935G\|יבֹאֻ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> vo.'U.<small><sup>[[HVqu3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalti\<es> your  |**<big>&#8207;[[H2617A\|חֲסָדֶ֣]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| cha.sa.De.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

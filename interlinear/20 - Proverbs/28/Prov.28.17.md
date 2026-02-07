@@ -1,4 +1,4 @@
-**Proverbs 28:17** 
+**Proverbs 28:17**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man that doeth violence to the blood of [any] person shall flee to the pit; let no man stay him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man burdened by bloodguilt will flee into the Pit; let no one support him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.16|<< Proverbs 28:16]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.18|Proverbs 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oppressed  |**<big>&#8207;[[H6231\|עָשֻׁ֣ק]]&#8207; </big>**| 'a.Shuk<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

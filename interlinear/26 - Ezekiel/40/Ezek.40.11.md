@@ -1,4 +1,4 @@
-**Ezekiel 40:11** 
+**Ezekiel 40:11**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he measured the breadth of the entry of the gate, ten cubits; [and] the length of the gate, thirteen cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he measured the width of the gateway entrance to be ten cubits, and its leng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.10|<< Ezekiel 40:10]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.12|Ezekiel 40:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּ֛מָד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

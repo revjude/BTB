@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:32** 
 <small><sub>**LXX:**</sub></small>
 For I have put the fear of him upon \[the\] land of life; yet he shall sleep in \[the\] midst of \[the\] uncircumcised with ones slain \[by the\] sword, \[even\] Pharaoh, and all  his multitude, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For I have caused my terror in the land of the living: and he shall be laid in the midst of the uncircumcised with [them that are] slain with the sword, [even] Pharaoh and all his multitude, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-For I will spread My terror in the land of the living, so that Pharaoh and all his multitude will be laid to rest among the uncircumcised, with those slain by the sword, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

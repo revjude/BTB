@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:26** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Saul, I shall not return with you. For you treated with contempt the saying of \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> shall treat you with contempt  to not be king over Israel. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the LORD, and the LORD hath rejected thee from being king over Israel.
-<small><sub>**BSB:**</sub></small>
-“I will not return with you,” Samuel replied. “For you have rejected the word of the LORD, and He has rejected you as king over Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.25|<< 1 Samuel 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.27|1 Samuel 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

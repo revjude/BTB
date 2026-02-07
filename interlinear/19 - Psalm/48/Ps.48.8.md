@@ -1,4 +1,4 @@
-**Psalms 48:8** (48:9)
+**Psalms 48:8**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As we have heard, so we have seen in the city of the LORD of Hosts, in the city 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.7|<< Psalms 48:7]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.9|Psalms 48:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֤ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֨עְנוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

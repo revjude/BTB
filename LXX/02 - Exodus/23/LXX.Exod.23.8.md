@@ -1,10 +1,7 @@
 **LXX Exodus 23:8** 
 <small><sub>**LXX:**</sub></small>
 And bribes you shall not receive; for the bribes blind \[the\] eyes for seeing and lay waste just matters. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.
-<small><sub>**BSB:**</sub></small>
-Do not accept a bribe, for a bribe blinds those who see and twists the words of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.7|<< Exodus 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.9|Exodus 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

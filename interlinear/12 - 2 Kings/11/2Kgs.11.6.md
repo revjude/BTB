@@ -1,4 +1,4 @@
-**2 Kings 11:6** 
+**2 Kings 11:6**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a third part [shall be] at the gate of Sur; and a third part at the gate behind the guard: so shall ye keep the watch of the house, that it be not broken down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a third shall be at the gate of Sur, and a third at the gate behind the guards. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.5|<< 2 Kings 11:5]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.7|2 Kings 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the third [part]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִׁית֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.li.Shit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] at [the] gate of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8179G\|שַׁ֣עַר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

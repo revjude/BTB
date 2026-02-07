@@ -1,10 +1,7 @@
 **LXX Psalm 139:18** 
 <small><sub>**LXX:**</sub></small>
 I shall count them out, and above \[the\] sand they shall be multiplied; I awake, and still I am with you. 
-<small><sub>**KJV:**</sub></small>
-[If] I should count them, they are more in number than the sand: when I awake, I am still with thee.
-<small><sub>**BSB:**</sub></small>
-If I were to count them, they would outnumber the grains of sand; and when I awake, I am still with You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.17|<< Psalm 139:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.19|Psalm 139:19 >>]]</td></tr></table>
 
 | Translation | Greek |

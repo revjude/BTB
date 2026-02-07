@@ -1,10 +1,7 @@
 **LXX Isaiah 28:6** 
 <small><sub>**LXX:**</sub></small>
 And they shall be left behind in spirit of equity for judgment, and \[for the\] strength restraining doing away with. 
-<small><sub>**KJV:**</sub></small>
-And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.
-<small><sub>**BSB:**</sub></small>
-a spirit of justice to him who sits in judgment, and a strength to those who repel the onslaught at the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.5|<< Isaiah 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.7|Isaiah 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

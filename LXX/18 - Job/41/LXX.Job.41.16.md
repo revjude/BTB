@@ -1,10 +1,7 @@
 **LXX Job 41:16** 
 <small><sub>**LXX:**</sub></small>
 One  of one cleaves together, and wind in no way goes through it; 
-<small><sub>**KJV:**</sub></small>
-One is so near to another, that no air can come between them.
-<small><sub>**BSB:**</sub></small>
-One scale is so near to another that no air can pass between them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.15|<< Job 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.17|Job 41:17 >>]]</td></tr></table>
 
 | Translation | Greek |

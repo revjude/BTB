@@ -1,10 +1,7 @@
 **LXX Exodus 13:19** 
 <small><sub>**LXX:**</sub></small>
 And Moses took the bones of Joseph with him, for with an oath Joseph bound the sons of Israel, saying, With a visit \[the\] <span class="smallcaps">lord</span> will visit you, and you shall join in carrying off  my bones from here with you. 
-<small><sub>**KJV:**</sub></small>
-And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
-<small><sub>**BSB:**</sub></small>
-Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.18|<< Exodus 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.20|Exodus 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

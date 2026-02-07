@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:31** 
 <small><sub>**LXX:**</sub></small>
 For you are passing over the Jordan, entering to inherit the land which \[the\] <span class="smallcaps">lord</span>  our God gives to us by lot all the days. And you shall inherit and dwell in it. 
-<small><sub>**KJV:**</sub></small>
-For ye shall pass over Jordan to go in to possess the land which the LORD your God giveth you, and ye shall possess it, and dwell therein.
-<small><sub>**BSB:**</sub></small>
-For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.30|<< Deuteronomy 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.32|Deuteronomy 11:32 >>]]</td></tr></table>
 
 | Translation | Greek |

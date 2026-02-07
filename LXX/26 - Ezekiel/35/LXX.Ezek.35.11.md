@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, \[as\] I live, says \[the\] <span class="smallcaps">lord</span>; Even I will do to you according to  your hatred, and according to  your zeal which you did in  your detesting them; and I shall be known to you whenever I judge you. 
-<small><sub>**KJV:**</sub></small>
-Therefore, [as] I live, saith the Lord GOD, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.
-<small><sub>**BSB:**</sub></small>
-therefore as surely as I live, declares the Lord GOD, I will treat you according to the anger and jealousy you showed in your hatred against them, and I will make Myself known among them when I judge you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.10|<< Ezekiel 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.12|Ezekiel 35:12 >>]]</td></tr></table>
 
 | Translation | Greek |

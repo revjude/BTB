@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:13** 
 <small><sub>**LXX:**</sub></small>
 and with interest gave \[a thing\], and by usury took; this one shall not live to life; all  these lawless deeds he did; unto death he shall be put to death;  his blood will be upon him. 
-<small><sub>**KJV:**</sub></small>
-Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
-<small><sub>**BSB:**</sub></small>
-He engages in usury and takes excess interest. Will this son live? He will not! Since he has committed all these abominations, he will surely die; his blood will be on his own head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.12|<< Ezekiel 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.14|Ezekiel 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

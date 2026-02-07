@@ -1,4 +1,4 @@
-**Leviticus 15:27** 
+**Leviticus 15:27**<big><big>[[Lev.15.19 The Uncleanness of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone who touches these things will be unclean; he must wash his clothes and ba
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.26|<< Leviticus 15:26]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.28|Leviticus 15:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [one who] touches  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5060\|נּוֹגֵ֥עַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ge.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

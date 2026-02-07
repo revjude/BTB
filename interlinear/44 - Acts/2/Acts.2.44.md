@@ -1,12 +1,12 @@
-**Acts 2:44
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:44**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all that believed were together, and had all things common;
 <small><sub>**BSB:**</sub></small>
 All the believers were together and had everything in common.
 <small><sub>**Literal:**</sub></small>
 All now those believing were together the same and were having all things in common,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.43|<< Acts 2:43]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.45|Acts 2:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

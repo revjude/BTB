@@ -1,12 +1,12 @@
-**Luke 16:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:20**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
 <small><sub>**BSB:**</sub></small>
 And a beggar named Lazarus lay at his gate, covered with sores
 <small><sub>**Literal:**</sub></small>
 A poor man now certain was named Lazarus who had been laid at the gate of him full of sores<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.19|<< Luke 16:19]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.21|Luke 16:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A poor man |**<big>[[G4434\|πτωχὸς]]</big>**  |ptōchos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

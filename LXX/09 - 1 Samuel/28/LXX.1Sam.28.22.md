@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:22** 
 <small><sub>**LXX:**</sub></small>
 And now hear indeed \[the\] voice  of your maidservant, for I will place before you a morsel of bread and you eat! and it will be for strength to you, that you should go in \[the\] way. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way.
-<small><sub>**BSB:**</sub></small>
-Now please listen to your servant and let me set a morsel of bread before you so you may eat and have the strength to go on your way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.21|<< 1 Samuel 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.23|1 Samuel 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

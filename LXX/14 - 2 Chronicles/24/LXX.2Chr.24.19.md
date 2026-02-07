@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:19** 
 <small><sub>**LXX:**</sub></small>
 And he sent to them prophets to turn them to \[the\] <span class="smallcaps">lord</span>. And they testified to them, and they hearkened not. 
-<small><sub>**KJV:**</sub></small>
-Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the LORD sent prophets to bring the people back to Him and to testify against them, but they would not listen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.18|<< 2 Chronicles 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.20|2 Chronicles 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 7:13** 
+**Daniel 7:13**<big><big>[[Dan.7.13 Daniel’s Vision of the Son of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In my vision in the night I continued to watch, and I saw One like the Son of Ma
 > $\quad$ referenced by: [[Matt.24.30|Matt 24:30]] ☩ [[Matt.26.64|Matt 26:64]] ☩ [[Mark.13.26|Mark 13:26]] ☩ [[Mark.14.62|Mark 14:62]] ☩ [[Luke.21.27|Luke 21:27]] ☩ [[Luke.22.69|Luke 22:69]] ☩ [[Rev.1.13|Rev 1:13]] ☩ [[Rev.14.14|Rev 14:14]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seeing  |**<big>&#8207;[[H2370\|חָזֵ֤ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1934\|הֲוֵית֙]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

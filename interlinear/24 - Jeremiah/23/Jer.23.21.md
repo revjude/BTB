@@ -1,4 +1,4 @@
-**Jeremiah 23:21** 
+**Jeremiah 23:21**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I did not send these prophets, yet they have run with their message; I did not s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.20|<< Jeremiah 23:20]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.22|Jeremiah 23:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I sent  |**<big>&#8207;[[H7971G\|שָׁלַ֥חְתִּי]]&#8207; </big>**| sha.Lach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

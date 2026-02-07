@@ -1,4 +1,4 @@
-**Deuteronomy 6:11** 
+**Deuteronomy 6:11**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And houses full of all good [things], which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with houses full of every good thing with which you did not fill them, with well
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.10|<< Deuteronomy 6:10]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.12|Deuteronomy 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and houses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בָ֨תִּ֜ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Va.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | full  |**<big>&#8207;[[H4392\|מְלֵאִ֣ים]]&#8207; </big>**| me.le.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

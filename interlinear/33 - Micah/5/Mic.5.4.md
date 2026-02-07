@@ -1,4 +1,4 @@
-**Micah 5:4** (5:3)
+**Micah 5:4**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will stand and shepherd His flock in the strength of the LORD, in the majesti
 > $\quad$ referenced by: [[Matt.2.6|Matt 2:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will stand  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|עָמַ֗ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will shepherd  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7462B\|רָעָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

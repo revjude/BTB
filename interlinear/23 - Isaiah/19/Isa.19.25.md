@@ -1,4 +1,4 @@
-**Isaiah 19:25** 
+**Isaiah 19:25**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whom the LORD of hosts shall bless, saying, Blessed [be] Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD of Hosts will bless them, saying, “Blessed be Egypt My people, Assyri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.24|<< Isaiah 19:24]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.1|Isaiah 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will bless it  |**<big>&#8207;[[H1288\|בֵּרֲכ֛]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| be.ra.Kh<small><sup>[[HVpp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

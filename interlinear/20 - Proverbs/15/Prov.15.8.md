@@ -1,4 +1,4 @@
-**Proverbs 15:8** 
+**Proverbs 15:8**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sacrifice of the wicked [is] an abomination to the LORD: but the prayer of the upright [is] his delight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sacrifice of the wicked is detestable to the LORD, but the prayer of the upr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.7|<< Proverbs 15:7]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.9|Proverbs 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

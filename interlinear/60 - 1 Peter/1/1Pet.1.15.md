@@ -1,12 +1,12 @@
-**1 Peter 1:15
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:15**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as he which hath called you is holy, so be ye holy in all manner of conversation;
 <small><sub>**BSB:**</sub></small>
 But just as He who called you is holy, so be holy in all you do,
 <small><sub>**Literal:**</sub></small>
 But as the [One] having called you [is] holy also yourselves holy in all [your] conduct do be,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.14|<< 1 Peter 1:14]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.16|1 Peter 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

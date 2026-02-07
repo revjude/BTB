@@ -6,10 +6,7 @@ For the day  before the Sabbath; when the land; was settled praise of an ode \[t
 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> reigned; he put on beauty; \[the\] <span class="smallcaps">lord</span> put on power and girded himself.  For he solidified the inhabitable world, which shall not be shaken. 
-<small><sub>**KJV:**</sub></small>
-The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, [wherewith] he hath girded himself: the world also is stablished, that it cannot be moved.
-<small><sub>**BSB:**</sub></small>
-The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.93.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.15|<< Psalm 92:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.93.2|Psalm 93:2 >>]]</td></tr></table>
 
 | Translation | Greek |

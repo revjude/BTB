@@ -1,12 +1,12 @@
-**1 Corinthians 15:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:8**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And last of all he was seen of me also, as of one born out of due time.
 <small><sub>**BSB:**</sub></small>
 And last of all He appeared to me also, as to one of untimely birth.
 <small><sub>**Literal:**</sub></small>
 Last then of all as an untimely birth He appeared also to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.7|<< 1 Corinthians 15:7]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.9|1 Corinthians 15:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Last |**<big>[[G2078\|ἔσχατον]]</big>**  |eschaton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

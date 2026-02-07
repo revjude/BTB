@@ -1,10 +1,7 @@
 **LXX Judges 20:8** 
 <small><sub>**LXX:**</sub></small>
 And all the people rose up as one man, saying, We shall not enter -- a man into  his tent, and we shall not turn aside -- a man to  his house. 
-<small><sub>**KJV:**</sub></small>
-And all the people arose as one man, saying, We will not any [of us] go to his tent, neither will we any [of us] turn into his house.
-<small><sub>**BSB:**</sub></small>
-Then all the people stood as one man and said, “Not one of us will return to his tent or to his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.7|<< Judges 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.9|Judges 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

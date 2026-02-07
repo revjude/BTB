@@ -1,12 +1,12 @@
-**Romans 16:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:5**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise [greet] the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.
 <small><sub>**BSB:**</sub></small>
 Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.
 <small><sub>**Literal:**</sub></small>
 and the at house of them church. do greet Epenetus the beloved of mine, who is a firstfruit <the> of Asia for Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.4|<< Romans 16:4]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.6|Romans 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

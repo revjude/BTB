@@ -1,12 +1,12 @@
-**Luke 5:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:9**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he was astonished, and all that were with him, at the draught of the fishes which they had taken:
 <small><sub>**BSB:**</sub></small>
 For he and his companions were astonished at the catch of fish they had taken,
 <small><sub>**Literal:**</sub></small>
 Amazement for laid hold on him and on all those with him at the catch of the fish which they had taken,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.8|<< Luke 5:8]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.10|Luke 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amazement |**<big>[[G2285\|θάμβος]]</big>**  |thambos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

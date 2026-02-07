@@ -1,10 +1,7 @@
 **LXX Micah 4:4** 
 <small><sub>**LXX:**</sub></small>
 And each shall rest underneath his grapevine, and each underneath his fig-tree. And there shall not be one frightening \[them\], because the mouth of \[the\] <span class="smallcaps">lord</span> almighty spoke these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-But they shall sit every man under his vine and under his fig tree; and none shall make [them] afraid: for the mouth of the LORD of hosts hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-And each man will sit under his own vine and under his own fig tree, with no one to frighten him. For the mouth of the LORD of Hosts has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.3|<< Micah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.5|Micah 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

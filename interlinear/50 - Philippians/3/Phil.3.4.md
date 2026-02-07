@@ -1,12 +1,12 @@
-**Philippians 3:4
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:4**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:
 <small><sub>**BSB:**</sub></small>
 though I myself could have such confidence. If anyone else thinks he has grounds for confidence in the flesh, I have more:
 <small><sub>**Literal:**</sub></small>
 though I myself have confidence even in [the] flesh. If any thinks other to have confidence in [the] flesh, I myself more:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.3|<< Philippians 3:3]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.5|Philippians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though |**<big>[[G2539\|καίπερ]]</big>**  |kaiper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

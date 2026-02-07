@@ -1,4 +1,4 @@
-**2 Kings 21:14** 
+**2 Kings 21:14**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will forsake the remnant of My inheritance and deliver them into the hands 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.13|<< 2 Kings 21:13]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.15|2 Kings 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will abandon  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5203\|נָטַשְׁתִּ֗י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.tash.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

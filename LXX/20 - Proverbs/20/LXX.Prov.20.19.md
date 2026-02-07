@@ -1,10 +1,7 @@
 **LXX Proverbs 20:19** 
 <small><sub>**LXX:**</sub></small>
 The one uncovering counsel in a sanhedrin goes double-tongued; and be not mixed with \[the\] one widening the things of his own lips! 
-<small><sub>**KJV:**</sub></small>
-He that goeth about [as] a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
-<small><sub>**BSB:**</sub></small>
-He who reveals secrets is a constant gossip; avoid the one who babbles with his lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.18|<< Proverbs 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.20|Proverbs 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

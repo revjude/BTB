@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:6** 
 <small><sub>**LXX:**</sub></small>
 Gomer and all the ones around him; \[the\] house  of Togarmah from \[the\] extreme north, and all the ones around him; and many nations with you. 
-<small><sub>**KJV:**</sub></small>
-Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: [and] many people with thee.
-<small><sub>**BSB:**</sub></small>
-as well as Gomer with all its troops, and Beth-togarmah from the far north with all its troops—the many nations with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.5|<< Ezekiel 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.7|Ezekiel 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

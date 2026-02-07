@@ -1,4 +1,4 @@
-**Psalms 93:3** 
+**Psalms 93:3**<big><big>[[Ps.93.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The floodwaters have risen, O LORD; the rivers have raised their voice; the seas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.93.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.93.2|<< Psalms 93:2]]</td><td align="center" style="border:none;">[[Ps.93|Psalms 93]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.4|Psalms 93:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have lifted up  |**<big>&#8207;[[H5375G\|נָשְׂא֤וּ]]&#8207; </big>**| na.se.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rivers  |**<big>&#8207;[[H5104H\|נְהָר֨וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ne.ha.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

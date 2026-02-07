@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:3** 
 <small><sub>**LXX:**</sub></small>
 You knew  my father David, that he was not able to build a house to the name of \[the\] <span class="smallcaps">lord</span>  my God, because of facing the wars that were encircling him, until the <span class="smallcaps">lord</span> put them under the soles  of his feet. 
-<small><sub>**KJV:**</sub></small>
-Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet.
-<small><sub>**BSB:**</sub></small>
-“As you are well aware, due to the wars waged on all sides against my father David, he could not build a house for the Name of the LORD his God until the LORD had put his enemies under his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.2|<< 1 Kings 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.4|1 Kings 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

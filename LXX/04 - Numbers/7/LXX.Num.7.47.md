@@ -1,10 +1,7 @@
 **LXX Numbers 7:47** 
 <small><sub>**LXX:**</sub></small>
 and for a sacrifice of deliverance, two heifers, five rams, five he-goats, five ewe-lambs of a year \[old\]; this \[is\] the gift of Eliasaph son of Reuel. 
-<small><sub>**KJV:**</sub></small>
-And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this [was] the offering of Eliasaph the son of Deuel.
-<small><sub>**BSB:**</sub></small>
-and a peace offering of two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.46|<< Numbers 7:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.48|Numbers 7:48 >>]]</td></tr></table>
 
 | Translation | Greek |

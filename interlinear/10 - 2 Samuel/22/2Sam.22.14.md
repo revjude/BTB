@@ -1,4 +1,4 @@
-**2 Samuel 22:14** 
+**2 Samuel 22:14**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thundered from heaven, and the most High uttered his voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD thundered from heaven; the voice of the Most High resounded.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.13|<< 2 Samuel 22:13]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.15|2 Samuel 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he thundered  |**<big>&#8207;[[H7481\|יַרְעֵ֥ם]]&#8207; </big>**| yar.'Em<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

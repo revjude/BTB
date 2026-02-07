@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:2** 
 <small><sub>**LXX:**</sub></small>
 For there is no \[one\] holy as \[the\] <span class="smallcaps">lord</span>; and there is no just one as  our God; and there is no holy one besides you. 
-<small><sub>**KJV:**</sub></small>
-[There is] none holy as the LORD: for [there is] none beside thee: neither [is there] any rock like our God.
-<small><sub>**BSB:**</sub></small>
-There is no one holy like the LORD. Indeed, there is no one besides You! And there is no Rock like our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.1|<< 1 Samuel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.3|1 Samuel 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

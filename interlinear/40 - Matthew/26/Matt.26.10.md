@@ -1,12 +1,12 @@
-**Matthew 26:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:10**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus understood [it], he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.
 <small><sub>**BSB:**</sub></small>
 Aware of this, Jesus asked, “Why are you bothering this woman? She has done a beautiful deed to Me.
 <small><sub>**Literal:**</sub></small>
 Having known [this] now <the> Jesus said to them; Why trouble do you cause to the woman? A work for beautiful she did to Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.9|<< Matthew 26:9]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.11|Matthew 26:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known [this] |**<big>[[G1097\|γνοὺς]]</big>**  |gnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

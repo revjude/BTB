@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:18** 
 <small><sub>**LXX:**</sub></small>
 And he went in \[the\] way of \[the\] kings of Israel, as did \[the\] house of Ahab; for \[the\] daughter of Ahab was his  wife. And he did the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.17|<< 2 Kings 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.19|2 Kings 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

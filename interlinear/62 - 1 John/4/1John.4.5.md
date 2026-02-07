@@ -1,12 +1,12 @@
-**1 John 4:5
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:5**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They are of the world: therefore speak they of the world, and the world heareth them.
 <small><sub>**BSB:**</sub></small>
 They are of the world. That is why they speak from the world’s perspective, and the world listens to them.
 <small><sub>**Literal:**</sub></small>
 They themselves of the world are; because of this from out of the world they speak and the world to them listens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.4|<< 1 John 4:4]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.6|1 John 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

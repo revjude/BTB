@@ -1,4 +1,4 @@
-**Isaiah 40:29** 
+**Isaiah 40:29**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He giveth power to the faint; and to [them that have] no might he increaseth strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He gives power to the faint and increases the strength of the weak.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.28|<< Isaiah 40:28]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.30|Isaiah 40:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] giving  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the weary [person]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3287\|יָּעֵ֖ף]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.ya.'Ef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

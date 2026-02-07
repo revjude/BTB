@@ -1,10 +1,7 @@
 **LXX Job 38:14** 
 <small><sub>**LXX:**</sub></small>
 Or did you, having taken earth's clay, shape a living creature, and establish \[the\] power of speech to it upon \[the\] earth? 
-<small><sub>**KJV:**</sub></small>
-It is turned as clay [to] the seal; and they stand as a garment.
-<small><sub>**BSB:**</sub></small>
-The earth takes shape like clay under a seal; its hills stand out like the folds of a garment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.13|<< Job 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.15|Job 38:15 >>]]</td></tr></table>
 
 | Translation | Greek |

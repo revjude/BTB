@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:17** 
 <small><sub>**LXX:**</sub></small>
 And the Araba and the Jordan \[are\] \[the\] border from Chinnereth, and unto \[the\] sea of Araba, \[the\] salty sea by Ashdoth  of Pisgah from \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-The plain also, and Jordan, and the coast [thereof], from Chinnereth even unto the sea of the plain, [even] the salt sea, under Ashdothpisgah eastward.
-<small><sub>**BSB:**</sub></small>
-The Jordan River in the Arabah bordered it from Chinnereth to the Sea of the Arabah (the Salt Sea) with the slopes of Pisgah to the east.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.16|<< Deuteronomy 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.18|Deuteronomy 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

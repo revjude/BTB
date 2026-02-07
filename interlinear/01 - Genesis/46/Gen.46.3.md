@@ -1,4 +1,4 @@
-**Genesis 46:3** 
+**Genesis 46:3**<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I [am] God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, I [am] God, the God of thy father: fear not to go down into Egypt; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.2|<< Genesis 46:2]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.4|Genesis 46:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֥י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

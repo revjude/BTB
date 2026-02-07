@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:2** 
 <small><sub>**LXX:**</sub></small>
 And David said to the priest Ahimelech, The king gave charge to me a thing today, and said to me, Let no one know anything concerning the matter for which I send you, and for what I have given charge to you. And to the servants I testified in the place, in the one being called -- Phalanni Alomni. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed [my] servants to such and such a place.
-<small><sub>**BSB:**</sub></small>
-“The king has given me a mission,” David replied. “He told me no one is to know about the mission on which I am sending you. And I have directed my young men to meet me at a certain place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.1|<< 1 Samuel 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.3|1 Samuel 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 19:11** 
+**Joshua 19:11**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that [is] before Jokneam;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It went up westward to Maralah, reached Dabbesheth, and met the brook east of Jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.10|<< Joshua 19:10]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.12|Joshua 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָלָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Lah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | border their  |**<big>&#8207;[[H1366G\|גְבוּלָ֧]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ge.vu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 26:2** 
 <small><sub>**LXX:**</sub></small>
  My Sabbaths you shall keep, and of  my holy \[things\] you shall fear. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Ye shall keep my sabbaths, and reverence my sanctuary: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You must keep My Sabbaths and have reverence for My sanctuary. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 18:23** 
+**1 Kings 18:23**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay [it] on wood, and put no fire [under]: and I will dress the other bullock, and lay [it] on wood, and put no fire [under]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get two bulls for us. Let the prophets of Baal choose one bull for themselves, c
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.22|<< 1 Kings 18:22]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.24|1 Kings 18:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let people give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִתְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.te.nu-<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to us  |**<big>&#8207;[[H9005\|לָ֜]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

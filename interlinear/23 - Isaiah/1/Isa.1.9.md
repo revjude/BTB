@@ -1,4 +1,4 @@
-**Isaiah 1:9** 
+**Isaiah 1:9**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, [and] we should have been like unto Gomorrah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Unless the LORD of Hosts had left us a few survivors, we would have become like 
 > $\quad$ referenced by: [[Rom.9.29|Rom 9:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if not  |**<big>&#8207;[[H3884\|לוּלֵי֙]]&#8207; </big>**| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

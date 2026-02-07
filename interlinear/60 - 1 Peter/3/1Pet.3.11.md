@@ -1,5 +1,5 @@
-**1 Peter 3:11
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:11**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let him eschew evil, and do good; let him seek peace, and ensue it.
 <small><sub>**BSB:**</sub></small>
 He must turn from evil and do good; he must seek peace and pursue it.
@@ -10,7 +10,7 @@ he should turn away also from evil and he should do good, he should seek peace a
 > $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he should turn away |**<big>[[G1578\|ἐκκλινάτω]]</big>**  |ekklinatō <small><sup>[[V-AAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

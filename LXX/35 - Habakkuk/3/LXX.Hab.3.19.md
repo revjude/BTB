@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:19** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  God \[is\] my power, and he will arrange  my feet unto completion; and upon the high \[places\] he shall set me,  for me to overcome by  his ode. 
-<small><sub>**KJV:**</sub></small>
-The LORD God [is] my strength, and he will make my feet like hinds’ [feet], and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
-<small><sub>**BSB:**</sub></small>
-GOD the Lord is my strength; He makes my feet like those of a deer; He makes me walk upon the heights! For the choirmaster. With stringed instruments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

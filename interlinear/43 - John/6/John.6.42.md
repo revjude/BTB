@@ -1,12 +1,12 @@
-**John 6:42
-**<small><sub>**KJV:**</sub></small>
+**John 6:42**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?
 <small><sub>**BSB:**</sub></small>
 They were asking, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then can He say, ‘I have come down from heaven’?”
 <small><sub>**Literal:**</sub></small>
 And they were saying; Surely this is Jesus the son of Joseph, of whom we ourselves know the father and the mother? How then says He this that From <the> heaven I have come down?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.41|<< John 6:41]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.43|John 6:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were saying; |**<big>[[G3004G\|ἔλεγον·]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Amos 7:14** 
+**Amos 7:14**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Amos, and said to Amaziah, I [was] no prophet, neither [was] I a prophet’s son; but I [was] an herdman, and a gatherer of sycomore fruit:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then answered Amos, and said to Amaziah, I [was] no prophet, neither [was] I a p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.13|<< Amos 7:13]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.15|Amos 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֤עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amos  |**<big>&#8207;[[H5986\|עָמוֹס֙]]&#8207; </big>**| 'a.mOs<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 18:15** 
+**1 Chronicles 18:15**<big><big>[[1Chr.18.14 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab the son of Zeruiah [was] over the host; and Jehoshaphat the son of Ahilud, recorder.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorde
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.14|<< 1 Chronicles 18:14]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.16|1 Chronicles 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָ֥ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 6:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:28**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
 <small><sub>**BSB:**</sub></small>
 And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin.
 <small><sub>**Literal:**</sub></small>
 And about clothing why are you anxious? do observe the lilies of the field, how they grow; not do they labor nor do they spin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.27|<< Matthew 6:27]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.29|Matthew 6:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | about |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

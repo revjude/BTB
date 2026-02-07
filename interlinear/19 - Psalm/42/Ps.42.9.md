@@ -1,4 +1,4 @@
-**Psalms 42:9** (42:10)
+**Psalms 42:9**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I say to God my Rock, “Why have You forgotten me? Why must I walk in sorrow be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.8|<< Psalms 42:8]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.10|Psalms 42:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will say  |**<big>&#8207;[[H0559\|אוֹמְרָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'om.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to God  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0410G\|אֵ֥ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

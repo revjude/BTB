@@ -1,4 +1,4 @@
-**Jeremiah 32:23** 
+**Jeremiah 32:23**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They came in and possessed it, but they did not obey Your voice or walk in Your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֜אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they took possession of  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3423H\|יִּֽרְשׁ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 2:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:1**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the day of Pentecost was fully come, they were all with one accord in one place.
 <small><sub>**BSB:**</sub></small>
 When the day of Pentecost came, they were all together in one place.
 <small><sub>**Literal:**</sub></small>
 And during the arriving of the day <the> of Pentecost they were all together in the one [place].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.26|<< Acts 1:26]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.2|Acts 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | during |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

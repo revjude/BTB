@@ -1,4 +1,4 @@
-**Jeremiah 2:27** 
+**Jeremiah 2:27**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying to a stock, Thou [art] my father; and to a stone, Thou hast brought me forth: for they have turned [their] back unto me, and not [their] face: but in the time of their trouble they will say, Arise, and save us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ say to a tree, ‘You are my father,’ and to a stone, ‘You gave me birth.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.26|<< Jeremiah 2:26]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.28|Jeremiah 2:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] say  |**<big>&#8207;[[H0559\|אֹמְרִ֨ים]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> wood  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H6086H\|עֵ֜ץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

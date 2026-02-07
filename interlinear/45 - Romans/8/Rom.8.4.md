@@ -1,12 +1,12 @@
-**Romans 8:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:4**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
 <small><sub>**BSB:**</sub></small>
 so that the righteous standard of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
 <small><sub>**Literal:**</sub></small>
 so that the righteousness of the law may be fulfilled in us <the> not according to [the] flesh walking but according to [the] Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.3|<< Romans 8:3]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.5|Romans 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

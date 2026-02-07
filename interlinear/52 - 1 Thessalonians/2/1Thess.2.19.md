@@ -1,12 +1,12 @@
-**1 Thessalonians 2:19
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:19**<big><big>[[1Thess.2.17 Paul’s Longing to Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what [is] our hope, or joy, or crown of rejoicing? [Are] not even ye in the presence of our Lord Jesus Christ at his coming?
 <small><sub>**BSB:**</sub></small>
 After all, who is our hope, our joy, our crown of boasting, if it is not you yourselves in the presence of our Lord Jesus at His coming?
 <small><sub>**Literal:**</sub></small>
 Who [is] for our hope or joy or crown of boasting? Except only even you before the Lord of us Jesus Christ at <the> His coming?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.18|<< 1 Thessalonians 2:18]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.20|1 Thessalonians 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who [is] |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

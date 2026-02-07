@@ -1,10 +1,7 @@
 **LXX Psalm 50:15** 
 <small><sub>**LXX:**</sub></small>
 And call upon me in \[the\] day of affliction! and I shall rescue you, and you shall glorify me. 
-<small><sub>**KJV:**</sub></small>
-And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
-<small><sub>**BSB:**</sub></small>
-Call upon Me in the day of trouble; I will deliver you, and you will honor Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.14|<< Psalm 50:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.16|Psalm 50:16 >>]]</td></tr></table>
 
 | Translation | Greek |

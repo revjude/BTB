@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:26** 
 <small><sub>**LXX:**</sub></small>
 And I sent ambassadors from the wilderness of Kedemoth to Sihon king of Heshbon with peaceable words, saying, 
-<small><sub>**KJV:**</sub></small>
-And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,
-<small><sub>**BSB:**</sub></small>
-So from the Wilderness of Kedemoth I sent messengers with an offer of peace to Sihon king of Heshbon, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.25|<< Deuteronomy 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.27|Deuteronomy 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

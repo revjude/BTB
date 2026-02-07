@@ -1,10 +1,7 @@
 **LXX Esther 9:11** 
 <small><sub>**LXX:**</sub></small>
 And was given \[the\] number to the king of the ones being destroyed in Shushan. 
-<small><sub>**KJV:**</sub></small>
-On that day the number of those that were slain in Shushan the palace was brought before the king.
-<small><sub>**BSB:**</sub></small>
-On that day the number of those killed in the citadel of Susa was reported to the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.10|<< Esther 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.12|Esther 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

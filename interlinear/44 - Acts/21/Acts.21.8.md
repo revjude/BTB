@@ -1,12 +1,12 @@
-**Acts 21:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:8**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the next [day] we that were of Paul’s company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was [one] of the seven; and abode with him.
 <small><sub>**BSB:**</sub></small>
 Leaving the next day, we went on to Caesarea and stayed at the home of Philip the evangelist, who was one of the Seven.
 <small><sub>**Literal:**</sub></small>
 On the now next day having gone forth those with <the> Paul we came to Caesarea, and having entered into the house of Philip the evangelist who is being of the seven we stayed with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.7|<< Acts 21:7]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.9|Acts 21:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

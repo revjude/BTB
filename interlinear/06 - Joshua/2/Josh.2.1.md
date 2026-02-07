@@ -1,4 +1,4 @@
-**Joshua 2:1** 
+**Joshua 2:1**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, insp
 > $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֣עַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.ho.Shu.a'-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

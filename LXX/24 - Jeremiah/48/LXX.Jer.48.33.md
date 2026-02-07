@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:33** 
 <small><sub>**LXX:**</sub></small>
 Cause for joy was seized, and gladness from Carmel, even from \[the\] land of \[the\] Moabites; and wine in your wine vats they treaded not \[by\] morning, nor at evening. They did not make a joyful acclamation. 
-<small><sub>**KJV:**</sub></small>
-And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; [their] shouting [shall be] no shouting.
-<small><sub>**BSB:**</sub></small>
-Joy and gladness are removed from the orchard and from the fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy; their shouts are not for joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.32|<< Jeremiah 48:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.34|Jeremiah 48:34 >>]]</td></tr></table>
 
 | Translation | Greek |

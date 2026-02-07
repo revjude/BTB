@@ -1,4 +1,4 @@
-**Psalms 98:2** 
+**Psalms 98:2**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD has proclaimed His salvation and revealed His righteousness to the nati
 > $\quad$ referenced by: [[Acts.28.28|Acts 28:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has made known  |**<big>&#8207;[[H3045\|הוֹדִ֣יעַ]]&#8207; </big>**| ho.Di.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

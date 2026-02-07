@@ -1,10 +1,7 @@
 **LXX Joshua 19:18** 
 <small><sub>**LXX:**</sub></small>
 And their borders were Jezreel, and Chesulloth, and Shunem, 
-<small><sub>**KJV:**</sub></small>
-And their border was toward Jezreel, and Chesulloth, and Shunem,
-<small><sub>**BSB:**</sub></small>
-Their territory included Jezreel, Chesulloth, Shunem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.17|<< Joshua 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.19|Joshua 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

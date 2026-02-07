@@ -1,4 +1,4 @@
-**Exodus 2:16** 
+**Exodus 2:16**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the priest of Midian had seven daughters: and they came and drew [water], and filled the troughs to water their father’s flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the priest of Midian had seven daughters, and they came to draw water and fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.15|<< Exodus 2:15]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.17|Exodus 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to [the] priest of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3548\|כֹהֵ֥ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> kho.Hen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Midian  |**<big>&#8207;[[H4080H\|מִדְיָ֖ן]]&#8207; </big>**| mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

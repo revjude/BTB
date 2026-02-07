@@ -1,4 +1,4 @@
-**Genesis 19:33** 
+**Genesis 19:33**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So that night they got their father drunk with wine, and the firstborn went in a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.32|<< Genesis 19:32]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.34|Genesis 19:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made drink  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8248H\|תַּשְׁקֶ֧יןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tash.Kei.na<small><sup>[[HVhw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

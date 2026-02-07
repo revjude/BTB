@@ -1,10 +1,7 @@
 **LXX Leviticus 8:26** 
 <small><sub>**LXX:**</sub></small>
 And from the bin of the consecration  being before \[the\] <span class="smallcaps">lord</span>, he took one unleavened bread loaf, and one bread loaf \[made\] of olive oil, and one pancake, and he placed \[them\] upon the fat and upon the right shoulder. 
-<small><sub>**KJV:**</sub></small>
-And out of the basket of unleavened bread, that [was] before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put [them] on the fat, and upon the right shoulder:
-<small><sub>**BSB:**</sub></small>
-And from the basket of unleavened bread that was before the LORD, he took one cake of unleavened bread, one cake of bread made with oil, and one wafer, and he placed them on the fat portions and on the right thigh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.25|<< Leviticus 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.27|Leviticus 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

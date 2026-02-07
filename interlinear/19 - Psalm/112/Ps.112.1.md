@@ -1,4 +1,4 @@
-**Psalms 112:1** 
+**Psalms 112:1**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD. Blessed [is] the man [that] feareth the LORD, [that] delighteth greatly in his commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.10|<< Psalms 111:10]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.2|Psalms 112:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise  |**<big>&#8207;[[H1984B\|הַ֥לְלוּ]]&#8207; </big>**| Ha.lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3050\|יָ֨הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

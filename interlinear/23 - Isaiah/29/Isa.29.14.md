@@ -1,4 +1,4 @@
-**Isaiah 29:14** 
+**Isaiah 29:14**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I will proceed to do a marvellous work among this people, [even] a marvellous work and a wonder: for the wisdom of their wise [men] shall perish, and the understanding of their prudent [men] shall be hid.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore I will again confound these people with wonder upon wonder. The wisdom
 > $\quad$ referenced by: [[1Cor.1.19|1Cor 1:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֥י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

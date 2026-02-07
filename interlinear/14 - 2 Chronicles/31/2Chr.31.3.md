@@ -1,4 +1,4 @@
-**2 Chronicles 31:3** 
+**2 Chronicles 31:3**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He appointed] also the king’s portion of his substance for the burnt offerings, [to wit], for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as [it is] written in the law of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king contributed from his own possessions for the regular morning and evenin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.2|<< 2 Chronicles 31:2]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.4|2 Chronicles 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] portion of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4521\|מְנָת֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֨לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

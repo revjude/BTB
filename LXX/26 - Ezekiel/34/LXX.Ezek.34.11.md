@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I shall seek after  my sheep, and I shall visit them. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; Behold, I, [even] I, will both search my sheep, and seek them out.
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘Behold, I Myself will search for My flock and seek them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.10|<< Ezekiel 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.12|Ezekiel 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

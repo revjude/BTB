@@ -1,4 +1,4 @@
-**Ezekiel 43:14** 
+**Ezekiel 43:14**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the bottom [upon] the ground [even] to the lower settle [shall be] two cubits, and the breadth one cubit; and from the lesser settle [even] to the greater settle [shall be] four cubits, and the breadth [one] cubit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The space from the gutter on the ground to the lower ledge shall be two cubits, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.13|<< Ezekiel 43:13]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.15|Ezekiel 43:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] gutter of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2436I\|חֵ֨יק]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> Cheik<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָ֜רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

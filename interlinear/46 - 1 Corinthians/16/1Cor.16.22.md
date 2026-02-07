@@ -1,12 +1,12 @@
-**1 Corinthians 16:22
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:22**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
 <small><sub>**BSB:**</sub></small>
 If anyone does not love the Lord, let him be under a curse. Come, O Lord!
 <small><sub>**Literal:**</sub></small>
 If anyone not loves the Lord Jesus Christ he should be accursed. Marana tha!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.21|<< 1 Corinthians 16:21]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.23|1 Corinthians 16:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

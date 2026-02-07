@@ -1,10 +1,7 @@
 **LXX Genesis 43:32** 
 <small><sub>**LXX:**</sub></small>
 And they placed \[a setting\] to him alone, and to them by themselves, and to the Egyptians  dining with them by themselves, for the Egyptians \[were\] not able to eat bread loaves with the Hebrews, for it is an abomination to the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that [is] an abomination unto the Egyptians.
-<small><sub>**BSB:**</sub></small>
-They separately served Joseph, his brothers, and the Egyptians. They ate separately because the Egyptians would not eat with the Hebrews, since that was detestable to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.31|<< Genesis 43:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.33|Genesis 43:33 >>]]</td></tr></table>
 
 | Translation | Greek |

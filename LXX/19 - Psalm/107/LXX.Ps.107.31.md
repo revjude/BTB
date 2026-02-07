@@ -1,10 +1,7 @@
 **LXX Psalm 107:31** 
 <small><sub>**LXX:**</sub></small>
 Let them make acknowledgment to the <span class="smallcaps">lord</span>  of his mercies, and  his wonders to the sons  of men! 
-<small><sub>**KJV:**</sub></small>
-Oh that [men] would praise the LORD [for] his goodness, and [for] his wonderful works to the children of men!
-<small><sub>**BSB:**</sub></small>
-Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.30|<< Psalm 107:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.32|Psalm 107:32 >>]]</td></tr></table>
 
 | Translation | Greek |

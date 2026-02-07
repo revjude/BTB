@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after two whole years of days, that they were shearing \[for\] Absalom in Baal-hazor, the one by Ephraim. And Absalom called all the sons of the king. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which [is] beside Ephraim: and Absalom invited all the king’s sons.
-<small><sub>**BSB:**</sub></small>
-Two years later, when Absalom’s sheepshearers were at Baal-hazor near Ephraim, he invited all the sons of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.22|<< 2 Samuel 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.24|2 Samuel 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

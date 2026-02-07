@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:3** 
 <small><sub>**LXX:**</sub></small>
 And David and his men came unto the city, and, behold, it was burnt with fire;  and their wives, and  their sons, and  their daughters, were taken captive. 
-<small><sub>**KJV:**</sub></small>
-So David and his men came to the city, and, behold, [it was] burned with fire; and their wives, and their sons, and their daughters, were taken captives.
-<small><sub>**BSB:**</sub></small>
-When David and his men came to the city, they found it burned down and their wives and sons and daughters taken captive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.2|<< 1 Samuel 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.4|1 Samuel 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

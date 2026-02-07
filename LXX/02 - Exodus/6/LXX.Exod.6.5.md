@@ -1,10 +1,7 @@
 **LXX Exodus 6:5** 
 <small><sub>**LXX:**</sub></small>
 And I hearkened to the moaning of the sons of Israel, in which the Egyptians reduced them to slavery. And I remembered  your covenant. 
-<small><sub>**KJV:**</sub></small>
-And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.
-<small><sub>**BSB:**</sub></small>
-Furthermore, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.4|<< Exodus 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.6|Exodus 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

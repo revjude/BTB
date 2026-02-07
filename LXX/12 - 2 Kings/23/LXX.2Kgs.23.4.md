@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge \[to\] Hilkiah the great priest, and to the priests  being second, and to the ones guarding the doorpost,  to bring out from the temple of \[the\] <span class="smallcaps">lord</span> all the items which they made \[to\] Baal, and to the sacred grove, and all the military of the heaven. And he incinerated them outside Jerusalem in \[the\] plain of Kidron, and he took  their dust into Beth-el. 
-<small><sub>**KJV:**</sub></small>
-And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.
-<small><sub>**BSB:**</sub></small>
-Then the king commanded Hilkiah the high priest, the priests second in rank, and the doorkeepers to remove from the temple of the LORD all the articles made for Baal, Asherah, and all the host of heaven. And he burned them outside Jerusalem in the fields of Kidron and carried their ashes to Bethel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.3|<< 2 Kings 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.5|2 Kings 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

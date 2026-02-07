@@ -1,4 +1,4 @@
-**Job 33:13** 
+**Job 33:13**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why dost thou strive against him? for he giveth not account of any of his matters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you complain to Him that He answers nothing a man asks?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.12|<< Job 33:12]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.14|Job 33:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַ֭דּוּעַ]]&#8207; </big>**| Ma.du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against him  |**<big>&#8207;[[H0413\|אֵלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

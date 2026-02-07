@@ -1,4 +1,4 @@
-**Proverbs 7:17** 
+**Proverbs 7:17**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have perfumed my bed with myrrh, aloes, and cinnamon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have perfumed my bed with myrrh, with aloes, and with cinnamon.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.16|<< Proverbs 7:16]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.18|Proverbs 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have sprinkled  |**<big>&#8207;[[H5130A\|נַ֥פְתִּי]]&#8207; </big>**| Naf.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bed my  |**<big>&#8207;[[H4904\|מִשְׁכָּבִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mish.ka.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

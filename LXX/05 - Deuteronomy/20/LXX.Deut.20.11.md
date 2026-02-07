@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:11** 
 <small><sub>**LXX:**</sub></small>
 And it shall be if then they should peaceably answer you, and open to you, it shall be \[that\] all the people  being found in it shall be tributaries to you, and subjects to you. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, [that] all the people [that is] found therein shall be tributaries unto thee, and they shall serve thee.
-<small><sub>**BSB:**</sub></small>
-If they accept your offer of peace and open their gates, all the people there will become forced laborers to serve you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.10|<< Deuteronomy 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.12|Deuteronomy 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

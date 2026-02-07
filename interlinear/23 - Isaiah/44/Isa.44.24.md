@@ -1,4 +1,4 @@
-**Isaiah 44:24** 
+**Isaiah 44:24**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I [am] the LORD that maketh all [things]; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus says the LORD, your Redeemer who formed you from the womb: “I am the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.23|<< Isaiah 44:23]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.25|Isaiah 44:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֤ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

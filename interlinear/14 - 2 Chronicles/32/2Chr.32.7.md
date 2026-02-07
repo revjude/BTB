@@ -1,4 +1,4 @@
-**2 Chronicles 32:7** 
+**2 Chronicles 32:7**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that [is] with him: for [there be] more with us than with him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be strong and courageous, be not afraid nor dismayed for the king of Assyria, no
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.6|<< 2 Chronicles 32:6]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.8|2 Chronicles 32:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be strong  |**<big>&#8207;[[H2388G\|חִזְק֣וּ]]&#8207; </big>**| chiz.Ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and be courageous  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0553\|אִמְצ֔וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im.Tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 11:13** 
 <small><sub>**LXX:**</sub></small>
 From what place is it to me to give meats to all  this people? for they weep upon me, saying, Give to us meats that we may eat! 
-<small><sub>**KJV:**</sub></small>
-Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
-<small><sub>**BSB:**</sub></small>
-Where can I get meat for all these people? For they keep crying out to me, ‘Give us meat to eat!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.12|<< Numbers 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.14|Numbers 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

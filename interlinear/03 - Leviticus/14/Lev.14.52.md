@@ -1,4 +1,4 @@
-**Leviticus 14:52** 
+**Leviticus 14:52**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he shall cleanse the house with the bird’s blood, the fresh water, the liv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.51|<< Leviticus 14:51]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.53|Leviticus 14:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cleanse from sin  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2398\|חִטֵּ֣א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Te'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

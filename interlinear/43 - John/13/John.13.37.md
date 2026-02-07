@@ -1,12 +1,12 @@
-**John 13:37
-**<small><sub>**KJV:**</sub></small>
+**John 13:37**<big><big>[[John.13.36 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Peter, “why can’t I follow You now? I will lay down my life for You.”
 <small><sub>**Literal:**</sub></small>
 Says to Him <the> Peter; Lord, because of why not am I able You to follow presently? The life of mine for You I will lay down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.36|<< John 13:36]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.38|John 13:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**2 Thessalonians 1:5
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:5**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Which is] a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:
 <small><sub>**BSB:**</sub></small>
 All this is clear evidence of God’s righteous judgment. And so you will be counted worthy of the kingdom of God, for which you are suffering.
 <small><sub>**Literal:**</sub></small>
 [This is] a plain token of the righteous judgment <the> of God unto <the> to be accounted worthy you of the kingdom <the> of God for which also you suffer;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.4|<< 2 Thessalonians 1:4]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.6|2 Thessalonians 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [This is] a plain token |**<big>[[G1730\|ἔνδειγμα]]</big>**  |endeigma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

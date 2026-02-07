@@ -1,10 +1,7 @@
 **LXX Genesis 33:2** 
 <small><sub>**LXX:**</sub></small>
 And he made the two maidservants and  their sons \[go\] in first, and Leah and  her children after, and Rachel and Joseph last. 
-<small><sub>**KJV:**</sub></small>
-And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
-<small><sub>**BSB:**</sub></small>
-He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph at the rear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.1|<< Genesis 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.3|Genesis 33:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 24:9** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint them for being dispersed into all the kingdoms of the earth, and they will be for scorning, and for a parable, and for hatred, and for a curse in every place where I shall push them there. 
-<small><sub>**KJV:**</sub></small>
-And I will deliver them to be removed into all the kingdoms of the earth for [their] hurt, [to be] a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.
-<small><sub>**BSB:**</sub></small>
-I will make them a horror and an offense to all the kingdoms of the earth, a disgrace and an object of scorn, ridicule, and cursing wherever I have banished them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.8|<< Jeremiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.10|Jeremiah 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 28:14** 
+**1 Chronicles 28:14**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He gave] of gold by weight for [things] of gold, for all instruments of all manner of service; [silver also] for all instruments of silver by weight, for all instruments of every kind of service:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the weight of all the gold articles for every kind of service; the weight of all
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.13|<< 1 Chronicles 28:13]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.15|1 Chronicles 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for the gold  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2091\|זָּהָ֤ב]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the weight  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4948\|מִּשְׁקָל֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mish.Kal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 31:24** (31:25)
+**Psalms 31:24**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be strong and courageous, all you who hope in the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.23|<< Psalms 31:23]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.0|Psalms 32:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be strong  |**<big>&#8207;[[H2388G\|חִ֭זְקוּ]]&#8207; </big>**| Chiz.ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so may it show strength  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0553\|יַאֲמֵ֣ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Metz<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

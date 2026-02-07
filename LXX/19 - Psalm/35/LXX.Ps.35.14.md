@@ -1,10 +1,7 @@
 **LXX Psalm 35:14** 
 <small><sub>**LXX:**</sub></small>
 As a neighbor, as to our brother, so they were well-pleasing. As mourning and looking downcast so I humbled myself. 
-<small><sub>**KJV:**</sub></small>
-I behaved myself as though [he had been] my friend [or] brother: I bowed down heavily, as one that mourneth [for his] mother.
-<small><sub>**BSB:**</sub></small>
-I paced about as for my friend or brother; I was bowed down with grief, like one mourning for his mother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.13|<< Psalm 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.15|Psalm 35:15 >>]]</td></tr></table>
 
 | Translation | Greek |

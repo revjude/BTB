@@ -1,4 +1,4 @@
-**Psalms 17:8** 
+**Psalms 17:8**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep me as the apple of the eye, hide me under the shadow of thy wings,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep me as the apple of Your eye; hide me in the shadow of Your wings
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.7|<< Psalms 17:7]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.9|Psalms 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | keep me  |**<big>&#8207;[[H8104H\|שָׁ֭מְרֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Sham.re.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] pupil of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0380\|אִישׁ֣וֹן]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'i.Shon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

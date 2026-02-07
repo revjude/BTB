@@ -1,12 +1,12 @@
-**Galatians 4:14
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:14**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, [even] as Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 And although my illness was a trial to you, you did not despise or reject me. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus Himself.
 <small><sub>**Literal:**</sub></small>
 and the test of you <the> in the flesh of mine not you did despise [me] nor reject [me] with contempt, but as an angel of God you received me even as Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.13|<< Galatians 4:13]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.15|Galatians 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

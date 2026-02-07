@@ -1,12 +1,12 @@
-**Luke 13:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:17**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
 <small><sub>**BSB:**</sub></small>
 When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing.
 <small><sub>**Literal:**</sub></small>
 And these things when is saying He were ashamed all those opposed to Him, and all the crowd was rejoicing at all the glorious things which were being done by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.16|<< Luke 13:16]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.18|Luke 13:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 1:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:10**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove.
 <small><sub>**Literal:**</sub></small>
 And immediately going up from the water he saw tearing open the heavens and the Spirit as a dove descending upon Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.9|<< Mark 1:9]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.11|Mark 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

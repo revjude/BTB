@@ -1,10 +1,7 @@
 **LXX Judges 6:17** 
 <small><sub>**LXX:**</sub></small>
 And Gideon said to him, And if I found favor in your eyes, then you shall give to me a sign that you spoke with me. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me.
-<small><sub>**BSB:**</sub></small>
-Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.16|<< Judges 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.18|Judges 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

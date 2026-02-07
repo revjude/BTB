@@ -1,5 +1,5 @@
-**Jude 1:5
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:5**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 <small><sub>**BSB:**</sub></small>
 Although you are fully aware of this, I want to remind you that after Jesus had delivered His people out of the land of Egypt, He destroyed those who did not believe.
@@ -10,7 +10,7 @@ To remind now you I want, knowing you everything, that <the> Lord once a people 
 > $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Num.14.32|Num 14:32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To remind |**<big>[[G5279\|Ὑπομνῆσαι]]</big>**  |Hupomnēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

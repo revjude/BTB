@@ -1,4 +1,4 @@
-**Jeremiah 48:43** 
+**Jeremiah 48:43**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear, and the pit, and the snare, [shall be] upon thee, O inhabitant of Moab, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Terror and pit and snare await you, O dweller of Moab,” declares the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.42|<< Jeremiah 48:42]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.44|Jeremiah 48:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | terror  |**<big>&#8207;[[H6343\|פַּ֥חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and pit  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6354\|פַ֖חַת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Fa.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

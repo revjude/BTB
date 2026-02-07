@@ -1,4 +1,4 @@
-**Ecclesiastes 2:14** 
+**Ecclesiastes 2:14**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wise man’s eyes [are] in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wise man has eyes in his head, but the fool walks in darkness. Yet I also ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.13|<< Ecclesiastes 2:13]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.15|Ecclesiastes 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the wise [person]  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2450\|חָכָם֙]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

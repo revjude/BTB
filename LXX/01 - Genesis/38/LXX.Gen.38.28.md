@@ -1,10 +1,7 @@
 **LXX Genesis 38:28** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  her bearing, the one put forth first the hand. And taking \[it\], the midwife tied upon  his hand a scarlet \[thread\], saying, This \[one\] will come forth prior. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when she travailed, that [the one] put out [his] hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.
-<small><sub>**BSB:**</sub></small>
-And as she was giving birth, one of them put out his hand; so the midwife took a scarlet thread and tied it around his wrist. “This one came out first,” she announced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.27|<< Genesis 38:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.29|Genesis 38:29 >>]]</td></tr></table>
 
 | Translation | Greek |

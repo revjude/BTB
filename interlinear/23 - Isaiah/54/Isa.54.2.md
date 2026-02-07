@@ -1,4 +1,4 @@
-**Isaiah 54:2** 
+**Isaiah 54:2**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Enlarge the place of thy tent, and let them stretch forth the curtains of thine 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.1|<< Isaiah 54:1]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.3|Isaiah 54:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | enlarge  |**<big>&#8207;[[H7337\|הַרְחִ֣יבִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| har.Chi.vi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] place of  |**<big>&#8207;[[H4725\|מְק֣וֹם]]&#8207; </big>**| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

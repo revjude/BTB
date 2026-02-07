@@ -1,12 +1,12 @@
-**James 1:13
-**<small><sub>**KJV:**</sub></small>
+**James 1:13**<big><big>[[Jas.1.13 Good and Perfect Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
 <small><sub>**BSB:**</sub></small>
 When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does He tempt anyone.
 <small><sub>**Literal:**</sub></small>
 No one being tempted should say that By <the> God I am being tempted; <the> For God unable to be tempted is by evils, tempts now He Himself no [one];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.12|<< James 1:12]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.14|James 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No one |**<big>[[G3367\|Μηδεὶς]]</big>**  |Mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being tempted |**<big>[[G3985G\|πειραζόμενος]]</big>**  |peirazomenos <small><sup>[[V-PPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

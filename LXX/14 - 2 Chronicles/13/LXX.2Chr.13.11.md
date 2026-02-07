@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:11** 
 <small><sub>**LXX:**</sub></small>
 And they burn \[to\] \[the\] <span class="smallcaps">lord</span> whole burnt-offerings morning \[by\] morning, and  evening to evening, and \[they have the\] incense composition, and place settings of bread \[loaves\] upon the pure table, and the gold lamp-stand, and  its lamps  to light  evening \[by\] evening. For we guard the watch of \[the\] <span class="smallcaps">lord</span>, the God  of our fathers; but you abandoned him. 
-<small><sub>**KJV:**</sub></small>
-And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also [set they in order] upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him.
-<small><sub>**BSB:**</sub></small>
-Every morning and every evening they present burnt offerings and fragrant incense to the LORD. They set out the rows of showbread on the ceremonially clean table, and every evening they light the lamps of the gold lampstand. We are carrying out the requirements of the LORD our God, while you have forsaken Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.10|<< 2 Chronicles 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.12|2 Chronicles 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

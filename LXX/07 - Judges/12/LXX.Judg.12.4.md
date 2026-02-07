@@ -1,10 +1,7 @@
 **LXX Judges 12:4** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah gathered together all the men of Gilead, and waged war \[against\] Ephraim. And \[the\] men of Gilead struck  Ephraim; for the men coming through safe of Ephraim said, You \[are\] Gilead in \[the\] midst  of Ephraim, and in \[the\] midst  of Manasseh. 
-<small><sub>**KJV:**</sub></small>
-Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites [are] fugitives of Ephraim among the Ephraimites, [and] among the Manassites.
-<small><sub>**BSB:**</sub></small>
-Jephthah then gathered all the men of Gilead and fought against Ephraim. And the men of Gilead struck them down because the Ephraimites had said, “You Gileadites are fugitives in Ephraim, living in the territories of Ephraim and Manasseh.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.3|<< Judges 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.5|Judges 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

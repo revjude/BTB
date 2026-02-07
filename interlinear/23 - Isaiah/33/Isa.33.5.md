@@ -1,4 +1,4 @@
-**Isaiah 33:5** 
+**Isaiah 33:5**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is exalted, for He dwells on high; He has filled Zion with justice and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] exalted  |**<big>&#8207;[[H7682\|נִשְׂגָּ֣ב]]&#8207; </big>**| nis.Gav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

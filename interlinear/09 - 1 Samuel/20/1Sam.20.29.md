@@ -1,4 +1,4 @@
-**1 Samuel 20:29** 
+**1 Samuel 20:29**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me [to be there]: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying, ‘Please let me go, because our clan is holding a sacrifice in the city
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.28|<< 1 Samuel 20:28]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.30|1 Samuel 20:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֡אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let go me  |**<big>&#8207;[[H7971H\|שַׁלְּחֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.le.Che.<small><sup>[[HVpv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

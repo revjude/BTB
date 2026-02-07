@@ -1,10 +1,7 @@
 **LXX Joshua 16:8** 
 <small><sub>**LXX:**</sub></small>
 And from Tappuah the borders will go  west unto \[the\] rushing stream Kanah; and its outer reaches will be at \[the\] sea. This \[is\] the inheritance of \[the\] tribe of \[the\] sons of Ephraim according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This [is] the inheritance of the tribe of the children of Ephraim by their families.
-<small><sub>**BSB:**</sub></small>
-From Tappuah the border went westward to the Brook of Kanah and ended at the Sea. This was the inheritance of the clans of the tribe of Ephraim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

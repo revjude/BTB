@@ -1,4 +1,4 @@
-**2 Kings 10:10** 
+**2 Kings 10:10**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done [that] which he spake by his servant Elijah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know, then, that not a word the LORD has spoken against the house of Ahab will f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.9|<< 2 Kings 10:9]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.11|2 Kings 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | know  |**<big>&#8207;[[H3045\|דְּע֣וּ]]&#8207; </big>**| de.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0645\|אֵפ֗וֹא]]&#8207; </big>**| 'e.Fo'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

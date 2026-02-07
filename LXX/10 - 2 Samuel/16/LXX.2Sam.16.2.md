@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:2** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Ziba, What \[are\] these to you? And Ziba said, The donkeys for the household of the king  to mount, and the bread loaves, and the dried \[fruit\] clusters, and dried grapes for food to the servants, and the wine to drink to the one faint in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses [be] for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink.
-<small><sub>**BSB:**</sub></small>
-“Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.1|<< 2 Samuel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.3|2 Samuel 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

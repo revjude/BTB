@@ -1,12 +1,12 @@
-**John 15:9
-**<small><sub>**KJV:**</sub></small>
+**John 15:9**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As the Father hath loved me, so have I loved you: continue ye in my love.
 <small><sub>**BSB:**</sub></small>
 As the Father has loved Me, so have I loved you. Remain in My love.
 <small><sub>**Literal:**</sub></small>
 even as has loved Me the Father, I myself also you loved;  do abide in the love <the> of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.8|<< John 15:8]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.10|John 15:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has loved |**<big>[[G0025\|ἠγάπησέν]]</big>**  |ēgapēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

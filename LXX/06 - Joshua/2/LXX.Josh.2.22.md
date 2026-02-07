@@ -1,10 +1,7 @@
 **LXX Joshua 2:22** 
 <small><sub>**LXX:**</sub></small>
 And they went, and they came unto the mountainous area, and they stayed there three days, until the ones following returned. And the ones pursuing sought after them in all the ways, and did not find. 
-<small><sub>**KJV:**</sub></small>
-And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought [them] throughout all the way, but found [them] not.
-<small><sub>**BSB:**</sub></small>
-So the spies went out into the hill country and stayed there three days, until their pursuers had returned without finding them, having searched all along the road.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.21|<< Joshua 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.23|Joshua 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

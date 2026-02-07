@@ -1,12 +1,12 @@
-**Matthew 26:55
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:55**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus said to the crowd, “Have you come out with swords and clubs to arrest Me as you would an outlaw? Every day I sat teaching in the temple courts, and you did not arrest Me.
 <small><sub>**Literal:**</sub></small>
 In that [very] <the> hour said <the> Jesus to the crowds; As against a robber did you come out with swords and clubs to capture Me? Every day to you in the temple I was sitting teaching and not you did seize Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.54|<< Matthew 26:54]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.56|Matthew 26:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

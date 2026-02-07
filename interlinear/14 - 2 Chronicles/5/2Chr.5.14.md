@@ -1,4 +1,4 @@
-**2 Chronicles 5:14** 
+**2 Chronicles 5:14**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that the priests could not stand there to minister because of the cloud. For 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.13|<< 2 Chronicles 5:13]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.1|2 Chronicles 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were able  |**<big>&#8207;[[H3201\|יָֽכְל֧וּ]]&#8207; </big>**| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

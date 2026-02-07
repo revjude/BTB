@@ -1,12 +1,12 @@
-**1 Corinthians 4:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:19**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
 <small><sub>**BSB:**</sub></small>
 But I will come to you shortly, if the Lord is willing, and then I will find out not only what these arrogant people are saying, but what power they have.
 <small><sub>**Literal:**</sub></small>
 I will come however soon to you, if the Lord wishes, and I will find out not the talk of those puffed up but the power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.18|<< 1 Corinthians 4:18]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.20|1 Corinthians 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will come |**<big>[[G2064\|ἐλεύσομαι]]</big>**  |eleusomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

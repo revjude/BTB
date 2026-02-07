@@ -1,10 +1,7 @@
 **LXX Joel 2:23** 
 <small><sub>**LXX:**</sub></small>
 And O children of Zion, rejoice and be glad in \[the\] <span class="smallcaps">lord</span> your God! for he gave to you the foods for righteousness, and he shall rain to you early rain and late, as before. 
-<small><sub>**KJV:**</sub></small>
-Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first [month].
-<small><sub>**BSB:**</sub></small>
-Be glad, O children of Zion, and rejoice in the LORD your God, for He has given you the autumn rains for your vindication. He sends you showers, both autumn and spring rains, as before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.22|<< Joel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.24|Joel 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

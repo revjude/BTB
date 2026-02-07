@@ -1,10 +1,7 @@
 **LXX Leviticus 6:30** 
 <small><sub>**LXX:**</sub></small>
 And all the \[meats\] concerning the sin \[offering\], what ever might be carried in of  their blood into the tent of the testimony to atone in the holy \[place\], shall not be eaten; it shall be incinerated in fire. 
-<small><sub>**KJV:**</sub></small>
-And no sin offering, whereof [any] of the blood is brought into the tabernacle of the congregation to reconcile [withal] in the holy [place], shall be eaten: it shall be burnt in the fire.
-<small><sub>**BSB:**</sub></small>
-But no sin offering may be eaten if its blood has been brought into the Tent of Meeting to make atonement in the Holy Place; it must be burned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.29|<< Leviticus 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.1|Leviticus 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

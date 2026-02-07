@@ -1,10 +1,7 @@
 **LXX Psalm 58:4** 
 <small><sub>**LXX:**</sub></small>
 Rage to them \[is\] according to the likeness of the serpent; as a mute asp even plugging  her ears, 
-<small><sub>**KJV:**</sub></small>
-Their poison [is] like the poison of a serpent: [they are] like the deaf adder [that] stoppeth her ear;
-<small><sub>**BSB:**</sub></small>
-Their venom is like the venom of a snake, like a cobra that shuts its ears,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.3|<< Psalm 58:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.5|Psalm 58:5 >>]]</td></tr></table>
 
 | Translation | Greek |

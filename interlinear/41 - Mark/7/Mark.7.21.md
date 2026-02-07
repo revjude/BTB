@@ -1,12 +1,12 @@
-**Mark 7:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:21**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 <small><sub>**BSB:**</sub></small>
 For from within the hearts of men come evil thoughts, sexual immorality, theft, murder, adultery,
 <small><sub>**Literal:**</sub></small>
 Within for from the heart <the> of men <the> thoughts <the> evil go forth sexual immorality thefts murders,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.20|<< Mark 7:20]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.22|Mark 7:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Within |**<big>[[G2081\|ἔσωθεν]]</big>**  |esōthen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

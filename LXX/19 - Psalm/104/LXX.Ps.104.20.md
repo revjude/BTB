@@ -1,10 +1,7 @@
 **LXX Psalm 104:20** 
 <small><sub>**LXX:**</sub></small>
 You made darkness, and night happened; all the wild beasts of the forest go in it. 
-<small><sub>**KJV:**</sub></small>
-Thou makest darkness, and it is night: wherein all the beasts of the forest do creep [forth].
-<small><sub>**BSB:**</sub></small>
-You bring darkness, and it becomes night, when all the beasts of the forest prowl.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.19|<< Psalm 104:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.21|Psalm 104:21 >>]]</td></tr></table>
 
 | Translation | Greek |

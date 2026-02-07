@@ -1,10 +1,7 @@
 **LXX Isaiah 11:3** 
 <small><sub>**LXX:**</sub></small>
 a spirit of \[the\] fear of God shall fill him up. judge not according to the glory \[of man\], nor shall he reprove according to the speech. 
-<small><sub>**KJV:**</sub></small>
-And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
-<small><sub>**BSB:**</sub></small>
-And He will delight in the fear of the LORD. He will not judge by what His eyes see, and He will not decide by what His ears hear,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.2|<< Isaiah 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.4|Isaiah 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 2:14** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said to her, Already \[it is the\] hour  to eat; draw near here! for you shall eat  of my bread \[loaves\], and dip  your morsel in the vinegar. And Ruth sat by \[the\] side of the ones harvesting, and Boaz heaped up to her toasted grain, and she ate, and was filled, and left. 
-<small><sub>**KJV:**</sub></small>
-And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched [corn], and she did eat, and was sufficed, and left.
-<small><sub>**BSB:**</sub></small>
-At mealtime Boaz said to her, “Come over here; have some bread and dip it into the vinegar sauce.” So she sat down beside the harvesters, and he offered her roasted grain, and she ate and was satisfied and had some left over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.13|<< Ruth 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.15|Ruth 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

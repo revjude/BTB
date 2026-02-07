@@ -1,4 +1,4 @@
-**Isaiah 55:12** 
+**Isaiah 55:12**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap [their] hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will indeed go out with joy and be led forth in peace; the mountains and hil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.11|<< Isaiah 55:11]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.13|Isaiah 55:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in joy  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8057\|שִׂמְחָ֣ה]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 8:39** 
+**1 Kings 8:39**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, [even] thou only, knowest the hearts of all the children of men;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ be heard by You from heaven, Your dwelling place. And may You forgive and act, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.38|<< 1 Kings 8:38]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.40|1 Kings 8:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0859A\|אַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will hear  |**<big>&#8207;[[H8085G\|תִּשְׁמַ֨ע]]&#8207; </big>**| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

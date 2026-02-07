@@ -1,4 +1,4 @@
-**Proverbs 28:27** 
+**Proverbs 28:27**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever gives to the poor will not be in need, but he who hides his eyes will re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.26|<< Proverbs 28:26]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.28|Proverbs 28:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] gives  |**<big>&#8207;[[H5414G\|נוֹתֵ֣ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the poor  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H7326\|רָשׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> rosh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

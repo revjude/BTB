@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:5** 
 <small><sub>**LXX:**</sub></small>
 I will go to the stout \[men\] and speak to them, for they recognized \[the\] way of \[the\] <span class="smallcaps">lord</span>, and \[the\] equity of God. And behold, with one accord they broke \[the\] yoke, they tore up \[the\] bonds. 
-<small><sub>**KJV:**</sub></small>
-I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, [and] the judgment of their God: but these have altogether broken the yoke, [and] burst the bonds.
-<small><sub>**BSB:**</sub></small>
-I will go to the powerful and speak to them. Surely they know the way of the LORD, the justice of their God.” But they too, with one accord, had broken the yoke and torn off the chains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.4|<< Jeremiah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.6|Jeremiah 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

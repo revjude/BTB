@@ -1,10 +1,7 @@
 **LXX Isaiah 17:10** 
 <small><sub>**LXX:**</sub></small>
 Because you forsook the God  your deliverer, even your God you remembered not. On account of this you shall plant an untrustworthy plant, and an untrustworthy seed. 
-<small><sub>**KJV:**</sub></small>
-Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:
-<small><sub>**BSB:**</sub></small>
-For you have forgotten the God of your salvation and failed to remember the Rock of your refuge. Therefore, though you cultivate delightful plots and set out cuttings from exotic vines—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.9|<< Isaiah 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.11|Isaiah 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 19:18** 
+**Job 19:18**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, young children despised me; I arose, and they spake against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even little boys scorn me; when I appear, they deride me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.17|<< Job 19:17]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.19|Job 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young boys  |**<big>&#8207;[[H5759\|עֲ֭וִילִים]]&#8207; </big>**| 'A.vi.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

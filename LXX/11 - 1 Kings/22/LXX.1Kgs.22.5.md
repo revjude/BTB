@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:5** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat said, As you, thus also I. As  your people, thus also my people. As  your horses, \[so also\] my horses. And Jehoshaphat king of Judah said to \[the\] king of Israel, Ask indeed today of the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the LORD to day.
-<small><sub>**BSB:**</sub></small>
-But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.4|<< 1 Kings 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.6|1 Kings 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ruth 4:19** 
+**Ruth 4:19**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezron begat Ram, and Ram begat Amminadab,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hezron was the father of Ram, Ram was the father of Amminadab,
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Hezron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2696H\|חֶצְרוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chetz.rOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

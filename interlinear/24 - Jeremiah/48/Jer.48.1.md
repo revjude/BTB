@@ -1,4 +1,4 @@
-**Jeremiah 48:1** 
+**Jeremiah 48:1**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded [and] taken: Misgab is confounded and dismayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning Moab, this is what the LORD of Hosts, the God of Israel, says: “Woe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.7|<< Jeremiah 47:7]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.2|Jeremiah 48:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of Moab  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4124G\|מוֹאָ֡ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 5:15** 
+**Ezekiel 5:15**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that [are] round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you will be a reproach and a taunt, a warning and a horror to the nations aro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.14|<< Ezekiel 5:14]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.16|Ezekiel 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָ֨יְתָ֜ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a reproach  |**<big>&#8207;[[H2781\|חֶרְפָּ֤ה]]&#8207; </big>**| cher.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

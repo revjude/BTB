@@ -1,4 +1,4 @@
-**Proverbs 10:18** 
+**Proverbs 10:18**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hideth hatred [with] lying lips, and he that uttereth a slander, [is] a fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one who conceals hatred has lying lips, and whoever spreads slander is a foo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.17|<< Proverbs 10:17]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.19|Proverbs 10:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] conceals  |**<big>&#8207;[[H3680\|מְכַסֶּ֣ה]]&#8207; </big>**| me.kha.Seh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hatred  |**<big>&#8207;[[H8135\|שִׂ֭נְאָה]]&#8207; </big>**| Sin.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

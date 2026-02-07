@@ -1,10 +1,7 @@
 **LXX Genesis 39:16** 
 <small><sub>**LXX:**</sub></small>
 And she left the clothes by herself, until the master came into  his house. 
-<small><sub>**KJV:**</sub></small>
-And she laid up his garment by her, until his lord came home.
-<small><sub>**BSB:**</sub></small>
-So Potiphar’s wife kept Joseph’s cloak beside her until his master came home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.15|<< Genesis 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.17|Genesis 39:17 >>]]</td></tr></table>
 
 | Translation | Greek |

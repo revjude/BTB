@@ -1,4 +1,4 @@
-**Ezekiel 38:6** 
+**Ezekiel 38:6**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: [and] many people with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as Gomer with all its troops, and Beth-togarmah from the far north with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.5|<< Ezekiel 38:5]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.7|Ezekiel 38:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Gomer  |**<big>&#8207;[[H1586G\|גֹּ֚מֶר]]&#8207; </big>**| Go.mer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

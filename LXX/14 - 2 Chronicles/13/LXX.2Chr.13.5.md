@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:5** 
 <small><sub>**LXX:**</sub></small>
 \[Is it\] not to you to know that \[the\] <span class="smallcaps">lord</span>  God of Israel appointed \[the\] kingdom \[to\] David over Israel into the eon, and \[to\] his sons for a covenant of salt? 
-<small><sub>**KJV:**</sub></small>
-Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, [even] to him and to his sons by a covenant of salt?
-<small><sub>**BSB:**</sub></small>
-Do you not know that the LORD, the God of Israel, has given the kingship of Israel to David and his descendants forever by a covenant of salt?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.4|<< 2 Chronicles 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.6|2 Chronicles 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

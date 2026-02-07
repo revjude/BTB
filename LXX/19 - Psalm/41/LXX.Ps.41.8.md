@@ -1,10 +1,7 @@
 **LXX Psalm 41:8** 
 <small><sub>**LXX:**</sub></small>
 They laid down against me an illegal matter, \[saying\], Shall the one going to bed not proceed  to rise up? 
-<small><sub>**KJV:**</sub></small>
-An evil disease, [say they], cleaveth fast unto him: and [now] that he lieth he shall rise up no more.
-<small><sub>**BSB:**</sub></small>
-“A vile disease has been poured into him; he will never get up from where he lies!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.7|<< Psalm 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.9|Psalm 41:9 >>]]</td></tr></table>
 
 | Translation | Greek |

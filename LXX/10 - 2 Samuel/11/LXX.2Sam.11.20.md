@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:20** 
 <small><sub>**LXX:**</sub></small>
 that it shall be if the rage of the king ascends, and he should say to you, Why \[is it\] that you approached to the city to wage war? Did you not know that they would shoot from on top the wall? 
-<small><sub>**KJV:**</sub></small>
-And if so be that the king’s wrath arise, and he say unto thee, Wherefore approached ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?
-<small><sub>**BSB:**</sub></small>
-if the king’s anger flares, he may ask you, ‘Why did you get so close to the city to fight? Did you not realize they would shoot from atop the wall?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.19|<< 2 Samuel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.21|2 Samuel 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

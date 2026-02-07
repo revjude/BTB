@@ -1,10 +1,7 @@
 **LXX Exodus 34:13** 
 <small><sub>**LXX:**</sub></small>
  Their shrines you shall demolish, and  their monuments you shall break, and  their sacred groves you shall cut down, and the carvings  of their gods you shall incinerate in fire. 
-<small><sub>**KJV:**</sub></small>
-But ye shall destroy their altars, break their images, and cut down their groves:
-<small><sub>**BSB:**</sub></small>
-Rather, you must tear down their altars, smash their sacred stones, and chop down their Asherah poles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.12|<< Exodus 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.14|Exodus 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

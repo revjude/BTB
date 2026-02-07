@@ -1,10 +1,7 @@
 **LXX Psalm 10:18** 
 <small><sub>**LXX:**</sub></small>
 to judge orphans, and \[the\] humble; that man should not proceed still to brag upon the earth. 
-<small><sub>**KJV:**</sub></small>
-To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
-<small><sub>**BSB:**</sub></small>
-to vindicate the fatherless and oppressed, that the men of the earth may strike terror no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.17|<< Psalm 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.1|Psalm 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 139:12** 
+**Psalms 139:12**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light [are] both alike [to thee].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ even the darkness is not dark to You, but the night shines like the day, for dar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.11|<< Psalms 139:11]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.13|Psalms 139:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹשֶׁךְ֮]]&#8207; </big>**| cho.sheKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

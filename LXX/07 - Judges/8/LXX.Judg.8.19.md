@@ -1,10 +1,7 @@
 **LXX Judges 8:19** 
 <small><sub>**LXX:**</sub></small>
 And Gideon said, They are sons of my brothers of my mother. As \[the\] <span class="smallcaps">lord</span> lives, if you brought them forth alive, I would not have killed you. 
-<small><sub>**KJV:**</sub></small>
-And he said, They [were] my brethren, [even] the sons of my mother: [as] the LORD liveth, if ye had saved them alive, I would not slay you.
-<small><sub>**BSB:**</sub></small>
-“They were my brothers,” Gideon replied, “the sons of my mother! As surely as the LORD lives, if you had let them live, I would not kill you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.18|<< Judges 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.20|Judges 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

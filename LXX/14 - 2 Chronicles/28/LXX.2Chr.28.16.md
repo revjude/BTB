@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:16** 
 <small><sub>**LXX:**</sub></small>
 In  that time king Ahaz sent to the king of Assyria  to give help to him. 
-<small><sub>**KJV:**</sub></small>
-At that time did king Ahaz send unto the kings of Assyria to help him.
-<small><sub>**BSB:**</sub></small>
-At that time King Ahaz sent for help from the king of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.15|<< 2 Chronicles 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.17|2 Chronicles 28:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 21:10** 
 <small><sub>**LXX:**</sub></small>
 that she said  to Abraham, You cast out  this maidservant and  her son,  for the son of the maidservant shall not be heir with  my son Isaac. 
-<small><sub>**KJV:**</sub></small>
-Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, [even] with Isaac.
-<small><sub>**BSB:**</sub></small>
-and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.9|<< Genesis 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.11|Genesis 21:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 21:10** is...

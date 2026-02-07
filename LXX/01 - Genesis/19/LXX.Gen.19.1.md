@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the two angels came into Sodom \[at\] evening. And Lot settled by the city of Sodom. And seeing, Lot rose up to meet them, and did obeisance \[with\] \[his\] face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing [them] rose up to meet them; and he bowed himself with his face toward the ground;
-<small><sub>**BSB:**</sub></small>
-Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.33|<< Genesis 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.2|Genesis 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

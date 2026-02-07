@@ -1,4 +1,4 @@
-**Daniel 11:16** 
+**Daniel 11:16**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The invader will do as he pleases, and no one will stand against him. He will es
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.15|<< Daniel 11:15]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.17|Daniel 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will do  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213A\|יַ֨עַשׂ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ya.'as<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] comes  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935G\|בָּ֤א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

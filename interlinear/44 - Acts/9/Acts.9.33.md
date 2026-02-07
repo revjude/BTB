@@ -1,12 +1,12 @@
-**Acts 9:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:33**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there he found a certain man named AEneas, which had kept his bed eight years, and was sick of the palsy.
 <small><sub>**BSB:**</sub></small>
 There he found a man named Aeneas who had been paralyzed and bedridden for eight years.
 <small><sub>**Literal:**</sub></small>
 He found then there a man certain named Aeneas for years eight lying on a bed who was paralyzed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.32|<< Acts 9:32]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.34|Acts 9:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He found |**<big>[[G2147\|εὗρεν]]</big>**  |heuren <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Nahum 3:3** 
+**Nahum 3:3**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The horseman lifteth up both the bright sword and the glittering spear: and [there is] a multitude of slain, and a great number of carcases; and [there is] none end of [their] corpses; they stumble upon their corpses:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a horseman  |**<big>&#8207;[[H6571B\|פָּרָ֣שׁ]]&#8207; </big>**| pa.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bringing up  |**<big>&#8207;[[H5927G\|מַעֲלֶ֗ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

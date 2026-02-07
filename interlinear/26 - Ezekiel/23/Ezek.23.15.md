@@ -1,4 +1,4 @@
-**Ezekiel 23:15** 
+**Ezekiel 23:15**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ wearing belts on their waists and flowing turbans on their heads; all of them lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.14|<< Ezekiel 23:14]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.16|Ezekiel 23:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | girded of  |**<big>&#8207;[[H2289\|חֲגוֹרֵ֨י]]&#8207; </big>**| cha.go.Rei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a waistband  |**<big>&#8207;[[H0232\|אֵז֜וֹר]]&#8207; </big>**| 'e.Zor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

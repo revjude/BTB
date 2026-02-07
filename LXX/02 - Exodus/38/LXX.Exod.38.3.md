@@ -1,10 +1,7 @@
 **LXX Exodus 38:3** 
 <small><sub>**LXX:**</sub></small>
 And he made a rim on the altar, and the lid for it, and the bowls for it, and the meat hooks for it, and the censer for it; and all the utensils for it he made of brass. 
-<small><sub>**KJV:**</sub></small>
-And he made all the vessels of the altar, the pots, and the shovels, and the basons, [and] the fleshhooks, and the firepans: all the vessels thereof made he [of] brass.
-<small><sub>**BSB:**</sub></small>
-He made all the altar’s utensils of bronze—its pots, shovels, sprinkling bowls, meat forks, and firepans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.2|<< Exodus 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.4|Exodus 38:4 >>]]</td></tr></table>
 
 | Translation | Greek |

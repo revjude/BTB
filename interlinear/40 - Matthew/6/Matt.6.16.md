@@ -1,12 +1,12 @@
-**Matthew 6:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:16**<big><big>[[Matt.6.16 Proper Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
 <small><sub>**BSB:**</sub></small>
 When you fast, do not be somber like the hypocrites, for they disfigure their faces to show men they are fasting. Truly I tell you, they already have their full reward.
 <small><sub>**Literal:**</sub></small>
 Whenever now you may fast, not do be like the hypocrites gloomy; they disfigure for the appearance of them so that they may appear <the> to men [as] fasting. Amen I say to you that: they have the reward of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.15|<< Matthew 6:15]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.17|Matthew 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whenever |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

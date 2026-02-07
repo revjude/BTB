@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the seventh year Jehoiada the priest sent and took the commanders of hundreds of the patrols, and of the couriers, and brought them in to himself in \[the\] house of \[the\] <span class="smallcaps">lord</span>. And he ordained with them a covenant, and he bound them to an oath in the presence of \[the\] <span class="smallcaps">lord</span>. And he showed to them the son of the king. 
-<small><sub>**KJV:**</sub></small>
-And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.
-<small><sub>**BSB:**</sub></small>
-Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.3|<< 2 Kings 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.5|2 Kings 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

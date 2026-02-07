@@ -1,10 +1,7 @@
 **LXX Proverbs 19:27** 
 <small><sub>**LXX:**</sub></small>
 A son ceasing to guard \[the\] instruction of a father shall meditate upon evil sayings. 
-<small><sub>**KJV:**</sub></small>
-Cease, my son, to hear the instruction [that causeth] to err from the words of knowledge.
-<small><sub>**BSB:**</sub></small>
-If you cease to hear instruction, my son, you will stray from the words of knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.26|<< Proverbs 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.28|Proverbs 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

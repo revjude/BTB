@@ -1,10 +1,7 @@
 **LXX Genesis 24:36** 
 <small><sub>**LXX:**</sub></small>
 And Sarah the wife of my master bore a son, one to my master after  his growing old. And he gave to him as much as was his. 
-<small><sub>**KJV:**</sub></small>
-And Sarah my master’s wife bare a son to my master when she was old: and unto him hath he given all that he hath.
-<small><sub>**BSB:**</sub></small>
-My master’s wife Sarah has borne him a son in her old age, and my master has given him everything he owns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.35|<< Genesis 24:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.37|Genesis 24:37 >>]]</td></tr></table>
 
 | Translation | Greek |

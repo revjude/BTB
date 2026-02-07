@@ -1,10 +1,7 @@
 **LXX Joshua 8:8** 
 <small><sub>**LXX:**</sub></small>
 And it will be when ever you should seize the city, burn it by fire! According to  this matter you shall act. Behold, I have given charge to you. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when ye have taken the city, [that] ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you.
-<small><sub>**BSB:**</sub></small>
-And when you have taken the city, set it on fire. Do as the LORD has commanded! See, I have given you orders.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.7|<< Joshua 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.9|Joshua 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

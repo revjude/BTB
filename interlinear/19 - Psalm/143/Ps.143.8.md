@@ -1,4 +1,4 @@
-**Psalms 143:8** 
+**Psalms 143:8**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let me hear Your loving devotion in the morning, for I have put my trust in You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.7|<< Psalms 143:7]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.9|Psalms 143:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make hear me  |**<big>&#8207;[[H8085G\|הַשְׁמִ֘יעֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| hash.Mi.'E.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1242\|בֹּ֨קֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

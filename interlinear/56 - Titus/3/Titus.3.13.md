@@ -1,12 +1,12 @@
-**Titus 3:13
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:13**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.
 <small><sub>**BSB:**</sub></small>
 Do your best to equip Zenas the lawyer and Apollos, so that they will have everything they need.
 <small><sub>**Literal:**</sub></small>
 Zenas the lawyer and Apollos earnestly do equip, so that nothing to them may be lacking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.12|<< Titus 3:12]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.14|Titus 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Zenas |**<big>[[G2211\|Ζηνᾶν]]</big>**  |Zēnan <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

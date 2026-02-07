@@ -1,4 +1,4 @@
-**Numbers 27:23** 
+**Numbers 27:23**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and laid his hands on him and commissioned him, as the LORD had instructed throu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.22|<< Numbers 27:22]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.1|Numbers 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he laid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5564\|יִּסְמֹ֧ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Mokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

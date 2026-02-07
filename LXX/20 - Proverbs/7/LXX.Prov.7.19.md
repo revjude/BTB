@@ -1,10 +1,7 @@
 **LXX Proverbs 7:19** 
 <small><sub>**LXX:**</sub></small>
 For my husband \[is\] not at hand in \[the\] house; he has gone a long way, 
-<small><sub>**KJV:**</sub></small>
-For the goodman [is] not at home, he is gone a long journey:
-<small><sub>**BSB:**</sub></small>
-For my husband is not at home; he has gone on a long journey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.18|<< Proverbs 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.20|Proverbs 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

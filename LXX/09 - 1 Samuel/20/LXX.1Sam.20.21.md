@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:21** 
 <small><sub>**LXX:**</sub></small>
 And behold, I shall send the servant-lad, saying, Come find to me the dart! If I should say to the servant-lad, Here \[is\] the dart away from you here, take it! \[then\] you come, for peace \[shall be\] to you, and there is no \[bad\] communication; as lives \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And, behold, I will send a lad, [saying], Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows [are] on this side of thee, take them; then come thou: for [there is] peace to thee, and no hurt; [as] the LORD liveth.
-<small><sub>**BSB:**</sub></small>
-Then I will send a boy and say, ‘Go, find the arrows!’ Now, if I expressly say to him, ‘Look, the arrows are on this side of you; bring them,’ then come, because as surely as the LORD lives, it is safe for you, and there is no danger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.20|<< 1 Samuel 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.22|1 Samuel 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

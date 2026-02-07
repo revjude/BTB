@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:9** 
 <small><sub>**LXX:**</sub></small>
 And he assembled  Judah and Benjamin, and the foreigners  sojourning with him from out of Ephraim, and from out of Manasseh, and from out of Simeon; for many from Israel were added to him in  their seeing that \[the\] <span class="smallcaps">lord</span>  God himself \[was\] with him. 
-<small><sub>**KJV:**</sub></small>
-And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God [was] with him.
-<small><sub>**BSB:**</sub></small>
-And he assembled all Judah and Benjamin, along with those from the tribes of Ephraim, Manasseh, and Simeon who had settled among them, for great numbers had come over to him from Israel when they saw that the LORD his God was with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.8|<< 2 Chronicles 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.10|2 Chronicles 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

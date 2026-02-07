@@ -1,4 +1,4 @@
-**Jeremiah 10:24** 
+**Jeremiah 10:24**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Correct me, O LORD, but only with justice—not in Your anger, or You will bring
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.23|<< Jeremiah 10:23]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.25|Jeremiah 10:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | correct me  |**<big>&#8207;[[H3256\|יַסְּרֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ya.se.Re.<small><sup>[[HVpv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

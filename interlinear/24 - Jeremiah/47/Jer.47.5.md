@@ -1,4 +1,4 @@
-**Jeremiah 47:5** 
+**Jeremiah 47:5**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Baldness is come upon Gaza; Ashkelon is cut off [with] the remnant of their valley: how long wilt thou cut thyself?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people of Gaza will shave their heads in mourning; Ashkelon will be silenced
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.4|<< Jeremiah 47:4]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.6|Jeremiah 47:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will come  |**<big>&#8207;[[H0935G\|בָּ֤אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | baldness  |**<big>&#8207;[[H7144\|קָרְחָה֙]]&#8207; </big>**| ka.re.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:47** 
 <small><sub>**LXX:**</sub></small>
 And Saul obtained by lot  to reign over Israel. And he waged war round about \[with\] all  his enemies -- against  Moab, and against the sons of Ammon, and against the sons of Edom, and against the kings of Zobah, and against the Philistines. Wherever he turned, he was delivered. 
-<small><sub>**KJV:**</sub></small>
-So Saul took the kingdom over Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed [them].
-<small><sub>**BSB:**</sub></small>
-After Saul had assumed the kingship over Israel, he fought against all his enemies on every side—the Moabites, the Ammonites, the Edomites, the kings of Zobah, and the Philistines. Wherever he turned, he routed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.46|<< 1 Samuel 14:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.48|1 Samuel 14:48 >>]]</td></tr></table>
 
 | Translation | Greek |

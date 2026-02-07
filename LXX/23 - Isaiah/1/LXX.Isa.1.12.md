@@ -1,10 +1,7 @@
 **LXX Isaiah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And neither should you come to appear to me; for who required these from out of  your hands? You shall not proceed to tread my courtyard. 
-<small><sub>**KJV:**</sub></small>
-When ye come to appear before me, who hath required this at your hand, to tread my courts?
-<small><sub>**BSB:**</sub></small>
-When you come to appear before Me, who has required this of you—this trampling of My courts?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.11|<< Isaiah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.13|Isaiah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

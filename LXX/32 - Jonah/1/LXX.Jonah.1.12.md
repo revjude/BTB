@@ -1,10 +1,7 @@
 **LXX Jonah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And Jonah said to them, Lift me, and cast \[me\] into the sea, and the sea shall abate from you! Because I know, that on account of me  this great swell is upon you. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest [is] upon you.
-<small><sub>**BSB:**</sub></small>
-“Pick me up,” he answered, “and cast me into the sea, so it may quiet down for you. For I know that I am to blame for this violent storm that has come upon you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.11|<< Jonah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.13|Jonah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

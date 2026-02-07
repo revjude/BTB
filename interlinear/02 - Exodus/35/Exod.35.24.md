@@ -1,4 +1,4 @@
-**Exodus 35:24** 
+**Exodus 35:24**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that did offer an offering of silver and brass brought the LORD’S offering: and every man, with whom was found shittim wood for any work of the service, brought [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all who could present an offering of silver or bronze brought it as a contri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.23|<< Exodus 35:23]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.25|Exodus 35:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] contributed  |**<big>&#8207;[[H7311A\|מֵרִ֗ים]]&#8207; </big>**| me.Rim<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

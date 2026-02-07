@@ -1,10 +1,7 @@
 **LXX Judges 4:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> startled  Sisera, and all  his chariots, and all  his camp, by \[the\] mouth of \[the\] broadsword before Barak. And Sisera came down from on top  of his chariot, and he fled \[by\] his feet. 
-<small><sub>**KJV:**</sub></small>
-And the LORD discomfited Sisera, and all [his] chariots, and all [his] host, with the edge of the sword before Barak; so that Sisera lighted down off [his] chariot, and fled away on his feet.
-<small><sub>**BSB:**</sub></small>
-And in front of him the LORD routed with the sword Sisera, all his charioteers, and all his army. Sisera abandoned his chariot and fled on foot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.14|<< Judges 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.16|Judges 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

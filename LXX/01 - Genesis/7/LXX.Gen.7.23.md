@@ -1,10 +1,7 @@
 **LXX Genesis 7:23** 
 <small><sub>**LXX:**</sub></small>
 And he wiped away every  height which was upon \[the\] face of all the earth, from man unto beast, and reptiles, and the winged creatures of the heaven; and they were wiped away from the earth; and he left behind only Noah and the ones with him in the ark. 
-<small><sub>**KJV:**</sub></small>
-And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained [alive], and they that [were] with him in the ark.
-<small><sub>**BSB:**</sub></small>
-And every living thing on the face of the earth was destroyed—man and livestock, crawling creatures and birds of the air; they were blotted out from the earth, and only Noah and those with him in the ark remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.22|<< Genesis 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.24|Genesis 7:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 7:23** is...

@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:9** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel went, and the king of Judah, and the king of Edom. And they encircled a journey of seven days. And there was no water for the camp, and for the cattle, the ones at  their feet. 
-<small><sub>**KJV:**</sub></small>
-So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them.
-<small><sub>**BSB:**</sub></small>
-So the king of Israel, the king of Judah, and the king of Edom set out, and after they had traveled a roundabout route for seven days, they had no water for their army or for their animals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.8|<< 2 Kings 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.10|2 Kings 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

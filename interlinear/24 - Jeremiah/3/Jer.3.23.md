@@ -1,4 +1,4 @@
-**Jeremiah 3:23** 
+**Jeremiah 3:23**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Truly in vain [is salvation hoped for] from the hills, [and from] the multitude of mountains: truly in the LORD our God [is] the salvation of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely deception comes from the hills, and commotion from the mountains. Surely 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.22|<< Jeremiah 3:22]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.24|Jeremiah 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | truly  |**<big>&#8207;[[H0403\|אָכֵ֥ן]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> deception  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8267\|שֶּׁ֛קֶר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

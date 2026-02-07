@@ -1,4 +1,4 @@
-**1 Chronicles 26:25** 
+**1 Chronicles 26:25**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His relatives through Eliezer included Rehabiah his son, Jeshaiah his son, Joram
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.24|<< 1 Chronicles 26:24]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.26|1 Chronicles 26:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Eliezer  |**<big>&#8207;[[H9005\|לֶֽ]]&#8207;&#8207;[[H0461H\|אֱלִיעֶ֑זֶר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.li.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

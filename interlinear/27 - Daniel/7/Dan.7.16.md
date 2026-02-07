@@ -1,4 +1,4 @@
-**Daniel 7:16** 
+**Daniel 7:16**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I approached one of those who were standing there, and I asked him the true mean
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.15|<< Daniel 7:15]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.17|Daniel 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I approached  |**<big>&#8207;[[H7127\|קִרְבֵ֗ת]]&#8207; </big>**| kir.Vet<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5922\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

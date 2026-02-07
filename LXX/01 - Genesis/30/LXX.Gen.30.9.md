@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Leah saw that she stopped  bearing. And she took Zilpah  her maidservant, and gave her  to Jacob \[as\] wife. 
-<small><sub>**KJV:**</sub></small>
-When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.
-<small><sub>**BSB:**</sub></small>
-When Leah saw that she had stopped having children, she gave her servant Zilpah to Jacob as a wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.8|<< Genesis 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.10|Genesis 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

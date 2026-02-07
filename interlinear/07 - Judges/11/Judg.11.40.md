@@ -1,4 +1,4 @@
-**Judges 11:40** 
+**Judges 11:40**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that each year the young women of Israel go out for four days to lament the daug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.1|Judges 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from days  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117I\|יָּמִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days towards  |**<big>&#8207;[[H3117I\|יָמִ֗ימָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ya.Mi.ma<small><sup>[[HNcmpa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 26:10** 
+**Job 26:10**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath compassed the waters with bounds, until the day and night come to an end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has inscribed a horizon on the face of the waters at the boundary between lig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.9|<< Job 26:9]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.11|Job 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a limit  |**<big>&#8207;[[H2706I\|חֹֽק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chok-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has drawn a circle  |**<big>&#8207;[[H2328\|חָ֭ג]]&#8207; </big>**| chag<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Luke 1:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:33**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
 <small><sub>**BSB:**</sub></small>
 and He will reign over the house of Jacob forever. His kingdom will never end!”
@@ -10,7 +10,7 @@ and He will reign over the house of Jacob to the ages, and of the kingdom of Him
 > $\quad$ alluding to: [[LXX.Dan.4.3|Dan 4:3]] ☩ [[LXX.Mic.4.7|Mic 4:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He will reign |**<big>[[G0936\|βασιλεύσει]]</big>**  |basileusei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

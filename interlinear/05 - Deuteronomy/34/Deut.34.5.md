@@ -1,4 +1,4 @@
-**Deuteronomy 34:5** 
+**Deuteronomy 34:5**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Moses the servant of the LORD died there in the land of Moab, as the LORD had
 > $\quad$ referenced by: [[Jude.1.9|Jude 1:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֨מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֜ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

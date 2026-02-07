@@ -1,10 +1,7 @@
 **LXX Isaiah 28:3** 
 <small><sub>**LXX:**</sub></small>
 And by the feet the crown of insolence shall be trampled, the hirelings  of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-The crown of pride, the drunkards of Ephraim, shall be trodden under feet:
-<small><sub>**BSB:**</sub></small>
-The majestic crown of Ephraim’s drunkards will be trampled underfoot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.2|<< Isaiah 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.4|Isaiah 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

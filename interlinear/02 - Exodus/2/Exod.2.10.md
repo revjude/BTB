@@ -1,4 +1,4 @@
-**Exodus 2:10** 
+**Exodus 2:10**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When the child had grown older, she brought him to Pharaoh’s daughter, and he 
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he grew up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יִגְדַּ֣ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> yig.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יֶּ֗לֶד]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ye.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

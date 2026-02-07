@@ -1,12 +1,12 @@
-**Luke 9:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:41**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.
 <small><sub>**BSB:**</sub></small>
 “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you and put up with you? Bring your son here.”
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Jesus said, O generation unbelieving and perverted, until when will I be with you and I will bear with you? do bring here the son of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.40|<< Luke 9:40]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.42|Luke 9:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

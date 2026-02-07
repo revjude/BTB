@@ -1,4 +1,4 @@
-**Leviticus 23:28** 
+**Leviticus 23:28**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall do no work in that same day: for it [is] a day of atonement, to make an atonement for you before the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On this day you are not to do any work, for it is the Day of Atonement, when ato
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.27|<< Leviticus 23:27]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.29|Leviticus 23:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and any  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | work  |**<big>&#8207;[[H4399\|מְלָאכָה֙]]&#8207; </big>**| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

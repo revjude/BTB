@@ -1,10 +1,7 @@
 **LXX Genesis 15:17** 
 <small><sub>**LXX:**</sub></small>
 And when the sun was in descent, a flame came, and behold, \[there was\] an oven smoking; and \[there were\] lamps of fire which went through in the midst  of these pieces. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces.
-<small><sub>**BSB:**</sub></small>
-When the sun had set and darkness had fallen, behold, a smoking firepot and a flaming torch appeared and passed between the halves of the carcasses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.16|<< Genesis 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.18|Genesis 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

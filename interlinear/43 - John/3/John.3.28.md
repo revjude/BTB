@@ -1,12 +1,12 @@
-**John 3:28
-**<small><sub>**KJV:**</sub></small>
+**John 3:28**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
 <small><sub>**BSB:**</sub></small>
 You yourselves can testify that I said, ‘I am not the Christ, but am sent ahead of Him.’
 <small><sub>**Literal:**</sub></small>
 Yourselves you yourselves to me bear witness that I said that: I myself Not am I myself the Christ, but for sent I am before Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.27|<< John 3:27]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.29|John 3:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yourselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

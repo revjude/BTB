@@ -1,4 +1,4 @@
-**Ezekiel 39:20** 
+**Ezekiel 39:20**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus ye shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And at My table you will eat your fill of horses and riders, of mighty men and w
 > $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be satisfied  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7646\|שְׂבַעְתֶּ֤ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.va'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

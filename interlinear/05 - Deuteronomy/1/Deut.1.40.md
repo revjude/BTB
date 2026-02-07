@@ -1,4 +1,4 @@
-**Deuteronomy 1:40** 
+**Deuteronomy 1:40**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [as for] you, turn you, and take your journey into the wilderness by the way of the Red sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you are to turn back and head for the wilderness along the route to the Red 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.39|<< Deuteronomy 1:39]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.41|Deuteronomy 1:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | turn  |**<big>&#8207;[[H6437G\|פְּנ֣וּ]]&#8207; </big>**| pe.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

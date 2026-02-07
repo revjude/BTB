@@ -1,4 +1,4 @@
-**Numbers 14:12** 
+**Numbers 14:12**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will strike them with a plague and destroy them—and I will make you into a n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.11|<< Numbers 14:11]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.13|Numbers 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will strike it  |**<big>&#8207;[[H5221\|אַכֶּ֥]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'ak.Ke.<small><sup>[[HVhi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> pestilence  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1698\|דֶּ֖בֶר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

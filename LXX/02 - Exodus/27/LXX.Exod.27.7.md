@@ -1,10 +1,7 @@
 **LXX Exodus 27:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring the bearing poles into the rings; and the bearing poles be according to the sides of the altar in the lifting it! 
-<small><sub>**KJV:**</sub></small>
-And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
-<small><sub>**BSB:**</sub></small>
-The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.6|<< Exodus 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.8|Exodus 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

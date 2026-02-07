@@ -1,4 +1,4 @@
-**Nehemiah 7:72** (7:71)
+**Nehemiah 7:72**<big><big>[[Neh.7.70 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] which the rest of the people gave [was] twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of sil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.72|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.71|<< Nehemiah 7:71]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.73|Nehemiah 7:73 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [that] which  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they gave  |**<big>&#8207;[[H5414G\|נָתְנוּ֮]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

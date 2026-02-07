@@ -1,4 +1,4 @@
-**Jeremiah 31:12** 
+**Jeremiah 31:12**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will come and shout for joy on the heights of Zion; they will be radiant ov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.11|<< Jeremiah 31:11]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.13|Jeremiah 31:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָאוּ֮]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will cry out for joy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7442B\|רִנְּנ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ri.ne.Nu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

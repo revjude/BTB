@@ -1,4 +1,4 @@
-**Daniel 2:46** 
+**Daniel 2:46**<big><big>[[Dan.2.46 Nebuchadnezzar Promotes Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.45|<< Daniel 2:45]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.47|Daniel 2:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ֠]]&#8207;&#8207;[[H0116\|אדַיִן]]&#8207; </big>**| Be.<small><sup>[[AR]]</sup></small> da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

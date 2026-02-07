@@ -1,4 +1,4 @@
-**Micah 3:7** 
+**Micah 3:7**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for [there is] no answer of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the seers will be ashamed and the diviners will be disgraced. They will all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.6|<< Micah 3:6]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.8|Micah 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be ashamed  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0954\|בֹ֣שׁוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Vo.shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the seers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2374\|חֹזִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the first year of Belshazzar king of \[the\] Chaldeans, Daniel beheld a dream, and the visions  of his head upon  his bed. And  he wrote his dream, and the total sum of the words he said, 
-<small><sub>**KJV:**</sub></small>
-In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, [and] told the sum of the matters.
-<small><sub>**BSB:**</sub></small>
-In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.28|<< Daniel 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.2|Daniel 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

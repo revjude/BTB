@@ -1,4 +1,4 @@
-**Psalms 106:13** 
+**Psalms 106:13**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They soon forgat his works; they waited not for his counsel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet they soon forgot His works and failed to wait for His counsel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.12|<< Psalms 106:12]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.14|Psalms 106:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they made haste  |**<big>&#8207;[[H4116A\|מִֽ֭הֲרוּ]]&#8207; </big>**| Mi.ha.ru<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they forgot  |**<big>&#8207;[[H7911\|שָׁכְח֣וּ]]&#8207; </big>**| sha.khe.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

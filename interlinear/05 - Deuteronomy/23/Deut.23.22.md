@@ -1,4 +1,4 @@
-**Deuteronomy 23:22** (23:23)
+**Deuteronomy 23:22**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou shalt forbear to vow, it shall be no sin in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you refrain from making a vow, you will not be guilty of sin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.21|<< Deuteronomy 23:21]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.23|Deuteronomy 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will refrain  |**<big>&#8207;[[H2308\|תֶחְדַּ֖ל]]&#8207; </big>**| tech.Dal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

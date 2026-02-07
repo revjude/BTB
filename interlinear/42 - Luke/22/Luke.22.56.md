@@ -1,12 +1,12 @@
-**Luke 22:56
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:56**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.
 <small><sub>**BSB:**</sub></small>
 A servant girl saw him seated in the firelight and looked intently at him. “This man also was with Him,” she said.
 <small><sub>**Literal:**</sub></small>
 Having seen then him a servant girl certain sitting by the light and having looked intently on him she said; Also this one with Him was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.55|<< Luke 22:55]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.57|Luke 22:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδοῦσα]]</big>**  |idousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

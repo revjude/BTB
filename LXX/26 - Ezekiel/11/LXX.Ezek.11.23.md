@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:23** 
 <small><sub>**LXX:**</sub></small>
 And the glory \[of the\] <span class="smallcaps">lord</span> ascended from \[the\] midst of the city, and stood upon the mountain which was before the city. 
-<small><sub>**KJV:**</sub></small>
-And the glory of the LORD went up from the midst of the city, and stood upon the mountain which [is] on the east side of the city.
-<small><sub>**BSB:**</sub></small>
-And the glory of the LORD rose up from within the city and stood over the mountain east of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.22|<< Ezekiel 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.24|Ezekiel 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

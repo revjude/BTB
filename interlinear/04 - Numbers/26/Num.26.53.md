@@ -1,4 +1,4 @@
-**Numbers 26:53** 
+**Numbers 26:53**<big><big>[[Num.26.52 Inheritance by Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto these the land shall be divided for an inheritance according to the number of names.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Unto these the land shall be divided for an inheritance according to the number 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.52|<< Numbers 26:52]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.54|Numbers 26:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to these  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be divided  |**<big>&#8207;[[H2505A\|תֵּחָלֵ֥ק]]&#8207; </big>**| te.cha.Lek<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

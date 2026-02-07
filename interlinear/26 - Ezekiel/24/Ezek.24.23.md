@@ -1,4 +1,4 @@
-**Ezekiel 24:23** 
+**Ezekiel 24:23**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your tires [shall be] upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your turbans will remain on your heads and your sandals on your feet. You will n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.22|<< Ezekiel 24:22]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.24|Ezekiel 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and turbans your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6287\|פְאֵרֵ]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'e.re.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

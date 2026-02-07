@@ -1,10 +1,7 @@
 **LXX Genesis 9:17** 
 <small><sub>**LXX:**</sub></small>
 And God said  to Noah, This \[is\] the sign of the covenant of which I ordained between me and between all flesh which is upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Noah, This [is] the token of the covenant, which I have established between me and all flesh that [is] upon the earth.
-<small><sub>**BSB:**</sub></small>
-So God said to Noah, “This is the sign of the covenant that I have established between Me and every creature on the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.16|<< Genesis 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.18|Genesis 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

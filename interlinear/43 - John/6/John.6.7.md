@@ -1,12 +1,12 @@
-**John 6:7
-**<small><sub>**KJV:**</sub></small>
+**John 6:7**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.
 <small><sub>**BSB:**</sub></small>
 Philip answered, “Two hundred denarii would not buy enough bread for each of them to have a small piece.”
 <small><sub>**Literal:**</sub></small>
 Answered Him <the> Philip; Two hundred denarii worth of loaves not are sufficient for them that each of them little [piece] one may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.6|<< John 6:6]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.8|John 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Leviticus 7:26** 
+**Leviticus 7:26**<big><big>[[Lev.7.22 Fat and Blood Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover ye shall eat no manner of blood, [whether it be] of fowl or of beast, in any of your dwellings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not eat the blood of any bird or animal in any of your dwellings.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.25|<< Leviticus 7:25]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.27|Leviticus 7:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and any  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood  |**<big>&#8207;[[H1818\|דָּם֙]]&#8207; </big>**| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

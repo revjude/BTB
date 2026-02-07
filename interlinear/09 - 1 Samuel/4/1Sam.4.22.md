@@ -1,4 +1,4 @@
-**1 Samuel 4:22** 
+**1 Samuel 4:22**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, The glory is departed from Israel: for the ark of God is taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she said, The glory is departed from Israel: for the ark of God is taken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.21|<< 1 Samuel 4:21]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.1|1 Samuel 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֕אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has gone into exile  |**<big>&#8207;[[H1540K\|גָּלָ֥ה]]&#8207; </big>**| ga.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

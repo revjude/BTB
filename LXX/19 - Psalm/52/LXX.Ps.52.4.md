@@ -1,10 +1,7 @@
 **LXX Psalm 52:4** 
 <small><sub>**LXX:**</sub></small>
 You loved all the drowning words, O deceitful tongue. 
-<small><sub>**KJV:**</sub></small>
-Thou lovest all devouring words, O [thou] deceitful tongue.
-<small><sub>**BSB:**</sub></small>
-You love every word that devours, O deceitful tongue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.52.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.52.3|<< Psalm 52:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.52.5|Psalm 52:5 >>]]</td></tr></table>
 
 | Translation | Greek |

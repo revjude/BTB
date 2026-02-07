@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:4** 
 <small><sub>**LXX:**</sub></small>
 So that \[the\] <span class="smallcaps">lord</span> should establish  his word which he spoke concerning me, saying, If your sons should guard  their way,  to go before me in truth, with their whole heart, and with their whole soul, saying, There shall not be lifted away to you a man from the throne of Israel. 
-<small><sub>**KJV:**</sub></small>
-That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel.
-<small><sub>**BSB:**</sub></small>
-and so that the LORD may fulfill His promise to me: ‘If your descendants take heed to walk faithfully before Me with all their heart and soul, you will never fail to have a man on the throne of Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.3|<< 1 Kings 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.5|1 Kings 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

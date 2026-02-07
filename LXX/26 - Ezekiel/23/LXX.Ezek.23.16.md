@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:16** 
 <small><sub>**LXX:**</sub></small>
 And she doted upon them \[with\] the vision  of her eyes; and she sent out messengers to them, into \[the\] land of \[the\] Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.
-<small><sub>**BSB:**</sub></small>
-At the sight of them, she lusted for them and sent messengers to them in Chaldea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.15|<< Ezekiel 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.17|Ezekiel 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

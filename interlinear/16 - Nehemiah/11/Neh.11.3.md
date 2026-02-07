@@ -1,4 +1,4 @@
-**Nehemiah 11:3** 
+**Nehemiah 11:3**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, [to wit], Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the heads of the provinces who settled in Jerusalem. (In the villages 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.2|<< Nehemiah 11:2]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.4|Nehemiah 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

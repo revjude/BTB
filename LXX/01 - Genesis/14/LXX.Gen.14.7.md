@@ -1,10 +1,7 @@
 **LXX Genesis 14:7** 
 <small><sub>**LXX:**</sub></small>
 And returning, they came upon the Spring  of Judgment, this is Kadesh. And they cut in pieces all the rulers of Amalek, and the Amorites, of the ones dwelling in Hazezon-tamar. 
-<small><sub>**KJV:**</sub></small>
-And they returned, and came to Enmishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar.
-<small><sub>**BSB:**</sub></small>
-Then they turned back to invade En-mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who lived in Hazazon-tamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.6|<< Genesis 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.8|Genesis 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

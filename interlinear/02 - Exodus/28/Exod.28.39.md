@@ -1,4 +1,4 @@
-**Exodus 28:39** 
+**Exodus 28:39**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt embroider the coat of fine linen, and thou shalt make the mitre [of] fine linen, and thou shalt make the girdle [of] needlework.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to weave the tunic with fine linen, make the turban of fine linen, and f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.38|<< Exodus 28:38]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.40|Exodus 28:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will weave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7660\|שִׁבַּצְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.batz.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tunic  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3801\|כְּתֹ֣נֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.To.net<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

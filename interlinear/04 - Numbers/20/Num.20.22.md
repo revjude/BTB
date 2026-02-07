@@ -1,4 +1,4 @@
-**Numbers 20:22** 
+**Numbers 20:22**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel, [even] the whole congregation, journeyed from Kadesh, and came unto mount Hor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After they had set out from Kadesh, the whole congregation of Israel came to Mou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.21|<< Numbers 20:21]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.23|Numbers 20:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְע֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Kadesh  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6946G\|קָּדֵ֑שׁ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

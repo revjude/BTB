@@ -1,4 +1,4 @@
-**Isaiah 37:17** 
+**Isaiah 37:17**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Incline thine ear, O LORD, and hear; open thine eyes, O LORD, and see: and hear all the words of Sennacherib, which hath sent to reproach the living God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.16|<< Isaiah 37:16]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.18|Isaiah 37:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | incline  |**<big>&#8207;[[H5186\|הַטֵּ֨ה]]&#8207; </big>**| ha.Teh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

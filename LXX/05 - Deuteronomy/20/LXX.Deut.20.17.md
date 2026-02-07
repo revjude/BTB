@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:17** 
 <small><sub>**LXX:**</sub></small>
 But you shall devote them to consumption -- the Hittite, and the Amorite, and the Canaanite, and Perizzite, and Hivite, and Jebusite, and Gergesite; in which manner \[the\] <span class="smallcaps">lord</span> your God gave charge to you; 
-<small><sub>**KJV:**</sub></small>
-But thou shalt utterly destroy them; [namely], the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:
-<small><sub>**BSB:**</sub></small>
-For you must devote them to complete destruction—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as the LORD your God has commanded you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.16|<< Deuteronomy 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.18|Deuteronomy 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

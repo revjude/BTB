@@ -1,4 +1,4 @@
-**Numbers 27:1** 
+**Numbers 27:1**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these [are] the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the daughters of Zelophehad son of Hepher, the son of Gilead, the son of Mac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.65|<< Numbers 26:65]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.2|Numbers 27:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126G\|תִּקְרַ֜בְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Rav.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

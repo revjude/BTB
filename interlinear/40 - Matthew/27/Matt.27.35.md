@@ -1,5 +1,5 @@
-**Matthew 27:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:35**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
 <small><sub>**BSB:**</sub></small>
 When they had crucified Him, they divided up His garments by casting lots.
@@ -10,7 +10,7 @@ having crucified now Him they divided the garments of Him casting lots, so that 
 > $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having crucified |**<big>[[G4717\|σταυρώσαντες]]</big>**  |staurōsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

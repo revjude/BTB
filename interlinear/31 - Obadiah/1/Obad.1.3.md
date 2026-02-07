@@ -1,4 +1,4 @@
-**Obadiah 1:3** 
+**Obadiah 1:3**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation [is] high; that saith in his heart, Who shall bring me down to the ground?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The pride of your heart has deceived you, O dwellers in the clefts of the rocks 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.2|<< Obadiah 1:2]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.4|Obadiah 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] presumption of  |**<big>&#8207;[[H2087\|זְד֤וֹן]]&#8207; </big>**| ze.Don<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

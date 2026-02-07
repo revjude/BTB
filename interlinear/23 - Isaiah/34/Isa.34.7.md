@@ -1,4 +1,4 @@
-**Isaiah 34:7** 
+**Isaiah 34:7**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the unicorns shall come down with them, and the bullocks with the bulls; and their land shall be soaked with blood, and their dust made fat with fatness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the wild oxen will fall with them, the young bulls with the strong ones. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.6|<< Isaiah 34:6]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.8|Isaiah 34:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרְד֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.re.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wild oxen  |**<big>&#8207;[[H7214\|רְאֵמִים֙]]&#8207; </big>**| re.'e.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

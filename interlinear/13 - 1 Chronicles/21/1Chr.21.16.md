@@ -1,4 +1,4 @@
-**1 Chronicles 21:16** 
+**1 Chronicles 21:16**<big><big>[[1Chr.21.14 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders [of Israel, who were] clothed in sackcloth, fell upon their faces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When David lifted up his eyes and saw the angel of the LORD standing between hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.15|<< 1 Chronicles 21:15]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.17|1 Chronicles 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִ֜יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

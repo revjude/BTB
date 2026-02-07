@@ -1,10 +1,7 @@
 **LXX Isaiah 23:7** 
 <small><sub>**LXX:**</sub></small>
 Was this not  your insolence, the one from \[the\] beginning, before  she was delivered up? 
-<small><sub>**KJV:**</sub></small>
-[Is] this your joyous [city], whose antiquity [is] of ancient days? her own feet shall carry her afar off to sojourn.
-<small><sub>**BSB:**</sub></small>
-Is this your jubilant city, whose origin is from antiquity, whose feet have taken her to settle far away?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.6|<< Isaiah 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.8|Isaiah 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

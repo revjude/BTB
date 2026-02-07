@@ -1,4 +1,4 @@
-**Joel 1:15** 
+**Joel 1:15**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Alas for the day! for the day of the LORD [is] at hand, and as a destruction from the Almighty shall it come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Alas for the day! For the Day of the LORD is near, and it will come as destructi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.14|<< Joel 1:14]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.16|Joel 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H0162\|אֲהָ֖הּ]]&#8207; </big>**| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the day  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3117G\|יּ֑וֹם]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

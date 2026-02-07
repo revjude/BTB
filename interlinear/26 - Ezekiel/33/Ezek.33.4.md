@@ -1,4 +1,4 @@
-**Ezekiel 33:4** 
+**Ezekiel 33:4**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then if anyone hears the sound of the horn but fails to heed the warning, and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.3|<< Ezekiel 33:3]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.5|Ezekiel 33:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמַ֨ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Ma'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] hears  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8085G\|שֹּׁמֵ֜עַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.Me.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

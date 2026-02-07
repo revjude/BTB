@@ -1,4 +1,4 @@
-**Psalms 17:11** 
+**Psalms 17:11**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have now compassed us in our steps: they have set their eyes bowing down to the earth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have tracked us down, and now surround us; their eyes are set to cast us to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.10|<< Psalms 17:10]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.12|Psalms 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | steps our  |**<big>&#8207;[[H0838B\|אַ֭שֻּׁרֵי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'A.shu.rei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

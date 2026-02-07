@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:10** 
 <small><sub>**LXX:**</sub></small>
 And one man saw \[it\], and announced  to Joab. And said, Behold, I have seen  Absalom hanging in the oak. 
-<small><sub>**KJV:**</sub></small>
-And a certain man saw [it], and told Joab, and said, Behold, I saw Absalom hanged in an oak.
-<small><sub>**BSB:**</sub></small>
-When one of the men saw this, he told Joab, “I just saw Absalom hanging in an oak tree!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.9|<< 2 Samuel 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.11|2 Samuel 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

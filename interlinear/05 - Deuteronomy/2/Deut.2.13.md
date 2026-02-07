@@ -1,4 +1,4 @@
-**Deuteronomy 2:13** 
+**Deuteronomy 2:13**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now rise up, [said I], and get you over the brook Zered. And we went over the brook Zered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now rise up, [said I], and get you over the brook Zered. And we went over the br
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.12|<< Deuteronomy 2:12]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.14|Deuteronomy 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arise  |**<big>&#8207;[[H6965B\|קֻ֛מוּ]]&#8207; </big>**| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

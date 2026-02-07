@@ -1,10 +1,7 @@
 **LXX Numbers 17:13** 
 <small><sub>**LXX:**</sub></small>
 every  one touching the tent of \[the\] <span class="smallcaps">lord</span> dies. Until completion should we die? 
-<small><sub>**KJV:**</sub></small>
-Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
-<small><sub>**BSB:**</sub></small>
-Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

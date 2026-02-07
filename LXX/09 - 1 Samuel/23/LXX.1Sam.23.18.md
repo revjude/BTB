@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:18** 
 <small><sub>**LXX:**</sub></small>
 And both ordained a covenant before \[the\] <span class="smallcaps">lord</span>. And David settled in  New, and Jonathan went forth to his house. 
-<small><sub>**KJV:**</sub></small>
-And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house.
-<small><sub>**BSB:**</sub></small>
-So the two of them made a covenant before the LORD. And David remained in Horesh, while Jonathan went home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.17|<< 1 Samuel 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.19|1 Samuel 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

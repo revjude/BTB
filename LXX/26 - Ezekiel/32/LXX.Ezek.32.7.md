@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:7** 
 <small><sub>**LXX:**</sub></small>
 And I will cover up \[the\] heaven in your being extinguished, and I will darken  his stars; I will cover \[the\] sun by a cloud, and \[the\] moon -- in no way her light appear. 
-<small><sub>**KJV:**</sub></small>
-And when I shall put thee out, I will cover the heaven, and make the stars thereof dark; I will cover the sun with a cloud, and the moon shall not give her light.
-<small><sub>**BSB:**</sub></small>
-When I extinguish you, I will cover the heavens and darken their stars. I will cover the sun with a cloud, and the moon will not give its light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.6|<< Ezekiel 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.8|Ezekiel 32:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 32:7** is...

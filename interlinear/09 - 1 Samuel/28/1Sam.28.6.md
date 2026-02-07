@@ -1,4 +1,4 @@
-**1 Samuel 28:6** 
+**1 Samuel 28:6**<big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Saul inquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He inquired of the LORD, but the LORD did not answer him by dreams or Urim or pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.5|<< 1 Samuel 28:5]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.7|1 Samuel 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he enquired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁאוּל֙]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

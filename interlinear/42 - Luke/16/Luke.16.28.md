@@ -1,12 +1,12 @@
-**Luke 16:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:28**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I have five brethren; that he may testify unto them, lest they also come into this place of torment.
 <small><sub>**BSB:**</sub></small>
 for I have five brothers. Let him warn them, so that they will not also end up in this place of torment.’
 <small><sub>**Literal:**</sub></small>
 I have for five brothers — so that he may warn to them that not also they themselves may come to <the> place this <the> of torment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.27|<< Luke 16:27]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.29|Luke 16:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

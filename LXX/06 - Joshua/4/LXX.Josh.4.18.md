@@ -1,10 +1,7 @@
 **LXX Joshua 4:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the priests went up, the ones lifting the ark of the covenant of \[the\] <span class="smallcaps">lord</span>, from the midst of the Jordan, that the priests put the feet upon the dry land, and the water of the Jordan advanced according to place, and it went as also yesterday and \[the\] third day \[before\], through all  its bank. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, [and] the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as [they did] before.
-<small><sub>**BSB:**</sub></small>
-When the priests carrying the ark of the covenant of the LORD came up out of the Jordan and their feet touched the dry land, the waters of the Jordan returned to their course and overflowed all the banks as before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.17|<< Joshua 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.19|Joshua 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

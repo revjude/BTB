@@ -1,4 +1,4 @@
-**Jeremiah 14:20** 
+**Jeremiah 14:20**<big><big>[[Jer.14.19 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We acknowledge, O LORD, our wickedness, [and] the iniquity of our fathers: for we have sinned against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We acknowledge our wickedness, O LORD, the guilt of our fathers; indeed, we have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.19|<< Jeremiah 14:19]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.21|Jeremiah 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we know  |**<big>&#8207;[[H3045\|יָדַ֧עְנוּ]]&#8207; </big>**| ya.Da'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

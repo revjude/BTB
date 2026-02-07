@@ -1,4 +1,4 @@
-**Psalms 19:12** (19:13)
+**Psalms 19:12**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can understand [his] errors? cleanse thou me from secret [faults].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who can discern his own errors? Cleanse me from my hidden faults.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.11|<< Psalms 19:11]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.13|Psalms 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | errors  |**<big>&#8207;[[H7691\|שְׁגִיא֥וֹת]]&#8207; </big>**| she.gi.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

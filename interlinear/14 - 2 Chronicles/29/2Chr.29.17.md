@@ -1,4 +1,4 @@
-**2 Chronicles 29:17** 
+**2 Chronicles 29:17**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now they began on the first [day] of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They began the consecration on the first day of the first month, and on the eigh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.16|<< 2 Chronicles 29:16]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.18|2 Chronicles 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they began  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H2490C\|יָּחֵלּוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.che.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [day] one  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0259\|אֶחָ֞ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**1 Corinthians 10:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:7**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither be ye idolaters, as [were] some of them; as it is written, The people sat down to eat and drink, and rose up to play.
 <small><sub>**BSB:**</sub></small>
 Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and drink and got up to indulge in revelry.”
@@ -10,7 +10,7 @@ Neither idolaters do become even as some of them as it has been written: Sat dow
 > $\quad$ referencing: [[LXX.Exod.32.6|Exod 32:6]] ☩ [[LXX.Ps.106.19|Ps 106:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | idolaters |**<big>[[G1496\|εἰδωλολάτραι]]</big>**  |eidōlolatrai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

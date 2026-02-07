@@ -1,10 +1,7 @@
 **LXX Numbers 7:9** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Kohath he gave not, for they have the ministrations of the holy \[things\]; they shall lift \[them\] upon \[their\] shoulders. 
-<small><sub>**KJV:**</sub></small>
-But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them [was that] they should bear upon their shoulders.
-<small><sub>**BSB:**</sub></small>
-But he did not give any to the Kohathites, since they were to carry on their shoulders the holy objects for which they were responsible.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.8|<< Numbers 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.10|Numbers 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

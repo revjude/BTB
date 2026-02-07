@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:8** 
 <small><sub>**LXX:**</sub></small>
 And they \[were\] by the great stone  in Gibeon. And Amasa entered in front of them. And Joab being girded with his uniform garment, and upon him \[was\] a sword being tied around being teamed up on  his loin in its sheath. And the sword came forth and fell. 
-<small><sub>**KJV:**</sub></small>
-When they [were] at the great stone which [is] in Gibeon, Amasa went before them. And Joab’s garment that he had put on was girded unto him, and upon it a girdle [with] a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out.
-<small><sub>**BSB:**</sub></small>
-And while they were at the great stone in Gibeon, Amasa joined them. Now Joab was dressed in military attire, with a dagger strapped to his belt. And as he stepped forward, he slipped the dagger from its sheath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.7|<< 2 Samuel 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.9|2 Samuel 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

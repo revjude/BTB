@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:54** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\]  their dwelling \[places\], in  their properties, and in  their borders, to the sons of Aaron, to the kin  of Kohath, for the lots were to them. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.
-<small><sub>**BSB:**</sub></small>
-Now these were the territories assigned to the descendants of Aaron from the Kohathite clan for their settlements, because the first lot fell to them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.53|<< 1 Chronicles 6:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.55|1 Chronicles 6:55 >>]]</td></tr></table>
 
 | Translation | Greek |

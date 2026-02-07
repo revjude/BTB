@@ -1,10 +1,7 @@
 **LXX Ezra 2:70** 
 <small><sub>**LXX:**</sub></small>
 And \[these\] stayed (the priests, and the Levites, and the ones from the people, and the singers, and the gatekeepers, and the Nethinim) in  their cities, and all Israel in their cities. 
-<small><sub>**KJV:**</sub></small>
-So the priests, and the Levites, and [some] of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.
-<small><sub>**BSB:**</sub></small>
-So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.70|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.69|<< Ezra 2:69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.1|Ezra 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

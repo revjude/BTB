@@ -1,4 +1,4 @@
-**Ezekiel 21:31** (21:36)
+**Ezekiel 21:31**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, [and] skilful to destroy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will pour out My anger upon you; I will breathe the fire of My fury against yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will pour out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8210G\|שָׁפַכְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

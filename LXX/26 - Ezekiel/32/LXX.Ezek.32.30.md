@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:30** 
 <small><sub>**LXX:**</sub></small>
 There \[are\] the rulers of the north, all these, all the commandants of Assyria, the ones going down with \[the\] slain, with the fear of them. And in  their strength being ashamed they sleep uncircumcised with ones slain of \[the\] sword; and they carry away  their torment with the ones going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-There [be] the princes of the north, all of them, and all the Zidonians, which are gone down with the slain; with their terror they are ashamed of their might; and they lie uncircumcised with [them that be] slain by the sword, and bear their shame with them that go down to the pit.
-<small><sub>**BSB:**</sub></small>
-All the leaders of the north and all the Sidonians are there; they went down in disgrace with the slain, despite the terror of their might. They lie uncircumcised with those slain by the sword and bear their shame with those who descend to the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.29|<< Ezekiel 32:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.31|Ezekiel 32:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 16:9** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall bring the young he-goat, upon which came unto it the lot to the <span class="smallcaps">lord</span>. And he shall offer it for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall bring the goat upon which the LORD’S lot fell, and offer him [for] a sin offering.
-<small><sub>**BSB:**</sub></small>
-he shall present the goat chosen by lot for the LORD and sacrifice it as a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.8|<< Leviticus 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.10|Leviticus 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  Your older sister, she \[is\] Samaria, even  her daughters  dwelling on your left. And  your younger sister, the one dwelling on your right \[is\] Sodom and  her daughters. 
-<small><sub>**KJV:**</sub></small>
-And thine elder sister [is] Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, [is] Sodom and her daughters.
-<small><sub>**BSB:**</sub></small>
-Your older sister was Samaria, who lived with her daughters to your north; and your younger sister was Sodom, who lived with her daughters to your south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.45|<< Ezekiel 16:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.47|Ezekiel 16:47 >>]]</td></tr></table>
 
 | Translation | Greek |

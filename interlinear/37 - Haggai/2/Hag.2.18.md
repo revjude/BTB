@@ -1,4 +1,4 @@
-**Haggai 2:18** 
+**Haggai 2:18**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider now from this day and upward, from the four and twentieth day of the ninth [month, even] from the day that the foundation of the LORD’S temple was laid, consider [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consider carefully from this day forward—from the twenty-fourth day of the nin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.17|<< Haggai 2:17]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.19|Haggai 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | set  |**<big>&#8207;[[H7760K\|שִׂימוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| si.mu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

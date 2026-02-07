@@ -1,4 +1,4 @@
-**Numbers 32:1** 
+**Numbers 32:1**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place [was] a place for cattle;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Reubenites and Gadites, who had very large herds and flocks, surveyed th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.54|<< Numbers 31:54]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.2|Numbers 32:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and livestock  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4735\|מִקְנֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mik.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | much  |**<big>&#8207;[[H7227A\|רַ֗ב]]&#8207; </big>**| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 5:5** 
+**Leviticus 5:5**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he shall be guilty in one of these [things], that he shall confess that he hath sinned in that [thing]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If someone incurs guilt in one of these ways, he must confess the sin he has com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.4|<< Leviticus 5:4]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.6|Leviticus 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

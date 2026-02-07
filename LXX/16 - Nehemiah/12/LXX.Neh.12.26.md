@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:26** 
 <small><sub>**LXX:**</sub></small>
 These \[were\] in \[the\] days of Joiakim son of Jeshua, son of Jozadak, and in \[the\] days of Nehemiah the ruler, and Ezra the priest and scribe. 
-<small><sub>**KJV:**</sub></small>
-These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
-<small><sub>**BSB:**</sub></small>
-They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
 | Translation | Greek |

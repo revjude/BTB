@@ -1,4 +1,4 @@
-**Job 21:9** 
+**Job 21:9**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their houses [are] safe from fear, neither [is] the rod of God upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their homes are safe from fear; no rod of punishment from God is upon them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.8|<< Job 21:8]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.10|Job 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | houses their  |**<big>&#8207;[[H1004M\|בָּתֵּי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| ba.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] safety  |**<big>&#8207;[[H7965I\|שָׁל֣וֹם]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

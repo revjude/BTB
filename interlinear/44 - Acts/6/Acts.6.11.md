@@ -1,12 +1,12 @@
-**Acts 6:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:11**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and [against] God.
 <small><sub>**BSB:**</sub></small>
 Then they prompted some men to say, “We heard Stephen speak words of blasphemy against Moses and against God.”
 <small><sub>**Literal:**</sub></small>
 Then they suborned men saying that We have heard when he is speaking declarations blasphemous against Moses and <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.10|<< Acts 6:10]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.12|Acts 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they suborned |**<big>[[G5260\|ὑπέβαλον]]</big>**  |hupebalon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

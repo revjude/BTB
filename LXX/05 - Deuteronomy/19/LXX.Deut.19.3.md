@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:3** 
 <small><sub>**LXX:**</sub></small>
 Take thought to yourself \[of\] the way, and you shall make three parts the boundaries  of your land which \[the\] <span class="smallcaps">lord</span> your God divides to you, and it will be there \[for\] a refuge to every man-slayer. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither.
-<small><sub>**BSB:**</sub></small>
-You are to build roads for yourselves and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.2|<< Deuteronomy 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.4|Deuteronomy 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] word of \[the\] <span class="smallcaps">lord</span> which came to Joel the \[son of\] Pethuel. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came to Joel the son of Pethuel.
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Joel son of Pethuel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.9|<< Hosea 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.2|Joel 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

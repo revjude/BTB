@@ -1,12 +1,12 @@
-**Matthew 26:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:1**<big><big>[[Matt.26.1 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,
 <small><sub>**BSB:**</sub></small>
 When Jesus had finished saying all these things, He told His disciples,
 <small><sub>**Literal:**</sub></small>
 And it came to pass when finished <the> Jesus all <the> words these, He said to the disciples of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.46|<< Matthew 25:46]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.2|Matthew 26:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

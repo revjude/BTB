@@ -1,10 +1,7 @@
 **LXX Psalm 89:46** 
 <small><sub>**LXX:**</sub></small>
 For how long, O <span class="smallcaps">lord</span>, will you turn away -- to \[the\] end? your anger burn as fire? 
-<small><sub>**KJV:**</sub></small>
-How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?
-<small><sub>**BSB:**</sub></small>
-How long, O LORD? Will You hide Yourself forever? Will Your wrath keep burning like fire?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.45|<< Psalm 89:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.47|Psalm 89:47 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jonah 2:5** (2:6)
+**Jonah 2:5**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The waters compassed me about, [even] to the soul: the depth closed me round about, the weeds were wrapped about my head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The waters engulfed me to take my life; the watery depths closed around me; the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.4|<< Jonah 2:4]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.6|Jonah 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have encompassed me  |**<big>&#8207;[[H0661\|אֲפָפ֤וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.fa.Fu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | waters  |**<big>&#8207;[[H4325G\|מַ֙יִם֙]]&#8207; </big>**| ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

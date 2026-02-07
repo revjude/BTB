@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:20** 
 <small><sub>**LXX:**</sub></small>
 But the tree which you know that it is not fruit-bearing, this you shall annihilate, and you shall cut it, and shall build a siege mound at the city, whichever makes war against you, until whenever it should be delivered up. 
-<small><sub>**KJV:**</sub></small>
-Only the trees which thou knowest that they [be] not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.
-<small><sub>**BSB:**</sub></small>
-But you may destroy the trees that you know do not produce fruit. Use them to build siege works against the city that is waging war against you, until it falls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.19|<< Deuteronomy 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.1|Deuteronomy 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

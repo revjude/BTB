@@ -1,12 +1,12 @@
-**Matthew 26:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:2**<big><big>[[Matt.26.1 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye know that after two days is [the feast of] the passover, and the Son of man is betrayed to be crucified.
 <small><sub>**BSB:**</sub></small>
 “You know that the Passover is two days away, and the Son of Man will be handed over to be crucified.”
 <small><sub>**Literal:**</sub></small>
 You know that after two days the Passover takes place, and the Son <the> of Man is delivered over <the> to be crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.1|<< Matthew 26:1]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.3|Matthew 26:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You know |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

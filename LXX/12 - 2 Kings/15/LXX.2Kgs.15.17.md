@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] thirtieth and ninth year  of Azariah king of Judah Menahem son of Gadi reigned over Israel in Samaria ten years. 
-<small><sub>**KJV:**</sub></small>
-In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, [and reigned] ten years in Samaria.
-<small><sub>**BSB:**</sub></small>
-In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

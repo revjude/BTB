@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:7** 
 <small><sub>**LXX:**</sub></small>
 For what great nation in which there is to it a God near to them as \[the\] <span class="smallcaps">lord</span>  our God \[is\] in all \[things\] in which we should call upon him? 
-<small><sub>**KJV:**</sub></small>
-For what nation [is there so] great, who [hath] God [so] nigh unto them, as the LORD our God [is] in all [things that] we call upon him [for]?
-<small><sub>**BSB:**</sub></small>
-For what nation is great enough to have a god as near to them as the LORD our God is to us whenever we call on Him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.6|<< Deuteronomy 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.8|Deuteronomy 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

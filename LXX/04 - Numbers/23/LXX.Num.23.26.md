@@ -1,10 +1,7 @@
 **LXX Numbers 23:26** 
 <small><sub>**LXX:**</sub></small>
 And Balaam answering said  to Balak, Did I not speak to you, saying, The word which ever God should speak, this I will do? 
-<small><sub>**KJV:**</sub></small>
-But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?
-<small><sub>**BSB:**</sub></small>
-But Balaam replied, “Did I not tell you that whatever the LORD says, I must do?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.25|<< Numbers 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.27|Numbers 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 10:14** 
+**Isaiah 10:14**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my hand hath found as a nest the riches of the people: and as one gathereth eggs [that are] left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My hand reached as into a nest to seize the wealth of the nations. Like one gath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.13|<< Isaiah 10:13]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.15|Isaiah 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|תִּמְצָ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tim.Tza'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> nest  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H7064\|קֵּ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Ken<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

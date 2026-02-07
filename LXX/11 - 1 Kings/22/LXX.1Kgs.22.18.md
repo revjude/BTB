@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:18** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel said to Jehoshaphat king of Judah, Did I not say to you that this one would not prophesy good \[things\] unto me, but only bad? 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?
-<small><sub>**BSB:**</sub></small>
-Then the king of Israel said to Jehoshaphat, “Did I not tell you that he never prophesies good for me, but only bad?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.17|<< 1 Kings 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.19|1 Kings 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

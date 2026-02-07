@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> his God delivered him into \[the\] hand of \[the\] king of Syria. And he struck among him, and he captured \[for\] captivity many of them, and led \[them\] unto Damascus. And also into the hands of \[the\] king of Israel he delivered him, and he struck in him a great calamity. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought [them] to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.
-<small><sub>**BSB:**</sub></small>
-So the LORD his God delivered Ahaz into the hand of the king of Aram, who attacked him and took many captives to Damascus. Ahaz was also delivered into the hand of the king of Israel, who struck him with great force.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.4|<< 2 Chronicles 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.6|2 Chronicles 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

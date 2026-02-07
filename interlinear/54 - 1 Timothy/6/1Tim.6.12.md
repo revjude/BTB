@@ -1,12 +1,12 @@
-**1 Timothy 6:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:12**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
 <small><sub>**BSB:**</sub></small>
 Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made the good confession before many witnesses.
 <small><sub>**Literal:**</sub></small>
 do fight the good fight of the faith, do lay hold of the eternal life to which also you were called and did confess the good confession before many witnesses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.11|<< 1 Timothy 6:11]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.13|1 Timothy 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do fight |**<big>[[G0075\|ἀγωνίζου]]</big>**  |agōnizou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel according to their number, rulers of the families, commanders of thousands, and commanders of hundreds, and scribes, the ones officiating to the king, and in every matter of the king according to \[their\] divisions for every matter  entering and going forth month by month for all the months of the year -- one division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-Now the children of Israel after their number, [to wit], the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.32|<< 1 Chronicles 26:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.2|1 Chronicles 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

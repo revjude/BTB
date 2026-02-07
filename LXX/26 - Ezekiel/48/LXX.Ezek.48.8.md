@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:8** 
 <small><sub>**LXX:**</sub></small>
 And from the borders of Judah, from the \[borders\] towards \[the\] east, shall be the first-fruit of the offering, five and twenty thousand in breadth, and \[the\] length as one of the portions \[measured\] from \[the\] borders towards \[the\] east and unto the \[borders\] towards \[the\] west; and the holy place will be in the middle of them. 
-<small><sub>**KJV:**</sub></small>
-And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand [reeds in] breadth, and [in] length as one of the [other] parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.
-<small><sub>**BSB:**</sub></small>
-Bordering the territory of Judah, from east to west, will be the portion you are to set apart. It will be 25,000 cubits wide, and the length of a tribal portion from east to west. In the center will be the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.7|<< Ezekiel 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.9|Ezekiel 48:9 >>]]</td></tr></table>
 
 | Translation | Greek |

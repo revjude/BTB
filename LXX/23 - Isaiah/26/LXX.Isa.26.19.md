@@ -1,10 +1,7 @@
 **LXX Isaiah 26:19** 
 <small><sub>**LXX:**</sub></small>
 The dead shall rise up, and the ones in the sepulchres shall be raised, and the ones in the earth shall be glad, for the dew  by you is a cure to them; but the land of the impious shall fall. 
-<small><sub>**KJV:**</sub></small>
-Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.
-<small><sub>**BSB:**</sub></small>
-Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 26:19** is...

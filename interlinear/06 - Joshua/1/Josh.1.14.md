@@ -1,4 +1,4 @@
-**Joshua 1:14** 
+**Joshua 1:14**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wives, your young children, and your livestock may remain in the land that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.13|<< Joshua 1:13]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.15|Joshua 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wives your  |**<big>&#8207;[[H0802H\|נְשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | little one[s] your  |**<big>&#8207;[[H2945\|טַפְּ]]&#8207;&#8207;[[H9026\|כֶם֮]]&#8207; </big>**| ta.pe.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

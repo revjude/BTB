@@ -1,10 +1,7 @@
 **LXX Daniel 5:31** 
 <small><sub>**LXX:**</sub></small>
 And Darius the Mede took the kingdom, being sixty two years \[old\]. 
-<small><sub>**KJV:**</sub></small>
-And Darius the Median took the kingdom, [being] about threescore and two years old.
-<small><sub>**BSB:**</sub></small>
-and Darius the Mede received the kingdom at the age of sixty-two.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.30|<< Daniel 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.1|Daniel 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

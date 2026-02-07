@@ -1,4 +1,4 @@
-**Psalms 40:5** (40:6)
+**Psalms 40:5**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many, O LORD my God, [are] thy wonderful works [which] thou hast done, and thy thoughts [which are] to us-ward: they cannot be reckoned up in order unto thee: [if] I would declare and speak [of them], they are more than can be numbered.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Many, O LORD my God, are the wonders You have done, and the plans You have for u
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many  |**<big>&#8207;[[H7227A\|רַבּ֤וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have made  |**<big>&#8207;[[H6213A\|עָשִׂ֨יתָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

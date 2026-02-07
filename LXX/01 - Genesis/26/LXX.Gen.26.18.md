@@ -1,10 +1,7 @@
 **LXX Genesis 26:18** 
 <small><sub>**LXX:**</sub></small>
 And again Isaac dug the wells  of water which the servants of Abraham his father dug; and the Philistines obstructed them, after the dying of Abraham  his father. And he named them with names according to the names which his father named. 
-<small><sub>**KJV:**</sub></small>
-And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.
-<small><sub>**BSB:**</sub></small>
-Isaac reopened the wells that had been dug in the days of his father Abraham, which the Philistines had stopped up after Abraham died. And he gave these wells the same names his father had given them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.17|<< Genesis 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.19|Genesis 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

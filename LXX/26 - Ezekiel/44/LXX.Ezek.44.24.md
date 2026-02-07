@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:24** 
 <small><sub>**LXX:**</sub></small>
 And these shall attend over a judgment of blood  to litigate  my ordinances; they shall do justice, and  they shall judge my judgments; and  they shall keep my laws and my orders in all my holiday \[feasts\]; and  they shall sanctify my Sabbaths. 
-<small><sub>**KJV:**</sub></small>
-And in controversy they shall stand in judgment; [and] they shall judge it according to my judgments: and they shall keep my laws and my statutes in all mine assemblies; and they shall hallow my sabbaths.
-<small><sub>**BSB:**</sub></small>
-In any dispute, they shall officiate as judges and judge according to My ordinances. They must keep My laws and statutes regarding all My appointed feasts, and they must keep My Sabbaths holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.23|<< Ezekiel 44:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.25|Ezekiel 44:25 >>]]</td></tr></table>
 
 | Translation | Greek |

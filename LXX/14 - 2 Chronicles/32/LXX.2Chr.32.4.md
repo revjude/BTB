@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:4** 
 <small><sub>**LXX:**</sub></small>
 And he brought together many people, and \[they\] obstructed the waters of the springs, and the rushing stream  separating through the city, saying, Should \[the\] king of \[the\] Assyrians come and find much water, and grow strong? 
-<small><sub>**KJV:**</sub></small>
-So there was gathered much people together, who stopped all the fountains, and the brook that ran through the midst of the land, saying, Why should the kings of Assyria come, and find much water?
-<small><sub>**BSB:**</sub></small>
-Many people assembled and stopped up all the springs and the stream that flowed through the land. “Why should the kings of Assyria come and find plenty of water?” they said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.3|<< 2 Chronicles 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.5|2 Chronicles 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 15:23** 
 <small><sub>**LXX:**</sub></small>
 \[for\] in no way an evil man obey it; nor shall he say anything timely, even \[for\] the common good. 
-<small><sub>**KJV:**</sub></small>
-A man hath joy by the answer of his mouth: and a word [spoken] in due season, how good [is it]!
-<small><sub>**BSB:**</sub></small>
-A man takes joy in a fitting reply—and how good is a timely word!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.22|<< Proverbs 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.24|Proverbs 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

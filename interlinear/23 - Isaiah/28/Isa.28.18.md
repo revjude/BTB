@@ -1,4 +1,4 @@
-**Isaiah 28:18** 
+**Isaiah 28:18**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your covenant with death will be dissolved, and your agreement with Sheol will n
 > $\quad$ related to: [[Rom.8.22|Rom 8:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be annulled  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כֻפַּ֤ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khu.Par<small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant your  |**<big>&#8207;[[H1285\|בְּרִֽיתְ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| be.ri.te.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 28:34** 
+**Exodus 28:34**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ alternating the gold bells and pomegranates around the lower hem of the robe.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.33|<< Exodus 28:33]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.35|Exodus 28:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a bell of  |**<big>&#8207;[[H6472\|פַּעֲמֹ֤ן]]&#8207; </big>**| pa.'a.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָב֙]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

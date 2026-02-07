@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:38** 
 <small><sub>**LXX:**</sub></small>
 It relied upon her water; and they shall be disgraced. For it is a land of carved \[images\], and in the islands they gloried over. 
-<small><sub>**KJV:**</sub></small>
-A drought [is] upon her waters; and they shall be dried up: for it [is] the land of graven images, and they are mad upon [their] idols.
-<small><sub>**BSB:**</sub></small>
-A drought is upon her waters, and they will be dried up. For it is a land of graven images, and the people go mad over idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.37|<< Jeremiah 50:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.39|Jeremiah 50:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 50:38** is...

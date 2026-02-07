@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:17** 
 <small><sub>**LXX:**</sub></small>
 And Saul recognized the voice of David, and he said,  Is this your voice son David? And David said, My voice my master; your servant, O king. 
-<small><sub>**KJV:**</sub></small>
-And Saul knew David’s voice, and said, [Is] this thy voice, my son David? And David said, [It is] my voice, my lord, O king.
-<small><sub>**BSB:**</sub></small>
-Then Saul recognized David’s voice and asked, “Is that your voice, David my son?” “It is my voice, my lord and king,” David said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.16|<< 1 Samuel 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.18|1 Samuel 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

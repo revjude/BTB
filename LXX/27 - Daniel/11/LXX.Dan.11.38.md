@@ -1,10 +1,7 @@
 **LXX Daniel 11:38** 
 <small><sub>**LXX:**</sub></small>
 And he will glorify a god of fortress at his place. And a god whom his fathers knew not he shall glorify with gold, and silver, and precious stone, and with desirable \[things\]. 
-<small><sub>**KJV:**</sub></small>
-But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.
-<small><sub>**BSB:**</sub></small>
-And in their place, he will honor a god of fortresses—a god his fathers did not know—with gold, silver, precious stones, and riches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.37|<< Daniel 11:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.39|Daniel 11:39 >>]]</td></tr></table>
 
 | Translation | Greek |

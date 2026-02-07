@@ -1,10 +1,7 @@
 **LXX Joshua 21:2** 
 <small><sub>**LXX:**</sub></small>
 And they spoke to them in Shiloh, in \[the\] land of Canaan, saying, \[The\] <span class="smallcaps">lord</span> gave charge by \[the\] hand of Moses to give to us cities to dwell in, and  their outskirts \[for\] our cattle. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.
-<small><sub>**BSB:**</sub></small>
-at Shiloh in the land of Canaan and said to them, “The LORD commanded through Moses that we be given cities in which to live, together with pasturelands for our livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.1|<< Joshua 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.3|Joshua 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

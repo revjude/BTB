@@ -1,12 +1,12 @@
-**1 John 2:5
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:5**<big><big>[[1John.2.1 Jesus Our Advocate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
 <small><sub>**BSB:**</sub></small>
 But if anyone keeps His word, the love of God has been truly perfected in him. By this we know that we are in Him:
 <small><sub>**Literal:**</sub></small>
 Who[ever] however maybe may keep His <the> word, truly in him the love <the> of God has been perfected. By this we know that in Him we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.4|<< 1 John 2:4]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.6|1 John 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δ᾽]]</big>**  |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

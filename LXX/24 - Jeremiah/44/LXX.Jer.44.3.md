@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:3** 
 <small><sub>**LXX:**</sub></small>
 because of \[the\] face of their wickedness of which they did to greatly embitter me; going to burn incense to other gods which they knew not, even you, and  your fathers. 
-<small><sub>**KJV:**</sub></small>
-Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, [and] to serve other gods, whom they knew not, [neither] they, ye, nor your fathers.
-<small><sub>**BSB:**</sub></small>
-because of the evil they have done. They provoked Me to anger by continuing to burn incense and to serve other gods that neither they nor you nor your fathers ever knew.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.2|<< Jeremiah 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.4|Jeremiah 44:4 >>]]</td></tr></table>
 
 | Translation | Greek |

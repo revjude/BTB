@@ -1,4 +1,4 @@
-**2 Chronicles 5:12** 
+**2 Chronicles 5:12**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the Levites [which were] the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, [being] arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.11|<< 2 Chronicles 5:11]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.13|2 Chronicles 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the singers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7891\|מְשֹׁרֲרִ֣ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.sho.ra.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

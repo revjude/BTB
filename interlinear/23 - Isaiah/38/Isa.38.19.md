@@ -1,4 +1,4 @@
-**Isaiah 38:19** 
+**Isaiah 38:19**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The living, the living, he shall praise thee, as I [do] this day: the father to the children shall make known thy truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The living, only the living, can thank You, as I do today; fathers will tell the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.18|<< Isaiah 38:18]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.20|Isaiah 38:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] living  |**<big>&#8207;[[H2416A\|חַ֥י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] living  |**<big>&#8207;[[H2416A\|חַ֛י]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

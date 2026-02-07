@@ -1,4 +1,4 @@
-**Ezekiel 17:18** 
+**Ezekiel 17:18**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these [things], he shall not escape.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He despised the oath by breaking the covenant. Seeing that he gave his hand in p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.17|<< Ezekiel 17:17]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.19|Ezekiel 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he despised  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0959\|בָזָ֥ה]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Zah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] oath  |**<big>&#8207;[[H0423\|אָלָ֖ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

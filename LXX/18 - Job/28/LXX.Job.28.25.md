@@ -1,10 +1,7 @@
 **LXX Job 28:25** 
 <small><sub>**LXX:**</sub></small>
 all which he made, \[even the\] weight of \[the\] winds, \[and the\] measures of water. 
-<small><sub>**KJV:**</sub></small>
-To make the weight for the winds; and he weigheth the waters by measure.
-<small><sub>**BSB:**</sub></small>
-When God fixed the weight of the wind and measured out the waters,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.24|<< Job 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.26|Job 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

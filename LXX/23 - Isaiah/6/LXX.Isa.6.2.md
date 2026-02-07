@@ -1,10 +1,7 @@
 **LXX Isaiah 6:2** 
 <small><sub>**LXX:**</sub></small>
 And seraphim stood round about him; six wings to the one, and six wings to the \[other\] one. And with the \[first\] two they covered up the front; and with the \[second\] two they covered up the feet; and with the \[third\] two they flew. 
-<small><sub>**KJV:**</sub></small>
-Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
-<small><sub>**BSB:**</sub></small>
-Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.1|<< Isaiah 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.3|Isaiah 6:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 6:2** is...

@@ -1,4 +1,4 @@
-**Psalms 18:20** (18:21)
+**Psalms 18:20**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has rewarded me according to my righteousness; He has repaid me accordi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.19|<< Psalms 18:19]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.21|Psalms 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has dealt with me  |**<big>&#8207;[[H1580\|יִגְמְלֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yig.me.Le.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

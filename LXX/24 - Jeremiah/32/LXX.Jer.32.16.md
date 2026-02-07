@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I prayed to \[the\] <span class="smallcaps">lord</span> after  my giving the scroll of the possession to Baruch son of Neriah, saying, 
-<small><sub>**KJV:**</sub></small>
-Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,
-<small><sub>**BSB:**</sub></small>
-After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.15|<< Jeremiah 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.17|Jeremiah 32:17 >>]]</td></tr></table>
 
 | Translation | Greek |

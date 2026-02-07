@@ -1,4 +1,4 @@
-**Proverbs 1:24** 
+**Proverbs 1:24**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you refused my call, and no one took my outstretched hand,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.23|<< Proverbs 1:23]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.25|Proverbs 1:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֣עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I called  |**<big>&#8207;[[H7121G\|קָ֭רָאתִי]]&#8207; </big>**| Ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

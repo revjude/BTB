@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:43** 
 <small><sub>**LXX:**</sub></small>
 And they sacrificed in  that day great sacrifices, and they were glad. For  God gladdened them gladness; and  their wives and  their children were glad; and the gladness in Jerusalem was heard from far off. 
-<small><sub>**KJV:**</sub></small>
-Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.
-<small><sub>**BSB:**</sub></small>
-On that day they offered great sacrifices, rejoicing because God had given them great joy. The women and children also rejoiced, so that the joy of Jerusalem was heard from afar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.42|<< Nehemiah 12:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.44|Nehemiah 12:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Boaz took  Ruth, and she became to him for wife. And he entered to her. And \[the\] <span class="smallcaps">lord</span> gave to her conception, and she bore a son. 
-<small><sub>**KJV:**</sub></small>
-So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.
-<small><sub>**BSB:**</sub></small>
-So Boaz took Ruth, and she became his wife. And when he had relations with her, the LORD enabled her to conceive, and she gave birth to a son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.12|<< Ruth 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.14|Ruth 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

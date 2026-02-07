@@ -1,4 +1,4 @@
-**Isaiah 19:13** 
+**Isaiah 19:13**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, [even they that are] the stay of the tribes thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes of Zoan have become fools; the princes of Memphis are deceived. The 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.12|<< Isaiah 19:12]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.14|Isaiah 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have become fools  |**<big>&#8207;[[H2973\|נֽוֹאֲלוּ֙]]&#8207; </big>**| no.'a.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] officials of  |**<big>&#8207;[[H8269\|שָׂ֣רֵי]]&#8207; </big>**| Sa.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

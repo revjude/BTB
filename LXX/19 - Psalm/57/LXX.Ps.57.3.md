@@ -1,10 +1,7 @@
 **LXX Psalm 57:3** 
 <small><sub>**LXX:**</sub></small>
 He sent out from heaven, and he delivered me. He put the ones trampling me unto scorn. God sent out  his mercy and  his truth; 
-<small><sub>**KJV:**</sub></small>
-He shall send from heaven, and save me [from] the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
-<small><sub>**BSB:**</sub></small>
-He reaches down from heaven and saves me; He rebukes those who trample me. Selah God sends forth His loving devotion and His truth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.57.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.2|<< Psalm 57:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.4|Psalm 57:4 >>]]</td></tr></table>
 
 | Translation | Greek |

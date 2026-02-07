@@ -1,4 +1,4 @@
-**Isaiah 12:5** 
+**Isaiah 12:5**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD; for he hath done excellent things: this [is] known in all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing to the LORD, for He has done glorious things. Let this be known in all the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.4|<< Isaiah 12:4]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.6|Isaiah 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing praises to  |**<big>&#8207;[[H2167\|זַמְּר֣וּ]]&#8207; </big>**| za.me.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

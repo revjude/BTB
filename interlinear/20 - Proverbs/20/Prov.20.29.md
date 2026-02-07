@@ -1,4 +1,4 @@
-**Proverbs 20:29** 
+**Proverbs 20:29**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of young men [is] their strength: and the beauty of old men [is] the gray head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The glory of young men is their strength, and gray hair is the splendor of the o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.28|<< Proverbs 20:28]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.30|Proverbs 20:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] glory of  |**<big>&#8207;[[H8597\|תִּפְאֶ֣רֶת]]&#8207; </big>**| tif.'E.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young men  |**<big>&#8207;[[H0970\|בַּחוּרִ֣ים]]&#8207; </big>**| ba.chu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

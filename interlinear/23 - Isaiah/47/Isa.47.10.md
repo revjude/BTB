@@ -1,4 +1,4 @@
-**Isaiah 47:10** 
+**Isaiah 47:10**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I [am], and none else beside me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You were secure in your wickedness; you said, ‘No one sees me.’ Your wisdom 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.9|<< Isaiah 47:9]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.11|Isaiah 47:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you trusted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0982\|תִּבְטְחִ֣י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiv.te.Chi<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in evil your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7451I\|רָעָתֵ֗]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ra.'a.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

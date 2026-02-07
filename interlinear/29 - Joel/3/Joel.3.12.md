@@ -1,4 +1,4 @@
-**Joel 3:12** (4:12)
+**Joel 3:12**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the nations be roused and advance to the Valley of Jehoshaphat, for there I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.11|<< Joel 3:11]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.13|Joel 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be roused  |**<big>&#8207;[[H5782\|יֵע֙וֹרוּ֙]]&#8207; </big>**| ye.'o.ru<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may go up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5927G\|יַעֲל֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Lu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

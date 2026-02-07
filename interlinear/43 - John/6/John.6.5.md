@@ -1,12 +1,12 @@
-**John 6:5
-**<small><sub>**KJV:**</sub></small>
+**John 6:5**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus then lifted up [his] eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?
 <small><sub>**BSB:**</sub></small>
 When Jesus looked up and saw a large crowd coming toward Him, He said to Philip, “Where can we buy bread for these people to eat?”
 <small><sub>**Literal:**</sub></small>
 Having lifted up then the eyes <the> Jesus and having seen that a great crowd is coming to Him He says to <the> Philip; From where we may buy bread that may eat these?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.4|<< John 6:4]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.6|John 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having lifted up |**<big>[[G1869\|Ἐπάρας]]</big>**  |Eparas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

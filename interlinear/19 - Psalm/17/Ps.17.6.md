@@ -1,4 +1,4 @@
-**Psalms 17:6** 
+**Psalms 17:6**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, [and hear] my speech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I call on You, O God, for You will answer me. Incline Your ear to me; hear my wo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.5|<< Psalms 17:5]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.7|Psalms 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ni-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I call out to you  |**<big>&#8207;[[H7121G\|קְרָאתִ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ke.ra.Ti.<small><sup>[[HVqp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

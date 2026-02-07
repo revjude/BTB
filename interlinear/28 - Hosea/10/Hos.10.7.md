@@ -1,4 +1,4 @@
-**Hosea 10:7** 
+**Hosea 10:7**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] Samaria, her king is cut off as the foam upon the water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Samaria will be carried off with her king like a twig on the surface of the wate
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.6|<< Hosea 10:6]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.8|Hosea 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will] be destroyed  |**<big>&#8207;[[H1820\|נִדְמֶ֥ה]]&#8207; </big>**| nid.Meh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֖וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

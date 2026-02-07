@@ -1,12 +1,12 @@
-**Matthew 19:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:27**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
 <small><sub>**BSB:**</sub></small>
 “Look,” Peter replied, “we have left everything to follow You. What then will there be for us?”
 <small><sub>**Literal:**</sub></small>
 Then answering <the> Peter said to Him; Behold we ourselves left all things and we followed You; what then will be to us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.26|<< Matthew 19:26]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.28|Matthew 19:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

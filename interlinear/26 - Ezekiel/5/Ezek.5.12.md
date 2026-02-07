@@ -1,4 +1,4 @@
-**Ezekiel 5:12** 
+**Ezekiel 5:12**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A third of your people will die by plague or be consumed by famine within you, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.11|<< Ezekiel 5:11]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.13|Ezekiel 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> third [part] of you  |**<big>&#8207;[[H7992\|שְׁלִשִׁתֵ֞]]&#8207;&#8207;[[H9022\|יךְ]]&#8207; </big>**| she.li.shi.Tei<small><sup>[[HAofsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> pestilence  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1698\|דֶּ֣בֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

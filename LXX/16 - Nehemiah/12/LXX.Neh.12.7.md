@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:7** 
 <small><sub>**LXX:**</sub></small>
 Sallu, Amok, Hilkiah, Jedaiah. These \[were\] the rulers of the priests, and their brethren in \[the\] days of Jeshua. 
-<small><sub>**KJV:**</sub></small>
-Sallu, Amok, Hilkiah, Jedaiah. These [were] the chief of the priests and of their brethren in the days of Jeshua.
-<small><sub>**BSB:**</sub></small>
-Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.6|<< Nehemiah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.8|Nehemiah 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

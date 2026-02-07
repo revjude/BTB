@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:2** 
 <small><sub>**LXX:**</sub></small>
 against Egypt, against \[the\] force of Pharaoh Necho king of Egypt, who was at the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck, which \[was\] in the fourth year  of Jehoiakim son of Josiah king of Judah. 
-<small><sub>**KJV:**</sub></small>
-Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
-<small><sub>**BSB:**</sub></small>
-concerning Egypt and the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim the son of Josiah king of Judah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.1|<< Jeremiah 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.3|Jeremiah 46:3 >>]]</td></tr></table>
 
 | Translation | Greek |

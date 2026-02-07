@@ -1,4 +1,4 @@
-**Proverbs 29:12** 
+**Proverbs 29:12**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a ruler hearken to lies, all his servants [are] wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a ruler listens to lies, all his officials will be wicked.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.11|<< Proverbs 29:11]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.13|Proverbs 29:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a ruler  |**<big>&#8207;[[H4910\|מֹ֭שֵׁל]]&#8207; </big>**| Mo.shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] pays attention  |**<big>&#8207;[[H7181\|מַקְשִׁ֣יב]]&#8207; </big>**| mak.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

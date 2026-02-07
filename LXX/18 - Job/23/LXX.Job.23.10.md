@@ -1,10 +1,7 @@
 **LXX Job 23:10** 
 <small><sub>**LXX:**</sub></small>
 For he knows my way already; he examined me as the gold. 
-<small><sub>**KJV:**</sub></small>
-But he knoweth the way that I take: [when] he hath tried me, I shall come forth as gold.
-<small><sub>**BSB:**</sub></small>
-Yet He knows the way I have taken; when He has tested me, I will come forth as gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.9|<< Job 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.11|Job 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

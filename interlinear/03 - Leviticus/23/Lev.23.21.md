@@ -1,4 +1,4 @@
-**Leviticus 23:21** 
+**Leviticus 23:21**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall proclaim on the selfsame day, [that] it may be an holy convocation unto you: ye shall do no servile work [therein: it shall be] a statute for ever in all your dwellings throughout your generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that same day you are to proclaim a sacred assembly, and you must not do any 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.20|<< Leviticus 23:20]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.22|Leviticus 23:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will proclaim  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7121I\|קְרָאתֶ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ke.ra.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] substance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6106H\|עֶ֣צֶם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

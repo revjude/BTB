@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:3** 
 <small><sub>**LXX:**</sub></small>
 And he led  Jaazaniah son of Jeremiah, son of Habaziniah, and  his brethren, and  his sons, and all the family of \[the\] Rechabites; 
-<small><sub>**KJV:**</sub></small>
-Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites;
-<small><sub>**BSB:**</sub></small>
-So I took Jaazaniah son of Jeremiah, the son of Habazziniah, and his brothers and all his sons—the entire house of the Rechabites—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.2|<< Jeremiah 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.4|Jeremiah 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

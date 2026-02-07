@@ -1,10 +1,7 @@
 **LXX Judges 8:35** 
 <small><sub>**LXX:**</sub></small>
 And they did not do mercy with the house of Jerubbaal -- Gideon, according to all the goodness which he did with Israel. 
-<small><sub>**KJV:**</sub></small>
-Neither shewed they kindness to the house of Jerubbaal, [namely], Gideon, according to all the goodness which he had shewed unto Israel.
-<small><sub>**BSB:**</sub></small>
-They did not show kindness to the house of Jerubbaal (that is, Gideon) for all the good things he had done for Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.34|<< Judges 8:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.1|Judges 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

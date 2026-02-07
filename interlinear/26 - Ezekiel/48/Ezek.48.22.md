@@ -1,4 +1,4 @@
-**Ezekiel 48:22** 
+**Ezekiel 48:22**<big><big>[[Ezek.48.21 The Portion for the Prince|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover from the possession of the Levites, and from the possession of the city, [being] in the midst [of that] which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Levitical property and the city property will lie in the center of the ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.21|<< Ezekiel 48:21]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.23|Ezekiel 48:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] possession of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0272\|אֲחֻזַּ֤ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'a.chu.Zat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּם֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

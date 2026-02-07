@@ -1,12 +1,12 @@
-**Luke 8:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:45**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press [thee], and sayest thou, Who touched me?
 <small><sub>**BSB:**</sub></small>
 “Who touched Me?” Jesus asked. But they all denied it. “Master,” said Peter, “the people are crowding and pressing against You.”
 <small><sub>**Literal:**</sub></small>
 And said <the> Jesus; Who [is] the [one] having touched Me? When is  denying [it] however everyone said <the> Peter and those with him: Master, the people surround You and press in and say which one having touched me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.44|<< Luke 8:44]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.46|Luke 8:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

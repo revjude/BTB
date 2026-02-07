@@ -1,4 +1,4 @@
-**Proverbs 11:3** 
+**Proverbs 11:3**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The integrity of the upright guides them, but the perversity of the faithless de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.2|<< Proverbs 11:2]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.4|Proverbs 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] integrity of  |**<big>&#8207;[[H8538\|תֻּמַּ֣ת]]&#8207; </big>**| tu.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֣ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

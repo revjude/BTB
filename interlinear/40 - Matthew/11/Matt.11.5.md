@@ -1,5 +1,5 @@
-**Matthew 11:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:5**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.
 <small><sub>**BSB:**</sub></small>
 The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
@@ -10,7 +10,7 @@ Blind receive sight, and lame walk, lepers are cleansed, and deaf hear, and dead
 > $\quad$ referencing: [[LXX.Isa.26.19|Isa 26:19]] ☩ [[LXX.Isa.29.18|Isa 29:18]] ☩ [[LXX.Isa.35.5|Isa 35:5]] ☩ [[LXX.Isa.42.18|Isa 42:18]] ☩ [[LXX.Isa.61.1|Isa 61:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blind |**<big>[[G5185\|τυφλοὶ]]</big>**  |tuphloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | receive sight, |**<big>[[G0308\|ἀναβλέπουσιν,]]</big>**  |anablepousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 102:26** 
 <small><sub>**LXX:**</sub></small>
 They shall perish, but you shall abide. And all as a garment shall become old; and as a wrap-around \[garment\] you shall coil them, and they shall be changed. 
-<small><sub>**KJV:**</sub></small>
-They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:
-<small><sub>**BSB:**</sub></small>
-They will perish, but You remain; they will all wear out like a garment. Like clothing You will change them, and they will be passed on.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.25|<< Psalm 102:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.27|Psalm 102:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 102:26** is...

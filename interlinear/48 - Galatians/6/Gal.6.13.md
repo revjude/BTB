@@ -1,12 +1,12 @@
-**Galatians 6:13
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:13**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 <small><sub>**BSB:**</sub></small>
 For the circumcised do not even keep the law themselves, yet they want you to be circumcised that they may boast in your flesh.
 <small><sub>**Literal:**</sub></small>
 Not even for those being circumcised themselves [the] Law keep, but they desire you to be circumcised, so that in <the> your flesh they may boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.12|<< Galatians 6:12]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.14|Galatians 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not even |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

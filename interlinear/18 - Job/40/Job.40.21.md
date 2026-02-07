@@ -1,4 +1,4 @@
-**Job 40:21** 
+**Job 40:21**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He lieth under the shady trees, in the covert of the reed, and fens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He lies under the lotus plants, hidden among the reeds of the marsh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.20|<< Job 40:20]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.22|Job 40:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478G\|תַּֽחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.chat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thorny lotus plants  |**<big>&#8207;[[H6628\|צֶאֱלִ֥ים]]&#8207; </big>**| tze.'e.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

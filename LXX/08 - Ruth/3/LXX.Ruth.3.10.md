@@ -1,10 +1,7 @@
 **LXX Ruth 3:10** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said, Being blessed are you by the <span class="smallcaps">lord</span> God, O daughter, for you did good \[in\] your mercy at the last over the first,  for you to not go after \[the\] young men, whether poor or whether rich. 
-<small><sub>**KJV:**</sub></small>
-And he said, Blessed [be] thou of the LORD, my daughter: [for] thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
-<small><sub>**BSB:**</sub></small>
-Then Boaz said, “May the LORD bless you, my daughter. You have shown more kindness now than before, because you have not run after the younger men, whether rich or poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.9|<< Ruth 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.11|Ruth 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

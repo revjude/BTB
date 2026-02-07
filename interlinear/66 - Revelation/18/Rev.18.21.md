@@ -1,5 +1,5 @@
-**Revelation 18:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:21**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a mighty angel took up a stone like a great millstone, and cast [it] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.
 <small><sub>**BSB:**</sub></small>
 Then a mighty angel picked up a stone the size of a great millstone and cast it into the sea, saying: “With such violence the great city of Babylon will be cast down, never to be seen again.
@@ -10,7 +10,7 @@ And took up one angel a mighty stone like a millstone great and cast [it] into t
 > $\quad$ alluding to: [[LXX.Jer.51.63|Jer 51:63-64]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | took up |**<big>[[G0142\|ἦρεν]]</big>**  |ēren <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

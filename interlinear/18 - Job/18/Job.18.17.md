@@ -1,4 +1,4 @@
-**Job 18:17** 
+**Job 18:17**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His remembrance shall perish from the earth, and he shall have no name in the street.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The memory of him perishes from the earth, and he has no name in the land.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.16|<< Job 18:16]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.18|Job 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | memory his  |**<big>&#8207;[[H2143\|זִֽכְר]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zikh.ro<small><sup>[[HNcmsc]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it perishes  |**<big>&#8207;[[H0006\|אָ֭בַד]]&#8207; </big>**| 'A.vad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 23:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:5**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Paul, I wist not, brethren, that he was the high priest: for it is written, Thou shalt not speak evil of the ruler of thy people.
 <small><sub>**BSB:**</sub></small>
 “Brothers,” Paul replied, “I was not aware that he was the high priest, for it is written: ‘Do not speak evil about the ruler of your people.’”
@@ -10,7 +10,7 @@ Was saying then <the> Paul; Not I had known, brothers, that he is high priest; i
 > $\quad$ referencing: [[LXX.Exod.22.28|Exod 22:28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was saying |**<big>[[G5346\|ἔφη]]</big>**  |ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

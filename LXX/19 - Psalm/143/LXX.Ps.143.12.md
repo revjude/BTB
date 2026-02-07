@@ -1,10 +1,7 @@
 **LXX Psalm 143:12** 
 <small><sub>**LXX:**</sub></small>
 And in  your mercy you shall utterly destroy  my enemies; and you shall destroy all the ones afflicting  my soul; for I am your servant. 
-<small><sub>**KJV:**</sub></small>
-And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I [am] thy servant.
-<small><sub>**BSB:**</sub></small>
-And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for I am Your servant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.11|<< Psalm 143:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.1|Psalm 144:1 >>]]</td></tr></table>
 
 | Translation | Greek |

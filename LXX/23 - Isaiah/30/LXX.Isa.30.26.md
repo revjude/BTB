@@ -1,10 +1,7 @@
 **LXX Isaiah 30:26** 
 <small><sub>**LXX:**</sub></small>
 And the light of the moon shall be as the light of the sun; and the light of the sun will be seven-fold in the day whenever \[the\] <span class="smallcaps">lord</span> should heal the breaking up  of his people, and shall heal the grief of your calamity. 
-<small><sub>**KJV:**</sub></small>
-Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound.
-<small><sub>**BSB:**</sub></small>
-The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
 | Translation | Greek |

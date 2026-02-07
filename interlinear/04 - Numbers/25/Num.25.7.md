@@ -1,4 +1,4 @@
-**Numbers 25:7** 
+**Numbers 25:7**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw [it], he rose up from among the congregation, and took a javelin in his hand;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.6|<< Numbers 25:6]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.8|Numbers 25:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֗רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Phinehas  |**<big>&#8207;[[H6372G\|פִּֽינְחָס֙]]&#8207; </big>**| pi.ne.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

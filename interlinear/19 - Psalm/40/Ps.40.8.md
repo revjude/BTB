@@ -1,4 +1,4 @@
-**Psalms 40:8** (40:9)
+**Psalms 40:8**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I delight to do thy will, O my God: yea, thy law [is] within my heart.
 <small><sub>**BSB:**</sub></small>
@@ -11,7 +11,7 @@ I delight to do Your will, O my God; Your law is within my heart.”
 > $\quad$ referenced by: [[Rom.7.22|Rom 7:22]] ☩ [[Heb.8.8|Heb 8:8-12]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to do  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.sot-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will your  |**<big>&#8207;[[H7522\|רְצוֹנְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| re.tzon.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

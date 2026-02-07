@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe upon woe will be, and message upon message will be; and a vision shall be sought from a prophet, and \[the\] law shall be lost of \[the\] priest, and counsel from \[the\] elders; the king shall mourn, 
-<small><sub>**KJV:**</sub></small>
-Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients.
-<small><sub>**BSB:**</sub></small>
-Disaster upon disaster will come, and rumor after rumor. Then they will seek a vision from a prophet, but instruction from the priests will perish, as will counsel from the elders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.25|<< Ezekiel 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.27|Ezekiel 7:27 >>]]</td></tr></table>
 
 | Translation | Greek |

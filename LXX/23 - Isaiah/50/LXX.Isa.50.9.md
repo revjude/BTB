@@ -1,10 +1,7 @@
 **LXX Isaiah 50:9** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] <span class="smallcaps">lord</span> shall help me. Who shall inflict evil on me? Behold, you all shall become old as a cloak, and as a moth you shall be devoured. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Lord GOD will help me; who [is] he [that] shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.
-<small><sub>**BSB:**</sub></small>
-Surely the Lord GOD helps Me. Who is there to condemn Me? See, they will all wear out like a garment; the moths will devour them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.8|<< Isaiah 50:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.10|Isaiah 50:10 >>]]</td></tr></table>
 
 | Translation | Greek |

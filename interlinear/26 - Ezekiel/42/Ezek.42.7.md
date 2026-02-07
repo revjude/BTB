@@ -1,4 +1,4 @@
-**Ezekiel 42:7** 
+**Ezekiel 42:7**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wall that [was] without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof [was] fifty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An outer wall in front of the chambers was fifty cubits long and ran parallel to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.6|<< Ezekiel 42:6]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.8|Ezekiel 42:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] wall  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1447\|גָדֵ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

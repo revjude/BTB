@@ -1,4 +1,4 @@
-**Numbers 16:32** 
+**Numbers 16:32**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth opened her mouth, and swallowed them up, and their houses, and all the men that [appertained] unto Korah, and all [their] goods.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and the earth opened its mouth and swallowed them and their households—all Kor
 > $\quad$ referenced by: [[Jude.1.11|Jude 1:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|תִּפְתַּ֤ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tif.Tach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָ֙רֶץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

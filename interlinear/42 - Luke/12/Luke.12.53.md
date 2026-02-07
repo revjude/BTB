@@ -1,5 +1,5 @@
-**Luke 12:53
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:53**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.
 <small><sub>**BSB:**</sub></small>
 They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”
@@ -10,7 +10,7 @@ They will be divided father against son and son against father, mother against <
 > $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They will be divided [^1] |**<big>[[G1266\|διαμερισθήσονται,]]</big>**  |diameristhēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | father |**<big>[[G3962\|πατὴρ]]</big>**  |patēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

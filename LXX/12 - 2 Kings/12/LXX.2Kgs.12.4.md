@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:4** 
 <small><sub>**LXX:**</sub></small>
 And Joash said to the priests, All the money of the holy \[things\]  coming in as income into the house of \[the\] <span class="smallcaps">lord</span>, \[the\] money of \[the\] valuation of a man, \[the\] money of valuation of souls, all money what ever ascends upon \[the\] heart of a man  to bring in \[the\] house of \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the LORD, [even] the money of every one that passeth [the account], the money that every man is set at, [and] all the money that cometh into any man’s heart to bring into the house of the LORD,
-<small><sub>**BSB:**</sub></small>
-Then Joash said to the priests, “Collect all the money brought as sacred gifts into the house of the LORD—the census money, the money from vows, and the money brought voluntarily into the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.3|<< 2 Kings 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.5|2 Kings 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

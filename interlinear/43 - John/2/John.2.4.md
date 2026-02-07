@@ -1,12 +1,12 @@
-**John 2:4
-**<small><sub>**KJV:**</sub></small>
+**John 2:4**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
 <small><sub>**BSB:**</sub></small>
 “Woman, what is that to you and to Me?” Jesus replied. “My hour has not yet come.”
 <small><sub>**Literal:**</sub></small>
 And says to her <the> Jesus; What to Me myself and to you, woman? Not yet is come the hour for Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.3|<< John 2:3]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.5|John 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">no</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

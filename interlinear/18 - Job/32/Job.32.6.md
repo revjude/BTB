@@ -1,4 +1,4 @@
-**Job 32:6** 
+**Job 32:6**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elihu the son of Barachel the Buzite answered and said, I [am] young, and ye [are] very old; wherefore I was afraid, and durst not shew you mine opinion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Elihu son of Barachel the Buzite declared: “I am young in years, while you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.5|<< Job 32:5]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.7|Job 32:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֤עַן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elihu  |**<big>&#8207;[[H0453K\|אֱלִיה֖וּא]]&#8207; </big>**| 'e.li.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

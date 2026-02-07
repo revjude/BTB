@@ -1,10 +1,7 @@
 **LXX Psalm 85:5** 
 <small><sub>**LXX:**</sub></small>
 Shall you be provoked to anger against us into the eons? Or shall you extend  your anger from generation unto generation? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?
-<small><sub>**BSB:**</sub></small>
-Will You be angry with us forever? Will You draw out Your anger to all generations?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.4|<< Psalm 85:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.6|Psalm 85:6 >>]]</td></tr></table>
 
 | Translation | Greek |

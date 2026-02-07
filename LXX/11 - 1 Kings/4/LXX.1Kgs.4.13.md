@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] son of Geber in Ramoth Gilead -- of this one were cities of Jair son of Manasseh in Gilead; to this one \[was\] a piece of measured out land, Argob in  Bashan -- sixty cities, great and walled and bars of brass. 
-<small><sub>**KJV:**</sub></small>
-The son of Geber, in Ramothgilead; to him [pertained] the towns of Jair the son of Manasseh, which [are] in Gilead; to him [also pertained] the region of Argob, which [is] in Bashan, threescore great cities with walls and brasen bars:
-<small><sub>**BSB:**</sub></small>
-Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

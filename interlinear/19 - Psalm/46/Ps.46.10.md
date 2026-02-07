@@ -1,4 +1,4 @@
-**Psalms 46:10** (46:11)
+**Psalms 46:10**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be still, and know that I [am] God: I will be exalted among the heathen, I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.9|<< Psalms 46:9]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.11|Psalms 46:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be quiet  |**<big>&#8207;[[H7503\|הַרְפּ֣וּ]]&#8207; </big>**| har.Pu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and know  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H3045\|דְעוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> de.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

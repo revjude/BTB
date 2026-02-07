@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:7** 
 <small><sub>**LXX:**</sub></small>
 And all the leaders of the force in \[the\] field heard, they and  their force, that \[the\] king of Babylon established  Gedaliah in the land, and that they deposited to his care men and their wives, and the simple \[people\], and for the needy of the land which he resettled not in Babylon. 
-<small><sub>**KJV:**</sub></small>
-Now when all the captains of the forces which [were] in the fields, [even] they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;
-<small><sub>**BSB:**</sub></small>
-When all the commanders and men of the armies in the field heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and that he had put him in charge of the men, women, and children who were the poorest of the land and had not been exiled to Babylon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.6|<< Jeremiah 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.8|Jeremiah 40:8 >>]]</td></tr></table>
 
 | Translation | Greek |

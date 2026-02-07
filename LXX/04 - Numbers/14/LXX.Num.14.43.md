@@ -1,10 +1,7 @@
 **LXX Numbers 14:43** 
 <small><sub>**LXX:**</sub></small>
 For  Amalek and the Canaanite \[are\] there in front of you, and you shall fall \[by the\] sword, because you were turned resisting \[the\] persuasion \[by the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> will not be with you. 
-<small><sub>**KJV:**</sub></small>
-For the Amalekites and the Canaanites [are] there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.
-<small><sub>**BSB:**</sub></small>
-For there the Amalekites and Canaanites will face you, and you will fall by the sword. Because you have turned away from the LORD, He will not be with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.42|<< Numbers 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.44|Numbers 14:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 39:5** 
+**Job 39:5**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who set the wild donkey free? Who released the swift donkey from the harness?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.4|<< Job 39:4]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.6|Job 39:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did he let loose  |**<big>&#8207;[[H7971H\|שִׁלַּ֣ח]]&#8207; </big>**| shi.Lach<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

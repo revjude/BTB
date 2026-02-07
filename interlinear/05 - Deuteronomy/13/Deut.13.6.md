@@ -1,4 +1,4 @@
-**Deuteronomy 13:6** (13:7)
+**Deuteronomy 13:6**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which [is] as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If your very own brother, or your son or daughter, or the wife you embrace, or y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will entice you  |**<big>&#8207;[[H5496\|יְסִֽיתְ]]&#8207;&#8207;[[H9031\|ךָ֡]]&#8207; </big>**| ye.si.te.<small><sup>[[HVhi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Micah 6:9** 
+**Micah 6:9**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD’S voice crieth unto the city, and [the man of] wisdom shall see thy name: hear ye the rod, and who hath appointed it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The voice of the LORD calls out to the city (and it is sound wisdom to fear Your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.8|<< Micah 6:8]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.10|Micah 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] voice of  |**<big>&#8207;[[H6963A\|ק֤וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

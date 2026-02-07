@@ -1,4 +1,4 @@
-**Isaiah 2:2** 
+**Isaiah 2:2**<big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in the last days, [that] the mountain of the LORD’S house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the last days the mountain of the house of the LORD will be established as th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.1|<< Isaiah 2:1]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.3|Isaiah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] end of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0319\|אַחֲרִ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

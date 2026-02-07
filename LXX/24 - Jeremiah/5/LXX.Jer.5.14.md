@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span> almighty, Because you spoke  this word, behold, I have given  my words into  your mouth as fire, and  this people as wood, and it shall devour them. 
-<small><sub>**KJV:**</sub></small>
-Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD God of Hosts says: “Because you have spoken this word, I will make My words a fire in your mouth and this people the wood it consumes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.13|<< Jeremiah 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.15|Jeremiah 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

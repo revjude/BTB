@@ -1,10 +1,7 @@
 **LXX Genesis 48:18** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to his father, Not so father, for this one \[is\] the first-born; place  your right \[hand\] upon  his head. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his father, Not so, my father: for this [is] the firstborn; put thy right hand upon his head.
-<small><sub>**BSB:**</sub></small>
-“Not so, my father!” Joseph said. “This one is the firstborn; put your right hand on his head.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.17|<< Genesis 48:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.19|Genesis 48:19 >>]]</td></tr></table>
 
 | Translation | Greek |

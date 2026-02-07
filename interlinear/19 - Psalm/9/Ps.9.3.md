@@ -1,4 +1,4 @@
-**Psalms 9:3** (9:4)
+**Psalms 9:3**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When mine enemies are turned back, they shall fall and perish at thy presence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When my enemies retreat, they stumble and perish before You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.2|<< Psalms 9:2]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.4|Psalms 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when turn  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725G\|שׁוּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shuv-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies my  |**<big>&#8207;[[H0341\|אוֹיְבַ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

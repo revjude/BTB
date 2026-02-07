@@ -1,12 +1,12 @@
-**Luke 21:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:15**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
 <small><sub>**BSB:**</sub></small>
 For I will give you speech and wisdom that none of your adversaries will be able to resist or contradict.
 <small><sub>**Literal:**</sub></small>
 I myself for will give you a mouth and wisdom which not will be able to resist nor to reply to all those opposing you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.14|<< Luke 21:14]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.16|Luke 21:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

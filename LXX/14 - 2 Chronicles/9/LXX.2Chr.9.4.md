@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:4** 
 <small><sub>**LXX:**</sub></small>
 and the foods \[of\] his tables, and \[the\] form of his servants, and \[the\] station of his ministers, and  their garments, and  his wine servers, and  their uniform, and the whole burnt-offerings which he offered in \[the\] house of \[the\] <span class="smallcaps">lord</span>; and there was no breath in her any longer. 
-<small><sub>**KJV:**</sub></small>
-And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the LORD; there was no more spirit in her.
-<small><sub>**BSB:**</sub></small>
-the food at his table, the seating of his servants, the service and attire of his attendants, the attire of his cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.3|<< 2 Chronicles 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.5|2 Chronicles 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

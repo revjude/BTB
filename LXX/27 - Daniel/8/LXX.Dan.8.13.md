@@ -1,10 +1,7 @@
 **LXX Daniel 8:13** 
 <small><sub>**LXX:**</sub></small>
 And I heard one holy one speaking. And one holy one said to the Phelmouni, to the one speaking, For how long shall the vision stand, the taking away the sacrifice, and the granting the sin of desolation, and the holy place and the force shall be trampled upon? 
-<small><sub>**KJV:**</sub></small>
-Then I heard one saint speaking, and another saint said unto that certain [saint] which spake, How long [shall be] the vision [concerning] the daily [sacrifice], and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?
-<small><sub>**BSB:**</sub></small>
-Then I heard a holy one speaking, and another holy one said to him, “How long until the fulfillment of the vision of the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host to be trampled?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.12|<< Daniel 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.14|Daniel 8:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 8:13** is...

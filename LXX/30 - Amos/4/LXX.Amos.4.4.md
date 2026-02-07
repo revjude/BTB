@@ -1,10 +1,7 @@
 **LXX Amos 4:4** 
 <small><sub>**LXX:**</sub></small>
 You entered into Beth-el, and were impious; and in Gilgal you multiplied  to be impious; and you brought in the morning of your sacrifice \[offerings\] in the third day  of your tithes. 
-<small><sub>**KJV:**</sub></small>
-Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, [and] your tithes after three years:
-<small><sub>**BSB:**</sub></small>
-“Go to Bethel and transgress; rebel even more at Gilgal! Bring your sacrifices every morning, your tithes every three days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.3|<< Amos 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.5|Amos 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

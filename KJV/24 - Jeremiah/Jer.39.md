@@ -1,6 +1,6 @@
 (KJV) **Jeremiah 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38|<< Jeremiah 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40|Jeremiah 40 >>]]</td></tr></table>
 
-***The Fall of Jerusalem***&emsp;<small><sup>\[ [[2Kgs.25|2 Kings 25:1–12]] <big>†</big> [[2Chr.36|2 Chronicles 36:15–21]] ]</sup></small> ^bsb1783
+<big><big>[[Jer.39.1 The Fall of Jerusalem|⥃]]</big></big>***The Fall of Jerusalem***&emsp;<small><sup>\[ [[2Kgs.25|2 Kings 25:1–12]] <big>†</big> [[2Chr.36|2 Chronicles 36:15–21]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Jer.39.1|1]]**<span class="endversemarker">]</span> In the ninth<small><small>[^2]</small></small> year of Zedekiah king of Judah, in the tenth<small><small>[^3]</small></small> month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Jer.39.2|2]]**<span class="endversemarker">]</span> \[And\] in the eleventh year of Zedekiah, in the fourth<small><small>[^5]</small></small> month, the ninth \[day\] of the month, the city was<small><small>[^6]</small></small> broken up.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Jer.39.3|3]]**<span class="endversemarker">]</span> And all the<small><small>[^8]</small></small> princes of the king of Babylon came in, and sat in the middle gate, \[even\] Nergal–sharezer<small><small>[^9]</small></small>, Samgar–nebo, Sarsechim<small><small>[^10]</small></small>, Rab–saris, Nergal–sharezer, Rab–mag, with all the residue of the princes of the king of Babylon. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Jer.39.4|4]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Jer.39.8|8]]**<span class="endversemarker">]</span> [¶]And the Chaldeans burned<small><small>[^23]</small></small> the king’s house, and the houses of the people, with fire, and brake<small><small>[^24]</small></small> down the walls of Jerusalem. <span class="startversemarker">[</span>**[[Jer.39.9|9]]**<span class="endversemarker">]</span> Then Nebuzar–adan<small><small>[^25]</small></small> the captain of the guard<small><small>[^26]</small></small> carried<small><small>[^27]</small></small> away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained. <span class="startversemarker">[</span>**[[Jer.39.10|10]]**<span class="endversemarker">]</span> But Nebuzar–adan the captain of the guard left of<small><small>[^28]</small></small> the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time<small><small>[^29]</small></small>.
 
-***Jeremiah Delivered*** ^bsb1784
+<big><big>[[Jer.39.11 Jeremiah Delivered|⥃]]</big></big>***Jeremiah Delivered***
 
  
 

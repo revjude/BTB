@@ -1,10 +1,7 @@
 **LXX Ezra 2:68** 
 <small><sub>**LXX:**</sub></small>
 And from the rulers of the families in  their entering into the house of \[the\] <span class="smallcaps">lord</span>, the one in Jerusalem, concerning \[the\] house of God they were willing  to establish it for  its preparation. 
-<small><sub>**KJV:**</sub></small>
-And [some] of the chief of the fathers, when they came to the house of the LORD which [is] at Jerusalem, offered freely for the house of God to set it up in his place:
-<small><sub>**BSB:**</sub></small>
-When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.67|<< Ezra 2:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.69|Ezra 2:69 >>]]</td></tr></table>
 
 | Translation | Greek |

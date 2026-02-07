@@ -1,4 +1,4 @@
-**Ezekiel 17:20** 
+**Ezekiel 17:20**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will spread My net over him and catch him in My snare. I will bring him to Bab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.19|<< Ezekiel 17:19]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.21|Ezekiel 17:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will spread  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6566\|פָרַשְׂתִּ֤י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.ras.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

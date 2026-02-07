@@ -1,12 +1,12 @@
-**Acts 24:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:8**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him.
 <small><sub>**BSB:**</sub></small>
 By examining him yourself, you will be able to learn the truth about all our charges against him.”
 <small><sub>**Literal:**</sub></small>
 having commanded the accusers of him to come upon you; From him you will be able yourself having examined [him] concerning all these things to know of which we ourselves accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.7|<< Acts 24:7]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.9|Acts 24:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having commanded |**<big>[[G2753\|κελεύσας]]</big>**  |keleusas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="TR">K</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="TR">K</abbr> | |

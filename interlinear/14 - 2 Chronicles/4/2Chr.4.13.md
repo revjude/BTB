@@ -1,4 +1,4 @@
-**2 Chronicles 4:13** 
+**2 Chronicles 4:13**<big><big>[[2Chr.4.11 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the chapiters which [were] upon the pillars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the four hundred pomegranates for the two sets of network (two rows of pomegrana
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.12|<< 2 Chronicles 4:12]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.14|2 Chronicles 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pomegranates  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7416\|רִמּוֹנִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

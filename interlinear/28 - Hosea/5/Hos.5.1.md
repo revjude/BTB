@@ -1,4 +1,4 @@
-**Hosea 5:1** 
+**Hosea 5:1**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment [is] toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O hou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֨את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

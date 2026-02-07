@@ -1,4 +1,4 @@
-**Psalms 76:11** (76:12)
+**Psalms 76:11**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make and fulfill your vows to the LORD your God; let all the neighboring lands b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.10|<< Psalms 76:10]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.12|Psalms 76:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make vows  |**<big>&#8207;[[H5087\|נִֽדֲר֣וּ]]&#8207; </big>**| ni.da.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and pay [them]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7999A\|שַׁלְּמוּ֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.le.Mu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

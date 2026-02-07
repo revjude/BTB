@@ -1,4 +1,4 @@
-**Psalms 83:8** (83:9)
+**Psalms 83:8**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Assur also is joined with them: they have holpen the children of Lot. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even Assyria has joined them, lending strength to the sons of Lot. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.7|<< Psalms 83:7]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.9|Psalms 83:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Assyria  |**<big>&#8207;[[H0804G\|אַ֭שּׁוּר]]&#8207; </big>**| 'A.shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

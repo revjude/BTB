@@ -1,4 +1,4 @@
-**Nehemiah 2:10** 
+**Nehemiah 2:10**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard [of it], it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when Sanballat the Horonite and Tobiah the Ammonite official heard about thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.9|<< Nehemiah 2:9]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.11|Nehemiah 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sanballat  |**<big>&#8207;[[H5571\|סַנְבַלַּ֣ט]]&#8207; </big>**| san.va.Lat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

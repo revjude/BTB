@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:3** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of \[the\] sons of Ammon said to Hanun  their master, Is the reason for  David to glorify  your father before you that he sent to you comforters? or is it not however that they should search the city, and spy it; for  to survey it David sent  his servants to you? 
-<small><sub>**KJV:**</sub></small>
-And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David [rather] sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?
-<small><sub>**BSB:**</sub></small>
-the princes of the Ammonites said to Hanun their lord, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.2|<< 2 Samuel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.4|2 Samuel 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

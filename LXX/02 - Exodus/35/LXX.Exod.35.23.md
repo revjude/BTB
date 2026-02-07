@@ -1,10 +1,7 @@
 **LXX Exodus 35:23** 
 <small><sub>**LXX:**</sub></small>
 And all as many as brought choice-portions of gold \[to the\] <span class="smallcaps">lord</span>, and all which was found by them of blue, and purple, and scarlet, and linen, and skins of rams being dyed red, and skins of blue -- they brought. 
-<small><sub>**KJV:**</sub></small>
-And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ [hair], and red skins of rams, and badgers’ skins, brought [them].
-<small><sub>**BSB:**</sub></small>
-Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.22|<< Exodus 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.24|Exodus 35:24 >>]]</td></tr></table>
 
 | Translation | Greek |

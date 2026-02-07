@@ -1,4 +1,4 @@
-**Judges 13:5** 
+**Judges 13:5**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, thou shalt conceive, and bear a son; and no rasor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For behold, you will conceive and give birth to a son. And no razor shall touch 
 > $\quad$ referenced by: [[Matt.2.23|Matt 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here you  |**<big>&#8207;[[H2009\|הִנָּ֨]]&#8207;&#8207;[[H9042\|ךְ]]&#8207; </big>**| hi.Na<small><sup>[[HTj]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:9** 
 <small><sub>**LXX:**</sub></small>
 and you murder, and you commit adultery, and steal, and swear upon an oath unjustly, and burn incense  to Baal, and go after strange gods whom you do not know, 
-<small><sub>**KJV:**</sub></small>
-Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;
-<small><sub>**BSB:**</sub></small>
-Will you steal and murder, commit adultery and perjury, burn incense to Baal, and follow other gods that you have not known,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.8|<< Jeremiah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.10|Jeremiah 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

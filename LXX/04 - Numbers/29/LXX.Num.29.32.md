@@ -1,10 +1,7 @@
 **LXX Numbers 29:32** 
 <small><sub>**LXX:**</sub></small>
 The seventh day -- seven calves, two rams, fourteen unblemished lambs of a year \[old\], 
-<small><sub>**KJV:**</sub></small>
-And on the seventh day seven bullocks, two rams, [and] fourteen lambs of the first year without blemish:
-<small><sub>**BSB:**</sub></small>
-On the seventh day you are to present seven bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.31|<< Numbers 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.33|Numbers 29:33 >>]]</td></tr></table>
 
 | Translation | Greek |

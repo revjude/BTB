@@ -1,4 +1,4 @@
-**Exodus 29:20** 
+**Exodus 29:20**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou kill the ram, and take of his blood, and put [it] upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Slaughter the ram, take some of its blood, and put it on the right earlobes of A
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.19|<< Exodus 29:19]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.21|Exodus 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will slaughter  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7819A\|שָׁחַטְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.cha.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

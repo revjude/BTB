@@ -1,4 +1,4 @@
-**Song of Solomon 5:11** 
+**Song of Solomon 5:11**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His head [is as] the most fine gold, his locks [are] bushy, [and] black as a raven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His head is purest gold; his hair is wavy and black as a raven.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.10|<< Song of Solomon 5:10]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.12|Song of Solomon 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | head his  |**<big>&#8207;[[H7218A\|רֹאשׁ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] gold of  |**<big>&#8207;[[H3800\|כֶּ֣תֶם]]&#8207; </big>**| Ke.tem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

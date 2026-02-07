@@ -1,4 +1,4 @@
-**Psalms 119:78** 
+**Psalms 119:78**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the proud be ashamed; for they dealt perversely with me without a cause: [but] I will meditate in thy precepts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the arrogant be put to shame for subverting me with a lie; I will meditate o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.77|<< Psalms 119:77]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.79|Psalms 119:79 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֣שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrogant [people]  |**<big>&#8207;[[H2086\|זֵ֭דִים]]&#8207; </big>**| Ze.dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

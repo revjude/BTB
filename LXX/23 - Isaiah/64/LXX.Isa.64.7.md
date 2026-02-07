@@ -1,10 +1,7 @@
 **LXX Isaiah 64:7** 
 <small><sub>**LXX:**</sub></small>
 And there is no one  calling upon  your name, \[nor\]  one remembering to take hold of you. For you turned  your face from us, and you delivered us up because of  our sins. 
-<small><sub>**KJV:**</sub></small>
-And [there is] none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.
-<small><sub>**BSB:**</sub></small>
-No one calls on Your name or strives to take hold of You. For You have hidden Your face from us and delivered us into the hand of our iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.6|<< Isaiah 64:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.8|Isaiah 64:8 >>]]</td></tr></table>
 
 | Translation | Greek |

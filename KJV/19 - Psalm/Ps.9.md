@@ -1,6 +1,6 @@
 (KJV) **Psalm 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8|<< Psalm 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10|Psalm 10 >>]]</td></tr></table>
 
-***I Will Give Thanks to the LORD*** ^bsb1302
+<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥃]]</big></big>***I Will Give Thanks to the LORD***
 
 
 

@@ -1,4 +1,4 @@
-**1 Samuel 25:41** 
+**1 Samuel 25:41**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she arose, and bowed herself on [her] face to the earth, and said, Behold, [let] thine handmaid [be] a servant to wash the feet of the servants of my lord.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She arose, bowed facedown, and said, “Here is your servant, ready to serve and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.40|<< 1 Samuel 25:40]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.42|1 Samuel 25:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֕קָם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|תִּשְׁתַּ֥חוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Ta.chu<small><sup>[[HVvw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

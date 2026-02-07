@@ -1,10 +1,7 @@
 **LXX Proverbs 15:11** 
 <small><sub>**LXX:**</sub></small>
 Hades and destruction \[are made\] apparent by \[the\] <span class="smallcaps">lord</span>; how not also the hearts of men? 
-<small><sub>**KJV:**</sub></small>
-Hell and destruction [are] before the LORD: how much more then the hearts of the children of men?
-<small><sub>**BSB:**</sub></small>
-Sheol and Abaddon lie open before the LORD—how much more the hearts of men!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.10|<< Proverbs 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.12|Proverbs 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

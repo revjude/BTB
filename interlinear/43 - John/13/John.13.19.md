@@ -1,12 +1,12 @@
-**John 13:19
-**<small><sub>**KJV:**</sub></small>
+**John 13:19**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I tell you before it come, that, when it is come to pass, ye may believe that I am [he].
 <small><sub>**BSB:**</sub></small>
 I am telling you now before it happens, so that when it comes to pass, you will believe that I am He.
 <small><sub>**Literal:**</sub></small>
 From now I am telling you before <the> it comes to pass, so that you may believe when it may happen that I myself am [He].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.18|<< John 13:18]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.20|John 13:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπ᾽]]</big>**  |Ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn»1»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G0737\|ἄρτι]]</big>**  |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

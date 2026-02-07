@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:16** 
 <small><sub>**LXX:**</sub></small>
 For \[it is\] an abomination \[to the\] <span class="smallcaps">lord</span>  your God every one doing these \[things\] -- every one doing unjustly. 
-<small><sub>**KJV:**</sub></small>
-For all that do such things, [and] all that do unrighteously, [are] an abomination unto the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-For everyone who behaves dishonestly in regard to these things is detestable to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.15|<< Deuteronomy 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.17|Deuteronomy 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

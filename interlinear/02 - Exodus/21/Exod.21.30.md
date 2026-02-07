@@ -1,4 +1,4 @@
-**Exodus 21:30** 
+**Exodus 21:30**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If payment is demanded of him instead, he may redeem his life by paying the full
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.29|<< Exodus 21:29]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.31|Exodus 21:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ransom  |**<big>&#8207;[[H3724A\|כֹּ֖פֶר]]&#8207; </big>**| Ko.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

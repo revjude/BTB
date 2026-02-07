@@ -1,12 +1,12 @@
-**John 1:29
-**<small><sub>**KJV:**</sub></small>
+**John 1:29**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
 <small><sub>**BSB:**</sub></small>
 The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!
 <small><sub>**Literal:**</sub></small>
 On the next day he sees <the> John <the> Jesus coming to him and says; Behold the Lamb <the> of God, who is taking away the sin of the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.28|<< John 1:28]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.30|John 1:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | next day |**<big>[[G1887\|ἐπαύριον]]</big>**  |epaurion <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:39** 
 <small><sub>**LXX:**</sub></small>
 And I will crush them, and they shall not rise up; and they shall fall under  my feet. 
-<small><sub>**KJV:**</sub></small>
-And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.
-<small><sub>**BSB:**</sub></small>
-I devoured and crushed them so they could not rise; they have fallen under my feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.38|<< 2 Samuel 22:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.40|2 Samuel 22:40 >>]]</td></tr></table>
 
 | Translation | Greek |

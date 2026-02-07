@@ -1,4 +1,4 @@
-**Isaiah 43:20** 
+**Isaiah 43:20**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, [and] rivers in the desert, to give drink to my people, my chosen.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The beasts of the field will honor Me, the jackals and the ostriches, because I 
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it honors me  |**<big>&#8207;[[H3513G\|תְּכַבְּדֵ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| te.kha.be.De.<small><sup>[[HVpi3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] animal[s] of  |**<big>&#8207;[[H2416C\|חַיַּ֣ת]]&#8207; </big>**| chai.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

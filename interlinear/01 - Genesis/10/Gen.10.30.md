@@ -1,4 +1,4 @@
-**Genesis 10:30** 
+**Genesis 10:30**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their territory extended from Mesha to Sephar, in the eastern hill country.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.29|<< Genesis 10:29]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.31|Genesis 10:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dwelling place their  |**<big>&#8207;[[H4186\|מוֹשָׁבָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mo.sha.Va<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

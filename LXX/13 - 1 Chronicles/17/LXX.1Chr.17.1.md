@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as David dwelt in  his house, and David said to Nathan the prophet, Behold, I dwell in a house of cedar, and the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span> \[is\] underneath hide coverings. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD [remaineth] under curtains.
-<small><sub>**BSB:**</sub></small>
-After David had settled into his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the LORD is under a tent.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.43|<< 1 Chronicles 16:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.2|1 Chronicles 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

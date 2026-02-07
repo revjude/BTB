@@ -1,4 +1,4 @@
-**Isaiah 28:4** 
+**Isaiah 28:4**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glorious beauty, which [is] on the head of the fat valley, shall be a fading flower, [and] as the hasty fruit before the summer; which [when] he that looketh upon it seeth, while it is yet in his hand he eateth it up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fading flower of his beautiful splendor, set on the summit above the fertile
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.3|<< Isaiah 28:3]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.5|Isaiah 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָ֨יְתָ֜ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a flower  |**<big>&#8207;[[H6733\|צִיצַ֤ת]]&#8207; </big>**| tzi.Tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

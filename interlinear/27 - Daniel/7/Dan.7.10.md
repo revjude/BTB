@@ -1,4 +1,4 @@
-**Daniel 7:10** 
+**Daniel 7:10**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A river of fire was flowing, coming out from His presence. Thousands upon thousa
 > $\quad$ referenced by: [[Rev.5.11|Rev 5:11]] ☩ [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a river  |**<big>&#8207;[[H5103H\|נְהַ֣ר]]&#8207; </big>**| ne.Har<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H1768\|דִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

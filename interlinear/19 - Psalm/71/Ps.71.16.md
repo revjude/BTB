@@ -1,4 +1,4 @@
-**Psalms 71:16** 
+**Psalms 71:16**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go in the strength of the Lord GOD: I will make mention of thy righteousness, [even] of thine only.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will come in the strength of the Lord GOD; I will proclaim Your righteousness�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.15|<< Psalms 71:15]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.17|Psalms 71:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will come  |**<big>&#8207;[[H0935G\|אָב֗וֹא]]&#8207; </big>**| 'a.Vo'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with [the] mighty deeds of  |**<big>&#8207;[[H9003\|בִּ֭]]&#8207;&#8207;[[H1369\|גְבֻרוֹת]]&#8207; </big>**| Bi<small><sup>[[HR]]</sup></small> g.vu.rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

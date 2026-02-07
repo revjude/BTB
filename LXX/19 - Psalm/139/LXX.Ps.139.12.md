@@ -1,10 +1,7 @@
 **LXX Psalm 139:12** 
 <small><sub>**LXX:**</sub></small>
 for darkness will not be made darkness with you; and night as day shall be given light; as  its darkness, so also  its light. 
-<small><sub>**KJV:**</sub></small>
-Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light [are] both alike [to thee].
-<small><sub>**BSB:**</sub></small>
-even the darkness is not dark to You, but the night shines like the day, for darkness is as light to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.11|<< Psalm 139:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.13|Psalm 139:13 >>]]</td></tr></table>
 
 | Translation | Greek |

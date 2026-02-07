@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:7** 
 <small><sub>**LXX:**</sub></small>
 And David persuaded  his men by words, and he did not give \[in\] to them to rise up and to put Saul to death. And Saul rose up and went forth into the way from the cave. 
-<small><sub>**KJV:**</sub></small>
-So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on [his] way.
-<small><sub>**BSB:**</sub></small>
-With these words David restrained his men, and he did not let them rise up against Saul. Then Saul left the cave and went on his way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.6|<< 1 Samuel 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.8|1 Samuel 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

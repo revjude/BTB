@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:18** 
 <small><sub>**LXX:**</sub></small>
 And I will give the men, the ones passing  my covenant, the ones not establishing  my covenant, which they made in front of me, the calf which they cut in two parts, and I went through in \[the\] midst  of its parts, 
-<small><sub>**KJV:**</sub></small>
-And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me, when they cut the calf in twain, and passed between the parts thereof,
-<small><sub>**BSB:**</sub></small>
-And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.17|<< Jeremiah 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.19|Jeremiah 34:19 >>]]</td></tr></table>
 
 | Translation | Greek |

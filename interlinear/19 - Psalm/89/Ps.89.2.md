@@ -1,4 +1,4 @@
-**Psalms 89:2** (89:3)
+**Psalms 89:2**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have said, “Loving devotion is built up forever; in the heavens You esta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.1|<< Psalms 89:1]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.3|Psalms 89:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have said  |**<big>&#8207;[[H0559\|אָמַ֗רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

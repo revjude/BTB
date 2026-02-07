@@ -1,10 +1,7 @@
 **LXX Joshua 10:10** 
 <small><sub>**LXX:**</sub></small>
 that \[the\] <span class="smallcaps">lord</span> startled them from in front of Israel, and \[the\] <span class="smallcaps">lord</span> defeated them with a great defeat in Gibeon. And they pursued them by \[the\] way ascending to Beth-horon, and they slew them unto Azekah and unto Makkedah. 
-<small><sub>**KJV:**</sub></small>
-And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah.
-<small><sub>**BSB:**</sub></small>
-And the LORD threw them into confusion before Israel, who defeated them in a great slaughter at Gibeon, pursued them along the ascent to Beth-horon, and struck them down as far as Azekah and Makkedah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.9|<< Joshua 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.11|Joshua 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

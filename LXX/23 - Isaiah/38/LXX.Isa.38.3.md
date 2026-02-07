@@ -1,10 +1,7 @@
 **LXX Isaiah 38:3** 
 <small><sub>**LXX:**</sub></small>
 saying, Remember, O <span class="smallcaps">lord</span>, as I was gone before you with truth, in a true heart, and the \[things\] pleasing before you I did. And Hezekiah wept with great weeping. 
-<small><sub>**KJV:**</sub></small>
-And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.
-<small><sub>**BSB:**</sub></small>
-saying, “Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.2|<< Isaiah 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.4|Isaiah 38:4 >>]]</td></tr></table>
 
 | Translation | Greek |

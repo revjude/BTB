@@ -1,12 +1,12 @@
-**Matthew 18:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:25**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.
 <small><sub>**BSB:**</sub></small>
 Since the man was unable to pay, the master ordered that he be sold to pay his debt, along with his wife and children and everything he owned.
 <small><sub>**Literal:**</sub></small>
 [When] not is having [anything] now he to pay he commanded him the master of him to be sold and the wife of him and the children and all as much as he has and payment to be made.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.24|<< Matthew 18:24]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.26|Matthew 18:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [When] not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is having [anything] |**<big>[[G2192\|ἔχοντος]]</big>**  |echontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

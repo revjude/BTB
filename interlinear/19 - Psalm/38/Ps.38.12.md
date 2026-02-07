@@ -1,4 +1,4 @@
-**Psalms 38:12** (38:13)
+**Psalms 38:12**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They also that seek after my life lay snares [for me]: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who seek my life lay snares; those who wish me harm speak destruction, plo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.11|<< Psalms 38:11]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.13|Psalms 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set traps  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5367\|יְנַקְשׁ֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.nak.Shu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] seek  |**<big>&#8207;[[H1245\|מְבַקְשֵׁ֬י]]&#8207; </big>**| me.vak.Shei<small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

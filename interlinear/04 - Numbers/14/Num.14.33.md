@@ -1,4 +1,4 @@
-**Numbers 14:33** 
+**Numbers 14:33**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your children will be shepherds in the wilderness for forty years, and they will
 > $\quad$ referenced by: [[Acts.13.18|Acts 13:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and children your  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9026\|כֶם]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|יִהְי֨וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

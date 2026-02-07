@@ -1,12 +1,12 @@
-**Romans 1:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:25**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 They exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is forever worthy of praise! Amen.
 <small><sub>**Literal:**</sub></small>
 who changed the truth <the> of God into the falsehood, and they reverenced and they served the created thing beyond the [One] having created [it], who is blessed to the ages! Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.24|<< Romans 1:24]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.26|Romans 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | changed |**<big>[[G3337\|μετήλλαξαν]]</big>**  |metēllaxan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

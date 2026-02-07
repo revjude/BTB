@@ -1,10 +1,7 @@
 **LXX Genesis 34:19** 
 <small><sub>**LXX:**</sub></small>
 And the young \[man\] did not pass time  to do  this word, for he clung to the daughter of Jacob. And he was most honorable of all of the \[ones\] in the house  of his father. 
-<small><sub>**KJV:**</sub></small>
-And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he [was] more honourable than all the house of his father.
-<small><sub>**BSB:**</sub></small>
-The young man, who was the most respected of all his father’s household, did not hesitate to fulfill this request, because he was delighted with Jacob’s daughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.18|<< Genesis 34:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.20|Genesis 34:20 >>]]</td></tr></table>
 
 | Translation | Greek |

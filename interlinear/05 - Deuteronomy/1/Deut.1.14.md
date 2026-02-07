@@ -1,4 +1,4 @@
-**Deuteronomy 1:14** 
+**Deuteronomy 1:14**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye answered me, and said, The thing which thou hast spoken [is] good [for us] to do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you answered me and said, “What you propose to do is good.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.13|<< Deuteronomy 1:13]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.15|Deuteronomy 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you answered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6030B\|תַּעֲנ֖וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Nu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

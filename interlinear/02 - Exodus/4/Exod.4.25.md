@@ -1,4 +1,4 @@
-**Exodus 4:25** 
+**Exodus 4:25**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast [it] at his feet, and said, Surely a bloody husband [art] thou to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.24|<< Exodus 4:24]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.26|Exodus 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zipporah  |**<big>&#8207;[[H6855\|צִפֹּרָ֜ה]]&#8207; </big>**| tzi.po.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

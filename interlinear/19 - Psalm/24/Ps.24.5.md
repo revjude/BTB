@@ -1,4 +1,4 @@
-**Psalms 24:5** 
+**Psalms 24:5**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall receive the blessing from the LORD, and righteousness from the God of his salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will receive blessing from the LORD and vindication from the God of his salva
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.4|<< Psalms 24:4]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.6|Psalms 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will lift up  |**<big>&#8207;[[H5375H\|יִשָּׂ֣א]]&#8207; </big>**| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blessing  |**<big>&#8207;[[H1293\|בְ֭רָכָה]]&#8207; </big>**| Ve.ra.khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

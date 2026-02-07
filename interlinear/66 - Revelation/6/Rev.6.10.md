@@ -1,12 +1,12 @@
-**Revelation 6:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:10**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
 <small><sub>**BSB:**</sub></small>
 And they cried out in a loud voice, “How long, O Lord, holy and true, until You judge those who dwell upon the earth and avenge our blood?”
 <small><sub>**Literal:**</sub></small>
 And they were crying in a voice loud saying; Until when, O Lord <the> holy and <the> true, not do You judge and you avenge the blood of us from those dwelling upon the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.9|<< Revelation 6:9]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.11|Revelation 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were crying [^1] |**<big>[[G2896\|ἔκραξαν]]</big>**  |ekraxan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

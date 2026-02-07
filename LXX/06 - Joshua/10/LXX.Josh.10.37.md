@@ -1,10 +1,7 @@
 **LXX Joshua 10:37** 
 <small><sub>**LXX:**</sub></small>
 And they overtook it, and struck it by \[the\] mouth of \[the\] sword, and  its king, and  all its villages, and every one  breathing, as many as was in it. There was not one surviving. In which manner they did \[to\] Eglon, also they utterly destroyed it and all breathing, as much as \[was\] in it. 
-<small><sub>**KJV:**</sub></small>
-And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that [were] therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that [were] therein.
-<small><sub>**BSB:**</sub></small>
-They captured it and put to the sword its king, all its villages, and all the people. Joshua left no survivors, just as he had done at Eglon; he devoted to destruction Hebron and everyone in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.36|<< Joshua 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.38|Joshua 10:38 >>]]</td></tr></table>
 
 | Translation | Greek |

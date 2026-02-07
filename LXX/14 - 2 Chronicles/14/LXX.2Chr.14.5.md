@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:5** 
 <small><sub>**LXX:**</sub></small>
 And he removed from all of the cities of Judah the altars and the idols; and the kingdom was at peace before him. 
-<small><sub>**KJV:**</sub></small>
-Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.
-<small><sub>**BSB:**</sub></small>
-He also removed the high places and incense altars from all the cities of Judah, and under him the kingdom was at peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.4|<< 2 Chronicles 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.6|2 Chronicles 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

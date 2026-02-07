@@ -1,4 +1,4 @@
-**Isaiah 57:3** 
+**Isaiah 57:3**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But draw near hither, ye sons of the sorceress, the seed of the adulterer and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.2|<< Isaiah 57:2]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.4|Isaiah 57:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | draw near  |**<big>&#8207;[[H7126G\|קִרְבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kir.vu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

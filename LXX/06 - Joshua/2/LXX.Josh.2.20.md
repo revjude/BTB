@@ -1,10 +1,7 @@
 **LXX Joshua 2:20** 
 <small><sub>**LXX:**</sub></small>
 But if anyone should wrong us, and should uncover  these our words, we will be innocent  in this your oath, which we bound you by. 
-<small><sub>**KJV:**</sub></small>
-And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
-<small><sub>**BSB:**</sub></small>
-And if you report our mission, we will be released from the oath you made us swear.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.19|<< Joshua 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.21|Joshua 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

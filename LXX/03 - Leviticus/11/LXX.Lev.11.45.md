@@ -1,10 +1,7 @@
 **LXX Leviticus 11:45** 
 <small><sub>**LXX:**</sub></small>
 For I am \[the\] <span class="smallcaps">lord</span>, the \[one\] leading you from out of \[the\] land of Egypt, to be your God. And you shall be holy, for I \[the\] <span class="smallcaps">lord</span> am holy. 
-<small><sub>**KJV:**</sub></small>
-For I [am] the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I [am] holy.
-<small><sub>**BSB:**</sub></small>
-For I am the LORD, who brought you up out of the land of Egypt so that I would be your God; therefore be holy, because I am holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.44|<< Leviticus 11:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.46|Leviticus 11:46 >>]]</td></tr></table>
 
 | Translation | Greek |

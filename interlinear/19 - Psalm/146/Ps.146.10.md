@@ -1,4 +1,4 @@
-**Psalms 146:10** 
+**Psalms 146:10**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall reign for ever, [even] thy God, O Zion, unto all generations. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD reigns forever, your God, O Zion, for all generations. Hallelujah!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.9|<< Psalms 146:9]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.1|Psalms 147:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will reign  |**<big>&#8207;[[H4427A\|יִמְלֹ֤ךְ]]&#8207; </big>**| yim.Lokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

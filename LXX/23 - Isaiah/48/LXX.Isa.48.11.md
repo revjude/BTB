@@ -1,10 +1,7 @@
 **LXX Isaiah 48:11** 
 <small><sub>**LXX:**</sub></small>
 Because of myself I will do, for  my name is being profaned; and  my glory I will not give to another. 
-<small><sub>**KJV:**</sub></small>
-For mine own sake, [even] for mine own sake, will I do [it]: for how should [my name] be polluted? and I will not give my glory unto another.
-<small><sub>**BSB:**</sub></small>
-For My own sake, My very own sake, I will act; for how can I let Myself be defamed? I will not yield My glory to another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.10|<< Isaiah 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.12|Isaiah 48:12 >>]]</td></tr></table>
 
 | Translation | Greek |

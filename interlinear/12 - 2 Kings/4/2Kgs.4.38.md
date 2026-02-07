@@ -1,4 +1,4 @@
-**2 Kings 4:38** 
+**2 Kings 4:38**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha came again to Gilgal: and [there was] a dearth in the land; and the sons of the prophets [were] sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Elisha returned to Gilgal, there was a famine in the land. As the sons of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.37|<< 2 Kings 4:37]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.39|2 Kings 4:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elisha  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0477\|אֱלִישָׁ֞ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he returned  |**<big>&#8207;[[H7725G\|שָׁ֤ב]]&#8207; </big>**| shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

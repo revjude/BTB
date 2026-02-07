@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:36** 
 <small><sub>**LXX:**</sub></small>
 And Abigail came to Nabal. And behold, there was to him a banquet in  his house, as the banquet of a king. And the heart of Nabal \[was\] good with him, and he was being intoxicated exceedingly. And Abigal did not report \[to\] Nabal \[the\] thing, great or small, until \[the\] light of the morning. 
-<small><sub>**KJV:**</sub></small>
-And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart [was] merry within him, for he [was] very drunken: wherefore she told him nothing, less or more, until the morning light.
-<small><sub>**BSB:**</sub></small>
-When Abigail returned to Nabal, there he was in the house, holding a feast fit for a king, in high spirits and very drunk. So she told him nothing until morning light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.35|<< 1 Samuel 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.37|1 Samuel 25:37 >>]]</td></tr></table>
 
 | Translation | Greek |

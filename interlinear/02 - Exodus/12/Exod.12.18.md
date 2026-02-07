@@ -1,4 +1,4 @@
-**Exodus 12:18** 
+**Exodus 12:18**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first [month], on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In the first month you are to eat unleavened bread, from the evening of the four
 > $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the first [month]  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H7223G\|רִאשֹׁ֡ן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ri.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] four-  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0702\|אַרְבָּעָה֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

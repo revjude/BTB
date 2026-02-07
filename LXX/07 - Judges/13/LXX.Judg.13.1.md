@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel proceeded still to act  wickedly before \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> delivered them into \[the\] hand of \[the\] Philistines -- forty years. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.
-<small><sub>**BSB:**</sub></small>
-Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.15|<< Judges 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.2|Judges 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

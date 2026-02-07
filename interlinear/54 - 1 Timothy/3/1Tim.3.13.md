@@ -1,12 +1,12 @@
-**1 Timothy 3:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:13**<big><big>[[1Tim.3.8 Qualifications for Deacons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 For those who have served well as deacons acquire for themselves a high standing and great confidence in the faith that is in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 Those for well having served a standing for themselves good acquire and great confidence in [the] faith that [is] in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.12|<< 1 Timothy 3:12]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.14|1 Timothy 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

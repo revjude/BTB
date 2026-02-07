@@ -1,10 +1,7 @@
 **LXX Psalm 17:12** 
 <small><sub>**LXX:**</sub></small>
 As a lion prepared for a hunt they undertook me, and as a cub living in concealment. 
-<small><sub>**KJV:**</sub></small>
-Like as a lion [that] is greedy of his prey, and as it were a young lion lurking in secret places.
-<small><sub>**BSB:**</sub></small>
-like a lion greedy for prey, like a young lion lurking in ambush.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.11|<< Psalm 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.13|Psalm 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

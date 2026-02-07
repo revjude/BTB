@@ -1,4 +1,4 @@
-**Psalms 27:14** 
+**Psalms 27:14**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wait patiently for the LORD; be strong and courageous. Wait patiently for the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.13|<< Psalms 27:13]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.0|Psalms 28:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wait  |**<big>&#8207;[[H6960A\|קַוֵּ֗ה]]&#8207; </big>**| ka.Veh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

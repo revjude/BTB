@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:14** 
 <small><sub>**LXX:**</sub></small>
 And he established, according to the ordinance of David  his father, the divisions of the priests according to  their ministrations, and of the Levites over  their watches,  to praise and to officiate before the priests, according to the reckoning -- day by  day; and of the gatekeepers in  their divisions -- for gate by gate; for thus \[was the\] commandment of David \[the\] man  of God. 
-<small><sub>**KJV:**</sub></small>
-And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
-<small><sub>**BSB:**</sub></small>
-In keeping with the ordinances of his father David, Solomon appointed the divisions of the priests over their service, and the Levites for their duties to offer praise and to minister before the priests according to the daily requirement. He also appointed gatekeepers by their divisions at each gate, for this had been the command of David, the man of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.13|<< 2 Chronicles 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.15|2 Chronicles 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

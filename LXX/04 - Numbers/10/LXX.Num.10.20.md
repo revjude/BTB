@@ -1,10 +1,7 @@
 **LXX Numbers 10:20** 
 <small><sub>**LXX:**</sub></small>
 And over the force of \[the\] tribe of \[the\] sons of Gad \[was\] Eliasaph the \[son of\] Reuel. 
-<small><sub>**KJV:**</sub></small>
-And over the host of the tribe of the children of Gad [was] Eliasaph the son of Deuel.
-<small><sub>**BSB:**</sub></small>
-and Eliasaph son of Deuel was over the division of the tribe of Gad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.19|<< Numbers 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.21|Numbers 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

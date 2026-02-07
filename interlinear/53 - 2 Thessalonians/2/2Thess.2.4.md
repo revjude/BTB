@@ -1,5 +1,5 @@
-**2 Thessalonians 2:4
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:4**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 <small><sub>**BSB:**</sub></small>
 He will oppose and exalt himself above every so-called god or object of worship. So he will seat himself in the temple of God, proclaiming himself to be God.
@@ -10,7 +10,7 @@ who is opposing and exalting himself above every [one] named god or object of wo
 > $\quad$ alluding to: [[LXX.Ezek.28.2|Ezek 28:2]] ☩ [[LXX.Dan.11.36|Dan 11:36]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is opposing |**<big>[[G0480\|ἀντικείμενος]]</big>**  |antikeimenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

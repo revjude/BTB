@@ -1,4 +1,4 @@
-**Psalms 100:2** 
+**Psalms 100:2**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Serve the LORD with gladness: come before his presence with singing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Serve the LORD with gladness; come into His presence with joyful songs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.1|<< Psalms 100:1]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.3|Psalms 100:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | serve  |**<big>&#8207;[[H5647H\|עִבְד֣וּ]]&#8207; </big>**| 'iv.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

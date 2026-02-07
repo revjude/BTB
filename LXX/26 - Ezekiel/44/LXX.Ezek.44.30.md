@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:30** 
 <small><sub>**LXX:**</sub></small>
 And the first-fruits of all, and the first-born of all, and all the cut-away portions from out of all  your first-fruits shall be for the priests; and  your first produce you shall give to the priest,  to put a blessing upon  your houses. 
-<small><sub>**KJV:**</sub></small>
-And the first of all the firstfruits of all [things], and every oblation of all, of every [sort] of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house.
-<small><sub>**BSB:**</sub></small>
-The best of all the firstfruits and of every contribution from all your offerings will belong to the priests. You are to give your first batch of dough to the priest, so that a blessing may rest upon your homes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.29|<< Ezekiel 44:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.31|Ezekiel 44:31 >>]]</td></tr></table>
 
 | Translation | Greek |

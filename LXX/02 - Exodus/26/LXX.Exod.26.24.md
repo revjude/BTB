@@ -1,10 +1,7 @@
 **LXX Exodus 26:24** 
 <small><sub>**LXX:**</sub></small>
 And they shall be of equal below, and according to the same \[measurement\] they shall be equal from the heads unto one coupling. Thus shall you make to both the two corners, let them be equal! 
-<small><sub>**KJV:**</sub></small>
-And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
-<small><sub>**BSB:**</sub></small>
-coupled together from bottom to top and fitted into a single ring. These will serve as the two corners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.23|<< Exodus 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.25|Exodus 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

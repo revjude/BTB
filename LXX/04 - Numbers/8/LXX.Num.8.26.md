@@ -1,10 +1,7 @@
 **LXX Numbers 8:26** 
 <small><sub>**LXX:**</sub></small>
 And he shall officiate with his brethren in the tent of the testimony, to guard \[the\] watches; but he shall not work \[the\] works -- so shall you do to the Levites in  their watches. 
-<small><sub>**KJV:**</sub></small>
-But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
-<small><sub>**BSB:**</sub></small>
-After that, they may assist their brothers in fulfilling their duties at the Tent of Meeting, but they themselves are not to do the work. This is how you are to assign responsibilities to the Levites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.25|<< Numbers 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.1|Numbers 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:4** 
 <small><sub>**LXX:**</sub></small>
 shoulder-pieces held together by both of the parts; a woven work into one another being closely joined to itself. 
-<small><sub>**KJV:**</sub></small>
-They made shoulderpieces for it, to couple [it] together: by the two edges was it coupled together.
-<small><sub>**BSB:**</sub></small>
-They made shoulder pieces for the ephod, which were attached at two of its corners, so it could be fastened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.3|<< Exodus 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.5|Exodus 39:5 >>]]</td></tr></table>
 
 | Translation | Greek |

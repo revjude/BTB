@@ -1,4 +1,4 @@
-**1 Samuel 31:3** 
+**1 Samuel 31:3**<big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the battle intensified against Saul, the archers overtook him and wounded h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.2|<< 1 Samuel 31:2]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.4|1 Samuel 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was heavy  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3513H\|תִּכְבַּ֤ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tikh.Bad<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the battle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

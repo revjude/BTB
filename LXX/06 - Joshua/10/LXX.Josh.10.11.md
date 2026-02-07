@@ -1,10 +1,7 @@
 **LXX Joshua 10:11** 
 <small><sub>**LXX:**</sub></small>
 But in  their fleeing from in front of the sons of Israel at the descent of Beth-horon, that \[the\] <span class="smallcaps">lord</span> cast upon them stones of hail from out of the heaven unto Azekah. And there were more  dying by the stones  of hail than which were killed  by \[the\] sons of Israel by sword in the battle. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as they fled from before Israel, [and] were in the going down to Bethhoron, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: [they were] more which died with hailstones than [they] whom the children of Israel slew with the sword.
-<small><sub>**BSB:**</sub></small>
-As they fled before Israel along the descent from Beth-horon to Azekah, the LORD cast down on them large hailstones from the sky, and more of them were killed by the hailstones than by the swords of the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.10|<< Joshua 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.12|Joshua 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

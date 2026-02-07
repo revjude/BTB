@@ -1,4 +1,4 @@
-**Joshua 13:5** 
+**Joshua 13:5**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land of the Giblites, and all Lebanon, toward the sunrising, from Baalgad under mount Hermon unto the entering into Hamath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Moun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.4|<< Joshua 13:4]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.6|Joshua 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the land of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֣רֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Gebalite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1382\|גִּבְלִ֗י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> giv.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

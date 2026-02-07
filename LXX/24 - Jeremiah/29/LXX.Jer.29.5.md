@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:5** 
 <small><sub>**LXX:**</sub></small>
 Build houses, and dwell, and plant gardens, and eat  of their fruits! 
-<small><sub>**KJV:**</sub></small>
-Build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them;
-<small><sub>**BSB:**</sub></small>
-“Build houses and settle down. Plant gardens and eat their produce.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.4|<< Jeremiah 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.6|Jeremiah 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

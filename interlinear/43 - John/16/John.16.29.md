@@ -1,12 +1,12 @@
-**John 16:29
-**<small><sub>**KJV:**</sub></small>
+**John 16:29**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.
 <small><sub>**BSB:**</sub></small>
 His disciples said, “See, now You are speaking plainly and without figures of speech.
 <small><sub>**Literal:**</sub></small>
 Say to him the disciples of Him; Behold now in openness You speak and allegory no [thing] speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.28|<< John 16:28]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.30|John 16:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Say |**<big>[[G3004G\|Λέγουσιν]]</big>**  |Legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

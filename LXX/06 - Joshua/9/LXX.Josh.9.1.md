@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as they all heard (the kings of the Amorites on the other side of the Jordan, the ones in the mountainous area, and the ones on the plain, and the ones in all the coast of the great sea, and the ones towards  Antilebanon, and the Hittites, and the Amorites, and the Gergashites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites) 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when all the kings which [were] on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard [thereof];
-<small><sub>**BSB:**</sub></small>
-Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.35|<< Joshua 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.2|Joshua 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

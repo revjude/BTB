@@ -1,10 +1,7 @@
 **LXX Amos 5:22** 
 <small><sub>**LXX:**</sub></small>
 For if you should bring to me whole burnt-offerings and your sacrifice offerings, I will not favorably receive \[them\]. And I will not look upon \[the\] grandeur of your deliverance \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Though ye offer me burnt offerings and your meat offerings, I will not accept [them]: neither will I regard the peace offerings of your fat beasts.
-<small><sub>**BSB:**</sub></small>
-Even though you offer Me burnt offerings and grain offerings, I will not accept them; for your peace offerings of fattened cattle I will have no regard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.21|<< Amos 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.23|Amos 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

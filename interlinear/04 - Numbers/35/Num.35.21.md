@@ -1,4 +1,4 @@
-**Numbers 35:21** 
+**Numbers 35:21**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or in enmity smite him with his hand, that he die: he that smote [him] shall surely be put to death; [for] he [is] a murderer: the revenger of blood shall slay the murderer, when he meeteth him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or if in hostility he strikes him with his hand and he dies, the one who struck 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.20|<< Numbers 35:20]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.22|Numbers 35:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in enmity  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0342\|אֵיבָ֞ה]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

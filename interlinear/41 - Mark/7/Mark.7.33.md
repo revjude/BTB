@@ -1,12 +1,12 @@
-**Mark 7:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:33**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;
 <small><sub>**BSB:**</sub></small>
 So Jesus took him aside privately, away from the crowd, and put His fingers into the man’s ears. Then He spit and touched the man’s tongue.
 <small><sub>**Literal:**</sub></small>
 And having taken away him from the crowd aside privately He put the fingers of Him to the ears of him, and having spit He touched the tongue of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.32|<< Mark 7:32]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.34|Mark 7:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken away |**<big>[[G0618\|ἀπολαβόμενος]]</big>**  |apolabomenos <small><sup>[[V-2AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

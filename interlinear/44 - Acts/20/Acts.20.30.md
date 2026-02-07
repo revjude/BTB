@@ -1,12 +1,12 @@
-**Acts 20:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:30**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 <small><sub>**BSB:**</sub></small>
 Even from your own number, men will rise up and distort the truth to draw away disciples after them.
 <small><sub>**Literal:**</sub></small>
 and out from your own selves will rise up men speaking perverted [things] such that to draw away <the> disciples after them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.29|<< Acts 20:29]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.31|Acts 20:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | out from |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

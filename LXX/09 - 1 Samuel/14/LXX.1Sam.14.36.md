@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:36** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, Let us go down after the Philistines \[this\] night, and we shall tear them into pieces until it should illuminate in the morning; and we should not leave behind among them a man. And they said, All \[that is\] good before you, you do! And the priest said, We should come forward here to  God. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seemeth good unto thee. Then said the priest, Let us draw near hither unto God.
-<small><sub>**BSB:**</sub></small>
-And Saul said, “Let us go down after the Philistines by night and plunder them until dawn, leaving no man alive!” “Do what seems good to you,” the troops replied. But the priest said, “We must consult God here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.35|<< 1 Samuel 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.37|1 Samuel 14:37 >>]]</td></tr></table>
 
 | Translation | Greek |

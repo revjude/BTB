@@ -1,4 +1,4 @@
-**Ezekiel 32:14** 
+**Ezekiel 32:14**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I make their waters deep, and cause their rivers to run like oil, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will let her waters settle and will make her rivers flow like oil,’ dec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.13|<< Ezekiel 32:13]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.15|Ezekiel 32:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֚ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make settle  |**<big>&#8207;[[H8257\|אַשְׁקִ֣יעַ]]&#8207; </big>**| 'ash.Ki.a'<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

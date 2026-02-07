@@ -1,4 +1,4 @@
-**Ezekiel 20:47** (21:3)
+**Ezekiel 20:47**<big><big>[[Ezek.20.45 A Prophecy against the South|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Say to the forest of the Negev: Hear the word of the LORD! This is what the Lord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.46|<< Ezekiel 20:46]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.48|Ezekiel 20:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָֽמַרְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] forest of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3293A\|יַ֣עַר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

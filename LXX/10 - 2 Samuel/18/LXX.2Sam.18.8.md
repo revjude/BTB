@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass there the war dispersed over \[the\] face of all the land. And the forest was superabundant  in devouring of the people above what the sword devoured among the people  in that day. 
-<small><sub>**KJV:**</sub></small>
-For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured.
-<small><sub>**BSB:**</sub></small>
-The battle spread over the whole countryside, and that day the forest devoured more people than the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.7|<< 2 Samuel 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.9|2 Samuel 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

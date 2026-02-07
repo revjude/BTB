@@ -1,4 +1,4 @@
-**Deuteronomy 33:3** 
+**Deuteronomy 33:3**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he loved the people; all his saints [are] in thy hand: and they sat down at thy feet; [every one] shall receive of thy words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely You love the people; all the holy ones are in Your hand, and they sit dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.2|<< Deuteronomy 33:2]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.4|Deuteronomy 33:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַ֚ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [he is] loving  |**<big>&#8207;[[H2245\|חֹבֵ֣ב]]&#8207; </big>**| cho.Vev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 3:24** 
 <small><sub>**LXX:**</sub></small>
 And he cast out  Adam, and settled him before the paradise of the delicacy, and ordered the cherubim, and the flaming turning broadsword, to guard the way of the tree  of life. 
-<small><sub>**KJV:**</sub></small>
-So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
-<small><sub>**BSB:**</sub></small>
-So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.23|<< Genesis 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.1|Genesis 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

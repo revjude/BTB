@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:24** 
 <small><sub>**LXX:**</sub></small>
 And you yell out in \[the\] name  of your gods, and I will call upon the name of \[the\] <span class="smallcaps">lord</span>  my God. And it will be the God who ever heeds by fire, this \[is\] God. And all the people answered and said, The word \[is\] good which you have spoken. 
-<small><sub>**KJV:**</sub></small>
-And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.
-<small><sub>**BSB:**</sub></small>
-Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God.” And all the people answered, “What you say is good.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.23|<< 1 Kings 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.25|1 Kings 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:12** 
 <small><sub>**LXX:**</sub></small>
 And he went down unto \[the\] house of the king, unto the house of the scribe. And behold, there all the rulers sat -- Elishama the scribe, and Delaiah son of Shemaiah, and Elnathan son of Achbor, and Gemariah son of Shaphan, and Zedekiah son of Hananiah, and all the rulers. 
-<small><sub>**KJV:**</sub></small>
-Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, [even] Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
-<small><sub>**BSB:**</sub></small>
-he went down to the scribe’s chamber in the king’s palace, where all the officials were sitting: Elishama the scribe, Delaiah son of Shemaiah, Elnathan son of Achbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.11|<< Jeremiah 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.13|Jeremiah 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

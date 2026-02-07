@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:2** 
 <small><sub>**LXX:**</sub></small>
 And from the house of Saul was a servant; and \[the\] name to him \[was\] Ziba. And they called him to David. And the king said to him, You are Ziba? And he said, Your servant. 
-<small><sub>**KJV:**</sub></small>
-And [there was] of the house of Saul a servant whose name [was] Ziba. And when they had called him unto David, the king said unto him, [Art] thou Ziba? And he said, Thy servant [is he].
-<small><sub>**BSB:**</sub></small>
-And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?” “I am your servant,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.1|<< 2 Samuel 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.3|2 Samuel 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

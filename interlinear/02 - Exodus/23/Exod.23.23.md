@@ -1,4 +1,4 @@
-**Exodus 23:23** 
+**Exodus 23:23**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, [and] the Hivites, and the Jebusites: and I will cut them off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For My angel will go before you and bring you into the land of the Amorites, Hit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.22|<< Exodus 23:22]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.24|Exodus 23:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will go  |**<big>&#8207;[[H1980G\|יֵלֵ֣ךְ]]&#8207; </big>**| ye.Lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 5:1** 
+**Genesis 5:1**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the book of the generations of Adam. In the day that God created man, He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.26|<< Genesis 4:26]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.2|Genesis 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] record of  |**<big>&#8207;[[H5612H\|סֵ֔פֶר]]&#8207; </big>**| Se.fer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 8:8** 
+**Daniel 8:8**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the goat became very great, but at the height of his power, his large horn 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.7|<< Daniel 8:7]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.9|Daniel 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] he-goat of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6842\|צְפִ֥יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> tze.Fir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the goats  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5795\|עִזִּ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

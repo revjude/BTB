@@ -1,12 +1,12 @@
-**Revelation 10:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:1**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow [was] upon his head, and his face [was] as it were the sun, and his feet as pillars of fire:
 <small><sub>**BSB:**</sub></small>
 Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like pillars of fire.
 <small><sub>**Literal:**</sub></small>
 And I saw another angel mighty coming down out of <the> heaven having clothed himself with a cloud, and the rainbow upon the head of him, and the face of him [was] like the sun, and the feet of him like pillars of fire,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.21|<< Revelation 9:21]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.2|Revelation 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

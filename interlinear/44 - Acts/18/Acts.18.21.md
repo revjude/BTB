@@ -1,12 +1,12 @@
-**Acts 18:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:21**<big><big>[[Acts.18.18 Paul Returns to Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.
 <small><sub>**BSB:**</sub></small>
 But as he left, he said, “I will come back to you if God is willing.” And he set sail from Ephesus.
 <small><sub>**Literal:**</sub></small>
 but having taken leave and to them having said necessary me by all means the feast which is coming to do into Jerusalem; Again now I will return to you <the> God willing, and he sailed from <the> Ephesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.20|<< Acts 18:20]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.22|Acts 18:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»2+Byz»2">NKO</abbr> | |
 | having taken leave [^2] |**<big>[[G0657\|ἀποταξάμενος]]</big>**  |apotaxamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

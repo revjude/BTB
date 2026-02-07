@@ -1,4 +1,4 @@
-**2 Kings 9:27** 
+**2 Kings 9:27**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Ahaziah the king of Judah saw [this], he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. [And they did so] at the going up to Gur, which [is] by Ibleam. And he fled to Megiddo, and died there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When King Ahaziah of Judah saw this, he fled up the road toward Beth-haggan. And
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.26|<< 2 Kings 9:26]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.28|2 Kings 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ahaziah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0274H\|אֲחַזְיָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chaz.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Romans 4:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:22**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And therefore it was imputed to him for righteousness.
 <small><sub>**BSB:**</sub></small>
 This is why “it was credited to him as righteousness.”
@@ -10,7 +10,7 @@ Therefore also it was credited to him unto righteousness.<br><table width="100%"
 > $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">NKO</abbr> | |

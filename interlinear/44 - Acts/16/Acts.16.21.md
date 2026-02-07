@@ -1,12 +1,12 @@
-**Acts 16:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:21**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
 <small><sub>**BSB:**</sub></small>
 by promoting customs that are unlawful for us Romans to adopt or practice.”
 <small><sub>**Literal:**</sub></small>
 and preach customs that not it is lawful for us to accept nor to practice Romans being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.20|<< Acts 16:20]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.22|Acts 16:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | preach |**<big>[[G2605\|καταγγέλλουσιν]]</big>**  |katangellousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

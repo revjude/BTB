@@ -1,10 +1,7 @@
 **LXX Numbers 1:16** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the selected ones of the congregation, rulers of the tribes according to their patrimony; they are commanders of thousands in Israel. 
-<small><sub>**KJV:**</sub></small>
-These [were] the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.
-<small><sub>**BSB:**</sub></small>
-These men were appointed from the congregation; they were the leaders of the tribes of their fathers, the heads of the clans of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.15|<< Numbers 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.17|Numbers 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

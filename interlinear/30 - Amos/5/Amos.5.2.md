@@ -1,4 +1,4 @@
-**Amos 5:2** 
+**Amos 5:2**<big><big>[[Amos.5.1 A Lamentation against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; [there is] none to raise her up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.1|<< Amos 5:1]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.3|Amos 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she has fallen  |**<big>&#8207;[[H5307G\|נָֽפְלָה֙]]&#8207; </big>**| na.fe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

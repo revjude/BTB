@@ -1,10 +1,7 @@
 **LXX Psalm 91:6** 
 <small><sub>**LXX:**</sub></small>
 \[nor\] from a thing going in darkness, \[nor\] from an adverse incident, and \[the\] demon at midday. 
-<small><sub>**KJV:**</sub></small>
-[Nor] for the pestilence [that] walketh in darkness; [nor] for the destruction [that] wasteth at noonday.
-<small><sub>**BSB:**</sub></small>
-nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.5|<< Psalm 91:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.7|Psalm 91:7 >>]]</td></tr></table>
 
 | Translation | Greek |

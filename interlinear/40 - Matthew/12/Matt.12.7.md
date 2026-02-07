@@ -1,5 +1,5 @@
-**Matthew 12:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:7**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye had known what [this] meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
 <small><sub>**BSB:**</sub></small>
 If only you had known the meaning of ‘I desire mercy, not sacrifice,’ you would not have condemned the innocent.
@@ -10,7 +10,7 @@ If however you had known what is; mercy I desire and not [desire] sacrifice,’ 
 > $\quad$ referencing: [[LXX.Hos.6.6|Hos 6:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

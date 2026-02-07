@@ -1,12 +1,12 @@
-**Matthew 11:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:12**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
 <small><sub>**BSB:**</sub></small>
 From the days of John the Baptist until now, the kingdom of heaven has been subject to violence, and the violent lay claim to it.
 <small><sub>**Literal:**</sub></small>
 From then the days of John the Baptist until now the kingdom of the heavens is taken by violence, and [the] violent claim it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.11|<< Matthew 11:11]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.13|Matthew 11:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 31:24** 
 <small><sub>**LXX:**</sub></small>
 all your heart the ones hoping upon \[the\] <span class="smallcaps">lord</span> be manly and be fortified \[in\]! 
-<small><sub>**KJV:**</sub></small>
-Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.
-<small><sub>**BSB:**</sub></small>
-Be strong and courageous, all you who hope in the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.23|<< Psalm 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.1|Psalm 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

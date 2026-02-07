@@ -1,4 +1,4 @@
-**Genesis 2:12** 
+**Genesis 2:12**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gold of that land [is] good: there [is] bdellium and the onyx stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the gold of that land is pure, and bdellium and onyx are found there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.11|<< Genesis 2:11]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.13|Genesis 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] gold of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H2091\|זֲהַ֛ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> za.Hav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֥רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

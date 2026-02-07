@@ -1,12 +1,12 @@
-**Luke 7:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:15**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that was dead sat up, and began to speak. And he delivered him to his mother.
 <small><sub>**BSB:**</sub></small>
 And the dead man sat up and began to speak! Then Jesus gave him back to his mother.
 <small><sub>**Literal:**</sub></small>
 And sat up the dead [man] and began to speak. and He gave him to the mother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.14|<< Luke 7:14]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.16|Luke 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sat up |**<big>[[G0339\|ἀνεκάθισεν]]</big>**  |anekathisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

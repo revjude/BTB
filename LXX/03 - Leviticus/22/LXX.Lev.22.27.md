@@ -1,10 +1,7 @@
 **LXX Leviticus 22:27** 
 <small><sub>**LXX:**</sub></small>
 A calf, or a sheep, or a goat, when ever it is born, then it shall be seven days under  its mother; but the eighth day and beyond it shall be accepted for gift \[offerings\], a yield \[offering\] to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“When an ox, a sheep, or a goat is born, it must remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.26|<< Leviticus 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.28|Leviticus 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

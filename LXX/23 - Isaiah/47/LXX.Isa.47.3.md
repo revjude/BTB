@@ -1,10 +1,7 @@
 **LXX Isaiah 47:3** 
 <small><sub>**LXX:**</sub></small>
 Your shame shall be uncovered; your scornings shall be shone forth; I will take the just one from you; no longer shall I deliver up to men. 
-<small><sub>**KJV:**</sub></small>
-Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet [thee as] a man.
-<small><sub>**BSB:**</sub></small>
-Your nakedness will be uncovered and your shame will be exposed. I will take vengeance; I will spare no one.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.2|<< Isaiah 47:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.4|Isaiah 47:4 >>]]</td></tr></table>
 
 | Translation | Greek |

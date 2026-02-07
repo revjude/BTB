@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:12** 
 <small><sub>**LXX:**</sub></small>
 All the number of the rulers of the families of the mighty ones for war -- two thousand six hundred. 
-<small><sub>**KJV:**</sub></small>
-The whole number of the chief of the fathers of the mighty men of valour [were] two thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-The total number of family leaders of the mighty men of valor was 2,600.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.11|<< 2 Chronicles 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.13|2 Chronicles 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

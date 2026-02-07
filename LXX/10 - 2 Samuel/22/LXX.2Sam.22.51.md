@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:51** 
 <small><sub>**LXX:**</sub></small>
 O one magnifying the deliverance  of his king, and doing mercy \[to\] his anointed one, \[to\] David and \[to\] his seed unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-[He is] the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.
-<small><sub>**BSB:**</sub></small>
-Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.50|<< 2 Samuel 22:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.1|2 Samuel 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

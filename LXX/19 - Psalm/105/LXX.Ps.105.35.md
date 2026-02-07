@@ -1,10 +1,7 @@
 **LXX Psalm 105:35** 
 <small><sub>**LXX:**</sub></small>
 And they devoured all the grass in  their land, and devoured the fruit  of their land. 
-<small><sub>**KJV:**</sub></small>
-And did eat up all the herbs in their land, and devoured the fruit of their ground.
-<small><sub>**BSB:**</sub></small>
-They devoured every plant in their land and consumed the produce of their soil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.34|<< Psalm 105:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.36|Psalm 105:36 >>]]</td></tr></table>
 
 | Translation | Greek |

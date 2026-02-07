@@ -1,10 +1,7 @@
 **LXX Numbers 27:6** 
 <small><sub>**LXX:**</sub></small>
 Rightly \[the\] daughters of Zelophehad have spoken. A gift you shall give to them for possession of an inheritance in \[the\] midst \[of the\] brothers of their father; and you shall put the lot  of their father among them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses, saying,
-<small><sub>**BSB:**</sub></small>
-and the LORD answered him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.5|<< Numbers 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.7|Numbers 27:7 >>]]</td></tr></table>
 
 | Translation | Greek |

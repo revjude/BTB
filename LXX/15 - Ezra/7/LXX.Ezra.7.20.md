@@ -1,10 +1,7 @@
 **LXX Ezra 7:20** 
 <small><sub>**LXX:**</sub></small>
 And for the rest of \[the\] need of \[the\] house of your God, what ever should be apparent to you to give, you shall give from \[the\] king's treasury houses. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow [it] out of the king’s treasure house.
-<small><sub>**BSB:**</sub></small>
-And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.19|<< Ezra 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.21|Ezra 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

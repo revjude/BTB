@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if a slain \[person\] should be found in the earth (which \[the\] <span class="smallcaps">lord</span>  your God gives to you to inherit) fallen in the plain, and they do not know the one striking him; 
-<small><sub>**KJV:**</sub></small>
-If [one] be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, [and] it be not known who hath slain him:
-<small><sub>**BSB:**</sub></small>
-If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.20|<< Deuteronomy 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.2|Deuteronomy 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

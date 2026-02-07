@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:12** 
 <small><sub>**LXX:**</sub></small>
 And one of his servants said, Not so, O my master, O king. For Elisha the prophet, the one in Israel, he announces to the king of Israel all the words which ever you should speak in the closet  of your bedroom. 
-<small><sub>**KJV:**</sub></small>
-And one of his servants said, None, my lord, O king: but Elisha, the prophet that [is] in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.
-<small><sub>**BSB:**</sub></small>
-But one of his servants replied, “No one, my lord the king. For Elisha, the prophet in Israel, tells the king of Israel the very words you speak in your bedroom.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.11|<< 2 Kings 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.13|2 Kings 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

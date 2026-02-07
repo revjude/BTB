@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:20** 
 <small><sub>**LXX:**</sub></small>
 And Hur procreated  Uri. And Uri procreated  Bezaleel. 
-<small><sub>**KJV:**</sub></small>
-And Hur begat Uri, and Uri begat Bezaleel.
-<small><sub>**BSB:**</sub></small>
-Hur was the father of Uri, and Uri was the father of Bezalel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.19|<< 1 Chronicles 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.21|1 Chronicles 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:13** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] cities of the mountainous area, and in \[the\] cities of the Sephela, and in \[the\] cities of the Negev, and in \[the\] land of Benjamin. And in the \[places\] round about Jerusalem, and in \[the\] cities of Judah yet shall go sheep by \[the\] hand of one counting, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth [them], saith the LORD.
-<small><sub>**BSB:**</sub></small>
-In the cities of the hill country, the foothills, and the Negev, in the land of Benjamin and the cities surrounding Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the one who counts them, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.12|<< Jeremiah 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.14|Jeremiah 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

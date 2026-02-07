@@ -1,4 +1,4 @@
-**Numbers 6:18** 
+**Numbers 6:18**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Nazarite shall shave the head of his separation [at] the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put [it] in the fire which [is] under the sacrifice of the peace offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then at the entrance to the Tent of Meeting, the Nazirite is to shave his consec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.17|<< Numbers 6:17]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.19|Numbers 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will shave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1548\|גִלַּ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> gi.Lach<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Nazirite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5139\|נָּזִ֗יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Zir<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

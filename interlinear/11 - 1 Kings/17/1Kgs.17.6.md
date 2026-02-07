@@ -1,4 +1,4 @@
-**1 Kings 17:6** 
+**1 Kings 17:6**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ravens would bring him bread and meat in the morning and evening, and he wou
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.5|<< 1 Kings 17:5]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.7|1 Kings 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the ravens  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6158\|עֹרְבִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'o.re.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] bringing  |**<big>&#8207;[[H0935P\|מְבִיאִ֨ים]]&#8207; </big>**| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

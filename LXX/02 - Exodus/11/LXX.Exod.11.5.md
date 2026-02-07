@@ -1,10 +1,7 @@
 **LXX Exodus 11:5** 
 <small><sub>**LXX:**</sub></small>
 And shall come to an end every first-born in \[the\] land of Egypt; from \[the\] first-born of Pharaoh, who sits down upon the throne, and unto the first-born of the female attendant  by the millstone, and unto \[the\] first-born of every beast. 
-<small><sub>**KJV:**</sub></small>
-And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that [is] behind the mill; and all the firstborn of beasts.
-<small><sub>**BSB:**</sub></small>
-and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.4|<< Exodus 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.6|Exodus 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 6:25** 
+**Jeremiah 6:25**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go not forth into the field, nor walk by the way; for the sword of the enemy [and] fear [is] on every side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not go out to the fields; do not walk the road. For the enemy has a sword; te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.24|<< Jeremiah 6:24]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.26|Jeremiah 6:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go out  [^1]|**<big>&#8207;[[H3318G\|תֵּֽצְאוּ֙]]&#8207; </big>**[^2] | te.tze.'i<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:18** 
 <small><sub>**LXX:**</sub></small>
 And the judges should inquire exactly. And behold, if an unjust witness witnessed unjustly, \[and\] stood against  his brother, 
-<small><sub>**KJV:**</sub></small>
-And the judges shall make diligent inquisition: and, behold, [if] the witness [be] a false witness, [and] hath testified falsely against his brother;
-<small><sub>**BSB:**</sub></small>
-The judges shall investigate thoroughly, and if the witness is proven to be a liar who has falsely accused his brother,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.17|<< Deuteronomy 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.19|Deuteronomy 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 12:25** 
 <small><sub>**LXX:**</sub></small>
 And if you should enter into the land which ever \[the\] <span class="smallcaps">lord</span> should give to you, in so far as he spoke, you shall guard  this service. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service.
-<small><sub>**BSB:**</sub></small>
-When you enter the land that the LORD will give you as He promised, you are to keep this service.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.24|<< Exodus 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.26|Exodus 12:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 21:12** 
+**Deuteronomy 21:12**<big><big>[[Deut.21.10 Marrying a Captive Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you shall bring her into your house. She must shave her head, trim her nail
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.11|<< Deuteronomy 21:11]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.13|Deuteronomy 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring her  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|הֲבֵאתָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ve.Ta<small><sup>[[HVhq2ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

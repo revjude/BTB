@@ -1,12 +1,12 @@
-**John 18:16
-**<small><sub>**KJV:**</sub></small>
+**John 18:16**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.
 <small><sub>**BSB:**</sub></small>
 But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in.
 <small><sub>**Literal:**</sub></small>
 <the> But Peter had stood at the door outside. Went out therefore the disciple <the> other who was known to the high priest and spoke to the doorkeeper and brought in <the> Peter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.15|<< John 18:15]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.17|John 18:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

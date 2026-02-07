@@ -1,4 +1,4 @@
-**Ezekiel 17:13** 
+**Ezekiel 17:13**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hath taken of the king’s seed, and made a covenant with him, and hath taken an oath of him: he hath also taken the mighty of the land:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took a member of the royal family and made a covenant with him, putting him u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.12|<< Ezekiel 17:12]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.14|Ezekiel 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one of [the] offspring of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2233H\|זֶּ֣רַע]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

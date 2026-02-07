@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:39** 
 <small><sub>**LXX:**</sub></small>
 And I will deliver you into their hands. And they shall raze  your place of harlotry, and demolish  your base, and take off   your garments, and take the items  of your boasting, and shall leave you naked and indecent. 
-<small><sub>**KJV:**</sub></small>
-And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare.
-<small><sub>**BSB:**</sub></small>
-Then I will deliver you into the hands of your lovers, and they will level your mounds and tear down your lofty shrines. They will strip off your clothes, take your fine jewelry, and leave you naked and bare.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.38|<< Ezekiel 16:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.40|Ezekiel 16:40 >>]]</td></tr></table>
 
 | Translation | Greek |

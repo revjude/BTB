@@ -1,5 +1,5 @@
-**Ephesians 4:25
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:25**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 <small><sub>**BSB:**</sub></small>
 Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one another.
@@ -10,7 +10,7 @@ Therefore having put off <the> falsehood do speak truth each one with the neighb
 > $\quad$ referencing: [[LXX.Zech.8.16|Zech 8:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having put off |**<big>[[G0659\|ἀποθέμενοι]]</big>**  |apothemenoi <small><sup>[[V-2AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

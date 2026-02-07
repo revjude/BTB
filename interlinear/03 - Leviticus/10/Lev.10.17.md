@@ -1,4 +1,4 @@
-**Leviticus 10:17** 
+**Leviticus 10:17**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore have ye not eaten the sin offering in the holy place, seeing it [is] most holy, and [God] hath given it you to bear the iniquity of the congregation, to make atonement for them before the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wherefore have ye not eaten the sin offering in the holy place, seeing it [is] m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.16|<< Leviticus 10:16]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.18|Leviticus 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֗וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

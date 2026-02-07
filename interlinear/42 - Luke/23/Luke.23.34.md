@@ -1,5 +1,5 @@
-**Luke 23:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:34**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots.
@@ -10,7 +10,7 @@ Then Jesus said, “Father, forgive them, for they do not know what they are doi
 > $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|[[ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

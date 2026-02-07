@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:24** 
 <small><sub>**LXX:**</sub></small>
 And Ezekiel will be to you for a portent; and according to all as many \[things\] as he did you shall do. Whenever these \[things\] should come, then you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I [am] the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-‘Thus Ezekiel will be a sign for you; you will do everything that he has done. When this happens, you will know that I am the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.23|<< Ezekiel 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.25|Ezekiel 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

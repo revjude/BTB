@@ -1,12 +1,12 @@
-**Philippians 1:12
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:12**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I would ye should understand, brethren, that the things [which happened] unto me have fallen out rather unto the furtherance of the gospel;
 <small><sub>**BSB:**</sub></small>
 Now I want you to know, brothers, that my circumstances have actually served to advance the gospel.
 <small><sub>**Literal:**</sub></small>
 To know now you I want, brothers, that the [things] concerning me myself really to [the] advancement of the gospel have turned out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.11|<< Philippians 1:11]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.13|Philippians 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To know |**<big>[[G1097\|Γινώσκειν]]</big>**  [^1] |Ginōskein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 23:25** 
 <small><sub>**LXX:**</sub></small>
 You shall not do any servile work, and you shall bring a whole burnt-offering to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Ye shall do no servile work [therein]: but ye shall offer an offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You must not do any regular work, but you are to present a food offering to the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.24|<< Leviticus 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.26|Leviticus 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

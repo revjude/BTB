@@ -1,4 +1,4 @@
-**Psalms 89:39** (89:40)
+**Psalms 89:39**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast made void the covenant of thy servant: thou hast profaned his crown [by casting it] to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have renounced the covenant with Your servant and sullied his crown in the d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.38|<< Psalms 89:38]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.40|Psalms 89:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have repudiated  |**<big>&#8207;[[H5010\|נֵ֭אַרְתָּה]]&#8207; </big>**| Ne.'ar.tah<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] covenant of  |**<big>&#8207;[[H1285\|בְּרִ֣ית]]&#8207; </big>**| be.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

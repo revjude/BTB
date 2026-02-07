@@ -1,10 +1,7 @@
 **LXX Joel 2:27** 
 <small><sub>**LXX:**</sub></small>
 And you shall realize that I am in \[the\] midst of Israel, even I \[the\] <span class="smallcaps">lord</span>  your God, and there is not any besides me. And in no way my people be disgraced any longer into the eon. 
-<small><sub>**KJV:**</sub></small>
-And ye shall know that I [am] in the midst of Israel, and [that] I [am] the LORD your God, and none else: and my people shall never be ashamed.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I am present in Israel and that I am the LORD your God, and there is no other. My people will never again be put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.26|<< Joel 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.28|Joel 2:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:27** is...

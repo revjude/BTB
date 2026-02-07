@@ -1,10 +1,7 @@
 **LXX Exodus 29:2** 
 <small><sub>**LXX:**</sub></small>
 and unleavened breads being mixed up with olive oil, and unleavened pancakes being coated with olive oil. You shall make them of fine flour of wheat. 
-<small><sub>**KJV:**</sub></small>
-And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: [of] wheaten flour shalt thou make them.
-<small><sub>**BSB:**</sub></small>
-along with unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. Make them out of fine wheat flour,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.1|<< Exodus 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.3|Exodus 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 9:15** 
 <small><sub>**LXX:**</sub></small>
 And I will remember  my covenant which is between me and you, and between every living soul among all flesh. And there will not be any longer the water for a flood so as to wipe away all flesh. 
-<small><sub>**KJV:**</sub></small>
-And I will remember my covenant, which [is] between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
-<small><sub>**BSB:**</sub></small>
-I will remember My covenant between Me and you and every living creature of every kind. Never again will the waters become a flood to destroy all life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.14|<< Genesis 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.16|Genesis 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

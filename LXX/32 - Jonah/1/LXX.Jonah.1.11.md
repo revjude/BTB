@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they said to him, What should we do to you, and the sea abates from us? (for the sea went forth and rose up a rather \[great\] swell.) 
-<small><sub>**KJV:**</sub></small>
-Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.
-<small><sub>**BSB:**</sub></small>
-Now the sea was growing worse and worse, so they said to Jonah, “What must we do to you to calm this sea for us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.10|<< Jonah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.12|Jonah 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

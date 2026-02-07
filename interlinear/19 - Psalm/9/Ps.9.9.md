@@ -1,4 +1,4 @@
-**Psalms 9:9** (9:10)
+**Psalms 9:9**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also will be a refuge for the oppressed, a refuge in times of trouble.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is a refuge for the oppressed, a stronghold in times of trouble.
 > $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he may be  |**<big>&#8207;[[H9002\|וִ֘]]&#8207;&#8207;[[H1961\|יהִ֤י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

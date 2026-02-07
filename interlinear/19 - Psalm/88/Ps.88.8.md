@@ -1,4 +1,4 @@
-**Psalms 88:8** (88:9)
+**Psalms 88:8**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: [I am] shut up, and I cannot come forth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have removed my friends from me; You have made me repulsive to them; I am co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.7|<< Psalms 88:7]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.9|Psalms 88:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have removed far away  |**<big>&#8207;[[H7368\|הִרְחַ֥קְתָּ]]&#8207; </big>**| hir.Chak.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | acquaintances my  |**<big>&#8207;[[H3045\|מְיֻדָּעַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.yu.da.'A<small><sup>[[HVPsmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

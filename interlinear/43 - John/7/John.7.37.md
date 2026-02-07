@@ -1,12 +1,12 @@
-**John 7:37
-**<small><sub>**KJV:**</sub></small>
+**John 7:37**<big><big>[[John.7.37 Living Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the last day, that great [day] of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
 <small><sub>**BSB:**</sub></small>
 On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink.
 <small><sub>**Literal:**</sub></small>
 In now the last day the great [day] of the feast had stood <the> Jesus and cried out saying; If anyone shall thirst, he should come to Me and should drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.36|<< John 7:36]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.38|John 7:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

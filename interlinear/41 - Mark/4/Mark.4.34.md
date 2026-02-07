@@ -1,12 +1,12 @@
-**Mark 4:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:34**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.
 <small><sub>**BSB:**</sub></small>
 He did not tell them anything without using a parable. But privately He explained everything to His own disciples.
 <small><sub>**Literal:**</sub></small>
 Without then parables not was He speaking to them; in private however <the> to [His] own disciples He was explaining all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.33|<< Mark 4:33]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.35|Mark 4:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Without |**<big>[[G5565\|χωρὶς]]</big>**  |chōris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

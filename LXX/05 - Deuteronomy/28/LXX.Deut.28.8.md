@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:8** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> send upon you the blessing among  your storerooms, and on all what ever you should put  your hand. And he will bless you upon the land of which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee.
-<small><sub>**BSB:**</sub></small>
-The LORD will decree a blessing on your barns and on everything to which you put your hand; the LORD your God will bless you in the land He is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.7|<< Deuteronomy 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.9|Deuteronomy 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

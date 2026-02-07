@@ -1,10 +1,7 @@
 **LXX Judges 19:14** 
 <small><sub>**LXX:**</sub></small>
 And they went by, and the sun went down on them being next  to Gibeah, which is  of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-And they passed on and went their way; and the sun went down upon them [when they were] by Gibeah, which [belongeth] to Benjamin.
-<small><sub>**BSB:**</sub></small>
-So they continued on their journey, and the sun set as they neared Gibeah in Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.13|<< Judges 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.15|Judges 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

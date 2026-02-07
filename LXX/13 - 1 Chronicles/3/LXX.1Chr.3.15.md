@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Josiah -- first-born Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Josiah [were], the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
-<small><sub>**BSB:**</sub></small>
-The sons of Josiah: Johanan was the firstborn, Jehoiakim the second, Zedekiah the third, and Shallum the fourth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.14|<< 1 Chronicles 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.16|1 Chronicles 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

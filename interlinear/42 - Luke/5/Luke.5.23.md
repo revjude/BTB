@@ -1,12 +1,12 @@
-**Luke 5:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:23**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?
 <small><sub>**BSB:**</sub></small>
 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
 <small><sub>**Literal:**</sub></small>
 Which is easier, to say; Have been forgiven you the sins of you, or to say; do arise and do walk?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.22|<< Luke 5:22]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.24|Luke 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

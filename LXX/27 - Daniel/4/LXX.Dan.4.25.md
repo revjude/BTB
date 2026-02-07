@@ -1,10 +1,7 @@
 **LXX Daniel 4:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall be banished from  men; and your dwelling will be with wild beasts; and grass as an ox they shall feed you, and from the dew of the heaven you shall lodge, and seven seasons shall change over you, until of which \[time\] you should know that the highest dominates the kingdom  of men, and to whomever it seems good he will give it. 
-<small><sub>**KJV:**</sub></small>
-That they shall drive thee from men, and thy dwelling shall be with the beasts of the field, and they shall make thee to eat grass as oxen, and they shall wet thee with the dew of heaven, and seven times shall pass over thee, till thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
-<small><sub>**BSB:**</sub></small>
-You will be driven away from mankind, and your dwelling will be with the beasts of the field. You will feed on grass like an ox and be drenched with the dew of heaven, and seven times shall pass you by, until you acknowledge that the Most High rules over the kingdom of mankind and gives it to whom He wishes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.24|<< Daniel 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.26|Daniel 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

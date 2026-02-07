@@ -1,4 +1,4 @@
-**Psalms 69:4** (69:5)
+**Psalms 69:4**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that hate me without a cause are more than the hairs of mine head: they that would destroy me, [being] mine enemies wrongfully, are mighty: then I restored [that] which I took not away.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Those who hate me without cause outnumber the hairs of my head; many are those w
 > $\quad$ referenced by: [[John.15.25|John 15:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are many  |**<big>&#8207;[[H7231\|רַבּ֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Bu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than [the] hairs of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8185\|שַּׂעֲר֣וֹת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

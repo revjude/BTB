@@ -1,4 +1,4 @@
-**Genesis 8:4** 
+**Genesis 8:4**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventeenth day of the seventh month, the ark came to rest on the mountai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.3|<< Genesis 8:3]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.5|Genesis 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rested  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|תָּ֤נַח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.nach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ark  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8392\|תֵּבָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

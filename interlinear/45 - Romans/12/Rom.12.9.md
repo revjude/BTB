@@ -1,5 +1,5 @@
-**Romans 12:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:9**<big><big>[[Rom.12.9 Love, Zeal, Hope, Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Let] love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 <small><sub>**BSB:**</sub></small>
 Love must be sincere. Detest what is evil; cling to what is good.
@@ -10,7 +10,7 @@ Love must be sincere. Detest what is evil; cling to what is good.
 > $\quad$ alluding to: [[LXX.Amos.5.15|Amos 5:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [Let] love [be] |**<big>[[G0026\|ἀγάπη]]</big>**  |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 32:5** 
 <small><sub>**LXX:**</sub></small>
 And they said, If we find favor before you, give  this land \[to\] your servants for a possession, and do not cause us to pass over the Jordan! 
-<small><sub>**KJV:**</sub></small>
-Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, [and] bring us not over Jordan.
-<small><sub>**BSB:**</sub></small>
-“If we have found favor in your sight,” they said, “let this land be given to your servants as a possession. Do not make us cross the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.4|<< Numbers 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.6|Numbers 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

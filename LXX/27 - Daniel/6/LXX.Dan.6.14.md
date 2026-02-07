@@ -1,10 +1,7 @@
 **LXX Daniel 6:14** 
 <small><sub>**LXX:**</sub></small>
 Then the king, as he heard the saying, fretted much over him; and concerning  Daniel he struggled  to rescue him, and until evening he was struggling  to rescue him. 
-<small><sub>**KJV:**</sub></small>
-Then the king, when he heard [these] words, was sore displeased with himself, and set [his] heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.
-<small><sub>**BSB:**</sub></small>
-As soon as the king heard this, he was deeply distressed and set his mind on delivering Daniel, and he labored until sundown to rescue him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.13|<< Daniel 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.15|Daniel 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 20:19
-**<small><sub>**KJV:**</sub></small>
+**John 20:19**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the same day at evening, being the first [day] of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace [be] unto you.
 <small><sub>**BSB:**</sub></small>
 It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them.
 <small><sub>**Literal:**</sub></small>
 When is being therefore evening of the day same the first <the> of [the] week and the doors shut where were the disciples assembled through the fear of the Jews, came <the> Jesus and stood in the midst and He says to them; Peace to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.18|<< John 20:18]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.20|John 20:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When is being |**<big>[[G1510\|Οὔσης]]</big>**  |Ousēs <small><sup>[[V-PAP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

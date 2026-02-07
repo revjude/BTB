@@ -1,5 +1,5 @@
-**John 8:5
-**<small><sub>**KJV:**</sub></small>
+**John 8:5**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Moses in the law commanded us, that such should be stoned: but what sayest thou?
 <small><sub>**BSB:**</sub></small>
 In the Law Moses commanded us to stone such a woman. So what do You say?”
@@ -10,7 +10,7 @@ In now the law us Moses commanded <the> such to be stoned; You yourself therefor
 > $\quad$ alluding to: [[LXX.Lev.20.10|Lev 20:10]] ☩ [[LXX.Deut.22.21|Deut 22:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

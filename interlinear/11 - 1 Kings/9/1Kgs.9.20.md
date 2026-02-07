@@ -1,4 +1,4 @@
-**1 Kings 9:20** 
+**1 Kings 9:20**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] all the people [that were] left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which [were] not of the children of Israel,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for all the people who remained of the Amorites, Hittites, Perizzites, Hivite
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.19|<< 1 Kings 9:19]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.21|1 Kings 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H5971A\|עָם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

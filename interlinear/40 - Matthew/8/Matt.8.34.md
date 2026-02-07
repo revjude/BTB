@@ -1,12 +1,12 @@
-**Matthew 8:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:34**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, the whole city came out to meet Jesus: and when they saw him, they besought [him] that he would depart out of their coasts.
 <small><sub>**BSB:**</sub></small>
 Then the whole town went out to meet Jesus. And when they saw Him, they begged Him to leave their region.
 <small><sub>**Literal:**</sub></small>
 And behold all the city went out to meet <the> Jesus, And having seen Him they begged [Him] that He may depart from the region of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.33|<< Matthew 8:33]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.1|Matthew 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

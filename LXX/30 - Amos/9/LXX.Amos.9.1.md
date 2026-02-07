@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I saw the <span class="smallcaps">lord</span> standing at the altar. And he said, Strike upon the atonement-seat! and the gateways shall be shaken. And cut unto \[the\] heads of all! and the ones remaining of them I will kill by \[the\] broadsword. In no way should one evade from them by fleeing, and in no way shall there be preserved one of them by rescuing. 
-<small><sub>**KJV:**</sub></small>
-I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.
-<small><sub>**BSB:**</sub></small>
-I saw the Lord standing beside the altar, and He said: “Strike the tops of the pillars so that the thresholds shake. Topple them on the heads of all the people, and I will kill the rest with the sword. None of those who flee will get away; none of the fugitives will escape.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

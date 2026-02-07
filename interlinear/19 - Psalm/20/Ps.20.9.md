@@ -1,4 +1,4 @@
-**Psalms 20:9** (20:10)
+**Psalms 20:9**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save, LORD: let the king hear us when we call.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, save the king. Answer us on the day we call.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.8|<< Psalms 20:8]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.0|Psalms 21:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | save !  |**<big>&#8207;[[H3467\|הוֹשִׁ֑יעָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ho.Shi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

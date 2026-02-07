@@ -1,4 +1,4 @@
-**Isaiah 27:4** 
+**Isaiah 27:4**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fury [is] not in me: who would set the briers [and] thorns against me in battle? I would go through them, I would burn them together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am not angry. If only thorns and briers confronted Me, I would march and tramp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.3|<< Isaiah 27:3]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.5|Isaiah 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rage  |**<big>&#8207;[[H2534\|חֵמָ֖ה]]&#8207; </big>**| che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

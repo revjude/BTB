@@ -1,10 +1,7 @@
 **LXX Psalm 3:7** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O <span class="smallcaps">lord</span>! Deliver me, O my God! For you struck all the ones hating me for no cause; you broke \[the\] teeth of sinners. 
-<small><sub>**KJV:**</sub></small>
-Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies [upon] the cheek bone; thou hast broken the teeth of the ungodly.
-<small><sub>**BSB:**</sub></small>
-Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the teeth of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.6|<< Psalm 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.8|Psalm 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

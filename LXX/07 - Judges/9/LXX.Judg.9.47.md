@@ -1,10 +1,7 @@
 **LXX Judges 9:47** 
 <small><sub>**LXX:**</sub></small>
 And it was announced  to Abimelech that all the men of the tower of Shechem were brought together. 
-<small><sub>**KJV:**</sub></small>
-And it was told Abimelech, that all the men of the tower of Shechem were gathered together.
-<small><sub>**BSB:**</sub></small>
-And when Abimelech was told that all the leaders in the tower of Shechem were gathered there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.46|<< Judges 9:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.48|Judges 9:48 >>]]</td></tr></table>
 
 | Translation | Greek |

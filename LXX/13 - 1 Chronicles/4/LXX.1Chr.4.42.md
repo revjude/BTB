@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:42** 
 <small><sub>**LXX:**</sub></small>
 And \[some\] of them of the sons of Simeon went forth unto  mount Seir -- five hundred men, and Pelatiah, and Neariah, and Rephaiah, and Uzziel, \[the\] sons of Ishi, their rulers. 
-<small><sub>**KJV:**</sub></small>
-And [some] of them, [even] of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
-<small><sub>**BSB:**</sub></small>
-And five hundred of these Simeonites led by Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, went to Mount Seir<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.41|<< 1 Chronicles 4:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.43|1 Chronicles 4:43 >>]]</td></tr></table>
 
 | Translation | Greek |

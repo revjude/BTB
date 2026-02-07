@@ -1,12 +1,12 @@
-**Acts 17:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:32**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this [matter].
 <small><sub>**BSB:**</sub></small>
 When they heard about the resurrection of the dead, some began to mock him, but others said, “We want to hear you again on this topic.”
 <small><sub>**Literal:**</sub></small>
 Having heard of now a resurrection of [the] dead some indeed were mocking [him], some however said; We will hear you concerning this also again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.31|<< Acts 17:31]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.33|Acts 17:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard of |**<big>[[G0191\|Ἀκούσαντες]]</big>**  |Akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

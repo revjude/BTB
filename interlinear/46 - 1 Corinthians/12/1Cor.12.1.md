@@ -1,12 +1,12 @@
-**1 Corinthians 12:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:1**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now concerning spiritual [gifts], brethren, I would not have you ignorant.
 <small><sub>**BSB:**</sub></small>
 Now about spiritual gifts, brothers, I do not want you to be uninformed.
 <small><sub>**Literal:**</sub></small>
 Concerning now <the> spiritual [gifts], brothers, not I do want you to be ignorant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.34|<< 1 Corinthians 11:34]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.2|1 Corinthians 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

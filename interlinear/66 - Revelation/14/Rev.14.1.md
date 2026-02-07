@@ -1,5 +1,5 @@
-**Revelation 14:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:1**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father’s name written in their foreheads.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.
@@ -10,7 +10,7 @@ And I looked and behold the Lamb standing upon <the> Mount Zion and with Him num
 > $\quad$ alluding to: [[LXX.Ps.2.6|Ps 2:6]] ☩ [[LXX.Isa.59.20|Isa 59:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

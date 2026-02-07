@@ -1,12 +1,12 @@
-**Acts 24:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:25**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he reasoned of righteousness, temperance, and judgment to come, Felix trembled, and answered, Go thy way for this time; when I have a convenient season, I will call for thee.
 <small><sub>**BSB:**</sub></small>
 As Paul expounded on righteousness, self-control, and the coming judgment, Felix became frightened and said, “You may go for now. When I find the time, I will call for you.”
 <small><sub>**Literal:**</sub></small>
 When reasoning then he concerning righteousness and self-control and the judgment which is coming to be  [in the future] frightened having become <the> Felix answered; For the present being do go away; opportunity then having found I will call for you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.24|<< Acts 24:24]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.26|Acts 24:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When reasoning |**<big>[[G1256\|διαλεγομένου]]</big>**  |dialegomenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

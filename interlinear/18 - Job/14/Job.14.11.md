@@ -1,4 +1,4 @@
-**Job 14:11** 
+**Job 14:11**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the waters fail from the sea, and the flood decayeth and drieth up:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As water disappears from the sea and a river becomes parched and dry,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.10|<< Job 14:10]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.12|Job 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they disappear  |**<big>&#8207;[[H0235\|אָֽזְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ze.lu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | waters  |**<big>&#8207;[[H4325G\|מַ֭יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

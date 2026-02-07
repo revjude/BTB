@@ -1,10 +1,7 @@
 **LXX Esther 8:7** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Esther, If all the possessions of Haman I gave and granted to you, and he I hanged upon \[the\] tree for the hands he bore against the Jews, what yet do you anxiously seek? 
-<small><sub>**KJV:**</sub></small>
-Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.
-<small><sub>**BSB:**</sub></small>
-So King Xerxes said to Esther the Queen and Mordecai the Jew, “Behold, I have given Haman’s estate to Esther, and he was hanged on the gallows because he attacked the Jews.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.6|<< Esther 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.8|Esther 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

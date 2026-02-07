@@ -1,4 +1,4 @@
-**Proverbs 22:14** 
+**Proverbs 22:14**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mouth of strange women [is] a deep pit: he that is abhorred of the LORD shall fall therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mouth of an adulteress is a deep pit; he who is under the wrath of the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.13|<< Proverbs 22:13]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.15|Proverbs 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a pit  |**<big>&#8207;[[H7745\|שׁוּחָ֣ה]]&#8207; </big>**| shu.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deep  |**<big>&#8207;[[H6013\|עֲ֭מֻקָּה]]&#8207; </big>**| 'A.mu.kah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

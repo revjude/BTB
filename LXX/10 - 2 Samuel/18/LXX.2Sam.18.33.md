@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:33** 
 <small><sub>**LXX:**</sub></small>
 And the king was disturbed, and he ascended into the upper room of the gate and wept. And so he said as  he wept, O My son, Absalom. O my son!, O my son, Absalom. What \[that I couldn't\] give  my death for you, I instead of you, Absalom, O my son! O my son. 
-<small><sub>**KJV:**</sub></small>
-And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!
-<small><sub>**BSB:**</sub></small>
-The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.32|<< 2 Samuel 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.1|2 Samuel 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

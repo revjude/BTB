@@ -1,10 +1,7 @@
 **LXX Numbers 18:21** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Levi, behold, I have given every tenth part in Israel by lot for  their ministrations, as much as they shall officiate \[the\] ministration in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, [even] the service of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Behold, I have given to the Levites all the tithes in Israel as an inheritance in return for the work they do, the service of the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.20|<< Numbers 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.22|Numbers 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:3** 
 <small><sub>**LXX:**</sub></small>
 And David struck  Hadadezer, son of Rehob, king of Zobah, in his going to set  his hand against the Euphrates river. 
-<small><sub>**KJV:**</sub></small>
-David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
-<small><sub>**BSB:**</sub></small>
-David also defeated Hadadezer son of Rehob, king of Zobah, who had marched out to restore his dominion along the Euphrates River.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.2|<< 2 Samuel 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.4|2 Samuel 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

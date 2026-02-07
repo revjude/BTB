@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:39** 
 <small><sub>**LXX:**</sub></small>
 O how he reconciled. O how Moab turned \[his\] back. Moab was shamed and became for laughter, and an object of anger to all the ones round about her. 
-<small><sub>**KJV:**</sub></small>
-They shall howl, [saying], How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.
-<small><sub>**BSB:**</sub></small>
-“How shattered it is! How they wail! How Moab has turned his back in shame! Moab has become an object of ridicule and horror to all those around him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.38|<< Jeremiah 48:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.40|Jeremiah 48:40 >>]]</td></tr></table>
 
 | Translation | Greek |

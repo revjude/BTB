@@ -1,4 +1,4 @@
-**Isaiah 46:9** 
+**Isaiah 46:9**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember the former things of old: for I [am] God, and [there is] none else; [I am] God, and [there is] none like me,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember what happened long ago, for I am God, and there is no other; I am God, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.8|<< Isaiah 46:8]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.10|Isaiah 46:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זִכְר֥וּ]]&#8207; </big>**| zikh.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | former [things]  |**<big>&#8207;[[H7223H\|רִאשֹׁנ֖וֹת]]&#8207; </big>**| ri.sho.Not<small><sup>[[HAofpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

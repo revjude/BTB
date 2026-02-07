@@ -1,12 +1,12 @@
-**Luke 13:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:22**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem.
 <small><sub>**Literal:**</sub></small>
 And He was going through by towns and villages teaching and progress making toward Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.21|<< Luke 13:21]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.23|Luke 13:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was going through |**<big>[[G1279\|διεπορεύετο]]</big>**  |dieporeueto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 31:18** 
 <small><sub>**LXX:**</sub></small>
 become the lips of the deceitful speechless! \[even\] the ones speaking against the just in lawlessness with pride and contempt. 
-<small><sub>**KJV:**</sub></small>
-Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.
-<small><sub>**BSB:**</sub></small>
-May lying lips be silenced—lips that speak with arrogance against the righteous, full of pride and contempt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.17|<< Psalm 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.19|Psalm 31:19 >>]]</td></tr></table>
 
 | Translation | Greek |

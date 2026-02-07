@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the calamity, and \[the\] <span class="smallcaps">lord</span> spoke to Moses, and to Eleazar the priest, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
-<small><sub>**BSB:**</sub></small>
-After the plague had ended, the LORD said to Moses and Eleazar son of Aaron the priest,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.18|<< Numbers 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.2|Numbers 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

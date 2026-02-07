@@ -1,10 +1,7 @@
 **LXX Daniel 3:18** 
 <small><sub>**LXX:**</sub></small>
 But if not, let it be made known to you, O king! that  your gods we will not serve, and to the golden image which you stationed, we will not do obeisance to. 
-<small><sub>**KJV:**</sub></small>
-But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.
-<small><sub>**BSB:**</sub></small>
-But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

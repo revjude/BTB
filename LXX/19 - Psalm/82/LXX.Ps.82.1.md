@@ -6,10 +6,7 @@ A psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
  God stood in \[the\] congregation of gods; and in \[the\] midst of gods he examines. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods.
-<small><sub>**BSB:**</sub></small>
-A Psalm of Asaph. God presides in the divine assembly; He renders judgment among the gods:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.82.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.16|<< Psalm 81:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.2|Psalm 82:2 >>]]</td></tr></table>
 
 | Translation | Greek |

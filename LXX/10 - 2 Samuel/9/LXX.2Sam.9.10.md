@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall work the land for him, and  your sons, and  your servants. And you shall carry in to the son  of your master bread loaves, and he shall eat. And Mephibosheth son  of your master shall eat bread always at  my table. And  to Ziba were fifteen sons and twenty servants. 
-<small><sub>**KJV:**</sub></small>
-Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in [the fruits], that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
-<small><sub>**BSB:**</sub></small>
-You and your sons and servants are to work the ground for him and bring in the harvest, so that your master’s grandson may have food to eat. But Mephibosheth, your master’s grandson, is always to eat at my table.” Now Ziba had fifteen sons and twenty servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.9|<< 2 Samuel 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.11|2 Samuel 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

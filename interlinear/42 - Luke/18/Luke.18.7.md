@@ -1,12 +1,12 @@
-**Luke 18:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:7**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 <small><sub>**BSB:**</sub></small>
 Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?
 <small><sub>**Literal:**</sub></small>
 <the> And God certainly not may do the avenging of the elect of Him the [ones] crying out to to Him day and night, and be patient in regard to them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.6|<< Luke 18:6]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.8|Luke 18:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

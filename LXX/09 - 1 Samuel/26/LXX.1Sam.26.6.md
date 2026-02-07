@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:6** 
 <small><sub>**LXX:**</sub></small>
 And David responded and said to Ahimelech the Hittite, and to Abishai son of Zeruiah, brother of Joab, saying, Who shall enter with me to Saul, into the camp? And Abishai said, I shall enter with you. 
-<small><sub>**KJV:**</sub></small>
-Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
-<small><sub>**BSB:**</sub></small>
-And David asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will go down with me to Saul in the camp?” “I will go with you,” answered Abishai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.5|<< 1 Samuel 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.7|1 Samuel 26:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 3:18** 
 <small><sub>**LXX:**</sub></small>
 And she said, Sit down, O daughter, until  you realize how  \[the\] matter shall fall!  for the man should not be still until whenever he should finish the matter today. 
-<small><sub>**KJV:**</sub></small>
-Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.
-<small><sub>**BSB:**</sub></small>
-“Wait, my daughter,” said Naomi, “until you find out how things go, for he will not rest unless he has resolved the matter today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.17|<< Ruth 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.1|Ruth 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

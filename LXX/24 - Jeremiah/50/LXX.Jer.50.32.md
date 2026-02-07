@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:32** 
 <small><sub>**LXX:**</sub></small>
 And your insolence shall be weakened and shall fall, and there shall not be  one raising it. And I will kindle a fire in  her forest, and it shall devour all the \[things\] round about her. 
-<small><sub>**KJV:**</sub></small>
-And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.
-<small><sub>**BSB:**</sub></small>
-The arrogant one will stumble and fall with no one to pick him up. And I will kindle a fire in his cities to consume all those around him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.31|<< Jeremiah 50:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.33|Jeremiah 50:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 19:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:21**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.
 <small><sub>**BSB:**</sub></small>
 After these things had happened, Paul resolved in the Spirit to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must see Rome as well.”
 <small><sub>**Literal:**</sub></small>
 After now were fulfilled these things, purposed <the> Paul in the Spirit having passed through <the> Macedonia and Achaia to go to Jerusalem having said that After <the> being me there, it behooves me also Rome to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.20|<< Acts 19:20]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.22|Acts 19:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

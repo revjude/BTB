@@ -1,10 +1,7 @@
 **LXX Leviticus 12:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! and you shall say to them, saying, A woman whoever should conceive, and should give birth to a male, she shall be unclean seven days; according to the days of the separation  of her menstruation she shall be unclean. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
-<small><sub>**BSB:**</sub></small>
-“Say to the Israelites, ‘A woman who becomes pregnant and gives birth to a son will be unclean for seven days, as she is during the days of her menstruation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.1|<< Leviticus 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.3|Leviticus 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:14** 
 <small><sub>**LXX:**</sub></small>
 And I will disperse them, a man and  his brother, and  their fathers, and  their sons in the same way; I will not long after them, says \[the\] <span class="smallcaps">lord</span>, and I will not spare, and I will not pity at their ruin. 
-<small><sub>**KJV:**</sub></small>
-And I will dash them one against another, even the fathers and the sons together, saith the LORD: I will not pity, nor spare, nor have mercy, but destroy them.
-<small><sub>**BSB:**</sub></small>
-I will smash them against one another, fathers and sons alike, declares the LORD. I will allow no mercy or pity or compassion to keep Me from destroying them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.13|<< Jeremiah 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.15|Jeremiah 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

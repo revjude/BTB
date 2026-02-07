@@ -1,4 +1,4 @@
-**2 Chronicles 21:9** 
+**2 Chronicles 21:9**<big><big>[[2Chr.21.8 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him in, and the captains of the chariots.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoram crossed into Edom with his officers and all his chariots. When the Ed
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.8|<< 2 Chronicles 21:8]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.10|2 Chronicles 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּֽעֲבֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoram  |**<big>&#8207;[[H3088G\|יְהוֹרָם֙]]&#8207; </big>**| ye.ho.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

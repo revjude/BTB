@@ -1,10 +1,7 @@
 **LXX Psalm 129:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] just; he cut down \[the\] necks of sinners. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] righteous: he hath cut asunder the cords of the wicked.
-<small><sub>**BSB:**</sub></small>
-The LORD is righteous; He has cut me from the cords of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.129.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.3|<< Psalm 129:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.5|Psalm 129:5 >>]]</td></tr></table>
 
 | Translation | Greek |

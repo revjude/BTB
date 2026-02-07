@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:13** 
 <small><sub>**LXX:**</sub></small>
 And I went forth through the gate of Gai at night to \[the\] mouth of \[the\] spring of the serpent, and to the dung gate. And I was studying the walls of Jerusalem, the ones being torn down, and  her gates, the ones having been consumed by fire. 
-<small><sub>**KJV:**</sub></small>
-And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
-<small><sub>**BSB:**</sub></small>
-So I went out at night through the Valley Gate toward the Well of the Serpent and the Dung Gate, and I inspected the walls of Jerusalem that had been broken down and the gates that had been destroyed by fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.12|<< Nehemiah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.14|Nehemiah 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

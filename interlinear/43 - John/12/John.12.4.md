@@ -1,12 +1,12 @@
-**John 12:4
-**<small><sub>**KJV:**</sub></small>
+**John 12:4**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith one of his disciples, Judas Iscariot, Simon’s [son], which should betray him,
 <small><sub>**BSB:**</sub></small>
 But one of His disciples, Judas Iscariot, who was going to betray Him, asked,
 <small><sub>**Literal:**</sub></small>
 Says however Judas of Simon <the> Iscariot one of the disciples of Him, who is being about Him to betray;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.3|<< John 12:3]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.5|John 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 20:24** 
+**2 Chronicles 20:24**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they [were] dead bodies fallen to the earth, and none escaped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the men of Judah came to a place overlooking the wilderness, they looked fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.23|<< 2 Chronicles 20:23]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.25|2 Chronicles 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Judah  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֛ה]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H0935G\|בָּ֥א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

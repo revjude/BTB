@@ -1,4 +1,4 @@
-**Jeremiah 34:5** 
+**Jeremiah 34:5**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn [odours] for thee; and they will lament thee, [saying], Ah lord! for I have pronounced the word, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you will die in peace. As spices were burned for your fathers, the former kings 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in peace  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7965G\|שָׁל֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will die  |**<big>&#8207;[[H4191\|תָּמ֗וּת]]&#8207; </big>**| ta.Mut<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

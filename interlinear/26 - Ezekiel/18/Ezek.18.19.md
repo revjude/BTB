@@ -1,4 +1,4 @@
-**Ezekiel 18:19** 
+**Ezekiel 18:19**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, [and] hath kept all my statutes, and hath done them, he shall surely live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet you may ask, ‘Why shouldn’t the son bear the iniquity of his father?’ 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.18|<< Ezekiel 18:18]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.20|Ezekiel 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֕ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | why?  |**<big>&#8207;[[H4069\|מַדֻּ֛עַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

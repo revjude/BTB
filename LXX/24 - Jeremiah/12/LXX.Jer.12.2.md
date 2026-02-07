@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:2** 
 <small><sub>**LXX:**</sub></small>
 You planted them, and they were rooted. They produced children, and they produced fruit. You are near  their mouth, and at a distance from  their kidneys. 
-<small><sub>**KJV:**</sub></small>
-Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou [art] near in their mouth, and far from their reins.
-<small><sub>**BSB:**</sub></small>
-You planted them, and they have taken root. They have grown and produced fruit. You are ever on their lips, but far from their hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.1|<< Jeremiah 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.3|Jeremiah 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

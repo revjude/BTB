@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:10** 
 <small><sub>**LXX:**</sub></small>
 Of the priests; even Jadaiah son of Joiarib, Jachin. 
-<small><sub>**KJV:**</sub></small>
-Of the priests: Jedaiah the son of Joiarib, Jachin.
-<small><sub>**BSB:**</sub></small>
-From the priests: Jedaiah son of Joiarib; Jachin;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.9|<< Nehemiah 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.11|Nehemiah 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

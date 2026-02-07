@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:37** 
 <small><sub>**LXX:**</sub></small>
 Zelek the Ammonite. Nahari the Beerothite, the one lifting the equipment of Joab son of Zeruiah. 
-<small><sub>**KJV:**</sub></small>
-Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeruiah,
-<small><sub>**BSB:**</sub></small>
-Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.36|<< 2 Samuel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.38|2 Samuel 23:38 >>]]</td></tr></table>
 
 | Translation | Greek |

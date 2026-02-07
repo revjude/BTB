@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:20** 
 <small><sub>**LXX:**</sub></small>
 As silver is taken, and brass, and iron, and tin, and lead in \[the\] midst of \[the\] furnace,  to blow fire into it, for the casting in a furnace. So I will take you in  my anger, and in  my rage, and I will gather and cast you in a furnace. 
-<small><sub>**KJV:**</sub></small>
-[As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it]; so will I gather [you] in mine anger and in my fury, and I will leave [you there], and melt you.
-<small><sub>**BSB:**</sub></small>
-Just as one gathers silver, copper, iron, lead, and tin into the furnace to melt with a fiery blast, so I will gather you in My anger and wrath, leave you there, and melt you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.19|<< Ezekiel 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.21|Ezekiel 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

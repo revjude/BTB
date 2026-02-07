@@ -1,10 +1,7 @@
 **LXX Judges 8:10** 
 <small><sub>**LXX:**</sub></small>
 And Zebah and Zalmunna \[were\] in Karkor, and  their camp with them, about fifteen thousand, all the ones being left in all the camp of \[the\] sons of \[the\] east. And the ones falling were a hundred and twenty thousand men unsheathing \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-Now Zebah and Zalmunna [were] in Karkor, and their hosts with them, about fifteen thousand [men], all that were left of all the hosts of the children of the east: for there fell an hundred and twenty thousand men that drew sword.
-<small><sub>**BSB:**</sub></small>
-Now Zebah and Zalmunna were in Karkor with their army of about fifteen thousand men—all that were left of the armies of the people of the east. A hundred and twenty thousand swordsmen had already fallen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.9|<< Judges 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.11|Judges 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

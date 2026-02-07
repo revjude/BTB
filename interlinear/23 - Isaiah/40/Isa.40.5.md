@@ -1,4 +1,4 @@
-**Isaiah 40:5** 
+**Isaiah 40:5**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glory of the LORD shall be revealed, and all flesh shall see [it] together: for the mouth of the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the glory of the LORD will be revealed, and all humanity together will see i
 > $\quad$ referenced by: [[Luke.3.4|Luke 3:4-6]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be revealed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1540H\|נִגְלָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nig.Lah<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּב֣וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

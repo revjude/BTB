@@ -1,4 +1,4 @@
-**Esther 6:8** 
+**Esther 6:8**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ have them bring a royal robe that the king himself has worn and a horse on which
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.7|<< Esther 6:7]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.9|Esther 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let people bring  |**<big>&#8207;[[H0935P\|יָבִ֙יאוּ֙]]&#8207; </big>**| ya.Vi.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clothing of  |**<big>&#8207;[[H3830\|לְב֣וּשׁ]]&#8207; </big>**| le.Vush<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

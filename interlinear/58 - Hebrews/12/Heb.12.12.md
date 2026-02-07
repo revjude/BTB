@@ -1,5 +1,5 @@
-**Hebrews 12:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:12**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore lift up the hands which hang down, and the feeble knees;
 <small><sub>**BSB:**</sub></small>
 Therefore strengthen your limp hands and weak knees.
@@ -10,7 +10,7 @@ Therefore the drooped hands and the enfeebled knees do lift up,<br><table width=
 > $\quad$ alluding to: [[LXX.Isa.35.3|Isa 35:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

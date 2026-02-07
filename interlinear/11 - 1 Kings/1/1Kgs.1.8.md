@@ -1,4 +1,4 @@
-**1 Kings 1:8** 
+**1 Kings 1:8**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which [belonged] to David, were not with Adonijah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.7|<< 1 Kings 1:7]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.9|1 Kings 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zadok  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6659G\|צָד֣וֹק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H3548\|כֹּהֵן]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ko.hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 11:8** 
+**Hosea 11:8**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall I give thee up, Ephraim? [how] shall I deliver thee, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How could I give you up, O Ephraim? How could I surrender you, O Israel? How cou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.7|<< Hosea 11:7]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.9|Hosea 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349A\|אֵ֞יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I give up you  |**<big>&#8207;[[H5414G\|אֶתֶּנְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| 'e.ten.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

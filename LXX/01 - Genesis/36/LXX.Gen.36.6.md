@@ -1,10 +1,7 @@
 **LXX Genesis 36:6** 
 <small><sub>**LXX:**</sub></small>
 And Esau took  his wives, and  his sons, and  his daughters, and all the persons  of his house, and all  his possessions, and all the cattle, and all as much as he acquired, and all as much as he procured in \[the\] land of Canaan. And Esau went from \[the\] land of Canaan, from \[the\] face of Jacob  his brother. 
-<small><sub>**KJV:**</sub></small>
-And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
-<small><sub>**BSB:**</sub></small>
-Later, Esau took his wives and sons and daughters and all the people of his household, along with his livestock, all his other animals, and all the property he had acquired in Canaan, and he moved to a land far away from his brother Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.5|<< Genesis 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.7|Genesis 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

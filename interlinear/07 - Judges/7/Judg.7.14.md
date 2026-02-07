@@ -1,4 +1,4 @@
-**Judges 7:14** 
+**Judges 7:14**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his fellow answered and said, This [is] nothing else save the sword of Gideon the son of Joash, a man of Israel: [for] into his hand hath God delivered Midian, and all the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His friend replied: “This is nothing less than the sword of Gideon son of Joas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.13|<< Judges 7:13]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.15|Judges 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | neighbor his  |**<big>&#8207;[[H7453\|רֵעֵ֤]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ecclesiastes 1:7** 
+**Ecclesiastes 1:7**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the rivers run into the sea; yet the sea [is] not full; unto the place from whence the rivers come, thither they return again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the rivers flow into the sea, yet the sea is never full; to the place from w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rivers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5158A\|נְּחָלִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

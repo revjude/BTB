@@ -1,10 +1,7 @@
 **LXX Joshua 15:15** 
 <small><sub>**LXX:**</sub></small>
 And Caleb ascended from there upon the ones dwelling in Debir; and the name Debir was  formerly City of Letters. 
-<small><sub>**KJV:**</sub></small>
-And he went up thence to the inhabitants of Debir: and the name of Debir before [was] Kirjathsepher.
-<small><sub>**BSB:**</sub></small>
-From there he marched against the inhabitants of Debir (formerly known as Kiriath-sepher).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.14|<< Joshua 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.16|Joshua 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

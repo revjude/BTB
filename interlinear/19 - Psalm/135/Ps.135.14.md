@@ -1,4 +1,4 @@
-**Psalms 135:14** 
+**Psalms 135:14**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will judge his people, and he will repent himself concerning his servants.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD will vindicate His people and will have compassion on His servants.
 > $\quad$ referenced by: [[Heb.10.30|Heb 10:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he vindicates  |**<big>&#8207;[[H1777\|יָדִ֣ין]]&#8207; </big>**| ya.Din<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

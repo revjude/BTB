@@ -1,10 +1,7 @@
 **LXX Genesis 24:8** 
 <small><sub>**LXX:**</sub></small>
 And if the woman should not want to go with you into  this land, you will be clean from  this oath. Only  you should not return my son there. 
-<small><sub>**KJV:**</sub></small>
-And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.
-<small><sub>**BSB:**</sub></small>
-And if the woman is unwilling to follow you, then you are released from this oath of mine. Only do not take my son back there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.7|<< Genesis 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.9|Genesis 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that night, and \[the\] word \[of the\] <span class="smallcaps">lord</span> came to Nathan, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass that night, that the word of the LORD came unto Nathan, saying,
-<small><sub>**BSB:**</sub></small>
-But that night the word of the LORD came to Nathan, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.3|<< 2 Samuel 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.5|2 Samuel 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

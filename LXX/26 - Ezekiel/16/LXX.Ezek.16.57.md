@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:57** 
 <small><sub>**LXX:**</sub></small>
 before the uncovering  of your evils, in which manner you are now \[the\] scorn of \[the\] daughters of Syria, and all the ones round about you, even \[the\] daughters of \[the\] Philistines, of the ones compassing you round about? 
-<small><sub>**KJV:**</sub></small>
-Before thy wickedness was discovered, as at the time of [thy] reproach of the daughters of Syria, and all [that are] round about her, the daughters of the Philistines, which despise thee round about.
-<small><sub>**BSB:**</sub></small>
-before your wickedness was uncovered? Even so, you are now scorned by the daughters of Edom and all those around her, and by the daughters of the Philistines—all those around you who despise you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.56|<< Ezekiel 16:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.58|Ezekiel 16:58 >>]]</td></tr></table>
 
 | Translation | Greek |

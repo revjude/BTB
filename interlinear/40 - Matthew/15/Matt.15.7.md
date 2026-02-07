@@ -1,12 +1,12 @@
-**Matthew 15:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:7**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] hypocrites, well did Esaias prophesy of you, saying,
 <small><sub>**BSB:**</sub></small>
 You hypocrites! Isaiah prophesied correctly about you:
 <small><sub>**Literal:**</sub></small>
 Hypocrites! Rightly prophesied concerning you Isaiah saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.6|<< Matthew 15:6]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.8|Matthew 15:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hypocrites! |**<big>[[G5273\|Ὑποκριταί,]]</big>**  |Hupokritai <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Rightly |**<big>[[G2573\|καλῶς]]</big>**  |kalōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

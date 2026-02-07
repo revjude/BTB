@@ -1,12 +1,12 @@
-**2 Corinthians 11:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:16**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
 <small><sub>**BSB:**</sub></small>
 I repeat: Let no one take me for a fool. But if you do, then receive me as a fool, so that I too may boast a little.
 <small><sub>**Literal:**</sub></small>
 Again I say, no one me may think a fool to be; lest then except indeed even as a fool do receive me, that I myself also little a may boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.15|<< 2 Corinthians 11:15]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.17|2 Corinthians 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say, |**<big>[[G3004G\|λέγω,]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:28** 
 <small><sub>**LXX:**</sub></small>
 For thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I deliver you into \[the\] hands which you detest, from which your soul is separated from them. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; Behold, I will deliver thee into the hand [of them] whom thou hatest, into the hand [of them] from whom thy mind is alienated:
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘Surely I will deliver you into the hands of those you hate, from whom you turned away in disgust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.27|<< Ezekiel 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.29|Ezekiel 23:29 >>]]</td></tr></table>
 
 | Translation | Greek |

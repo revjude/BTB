@@ -1,4 +1,4 @@
-**Song of Solomon 3:9** 
+**Song of Solomon 3:9**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 King Solomon made himself a chariot of the wood of Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ King Solomon has made his carriage out of the timber of Lebanon.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.8|<< Song of Solomon 3:8]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.10|Song of Solomon 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a litter  |**<big>&#8207;[[H0668\|אַפִּרְי֗וֹן]]&#8207; </big>**| 'a.pir.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has made  |**<big>&#8207;[[H6213H\|עָ֤שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

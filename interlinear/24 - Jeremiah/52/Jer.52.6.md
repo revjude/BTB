@@ -1,4 +1,4 @@
-**Jeremiah 52:6** 
+**Jeremiah 52:6**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fourth month, in the ninth [day] of the month, the famine was sore in the city, so that there was no bread for the people of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the ninth day of the fourth month, the famine in the city was so severe that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.5|<< Jeremiah 52:5]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.7|Jeremiah 52:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹ֤דֶשׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7243\|רְבִיעִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the first year of Cyrus king of \[the\] Persians,  to initiate \[the\] word of \[the\] <span class="smallcaps">lord</span> by \[the\] mouth of Jeremiah, \[the\] <span class="smallcaps">lord</span> awakened the spirit of Cyrus king of \[the\] Persians. And he exhorted by a report in all his kingdom, and indeed in writing, saying, 
-<small><sub>**KJV:**</sub></small>
-Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and [put it] also in writing, saying,
-<small><sub>**BSB:**</sub></small>
-In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.23|<< 2 Chronicles 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.2|Ezra 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

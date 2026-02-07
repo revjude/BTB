@@ -1,4 +1,4 @@
-**Exodus 30:3** 
+**Exodus 30:3**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Overlay with pure gold the top and all the sides and horns, and make a molding o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.2|<< Exodus 30:2]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.4|Exodus 30:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will overlay  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6823\|צִפִּיתָ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.pi.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

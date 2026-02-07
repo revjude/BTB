@@ -1,10 +1,7 @@
 **LXX Psalm 49:6** 
 <small><sub>**LXX:**</sub></small>
 the ones yielding upon  their power, even \[the\] ones boasting upon the multitude of their riches. 
-<small><sub>**KJV:**</sub></small>
-They that trust in their wealth, and boast themselves in the multitude of their riches;
-<small><sub>**BSB:**</sub></small>
-They trust in their wealth and boast in their great riches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.5|<< Psalm 49:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.7|Psalm 49:7 >>]]</td></tr></table>
 
 | Translation | Greek |

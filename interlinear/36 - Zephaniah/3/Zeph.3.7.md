@@ -1,4 +1,4 @@
-**Zephaniah 3:7** 
+**Zephaniah 3:7**<big><big>[[Zeph.3.6 Purification of the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, [and] corrupted all their doings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said, ‘Surely you will fear Me and accept correction.’ Then her dwelling p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.6|<< Zephaniah 3:6]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.8|Zephaniah 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֜רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

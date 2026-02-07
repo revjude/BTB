@@ -1,10 +1,7 @@
 **LXX Exodus 15:19** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] horse of Pharaoh entered with chariots and riders into \[the\] sea; and \[the\] <span class="smallcaps">lord</span> brought upon them the water of the sea. But the sons of Israel went through dry \[land\] in \[the\] midst of the sea. 
-<small><sub>**KJV:**</sub></small>
-For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry [land] in the midst of the sea.
-<small><sub>**BSB:**</sub></small>
-For when Pharaoh’s horses, chariots, and horsemen went into the sea, the LORD brought the waters of the sea back over them. But the Israelites walked through the sea on dry ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.18|<< Exodus 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.20|Exodus 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

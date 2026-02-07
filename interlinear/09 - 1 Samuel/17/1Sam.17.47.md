@@ -1,4 +1,4 @@
-**1 Samuel 17:47** 
+**1 Samuel 17:47**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all this assembly shall know that the LORD saveth not with sword and spear: for the battle [is] the LORD’S, and he will give you into our hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all those assembled here will know that it is not by sword or spear that the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.46|<< 1 Samuel 17:46]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.48|1 Samuel 17:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may know  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3045\|יֵֽדְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.de.'U<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

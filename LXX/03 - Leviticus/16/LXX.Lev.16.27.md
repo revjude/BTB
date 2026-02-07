@@ -1,10 +1,7 @@
 **LXX Leviticus 16:27** 
 <small><sub>**LXX:**</sub></small>
 And the calf, the one for the sin \[offering\], and the young he-goat, the one for the sin \[offering\] which  their blood was carried to atone in the holy \[place\], they shall bring them outside the camp, and they shall incinerate them in fire, and  their skins, and  their meats, and  their dung. 
-<small><sub>**KJV:**</sub></small>
-And the bullock [for] the sin offering, and the goat [for] the sin offering, whose blood was brought in to make atonement in the holy [place], shall [one] carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.
-<small><sub>**BSB:**</sub></small>
-The bull for the sin offering and the goat for the sin offering, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; and their hides, flesh, and dung must be burned up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.26|<< Leviticus 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.28|Leviticus 16:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 16:27** is...

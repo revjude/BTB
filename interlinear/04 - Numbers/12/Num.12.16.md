@@ -1,4 +1,4 @@
-**Numbers 12:16** 
+**Numbers 12:16**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After that, the people set out from Hazeroth and camped in the Wilderness of Par
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.15|<< Numbers 12:15]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.1|Numbers 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֛ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they set out  |**<big>&#8207;[[H5265\|נָסְע֥וּ]]&#8207; </big>**| na.se.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

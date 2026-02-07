@@ -1,4 +1,4 @@
-**Isaiah 41:25** 
+**Isaiah 41:25**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have raised up [one] from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as [upon] morter, and as the potter treadeth clay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have raised up one from the north, and he has come—one from the east who cal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.24|<< Isaiah 41:24]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.26|Isaiah 41:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have stirred up  |**<big>&#8207;[[H5782\|הַעִיר֤וֹתִי]]&#8207; </big>**| ha.'i.Ro.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] north  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6828G\|צָּפוֹן֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.fOn<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

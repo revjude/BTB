@@ -1,4 +1,4 @@
-**Jeremiah 18:3** 
+**Jeremiah 18:3**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I went down to the potter’s house, and, behold, he wrought a work on the wheels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I went down to the potter’s house and saw him working at the wheel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.2|<< Jeremiah 18:2]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.4|Jeremiah 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I went down  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3381\|אֵרֵ֖ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Red<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

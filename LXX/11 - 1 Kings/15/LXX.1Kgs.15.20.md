@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Hadad hearkened  \[to\] king Asa, and he sent the rulers  of his force in to the cities  of Israel. And he struck  Ijon, and  Dan, and  Abel of \[the\] house of Maachah, and all  Cinneroth, unto all the land of Naphtali. 
-<small><sub>**KJV:**</sub></small>
-So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali.
-<small><sub>**BSB:**</sub></small>
-And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-beth-maacah, and the whole land of Naphtali, including the region of Chinnereth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.19|<< 1 Kings 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.21|1 Kings 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

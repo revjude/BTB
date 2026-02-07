@@ -1,5 +1,5 @@
-**Revelation 7:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:2**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
 <small><sub>**BSB:**</sub></small>
 And I saw another angel ascending from the east, with the seal of the living God. And he called out in a loud voice to the four angels who had been given power to harm the land and the sea:
@@ -10,7 +10,7 @@ And I saw another angel is  ascending from [the] rising of [the] sun having [the
 > $\quad$ possibly alluding to: [[LXX.Ezek.9.2|Ezek 9:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

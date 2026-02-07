@@ -1,4 +1,4 @@
-**Jeremiah 7:29** 
+**Jeremiah 7:29**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cut off thine hair, [O Jerusalem], and cast [it] away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cut off your hair and throw it away. Raise up a lamentation on the barren height
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.28|<< Jeremiah 7:28]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.30|Jeremiah 7:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cut off  |**<big>&#8207;[[H1494\|גָּזִּ֤י]]&#8207; </big>**| ga.Zi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hair your  |**<big>&#8207;[[H5145I\|נִזְרֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| niz.re<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

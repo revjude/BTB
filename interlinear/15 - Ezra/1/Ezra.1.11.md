@@ -1,4 +1,4 @@
-**Ezra 1:11** 
+**Ezra 1:11**<big><big>[[Ezra.1.7 Cyrus Restores the Holy Vessels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the vessels of gold and of silver [were] five thousand and four hundred. All [these] did Sheshbazzar bring up with [them of] the captivity that were brought up from Babylon unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.10|<< Ezra 1:10]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.1|Ezra 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vessels  |**<big>&#8207;[[H3627\|כֵּלִים֙]]&#8207; </big>**| ke.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

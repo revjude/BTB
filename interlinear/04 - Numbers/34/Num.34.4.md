@@ -1,4 +1,4 @@
-**Numbers 34:4** 
+**Numbers 34:4**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will turn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437G\|נָסַ֣ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sav<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֩]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

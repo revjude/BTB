@@ -1,10 +1,7 @@
 **LXX Leviticus 19:25** 
 <small><sub>**LXX:**</sub></small>
 And in the fifth year you shall eat  of its fruit; its produce is an addition to you. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-But in the fifth year you may eat its fruit; thus your harvest will be increased. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.24|<< Leviticus 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.26|Leviticus 19:26 >>]]</td></tr></table>
 
 | Translation | Greek |

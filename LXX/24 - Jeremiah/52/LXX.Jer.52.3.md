@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:3** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] wrath of \[the\] <span class="smallcaps">lord</span> was in Jerusalem and in Judah, until of which \[time\] the throwing them off from his face, and Zedekiah separated against the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-For through the anger of the LORD it came to pass in Jerusalem and Judah, till he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.
-<small><sub>**BSB:**</sub></small>
-For because of the anger of the LORD, all this happened in Jerusalem and Judah, until He finally banished them from His presence. And Zedekiah also rebelled against the king of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.2|<< Jeremiah 52:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.4|Jeremiah 52:4 >>]]</td></tr></table>
 
 | Translation | Greek |

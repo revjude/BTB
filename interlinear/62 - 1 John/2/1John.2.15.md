@@ -1,12 +1,12 @@
-**1 John 2:15
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:15**<big><big>[[1John.2.15 Do Not Love the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Love not the world, neither the things [that are] in the world. If any man love the world, the love of the Father is not in him.
 <small><sub>**BSB:**</sub></small>
 Do not love the world or anything in the world. If anyone loves the world, the love of the Father is not in him.
 <small><sub>**Literal:**</sub></small>
 Not do love the world nor the [things] in the world. If anyone shall love the world, not is the love of the Father in him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.14|<< 1 John 2:14]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.16|1 John 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do love |**<big>[[G0025\|ἀγαπᾶτε]]</big>**  |agapate <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 22:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:7**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came the day of unleavened bread, when the passover must be killed.
 <small><sub>**BSB:**</sub></small>
 Then came the day of Unleavened Bread on which the Passover lamb was to be sacrificed.
 <small><sub>**Literal:**</sub></small>
 Came then the day <the> of Unleavened [Bread] on which it was necessary for to be sacrificed the Passover lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.6|<< Luke 22:6]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.8|Luke 22:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|Ἦλθεν]]</big>**  |Ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

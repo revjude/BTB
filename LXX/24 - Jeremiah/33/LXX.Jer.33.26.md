@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:26** 
 <small><sub>**LXX:**</sub></small>
 Thus the seed of Jacob and David  my servant I would have banished, so as for me to not receive of  his seed rulers among the seed of Abraham, and  of Isaac, and  of Jacob. For I shall return  their captivity, and I shall show mercy on them. 
-<small><sub>**KJV:**</sub></small>
-Then will I cast away the seed of Jacob, and David my servant, [so] that I will not take [any] of his seed [to be] rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
-<small><sub>**BSB:**</sub></small>
-then I would also reject the descendants of Jacob and of My servant David, so as not to take from his descendants rulers over the descendants of Abraham, Isaac, and Jacob. For I will restore them from captivity and will have compassion on them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.25|<< Jeremiah 33:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.1|Jeremiah 34:1 >>]]</td></tr></table>
 
 | Translation | Greek |

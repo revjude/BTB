@@ -1,10 +1,7 @@
 **LXX Genesis 9:29** 
 <small><sub>**LXX:**</sub></small>
 And all the days of Noah were nine hundred fifty years, and he died. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Noah were nine hundred and fifty years: and he died.
-<small><sub>**BSB:**</sub></small>
-So Noah lived a total of 950 years, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.28|<< Genesis 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.1|Genesis 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 3:26** 
+**Daniel 3:26**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, [and] spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come [hither]. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Nebuchadnezzar approached the door of the blazing fiery furnace and called 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.25|<< Daniel 3:25]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.27|Daniel 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֜יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he approached  |**<big>&#8207;[[H7127\|קְרֵ֣ב]]&#8207; </big>**| ke.Rev<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

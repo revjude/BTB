@@ -1,4 +1,4 @@
-**Jonah 1:17** (2:1)
+**Jonah 1:17**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three 
 > $\quad$ referenced by: [[Matt.12.40|Matt 12:40]] ☩ [[Matt.16.4|Matt 16:4]] ☩ [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4487\|יְמַ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Man<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

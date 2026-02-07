@@ -1,4 +1,4 @@
-**Isaiah 53:7** 
+**Isaiah 53:7**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He was oppressed and afflicted, yet He did not open His mouth. He was led like a
 > $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[Rev.5.6|Rev 5:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he was oppressed  |**<big>&#8207;[[H5065\|נִגַּ֨שׂ]]&#8207; </big>**| ni.Gas<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

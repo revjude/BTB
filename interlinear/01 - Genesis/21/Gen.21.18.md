@@ -1,4 +1,4 @@
-**Genesis 21:18** 
+**Genesis 21:18**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get up, lift up the boy, and take him by the hand, for I will make him into a gr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.17|<< Genesis 21:17]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.19|Genesis 21:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֚וּמִי]]&#8207; </big>**| Ku.mi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lift up  |**<big>&#8207;[[H5375G\|שְׂאִ֣י]]&#8207; </big>**| se.'I<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

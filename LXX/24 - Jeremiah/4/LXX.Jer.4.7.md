@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lion ascended from out of  his lair, utterly destroying nations. He lifted away and came forth from out of  his place,  to make the earth for desolation; and  your cities shall be demolished, so as \[to\] not dwell them. 
-<small><sub>**KJV:**</sub></small>
-The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; [and] thy cities shall be laid waste, without an inhabitant.
-<small><sub>**BSB:**</sub></small>
-A lion has gone up from his thicket, and a destroyer of nations has set out. He has left his lair to lay waste your land. Your cities will be reduced to ruins and lie uninhabited.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.6|<< Jeremiah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.8|Jeremiah 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

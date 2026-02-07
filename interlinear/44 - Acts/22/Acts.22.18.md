@@ -1,12 +1,12 @@
-**Acts 22:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:18**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
 <small><sub>**BSB:**</sub></small>
 and saw the Lord saying to me, ‘Hurry! Leave Jerusalem quickly, because the people here will not accept your testimony about Me.’
 <small><sub>**Literal:**</sub></small>
 and seeing Him saying to me; do make haste and do go away with speed out of Jerusalem, because not they will receive your <the> testimony about Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.17|<< Acts 22:17]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.19|Acts 22:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | seeing |**<big>[[G1492H\|ἰδεῖν]]</big>**  |idein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

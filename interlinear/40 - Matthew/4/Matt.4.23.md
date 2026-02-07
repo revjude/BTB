@@ -1,12 +1,12 @@
-**Matthew 4:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:23**<big><big>[[Matt.4.23 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
 <small><sub>**BSB:**</sub></small>
 Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.
 <small><sub>**Literal:**</sub></small>
 And He was going through all <the> Galilee <the> Jesus teaching in the synagogues of them and proclaiming the gospel of the kingdom and healing every disease and every sickness among the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.22|<< Matthew 4:22]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.24|Matthew 4:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was going |**<big>[[G4013\|περιῆγεν]]</big>**  |periēgen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

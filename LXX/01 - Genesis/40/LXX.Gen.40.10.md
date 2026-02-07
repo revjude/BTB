@@ -1,10 +1,7 @@
 **LXX Genesis 40:10** 
 <small><sub>**LXX:**</sub></small>
 And in the grapevine three lower branches; and it flourished offering mature buds -- the clusters of \[the\] grape. 
-<small><sub>**KJV:**</sub></small>
-And in the vine [were] three branches: and it [was] as though it budded, [and] her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
-<small><sub>**BSB:**</sub></small>
-and on the vine were three branches. As it budded, its blossoms opened and its clusters ripened into grapes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.9|<< Genesis 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.11|Genesis 40:11 >>]]</td></tr></table>
 
 | Translation | Greek |

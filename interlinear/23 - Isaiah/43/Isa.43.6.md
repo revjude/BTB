@@ -1,4 +1,4 @@
-**Isaiah 43:6** 
+**Isaiah 43:6**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold th
 > $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will say  |**<big>&#8207;[[H0559\|אֹמַ֤ר]]&#8207; </big>**| 'o.Mar<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the north  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6828G\|צָּפוֹן֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> tza.fOn<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

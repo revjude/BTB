@@ -1,10 +1,7 @@
 **LXX Genesis 26:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> appeared to him, and said, You should not go down into Egypt, but dwell in the land! which ever I should tell you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:
-<small><sub>**BSB:**</sub></small>
-The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.1|<< Genesis 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.3|Genesis 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

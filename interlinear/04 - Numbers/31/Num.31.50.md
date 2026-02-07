@@ -1,4 +1,4 @@
-**Numbers 31:50** 
+**Numbers 31:50**<big><big>[[Num.31.48 The Voluntary Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we have brought to the LORD an offering of the gold articles each man acquire
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.49|<< Numbers 31:49]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.51|Numbers 31:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we have brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|נַּקְרֵ֞ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nak.Rev<small><sup>[[HVhw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

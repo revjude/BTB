@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:38** 
 <small><sub>**LXX:**</sub></small>
 And they washed the blood from the chariot at the fountain of Samaria. And the dogs licked up the blood, and the harlots bathed in the blood, according to the saying of \[the\] <span class="smallcaps">lord</span> which he spoke. 
-<small><sub>**KJV:**</sub></small>
-And [one] washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.
-<small><sub>**BSB:**</sub></small>
-And the chariot was washed at the pool of Samaria where the prostitutes bathed, and the dogs licked up Ahab’s blood, according to the word that the LORD had spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.37|<< 1 Kings 22:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.39|1 Kings 22:39 >>]]</td></tr></table>
 
 | Translation | Greek |

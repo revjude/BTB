@@ -1,10 +1,7 @@
 **LXX Numbers 12:5** 
 <small><sub>**LXX:**</sub></small>
 And came forth the three into the tent of the testimony. And \[the\] <span class="smallcaps">lord</span> came down in a column of cloud, and it stood at the door of the tent of the testimony. And Aaron and Miriam were called, and both came forth. 
-<small><sub>**KJV:**</sub></small>
-And the LORD came down in the pillar of the cloud, and stood [in] the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
-<small><sub>**BSB:**</sub></small>
-and the LORD came down in a pillar of cloud, stood at the entrance to the Tent, and summoned Aaron and Miriam. When both of them had stepped forward,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.4|<< Numbers 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.6|Numbers 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

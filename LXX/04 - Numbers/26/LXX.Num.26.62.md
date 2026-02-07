@@ -1,10 +1,7 @@
 **LXX Numbers 26:62** 
 <small><sub>**LXX:**</sub></small>
 And there were of their numbering -- three and twenty thousand, every male from a month and up. For they were not considered together in \[the\] midst of the sons of Israel, for a lot \[was\] not given to them in \[the\] midst of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
-<small><sub>**BSB:**</sub></small>
-The registration of the Levites totaled 23,000, every male a month old or more; they were not numbered among the other Israelites, because no inheritance was given to them among the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.61|<< Numbers 26:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.63|Numbers 26:63 >>]]</td></tr></table>
 
 | Translation | Greek |

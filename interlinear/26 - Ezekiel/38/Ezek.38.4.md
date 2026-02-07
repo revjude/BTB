@@ -1,4 +1,4 @@
-**Ezekiel 38:4** 
+**Ezekiel 38:4**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts [of armour, even] a great company [with] bucklers and shields, all of them handling swords:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will turn you around, put hooks in your jaws, and bring you out with all your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.3|<< Ezekiel 38:3]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.5|Ezekiel 38:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn around you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שׁ֣וֹבַבְתִּ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shoav.Ti.<small><sup>[[HVpq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

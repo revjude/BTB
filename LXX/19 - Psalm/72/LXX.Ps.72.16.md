@@ -1,10 +1,7 @@
 **LXX Psalm 72:16** 
 <small><sub>**LXX:**</sub></small>
 There will be a support on the earth upon \[the\] tops of the mountains. His fruit shall be elevated above Lebanon, and of \[the\] city shall blossom as grass of the earth. 
-<small><sub>**KJV:**</sub></small>
-There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and [they] of the city shall flourish like grass of the earth.
-<small><sub>**BSB:**</sub></small>
-May there be an abundance of grain in the land; may it sway atop the hills. May its fruit trees flourish like the forests of Lebanon, the people of its cities like the grass of the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.15|<< Psalm 72:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.17|Psalm 72:17 >>]]</td></tr></table>
 
 | Translation | Greek |

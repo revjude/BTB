@@ -1,12 +1,12 @@
-**1 Corinthians 11:34
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:34**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 <small><sub>**BSB:**</sub></small>
 If anyone is hungry, he should eat at home, so that when you come together it will not result in judgment. And when I come, I will give instructions about the remaining matters.
 <small><sub>**Literal:**</sub></small>
 If now anyone is hungry, at home he should eat, so that not for judgment you may come together. <the> And the other things as soon as when I may come I will set in order.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.33|<< 1 Corinthians 11:33]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.1|1 Corinthians 12:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

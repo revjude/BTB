@@ -1,10 +1,7 @@
 **LXX Genesis 18:8** 
 <small><sub>**LXX:**</sub></small>
 And he took butter, and milk, and the young calf which he prepared, and placed it near to them, and they ate. And he stood beside them under the tree. 
-<small><sub>**KJV:**</sub></small>
-And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
-<small><sub>**BSB:**</sub></small>
-Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.7|<< Genesis 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.9|Genesis 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

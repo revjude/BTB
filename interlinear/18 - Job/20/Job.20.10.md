@@ -1,4 +1,4 @@
-**Job 20:10** 
+**Job 20:10**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His children shall seek to please the poor, and his hands shall restore their goods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His sons will seek the favor of the poor, for his own hands must return his weal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.9|<< Job 20:9]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.11|Job 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | children his  |**<big>&#8207;[[H1121A\|בָּ֭נָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Ba.na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will seek [the] favor of  |**<big>&#8207;[[H7521\|יְרַצּ֣וּ]]&#8207; </big>**| ye.ra.Tzu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

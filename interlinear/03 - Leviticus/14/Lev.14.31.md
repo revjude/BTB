@@ -1,4 +1,4 @@
-**Leviticus 14:31** 
+**Leviticus 14:31**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] such as he is able to get, the one [for] a sin offering, and the other [for] a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one as a sin offering and the other as a burnt offering, together with the grain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.30|<< Leviticus 14:30]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.32|Leviticus 14:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

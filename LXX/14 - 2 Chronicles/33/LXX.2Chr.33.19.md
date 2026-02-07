@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:19** 
 <small><sub>**LXX:**</sub></small>
 And  his prayer, and as \[God\] heeded him, and all  his sins, and  his defections, and the places upon which he built on them the high \[places\], and established there sacred groves, and carved \[images\], before  he returned, behold, they are written by the words of the seers. 
-<small><sub>**KJV:**</sub></small>
-His prayer also, and [how God] was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they [are] written among the sayings of the seers.
-<small><sub>**BSB:**</sub></small>
-His prayer and how God received his plea, as well as all his sin and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself, they are indeed written in the Records of the Seers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.18|<< 2 Chronicles 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.20|2 Chronicles 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

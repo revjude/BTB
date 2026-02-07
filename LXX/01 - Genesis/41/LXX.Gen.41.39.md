@@ -1,10 +1,7 @@
 **LXX Genesis 41:39** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said  to Joseph, Since God showed to you all these \[things\], there is not a man more intelligent and more discerning \[than\] you. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, [there is] none so discreet and wise as thou [art]:
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.38|<< Genesis 41:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.40|Genesis 41:40 >>]]</td></tr></table>
 
 | Translation | Greek |

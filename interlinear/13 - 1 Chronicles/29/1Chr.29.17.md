@@ -1,4 +1,4 @@
-**1 Chronicles 29:17** 
+**1 Chronicles 29:17**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know, my God, that You test the heart and delight in uprightness. All these th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.16|<< 1 Chronicles 29:16]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.18|1 Chronicles 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדַ֣עְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Da'.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

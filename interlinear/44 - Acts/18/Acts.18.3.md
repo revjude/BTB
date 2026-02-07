@@ -1,12 +1,12 @@
-**Acts 18:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:3**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 <small><sub>**BSB:**</sub></small>
 and he stayed and worked with them because they were tentmakers by trade, just as he was.
 <small><sub>**Literal:**</sub></small>
 and due to of the same trade being he was staying with them and he was working; they were for tentmakers <the> by trade;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.2|<< Acts 18:2]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.4|Acts 18:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | due to |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

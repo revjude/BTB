@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, as David completed speaking  these things to Saul, that Saul said, Is this your voice, son David? And Saul lifted up  his voice and wept. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, [Is] this thy voice, my son David? And Saul lifted up his voice, and wept.
-<small><sub>**BSB:**</sub></small>
-When David had finished saying these things, Saul called back, “Is that your voice, David my son?” Then Saul wept aloud<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.15|<< 1 Samuel 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.17|1 Samuel 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

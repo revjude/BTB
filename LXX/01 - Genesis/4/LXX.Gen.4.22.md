@@ -1,10 +1,7 @@
 **LXX Genesis 4:22** 
 <small><sub>**LXX:**</sub></small>
 But Zillah also herself bore  Tubal-cain, and he was a hammer-smith brazier of brass and of iron. And \[the\] sister of Tubal-cain \[was\] Naamah. 
-<small><sub>**KJV:**</sub></small>
-And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain [was] Naamah.
-<small><sub>**BSB:**</sub></small>
-And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

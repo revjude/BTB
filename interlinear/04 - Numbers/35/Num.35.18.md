@@ -1,4 +1,4 @@
-**Numbers 35:18** 
+**Numbers 35:18**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or [if] he smite him with an hand weapon of wood, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone has in his hand a deadly object of wood, and he strikes and kills anot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.17|<< Numbers 35:17]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.19|Numbers 35:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֡וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with an instrument of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3627\|כְלִ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> kh.Li<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

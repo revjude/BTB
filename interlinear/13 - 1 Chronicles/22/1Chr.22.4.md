@@ -1,4 +1,4 @@
-**1 Chronicles 22:4** 
+**1 Chronicles 22:4**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and more cedar logs than could be counted; for the Sidonians and Tyrians had bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.3|<< 1 Chronicles 22:3]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.5|1 Chronicles 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and wood\<s> of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6086G\|עֲצֵ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cedar\<s>  |**<big>&#8207;[[H0730\|אֲרָזִ֖ים]]&#8207; </big>**| 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

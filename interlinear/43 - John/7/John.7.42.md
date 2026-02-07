@@ -1,5 +1,5 @@
-**John 7:42
-**<small><sub>**KJV:**</sub></small>
+**John 7:42**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
 <small><sub>**BSB:**</sub></small>
 Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?”
@@ -11,7 +11,7 @@ Surely the Scripture has said that out of the seed of David and from Bethlehem t
 > $\quad$ alluding to: [[LXX.Mic.5.1|Mic 5:1-2]] ☩ [[LXX.Ps.132.11|Ps 132:11]] ☩ [[LXX.2Sam.7.12|2Sam 7:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely [^1] |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

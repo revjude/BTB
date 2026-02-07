@@ -1,4 +1,4 @@
-**Ezekiel 10:19** 
+**Ezekiel 10:19**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also [were] beside them, and [every one] stood at the door of the east gate of the LORD’S house; and the glory of the God of Israel [was] over them above.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As I watched, the cherubim lifted their wings and rose up from the ground, with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.18|<< Ezekiel 10:18]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.20|Ezekiel 10:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|יִּשְׂא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרוּבִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

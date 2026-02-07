@@ -1,10 +1,7 @@
 **LXX Joshua 8:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, Stretch out  your hand with the javelin, the one in  your hand, against the city, for into  your hands I gave it. And the ones in ambush shall rise up  quickly from out of  their place. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, Stretch out the spear that [is] in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that [he had] in his hand toward the city.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Joshua, “Hold out your battle lance toward Ai, for into your hand I will deliver the city.” So Joshua held out his battle lance toward Ai,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.17|<< Joshua 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.19|Joshua 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

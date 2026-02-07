@@ -1,5 +1,5 @@
-**Revelation 13:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:6**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
 <small><sub>**BSB:**</sub></small>
 And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven.
@@ -10,7 +10,7 @@ And it opened the mouth of it unto blasphemies against <the> God to blaspheme th
 > $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it opened |**<big>[[G0455\|ἤνοιξεν]]</big>**  |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

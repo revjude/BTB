@@ -1,10 +1,7 @@
 **LXX Psalm 25:21** 
 <small><sub>**LXX:**</sub></small>
 \[The\] guileless and \[the\] upright cleave to me; for I remained with you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Let integrity and uprightness preserve me; for I wait on thee.
-<small><sub>**BSB:**</sub></small>
-May integrity and uprightness preserve me, because I wait for You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.20|<< Psalm 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.22|Psalm 25:22 >>]]</td></tr></table>
 
 | Translation | Greek |

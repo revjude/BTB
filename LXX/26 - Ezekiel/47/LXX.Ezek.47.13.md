@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God; These \[are\] the borders you shall inherit of the land for the twelve tribes of the sons of Israel, an addition of a piece of measured land. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; This [shall be] the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph [shall have two] portions.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: “These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel; Joseph shall receive two portions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.12|<< Ezekiel 47:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.14|Ezekiel 47:14 >>]]</td></tr></table>
 
 | Translation | Greek |

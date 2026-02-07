@@ -1,12 +1,12 @@
-**Matthew 21:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:7**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And brought the ass, and the colt, and put on them their clothes, and they set [him] thereon.
 <small><sub>**BSB:**</sub></small>
 They brought the donkey and the colt and laid their cloaks on them, and Jesus sat on them.
 <small><sub>**Literal:**</sub></small>
 they brought the donkey and the colt and put upon them the cloaks of them and He sat on them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.6|<< Matthew 21:6]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.8|Matthew 21:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they brought |**<big>[[G0071\|ἤγαγον]]</big>**  |ēgagon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

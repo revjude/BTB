@@ -1,12 +1,12 @@
-**Mark 10:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:34**<big><big>[[Mark.10.32 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.
 <small><sub>**BSB:**</sub></small>
 who will mock Him and spit on Him and flog Him and kill Him. And after three days He will rise again.”
 <small><sub>**Literal:**</sub></small>
 And they will mock Him and will spit upon Him and will flog Him and will kill him and on [the] third day He will rise again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.33|<< Mark 10:33]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.35|Mark 10:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will mock |**<big>[[G1702\|ἐμπαίξουσιν]]</big>**  |empaixousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

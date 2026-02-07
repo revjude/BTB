@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] came the sons of Moab, and \[the\] sons of Ammon, and with them \[ones\] of the Ammonites against Jehoshaphat for war. 
-<small><sub>**KJV:**</sub></small>
-It came to pass after this also, [that] the children of Moab, and the children of Ammon, and with them [other] beside the Ammonites, came against Jehoshaphat to battle.
-<small><sub>**BSB:**</sub></small>
-After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.11|<< 2 Chronicles 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.2|2 Chronicles 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

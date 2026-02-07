@@ -1,4 +1,4 @@
-**Psalms 139:14** 
+**Psalms 139:14**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I praise You, for I am fearfully and wonderfully made. Marvelous are Your works,
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give thanks to you  |**<big>&#8207;[[H3034\|אֽוֹדְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'od.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

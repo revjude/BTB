@@ -1,4 +1,4 @@
-**Leviticus 22:16** 
+**Leviticus 22:16**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ by allowing the people to eat the sacred offerings and thus to bear the punishme
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.15|<< Leviticus 22:15]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.17|Leviticus 22:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will cause to bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375J\|הִשִּׂ֤יאוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Si.'u<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

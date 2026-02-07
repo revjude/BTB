@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> your God raise you up for himself as a holy people, in which manner he swore by an oath to your fathers, if you should hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God, and should go in  his ways. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways.
-<small><sub>**BSB:**</sub></small>
-The LORD will establish you as His holy people, just as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.8|<< Deuteronomy 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.10|Deuteronomy 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

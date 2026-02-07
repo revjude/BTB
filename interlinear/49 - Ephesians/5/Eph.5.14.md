@@ -1,12 +1,12 @@
-**Ephesians 5:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:14**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.
 <small><sub>**BSB:**</sub></small>
 So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”
 <small><sub>**Literal:**</sub></small>
 everything for which is becoming visible light is; [14] Therefore it says: do awake you who [are] sleeping and do rise up out from the dead, and will shine upon you <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.13|<< Ephesians 5:13]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.15|Ephesians 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | everything |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

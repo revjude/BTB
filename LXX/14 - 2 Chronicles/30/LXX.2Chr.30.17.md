@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:17** 
 <small><sub>**LXX:**</sub></small>
 For a multitude of the assembly was not purified. And the Levites were  to sacrifice the passover to all  not able to be purified to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For [there were] many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one [that was] not clean, to sanctify [them] unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Since there were many in the assembly who had not consecrated themselves, the Levites were in charge of slaughtering the Passover lambs for every unclean person to consecrate the lambs to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.16|<< 2 Chronicles 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.18|2 Chronicles 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

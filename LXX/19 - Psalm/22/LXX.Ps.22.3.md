@@ -1,10 +1,7 @@
 **LXX Psalm 22:3** 
 <small><sub>**LXX:**</sub></small>
 But you dwell in \[the\] holy \[place\], the high praise  of Israel. 
-<small><sub>**KJV:**</sub></small>
-But thou [art] holy, [O thou] that inhabitest the praises of Israel.
-<small><sub>**BSB:**</sub></small>
-Yet You are holy, enthroned on the praises of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.2|<< Psalm 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.4|Psalm 22:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:3** is...

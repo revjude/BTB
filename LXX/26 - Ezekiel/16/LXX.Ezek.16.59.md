@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:59** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; And I will do among you as you did, as you disgraced  this oath to violate  my covenant. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: I will deal with you according to your deeds, since you have despised the oath by breaking the covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
 | Translation | Greek |

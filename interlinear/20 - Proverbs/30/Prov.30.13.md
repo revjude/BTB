@@ -1,4 +1,4 @@
-**Proverbs 30:13** 
+**Proverbs 30:13**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation, O how lofty are their eyes! and their eyelids are lifted up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a generation—how haughty are their eyes and pretentious are their gla
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.12|<< Proverbs 30:12]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.14|Proverbs 30:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a generation  |**<big>&#8207;[[H1755\|דּ֭וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how!  |**<big>&#8207;[[H4100\|מָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

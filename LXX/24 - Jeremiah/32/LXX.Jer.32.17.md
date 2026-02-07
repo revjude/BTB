@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:17** 
 <small><sub>**LXX:**</sub></small>
 O Being One, O <span class="smallcaps">lord</span> God, you made the heaven and the earth  by your great strength, and  by your high and elevated arm; in no way anything be concealed from you; 
-<small><sub>**KJV:**</sub></small>
-Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, [and] there is nothing too hard for thee:
-<small><sub>**BSB:**</sub></small>
-“Oh, Lord GOD! You have made the heavens and the earth by Your great power and outstretched arm. Nothing is too difficult for You!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.16|<< Jeremiah 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.18|Jeremiah 32:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 32:17** is...

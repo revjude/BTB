@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:7** 
 <small><sub>**LXX:**</sub></small>
 And there was a certain one there of the servants of Saul in  that day, being held before \[the\] <span class="smallcaps">lord</span>, and \[the\] name to him \[was\] Doeg the Edomite, feeding the mules of Saul. 
-<small><sub>**KJV:**</sub></small>
-Now a certain man of the servants of Saul [was] there that day, detained before the LORD; and his name [was] Doeg, an Edomite, the chiefest of the herdmen that [belonged] to Saul.
-<small><sub>**BSB:**</sub></small>
-Now one of Saul’s servants was there that day, detained before the LORD. And his name was Doeg the Edomite, the chief shepherd for Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.6|<< 1 Samuel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.8|1 Samuel 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

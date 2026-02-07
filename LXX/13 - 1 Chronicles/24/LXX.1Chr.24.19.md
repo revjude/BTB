@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:19** 
 <small><sub>**LXX:**</sub></small>
 This \[is\]  their numbering according to  their ministration,  to enter into \[the\] house of \[the\] <span class="smallcaps">lord</span>, according to  their ordinance, by \[the\] hand of Aaron  their father, as \[the\] <span class="smallcaps">lord</span> God of Israel gave charge. 
-<small><sub>**KJV:**</sub></small>
-These [were] the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.
-<small><sub>**BSB:**</sub></small>
-This was their appointed order for service when they entered the house of the LORD, according to the regulations prescribed for them by their forefather Aaron, as the LORD, the God of Israel, had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.18|<< 1 Chronicles 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.20|1 Chronicles 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

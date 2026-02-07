@@ -1,4 +1,4 @@
-**Genesis 27:41** 
+**Genesis 27:41**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esau held a grudge against Jacob because of the blessing his father had given hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.40|<< Genesis 27:40]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.42|Genesis 27:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he bore a grudge against  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7852\|יִּשְׂטֹ֤ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Tom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂו֙]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

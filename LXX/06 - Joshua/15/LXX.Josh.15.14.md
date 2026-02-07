@@ -1,10 +1,7 @@
 **LXX Joshua 15:14** 
 <small><sub>**LXX:**</sub></small>
 And Caleb son of Jephunneh utterly destroyed from there the three sons of Anak --  Sheshai, and Ahiman, and  Talmai, offspring of the Anak. 
-<small><sub>**KJV:**</sub></small>
-And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
-<small><sub>**BSB:**</sub></small>
-And Caleb drove out from there the three sons of Anak—the descendants of Sheshai, Ahiman, and Talmai, the children of Anak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.13|<< Joshua 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.15|Joshua 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

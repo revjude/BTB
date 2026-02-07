@@ -6,10 +6,7 @@ To the director; do not utterly destroy; \[to\] David; for an inscription on a m
 
 <small><sub>**LXX:**</sub></small>
 Show mercy on me, O God, show mercy on me! For my soul yielded upon you. And in the shadow  of your wings I shall hope, until of which \[time\] lawlessness should go by. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until [these] calamities be overpast.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when he fled from Saul into the cave. Have mercy on me, O God, have mercy, for in You my soul takes refuge. In the shadow of Your wings I will take shelter until the danger has passed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.57.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.13|<< Psalm 56:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.2|Psalm 57:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat fat unto fullness, and you shall drink blood unto intoxication from  my sacrifice in which I sacrificed to you. 
-<small><sub>**KJV:**</sub></small>
-And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.
-<small><sub>**BSB:**</sub></small>
-At the sacrifice I am preparing, you will eat fat until you are gorged and drink blood until you are drunk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:19** is...

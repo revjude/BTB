@@ -1,12 +1,12 @@
-**2 Corinthians 2:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:7**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that contrariwise ye [ought] rather to forgive [him], and comfort [him], lest perhaps such a one should be swallowed up with overmuch sorrow.
 <small><sub>**BSB:**</sub></small>
 So instead, you ought to forgive and comfort him, so that he will not be overwhelmed by excessive sorrow.
 <small><sub>**Literal:**</sub></small>
 so that on the contrary rather for you to forgive and to comfort [him], lest perhaps <the> by more excessive sorrow may be overwhelmed <the> such a one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.6|<< 2 Corinthians 2:6]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.8|2 Corinthians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on the contrary |**<big>[[G5121\|τοὐναντίον]]</big>**  |tounantion <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

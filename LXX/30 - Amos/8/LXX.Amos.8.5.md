@@ -1,10 +1,7 @@
 **LXX Amos 8:5** 
 <small><sub>**LXX:**</sub></small>
 Saying, When the month go by that we shall make trade, and the Sabbaths, that we shall open \[the\] treasury  to make \[the\] measure small, and  to \[unequally\] magnify \[the\] scale-weight, and to make \[the\] yoke \[balance scale\] unjust? 
-<small><sub>**KJV:**</sub></small>
-Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
-<small><sub>**BSB:**</sub></small>
-asking, “When will the New Moon be over, that we may sell grain? When will the Sabbath end, that we may market wheat? Let us reduce the ephah and increase the shekel; let us cheat with dishonest scales.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.4|<< Amos 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.6|Amos 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

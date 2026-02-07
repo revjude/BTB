@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:25** 
 <small><sub>**LXX:**</sub></small>
 Boats among them  \[were\] your merchants in the abundance  of your consolidations. And you were filled up and weighed down exceedingly in \[the\] heart of \[the\] seas. 
-<small><sub>**KJV:**</sub></small>
-The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.
-<small><sub>**BSB:**</sub></small>
-The ships of Tarshish carried your merchandise. And you were filled with heavy cargo in the heart of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.24|<< Ezekiel 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.26|Ezekiel 27:26 >>]]</td></tr></table>
 
 | Translation | Greek |

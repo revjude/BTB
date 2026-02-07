@@ -1,4 +1,4 @@
-**Psalms 40:15** (40:16)
+**Psalms 40:15**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be desolate for a reward of their shame that say unto me, Aha, aha.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May those who say to me, “Aha, aha!” be appalled at their own shame.
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be appalled  |**<big>&#8207;[[H8074H\|יָ֭שֹׁמּוּ]]&#8207; </big>**| Ya.sho.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 11:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:1**<big><big>[[Heb.11.1 Faith and Assurance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now faith is the substance of things hoped for, the evidence of things not seen.
 <small><sub>**BSB:**</sub></small>
 Now faith is the assurance of what we hope for and the certainty of what we do not see.
 <small><sub>**Literal:**</sub></small>
 Is now faith of [things] hoped for [the] assurance, of things [the] conviction not being seen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.39|<< Hebrews 10:39]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.2|Hebrews 11:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is |**<big>[[G1510\|Ἔστιν]]</big>**  |Estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

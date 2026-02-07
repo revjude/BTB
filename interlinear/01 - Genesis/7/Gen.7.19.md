@@ -1,4 +1,4 @@
-**Genesis 7:19** 
+**Genesis 7:19**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally, the waters completely prevailed upon the earth, so that all the high mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.18|<< Genesis 7:18]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.20|Genesis 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the waters  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֗יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they increased  |**<big>&#8207;[[H1396\|גָּֽבְר֛וּ]]&#8207; </big>**| ga.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

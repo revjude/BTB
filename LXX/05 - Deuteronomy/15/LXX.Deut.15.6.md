@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:6** 
 <small><sub>**LXX:**</sub></small>
 for \[the\] <span class="smallcaps">lord</span>  your God blessed you in which manner he spoke to you; then you shall lend to many nations, but you shall not borrow; and you shall control many nations, but of you they shall not control. 
-<small><sub>**KJV:**</sub></small>
-For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.
-<small><sub>**BSB:**</sub></small>
-When the LORD your God blesses you as He has promised, you will lend to many nations but borrow from none; you will rule over many nations but be ruled by none.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.5|<< Deuteronomy 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.7|Deuteronomy 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

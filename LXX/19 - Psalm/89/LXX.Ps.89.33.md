@@ -1,10 +1,7 @@
 **LXX Psalm 89:33** 
 <small><sub>**LXX:**</sub></small>
  But my mercy in no way should I efface from them, nor in any way should I wrong in  my truth; 
-<small><sub>**KJV:**</sub></small>
-Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.
-<small><sub>**BSB:**</sub></small>
-But I will not withdraw My loving devotion from him, nor ever betray My faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.32|<< Psalm 89:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.34|Psalm 89:34 >>]]</td></tr></table>
 
 | Translation | Greek |

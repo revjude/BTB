@@ -1,10 +1,7 @@
 **LXX Judges 1:7** 
 <small><sub>**LXX:**</sub></small>
 And Adoni-bezek said, Seventy kings the thumbs  of their hands, and the big toes  of their feet being cut off were collected together  underneath  my table. As then I did, so God recompensed to me. And they led him unto Jerusalem, and he died there. 
-<small><sub>**KJV:**</sub></small>
-And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered [their meat] under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.
-<small><sub>**BSB:**</sub></small>
-Then Adoni-bezek said, “Seventy kings with their thumbs and big toes cut off have gathered the scraps under my table. As I have done to them, so God has repaid me.” And they brought him to Jerusalem, where he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.6|<< Judges 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.8|Judges 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

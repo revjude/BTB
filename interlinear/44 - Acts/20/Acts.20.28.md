@@ -1,12 +1,12 @@
-**Acts 20:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:28**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
 <small><sub>**BSB:**</sub></small>
 Keep watch over yourselves and the entire flock of which the Holy Spirit has made you overseers. Be shepherds of the church of God, which He purchased with His own blood.
 <small><sub>**Literal:**</sub></small>
 do take heed therefore to yourselves and to all the flock among which you the Spirit <the> Holy has set overseers, to shepherd the church of the Lord and God, which He purchased with <the> blood the own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.27|<< Acts 20:27]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.29|Acts 20:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G4337\|προσέχετε]]</big>**  |prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

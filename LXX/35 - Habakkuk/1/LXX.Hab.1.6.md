@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:6** 
 <small><sub>**LXX:**</sub></small>
 For behold, I awaken the Chaldeans, the bitter and quick nation; the one going upon the widths of the earth,  to inherit tents not of his. 
-<small><sub>**KJV:**</sub></small>
-For, lo, I raise up the Chaldeans, [that] bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces [that are] not theirs.
-<small><sub>**BSB:**</sub></small>
-For behold, I am raising up the Chaldeans—that ruthless and impetuous nation which marches through the breadth of the earth to seize dwellings not their own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.5|<< Habakkuk 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.7|Habakkuk 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

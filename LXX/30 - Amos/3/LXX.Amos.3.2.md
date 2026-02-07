@@ -1,10 +1,7 @@
 **LXX Amos 3:2** 
 <small><sub>**LXX:**</sub></small>
 Only you I knew from out of all the tribes of the earth. On account of this I will take vengeance upon you \[for\] all  your sins. 
-<small><sub>**KJV:**</sub></small>
-You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
-<small><sub>**BSB:**</sub></small>
-“Only you have I known from all the families of the earth; therefore I will punish you for all your iniquities.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.1|<< Amos 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.3|Amos 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 3:2** is...

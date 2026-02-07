@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] Assyrians sent  Tartan, and  Rabsaris, and  Rabshakeh from Lachish to  king Hezekiah with a heavy force to Jerusalem. And they ascended, and came to Jerusalem. And they stood by the aqueduct of the upper pool, which is in the way of the field of the fuller. 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which [is] in the highway of the fuller’s field.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh, along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Launderer’s Field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.16|<< 2 Kings 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.18|2 Kings 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

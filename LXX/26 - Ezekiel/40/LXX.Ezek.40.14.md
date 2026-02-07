@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:14** 
 <small><sub>**LXX:**</sub></small>
 And the open \[space\] of the columned porch of the gate -- sixty cubits, and to \[the\] vestibules of the gate round about. 
-<small><sub>**KJV:**</sub></small>
-He made also posts of threescore cubits, even unto the post of the court round about the gate.
-<small><sub>**BSB:**</sub></small>
-Next he measured the gateposts to be sixty cubits high. The gateway extended around to the gatepost of the courtyard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.13|<< Ezekiel 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.15|Ezekiel 40:15 >>]]</td></tr></table>
 
 | Translation | Greek |

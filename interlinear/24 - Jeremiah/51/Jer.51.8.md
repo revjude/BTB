@@ -1,4 +1,4 @@
-**Jeremiah 51:8** 
+**Jeremiah 51:8**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Suddenly Babylon has fallen and been shattered. Wail for her; get her balm for h
 > $\quad$ referenced by: [[Rev.14.8|Rev 14:8]] ☩ [[Rev.18.2|Rev 18:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | suddenly  |**<big>&#8207;[[H6597\|פִּתְאֹ֛ם]]&#8207; </big>**| pit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will fall  |**<big>&#8207;[[H5307G\|נָפְלָ֥ה]]&#8207; </big>**| na.fe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

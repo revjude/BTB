@@ -1,4 +1,4 @@
-**Isaiah 38:3** 
+**Isaiah 38:3**<big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying, “Please, O LORD, remember how I have walked before You faithfully and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.2|<< Isaiah 38:2]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.4|Isaiah 38:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֗ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I beg you  |**<big>&#8207;[[H0577\|אָנָּ֤ה]]&#8207; </big>**| 'a.Nah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

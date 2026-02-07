@@ -1,12 +1,12 @@
-**Luke 22:68
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:68**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if I also ask [you], ye will not answer me, nor let [me] go.
 <small><sub>**BSB:**</sub></small>
 And if I ask you a question, you will not answer.
 <small><sub>**Literal:**</sub></small>
 if then and I shall ask [you], certainly not you shall answer to me nor shall you release [me].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.67|<< Luke 22:67]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.69|Luke 22:69 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

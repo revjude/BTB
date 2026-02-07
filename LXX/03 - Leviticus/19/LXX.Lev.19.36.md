@@ -1,10 +1,7 @@
 **LXX Leviticus 19:36** 
 <small><sub>**LXX:**</sub></small>
 Just yoke \[balance scales\], and just \[dry\] measure weights, and a just coos \[liquid measure\] shall be to you. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, the one leading you from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Just balances, just weights, a just ephah, and a just hin, shall ye have: I [am] the LORD your God, which brought you out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-You shall maintain honest scales and weights, an honest ephah, and an honest hin. I am the LORD your God, who brought you out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.35|<< Leviticus 19:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.37|Leviticus 19:37 >>]]</td></tr></table>
 
 | Translation | Greek |

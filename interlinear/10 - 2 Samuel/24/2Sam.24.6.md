@@ -1,4 +1,4 @@
-**2 Samuel 24:6** 
+**2 Samuel 24:6**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they went to Gilead and the land of Tahtim-hodshi, and on to Dan-jaan and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.5|<< 2 Samuel 24:5]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.7|2 Samuel 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֙אוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Gilead towards  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1568G\|גִּלְעָ֔דָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'A.da<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 63:6** 
 <small><sub>**LXX:**</sub></small>
 And I trampled them \[in\] my anger, and I led down  their blood unto \[the\] ground. 
-<small><sub>**KJV:**</sub></small>
-And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
-<small><sub>**BSB:**</sub></small>
-I trampled the nations in My anger; in My wrath I made them drunk and poured out their blood on the ground.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.5|<< Isaiah 63:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.7|Isaiah 63:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 11:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:2**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
 <small><sub>**BSB:**</sub></small>
 God did not reject His people, whom He foreknew. Do you not know what the Scripture says about Elijah, how he appealed to God against Israel:
@@ -10,7 +10,7 @@ Not did reject <the> God the people of Him whom He foreknew. Or not know you in 
 > $\quad$ referencing: [[LXX.1Sam.12.22|1Sam 12:22]] ☩ [[LXX.Ps.94.14|Ps 94:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | did reject |**<big>[[G0683\|ἀπώσατο]]</big>**  |apōsato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

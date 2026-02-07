@@ -1,10 +1,7 @@
 **LXX Isaiah 35:4** 
 <small><sub>**LXX:**</sub></small>
 Take comfort! O faint-hearted in mind. Be strong! Do not fear! Behold,  our God recompenses judgment, and he will recompense. He himself shall come, and he shall deliver us. 
-<small><sub>**KJV:**</sub></small>
-Say to them [that are] of a fearful heart, Be strong, fear not: behold, your God will come [with] vengeance, [even] God [with] a recompence; he will come and save you.
-<small><sub>**BSB:**</sub></small>
-Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.3|<< Isaiah 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.5|Isaiah 35:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 35:4** is...

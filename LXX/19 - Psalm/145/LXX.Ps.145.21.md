@@ -1,10 +1,7 @@
 **LXX Psalm 145:21** 
 <small><sub>**LXX:**</sub></small>
 My mouth shall speak to praise \[the\] <span class="smallcaps">lord</span>. And all flesh bless  his holy name into the eon, and into the eon of the eon! 
-<small><sub>**KJV:**</sub></small>
-My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.
-<small><sub>**BSB:**</sub></small>
-My mouth will declare the praise of the LORD; let every creature bless His holy name forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.20|<< Psalm 145:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.1|Psalm 146:1 >>]]</td></tr></table>
 
 | Translation | Greek |

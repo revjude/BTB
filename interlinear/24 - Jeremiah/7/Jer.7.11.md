@@ -1,4 +1,4 @@
-**Jeremiah 7:11** 
+**Jeremiah 7:11**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen [it], saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Has this house, which bears My Name, become a den of robbers in your sight? Yes,
 > $\quad$ referenced by: [[Matt.21.13|Matt 21:13]] ☩ [[Mark.11.17|Mark 11:17]] ☩ [[Luke.19.46|Luke 19:46]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a den of  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H4631\|מְעָרַ֣ת]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.'a.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | robbers  |**<big>&#8207;[[H6530\|פָּרִצִ֗ים]]&#8207; </big>**| pa.ri.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

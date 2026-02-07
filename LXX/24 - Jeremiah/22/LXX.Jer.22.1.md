@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Go, and go down to the house of the king of Judah! And you shall speak there  this word. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.14|<< Jeremiah 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.2|Jeremiah 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

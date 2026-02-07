@@ -1,10 +1,7 @@
 **LXX Psalm 6:5** 
 <small><sub>**LXX:**</sub></small>
 For there is no remembering you in death; and in  Hades, who shall make acknowledgement to you? 
-<small><sub>**KJV:**</sub></small>
-For in death [there is] no remembrance of thee: in the grave who shall give thee thanks?
-<small><sub>**BSB:**</sub></small>
-For there is no mention of You in death; who can praise You from Sheol?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.4|<< Psalm 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.6|Psalm 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

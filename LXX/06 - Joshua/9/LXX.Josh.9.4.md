@@ -1,10 +1,7 @@
 **LXX Joshua 9:4** 
 <small><sub>**LXX:**</sub></small>
 And they acted, even indeed themselves with astuteness. And coming, they stood by and prepared. And taking old sackcloths upon  their donkeys, and old leather bags of wine  being broken down \[and all\] tied up, 
-<small><sub>**KJV:**</sub></small>
-They did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;
-<small><sub>**BSB:**</sub></small>
-acted deceptively and set out as envoys, carrying on their donkeys worn-out sacks and old wineskins, cracked and mended.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.3|<< Joshua 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.5|Joshua 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

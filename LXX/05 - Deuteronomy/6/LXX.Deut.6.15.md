@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:15** 
 <small><sub>**LXX:**</sub></small>
 For  \[the\] <span class="smallcaps">lord</span> your God \[is a\] jealous God among you, lest being provoked to anger \[the\] <span class="smallcaps">lord</span> your God should be enraged against you, and should utterly destroy you from \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-(For the LORD thy God [is] a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.
-<small><sub>**BSB:**</sub></small>
-For the LORD your God, who is among you, is a jealous God. Otherwise the anger of the LORD your God will be kindled against you, and He will wipe you off the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.14|<< Deuteronomy 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.16|Deuteronomy 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

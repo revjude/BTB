@@ -1,10 +1,7 @@
 **LXX Leviticus 15:5** 
 <small><sub>**LXX:**</sub></small>
 And a man who ever should touch  his bed, shall wash  his garments, and shall bathe in water, and shall be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And whosoever toucheth his bed shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Anyone who touches his bed must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.4|<< Leviticus 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.6|Leviticus 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

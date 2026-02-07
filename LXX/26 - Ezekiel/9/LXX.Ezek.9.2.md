@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:2** 
 <small><sub>**LXX:**</sub></small>
 And behold, \[there were\] six men coming from the way of the high gate, of the one looking to \[the\] north. And each \[had\] a hewing axe for devastation in  his hand; and one man in \[the\] midst of them was clothed in a foot length robe, and \[there was\] a belt of sapphire upon  his loin. And they entered and stood next to the altar  of brass. 
-<small><sub>**KJV:**</sub></small>
-And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them [was] clothed with linen, with a writer’s inkhorn by his side: and they went in, and stood beside the brasen altar.
-<small><sub>**BSB:**</sub></small>
-And I saw six men coming from the direction of the Upper Gate, which faces north, each with a weapon of slaughter in his hand. With them was another man clothed in linen who had a writing kit at his side. And they came in and stood beside the bronze altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.1|<< Ezekiel 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.3|Ezekiel 9:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 9:2** is...

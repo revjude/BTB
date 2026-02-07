@@ -1,12 +1,12 @@
-**1 Corinthians 5:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:8**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened [bread] of sincerity and truth.
 <small><sub>**BSB:**</sub></small>
 Therefore let us keep the feast, not with the old bread, leavened with malice and wickedness, but with the unleavened bread of sincerity and of truth.
 <small><sub>**Literal:**</sub></small>
 so that we may celebrate the feast not with leaven old not with leaven of malice and wickedness but with unleavened [bread] of sincerity and of truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.7|<< 1 Corinthians 5:7]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.9|1 Corinthians 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we may celebrate the feast |**<big>[[G1858\|ἑορτάζωμεν]]</big>**  |he'ortazōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

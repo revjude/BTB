@@ -1,12 +1,12 @@
-**Galatians 5:11
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:11**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
 <small><sub>**BSB:**</sub></small>
 Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.
 <small><sub>**Literal:**</sub></small>
 I myself now, brothers, if circumcision still proclaim, why still am I persecuted? In that case has been abolished the offense of the cross.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.10|<< Galatians 5:10]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.12|Galatians 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

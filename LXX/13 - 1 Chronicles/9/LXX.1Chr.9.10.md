@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:10** 
 <small><sub>**LXX:**</sub></small>
 And of the priests -- Jedaiah, and Jehoiarib, and Jachin, 
-<small><sub>**KJV:**</sub></small>
-And of the priests; Jedaiah, and Jehoiarib, and Jachin,
-<small><sub>**BSB:**</sub></small>
-From the priests: Jedaiah, Jehoiarib, and Jachin;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.9|<< 1 Chronicles 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.11|1 Chronicles 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

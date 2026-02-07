@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:14** 
 <small><sub>**LXX:**</sub></small>
 and he went after the man  of God. And he found him sitting down under the oak. And he said to him, Are you the man  of God, the one coming from out of Judah? And he said, I am. 
-<small><sub>**KJV:**</sub></small>
-And went after the man of God, and found him sitting under an oak: and he said unto him, [Art] thou the man of God that camest from Judah? And he said, I [am].
-<small><sub>**BSB:**</sub></small>
-and went after the man of God. He found him sitting under an oak tree and asked, “Are you the man of God who came from Judah?” “I am,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.13|<< 1 Kings 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.15|1 Kings 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

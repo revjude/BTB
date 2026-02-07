@@ -1,10 +1,7 @@
 **LXX Psalm 89:43** 
 <small><sub>**LXX:**</sub></small>
 You turned back the help  of his broadsword, and did not assist him in  battle. 
-<small><sub>**KJV:**</sub></small>
-Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.
-<small><sub>**BSB:**</sub></small>
-You have bent the edge of his sword and have not sustained him in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.42|<< Psalm 89:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.44|Psalm 89:44 >>]]</td></tr></table>
 
 | Translation | Greek |

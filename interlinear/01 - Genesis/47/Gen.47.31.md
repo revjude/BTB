@@ -1,4 +1,4 @@
-**Genesis 47:31** 
+**Genesis 47:31**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon
 > $\quad$ referenced by: [[Heb.11.21|Heb 11:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | swear an oath !  |**<big>&#8207;[[H7650\|הִשָּֽׁבְעָ]]&#8207;&#8207;[[H9012\|ה֙]]&#8207; </big>**| hi.sha.ve.'A<small><sup>[[HVNv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

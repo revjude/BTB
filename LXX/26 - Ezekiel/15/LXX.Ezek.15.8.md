@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:8** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint the earth for extinction, because they fell into transgression, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will make the land desolate, because they have committed a trespass, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Thus I will make the land desolate, because they have acted unfaithfully,’ declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.7|<< Ezekiel 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.1|Ezekiel 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

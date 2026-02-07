@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Gideon said to  God, If you deliver Israel by my hand, as you spoke, 
-<small><sub>**KJV:**</sub></small>
-And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said,
-<small><sub>**BSB:**</sub></small>
-Then Gideon said to God, “If You are going to save Israel by my hand, as You have said,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.35|<< Judges 6:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.37|Judges 6:37 >>]]</td></tr></table>
 
 | Translation | Greek |

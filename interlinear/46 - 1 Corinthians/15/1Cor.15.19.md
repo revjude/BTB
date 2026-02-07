@@ -1,12 +1,12 @@
-**1 Corinthians 15:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:19**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If in this life only we have hope in Christ, we are of all men most miserable.
 <small><sub>**BSB:**</sub></small>
 If our hope in Christ is for this life alone, we are to be pitied more than all men.
 <small><sub>**Literal:**</sub></small>
 If in <the> life this in Christ already hoping we are only, more to be pitied than all men we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.18|<< 1 Corinthians 15:18]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.20|1 Corinthians 15:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

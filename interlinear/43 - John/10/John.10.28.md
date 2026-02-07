@@ -1,12 +1,12 @@
-**John 10:28
-**<small><sub>**KJV:**</sub></small>
+**John 10:28**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I give unto them eternal life; and they shall never perish, neither shall any [man] pluck them out of my hand.
 <small><sub>**BSB:**</sub></small>
 I give them eternal life, and they will never perish. No one can snatch them out of My hand.
 <small><sub>**Literal:**</sub></small>
 and I myself give to them life eternal, and certainly not shall they perish to the age, and never will seize anyone them out of the hand of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.27|<< John 10:27]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.29|John 10:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I myself |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | give |**<big>[[G1325\|δίδωμι]]</big>**  |didōmi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

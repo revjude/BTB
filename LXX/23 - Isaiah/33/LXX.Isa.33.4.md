@@ -1,10 +1,7 @@
 **LXX Isaiah 33:4** 
 <small><sub>**LXX:**</sub></small>
 But now your spoils shall be gathered, small and great; in which manner as if one should gather locusts, so they shall mock you. 
-<small><sub>**KJV:**</sub></small>
-And your spoil shall be gathered [like] the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them.
-<small><sub>**BSB:**</sub></small>
-Your spoil, O nations, is gathered as by locusts; like a swarm of locusts men sweep over it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.3|<< Isaiah 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.5|Isaiah 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

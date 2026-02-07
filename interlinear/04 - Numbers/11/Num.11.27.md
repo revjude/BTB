@@ -1,4 +1,4 @@
-**Numbers 11:27** 
+**Numbers 11:27**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A young man ran and reported to Moses, “Eldad and Medad are prophesying in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.26|<< Numbers 11:26]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.28|Numbers 11:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he ran  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7323G\|יָּ֣רָץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the young man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּ֔עַר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

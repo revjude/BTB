@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was with Jehoshaphat, for he went in the first ways of David his father; and he did not seek after the idols, 
-<small><sub>**KJV:**</sub></small>
-And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;
-<small><sub>**BSB:**</sub></small>
-Now the LORD was with Jehoshaphat because he walked in the earlier ways of his father David. He did not seek the Baals,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.2|<< 2 Chronicles 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.4|2 Chronicles 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

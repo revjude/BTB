@@ -1,10 +1,7 @@
 **LXX Isaiah 58:3** 
 <small><sub>**LXX:**</sub></small>
 saying, Why \[is it\] that we fasted, and you did not look? \[Why\] did we humble  our souls, and you did not know? For in the days  of your fasts you find the \[things\] of your wants, and all the ones under your hands you goad. 
-<small><sub>**KJV:**</sub></small>
-Wherefore have we fasted, [say they], and thou seest not? [wherefore] have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours.
-<small><sub>**BSB:**</sub></small>
-“Why have we fasted, and You have not seen? Why have we humbled ourselves, and You have not noticed?” “Behold, on the day of your fast, you do as you please, and you oppress all your workers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.2|<< Isaiah 58:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.4|Isaiah 58:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke all  these words, saying, 
-<small><sub>**KJV:**</sub></small>
-And God spake all these words, saying,
-<small><sub>**BSB:**</sub></small>
-And God spoke all these words:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.25|<< Exodus 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.2|Exodus 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

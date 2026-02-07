@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:10** 
 <small><sub>**LXX:**</sub></small>
 For go into \[the\] islands of \[the\] Chittim, and see! And send unto Kedar, and comprehend exceedingly! And see! if such \[things\] have taken place 
-<small><sub>**KJV:**</sub></small>
-For pass over the isles of Chittim, and see; and send unto Kedar, and consider diligently, and see if there be such a thing.
-<small><sub>**BSB:**</sub></small>
-Cross over to the coasts of Cyprus and take a look; send to Kedar and consider carefully; see if there has ever been anything like this:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.9|<< Jeremiah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.11|Jeremiah 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

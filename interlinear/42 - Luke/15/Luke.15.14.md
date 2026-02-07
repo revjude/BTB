@@ -1,12 +1,12 @@
-**Luke 15:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:14**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had spent all, there arose a mighty famine in that land; and he began to be in want.
 <small><sub>**BSB:**</sub></small>
 After he had spent all he had, a severe famine swept through that country, and he began to be in need.
 <small><sub>**Literal:**</sub></small>
 When was spending however he everything there arose a famine severe throughout the country that, and he himself began to be in need.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.13|<< Luke 15:13]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.15|Luke 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was spending |**<big>[[G1159\|δαπανήσαντος]]</big>**  |dapanēsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

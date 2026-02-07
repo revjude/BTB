@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:23** 
 <small><sub>**LXX:**</sub></small>
 And Ornan said to David, Take it for yourself, and my master the king do \[what is\] good before him! Behold, I have given the oxen for a whole burnt-offering, and the plow for wood, and the grain for a sacrifice -- the whole I have given. 
-<small><sub>**KJV:**</sub></small>
-And Ornan said unto David, Take [it] to thee, and let my lord the king do [that which is] good in his eyes: lo, I give [thee] the oxen [also] for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
-<small><sub>**BSB:**</sub></small>
-Ornan said to David, “Take it! May my lord the king do whatever seems good to him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering—I will give it all.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.22|<< 1 Chronicles 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.24|1 Chronicles 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

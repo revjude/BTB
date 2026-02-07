@@ -1,4 +1,4 @@
-**Ezekiel 24:12** 
+**Ezekiel 24:12**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She hath wearied [herself] with lies, and her great scum went not forth out of her: her scum [shall be] in the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It has frustrated every effort; its thick rust has not been removed, even by the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.11|<< Ezekiel 24:11]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.13|Ezekiel 24:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | toil\<s>  |**<big>&#8207;[[H8383\|תְּאֻנִ֖ים]]&#8207; </big>**| te.'u.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has made weary  |**<big>&#8207;[[H3811\|הֶלְאָ֑ת]]&#8207; </big>**| hel.'At<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 13:21** 
+**Proverbs 13:21**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Evil pursueth sinners: but to the righteous good shall be repayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Disaster pursues sinners, but prosperity is the reward of the righteous.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.20|<< Proverbs 13:20]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.22|Proverbs 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sinners  |**<big>&#8207;[[H2400\|חַ֭טָּאִים]]&#8207; </big>**| Cha.ta.'im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it pursues  |**<big>&#8207;[[H7291\|תְּרַדֵּ֣ף]]&#8207; </big>**| te.ra.Def<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 11:12** 
+**1 Chronicles 11:12**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him [was] Eleazar the son of Dodo, the Ahohite, who [was one] of the three mighties.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next in command was Eleazar son of Dodo the Ahohite, one of the three mighty men
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.11|<< 1 Chronicles 11:11]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.13|1 Chronicles 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499I\|אֶלְעָזָ֥ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

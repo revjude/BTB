@@ -1,10 +1,7 @@
 **LXX Job 19:18** 
 <small><sub>**LXX:**</sub></small>
 But they undid me into the eon; whenever I rise up, they speak against me. 
-<small><sub>**KJV:**</sub></small>
-Yea, young children despised me; I arose, and they spake against me.
-<small><sub>**BSB:**</sub></small>
-Even little boys scorn me; when I appear, they deride me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.17|<< Job 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.19|Job 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

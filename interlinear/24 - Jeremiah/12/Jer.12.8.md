@@ -1,4 +1,4 @@
-**Jeremiah 12:8** 
+**Jeremiah 12:8**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My inheritance has become to Me like a lion in the forest. She has roared agains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.7|<< Jeremiah 12:7]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.9|Jeremiah 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has become  |**<big>&#8207;[[H1961\|הָיְתָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.ye.tah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

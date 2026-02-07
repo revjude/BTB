@@ -1,4 +1,4 @@
-**Deuteronomy 6:5** 
+**Deuteronomy 6:5**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And you shall love the LORD your God with all your heart and with all your soul 
 > $\quad$ referenced by: [[Matt.22.37|Matt 22:37]] ☩ [[Mark.12.29|Mark 12:29-30]] ☩ [[Mark.12.33|Mark 12:33]] ☩ [[Luke.10.27|Luke 10:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will love  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0157G\|אָ֣הַבְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.hav.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

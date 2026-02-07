@@ -1,12 +1,12 @@
-**Matthew 15:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:14**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
 <small><sub>**BSB:**</sub></small>
 Disregard them! They are blind guides. If a blind man leads a blind man, both will fall into a pit.”
 <small><sub>**Literal:**</sub></small>
 do leave them! Blind they are guides of the blind. Blind now blind if they shall lead, both into a pit will fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.13|<< Matthew 15:13]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.15|Matthew 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do leave |**<big>[[G0863G\|ἄφετε]]</big>**  |aphete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them! |**<big>[[G0846\|αὐτούς·]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

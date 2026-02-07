@@ -1,10 +1,7 @@
 **LXX Isaiah 60:7** 
 <small><sub>**LXX:**</sub></small>
 And all the sheep of Kedar shall be gathered together to you, and rams of Nebaioth shall come to you; and acceptable \[sacrifices\] shall be offered upon  my altar, and the house  of my prayer shall be glorified. 
-<small><sub>**KJV:**</sub></small>
-All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.
-<small><sub>**BSB:**</sub></small>
-All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve you and go up on My altar with acceptance; I will adorn My glorious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.6|<< Isaiah 60:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.8|Isaiah 60:8 >>]]</td></tr></table>
 
 | Translation | Greek |

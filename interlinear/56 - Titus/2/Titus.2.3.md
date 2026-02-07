@@ -1,12 +1,12 @@
-**Titus 2:3
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:3**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The aged women likewise, that [they be] in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
 <small><sub>**BSB:**</sub></small>
 Older women, likewise, are to be reverent in their behavior, not slanderers or addicted to much wine, but teachers of good.
 <small><sub>**Literal:**</sub></small>
 [the] aged [women] likewise in behavior reverent, not slanderers, not to wine much enslaved, teachers of what is good,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.2|<< Titus 2:2]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.4|Titus 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] aged [women] |**<big>[[G4247\|Πρεσβύτιδας]]</big>**  |Presbutidas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Zechariah 12:3** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day I will appoint  Jerusalem as a stone being trampled on by all the nations. Every one  trampling her with mocking shall mock, and all the nations of the earth shall be assembled against her. 
-<small><sub>**KJV:**</sub></small>
-And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.
-<small><sub>**BSB:**</sub></small>
-On that day, when all the nations of the earth gather against her, I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.2|<< Zechariah 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.4|Zechariah 12:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 12:3** is...

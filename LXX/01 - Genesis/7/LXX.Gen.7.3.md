@@ -1,10 +1,7 @@
 **LXX Genesis 7:3** 
 <small><sub>**LXX:**</sub></small>
 And from the winged creatures of the heaven, of the clean, seven \[by\] seven, male and female; and from all the winged creatures of the ones not clean, two by two, male and female, to maintain seed upon all the earth. 
-<small><sub>**KJV:**</sub></small>
-Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
-<small><sub>**BSB:**</sub></small>
-and seven pairs of every kind of bird of the air, male and female, to preserve their offspring on the face of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.2|<< Genesis 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.4|Genesis 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

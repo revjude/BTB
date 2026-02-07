@@ -1,5 +1,5 @@
-**Revelation 8:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:11**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
 <small><sub>**BSB:**</sub></small>
 The name of the star is Wormwood. A third of the waters turned bitter like wormwood oil, and many people died from the bitter waters.
@@ -10,7 +10,7 @@ And the name of the star is named <the> Wormwood; And became <the> a third of th
 > $\quad$ alluding to: [[LXX.Jer.9.15|Jer 9:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

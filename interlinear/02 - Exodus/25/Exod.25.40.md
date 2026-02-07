@@ -1,4 +1,4 @@
-**Exodus 25:40** 
+**Exodus 25:40**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And look that thou make [them] after their pattern, which was shewed thee in the mount.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ See to it that you make everything according to the pattern shown you on the mou
 > $\quad$ referenced by: [[Acts.7.44|Acts 7:44]] ☩ [[Heb.8.5|Heb 8:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and see  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7200G\|רְאֵ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and make [them]  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213H\|עֲשֵׂ֑ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

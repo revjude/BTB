@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:31** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] whom David ordained over \[the\] hands \[of the ones\] singing in \[the\] house of \[the\] <span class="smallcaps">lord</span>, during the resting of the ark. 
-<small><sub>**KJV:**</sub></small>
-And these [are they] whom David set over the service of song in the house of the LORD, after that the ark had rest.
-<small><sub>**BSB:**</sub></small>
-These are the men David put in charge of the music in the house of the LORD after the ark rested there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.30|<< 1 Chronicles 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.32|1 Chronicles 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

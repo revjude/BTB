@@ -1,10 +1,7 @@
 **LXX Isaiah 28:23** 
 <small><sub>**LXX:**</sub></small>
 Give ear and hearken  to my voice! Take heed and hear  my words! 
-<small><sub>**KJV:**</sub></small>
-Give ye ear, and hear my voice; hearken, and hear my speech.
-<small><sub>**BSB:**</sub></small>
-Listen and hear my voice. Pay attention and hear what I say.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.22|<< Isaiah 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.24|Isaiah 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

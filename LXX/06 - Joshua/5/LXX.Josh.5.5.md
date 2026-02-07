@@ -1,10 +1,7 @@
 **LXX Joshua 5:5** 
 <small><sub>**LXX:**</sub></small>
 that all the people coming forth were circumcised. And all the people  being born in the wilderness, in the way of their coming forth from \[the\] land of Egypt were not circumcised. For forty years Israel paced in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-Now all the people that came out were circumcised: but all the people [that were] born in the wilderness by the way as they came forth out of Egypt, [them] they had not circumcised.
-<small><sub>**BSB:**</sub></small>
-Though all who had come out were circumcised, none of those born in the wilderness on the journey from Egypt had been circumcised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.4|<< Joshua 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.6|Joshua 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

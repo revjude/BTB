@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  these things, and it was announced  to Joseph that,  Your father is troubled. And taking up  his two sons,  Manasseh and  Ephraim, he came to Jacob. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after these things, that [one] told Joseph, Behold, thy father [is] sick: and he took with him his two sons, Manasseh and Ephraim.
-<small><sub>**BSB:**</sub></small>
-Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.31|<< Genesis 47:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.2|Genesis 48:2 >>]]</td></tr></table>
 
 | Translation | Greek |

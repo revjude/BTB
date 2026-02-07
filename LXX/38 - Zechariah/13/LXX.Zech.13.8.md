@@ -1,10 +1,7 @@
 **LXX Zechariah 13:8** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day, says \[the\] <span class="smallcaps">lord</span>, the two parts shall be utterly destroyed, and shall cease; but the third \[part\] shall be left in it. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] in all the land, saith the LORD, two parts therein shall be cut off [and] die; but the third shall be left therein.
-<small><sub>**BSB:**</sub></small>
-And in all the land, declares the LORD, two-thirds will be cut off and perish, but a third will be left in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.7|<< Zechariah 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.9|Zechariah 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 4:7** 
+**Ecclesiastes 4:7**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I returned, and I saw vanity under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again, I saw futility under the sun.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.6|<< Ecclesiastes 4:6]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.8|Ecclesiastes 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I returned  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725J\|שַׁ֧בְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֛י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

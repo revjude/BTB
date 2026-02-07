@@ -1,4 +1,4 @@
-**Jeremiah 15:13** 
+**Jeremiah 15:13**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy substance and thy treasures will I give to the spoil without price, and [that] for all thy sins, even in all thy borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wealth and your treasures I will give up as plunder, without charge for all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.12|<< Jeremiah 15:12]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.14|Jeremiah 15:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wealth your  |**<big>&#8207;[[H2428H\|חֵילְ]]&#8207;&#8207;[[H9021\|ךָ֧]]&#8207; </big>**| chei.le.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and treasures your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0214\|אוֹצְרוֹתֶ֛י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'otz.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

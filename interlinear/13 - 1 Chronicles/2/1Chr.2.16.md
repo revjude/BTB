@@ -1,4 +1,4 @@
-**1 Chronicles 2:16** 
+**1 Chronicles 2:16**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose sisters [were] Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their sisters were Zeruiah and Abigail. And the three sons of Zeruiah were Abish
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.15|<< 1 Chronicles 2:15]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.17|1 Chronicles 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sisters their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0269\|אַחְיוֹתֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[HC]]</sup></small> 'ach.yo.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | Zeruiah  |**<big>&#8207;[[H6870\|צְרוּיָ֣ה]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

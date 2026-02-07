@@ -1,12 +1,12 @@
-**Matthew 26:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:33**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter answered and said unto him, Though all [men] shall be offended because of thee, [yet] will I never be offended.
 <small><sub>**BSB:**</sub></small>
 Peter said to Him, “Even if all fall away on account of You, I never will.”
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Peter said to Him; If even all will fall away because of You, I myself but never will fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.32|<< Matthew 26:32]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.34|Matthew 26:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

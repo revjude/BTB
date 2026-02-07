@@ -1,12 +1,12 @@
-**Luke 3:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:16**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 John answered, saying unto [them] all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
 <small><sub>**BSB:**</sub></small>
 John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire.
 <small><sub>**Literal:**</sub></small>
 Answered saying [to] all <the> John: I myself indeed with water baptize you; comes however the [One] mightier than I, of whom not I am worthy to untie the strap of the sandals of Him. He himself you will baptize with [the] Spirit Holy and with fire,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.15|<< Luke 3:15]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.17|Luke 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίνατο]]</big>**  |apekrinato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg»3+TR»3+Byz»3">NKO</abbr> | |

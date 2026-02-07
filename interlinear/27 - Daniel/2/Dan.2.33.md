@@ -1,4 +1,4 @@
-**Daniel 2:33** 
+**Daniel 2:33**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His legs of iron, his feet part of iron and part of clay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ its legs were iron, and its feet were part iron and part clay.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | legs its  |**<big>&#8207;[[H8243\|שָׁק֖וֹ]]&#8207;&#8207;[[H9023\|הִי]]&#8207; </big>**| sha.Ko.<small><sup>[[ANcbdc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 37:9** 
 <small><sub>**LXX:**</sub></small>
 And he saw another dream. And he described it \[to\] his father, and \[to\] his brothers. And he said, Behold, I dreamed another dream; as if the sun, and the moon, and eleven stars did obeisance to me. 
-<small><sub>**KJV:**</sub></small>
-And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
-<small><sub>**BSB:**</sub></small>
-Then Joseph had another dream and told it to his brothers. “Look,” he said, “I had another dream, and this time the sun and moon and eleven stars were bowing down to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.8|<< Genesis 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.10|Genesis 37:10 >>]]</td></tr></table>
 
 | Translation | Greek |

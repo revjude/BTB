@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:23** 
 <small><sub>**LXX:**</sub></small>
 By \[the\] hand of your messengers you have berated the <span class="smallcaps">lord</span>, and said, By the multitude  of my chariots I ascended into \[the\] height of \[the\] mountains, \[the\] sides  of Lebanon, and I felled the greatness  of his cedar,  his chosen cypresses, and I came in \[the\] midst of \[the\] grove of Carmel. 
-<small><sub>**KJV:**</sub></small>
-By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, [and] the choice fir trees thereof: and I will enter into the lodgings of his borders, [and into] the forest of his Carmel.
-<small><sub>**BSB:**</sub></small>
-Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest outposts, the densest of its forests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

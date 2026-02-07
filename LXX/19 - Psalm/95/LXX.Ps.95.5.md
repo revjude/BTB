@@ -1,10 +1,7 @@
 **LXX Psalm 95:5** 
 <small><sub>**LXX:**</sub></small>
 For his is the sea, and he himself made it; and his hands shaped the dry \[land\]. 
-<small><sub>**KJV:**</sub></small>
-The sea [is] his, and he made it: and his hands formed the dry [land].
-<small><sub>**BSB:**</sub></small>
-The sea is His, for He made it, and His hands formed the dry land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.4|<< Psalm 95:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.6|Psalm 95:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 48:2** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to Jacob, saying, Behold,  your son Joseph comes to you. And Israel growing strong sat upon the bed. 
-<small><sub>**KJV:**</sub></small>
-And [one] told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.
-<small><sub>**BSB:**</sub></small>
-When Jacob was told, “Your son Joseph has come to you,” Israel rallied his strength and sat up in bed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.1|<< Genesis 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.3|Genesis 48:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 23:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:6**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Pilate heard of Galilee, he asked whether the man were a Galilaean.
 <small><sub>**BSB:**</sub></small>
 When Pilate heard this, he asked if the man was a Galilean.
 <small><sub>**Literal:**</sub></small>
 Pilate now having heard Galilee asked whether the man a Galilean is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.5|<< Luke 23:5]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.7|Luke 23:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Pilate |**<big>[[G4091\|Πιλᾶτος]]</big>**  [^1] |Pilatos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 3:11** 
 <small><sub>**LXX:**</sub></small>
 \[And\] the priest shall offer it upon the altar -- a scent of pleasant aroma yield \[offering\] to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall burn it upon the altar: [it is] the food of the offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the priest is to burn them on the altar as food, a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.10|<< Leviticus 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.12|Leviticus 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

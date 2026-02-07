@@ -1,5 +1,5 @@
-**Acts 7:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:14**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then sent Joseph, and called his father Jacob to [him], and all his kindred, threescore and fifteen souls.
 <small><sub>**BSB:**</sub></small>
 Then Joseph sent for his father Jacob and all his relatives, seventy-five in all.
@@ -10,7 +10,7 @@ Having sent then Joseph he called for Jacob the father of him and all the kindre
 > $\quad$ alluding to: [[LXX.Gen.46.27|Gen 46:27]] ☩ [[LXX.Exod.1.5|Exod 1:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having sent |**<big>[[G0649\|ἀποστείλας]]</big>**  |aposteilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

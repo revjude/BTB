@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:44** 
 <small><sub>**LXX:**</sub></small>
 And Moses wrote  this ode in  that day. And he taught it to the sons of Israel. And Moses approached and spoke all the words  of this law into the ears of the people, he and Joshua the \[son of\] Nun. 
-<small><sub>**KJV:**</sub></small>
-And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
-<small><sub>**BSB:**</sub></small>
-Then Moses came with Joshua son of Nun and recited all the words of this song in the hearing of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.43|<< Deuteronomy 32:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.45|Deuteronomy 32:45 >>]]</td></tr></table>
 
 | Translation | Greek |

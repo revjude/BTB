@@ -1,4 +1,4 @@
-**Proverbs 20:15** 
+**Proverbs 20:15**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is gold, and a multitude of rubies: but the lips of knowledge [are] a precious jewel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is an abundance of gold and rubies, but lips of knowledge are a rare treas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.14|<< Proverbs 20:14]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.16|Proverbs 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] gold  |**<big>&#8207;[[H2091\|זָ֭הָב]]&#8207; </big>**| za.ho<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

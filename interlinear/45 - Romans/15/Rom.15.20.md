@@ -1,12 +1,12 @@
-**Romans 15:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:20**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:
 <small><sub>**BSB:**</sub></small>
 In this way I have aspired to preach the gospel where Christ was not known, so that I would not be building on someone else’s foundation.
 <small><sub>**Literal:**</sub></small>
 thus now being ambitious to evangelise not where was named Christ, so that not upon another’s foundation I may build<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.19|<< Romans 15:19]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.21|Romans 15:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

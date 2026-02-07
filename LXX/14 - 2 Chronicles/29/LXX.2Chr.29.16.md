@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:16** 
 <small><sub>**LXX:**</sub></small>
 And the priests entered inside, into the house of \[the\] <span class="smallcaps">lord</span> to purify \[it\], and they cast out all the uncleanness  they found in the house of \[the\] <span class="smallcaps">lord</span> in the courtyard of \[the\] house of \[the\] <span class="smallcaps">lord</span>. And the Levites received  to bring \[it\] forth unto the rushing stream Kidron outside. 
-<small><sub>**KJV:**</sub></small>
-And the priests went into the inner part of the house of the LORD, to cleanse [it], and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took [it], to carry [it] out abroad into the brook Kidron.
-<small><sub>**BSB:**</sub></small>
-So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.15|<< 2 Chronicles 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.17|2 Chronicles 29:17 >>]]</td></tr></table>
 
 | Translation | Greek |

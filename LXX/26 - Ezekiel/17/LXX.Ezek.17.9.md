@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this, say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Shall it prosper, \[no\]. Shall not the roots  of her tenderness, and the fruits rot? Yes, all her \[things\] shooting up early shall be dried up, and not by a great arm, nor by many people  to pull her out by her roots. 
-<small><sub>**KJV:**</sub></small>
-Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof.
-<small><sub>**BSB:**</sub></small>
-So you are to tell them that this is what the Lord GOD says: ‘Will it flourish? Will it not be uprooted and stripped of its fruit so that it shrivels? All its foliage will wither! It will not take a strong arm or many people to pull it up by its roots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.8|<< Ezekiel 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.10|Ezekiel 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

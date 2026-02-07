@@ -1,12 +1,12 @@
-**Luke 16:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:18**<big><big>[[Luke.16.14 The Law and the Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from [her] husband committeth adultery.
 <small><sub>**BSB:**</sub></small>
 Anyone who divorces his wife and marries another woman commits adultery, and he who marries a divorced woman commits adultery.
 <small><sub>**Literal:**</sub></small>
 Everyone who is putting away the wife of him and marrying another commits adultery, And everyone who separated her from a husband marrying commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.17|<< Luke 16:17]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.19|Luke 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

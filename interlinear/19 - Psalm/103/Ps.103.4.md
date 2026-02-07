@@ -1,4 +1,4 @@
-**Psalms 103:4** 
+**Psalms 103:4**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who redeems your life from the Pit and crowns you with loving devotion and compa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.3|<< Psalms 103:3]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.5|Psalms 103:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who redeems  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1350A\|גּוֹאֵ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a pit  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7845G\|שַּׁ֣חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 135:5** 
 <small><sub>**LXX:**</sub></small>
 For I know that the <span class="smallcaps">lord</span> \[is\] great, and  our <span class="smallcaps">lord</span> \[is\] above all the gods. 
-<small><sub>**KJV:**</sub></small>
-For I know that the LORD [is] great, and [that] our Lord [is] above all gods.
-<small><sub>**BSB:**</sub></small>
-For I know that the LORD is great; our Lord is above all gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.4|<< Psalm 135:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.6|Psalm 135:6 >>]]</td></tr></table>
 
 | Translation | Greek |

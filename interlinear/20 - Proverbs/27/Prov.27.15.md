@@ -1,4 +1,4 @@
-**Proverbs 27:15** 
+**Proverbs 27:15**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A continual dropping in a very rainy day and a contentious woman are alike.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A constant dripping on a rainy day and a contentious woman are alike—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.14|<< Proverbs 27:14]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.16|Proverbs 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a dripping  |**<big>&#8207;[[H1812\|דֶּ֣לֶף]]&#8207; </big>**| De.lef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continuous  |**<big>&#8207;[[H2956\|ט֭וֹרֵד]]&#8207; </big>**| To.red<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

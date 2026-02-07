@@ -1,12 +1,12 @@
-**1 John 5:4
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:4**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, [even] our faith.
 <small><sub>**BSB:**</sub></small>
 because everyone born of God overcomes the world. And this is the victory that has overcome the world: our faith.
 <small><sub>**Literal:**</sub></small>
 For everyone who born of <the> God overcomes the world; and this is the victory which having overcome the world: the faith of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.3|<< 1 John 5:3]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.5|1 John 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everyone |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

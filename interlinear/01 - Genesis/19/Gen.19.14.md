@@ -1,4 +1,4 @@
-**Genesis 19:14** 
+**Genesis 19:14**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Lot went out and spoke to the sons-in-law who were pledged in marriage to his
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.13|<< Genesis 19:13]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.15|Genesis 19:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lot  |**<big>&#8207;[[H3876\|ל֜וֹט]]&#8207; </big>**| Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

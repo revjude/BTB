@@ -1,5 +1,5 @@
-**2 Corinthians 10:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:17**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that glorieth, let him glory in the Lord.
 <small><sub>**BSB:**</sub></small>
 Rather, “Let him who boasts boast in the Lord.”
@@ -10,7 +10,7 @@ The [one] however boasting in [the] Lord he should boast;<br><table width="100%"
 > $\quad$ referencing: [[LXX.Jer.9.23|Jer 9:23-24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

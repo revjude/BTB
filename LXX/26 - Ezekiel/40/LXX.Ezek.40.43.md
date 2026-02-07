@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:43** 
 <small><sub>**LXX:**</sub></small>
 And they shall have a palm \[sized\] dressed stone waved border inside round about; and over the tables on top \[were\] roofs  to cover up from the rain and the dryness. 
-<small><sub>**KJV:**</sub></small>
-And within [were] hooks, an hand broad, fastened round about: and upon the tables [was] the flesh of the offering.
-<small><sub>**BSB:**</sub></small>
-The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.42|<< Ezekiel 40:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.44|Ezekiel 40:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 17:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Manasseh were not able to utterly destroy  these cities. And the Canaanite began to dwell in  this land. 
-<small><sub>**KJV:**</sub></small>
-Yet the children of Manasseh could not drive out [the inhabitants of] those cities; but the Canaanites would dwell in that land.
-<small><sub>**BSB:**</sub></small>
-But the descendants of Manasseh were unable to occupy these cities, because the Canaanites were determined to stay in this land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

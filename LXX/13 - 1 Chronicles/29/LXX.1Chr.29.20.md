@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:20** 
 <small><sub>**LXX:**</sub></small>
 And David said to all the assembly, Bless indeed \[the\] <span class="smallcaps">lord</span>  our God! And all the assembly blessed \[the\] <span class="smallcaps">lord</span>, the God  of their fathers, and bent the knees to do obeisance to the <span class="smallcaps">lord</span>, and to the king. 
-<small><sub>**KJV:**</sub></small>
-And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.
-<small><sub>**BSB:**</sub></small>
-Then David said to the whole assembly, “Bless the LORD your God.” So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.19|<< 1 Chronicles 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.21|1 Chronicles 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

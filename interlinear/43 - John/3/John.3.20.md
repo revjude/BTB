@@ -1,12 +1,12 @@
-**John 3:20
-**<small><sub>**KJV:**</sub></small>
+**John 3:20**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 <small><sub>**BSB:**</sub></small>
 Everyone who does evil hates the Light, and does not come into the Light for fear that his deeds will be exposed.
 <small><sub>**Literal:**</sub></small>
 Everyone for <the> evil practicing hates the Light and not comes to the Light so that not may be exposed the works of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.19|<< John 3:19]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.21|John 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

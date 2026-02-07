@@ -1,4 +1,4 @@
-**Ruth 1:3** 
+**Ruth 1:3**<big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elimelech Naomi’s husband died; and she was left, and her two sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Naomi’s husband Elimelech died, and she was left with her two sons,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.2|<< Ruth 1:2]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.4|Ruth 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֥מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elimelech  |**<big>&#8207;[[H0458\|אֱלִימֶ֖לֶךְ]]&#8207; </big>**| 'e.li.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

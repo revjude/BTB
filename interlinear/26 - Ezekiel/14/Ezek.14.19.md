@@ -1,4 +1,4 @@
-**Ezekiel 14:19** 
+**Ezekiel 14:19**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or [if] I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if I send a plague into that land and pour out My wrath upon it through blood
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.18|<< Ezekiel 14:18]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.20|Ezekiel 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֛וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pestilence  |**<big>&#8207;[[H1698\|דֶּ֥בֶר]]&#8207; </big>**| De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

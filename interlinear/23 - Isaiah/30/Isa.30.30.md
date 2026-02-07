@@ -1,4 +1,4 @@
-**Isaiah 30:30** 
+**Isaiah 30:30**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of [his] anger, and [with] the flame of a devouring fire, [with] scattering, and tempest, and hailstones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD will cause His majestic voice to be heard and His mighty arm to be 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.29|<< Isaiah 30:29]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.31|Isaiah 30:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cause to hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|הִשְׁמִ֨יעַ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Mi.a'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

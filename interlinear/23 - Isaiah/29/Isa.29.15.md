@@ -1,4 +1,4 @@
-**Isaiah 29:15** 
+**Isaiah 29:15**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who dig deep to hide their plans from the LORD. In darkness they do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.14|<< Isaiah 29:14]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.16|Isaiah 29:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֛וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] make deep  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6009\|מַּעֲמִיקִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.'a.mi.Kim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

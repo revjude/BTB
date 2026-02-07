@@ -1,10 +1,7 @@
 **LXX Genesis 15:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Take for me a heifer being three years old, and a goat being three years old, and a ram being three years old, and a turtle-dove, and a pigeon! 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to him, “Bring Me a heifer, a goat, and a ram, each three years old, along with a turtledove and a young pigeon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.8|<< Genesis 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.10|Genesis 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

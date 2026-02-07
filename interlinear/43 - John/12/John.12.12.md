@@ -1,12 +1,12 @@
-**John 12:12
-**<small><sub>**KJV:**</sub></small>
+**John 12:12**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,
 <small><sub>**BSB:**</sub></small>
 The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 On the next day the crowd great <the> having come to the feast, having heard that is coming <the> Jesus into Jerusalem,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.11|<< John 12:11]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.13|John 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | next day |**<big>[[G1887\|ἐπαύριον]]</big>**  |epaurion <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

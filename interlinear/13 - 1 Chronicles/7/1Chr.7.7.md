@@ -1,4 +1,4 @@
-**1 Chronicles 7:7** 
+**1 Chronicles 7:7**<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of [their] fathers, mighty men of valour; and were reckoned by their genealogies twenty and two thousand and thirty and four.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, heads of their familie
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.6|<< 1 Chronicles 7:6]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.8|1 Chronicles 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bela  |**<big>&#8207;[[H1106A\|בֶ֗לַע]]&#8207; </big>**| Ve.la'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**James 3:12
-**<small><sub>**KJV:**</sub></small>
+**James 3:12**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Can the fig tree, my brethren, bear olive berries? either a vine, figs? so [can] no fountain both yield salt water and fresh.
 <small><sub>**BSB:**</sub></small>
 My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.
 <small><sub>**Literal:**</sub></small>
 Surely not is able, brothers of mine, a fig tree olives to produce Or a vine figs? thus Nor spring of salt and fresh to produce water.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.11|<< James 3:11]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.13|James 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is able, |**<big>[[G1410\|δύναται,]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

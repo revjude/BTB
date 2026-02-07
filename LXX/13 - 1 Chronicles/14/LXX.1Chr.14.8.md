@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:8** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines heard that David was anointed king over all Israel, and all the Philistines ascended to seek  David. And David heard, and came forth to meet them. 
-<small><sub>**KJV:**</sub></small>
-And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard [of it], and went out against them.
-<small><sub>**BSB:**</sub></small>
-When the Philistines heard that David had been anointed king over all Israel, they all went in search of him; but David learned of this and went out to face them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.7|<< 1 Chronicles 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.9|1 Chronicles 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

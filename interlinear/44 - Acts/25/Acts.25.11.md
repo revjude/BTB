@@ -1,12 +1,12 @@
-**Acts 25:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:11**<big><big>[[Acts.25.10 Paul Appeals to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.
 <small><sub>**BSB:**</sub></small>
 If, however, I am guilty of anything worthy of death, I do not refuse to die. But if there is no truth to their accusations against me, no one has the right to hand me over to them. I appeal to Caesar!”
 <small><sub>**Literal:**</sub></small>
 If indeed therefore I do wrong and worthy of death have done anything, not I do refuse <the> to die; If however no [thing] there is of which they [can] accuse me, no [one] me can to them giving up. To Caesar I appeal!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.10|<< Acts 25:10]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.12|Acts 25:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

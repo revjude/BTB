@@ -1,10 +1,7 @@
 **LXX Isaiah 49:4** 
 <small><sub>**LXX:**</sub></small>
 And I said, Uselessly I tired in vain, and for nothing I gave  my strength. On account of this  my judgment \[is\] from \[the\] <span class="smallcaps">lord</span>, and  my toil before  my God. 
-<small><sub>**KJV:**</sub></small>
-Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: [yet] surely my judgment [is] with the LORD, and my work with my God.
-<small><sub>**BSB:**</sub></small>
-But I said, “I have labored in vain, I have spent My strength in futility and vanity; yet My vindication is with the LORD, and My reward is with My God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.3|<< Isaiah 49:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.5|Isaiah 49:5 >>]]</td></tr></table>
 
 | Translation | Greek |

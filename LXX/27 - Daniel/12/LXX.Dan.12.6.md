@@ -1,10 +1,7 @@
 **LXX Daniel 12:6** 
 <small><sub>**LXX:**</sub></small>
 And they said to the man  being clothed with the linen clothes, who was upon the water of the river, Until when \[will be\] the end of which you have spoken of the wonders? 
-<small><sub>**KJV:**</sub></small>
-And [one] said to the man clothed in linen, which [was] upon the waters of the river, How long [shall it be to] the end of these wonders?
-<small><sub>**BSB:**</sub></small>
-One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.5|<< Daniel 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.7|Daniel 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 39:9** 
+**Genesis 39:9**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none greater in this house than I; neither hath he kept back any thing from me but thee, because thou [art] his wife: how then can I do this great wickedness, and sin against God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No one in this house is greater than I am. He has withheld nothing from me excep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.8|<< Genesis 39:8]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.10|Genesis 39:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not [is] he  |**<big>&#8207;[[H0369\|אֵינֶ֨]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great  |**<big>&#8207;[[H1419A\|גָד֜וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

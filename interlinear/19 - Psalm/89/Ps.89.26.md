@@ -1,4 +1,4 @@
-**Psalms 89:26** (89:27)
+**Psalms 89:26**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cry unto me, Thou [art] my father, my God, and the rock of my salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will call to Me, ‘You are my Father, my God, the Rock of my salvation.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.25|<< Psalms 89:25]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.27|Psalms 89:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will call out to me  |**<big>&#8207;[[H7121G\|יִ֭קְרָאֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Yik.ra.'e.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

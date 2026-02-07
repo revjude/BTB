@@ -1,10 +1,7 @@
 **LXX Leviticus 13:32** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look at the infection on the seventh day. And behold, \[if\] the outbreak should not be diffused, and there is no yellowish hair in it, and the appearance of the outbreak is not hollow under the skin; 
-<small><sub>**KJV:**</sub></small>
-And in the seventh day the priest shall look on the plague: and, behold, [if] the scall spread not, and there be in it no yellow hair, and the scall [be] not in sight deeper than the skin;
-<small><sub>**BSB:**</sub></small>
-On the seventh day the priest is to reexamine the infection, and if the scaly outbreak has not spread and there is no yellow hair in it, and it does not appear to be deeper than the skin,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.31|<< Leviticus 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.33|Leviticus 13:33 >>]]</td></tr></table>
 
 | Translation | Greek |

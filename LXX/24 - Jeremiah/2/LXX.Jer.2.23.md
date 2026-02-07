@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:23** 
 <small><sub>**LXX:**</sub></small>
 How will you say, I was not defiled, and I went not after Baal? Behold  your ways in the cemetery, and know what you did! Her voice shrieks in the evening. 
-<small><sub>**KJV:**</sub></small>
-How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: [thou art] a swift dromedary traversing her ways;
-<small><sub>**BSB:**</sub></small>
-“How can you say, ‘I am not defiled; I have not run after the Baals’? Look at your behavior in the valley; acknowledge what you have done. You are a swift young she-camel galloping here and there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.22|<< Jeremiah 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.24|Jeremiah 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

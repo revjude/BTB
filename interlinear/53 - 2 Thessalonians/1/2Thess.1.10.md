@@ -1,12 +1,12 @@
-**2 Thessalonians 1:10
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:10**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
 <small><sub>**BSB:**</sub></small>
 on the day He comes to be glorified in His saints and regarded with wonder by all who have believed, including you who have believed our testimony.
 <small><sub>**Literal:**</sub></small>
 when He may come to be glorified in the saints of Him and to be marveled at among all those having believed, because was believed the testimony of us to you in the day that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.9|<< 2 Thessalonians 1:9]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.11|2 Thessalonians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He may come |**<big>[[G2064\|ἔλθῃ]]</big>**  |elthē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

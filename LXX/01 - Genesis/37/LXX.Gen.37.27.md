@@ -1,10 +1,7 @@
 **LXX Genesis 37:27** 
 <small><sub>**LXX:**</sub></small>
 Come let us give him  to these Ishmaelites, and the hands of ours, let them not be upon him! for \[he is\] our brother, and he is our flesh. And his brothers hearkened. 
-<small><sub>**KJV:**</sub></small>
-Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he [is] our brother [and] our flesh. And his brethren were content.
-<small><sub>**BSB:**</sub></small>
-Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is our brother, our own flesh.” And they agreed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.26|<< Genesis 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.28|Genesis 37:28 >>]]</td></tr></table>
 
 | Translation | Greek |

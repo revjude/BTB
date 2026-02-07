@@ -1,12 +1,12 @@
-**Acts 17:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:27**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:
 <small><sub>**BSB:**</sub></small>
 God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us.
 <small><sub>**Literal:**</sub></small>
 to seek <the> God, if perhaps indeed they would touch Him and would find [Him], And indeed not far from one each of us He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.26|<< Acts 17:26]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.28|Acts 17:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to seek |**<big>[[G2212\|ζητεῖν]]</big>**  |zētein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

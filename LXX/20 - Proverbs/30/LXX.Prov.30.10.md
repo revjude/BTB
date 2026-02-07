@@ -1,10 +1,7 @@
 **LXX Proverbs 30:10** 
 <small><sub>**LXX:**</sub></small>
 You should not deliver a bondservant into \[the\] hands of a master, lest at any time he should curse you, and you should be obliterated. 
-<small><sub>**KJV:**</sub></small>
-Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.
-<small><sub>**BSB:**</sub></small>
-Do not slander a servant to his master, or he will curse you, and you will bear the guilt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.9|<< Proverbs 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.11|Proverbs 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

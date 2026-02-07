@@ -1,10 +1,7 @@
 **LXX Judges 8:34** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did not remember \[the\] <span class="smallcaps">lord</span>  their God, the one rescuing them from out of \[the\] hand of all  their enemies round about. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:
-<small><sub>**BSB:**</sub></small>
-The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.33|<< Judges 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.35|Judges 8:35 >>]]</td></tr></table>
 
 | Translation | Greek |

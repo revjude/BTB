@@ -1,10 +1,7 @@
 **LXX Judges 20:32** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin said, They stumble before us as before. And the sons of Israel said, We should flee and pull them out from the city into the ways. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin said, They [are] smitten down before us, as at the first. But the children of Israel said, Let us flee, and draw them from the city unto the highways.
-<small><sub>**BSB:**</sub></small>
-“We are defeating them as before,” said the Benjamites. But the Israelites said, “Let us retreat and draw them away from the city onto the roads.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.31|<< Judges 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.33|Judges 20:33 >>]]</td></tr></table>
 
 | Translation | Greek |

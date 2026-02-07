@@ -1,4 +1,4 @@
-**Ezekiel 23:7** 
+**Ezekiel 23:7**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus she committed her whoredoms with them, with all them [that were] the chosen men of Assyria, and with all on whom she doted: with all their idols she defiled herself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She offered sexual favors to all the elite of Assyria. She defiled herself with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.6|<< Ezekiel 23:6]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.8|Ezekiel 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|תִּתֵּ֤ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ten<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prostitution\<s> her  |**<big>&#8207;[[H8457\|תַּזְנוּתֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| taz.nu.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

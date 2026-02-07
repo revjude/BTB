@@ -1,12 +1,12 @@
-**Luke 17:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:5**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the apostles said unto the Lord, Increase our faith.
 <small><sub>**BSB:**</sub></small>
 The apostles said to the Lord, “Increase our faith!”
 <small><sub>**Literal:**</sub></small>
 And said the apostles to the Lord; do add to us faith!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.4|<< Luke 17:4]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.6|Luke 17:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

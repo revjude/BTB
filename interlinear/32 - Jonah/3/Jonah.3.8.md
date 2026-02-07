@@ -1,4 +1,4 @@
-**Jonah 3:8** 
+**Jonah 3:8**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that [is] in their hands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Furthermore, let both man and beast be covered with sackcloth, and have everyone
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they may cover themselves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3680\|יִתְכַּסּ֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.ka.Su<small><sup>[[HVtu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sackcloth\<s>  |**<big>&#8207;[[H8242\|שַׂקִּ֗ים]]&#8207; </big>**| sa.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

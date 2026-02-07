@@ -1,4 +1,4 @@
-**Psalms 118:22** 
+**Psalms 118:22**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stone [which] the builders refused is become the head [stone] of the corner.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The stone the builders rejected has become the cornerstone.
 > $\quad$ referenced by: [[Matt.21.42|Matt 21:42]] ☩ [[Mark.12.10|Mark 12:10-11]] ☩ [[Luke.20.17|Luke 20:17]] ☩ [[Acts.4.11|Acts 4:11]] ☩ [[1Pet.2.4|1Pet 2:4]] ☩ [[1Pet.2.7|1Pet 2:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a stone  |**<big>&#8207;[[H0068G\|אֶ֭בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] they rejected  |**<big>&#8207;[[H3988A\|מָאֲס֣וּ]]&#8207; </big>**| ma.'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

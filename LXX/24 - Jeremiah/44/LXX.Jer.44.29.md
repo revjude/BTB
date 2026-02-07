@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:29** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the sign, says \[the\] <span class="smallcaps">lord</span>, to you, That I myself will visit upon you in  this place, that you should know that my words shall adhere unto you for evils. 
-<small><sub>**KJV:**</sub></small>
-And this [shall be] a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:
-<small><sub>**BSB:**</sub></small>
-This will be a sign to you that I will punish you in this place, declares the LORD, so that you may know that My threats of harm against you will surely stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.28|<< Jeremiah 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.30|Jeremiah 44:30 >>]]</td></tr></table>
 
 | Translation | Greek |

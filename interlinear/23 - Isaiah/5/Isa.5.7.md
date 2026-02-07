@@ -1,4 +1,4 @@
-**Isaiah 5:7** 
+**Isaiah 5:7**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the vineyard of the LORD of hosts [is] the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the vineyard of the LORD of Hosts is the house of Israel, and the men of Jud
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.6|<< Isaiah 5:6]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.8|Isaiah 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] vineyard of  |**<big>&#8207;[[H3754\|כֶ֜רֶם]]&#8207; </big>**| Khe.rem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

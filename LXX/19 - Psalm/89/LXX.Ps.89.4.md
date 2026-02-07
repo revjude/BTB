@@ -1,10 +1,7 @@
 **LXX Psalm 89:4** 
 <small><sub>**LXX:**</sub></small>
 Unto the eon I shall prepare  your seed, and I will build your throne unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-Thy seed will I establish for ever, and build up thy throne to all generations. Selah.
-<small><sub>**BSB:**</sub></small>
-‘I will establish your offspring forever and build up your throne for all generations.’” Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.3|<< Psalm 89:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.5|Psalm 89:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 89:4** is...

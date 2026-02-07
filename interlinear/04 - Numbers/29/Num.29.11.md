@@ -1,4 +1,4 @@
-**Numbers 29:11** 
+**Numbers 29:11**<big><big>[[Num.29.7 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One kid of the goats [for] a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Include one male goat for a sin offering, in addition to the sin offering of ato
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.10|<< Numbers 29:10]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.12|Numbers 29:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'ir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | goats  |**<big>&#8207;[[H5795\|עִזִּ֥ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

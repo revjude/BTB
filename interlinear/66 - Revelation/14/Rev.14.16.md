@@ -1,12 +1,12 @@
-**Revelation 14:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:16**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
 <small><sub>**BSB:**</sub></small>
 So the One seated on the cloud swung His sickle over the earth, and the earth was harvested.
 <small><sub>**Literal:**</sub></small>
 And swung the [One] sitting upon the cloud the sickle of Him upon the earth, and was harvested the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.15|<< Revelation 14:15]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.17|Revelation 14:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | swung |**<big>[[G0906G\|ἔβαλεν]]</big>**  |ebalen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

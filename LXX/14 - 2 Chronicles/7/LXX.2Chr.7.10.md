@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:10** 
 <small><sub>**LXX:**</sub></small>
 And on the third and twentieth day of the seventh month he sent the people to  their tents being glad and \[with\] a good heart over the good \[things\] which \[the\] <span class="smallcaps">lord</span> did  to David, and  to Solomon, and \[to\] Israel  his people. 
-<small><sub>**KJV:**</sub></small>
-And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people.
-<small><sub>**BSB:**</sub></small>
-On the twenty-third day of the seventh month, Solomon sent the people away to their homes, joyful and glad of heart for the good things that the LORD had done for David, for Solomon, and for His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.9|<< 2 Chronicles 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.11|2 Chronicles 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

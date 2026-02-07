@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:6** 
 <small><sub>**LXX:**</sub></small>
 And the watchman, if he should behold the broadsword coming, and should not signify by the trumpet, and the people should not take guard; and coming, the broadsword should take from out of them a soul, this \[soul\] is taken on account of its lawlessness, but the blood of the hand of the watchman I will require. 
-<small><sub>**KJV:**</sub></small>
-But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take [any] person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
-<small><sub>**BSB:**</sub></small>
-But if the watchman sees the sword coming and fails to blow the horn to warn the people, and the sword comes and takes away a life, then that one will be taken away in his iniquity, but I will hold the watchman accountable for his blood.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.5|<< Ezekiel 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.7|Ezekiel 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

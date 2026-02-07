@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] queen of Sheba heard the name Solomon, and she came  to test him with enigmas, unto Jerusalem, with an exceedingly heavy force, and camels carrying aromatics, and gold in multitude, and valuable stone. And she came to Solomon, and she spoke to him all as much as was in  her soul. 
-<small><sub>**KJV:**</sub></small>
-And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
-<small><sub>**BSB:**</sub></small>
-Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.18|<< 2 Chronicles 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.2|2 Chronicles 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

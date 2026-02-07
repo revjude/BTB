@@ -1,10 +1,7 @@
 **LXX Isaiah 50:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] Lord, \[the\] <span class="smallcaps">lord</span> gives to me a tongue of instruction  to know when it is necessary to speak a word. He stood me morning \[by\] morning. He added an ear for me to hear. 
-<small><sub>**KJV:**</sub></small>
-The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to [him that is] weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
-<small><sub>**BSB:**</sub></small>
-The Lord GOD has given Me the tongue of discipleship, to sustain the weary with a word. He awakens Me morning by morning; He awakens My ear to listen as a disciple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.3|<< Isaiah 50:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.5|Isaiah 50:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 27:33** 
+**Ezekiel 27:33**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When your wares went out to sea, you satisfied many nations. You enriched the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when went out  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵ֤את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wares your  |**<big>&#8207;[[H5801\|עִזְבוֹנַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| iz.vo.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

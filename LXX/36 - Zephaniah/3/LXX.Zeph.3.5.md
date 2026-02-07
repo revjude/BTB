@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:5** 
 <small><sub>**LXX:**</sub></small>
 But the righteous <span class="smallcaps">lord</span> \[is\] in \[the\] midst of her, and in no way shall he do an unjust \[thing\]. Morning \[by\] morning he executes his judgment in light, and it was not concealed. And he does not know injustice by exaction, and neither injustice by altercation. 
-<small><sub>**KJV:**</sub></small>
-The just LORD [is] in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.
-<small><sub>**BSB:**</sub></small>
-The LORD within her is righteous; He does no wrong. He applies His justice morning by morning; He does not fail at dawn, yet the unjust know no shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.4|<< Zephaniah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.6|Zephaniah 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

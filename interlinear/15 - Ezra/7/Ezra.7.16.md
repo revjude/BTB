@@ -1,4 +1,4 @@
-**Ezra 7:16** 
+**Ezra 7:16**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which [is] in Jerusalem:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ together with all the silver and gold you may find in all the province of Babylo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.15|<< Ezra 7:15]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.17|Ezra 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3606\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Khol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] silver  |**<big>&#8207;[[H3702\|כְּסַ֣ף]]&#8207; </big>**| ke.Saf<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

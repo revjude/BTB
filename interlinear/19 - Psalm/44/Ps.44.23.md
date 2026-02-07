@@ -1,4 +1,4 @@
-**Psalms 44:23** (44:24)
+**Psalms 44:23**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, why sleepest thou, O Lord? arise, cast [us] not off for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wake up, O Lord! Why are You sleeping? Arise! Do not reject us forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.22|<< Psalms 44:22]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.24|Psalms 44:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake !  |**<big>&#8207;[[H5782\|ע֤וּרָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'U.ra<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 52:34** 
+**Jeremiah 52:34**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [for] his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the king of Babylon provided Jehoiachin a daily portion for the rest of his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.33|<< Jeremiah 52:33]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.1|Lamentations 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and allowance his  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0737\|אֲרֻחָת֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ru.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an allowance of  |**<big>&#8207;[[H0737\|אֲרֻחַת֩]]&#8207; </big>**| 'a.ru.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

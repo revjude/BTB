@@ -1,4 +1,4 @@
-**Exodus 18:26** 
+**Exodus 18:26**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they judged the people at all times; they would bring the difficult cases to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.25|<< Exodus 18:25]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.27|Exodus 18:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they judged  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָׁפְט֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fe.Tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

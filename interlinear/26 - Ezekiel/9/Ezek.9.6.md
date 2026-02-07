@@ -1,4 +1,4 @@
-**Ezekiel 9:6** 
+**Ezekiel 9:6**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Slay utterly old [and] young, both maids, and little children, and women: but come not near any man upon whom [is] the mark; and begin at my sanctuary. Then they began at the ancient men which [were] before the house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Slaughter the old men, the young men and maidens, the women and children; but do
 > $\quad$ referenced by: [[Rev.9.4|Rev 9:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | old [man]  |**<big>&#8207;[[H2205H\|זָקֵ֡ן]]&#8207; </big>**| za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young man  |**<big>&#8207;[[H0970\|בָּח֣וּר]]&#8207; </big>**| ba.Chur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

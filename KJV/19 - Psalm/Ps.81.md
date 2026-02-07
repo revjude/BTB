@@ -1,6 +1,6 @@
 (KJV) **Psalm 81**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80|<< Psalm 80]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82|Psalm 82 >>]]</td></tr></table>
 
-***Sing for Joy to God Our Strength*** ^bsb1374
+<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥃]]</big></big>***Sing for Joy to God Our Strength***
 
 
 

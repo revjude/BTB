@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:32** 
 <small><sub>**LXX:**</sub></small>
 And David said to Saul, Let not the heart of my master be downcast over him!  Your servant will go and do battle with  this Philistine. 
-<small><sub>**KJV:**</sub></small>
-And David said to Saul, Let no man’s heart fail because of him; thy servant will go and fight with this Philistine.
-<small><sub>**BSB:**</sub></small>
-And David said to Saul, “Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.31|<< 1 Samuel 17:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.33|1 Samuel 17:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as all these \[things\] were completed, all Israel went forth, the ones being found in \[the\] cities of Judah, and they broke the monuments, and knocked down the sacred groves, and tore down the high \[places\], and demolished the altars from all  Judea, and Benjamin, and from Ephraim, and from Manasseh, unto completion. And all Israel returned each unto  his inheritance, and unto  their cities. 
-<small><sub>**KJV:**</sub></small>
-Now when all this was finished, all Israel that were present went out to the cities of Judah, and brake the images in pieces, and cut down the groves, and threw down the high places and the altars out of all Judah and Benjamin, in Ephraim also and Manasseh, until they had utterly destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
-<small><sub>**BSB:**</sub></small>
-When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.27|<< 2 Chronicles 30:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.2|2 Chronicles 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

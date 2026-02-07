@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:14** 
 <small><sub>**LXX:**</sub></small>
 I also will do \[to\] this house (of which my name is called upon in it, upon which you relied upon it, and the place which I gave to you and \[to\] your fathers,) as I did to Shiloh. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I do unto [this] house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.
-<small><sub>**BSB:**</sub></small>
-therefore what I did to Shiloh I will now do to the house that bears My Name, the house in which you trust, the place that I gave to you and your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.13|<< Jeremiah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.15|Jeremiah 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

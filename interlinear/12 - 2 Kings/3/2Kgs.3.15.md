@@ -1,4 +1,4 @@
-**2 Kings 3:15** 
+**2 Kings 3:15**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now, bring me a harpist.” And while the harpist played, the hand of the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.14|<< 2 Kings 3:14]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.16|2 Kings 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fetch  |**<big>&#8207;[[H3947J\|קְחוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.chu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

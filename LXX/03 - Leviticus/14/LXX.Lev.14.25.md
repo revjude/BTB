@@ -1,10 +1,7 @@
 **LXX Leviticus 14:25** 
 <small><sub>**LXX:**</sub></small>
 And he shall slay the lamb, the one for the trespass \[offering\]; and the priest shall take from the blood of the one for the trespass \[offering\], and shall place it upon the lobe of the ear of the one being cleansed -- the right, and upon the thumb  of his hand -- the right, and upon the big toe  of his foot -- the right. 
-<small><sub>**KJV:**</sub></small>
-And he shall kill the lamb of the trespass offering, and the priest shall take [some] of the blood of the trespass offering, and put [it] upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
-<small><sub>**BSB:**</sub></small>
-And after he slaughters the lamb for the guilt offering, the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.24|<< Leviticus 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.26|Leviticus 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 17:17** 
+**2 Samuel 17:17**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jonathan and Ahimaaz were staying at En-rogel, where a servant girl would co
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.16|<< 2 Samuel 17:16]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.18|2 Samuel 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jonathan  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3083I\|יהוֹנָתָ֨ן]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ahimaaz  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0290H\|אֲחִימַ֜עַץ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

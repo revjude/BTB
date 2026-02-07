@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Hear the word of \[the\] <span class="smallcaps">lord</span>, O kings of Judah, and all Judea, and all Jerusalem! O ones entering by  these gates. 
-<small><sub>**KJV:**</sub></small>
-And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
-<small><sub>**BSB:**</sub></small>
-Say to them, ‘Hear the word of the LORD, O kings of Judah, all people of Judah and Jerusalem who enter through these gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.19|<< Jeremiah 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.21|Jeremiah 17:21 >>]]</td></tr></table>
 
 | Translation | Greek |

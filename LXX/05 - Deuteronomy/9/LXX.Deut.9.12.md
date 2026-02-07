@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, Arise, go down quickly from here! for your people acted lawlessly, of whom you led out of \[the\] land of Egypt. They violated quickly from the way of which you gave charge to them; they made to themselves a molten casting. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Arise, get thee down quickly from hence; for thy people which thou hast brought forth out of Egypt have corrupted [themselves]; they are quickly turned aside out of the way which I commanded them; they have made them a molten image.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to me, “Get up and go down from here at once, for your people, whom you brought out of Egypt, have corrupted themselves. How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten image.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.11|<< Deuteronomy 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.13|Deuteronomy 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

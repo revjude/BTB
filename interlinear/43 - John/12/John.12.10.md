@@ -1,12 +1,12 @@
-**John 12:10
-**<small><sub>**KJV:**</sub></small>
+**John 12:10**<big><big>[[John.12.9 The Plot to Kill Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the chief priests consulted that they might put Lazarus also to death;
 <small><sub>**BSB:**</sub></small>
 So the chief priests made plans to kill Lazarus as well,
 <small><sub>**Literal:**</sub></small>
 Took counsel however the chief priests that also <the> Lazarus they may kill,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.9|<< John 12:9]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.11|John 12:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took counsel |**<big>[[G1011\|ἐβουλεύσαντο]]</big>**  |ebouleusanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

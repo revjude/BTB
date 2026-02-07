@@ -1,4 +1,4 @@
-**Proverbs 30:1** 
+**Proverbs 30:1**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of Agur the son of Jakeh, [even] the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the words of Agur son of Jakeh—the burden that this man declared to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.27|<< Proverbs 29:27]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.2|Proverbs 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Agur  |**<big>&#8207;[[H0094\|אָג֥וּר]]&#8207; </big>**| 'a.Gur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

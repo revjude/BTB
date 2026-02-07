@@ -1,4 +1,4 @@
-**Exodus 39:4** 
+**Exodus 39:4**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They made shoulderpieces for it, to couple [it] together: by the two edges was it coupled together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They made shoulder pieces for the ephod, which were attached at two of its corne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.3|<< Exodus 39:3]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.5|Exodus 39:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shoulder-pieces  |**<big>&#8207;[[H3802\|כְּתֵפֹ֥ת]]&#8207; </big>**| ke.te.Fot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they made  |**<big>&#8207;[[H6213H\|עָֽשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.su-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

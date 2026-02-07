@@ -1,4 +1,4 @@
-**Ecclesiastes 12:10** 
+**Ecclesiastes 12:10**<big><big>[[Eccl.12.9 The Whole Duty of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The preacher sought to find out acceptable words: and [that which was] written [was] upright, [even] words of truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Teacher searched to find delightful sayings and to record accurate words of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.9|<< Ecclesiastes 12:9]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.11|Ecclesiastes 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<he> sought  |**<big>&#8207;[[H1245\|בִּקֵּ֣שׁ]]&#8207; </big>**| bi.Kesh<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Teacher  |**<big>&#8207;[[H6953\|קֹהֶ֔לֶת]]&#8207; </big>**| ko.He.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

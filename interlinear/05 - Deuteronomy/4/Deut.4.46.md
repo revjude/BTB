@@ -1,4 +1,4 @@
-**Deuteronomy 4:46** 
+**Deuteronomy 4:46**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ while they were in the valley across the Jordan facing Beth-peor in the land of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.45|<< Deuteronomy 4:45]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.47|Deuteronomy 4:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] other side of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5676H\|עֵ֨בֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jordan  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּ֜ן]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

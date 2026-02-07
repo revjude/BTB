@@ -1,10 +1,7 @@
 **LXX Leviticus 20:24** 
 <small><sub>**LXX:**</sub></small>
 And I said to you, You shall inherit  their land. And I will give it to you for a possession; a land flowing milk and honey. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God who separated you from all the nations. 
-<small><sub>**KJV:**</sub></small>
-But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I [am] the LORD your God, which have separated you from [other] people.
-<small><sub>**BSB:**</sub></small>
-But I have told you that you will inherit their land, since I will give it to you as an inheritance—a land flowing with milk and honey. I am the LORD your God, who has set you apart from the peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.23|<< Leviticus 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.25|Leviticus 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

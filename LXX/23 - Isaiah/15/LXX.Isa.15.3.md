@@ -1,10 +1,7 @@
 **LXX Isaiah 15:3** 
 <small><sub>**LXX:**</sub></small>
 In  their squares gird on sackcloths, and lament upon  her roofs! And in  her squares, and in  her streets all shriek with weeping! 
-<small><sub>**KJV:**</sub></small>
-In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.
-<small><sub>**BSB:**</sub></small>
-In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.2|<< Isaiah 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.4|Isaiah 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

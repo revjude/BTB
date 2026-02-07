@@ -1,10 +1,7 @@
 **LXX Amos 4:10** 
 <small><sub>**LXX:**</sub></small>
 I sent to you plague in \[the\] way of Egypt. I killed your young men by \[the\] broadsword, with a captivity of your horses. And I led your camps by fire in  your anger, and neither thus you returned to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“I sent plagues among you like those of Egypt; I killed your young men with the sword, along with your captured horses. I filled your nostrils with the stench of your camp, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.9|<< Amos 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.11|Amos 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

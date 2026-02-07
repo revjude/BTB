@@ -1,4 +1,4 @@
-**Joel 3:19** (4:19)
+**Joel 3:19**<big><big>[[Joel.3.17 Blessings for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence [against] the children of Judah, because they have shed innocent blood in their land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Egypt will become desolate, and Edom a desert wasteland, because of the violence
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.18|<< Joel 3:18]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.20|Joel 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a desolation  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8077A\|שְׁמָמָ֣ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

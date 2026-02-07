@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:24** 
 <small><sub>**LXX:**</sub></small>
 And Joab and Abishai pursued after Abner, and the sun went down. And they entered unto the hill of Ammah, according to \[the\] face of Giah, \[the\] wilderness way of Gibeon. 
-<small><sub>**KJV:**</sub></small>
-Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that [lieth] before Giah by the way of the wilderness of Gibeon.
-<small><sub>**BSB:**</sub></small>
-But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah opposite Giah on the way to the wilderness of Gibeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.23|<< 2 Samuel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.25|2 Samuel 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Song of Solomon 8:7** 
+**Song of Solomon 8:7**<big><big>[[Song.8.6 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.6|<< Song of Solomon 8:6]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.8|Song of Solomon 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | waters  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבִּ֗ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

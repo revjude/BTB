@@ -1,4 +1,4 @@
-**Psalms 41:9** (41:10)
+**Psalms 41:9**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up [his] heel against me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Even my close friend whom I trusted, the one who shared my bread, has lifted up 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Mark.14.21|Mark 14:21]] ☩ [[John.13.18|John 13:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֤ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

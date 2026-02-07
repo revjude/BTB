@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There shall not be in  your money bag a weight and a weight -- a great or small. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not have in thy bag divers weights, a great and a small.
-<small><sub>**BSB:**</sub></small>
-You shall not have two differing weights in your bag, one heavy and one light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.12|<< Deuteronomy 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.14|Deuteronomy 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

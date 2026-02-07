@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:15** 
 <small><sub>**LXX:**</sub></small>
 Whenever I shall give Egypt unto destruction, and the land shall be made desolate with the fullness of it; whenever I shall scatter all the ones dwelling in it, even they shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-When I shall make the land of Egypt desolate, and the country shall be destitute of that whereof it was full, when I shall smite all them that dwell therein, then shall they know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-‘When I make the land of Egypt a desolation and empty it of all that filled it, when I strike down all who live there, then they will know that I am the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.14|<< Ezekiel 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.16|Ezekiel 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

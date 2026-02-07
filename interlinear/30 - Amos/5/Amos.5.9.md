@@ -1,4 +1,4 @@
-**Amos 5:9** 
+**Amos 5:9**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He flashes destruction on the strong, so that fury comes upon the stronghold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.8|<< Amos 5:8]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.10|Amos 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [who] causes to flash  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1082\|מַּבְלִ֥יג]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mav.Lig<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | devastation  |**<big>&#8207;[[H7701\|שֹׁ֖ד]]&#8207; </big>**| shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

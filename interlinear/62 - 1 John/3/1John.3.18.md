@@ -1,12 +1,12 @@
-**1 John 3:18
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:18**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My little children, let us not love in word, neither in tongue; but in deed and in truth.
 <small><sub>**BSB:**</sub></small>
 Little children, let us love not in word and speech, but in action and truth.
 <small><sub>**Literal:**</sub></small>
 Little children of mine not we may love in word nor <the> in tongue but in action and in truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.17|<< 1 John 3:17]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.19|1 John 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Little children |**<big>[[G5040\|Τεκνία]]</big>**  |Teknia <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of mine [^1] |**<big>[[G3165\|μου,]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

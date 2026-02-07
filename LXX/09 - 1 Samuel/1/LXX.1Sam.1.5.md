@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:5** 
 <small><sub>**LXX:**</sub></small>
 And  to Hannah he gave one portion, for there was no child to her; except that  Elkanah loved Hannah above Peninnah. But \[the\] <span class="smallcaps">lord</span> locked the \[matter\] concerning  her womb. 
-<small><sub>**KJV:**</sub></small>
-But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.
-<small><sub>**BSB:**</sub></small>
-But to Hannah he would give a double portion, for he loved her even though the LORD had closed her womb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.4|<< 1 Samuel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.6|1 Samuel 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

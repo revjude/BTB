@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:28** 
 <small><sub>**LXX:**</sub></small>
 And if any should find the virgin child, whoever was not espoused, and using force on her, he went to bed with her, and he should be found, 
-<small><sub>**KJV:**</sub></small>
-If a man find a damsel [that is] a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;
-<small><sub>**BSB:**</sub></small>
-If a man encounters a virgin who is not pledged in marriage, and he seizes her and lies with her, and they are discovered,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.27|<< Deuteronomy 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.29|Deuteronomy 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

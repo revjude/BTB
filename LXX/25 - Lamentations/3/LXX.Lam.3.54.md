@@ -1,10 +1,7 @@
 **LXX Lamentations 3:54** 
 <small><sub>**LXX:**</sub></small>
 Water overflowed upon  my head. I said, I am thrust away. 
-<small><sub>**KJV:**</sub></small>
-Waters flowed over mine head; [then] I said, I am cut off.
-<small><sub>**BSB:**</sub></small>
-The waters flowed over my head, and I thought I was going to die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.53|<< Lamentations 3:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.55|Lamentations 3:55 >>]]</td></tr></table>
 
 | Translation | Greek |

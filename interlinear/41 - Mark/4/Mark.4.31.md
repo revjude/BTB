@@ -1,12 +1,12 @@
-**Mark 4:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:31**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [It is] like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:
 <small><sub>**BSB:**</sub></small>
 It is like a mustard seed, which is the smallest of all seeds sown upon the earth.
 <small><sub>**Literal:**</sub></small>
 As a grain of mustard which when it may be sown upon the earth, smaller than is all the seeds which [are] upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.30|<< Mark 4:30]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.32|Mark 4:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a grain [^1] |**<big>[[G2848\|κόκκῳ]]</big>**  |kokkō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+TR">NK(o)</abbr> | |

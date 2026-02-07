@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:12** 
 <small><sub>**LXX:**</sub></small>
 And they give to him a piece of dried cluster of figs, and two dried grape \[clusters\]; and he ate, and his spirit stood \[up\] in him. For he had not eaten bread, and had not drank water, three days and three nights. 
-<small><sub>**KJV:**</sub></small>
-And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk [any] water, three days and three nights.
-<small><sub>**BSB:**</sub></small>
-a piece of a fig cake and two clusters of raisins. So he ate and was revived, for he had not had any food or water for three days and three nights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.11|<< 1 Samuel 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.13|1 Samuel 30:13 >>]]</td></tr></table>
 
 | Translation | Greek |

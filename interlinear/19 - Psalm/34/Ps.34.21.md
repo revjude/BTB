@@ -1,4 +1,4 @@
-**Psalms 34:21** (34:22)
+**Psalms 34:21**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Evil shall slay the wicked: and they that hate the righteous shall be desolate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Evil will slay the wicked, and the haters of the righteous will be condemned.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.20|<< Psalms 34:20]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.22|Psalms 34:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will kill  |**<big>&#8207;[[H4191\|תְּמוֹתֵ֣ת]]&#8207; </big>**| te.mo.Tet<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wicked  |**<big>&#8207;[[H7563\|רָשָׁ֣ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

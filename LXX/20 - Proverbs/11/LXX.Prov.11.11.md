@@ -1,10 +1,7 @@
 **LXX Proverbs 11:11** 
 <small><sub>**LXX:**</sub></small>
 By \[the\] blessing of \[the\] upright a city shall be exalted; but \[by the\] mouths of impious \[men\] it shall be razed. 
-<small><sub>**KJV:**</sub></small>
-By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
-<small><sub>**BSB:**</sub></small>
-By the blessing of the upright a city is built up, but by the mouth of the wicked it is torn down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.10|<< Proverbs 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.12|Proverbs 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

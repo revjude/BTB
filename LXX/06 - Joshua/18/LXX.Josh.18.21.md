@@ -1,10 +1,7 @@
 **LXX Joshua 18:21** 
 <small><sub>**LXX:**</sub></small>
 And the cities of the tribe of the sons of Benjamin were according to their peoples -- Jericho, and Beth-hoglah, and Mekeziz, 
-<small><sub>**KJV:**</sub></small>
-Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,
-<small><sub>**BSB:**</sub></small>
-These were the cities of the clans of the tribe of Benjamin: Jericho, Beth-hoglah, Emek-keziz,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.20|<< Joshua 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.22|Joshua 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

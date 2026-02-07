@@ -1,10 +1,7 @@
 **LXX Exodus 39:15** 
 <small><sub>**LXX:**</sub></small>
 And they made a border upon the oracle, a work of wreath being closely joined from out of pure gold. 
-<small><sub>**KJV:**</sub></small>
-And they made upon the breastplate chains at the ends, [of] wreathen work [of] pure gold.
-<small><sub>**BSB:**</sub></small>
-For the breastpiece they made braided chains like cords of pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.14|<< Exodus 39:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.16|Exodus 39:16 >>]]</td></tr></table>
 
 | Translation | Greek |

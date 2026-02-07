@@ -1,4 +1,4 @@
-**2 Chronicles 16:7** 
+**2 Chronicles 16:7**<big><big>[[2Chr.16.7 Hanani’s Message to Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Hanani the seer came to King Asa of Judah and told him, “Because 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.6|<< 2 Chronicles 16:6]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.8|2 Chronicles 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at the time  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִ֗יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

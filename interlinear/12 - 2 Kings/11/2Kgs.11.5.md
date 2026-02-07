@@ -1,4 +1,4 @@
-**2 Kings 11:5** 
+**2 Kings 11:5**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he commanded them, saying, This [is] the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king’s house;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and commanded them, “This is what you are to do: A third of you who come on du
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.4|<< 2 Kings 11:4]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.6|2 Kings 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַוֵּ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.tza.Ve<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֔ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

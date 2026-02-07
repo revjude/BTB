@@ -1,12 +1,12 @@
-**Luke 7:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:16**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.
 <small><sub>**BSB:**</sub></small>
 A sense of awe swept over all of them, and they glorified God. “A great prophet has appeared among us!” they said. “God has visited His people!”
 <small><sub>**Literal:**</sub></small>
 Seized then fear all, and they were glorifying <the> God saying that A prophet great was raised up among us! and that Has visited <the> God the people of Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.15|<< Luke 7:15]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.17|Luke 7:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Seized |**<big>[[G2983\|ἔλαβεν]]</big>**  |elaben <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

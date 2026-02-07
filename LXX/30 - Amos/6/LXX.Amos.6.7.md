@@ -1,10 +1,7 @@
 **LXX Amos 6:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, now they will be captives by a company of mighty ones; and there shall be lifted away \[the\] snorting of horses from Ephraim. 
-<small><sub>**KJV:**</sub></small>
-Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.
-<small><sub>**BSB:**</sub></small>
-Therefore, you will now go into exile as the first of the captives, and your feasting and lounging will come to an end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.6|<< Amos 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.8|Amos 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

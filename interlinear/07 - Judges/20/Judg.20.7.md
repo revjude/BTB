@@ -1,4 +1,4 @@
-**Judges 20:7** 
+**Judges 20:7**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, ye [are] all children of Israel; give here your advice and counsel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, all you Israelites, give your advice and verdict here and now.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.6|<< Judges 20:6]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.8|Judges 20:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all of you  |**<big>&#8207;[[H3605\|כֻלְּ]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| khu.le.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

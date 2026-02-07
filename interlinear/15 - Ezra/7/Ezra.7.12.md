@@ -1,4 +1,4 @@
-**Ezra 7:12** 
+**Ezra 7:12**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect [peace], and at such a time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Artaxerxes, king of kings. To Ezra the priest, the scribe of the Law of the God 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.11|<< Ezra 7:11]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.13|Ezra 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Artaxerxes  |**<big>&#8207;[[H0783B\|אַ֨רְתַּחְשַׁ֔סְתְּא]]&#8207; </big>**| 'ar.tach.Shast'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4430\|מֶ֖לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

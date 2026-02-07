@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:17** 
 <small><sub>**LXX:**</sub></small>
 And there were sons  to Eliezer -- Rehabiah the ruler. But there were no  other sons to Eliezer. And the sons of Rehabiah increased in stature. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Eliezer [were], Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.
-<small><sub>**BSB:**</sub></small>
-The descendants of Eliezer: Rehabiah was the first. Eliezer did not have any other sons, but the sons of Rehabiah were very numerous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.16|<< 1 Chronicles 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.18|1 Chronicles 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

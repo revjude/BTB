@@ -1,12 +1,12 @@
-**Luke 22:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:26**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye [shall] not [be] so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.
 <small><sub>**BSB:**</sub></small>
 But you shall not be like them. Instead, the greatest among you should be like the youngest, and the one who leads like the one who serves.
 <small><sub>**Literal:**</sub></small>
 You however not thus [shall be], Instead the greater among you he should become as the younger, and the [one] leading as the [one] serving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.25|<< Luke 22:25]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.27|Luke 22:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

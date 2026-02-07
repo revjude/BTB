@@ -1,10 +1,7 @@
 **LXX Esther 7:3** 
 <small><sub>**LXX:**</sub></small>
 And answering she said, If I found favor before the king, let him give  life \[to\] my request, and  my people \[to\] my petition. 
-<small><sub>**KJV:**</sub></small>
-Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:
-<small><sub>**BSB:**</sub></small>
-Queen Esther replied, “If I have found favor in your sight, O king, and if it pleases the king, grant me my life as my petition, and the lives of my people as my request.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.2|<< Esther 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.4|Esther 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 11:25
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:25**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me.
 <small><sub>**BSB:**</sub></small>
 In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.”
 <small><sub>**Literal:**</sub></small>
 Likewise also the cup after <the> having supped saying; This <the> cup the new covenant is in <the> My blood; this do perform, as often as when you shall drink [it], in <the> of Me remembrance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.24|<< 1 Corinthians 11:24]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.26|1 Corinthians 11:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 20:31** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin came forth for meeting the people, and were drawn away from the city. And they began to strike of the people (slain as once \[before\], and once \[before that\]) in the ways which there is one ascending to Beth-el, and one ascending to Gibeah in \[the\] field, about thirty men of  Israel. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin went out against the people, [and] were drawn away from the city; and they began to smite of the people, [and] kill, as at other times, in the highways, of which one goeth up to the house of God, and the other to Gibeah in the field, about thirty men of Israel.
-<small><sub>**BSB:**</sub></small>
-The Benjamites came out against them and were drawn away from the city. They began to attack the people as before, killing about thirty men of Israel in the fields and on the roads, one of which led up to Bethel and the other to Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.30|<< Judges 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.32|Judges 20:32 >>]]</td></tr></table>
 
 | Translation | Greek |

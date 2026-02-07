@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:3** 
 <small><sub>**LXX:**</sub></small>
 the great tests which your eyes have seen; the signs and  those great miracles, by the strong hand, and the high arm. 
-<small><sub>**KJV:**</sub></small>
-The great temptations which thine eyes have seen, the signs, and those great miracles:
-<small><sub>**BSB:**</sub></small>
-You saw with your own eyes the great trials, and those miraculous signs and wonders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.2|<< Deuteronomy 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.4|Deuteronomy 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

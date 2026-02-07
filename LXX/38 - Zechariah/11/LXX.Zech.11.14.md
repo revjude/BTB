@@ -1,10 +1,7 @@
 **LXX Zechariah 11:14** 
 <small><sub>**LXX:**</sub></small>
 And I threw away  my rod, the second,  A Piece of Measured out Land --  to efface the taking possession the \[thing\] between Judah and between Israel. 
-<small><sub>**KJV:**</sub></small>
-Then I cut asunder mine other staff, [even] Bands, that I might break the brotherhood between Judah and Israel.
-<small><sub>**BSB:**</sub></small>
-Then I cut in two my second staff called Union, breaking the brotherhood between Judah and Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

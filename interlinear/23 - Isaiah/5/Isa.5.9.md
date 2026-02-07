@@ -1,4 +1,4 @@
-**Isaiah 5:9** 
+**Isaiah 5:9**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In mine ears [said] the LORD of hosts, Of a truth many houses shall be desolate, [even] great and fair, without inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I heard the LORD of Hosts declare: “Surely many houses will become desolate, g
 > $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in ears my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0241H\|אָזְנָ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

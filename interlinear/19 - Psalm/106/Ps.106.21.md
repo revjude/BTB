@@ -1,4 +1,4 @@
-**Psalms 106:21** 
+**Psalms 106:21**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They forgat God their saviour, which had done great things in Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They forgot God their Savior, who did great things in Egypt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.20|<< Psalms 106:20]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.22|Psalms 106:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they forgot  |**<big>&#8207;[[H7911\|שָׁ֭כְחוּ]]&#8207; </big>**| shakh.chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Micah 5:8** 
 <small><sub>**LXX:**</sub></small>
 And the vestige of Jacob will be among the nations, in \[the\] midst of many peoples, as a lion among cattle in the forest, and as a cub among \[the\] flocks of sheep, in which manner whenever he should go through and draw apart to seize \[his prey\] by force, and there should be none  rescuing. 
-<small><sub>**KJV:**</sub></small>
-And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
-<small><sub>**BSB:**</sub></small>
-Then the remnant of Jacob will be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which tramples and tears as it passes through, with no one to rescue them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.7|<< Micah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.9|Micah 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

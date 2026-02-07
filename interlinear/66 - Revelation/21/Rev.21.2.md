@@ -1,5 +1,5 @@
-**Revelation 21:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:2**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 <small><sub>**BSB:**</sub></small>
 I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
@@ -10,7 +10,7 @@ And I myself John the city <the> holy Jerusalem new I saw coming down out of <th
 > $\quad$ possibly alluding to: [[LXX.Ezek.40.1|Ezek 40:1]] ☩ [[LXX.Ezek.48.1|Ezek 48:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="TR">K</abbr> | |

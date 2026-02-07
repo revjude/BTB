@@ -1,10 +1,7 @@
 **LXX Psalm 45:16** 
 <small><sub>**LXX:**</sub></small>
 In place of  your fathers, your sons were born. You shall place them as rulers over all the earth. 
-<small><sub>**KJV:**</sub></small>
-Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.
-<small><sub>**BSB:**</sub></small>
-Your sons will succeed your fathers; you will make them princes throughout the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.15|<< Psalm 45:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.17|Psalm 45:17 >>]]</td></tr></table>
 
 | Translation | Greek |

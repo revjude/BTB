@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:7** 
 <small><sub>**LXX:**</sub></small>
 And it will be if they should say to you, For what \[reason\] do you moan? that you shall say, For the message, for it comes, and every heart shall be devastated, and all hands shall be disabled, and all flesh shall expire, and every spirit, and all thighs shall be tainted \[by\] wetness. Behold, it comes and it shall be, says \[the\] <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak [as] water: behold, it cometh, and shall be brought to pass, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-And when they ask, ‘Why are you groaning?’ you are to say, ‘Because of the news that is coming. Every heart will melt, and every hand will go limp. Every spirit will faint, and every knee will turn to water.’ Yes, it is coming and it will surely happen, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.6|<< Ezekiel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.8|Ezekiel 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

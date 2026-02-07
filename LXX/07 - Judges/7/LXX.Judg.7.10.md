@@ -1,10 +1,7 @@
 **LXX Judges 7:10** 
 <small><sub>**LXX:**</sub></small>
 And if you should fear to go down by yourself, then you and Phurah your servant go down into the camp. 
-<small><sub>**KJV:**</sub></small>
-But if thou fear to go down, go thou with Phurah thy servant down to the host:
-<small><sub>**BSB:**</sub></small>
-But if you are afraid to do so, then go down to the camp with your servant Purah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.9|<< Judges 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.11|Judges 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

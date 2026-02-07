@@ -1,10 +1,7 @@
 **LXX Judges 13:14** 
 <small><sub>**LXX:**</sub></small>
 From every \[thing\] which goes forth from out of \[the\] grapevine, she shall not eat, and wine and liquor she shall not drink, and every \[thing\] unclean she shall not eat; all as much as I gave charge to her, let \[her\] guard! 
-<small><sub>**KJV:**</sub></small>
-She may not eat of any [thing] that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean [thing]: all that I commanded her let her observe.
-<small><sub>**BSB:**</sub></small>
-She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.13|<< Judges 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.15|Judges 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

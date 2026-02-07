@@ -1,4 +1,4 @@
-**Deuteronomy 27:3** 
+**Deuteronomy 27:3**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the LORD thy God giveth thee, a land that floweth with milk and honey; as the LORD God of thy fathers hath promised thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Write on them all the words of this law when you have crossed over to enter the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.2|<< Deuteronomy 27:2]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.4|Deuteronomy 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will write  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3789\|כָתַבְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.tav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9039\|הֶ֗ן]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

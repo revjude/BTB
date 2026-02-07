@@ -1,10 +1,7 @@
 **LXX Joshua 5:10** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel camped in Gilgal. And they observed the passover on the fourteenth day of the month, at evening, at \[the\] descent of Jericho in the plain. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.
-<small><sub>**BSB:**</sub></small>
-On the evening of the fourteenth day of the month, while the Israelites were camped at Gilgal on the plains of Jericho, they kept the Passover.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.9|<< Joshua 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.11|Joshua 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

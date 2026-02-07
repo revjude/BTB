@@ -1,12 +1,12 @@
-**3 John 1:8
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:8**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We therefore ought to receive such, that we might be fellowhelpers to the truth.
 <small><sub>**BSB:**</sub></small>
 Therefore we ought to support such men, so that we may be fellow workers for the truth.
 <small><sub>**Literal:**</sub></small>
 We ourselves therefore ought to receive <the> such [men] so that fellow workers we may be in the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.7|<< 3 John 1:7]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.9|3 John 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

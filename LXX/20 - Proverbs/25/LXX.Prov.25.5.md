@@ -1,10 +1,7 @@
 **LXX Proverbs 25:5** 
 <small><sub>**LXX:**</sub></small>
 Slay \[the\] impious from \[the\] presence \[of the\] king! and you shall set up his throne in righteousness. 
-<small><sub>**KJV:**</sub></small>
-Take away the wicked [from] before the king, and his throne shall be established in righteousness.
-<small><sub>**BSB:**</sub></small>
-Remove the wicked from the king’s presence, and his throne will be established in righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.4|<< Proverbs 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.6|Proverbs 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

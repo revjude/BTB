@@ -1,4 +1,4 @@
-**Nehemiah 10:14** (10:15)
+**Nehemiah 10:14**<big><big>[[Neh.10.1 Signers of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.13|<< Nehemiah 10:13]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.15|Nehemiah 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֖י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 17:10** 
+**Ezekiel 17:10**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, behold, [being] planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even if it is transplanted, will it flourish? Will it not completely wither when
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.9|<< Ezekiel 17:9]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.11|Ezekiel 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [it is] planted  |**<big>&#8207;[[H8362\|שְׁתוּלָ֖ה]]&#8207; </big>**| she.tu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

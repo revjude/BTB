@@ -1,10 +1,7 @@
 **LXX Isaiah 36:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] Assyrians sent  Rabshakeh from Lachish unto Jerusalem to  king Hezekiah with a great force. And he stood by the aqueduct of the upper pool in the way of the field of the fuller. 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field.
-<small><sub>**BSB:**</sub></small>
-And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s Field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.1|<< Isaiah 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.3|Isaiah 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

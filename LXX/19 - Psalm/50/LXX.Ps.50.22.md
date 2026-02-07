@@ -1,10 +1,7 @@
 **LXX Psalm 50:22** 
 <small><sub>**LXX:**</sub></small>
 Perceive indeed these \[things\], O ones forgetting  God! lest at any time he should snatch \[you\] away, and in no way should there be one rescuing. 
-<small><sub>**KJV:**</sub></small>
-Now consider this, ye that forget God, lest I tear [you] in pieces, and [there be] none to deliver.
-<small><sub>**BSB:**</sub></small>
-Now consider this, you who forget God, lest I tear you to pieces, with no one to rescue you:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.21|<< Psalm 50:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.23|Psalm 50:23 >>]]</td></tr></table>
 
 | Translation | Greek |

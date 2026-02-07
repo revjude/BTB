@@ -1,10 +1,7 @@
 **LXX Isaiah 26:14** 
 <small><sub>**LXX:**</sub></small>
 But the dead in no way shall see life, nor shall physicians in any way raise them up. On account of this you struck, and destroyed; and you lifted away every male of them. 
-<small><sub>**KJV:**</sub></small>
-[They are] dead, they shall not live; [they are] deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.
-<small><sub>**BSB:**</sub></small>
-The dead will not live; the departed spirits will not rise. Therefore You have punished and destroyed them; You have wiped out all memory of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.13|<< Isaiah 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.15|Isaiah 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

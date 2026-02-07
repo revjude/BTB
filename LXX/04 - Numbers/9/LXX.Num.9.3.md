@@ -1,10 +1,7 @@
 **LXX Numbers 9:3** 
 <small><sub>**LXX:**</sub></small>
 On the fourteenth day of the first month towards evening you shall observe it; according to \[its\] time, according to  its law, and according to the interpretation \[given\] for it you shall observe it. 
-<small><sub>**KJV:**</sub></small>
-In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
-<small><sub>**BSB:**</sub></small>
-You are to observe it at the appointed time, at twilight on the fourteenth day of this month, in accordance with its statutes and ordinances.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.2|<< Numbers 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.4|Numbers 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

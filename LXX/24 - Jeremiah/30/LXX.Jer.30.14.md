@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:14** 
 <small><sub>**LXX:**</sub></small>
 all  your friends forgot you; in no way shall they ask, for I smote you with a beating by \[the\] enemy, \[even\] substantial discipline; your sins multiplied over all your iniquities. 
-<small><sub>**KJV:**</sub></small>
-All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; [because] thy sins were increased.
-<small><sub>**BSB:**</sub></small>
-All your lovers have forgotten you; they no longer seek you, for I have struck you as an enemy would, with the discipline of someone cruel, because of your great iniquity and your numerous sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.13|<< Jeremiah 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.15|Jeremiah 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 8:29
-**<small><sub>**KJV:**</sub></small>
+**John 8:29**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
 <small><sub>**BSB:**</sub></small>
 He who sent Me is with Me. He has not left Me alone, because I always do what pleases Him.”
 <small><sub>**Literal:**</sub></small>
 And the [One] having sent Me with Me is; not He has left Me alone <the> Father because I myself the [things] pleasing to Him do always.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.28|<< John 8:28]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.30|John 8:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

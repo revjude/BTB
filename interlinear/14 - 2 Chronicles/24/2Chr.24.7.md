@@ -1,4 +1,4 @@
-**2 Chronicles 24:7** 
+**2 Chronicles 24:7**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sons of that wicked woman Athaliah had broken into the house of God and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.6|<< 2 Chronicles 24:6]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.8|2 Chronicles 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Athaliah  |**<big>&#8207;[[H6271G\|עֲתַלְיָ֙הוּ֙]]&#8207; </big>**| 'a.tal.Ya.hu<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

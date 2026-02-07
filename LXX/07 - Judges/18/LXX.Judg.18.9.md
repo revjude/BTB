@@ -1,10 +1,7 @@
 **LXX Judges 18:9** 
 <small><sub>**LXX:**</sub></small>
 And they said, Rise up, for we should ascend against them! for we saw the land, and behold, \[it is\] exceedingly good,. And you are silent? You should not be reluctant  to go and to enter  to inherit the land. 
-<small><sub>**KJV:**</sub></small>
-And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it [is] very good: and [are] ye still? be not slothful to go, [and] to enter to possess the land.
-<small><sub>**BSB:**</sub></small>
-They answered, “Come on, let us go up against them, for we have seen the land, and it is very good. Why would you fail to act? Do not hesitate to go there and take possession of the land!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.8|<< Judges 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.10|Judges 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

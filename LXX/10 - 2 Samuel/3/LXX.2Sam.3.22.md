@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:22** 
 <small><sub>**LXX:**</sub></small>
 And behold, the servants of David and Joab came from the expedition, and they brought many spoils with themselves. And Abner was not with David in Hebron, for he had sent him \[away\], and he went in peace. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the servants of David and Joab came from [pursuing] a troop, and brought in a great spoil with them: but Abner [was] not with David in Hebron; for he had sent him away, and he was gone in peace.
-<small><sub>**BSB:**</sub></small>
-Just then David’s soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David had sent him on his way in peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.21|<< 2 Samuel 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.23|2 Samuel 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 1:28** 
+**Ezekiel 1:28**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the appearance of the bow that is in the cloud in the day of rain, so [was] the appearance of the brightness round about. This [was] the appearance of the likeness of the glory of the LORD. And when I saw [it], I fell upon my face, and I heard a voice of one that spake.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The appearance of the brilliant light all around Him was like that of a rainbow 
 > $\quad$ referenced by: [[Rev.4.2|Rev 4:2-3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] appearance of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4758\|מַרְאֵ֣ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> rainbow  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7198\|קֶּ֡שֶׁת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

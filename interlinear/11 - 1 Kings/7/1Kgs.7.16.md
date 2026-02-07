@@ -1,4 +1,4 @@
-**1 Kings 7:16** 
+**1 Kings 7:16**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made two chapiters [of] molten brass, to set upon the tops of the pillars: the height of the one chapiter [was] five cubits, and the height of the other chapiter [was] five cubits:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made two capitals of cast bronze to set on top of the pillars, each capi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.15|<< 1 Kings 7:15]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.17|1 Kings 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | capitals  |**<big>&#8207;[[H3805\|כֹתָרֹ֜ת]]&#8207; </big>**| kho.ta.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

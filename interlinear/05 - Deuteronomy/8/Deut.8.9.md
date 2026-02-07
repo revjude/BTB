@@ -1,4 +1,4 @@
-**Deuteronomy 8:9** 
+**Deuteronomy 8:9**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land wherein thou shalt eat bread without scarceness, thou shalt not lack any [thing] in it; a land whose stones [are] iron, and out of whose hills thou mayest dig brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a land where you will eat food without scarcity, where you will lack nothing; a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.8|<< Deuteronomy 8:8]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.10|Deuteronomy 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a land  |**<big>&#8207;[[H0776G\|אֶ֗רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

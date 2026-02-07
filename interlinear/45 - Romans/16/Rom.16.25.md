@@ -1,12 +1,12 @@
-**Romans 16:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:25**<big><big>[[Rom.16.25 Doxology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 <small><sub>**BSB:**</sub></small>
 Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past
 <small><sub>**Literal:**</sub></small>
 {14.24} To Him now being able you to strengthen according to <the> gospel of mine and the preaching of Jesus Christ according to [the] revelation of [the] mystery in times of the ages kept secret,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.24|<< Romans 16:24]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.26|Romans 16:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | {14.24} To Him |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24">NKO</abbr>[^1] | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.24">NKO</abbr>[^2] | |

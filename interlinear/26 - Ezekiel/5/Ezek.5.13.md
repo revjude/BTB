@@ -1,4 +1,4 @@
-**Ezekiel 5:13** 
+**Ezekiel 5:13**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken [it] in my zeal, when I have accomplished my fury in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when My anger is spent and I have vented My wrath against them, I will be ap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.12|<< Ezekiel 5:12]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.14|Ezekiel 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be spent  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3615J\|כָלָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.Lah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger my  |**<big>&#8207;[[H0639G\|אַפִּ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

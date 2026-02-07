@@ -1,4 +1,4 @@
-**Psalms 38:21** (38:22)
+**Psalms 38:21**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forsake me not, O LORD: O my God, be not far from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not forsake me, O LORD; be not far from me, O my God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.20|<< Psalms 38:20]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.22|Psalms 38:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you forsake me  |**<big>&#8207;[[H5800A\|תַּֽעַזְבֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ta.'az.Ve.<small><sup>[[HVqj2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:20** 
 <small><sub>**LXX:**</sub></small>
 And what shall David add yet  to speak to you? And now you know  your servant, O my Lord, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.
-<small><sub>**BSB:**</sub></small>
-What more can David say to You? For You know Your servant, O Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.19|<< 2 Samuel 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.21|2 Samuel 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

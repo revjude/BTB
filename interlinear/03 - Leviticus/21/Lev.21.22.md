@@ -1,4 +1,4 @@
-**Leviticus 21:22** 
+**Leviticus 21:22**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall eat the bread of his God, [both] of the most holy, and of the holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He may eat the most holy food of his God as well as the holy food,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.21|<< Leviticus 21:21]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.23|Leviticus 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] food of  |**<big>&#8207;[[H3899H\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God his  |**<big>&#8207;[[H0430G\|אֱלֹהָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

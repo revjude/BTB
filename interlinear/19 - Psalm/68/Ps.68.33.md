@@ -1,4 +1,4 @@
-**Psalms 68:33** (68:34)
+**Psalms 68:33**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that rideth upon the heavens of heavens, [which were] of old; lo, he doth send out his voice, [and that] a mighty voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to Him who rides upon the highest heavens of old; behold, His mighty voice resou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.32|<< Psalms 68:32]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.34|Psalms 68:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the rider  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H7392\|רֹכֵב]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> ro.khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] heavens of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8064\|שְׁמֵ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

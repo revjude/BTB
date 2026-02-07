@@ -1,4 +1,4 @@
-**Deuteronomy 29:3** (29:2)
+**Deuteronomy 29:3**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great temptations which thine eyes have seen, the signs, and those great miracles:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You saw with your own eyes the great trials, and those miraculous signs and wond
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.2|<< Deuteronomy 29:2]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.4|Deuteronomy 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the trials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4531B\|מַּסּוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.sOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גְּדֹלֹ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

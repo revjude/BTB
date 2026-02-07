@@ -1,5 +1,5 @@
-**Luke 11:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:51**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
 <small><sub>**BSB:**</sub></small>
 from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, all of it will be charged to this generation.
@@ -10,7 +10,7 @@ from the blood of Abel until the blood of Zechariah the [one] having perished be
 > $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.2Chr.24.21|2Chr 24:21-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

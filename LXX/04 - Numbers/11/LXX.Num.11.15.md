@@ -1,10 +1,7 @@
 **LXX Numbers 11:15** 
 <small><sub>**LXX:**</sub></small>
 But if so you do to me, kill me with \[my\] removal, if I have found favor with you, that I should not see  my ill-treatment. 
-<small><sub>**KJV:**</sub></small>
-And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
-<small><sub>**BSB:**</sub></small>
-If this is how You are going to treat me, please kill me right now—if I have found favor in Your eyes—and let me not see my own wretchedness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.14|<< Numbers 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.16|Numbers 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

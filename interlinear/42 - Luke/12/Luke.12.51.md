@@ -1,12 +1,12 @@
-**Luke 12:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:51**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:
 <small><sub>**BSB:**</sub></small>
 Do you think that I have come to bring peace to the earth? No, I tell you, but division.
 <small><sub>**Literal:**</sub></small>
 Think you that peace I came to give on the earth? No, I say to you, but rather division.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.50|<< Luke 12:50]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.52|Luke 12:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Think you |**<big>[[G1380\|δοκεῖτε]]</big>**  |dokeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

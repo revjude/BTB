@@ -1,4 +1,4 @@
-**Deuteronomy 17:7** 
+**Deuteronomy 17:7**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So thou shalt put the evil away from among you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The hands of the witnesses shall be the first in putting him to death, and after
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] hand of  |**<big>&#8207;[[H3027G\|יַ֣ד]]&#8207; </big>**| yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the witnesses  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5707\|עֵדִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

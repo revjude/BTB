@@ -1,4 +1,4 @@
-**Psalms 33:5** 
+**Psalms 33:5**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He loveth righteousness and judgment: the earth is full of the goodness of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD loves righteousness and justice; the earth is full of His loving devoti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.4|<< Psalms 33:4]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.6|Psalms 33:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] loving  |**<big>&#8207;[[H0157G\|אֹ֭הֵב]]&#8207; </big>**| 'O.hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6666\|צְדָקָ֣ה]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samson went down unto Timnath, and he saw a woman in Timnath from the daughters of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
-<small><sub>**BSB:**</sub></small>
-One day Samson went down to Timnah, where he saw a young Philistine woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.25|<< Judges 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.2|Judges 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

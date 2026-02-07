@@ -1,4 +1,4 @@
-**Jeremiah 13:25** 
+**Jeremiah 13:25**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is your lot, the portion I have measured to you,” declares the LORD, “b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.24|<< Jeremiah 13:24]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.26|Jeremiah 13:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] lot your  |**<big>&#8207;[[H1486\|גוֹרָלֵ֧]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| go.ra.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  my hearing  these words, I sat and wept and mourned \[for\] days, and I was fasting and praying before the God  of heaven. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when I heard these words, that I sat down and wept, and mourned [certain] days, and fasted, and prayed before the God of heaven,
-<small><sub>**BSB:**</sub></small>
-When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.3|<< Nehemiah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.5|Nehemiah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

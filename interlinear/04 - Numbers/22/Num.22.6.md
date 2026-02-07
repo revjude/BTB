@@ -1,4 +1,4 @@
-**Numbers 22:6** 
+**Numbers 22:6**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come now therefore, I pray thee, curse me this people; for they [are] too mighty for me: peradventure I shall prevail, [that] we may smite them, and [that] I may drive them out of the land: for I wot that he whom thou blessest [is] blessed, and he whom thou cursest is cursed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So please come now and put a curse on this people, because they are too mighty f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.5|<< Numbers 22:5]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.7|Numbers 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | come !  |**<big>&#8207;[[H1980K\|לְכָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.kha<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

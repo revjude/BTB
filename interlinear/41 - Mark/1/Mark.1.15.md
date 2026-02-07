@@ -1,12 +1,12 @@
-**Mark 1:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:15**<big><big>[[Mark.1.12 The Temptation and Preaching of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
 <small><sub>**BSB:**</sub></small>
 “The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”
 <small><sub>**Literal:**</sub></small>
 and saying that Has been fulfilled the time and has drawn near the kingdom <the> of God; do repent and do believe in the gospel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.14|<< Mark 1:14]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.16|Mark 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

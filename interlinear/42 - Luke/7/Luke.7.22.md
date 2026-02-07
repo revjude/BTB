@@ -1,5 +1,5 @@
-**Luke 7:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:22**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
 <small><sub>**BSB:**</sub></small>
 So He replied, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
@@ -10,7 +10,7 @@ And answering <the> Jesus He said to them; Having gone do relate to John what yo
 > $\quad$ referencing: [[LXX.Isa.26.19|Isa 26:19]] ☩ [[LXX.Isa.29.18|Isa 29:18]] ☩ [[LXX.Isa.35.5|Isa 35:5-6]] ☩ [[LXX.Isa.42.18|Isa 42:18]] ☩ [[LXX.Isa.61.1|Isa 61:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

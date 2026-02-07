@@ -1,10 +1,7 @@
 **LXX Genesis 27:35** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, \[In\] coming,  your brother with cunning took  your blessing. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thy brother came with subtilty, and hath taken away thy blessing.
-<small><sub>**BSB:**</sub></small>
-But Isaac replied, “Your brother came deceitfully and took your blessing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.34|<< Genesis 27:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.36|Genesis 27:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 32:33** 
+**Deuteronomy 32:33**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their wine [is] the poison of dragons, and the cruel venom of asps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their wine is the venom of serpents, the deadly poison of cobras.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.32|<< Deuteronomy 32:32]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.34|Deuteronomy 32:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is the] venom of  |**<big>&#8207;[[H2534\|חֲמַ֥ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | serpents  |**<big>&#8207;[[H8577M\|תַּנִּינִ֖ם]]&#8207; </big>**| ta.ni.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

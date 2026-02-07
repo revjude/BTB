@@ -1,10 +1,7 @@
 **LXX Numbers 14:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, For how long \[does\] this people provoke me? And for how long do they not trust me, for all the signs which I did among them? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses, “How long will this people treat Me with contempt? How long will they refuse to believe in Me, despite all the signs I have performed among them?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.10|<< Numbers 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.12|Numbers 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

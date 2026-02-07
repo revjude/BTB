@@ -1,10 +1,7 @@
 **LXX Isaiah 15:7** 
 <small><sub>**LXX:**</sub></small>
 And shall she thus be about to be delivered? For I shall bring \[the\] Arabians upon the ravine, and they shall take it. 
-<small><sub>**KJV:**</sub></small>
-Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.
-<small><sub>**BSB:**</sub></small>
-So they carry their wealth and belongings over the Brook of the Willows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.6|<< Isaiah 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.8|Isaiah 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

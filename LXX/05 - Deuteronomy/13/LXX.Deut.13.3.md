@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:3** 
 <small><sub>**LXX:**</sub></small>
 You shall not hearken to the words  of that prophet, or the one dreaming  that dream; for \[the\] <span class="smallcaps">lord</span> your God tests you,  to know, if you love \[the\] <span class="smallcaps">lord</span>  your God from your entire heart and from your entire soul. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the LORD your God proveth you, to know whether ye love the LORD your God with all your heart and with all your soul.
-<small><sub>**BSB:**</sub></small>
-you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.2|<< Deuteronomy 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.4|Deuteronomy 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

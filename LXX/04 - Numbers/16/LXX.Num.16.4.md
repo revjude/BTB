@@ -1,10 +1,7 @@
 **LXX Numbers 16:4** 
 <small><sub>**LXX:**</sub></small>
 And hearing, Moses fell upon \[his\] face. 
-<small><sub>**KJV:**</sub></small>
-And when Moses heard [it], he fell upon his face:
-<small><sub>**BSB:**</sub></small>
-When Moses heard this, he fell facedown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.3|<< Numbers 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.5|Numbers 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

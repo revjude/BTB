@@ -1,12 +1,12 @@
-**Mark 1:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:37**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had found him, they said unto him, All [men] seek for thee.
 <small><sub>**BSB:**</sub></small>
 and when they found Him, they said, “Everyone is looking for You!”
 <small><sub>**Literal:**</sub></small>
 and having found Him also they say to Him that Everyone seeks You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.36|<< Mark 1:36]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.38|Mark 1:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having found [^1] |**<big>[[G2147\|εὗρον]]</big>**  |heuron <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

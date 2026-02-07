@@ -1,4 +1,4 @@
-**Exodus 12:2** 
+**Exodus 12:2**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This month [shall be] unto you the beginning of months: it [shall be] the first month of the year to you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This month [shall be] unto you the beginning of months: it [shall be] the first 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.1|<< Exodus 12:1]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.3|Exodus 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the month  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2320G\|חֹ֧דֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

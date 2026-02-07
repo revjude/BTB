@@ -1,12 +1,12 @@
-**Matthew 27:58
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:58**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
 <small><sub>**BSB:**</sub></small>
 He went to Pilate to ask for the body of Jesus, and Pilate ordered that it be given to him.
 <small><sub>**Literal:**</sub></small>
 He having gone <the> to Pilate asked for the body <the> of Jesus. Then <the> Pilate commanded it to be given up the body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.57|<< Matthew 27:57]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.59|Matthew 27:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

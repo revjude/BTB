@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Gehazi went in front of them, and he placed the staff upon \[the\] face of the boy; and there was no sound, and there was no hearing. And he returned to meet him, and he reported to him, saying, the boy was not arisen. 
-<small><sub>**KJV:**</sub></small>
-And Gehazi passed on before them, and laid the staff upon the face of the child; but [there was] neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.
-<small><sub>**BSB:**</sub></small>
-Gehazi went on ahead of them and laid the staff on the boy’s face, but there was no sound or response. So he went back to meet Elisha and told him, “The boy has not awakened.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.30|<< 2 Kings 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.32|2 Kings 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

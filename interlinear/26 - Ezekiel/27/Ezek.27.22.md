@@ -1,4 +1,4 @@
-**Ezekiel 27:22** 
+**Ezekiel 27:22**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The merchants of Sheba and Raamah, they [were] thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The merchants of Sheba and Raamah traded with you; for your wares they exchanged
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.21|<< Ezekiel 27:21]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.23|Ezekiel 27:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] traders of  |**<big>&#8207;[[H7402\|רֹכְלֵ֤י]]&#8207; </big>**| ro.khe.Lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheba  |**<big>&#8207;[[H7614J\|שְׁבָא֙]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

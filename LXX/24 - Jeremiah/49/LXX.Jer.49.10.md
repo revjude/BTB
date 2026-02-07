@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:10** 
 <small><sub>**LXX:**</sub></small>
 For I dragged down  Esau; I uncovered  their hidden \[things\]; in no way shall they be able to hide; they were destroyed by \[the\] hand of his brother, and his neighbor; and he is not. 
-<small><sub>**KJV:**</sub></small>
-But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he [is] not.
-<small><sub>**BSB:**</sub></small>
-But I will strip Esau bare; I will uncover his hiding places, and he will be unable to conceal himself. His descendants will be destroyed along with his relatives and neighbors, and he will be no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.9|<< Jeremiah 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.11|Jeremiah 49:11 >>]]</td></tr></table>
 
 | Translation | Greek |

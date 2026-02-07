@@ -1,4 +1,4 @@
-**Numbers 5:7** 
+**Numbers 5:7**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth [part] thereof, and give [it] unto [him] against whom he hath trespassed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and must confess the sin he has committed. He must make full restitution, add a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.6|<< Numbers 5:6]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.8|Numbers 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will confess  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3034\|הִתְוַדּ֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.va.Du<small><sup>[[HVtq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 26:20** 
+**Leviticus 26:20**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and your strength will be spent in vain. For your land will not yield its produc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.19|<< Leviticus 26:19]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.21|Leviticus 26:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be consumed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8552\|תַ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Tam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> emptiness  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7385\|רִ֖יק]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Rik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 29:7** 
+**1 Samuel 29:7**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore now return, and go in peace, that thou displease not the lords of the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore turn back now and go in peace, so that you will not do anything to dis
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.6|<< 1 Samuel 29:6]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.8|1 Samuel 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | turn back  |**<big>&#8207;[[H7725G\|שׁ֖וּב]]&#8207; </big>**| shuv<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

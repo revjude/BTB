@@ -1,4 +1,4 @@
-**Psalms 138:8** 
+**Psalms 138:8**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will perfect [that which] concerneth me: thy mercy, O LORD, [endureth] for ever: forsake not the works of thine own hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.7|<< Psalms 138:7]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.0|Psalms 139:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will avenge  |**<big>&#8207;[[H1584\|יִגְמֹ֪ר]]&#8207; </big>**| yig.Mor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

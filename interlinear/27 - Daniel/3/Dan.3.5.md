@@ -1,4 +1,4 @@
-**Daniel 3:5** 
+**Daniel 3:5**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.4|<< Daniel 3:4]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.6|Daniel 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at time the  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5732\|עִדָּנָ֡]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> 'i.da.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

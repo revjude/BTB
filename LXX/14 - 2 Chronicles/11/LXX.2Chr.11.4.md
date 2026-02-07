@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:4** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, You shall not ascend, and you shall not wage war against  your brethren. each return to  his house! for this thing took place from me. And they heeded the word of \[the\] <span class="smallcaps">lord</span>, and they turned  to not go against Jeroboam. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam.
-<small><sub>**BSB:**</sub></small>
-that this is what the LORD says: ‘You are not to go up and fight against your brothers. Each of you must return home, for this is My doing.’” So they listened to the words of the LORD and turned back from going against Jeroboam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.3|<< 2 Chronicles 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.5|2 Chronicles 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:24** 
 <small><sub>**LXX:**</sub></small>
 For through messengers you berated \[the\] <span class="smallcaps">lord</span>. For you said, With the multitude  of chariots I shall ascend unto \[the\] height of mountains, and into the ends  of Lebanon; and I felled the height of its cedar, and the beauty of the cypress; and I entered unto \[the\] height of \[the\] portion of the forest; 
-<small><sub>**KJV:**</sub></small>
-By thy servants hast thou reproached the Lord, and hast said, By the multitude of my chariots am I come up to the height of the mountains, to the sides of Lebanon; and I will cut down the tall cedars thereof, [and] the choice fir trees thereof: and I will enter into the height of his border, [and] the forest of his Carmel.
-<small><sub>**BSB:**</sub></small>
-Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest heights, the densest of its forests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.23|<< Isaiah 37:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.25|Isaiah 37:25 >>]]</td></tr></table>
 
 | Translation | Greek |

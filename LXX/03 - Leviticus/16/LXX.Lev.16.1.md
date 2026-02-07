@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses after the coming to an end of the two sons of Aaron in  their offering alien fire before \[the\] <span class="smallcaps">lord</span>, and they came to an end. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
-<small><sub>**BSB:**</sub></small>
-Now the LORD spoke to Moses after the death of two of Aaron’s sons when they approached the presence of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.33|<< Leviticus 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.2|Leviticus 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

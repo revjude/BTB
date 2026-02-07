@@ -1,4 +1,4 @@
-**Leviticus 24:8** 
+**Leviticus 24:8**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every sabbath he shall set it in order before the LORD continually, [being taken] from the children of Israel by an everlasting covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every Sabbath day the bread is to be set out before the LORD on behalf of the Is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.7|<< Leviticus 24:7]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.9|Leviticus 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֨וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַּׁבָּ֜ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 5:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:22**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
 <small><sub>**BSB:**</sub></small>
 A synagogue leader named Jairus arrived, and seeing Jesus, he fell at His feet
 <small><sub>**Literal:**</sub></small>
 And behold comes one of the synagogue rulers, named Jairus; and having seen Him he falls at the feet of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.21|<< Mark 5:21]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.23|Mark 5:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδού]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

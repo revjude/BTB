@@ -1,10 +1,7 @@
 **LXX Proverbs 8:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] fear of \[the\] <span class="smallcaps">lord</span> detests injustice; insolence also, and pride, and \[the\] ways of evil ones; and I have detested \[the\] perverting ways of evil men. 
-<small><sub>**KJV:**</sub></small>
-The fear of the LORD [is] to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
-<small><sub>**BSB:**</sub></small>
-To fear the LORD is to hate evil; I hate arrogant pride, evil conduct, and perverse speech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.12|<< Proverbs 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.14|Proverbs 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

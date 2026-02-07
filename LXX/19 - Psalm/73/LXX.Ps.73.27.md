@@ -1,10 +1,7 @@
 **LXX Psalm 73:27** 
 <small><sub>**LXX:**</sub></small>
 For behold, the ones being far from you by their own \[makings\] shall perish. You utterly destroyed every one  committing harlotry from you. 
-<small><sub>**KJV:**</sub></small>
-For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
-<small><sub>**BSB:**</sub></small>
-Those far from You will surely perish; You destroy all who are unfaithful to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.26|<< Psalm 73:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.28|Psalm 73:28 >>]]</td></tr></table>
 
 | Translation | Greek |

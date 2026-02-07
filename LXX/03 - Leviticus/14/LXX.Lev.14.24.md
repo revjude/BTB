@@ -1,10 +1,7 @@
 **LXX Leviticus 14:24** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take the lamb of the trespass \[offering\], and the small cup of the olive oil, \[and\] he shall place them for an increase \[offering\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them [for] a wave offering before the LORD:
-<small><sub>**BSB:**</sub></small>
-The priest shall take the lamb for the guilt offering, along with the log of olive oil, and wave them as a wave offering before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.23|<< Leviticus 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.25|Leviticus 14:25 >>]]</td></tr></table>
 
 | Translation | Greek |

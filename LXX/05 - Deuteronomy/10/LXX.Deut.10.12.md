@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:12** 
 <small><sub>**LXX:**</sub></small>
 And now, Israel, what does \[the\] <span class="smallcaps">lord</span>  your God ask from you, but only to fear \[the\] <span class="smallcaps">lord</span>  your God, and to go in all  his ways, and to love him, and to serve \[the\] <span class="smallcaps">lord</span>  your God from your entire heart, and from your entire soul; 
-<small><sub>**KJV:**</sub></small>
-And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,
-<small><sub>**BSB:**</sub></small>
-And now, O Israel, what does the LORD your God ask of you but to fear the LORD your God by walking in all His ways, to love Him, to serve the LORD your God with all your heart and with all your soul,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.11|<< Deuteronomy 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.13|Deuteronomy 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

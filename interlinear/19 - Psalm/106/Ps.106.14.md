@@ -1,4 +1,4 @@
-**Psalms 106:14** 
+**Psalms 106:14**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But lusted exceedingly in the wilderness, and tempted God in the desert.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They craved intensely in the wilderness and tested God in the desert.
 > $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they craved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0183\|יִּתְאַוּ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Vu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a craving  |**<big>&#8207;[[H8378\|תַ֭אֲוָה]]&#8207; </big>**| Ta.'a.vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

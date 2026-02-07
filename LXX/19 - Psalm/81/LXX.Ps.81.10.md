@@ -1,10 +1,7 @@
 **LXX Psalm 81:10** 
 <small><sub>**LXX:**</sub></small>
 For I am \[the\] <span class="smallcaps">lord</span>  your God; the one leading you from out of \[the\] land of Egypt. Widen  your mouth! and I shall fill it. 
-<small><sub>**KJV:**</sub></small>
-I [am] the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.
-<small><sub>**BSB:**</sub></small>
-I am the LORD your God, who brought you up out of Egypt. Open wide your mouth, and I will fill it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.9|<< Psalm 81:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.11|Psalm 81:11 >>]]</td></tr></table>
 
 | Translation | Greek |

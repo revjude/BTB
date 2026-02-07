@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it happened as the priests came forth from out of the holy place, that the cloud filled the house. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the priests were come out of the holy [place], that the cloud filled the house of the LORD,
-<small><sub>**BSB:**</sub></small>
-And when the priests came out of the Holy Place, the cloud filled the house of the LORD<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.9|<< 1 Kings 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.11|1 Kings 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

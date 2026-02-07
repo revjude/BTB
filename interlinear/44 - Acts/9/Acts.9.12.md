@@ -1,12 +1,12 @@
-**Acts 9:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:12**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hath seen in a vision a man named Ananias coming in, and putting [his] hand on him, that he might receive his sight.
 <small><sub>**BSB:**</sub></small>
 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”
 <small><sub>**Literal:**</sub></small>
 and he saw a man in a vision Ananias named having come and having put on him the hands, so that he may see again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.11|<< Acts 9:11]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.13|Acts 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he saw |**<big>[[G1492H\|εἶδεν]]</big>**  |eiden <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:22** 
 <small><sub>**LXX:**</sub></small>
 Hear, O son, \[the\] father  engendering you, and do not disdain that your mother has grown old! 
-<small><sub>**KJV:**</sub></small>
-Hearken unto thy father that begat thee, and despise not thy mother when she is old.
-<small><sub>**BSB:**</sub></small>
-Listen to your father who gave you life, and do not despise your mother when she is old.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.21|<< Proverbs 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.23|Proverbs 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

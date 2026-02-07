@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:10** 
 <small><sub>**LXX:**</sub></small>
 Do not weep for the one having died, nor lament him! Weep! by weeping for the one going forth, for he shall not return again, nor shall he see the land of his fatherland. 
-<small><sub>**KJV:**</sub></small>
-Weep ye not for the dead, neither bemoan him: [but] weep sore for him that goeth away: for he shall return no more, nor see his native country.
-<small><sub>**BSB:**</sub></small>
-Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him who is exiled, for he will never return to see his native land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

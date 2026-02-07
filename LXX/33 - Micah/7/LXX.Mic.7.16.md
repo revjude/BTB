@@ -1,10 +1,7 @@
 **LXX Micah 7:16** 
 <small><sub>**LXX:**</sub></small>
 Nations shall see and shall be disgraced, even of all  their strength. They shall place hands over  their mouth,  their ears shall be deafened. 
-<small><sub>**KJV:**</sub></small>
-The nations shall see and be confounded at all their might: they shall lay [their] hand upon [their] mouth, their ears shall be deaf.
-<small><sub>**BSB:**</sub></small>
-Nations will see and be ashamed, deprived of all their might. They will put their hands over their mouths, and their ears will become deaf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.15|<< Micah 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.17|Micah 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

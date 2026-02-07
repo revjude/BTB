@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΑΙΝ</p>
 
 Over these things I weep;  my eye led down water, For far from me \[is\] the one comforting me, the \[one\] restoring my soul. My sons were obliterated, for the enemy conquered. 
-<small><sub>**KJV:**</sub></small>
-For these [things] I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
-<small><sub>**BSB:**</sub></small>
-For these things I weep; my eyes flow with tears. For there is no one nearby to comfort me, no one to revive my soul. My children are destitute because the enemy has prevailed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.15|<< Lamentations 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.17|Lamentations 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

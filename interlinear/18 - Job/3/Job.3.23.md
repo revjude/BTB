@@ -1,4 +1,4 @@
-**Job 3:23** 
+**Job 3:23**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Why is light given] to a man whose way is hid, and whom God hath hedged in?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why is life given to a man whose way is hidden, whom God has hedged in?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.22|<< Job 3:22]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.24|Job 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to a man  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H1397\|גֶבֶר]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 42:12** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, No, but you came to see the tracks of the land. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Nay, but to see the nakedness of the land ye are come.
-<small><sub>**BSB:**</sub></small>
-“No,” he told them. “You have come to see if our land is vulnerable.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.11|<< Genesis 42:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.13|Genesis 42:13 >>]]</td></tr></table>
 
 | Translation | Greek |

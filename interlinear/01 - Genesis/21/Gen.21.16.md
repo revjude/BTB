@@ -1,4 +1,4 @@
-**Genesis 21:16** 
+**Genesis 21:16**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she went, and sat her down over against [him] a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against [him], and lift up her voice, and wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she went off and sat down nearby, about a bowshot away, for she said, “I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.15|<< Genesis 21:15]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.17|Genesis 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּלֶךְ֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.leKh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she sat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|תֵּ֨שֶׁב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.shev<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 10:28
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:28**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth [is] the Lord’s, and the fulness thereof:
 <small><sub>**BSB:**</sub></small>
 But if someone tells you, “This food was offered to idols,” then do not eat it, for the sake of the one who told you and for the sake of conscience—
 <small><sub>**Literal:**</sub></small>
 If however anyone to you shall say; This temple-sacrifice is, not do eat on account of him which having shown [it] and <the> conscience; of the for Lord [is] the earth and the fullness of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.27|<< 1 Corinthians 10:27]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.29|1 Corinthians 10:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

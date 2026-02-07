@@ -1,5 +1,5 @@
-**Revelation 22:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:1**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 <small><sub>**BSB:**</sub></small>
 Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb
@@ -10,7 +10,7 @@ And he showed me a river pure of water of life, clear as crystal, flowing out of
 > $\quad$ alluding to: [[LXX.Ezek.47.1|Ezek 47:1]] ☩ [[LXX.Ezek.47.7|Ezek 47:7]] ☩ [[LXX.Ezek.47.12|Ezek 47:12]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he showed |**<big>[[G1166\|ἔδειξέν]]</big>**  |edeixen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

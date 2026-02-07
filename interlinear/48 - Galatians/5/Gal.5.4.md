@@ -1,12 +1,12 @@
-**Galatians 5:4
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:4**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.
 <small><sub>**BSB:**</sub></small>
 You who are trying to be justified by the law have been severed from Christ; you have fallen away from grace.
 <small><sub>**Literal:**</sub></small>
 You are severed from <the> Christ whoever in [the] Law are being justified, <the> from grace you have fallen away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.3|<< Galatians 5:3]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.5|Galatians 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You are severed |**<big>[[G2673\|κατηργήθητε]]</big>**  |katērgēthēte <small><sup>[[V-API-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

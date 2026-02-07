@@ -1,10 +1,7 @@
 **LXX Numbers 22:10** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to  God, Balak son of Zippor king of Moab sent them to me, saying, 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, [saying],
-<small><sub>**BSB:**</sub></small>
-And Balaam said to God, “Balak son of Zippor, king of Moab, sent me this message:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.9|<< Numbers 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.11|Numbers 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

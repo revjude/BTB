@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall be to me for a people, and I shall be to you for Lord. 
-<small><sub>**KJV:**</sub></small>
-And ye shall be my people, and I will be your God.
-<small><sub>**BSB:**</sub></small>
-“And you will be My people, and I will be your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.21|<< Jeremiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.23|Jeremiah 30:23 >>]]</td></tr></table>
 
 | Translation | Greek |

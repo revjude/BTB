@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:21** 
 <small><sub>**LXX:**</sub></small>
 And he said to the man  of God, the one having come from out of Judah, saying, Thus says \[the\] <span class="smallcaps">lord</span>, Because you rebelled against the saying of \[the\] <span class="smallcaps">lord</span>, and did not guard the commandment which \[the\] <span class="smallcaps">lord</span> your God gave charge to you, 
-<small><sub>**KJV:**</sub></small>
-And he cried unto the man of God that came from Judah, saying, Thus saith the LORD, Forasmuch as thou hast disobeyed the mouth of the LORD, and hast not kept the commandment which the LORD thy God commanded thee,
-<small><sub>**BSB:**</sub></small>
-and the prophet cried out to the man of God who had come from Judah, “This is what the LORD says: ‘Because you have defied the word of the LORD and have not kept the commandment that the LORD your God gave you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.20|<< 1 Kings 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.22|1 Kings 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

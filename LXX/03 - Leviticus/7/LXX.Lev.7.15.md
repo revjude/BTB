@@ -1,10 +1,7 @@
 **LXX Leviticus 7:15** 
 <small><sub>**LXX:**</sub></small>
 And the meats of \[the\] sacrifice of praise of deliverance, it will be his. And in the day it is presented, it shall be eaten. They shall not leave behind of it into the morning. 
-<small><sub>**KJV:**</sub></small>
-And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.
-<small><sub>**BSB:**</sub></small>
-The meat of the sacrifice of his peace offering of thanksgiving must be eaten on the day he offers it; none of it may be left until morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.14|<< Leviticus 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.16|Leviticus 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

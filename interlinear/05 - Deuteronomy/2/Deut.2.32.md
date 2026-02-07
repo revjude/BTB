@@ -1,4 +1,4 @@
-**Deuteronomy 2:32** 
+**Deuteronomy 2:32**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Sihon came out against us, he and all his people, to fight at Jahaz.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Sihon and his whole army came out for battle against us at Jahaz.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.31|<< Deuteronomy 2:31]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.33|Deuteronomy 2:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sihon  |**<big>&#8207;[[H5511\|סִיחֹ֨ן]]&#8207; </big>**| si.Chon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

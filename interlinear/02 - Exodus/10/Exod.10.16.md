@@ -1,4 +1,4 @@
-**Exodus 10:16** 
+**Exodus 10:16**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.15|<< Exodus 10:15]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.17|Exodus 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he hurried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|יְמַהֵ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Her<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֔ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

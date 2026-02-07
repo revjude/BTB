@@ -1,10 +1,7 @@
 **LXX Psalm 58:11** 
 <small><sub>**LXX:**</sub></small>
 And a man shall say,  There is fruit to the just; there is  God judging them in the earth. 
-<small><sub>**KJV:**</sub></small>
-So that a man shall say, Verily [there is] a reward for the righteous: verily he is a God that judgeth in the earth.
-<small><sub>**BSB:**</sub></small>
-Then men will say, “There is surely a reward for the righteous! There is surely a God who judges the earth!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.10|<< Psalm 58:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.1|Psalm 59:1 >>]]</td></tr></table>
 
 | Translation | Greek |

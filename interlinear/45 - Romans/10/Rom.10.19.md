@@ -1,5 +1,5 @@
-**Romans 10:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:19**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by [them that are] no people, [and] by a foolish nation I will anger you.
 <small><sub>**BSB:**</sub></small>
 I ask instead, did Israel not understand? First, Moses says: “I will make you jealous by those who are not a nation; I will make you angry by a nation without understanding.”
@@ -10,7 +10,7 @@ But I ask; surely not Israel not did know First Moses says: I myself will provok
 > $\quad$ referencing: [[LXX.Deut.32.21|Deut 32:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I ask; |**<big>[[G3004G\|λέγω·]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

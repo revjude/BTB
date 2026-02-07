@@ -1,4 +1,4 @@
-**Deuteronomy 25:8** 
+**Deuteronomy 25:8**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the elders of his city shall call him, and speak unto him: and [if] he stand [to it], and say, I like not to take her;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the elders of his city shall summon him and speak with him. If he persists 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.7|<< Deuteronomy 25:7]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.9|Deuteronomy 25:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will summon  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121G\|קָֽרְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.re.'u-<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> \<the> him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

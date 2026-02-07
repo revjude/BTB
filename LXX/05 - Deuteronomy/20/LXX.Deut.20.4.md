@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:4** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span>  your God, the one going forth with you, he shall join in war with you \[against\] your enemies, and he shall preserve you. 
-<small><sub>**KJV:**</sub></small>
-For the LORD your God [is] he that goeth with you, to fight for you against your enemies, to save you.
-<small><sub>**BSB:**</sub></small>
-For the LORD your God goes with you to fight for you against your enemies, to give you the victory.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.3|<< Deuteronomy 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.5|Deuteronomy 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

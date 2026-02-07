@@ -1,4 +1,4 @@
-**Psalms 35:26** 
+**Psalms 35:26**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify [themselves] against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who gloat in my distress be ashamed and confounded; may those who exal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.25|<< Psalms 35:25]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.27|Psalms 35:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵ֘בֹ֤שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may be abashed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2659\|יַחְפְּר֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yach.pe.Ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

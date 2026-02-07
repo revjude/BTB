@@ -1,4 +1,4 @@
-**Proverbs 10:16** 
+**Proverbs 10:16**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The labour of the righteous [tendeth] to life: the fruit of the wicked to sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The labor of the righteous leads to life, but the gain of the wicked brings puni
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.15|<< Proverbs 10:15]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.17|Proverbs 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] reward of  |**<big>&#8207;[[H6468\|פְּעֻלַּ֣ת]]&#8207; </big>**| pe.'u.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֣יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

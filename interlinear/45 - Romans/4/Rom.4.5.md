@@ -1,12 +1,12 @@
-**Romans 4:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:5**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.
 <small><sub>**BSB:**</sub></small>
 However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness.
 <small><sub>**Literal:**</sub></small>
 To the [one] however not working, believing however on the [One] justifying the ungodly, is reckoned the faith of him for righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.4|<< Romans 4:4]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.6|Romans 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the [one] |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

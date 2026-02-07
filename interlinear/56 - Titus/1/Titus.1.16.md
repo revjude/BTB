@@ -1,12 +1,12 @@
-**Titus 1:16
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:16**<big><big>[[Titus.1.10 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They profess that they know God; but in works they deny [him], being abominable, and disobedient, and unto every good work reprobate.
 <small><sub>**BSB:**</sub></small>
 They profess to know God, but by their actions they deny Him. They are detestable, disobedient, and unfit for any good deed.
 <small><sub>**Literal:**</sub></small>
 God they profess to know, <the> however by [their] works they deny [Him] detestable being and disobedient and for any work good unfit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.15|<< Titus 1:15]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.1|Titus 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God |**<big>[[G2316\|θεὸν]]</big>**  |theon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they profess |**<big>[[G3670\|ὁμολογοῦσιν]]</big>**  |homologousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

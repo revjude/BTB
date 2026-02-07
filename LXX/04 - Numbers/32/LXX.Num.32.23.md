@@ -1,10 +1,7 @@
 **LXX Numbers 32:23** 
 <small><sub>**LXX:**</sub></small>
 But if you should not do so, you shall sin before \[the\] <span class="smallcaps">lord</span>; and you shall know  your sin, whenever bad \[things\] should overtake you. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.
-<small><sub>**BSB:**</sub></small>
-But if you do not do this, you will certainly sin against the LORD—and be assured that your sin will find you out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.22|<< Numbers 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.24|Numbers 32:24 >>]]</td></tr></table>
 
 | Translation | Greek |

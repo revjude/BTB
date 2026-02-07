@@ -1,10 +1,7 @@
 **LXX Psalm 103:11** 
 <small><sub>**LXX:**</sub></small>
 For as the height of the heaven from the earth, \[so the\] <span class="smallcaps">lord</span> fortified  his mercy upon the ones fearing him. 
-<small><sub>**KJV:**</sub></small>
-For as the heaven is high above the earth, [so] great is his mercy toward them that fear him.
-<small><sub>**BSB:**</sub></small>
-For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.10|<< Psalm 103:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.12|Psalm 103:12 >>]]</td></tr></table>
 
 | Translation | Greek |

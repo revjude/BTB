@@ -1,5 +1,5 @@
-**Acts 13:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:22**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the [son] of Jesse, a man after mine own heart, which shall fulfil all my will.
 <small><sub>**BSB:**</sub></small>
 After removing Saul, He raised up David as their king and testified about him: ‘I have found David son of Jesse a man after My own heart; he will carry out My will in its entirety.’
@@ -11,7 +11,7 @@ And having removed him He raised up <the> David to them as king, to whom also He
 > $\quad$ alluding to: [[LXX.1Chr.10.14|1Chr 10:14]] ☩ [[LXX.Isa.44.28|Isa 44:28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having removed |**<big>[[G3179\|μεταστήσας]]</big>**  |metastēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

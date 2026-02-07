@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:19** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Joash, and all as many \[things\] as he did, behold \[are\] not these written upon \[the\] scroll of \[the\] words of the days of the kings of Judah? 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Joash, and all that he did, [are] they not written in the book of the chronicles of the kings of Judah?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Joash, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.18|<< 2 Kings 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.20|2 Kings 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

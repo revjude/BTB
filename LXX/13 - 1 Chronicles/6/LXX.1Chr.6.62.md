@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:62** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Gershon according to their kin from \[the\] tribe of Issachar, and from \[the\] tribe of Asher, and from \[the\] tribe of Naphtali, and from \[the\] tribe of Manasseh, in  Bashan -- thirteen cities. 
-<small><sub>**KJV:**</sub></small>
-And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
-<small><sub>**BSB:**</sub></small>
-The Gershomites, according to their clans, were allotted thirteen cities from the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.61|<< 1 Chronicles 6:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.63|1 Chronicles 6:63 >>]]</td></tr></table>
 
 | Translation | Greek |

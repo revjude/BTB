@@ -1,10 +1,7 @@
 **LXX Isaiah 29:4** 
 <small><sub>**LXX:**</sub></small>
 And your words shall be abased unto the ground. And unto the ground  your words shall go down. And your voice will be as the ones speaking out loud from out of the earth; and to the ground  your voice shall weaken. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt be brought down, [and] shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
-<small><sub>**BSB:**</sub></small>
-You will be brought low, you will speak from the ground, and out of the dust your words will be muffled. Your voice will be like a spirit from the ground; your speech will whisper out of the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.3|<< Isaiah 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.5|Isaiah 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

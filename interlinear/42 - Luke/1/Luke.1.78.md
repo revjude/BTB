@@ -1,5 +1,5 @@
-**Luke 1:78
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:78**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Through the tender mercy of our God; whereby the dayspring from on high hath visited us,
 <small><sub>**BSB:**</sub></small>
 because of the tender mercy of our God, by which the Dawn will visit us from on high,
@@ -10,7 +10,7 @@ through [the] affections of compassion of God of us in which will visit us [the]
 > $\quad$ alluding to: [[LXX.Num.24.17|Num 24:17]] ☩ [[LXX.Mal.4.2|Mal 4:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] affections |**<big>[[G4698\|σπλάγχνα]]</big>**  |splagchna <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

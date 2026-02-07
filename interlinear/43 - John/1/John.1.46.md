@@ -1,12 +1,12 @@
-**John 1:46
-**<small><sub>**KJV:**</sub></small>
+**John 1:46**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 <small><sub>**BSB:**</sub></small>
 “Can anything good come from Nazareth?” Nathanael asked. “Come and see,” said Philip.
 <small><sub>**Literal:**</sub></small>
 And said to him Nathanael; Out of Nazareth is able any good thing to be? Says to him <the> Philip; do come and do see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.45|<< John 1:45]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.47|John 1:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Amos 3:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>  God, Tyre and round about  your land shall be made desolate; and he shall lead out of you  your strength, and shall tear in pieces  your regions. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; An adversary [there shall be] even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: “An enemy will surround the land; he will pull down your strongholds and plunder your citadels.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.10|<< Amos 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.12|Amos 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

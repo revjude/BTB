@@ -1,12 +1,12 @@
-**Matthew 11:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:4**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Go back and report to John what you hear and see:
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus said to them; Having gone do relate to John what you hear and see:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.3|<< Matthew 11:3]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.5|Matthew 11:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

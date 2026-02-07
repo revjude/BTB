@@ -1,6 +1,6 @@
 (KJV) **Psalm 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37|<< Psalm 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39|Psalm 39 >>]]</td></tr></table>
 
-***Do Not Rebuke Me in Your Anger*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.6|Psalms 6:1–10]] ]</sup></small> ^bsb1331
+<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥃]]</big></big>***Do Not Rebuke Me in Your Anger*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.6|Psalms 6:1–10]] ]</sup></small>
 
 
 

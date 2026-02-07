@@ -1,4 +1,4 @@
-**1 Chronicles 4:10** 
+**1 Chronicles 4:10**<big><big>[[1Chr.4.9 The Prayer of Jabez|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep [me] from evil, that it may not grieve me! And God granted him that which he requested.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jabez called out to the God of Israel, “If only You would bless me and enl
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.9|<< 1 Chronicles 4:9]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.11|1 Chronicles 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jabez  |**<big>&#8207;[[H3258H\|יַ֠עְבֵּץ]]&#8207; </big>**| Ya'.betz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ecclesiastes 8:2** 
+**Ecclesiastes 8:2**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [counsel thee] to keep the king’s commandment, and [that] in regard of the oath of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep the king’s command, I say, because of your oath before God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.1|<< Ecclesiastes 8:1]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.3|Ecclesiastes 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310I\|פִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

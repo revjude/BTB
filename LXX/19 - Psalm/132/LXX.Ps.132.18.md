@@ -1,10 +1,7 @@
 **LXX Psalm 132:18** 
 <small><sub>**LXX:**</sub></small>
  His enemies I will clothe \[with\] shame; but upon him my sanctification shall blossom. 
-<small><sub>**KJV:**</sub></small>
-His enemies will I clothe with shame: but upon himself shall his crown flourish.
-<small><sub>**BSB:**</sub></small>
-I will clothe his enemies with shame, but the crown upon him will gleam.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.17|<< Psalm 132:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.133.1|Psalm 133:1 >>]]</td></tr></table>
 
 | Translation | Greek |

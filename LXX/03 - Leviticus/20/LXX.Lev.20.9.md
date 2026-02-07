@@ -1,10 +1,7 @@
 **LXX Leviticus 20:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] man, a man who ever should speak wickedly  of his father or  his mother, unto death let him be put to death! he spoke wickedly of his father or of his mother, he shall be liable 
-<small><sub>**KJV:**</sub></small>
-For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood [shall be] upon him.
-<small><sub>**BSB:**</sub></small>
-If anyone curses his father or mother, he must be put to death. He has cursed his father or mother; his blood shall be upon him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.8|<< Leviticus 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.10|Leviticus 20:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 20:9** is...

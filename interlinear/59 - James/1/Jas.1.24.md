@@ -1,12 +1,12 @@
-**James 1:24
-**<small><sub>**KJV:**</sub></small>
+**James 1:24**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 <small><sub>**BSB:**</sub></small>
 and after observing himself goes away and immediately forgets what he looks like.
 <small><sub>**Literal:**</sub></small>
 he has viewed for himself and has gone away and immediately he has forgotten what like he was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.23|<< James 1:23]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.25|James 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has viewed |**<big>[[G2657\|κατενόησεν]]</big>**  |katenoēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

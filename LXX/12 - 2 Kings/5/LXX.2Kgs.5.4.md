@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:4** 
 <small><sub>**LXX:**</sub></small>
 And she entered and reported it \[to\] her master, and she said, Thus and thus says the young woman  from out of \[the\] land of Israel. 
-<small><sub>**KJV:**</sub></small>
-And [one] went in, and told his lord, saying, Thus and thus said the maid that [is] of the land of Israel.
-<small><sub>**BSB:**</sub></small>
-And Naaman went and told his master what the girl from the land of Israel had said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.3|<< 2 Kings 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.5|2 Kings 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

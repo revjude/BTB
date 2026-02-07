@@ -1,4 +1,4 @@
-**Ezekiel 11:8** 
+**Ezekiel 11:8**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have feared the sword; and I will bring a sword upon you, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You fear the sword, so I will bring the sword against you, declares the Lord GOD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.7|<< Ezekiel 11:7]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.9|Ezekiel 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֖רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have feared  |**<big>&#8207;[[H3372G\|יְרֵאתֶ֑ם]]&#8207; </big>**| ye.re.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

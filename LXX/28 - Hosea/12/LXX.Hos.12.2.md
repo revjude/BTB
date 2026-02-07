@@ -1,10 +1,7 @@
 **LXX Hosea 12:2** 
 <small><sub>**LXX:**</sub></small>
 And there is a case with the <span class="smallcaps">lord</span> against Judah,  to punish  Jacob; according to  his ways and according to  his practices he will recompense to him. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.
-<small><sub>**BSB:**</sub></small>
-The LORD has a charge to bring against Judah. He will punish Jacob according to his ways and repay him according to his deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.1|<< Hosea 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.3|Hosea 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

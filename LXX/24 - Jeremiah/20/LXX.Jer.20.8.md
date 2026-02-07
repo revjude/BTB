@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:8** 
 <small><sub>**LXX:**</sub></small>
 For I shall laugh \[with\] my bitter word, I will call upon rebellion and misery; for the word \[of the\] <span class="smallcaps">lord</span> became for scorning to me, and for taunting all day. 
-<small><sub>**KJV:**</sub></small>
-For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily.
-<small><sub>**BSB:**</sub></small>
-For whenever I speak, I cry out; I proclaim violence and destruction. For the word of the LORD has become to me a reproach and derision all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.7|<< Jeremiah 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.9|Jeremiah 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

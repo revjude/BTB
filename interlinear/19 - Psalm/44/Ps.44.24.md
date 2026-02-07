@@ -1,4 +1,4 @@
-**Psalms 44:24** (44:25)
+**Psalms 44:24**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore hidest thou thy face, [and] forgettest our affliction and our oppression?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do You hide Your face and forget our affliction and oppression?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.23|<< Psalms 44:23]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.25|Psalms 44:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H4100\|מָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face your  |**<big>&#8207;[[H6440H\|פָנֶ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

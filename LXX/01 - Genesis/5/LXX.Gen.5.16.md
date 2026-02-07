@@ -1,10 +1,7 @@
 **LXX Genesis 5:16** 
 <small><sub>**LXX:**</sub></small>
 And Mahalaleel lived after  his procreating  Jared, thirty and seven hundred years, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.15|<< Genesis 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.17|Genesis 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

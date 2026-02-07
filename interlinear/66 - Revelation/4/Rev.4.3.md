@@ -1,5 +1,5 @@
-**Revelation 4:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:3**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that sat was to look upon like a jasper and a sardine stone: and [there was] a rainbow round about the throne, in sight like unto an emerald.
 <small><sub>**BSB:**</sub></small>
 The One seated there looked like jasper and carnelian, and a rainbow that gleamed like an emerald encircled the throne.
@@ -10,7 +10,7 @@ and the [One] sitting was like in appearance stone jasper and sardius And a rain
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

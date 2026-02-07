@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 20:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that there was still war in Gezer with the Philistines. Then Sibbechai the Hushathite struck  Sippai of the sons of the giants, and abased him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, [that was] of the children of the giant: and they were subdued.
-<small><sub>**BSB:**</sub></small>
-Some time later, war broke out with the Philistines at Gezer. At that time Sibbecai the Hushathite killed Sippai, a descendant of the Rephaim, and the Philistines were subdued.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.3|<< 1 Chronicles 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.5|1 Chronicles 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

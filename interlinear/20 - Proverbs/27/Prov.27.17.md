@@ -1,4 +1,4 @@
-**Proverbs 27:17** 
+**Proverbs 27:17**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As iron sharpens iron, so one man sharpens another.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.16|<< Proverbs 27:16]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.18|Proverbs 27:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | iron  |**<big>&#8207;[[H1270\|בַּרְזֶ֣ל]]&#8207; </big>**| bar.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by iron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1270\|בַרְזֶ֣ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 119:23** 
+**Psalms 119:23**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Princes also did sit [and] speak against me: [but] thy servant did meditate in thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though rulers sit and slander me, Your servant meditates on Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.22|<< Psalms 119:22]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.24|Psalms 119:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they sit  |**<big>&#8207;[[H3427\|יָֽשְׁב֣וּ]]&#8207; </big>**| ya.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

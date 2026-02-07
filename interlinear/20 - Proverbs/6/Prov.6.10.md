@@ -1,4 +1,4 @@
-**Proverbs 6:10** 
+**Proverbs 6:10**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] a little sleep, a little slumber, a little folding of the hands to sleep:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A little sleep, a little slumber, a little folding of the hands to rest,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.9|<< Proverbs 6:9]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.11|Proverbs 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a little of  |**<big>&#8207;[[H4592\|מְעַ֣ט]]&#8207; </big>**| me.'At<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sleep\<s>  |**<big>&#8207;[[H8142\|שֵׁ֭נוֹת]]&#8207; </big>**| She.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

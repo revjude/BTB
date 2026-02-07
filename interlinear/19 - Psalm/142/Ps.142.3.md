@@ -1,4 +1,4 @@
-**Psalms 142:3** (142:4)
+**Psalms 142:3**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although my spirit grows faint within me, You know my way. Along the path I trav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.2|<< Psalms 142:2]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.4|Psalms 142:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when faints away  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5848C\|הִתְעַטֵּ֬ף]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hit.'a.Tef<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֨]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

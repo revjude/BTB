@@ -1,4 +1,4 @@
-**1 Kings 3:15** 
+**1 Kings 3:15**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon awoke; and, behold, [it was] a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.14|<< 1 Kings 3:14]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.16|1 Kings 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he awoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3364\|יִּקַ֥ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Katz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֖ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

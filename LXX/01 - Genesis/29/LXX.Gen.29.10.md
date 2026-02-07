@@ -1,10 +1,7 @@
 **LXX Genesis 29:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Jacob saw  Rachel, the daughter of Laban, brother  of his mother, and the sheep of Laban, the brother  of his mother; and coming forward, Jacob rolled away the stone from the mouth of the well. And he watered the sheep of Laban, the brother  of his mother. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.
-<small><sub>**BSB:**</sub></small>
-As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.9|<< Genesis 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.11|Genesis 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

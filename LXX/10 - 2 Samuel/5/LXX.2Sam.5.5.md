@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:5** 
 <small><sub>**LXX:**</sub></small>
 Seven years and six months he reigned in Hebron over Judah. And thirty three years he reigned over all Israel and Judah in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
-<small><sub>**BSB:**</sub></small>
-In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.4|<< 2 Samuel 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.6|2 Samuel 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

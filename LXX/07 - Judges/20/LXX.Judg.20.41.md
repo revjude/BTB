@@ -1,10 +1,7 @@
 **LXX Judges 20:41** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel turned. And \[the\] man of Benjamin hastened, for he beheld that a bad \[thing\] has touched him. 
-<small><sub>**KJV:**</sub></small>
-And when the men of Israel turned again, the men of Benjamin were amazed: for they saw that evil was come upon them.
-<small><sub>**BSB:**</sub></small>
-Then the men of Israel turned back on them, and the men of Benjamin were terrified when they realized that disaster had come upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.40|<< Judges 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.42|Judges 20:42 >>]]</td></tr></table>
 
 | Translation | Greek |

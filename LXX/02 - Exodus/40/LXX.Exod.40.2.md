@@ -1,10 +1,7 @@
 **LXX Exodus 40:2** 
 <small><sub>**LXX:**</sub></small>
 On day one of the month of the first new moon, you shall set up the tent of the testimony, 
-<small><sub>**KJV:**</sub></small>
-On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.
-<small><sub>**BSB:**</sub></small>
-“On the first day of the first month you are to set up the tabernacle, the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.1|<< Exodus 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.3|Exodus 40:3 >>]]</td></tr></table>
 
 | Translation | Greek |

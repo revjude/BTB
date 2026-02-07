@@ -1,12 +1,12 @@
-**Mark 5:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:31**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
 <small><sub>**BSB:**</sub></small>
 His disciples answered, “You can see the crowd pressing in on You, and yet You ask, ‘Who touched Me?’”
 <small><sub>**Literal:**</sub></small>
 And were saying to Him the disciples of Him; You see the crowd pressing in on You and You say Who Me touched?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.30|<< Mark 5:30]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.32|Mark 5:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

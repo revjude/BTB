@@ -1,4 +1,4 @@
-**Leviticus 23:37** 
+**Leviticus 23:37**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the LORD’s appointed feasts, which you are to proclaim as sacred ass
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.36|<< Leviticus 23:36]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.38|Leviticus 23:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] appointed feasts of  |**<big>&#8207;[[H4150H\|מוֹעֲדֵ֣י]]&#8207; </big>**| mo.'a.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

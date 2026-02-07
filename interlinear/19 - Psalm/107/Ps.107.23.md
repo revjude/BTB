@@ -1,4 +1,4 @@
-**Psalms 107:23** 
+**Psalms 107:23**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that go down to the sea in ships, that do business in great waters;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Others went out to sea in ships, conducting trade on the mighty waters.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.22|<< Psalms 107:22]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.24|Psalms 107:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] went down  |**<big>&#8207;[[H3381\|יוֹרְדֵ֣י]]&#8207; </big>**| yor.Dei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> the sea  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3220G\|יָּם]]&#8207; </big>**| Hai.<small><sup>[[HTd]]</sup></small> yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

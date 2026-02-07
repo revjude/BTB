@@ -1,10 +1,7 @@
 **LXX Daniel 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the king said to them, I dreamed, and it startled  my spirit \[so as\] to know the dream. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.
-<small><sub>**BSB:**</sub></small>
-he said to them, “I have had a dream, and my spirit is anxious to understand it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.2|<< Daniel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.4|Daniel 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 23:7** 
+**Numbers 23:7**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, [saying], Come, curse me Jacob, and come, defy Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Balaam lifted up an oracle, saying: “Balak brought me from Aram, the king 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.6|<< Numbers 23:6]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.8|Numbers 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375N\|יִּשָּׂ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oracle his  |**<big>&#8207;[[H4912\|מְשָׁל֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| me.sha.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

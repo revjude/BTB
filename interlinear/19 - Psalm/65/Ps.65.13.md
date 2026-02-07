@@ -1,4 +1,4 @@
-**Psalms 65:13** (65:14)
+**Psalms 65:13**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The pastures are clothed with flocks, and the valleys are decked with grain. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.12|<< Psalms 65:12]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.0|Psalms 66:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are clothed  |**<big>&#8207;[[H3847\|לָבְשׁ֬וּ]]&#8207; </big>**| la.ve.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pastures  |**<big>&#8207;[[H3733B\|כָרִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

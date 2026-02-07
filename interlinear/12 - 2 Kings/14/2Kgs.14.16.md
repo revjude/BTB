@@ -1,4 +1,4 @@
-**2 Kings 14:16** 
+**2 Kings 14:16**<big><big>[[2Kgs.14.15 Jeroboam II Succeeds Jehoash in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehoash rested with his fathers and was buried in Samaria with the kings of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.15|<< 2 Kings 14:15]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.17|2 Kings 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoash  |**<big>&#8207;[[H3060H\|יְהוֹאָשׁ֙]]&#8207; </big>**| ye.ho.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

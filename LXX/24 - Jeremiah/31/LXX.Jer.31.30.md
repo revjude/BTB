@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:30** 
 <small><sub>**LXX:**</sub></small>
 But each in  his own sin shall die. And the one eating the unripe grape, \[their\] teeth shall have tooth-chills. 
-<small><sub>**KJV:**</sub></small>
-But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge.
-<small><sub>**BSB:**</sub></small>
-Instead, each will die for his own iniquity. If anyone eats the sour grapes, his own teeth will be set on edge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.29|<< Jeremiah 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.31|Jeremiah 31:31 >>]]</td></tr></table>
 
 | Translation | Greek |

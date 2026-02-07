@@ -1,10 +1,7 @@
 **LXX Leviticus 1:9** 
 <small><sub>**LXX:**</sub></small>
 But the intestines and the feet they shall wash in water. And the priest shall place the whole \[amount\] upon the altar -- it is a yield \[offering\] sacrifice scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, [to be] a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The entrails and legs must be washed with water, and the priest shall burn all of it on the altar as a burnt offering, a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.8|<< Leviticus 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.10|Leviticus 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

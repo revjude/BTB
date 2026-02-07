@@ -1,10 +1,7 @@
 **LXX Joshua 19:23** 
 <small><sub>**LXX:**</sub></small>
 This is the inheritance of \[the\] tribe of \[the\] sons of Issachar according to peoples, and the cities and  their towns. 
-<small><sub>**KJV:**</sub></small>
-This [is] the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.
-<small><sub>**BSB:**</sub></small>
-This was the inheritance of the clans of the tribe of Issachar, including these cities and their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.22|<< Joshua 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.24|Joshua 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

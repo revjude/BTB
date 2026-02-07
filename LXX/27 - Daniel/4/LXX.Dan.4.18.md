@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 This  dream I beheld, I the king, Nebuchadnezzar. And you, O Belteshazzar, tell the interpretation! for all the wise men  of my kingdom are not able to manifest the interpretation of it to me. But you Daniel are able, for holy spirit of God \[is\] in you. 
-<small><sub>**KJV:**</sub></small>
-This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise [men] of my kingdom are not able to make known unto me the interpretation: but thou [art] able; for the spirit of the holy gods [is] in thee.
-<small><sub>**BSB:**</sub></small>
-This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me the interpretation, because none of the wise men of my kingdom can interpret it for me. But you are able, because the spirit of the holy gods is in you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.17|<< Daniel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.19|Daniel 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

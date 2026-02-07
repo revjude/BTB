@@ -1,10 +1,7 @@
 **LXX Job 34:20** 
 <small><sub>**LXX:**</sub></small>
 But it shall result in vanity to them,  to cry out and to beseech a man; for they dealt unlawfully, turning aside \[the\] disabled. 
-<small><sub>**KJV:**</sub></small>
-In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.
-<small><sub>**BSB:**</sub></small>
-They die in an instant, in the middle of the night. The people convulse and pass away; the mighty are removed without human hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.19|<< Job 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.21|Job 34:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 17:12** 
+**1 Chronicles 17:12**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall build me an house, and I will stablish his throne for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will build a house for Me, and I will establish his throne forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.11|<< 1 Chronicles 17:11]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.13|1 Chronicles 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will build  |**<big>&#8207;[[H1129\|יִבְנֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yiv.neh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

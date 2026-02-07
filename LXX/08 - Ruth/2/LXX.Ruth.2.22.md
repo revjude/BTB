@@ -1,10 +1,7 @@
 **LXX Ruth 2:22** 
 <small><sub>**LXX:**</sub></small>
 And Naomi said to Ruth  her daughter-in-law, \[It is\] good, O daughter, that you went forth with  his young women, and they shall not meet with you in another field. 
-<small><sub>**KJV:**</sub></small>
-And Naomi said unto Ruth her daughter in law, [It is] good, my daughter, that thou go out with his maidens, that they meet thee not in any other field.
-<small><sub>**BSB:**</sub></small>
-And Naomi said to her daughter-in-law Ruth, “My daughter, it is good for you to work with his young women, so that nothing will happen to you in another field.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.21|<< Ruth 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.23|Ruth 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

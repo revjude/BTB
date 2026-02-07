@@ -1,4 +1,4 @@
-**Psalms 27:3** 
+**Psalms 27:3**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this [will] I [be] confident.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though an army encamps around me, my heart will not fear; though a war breaks ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.2|<< Psalms 27:2]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.4|Psalms 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will encamp  |**<big>&#8207;[[H2583\|תַּחֲנֶ֬ה]]&#8207; </big>**| ta.cha.Neh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

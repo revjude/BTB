@@ -1,12 +1,12 @@
-**1 Thessalonians 4:16
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:16**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 <small><sub>**BSB:**</sub></small>
 For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise.
 <small><sub>**Literal:**</sub></small>
 because Himself the Lord with a loud command, with [the] voice of an archangel and with [the] trumpet of God will descend from heaven, and the dead in Christ will rise first,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.15|<< 1 Thessalonians 4:15]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.17|1 Thessalonians 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

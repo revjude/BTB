@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:29** 
 <small><sub>**LXX:**</sub></small>
 And they shall know that I am \[the\] <span class="smallcaps">lord</span>; and I will make  their land wilderness, and it shall be made desolate on account of all  their abominations which they did. 
-<small><sub>**KJV:**</sub></small>
-Then shall they know that I [am] the LORD, when I have laid the land most desolate because of all their abominations which they have committed.
-<small><sub>**BSB:**</sub></small>
-Then they will know that I am the LORD, when I have made the land a desolate waste because of all the abominations they have committed.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.28|<< Ezekiel 33:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.30|Ezekiel 33:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Esther 3:12** 
+**Esther 3:12**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that [were] over every province, and to the rulers of every people of every province according to the writing thereof, and [to] every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the thirteenth day of the first month, the royal scribes were summoned and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.11|<< Esther 3:11]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.13|Esther 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקָּרְאוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.re.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] scribes of  |**<big>&#8207;[[H5613\|סֹפְרֵ֨י]]&#8207; </big>**| so.fe.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

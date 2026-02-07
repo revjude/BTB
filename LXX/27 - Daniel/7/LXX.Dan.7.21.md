@@ -1,10 +1,7 @@
 **LXX Daniel 7:21** 
 <small><sub>**LXX:**</sub></small>
 I viewed, and  that horn made war with the holy ones, and prevailed against them, 
-<small><sub>**KJV:**</sub></small>
-I beheld, and the same horn made war with the saints, and prevailed against them;
-<small><sub>**BSB:**</sub></small>
-As I watched, this horn was waging war against the saints and prevailing against them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.20|<< Daniel 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.22|Daniel 7:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:21** is...

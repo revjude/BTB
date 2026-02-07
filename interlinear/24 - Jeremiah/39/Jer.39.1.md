@@ -1,4 +1,4 @@
-**Jeremiah 39:1** 
+**Jeremiah 39:1**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.28|<< Jeremiah 38:28]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.2|Jeremiah 39:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> ninth  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H8671\|תְּשִׁעִית]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> te.shi.'it<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

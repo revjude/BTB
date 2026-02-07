@@ -1,12 +1,12 @@
-**John 19:40
-**<small><sub>**KJV:**</sub></small>
+**John 19:40**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
 <small><sub>**BSB:**</sub></small>
 So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.
 <small><sub>**Literal:**</sub></small>
 They took therefore the body <the> of Jesus and bound it in in linen cloths with the spices, even as [the] custom is among the Jews to prepare for burial.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.39|<< John 19:39]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.41|John 19:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They took |**<big>[[G2983\|ἔλαβον]]</big>**  |elabon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

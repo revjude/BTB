@@ -1,10 +1,7 @@
 **LXX Psalm 35:8** 
 <small><sub>**LXX:**</sub></small>
 Let there come to him a snare which he knows not! And the \[snare of the\] hunt which he hid, let it seize him! and in the \[same\] snare he shall fall in it. 
-<small><sub>**KJV:**</sub></small>
-Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.
-<small><sub>**BSB:**</sub></small>
-May ruin befall them by surprise; may the net they hid ensnare them; may they fall into the hazard they created.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.7|<< Psalm 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.9|Psalm 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

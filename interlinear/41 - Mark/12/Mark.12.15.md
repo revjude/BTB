@@ -1,12 +1,12 @@
-**Mark 12:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:15**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see [it].
 <small><sub>**BSB:**</sub></small>
 But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.”
 <small><sub>**Literal:**</sub></small>
 shall we pay or not shall we pay? (15) <the> And knowing of them the hypocrisy He said to them; Why Me do you test? do bring Me a denarius that I may see [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.14|<< Mark 12:14]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.16|Mark 12:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shall we pay |**<big>[[G1325\|δῶμεν]]</big>**  |dōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

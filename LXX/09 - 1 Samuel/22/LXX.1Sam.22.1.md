@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David went forth from there, and came through safe. And he comes to the cave  of Odollam, and his brethren hear, and all the house  of his father, and they went down to him there. 
-<small><sub>**KJV:**</sub></small>
-David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard [it], they went down thither to him.
-<small><sub>**BSB:**</sub></small>
-So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.15|<< 1 Samuel 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.2|1 Samuel 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

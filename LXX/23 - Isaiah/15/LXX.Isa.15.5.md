@@ -1,10 +1,7 @@
 **LXX Isaiah 15:5** 
 <small><sub>**LXX:**</sub></small>
 The heart of the \[land of\] Moab yells in her unto Zoar; for it is \[as\] a three years \[old\] heifer. But upon the ascent of Luhith they shall ascend to you weeping; by the way of Horonaim she yells, Defeat and quaking. 
-<small><sub>**KJV:**</sub></small>
-My heart shall cry out for Moab; his fugitives [shall flee] unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
-<small><sub>**BSB:**</sub></small>
-My heart cries out over Moab; her fugitives flee as far as Zoar, as far as Eglath-shelishiyah. With weeping they ascend the slope of Luhith; they lament their destruction on the road to Horonaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.4|<< Isaiah 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.6|Isaiah 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

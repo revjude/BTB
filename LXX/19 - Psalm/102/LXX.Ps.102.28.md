@@ -1,10 +1,7 @@
 **LXX Psalm 102:28** 
 <small><sub>**LXX:**</sub></small>
 The sons  of your servants shall encamp, and  their seed shall conduct \[matters\] into the eon. 
-<small><sub>**KJV:**</sub></small>
-The children of thy servants shall continue, and their seed shall be established before thee.
-<small><sub>**BSB:**</sub></small>
-The children of Your servants will dwell securely, and their descendants will be established before You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.27|<< Psalm 102:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.1|Psalm 103:1 >>]]</td></tr></table>
 
 | Translation | Greek |

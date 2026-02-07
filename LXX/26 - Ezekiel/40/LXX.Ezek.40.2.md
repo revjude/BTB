@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:2** 
 <small><sub>**LXX:**</sub></small>
 and it led me in a vision of God into the land of Israel, and put me upon an exceedingly high mountain. And upon it \[was\] as \[the\] construction of a city before \[me\]. 
-<small><sub>**KJV:**</sub></small>
-In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
-<small><sub>**BSB:**</sub></small>
-In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.1|<< Ezekiel 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.3|Ezekiel 40:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 40:2** is...

@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:20** 
 <small><sub>**LXX:**</sub></small>
 Ephraim \[is\] a beloved son to me, a child for reveling in, for because  my words \[are\] in him; in remembering I will remember him; on account of this I hastened unto him; by showing mercy I shall show mercy on him, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[Is] Ephraim my dear son? [is he] a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Is not Ephraim a precious son to Me, a delightful child? Though I often speak against him, I still remember him. Therefore My heart yearns for him; I have great compassion for him,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.19|<< Jeremiah 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.21|Jeremiah 31:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 9:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:37**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid [her] in an upper chamber.
 <small><sub>**BSB:**</sub></small>
 At that time, however, she became sick and died, and her body was washed and placed in an upper room.
 <small><sub>**Literal:**</sub></small>
 It came to pass however in the days those [that] having become sick she to die; Having washed [her] then put [her] they in an upper room.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.36|<< Acts 9:36]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.38|Acts 9:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

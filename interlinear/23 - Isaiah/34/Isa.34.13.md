@@ -1,4 +1,4 @@
-**Isaiah 34:13** 
+**Isaiah 34:13**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, [and] a court for owls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her towers will be overgrown with thorns, her fortresses with thistles and brier
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.12|<< Isaiah 34:12]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.14|Isaiah 34:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will grow up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָלְתָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'al.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fortresses its  |**<big>&#8207;[[H0759H\|אַרְמְנֹתֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| 'ar.me.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 5:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:8**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Simon Peter saw [it], he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.
 <small><sub>**BSB:**</sub></small>
 When Simon Peter saw this, he fell at Jesus’ knees. “Go away from me, Lord,” he said, “for I am a sinful man.”
 <small><sub>**Literal:**</sub></small>
 Having seen now Simon Peter fell at the knees <the> of Jesus saying; do depart from me, for a man sinful am I, Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.7|<< Luke 5:7]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.9|Luke 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

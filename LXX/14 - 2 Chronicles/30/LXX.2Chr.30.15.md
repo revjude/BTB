@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:15** 
 <small><sub>**LXX:**</sub></small>
 And they sacrificed the passover on the fourteenth of the second month. And the priests and the Levites felt shame, and they sanctified \[themselves\], and they offered whole burnt-offerings in the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then they killed the passover on the fourteenth [day] of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And on the fourteenth day of the second month they slaughtered the Passover lamb. The priests and Levites were ashamed, and they consecrated themselves and brought burnt offerings to the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.14|<< 2 Chronicles 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.16|2 Chronicles 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

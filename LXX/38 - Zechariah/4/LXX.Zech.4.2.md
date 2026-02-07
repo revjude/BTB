@@ -1,10 +1,7 @@
 **LXX Zechariah 4:2** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, What do you see? And I said, I have seen, and behold, a lamp-stand entirely of gold, and the oil lamp bowl upon it, and seven lamps upon it, and seven oil funnels to the seven lamps  upon it, 
-<small><sub>**KJV:**</sub></small>
-And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all [of] gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which [are] upon the top thereof:
-<small><sub>**BSB:**</sub></small>
-“What do you see?” he asked. “I see a solid gold lampstand,” I replied, “with a bowl at the top and seven lamps on it, with seven spouts to the lamps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.1|<< Zechariah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.3|Zechariah 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 4:2** is...

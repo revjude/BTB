@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:4** 
 <small><sub>**LXX:**</sub></small>
 and Ishmaiah the Gibeonite, mighty among the thirty, and over the thirty; Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite; 
-<small><sub>**KJV:**</sub></small>
-And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
-<small><sub>**BSB:**</sub></small>
-Ishmaiah the Gibeonite, a mighty man among the Thirty and a leader over the Thirty; Jeremiah, Jahaziel, Johanan, and Jozabad the Gederathite;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.3|<< 1 Chronicles 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.5|1 Chronicles 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

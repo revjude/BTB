@@ -1,4 +1,4 @@
-**Nehemiah 7:73** (7:72)
+**Nehemiah 7:73**<big><big>[[Neh.7.70 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the priests, and the Levites, and the porters, and the singers, and [some] of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel [were] in their cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the priests, Levites, gatekeepers, singers, and temple servants, along with s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.73|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.72|<< Nehemiah 7:72]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.1|Nehemiah 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשְׁב֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

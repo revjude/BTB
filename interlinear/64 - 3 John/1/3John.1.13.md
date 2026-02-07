@@ -1,12 +1,12 @@
-**3 John 1:13
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:13**<big><big>[[3John.1.13 Conclusion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I had many things to write, but I will not with ink and pen write unto thee:
 <small><sub>**BSB:**</sub></small>
 I have many things to write to you, but I would prefer not to do so with pen and ink.
 <small><sub>**Literal:**</sub></small>
 Many things I had to write to you, but not I desire with ink and pen to you to write;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.12|<< 3 John 1:12]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.14|3 John 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many things |**<big>[[G4183\|Πολλὰ]]</big>**  |Polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I had |**<big>[[G2192\|εἶχον]]</big>**  |eichon <small><sup>[[V-IAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

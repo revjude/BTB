@@ -1,10 +1,7 @@
 **LXX Daniel 11:25** 
 <small><sub>**LXX:**</sub></small>
 And his strength shall be awakened, and  his heart against \[the\] king of the south with a great force; and the king of the south shall join together in war, and in a great power, even in strength exceedingly. And he shall not stand, for they shall devise devices against him. 
-<small><sub>**KJV:**</sub></small>
-And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.
-<small><sub>**BSB:**</sub></small>
-And with a large army he will stir up his power and his courage against the king of the South, who will mobilize a very large and powerful army but will not withstand the plots devised against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

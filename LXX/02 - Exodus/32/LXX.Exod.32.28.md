@@ -1,10 +1,7 @@
 **LXX Exodus 32:28** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Levi did as Moses said to them. And there fell of the people in  that day three thousand males. 
-<small><sub>**KJV:**</sub></small>
-And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
-<small><sub>**BSB:**</sub></small>
-The Levites did as Moses commanded, and that day about three thousand of the people fell dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.27|<< Exodus 32:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.29|Exodus 32:29 >>]]</td></tr></table>
 
 | Translation | Greek |

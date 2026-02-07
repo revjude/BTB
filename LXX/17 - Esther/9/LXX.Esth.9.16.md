@@ -1,10 +1,7 @@
 **LXX Esther 9:16** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the Jews, of the ones in the kingdom, gathered together and helped themselves, and gained rest from the warlike men; for they destroyed of them, seven ten thousands, \[and\] five thousand men on the thirteenth  of Adar, but they plundered nothing. 
-<small><sub>**KJV:**</sub></small>
-But the other Jews that [were] in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,
-<small><sub>**BSB:**</sub></small>
-The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.15|<< Esther 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.17|Esther 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

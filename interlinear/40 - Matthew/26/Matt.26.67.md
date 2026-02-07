@@ -1,5 +1,5 @@
-**Matthew 26:67
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:67**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then did they spit in his face, and buffeted him; and others smote [him] with the palms of their hands,
 <small><sub>**BSB:**</sub></small>
 Then they spit in His face and struck Him. Others slapped Him
@@ -10,7 +10,7 @@ Then they spat in the face of Him and struck Him. Others then slapped [Him]<br><
 > $\quad$ alluding to: [[LXX.Isa.50.6|Isa 50:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they spat |**<big>[[G1716\|ἐνέπτυσαν]]</big>**  |eneptusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

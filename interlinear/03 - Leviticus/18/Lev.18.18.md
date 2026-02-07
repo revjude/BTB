@@ -1,4 +1,4 @@
-**Leviticus 18:18** 
+**Leviticus 18:18**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shalt thou take a wife to her sister, to vex [her], to uncover her nakedness, beside the other in her life [time].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not take your wife’s sister as a rival wife and have sexual relations
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802H\|אִשָּׁ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

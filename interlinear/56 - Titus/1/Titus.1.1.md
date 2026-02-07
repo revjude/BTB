@@ -1,12 +1,12 @@
-**Titus 1:1
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:1**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;
 <small><sub>**BSB:**</sub></small>
 Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness,
 <small><sub>**Literal:**</sub></small>
 Paul a servant of God an apostle now of Jesus Christ according to [the] faith of [the] elect of God and knowledge of [the] truth which [is] according to godliness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.22|<< 2 Timothy 4:22]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.2|Titus 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a servant |**<big>[[G1401\|δοῦλος]]</big>**  |doulos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

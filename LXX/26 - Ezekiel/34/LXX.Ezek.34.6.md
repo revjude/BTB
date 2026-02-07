@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:6** 
 <small><sub>**LXX:**</sub></small>
 And my sheep \[were\] scattered in every mountain, and upon every high hill; and \[they were\] scattered upon \[the\] face of all the earth; and there was not \[one\] seeking after \[them\], nor  turning \[them\] back. 
-<small><sub>**KJV:**</sub></small>
-My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek [after them].
-<small><sub>**BSB:**</sub></small>
-My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.5|<< Ezekiel 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.7|Ezekiel 34:7 >>]]</td></tr></table>
 
 | Translation | Greek |

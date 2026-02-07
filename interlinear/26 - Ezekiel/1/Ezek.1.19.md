@@ -1,4 +1,4 @@
-**Ezekiel 1:19** 
+**Ezekiel 1:19**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So as the living creatures moved, the wheels moved beside them, and when the cre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.18|<< Ezekiel 1:18]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.20|Ezekiel 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when moved  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1980G\|לֶ֙כֶת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the living creatures  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2416C\|חַיּ֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

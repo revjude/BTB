@@ -1,10 +1,7 @@
 **LXX Hosea 5:4** 
 <small><sub>**LXX:**</sub></small>
 They gave not  their deliberations  to turn towards  their God. For a spirit of harlotry is in the midst of them, and the <span class="smallcaps">lord</span> they knew not. 
-<small><sub>**KJV:**</sub></small>
-They will not frame their doings to turn unto their God: for the spirit of whoredoms [is] in the midst of them, and they have not known the LORD.
-<small><sub>**BSB:**</sub></small>
-Their deeds do not permit them to return to their God, for a spirit of prostitution is within them, and they do not know the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.3|<< Hosea 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.5|Hosea 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 12:48** 
 <small><sub>**LXX:**</sub></small>
 And if any convert should come forward to you, and should observe the passover to \[the\] <span class="smallcaps">lord</span>, you shall circumcise every male of his. And then he shall come forward to do it. And he will be as also the native born of the land. Every uncircumcised one shall not eat of it. 
-<small><sub>**KJV:**</sub></small>
-And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
-<small><sub>**BSB:**</sub></small>
-If a foreigner resides with you and wants to celebrate the LORD’s Passover, all the males in the household must be circumcised; then he may come near to celebrate it, and he shall be like a native of the land. But no uncircumcised man may eat of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.47|<< Exodus 12:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.49|Exodus 12:49 >>]]</td></tr></table>
 
 | Translation | Greek |

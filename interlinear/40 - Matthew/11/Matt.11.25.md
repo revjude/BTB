@@ -1,12 +1,12 @@
-**Matthew 11:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:25**<big><big>[[Matt.11.25 Rest for the Weary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children.
 <small><sub>**Literal:**</sub></small>
 At that [very] <the> time answering <the> Jesus said; I fully consent to You, Father Lord of the heaven and the earth, for You did hide these things from wise and learned and did reveal them to little children.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.24|<< Matthew 11:24]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.26|Matthew 11:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῳ]]</big>**  |ekeinō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

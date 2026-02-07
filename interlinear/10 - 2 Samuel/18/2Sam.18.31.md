@@ -1,4 +1,4 @@
-**2 Samuel 18:31** 
+**2 Samuel 18:31**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just then the Cushite came and said, “May my lord the king hear the good news:
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.30|<< 2 Samuel 18:30]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.32|2 Samuel 18:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and here!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Cushite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3569G\|כּוּשִׁ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ku.Shi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

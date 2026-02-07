@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:6** 
 <small><sub>**LXX:**</sub></small>
 And it will be, \[that\] the male child, who ever she should give birth to, shall be ordained from the name of the one coming to an end, and his name shall not be wiped away from out of Israel. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] the firstborn which she beareth shall succeed in the name of his brother [which is] dead, that his name be not put out of Israel.
-<small><sub>**BSB:**</sub></small>
-The first son she bears will carry on the name of the dead brother, so that his name will not be blotted out from Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.5|<< Deuteronomy 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.7|Deuteronomy 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

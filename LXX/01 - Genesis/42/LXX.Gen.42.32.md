@@ -1,10 +1,7 @@
 **LXX Genesis 42:32** 
 <small><sub>**LXX:**</sub></small>
 Twelve brothers we are, sons  of our father; the one does not exist, and the younger \[is\] with  our father today in \[the\] land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-We [be] twelve brethren, sons of our father; one [is] not, and the youngest [is] this day with our father in the land of Canaan.
-<small><sub>**BSB:**</sub></small>
-We are twelve brothers, sons of one father. One is no more, and the youngest is now with our father in the land of Canaan.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.31|<< Genesis 42:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.33|Genesis 42:33 >>]]</td></tr></table>
 
 | Translation | Greek |

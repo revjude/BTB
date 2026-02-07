@@ -1,4 +1,4 @@
-**Amos 7:6** 
+**Amos 7:6**<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD repented for this: This also shall not be, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD relented from this plan. “It will not happen either,” said the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.5|<< Amos 7:5]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.7|Amos 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he relented  |**<big>&#8207;[[H5162H\|נִחַ֥ם]]&#8207; </big>**| ni.Cham<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 115:9** 
+**Psalms 115:9**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, trust thou in the LORD: he [is] their help and their shield.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Israel, trust in the LORD! He is their help and shield.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.8|<< Psalms 115:8]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.10|Psalms 115:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Israel  |**<big>&#8207;[[H3478\|יִ֭שְׂרָאֵל]]&#8207; </big>**| Yis.ra.'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | trust  |**<big>&#8207;[[H0982\|בְּטַ֣ח]]&#8207; </big>**| be.Tach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

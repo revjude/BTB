@@ -1,4 +1,4 @@
-**Deuteronomy 11:10** 
+**Deuteronomy 11:10**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the land, whither thou goest in to possess it, [is] not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst [it] with thy foot, as a garden of herbs:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the land that you are entering to possess is not like the land of Egypt, fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.9|<< Deuteronomy 11:9]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.11|Deuteronomy 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֗רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

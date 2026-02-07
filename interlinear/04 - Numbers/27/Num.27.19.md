@@ -1,4 +1,4 @@
-**Numbers 27:19** 
+**Numbers 27:19**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have him stand before Eleazar the priest and the whole congregation, and commiss
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.18|<< Numbers 27:18]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.20|Numbers 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make stand  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|הַֽעֲמַדְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.mad.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

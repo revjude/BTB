@@ -1,4 +1,4 @@
-**Numbers 19:15** 
+**Numbers 19:15**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every open vessel, which hath no covering bound upon it, [is] unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and any open container without a lid fastened on it is unclean.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.14|<< Numbers 19:14]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.16|Numbers 19:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vessel  |**<big>&#8207;[[H3627\|כְּלִ֣י]]&#8207; </big>**| ke.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

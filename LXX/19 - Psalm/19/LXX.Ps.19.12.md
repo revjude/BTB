@@ -1,10 +1,7 @@
 **LXX Psalm 19:12** 
 <small><sub>**LXX:**</sub></small>
 Who shall perceive \[his\] transgressions? From out of  my private \[transgressions\] cleanse me! 
-<small><sub>**KJV:**</sub></small>
-Who can understand [his] errors? cleanse thou me from secret [faults].
-<small><sub>**BSB:**</sub></small>
-Who can discern his own errors? Cleanse me from my hidden faults.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.11|<< Psalm 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.13|Psalm 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

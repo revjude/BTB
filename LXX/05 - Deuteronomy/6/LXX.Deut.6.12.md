@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:12** 
 <small><sub>**LXX:**</sub></small>
 take heed to yourself! \[that\] you should not forget \[the\] <span class="smallcaps">lord</span>  your God. the one leading you from \[the\] land of Egypt, from out of a house of slavery. 
-<small><sub>**KJV:**</sub></small>
-[Then] beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.
-<small><sub>**BSB:**</sub></small>
-be careful not to forget the LORD who brought you out of the land of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.11|<< Deuteronomy 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.13|Deuteronomy 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

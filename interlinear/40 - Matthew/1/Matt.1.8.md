@@ -1,12 +1,12 @@
-**Matthew 1:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:8**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 <small><sub>**BSB:**</sub></small>
 Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.
 <small><sub>**Literal:**</sub></small>
 Asaph then begat <the> Jehoshaphat; Jehoshaphat then begat <the> Joram; Joram then begat <the> Uzziah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.7|<< Matthew 1:7]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.9|Matthew 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Asaph |**<big>[[G0760\|Ἀσὰφ]]</big>**  [^1] |Asaph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

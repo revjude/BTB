@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:28** 
 <small><sub>**LXX:**</sub></small>
 In  that time when  David beheld that \[the\] <span class="smallcaps">lord</span> heeded him at the threshing-floor of Ornan the Jebusite, then he sacrificed there. 
-<small><sub>**KJV:**</sub></small>
-At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.
-<small><sub>**BSB:**</sub></small>
-At that time, when David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.27|<< 1 Chronicles 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.29|1 Chronicles 21:29 >>]]</td></tr></table>
 
 | Translation | Greek |

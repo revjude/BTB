@@ -1,10 +1,7 @@
 **LXX Jonah 3:3** 
 <small><sub>**LXX:**</sub></small>
 And Jonah rose up, and went into Nineveh as \[the\] <span class="smallcaps">lord</span> spoke. And Nineveh was a great city  to God, as \[the\] goings of a journey of three days. 
-<small><sub>**KJV:**</sub></small>
-So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey.
-<small><sub>**BSB:**</sub></small>
-This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.2|<< Jonah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.4|Jonah 3:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:3** is...

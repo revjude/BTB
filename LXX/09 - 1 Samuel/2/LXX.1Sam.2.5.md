@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ones full of bread \[loaves\] are made less; and the ones hungering disregarded \[the\] land; for \[the\] sterile gave birth to seven, and the one \[with\] many in children weakened. 
-<small><sub>**KJV:**</sub></small>
-[They that were] full have hired out themselves for bread; and [they that were] hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
-<small><sub>**BSB:**</sub></small>
-The well-fed hire themselves out for food, but the starving hunger no more. The barren woman gives birth to seven, but she who has many sons pines away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.4|<< 1 Samuel 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.6|1 Samuel 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 30:2** 
+**Deuteronomy 30:2**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when you and your children return to the LORD your God and obey His voice wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.1|<< Deuteronomy 30:1]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.3|Deuteronomy 30:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שַׁבְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

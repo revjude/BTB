@@ -1,10 +1,7 @@
 **LXX Exodus 22:6** 
 <small><sub>**LXX:**</sub></small>
 And if a fire going forth should find thorn-bushes, and should set on fire a threshing-floor, or corn, or a field, the \[one\] burning with the fire shall pay. 
-<small><sub>**KJV:**</sub></small>
-If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed [therewith]; he that kindled the fire shall surely make restitution.
-<small><sub>**BSB:**</sub></small>
-If a fire breaks out and spreads to thornbushes so that it consumes stacked or standing grain, or the whole field, the one who started the fire must make full restitution.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.5|<< Exodus 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.7|Exodus 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

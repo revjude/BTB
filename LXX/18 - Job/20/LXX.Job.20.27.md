@@ -1,10 +1,7 @@
 **LXX Job 20:27** 
 <small><sub>**LXX:**</sub></small>
 And uncover the heaven his  lawless deeds; and \[the\] earth rise up against him. 
-<small><sub>**KJV:**</sub></small>
-The heaven shall reveal his iniquity; and the earth shall rise up against him.
-<small><sub>**BSB:**</sub></small>
-The heavens will expose his iniquity, and the earth will rise up against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.26|<< Job 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.28|Job 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

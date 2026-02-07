@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And at the banquet the king said to Esther, What is it to you, queen Esther, and it will be to you as much as is worthy? 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Esther at the banquet of wine, What [is] thy petition? and it shall be granted thee: and what [is] thy request? even to the half of the kingdom it shall be performed.
-<small><sub>**BSB:**</sub></small>
-And as they drank their wine, the king said to Esther, “What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.5|<< Esther 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.7|Esther 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

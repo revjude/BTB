@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:11** 
 <small><sub>**LXX:**</sub></small>
 And the nation which ever should bring  its neck under the yoke of \[the\] king of Babylon, and should work for him, I will leave it upon  its land, says \[the\] <span class="smallcaps">lord</span>, and it shall work her, and it will dwell in her. 
-<small><sub>**KJV:**</sub></small>
-But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the LORD; and they shall till it, and dwell therein.
-<small><sub>**BSB:**</sub></small>
-But the nation that will put its neck under the yoke of the king of Babylon and serve him, I will leave in its own land, to cultivate it and reside in it, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.10|<< Jeremiah 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.12|Jeremiah 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

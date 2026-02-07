@@ -1,12 +1,12 @@
-**Luke 22:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:22**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!
 <small><sub>**BSB:**</sub></small>
 Indeed, the Son of Man will go as it has been determined, but woe to that man who betrays Him.”
 <small><sub>**Literal:**</sub></small>
 For the Son indeed <the> of man according to that determined goes; but woe to the man that [one] through whom He is betrayed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.21|<< Luke 22:21]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.23|Luke 22:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For [^1] |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

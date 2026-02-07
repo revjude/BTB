@@ -1,10 +1,7 @@
 **LXX Hosea 8:8** 
 <small><sub>**LXX:**</sub></small>
 Israel was swallowed down; now it became among the nations as a useless item. 
-<small><sub>**KJV:**</sub></small>
-Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein [is] no pleasure.
-<small><sub>**BSB:**</sub></small>
-Israel is swallowed up! Now they are among the nations like a worthless vessel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.7|<< Hosea 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.9|Hosea 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

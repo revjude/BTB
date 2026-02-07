@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:29** 
 <small><sub>**LXX:**</sub></small>
 And they shall deal with you in hatred, and they shall take all the \[things\] of your toils, and you will be naked and disgraced. And the shame of your harlotry shall be uncovered, even  your impiety, and  your harlotry. 
-<small><sub>**KJV:**</sub></small>
-And they shall deal with thee hatefully, and shall take away all thy labour, and shall leave thee naked and bare: and the nakedness of thy whoredoms shall be discovered, both thy lewdness and thy whoredoms.
-<small><sub>**BSB:**</sub></small>
-They will treat you with hatred, take all for which you have worked, and leave you naked and bare, so that the shame of your prostitution will be exposed. Your indecency and promiscuity<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.28|<< Ezekiel 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.30|Ezekiel 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

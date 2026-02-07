@@ -1,10 +1,7 @@
 **LXX Isaiah 54:15** 
 <small><sub>**LXX:**</sub></small>
 Behold, converts shall come forward to you because of me, and they shall sojourn with you, and unto you they shall take refuge. 
-<small><sub>**KJV:**</sub></small>
-Behold, they shall surely gather together, [but] not by me: whosoever shall gather together against thee shall fall for thy sake.
-<small><sub>**BSB:**</sub></small>
-If anyone attacks you, it is not from Me; whoever assails you will fall before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.14|<< Isaiah 54:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.16|Isaiah 54:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 26:19** 
 <small><sub>**LXX:**</sub></small>
 and I will break the insolence  of your pride, and I will establish  your heaven as iron, and  your land as brass, 
-<small><sub>**KJV:**</sub></small>
-And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:
-<small><sub>**BSB:**</sub></small>
-I will break down your stubborn pride and make your sky like iron and your land like bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.18|<< Leviticus 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.20|Leviticus 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

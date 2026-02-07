@@ -1,10 +1,7 @@
 **LXX Genesis 24:54** 
 <small><sub>**LXX:**</sub></small>
 And they ate and drank. And he and the men  being with him  went to sleep. And rising up \[in the\] morning, he said, Send me forth! that I may go forth to  my master. 
-<small><sub>**KJV:**</sub></small>
-And they did eat and drink, he and the men that [were] with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
-<small><sub>**BSB:**</sub></small>
-Then he and the men with him ate and drank and spent the night there. When they got up the next morning, he said, “Send me on my way to my master.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.53|<< Genesis 24:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.55|Genesis 24:55 >>]]</td></tr></table>
 
 | Translation | Greek |

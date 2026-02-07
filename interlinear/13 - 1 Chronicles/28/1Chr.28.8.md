@@ -1,4 +1,4 @@
-**1 Chronicles 28:8** 
+**1 Chronicles 28:8**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave [it] for an inheritance for your children after you for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now in the sight of all Israel, the assembly of the LORD, and in the hearing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.7|<< 1 Chronicles 28:7]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.9|1 Chronicles 28:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H6258\|עַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] eyes of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5869H\|עֵינֵ֨י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

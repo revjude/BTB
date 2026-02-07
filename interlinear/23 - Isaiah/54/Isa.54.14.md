@@ -1,4 +1,4 @@
-**Isaiah 54:14** 
+**Isaiah 54:14**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In righteousness you will be established, far from oppression, for you will have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.13|<< Isaiah 54:13]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.15|Isaiah 54:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in righteousness  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6666\|צְדָקָ֖ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> tz.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be established  |**<big>&#8207;[[H3559H\|תִּכּוֹנָ֑נִי]]&#8207; </big>**| ti.ko.Na.ni<small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

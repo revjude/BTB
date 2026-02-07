@@ -1,5 +1,5 @@
-**Revelation 21:24
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:24**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
 <small><sub>**BSB:**</sub></small>
 By its light the nations will walk, and into it the kings of the earth will bring their glory.
@@ -10,7 +10,7 @@ And will walk the nations those being saved through the light of it and the king
 > $\quad$ alluding to: [[LXX.Isa.60.3|Isa 60:3]] ☩ [[LXX.Isa.60.11|Isa 60:11]] ☩ [[LXX.Isa.60.20|Isa 60:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will walk |**<big>[[G4043\|περιπατήσουσιν]]</big>**  |peripatēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»6+Byz">NKO</abbr> | |

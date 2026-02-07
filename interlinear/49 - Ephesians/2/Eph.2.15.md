@@ -1,12 +1,12 @@
-**Ephesians 2:15
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:15**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having abolished in his flesh the enmity, [even] the law of commandments [contained] in ordinances; for to make in himself of twain one new man, [so] making peace;
 <small><sub>**BSB:**</sub></small>
 by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace
 <small><sub>**Literal:**</sub></small>
 the law <the> of commandments in ordinances having annulled, so that the two He may create in Him into one new man making peace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.14|<< Ephesians 2:14]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.16|Ephesians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | law |**<big>[[G3551\|νόμον]]</big>**  |nomon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

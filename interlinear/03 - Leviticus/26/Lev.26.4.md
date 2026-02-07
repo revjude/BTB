@@ -1,4 +1,4 @@
-**Leviticus 26:4** 
+**Leviticus 26:4**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will give you rains in their season, and the land will yield its produce, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.3|<< Leviticus 26:3]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.5|Leviticus 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rains your  |**<big>&#8207;[[H1653\|גִשְׁמֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| gish.mei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

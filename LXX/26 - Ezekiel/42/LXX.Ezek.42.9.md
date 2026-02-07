@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:9** 
 <small><sub>**LXX:**</sub></small>
 And the doors  of these inner chambers of the entrance of the one towards \[the\] east \[is for one\] to enter through them from the outer courtyard 
-<small><sub>**KJV:**</sub></small>
-And from under these chambers [was] the entry on the east side, as one goeth into them from the utter court.
-<small><sub>**BSB:**</sub></small>
-And below these chambers was the entrance on the east side as one enters them from the outer court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.8|<< Ezekiel 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.10|Ezekiel 42:10 >>]]</td></tr></table>
 
 | Translation | Greek |

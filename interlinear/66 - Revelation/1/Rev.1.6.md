@@ -1,5 +1,5 @@
-**Revelation 1:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:6**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hath made us kings and priests unto God and his Father; to him [be] glory and dominion for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 who has made us to be a kingdom, priests to His God and Father—to Him be the glory and power forever and ever! Amen.
@@ -10,7 +10,7 @@ and He has made us a kingdom, and priests to the God and Father of Him — to Hi
 > $\quad$ possibly alluding to: [[LXX.Exod.19.6|Exod 19:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He has made |**<big>[[G4160G\|ἐποίησεν]]</big>**  |epoiēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

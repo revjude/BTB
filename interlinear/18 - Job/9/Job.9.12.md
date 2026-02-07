@@ -1,4 +1,4 @@
-**Job 9:12** 
+**Job 9:12**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If He takes away, who can stop Him? Who dares to ask Him, ‘What are You doing?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.11|<< Job 9:11]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.13|Job 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will snatch away  |**<big>&#8207;[[H2862\|יַ֭חְתֹּף]]&#8207; </big>**| Yach.tof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

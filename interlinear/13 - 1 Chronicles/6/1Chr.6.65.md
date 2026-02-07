@@ -1,4 +1,4 @@
-**1 Chronicles 6:65** (6:50)
+**1 Chronicles 6:65**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by [their] names.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They assigned by lot the cities named above from the tribes of Judah, Simeon, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.64|<< 1 Chronicles 6:64]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.66|1 Chronicles 6:66 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the lot  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1486\|גּוֹרָ֗ל]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 9:30** 
+**Job 9:30**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I wash myself with snow water, and make my hands never so clean;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I should wash myself with snow and cleanse my hands with lye,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.29|<< Job 9:29]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.31|Job 9:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I washed myself  |**<big>&#8207;[[H7364\|הִתְרָחַ֥צְתִּי]]&#8207; </big>**| hit.ra.Chatz.ti<small><sup>[[HVtp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 18:3** 
+**1 Samuel 18:3**<big><big>[[1Sam.18.1 Jonathan Befriends David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jonathan and David made a covenant, because he loved him as his own soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jonathan made a covenant with David because he loved him as himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.2|<< 1 Samuel 18:2]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.4|1 Samuel 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרֹ֧ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3083H\|יְהוֹנָתָ֛ן]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**3 John 1:7
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:7**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because that for his name’s sake they went forth, taking nothing of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 For they went out on behalf of the Name, accepting nothing from the Gentiles.
 <small><sub>**Literal:**</sub></small>
 On behalf for of the name they went forth nothing accepting from the Gentile [people].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.6|<< 3 John 1:6]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.8|3 John 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On behalf |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the nations which \[the\] <span class="smallcaps">lord</span> left \[with\] them so as to test Israel by them, all the ones not knowing all the wars of Canaan, 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the nations which the LORD left, to prove Israel by them, [even] as many [of Israel] as had not known all the wars of Canaan;
-<small><sub>**BSB:**</sub></small>
-These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.23|<< Judges 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.2|Judges 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 22:4** 
+**Proverbs 22:4**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By humility [and] the fear of the LORD [are] riches, and honour, and life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rewards of humility and the fear of the LORD are wealth and honor and life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.3|<< Proverbs 22:3]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.5|Proverbs 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] consequence of  |**<big>&#8207;[[H6118\|עֵ֣קֶב]]&#8207; </big>**| 'E.kev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humility  |**<big>&#8207;[[H6038\|עֲ֭נָוָה]]&#8207; </big>**| 'A.na.vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

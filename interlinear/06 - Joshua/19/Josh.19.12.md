@@ -1,4 +1,4 @@
-**Joshua 19:12** 
+**Joshua 19:12**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Sarid it turned eastward along the border of Chisloth-tabor and went on to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.11|<< Joshua 19:11]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.13|Joshua 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שָׁ֣ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Sarid  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8301\|שָּׂרִ֗יד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.Rid<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall serve there other gods, works of \[the\] hands of man -- wood and stones, which cannot see, nor hear, nor eat, nor smell. 
-<small><sub>**KJV:**</sub></small>
-And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
-<small><sub>**BSB:**</sub></small>
-And there you will serve man-made gods of wood and stone, which cannot see or hear or eat or smell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.27|<< Deuteronomy 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.29|Deuteronomy 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Hosea 14:8** (14:9)
+**Hosea 14:8**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim [shall say], What have I to do any more with idols? I have heard [him], and observed him: I [am] like a green fir tree. From me is thy fruit found.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Ephraim, what have I to do anymore with idols? It is I who answer and watch ov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.7|<< Hosea 14:7]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.9|Hosea 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֕יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

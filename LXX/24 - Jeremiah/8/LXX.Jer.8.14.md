@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:14** 
 <small><sub>**LXX:**</sub></small>
 For why do we sit? Come together, and we should enter into the fortified cities, and we should be disowned there; for  God disowned us, and gave us to drink water of bile, for we sinned before him. 
-<small><sub>**KJV:**</sub></small>
-Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God hath put us to silence, and given us water of gall to drink, because we have sinned against the LORD.
-<small><sub>**BSB:**</sub></small>
-Why are we just sitting here? Gather together, let us flee to the fortified cities and perish there, for the LORD our God has doomed us. He has given us poisoned water to drink, because we have sinned against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.13|<< Jeremiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.15|Jeremiah 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

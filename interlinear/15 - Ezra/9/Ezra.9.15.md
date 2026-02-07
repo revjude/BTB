@@ -1,4 +1,4 @@
-**Ezra 9:15** 
+**Ezra 9:15**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of Israel, thou [art] righteous: for we remain yet escaped, as [it is] this day: behold, we [are] before thee in our trespasses: for we cannot stand before thee because of this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, God of Israel, You are righteous! For we remain this day as a remnant. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.14|<< Ezra 9:14]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.1|Ezra 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֞ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:14** 
 <small><sub>**LXX:**</sub></small>
 And all  her spoils, and the cattle, the sons of Israel despoiled for themselves. And all of them they utterly destroyed by \[the\] mouth of \[the\] sword; and he destroyed them, they did not leave behind of them one breathing. 
-<small><sub>**KJV:**</sub></small>
-And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
-<small><sub>**BSB:**</sub></small>
-The Israelites took for themselves all the plunder and livestock of these cities, but they put all the people to the sword until they had completely destroyed them, not sparing anyone who breathed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.13|<< Joshua 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.15|Joshua 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

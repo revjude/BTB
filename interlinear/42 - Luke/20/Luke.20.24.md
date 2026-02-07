@@ -1,12 +1,12 @@
-**Luke 20:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:24**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar’s.
 <small><sub>**BSB:**</sub></small>
 “Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered.
 <small><sub>**Literal:**</sub></small>
 do show Me a denarius; Of whom has it [the] image and inscription? Those And they said; Caesar’s.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.23|<< Luke 20:23]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.25|Luke 20:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do show [^1] |**<big>[[G1166\|δείξατέ]]</big>**  |deixate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | Me |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

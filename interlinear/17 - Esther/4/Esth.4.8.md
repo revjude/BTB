@@ -1,4 +1,4 @@
-**Esther 4:8** 
+**Esther 4:8**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew [it] unto Esther, and to declare [it] unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mordecai also gave Hathach a copy of the written decree issued in Susa for the d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.7|<< Esther 4:7]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.9|Esther 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> copy of  |**<big>&#8207;[[H6572B\|פַּתְשֶׁ֣גֶן]]&#8207; </big>**| pat.She.gen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

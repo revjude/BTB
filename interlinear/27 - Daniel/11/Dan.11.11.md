@@ -1,4 +1,4 @@
-**Daniel 11:11** 
+**Daniel 11:11**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of the south shall be moved with choler, and shall come forth and fight with him, [even] with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In a rage, the king of the South will march out to fight the king of the North, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.10|<< Daniel 11:10]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.12|Daniel 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may be enraged  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H4843\|יִתְמַרְמַר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.mar.Mar<small><sup>[[HVtu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

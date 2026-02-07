@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass that the sons of Israel sinned against the <span class="smallcaps">lord</span>  their God, the one leading them from out of \[the\] land of Egypt, from beneath \[the\] hand of Pharaoh king of Egypt, and they feared other gods. 
-<small><sub>**KJV:**</sub></small>
-For [so] it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
-<small><sub>**BSB:**</sub></small>
-All this happened because the people of Israel had sinned against the LORD their God, who had brought them out of the land of Egypt from under the hand of Pharaoh king of Egypt. They had worshiped other gods<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.6|<< 2 Kings 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.8|2 Kings 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

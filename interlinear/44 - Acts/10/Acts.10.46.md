@@ -1,12 +1,12 @@
-**Acts 10:46
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:46**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they heard them speak with tongues, and magnify God. Then answered Peter,
 <small><sub>**BSB:**</sub></small>
 For they heard them speaking in tongues and exalting God. Then Peter said,
 <small><sub>**Literal:**</sub></small>
 They were hearing for when they are speaking in tongues and magnifying <the> God. Then answered <the> Peter;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.45|<< Acts 10:45]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.47|Acts 10:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were hearing |**<big>[[G0191\|ἤκουον]]</big>**  |ēkouon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

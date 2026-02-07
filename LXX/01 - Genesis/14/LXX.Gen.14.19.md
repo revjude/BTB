@@ -1,10 +1,7 @@
 **LXX Genesis 14:19** 
 <small><sub>**LXX:**</sub></small>
 And he blessed him. And he said, Abram, a blessing  to God the highest, who created the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth:
-<small><sub>**BSB:**</sub></small>
-and he blessed Abram and said: “Blessed be Abram by God Most High, Creator of heaven and earth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.18|<< Genesis 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.20|Genesis 14:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 14:19** is...

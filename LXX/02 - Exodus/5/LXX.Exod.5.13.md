@@ -1,10 +1,7 @@
 **LXX Exodus 5:13** 
 <small><sub>**LXX:**</sub></small>
 But the foremen hastened them, saying, You complete the works, the ones fit according to the day, just as also when the straw was given to you. 
-<small><sub>**KJV:**</sub></small>
-And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw.
-<small><sub>**BSB:**</sub></small>
-The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.12|<< Exodus 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.14|Exodus 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 34:9** 
 <small><sub>**LXX:**</sub></small>
 For you should not say that there will not be an overseeing of a man -- and \[there is\] an overseeing of him by \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For he hath said, It profiteth a man nothing that he should delight himself with God.
-<small><sub>**BSB:**</sub></small>
-For he has said, ‘It profits a man nothing that he should delight in God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.8|<< Job 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.10|Job 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 16:6** 
+**Isaiah 16:6**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have heard of the pride of Moab; [he is] very proud: [even] of his haughtiness, and his pride, and his wrath: [but] his lies [shall] not [be] so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have heard of Moab’s pomposity, his exceeding pride and conceit, his overfl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.5|<< Isaiah 16:5]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.7|Isaiah 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֥עְנוּ]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pride of  |**<big>&#8207;[[H1347\|גְאוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.'on-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

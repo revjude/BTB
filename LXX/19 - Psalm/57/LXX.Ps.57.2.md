@@ -1,10 +1,7 @@
 **LXX Psalm 57:2** 
 <small><sub>**LXX:**</sub></small>
 I shall cry out to  God the highest; the God  benefiting me. 
-<small><sub>**KJV:**</sub></small>
-I will cry unto God most high; unto God that performeth [all things] for me.
-<small><sub>**BSB:**</sub></small>
-I cry out to God Most High, to God who fulfills His purpose for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.57.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.1|<< Psalm 57:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.3|Psalm 57:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 28:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:9**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.
 <small><sub>**BSB:**</sub></small>
 Suddenly Jesus met them and said, “Greetings!” They came to Him, grasped His feet, and worshiped Him.
 <small><sub>**Literal:**</sub></small>
 about now were going to report to the disciples of him And behold <the> Jesus met with them saying; Greetings! <the> And having come to [Him] they took hold of His <the> feet and worshiped Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.8|<< Matthew 28:8]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.10|Matthew 28:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | about |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="TR">K</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

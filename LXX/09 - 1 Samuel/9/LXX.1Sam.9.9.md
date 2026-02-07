@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:9** 
 <small><sub>**LXX:**</sub></small>
 And before in Israel, thus said each man in their going to ask  God, Come, and we should go to the seer. For the prophet was called by the people before, The Seer. 
-<small><sub>**KJV:**</sub></small>
-(Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for [he that is] now [called] a Prophet was beforetime called a Seer.)
-<small><sub>**BSB:**</sub></small>
-(Formerly in Israel, a man on his way to inquire of God would say, “Come, let us go to the seer.” For the prophet of today was formerly called the seer.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.8|<< 1 Samuel 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.10|1 Samuel 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

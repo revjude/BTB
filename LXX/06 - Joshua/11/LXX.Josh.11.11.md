@@ -1,10 +1,7 @@
 **LXX Joshua 11:11** 
 <small><sub>**LXX:**</sub></small>
 And he killed everyone breathing in it by \[the\] mouth of \[the\] sword, and he utterly destroyed all, and there was not left behind in it one breathing. And  Hazor they burned by fire. 
-<small><sub>**KJV:**</sub></small>
-And they smote all the souls that [were] therein with the edge of the sword, utterly destroying [them]: there was not any left to breathe: and he burnt Hazor with fire.
-<small><sub>**BSB:**</sub></small>
-The Israelites put everyone in Hazor to the sword, devoting them to destruction. Nothing that breathed remained, and Joshua burned down Hazor itself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.10|<< Joshua 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.12|Joshua 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -6,10 +6,7 @@ To the director; A psalm. to the sons of Korah
 
 <small><sub>**LXX:**</sub></small>
 You thought well, O <span class="smallcaps">lord</span>,  of your land. You returned the captivity of Jacob. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm for the sons of Korah. LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land, O LORD; You restored Jacob from captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.12|<< Psalm 84:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.2|Psalm 85:2 >>]]</td></tr></table>
 
 | Translation | Greek |

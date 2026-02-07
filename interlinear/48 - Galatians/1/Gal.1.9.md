@@ -1,12 +1,12 @@
-**Galatians 1:9
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:9**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.
 <small><sub>**BSB:**</sub></small>
 As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse!
 <small><sub>**Literal:**</sub></small>
 As we have said before, even now again I say, if anyone [to] you is evangelising contrary to what you received, accursed he should be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.8|<< Galatians 1:8]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.10|Galatians 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we have said before, |**<big>[[G4280\|προειρήκαμεν,]]</big>**  |proeirēkamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:18** 
 <small><sub>**LXX:**</sub></small>
 And the stoas \[were\] according to \[the\] back of the gates; the peristyle underneath \[was\] according to the length of the gates. 
-<small><sub>**KJV:**</sub></small>
-And the pavement by the side of the gates over against the length of the gates [was] the lower pavement.
-<small><sub>**BSB:**</sub></small>
-which flanked the gateways and corresponded to the length of the gates; this was the lower pavement.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.17|<< Ezekiel 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.19|Ezekiel 40:19 >>]]</td></tr></table>
 
 | Translation | Greek |

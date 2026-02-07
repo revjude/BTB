@@ -1,12 +1,12 @@
-**1 Peter 4:5
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:5**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall give account to him that is ready to judge the quick and the dead.
 <small><sub>**BSB:**</sub></small>
 But they will have to give an account to Him who is ready to judge the living and the dead.
 <small><sub>**Literal:**</sub></small>
 who will give account to Him who ready is to judge [the] living and [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.4|<< 1 Peter 4:4]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.6|1 Peter 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will give |**<big>[[G0591\|ἀποδώσουσιν]]</big>**  |apodōsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

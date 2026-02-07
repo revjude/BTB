@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:8** 
 <small><sub>**LXX:**</sub></small>
 And the nation, and the kingdom, as many as should not serve Nebuchadnezzar king  of Babylon, and as many as should not put  their neck under the yoke of \[the\] king of Babylon, by \[the\] sword, and by pestilence, and by famine I shall visit them, said \[the\] <span class="smallcaps">lord</span>, until they should falter by his hand. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.
-<small><sub>**BSB:**</sub></small>
-As for the nation or kingdom that does not serve Nebuchadnezzar king of Babylon and does not place its neck under his yoke, I will punish that nation by sword and famine and plague, declares the LORD, until I have destroyed it by his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.7|<< Jeremiah 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.9|Jeremiah 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

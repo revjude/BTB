@@ -1,4 +1,4 @@
-**Genesis 21:25** 
+**Genesis 21:25**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when Abraham complained to Abimelech about a well that Abimelech’s servant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.24|<< Genesis 21:24]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.26|Genesis 21:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rebuked  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3198\|הוֹכִ֥חַ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Khi.ach<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 68:31** 
 <small><sub>**LXX:**</sub></small>
 Ambassadors shall come from out of Egypt. Ethiopia shall go beforehand with her hand  to God. 
-<small><sub>**KJV:**</sub></small>
-Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.
-<small><sub>**BSB:**</sub></small>
-Envoys will arrive from Egypt; Cush will stretch out her hands to God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.30|<< Psalm 68:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.32|Psalm 68:32 >>]]</td></tr></table>
 
 | Translation | Greek |

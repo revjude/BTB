@@ -1,10 +1,7 @@
 **LXX Genesis 1:16** 
 <small><sub>**LXX:**</sub></small>
 And God made the two great luminaries; the greater luminary for beginnings of the day, and the lesser luminary for beginnings of the night, and the stars. 
-<small><sub>**KJV:**</sub></small>
-And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.
-<small><sub>**BSB:**</sub></small>
-God made two great lights: the greater light to rule the day and the lesser light to rule the night. And He made the stars as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.15|<< Genesis 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.17|Genesis 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

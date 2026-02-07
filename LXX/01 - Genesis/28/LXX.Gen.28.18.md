@@ -1,10 +1,7 @@
 **LXX Genesis 28:18** 
 <small><sub>**LXX:**</sub></small>
 And Jacob rose up in the morning, and took the stone which he placed there at his head. And he set it \[as a\] monument, and poured oil upon the top of it. 
-<small><sub>**KJV:**</sub></small>
-And Jacob rose up early in the morning, and took the stone that he had put [for] his pillows, and set it up [for] a pillar, and poured oil upon the top of it.
-<small><sub>**BSB:**</sub></small>
-Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.17|<< Genesis 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.19|Genesis 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

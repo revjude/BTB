@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:8** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said, Behold, we pass over to the men, and we will roll down upon them. 
-<small><sub>**KJV:**</sub></small>
-Then said Jonathan, Behold, we will pass over unto [these] men, and we will discover ourselves unto them.
-<small><sub>**BSB:**</sub></small>
-“Very well,” said Jonathan, “we will cross over toward these men and show ourselves to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.7|<< 1 Samuel 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.9|1 Samuel 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

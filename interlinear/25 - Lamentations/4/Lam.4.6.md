@@ -1,4 +1,4 @@
-**Lamentations 4:6** 
+**Lamentations 4:6**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The punishment of the daughter of my people is greater than that of Sodom, which
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.5|<< Lamentations 4:5]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.7|Lamentations 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has become great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יִּגְדַּל֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] iniquity of  |**<big>&#8207;[[H5771I\|עֲוֹ֣ן]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

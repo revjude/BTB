@@ -1,10 +1,7 @@
 **LXX Psalm 55:15** 
 <small><sub>**LXX:**</sub></small>
 death come upon them, and let them go down into Hades alive! For wickedness in  their sojourn, \[is\] in \[the\] midst of them. 
-<small><sub>**KJV:**</sub></small>
-Let death seize upon them, [and] let them go down quick into hell: for wickedness [is] in their dwellings, [and] among them.
-<small><sub>**BSB:**</sub></small>
-Let death seize them by surprise; let them go down to Sheol alive, for evil is with them in their homes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.14|<< Psalm 55:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.16|Psalm 55:16 >>]]</td></tr></table>
 
 | Translation | Greek |

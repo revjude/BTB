@@ -1,4 +1,4 @@
-**Ezekiel 17:5** 
+**Ezekiel 17:5**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took also of the seed of the land, and planted it in a fruitful field; he placed [it] by great waters, [and] set it [as] a willow tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took some of the seed of the land and planted it in fertile soil; he placed i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.4|<< Ezekiel 17:4]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.6|Ezekiel 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one of [the] seed of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2233G\|זֶּ֣רַע]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

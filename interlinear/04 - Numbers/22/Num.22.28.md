@@ -1,4 +1,4 @@
-**Numbers 22:28** 
+**Numbers 22:28**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have 
 > $\quad$ referenced by: [[2Pet.2.15|2Pet 2:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|יִּפְתַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Tach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

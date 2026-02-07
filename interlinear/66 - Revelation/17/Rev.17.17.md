@@ -1,12 +1,12 @@
-**Revelation 17:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:17**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
 <small><sub>**BSB:**</sub></small>
 For God has put it into their hearts to carry out His purpose by uniting to give their kingdom to the beast, until the words of God are fulfilled.
 <small><sub>**Literal:**</sub></small>
 <the> For God has put into the hearts of them to do the purpose of Him and to do one purpose and to give the kingdom of them to the beast until they will be completed the words <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.16|<< Revelation 17:16]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.18|Revelation 17:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

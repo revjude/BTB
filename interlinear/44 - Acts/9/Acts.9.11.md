@@ -1,12 +1,12 @@
-**Acts 9:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:11**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord [said] unto him, Arise, and go into the street which is called Straight, and inquire in the house of Judas for [one] called Saul, of Tarsus: for, behold, he prayeth,
 <small><sub>**BSB:**</sub></small>
 “Get up!” the Lord told him. “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.
 <small><sub>**Literal:**</sub></small>
 <the> And the Lord to him [said]; Having risen up do go into the street which is being called Straight and do seek in [the] house of Judas Saul named of Tarsus; Behold for he is praying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.10|<< Acts 9:10]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.12|Acts 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

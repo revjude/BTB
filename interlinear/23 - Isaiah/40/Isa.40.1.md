@@ -1,4 +1,4 @@
-**Isaiah 40:1** 
+**Isaiah 40:1**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Comfort ye, comfort ye my people, saith your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Comfort ye, comfort ye my people, saith your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.8|<< Isaiah 39:8]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.2|Isaiah 40:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | comfort  |**<big>&#8207;[[H5162G\|נַחֲמ֥וּ]]&#8207; </big>**| na.cha.Mu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | comfort  |**<big>&#8207;[[H5162G\|נַחֲמ֖וּ]]&#8207; </big>**| na.cha.Mu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

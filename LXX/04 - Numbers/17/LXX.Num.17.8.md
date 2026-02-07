@@ -1,10 +1,7 @@
 **LXX Numbers 17:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the next day, that Moses entered into the tent of the testimony; and behold, the rod of Aaron sprouted for \[the\] house of Levi; and it brought forth a bud, and it blossomed a flower, and sprouted walnuts. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
-<small><sub>**BSB:**</sub></small>
-The next day Moses entered the Tent of the Testimony and saw that Aaron’s staff, representing the house of Levi, had sprouted, put forth buds, blossomed, and produced almonds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.7|<< Numbers 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.9|Numbers 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

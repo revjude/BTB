@@ -1,10 +1,7 @@
 **LXX Joshua 8:17** 
 <small><sub>**LXX:**</sub></small>
 They did not leave behind any one in  Ai and in Beth-el who did not pursue after Israel. And they left the city being open, and they pursued after Israel. 
-<small><sub>**KJV:**</sub></small>
-And there was not a man left in Ai or Bethel, that went not out after Israel: and they left the city open, and pursued after Israel.
-<small><sub>**BSB:**</sub></small>
-Not a man was left in Ai or Bethel who did not go out after Israel, leaving the city wide open while they pursued Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.16|<< Joshua 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.18|Joshua 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

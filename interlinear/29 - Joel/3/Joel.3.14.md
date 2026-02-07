@@ -1,4 +1,4 @@
-**Joel 3:14** (4:14)
+**Joel 3:14**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Multitudes, multitudes in the valley of decision: for the day of the LORD [is] near in the valley of decision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Multitudes, multitudes in the valley of decision! For the Day of the LORD is nea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.13|<< Joel 3:13]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.15|Joel 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | multitudes  |**<big>&#8207;[[H1995A\|הֲמוֹנִ֣ים]]&#8207; </big>**| ha.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | multitudes  |**<big>&#8207;[[H1995A\|הֲמוֹנִ֔ים]]&#8207; </big>**| ha.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

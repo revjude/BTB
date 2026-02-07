@@ -1,4 +1,4 @@
-**1 Samuel 6:21** 
+**1 Samuel 6:21**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, [and] fetch it up to you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they sent messengers to the people of Kiriath-jearim, saying, “The Philisti
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.20|<< 1 Samuel 6:20]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.1|1 Samuel 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְחוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | messengers  |**<big>&#8207;[[H4397G\|מַלְאָכִ֔ים]]&#8207; </big>**| mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

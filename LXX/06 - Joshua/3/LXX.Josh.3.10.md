@@ -1,10 +1,7 @@
 **LXX Joshua 3:10** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said, In this you shall know that God \[is\] living among you, and by annihilating he will annihilate from our face the Canaanite, and the Hittite, and the Hivite, and the Perizzite, and the Amorite, and the Girgashite, and the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said, Hereby ye shall know that the living God [is] among you, and [that] he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
-<small><sub>**BSB:**</sub></small>
-He continued, “This is how you will know that the living God is among you and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.9|<< Joshua 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.11|Joshua 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

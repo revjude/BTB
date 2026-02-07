@@ -1,4 +1,4 @@
-**Jeremiah 17:14** 
+**Jeremiah 17:14**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou [art] my praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Heal me, O LORD, and I will be healed; save me, and I will be saved, for You are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.13|<< Jeremiah 17:13]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.15|Jeremiah 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heal me  |**<big>&#8207;[[H7495\|רְפָאֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| re.fa.'E.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

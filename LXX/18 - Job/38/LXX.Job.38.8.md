@@ -1,10 +1,7 @@
 **LXX Job 38:8** 
 <small><sub>**LXX:**</sub></small>
 And I shut up \[the\] sea with gates, when it was led irresistibly going forth out of its mother's belly. 
-<small><sub>**KJV:**</sub></small>
-Or [who] shut up the sea with doors, when it brake forth, [as if] it had issued out of the womb?
-<small><sub>**BSB:**</sub></small>
-Who enclosed the sea behind doors when it burst forth from the womb,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.7|<< Job 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.9|Job 38:9 >>]]</td></tr></table>
 
 | Translation | Greek |

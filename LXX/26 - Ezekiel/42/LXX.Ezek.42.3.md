@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:3** 
 <small><sub>**LXX:**</sub></small>
 being diagramed in which manner the gates of the inner courtyard, and in which manner the peristyles of the outer courtyard, \[were\] being set in rows facing three rank stoas. 
-<small><sub>**KJV:**</sub></small>
-Over against the twenty [cubits] which [were] for the inner court, and over against the pavement which [was] for the utter court, [was] gallery against gallery in three [stories].
-<small><sub>**BSB:**</sub></small>
-Gallery faced gallery in three levels opposite the twenty cubits that belonged to the inner court and opposite the pavement that belonged to the outer court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.2|<< Ezekiel 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.4|Ezekiel 42:4 >>]]</td></tr></table>
 
 | Translation | Greek |

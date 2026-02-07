@@ -1,10 +1,7 @@
 **LXX Proverbs 3:28** 
 <small><sub>**LXX:**</sub></small>
 You should not say, Returning back, come back again! and tomorrow I will give; \[while\] being able to do good \[is\] with you; for you shall not see what shall give birth  against \[you\]. 
-<small><sub>**KJV:**</sub></small>
-Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.
-<small><sub>**BSB:**</sub></small>
-Do not tell your neighbor, “Come back tomorrow and I will provide”—when you already have the means.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.27|<< Proverbs 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.29|Proverbs 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

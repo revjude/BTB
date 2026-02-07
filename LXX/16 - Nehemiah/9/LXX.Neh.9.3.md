@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:3** 
 <small><sub>**LXX:**</sub></small>
 And they stood in  their position, and they read in \[the\] scroll of \[the\] law of \[the\] <span class="smallcaps">lord</span> their God the fourth of the day. And they were declaring openly to the <span class="smallcaps">lord</span> the fourth of the day, and doing obeisance to the <span class="smallcaps">lord</span> their God. 
-<small><sub>**KJV:**</sub></small>
-And they stood up in their place, and read in the book of the law of the LORD their God [one] fourth part of the day; and [another] fourth part they confessed, and worshipped the LORD their God.
-<small><sub>**BSB:**</sub></small>
-While they stood in their places, they read from the Book of the Law of the LORD their God for a quarter of the day, and they spent another quarter of the day in confession and worship of the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.2|<< Nehemiah 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.4|Nehemiah 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

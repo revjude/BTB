@@ -1,4 +1,4 @@
-**Numbers 11:26** 
+**Numbers 11:26**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there remained two [of the] men in the camp, the name of the one [was] Eldad, and the name of the other Medad: and the spirit rested upon them; and they [were] of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two men, however, had remained in the camp—one named Eldad and the other Medad
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.25|<< Numbers 11:25]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.27|Numbers 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they had remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7604\|יִּשָּׁאֲר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.'a.Ru<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

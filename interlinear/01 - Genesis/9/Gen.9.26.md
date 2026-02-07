@@ -1,4 +1,4 @@
-**Genesis 9:26** 
+**Genesis 9:26**<big><big>[[Gen.9.26 Shem’s Blessing and Noah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Blessed [be] the LORD God of Shem; and Canaan shall be his servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also declared: “Blessed be the LORD, the God of Shem! May Canaan be the ser
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.25|<< Genesis 9:25]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.27|Genesis 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֥וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

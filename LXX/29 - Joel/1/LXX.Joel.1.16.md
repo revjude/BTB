@@ -1,10 +1,7 @@
 **LXX Joel 1:16** 
 <small><sub>**LXX:**</sub></small>
 Were not foods lifted away in front of your eyes? from out of \[the\] house of your God gladness and joy? 
-<small><sub>**KJV:**</sub></small>
-Is not the meat cut off before our eyes, [yea], joy and gladness from the house of our God?
-<small><sub>**BSB:**</sub></small>
-Has not the food been cut off before our very eyes—joy and gladness from the house of our God?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.15|<< Joel 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.17|Joel 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

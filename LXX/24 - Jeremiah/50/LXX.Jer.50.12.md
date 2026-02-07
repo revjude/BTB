@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:12** 
 <small><sub>**LXX:**</sub></small>
 Your mother \[is\] exceedingly shamed; the one giving birth to you felt shame. Behold, \[the\] last of \[the\] nations \[shall be\] desolate and untrodden. 
-<small><sub>**KJV:**</sub></small>
-Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the hindermost of the nations [shall be] a wilderness, a dry land, and a desert.
-<small><sub>**BSB:**</sub></small>
-your mother will be greatly ashamed; she who bore you will be disgraced. Behold, she will be the least of the nations, a wilderness, a dry land, and a desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
 | Translation | Greek |

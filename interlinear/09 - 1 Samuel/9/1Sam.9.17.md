@@ -1,4 +1,4 @@
-**1 Samuel 9:17** 
+**1 Samuel 9:17**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Samuel saw Saul, the LORD told him, “Here is the man of whom I spoke; he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.16|<< 1 Samuel 9:16]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.18|1 Samuel 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Samuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8050G\|שְׁמוּאֵ֖ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he saw  |**<big>&#8207;[[H7200G\|רָאָ֣ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 2:36** 
+**Jeremiah 2:36**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How impulsive you are, constantly changing your ways! You will be disappointed b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.35|<< Jeremiah 2:35]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.37|Jeremiah 2:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you treat lightly  |**<big>&#8207;[[H0235\|תֵּזְלִ֥י]]&#8207; </big>**| te.ze.Li<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

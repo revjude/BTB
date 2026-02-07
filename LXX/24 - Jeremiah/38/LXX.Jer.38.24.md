@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:24** 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah said to him, to  Jeremiah, Let no man know of  these words! and you shall in no way die. 
-<small><sub>**KJV:**</sub></small>
-Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die.
-<small><sub>**BSB:**</sub></small>
-Then Zedekiah warned Jeremiah, “Do not let anyone know about this conversation, or you will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.23|<< Jeremiah 38:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.25|Jeremiah 38:25 >>]]</td></tr></table>
 
 | Translation | Greek |

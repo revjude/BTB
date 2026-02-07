@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:15** 
 <small><sub>**LXX:**</sub></small>
 And the words of Rehoboam, the first and last, behold are they not written in the words of Shemaiah the prophet, and Iddo the seer  to trace descent and  his actions. And Rehoboam waged war and Jeroboam all the days. 
-<small><sub>**KJV:**</sub></small>
-Now the acts of Rehoboam, first and last, [are] they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And [there were] wars between Rehoboam and Jeroboam continually.
-<small><sub>**BSB:**</sub></small>
-Now the acts of Rehoboam, from first to last, are they not written in the records of Shemaiah the Prophet and of Iddo the Seer concerning the genealogies? There was war between Rehoboam and Jeroboam throughout their days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.14|<< 2 Chronicles 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.16|2 Chronicles 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

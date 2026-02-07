@@ -1,10 +1,7 @@
 **LXX Zephaniah 2:13** 
 <small><sub>**LXX:**</sub></small>
 And he will stretch out  his hand against \[the\] north. And he shall destroy the Assyrian, and he shall establish  Nineveh for a waterless extinction, as a wilderness. 
-<small><sub>**KJV:**</sub></small>
-And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, [and] dry like a wilderness.
-<small><sub>**BSB:**</sub></small>
-And He will stretch out His hand against the north and destroy Assyria; He will make Nineveh a desolation, as dry as a desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.12|<< Zephaniah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.14|Zephaniah 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

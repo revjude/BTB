@@ -1,10 +1,7 @@
 **LXX Psalm 135:3** 
 <small><sub>**LXX:**</sub></small>
 Praise the <span class="smallcaps">lord</span>, for \[the\] <span class="smallcaps">lord</span> \[is\] good! Strum \[to\] his name, for \[it is\] good! 
-<small><sub>**KJV:**</sub></small>
-Praise the LORD; for the LORD [is] good: sing praises unto his name; for [it is] pleasant.
-<small><sub>**BSB:**</sub></small>
-Hallelujah, for the LORD is good; sing praises to His name, for it is lovely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.2|<< Psalm 135:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.4|Psalm 135:4 >>]]</td></tr></table>
 
 | Translation | Greek |

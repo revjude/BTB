@@ -1,4 +1,4 @@
-**Joshua 5:11** 
+**Joshua 5:11**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched [corn] in the selfsame day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The day after the Passover, on that very day, they ate unleavened bread and roas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.10|<< Joshua 5:10]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.12|Joshua 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּ֨אכְל֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.khe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] produce of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5669\|עֲב֥וּר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

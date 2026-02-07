@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:2** 
 <small><sub>**LXX:**</sub></small>
 And Ezra the priest brought the law before the assembly, from man unto woman, and all the ones perceiving to hear, on day one of the seventh month. 
-<small><sub>**KJV:**</sub></small>
-And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
-<small><sub>**BSB:**</sub></small>
-On the first day of the seventh month, Ezra the priest brought the Law before the assembly of men and women and all who could listen and understand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.1|<< Nehemiah 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.3|Nehemiah 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

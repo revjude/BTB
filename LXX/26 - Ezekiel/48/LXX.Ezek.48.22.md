@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:22** 
 <small><sub>**LXX:**</sub></small>
 And by the \[borders\] of the Levites from the possession of the city in \[the\] midst of the one guiding it will be; between the borders of Judah and between the borders of Benjamin, and to the one guiding it will be. 
-<small><sub>**KJV:**</sub></small>
-Moreover from the possession of the Levites, and from the possession of the city, [being] in the midst [of that] which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince.
-<small><sub>**BSB:**</sub></small>
-So the Levitical property and the city property will lie in the center of the area belonging to the prince—the area between the borders of Judah and Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.21|<< Ezekiel 48:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.23|Ezekiel 48:23 >>]]</td></tr></table>
 
 | Translation | Greek |

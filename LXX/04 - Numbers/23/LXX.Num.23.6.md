@@ -1,10 +1,7 @@
 **LXX Numbers 23:6** 
 <small><sub>**LXX:**</sub></small>
 And he returned to him, and thus he stood over  his whole burnt-offerings, and all the rulers of Moab with him. 
-<small><sub>**KJV:**</sub></small>
-And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
-<small><sub>**BSB:**</sub></small>
-So he returned to Balak, who was standing there beside his burnt offering, with all the princes of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.5|<< Numbers 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.7|Numbers 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

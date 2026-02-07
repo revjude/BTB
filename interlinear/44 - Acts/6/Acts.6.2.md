@@ -1,12 +1,12 @@
-**Acts 6:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:2**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the twelve called the multitude of the disciples [unto them], and said, It is not reason that we should leave the word of God, and serve tables.
 <small><sub>**BSB:**</sub></small>
 So the Twelve summoned all the disciples and said, “It is unacceptable for us to neglect the word of God in order to wait on tables.
 <small><sub>**Literal:**</sub></small>
 Having called near then the Twelve the multitude of the disciples they said; Not desirable it is [for] us having neglected the word <the> of God to attend at tables.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.1|<< Acts 6:1]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.3|Acts 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called near |**<big>[[G4341\|προσκαλεσάμενοι]]</big>**  |proskalesamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

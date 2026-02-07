@@ -1,4 +1,4 @@
-**Genesis 12:8** 
+**Genesis 12:8**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, [having] Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there Abram moved on to the hill country east of Bethel and pitched his ten
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he moved on  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6275\|יַּעְתֵּ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya'.Tek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֜ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

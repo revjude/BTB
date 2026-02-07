@@ -1,4 +1,4 @@
-**Genesis 4:26** 
+**Genesis 4:26**<big><big>[[Gen.4.25 Seth and Enosh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And to Seth also a son was born, and he called him Enosh. At that time men began
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.25|<< Genesis 4:25]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.1|Genesis 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Seth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8352\|שֵׁ֤ת]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> Shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

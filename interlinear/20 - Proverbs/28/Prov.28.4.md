@@ -1,4 +1,4 @@
-**Proverbs 28:4** 
+**Proverbs 28:4**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that forsake the law praise the wicked: but such as keep the law contend with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who forsake the law praise the wicked, but those who keep the law resist t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.3|<< Proverbs 28:3]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.5|Proverbs 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] forsake  |**<big>&#8207;[[H5800A\|עֹזְבֵ֣י]]&#8207; </big>**| 'o.ze.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> [the] law  |**<big>&#8207;[[H8451\|ת֭וֹרָה]]&#8207; </big>**| To.rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

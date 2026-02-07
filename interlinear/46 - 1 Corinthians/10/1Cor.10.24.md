@@ -1,12 +1,12 @@
-**1 Corinthians 10:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:24**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man seek his own, but every man another’s [wealth].
 <small><sub>**BSB:**</sub></small>
 No one should seek his own good, but the good of others.
 <small><sub>**Literal:**</sub></small>
 No one the [good] of himself should seek but that of the other each.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.23|<< 1 Corinthians 10:23]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.25|1 Corinthians 10:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No one |**<big>[[G3367\|μηδεὶς]]</big>**  |mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [good] |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

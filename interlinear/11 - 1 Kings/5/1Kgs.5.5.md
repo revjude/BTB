@@ -1,4 +1,4 @@
-**1 Kings 5:5** (5:19)
+**1 Kings 5:5**<big><big>[[1Kgs.5.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So behold, I plan to build a house for the Name of the LORD my God, according to
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.4|<< 1 Kings 5:4]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.6|1 Kings 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and here I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] saying  |**<big>&#8207;[[H0559\|אֹמֵ֔ר]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:18** 
 <small><sub>**LXX:**</sub></small>
 For in abundance of wisdom \[is\] abundance of knowledge; and the one adding knowledge shall add pain. 
-<small><sub>**KJV:**</sub></small>
-For in much wisdom [is] much grief: and he that increaseth knowledge increaseth sorrow.
-<small><sub>**BSB:**</sub></small>
-For with much wisdom comes much sorrow, and as knowledge grows, grief increases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.17|<< Ecclesiastes 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.1|Ecclesiastes 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

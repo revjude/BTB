@@ -1,4 +1,4 @@
-**Jeremiah 47:7** 
+**Jeremiah 47:7**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How can it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can it rest when the LORD has commanded it? He has appointed it against Ashk
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.6|<< Jeremiah 47:6]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.1|Jeremiah 48:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349A\|אֵ֣יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you be inactive  |**<big>&#8207;[[H8252\|תִּשְׁקֹ֔טִי]]&#8207; </big>**| tish.Ko.ti<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

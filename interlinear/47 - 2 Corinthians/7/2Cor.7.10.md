@@ -1,12 +1,12 @@
-**2 Corinthians 7:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:10**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.
 <small><sub>**BSB:**</sub></small>
 Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death.
 <small><sub>**Literal:**</sub></small>
 The for according to God grief repentance to salvation without regret produces, <the> and the of the world grief death produces.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.9|<< 2 Corinthians 7:9]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.11|2 Corinthians 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

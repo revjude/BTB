@@ -1,6 +1,6 @@
 (KJV) **Psalm 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28|<< Psalm 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30|Psalm 30 >>]]</td></tr></table>
 
-***Ascribe Glory to the LORD*** ^bsb1322
+<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥃]]</big></big>***Ascribe Glory to the LORD***
 
 
 

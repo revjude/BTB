@@ -1,10 +1,7 @@
 **LXX Psalm 119:162** 
 <small><sub>**LXX:**</sub></small>
 I shall exult over  your oracles, as  one finding many spoils. 
-<small><sub>**KJV:**</sub></small>
-I rejoice at thy word, as one that findeth great spoil.
-<small><sub>**BSB:**</sub></small>
-I rejoice in Your promise like one who finds great spoil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.162|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.161|<< Psalm 119:161]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.163|Psalm 119:163 >>]]</td></tr></table>
 
 | Translation | Greek |

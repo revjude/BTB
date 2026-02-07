@@ -1,10 +1,7 @@
 **LXX Esther 1:16** 
 <small><sub>**LXX:**</sub></small>
 And Memucan said to the king and to the rulers, Not only queen Vashti wronged the king, but also all the rulers, and the leaders of the king, 
-<small><sub>**KJV:**</sub></small>
-And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that [are] in all the provinces of the king Ahasuerus.
-<small><sub>**BSB:**</sub></small>
-And in the presence of the king and his princes, Memucan replied, “Queen Vashti has wronged not only the king, but all the princes and the peoples in all the provinces of King Xerxes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.15|<< Esther 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.17|Esther 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

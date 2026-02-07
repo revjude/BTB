@@ -1,10 +1,7 @@
 **LXX Ezra 6:17** 
 <small><sub>**LXX:**</sub></small>
 And they offered for the holiday of rededication  of this house of God; calves -- a hundred; rams -- two hundred; lambs -- four hundred; winter yearlings of \[the\] goats for a sin \[offering\] for all Israel -- twelve, for \[the\] number of \[the\] tribes of Israel. 
-<small><sub>**KJV:**</sub></small>
-And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-For the dedication of the house of God they offered a hundred bulls, two hundred rams, four hundred lambs, and a sin offering for all Israel of twelve male goats, one for each tribe of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

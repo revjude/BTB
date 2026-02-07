@@ -1,10 +1,7 @@
 **LXX Leviticus 1:13** 
 <small><sub>**LXX:**</sub></small>
 And the intestines, and the feet they shall wash in water. And the priest shall bring the whole \[amount\], and shall place \[them\] upon the altar -- it is a yield \[offering\] sacrifice scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But he shall wash the inwards and the legs with water: and the priest shall bring [it] all, and burn [it] upon the altar: it [is] a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The entrails and legs must be washed with water, and the priest shall present all of it and burn it on the altar; it is a burnt offering, a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.12|<< Leviticus 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.14|Leviticus 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

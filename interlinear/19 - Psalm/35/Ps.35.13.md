@@ -1,4 +1,4 @@
-**Psalms 35:13** 
+**Psalms 35:13**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.12|<< Psalms 35:12]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.14|Psalms 35:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when were sick they  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2470H\|חֲלוֹתָ֡]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.lo.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

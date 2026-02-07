@@ -1,10 +1,7 @@
 **LXX Numbers 24:14** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, I run to  my place. Come, I will advise you what this people will do  \[with\] your people in \[the\] last of the days. 
-<small><sub>**KJV:**</sub></small>
-And now, behold, I go unto my people: come [therefore, and] I will advertise thee what this people shall do to thy people in the latter days.
-<small><sub>**BSB:**</sub></small>
-Now I am going back to my people, but come, let me warn you what this people will do to your people in the days to come.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.13|<< Numbers 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.15|Numbers 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

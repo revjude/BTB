@@ -1,4 +1,4 @@
-**Psalms 34:5** (34:6)
+**Psalms 34:5**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They looked unto him, and were lightened: and their faces were not ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who look to Him are radiant with joy; their faces shall never be ashamed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.4|<< Psalms 34:4]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.6|Psalms 34:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people look  |**<big>&#8207;[[H5027\|הִבִּ֣יטוּ]]&#8207; </big>**| hi.Bi.tu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

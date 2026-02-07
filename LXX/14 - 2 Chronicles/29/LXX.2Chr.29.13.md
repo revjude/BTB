@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:13** 
 <small><sub>**LXX:**</sub></small>
 and of the sons of Elizaphan -- Shimri and Jeiel; and of the sons of Asaph -- Zechariah and Mattaniah; 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:
-<small><sub>**BSB:**</sub></small>
-Shimri and Jeuel from the Elizaphanites; Zechariah and Mattaniah from the Asaphites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.12|<< 2 Chronicles 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.14|2 Chronicles 29:14 >>]]</td></tr></table>
 
 | Translation | Greek |

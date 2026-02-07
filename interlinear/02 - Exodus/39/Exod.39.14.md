@@ -1,4 +1,4 @@
-**Exodus 39:14** 
+**Exodus 39:14**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the stones [were] according to the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet, every one with his name, according to the twelve tribes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The twelve stones corresponded to the names of the sons of Israel. Each stone wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.13|<< Exodus 39:13]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.15|Exodus 39:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the stones  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0068G\|אֲבָנִים]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.va.nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

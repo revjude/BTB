@@ -1,12 +1,12 @@
-**Revelation 1:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:18**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [I am] he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 <small><sub>**BSB:**</sub></small>
 the Living One. I was dead, and behold, now I am alive forever and ever! And I hold the keys of Death and of Hades.
 <small><sub>**Literal:**</sub></small>
 and the Living [One], and I was dead and behold living I am to the ages of the ages Amen and I have the keys <the> of Death and <the> of Hades.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.17|<< Revelation 1:17]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.19|Revelation 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

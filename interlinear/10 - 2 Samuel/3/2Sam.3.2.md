@@ -1,4 +1,4 @@
-**2 Samuel 3:2** 
+**2 Samuel 3:2**<big><big>[[2Sam.3.1 The House of David Strengthened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And sons were born to David in Hebron: His firstborn was Amnon, by Ahinoam of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.1|<< 2 Samuel 3:1]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.3|2 Samuel 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were born  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יִּוָּלְד֧וּ]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ye.le.du<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֛ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

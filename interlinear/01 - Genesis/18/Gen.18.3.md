@@ -1,4 +1,4 @@
-**Genesis 18:3** 
+**Genesis 18:3**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And said, My Lord, if now I have found favour in thy sight, pass not away, I pra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.2|<< Genesis 18:2]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.4|Genesis 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֑ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lord my  |**<big>&#8207;[[H0113\|אֲדֹנָ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.Na<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

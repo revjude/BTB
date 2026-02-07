@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:21** 
 <small><sub>**LXX:**</sub></small>
 Say to the house  of Israel! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[will\] profane  my holy places, \[the\] neighing of your strength, \[the\] desirable \[things\] of your eyes, and for what your souls spare; and  your sons and  your daughters whom you abandoned will fall by \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
-<small><sub>**BSB:**</sub></small>
-Tell the house of Israel that this is what the Lord GOD says: ‘I am about to desecrate My sanctuary, the pride of your power, the desire of your eyes, and the delight of your soul. And the sons and daughters you left behind will fall by the sword.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.20|<< Ezekiel 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.22|Ezekiel 24:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 7:15** 
 <small><sub>**LXX:**</sub></small>
 He dug up a pit, even he dug it, and he shall fall into a cesspool which he worked. 
-<small><sub>**KJV:**</sub></small>
-He made a pit, and digged it, and is fallen into the ditch [which] he made.
-<small><sub>**BSB:**</sub></small>
-He has dug a hole and hollowed it out; he has fallen into a pit of his own making.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.14|<< Psalm 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.16|Psalm 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

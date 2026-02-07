@@ -1,10 +1,7 @@
 **LXX Exodus 17:12** 
 <small><sub>**LXX:**</sub></small>
 And the hands of Moses \[became\] heavy. And taking a stone they placed \[it\] under him, and he sat down upon it. And Aaron and Hur supported  his hands; here one and there one. And the hands of Moses were supported until \[the\] descent of \[the\] sun. 
-<small><sub>**KJV:**</sub></small>
-But Moses’ hands [were] heavy; and they took a stone, and put [it] under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.
-<small><sub>**BSB:**</sub></small>
-When Moses’ hands grew heavy, they took a stone and put it under him, and he sat on it. Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.11|<< Exodus 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.13|Exodus 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

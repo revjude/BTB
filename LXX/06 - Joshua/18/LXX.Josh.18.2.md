@@ -1,10 +1,7 @@
 **LXX Joshua 18:2** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel were left, for seven tribes did not inherit their inheritance. 
-<small><sub>**KJV:**</sub></small>
-And there remained among the children of Israel seven tribes, which had not yet received their inheritance.
-<small><sub>**BSB:**</sub></small>
-there were still seven tribes of Israel who had not yet received their inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.1|<< Joshua 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.3|Joshua 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

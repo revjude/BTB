@@ -1,10 +1,7 @@
 **LXX Isaiah 1:9** 
 <small><sub>**LXX:**</sub></small>
 And unless \[the\] <span class="smallcaps">lord</span> of Hosts left us a seed, we would have become as Sodom, and likened as Gomorrah. 
-<small><sub>**KJV:**</sub></small>
-Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, [and] we should have been like unto Gomorrah.
-<small><sub>**BSB:**</sub></small>
-Unless the LORD of Hosts had left us a few survivors, we would have become like Sodom, we would have resembled Gomorrah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.8|<< Isaiah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.10|Isaiah 1:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 1:9** is...

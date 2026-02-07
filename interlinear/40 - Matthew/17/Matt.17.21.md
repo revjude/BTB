@@ -1,12 +1,12 @@
-**Matthew 17:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:21**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit this kind goeth not out but by prayer and fasting.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 this now <the> kind not goes out only except with prayer and with fastings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.20|<< Matthew 17:20]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.22|Matthew 17:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">KO</abbr> | |

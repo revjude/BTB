@@ -1,10 +1,7 @@
 **LXX Obadiah 1:10** 
 <small><sub>**LXX:**</sub></small>
 Because of the slaughter and the impiety against your brother Jacob, shame shall cover you, and you shall be removed into the eon. 
-<small><sub>**KJV:**</sub></small>
-For [thy] violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
-<small><sub>**BSB:**</sub></small>
-Because of the violence against your brother Jacob, you will be covered with shame and cut off forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.9|<< Obadiah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.11|Obadiah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

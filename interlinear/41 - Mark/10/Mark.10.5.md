@@ -1,12 +1,12 @@
-**Mark 10:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:5**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart.
 <small><sub>**Literal:**</sub></small>
 and answering <the> But Jesus said to them; Because of the hardness of heart of you He wrote for you <the> commandment this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.4|<< Mark 10:4]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.6|Mark 10:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

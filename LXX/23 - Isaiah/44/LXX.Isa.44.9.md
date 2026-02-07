@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they were not hearkening then, the ones shaping and  carving all \[the\] vain \[idols\], doing  their wishes which do not benefit them. But they are their own witnesses. They shall not see, and they shall not know, that they should be ashamed -- he who shapes mighty and a carved molten casting for unprofitable \[things\]. Behold, all the ones partaking with him shall be ashamed -- 
-<small><sub>**KJV:**</sub></small>
-They that make a graven image [are] all of them vanity; and their delectable things shall not profit; and they [are] their own witnesses; they see not, nor know; that they may be ashamed.
-<small><sub>**BSB:**</sub></small>
-All makers of idols are nothing, and the things they treasure are worthless. Their witnesses fail to see or comprehend, so they are put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.8|<< Isaiah 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.10|Isaiah 44:10 >>]]</td></tr></table>
 
 | Translation | Greek |

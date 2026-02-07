@@ -1,4 +1,4 @@
-**Exodus 20:16** 
+**Exodus 20:16**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bear false witness against thy neighbour.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall not bear false witness against your neighbor.
 > $\quad$ referenced by: [[Matt.19.18|Matt 19:18-19]] ☩ [[Mark.10.19|Mark 10:19]] ☩ [[Luke.18.20|Luke 18:20]] ☩ [[Rom.13.9|Rom 13:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must testify  |**<big>&#8207;[[H6030B\|תַעֲנֶ֥ה]]&#8207; </big>**| ta.'a.Neh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 4:11** (4:8)
+**Daniel 4:11**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tree grew large and strong; its top reached the sky, and it was visible to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.10|<< Daniel 4:10]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.12|Daniel 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it grew great  |**<big>&#8207;[[H7236\|רְבָ֥ה]]&#8207; </big>**| re.Vah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tree the  |**<big>&#8207;[[H0363\|אִֽילָנָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'i.la.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

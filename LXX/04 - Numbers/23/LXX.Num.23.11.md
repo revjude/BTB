@@ -1,10 +1,7 @@
 **LXX Numbers 23:11** 
 <small><sub>**LXX:**</sub></small>
 And Balak said to Balaam, What have you done to me? For a curse for my enemies I have called you, and behold, you have blessed a blessing. 
-<small><sub>**KJV:**</sub></small>
-And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed [them] altogether.
-<small><sub>**BSB:**</sub></small>
-Then Balak said to Balaam, “What have you done to me? I brought you here to curse my enemies, and behold, you have only blessed them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.10|<< Numbers 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.12|Numbers 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

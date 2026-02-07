@@ -1,12 +1,12 @@
-**Acts 19:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:40**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse.
 <small><sub>**BSB:**</sub></small>
 For we are in jeopardy of being charged with rioting for today’s events, and we have no justification to account for this commotion.”
 <small><sub>**Literal:**</sub></small>
 And for we are in danger of being accused of insurrection in regard to <the> this day not one cause there is existing concerning which not we will be able to render a reason for <the> commotion this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.39|<< Acts 19:39]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.41|Acts 19:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

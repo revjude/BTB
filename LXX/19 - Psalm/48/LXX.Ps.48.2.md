@@ -1,10 +1,7 @@
 **LXX Psalm 48:2** 
 <small><sub>**LXX:**</sub></small>
 With good root, a leap for joy of all the earth -- mount Zion on the sides of the north, the city of the great king. 
-<small><sub>**KJV:**</sub></small>
-Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the sides of the north, the city of the great King.
-<small><sub>**BSB:**</sub></small>
-Beautiful in loftiness, the joy of all the earth, like the peaks of Zaphon is Mount Zion, the city of the great King.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.1|<< Psalm 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.3|Psalm 48:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 48:2** is...

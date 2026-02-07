@@ -1,10 +1,7 @@
 **LXX Psalm 33:16** 
 <small><sub>**LXX:**</sub></small>
 A king \[is\] not delivered because of much force; and a giant shall not be delivered by \[the\] magnitude of his strength. 
-<small><sub>**KJV:**</sub></small>
-There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.
-<small><sub>**BSB:**</sub></small>
-No king is saved by his vast army; no warrior is delivered by his great strength.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.15|<< Psalm 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.17|Psalm 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 135:9** 
 <small><sub>**LXX:**</sub></small>
 He sent out signs and miracles in \[the\] midst of you, O Egypt, on Pharaoh, and among all  his servants. 
-<small><sub>**KJV:**</sub></small>
-[Who] sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
-<small><sub>**BSB:**</sub></small>
-He sent signs and wonders into your midst, O Egypt, against Pharaoh and all his servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.8|<< Psalm 135:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.10|Psalm 135:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 23:11** 
+**Exodus 23:11**<big><big>[[Exod.23.10 Sabbath Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the seventh [year] thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, [and] with thy oliveyard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but in the seventh year you must let it rest and lie fallow, so that the poor am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the seventh [year]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֞ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will let rest it  |**<big>&#8207;[[H8058\|תִּשְׁמְטֶ֣]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| tish.me.Te.<small><sup>[[HVqi2ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

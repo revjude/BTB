@@ -1,12 +1,12 @@
-**Acts 28:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:17**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men [and] brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
 <small><sub>**BSB:**</sub></small>
 After three days, he called together the leaders of the Jews. When they had gathered, he said to them, “Brothers, although I have done nothing against our people or the customs of our fathers, I was taken prisoner in Jerusalem and handed over to the Romans.
 <small><sub>**Literal:**</sub></small>
 It came to pass then after days three calling together <the> he those being of the Jews leaders; When they were assembling then they he was saying to them; I myself, men brothers no [thing] against having done the people or against the customs <the> of our fathers, a prisoner from Jerusalem was delivered into the hands of the Romans,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.16|<< Acts 28:16]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.18|Acts 28:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 21:7** 
+**Proverbs 21:7**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The robbery of the wicked shall destroy them; because they refuse to do judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The violence of the wicked will sweep them away because they refuse to do what i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] violence of  |**<big>&#8207;[[H7701\|שֹׁד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֥ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

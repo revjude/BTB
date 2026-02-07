@@ -1,4 +1,4 @@
-**1 Chronicles 6:77** (6:62)
+**1 Chronicles 6:77**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the rest of the children of Merari [were given] out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Merarites (the rest of the Levites) received the following: From the tribe o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.77|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.76|<< 1 Chronicles 6:76]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.78|1 Chronicles 6:78 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Merari  |**<big>&#8207;[[H4847\|מְרָרִי֮]]&#8207; </big>**| me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

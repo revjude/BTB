@@ -1,10 +1,7 @@
 **LXX Exodus 30:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall make it a holy scented unguent oil, a perfumed liquid scented by \[the\] craft of a perfumer -- it shall be a holy scented unguent oil. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.
-<small><sub>**BSB:**</sub></small>
-Prepare from these a sacred anointing oil, a fragrant blend, the work of a perfumer; it will be a sacred anointing oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.24|<< Exodus 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.26|Exodus 30:26 >>]]</td></tr></table>
 
 | Translation | Greek |

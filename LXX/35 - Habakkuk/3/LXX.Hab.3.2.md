@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:2** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, I listened to  your report, and I feared. O <span class="smallcaps">lord</span>, I contemplated  your works, and was startled. In \[the\] midst \[of the\] two living creatures you shall be known; in the approaching of the years you shall be recognized; in the time at hand you shall be made manifest when  my soul is disturbed; in wrath you shall remember mercy. 
-<small><sub>**KJV:**</sub></small>
-O LORD, I have heard thy speech, [and] was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.
-<small><sub>**BSB:**</sub></small>
-O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. Revive them in these years; make them known in these years. In Your wrath, remember mercy!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.1|<< Habakkuk 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.3|Habakkuk 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

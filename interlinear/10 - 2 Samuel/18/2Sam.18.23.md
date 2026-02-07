@@ -1,4 +1,4 @@
-**2 Samuel 18:23** 
+**2 Samuel 18:23**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But howsoever, [said he], let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But howsoever, [said he], let me run. And he said unto him, Run. Then Ahimaaz ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.22|<< 2 Samuel 18:22]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.24|2 Samuel 18:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may it be  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1961\|יהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whatever  |**<big>&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

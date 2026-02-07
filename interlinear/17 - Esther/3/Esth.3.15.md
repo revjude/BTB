@@ -1,4 +1,4 @@
-**Esther 3:15** 
+**Esther 3:15**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The posts went out, being hastened by the king’s commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The couriers left, spurred on by the king’s command, and the edict was issued 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.14|<< Esther 3:14]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.1|Esther 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the runners  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7323G\|רָצִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Tzim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they went out  |**<big>&#8207;[[H3318G\|יָצְא֤וּ]]&#8207; </big>**| ya.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

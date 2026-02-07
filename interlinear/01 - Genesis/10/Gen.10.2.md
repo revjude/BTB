@@ -1,4 +1,4 @@
-**Genesis 10:2** 
+**Genesis 10:2**<big><big>[[Gen.10.2 The Japhethites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.1|<< Genesis 10:1]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.3|Genesis 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Japheth  |**<big>&#8207;[[H3315\|יֶ֔פֶת]]&#8207; </big>**| Ye.fet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

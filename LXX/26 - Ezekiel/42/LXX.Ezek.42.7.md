@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] doorway outside in which manner the inner chambers of the courtyard of the one outside, the ones looking before the inner chambers of the ones towards \[the\] north -- fifty cubits in length. 
-<small><sub>**KJV:**</sub></small>
-And the wall that [was] without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof [was] fifty cubits.
-<small><sub>**BSB:**</sub></small>
-An outer wall in front of the chambers was fifty cubits long and ran parallel to the chambers and the outer court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.6|<< Ezekiel 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.8|Ezekiel 42:8 >>]]</td></tr></table>
 
 | Translation | Greek |

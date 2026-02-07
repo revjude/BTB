@@ -1,10 +1,7 @@
 **LXX Joel 1:7** 
 <small><sub>**LXX:**</sub></small>
 He appointed  my grapevine for extinction, and  my fig-trees for a splinter. In searching he searched it, and tossed \[it down\]; he whitened  its branches. 
-<small><sub>**KJV:**</sub></small>
-He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.
-<small><sub>**BSB:**</sub></small>
-It has laid waste My grapevine and splintered My fig tree. It has stripped off the bark and thrown it away; the branches have turned white.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.6|<< Joel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.8|Joel 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

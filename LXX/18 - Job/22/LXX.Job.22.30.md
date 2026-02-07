@@ -1,10 +1,7 @@
 **LXX Job 22:30** 
 <small><sub>**LXX:**</sub></small>
 He shall rescue \[the\] innocent; but be delivered in your cleanness of hands! 
-<small><sub>**KJV:**</sub></small>
-He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.
-<small><sub>**BSB:**</sub></small>
-He will deliver even one who is not innocent, rescuing him through the cleanness of your hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.29|<< Job 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.1|Job 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

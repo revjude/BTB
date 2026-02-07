@@ -1,10 +1,7 @@
 **LXX Numbers 35:7** 
 <small><sub>**LXX:**</sub></small>
 All the cities which you shall give to the Levites \[are\] forty and eight cities, these and  their outskirts. 
-<small><sub>**KJV:**</sub></small>
-[So] all the cities which ye shall give to the Levites [shall be] forty and eight cities: them [shall ye give] with their suburbs.
-<small><sub>**BSB:**</sub></small>
-The total number of cities you give the Levites will be forty-eight, with their corresponding pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.6|<< Numbers 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.8|Numbers 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

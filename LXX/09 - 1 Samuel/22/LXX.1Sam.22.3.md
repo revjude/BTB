@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:3** 
 <small><sub>**LXX:**</sub></small>
 And David went forth from there unto Mizpeh  of Moab. And he said to the king of Moab, Let indeed  my father and  my mother \[be\] by you, until whenever I know what God shall do to me. 
-<small><sub>**KJV:**</sub></small>
-And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, [and be] with you, till I know what God will do for me.
-<small><sub>**BSB:**</sub></small>
-From there David went to Mizpeh of Moab, where he said to the king of Moab, “Please let my father and mother stay with you until I learn what God will do for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.2|<< 1 Samuel 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.4|1 Samuel 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:21** 
 <small><sub>**LXX:**</sub></small>
 And who has known the spirit of \[the\] sons  of man, if it ascends itself upward? and the spirit of the beast, if it goes down itself below into the earth? 
-<small><sub>**KJV:**</sub></small>
-Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
-<small><sub>**BSB:**</sub></small>
-Who knows if the spirit of man rises upward and the spirit of the animal descends into the earth?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.20|<< Ecclesiastes 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.22|Ecclesiastes 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

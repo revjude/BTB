@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:27** 
 <small><sub>**LXX:**</sub></small>
 And Baasha him son of Ahijah over the house of Issachar besieged against, and he struck him in Gibbethon, the \[city\] of the Philistines; for Nadab and all Israel were besieging at Gibbethon. 
-<small><sub>**KJV:**</sub></small>
-And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which [belonged] to the Philistines; for Nadab and all Israel laid siege to Gibbethon.
-<small><sub>**BSB:**</sub></small>
-Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.26|<< 1 Kings 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.28|1 Kings 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

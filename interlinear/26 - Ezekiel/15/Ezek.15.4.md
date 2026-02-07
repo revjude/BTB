@@ -1,4 +1,4 @@
-**Ezekiel 15:4** 
+**Ezekiel 15:4**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for [any] work?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No, it is cast into the fire for fuel. The fire devours both ends, and the middl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.3|<< Ezekiel 15:3]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.5|Ezekiel 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the fire  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0784\|אֵ֖שׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

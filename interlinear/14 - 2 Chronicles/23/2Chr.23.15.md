@@ -1,4 +1,4 @@
-**2 Chronicles 23:15** 
+**2 Chronicles 23:15**<big><big>[[2Chr.23.12 The Death of Athaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they seized Athaliah as she reached the entrance of the Horse Gate on the pal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.14|<< 2 Chronicles 23:14]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.16|2 Chronicles 23:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּשִׂ֤ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

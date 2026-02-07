@@ -1,10 +1,7 @@
 **LXX Exodus 21:21** 
 <small><sub>**LXX:**</sub></small>
 And if \[the one\] should continue to live one day or two, he shall not be punished,  for he is his money. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding, if he continue a day or two, he shall not be punished: for he [is] his money.
-<small><sub>**BSB:**</sub></small>
-However, if the servant gets up after a day or two, the owner shall not be punished, since the servant is his property.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.20|<< Exodus 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.22|Exodus 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

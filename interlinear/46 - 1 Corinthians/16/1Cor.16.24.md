@@ -1,12 +1,12 @@
-**1 Corinthians 16:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:24**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My love [be] with you all in Christ Jesus. Amen.
 <small><sub>**BSB:**</sub></small>
 My love be with all of you in Christ Jesus. Amen.
 <small><sub>**Literal:**</sub></small>
 The love of Mine [be] with all you in Christ Jesus. Amen to Corinthians first it was written from Philippi through of Stephanas and Fortunatus and Achaicus and Timothy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.23|<< 1 Corinthians 16:23]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.1|2 Corinthians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | love |**<big>[[G0026\|ἀγάπη]]</big>**  |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

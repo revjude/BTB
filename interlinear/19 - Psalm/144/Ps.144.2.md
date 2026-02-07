@@ -1,4 +1,4 @@
-**Psalms 144:2** 
+**Psalms 144:2**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My goodness, and my fortress; my high tower, and my deliverer; my shield, and [he] in whom I trust; who subdueth my people under me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is my steadfast love and my fortress, my stronghold and my deliverer. He is m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.1|<< Psalms 144:1]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.3|Psalms 144:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | covenant loyalty my  |**<big>&#8207;[[H2617A\|חַסְדִּ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| chas.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and stronghold my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4686B\|מְצוּדָתִ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.tzu.da.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

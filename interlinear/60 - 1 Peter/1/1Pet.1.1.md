@@ -1,12 +1,12 @@
-**1 Peter 1:1
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:1**<big><big>[[1Pet.1.1 A Greeting from Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 <small><sub>**BSB:**</sub></small>
 Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen
 <small><sub>**Literal:**</sub></small>
 Peter an apostle of Jesus Christ To [the] elect sojourners of [the] Dispersion of Pontus, Galatia, Cappadocia, Asia, and Bithynia,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.20|<< James 5:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.2|1 Peter 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peter |**<big>[[G4074G\|Πέτρος]]</big>**  |Petros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

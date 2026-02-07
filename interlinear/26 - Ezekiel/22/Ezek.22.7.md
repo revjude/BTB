@@ -1,4 +1,4 @@
-**Ezekiel 22:7** 
+**Ezekiel 22:7**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Father and mother are treated with contempt. Within your walls the foreign resid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.6|<< Ezekiel 22:6]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.8|Ezekiel 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | father  |**<big>&#8207;[[H0001G\|אָ֤ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and mother  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0517\|אֵם֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'Em<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

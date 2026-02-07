@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, For the three impious deeds of Damascus, even for the four, I will not turn away from him. Because they sawed by iron saws the ones having one in \[the\] womb in Gilead. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away [the punishment] thereof; because they have threshed Gilead with threshing instruments of iron:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Damascus, even four, I will not revoke My judgment, because they threshed Gilead with sledges of iron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.2|<< Amos 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.4|Amos 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

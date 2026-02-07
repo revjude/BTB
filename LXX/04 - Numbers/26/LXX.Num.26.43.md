@@ -1,10 +1,7 @@
 **LXX Numbers 26:43** 
 <small><sub>**LXX:**</sub></small>
 All the peoples of Shuham according to their overseeing -- four and sixty thousand and four hundred. 
-<small><sub>**KJV:**</sub></small>
-All the families of the Shuhamites, according to those that were numbered of them, [were] threescore and four thousand and four hundred.
-<small><sub>**BSB:**</sub></small>
-All of them were Shuhamite clans, and their registration numbered 64,400.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.42|<< Numbers 26:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.44|Numbers 26:44 >>]]</td></tr></table>
 
 | Translation | Greek |

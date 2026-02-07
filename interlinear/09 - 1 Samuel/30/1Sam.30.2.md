@@ -1,4 +1,4 @@
-**1 Samuel 30:2** 
+**1 Samuel 30:2**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And had taken the women captives, that [were] therein: they slew not any, either great or small, but carried [them] away, and went on their way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They had taken captive the women and all who were there, both young and old. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.1|<< 1 Samuel 30:1]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.3|1 Samuel 30:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they had taken captive  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7617\|יִּשְׁבּ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 69:6** 
 <small><sub>**LXX:**</sub></small>
 be ashamed the ones waiting upon you not over me, O <span class="smallcaps">lord</span>, O <span class="smallcaps">lord</span> of the forces. feel shame the ones seeking you not over me, O God  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.
-<small><sub>**BSB:**</sub></small>
-May those who hope in You not be ashamed through me, O Lord GOD of Hosts; may those who seek You not be dishonored through me, O God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.5|<< Psalm 69:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.7|Psalm 69:7 >>]]</td></tr></table>
 
 | Translation | Greek |

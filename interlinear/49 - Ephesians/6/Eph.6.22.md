@@ -1,12 +1,12 @@
-**Ephesians 6:22
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:22**<big><big>[[Eph.6.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom I have sent unto you for the same purpose, that ye might know our affairs, and [that] he might comfort your hearts.
 <small><sub>**BSB:**</sub></small>
 I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.
 <small><sub>**Literal:**</sub></small>
 whom I have sent to you for this very purpose that you may know the [things] concerning us, and he may encourage the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.21|<< Ephesians 6:21]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.23|Ephesians 6:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have sent |**<big>[[G3992\|ἔπεμψα]]</big>**  |epempsa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

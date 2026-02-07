@@ -1,4 +1,4 @@
-**2 Samuel 3:9** 
+**2 Samuel 3:9**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May God punish Abner, and ever so severely, if I do not do for David what the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.8|<< 2 Samuel 3:8]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.10|2 Samuel 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may he do  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֤ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

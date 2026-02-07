@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:15** 
 <small><sub>**LXX:**</sub></small>
 And they rose up and went by in number -- twelve of the servants of Benjamin  of Ishbosheth son of Saul, and twelve of the servants of David. 
-<small><sub>**KJV:**</sub></small>
-Then there arose and went over by number twelve of Benjamin, which [pertained] to Ishbosheth the son of Saul, and twelve of the servants of David.
-<small><sub>**BSB:**</sub></small>
-So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.14|<< 2 Samuel 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.16|2 Samuel 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

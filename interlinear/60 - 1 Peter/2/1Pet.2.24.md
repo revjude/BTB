@@ -1,5 +1,5 @@
-**1 Peter 2:24
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:24**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
 <small><sub>**BSB:**</sub></small>
 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”
@@ -10,7 +10,7 @@ Who the sins of us Himself bore in the body of Him on the tree so that <the> to 
 > $\quad$ referencing: [[LXX.Isa.53.4|Isa 53:4-5]] ☩ [[LXX.Isa.53.12|Isa 53:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 8:8** 
+**Proverbs 8:8**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the words of my mouth [are] in righteousness; [there is] nothing froward or perverse in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the words of my mouth are righteous; none are crooked or perverse.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.7|<< Proverbs 8:7]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.9|Proverbs 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] \<in> righteousness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6664G\|צֶ֥דֶק]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

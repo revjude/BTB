@@ -1,12 +1,12 @@
-**Jude 1:25
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:25**<big><big>[[Jude.1.24 Doxology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To the only wise God our Saviour, [be] glory and majesty, dominion and power, both now and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity. Amen.
 <small><sub>**Literal:**</sub></small>
 to [the] only wise God Savior of us, through Jesus Christ the Lord of us, [be] glory and majesty dominion and authority before all the age and now and to all the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.24|<< Jude 1:24]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.1|Revelation 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] only |**<big>[[G3441\|μόνῳ]]</big>**  |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wise [^1] |**<big>[[G4680\|σοφῷ]]</big>**  |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

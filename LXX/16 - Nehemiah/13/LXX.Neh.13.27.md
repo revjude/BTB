@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:27** 
 <small><sub>**LXX:**</sub></small>
 So should we not hearken with you to do  this wickedness, to break contract with  our God, and to settle with alien wives? 
-<small><sub>**KJV:**</sub></small>
-Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?
-<small><sub>**BSB:**</sub></small>
-Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.26|<< Nehemiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.28|Nehemiah 13:28 >>]]</td></tr></table>
 
 | Translation | Greek |

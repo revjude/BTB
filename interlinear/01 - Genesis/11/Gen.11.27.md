@@ -1,4 +1,4 @@
-**Genesis 11:27** 
+**Genesis 11:27**<big><big>[[Gen.11.27 Terah’s Descendants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the account of Terah. Terah became the father of Abram, Nahor, and Haran
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.26|<< Genesis 11:26]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.28|Genesis 11:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] accounts of  |**<big>&#8207;[[H8435\|תּוֹלְדֹ֣ת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

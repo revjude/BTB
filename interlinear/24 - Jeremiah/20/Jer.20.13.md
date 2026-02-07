@@ -1,4 +1,4 @@
-**Jeremiah 20:13** 
+**Jeremiah 20:13**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.12|<< Jeremiah 20:12]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.14|Jeremiah 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing  |**<big>&#8207;[[H7891\|שִׁ֚ירוּ]]&#8207; </big>**| Shi.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

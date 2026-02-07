@@ -1,10 +1,7 @@
 **LXX Numbers 9:18** 
 <small><sub>**LXX:**</sub></small>
 By order of \[the\] <span class="smallcaps">lord</span> the sons of Israel shall camp, and by order of \[the\] <span class="smallcaps">lord</span> they shall depart. All the days in which the cloud shadowed over the tent, the sons of Israel shall camp. 
-<small><sub>**KJV:**</sub></small>
-At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.
-<small><sub>**BSB:**</sub></small>
-At the LORD’s command the Israelites set out, and at the LORD’s command they camped. As long as the cloud remained over the tabernacle, they remained encamped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.17|<< Numbers 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.19|Numbers 9:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 9:18** is...

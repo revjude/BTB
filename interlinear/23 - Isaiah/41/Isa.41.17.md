@@ -1,4 +1,4 @@
-**Isaiah 41:17** 
+**Isaiah 41:17**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [When] the poor and needy seek water, and [there is] none, [and] their tongue faileth for thirst, I the LORD will hear them, [I] the God of Israel will not forsake them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poor and needy seek water, but there is none; their tongues are parched with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.16|<< Isaiah 41:16]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.18|Isaiah 41:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the poor [people]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6041\|עֲנִיִּ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ni.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the needy [people]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0034\|אֶבְיוֹנִ֜ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'ev.yo.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

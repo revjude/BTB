@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be in  \[the\] <span class="smallcaps">lord</span> your God bringing you into the land into which you enter there to inherit it, and he shall lift away great and numerous nations from your presence -- the Hittite, and the Girgashite, and the Amorite, and Canaanite, and Perizzite, and the Hivite, and the Jebusite -- seven great and numerous nations, even stronger than you. 
-<small><sub>**KJV:**</sub></small>
-When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
-<small><sub>**BSB:**</sub></small>
-When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.25|<< Deuteronomy 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.2|Deuteronomy 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 7:1** is...

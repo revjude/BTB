@@ -1,10 +1,7 @@
 **LXX Daniel 5:29** 
 <small><sub>**LXX:**</sub></small>
 And Belshazzar spoke, and they put on  Daniel purple, and the gold necklace they put around  his neck, and proclaimed concerning him \[for\] him to be third ruler in the kingdom. 
-<small><sub>**KJV:**</sub></small>
-Then commanded Belshazzar, and they clothed Daniel with scarlet, and [put] a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.
-<small><sub>**BSB:**</sub></small>
-Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.28|<< Daniel 5:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.30|Daniel 5:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 20:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:19**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:
 <small><sub>**BSB:**</sub></small>
 I served the Lord with great humility and with tears, especially in the trials that came upon me through the plots of the Jews.
 <small><sub>**Literal:**</sub></small>
 serving the Lord with all humility and many tears and trials that were happening to me in the plots of the Jews;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.18|<< Acts 20:18]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.20|Acts 20:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | serving |**<big>[[G1398\|δουλεύων]]</big>**  |douleuōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

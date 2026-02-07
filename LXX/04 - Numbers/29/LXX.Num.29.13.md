@@ -1,10 +1,7 @@
 **LXX Numbers 29:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring whole burnt-offerings, a yield \[offering\] for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. On the first day -- three and ten calves of \[the\] oxen, two rams, fourteen lambs of a year \[old\]; they shall be unblemished. 
-<small><sub>**KJV:**</sub></small>
-And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, [and] fourteen lambs of the first year; they shall be without blemish:
-<small><sub>**BSB:**</sub></small>
-As a pleasing aroma to the LORD, you are to present a food offering, a burnt offering of thirteen young bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.12|<< Numbers 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.14|Numbers 29:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:13** 
 <small><sub>**LXX:**</sub></small>
 In the year of the release, \[the\] indication of it, each shall return back unto  his possession. 
-<small><sub>**KJV:**</sub></small>
-In the year of this jubile ye shall return every man unto his possession.
-<small><sub>**BSB:**</sub></small>
-In this Year of Jubilee, each of you shall return to his own property.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.12|<< Leviticus 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.14|Leviticus 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

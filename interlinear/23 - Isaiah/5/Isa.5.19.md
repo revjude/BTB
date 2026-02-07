@@ -1,4 +1,4 @@
-**Isaiah 5:19** 
+**Isaiah 5:19**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That say, Let him make speed, [and] hasten his work, that we may see [it]: and let the counsel of the Holy One of Israel draw nigh and come, that we may know [it]!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to those who say, “Let Him hurry and hasten His work so that we may see it! Le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.18|<< Isaiah 5:18]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.20|Isaiah 5:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] say  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמְרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it hurry  |**<big>&#8207;[[H4116A\|יְמַהֵ֧ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.ma.Her<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

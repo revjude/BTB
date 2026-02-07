@@ -1,12 +1,12 @@
-**Revelation 17:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:5**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
 <small><sub>**BSB:**</sub></small>
 And on her forehead a mysterious name was written: BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.
 <small><sub>**Literal:**</sub></small>
 And upon the forehead of her a name written, a mystery: Babylon the Great, the mother of the prostitutes and of the abominations of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.4|<< Revelation 17:4]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.6|Revelation 17:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | upon |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

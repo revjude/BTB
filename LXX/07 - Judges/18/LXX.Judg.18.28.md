@@ -1,10 +1,7 @@
 **LXX Judges 18:28** 
 <small><sub>**LXX:**</sub></small>
 And there is no  one rescuing, for it is far from Sidon, and communication is not to them with man; and it \[is\] in the valley which is of the house of Rehob. And they built \[up\] the city, and dwelt in it. 
-<small><sub>**KJV:**</sub></small>
-And [there was] no deliverer, because it [was] far from Zidon, and they had no business with [any] man; and it was in the valley that [lieth] by Bethrehob. And they built a city, and dwelt therein.
-<small><sub>**BSB:**</sub></small>
-There was no one to deliver them, because the city was far from Sidon and had no alliance with anyone; it was in a valley near Beth-rehob. And the Danites rebuilt the city and lived there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.27|<< Judges 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.29|Judges 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

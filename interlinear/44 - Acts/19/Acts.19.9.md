@@ -1,12 +1,12 @@
-**Acts 19:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:9**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
 <small><sub>**BSB:**</sub></small>
 But when some of them stubbornly refused to believe and publicly maligned the Way, Paul took his disciples and left the synagogue to conduct daily discussions in the lecture hall of Tyrannus.
 <small><sub>**Literal:**</sub></small>
 When however some were hardened and they were disbelieving speaking evil of the Way before the multitude, having departed from them he took separately the disciples every day reasoning in the lecture hall of Tyrannus a certain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.8|<< Acts 19:8]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.10|Acts 19:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

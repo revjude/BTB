@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:8** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] thirtieth and eighth year of Azariah king of Judah, Zechariah son of Jeroboam reigned over Israel in Samaria six months. 
-<small><sub>**KJV:**</sub></small>
-In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
-<small><sub>**BSB:**</sub></small>
-In the thirty-eighth year of Azariah’s reign over Judah, Zechariah son of Jeroboam became king of Israel, and he reigned in Samaria six months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.7|<< 2 Kings 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.9|2 Kings 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

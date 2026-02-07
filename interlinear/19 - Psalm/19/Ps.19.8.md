@@ -1,4 +1,4 @@
-**Psalms 19:8** (19:9)
+**Psalms 19:8**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The statutes of the LORD [are] right, rejoicing the heart: the commandment of the LORD [is] pure, enlightening the eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The precepts of the LORD are right, bringing joy to the heart; the commandments 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.7|<< Psalms 19:7]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.9|Psalms 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] precepts of  |**<big>&#8207;[[H6490\|פִּקּ֘וּדֵ֤י]]&#8207; </big>**| pi.Ku.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

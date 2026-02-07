@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:15** 
 <small><sub>**LXX:**</sub></small>
 And Hannah answered and said, No, O master, I am a woman with a hard day, and wine and strong drink I have not drunk, and I pour out  my soul before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Hannah answered and said, No, my lord, I [am] a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.
-<small><sub>**BSB:**</sub></small>
-“No, my lord,” Hannah replied. “I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.14|<< 1 Samuel 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.16|1 Samuel 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

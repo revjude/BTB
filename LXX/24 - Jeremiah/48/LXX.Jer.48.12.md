@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I will send to him ones leaning \[him down\], and they shall lean him \[down\], and  they shall thin out his vessels, and  his horns shall break. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.
-<small><sub>**BSB:**</sub></small>
-Therefore behold, the days are coming, declares the LORD, when I will send to him wanderers, who will pour him out. They will empty his vessels and shatter his jars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.11|<< Jeremiah 48:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.13|Jeremiah 48:13 >>]]</td></tr></table>
 
 | Translation | Greek |

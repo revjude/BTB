@@ -1,4 +1,4 @@
-**Job 31:34** 
+**Job 31:34**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, [and] went not out of the door?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because I greatly feared the crowds and the contempt of the clans terrified me, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.33|<< Job 31:33]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.35|Job 31:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I feared  |**<big>&#8207;[[H6206\|אֶֽעֱר֨וֹץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'e.'e.Rotz<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

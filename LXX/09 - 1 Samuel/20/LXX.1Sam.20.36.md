@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:36** 
 <small><sub>**LXX:**</sub></small>
 And he said to the servant-lad, You run and find for me the darts which I shall shoot! And the servant-lad ran. And he shot the arrow, and it passed by him. 
-<small><sub>**KJV:**</sub></small>
-And he said unto his lad, Run, find out now the arrows which I shoot. [And] as the lad ran, he shot an arrow beyond him.
-<small><sub>**BSB:**</sub></small>
-He said to the boy, “Run and find the arrows I shoot.” And as the boy ran, Jonathan shot an arrow beyond him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.35|<< 1 Samuel 20:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.37|1 Samuel 20:37 >>]]</td></tr></table>
 
 | Translation | Greek |

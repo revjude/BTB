@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:28** 
 <small><sub>**LXX:**</sub></small>
 And Absalom stayed in Jerusalem two years of days, and the face of the king he did not see. 
-<small><sub>**KJV:**</sub></small>
-So Absalom dwelt two full years in Jerusalem, and saw not the king’s face.
-<small><sub>**BSB:**</sub></small>
-Now Absalom lived in Jerusalem two years without seeing the face of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.27|<< 2 Samuel 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.29|2 Samuel 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

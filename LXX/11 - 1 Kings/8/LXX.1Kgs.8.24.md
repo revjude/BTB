@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:24** 
 <small><sub>**LXX:**</sub></small>
 which you kept \[with\] your servant David,  my father, which you have spoken by  your mouth; and by  your hands you fulfilled as \[even\] this day. 
-<small><sub>**KJV:**</sub></small>
-Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-You have kept Your promise to Your servant, my father David. What You spoke with Your mouth You have fulfilled with Your hand this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.23|<< 1 Kings 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.25|1 Kings 8:25 >>]]</td></tr></table>
 
 | Translation | Greek |

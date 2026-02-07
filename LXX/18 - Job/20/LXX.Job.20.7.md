@@ -1,10 +1,7 @@
 **LXX Job 20:7** 
 <small><sub>**LXX:**</sub></small>
 for whenever he should seem already firmly fixed, then he shall perish unto \[the\] end; and the ones knowing him shall say, Where is he? 
-<small><sub>**KJV:**</sub></small>
-[Yet] he shall perish for ever like his own dung: they which have seen him shall say, Where [is] he?
-<small><sub>**BSB:**</sub></small>
-he will perish forever, like his own dung; those who had seen him will ask, ‘Where is he?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.6|<< Job 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.8|Job 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

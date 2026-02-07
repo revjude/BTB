@@ -1,4 +1,4 @@
-**Esther 9:31** 
+**Esther 9:31**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To confirm these days of Purim in their times [appointed], according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in order to confirm these days of Purim at their appointed time, just as Mordeca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.30|<< Esther 9:30]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.32|Esther 9:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to confirm  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6965I\|קַיֵּ֡ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kai.Yem<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

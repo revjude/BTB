@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:32** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam made a holiday \[feast\] in the eighth month, on the fifteenth day of the month, according to the holiday, the one in  Judah. And he ascended unto the altar which he made in Beth-el,  to sacrifice to the heifers which he made. And he placed in Beth-el the priests of the high \[places\] which he made. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that [is] in Judah, and he offered upon the altar. So did he in Bethel, sacrificing unto the calves that he had made: and he placed in Bethel the priests of the high places which he had made.
-<small><sub>**BSB:**</sub></small>
-And Jeroboam ordained a feast on the fifteenth day of the eighth month, like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.31|<< 1 Kings 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.33|1 Kings 12:33 >>]]</td></tr></table>
 
 | Translation | Greek |

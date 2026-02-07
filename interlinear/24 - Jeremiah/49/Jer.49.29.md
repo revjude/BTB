@@ -1,4 +1,4 @@
-**Jeremiah 49:29** 
+**Jeremiah 49:29**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear [is] on every side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will take their tents and flocks, their tent curtains and all their goods. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.28|<< Jeremiah 49:28]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.30|Jeremiah 49:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tents their  |**<big>&#8207;[[H0168G\|אָהֳלֵי]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207; </big>**| 'o.ho.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and flock[s] their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6629G\|צֹאנָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzo.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

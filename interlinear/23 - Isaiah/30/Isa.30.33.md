@@ -1,4 +1,4 @@
-**Isaiah 30:33** 
+**Isaiah 30:33**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Tophet [is] ordained of old; yea, for the king it is prepared; he hath made [it] deep [and] large: the pile thereof [is] fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For Topheth has long been prepared; it has been made ready for the king. Its fun
 > $\quad$ referenced by: [[Rev.19.20|Rev 19:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] arranged  |**<big>&#8207;[[H6186A\|עָר֤וּךְ]]&#8207; </big>**| 'a.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

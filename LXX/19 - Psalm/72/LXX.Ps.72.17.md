@@ -1,10 +1,7 @@
 **LXX Psalm 72:17** 
 <small><sub>**LXX:**</sub></small>
 His name will be a blessing into the eons. His name shall abide before the sun, and all the tribes of the earth shall be blessed by him. All the nations shall declare him blessed. 
-<small><sub>**KJV:**</sub></small>
-His name shall endure for ever: his name shall be continued as long as the sun: and [men] shall be blessed in him: all nations shall call him blessed.
-<small><sub>**BSB:**</sub></small>
-May his name endure forever; may his name continue as long as the sun shines. In him may all nations be blessed; may they call him blessed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.16|<< Psalm 72:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.18|Psalm 72:18 >>]]</td></tr></table>
 
 | Translation | Greek |

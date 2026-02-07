@@ -1,10 +1,7 @@
 **LXX Genesis 34:22** 
 <small><sub>**LXX:**</sub></small>
 In this only the men be like us,  to dwell with us, so as to be one people -- in the being circumcised of us every male, as also they have been circumcised. 
-<small><sub>**KJV:**</sub></small>
-Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they [are] circumcised.
-<small><sub>**BSB:**</sub></small>
-But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.21|<< Genesis 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.23|Genesis 34:23 >>]]</td></tr></table>
 
 | Translation | Greek |

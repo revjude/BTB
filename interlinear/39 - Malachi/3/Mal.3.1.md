@@ -1,4 +1,4 @@
-**Malachi 3:1** 
+**Malachi 3:1**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, I will send my messenger, and he shall prepare the way before me: and th
 > $\quad$ referenced by: [[Matt.11.10|Matt 11:10]] ☩ [[Mark.1.2|Mark 1:2]] ☩ [[Luke.1.76|Luke 1:76]] ☩ [[Luke.7.27|Luke 7:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֤י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to send  |**<big>&#8207;[[H7971G\|שֹׁלֵחַ֙]]&#8207; </big>**| sho.le.aCh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 21:7** 
 <small><sub>**LXX:**</sub></small>
 For the king hopes upon \[the\] <span class="smallcaps">lord</span>, and in the mercy of the highest in no way shall he be shaken. 
-<small><sub>**KJV:**</sub></small>
-For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.
-<small><sub>**BSB:**</sub></small>
-For the king trusts in the LORD; through the loving devotion of the Most High, he will not be shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.6|<< Psalm 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.8|Psalm 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

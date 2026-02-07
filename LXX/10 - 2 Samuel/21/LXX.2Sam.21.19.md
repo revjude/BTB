@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:19** 
 <small><sub>**LXX:**</sub></small>
 And there was still war with the Philistines in Nob. And Elhanan son of Jaareoregim the Beth-lehemite struck  Goliath the Gittite, and the wood  of his spear was as \[the\] beam of a loom of one weaving. 
-<small><sub>**KJV:**</sub></small>
-And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaareoregim, a Bethlehemite, slew [the brother of] Goliath the Gittite, the staff of whose spear [was] like a weaver’s beam.
-<small><sub>**BSB:**</sub></small>
-Once again there was a battle with the Philistines at Gob, and Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.18|<< 2 Samuel 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.20|2 Samuel 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

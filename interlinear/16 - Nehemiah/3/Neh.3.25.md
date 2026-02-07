@@ -1,4 +1,4 @@
-**Nehemiah 3:25** 
+**Nehemiah 3:25**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Palal the son of Uzai, over against the turning [of the wall], and the tower which lieth out from the king’s high house, that [was] by the court of the prison. After him Pedaiah the son of Parosh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Palal son of Uzai made repairs opposite the angle and the tower that juts ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.24|<< Nehemiah 3:24]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.26|Nehemiah 3:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Palal  |**<big>&#8207;[[H6420\|פָּלָ֣ל]]&#8207; </big>**| pa.Lal<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 3:19** 
+**Genesis 3:19**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the sweat of your brow you will eat your bread, until you return to the groun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.18|<< Genesis 3:18]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.20|Genesis 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] sweat of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2188\|זֵעַ֤ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ze.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face your  |**<big>&#8207;[[H0639I\|אַפֶּ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'a.Pei.<small><sup>[[HNcmdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

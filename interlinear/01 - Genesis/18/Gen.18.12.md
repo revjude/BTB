@@ -1,4 +1,4 @@
-**Genesis 18:12** 
+**Genesis 18:12**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So she laughed to herself, saying, “After I am worn out and my master is old, 
 > $\quad$ referenced by: [[1Pet.3.6|1Pet 3:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she laughed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6711\|תִּצְחַ֥ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> titz.Chak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֖ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

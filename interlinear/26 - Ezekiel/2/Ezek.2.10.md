@@ -1,4 +1,4 @@
-**Ezekiel 2:10** 
+**Ezekiel 2:10**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spread it before me; and it [was] written within and without: and [there was] written therein lamentations, and mourning, and woe.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ which He unrolled before me. And written on the front and back of it were words 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.9|<< Ezekiel 2:9]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.1|Ezekiel 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spread out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6566\|יִּפְרֹ֤שׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Ros<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

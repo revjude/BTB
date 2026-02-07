@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the thirtieth year, in the fourth month, \[the\] fifth of the month, and I was in \[the\] midst of the captivity by the river  Chebar, and the heavens were opened, and I beheld visions of God. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass in the thirtieth year, in the fourth [month], in the fifth [day] of the month, as I [was] among the captives by the river of Chebar, [that] the heavens were opened, and I saw visions of God.
-<small><sub>**BSB:**</sub></small>
-In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.22|<< Lamentations 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.2|Ezekiel 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

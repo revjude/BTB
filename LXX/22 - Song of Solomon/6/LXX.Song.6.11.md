@@ -1,10 +1,7 @@
 **LXX Song of Solomon 6:11** 
 <small><sub>**LXX:**</sub></small>
 Into \[the\] garden of walnuts I went down to behold among \[the\] produce of the \[valley of the\] rushing stream; to see if the grapevine bloomed, \[or if\] the pomegranates blossomed. 
-<small><sub>**KJV:**</sub></small>
-I went down into the garden of nuts to see the fruits of the valley, [and] to see whether the vine flourished, [and] the pomegranates budded.
-<small><sub>**BSB:**</sub></small>
-I went down to the walnut grove to see the blossoms of the valley, to see if the vines were budding or the pomegranates were in bloom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.10|<< Song of Solomon 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.12|Song of Solomon 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 12:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:4**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again he sent unto them another servant; and at him they cast stones, and wounded [him] in the head, and sent [him] away shamefully handled.
 <small><sub>**BSB:**</sub></small>
 Then he sent them another servant, and they struck him over the head and treated him shamefully.
 <small><sub>**Literal:**</sub></small>
 And again he sent to them another servant; and him stoning they struck on the head and sent dishonored.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.3|<< Mark 12:3]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.5|Mark 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

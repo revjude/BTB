@@ -1,4 +1,4 @@
-**1 Chronicles 13:6** 
+**1 Chronicles 13:6**<big><big>[[1Chr.13.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David went up, and all Israel, to Baalah, [that is], to Kirjathjearim, which [belonged] to Judah, to bring up thence the ark of God the LORD, that dwelleth [between] the cherubims, whose name is called [on it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David and all Israel went up to Baalah of Judah (that is, Kiriath-jearim) to bri
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.5|<< 1 Chronicles 13:5]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.7|1 Chronicles 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֤יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

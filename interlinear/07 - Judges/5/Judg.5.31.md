@@ -1,4 +1,4 @@
-**Judges 5:31** 
+**Judges 5:31**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So let all thine enemies perish, O LORD: but [let] them that love him [be] as the sun when he goeth forth in his might. And the land had rest forty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So may all Your enemies perish, O LORD! But may those who love You shine like th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.30|<< Judges 5:30]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.1|Judges 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֠ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they perish  |**<big>&#8207;[[H0006\|יֹאבְד֤וּ]]&#8207; </big>**| yoe.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

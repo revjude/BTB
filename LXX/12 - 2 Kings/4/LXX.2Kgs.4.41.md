@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:41** 
 <small><sub>**LXX:**</sub></small>
 And he said, You take flour, and put it in the kettle! And they put. And Elisha said to Gehazi, Pour out to the people, and let them eat! And there was not a bad thing still in the kettle. 
-<small><sub>**KJV:**</sub></small>
-But he said, Then bring meal. And he cast [it] into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.
-<small><sub>**BSB:**</sub></small>
-Then Elisha said, “Get some flour.” He threw it into the pot and said, “Pour it out for the people to eat.” And there was nothing harmful in the pot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
 | Translation | Greek |

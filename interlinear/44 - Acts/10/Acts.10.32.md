@@ -1,12 +1,12 @@
-**Acts 10:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:32**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of [one] Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.
 <small><sub>**BSB:**</sub></small>
 Therefore send to Joppa for Simon, who is called Peter. He is a guest in the home of Simon the tanner, by the sea.’
 <small><sub>**Literal:**</sub></small>
 do send therefore to Joppa and do yourself call for Simon who is called Peter; He lodges in [the] house of Simon a tanner by [the] sea who having come he will speak to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.31|<< Acts 10:31]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.33|Acts 10:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do send |**<big>[[G3992\|πέμψον]]</big>**  |pempson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

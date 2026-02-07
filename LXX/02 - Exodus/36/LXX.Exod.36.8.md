@@ -1,10 +1,7 @@
 **LXX Exodus 36:8** 
 <small><sub>**LXX:**</sub></small>
 And every wise one in thought among the ones working produced \[for\] the tent ten curtains from out of linen being twined, and blue and purple, and scarlet being twined; he made them \[with\] cherubim \[the\] work of a weaver. 
-<small><sub>**KJV:**</sub></small>
-And every wise hearted man among them that wrought the work of the tabernacle made ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work made he them.
-<small><sub>**BSB:**</sub></small>
-All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.7|<< Exodus 36:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.9|Exodus 36:9 >>]]</td></tr></table>
 
 | Translation | Greek |

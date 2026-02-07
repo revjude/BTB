@@ -1,4 +1,4 @@
-**Judges 9:36** 
+**Judges 9:36**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as [if they were] men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Gaal saw the people, he said to Zebul, “Look, people are coming down from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.35|<< Judges 9:35]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.37|Judges 9:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּרְא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar'-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gaal  |**<big>&#8207;[[H1603\|גַּעַל֮]]&#8207; </big>**| ga.'Al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

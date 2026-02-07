@@ -1,5 +1,5 @@
-**Hebrews 13:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:2**<big><big>[[Heb.13.1 Brotherly Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 <small><sub>**BSB:**</sub></small>
 Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.
@@ -10,7 +10,7 @@ Do not neglect to show hospitality to strangers, for by so doing some people hav
 > $\quad$ alluding to: [[LXX.Gen.18.2|Gen 18:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Of hospitality |**<big>[[G5381\|φιλοξενίας]]</big>**  |philoxenias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

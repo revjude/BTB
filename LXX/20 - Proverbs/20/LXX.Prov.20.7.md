@@ -1,10 +1,7 @@
 **LXX Proverbs 20:7** 
 <small><sub>**LXX:**</sub></small>
 The one who behaves unblemished in righteousness, shall leave his children blessed. 
-<small><sub>**KJV:**</sub></small>
-The just [man] walketh in his integrity: his children [are] blessed after him.
-<small><sub>**BSB:**</sub></small>
-The righteous man walks with integrity; blessed are his children after him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.6|<< Proverbs 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.8|Proverbs 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

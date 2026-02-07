@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:10** 
 <small><sub>**LXX:**</sub></small>
  this great insolence of the ones not wanting to obey  my words, and having gone in straightness  of their wicked heart, and having gone after strange gods,  to serve to them, and  to do obeisance to them; and they will be as  this loincloth which shall not be used yet for anything. 
-<small><sub>**KJV:**</sub></small>
-This evil people, which refuse to hear my words, which walk in the imagination of their heart, and walk after other gods, to serve them, and to worship them, shall even be as this girdle, which is good for nothing.
-<small><sub>**BSB:**</sub></small>
-These evil people, who refuse to listen to My words, who follow the stubbornness of their own hearts, and who go after other gods to serve and worship them, they will be like this loincloth—of no use at all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.9|<< Jeremiah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.11|Jeremiah 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

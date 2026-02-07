@@ -1,4 +1,4 @@
-**Joshua 8:12** 
+**Joshua 8:12**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took about five thousand men, and set them to lie in ambush between Bethel and Ai, on the west side of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Joshua had taken about five thousand men and set up an ambush between Bethel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.11|<< Joshua 8:11]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.13|Joshua 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֕ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | about five  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2568\|חֲמֵ֥שֶׁת]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> cha.Me.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

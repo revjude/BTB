@@ -1,10 +1,7 @@
 **LXX Isaiah 17:4** 
 <small><sub>**LXX:**</sub></small>
 It shall be in  that day an end of the glory of Jacob; and the plenty  of his glory shall be shaken. 
-<small><sub>**KJV:**</sub></small>
-And in that day it shall come to pass, [that] the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.
-<small><sub>**BSB:**</sub></small>
-“In that day the splendor of Jacob will fade, and the fat of his body will waste away,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.3|<< Isaiah 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.5|Isaiah 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:16** 
 <small><sub>**LXX:**</sub></small>
 From which day I led out  my people Israel from Egypt, I have not chosen  a city in one chiefdom of Israel  to build a house  \[for\] my name to be there. But I chose in David  to be \[the\] one leading over  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-Since the day that I brought forth my people Israel out of Egypt, I chose no city out of all the tribes of Israel to build an house, that my name might be therein; but I chose David to be over my people Israel.
-<small><sub>**BSB:**</sub></small>
-‘Since the day I brought My people Israel out of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there. But I have chosen David to be over My people Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.15|<< 1 Kings 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.17|1 Kings 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

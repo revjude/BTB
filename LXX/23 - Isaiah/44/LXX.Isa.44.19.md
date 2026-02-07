@@ -1,10 +1,7 @@
 **LXX Isaiah 44:19** 
 <small><sub>**LXX:**</sub></small>
 And he considered not  in his soul, nor knew  in intellect that the half of it he incinerated by fire, and baked bread \[loaves\] upon its coals, and ate roasting meat; and the rest of it he made into an abomination. And they do obeisance to it. 
-<small><sub>**KJV:**</sub></small>
-And none considereth in his heart, neither [is there] knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten [it]: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?
-<small><sub>**BSB:**</sub></small>
-And no one considers in his heart, no one has the knowledge or insight to say, “I burned half of it in the fire, and I baked bread on its coals; I roasted meat and I ate. Shall I make something detestable with the rest of it? Shall I bow down to a block of wood?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.18|<< Isaiah 44:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.20|Isaiah 44:20 >>]]</td></tr></table>
 
 | Translation | Greek |

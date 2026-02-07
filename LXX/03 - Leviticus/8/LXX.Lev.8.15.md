@@ -1,10 +1,7 @@
 **LXX Leviticus 8:15** 
 <small><sub>**LXX:**</sub></small>
 And he slew it. And Moses took of the blood, and put \[it\] upon the horns of the altar round about \[with\] his finger; and he cleansed the altar. And the blood he poured out upon the base of the altar; and he sanctified it,  to atone upon it. 
-<small><sub>**KJV:**</sub></small>
-And he slew [it]; and Moses took the blood, and put [it] upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.
-<small><sub>**BSB:**</sub></small>
-Moses slaughtered the bull, took some of the blood, and applied it with his finger to all four horns of the altar, purifying the altar. He poured out the rest of the blood at the base of the altar and consecrated it so that atonement could be made on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.14|<< Leviticus 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.16|Leviticus 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

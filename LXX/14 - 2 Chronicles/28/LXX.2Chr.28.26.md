@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:26** 
 <small><sub>**LXX:**</sub></small>
 And the rest of his words, and  his actions, the first and last, behold, \[they are\] written upon \[the\] scroll of \[the\] kings of Judah and Israel. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of his acts and of all his ways, first and last, behold, they [are] written in the book of the kings of Judah and Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Ahaz and all his ways, from beginning to end, they are indeed written in the Book of the Kings of Judah and Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.25|<< 2 Chronicles 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.27|2 Chronicles 28:27 >>]]</td></tr></table>
 
 | Translation | Greek |

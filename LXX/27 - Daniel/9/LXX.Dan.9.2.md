@@ -1,10 +1,7 @@
 **LXX Daniel 9:2** 
 <small><sub>**LXX:**</sub></small>
 in year one  of his kingdom, I Daniel perceived in the books the number of the years of which \[the\] word \[of the\] <span class="smallcaps">lord</span> became to Jeremiah the prophet for a fulfillment of the desolation of Jerusalem -- seventy years. 
-<small><sub>**KJV:**</sub></small>
-In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.1|<< Daniel 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.3|Daniel 9:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 9:2** is...

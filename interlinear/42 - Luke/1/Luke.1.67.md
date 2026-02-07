@@ -1,12 +1,12 @@
-**Luke 1:67
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:67**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
 <small><sub>**BSB:**</sub></small>
 Then his father Zechariah was filled with the Holy Spirit and prophesied:
 <small><sub>**Literal:**</sub></small>
 And Zechariah the father of him was filled with [the] Spirit Holy and prophesied saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.66|<< Luke 1:66]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.68|Luke 1:68 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Zechariah |**<big>[[G2197H\|Ζαχαρίας]]</big>**  |Zacharias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

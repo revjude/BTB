@@ -1,12 +1,12 @@
-**Acts 15:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:23**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they wrote [letters] by them after this manner; The apostles and elders and brethren [send] greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:
 <small><sub>**BSB:**</sub></small>
 and sent them with this letter: The apostles and the elders, your brothers, To the brothers among the Gentiles in Antioch, Syria, and Cilicia: Greetings.
 <small><sub>**Literal:**</sub></small>
 having written through [the] hand of them these things: The apostles and the elders and the brothers To those in <the> Antioch and Syria and Cilicia to brothers <the> among the Gentiles Greeting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.22|<< Acts 15:22]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.24|Acts 15:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having written |**<big>[[G1125\|γράψαντες]]</big>**  |grapsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

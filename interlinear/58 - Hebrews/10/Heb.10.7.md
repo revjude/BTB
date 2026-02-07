@@ -1,5 +1,5 @@
-**Hebrews 10:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:7**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 <small><sub>**BSB:**</sub></small>
 Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”
@@ -10,7 +10,7 @@ Then I said; Behold I have come — in [the] scroll of [the] book it has been wr
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I said; |**<big>[[G2036\|εἶπον·]]</big>**  |eipon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

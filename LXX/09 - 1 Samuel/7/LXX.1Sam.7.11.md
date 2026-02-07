@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men of Israel came forth from out of Mizpeh, and they pursued the Philistines, and they struck them unto under  Beth-car. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until [they came] under Bethcar.
-<small><sub>**BSB:**</sub></small>
-Then the men of Israel charged out of Mizpah and pursued the Philistines, striking them down all the way to an area below Beth-car.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.10|<< 1 Samuel 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.12|1 Samuel 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:11** is...

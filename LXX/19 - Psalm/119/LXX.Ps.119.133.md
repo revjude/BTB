@@ -1,10 +1,7 @@
 **LXX Psalm 119:133** 
 <small><sub>**LXX:**</sub></small>
  Straighten out my footsteps according to  your oracle! and let there not dominate me any lawlessness! 
-<small><sub>**KJV:**</sub></small>
-Order my steps in thy word: and let not any iniquity have dominion over me.
-<small><sub>**BSB:**</sub></small>
-Order my steps in Your word; let no sin rule over me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.133|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.132|<< Psalm 119:132]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.134|Psalm 119:134 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zephaniah 1:13** 
+**Zephaniah 1:13**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit [them]; and they shall plant vineyards, but not drink the wine thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their wealth will be plundered and their houses laid waste. They will build hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.12|<< Zephaniah 1:12]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.14|Zephaniah 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wealth their  |**<big>&#8207;[[H2428H\|חֵילָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| chei.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 14:7** 
 <small><sub>**LXX:**</sub></small>
 It shall be one day, and  that day shall be known to the <span class="smallcaps">lord</span>, and neither day nor night, and towards evening it shall be light. 
-<small><sub>**KJV:**</sub></small>
-But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, [that] at evening time it shall be light.
-<small><sub>**BSB:**</sub></small>
-It will be a unique day known only to the LORD, without day or night; but when evening comes, there will be light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.6|<< Zechariah 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.8|Zechariah 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

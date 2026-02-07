@@ -1,10 +1,7 @@
 **LXX Proverbs 6:3** 
 <small><sub>**LXX:**</sub></small>
 Do, O son, what I give charge to you, and preserve yourself! For on account of your friend you come into \[the\] hands of evils. Be not enfeebled! but you provoke even  your friend whom you guaranteed a loan. 
-<small><sub>**KJV:**</sub></small>
-Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.
-<small><sub>**BSB:**</sub></small>
-then do this, my son, to free yourself, for you have fallen into your neighbor’s hands: Go, humble yourself, and press your plea with your neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.2|<< Proverbs 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.4|Proverbs 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

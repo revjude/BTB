@@ -1,10 +1,7 @@
 **LXX Joel 2:14** 
 <small><sub>**LXX:**</sub></small>
 Who knows if he shall turn and change his mind, and leave behind him a blessing; even a sacrifice \[offering\] and a libation \[offering\] \[to the\] <span class="smallcaps">lord</span>  our God? 
-<small><sub>**KJV:**</sub></small>
-Who knoweth [if] he will return and repent, and leave a blessing behind him; [even] a meat offering and a drink offering unto the LORD your God?
-<small><sub>**BSB:**</sub></small>
-Who knows? He may turn and relent and leave a blessing behind Him—grain and drink offerings for the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.13|<< Joel 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.15|Joel 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

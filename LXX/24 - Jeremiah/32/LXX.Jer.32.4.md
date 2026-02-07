@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:4** 
 <small><sub>**LXX:**</sub></small>
 and Zedekiah in no way shall escape from out of \[the\] hand of the Chaldeans, for by being delivered up he shall be delivered up into \[the\] hands of \[the\] king of Babylon, and he shall speak \[with\] his mouth to his mouth, and  his eyes  shall see his eyes. 
-<small><sub>**KJV:**</sub></small>
-And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;
-<small><sub>**BSB:**</sub></small>
-Zedekiah king of Judah will not escape from the hands of the Chaldeans, but he will surely be delivered into the hand of the king of Babylon, and will speak with him face to face and see him eye to eye.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.3|<< Jeremiah 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.5|Jeremiah 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

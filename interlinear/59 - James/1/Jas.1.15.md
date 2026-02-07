@@ -1,12 +1,12 @@
-**James 1:15
-**<small><sub>**KJV:**</sub></small>
+**James 1:15**<big><big>[[Jas.1.13 Good and Perfect Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 <small><sub>**BSB:**</sub></small>
 Then after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.
 <small><sub>**Literal:**</sub></small>
 Then <the> desire having conceived it gives birth to sin, <the> and sin having become fully grown it brings forth death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.14|<< James 1:14]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.16|James 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 44:13** 
 <small><sub>**LXX:**</sub></small>
 And they tore  their cloaks, and each placed  his bag upon  his donkey, and returned to the city. 
-<small><sub>**KJV:**</sub></small>
-Then they rent their clothes, and laded every man his ass, and returned to the city.
-<small><sub>**BSB:**</sub></small>
-Then they all tore their clothes, loaded their donkeys, and returned to the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.12|<< Genesis 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.14|Genesis 44:14 >>]]</td></tr></table>
 
 | Translation | Greek |

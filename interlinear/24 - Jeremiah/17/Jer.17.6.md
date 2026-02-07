@@ -1,4 +1,4 @@
-**Jeremiah 17:6** 
+**Jeremiah 17:6**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, [in] a salt land and not inhabited.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will be like a shrub in the desert; he will not see when prosperity comes. He
 > $\quad$ referenced by: [[Rom.3.8|Rom 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a bush  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6176\|עַרְעָ֣ר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'ar.'Ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

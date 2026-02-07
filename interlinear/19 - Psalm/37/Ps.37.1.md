@@ -1,12 +1,12 @@
-**Psalms 37:1** 
+**Psalms 37:1**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
+Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
 <small><sub>**BSB:**</sub></small>
 Of David. Do not fret over those who do evil; do not envy those who do wrong.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.0|<< Psalms 37:0]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.2|Psalms 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you fret yourself  |**<big>&#8207;[[H2734\|תִּתְחַ֥ר]]&#8207; </big>**| tit.Char<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

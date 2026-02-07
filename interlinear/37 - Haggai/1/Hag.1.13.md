@@ -1,4 +1,4 @@
-**Haggai 1:13** 
+**Haggai 1:13**<big><big>[[Hag.1.12 The People Obey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake Haggai the LORD’S messenger in the LORD’S message unto the people, saying, I [am] with you, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Haggai, the messenger of the LORD, delivered the message of the LORD to the peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.12|<< Haggai 1:12]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.14|Haggai 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0559\|יֹּאמֶר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haggai  |**<big>&#8207;[[H2292A\|חַגַּ֞י]]&#8207; </big>**| cha.Gai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

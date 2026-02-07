@@ -1,10 +1,7 @@
 **LXX Psalm 81:14** 
 <small><sub>**LXX:**</sub></small>
 not the less would  I humbled their enemies, and I would have put my hand upon the ones afflicting them. 
-<small><sub>**KJV:**</sub></small>
-I should soon have subdued their enemies, and turned my hand against their adversaries.
-<small><sub>**BSB:**</sub></small>
-how soon I would subdue their enemies and turn My hand against their foes!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.13|<< Psalm 81:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.15|Psalm 81:15 >>]]</td></tr></table>
 
 | Translation | Greek |

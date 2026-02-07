@@ -1,4 +1,4 @@
-**Job 38:36** 
+**Job 38:36**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath put wisdom in the inward parts? or who hath given understanding to the heart?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who has put wisdom in the heart or given understanding to the mind?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.35|<< Job 38:35]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.37|Job 38:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.Sha-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he put  |**<big>&#8207;[[H7896H\|שָׁ֭ת]]&#8207; </big>**| Sha.t<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

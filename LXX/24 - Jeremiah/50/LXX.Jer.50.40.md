@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:40** 
 <small><sub>**LXX:**</sub></small>
 As God eradicated Sodom and Gomorrah and the \[places\] adjoining them, said \[the\] <span class="smallcaps">lord</span>, in no way man dwell there, and in no way a son of man sojourn there. 
-<small><sub>**KJV:**</sub></small>
-As God overthrew Sodom and Gomorrah and the neighbour [cities] thereof, saith the LORD; [so] shall no man abide there, neither shall any son of man dwell therein.
-<small><sub>**BSB:**</sub></small>
-As God overthrew Sodom and Gomorrah along with their neighbors,” declares the LORD, “no one will dwell there; no man will abide there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.39|<< Jeremiah 50:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.41|Jeremiah 50:41 >>]]</td></tr></table>
 
 | Translation | Greek |

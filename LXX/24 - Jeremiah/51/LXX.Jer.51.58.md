@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:58** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, \[The\] wall of Babylon was widened; by razing it shall be razed, and  her high gates by fire shall be set on fire; and peoples shall tire in vanity, and nations shall fail in \[their\] rule. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; The broad walls of Babylon shall be utterly broken, and her high gates shall be burned with fire; and the people shall labour in vain, and the folk in the fire, and they shall be weary.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Babylon’s thick walls will be leveled, and her high gates consumed by fire. So the labor of the people will be for nothing; the nations will exhaust themselves to fuel the flames.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.57|<< Jeremiah 51:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.59|Jeremiah 51:59 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 5:3** 
 <small><sub>**LXX:**</sub></small>
 And now, O ones dwelling in Jerusalem, and O man  of Judah, judge then  between me and  my vineyard! 
-<small><sub>**KJV:**</sub></small>
-And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.
-<small><sub>**BSB:**</sub></small>
-“And now, O dwellers of Jerusalem and men of Judah, I exhort you to judge between Me and My vineyard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.2|<< Isaiah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.4|Isaiah 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

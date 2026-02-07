@@ -1,10 +1,7 @@
 **LXX Isaiah 19:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will be made known to the Egyptians; and the Egyptians shall know the <span class="smallcaps">lord</span> in  that day; and they shall make a sacrifice \[offering\] and a gift \[offering\]; and they shall vow vows to the <span class="smallcaps">lord</span>, and shall render \[them\]. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform [it].
-<small><sub>**BSB:**</sub></small>
-The LORD will make Himself known to Egypt, and on that day Egypt will acknowledge the LORD. They will worship with sacrifices and offerings; they will make vows to the LORD and fulfill them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.20|<< Isaiah 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.22|Isaiah 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will bless her, and give to you from her a child. And I will bless it, and it will be for nations; and kings of nations will be from him. 
-<small><sub>**KJV:**</sub></small>
-And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be [a mother] of nations; kings of people shall be of her.
-<small><sub>**BSB:**</sub></small>
-And I will bless her and will surely give you a son by her. I will bless her, and she will be the mother of nations; kings of peoples will descend from her.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.15|<< Genesis 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.17|Genesis 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

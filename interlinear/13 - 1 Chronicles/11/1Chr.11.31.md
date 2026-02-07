@@ -1,4 +1,4 @@
-**1 Chronicles 11:31** 
+**1 Chronicles 11:31**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ithai the son of Ribai of Gibeah, [that pertained] to the children of Benjamin, Benaiah the Pirathonite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ithai son of Ribai from Gibeah of the Benjamites, Benaiah the Pirathonite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.30|<< 1 Chronicles 11:30]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.32|1 Chronicles 11:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ittai  |**<big>&#8207;[[H0863H\|אִיתַ֣י]]&#8207; </big>**| 'i.Tai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

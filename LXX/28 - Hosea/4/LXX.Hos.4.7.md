@@ -1,10 +1,7 @@
 **LXX Hosea 4:7** 
 <small><sub>**LXX:**</sub></small>
 According to  their multitude, so they sinned against me.  I will appoint their glory for dishonor. 
-<small><sub>**KJV:**</sub></small>
-As they were increased, so they sinned against me: [therefore] will I change their glory into shame.
-<small><sub>**BSB:**</sub></small>
-The more they multiplied, the more they sinned against Me; they exchanged their Glory for a thing of disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.6|<< Hosea 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.8|Hosea 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:4** 
 <small><sub>**LXX:**</sub></small>
 And the men of Judea come and anoint  David there  to reign over the house of Judah. And they reported  to David, saying, The men of Jabish of the Gileadites entombed  Saul. 
-<small><sub>**KJV:**</sub></small>
-And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, [That] the men of Jabeshgilead [were they] that buried Saul.
-<small><sub>**BSB:**</sub></small>
-Then the men of Judah came to Hebron, and there they anointed David king over the house of Judah. And they told David, “It was the men of Jabesh-gilead who buried Saul.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.3|<< 2 Samuel 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.5|2 Samuel 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 16:12** 
 <small><sub>**LXX:**</sub></small>
 And Delilah took new ropes, and tied him with them. And she said to him, The Philistines are upon you, Samson. And the ambush sat in the storeroom. And he pulled them from  his arms as thread. 
-<small><sub>**KJV:**</sub></small>
-Delilah therefore took new ropes, and bound him therewith, and said unto him, The Philistines [be] upon thee, Samson. And [there were] liers in wait abiding in the chamber. And he brake them from off his arms like a thread.
-<small><sub>**BSB:**</sub></small>
-So Delilah took new ropes, tied him up with them, and called out, “Samson, the Philistines are here!” But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

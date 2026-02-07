@@ -1,12 +1,12 @@
-**Luke 11:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:2**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
 <small><sub>**BSB:**</sub></small>
 So Jesus told them, “When you pray, say: ‘Father, hallowed be Your name. Your kingdom come.
 <small><sub>**Literal:**</sub></small>
 He said then to them; When you may pray, do say: Father of us <the> in to the heavens should be hallowed the name of You; should come the kingdom of You should be [done] the will of you as in heaven and upon <the> earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.1|<< Luke 11:1]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.3|Luke 11:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

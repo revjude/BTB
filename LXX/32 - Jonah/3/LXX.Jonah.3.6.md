@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the word approached to the king of Nineveh. And he rose up from  his throne, and he removed  his apparel from himself, and he wore sackcloth, and sat upon ashes. 
-<small><sub>**KJV:**</sub></small>
-For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered [him] with sackcloth, and sat in ashes.
-<small><sub>**BSB:**</sub></small>
-When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.5|<< Jonah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.7|Jonah 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:6** is...

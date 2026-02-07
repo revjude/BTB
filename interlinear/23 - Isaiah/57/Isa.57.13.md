@@ -1,4 +1,4 @@
-**Isaiah 57:13** 
+**Isaiah 57:13**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take [them]: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you cry out, let your companies of idols deliver you! Yet the wind will car
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.12|<< Isaiah 57:12]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.14|Isaiah 57:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when cry out you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2199\|זַֽעֲקֵ]]&#8207;&#8207;[[H9042\|ךְ֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> za.'a.ke<small><sup>[[HVqcc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let them deliver you  |**<big>&#8207;[[H5337\|יַצִּילֻ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| ya.tzi.Lu<small><sup>[[HVhi3mp]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

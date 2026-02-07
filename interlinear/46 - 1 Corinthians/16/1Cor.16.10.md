@@ -1,12 +1,12 @@
-**1 Corinthians 16:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:10**<big><big>[[1Cor.16.10 Timothy and Apollos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also [do].
 <small><sub>**BSB:**</sub></small>
 If Timothy comes, see to it that he has nothing to fear while he is with you, for he is doing the work of the Lord, just as I am.
 <small><sub>**Literal:**</sub></small>
 If now may come Timothy, do see that without fear he shall be with you; the for work of [the] Lord he is doing as also I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.9|<< 1 Corinthians 16:9]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.11|1 Corinthians 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

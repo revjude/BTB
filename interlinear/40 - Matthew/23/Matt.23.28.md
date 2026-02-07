@@ -1,12 +1,12 @@
-**Matthew 23:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:28**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
 <small><sub>**BSB:**</sub></small>
 In the same way, on the outside you appear to be righteous, but on the inside you are full of hypocrisy and wickedness.
 <small><sub>**Literal:**</sub></small>
 Thus also you yourselves outside indeed appear <the> to men righteous, inwardly however you are full of hypocrisy and lawlessness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.27|<< Matthew 23:27]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.29|Matthew 23:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

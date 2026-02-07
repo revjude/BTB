@@ -1,4 +1,4 @@
-**Psalms 115:10** 
+**Psalms 115:10**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of Aaron, trust in the LORD: he [is] their help and their shield.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O house of Aaron, trust in the LORD! He is their help and shield.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.9|<< Psalms 115:9]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.11|Psalms 115:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַ֭הֲרֹן]]&#8207; </big>**| 'A.ha.ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

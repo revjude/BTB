@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:12** 
 <small><sub>**LXX:**</sub></small>
 And the servants of David turned back unto  their way. And they returned, and they came, and they announced  to David according to all  these words. 
-<small><sub>**KJV:**</sub></small>
-So David’s young men turned their way, and went again, and came and told him all those sayings.
-<small><sub>**BSB:**</sub></small>
-So David’s men turned around and went back, and they relayed to him all these words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.11|<< 1 Samuel 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.13|1 Samuel 25:13 >>]]</td></tr></table>
 
 | Translation | Greek |

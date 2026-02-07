@@ -1,4 +1,4 @@
-**Ecclesiastes 6:12** 
+**Ecclesiastes 6:12**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who knoweth what [is] good for man in [this] life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For who knows what is good for a man during the few days in which he passes thro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.11|<< Ecclesiastes 6:11]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.1|Ecclesiastes 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

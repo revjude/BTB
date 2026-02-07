@@ -1,12 +1,12 @@
-**1 Corinthians 4:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:8**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
 <small><sub>**BSB:**</sub></small>
 Already you have all you want. Already you have become rich. Without us, you have become kings. How I wish you really were kings, so that we might be kings with you!
 <small><sub>**Literal:**</sub></small>
 Already satiated you are, already you have been enriched, apart from us you reigned; and I wish that really you did reign, so that also we ourselves you may reign with.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.7|<< 1 Corinthians 4:7]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.9|1 Corinthians 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Already |**<big>[[G2235\|ἤδη]]</big>**  |ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | satiated |**<big>[[G2880\|κεκορεσμένοι]]</big>**  |kekoresmenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

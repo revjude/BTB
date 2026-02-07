@@ -1,4 +1,4 @@
-**Psalms 135:18** 
+**Psalms 135:18**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that make them are like unto them: [so is] every one that trusteth in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who make them become like them, as do all who trust in them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.17|<< Psalms 135:17]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.19|Psalms 135:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like them  |**<big>&#8207;[[H3644G\|כְּ֭מוֹ]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| Ke.mo.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|יִהְי֣וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

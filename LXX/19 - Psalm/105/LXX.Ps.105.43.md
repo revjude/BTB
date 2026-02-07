@@ -1,10 +1,7 @@
 **LXX Psalm 105:43** 
 <small><sub>**LXX:**</sub></small>
 And he led out  his people in exultation, and  his chosen ones in gladness. 
-<small><sub>**KJV:**</sub></small>
-And he brought forth his people with joy, [and] his chosen with gladness:
-<small><sub>**BSB:**</sub></small>
-He brought forth His people with rejoicing, His chosen with shouts of joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.42|<< Psalm 105:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.44|Psalm 105:44 >>]]</td></tr></table>
 
 | Translation | Greek |

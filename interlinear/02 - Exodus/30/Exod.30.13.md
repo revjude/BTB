@@ -1,4 +1,4 @@
-**Exodus 30:13** 
+**Exodus 30:13**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel [is] twenty gerahs:) an half shekel [shall be] the offering of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everyone who crosses over to those counted must pay a half shekel, according to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.12|<< Exodus 30:12]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.14|Exodus 30:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will pay  |**<big>&#8207;[[H5414G\|יִתְּנ֗וּ]]&#8207; </big>**| yi.te.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 15:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:8**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as [he did] unto us;
 <small><sub>**BSB:**</sub></small>
 And God, who knows the heart, showed His approval by giving the Holy Spirit to them, just as He did to us.
 <small><sub>**Literal:**</sub></small>
 And the heart-knowing God bore witness to them having given to them the Spirit <the> Holy even as also to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.7|<< Acts 15:7]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.9|Acts 15:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

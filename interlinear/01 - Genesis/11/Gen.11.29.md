@@ -1,4 +1,4 @@
-**Genesis 11:29** 
+**Genesis 11:29**<big><big>[[Gen.11.27 Terah’s Descendants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram and Nahor took them wives: the name of Abram’s wife [was] Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.28|<< Genesis 11:28]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.30|Genesis 11:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947I\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָ֧ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

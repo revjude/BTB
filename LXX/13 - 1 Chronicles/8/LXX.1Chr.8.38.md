@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:38** 
 <small><sub>**LXX:**</sub></small>
 And  to Azel \[were\] six sons, and these are  their names -- Azrikam his first-born, and Ishmael, and Shearaiah, and Obadiah, and Hanan and Asa; all these \[were\] sons of Azel. 
-<small><sub>**KJV:**</sub></small>
-And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these [were] the sons of Azel.
-<small><sub>**BSB:**</sub></small>
-Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 25:10** 
+**Proverbs 25:10**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest he that heareth [it] put thee to shame, and thine infamy turn not away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ lest he who hears you bring shame upon you, and your infamy never go away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.9|<< Proverbs 25:9]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.11|Proverbs 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should bring shame you  |**<big>&#8207;[[H2616B\|יְחַסֶּדְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| ye.cha.sed.<small><sup>[[HVpi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

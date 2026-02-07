@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:23** 
 <small><sub>**LXX:**</sub></small>
 And Naaman said, Take two talents of silver! And he forced him, and he took to him two talents of silver in two purses, and two changes of apparel. And he gave unto his two servants, and they carried them in front of him. 
-<small><sub>**KJV:**</sub></small>
-And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid [them] upon two of his servants; and they bare [them] before him.
-<small><sub>**BSB:**</sub></small>
-But Naaman insisted, “Please, take two talents.” And he urged Gehazi to accept them. Then he tied up two talents of silver in two bags along with two sets of clothing and gave them to two of his servants, who carried them ahead of Gehazi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.22|<< 2 Kings 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.24|2 Kings 5:24 >>]]</td></tr></table>
 
 | Translation | Greek |

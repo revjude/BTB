@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:28** 
 <small><sub>**LXX:**</sub></small>
 And the king consulted, and made two heifers of gold. And he said to the people, Let it be enough for you to ascend to Jerusalem! Behold,  your gods, O Israel, the ones leading you from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Whereupon the king took counsel, and made two calves [of] gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-After seeking advice, the king made two golden calves and said to the people, “Going up to Jerusalem is too much for you. Here, O Israel, are your gods, who brought you up out of the land of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.27|<< 1 Kings 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.29|1 Kings 12:29 >>]]</td></tr></table>
 
 | Translation | Greek |

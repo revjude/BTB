@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:13** 
 <small><sub>**LXX:**</sub></small>
 And three from the thirty rulers went down, and they entered unto David into the cave of Adullam. And \[the battle\] order of the Philistines camped in the valley of Rephaim. 
-<small><sub>**KJV:**</sub></small>
-And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
-<small><sub>**BSB:**</sub></small>
-At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:15** 
 <small><sub>**LXX:**</sub></small>
 And men rose up who were called by name, and they took hold of the captivity. And all the naked they covered from the spoils, and clothed them, and tied \[sandals\] upon them, and gave to them  to eat and to drink, and to anoint. And they assisted them by beasts of burden for all \[the\] infirm. And they placed them in Jericho, the city of palms, with their brethren. And they returned to Samaria. 
-<small><sub>**KJV:**</sub></small>
-And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria.
-<small><sub>**BSB:**</sub></small>
-Then the men who were designated by name arose, took charge of the captives, and provided from the plunder clothing for the naked. They clothed them, gave them sandals and food and drink, anointed their wounds, and put all the feeble on donkeys. So they brought them to Jericho, the City of Palms, to their brothers. Then they returned to Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.14|<< 2 Chronicles 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.16|2 Chronicles 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

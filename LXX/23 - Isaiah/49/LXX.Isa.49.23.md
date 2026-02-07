@@ -1,10 +1,7 @@
 **LXX Isaiah 49:23** 
 <small><sub>**LXX:**</sub></small>
 And kings shall be your wet-nurses;  and their ruling women your nurses. They shall do obeisance to you upon \[the\] face of the earth, and the dust  of your feet they shall lick. And you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>, and the ones waiting for me shall not be ashamed. 
-<small><sub>**KJV:**</sub></small>
-And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with [their] face toward the earth, and lick up the dust of thy feet; and thou shalt know that I [am] the LORD: for they shall not be ashamed that wait for me.
-<small><sub>**BSB:**</sub></small>
-Kings will be your foster fathers, and their queens your nursing mothers. They will bow to you facedown and lick the dust at your feet. Then you will know that I am the LORD; those who hope in Me will never be put to shame.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.22|<< Isaiah 49:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.24|Isaiah 49:24 >>]]</td></tr></table>
 
 | Translation | Greek |

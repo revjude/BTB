@@ -1,4 +1,4 @@
-**Ezekiel 11:12** 
+**Ezekiel 11:12**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] the LORD: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that [are] round about you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will know that I am the LORD. For you have neither followed My statutes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.11|<< Ezekiel 11:11]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.13|Ezekiel 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3045\|ידַעְתֶּם֙]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

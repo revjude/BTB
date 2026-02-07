@@ -1,4 +1,4 @@
-**Psalms 91:13** 
+**Psalms 91:13**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will tread on the lion and cobra; you will trample the young lion and serpen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.12|<< Psalms 91:12]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.14|Psalms 91:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lion  |**<big>&#8207;[[H7826\|שַׁ֣חַל]]&#8207; </big>**| Sha.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

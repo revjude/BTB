@@ -1,4 +1,4 @@
-**Leviticus 18:25** 
+**Leviticus 18:25**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the land has become defiled, so I am punishing it for its sin, and the land
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.24|<< Leviticus 18:24]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.26|Leviticus 18:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it became unclean  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2930A\|תִּטְמָ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tit.Ma'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

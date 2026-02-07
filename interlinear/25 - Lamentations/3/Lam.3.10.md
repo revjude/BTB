@@ -1,4 +1,4 @@
-**Lamentations 3:10** 
+**Lamentations 3:10**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [was] unto me [as] a bear lying in wait, [and as] a lion in secret places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is a bear lying in wait, a lion hiding in ambush.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.9|<< Lamentations 3:9]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.11|Lamentations 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a bear  |**<big>&#8207;[[H1677\|דֹּ֣ב]]&#8207; </big>**| do<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lying in wait  |**<big>&#8207;[[H0693\|אֹרֵ֥ב]]&#8207; </big>**| 'o.Rev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

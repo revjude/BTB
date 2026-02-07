@@ -1,4 +1,4 @@
-**Judges 16:6** 
+**Judges 16:6**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength [lieth], and wherewith thou mightest be bound to afflict thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Delilah said to Samson, “Please tell me the source of your great strength a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.5|<< Judges 16:5]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.7|Judges 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֤אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Delilah  |**<big>&#8207;[[H1807\|דְּלִילָה֙]]&#8207; </big>**| de.li.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

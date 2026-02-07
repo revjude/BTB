@@ -1,4 +1,4 @@
-**Isaiah 1:23** 
+**Isaiah 1:23**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy princes [are] rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your rulers are rebels, friends of thieves. They all love bribes and chasing aft
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.22|<< Isaiah 1:22]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.24|Isaiah 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | leaders your  |**<big>&#8207;[[H8269\|שָׂרַ֣יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| sa.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] rebels  |**<big>&#8207;[[H5637\|סוֹרְרִ֗ים]]&#8207; </big>**| so.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

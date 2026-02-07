@@ -1,4 +1,4 @@
-**Joshua 10:11** 
+**Joshua 10:11**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as they fled from before Israel, [and] were in the going down to Bethhoron, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: [they were] more which died with hailstones than [they] whom the children of Israel slew with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As they fled before Israel along the descent from Beth-horon to Azekah, the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.10|<< Joshua 10:10]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.12|Joshua 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when fled they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5127\|נֻסָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> nu.Sa<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

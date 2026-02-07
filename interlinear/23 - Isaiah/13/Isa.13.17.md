@@ -1,4 +1,4 @@
-**Isaiah 13:17** 
+**Isaiah 13:17**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will stir up the Medes against them, which shall not regard silver; and [as for] gold, they shall not delight in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will stir up against them the Medes, who have no regard for silver and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֛י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to rouse  |**<big>&#8207;[[H5782\|מֵעִ֥יר]]&#8207; </big>**| me.'Ir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

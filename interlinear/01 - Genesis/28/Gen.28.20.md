@@ -1,4 +1,4 @@
-**Genesis 28:20** 
+**Genesis 28:20**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jacob made a vow, saying, “If God will be with me and watch over me on th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.19|<< Genesis 28:19]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.21|Genesis 28:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he vowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5087\|יִּדַּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Dar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

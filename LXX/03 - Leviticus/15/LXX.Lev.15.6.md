@@ -1,10 +1,7 @@
 **LXX Leviticus 15:6** 
 <small><sub>**LXX:**</sub></small>
 And the one sitting down upon the item, upon what ever the one having a seminal emission should sit upon it, he shall wash  his garments, and shall bathe in water, and he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And he that sitteth on [any] thing whereon he sat that hath the issue shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Whoever sits on furniture on which the man with the discharge was sitting must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.5|<< Leviticus 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.7|Leviticus 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

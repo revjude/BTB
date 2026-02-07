@@ -1,4 +1,4 @@
-**Genesis 18:2** 
+**Genesis 18:2**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw [them], he ran to meet them from the tent door, and bowed himself toward the ground,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Abraham looked up and saw three men standing nearby. When he saw them, he ra
 > $\quad$ referenced by: [[Heb.13.2|Heb 13:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

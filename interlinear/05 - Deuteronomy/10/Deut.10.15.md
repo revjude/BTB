@@ -1,4 +1,4 @@
-**Deuteronomy 10:15** 
+**Deuteronomy 10:15**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, [even] you above all people, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet the LORD has set His affection on your fathers and loved them. And He has ch
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֧ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> ancestors your  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0001G\|אֲבֹתֶ֛י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

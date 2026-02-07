@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses lifted up the sons of Israel from \[the\] red sea, and he led them into the wilderness of Shur. And they went three days in the wilderness, and they did not find water so as to drink. 
-<small><sub>**KJV:**</sub></small>
-So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
-<small><sub>**BSB:**</sub></small>
-Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.21|<< Exodus 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.23|Exodus 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 68:9** 
 <small><sub>**LXX:**</sub></small>
 Will you separate rain as a voluntary \[act\], O God, \[for\] your inheritance? Even it was weak, but you restored it. 
-<small><sub>**KJV:**</sub></small>
-Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.
-<small><sub>**BSB:**</sub></small>
-You sent abundant rain, O God; You refreshed Your weary inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.8|<< Psalm 68:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.10|Psalm 68:10 >>]]</td></tr></table>
 
 | Translation | Greek |

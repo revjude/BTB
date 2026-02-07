@@ -1,4 +1,4 @@
-**Jeremiah 29:22** 
+**Jeremiah 29:22**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of them shall be taken up a curse by all the captivity of Judah which [are] in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of them, all the exiles of Judah who are in Babylon will use this curse:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.21|<< Jeremiah 29:21]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.23|Jeremiah 29:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be taken  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947J\|לֻקַּ֤ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> lu.Kach<small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

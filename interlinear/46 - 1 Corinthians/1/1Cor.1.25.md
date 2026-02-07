@@ -1,12 +1,12 @@
-**1 Corinthians 1:25
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:25**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.
 <small><sub>**BSB:**</sub></small>
 For the foolishness of God is wiser than man’s wisdom, and the weakness of God is stronger than man’s strength.
 <small><sub>**Literal:**</sub></small>
 For the foolishness <the> of God wiser <the> than men is and the weakness <the> of God stronger <the> than men is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.24|<< 1 Corinthians 1:24]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.26|1 Corinthians 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 20:7** 
 <small><sub>**LXX:**</sub></small>
 And now give back the wife of the man, for he is a prophet, and he will pray for your account, and you shall live. But if \[you do\] not give back, you shall know that you shall die, you and all  yours. 
-<small><sub>**KJV:**</sub></small>
-Now therefore restore the man [his] wife; for he [is] a prophet, and he shall pray for thee, and thou shalt live: and if thou restore [her] not, know thou that thou shalt surely die, thou, and all that [are] thine.
-<small><sub>**BSB:**</sub></small>
-Now return the man’s wife, for he is a prophet; he will pray for you and you will live. But if you do not restore her, be aware that you will surely die—you and all who belong to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.6|<< Genesis 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.8|Genesis 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

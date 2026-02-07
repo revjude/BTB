@@ -1,4 +1,4 @@
-**2 Samuel 23:4** 
+**2 Samuel 23:4**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he shall be] as the light of the morning, [when] the sun riseth, [even] a morning without clouds; [as] the tender grass [springing] out of the earth by clear shining after rain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ is like the light of the morning at sunrise of a cloudless dawn, the glistening 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.3|<< 2 Samuel 23:3]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.5|2 Samuel 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and like [the] light of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H0216\|א֥וֹר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | morning  |**<big>&#8207;[[H1242\|בֹּ֖קֶר]]&#8207; </big>**| Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

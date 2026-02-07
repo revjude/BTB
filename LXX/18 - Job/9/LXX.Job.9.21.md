@@ -1,10 +1,7 @@
 **LXX Job 9:21** 
 <small><sub>**LXX:**</sub></small>
 For whether I was impious, I do not know \[in\] soul; besides, life is removed from me. 
-<small><sub>**KJV:**</sub></small>
-[Though] I [were] perfect, [yet] would I not know my soul: I would despise my life.
-<small><sub>**BSB:**</sub></small>
-Though I am blameless, I have no concern for myself; I despise my own life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.20|<< Job 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.22|Job 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

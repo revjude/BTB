@@ -1,4 +1,4 @@
-**2 Chronicles 20:1** 
+**2 Chronicles 20:1**<big><big>[[2Chr.20.1 War against Jehoshaphat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came to pass after this also, [that] the children of Moab, and the children of Ammon, and with them [other] beside the Ammonites, came against Jehoshaphat to battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After this, the Moabites and Ammonites, together with some of the Meunites, came
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.11|<< 2 Chronicles 19:11]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.2|2 Chronicles 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after this  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H3651C\|כֵ֡ן]]&#8207; </big>**| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

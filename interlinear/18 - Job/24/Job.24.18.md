@@ -1,4 +1,4 @@
-**Job 24:18** 
+**Job 24:18**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [is] swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are but foam on the surface of the water; their portion of the land is curs
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.17|<< Job 24:17]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.19|Job 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] swift  |**<big>&#8207;[[H7031\|קַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֤וּא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

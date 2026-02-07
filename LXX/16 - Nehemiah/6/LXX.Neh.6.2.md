@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:2** 
 <small><sub>**LXX:**</sub></small>
 that Sanballat and Geshem sent to me, saying, Come, for we should come together in the towns in \[the\] plain of Ono! But they were considering to do harm against me. 
-<small><sub>**KJV:**</sub></small>
-That Sanballat and Geshem sent unto me, saying, Come, let us meet together in [some one of] the villages in the plain of Ono. But they thought to do me mischief.
-<small><sub>**BSB:**</sub></small>
-Sanballat and Geshem sent me this message: “Come, let us meet together in one of the villages on the plain of Ono.” But they were planning to harm me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.1|<< Nehemiah 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.3|Nehemiah 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

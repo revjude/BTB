@@ -1,10 +1,7 @@
 **LXX Exodus 13:9** 
 <small><sub>**LXX:**</sub></small>
 And it will be to you for a sign upon  your hand, and a memorial before your eyes, that the law of \[the\] <span class="smallcaps">lord</span> may be in  your mouth. For with a fortified hand \[the\] <span class="smallcaps">lord</span> led you out of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’S law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt.
-<small><sub>**BSB:**</sub></small>
-It shall be a sign for you on your hand and a reminder on your forehead that the Law of the LORD is to be on your lips. For with a mighty hand the LORD brought you out of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.8|<< Exodus 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.10|Exodus 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

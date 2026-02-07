@@ -1,10 +1,7 @@
 **LXX Ruth 3:17** 
 <small><sub>**LXX:**</sub></small>
 And she said,  these six \[measures\] of barley he gave to me, for he said to me, You should not enter empty to  your mother-in-law. 
-<small><sub>**KJV:**</sub></small>
-And she said, These six [measures] of barley gave he me; for he said to me, Go not empty unto thy mother in law.
-<small><sub>**BSB:**</sub></small>
-And she said, “He gave me these six measures of barley, for he said, ‘Do not go back to your mother-in-law empty-handed.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.16|<< Ruth 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.18|Ruth 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

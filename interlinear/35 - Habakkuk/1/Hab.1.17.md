@@ -1,4 +1,4 @@
-**Habakkuk 1:17** 
+**Habakkuk 1:17**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall they therefore empty their net, and not spare continually to slay the nations?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will he, therefore, empty his net and continue to slay nations without mercy?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.16|<< Habakkuk 1:16]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.1|Habakkuk 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ there-  |**<big>&#8207;[[H9008\|הַ֥]]&#8207;&#8207;[[H5921A\|עַל]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fore  |**<big>&#8207;[[H3651C\|כֵּ֖ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 30:7** 
+**Jeremiah 30:7**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Alas! for that day [is] great, so that none [is] like it: it [is] even the time of Jacob’s trouble; but he shall be saved out of it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ How awful that day will be! None will be like it! It is the time of Jacob’s di
 > $\quad$ referenced by: [[Matt.24.21|Matt 24:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

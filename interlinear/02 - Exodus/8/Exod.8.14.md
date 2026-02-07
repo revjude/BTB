@@ -1,4 +1,4 @@
-**Exodus 8:14** (8:10)
+**Exodus 8:14**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered them together upon heaps: and the land stank.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were piled into countless heaps, and there was a terrible stench in the lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.13|<< Exodus 8:13]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.15|Exodus 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people piled up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6651\|יִּצְבְּר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.be.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

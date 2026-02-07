@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:16** 
 <small><sub>**LXX:**</sub></small>
 And the windows were latticed narrow openings round about to the three \[stories\], so as to look through; and the house and the \[places\] near were boarded round about, even from the floor unto the windows; and the windows unfolded thrice for looking through. 
-<small><sub>**KJV:**</sub></small>
-The door posts, and the narrow windows, and the galleries round about on their three stories, over against the door, cieled with wood round about, and from the ground up to the windows, and the windows [were] covered;
-<small><sub>**BSB:**</sub></small>
-as well as the thresholds and the beveled windows and the galleries all around with their three levels opposite the threshold, were overlaid with wood on all sides. They were paneled from the ground to the windows, and the windows were covered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.15|<< Ezekiel 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.17|Ezekiel 41:17 >>]]</td></tr></table>
 
 | Translation | Greek |

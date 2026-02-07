@@ -1,4 +1,4 @@
-**Job 18:8** 
+**Job 18:8**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he is cast into a net by his own feet, and he walketh upon a snare.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For his own feet lead him into a net, and he wanders into its mesh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.7|<< Job 18:7]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.9|Job 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he is caught  |**<big>&#8207;[[H7971G\|שֻׁלַּ֣ח]]&#8207; </big>**| shu.Lach<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

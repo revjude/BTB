@@ -1,10 +1,7 @@
 **LXX Daniel 8:21** 
 <small><sub>**LXX:**</sub></small>
 And the he-goat of the goats \[is the\] king of \[the\] Greeks, and the great horn, the one \[that\] was in between  his eyes, he is the foremost king. 
-<small><sub>**KJV:**</sub></small>
-And the rough goat [is] the king of Grecia: and the great horn that [is] between his eyes [is] the first king.
-<small><sub>**BSB:**</sub></small>
-The shaggy goat represents the king of Greece, and the large horn between his eyes is the first king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.20|<< Daniel 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.22|Daniel 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 1:9** 
+**1 Kings 1:9**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which [is] by Enrogel, and called all his brethren the king’s sons, and all the men of Judah the king’s servants:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Adonijah sacrificed sheep, oxen, and fattened calves near the stone of Zohel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.8|<< 1 Kings 1:8]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.10|1 Kings 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּ֗הוּ]]&#8207; </big>**| 'a.do.ni.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

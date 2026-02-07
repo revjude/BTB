@@ -1,4 +1,4 @@
-**Proverbs 8:16** 
+**Proverbs 8:16**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By me princes rule, and nobles, [even] all the judges of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By me princes rule, and all nobles who govern justly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by \<the> me  |**<big>&#8207;[[H9003\|בִּ֭]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | princes  |**<big>&#8207;[[H8269\|שָׂרִ֣ים]]&#8207; </big>**| sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

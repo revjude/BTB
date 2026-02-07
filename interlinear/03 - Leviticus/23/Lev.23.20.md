@@ -1,4 +1,4 @@
-**Leviticus 23:20** 
+**Leviticus 23:20**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall wave them with the bread of the firstfruits [for] a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to wave the lambs as a wave offering before the LORD, together wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.19|<< Leviticus 23:19]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.21|Leviticus 23:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5130B\|הֵנִ֣יף]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Nif<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

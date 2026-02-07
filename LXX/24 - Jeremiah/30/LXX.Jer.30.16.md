@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this all the ones devouring you shall be eaten, and all  your enemies shall come into captivity. And the ones dispersing you will be for dispersion, and all the ones having despoiled you I shall give for plunder. 
-<small><sub>**KJV:**</sub></small>
-Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, all who devour you will be devoured, and all your adversaries—every one of them—will go off into exile. Those who plundered you will be plundered, and all who raided you will be raided.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.15|<< Jeremiah 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.17|Jeremiah 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

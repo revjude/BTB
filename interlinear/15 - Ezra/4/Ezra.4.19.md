@@ -1,4 +1,4 @@
-**Ezra 4:19** 
+**Ezra 4:19**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and [that] rebellion and sedition have been made therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I issued a decree, and a search was conducted. It was discovered that this city 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.18|<< Ezra 4:18]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.20|Ezra 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from me  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִנִּ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.N<small><sup>[[AR]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

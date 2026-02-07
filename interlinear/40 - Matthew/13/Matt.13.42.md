@@ -1,5 +1,5 @@
-**Matthew 13:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:42**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
@@ -10,7 +10,7 @@ and they will cast them into the furnace of the fire; there will be the weeping 
 > $\quad$ referencing: [[LXX.Dan.3.6|Dan 3:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will cast |**<big>[[G0906G\|βαλοῦσιν]]</big>**  |balousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 88:3** 
 <small><sub>**LXX:**</sub></small>
 For my soul is filled of bad \[things\], and  my life  approached Hades. 
-<small><sub>**KJV:**</sub></small>
-For my soul is full of troubles: and my life draweth nigh unto the grave.
-<small><sub>**BSB:**</sub></small>
-For my soul is full of troubles, and my life draws near to Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
 
 | Translation | Greek |

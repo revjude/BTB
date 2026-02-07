@@ -1,4 +1,4 @@
-**1 Chronicles 27:15** 
+**1 Chronicles 27:15**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The twelfth [captain] for the twelfth month [was] Heldai the Netophathite, of Othniel: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The twelfth, for the twelfth month, was Heldai the Netophathite, from the family
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.14|<< 1 Chronicles 27:14]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.16|1 Chronicles 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the two [plus]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8147\|שְּׁנֵ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Neim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עָשָׂר֙]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

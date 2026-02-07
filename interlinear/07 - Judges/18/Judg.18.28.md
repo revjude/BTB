@@ -1,4 +1,4 @@
-**Judges 18:28** 
+**Judges 18:28**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] no deliverer, because it [was] far from Zidon, and they had no business with [any] man; and it was in the valley that [lieth] by Bethrehob. And they built a city, and dwelt therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was no one to deliver them, because the city was far from Sidon and had no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.27|<< Judges 18:27]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.29|Judges 18:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֨ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a deliverer  |**<big>&#8207;[[H5337\|מַצִּ֜יל]]&#8207; </big>**| ma.Tzil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

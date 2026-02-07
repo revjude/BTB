@@ -1,4 +1,4 @@
-**Deuteronomy 12:28** 
+**Deuteronomy 12:28**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest [that which is] good and right in the sight of the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be careful to obey all these things I command you, so that it may always go well
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take care  |**<big>&#8207;[[H8104J\|שְׁמֹ֣ר]]&#8207; </big>**| she.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085H\|שָׁמַעְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.ma'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

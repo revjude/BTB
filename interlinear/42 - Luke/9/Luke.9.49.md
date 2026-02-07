@@ -1,12 +1,12 @@
-**Luke 9:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:49**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
 <small><sub>**BSB:**</sub></small>
 “Master,” said John, “we saw someone driving out demons in Your name, and we tried to stop him, because he does not accompany us.”
 <small><sub>**Literal:**</sub></small>
 Answering now <the> John said; Master, we saw someone in the name of You casting out demons and we were forbidding him because not he follows with us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.48|<< Luke 9:48]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.50|Luke 9:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

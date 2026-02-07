@@ -1,4 +1,4 @@
-**Ezekiel 27:7** 
+**Ezekiel 27:7**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Of embroidered fine linen from Egypt they made your sail, which served as your b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.6|<< Ezekiel 27:6]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.8|Ezekiel 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fine linen  |**<big>&#8207;[[H8336B\|שֵׁשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shesh-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with colorful weaving  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7553\|רִקְמָ֤ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rik.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

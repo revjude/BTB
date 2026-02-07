@@ -1,10 +1,7 @@
 **LXX Proverbs 31:30** 
 <small><sub>**LXX:**</sub></small>
 Allurement is false, and beauty vain it is not in you. For a discerning woman is blessed; and let her praise \[the\] fear \[of the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LORD, she shall be praised.
-<small><sub>**BSB:**</sub></small>
-Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.29|<< Proverbs 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.31|Proverbs 31:31 >>]]</td></tr></table>
 
 | Translation | Greek |

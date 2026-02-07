@@ -1,4 +1,4 @@
-**Daniel 3:3** 
+**Daniel 3:3**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the princes, the governors, and captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, 
 > $\quad$ referenced by: [[Rev.13.14|Rev 13:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֡יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] gathered  |**<big>&#8207;[[H3673\|מִֽתְכַּנְּשִׁ֡ין]]&#8207; </big>**| mit.ka.ne.Shin<small><sup>[[AVMrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

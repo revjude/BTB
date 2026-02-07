@@ -1,12 +1,12 @@
-**Acts 16:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:3**<big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.
 <small><sub>**BSB:**</sub></small>
 Paul wanted Timothy to accompany him, so he took him and circumcised him on account of the Jews in that area, for they all knew that his father was a Greek.
 <small><sub>**Literal:**</sub></small>
 This one wanted <the> Paul with him to go forth, and having taken he circumcised him on account of the Jews those being in the parts those; they knew for all that a Greek the father of him was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.2|<< Acts 16:2]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.4|Acts 16:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This one |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wanted |**<big>[[G2309\|ἠθέλησεν]]</big>**  |ēthelēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

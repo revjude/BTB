@@ -1,4 +1,4 @@
-**Psalms 119:24** 
+**Psalms 119:24**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy testimonies also [are] my delight [and] my counsellers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your testimonies are indeed my delight; they are my counselors.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.23|<< Psalms 119:23]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.25|Psalms 119:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | testimonies your  |**<big>&#8207;[[H5713B\|עֵ֭דֹתֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'E.do.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

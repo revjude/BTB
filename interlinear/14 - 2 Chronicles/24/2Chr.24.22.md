@@ -1,4 +1,4 @@
-**2 Chronicles 24:22** 
+**2 Chronicles 24:22**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon [it], and require [it].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Thus King Joash failed to remember the kindness that Zechariah’s father Jehoia
 > $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he remembered  |**<big>&#8207;[[H2142\|זָכַ֞ר]]&#8207; </big>**| za.Khar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

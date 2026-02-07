@@ -1,10 +1,7 @@
 **LXX Genesis 30:20** 
 <small><sub>**LXX:**</sub></small>
 And Leah said, God has presented to me a good gift in the present time, my man will select me for having borne to him six sons. And she called  his name, Zebulun. 
-<small><sub>**KJV:**</sub></small>
-And Leah said, God hath endued me [with] a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.
-<small><sub>**BSB:**</sub></small>
-“God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.19|<< Genesis 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.21|Genesis 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

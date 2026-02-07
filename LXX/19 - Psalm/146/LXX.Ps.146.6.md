@@ -1,10 +1,7 @@
 **LXX Psalm 146:6** 
 <small><sub>**LXX:**</sub></small>
 the one making the heaven and the earth, the sea, and all the \[things\] in them; the one guarding truth into the eon; 
-<small><sub>**KJV:**</sub></small>
-Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:
-<small><sub>**BSB:**</sub></small>
-the Maker of heaven and earth, the sea, and everything in them. He remains faithful forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.146.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.5|<< Psalm 146:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.7|Psalm 146:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 146:6** is...

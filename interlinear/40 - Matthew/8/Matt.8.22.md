@@ -1,12 +1,12 @@
-**Matthew 8:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:22**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said unto him, Follow me; and let the dead bury their dead.
 <small><sub>**BSB:**</sub></small>
 But Jesus told him, “Follow Me, and let the dead bury their own dead.”
 <small><sub>**Literal:**</sub></small>
 <the> But Jesus speaks to him; do follow Me, and do leave the dead to bury <the> their own dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.21|<< Matthew 8:21]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.23|Matthew 8:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

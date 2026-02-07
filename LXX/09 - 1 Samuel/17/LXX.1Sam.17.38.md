@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul clothed  David  \[with\] his uniform, and put a brass helmet upon  his head, and clothed him \[with\] a chest \[plate\]. 
-<small><sub>**KJV:**</sub></small>
-And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.
-<small><sub>**BSB:**</sub></small>
-Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.37|<< 1 Samuel 17:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.39|1 Samuel 17:39 >>]]</td></tr></table>
 
 | Translation | Greek |

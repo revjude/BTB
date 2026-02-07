@@ -1,10 +1,7 @@
 **LXX Exodus 14:30** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> rescued  Israel in  that day from \[the\] hand of the Egyptians. And Israel saw the Egyptians having died by the edge of the sea. 
-<small><sub>**KJV:**</sub></small>
-Thus the LORD saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
-<small><sub>**BSB:**</sub></small>
-That day the LORD saved Israel from the hand of the Egyptians, and Israel saw the Egyptians dead on the shore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.29|<< Exodus 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.31|Exodus 14:31 >>]]</td></tr></table>
 
 | Translation | Greek |

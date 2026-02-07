@@ -1,4 +1,4 @@
-**Ezekiel 13:12** 
+**Ezekiel 13:12**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, when the wall is fallen, shall it not be said unto you, Where [is] the daubing wherewith ye have daubed [it]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely when the wall has fallen, you will not be asked, ‘Where is the whitewas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.11|<< Ezekiel 13:11]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.13|Ezekiel 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has fallen  |**<big>&#8207;[[H5307G\|נָפַ֣ל]]&#8207; </big>**| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

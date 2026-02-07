@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:23** 
 <small><sub>**LXX:**</sub></small>
 And it was announced to the king, saying, Behold, Nathan the prophet. And he entered in front of the king, and did obeisance to the king upon his face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.
-<small><sub>**BSB:**</sub></small>
-So the king was told, “Nathan the prophet is here.” And Nathan went in and bowed facedown before the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.22|<< 1 Kings 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.24|1 Kings 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

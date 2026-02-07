@@ -1,4 +1,4 @@
-**2 Chronicles 28:22** 
+**2 Chronicles 28:22**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the time of his distress did he trespass yet more against the LORD: this [is that] king Ahaz.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the time of his distress, King Ahaz became even more unfaithful to the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.21|<< 2 Chronicles 28:21]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.23|2 Chronicles 28:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at [the] time  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6256\|עֵת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | harassed  |**<big>&#8207;[[H6887B\|הָצֵ֣ר]]&#8207; </big>**| ha.Tzer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

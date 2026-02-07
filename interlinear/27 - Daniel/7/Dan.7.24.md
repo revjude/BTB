@@ -1,4 +1,4 @@
-**Daniel 7:24** 
+**Daniel 7:24**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ten horns out of this kingdom [are] ten kings [that] shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the ten horns are ten kings who will rise from this kingdom. After them anot
 > $\quad$ referenced by: [[Rev.17.12|Rev 17:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and horns the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7162\|קַרְנַיָּ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> kar.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6236\|עֲשַׂ֔ר]]&#8207; </big>**| 'a.Sar<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

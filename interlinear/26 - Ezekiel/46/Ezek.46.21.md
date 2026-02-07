@@ -1,4 +1,4 @@
-**Ezekiel 46:21** 
+**Ezekiel 46:21**<big><big>[[Ezek.46.19 The Courts for Boiling and Baking|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court [there was] a court.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he brought me into the outer court and led me around to its four corners, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.20|<< Ezekiel 46:20]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.22|Ezekiel 46:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִיאֵ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.tzi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

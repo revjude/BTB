@@ -1,4 +1,4 @@
-**1 Chronicles 2:4** 
+**1 Chronicles 2:4**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah [were] five.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tamar, Judah’s daughter-in-law, bore to him Perez and Zerah. Judah had five so
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.3|<< 1 Chronicles 2:3]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.5|1 Chronicles 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Tamar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8559G\|תָמָר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Mar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | daughter-in-law his  |**<big>&#8207;[[H3618H\|כַּלָּת֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

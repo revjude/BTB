@@ -6,10 +6,7 @@ To the director; for the changings; for an inscription on a monument; \[to\] Dav
 
 <small><sub>**LXX:**</sub></small>
 O God, you thrusted us away, and demolished us. You were provoked to anger, yet you pitied us. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand. O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of David for instruction. When he fought Aram-naharaim and Aram-zobah, and Joab returned and struck down 12,000 Edomites in the Valley of Salt. You have rejected us, O God; You have broken us; You have been angry; restore us!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.17|<< Psalm 59:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.2|Psalm 60:2 >>]]</td></tr></table>
 
 | Translation | Greek |

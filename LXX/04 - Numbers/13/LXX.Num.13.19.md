@@ -1,10 +1,7 @@
 **LXX Numbers 13:19** 
 <small><sub>**LXX:**</sub></small>
 And what the land \[is like\] in which these lie in wait upon it, if it is good, or wicked; and what the cities in which these dwell in them, if in walled or in unwalled. 
-<small><sub>**KJV:**</sub></small>
-And what the land [is] that they dwell in, whether it [be] good or bad; and what cities [they be] that they dwell in, whether in tents, or in strong holds;
-<small><sub>**BSB:**</sub></small>
-Is the land where they live good or bad? Are the cities where they dwell open camps or fortifications?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.18|<< Numbers 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.20|Numbers 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

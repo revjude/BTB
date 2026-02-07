@@ -1,4 +1,4 @@
-**Deuteronomy 4:25** 
+**Deuteronomy 4:25**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt [yourselves], and make a graven image, [or] the likeness of any [thing], and shall do evil in the sight of the LORD thy God, to provoke him to anger:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After you have children and grandchildren and you have been in the land a long t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.24|<< Deuteronomy 4:24]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.26|Deuteronomy 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will father  |**<big>&#8207;[[H3205\|תוֹלִ֤יד]]&#8207; </big>**| to.Lid<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

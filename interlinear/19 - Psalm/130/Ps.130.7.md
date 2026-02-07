@@ -1,4 +1,4 @@
-**Psalms 130:7** 
+**Psalms 130:7**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Israel hope in the LORD: for with the LORD [there is] mercy, and with him [is] plenteous redemption.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Israel, put your hope in the LORD, for with the LORD is loving devotion, and w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.6|<< Psalms 130:6]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130.8|Psalms 130:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hope  |**<big>&#8207;[[H3176H\|יַחֵ֥ל]]&#8207; </big>**| ya.Chel<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

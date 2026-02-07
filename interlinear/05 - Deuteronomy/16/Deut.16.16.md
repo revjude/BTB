@@ -1,4 +1,4 @@
-**Deuteronomy 16:16** 
+**Deuteronomy 16:16**<big><big>[[Deut.16.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three times a year all your men are to appear before the LORD your God in the pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.15|<< Deuteronomy 16:15]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.17|Deuteronomy 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁל֣וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | times  |**<big>&#8207;[[H6471\|פְּעָמִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

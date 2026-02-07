@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:30** 
 <small><sub>**LXX:**</sub></small>
 And Joab returned from \[following\] behind  Abner, And he gathered together all the people. And they numbered the servants of David, the ones having fallen -- nineteen men and Asahel. 
-<small><sub>**KJV:**</sub></small>
-And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel.
-<small><sub>**BSB:**</sub></small>
-When Joab returned from pursuing Abner, he gathered all the troops. In addition to Asahel, nineteen of David’s servants were missing,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.29|<< 2 Samuel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.31|2 Samuel 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

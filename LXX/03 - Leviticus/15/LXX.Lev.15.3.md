@@ -1,10 +1,7 @@
 **LXX Leviticus 15:3** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the law  of his uncleanness. Flowing semen from out of  his body, from out of the flow, in which his body concocted, his uncleanness \[is\] through this flow in him. 
-<small><sub>**KJV:**</sub></small>
-And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it [is] his uncleanness.
-<small><sub>**BSB:**</sub></small>
-This uncleanness is from his discharge, whether his body allows the discharge to flow or blocks it. So his discharge will bring about uncleanness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.2|<< Leviticus 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.4|Leviticus 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

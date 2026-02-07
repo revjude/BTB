@@ -1,10 +1,7 @@
 **LXX Amos 4:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall be brought forth naked in front of one another, and you shall be thrown onto  mount  Renmon, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And ye shall go out at the breaches, every [cow at that which is] before her; and ye shall cast [them] into the palace, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-You will go out through broken walls, each one straight ahead of her, and you will be cast out toward Harmon,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.2|<< Amos 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.4|Amos 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

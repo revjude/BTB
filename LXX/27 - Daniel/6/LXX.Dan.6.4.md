@@ -1,10 +1,7 @@
 **LXX Daniel 6:4** 
 <small><sub>**LXX:**</sub></small>
 And the tacticians and the satraps sought an excuse to find \[something\] against Daniel; and any excuse, or transgression, or error they did not find against him, for he was trustworthy. 
-<small><sub>**KJV:**</sub></small>
-Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he [was] faithful, neither was there any error or fault found in him.
-<small><sub>**BSB:**</sub></small>
-Thus the administrators and satraps sought a charge against Daniel concerning the kingdom, but they could find no charge or corruption, because he was trustworthy, and no negligence or corruption was found in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.3|<< Daniel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.5|Daniel 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

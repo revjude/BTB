@@ -1,10 +1,7 @@
 **LXX Exodus 34:4** 
 <small><sub>**LXX:**</sub></small>
 And he dressed two tablets of stone, just as also the first. And Moses rising early in the morning ascended unto  mount  Sinai, in so far as \[the\] <span class="smallcaps">lord</span> ordered him. And Moses took with himself the two tablets, the ones of stone. 
-<small><sub>**KJV:**</sub></small>
-And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.
-<small><sub>**BSB:**</sub></small>
-So Moses chiseled out two stone tablets like the originals. He rose early in the morning, and taking the two stone tablets in his hands, he went up Mount Sinai as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.3|<< Exodus 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.5|Exodus 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

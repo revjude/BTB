@@ -1,12 +1,12 @@
-**Acts 12:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:25**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Barnabas and Saul returned from Jerusalem, when they had fulfilled [their] ministry, and took with them John, whose surname was Mark.
 <small><sub>**BSB:**</sub></small>
 When Barnabas and Saul had fulfilled their mission to Jerusalem, they returned, bringing with them John, also called Mark.
 <small><sub>**Literal:**</sub></small>
 Barnabas then and Saul returned to Jerusalem having fulfilled the mission, having taken with [them] and John the [one] having been called Mark.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.24|<< Acts 12:24]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.1|Acts 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Barnabas |**<big>[[G0921G\|Βαρναβᾶς]]</big>**  |Barnabas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

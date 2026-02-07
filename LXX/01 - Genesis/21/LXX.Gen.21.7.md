@@ -1,10 +1,7 @@
 **LXX Genesis 21:7** 
 <small><sub>**LXX:**</sub></small>
 And she said, Who will announce  to Abraham that Sarah nurses a male child, for I bore a son in  my old age. 
-<small><sub>**KJV:**</sub></small>
-And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born [him] a son in his old age.
-<small><sub>**BSB:**</sub></small>
-She added, “Who would have told Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.6|<< Genesis 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.8|Genesis 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

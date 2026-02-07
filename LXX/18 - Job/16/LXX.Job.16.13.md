@@ -1,10 +1,7 @@
 **LXX Job 16:13** 
 <small><sub>**LXX:**</sub></small>
 They encircled me \[with\] lances, casting into my kidney, not sparing; they poured out my bile onto the earth. 
-<small><sub>**KJV:**</sub></small>
-His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.
-<small><sub>**BSB:**</sub></small>
-His archers surround me. He pierces my kidneys without mercy and spills my gall on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.12|<< Job 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.14|Job 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

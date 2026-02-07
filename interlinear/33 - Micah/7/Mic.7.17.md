@@ -1,4 +1,4 @@
-**Micah 7:17** 
+**Micah 7:17**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will lick the dust like a snake, like reptiles slithering on the ground. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.16|<< Micah 7:16]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.18|Micah 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will lick up  |**<big>&#8207;[[H3897\|יְלַחֲכ֤וּ]]&#8207; </big>**| ye.la.cha.Khu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dust  |**<big>&#8207;[[H6083\|עָפָר֙]]&#8207; </big>**| 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

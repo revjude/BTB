@@ -1,12 +1,12 @@
-**Galatians 6:14
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:14**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
 <small><sub>**BSB:**</sub></small>
 But as for me, may I never boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
 <small><sub>**Literal:**</sub></small>
 For me myself however never would it be to boast only except in the cross of the Lord of us Jesus Christ, through which to me myself [the] world has been crucified and I myself <the> to [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.13|<< Galatians 6:13]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.15|Galatians 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For me myself |**<big>[[G1473\|ἐμοὶ]]</big>**  |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 2:28** 
+**Jeremiah 2:28**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But where [are] thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for [according to] the number of thy cities are thy gods, O Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But where are the gods you made for yourselves? Let them rise up in your time of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and where?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0346\|אַיֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

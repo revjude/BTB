@@ -1,10 +1,7 @@
 **LXX Psalm 2:2** 
 <small><sub>**LXX:**</sub></small>
 The kings of the earth stood by, and the rulers gathered together against the <span class="smallcaps">lord</span> and against  his anointed \[one\], 
-<small><sub>**KJV:**</sub></small>
-The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, [saying],
-<small><sub>**BSB:**</sub></small>
-The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.1|<< Psalm 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.3|Psalm 2:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 2:2** is...

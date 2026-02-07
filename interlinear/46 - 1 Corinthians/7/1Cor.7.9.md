@@ -1,12 +1,12 @@
-**1 Corinthians 7:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:9**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if they cannot contain, let them marry: for it is better to marry than to burn.
 <small><sub>**BSB:**</sub></small>
 But if they cannot control themselves, let them marry. For it is better to marry than to burn with passion.
 <small><sub>**Literal:**</sub></small>
 If however not they have self-control, they should marry; better for it is to marry than to burn with passion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.8|<< 1 Corinthians 7:8]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.10|1 Corinthians 7:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

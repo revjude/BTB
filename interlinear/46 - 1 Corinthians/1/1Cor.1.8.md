@@ -1,12 +1,12 @@
-**1 Corinthians 1:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:8**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall also confirm you unto the end, [that ye may be] blameless in the day of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 He will sustain you to the end, so that you will be blameless on the day of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 who also will sustain you to [the] end blameless in the day of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.7|<< 1 Corinthians 1:7]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.9|1 Corinthians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

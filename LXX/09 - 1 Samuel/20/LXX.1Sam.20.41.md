@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:41** 
 <small><sub>**LXX:**</sub></small>
 And as the servant-lad entered \[the city\], then David rose up from the chest, and fell upon his face upon the ground, and did obeisance to him three times. And each kissed  his dear one, and each wept over  his dear one unto David exceeded of a great finale. 
-<small><sub>**KJV:**</sub></small>
-[And] as soon as the lad was gone, David arose out of [a place] toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
-<small><sub>**BSB:**</sub></small>
-When the young man had gone, David got up from the south side of the stone, fell facedown, and bowed three times. Then he and Jonathan kissed each other and wept together—though David wept more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.40|<< 1 Samuel 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.42|1 Samuel 20:42 >>]]</td></tr></table>
 
 | Translation | Greek |

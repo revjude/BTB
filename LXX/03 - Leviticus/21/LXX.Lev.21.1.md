@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, saying, Speak to the priests, to the sons of Aaron! And you shall say to them, that \[among their\] \[dead\] souls they shall not defile themselves among  their nation; 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Speak to Aaron’s sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.27|<< Leviticus 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.2|Leviticus 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

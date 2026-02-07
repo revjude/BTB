@@ -1,12 +1,12 @@
-**Colossians 2:1
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:1**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I would that ye knew what great conflict I have for you, and [for] them at Laodicea, and [for] as many as have not seen my face in the flesh;
 <small><sub>**BSB:**</sub></small>
 For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face,
 <small><sub>**Literal:**</sub></small>
 I want for you to know how great a struggle I am having for you and those in Laodicea and as many as not have seen the face of me in [the] flesh,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.29|<< Colossians 1:29]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.2|Colossians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I want |**<big>[[G2309\|Θέλω]]</big>**  |Thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 26:21** 
+**Proverbs 26:21**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] coals [are] to burning coals, and wood to fire; so [is] a contentious man to kindle strife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like charcoal for embers and wood for fire, so is a quarrelsome man for kindling
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.20|<< Proverbs 26:20]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.22|Proverbs 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | charcoal  |**<big>&#8207;[[H6352\|פֶּחָ֣ם]]&#8207; </big>**| pe.Cham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to burning coals  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H1513\|גֶחָלִים]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> ge.cha.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

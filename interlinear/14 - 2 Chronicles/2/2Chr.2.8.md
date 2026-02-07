@@ -1,4 +1,4 @@
-**2 Chronicles 2:8** (2:7)
+**2 Chronicles 2:8**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants [shall be] with thy servants,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Send me also cedar, cypress, and algum logs from Lebanon, for I know that your s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.7|<< 2 Chronicles 2:7]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.9|2 Chronicles 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and send  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H7971G\|שְׁלַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֩]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

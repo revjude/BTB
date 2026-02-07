@@ -1,10 +1,7 @@
 **LXX Exodus 28:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall make bezels from pure gold. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make ouches [of] gold;
-<small><sub>**BSB:**</sub></small>
-Fashion gold filigree settings<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.12|<< Exodus 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.14|Exodus 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

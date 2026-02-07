@@ -1,12 +1,12 @@
-**Matthew 9:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:29**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then touched he their eyes, saying, According to your faith be it unto you.
 <small><sub>**BSB:**</sub></small>
 Then He touched their eyes and said, “According to your faith will it be done to you.”
 <small><sub>**Literal:**</sub></small>
 Then He touched the eyes of them saying; According to the faith of you it should be [done] to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.28|<< Matthew 9:28]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.30|Matthew 9:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He touched |**<big>[[G0681\|ἥψατο]]</big>**  |hēpsato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

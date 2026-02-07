@@ -1,10 +1,7 @@
 **LXX Amos 6:6** 
 <small><sub>**LXX:**</sub></small>
 the ones drinking  wine being strained, and anointing themselves \[with\] the foremost perfumes, and they suffered not anything over the destruction  of Joseph. 
-<small><sub>**KJV:**</sub></small>
-That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.
-<small><sub>**BSB:**</sub></small>
-You drink wine by the bowlful and anoint yourselves with the finest oils, but you fail to grieve over the ruin of Joseph.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.5|<< Amos 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.7|Amos 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

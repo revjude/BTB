@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:12** 
 <small><sub>**LXX:**</sub></small>
 And  king Solomon gave to the queen of Sheba all  her wants, which she asked for, outside of all what she brought  to king Solomon. And she returned unto  her land. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, beside [that] which she had brought unto the king. So she turned, and went away to her own land, she and her servants.
-<small><sub>**BSB:**</sub></small>
-King Solomon gave the queen of Sheba all she desired—whatever she asked—far more than she had brought the king. Then she left and returned to her own country, along with her servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.11|<< 2 Chronicles 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.13|2 Chronicles 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

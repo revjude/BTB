@@ -1,12 +1,12 @@
-**2 Peter 3:17
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:17**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye therefore, beloved, seeing ye know [these things] before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.
 <small><sub>**BSB:**</sub></small>
 Therefore, beloved, since you already know these things, be on your guard so that you will not be carried away by the error of the lawless and fall from your secure standing.
 <small><sub>**Literal:**</sub></small>
 you yourselves therefore, beloved, knowing [this] beforehand do beware that not by the of the lawless error having been led away you may fall from the [your] own steadfastness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.16|<< 2 Peter 3:16]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.18|2 Peter 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore, |**<big>[[G3767\|οὖν,]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

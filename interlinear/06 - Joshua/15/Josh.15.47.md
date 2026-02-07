@@ -1,4 +1,4 @@
-**Joshua 15:47** 
+**Joshua 15:47**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border [thereof]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ashdod, with its towns and villages; Gaza, with its towns and villages, as far a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.46|<< Joshua 15:46]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.48|Joshua 15:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ashdod  |**<big>&#8207;[[H0795\|אַשְׁדּ֞וֹד]]&#8207; </big>**| 'ash.Dod<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | daughters its  |**<big>&#8207;[[H1323H\|בְּנוֹתֶ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| be.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

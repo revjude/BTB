@@ -1,10 +1,7 @@
 **LXX Joshua 18:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] part  towards \[the\] south of \[the\] part of Kirjath-baal, even shall go through unto Gasin, and it shall go forth to \[the\] spring of \[the\] water Nephtoah. 
-<small><sub>**KJV:**</sub></small>
-And the south quarter [was] from the end of Kirjathjearim, and the border went out on the west, and went out to the well of waters of Nephtoah:
-<small><sub>**BSB:**</sub></small>
-On the south side the border began at the outskirts of Kiriath-jearim and extended westward to the spring at the Waters of Nephtoah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.14|<< Joshua 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.16|Joshua 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

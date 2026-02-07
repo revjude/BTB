@@ -1,12 +1,12 @@
-**Acts 7:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:22**<big><big>[[Acts.7.20 The Birth and Adoption of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
 <small><sub>**BSB:**</sub></small>
 So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.
 <small><sub>**Literal:**</sub></small>
 And was instructed Moses in all [the] wisdom of [the] Egyptians; he was now mighty in words and in deeds of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.21|<< Acts 7:21]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.23|Acts 7:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was instructed |**<big>[[G3811\|ἐπαιδεύθη]]</big>**  |epaideuthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

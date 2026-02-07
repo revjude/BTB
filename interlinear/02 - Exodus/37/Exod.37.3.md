@@ -1,4 +1,4 @@
-**Exodus 37:3** 
+**Exodus 37:3**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast for it four rings of gold, [to be set] by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he cast four gold rings for its four feet, two rings on one side and two on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.2|<< Exodus 37:2]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.4|Exodus 37:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3332H\|יִּצֹ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tzok<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> it  |**<big>&#8207;[[H9005\|ל֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

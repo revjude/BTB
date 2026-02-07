@@ -1,12 +1,12 @@
-**Acts 10:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:21**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what [is] the cause wherefore ye are come?
 <small><sub>**BSB:**</sub></small>
 So Peter went down to the men and said, “Here am I, the one you are looking for. Why have you come?”
 <small><sub>**Literal:**</sub></small>
 Having gone down then Peter to the men who sent from <the> Cornelius to him he said; Behold I myself am whom you seek; what [is] the cause for which you are here?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.20|<< Acts 10:20]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.22|Acts 10:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone down |**<big>[[G2597\|καταβὰς]]</big>**  |katabas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

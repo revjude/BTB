@@ -1,4 +1,4 @@
-**Deuteronomy 8:14** 
+**Deuteronomy 8:14**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then your heart will become proud, and you will forget the LORD your God who bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.13|<< Deuteronomy 8:13]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.15|Deuteronomy 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be lifted up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7311A\|רָ֖ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ram<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3824\|לְבָבֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.va.Ve.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

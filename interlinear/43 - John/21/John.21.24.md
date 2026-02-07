@@ -1,12 +1,12 @@
-**John 21:24
-**<small><sub>**KJV:**</sub></small>
+**John 21:24**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
 <small><sub>**BSB:**</sub></small>
 This is the disciple who testifies to these things and who has written them down. And we know that his testimony is true.
 <small><sub>**Literal:**</sub></small>
 This is the disciple who is bearing witness concerning these things and the [one] having written these things, and we know that true of him the testimony is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.23|<< John 21:23]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.25|John 21:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

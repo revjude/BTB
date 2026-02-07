@@ -1,4 +1,4 @@
-**1 Kings 8:52** 
+**1 Kings 8:52**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thine eyes may be open unto the supplication of thy servant, and unto the supplication of thy people Israel, to hearken unto them in all that they call for unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May Your eyes be open to the pleas of Your servant and of Your people Israel, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.51|<< 1 Kings 8:51]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.53|1 Kings 8:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to be  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1961\|הְי֨וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵינֶ֤י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

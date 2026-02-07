@@ -1,10 +1,7 @@
 **LXX Ezra 3:4** 
 <small><sub>**LXX:**</sub></small>
 And they observed the holiday of the tents, according to the \[thing\] being written, and \[the\] whole burnt-offerings day by day in number, according to the distinguishing manner of \[the\] reckoning day by day for it. 
-<small><sub>**KJV:**</sub></small>
-They kept also the feast of tabernacles, as [it is] written, and [offered] the daily burnt offerings by number, according to the custom, as the duty of every day required;
-<small><sub>**BSB:**</sub></small>
-They also celebrated the Feast of Tabernacles in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.3|<< Ezra 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.5|Ezra 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

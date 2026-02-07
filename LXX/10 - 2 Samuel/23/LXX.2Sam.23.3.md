@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:3** 
 <small><sub>**LXX:**</sub></small>
 The God of Israel spoke to me; \[the\] guardian of Israel spoke, justice ruling among men, \[the\] prince in fear of God. 
-<small><sub>**KJV:**</sub></small>
-The God of Israel said, the Rock of Israel spake to me, He that ruleth over men [must be] just, ruling in the fear of God.
-<small><sub>**BSB:**</sub></small>
-The God of Israel spoke; the Rock of Israel said to me, ‘He who rules the people with justice, who rules in the fear of God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.2|<< 2 Samuel 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.4|2 Samuel 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

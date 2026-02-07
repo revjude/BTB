@@ -1,12 +1,12 @@
-**Matthew 15:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:22**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, [thou] Son of David; my daughter is grievously vexed with a devil.
 <small><sub>**BSB:**</sub></small>
 And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.”
 <small><sub>**Literal:**</sub></small>
 And behold a woman Canaanite from the region same having approached was crying out to him saying; do have mercy on me, Lord Son of David. the daughter of mine badly is demonised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.21|<< Matthew 15:21]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.23|Matthew 15:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

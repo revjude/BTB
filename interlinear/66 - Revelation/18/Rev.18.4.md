@@ -1,5 +1,5 @@
-**Revelation 18:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:4**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 <small><sub>**BSB:**</sub></small>
 Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues.
@@ -10,7 +10,7 @@ And I heard another voice from <the> heaven saying: do come you who [are] people
 > $\quad$ alluding to: [[LXX.Isa.52.11|Isa 52:11]] ☩ [[LXX.Jer.50.8|Jer 50:8]] ☩ [[LXX.Jer.51.6|Jer 51:6]] ☩ [[LXX.Jer.51.9|Jer 51:9]] ☩ [[LXX.Jer.51.45|Jer 51:45]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

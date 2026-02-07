@@ -1,10 +1,7 @@
 **LXX Amos 7:6** 
 <small><sub>**LXX:**</sub></small>
 And this in no way should be, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The LORD repented for this: This also shall not be, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-So the LORD relented from this plan. “It will not happen either,” said the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.5|<< Amos 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.7|Amos 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 21:7** 
 <small><sub>**LXX:**</sub></small>
 And the people came to Moses, saying that, We sinned, for we spoke ill against the <span class="smallcaps">lord</span>, and against you; make a vow then to \[the\] <span class="smallcaps">lord</span> that he remove from us the serpent! And Moses made a vow for the people. 
-<small><sub>**KJV:**</sub></small>
-Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.
-<small><sub>**BSB:**</sub></small>
-Then the people came to Moses and said, “We have sinned by speaking against the LORD and against you. Intercede with the LORD so He will take the snakes away from us.” So Moses interceded for the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.6|<< Numbers 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.8|Numbers 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

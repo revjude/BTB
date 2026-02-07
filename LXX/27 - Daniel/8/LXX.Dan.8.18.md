@@ -1,10 +1,7 @@
 **LXX Daniel 8:18** 
 <small><sub>**LXX:**</sub></small>
 And in  his speaking with me, I fell upon my face unto the earth. And he touched me, and he stood me upon my feet. 
-<small><sub>**KJV:**</sub></small>
-Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
-<small><sub>**BSB:**</sub></small>
-While he was speaking with me, I fell into a deep sleep, with my face to the ground. Then he touched me, helped me to my feet,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.17|<< Daniel 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.19|Daniel 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

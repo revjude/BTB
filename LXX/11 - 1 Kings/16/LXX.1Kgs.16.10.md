@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Zimri entered and struck him, and killed him in \[the\] seventh and twentieth year, and he reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-So in the twenty-seventh year of Asa’s reign over Judah, Zimri went in, struck Elah down, and killed him. And Zimri reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.9|<< 1 Kings 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.11|1 Kings 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

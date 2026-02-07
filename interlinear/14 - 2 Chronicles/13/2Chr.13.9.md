@@ -1,4 +1,4 @@
-**2 Chronicles 13:9** 
+**2 Chronicles 13:9**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of [other] lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, [the same] may be a priest of [them that are] no gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But did you not drive out the priests of the LORD, the sons of Aaron, and the Le
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.8|<< 2 Chronicles 13:8]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.10|2 Chronicles 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you driven out  |**<big>&#8207;[[H5080\|הִדַּחְתֶּם֙]]&#8207; </big>**| hi.dach.Tem<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

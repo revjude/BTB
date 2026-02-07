@@ -1,4 +1,4 @@
-**Deuteronomy 9:18** 
+**Deuteronomy 9:18**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I fell down before the LORD, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the LORD, to provoke him to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I fell down before the LORD for forty days and forty nights, as I had done 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.17|<< Deuteronomy 9:17]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.19|Deuteronomy 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prostrated myself  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H5307G\|אֶתְנַפַּל֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'et.na.Pal<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֨י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

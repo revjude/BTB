@@ -1,4 +1,4 @@
-**Genesis 18:19** 
+**Genesis 18:19**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have chosen him, so that he will command his children and his household af
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.18|<< Genesis 18:18]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.20|Genesis 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have known him  |**<big>&#8207;[[H3045\|יְדַעְתִּ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ye.da'.Ti<small><sup>[[HVqp1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

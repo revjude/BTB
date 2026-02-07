@@ -1,4 +1,4 @@
-**Genesis 43:14** 
+**Genesis 43:14**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved [of my children], I am bereaved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May God Almighty grant you mercy before the man, that he may release your other 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.13|<< Genesis 43:13]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.15|Genesis 43:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and God  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'El<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֗י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

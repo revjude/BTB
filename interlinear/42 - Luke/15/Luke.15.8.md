@@ -1,12 +1,12 @@
-**Luke 15:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:8**<big><big>[[Luke.15.8 The Parable of the Lost Coin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find [it]?
 <small><sub>**BSB:**</sub></small>
 Or what woman who has ten silver coins and loses one of them does not light a lamp, sweep her house, and search carefully until she finds it?
 <small><sub>**Literal:**</sub></small>
 Or what woman drachmas having ten, if she may lose drachma one, surely she lights a lamp and she sweeps the house and she seeks carefully until it she may find?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.7|<< Luke 15:7]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.9|Luke 15:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

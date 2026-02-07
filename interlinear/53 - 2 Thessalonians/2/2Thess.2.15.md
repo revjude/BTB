@@ -1,12 +1,12 @@
-**2 Thessalonians 2:15
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:15**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, stand firm and cling to the traditions we taught you, whether by speech or by letter.
 <small><sub>**Literal:**</sub></small>
 So then, brothers, do stand firm and do hold fast to the traditions that you were taught whether through word or through letter from us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.14|<< 2 Thessalonians 2:14]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.16|2 Thessalonians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|Ἄρα]]</big>**  |Ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then, |**<big>[[G3767\|οὖν,]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

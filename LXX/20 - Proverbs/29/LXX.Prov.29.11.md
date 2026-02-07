@@ -1,10 +1,7 @@
 **LXX Proverbs 29:11** 
 <small><sub>**LXX:**</sub></small>
 The fool brings forth his entire rage; but \[the\] wise stores his up in part. 
-<small><sub>**KJV:**</sub></small>
-A fool uttereth all his mind: but a wise [man] keepeth it in till afterwards.
-<small><sub>**BSB:**</sub></small>
-A fool vents all his anger, but a wise man holds it back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.10|<< Proverbs 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.12|Proverbs 29:12 >>]]</td></tr></table>
 
 | Translation | Greek |

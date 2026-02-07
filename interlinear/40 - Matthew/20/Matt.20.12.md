@@ -1,12 +1,12 @@
-**Matthew 20:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:12**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, These last have wrought [but] one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.
 <small><sub>**BSB:**</sub></small>
 ‘These men who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden and the scorching heat of the day.’
 <small><sub>**Literal:**</sub></small>
 saying that: These the last one hour worked, and equal to us them you have made, to [we] who having borne the burden of the day and the scorching heat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.11|<< Matthew 20:11]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.13|Matthew 20:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that: |**<big>[[G3754G\|ὅτι·]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

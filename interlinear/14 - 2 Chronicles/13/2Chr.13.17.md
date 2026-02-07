@@ -1,4 +1,4 @@
-**2 Chronicles 13:17** 
+**2 Chronicles 13:17**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abijah and his people struck them with a mighty blow, and 500,000 chosen me
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.16|<< 2 Chronicles 13:16]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.18|2 Chronicles 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

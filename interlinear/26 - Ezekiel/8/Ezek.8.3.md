@@ -1,4 +1,4 @@
-**Ezekiel 8:3** 
+**Ezekiel 8:3**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where [was] the seat of the image of jealousy, which provoketh to jealousy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stretched out what looked like a hand and took me by the hair of my head. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.2|<< Ezekiel 8:2]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.4|Ezekiel 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971H\|יִּשְׁלַח֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] form of  |**<big>&#8207;[[H8403\|תַּבְנִ֣ית]]&#8207; </big>**| tav.Nit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

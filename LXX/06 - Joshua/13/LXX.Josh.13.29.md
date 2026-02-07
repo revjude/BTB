@@ -1,10 +1,7 @@
 **LXX Joshua 13:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave to the half tribe of Manasseh, and it became to the halves of \[the\] tribe of \[the\] sons of Manasseh according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-And Moses gave [inheritance] unto the half tribe of Manasseh: and [this] was [the possession] of the half tribe of the children of Manasseh by their families.
-<small><sub>**BSB:**</sub></small>
-This is what Moses had given to the clans of the half-tribe of Manasseh, that is, to half the tribe of the descendants of Manasseh:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.28|<< Joshua 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.30|Joshua 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

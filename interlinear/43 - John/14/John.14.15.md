@@ -1,12 +1,12 @@
-**John 14:15
-**<small><sub>**KJV:**</sub></small>
+**John 14:15**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye love me, keep my commandments.
 <small><sub>**BSB:**</sub></small>
 If you love Me, you will keep My commandments.
 <small><sub>**Literal:**</sub></small>
 If you shall love Me, <the> commandments <the> of Mine you will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.14|<< John 14:14]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.16|John 14:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you shall love |**<big>[[G0025\|ἀγαπᾶτέ]]</big>**  |agapate <small><sup>[[V-PAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 22:48** (22:49)
+**1 Kings 22:48**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Eziongeber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoshaphat built ships of Tarshish to go to Ophir for gold, but they never set 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.47|<< 1 Kings 22:47]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.49|1 Kings 22:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֡ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  [^1]|**<big>&#8207;[[H6213A\|עָשָׂה֩]]&#8207; </big>**[^2] | a.sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

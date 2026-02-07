@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:23** 
 <small><sub>**LXX:**</sub></small>
 And he made in the dabir two cherubim of wood of cypresses, ten cubits \[was\] the greatness being measured by a rule, 
-<small><sub>**KJV:**</sub></small>
-And within the oracle he made two cherubims [of] olive tree, [each] ten cubits high.
-<small><sub>**BSB:**</sub></small>
-In the inner sanctuary he made two cherubim, each ten cubits high, out of olive wood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.22|<< 1 Kings 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.24|1 Kings 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

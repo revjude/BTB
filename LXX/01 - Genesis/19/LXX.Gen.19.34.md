@@ -1,10 +1,7 @@
 **LXX Genesis 19:34** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the next day, and the elder said to the younger, Behold, I went to bed yesterday with  our father. him wine to drink also in  this night, and entering, you go to bed with him! that we might raise up seed from our father. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, [and] lie with him, that we may preserve seed of our father.
-<small><sub>**BSB:**</sub></small>
-The next day the older daughter said to the younger, “Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.33|<< Genesis 19:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.35|Genesis 19:35 >>]]</td></tr></table>
 
 | Translation | Greek |

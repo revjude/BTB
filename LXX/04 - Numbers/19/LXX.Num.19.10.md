@@ -1,10 +1,7 @@
 **LXX Numbers 19:10** 
 <small><sub>**LXX:**</sub></small>
 And the one gathering the ashes of the heifer shall wash  his garments, and will be unclean until evening. And it will be to the sons of Israel, and to the foreigners lying nearby in \[the\] midst of you an eternal law. 
-<small><sub>**KJV:**</sub></small>
-And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
-<small><sub>**BSB:**</sub></small>
-The man who has gathered up the ashes of the heifer must also wash his clothes, and he will be ceremonially unclean until evening. This is a permanent statute for the Israelites and for the foreigner residing among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.9|<< Numbers 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.11|Numbers 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

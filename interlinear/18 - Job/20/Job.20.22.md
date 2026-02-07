@@ -1,4 +1,4 @@
-**Job 20:22** 
+**Job 20:22**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the midst of his plenty, he will be distressed; the full force of misery will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.21|<< Job 20:21]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.23|Job 20:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when is full  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4390\|מְלֹ֣אות]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sufficiency his  |**<big>&#8207;[[H5607B\|שִׂ֭פְק]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| Sif.ko<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

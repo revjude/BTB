@@ -1,10 +1,7 @@
 **LXX Exodus 38:27** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the hundred talents  of silver for the molten casting of the tips of the tent, and for the tips of the veil; a hundred tips for the hundred talents, a talent to the tip. 
-<small><sub>**KJV:**</sub></small>
-And of the hundred talents of silver were cast the sockets of the sanctuary, and the sockets of the vail; an hundred sockets of the hundred talents, a talent for a socket.
-<small><sub>**BSB:**</sub></small>
-The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.26|<< Exodus 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.28|Exodus 38:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:4** 
 <small><sub>**LXX:**</sub></small>
 Water nourished him, the deep made him rise up high; she led the rivers round about  his plants, and  she sent forth her collections \[of water\] unto all the trees of the field. 
-<small><sub>**KJV:**</sub></small>
-The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent out her little rivers unto all the trees of the field.
-<small><sub>**BSB:**</sub></small>
-The waters made it grow; the deep springs made it tall, directing their streams all around its base and sending their channels to all the trees of the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.3|<< Ezekiel 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.5|Ezekiel 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

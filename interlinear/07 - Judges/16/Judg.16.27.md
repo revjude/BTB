@@ -1,4 +1,4 @@
-**Judges 16:27** 
+**Judges 16:27**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the house was full of men and women; and all the lords of the Philistines [were] there; and [there were] upon the roof about three thousand men and women, that beheld while Samson made sport.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the temple was full of men and women; all the lords of the Philistines were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.26|<< Judges 16:26]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.28|Judges 16:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the house  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בַּ֗יִת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | was full  |**<big>&#8207;[[H4390\|מָלֵ֤א]]&#8207; </big>**| ma.Le'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

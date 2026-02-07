@@ -6,10 +6,7 @@ A psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 O God, nations come into  your inheritance; they defiled  your holy temple; they made Jerusalem as a storehouse of fruits. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of Asaph. O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
-<small><sub>**BSB:**</sub></small>
-A Psalm of Asaph. The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.72|<< Psalm 78:72]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.2|Psalm 79:2 >>]]</td></tr></table>
 
 | Translation | Greek |

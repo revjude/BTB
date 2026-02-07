@@ -1,4 +1,4 @@
-**Isaiah 48:3** 
+**Isaiah 48:3**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did [them] suddenly, and they came to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I foretold the former things long ago; they came out of My mouth and I proclaime
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.2|<< Isaiah 48:2]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.4|Isaiah 48:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the former [things]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223H\|רִֽאשֹׁנוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.sho.nOt<small><sup>[[HAofpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from then  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0227B\|אָ֣ז]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

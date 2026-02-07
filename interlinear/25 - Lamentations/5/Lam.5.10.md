@@ -1,4 +1,4 @@
-**Lamentations 5:10** 
+**Lamentations 5:10**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our skin was black like an oven because of the terrible famine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our skin is as hot as an oven with fever from our hunger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.9|<< Lamentations 5:9]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.11|Lamentations 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | skin our  |**<big>&#8207;[[H5785\|עוֹרֵ֙]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| o.Re.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like an oven  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8574H\|תַנּ֣וּר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ta.Nur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

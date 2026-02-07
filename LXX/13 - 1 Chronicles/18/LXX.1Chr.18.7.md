@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:7** 
 <small><sub>**LXX:**</sub></small>
 And David took the collars  of gold \[things\] which were upon the servants of Hadarezer, and brought them into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.6|<< 1 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.8|1 Chronicles 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

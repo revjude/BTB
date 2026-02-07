@@ -1,10 +1,7 @@
 **LXX Lamentations 3:14** 
 <small><sub>**LXX:**</sub></small>
 I became laughter to all my people, their psalm \[for the\] entire  day. 
-<small><sub>**KJV:**</sub></small>
-I was a derision to all my people; [and] their song all the day.
-<small><sub>**BSB:**</sub></small>
-I am a laughingstock to all my people; they mock me in song all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.13|<< Lamentations 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.15|Lamentations 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

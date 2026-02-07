@@ -1,4 +1,4 @@
-**Ezekiel 27:18** 
+**Ezekiel 27:18**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Damascus [was] thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of your many products and your great wealth of goods, Damascus traded wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.17|<< Ezekiel 27:17]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.19|Ezekiel 27:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Damascus  |**<big>&#8207;[[H1834\|דַּמֶּ֧שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] trader your  |**<big>&#8207;[[H5503\|סֹחַרְתֵּ֛]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| so.char.Te<small><sup>[[HVqrfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

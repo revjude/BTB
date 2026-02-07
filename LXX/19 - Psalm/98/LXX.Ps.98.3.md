@@ -1,10 +1,7 @@
 **LXX Psalm 98:3** 
 <small><sub>**LXX:**</sub></small>
 He remembered  his mercy  to Jacob, and  his truth to the house of Israel. All the ends of the earth beheld the deliverance  of our God. 
-<small><sub>**KJV:**</sub></small>
-He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.
-<small><sub>**BSB:**</sub></small>
-He has remembered His love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.98.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.2|<< Psalm 98:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.4|Psalm 98:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:36** 
 <small><sub>**LXX:**</sub></small>
 And Elisha yelled out loud to Gehazi, and said, Call  this Shunammite! And he called her, and she entered to him. And Elisha said, Receive  your son! 
-<small><sub>**KJV:**</sub></small>
-And he called Gehazi, and said, Call this Shunammite. So he called her. And when she was come in unto him, he said, Take up thy son.
-<small><sub>**BSB:**</sub></small>
-Elisha summoned Gehazi and said, “Call the Shunammite woman.” So he called her and she came. Then Elisha said, “Pick up your son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.35|<< 2 Kings 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.37|2 Kings 4:37 >>]]</td></tr></table>
 
 | Translation | Greek |

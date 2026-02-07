@@ -1,4 +1,4 @@
-**1 Chronicles 10:7** 
+**1 Chronicles 10:7**<big><big>[[1Chr.10.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the men of Israel that [were] in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the Israelites in the valley saw that the army had fled and that Saul a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.6|<< 1 Chronicles 10:6]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.8|1 Chronicles 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7200G\|יִּרְאוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yir.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

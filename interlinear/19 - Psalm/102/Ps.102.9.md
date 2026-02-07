@@ -1,4 +1,4 @@
-**Psalms 102:9** (102:10)
+**Psalms 102:9**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have eaten ashes like bread, and mingled my drink with weeping,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have eaten ashes like bread and mixed my drink with tears
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.8|<< Psalms 102:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.10|Psalms 102:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ash[es]  |**<big>&#8207;[[H0665\|אֵ֭פֶר]]&#8207; </big>**| 'E.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

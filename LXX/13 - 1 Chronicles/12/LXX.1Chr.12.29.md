@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:29** 
 <small><sub>**LXX:**</sub></small>
 And from the sons of Benjamin, of the brethren of Saul -- three thousand. And yet  most of them kept the guard of \[the\] house of Saul. 
-<small><sub>**KJV:**</sub></small>
-And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.
-<small><sub>**BSB:**</sub></small>
-From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.28|<< 1 Chronicles 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.30|1 Chronicles 12:30 >>]]</td></tr></table>
 
 | Translation | Greek |

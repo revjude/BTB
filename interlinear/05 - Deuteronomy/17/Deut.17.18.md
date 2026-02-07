@@ -1,4 +1,4 @@
-**Deuteronomy 17:18** 
+**Deuteronomy 17:18**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of [that which is] before the priests the Levites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he is seated on his royal throne, he must write for himself a copy of this 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.17|<< Deuteronomy 17:17]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.19|Deuteronomy 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when sits he  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3427\|שִׁבְתּ֔]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> shiv.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

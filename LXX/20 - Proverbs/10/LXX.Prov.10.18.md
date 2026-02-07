@@ -1,10 +1,7 @@
 **LXX Proverbs 10:18** 
 <small><sub>**LXX:**</sub></small>
 Just lips cover hatred; but the ones bringing forth reviling are most foolish. 
-<small><sub>**KJV:**</sub></small>
-He that hideth hatred [with] lying lips, and he that uttereth a slander, [is] a fool.
-<small><sub>**BSB:**</sub></small>
-The one who conceals hatred has lying lips, and whoever spreads slander is a fool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.17|<< Proverbs 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.19|Proverbs 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

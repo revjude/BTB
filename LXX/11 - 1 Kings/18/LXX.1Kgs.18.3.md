@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:3** 
 <small><sub>**LXX:**</sub></small>
 And Ahab called  Obadiah the manager. And Obadiah was fearing the <span class="smallcaps">lord</span> exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And Ahab called Obadiah, which [was] the governor of [his] house. (Now Obadiah feared the LORD greatly:
-<small><sub>**BSB:**</sub></small>
-and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.2|<< 1 Kings 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.4|1 Kings 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

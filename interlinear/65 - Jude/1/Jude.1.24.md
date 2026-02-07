@@ -1,12 +1,12 @@
-**Jude 1:24
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:24**<big><big>[[Jude.1.24 Doxology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now unto him that is able to keep you from falling, and to present [you] faultless before the presence of his glory with exceeding joy,
 <small><sub>**BSB:**</sub></small>
 Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy—
 <small><sub>**Literal:**</sub></small>
 To Him now being able to keep you from stumbling and to present [you] in the presence of the glory of Him blameless with exultation —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.23|<< Jude 1:23]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.25|Jude 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Him |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

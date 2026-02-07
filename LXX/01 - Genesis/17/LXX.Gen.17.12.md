@@ -1,10 +1,7 @@
 **LXX Genesis 17:12** 
 <small><sub>**LXX:**</sub></small>
 And a male child eight days \[old\] shall be circumcised by you -- every male into  your generations; the native-born servant  of your house, and the \[one\] bought with silver, from every son of an alien who is not from  your seed. 
-<small><sub>**KJV:**</sub></small>
-And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which [is] not of thy seed.
-<small><sub>**BSB:**</sub></small>
-Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.11|<< Genesis 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.13|Genesis 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

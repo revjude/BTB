@@ -1,10 +1,7 @@
 **LXX Psalm 67:6** 
 <small><sub>**LXX:**</sub></small>
 \[The\] earth gave  her fruit. God our God bless us. 
-<small><sub>**KJV:**</sub></small>
-[Then] shall the earth yield her increase; [and] God, [even] our own God, shall bless us.
-<small><sub>**BSB:**</sub></small>
-The earth has yielded its harvest; God, our God, blesses us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.67.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.5|<< Psalm 67:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.67.7|Psalm 67:7 >>]]</td></tr></table>
 
 | Translation | Greek |

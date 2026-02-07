@@ -1,10 +1,7 @@
 **LXX Isaiah 24:14** 
 <small><sub>**LXX:**</sub></small>
 And these in a voice shall yell out; but the ones being left behind upon the earth shall be glad together in the glory of \[the\] <span class="smallcaps">lord</span>; the water of the sea shall be disturbed. 
-<small><sub>**KJV:**</sub></small>
-They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.
-<small><sub>**BSB:**</sub></small>
-They raise their voices, they shout for joy; from the west they proclaim the majesty of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:5** 
 <small><sub>**LXX:**</sub></small>
 And Shemaiah the prophet came to Rehoboam, and to the rulers of Judah, the ones gathering together in Jerusalem from \[the\] face of Shishak. And he said to them, Thus said \[the\] <span class="smallcaps">lord</span>, You abandoned me, and I shall abandon you into \[the\] hand of Shishak. 
-<small><sub>**KJV:**</sub></small>
-Then came Shemaiah the prophet to Rehoboam, and [to] the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak.
-<small><sub>**BSB:**</sub></small>
-Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gathered at Jerusalem because of Shishak, and he said to them, “This is what the LORD says: ‘You have forsaken Me; therefore, I have forsaken you into the hand of Shishak.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.4|<< 2 Chronicles 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.6|2 Chronicles 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

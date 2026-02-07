@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:8** 
 <small><sub>**LXX:**</sub></small>
 You should not be fearful from in front of them, for I am with you,  to rescue you, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Be not afraid of their faces: for I [am] with thee to deliver thee, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Do not be afraid of them, for I am with you to deliver you,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.7|<< Jeremiah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.9|Jeremiah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

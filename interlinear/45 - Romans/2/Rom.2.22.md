@@ -1,12 +1,12 @@
-**Romans 2:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:22**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
 <small><sub>**BSB:**</sub></small>
 You who forbid adultery, do you commit adultery? You who abhor idols, do you rob temples?
 <small><sub>**Literal:**</sub></small>
 You who [are] saying not to commit adultery do you commit adultery? You who [are] abhorring <the> idols do you rob temples?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.21|<< Romans 2:21]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.23|Romans 2:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You who [are] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

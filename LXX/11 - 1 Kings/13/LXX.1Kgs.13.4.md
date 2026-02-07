@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as king Jeroboam heard the words of the man  of God. of the one calling upon the altar  in Beth-el, that he stretched out  his hand from the altar, saying, Seize him! And his hand withered which he stretched out against him, and he was not able to return it to himself. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Bethel, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him.
-<small><sub>**BSB:**</sub></small>
-Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, “Seize him!” But the hand he stretched out toward him withered, so that he could not pull it back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.3|<< 1 Kings 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.5|1 Kings 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

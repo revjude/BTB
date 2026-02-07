@@ -1,4 +1,4 @@
-**Isaiah 51:9** 
+**Isaiah 51:9**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. [Art] thou not it that hath cut Rahab, [and] wounded the dragon?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Awake, awake, put on strength, O arm of the LORD. Wake up as in days past, as in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.8|<< Isaiah 51:8]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.10|Isaiah 51:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֨י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֤י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

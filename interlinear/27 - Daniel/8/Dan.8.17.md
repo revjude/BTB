@@ -1,4 +1,4 @@
-**Daniel 8:17** 
+**Daniel 8:17**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As he came near to where I stood, I was terrified and fell facedown. “Son of m
 > $\quad$ referenced by: [[Rev.1.17|Rev 1:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beside  |**<big>&#8207;[[H0681\|אֵ֣צֶל]]&#8207; </big>**| 'E.tzel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

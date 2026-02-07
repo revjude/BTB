@@ -1,10 +1,7 @@
 **LXX Psalm 119:113** 
 <small><sub>**LXX:**</sub></small>
 Lawbreakers I detested,  but your law I loved. 
-<small><sub>**KJV:**</sub></small>
-SAMECH. I hate [vain] thoughts: but thy law do I love.
-<small><sub>**BSB:**</sub></small>
-The double-minded I despise, but Your law I love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.113|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.112|<< Psalm 119:112]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.114|Psalm 119:114 >>]]</td></tr></table>
 
 | Translation | Greek |

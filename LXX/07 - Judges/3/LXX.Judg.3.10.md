@@ -1,10 +1,7 @@
 **LXX Judges 3:10** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> came upon him, and he judged  Israel, and he went unto the war. And \[the\] <span class="smallcaps">lord</span> delivered Cushan-rishathaim king of Syria into his hand; And he fortified  his hand against  Cushan-rishathaim. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
-<small><sub>**BSB:**</sub></small>
-The Spirit of the LORD came upon him, and he became Israel’s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.9|<< Judges 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.11|Judges 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

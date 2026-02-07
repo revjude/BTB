@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:7** 
 <small><sub>**LXX:**</sub></small>
 And seek for peace of the land into which I resettled you there! And pray for them to \[the\] <span class="smallcaps">lord</span>! for in  their peace there will be peace to you. 
-<small><sub>**KJV:**</sub></small>
-And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.
-<small><sub>**BSB:**</sub></small>
-Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.6|<< Jeremiah 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.8|Jeremiah 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

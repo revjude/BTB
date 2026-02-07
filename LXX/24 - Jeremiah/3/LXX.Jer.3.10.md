@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:10** 
 <small><sub>**LXX:**</sub></small>
 And in all these \[things\] the covenant-breaker Judah turned not to me with her whole heart, but with a lie. 
-<small><sub>**KJV:**</sub></small>
-And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Yet in spite of all this, her unfaithful sister Judah did not return to Me with all her heart, but only in pretense,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.9|<< Jeremiah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.11|Jeremiah 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

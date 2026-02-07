@@ -1,10 +1,10 @@
 (KJV) **Zechariah 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4|<< Zechariah 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6|Zechariah 6 >>]]</td></tr></table>
 
-***The Vision of the Flying Scroll*** ^bsb2068
+<big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥃]]</big></big>***The Vision of the Flying Scroll***
 
  $\quad$ <span class="startversemarker">[</span>**[[Zech.5.1|1]]**<span class="endversemarker">]</span> Then I turned, and lifted up mine eyes, and looked, and behold a flying roll<small><small>[^2]</small></small>. <span class="startversemarker">[</span>**[[Zech.5.2|2]]**<span class="endversemarker">]</span> And he said unto me, What<small><small>[^3]</small></small> seest thou? And I answered, I see a flying<small><small>[^4]</small></small> roll; the length<small><small>[^5]</small></small> thereof \[is\] twenty cubits, and the breadth thereof ten cubits. <span class="startversemarker">[</span>**[[Zech.5.3|3]]**<span class="endversemarker">]</span> Then said he unto me, This \[is\] the curse<small><small>[^6]</small></small> that goeth forth over the face<small><small>[^7]</small></small> of the whole earth: for every one<small><small>[^8]</small></small> that stealeth shall be cut off \[as\] on this side according to it; and every one that sweareth<small><small>[^9]</small></small> shall be cut off \[as\] on that side according to it. <span class="startversemarker">[</span>**[[Zech.5.4|4]]**<span class="endversemarker">]</span> I will bring it forth, saith the <span class="smallcaps">Lord</span> of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain<small><small>[^10]</small></small> in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 
-***The Vision of the Woman in a Basket*** ^bsb2069
+<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥃]]</big></big>***The Vision of the Woman in a Basket***
 
  
 

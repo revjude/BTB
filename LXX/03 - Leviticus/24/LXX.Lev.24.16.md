@@ -1,10 +1,7 @@
 **LXX Leviticus 24:16** 
 <small><sub>**LXX:**</sub></small>
 And the one naming the name of \[the\] <span class="smallcaps">lord</span>, to death let him be put to death! stone all the congregation him with stones. Whether a foreigner, \[or\] whether native born in  his naming the name of \[the\] <span class="smallcaps">lord</span>, let him come to an end. 
-<small><sub>**KJV:**</sub></small>
-And he that blasphemeth the name of the LORD, he shall surely be put to death, [and] all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name [of the LORD], shall be put to death.
-<small><sub>**BSB:**</sub></small>
-Whoever blasphemes the name of the LORD must surely be put to death; the whole assembly must surely stone him, whether he is a foreign resident or native; if he blasphemes the Name, he must be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.15|<< Leviticus 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.17|Leviticus 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this, O mountains of Israel, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>. Thus says \[the\] <span class="smallcaps">lord</span> to the mountains, and to the hills, and to the rushing streams, and to the ravines, and to the places being made quite desolate, and being obliterated, and to the cities  being abandoned, and became for plunder and for trampling to the surrounding nations being left behind. 
-<small><sub>**KJV:**</sub></small>
-Therefore, ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys, to the desolate wastes, and to the cities that are forsaken, which became a prey and derision to the residue of the heathen that [are] round about;
-<small><sub>**BSB:**</sub></small>
-therefore, O mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, which have become a spoil and a mockery to the rest of the nations around you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.3|<< Ezekiel 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.5|Ezekiel 36:5 >>]]</td></tr></table>
 
 | Translation | Greek |

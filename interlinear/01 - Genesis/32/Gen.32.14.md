@@ -1,4 +1,4 @@
-**Genesis 32:14** (32:15)
+**Genesis 32:14**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.13|<< Genesis 32:13]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.15|Genesis 32:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | female goats  |**<big>&#8207;[[H5795\|עִזִּ֣ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two hundred  |**<big>&#8207;[[H3967\|מָאתַ֔יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

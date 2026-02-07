@@ -1,4 +1,4 @@
-**Numbers 30:11** (30:12)
+**Numbers 30:11**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her husband heard [it], and held his peace at her, [and] disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and her husband hears of it but says nothing to her and does not prohibit her, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.10|<< Numbers 30:10]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.12|Numbers 30:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמַ֤ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Ma'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | husband her  |**<big>&#8207;[[H0376H\|אִישָׁ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| 'i.Sha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

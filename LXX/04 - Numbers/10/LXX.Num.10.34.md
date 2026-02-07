@@ -1,10 +1,7 @@
 **LXX Numbers 10:34** 
 <small><sub>**LXX:**</sub></small>
 And the cloud of \[the\] <span class="smallcaps">lord</span> came to pass shadowing over them by day in  their lifting away from out of the camp. 
-<small><sub>**KJV:**</sub></small>
-And the cloud of the LORD [was] upon them by day, when they went out of the camp.
-<small><sub>**BSB:**</sub></small>
-And the cloud of the LORD was over them by day when they set out from the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.33|<< Numbers 10:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.35|Numbers 10:35 >>]]</td></tr></table>
 
 | Translation | Greek |

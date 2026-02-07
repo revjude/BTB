@@ -1,10 +1,7 @@
 **LXX Proverbs 3:20** 
 <small><sub>**LXX:**</sub></small>
 In his perception abysses were torn, and clouds flowed dew. 
-<small><sub>**KJV:**</sub></small>
-By his knowledge the depths are broken up, and the clouds drop down the dew.
-<small><sub>**BSB:**</sub></small>
-By His knowledge the watery depths were broken open, and the clouds dripped with dew.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.19|<< Proverbs 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.21|Proverbs 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

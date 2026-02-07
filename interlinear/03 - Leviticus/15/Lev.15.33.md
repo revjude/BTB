@@ -1,4 +1,4 @@
-**Leviticus 15:33** 
+**Leviticus 15:33**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ of a woman in her menstrual period, of any male or female who has a discharge, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.32|<< Leviticus 15:32]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.1|Leviticus 16:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the menstruating [woman]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1739\|דָּוָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> da.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in menstruous impurity her  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5079\|נִדָּתָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ni.da.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

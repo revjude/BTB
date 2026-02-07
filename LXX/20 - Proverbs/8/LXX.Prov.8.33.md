@@ -1,10 +1,7 @@
 **LXX Proverbs 8:33** 
 <small><sub>**LXX:**</sub></small>
 Hear wisdom! and you should be wise, and you should not seal it up. Blessed \[is\] \[the\] man who shall listen to me, and \[the\] man who  shall guard my ways; 
-<small><sub>**KJV:**</sub></small>
-Hear instruction, and be wise, and refuse it not.
-<small><sub>**BSB:**</sub></small>
-Listen to instruction and be wise; do not ignore it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.32|<< Proverbs 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.34|Proverbs 8:34 >>]]</td></tr></table>
 
 | Translation | Greek |

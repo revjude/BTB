@@ -1,12 +1,12 @@
-**Luke 9:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:21**<big><big>[[Luke.9.21 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he straitly charged them, and commanded [them] to tell no man that thing;
 <small><sub>**BSB:**</sub></small>
 Jesus strictly warned them not to tell this to anyone.
 <small><sub>**Literal:**</sub></small>
 <the> And having strictly warned to them He instructed [them] to no one to tell this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.20|<< Luke 9:20]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.22|Luke 9:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

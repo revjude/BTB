@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:65** 
 <small><sub>**LXX:**</sub></small>
 And Solomon observed the holiday \[feast\] in  that day, and  Israel with him, a great assembly from the entering of Hamath unto \[the\] river of Egypt, before \[the\] <span class="smallcaps">lord</span> our God seven days and seven days -- four and ten days. 
-<small><sub>**KJV:**</sub></small>
-And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the LORD our God, seven days and seven days, [even] fourteen days.
-<small><sub>**BSB:**</sub></small>
-So at that time Solomon and all Israel with him—a great assembly of people from Lebo-hamath to the Brook of Egypt—kept the feast before the LORD our God for seven days and seven more days—fourteen days in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.64|<< 1 Kings 8:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.66|1 Kings 8:66 >>]]</td></tr></table>
 
 | Translation | Greek |

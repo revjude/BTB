@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:21** 
 <small><sub>**LXX:**</sub></small>
 And he returned from following after him. And he took the teams  of oxen, and he sacrificed and cooked them by the equipment of the oxen, and he gave to the people and they ate. And he rose up, and went after Elijah, and ministered to him. 
-<small><sub>**KJV:**</sub></small>
-And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
-<small><sub>**BSB:**</sub></small>
-So Elisha turned back from him, took his pair of oxen, and slaughtered them. Using the oxen’s equipment for fuel, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.20|<< 1 Kings 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.1|1 Kings 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the twelfth year, in the tenth month, \[the\] fifth of the month  of our captivity, there came to me  one having escaped from Jerusalem, saying, the city is captured. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the twelfth year of our captivity, in the tenth [month], in the fifth [day] of the month, [that] one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
-<small><sub>**BSB:**</sub></small>
-In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive from Jerusalem came to me and reported, “The city has been taken!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.20|<< Ezekiel 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.22|Ezekiel 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

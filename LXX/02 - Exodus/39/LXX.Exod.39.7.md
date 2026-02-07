@@ -1,10 +1,7 @@
 **LXX Exodus 39:7** 
 <small><sub>**LXX:**</sub></small>
 and they placed them upon the shoulders of the shoulder-piece; they are stones of memorial of the sons of Israel, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he put them on the shoulders of the ephod, [that they should be] stones for a memorial to the children of Israel; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.6|<< Exodus 39:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.8|Exodus 39:8 >>]]</td></tr></table>
 
 | Translation | Greek |

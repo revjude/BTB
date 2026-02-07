@@ -1,4 +1,4 @@
-**1 Kings 5:16** (5:30)
+**1 Kings 5:16**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside the chief of Solomon’s officers which [were] over the work, three thousand and three hundred, which ruled over the people that wrought in the work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ not including his 3,300 foremen who supervised the workers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.15|<< 1 Kings 5:15]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.17|1 Kings 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> apart  |**<big>&#8207;[[H9005\|לְ֠]]&#8207;&#8207;[[H0905H\|בַד]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] leaders of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8269\|שָּׂרֵ֨י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

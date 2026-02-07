@@ -1,10 +1,7 @@
 **LXX Leviticus 15:13** 
 <small><sub>**LXX:**</sub></small>
 And if the one having a seminal emission should be cleansed from  his flow, then he shall count out to himself seven days for  his cleansing; and he shall wash  his garments, and shall bathe  his body in living water, and he will be clean. 
-<small><sub>**KJV:**</sub></small>
-And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.
-<small><sub>**BSB:**</sub></small>
-When the man has been cleansed from his discharge, he must count off seven days for his cleansing, wash his clothes, and bathe himself in fresh water, and he shall be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.12|<< Leviticus 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.14|Leviticus 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

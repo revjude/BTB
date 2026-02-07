@@ -1,12 +1,12 @@
-**Matthew 23:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:9**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And call no [man] your father upon the earth: for one is your Father, which is in heaven.
 <small><sub>**BSB:**</sub></small>
 And do not call anyone on earth your father, for you have one Father, who is in heaven.
 <small><sub>**Literal:**</sub></small>
 And father no [one] may call of you on the earth; One for is of you the Father who [is] in heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.8|<< Matthew 23:8]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.10|Matthew 23:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | father |**<big>[[G3962\|πατέρα]]</big>**  |patera <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

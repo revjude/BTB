@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:24** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to all the people, You see whom the <span class="smallcaps">lord</span> has chosen for himself, that there is not one likened to him among all you? And all the people knew, and said, the king live! 
-<small><sub>**KJV:**</sub></small>
-And Samuel said to all the people, See ye him whom the LORD hath chosen, that [there is] none like him among all the people? And all the people shouted, and said, God save the king.
-<small><sub>**BSB:**</sub></small>
-Samuel said to all the people, “Do you see the one the LORD has chosen? There is no one like him among all the people.” And all the people shouted, “Long live the king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.23|<< 1 Samuel 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.25|1 Samuel 10:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 2:13** 
+**Nehemiah 2:13**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I went out at night through the Valley Gate toward the Well of the Serpent an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.12|<< Nehemiah 2:12]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.14|Nehemiah 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I went out !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3318G\|אֵצְאָ֨]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.tze.'A<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] gate of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8179G\|שַֽׁעַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.'ar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

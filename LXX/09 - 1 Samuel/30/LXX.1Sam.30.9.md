@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:9** 
 <small><sub>**LXX:**</sub></small>
 And David went, he and the six hundred men with him. And they come unto the rushing stream of Besor, and the extra \[ones\] stopped. 
-<small><sub>**KJV:**</sub></small>
-So David went, he and the six hundred men that [were] with him, and came to the brook Besor, where those that were left behind stayed.
-<small><sub>**BSB:**</sub></small>
-So David and his six hundred men went to the Brook of Besor, where some stayed behind<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.8|<< 1 Samuel 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.10|1 Samuel 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

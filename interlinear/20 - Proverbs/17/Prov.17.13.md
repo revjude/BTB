@@ -1,4 +1,4 @@
-**Proverbs 17:13** 
+**Proverbs 17:13**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso rewardeth evil for good, evil shall not depart from his house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If anyone returns evil for good, evil will never leave his house.
 > $\quad$ referenced by: [[1Thess.5.15|1Thess 5:15]] ☩ [[1Pet.3.7|1Pet 3:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] returns  |**<big>&#8207;[[H7725G\|מֵשִׁ֣יב]]&#8207; </big>**| me.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | evil  |**<big>&#8207;[[H7451I\|רָ֭עָה]]&#8207; </big>**| Ra.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Galatians 4:7
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:7**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
 <small><sub>**BSB:**</sub></small>
 So you are no longer a slave, but a son; and since you are a son, you are also an heir through God.
 <small><sub>**Literal:**</sub></small>
 So no longer you are a slave but a son; if now a son, also an heir of through God Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.6|<< Galatians 4:6]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.8|Galatians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no longer |**<big>[[G3756\|οὐκέτι]]</big>**  |ouketi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

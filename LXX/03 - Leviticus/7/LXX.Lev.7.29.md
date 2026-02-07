@@ -1,10 +1,7 @@
 **LXX Leviticus 7:29** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Israel you shall speak, saying, The one offering a sacrifice  of his peace \[offerings\] to the <span class="smallcaps">lord</span>, he shall bring  his gift to the <span class="smallcaps">lord</span> of the sacrifice  of his deliverance \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say, ‘Anyone who presents a peace offering to the LORD must bring it as his sacrifice to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.28|<< Leviticus 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.30|Leviticus 7:30 >>]]</td></tr></table>
 
 | Translation | Greek |

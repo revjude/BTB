@@ -1,4 +1,4 @@
-**Proverbs 26:20** 
+**Proverbs 26:20**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where no wood is, [there] the fire goeth out: so where [there is] no talebearer, the strife ceaseth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Without wood, a fire goes out; without gossip, a conflict ceases.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.19|<< Proverbs 26:19]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.21|Proverbs 26:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0657A\|אֶ֣פֶס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.fes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wood\<s>  |**<big>&#8207;[[H6086G\|עֵ֭צִים]]&#8207; </big>**| 'E.tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

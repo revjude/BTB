@@ -1,10 +1,7 @@
 **LXX Genesis 27:40** 
 <small><sub>**LXX:**</sub></small>
 And upon  your sword you shall live, and  you will be a servant of your brother. And it will be when ever you should demolish and loosen  his yoke from  your neck. 
-<small><sub>**KJV:**</sub></small>
-And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
-<small><sub>**BSB:**</sub></small>
-You shall live by the sword and serve your brother. But when you rebel, you will tear his yoke from your neck.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.39|<< Genesis 27:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.41|Genesis 27:41 >>]]</td></tr></table>
 
 | Translation | Greek |

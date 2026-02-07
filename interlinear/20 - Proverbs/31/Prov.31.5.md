@@ -1,4 +1,4 @@
-**Proverbs 31:5** 
+**Proverbs 31:5**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ lest they drink and forget what is decreed, depriving all the oppressed of justi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.4|<< Proverbs 31:4]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.6|Proverbs 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should drink  |**<big>&#8207;[[H8354\|יִ֭שְׁתֶּה]]&#8207; </big>**| Yish.teh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

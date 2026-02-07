@@ -1,10 +1,7 @@
 **LXX Exodus 35:34** 
 <small><sub>**LXX:**</sub></small>
 And indeed \[God\] gave assistance in the considering to him, and also \[to\] Aholiab, to the \[son\] of Ahisamach, of \[the\] tribe of Dan. 
-<small><sub>**KJV:**</sub></small>
-And he hath put in his heart that he may teach, [both] he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
-<small><sub>**BSB:**</sub></small>
-And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.33|<< Exodus 35:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.35|Exodus 35:35 >>]]</td></tr></table>
 
 | Translation | Greek |

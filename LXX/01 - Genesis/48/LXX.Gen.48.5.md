@@ -1,10 +1,7 @@
 **LXX Genesis 48:5** 
 <small><sub>**LXX:**</sub></small>
 Now then,  your two sons, the ones born to you in \[the\] land of Egypt, before  my coming to you in Egypt, are mine, Ephraim and Manasseh, as Reuben and Simeon they shall be mine. 
-<small><sub>**KJV:**</sub></small>
-And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, [are] mine; as Reuben and Simeon, they shall be mine.
-<small><sub>**BSB:**</sub></small>
-And now your two sons born to you in Egypt before I came to you here shall be reckoned as mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are mine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.4|<< Genesis 48:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.6|Genesis 48:6 >>]]</td></tr></table>
 
 | Translation | Greek |

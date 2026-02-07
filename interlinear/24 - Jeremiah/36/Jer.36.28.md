@@ -1,4 +1,4 @@
-**Jeremiah 36:28** 
+**Jeremiah 36:28**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take thee again another roll, and write in it all the former words that were in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.27|<< Jeremiah 36:27]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.29|Jeremiah 36:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725J\|שׁ֥וּב]]&#8207; </big>**| shuv<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take  |**<big>&#8207;[[H3947G\|קַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

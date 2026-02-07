@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:28** 
 <small><sub>**LXX:**</sub></small>
 And they took him upon the horses, and entombed him with  his fathers in \[the\] city of David. 
-<small><sub>**KJV:**</sub></small>
-And they brought him upon horses, and buried him with his fathers in the city of Judah.
-<small><sub>**BSB:**</sub></small>
-They carried him back on horses and buried him with his fathers in the City of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.27|<< 2 Chronicles 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.1|2 Chronicles 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

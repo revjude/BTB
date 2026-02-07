@@ -1,4 +1,4 @@
-**1 Kings 20:16** 
+**1 Kings 20:16**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went out at noon. But Benhadad [was] drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They marched out at noon while Ben-hadad and the 32 kings allied with him were i
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.15|<< 1 Kings 20:15]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.17|1 Kings 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצְא֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at the noontide\<s>  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H6672A\|צָּהֳרָ֑יִם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tzo.ho.Ra.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

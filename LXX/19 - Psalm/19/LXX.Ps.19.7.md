@@ -1,10 +1,7 @@
 **LXX Psalm 19:7** 
 <small><sub>**LXX:**</sub></small>
 The law of the \[lord\] \[is\] unblemished, turning souls. The witness of \[the\] <span class="smallcaps">lord</span> \[is\] trustworthy, making wise \[the\] infants. 
-<small><sub>**KJV:**</sub></small>
-The law of the LORD [is] perfect, converting the soul: the testimony of the LORD [is] sure, making wise the simple.
-<small><sub>**BSB:**</sub></small>
-The Law of the LORD is perfect, reviving the soul; the testimony of the LORD is trustworthy, making wise the simple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.6|<< Psalm 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.8|Psalm 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

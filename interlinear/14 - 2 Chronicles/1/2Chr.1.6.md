@@ -1,4 +1,4 @@
-**2 Chronicles 1:6** 
+**2 Chronicles 1:6**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon went up thither to the brasen altar before the LORD, which [was] at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon offered sacrifices there before the LORD on the bronze altar at the Tent
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.5|<< 2 Chronicles 1:5]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.7|2 Chronicles 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעַל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'Al<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֨ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

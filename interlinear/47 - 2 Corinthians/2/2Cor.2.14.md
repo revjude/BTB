@@ -1,12 +1,12 @@
-**2 Corinthians 2:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:14**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now thanks [be] unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
 <small><sub>**BSB:**</sub></small>
 But thanks be to God, who always leads us triumphantly as captives in Christ and through us spreads everywhere the fragrance of the knowledge of Him.
 <small><sub>**Literal:**</sub></small>
 <the> However to God [be] thanks to the [One] always leading in triumph us in <the> Christ and the fragrance of the knowledge of Him making manifest through us in every place,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.13|<< 2 Corinthians 2:13]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.15|2 Corinthians 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | However |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

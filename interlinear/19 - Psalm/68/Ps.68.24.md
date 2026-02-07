@@ -1,4 +1,4 @@
-**Psalms 68:24** (68:25)
+**Psalms 68:24**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have seen thy goings, O God; [even] the goings of my God, my King, in the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have seen Your procession, O God—the march of my God and King into the sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.23|<< Psalms 68:23]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.25|Psalms 68:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people have seen  |**<big>&#8207;[[H7200G\|רָא֣וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | processions your  |**<big>&#8207;[[H1979\|הֲלִיכוֹתֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ha.li.kho.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

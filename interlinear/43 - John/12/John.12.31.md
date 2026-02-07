@@ -1,12 +1,12 @@
-**John 12:31
-**<small><sub>**KJV:**</sub></small>
+**John 12:31**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now is the judgment of this world: now shall the prince of this world be cast out.
 <small><sub>**BSB:**</sub></small>
 Now judgment is upon this world; now the prince of this world will be cast out.
 <small><sub>**Literal:**</sub></small>
 Now [the] judgment is of the world of this; now the prince of the world this will be cast out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.30|<< John 12:30]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.32|John 12:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] judgment |**<big>[[G2920\|κρίσις]]</big>**  |krisis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

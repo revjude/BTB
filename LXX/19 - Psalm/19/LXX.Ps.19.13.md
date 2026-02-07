@@ -1,10 +1,7 @@
 **LXX Psalm 19:13** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] aliens spare  your servant! If they should not dominate me, then I will be unblemished, and I shall be cleansed of great sin. 
-<small><sub>**KJV:**</sub></small>
-Keep back thy servant also from presumptuous [sins]; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.
-<small><sub>**BSB:**</sub></small>
-Keep Your servant also from willful sins; may they not rule over me. Then I will be blameless and cleansed of great transgression.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.12|<< Psalm 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.14|Psalm 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

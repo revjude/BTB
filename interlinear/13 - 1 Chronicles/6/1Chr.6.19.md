@@ -1,4 +1,4 @@
-**1 Chronicles 6:19** (6:4)
+**1 Chronicles 6:19**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Merari; Mahli, and Mushi. And these [are] the families of the Levites according to their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.18|<< 1 Chronicles 6:18]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.20|1 Chronicles 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Merari  |**<big>&#8207;[[H4847\|מְרָרִ֖י]]&#8207; </big>**| me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

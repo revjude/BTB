@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:7** 
 <small><sub>**LXX:**</sub></small>
 And \[it was\] before Samuel  knew  God, and before the revealing \[the\] word of \[the\] <span class="smallcaps">lord</span> to him. 
-<small><sub>**KJV:**</sub></small>
-Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him.
-<small><sub>**BSB:**</sub></small>
-Now Samuel did not yet know the LORD, because the word of the LORD had not yet been revealed to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.6|<< 1 Samuel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.8|1 Samuel 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

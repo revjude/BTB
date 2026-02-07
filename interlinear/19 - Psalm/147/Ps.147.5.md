@@ -1,4 +1,4 @@
-**Psalms 147:5** 
+**Psalms 147:5**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great [is] our Lord, and of great power: his understanding [is] infinite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Great is our Lord, and mighty in power; His understanding has no limit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.4|<< Psalms 147:4]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.6|Psalms 147:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] great  |**<big>&#8207;[[H1419A\|גָּד֣וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lord\<s> our  |**<big>&#8207;[[H0113\|אֲדוֹנֵ֣י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.do.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

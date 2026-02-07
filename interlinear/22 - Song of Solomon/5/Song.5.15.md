@@ -1,4 +1,4 @@
-**Song of Solomon 5:15** 
+**Song of Solomon 5:15**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His legs [are as] pillars of marble, set upon sockets of fine gold: his countenance [is] as Lebanon, excellent as the cedars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His legs are pillars of marble set on bases of pure gold. His appearance is like
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.14|<< Song of Solomon 5:14]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.16|Song of Solomon 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | legs his  |**<big>&#8207;[[H7785\|שׁוֹקָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| sho.Ka<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] pillars of  |**<big>&#8207;[[H5982G\|עַמּ֣וּדֵי]]&#8207; </big>**| 'a.Mu.dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

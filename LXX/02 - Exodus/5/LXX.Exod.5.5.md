@@ -1,10 +1,7 @@
 **LXX Exodus 5:5** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said, Behold, now The people of the land are numerous; I shall not then rest them from the works. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said, Behold, the people of the land now [are] many, and ye make them rest from their burdens.
-<small><sub>**BSB:**</sub></small>
-Pharaoh also said, “Look, the people of the land are now numerous, and you would be stopping them from their labor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.4|<< Exodus 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.6|Exodus 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

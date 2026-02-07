@@ -1,12 +1,12 @@
-**Hebrews 7:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:13**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
 <small><sub>**BSB:**</sub></small>
 He of whom these things are said belonged to a different tribe, from which no one has ever served at the altar.
 <small><sub>**Literal:**</sub></small>
 [He] concerning whom for are spoken these things to a tribe another has belonged to, from which no [one] has served at the altar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.12|<< Hebrews 7:12]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.14|Hebrews 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [He] concerning |**<big>[[G1909\|ἐφ᾽]]</big>**  |eph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

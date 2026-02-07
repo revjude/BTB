@@ -1,4 +1,4 @@
-**2 Kings 3:8** 
+**2 Kings 3:8**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he asked, “Which way shall we go up?” “By way of the Desert of Edom,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.7|<< 2 Kings 3:7]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.9|2 Kings 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0335\|אֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ei-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

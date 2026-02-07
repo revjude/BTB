@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:3** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat feared and put  his face to seek after the <span class="smallcaps">lord</span>. And he proclaimed a fast in all Judah. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.
-<small><sub>**BSB:**</sub></small>
-Jehoshaphat was alarmed and set his face to seek the LORD. And he proclaimed a fast throughout Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.2|<< 2 Chronicles 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.4|2 Chronicles 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

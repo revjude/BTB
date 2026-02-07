@@ -1,4 +1,4 @@
-**Deuteronomy 29:19** (29:18)
+**Deuteronomy 29:19**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because when such a person hears the words of this oath, he invokes a blessing o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.18|<< Deuteronomy 29:18]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.20|Deuteronomy 29:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when hears he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8085G\|שָׁמְע]]&#8207;&#8207;[[H9043\|וֹ֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.me.'<small><sup>[[HVqcc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

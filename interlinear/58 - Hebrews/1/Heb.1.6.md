@@ -1,5 +1,5 @@
-**Hebrews 1:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:6**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 <small><sub>**BSB:**</sub></small>
 And again, when God brings His firstborn into the world, He says: “Let all God’s angels worship Him.”
@@ -10,7 +10,7 @@ When then again He may bring the Firstborn into the world He says: And should wo
 > $\quad$ referencing: [[LXX.Deut.32.43|Deut 32:43]] ☩ [[LXX.Ps.97.7|Ps 97:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

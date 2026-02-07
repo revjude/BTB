@@ -1,12 +1,12 @@
-**John 6:23
-**<small><sub>**KJV:**</sub></small>
+**John 6:23**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
 <small><sub>**BSB:**</sub></small>
 However, some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks.
 <small><sub>**Literal:**</sub></small>
 another now came boats from Tiberias near the place where they ate the bread when was giving thanks to the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.22|<< John 6:22]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.24|John 6:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | another [^1] [^2] |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(O)</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

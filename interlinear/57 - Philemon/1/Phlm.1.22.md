@@ -1,12 +1,12 @@
-**Philemon 1:22
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:22**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.
 <small><sub>**BSB:**</sub></small>
 In the meantime, prepare a guest room for me, because I hope that through your prayers I will be restored to you.
 <small><sub>**Literal:**</sub></small>
 At the same time now also do prepare for me a lodging; I hope for that through the prayers of you I will be granted to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.21|<< Philemon 1:21]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.23|Philemon 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At the same time |**<big>[[G0260\|ἅμα]]</big>**  |hama <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

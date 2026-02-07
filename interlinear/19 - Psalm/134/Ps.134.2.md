@@ -1,4 +1,4 @@
-**Psalms 134:2** 
+**Psalms 134:2**<big><big>[[Ps.134.1 Bless the LORD, All You Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your hands [in] the sanctuary, and bless the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up your hands to the sanctuary and bless the LORD!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.134.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.134.1|<< Psalms 134:1]]</td><td align="center" style="border:none;">[[Ps.134|Psalms 134]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.134.3|Psalms 134:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375O\|שְׂאֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands your  |**<big>&#8207;[[H3027G\|יְדֵ]]&#8207;&#8207;[[H9026\|כֶ֥ם]]&#8207; </big>**| ye.de.<small><sup>[[HNcbdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

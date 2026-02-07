@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:4** 
 <small><sub>**LXX:**</sub></small>
 And he arranged in front of the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span> certain of the Levites officiating, and sounding out loud, even to acknowledge and to give praise \[to the\] <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he appointed [certain] of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:
-<small><sub>**BSB:**</sub></small>
-David appointed some of the Levites to minister before the ark of the LORD, to celebrate, to give thanks, and to praise the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.3|<< 1 Chronicles 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.5|1 Chronicles 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

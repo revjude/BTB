@@ -1,4 +1,4 @@
-**Job 8:22** 
+**Job 8:22**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your enemies will be clothed in shame, and the tent of the wicked will be no mor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.21|<< Job 8:21]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.1|Job 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] hate you  |**<big>&#8207;[[H8130\|שֹׂנְאֶ֥י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| so.ne.'Ei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be clothed  |**<big>&#8207;[[H3847\|יִלְבְּשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yil.be.shu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

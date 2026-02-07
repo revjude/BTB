@@ -1,12 +1,12 @@
-**Hebrews 5:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:7**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
 <small><sub>**BSB:**</sub></small>
 During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence.
 <small><sub>**Literal:**</sub></small>
 [He] in the days of the flesh of Him prayers both and supplications to the [One] being able to save Him from death with crying loud and tears having offered up and having been heard because of <the> reverence,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.6|<< Hebrews 5:6]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.8|Hebrews 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [He] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

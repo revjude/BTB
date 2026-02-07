@@ -1,10 +1,7 @@
 **LXX Isaiah 13:17** 
 <small><sub>**LXX:**</sub></small>
 Behold, I rouse against you the Medes -- the ones not considering silver, nor have need of gold. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will stir up the Medes against them, which shall not regard silver; and [as for] gold, they shall not delight in it.
-<small><sub>**BSB:**</sub></small>
-Behold, I will stir up against them the Medes, who have no regard for silver and no desire for gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

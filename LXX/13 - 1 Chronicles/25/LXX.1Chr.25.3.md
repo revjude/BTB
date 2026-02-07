@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:3** 
 <small><sub>**LXX:**</sub></small>
  To Jeduthun -- \[the\] sons of Jeduthun \[were\] Gedaliah, and Zeri, and Jeshaiah, and Hashabiah, and Mattithiah -- six, \[along\] with  their father Jeduthun, prophesying with \[the\] lute, in acknowledgment and praise to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.
-<small><sub>**BSB:**</sub></small>
-From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six in all—under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.2|<< 1 Chronicles 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.4|1 Chronicles 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

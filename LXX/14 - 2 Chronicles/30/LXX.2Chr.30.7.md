@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:7** 
 <small><sub>**LXX:**</sub></small>
 And do not be as  your fathers and  your brethren! the ones who revolted from \[the\] <span class="smallcaps">lord</span> God  of their fathers, and he delivered them into desolation, as you see. 
-<small><sub>**KJV:**</sub></small>
-And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, [who] therefore gave them up to desolation, as ye see.
-<small><sub>**BSB:**</sub></small>
-Do not be like your fathers and brothers who were unfaithful to the LORD, the God of their fathers, so that He made them an object of horror, as you can see.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.6|<< 2 Chronicles 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.8|2 Chronicles 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

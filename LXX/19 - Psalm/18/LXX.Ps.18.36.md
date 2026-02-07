@@ -1,10 +1,7 @@
 **LXX Psalm 18:36** 
 <small><sub>**LXX:**</sub></small>
 You widened  my footsteps underneath me, and my soles weakened not. 
-<small><sub>**KJV:**</sub></small>
-Thou hast enlarged my steps under me, that my feet did not slip.
-<small><sub>**BSB:**</sub></small>
-You broaden the path beneath me so that my ankles do not give way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.35|<< Psalm 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.37|Psalm 18:37 >>]]</td></tr></table>
 
 | Translation | Greek |

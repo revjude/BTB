@@ -1,12 +1,12 @@
-**Luke 20:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:47**<big><big>[[Luke.20.45 Beware of the Scribes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.
 <small><sub>**BSB:**</sub></small>
 They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”
 <small><sub>**Literal:**</sub></small>
 who devour the houses <the> of widows and as a pretext at great length pray; These will receive more excessive condemnation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.46|<< Luke 20:46]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.1|Luke 21:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | devour |**<big>[[G2719\|κατεσθίουσιν]]</big>**  |katesthiousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

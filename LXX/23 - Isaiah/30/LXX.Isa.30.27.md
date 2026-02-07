@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, the name \[the\] <span class="smallcaps">lord</span> comes after a long time, burning rage with glory. The oracle  of his lips \[is\] an oracle full of anger, and the anger  of his rage shall devour as fire. 
-<small><sub>**KJV:**</sub></small>
-Behold, the name of the LORD cometh from far, burning [with] his anger, and the burden [thereof is] heavy: his lips are full of indignation, and his tongue as a devouring fire:
-<small><sub>**BSB:**</sub></small>
-Behold, the Name of the LORD comes from afar, with burning anger and dense smoke. His lips are full of fury, and His tongue is like a consuming fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.26|<< Isaiah 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.28|Isaiah 30:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Timothy 4:15
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:15**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of whom be thou ware also; for he hath greatly withstood our words.
 <small><sub>**BSB:**</sub></small>
 You too should beware of him, for he has vigorously opposed our message.
 <small><sub>**Literal:**</sub></small>
 whom also you yourself do yourself beware of; exceedingly for has opposed <the> our own message.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.14|<< 2 Timothy 4:14]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.16|2 Timothy 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

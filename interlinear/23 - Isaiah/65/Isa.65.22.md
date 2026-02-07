@@ -1,4 +1,4 @@
-**Isaiah 65:22** 
+**Isaiah 65:22**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree [are] the days of my people, and mine elect shall long enjoy the work of their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No longer will they build houses for others to inhabit, nor plant for others to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.21|<< Isaiah 65:21]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.23|Isaiah 65:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will build  |**<big>&#8207;[[H1129\|יִבְנוּ֙]]&#8207; </big>**| yiv.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

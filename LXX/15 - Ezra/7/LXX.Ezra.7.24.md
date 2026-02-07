@@ -1,10 +1,7 @@
 **LXX Ezra 7:24** 
 <small><sub>**LXX:**</sub></small>
 And to you, let it be made known in \[respect\] to all the priests, and to the Levites, singers, gatekeepers, Nethinim, and ministers of \[the\] house of God! \[that\] this  tribute, and toll, and impost, you do not have authority to assign upon them. 
-<small><sub>**KJV:**</sub></small>
-Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
-<small><sub>**BSB:**</sub></small>
-And be advised that you have no authority to impose tribute, duty, or toll on any of the priests, Levites, singers, doorkeepers, temple servants, or other servants of this house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.23|<< Ezra 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.25|Ezra 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

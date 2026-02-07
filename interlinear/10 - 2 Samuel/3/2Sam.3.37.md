@@ -1,4 +1,4 @@
-**2 Samuel 3:37** 
+**2 Samuel 3:37**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So on that day all the troops and all Israel were convinced that the king had no
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.36|<< 2 Samuel 3:36]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.38|2 Samuel 3:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּדְע֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.de.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

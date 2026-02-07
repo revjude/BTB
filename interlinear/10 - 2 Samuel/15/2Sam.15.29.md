@@ -1,4 +1,4 @@
-**2 Samuel 15:29** 
+**2 Samuel 15:29**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Zadok and Abiathar returned the ark of God to Jerusalem and stayed there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.28|<< 2 Samuel 15:28]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.30|2 Samuel 15:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֨שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zadok  |**<big>&#8207;[[H6659G\|צָד֧וֹק]]&#8207; </big>**| tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 49:31** 
+**Genesis 49:31**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There Abraham and his wife Sarah are buried, there Isaac and his wife Rebekah ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.30|<< Genesis 49:30]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.32|Genesis 49:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֣מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people buried  |**<big>&#8207;[[H6912\|קָֽבְר֞וּ]]&#8207; </big>**| ka.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 27:64
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:64**<big><big>[[Matt.27.62 The Guards at the Tomb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
 <small><sub>**BSB:**</sub></small>
 So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”
 <small><sub>**Literal:**</sub></small>
 do command therefore to be secured the tomb until the third day, otherwise having come the disciples of Him night may steal away him and they may say to the people; He is risen from the dead. And will be the last deception worse than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.63|<< Matthew 27:63]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.65|Matthew 27:65 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do command |**<big>[[G2753\|κέλευσον]]</big>**  |keleuson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

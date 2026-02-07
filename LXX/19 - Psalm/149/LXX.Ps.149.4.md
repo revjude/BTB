@@ -1,10 +1,7 @@
 **LXX Psalm 149:4** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> takes pleasure in his people, and he shall exalt \[the\] gentle with deliverance. 
-<small><sub>**KJV:**</sub></small>
-For the LORD taketh pleasure in his people: he will beautify the meek with salvation.
-<small><sub>**BSB:**</sub></small>
-For the LORD takes pleasure in His people; He adorns the afflicted with salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.149.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.149.3|<< Psalm 149:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.5|Psalm 149:5 >>]]</td></tr></table>
 
 | Translation | Greek |

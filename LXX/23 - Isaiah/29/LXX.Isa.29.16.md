@@ -1,10 +1,7 @@
 **LXX Isaiah 29:16** 
 <small><sub>**LXX:**</sub></small>
 be considered not as clay for the potter? Shall the thing shaped say to the one shaping, You did not shape me. Or the thing made by the one making it, You did not expertly make me? 
-<small><sub>**KJV:**</sub></small>
-Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
-<small><sub>**BSB:**</sub></small>
-You have turned things upside down, as if the potter were regarded as clay. Shall what is formed say to him who formed it, “He did not make me”? Can the pottery say of the potter, “He has no understanding”?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.15|<< Isaiah 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.17|Isaiah 29:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 29:16** is...

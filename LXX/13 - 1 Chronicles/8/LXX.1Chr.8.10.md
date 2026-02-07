@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:10** 
 <small><sub>**LXX:**</sub></small>
 and  Jeuz, and  Shachia, and  Mirma. These \[were\] his sons, rulers of the families. 
-<small><sub>**KJV:**</sub></small>
-And Jeuz, and Shachia, and Mirma. These [were] his sons, heads of the fathers.
-<small><sub>**BSB:**</sub></small>
-Jeuz, Sachia, and Mirmah. These were his sons, heads of families.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.9|<< 1 Chronicles 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.11|1 Chronicles 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

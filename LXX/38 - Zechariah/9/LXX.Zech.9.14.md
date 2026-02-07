@@ -1,10 +1,7 @@
 **LXX Zechariah 9:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall be seen over them, and his arrow shall go forth as lightning. And \[the\] <span class="smallcaps">lord</span>  God by a trumpet shall trump, and his intimidation goes for tossing about. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the Lord GOD shall blow the trumpet, and shall go with whirlwinds of the south.
-<small><sub>**BSB:**</sub></small>
-Then the LORD will appear over them, and His arrow will go forth like lightning. The Lord GOD will sound the ram’s horn and advance in the whirlwinds of the south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

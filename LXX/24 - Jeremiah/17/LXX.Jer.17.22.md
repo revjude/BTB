@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:22** 
 <small><sub>**LXX:**</sub></small>
 And do not bring forth burdens from out of your residences on the day of the Sabbaths! And you shall not do any work. Sanctify the day of the Sabbaths! as I gave charge \[to\] your fathers. 
-<small><sub>**KJV:**</sub></small>
-Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.
-<small><sub>**BSB:**</sub></small>
-You must not carry a load out of your houses or do any work on the Sabbath day, but you must keep the Sabbath day holy, just as I commanded your forefathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

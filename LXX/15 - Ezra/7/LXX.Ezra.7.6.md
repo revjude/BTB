@@ -1,10 +1,7 @@
 **LXX Ezra 7:6** 
 <small><sub>**LXX:**</sub></small>
 This Ezra ascended from out of Babylon; and he \[was\] a quick scribe in \[the\] law of Moses, which \[the\] <span class="smallcaps">lord</span> God of Israel gave. And the king gave to him; for \[the\] hand of \[the\] <span class="smallcaps">lord</span> his God \[was\] upon him in all \[things\] which he sought. 
-<small><sub>**KJV:**</sub></small>
-This Ezra went up from Babylon; and he [was] a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
-<small><sub>**BSB:**</sub></small>
-this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which the LORD, the God of Israel, had given. The king had granted Ezra all his requests, for the hand of the LORD his God was upon him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.5|<< Ezra 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.7|Ezra 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

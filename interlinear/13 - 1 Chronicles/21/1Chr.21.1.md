@@ -1,4 +1,4 @@
-**1 Chronicles 21:1** 
+**1 Chronicles 21:1**<big><big>[[1Chr.21.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Satan stood up against Israel, and provoked David to number Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Satan rose up against Israel and incited David to take a census of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.8|<< 1 Chronicles 20:8]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.2|1 Chronicles 21:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּֽעֲמֹ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an adversary  |**<big>&#8207;[[H7854\|שָׂטָ֖ן]]&#8207; </big>**| sa.Tan<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

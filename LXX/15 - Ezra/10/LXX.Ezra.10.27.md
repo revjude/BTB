@@ -1,10 +1,7 @@
 **LXX Ezra 10:27** 
 <small><sub>**LXX:**</sub></small>
 And of the sons of Zattu -- Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza. 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.
-<small><sub>**BSB:**</sub></small>
-From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.26|<< Ezra 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.28|Ezra 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

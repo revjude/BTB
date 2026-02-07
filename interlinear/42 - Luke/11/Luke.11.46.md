@@ -1,12 +1,12 @@
-**Luke 11:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:46**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Woe unto you also, [ye] lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
 <small><sub>**BSB:**</sub></small>
 “Woe to you as well, experts in the law!” He replied. “For you weigh men down with heavy burdens, but you yourselves will not lift a finger to lighten their load.
 <small><sub>**Literal:**</sub></small>
 <the> And He said; Also to you <the> lawyers woe! For you burden the men [with] burdens heavy to bear and yourselves with one of the fingers of you not do touch the burdens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.45|<< Luke 11:45]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.47|Luke 11:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

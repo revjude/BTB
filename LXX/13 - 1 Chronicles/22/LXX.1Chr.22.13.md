@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:13** 
 <small><sub>**LXX:**</sub></small>
 Then the way shall prosper, if you should guard  to observe the orders and the judgments which \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses for  Israel. Be manly and be strong! Fear not nor be timid! 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.
-<small><sub>**BSB:**</sub></small>
-Then you will succeed, if you carefully follow the statutes and ordinances that the LORD commanded Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.12|<< 1 Chronicles 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.14|1 Chronicles 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 32:18** 
+**Deuteronomy 32:18**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the Rock [that] begat thee thou art unmindful, and hast forgotten God that formed thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You ignored the Rock who brought you forth; you forgot the God who gave you birt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.17|<< Deuteronomy 32:17]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.19|Deuteronomy 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] rock  |**<big>&#8207;[[H6697H\|צ֥וּר]]&#8207; </big>**| tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] he fathered you  |**<big>&#8207;[[H3205\|יְלָדְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| ye.la.de.<small><sup>[[HVqp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

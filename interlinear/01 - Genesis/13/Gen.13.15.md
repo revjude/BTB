@@ -1,4 +1,4 @@
-**Genesis 13:15** 
+**Genesis 13:15**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all the land which thou seest, to thee will I give it, and to thy seed for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ for all the land that you see, I will give to you and your offspring forever.
 > $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

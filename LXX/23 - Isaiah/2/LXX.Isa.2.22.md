@@ -1,10 +1,7 @@
 **LXX Isaiah 2:22** 
 <small><sub>**LXX:**</sub></small>
 Cease yourself from the man  breathing by his nostril; for by what is he considered? 
-<small><sub>**KJV:**</sub></small>
-Cease ye from man, whose breath [is] in his nostrils: for wherein is he to be accounted of?
-<small><sub>**BSB:**</sub></small>
-Put no more trust in man, who has only the breath in his nostrils. Of what account is he?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.21|<< Isaiah 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.1|Isaiah 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

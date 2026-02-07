@@ -1,4 +1,4 @@
-**2 Samuel 2:24** 
+**2 Samuel 2:24**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that [lieth] before Giah by the way of the wilderness of Gibeon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.23|<< 2 Samuel 2:23]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.25|2 Samuel 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pursued  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֥ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

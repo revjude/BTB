@@ -1,4 +1,4 @@
-**Ezekiel 18:8** 
+**Ezekiel 18:8**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [that] hath not given forth upon usury, neither hath taken any increase, [that] hath withdrawn his hand from iniquity, hath executed true judgment between man and man,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He does not engage in usury or take excess interest, but he withholds his hand f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.7|<< Ezekiel 18:7]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.9|Ezekiel 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for \<the> interest  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5392\|נֶּ֣שֶׁךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ne.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

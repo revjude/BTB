@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:30** 
 <small><sub>**LXX:**</sub></small>
 And I will multiply the fruit of the tree, and the produce of the field, so that you should not take still \[the\] scorn of famine among the nations. 
-<small><sub>**KJV:**</sub></small>
-And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.
-<small><sub>**BSB:**</sub></small>
-I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.29|<< Ezekiel 36:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.31|Ezekiel 36:31 >>]]</td></tr></table>
 
 | Translation | Greek |

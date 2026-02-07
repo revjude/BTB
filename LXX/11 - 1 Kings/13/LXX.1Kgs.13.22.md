@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:22** 
 <small><sub>**LXX:**</sub></small>
 but you returned and ate bread, and drank water in  this place, in which he spoke to you, saying, You shall not eat bread nor drink water -- in no way your body enter into the burying-place  of your fathers. 
-<small><sub>**KJV:**</sub></small>
-But camest back, and hast eaten bread and drunk water in the place, of the which [the LORD] did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.
-<small><sub>**BSB:**</sub></small>
-but you went back and ate bread and drank water in the place where He told you not to do so, your body shall never reach the tomb of your fathers.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.21|<< 1 Kings 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.23|1 Kings 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:10** 
 <small><sub>**LXX:**</sub></small>
 And they spoke to him, the young men  having been brought up with him; and they said, Thus you shall speak  to this people, to the ones speaking to you, saying,  Your father oppressed  our neck yoke, and you now lighten it from us! Thus you shall say to them,  My thinness is thicker than the loin  of my father. 
-<small><sub>**KJV:**</sub></small>
-And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, Thy father made our yoke heavy, but make thou [it] lighter unto us; thus shalt thou say unto them, My little [finger] shall be thicker than my father’s loins.
-<small><sub>**BSB:**</sub></small>
-The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.9|<< 1 Kings 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.11|1 Kings 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

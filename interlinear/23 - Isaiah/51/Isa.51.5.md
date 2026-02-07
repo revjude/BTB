@@ -1,4 +1,4 @@
-**Isaiah 51:5** 
+**Isaiah 51:5**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My righteousness [is] near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My righteousness draws near, My salvation is on the way, and My arms will bring 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.4|<< Isaiah 51:4]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.6|Isaiah 51:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֤וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness my  |**<big>&#8207;[[H6664G\|צִדְקִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| tzid.K<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

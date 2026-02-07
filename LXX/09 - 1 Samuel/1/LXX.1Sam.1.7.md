@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:7** 
 <small><sub>**LXX:**</sub></small>
 Thus she did year by year in  her ascending unto \[the\] house of \[the\] <span class="smallcaps">lord</span>; and she was depressed, and she wept, and did not eat. 
-<small><sub>**KJV:**</sub></small>
-And [as] he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat.
-<small><sub>**BSB:**</sub></small>
-And this went on year after year. Whenever Hannah went up to the house of the LORD, her rival taunted her until she wept and would not eat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.6|<< 1 Samuel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.8|1 Samuel 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

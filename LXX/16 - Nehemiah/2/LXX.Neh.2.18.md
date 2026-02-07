@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:18** 
 <small><sub>**LXX:**</sub></small>
 And I reported to them the hand  of God which is good upon me, and the words of the king which he spoke to me. And they said, Let us arise and build! And their hands were fortified for  good. 
-<small><sub>**KJV:**</sub></small>
-Then I told them of the hand of my God which was good upon me; as also the king’s words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for [this] good [work].
-<small><sub>**BSB:**</sub></small>
-I also told them about the gracious hand of my God upon me, and what the king had said to me. “Let us start rebuilding,” they replied, and they set their hands to this good work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.17|<< Nehemiah 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.19|Nehemiah 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

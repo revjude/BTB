@@ -1,10 +1,7 @@
 **LXX Amos 7:16** 
 <small><sub>**LXX:**</sub></small>
 And now, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! You say, Prophesy not over  Israel! for in no way should you lead a mob against the house of Jacob. 
-<small><sub>**KJV:**</sub></small>
-Now therefore hear thou the word of the LORD: Thou sayest, Prophesy not against Israel, and drop not [thy word] against the house of Isaac.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, hear the word of the LORD. You say: ‘Do not prophesy against Israel; do not preach against the house of Isaac.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.15|<< Amos 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.17|Amos 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall write them upon the lintels  of your houses, and  of your gates; 
-<small><sub>**KJV:**</sub></small>
-And thou shalt write them upon the door posts of thine house, and upon thy gates:
-<small><sub>**BSB:**</sub></small>
-Write them on the doorposts of your houses and on your gates,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.19|<< Deuteronomy 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.21|Deuteronomy 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 9:6** 
 <small><sub>**LXX:**</sub></small>
 And foreigners shall dwell in Ashdod, and I will demolish \[the\] insolence of \[the\] Philistines. 
-<small><sub>**KJV:**</sub></small>
-And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.
-<small><sub>**BSB:**</sub></small>
-A mixed race will occupy Ashdod, and I will cut off the pride of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.5|<< Zechariah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.7|Zechariah 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

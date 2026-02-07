@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:9** 
 <small><sub>**LXX:**</sub></small>
 And I came to the chief rulers on the other side of the river, and I gave to them the letters of the king. And the king sent with me chiefs of \[the\] force, and horsemen. 
-<small><sub>**KJV:**</sub></small>
-Then I came to the governors beyond the river, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me.
-<small><sub>**BSB:**</sub></small>
-Then I went to the governors west of the Euphrates and gave them the king’s letters. The king had also sent army officers and cavalry with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.8|<< Nehemiah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.10|Nehemiah 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

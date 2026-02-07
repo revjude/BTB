@@ -1,4 +1,4 @@
-**Genesis 9:6** 
+**Genesis 9:6**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Whoever sheds the blood of man, by man his blood will be shed; for in His own im
 > $\quad$ referenced by: [[Jas.3.9|Jas 3:9]] ☩ [[Rev.13.10|Rev 13:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] [one who] sheds  |**<big>&#8207;[[H8210H\|שֹׁפֵךְ֙]]&#8207; </big>**| sho.feKh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> [the] blood of  |**<big>&#8207;[[H1818\|דַּ֣ם]]&#8207; </big>**| dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

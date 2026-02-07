@@ -1,12 +1,12 @@
-**Ephesians 2:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:19**<big><big>[[Eph.2.19 Christ Our Cornerstone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
 <small><sub>**BSB:**</sub></small>
 Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household,
 <small><sub>**Literal:**</sub></small>
 So then no longer are you strangers and aliens, but are fellow citizens of the saints and of the household <the> of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.18|<< Ephesians 2:18]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.20|Ephesians 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|Ἄρα]]</big>**  |Ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

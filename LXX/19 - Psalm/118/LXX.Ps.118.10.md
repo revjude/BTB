@@ -1,10 +1,7 @@
 **LXX Psalm 118:10** 
 <small><sub>**LXX:**</sub></small>
 All the nations encircled me, and in the name of \[the\] <span class="smallcaps">lord</span> I repulsed them. 
-<small><sub>**KJV:**</sub></small>
-All nations compassed me about: but in the name of the LORD will I destroy them.
-<small><sub>**BSB:**</sub></small>
-All the nations surrounded me, but in the name of the LORD I cut them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.9|<< Psalm 118:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.11|Psalm 118:11 >>]]</td></tr></table>
 
 | Translation | Greek |

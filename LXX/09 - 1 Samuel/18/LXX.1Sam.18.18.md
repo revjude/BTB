@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:18** 
 <small><sub>**LXX:**</sub></small>
 And David said to Saul, Who am I, and what \[is\] the life of the kin  of my father in Israel, that I shall be an in-law of the king? 
-<small><sub>**KJV:**</sub></small>
-And David said unto Saul, Who [am] I? and what [is] my life, [or] my father’s family in Israel, that I should be son in law to the king?
-<small><sub>**BSB:**</sub></small>
-And David said to Saul, “Who am I, and what is my family or my father’s clan in Israel, that I should become the son-in-law of the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.17|<< 1 Samuel 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.19|1 Samuel 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

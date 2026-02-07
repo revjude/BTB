@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:43** 
 <small><sub>**LXX:**</sub></small>
 And I spoke to you, and you did not listen to me, and you violated the word \[of the\] <span class="smallcaps">lord</span>, and pressing \[forward\] you ascended unto the mountain. 
-<small><sub>**KJV:**</sub></small>
-So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.
-<small><sub>**BSB:**</sub></small>
-So I spoke to you, but you would not listen. You rebelled against the command of the LORD and presumptuously went up into the hill country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.42|<< Deuteronomy 1:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.44|Deuteronomy 1:44 >>]]</td></tr></table>
 
 | Translation | Greek |

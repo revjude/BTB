@@ -1,4 +1,4 @@
-**Psalms 119:54** 
+**Psalms 119:54**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy statutes have been my songs in the house of my pilgrimage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your statutes are songs to me in the house of my pilgrimage.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.53|<< Psalms 119:53]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.55|Psalms 119:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | songs  |**<big>&#8207;[[H2158\|זְ֭מִרוֹת]]&#8207; </big>**| Ze.mi.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been  |**<big>&#8207;[[H1961\|הָֽיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.yu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

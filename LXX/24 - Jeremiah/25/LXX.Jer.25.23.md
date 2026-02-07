@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:23** 
 <small><sub>**LXX:**</sub></small>
 and  Dedan and Tema, and Buz, and all being shaven around his face, 
-<small><sub>**KJV:**</sub></small>
-Dedan, and Tema, and Buz, and all [that are] in the utmost corners,
-<small><sub>**BSB:**</sub></small>
-Dedan, Tema, Buz, and all who cut the corners of their hair;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.22|<< Jeremiah 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.24|Jeremiah 25:24 >>]]</td></tr></table>
 
 | Translation | Greek |

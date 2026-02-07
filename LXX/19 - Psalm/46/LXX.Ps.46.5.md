@@ -1,10 +1,7 @@
 **LXX Psalm 46:5** 
 <small><sub>**LXX:**</sub></small>
  God \[is\] in \[the\] midst of her, and she shall not be shaken. God shall help her  towards morning \[by\] morning. 
-<small><sub>**KJV:**</sub></small>
-God [is] in the midst of her; she shall not be moved: God shall help her, [and that] right early.
-<small><sub>**BSB:**</sub></small>
-God is within her; she will not be moved. God will help her when morning dawns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.4|<< Psalm 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.6|Psalm 46:6 >>]]</td></tr></table>
 
 | Translation | Greek |

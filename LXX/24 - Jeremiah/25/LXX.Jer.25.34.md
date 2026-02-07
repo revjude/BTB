@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:34** 
 <small><sub>**LXX:**</sub></small>
 Shout, O shepherds, and cry out! And beat the chest, O rams of the flocks! For your days were filled for slaughter, and you shall fall as the choice rams. 
-<small><sub>**KJV:**</sub></small>
-Howl, ye shepherds, and cry; and wallow yourselves [in the ashes], ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.
-<small><sub>**BSB:**</sub></small>
-Wail, you shepherds, and cry out; roll in the dust, you leaders of the flock. For the days of your slaughter have come; you will fall and be shattered like fine pottery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.33|<< Jeremiah 25:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.35|Jeremiah 25:35 >>]]</td></tr></table>
 
 | Translation | Greek |

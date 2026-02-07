@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:16** 
 <small><sub>**LXX:**</sub></small>
 then it shall be the broadsword which you shall fear from its face -- it shall find you in Egypt; and the famine of which you have a reckoning from in front of it, it shall overtake you in Egypt, and there you shall die. 
-<small><sub>**KJV:**</sub></small>
-Then it shall come to pass, [that] the sword, which ye feared, shall overtake you there in the land of Egypt, and the famine, whereof ye were afraid, shall follow close after you there in Egypt; and there ye shall die.
-<small><sub>**BSB:**</sub></small>
-then the sword you fear will overtake you there, and the famine you dread will follow on your heels into Egypt, and you will die there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.15|<< Jeremiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.17|Jeremiah 42:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jonah 1:13** 
+**Jonah 1:13**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the men rowed hard to bring [it] to the land; but they could not: for the sea wrought, and was tempestuous against them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, the men rowed hard to get back to dry land, but they could not, fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.12|<< Jonah 1:12]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.14|Jonah 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2864\|יַּחְתְּר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.te.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

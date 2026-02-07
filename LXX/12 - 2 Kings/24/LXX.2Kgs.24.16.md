@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:16** 
 <small><sub>**LXX:**</sub></small>
 And all the mighty men -- seven thousand, and the fabricator, and the one so consigned -- thousands of all the mighty men in strength making war. And \[the\] king of Babylon led them in a displacement unto Babylon. 
-<small><sub>**KJV:**</sub></small>
-And all the men of might, [even] seven thousand, and craftsmen and smiths a thousand, all [that were] strong [and] apt for war, even them the king of Babylon brought captive to Babylon.
-<small><sub>**BSB:**</sub></small>
-The king of Babylon also brought into exile to Babylon all seven thousand men of valor and a thousand craftsmen and metalsmiths—all strong and fit for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God \[to\] my anointed Cyrus, whose right \[hand\] I held, \[for\] nations to heed before him; and \[the\] strength of kings I will tear up; I will open doors before him, and gates shall not be closed up. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.28|<< Isaiah 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.2|Isaiah 45:2 >>]]</td></tr></table>
 
 | Translation | Greek |

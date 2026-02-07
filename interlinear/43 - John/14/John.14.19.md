@@ -1,12 +1,12 @@
-**John 14:19
-**<small><sub>**KJV:**</sub></small>
+**John 14:19**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
 <small><sub>**BSB:**</sub></small>
 In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.
 <small><sub>**Literal:**</sub></small>
 Yet a little while and the world Me no longer sees, you yourselves however see Me; because I myself live, also you yourselves will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.18|<< John 14:18]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.20|John 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yet |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a little while |**<big>[[G3398\|μικρὸν]]</big>**  |mikron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

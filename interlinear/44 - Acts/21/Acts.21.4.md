@@ -1,12 +1,12 @@
-**Acts 21:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:4**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 We sought out the disciples in Tyre and stayed with them seven days. Through the Spirit they kept telling Paul not to go up to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 and Having sought out then the disciples we remained there days seven, who <the> to Paul were telling through the Spirit not to go up to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.3|<< Acts 21:3]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.5|Acts 21:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Having sought out |**<big>[[G0429\|Ἀνευρόντες]]</big>**  |Aneurontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

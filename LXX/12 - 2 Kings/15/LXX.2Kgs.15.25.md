@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:25** 
 <small><sub>**LXX:**</sub></small>
 And Pekah son of Remaliah his tribune confederated against him, and he struck him in Samaria, before \[the\] house of the king, with  Argob, and with  Arieh, and with him fifty men from the sons of the Gileadites. And he killed him, and reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
-<small><sub>**BSB:**</sub></small>
-Then his officer, Pekah son of Remaliah, conspired against him along with Argob, Arieh, and fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down and killed Pekahiah and reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.24|<< 2 Kings 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.26|2 Kings 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

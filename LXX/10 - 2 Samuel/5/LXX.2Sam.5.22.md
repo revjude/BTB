@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] Philistines proceeded yet again  to ascend, and they met in battle in the valley of the Titans. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines came up yet again, and spread themselves in the valley of Rephaim.
-<small><sub>**BSB:**</sub></small>
-Once again the Philistines came up and spread out in the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

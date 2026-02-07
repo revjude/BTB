@@ -1,4 +1,4 @@
-**Isaiah 21:10** 
+**Isaiah 21:10**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O my people, crushed on the threshing floor, I tell you what I have heard from t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.9|<< Isaiah 21:9]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.11|Isaiah 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O threshed one my  |**<big>&#8207;[[H4098\|מְדֻשָׁתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.du.sha.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121I\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

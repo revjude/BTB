@@ -1,4 +1,4 @@
-**Psalms 32:5** 
+**Psalms 32:5**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I acknowledged my sin to You and did not hide my iniquity. I said, “I wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.4|<< Psalms 32:4]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.6|Psalms 32:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sin my  |**<big>&#8207;[[H2403B\|חַטָּאתִ֨]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| cha.ta.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I made known to you  |**<big>&#8207;[[H3045\|אוֹדִ֪יעֲ]]&#8207;&#8207;[[H9031\|ךָ֡]]&#8207; </big>**| 'o.Di.'a.<small><sup>[[HVhi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

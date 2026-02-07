@@ -1,10 +1,7 @@
 **LXX Genesis 2:5** 
 <small><sub>**LXX:**</sub></small>
 and every green field before  it existed upon the earth, and all grass of \[the\] field before  \[its\] rising, for \[the\] <span class="smallcaps">lord</span> God did not rain upon the earth, and there was no man to work it. 
-<small><sub>**KJV:**</sub></small>
-And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and [there was] not a man to till the ground.
-<small><sub>**BSB:**</sub></small>
-Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.4|<< Genesis 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.6|Genesis 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

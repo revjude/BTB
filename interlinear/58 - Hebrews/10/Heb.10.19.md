@@ -1,12 +1,12 @@
-**Hebrews 10:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:19**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus,
 <small><sub>**Literal:**</sub></small>
 Having therefore, brothers, confidence for the entering to the Holy [Places] by the blood of Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.18|<< Hebrews 10:18]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.20|Hebrews 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having |**<big>[[G2192\|Ἔχοντες]]</big>**  |Echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore, |**<big>[[G3767\|οὖν,]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

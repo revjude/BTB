@@ -1,4 +1,4 @@
-**2 Kings 4:29** 
+**2 Kings 4:29**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, an
 > $\quad$ referenced by: [[Luke.10.4|Luke 10:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Gehazi  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1522\|גֵיחֲזִ֜י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> gei.cha.Zi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

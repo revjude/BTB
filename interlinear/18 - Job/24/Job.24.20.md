@@ -1,4 +1,4 @@
-**Job 24:20** 
+**Job 24:20**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The womb forgets them; the worm feeds on them; they are remembered no more. So i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.19|<< Job 24:19]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.21|Job 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it forgets him  |**<big>&#8207;[[H7911\|יִשְׁכָּ֘חֵ֤]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yish.Ka.Che.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] womb  |**<big>&#8207;[[H7358\|רֶ֨חֶם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Re.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

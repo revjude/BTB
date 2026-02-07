@@ -1,4 +1,4 @@
-**2 Samuel 16:19** 
+**2 Samuel 16:19**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And again, whom should I serve? [should I] not [serve] in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, whom should I serve if not his son? As I served in your father’s 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.18|<< 2 Samuel 16:18]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.20|2 Samuel 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the second [thing]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֗ית]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> whom?  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4310\|מִי֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

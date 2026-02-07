@@ -1,4 +1,4 @@
-**Ezekiel 20:42** 
+**Ezekiel 20:42**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] the LORD, when I shall bring you into the land of Israel, into the country [for] the which I lifted up mine hand to give it to your fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will know that I am the LORD, when I bring you into the land of Israel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.41|<< Ezekiel 20:41]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.43|Ezekiel 20:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3045\|ידַעְתֶּם֙]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

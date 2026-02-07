@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:8** 
 <small><sub>**LXX:**</sub></small>
 And he stopped seven days, \[according\] to the testimony as Samuel said. And Samuel did not come unto Gilgal, and his people scattered from him. 
-<small><sub>**KJV:**</sub></small>
-And he tarried seven days, according to the set time that Samuel [had appointed]: but Samuel came not to Gilgal; and the people were scattered from him.
-<small><sub>**BSB:**</sub></small>
-And Saul waited seven days for the time appointed by Samuel, but Samuel did not come to Gilgal, and the troops began to desert Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.7|<< 1 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.9|1 Samuel 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

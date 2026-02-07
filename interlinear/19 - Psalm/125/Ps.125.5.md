@@ -1,4 +1,4 @@
-**Psalms 125:5** 
+**Psalms 125:5**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: [but] peace [shall be] upon Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But those who turn to crooked ways the LORD will banish with the evildoers. Peac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.4|<< Psalms 125:4]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.0|Psalms 126:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and those [who] turn aside  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5186\|מַּטִּ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.ma.Tim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twisting [ways] their  |**<big>&#8207;[[H6128\|עַֽקַלְקַלּוֹתָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| a.kal.ka.lo.Ta<small><sup>[[HAafpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 32:8** 
+**Jeremiah 32:8**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hanameel mine uncle’s son came to me in the court of the prison according to the word of the LORD, and said unto me, Buy my field, I pray thee, that [is] in Anathoth, which [is] in the country of Benjamin: for the right of inheritance [is] thine, and the redemption [is] thine; buy [it] for thyself. Then I knew that this [was] the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then, as the LORD had said, my cousin Hanamel came to me in the courtyard of the
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵ֠לַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'E.la<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

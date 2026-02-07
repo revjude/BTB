@@ -1,10 +1,7 @@
 **LXX Exodus 20:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Thus shall you say to the house of Jacob, and announce to the sons of Israel, You have seen that from out of the heaven I have spoken to you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “This is what you are to tell the Israelites: ‘You have seen for yourselves that I have spoken to you from heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.21|<< Exodus 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.23|Exodus 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

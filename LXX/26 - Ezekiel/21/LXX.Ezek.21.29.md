@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:29** 
 <small><sub>**LXX:**</sub></small>
 In  your vain vision, and in  lying oracles  to deliver yourself upon \[the\] necks \[of the\] slain lawless ones which is come the day in \[the\] time of iniquity -- \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of [them that are] slain, of the wicked, whose day is come, when their iniquity [shall have] an end.
-<small><sub>**BSB:**</sub></small>
-while they offer false visions for you and lying divinations about you—to be placed on the necks of the wicked who are slain, whose day has come, the time of their final punishment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.28|<< Ezekiel 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.30|Ezekiel 21:30 >>]]</td></tr></table>
 
 | Translation | Greek |

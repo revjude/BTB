@@ -1,10 +1,7 @@
 **LXX Exodus 34:15** 
 <small><sub>**LXX:**</sub></small>
 lest at any time you should establish a covenant with the ones lying in wait upon the land, and they should fornicate after  their gods, and should sacrifice to their gods, and they should call you, and you should eat  of their sacrifices; 
-<small><sub>**KJV:**</sub></small>
-Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and [one] call thee, and thou eat of his sacrifice;
-<small><sub>**BSB:**</sub></small>
-Do not make a covenant with the inhabitants of the land, for when they prostitute themselves to their gods and sacrifice to them, they will invite you, and you will eat their sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.14|<< Exodus 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.16|Exodus 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

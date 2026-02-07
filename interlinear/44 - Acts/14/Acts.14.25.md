@@ -1,12 +1,12 @@
-**Acts 14:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:25**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had preached the word in Perga, they went down into Attalia:
 <small><sub>**BSB:**</sub></small>
 And when they had spoken the word in Perga, they went down to Attalia.
 <small><sub>**Literal:**</sub></small>
 and having spoken in Perga the word they went down to Attalia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.24|<< Acts 14:24]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.26|Acts 14:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having spoken |**<big>[[G2980\|λαλήσαντες]]</big>**  |lalēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:28** 
 <small><sub>**LXX:**</sub></small>
 Coniah is disgraced as a vessel which there is no need of; for he was cast forth and cast into a land which he did not know. 
-<small><sub>**KJV:**</sub></small>
-[Is] this man Coniah a despised broken idol? [is he] a vessel wherein [is] no pleasure? wherefore are they cast out, he and his seed, and are cast into a land which they know not?
-<small><sub>**BSB:**</sub></small>
-Is this man Coniah a despised and shattered pot, a jar that no one wants? Why are he and his descendants hurled out and cast into a land they do not know?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.27|<< Jeremiah 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.29|Jeremiah 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

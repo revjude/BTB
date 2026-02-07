@@ -1,4 +1,4 @@
-**Deuteronomy 2:5** 
+**Deuteronomy 2:5**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau [for] a possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not provoke them, for I will not give you any of their land, not even a footp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.4|<< Deuteronomy 2:4]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.6|Deuteronomy 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you engage in strife  |**<big>&#8207;[[H1624\|תִּתְגָּר֣וּ]]&#8207; </big>**| tit.ga.Ru<small><sup>[[HVtj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

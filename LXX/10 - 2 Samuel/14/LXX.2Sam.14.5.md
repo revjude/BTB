@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:5** 
 <small><sub>**LXX:**</sub></small>
 And the king said to her, What to you is it?  And she said, By all means I am a widow woman, and my husband died. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto her, What aileth thee? And she answered, I [am] indeed a widow woman, and mine husband is dead.
-<small><sub>**BSB:**</sub></small>
-“What troubles you?” the king asked her. “Indeed,” she said, “I am a widow, for my husband is dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.4|<< 2 Samuel 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.6|2 Samuel 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

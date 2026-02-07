@@ -1,4 +1,4 @@
-**Leviticus 26:24** 
+**Leviticus 26:24**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I also walk contrary unto you, and will punish you yet seven times for your sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will act with hostility toward you, and I will strike you sevenfold for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.23|<< Leviticus 26:23]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.25|Leviticus 26:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will walk  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980I\|הָלַכְתִּ֧י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.lakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

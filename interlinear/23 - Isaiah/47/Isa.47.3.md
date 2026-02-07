@@ -1,4 +1,4 @@
-**Isaiah 47:3** 
+**Isaiah 47:3**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet [thee as] a man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your nakedness will be uncovered and your shame will be exposed. I will take ven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.2|<< Isaiah 47:2]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.4|Isaiah 47:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it be uncovered  |**<big>&#8207;[[H1540I\|תִּגָּל֙]]&#8207; </big>**| ti.Gal<small><sup>[[HVNj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nakedness your  |**<big>&#8207;[[H6172\|עֶרְוָתֵ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'er.va.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

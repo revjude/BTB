@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:9** 
 <small><sub>**LXX:**</sub></small>
 And I said to you in  that time, saying, I will not be able alone to bear you, 
-<small><sub>**KJV:**</sub></small>
-And I spake unto you at that time, saying, I am not able to bear you myself alone:
-<small><sub>**BSB:**</sub></small>
-At that time I said to you, “I cannot carry the burden for you alone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.8|<< Deuteronomy 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.10|Deuteronomy 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

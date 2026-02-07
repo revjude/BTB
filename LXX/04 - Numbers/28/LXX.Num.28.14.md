@@ -1,10 +1,7 @@
 **LXX Numbers 28:14** 
 <small><sub>**LXX:**</sub></small>
 \[To\] their libation will be the half of the hin \[of wine\] for the one calf, and the third of the hin \[of wine\] will be for the one ram, and the fourth of the hin of wine will be for the one lamb. This \[is\] the whole burnt-offering, month by month throughout the months of the year. 
-<small><sub>**KJV:**</sub></small>
-And their drink offerings shall be half an hin of wine unto a bullock, and the third [part] of an hin unto a ram, and a fourth [part] of an hin unto a lamb: this [is] the burnt offering of every month throughout the months of the year.
-<small><sub>**BSB:**</sub></small>
-Their drink offerings shall be half a hin of wine with each bull, a third of a hin with the ram, and a quarter hin with each lamb. This is the monthly burnt offering to be made at each new moon throughout the year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.13|<< Numbers 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.15|Numbers 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

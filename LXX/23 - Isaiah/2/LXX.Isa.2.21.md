@@ -1,10 +1,7 @@
 **LXX Isaiah 2:21** 
 <small><sub>**LXX:**</sub></small>
  to enter into the burrows of the solid rock, and the fissures of the rocks, from in front of the fear of \[the\] <span class="smallcaps">lord</span>, and from the glory  of his strength, whenever he should rise up to devastate the earth. 
-<small><sub>**KJV:**</sub></small>
-To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
-<small><sub>**BSB:**</sub></small>
-They will flee to caverns in the rocks and crevices in the cliffs, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.20|<< Isaiah 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.22|Isaiah 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

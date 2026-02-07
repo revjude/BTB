@@ -1,5 +1,5 @@
-**Revelation 6:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:15**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
 <small><sub>**BSB:**</sub></small>
 Then the kings of the earth, the nobles, the commanders, the rich, the mighty, and every slave and free man hid in the caves and among the rocks of the mountains.
@@ -11,7 +11,7 @@ And the kings of the earth and the great ones and the commanders and the rich an
 > $\quad$ alluding to: [[LXX.Ps.110.5|Ps 110:5]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hos.10.8|Hos 10:8]] ☩ [[LXX.Joel.2.11|Joel 2:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

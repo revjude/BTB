@@ -1,4 +1,4 @@
-**Proverbs 18:18** 
+**Proverbs 18:18**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lot causeth contentions to cease, and parteth between the mighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Casting the lot ends quarrels and separates strong opponents.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.17|<< Proverbs 18:17]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.19|Proverbs 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | contentions  |**<big>&#8207;[[H4079\|מִ֭דְיָנִים]]&#8207; </big>**| Mid.ya.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it puts an end to  |**<big>&#8207;[[H7673A\|יַשְׁבִּ֣ית]]&#8207; </big>**| yash.Bit<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

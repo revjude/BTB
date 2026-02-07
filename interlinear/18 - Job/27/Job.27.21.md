@@ -1,4 +1,4 @@
-**Job 27:21** 
+**Job 27:21**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The east wind carries him away, and he is gone; it sweeps him out of his place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.20|<< Job 27:20]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.22|Job 27:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will lift up him  |**<big>&#8207;[[H5375H\|יִשָּׂאֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yi.sa.'E.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an east wind  |**<big>&#8207;[[H6921\|קָדִ֣ים]]&#8207; </big>**| ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

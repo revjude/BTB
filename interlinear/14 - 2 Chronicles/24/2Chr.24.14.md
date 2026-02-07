@@ -1,4 +1,4 @@
-**2 Chronicles 24:14** 
+**2 Chronicles 24:14**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had finished [it], they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, [even] vessels to minister, and to offer [withal], and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they were finished, they brought the rest of the money to the king and Jeho
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.13|<< 2 Chronicles 24:13]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.15|2 Chronicles 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as had finished they  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3615G\|כַלּוֹתָ֡]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> kha.lo.Ta<small><sup>[[HVpcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they brought  |**<big>&#8207;[[H0935P\|הֵבִ֣יאוּ]]&#8207; </big>**| he.Vi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 20:16** 
 <small><sub>**LXX:**</sub></small>
 And we yelled out to \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> listened \[to\] our voice. And sending an angel, he led us from out of Egypt. And now we are in Kadesh, a city of a part  of your borders. 
-<small><sub>**KJV:**</sub></small>
-And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we [are] in Kadesh, a city in the uttermost of thy border:
-<small><sub>**BSB:**</sub></small>
-and when we cried out to the LORD, He heard our voice, sent an angel, and brought us out of Egypt. Now look, we are in Kadesh, a city on the edge of your territory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.15|<< Numbers 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.17|Numbers 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:8** 
 <small><sub>**LXX:**</sub></small>
 And he said to me,  This water  going forth unto  Galilee, the one towards \[the\] east, and goes down unto  Arabia, and comes as far as unto the sea, unto the water of the outlet, and it shall heal the waters. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: [which being] brought forth into the sea, the waters shall be healed.
-<small><sub>**BSB:**</sub></small>
-And he said to me, “This water flows out to the eastern region and goes down into the Arabah. When it empties into the Dead Sea, the water there becomes fresh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.7|<< Ezekiel 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.9|Ezekiel 47:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 45:6** 
+**Isaiah 45:6**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may know from the rising of the sun, and from the west, that [there is] none beside me. I [am] the LORD, and [there is] none else.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that all may know, from where the sun rises to where it sets, that there is n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.5|<< Isaiah 45:5]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.7|Isaiah 45:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may know  |**<big>&#8207;[[H3045\|יֵדְע֗וּ]]&#8207; </big>**| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

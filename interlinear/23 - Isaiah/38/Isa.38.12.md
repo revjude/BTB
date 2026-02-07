@@ -1,4 +1,4 @@
-**Isaiah 38:12** 
+**Isaiah 38:12**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day [even] to night wilt thou make an end of me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My dwelling has been picked up and removed from me like a shepherd’s tent. I h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.11|<< Isaiah 38:11]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.13|Isaiah 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | dwelling-place my  |**<big>&#8207;[[H1755\|דּוֹרִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| do.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been pulled up  |**<big>&#8207;[[H5265\|נִסַּ֧ע]]&#8207; </big>**| ni.Sa'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

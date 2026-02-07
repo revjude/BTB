@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:7** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> returned  a second \[time\], and touched him, and said to him, Rise up, eat! for the journey \[is\] great for you. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD came again the second time, and touched him, and said, Arise [and] eat; because the journey [is] too great for thee.
-<small><sub>**BSB:**</sub></small>
-A second time the angel of the LORD returned and touched him, saying, “Get up and eat, or the journey will be too much for you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.6|<< 1 Kings 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.8|1 Kings 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

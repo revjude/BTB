@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:14** 
 <small><sub>**LXX:**</sub></small>
 You should not hearken to the words of the prophets saying to you, You should not serve to the king of Babylon; for unjustly they prophesy to you. 
-<small><sub>**KJV:**</sub></small>
-Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you.
-<small><sub>**BSB:**</sub></small>
-Do not listen to the words of the prophets who say, ‘You must not serve the king of Babylon,’ for they are prophesying to you a lie.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.13|<< Jeremiah 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.15|Jeremiah 27:15 >>]]</td></tr></table>
 
 | Translation | Greek |

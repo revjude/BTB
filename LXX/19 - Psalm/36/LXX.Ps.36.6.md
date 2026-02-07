@@ -1,10 +1,7 @@
 **LXX Psalm 36:6** 
 <small><sub>**LXX:**</sub></small>
  Your righteousness \[is\] as \[the\] mountains of God;  your judgments a vast abyss. You shall preserve men and cattle, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thy righteousness [is] like the great mountains; thy judgments [are] a great deep: O LORD, thou preservest man and beast.
-<small><sub>**BSB:**</sub></small>
-Your righteousness is like the highest mountains; Your judgments are like the deepest sea. O LORD, You preserve man and beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.5|<< Psalm 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.7|Psalm 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

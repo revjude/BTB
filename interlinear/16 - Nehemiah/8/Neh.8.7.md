@@ -1,4 +1,4 @@
-**Nehemiah 8:7** 
+**Nehemiah 8:7**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people [stood] in their place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.6|<< Nehemiah 8:6]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.8|Nehemiah 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jeshua  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3442J\|יֵשׁ֡וּעַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Bani  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1137M\|בָנִ֡י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

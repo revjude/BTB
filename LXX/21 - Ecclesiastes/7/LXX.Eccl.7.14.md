@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:14** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] day of goodness live in good! and look \[out\] in \[the\] day of evil! Behold! and indeed with one God caused harmony with these concerning speech, that man should not find anything after him. 
-<small><sub>**KJV:**</sub></small>
-In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
-<small><sub>**BSB:**</sub></small>
-In the day of prosperity, be joyful, but in the day of adversity, consider this: God has made one of these along with the other, so that a man cannot discover anything that will come after him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.13|<< Ecclesiastes 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.15|Ecclesiastes 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

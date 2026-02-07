@@ -1,10 +1,7 @@
 **LXX Numbers 6:3** 
 <small><sub>**LXX:**</sub></small>
 from wine and liquor he shall be pure, and strong drink from out of wine; and strong drink from out of liquor he shall not drink; and as many \[things\] as \[are\] manufactured from out of \[the\] grape he shall not drink; and fresh grape and dried grape he shall not eat. 
-<small><sub>**KJV:**</sub></small>
-He shall separate [himself] from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
-<small><sub>**BSB:**</sub></small>
-he is to abstain from wine and strong drink. He must not drink vinegar made from wine or strong drink, and he must not drink any grape juice or eat fresh grapes or raisins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.2|<< Numbers 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.4|Numbers 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 6:3** is...

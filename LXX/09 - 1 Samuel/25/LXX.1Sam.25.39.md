@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:39** 
 <small><sub>**LXX:**</sub></small>
 And David heard that Nabal died, and he said, Blessed be \[the\] <span class="smallcaps">lord</span> who judged the case  of my being scorned by \[the\] hand of Nabal, and  protected his servant from out of \[the\] hand of evils. And the evil of Nabal \[the\] <span class="smallcaps">lord</span> returned against  his \[own\] head. And David sent and spoke concerning Abigail, to take her to himself for a wife. 
-<small><sub>**KJV:**</sub></small>
-And when David heard that Nabal was dead, he said, Blessed [be] the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.
-<small><sub>**BSB:**</sub></small>
-On hearing that Nabal was dead, David said, “Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head.” Then David sent word to Abigail, asking her to become his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.38|<< 1 Samuel 25:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.40|1 Samuel 25:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 25:17** 
+**1 Samuel 25:17**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he [is such] a son of Belial, that [a man] cannot speak to him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now consider carefully what you must do, because disaster looms over our master 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.16|<< 1 Samuel 25:16]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.18|1 Samuel 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | know  |**<big>&#8207;[[H3045\|דְּעִ֤י]]&#8207; </big>**| de.'I<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 6:49
-**<small><sub>**KJV:**</sub></small>
+**John 6:49**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Your fathers did eat manna in the wilderness, and are dead.
 <small><sub>**BSB:**</sub></small>
 Your fathers ate the manna in the wilderness, yet they died.
@@ -10,7 +10,7 @@ The fathers of You ate in the wilderness the manna and died;<br><table width="10
 > $\quad$ alluding to: [[LXX.Exod.16.15|Exod 16:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | fathers |**<big>[[G3962\|πατέρες]]</big>**  |pateres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

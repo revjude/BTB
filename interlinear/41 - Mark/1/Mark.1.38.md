@@ -1,12 +1,12 @@
-**Mark 1:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:38**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”
 <small><sub>**Literal:**</sub></small>
 And He says to them; let us go another way into those [places] which are having villages so that also there I may preach; for this therefore I have come forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.37|<< Mark 1:37]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.39|Mark 1:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

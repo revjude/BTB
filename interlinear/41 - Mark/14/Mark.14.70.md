@@ -1,12 +1,12 @@
-**Mark 14:70
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:70**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art [one] of them: for thou art a Galilaean, and thy speech agreeth [thereto].
 <small><sub>**BSB:**</sub></small>
 But he denied it again. After a little while, those standing nearby said once more to Peter, “Surely you are one of them, for you too are a Galilean.”
 <small><sub>**Literal:**</sub></small>
 <the> But again he was denying. And after a little again those having stood by were saying <the> to Peter; Truly of them you are; also for a Galilean you are and the speech of you resembles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.69|<< Mark 14:69]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.71|Mark 14:71 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

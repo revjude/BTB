@@ -1,12 +1,12 @@
-**John 9:34
-**<small><sub>**KJV:**</sub></small>
+**John 9:34**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
 <small><sub>**BSB:**</sub></small>
 They replied, “You were born in utter sin, and you are instructing us?” And they threw him out.
 <small><sub>**Literal:**</sub></small>
 They answered and they said to him; In sins you yourself were born entirely and you yourself teach us? And they cast him out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.33|<< John 9:33]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.35|John 9:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

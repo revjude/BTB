@@ -1,4 +1,4 @@
-**Exodus 36:30** 
+**Exodus 36:30**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were eight boards; and their sockets [were] sixteen sockets of silver, under every board two sockets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So there were eight frames and sixteen silver bases—two under each frame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.29|<< Exodus 36:29]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.31|Exodus 36:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight  |**<big>&#8207;[[H8083\|שְׁמֹנָ֣ה]]&#8207; </big>**| she.mo.Nah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

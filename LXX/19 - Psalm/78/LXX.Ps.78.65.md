@@ -1,10 +1,7 @@
 **LXX Psalm 78:65** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> awakened as from sleep; as a mighty one being dizzy from wine. 
-<small><sub>**KJV:**</sub></small>
-Then the Lord awaked as one out of sleep, [and] like a mighty man that shouteth by reason of wine.
-<small><sub>**BSB:**</sub></small>
-Then the Lord awoke as from sleep, like a mighty warrior overcome by wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.64|<< Psalm 78:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.66|Psalm 78:66 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 7:11** 
+**Daniel 7:11**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld then because of the voice of the great words which the horn spake: I beheld [even] till the beast was slain, and his body destroyed, and given to the burning flame.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I kept watching because of the arrogant words the horn was speaking. As I c
 > $\quad$ referenced by: [[Rev.17.8|Rev 17:8]] ☩ [[Rev.19.20|Rev 19:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seeing  |**<big>&#8207;[[H2370\|חָזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1934\|הֲוֵ֔ית]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 1:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:16**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men [and] brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
 <small><sub>**BSB:**</sub></small>
 “Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus.
 <small><sub>**Literal:**</sub></small>
 Men brothers, it was necessary for to have been fulfilled <the> Scripture this which foretold the Spirit <the> Holy through [the] mouth of David concerning Judas the [one] having become guide to those having arrested <the> Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.15|<< Acts 1:15]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.17|Acts 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0435G\|ἄνδρες]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

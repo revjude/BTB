@@ -1,12 +1,12 @@
-**2 Thessalonians 3:4
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:4**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
 <small><sub>**BSB:**</sub></small>
 And we have confidence in the Lord that you are doing and will continue to do what we command.
 <small><sub>**Literal:**</sub></small>
 We have been persuaded now in [the] Lord as to you that [the] things that we command to you both you are doing and you will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.3|<< 2 Thessalonians 3:3]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.5|2 Thessalonians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We have been persuaded |**<big>[[G3982\|πεποίθαμεν]]</big>**  |pepoithamen <small><sup>[[V-2RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

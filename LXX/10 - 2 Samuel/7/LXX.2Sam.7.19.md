@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:19** 
 <small><sub>**LXX:**</sub></small>
 And it was reduced small before you, O my Lord, O <span class="smallcaps">lord</span>, and you spoke about the house  of your servant for a far \[time\]. And \[is\] this the law  of man, O my Lord, O <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And [is] this the manner of man, O Lord GOD?
-<small><sub>**BSB:**</sub></small>
-And as if this was a small thing in Your eyes, O Lord GOD, You have also spoken about the future of the house of Your servant. Is this Your custom with man, O Lord GOD?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.18|<< 2 Samuel 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.20|2 Samuel 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:40** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Jonathan \[was\] Merib-baal, and Merib-baal engendered  Micah. 
-<small><sub>**KJV:**</sub></small>
-And the son of Jonathan [was] Meribbaal: and Meribbaal begat Micah.
-<small><sub>**BSB:**</sub></small>
-The son of Jonathan: Merib-baal, who was the father of Micah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.39|<< 1 Chronicles 9:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.41|1 Chronicles 9:41 >>]]</td></tr></table>
 
 | Translation | Greek |

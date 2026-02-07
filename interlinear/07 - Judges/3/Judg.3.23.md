@@ -1,4 +1,4 @@
-**Judges 3:23** 
+**Judges 3:23**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ehud went out through the porch, closing and locking the doors of the upper
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.22|<< Judges 3:22]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.24|Judges 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ehud  |**<big>&#8207;[[H0164G\|אֵה֖וּד]]&#8207; </big>**| 'e.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

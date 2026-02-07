@@ -1,10 +1,7 @@
 **LXX Psalm 63:4** 
 <small><sub>**LXX:**</sub></small>
 thus will I bless you in  my life; I will lift my hands in your name. 
-<small><sub>**KJV:**</sub></small>
-Thus will I bless thee while I live: I will lift up my hands in thy name.
-<small><sub>**BSB:**</sub></small>
-So I will bless You as long as I live; in Your name I will lift my hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.3|<< Psalm 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.5|Psalm 63:5 >>]]</td></tr></table>
 
 | Translation | Greek |

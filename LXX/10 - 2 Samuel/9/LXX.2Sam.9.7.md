@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:7** 
 <small><sub>**LXX:**</sub></small>
 And David said to him, Do not fear, for by dealing with \[you\] I shall execute with you an \[act of\] mercy because of Jonathan  your father, and I will restore to you all the fields of Saul, \[the\] father  of your father. And you shall eat bread at  my table always. 
-<small><sub>**KJV:**</sub></small>
-And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.6|<< 2 Samuel 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.8|2 Samuel 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 78:50** 
 <small><sub>**LXX:**</sub></small>
 He opened \[the\] road  of his anger; he did not spare their souls from death; and  he consigned their cattle to death. 
-<small><sub>**KJV:**</sub></small>
-He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
-<small><sub>**BSB:**</sub></small>
-He cleared a path for His anger; He did not spare them from death but delivered their lives to the plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.49|<< Psalm 78:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.51|Psalm 78:51 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 12:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:4**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 <small><sub>**BSB:**</sub></small>
 His tail swept a third of the stars from the sky, hurling them to the earth. And the dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth.
@@ -10,7 +10,7 @@ And the tail of him drags <the> a third of the stars <the> of heaven and he cast
 > $\quad$ possibly alluding to: [[LXX.Dan.8.10|Dan 8:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

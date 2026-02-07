@@ -1,10 +1,7 @@
 **LXX Leviticus 19:8** 
 <small><sub>**LXX:**</sub></small>
 And the one eating it shall take \[the\] sin, for the holy \[things\] of \[the\] <span class="smallcaps">lord</span> he profaned. And the souls eating \[it\] shall be utterly destroyed from  their people. 
-<small><sub>**KJV:**</sub></small>
-Therefore [every one] that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.
-<small><sub>**BSB:**</sub></small>
-Whoever eats it will bear his iniquity, for he has profaned what is holy to the LORD. That person must be cut off from his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.7|<< Leviticus 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.9|Leviticus 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

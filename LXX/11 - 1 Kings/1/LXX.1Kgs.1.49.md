@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:49** 
 <small><sub>**LXX:**</sub></small>
 And all the ones called Adonijah were startled and rose up, and each departed unto  his way. 
-<small><sub>**KJV:**</sub></small>
-And all the guests that [were] with Adonijah were afraid, and rose up, and went every man his way.
-<small><sub>**BSB:**</sub></small>
-At this, all the guests of Adonijah arose in terror and scattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.48|<< 1 Kings 1:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.50|1 Kings 1:50 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 14:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:5**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in their mouth was found no guile: for they are without fault before the throne of God.
 <small><sub>**BSB:**</sub></small>
 And no lie was found in their mouths; they are blameless.
@@ -11,7 +11,7 @@ And in the mouth of them not was found a lie, blameless for they are before the 
 > $\quad$ referencing: [[LXX.Isa.53.9|Isa 53:9]] ☩ [[LXX.Zeph.3.13|Zeph 3:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

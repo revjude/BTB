@@ -1,10 +1,7 @@
 **LXX Psalm 119:127** 
 <small><sub>**LXX:**</sub></small>
 On account of this I loved  your commandments above gold and topaz. 
-<small><sub>**KJV:**</sub></small>
-Therefore I love thy commandments above gold; yea, above fine gold.
-<small><sub>**BSB:**</sub></small>
-Therefore I love Your commandments more than gold, even the purest gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.127|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.126|<< Psalm 119:126]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.128|Psalm 119:128 >>]]</td></tr></table>
 
 | Translation | Greek |

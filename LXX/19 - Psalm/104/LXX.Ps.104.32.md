@@ -1,10 +1,7 @@
 **LXX Psalm 104:32** 
 <small><sub>**LXX:**</sub></small>
 the one looking upon the earth, and making it to tremble; the one touching the mountains and they smoke. 
-<small><sub>**KJV:**</sub></small>
-He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
-<small><sub>**BSB:**</sub></small>
-He looks on the earth, and it trembles; He touches the mountains, and they smolder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.31|<< Psalm 104:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.33|Psalm 104:33 >>]]</td></tr></table>
 
 | Translation | Greek |

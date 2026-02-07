@@ -1,4 +1,4 @@
-**Jeremiah 18:23** 
+**Jeremiah 18:23**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet, LORD, thou knowest all their counsel against me to slay [me]: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal [thus] with them in the time of thine anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You, O LORD, know all their deadly plots against me. Do not wipe out their g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

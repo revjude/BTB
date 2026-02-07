@@ -1,4 +1,4 @@
-**Exodus 35:34** 
+**Exodus 35:34**<big><big>[[Exod.35.30 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath put in his heart that he may teach, [both] he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.33|<< Exodus 35:33]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.35|Exodus 35:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to teach  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3384B\|הוֹרֹ֖ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ho.Rot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has put  |**<big>&#8207;[[H5414H\|נָתַ֣ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

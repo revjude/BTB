@@ -1,12 +1,12 @@
-**Luke 20:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:6**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.
 <small><sub>**BSB:**</sub></small>
 But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.”
 <small><sub>**Literal:**</sub></small>
 If however we shall say; From men, the people all will stone us; persuaded for they are John a prophet to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.5|<< Luke 20:5]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.7|Luke 20:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

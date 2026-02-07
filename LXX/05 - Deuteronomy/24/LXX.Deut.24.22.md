@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt. On account of this I give charge to you to do  this thing. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing.
-<small><sub>**BSB:**</sub></small>
-Remember that you were slaves in the land of Egypt. Therefore I am commanding you to do this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.21|<< Deuteronomy 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.1|Deuteronomy 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

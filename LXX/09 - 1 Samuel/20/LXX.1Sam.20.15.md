@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:15** 
 <small><sub>**LXX:**</sub></small>
 you shall not remove your mercy from  my house unto the eon. And not \[even\] in the removing \[by the\] <span class="smallcaps">lord</span> of the enemies of David, each from the face of the earth, 
-<small><sub>**KJV:**</sub></small>
-But [also] thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.
-<small><sub>**BSB:**</sub></small>
-and do not ever cut off your loving devotion from my household—not even when the LORD cuts off every one of David’s enemies from the face of the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.14|<< 1 Samuel 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.16|1 Samuel 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

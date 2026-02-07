@@ -1,12 +1,12 @@
-**1 Thessalonians 3:7
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:7**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:
 <small><sub>**BSB:**</sub></small>
 For this reason, brothers, in all our distress and persecution, we have been reassured about you, because of your faith.
 <small><sub>**Literal:**</sub></small>
 because of this we were encouraged, brothers, as to you in all the distress and tribulation of us through <the> your faith;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.6|<< 1 Thessalonians 3:6]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.8|1 Thessalonians 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

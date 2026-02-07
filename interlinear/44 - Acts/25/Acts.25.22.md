@@ -1,12 +1,12 @@
-**Acts 25:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:22**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.
 <small><sub>**BSB:**</sub></small>
 Then Agrippa said to Festus, “I would like to hear this man myself.” “Tomorrow you will hear him,” Festus declared.
 <small><sub>**Literal:**</sub></small>
 Agrippa then to <the> Festus was saying: I was wanting also myself the man to hear. <the> now Tomorrow he says you will hear him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.21|<< Acts 25:21]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.23|Acts 25:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Agrippa |**<big>[[G0067\|Ἀγρίππας]]</big>**  |Agrippas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

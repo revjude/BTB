@@ -1,12 +1,12 @@
-**Acts 9:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:42**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was known throughout all Joppa; and many believed in the Lord.
 <small><sub>**BSB:**</sub></small>
 This became known all over Joppa, and many people believed in the Lord.
 <small><sub>**Literal:**</sub></small>
 Known then it became throughout all <the> of Joppa, and believed many on the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.41|<< Acts 9:41]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.43|Acts 9:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Known |**<big>[[G1110\|γνωστὸν]]</big>**  |gnōston <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

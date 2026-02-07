@@ -1,12 +1,12 @@
-**Luke 8:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:4**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when much people were gathered together, and were come to him out of every city, he spake by a parable:
 <small><sub>**BSB:**</sub></small>
 While a large crowd was gathering and people were coming to Jesus from town after town, He told them this parable:
 <small><sub>**Literal:**</sub></small>
 When were assembling now a crowd great and those from each town are coming to Him He spoke through a parable:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.3|<< Luke 8:3]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.5|Luke 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were assembling |**<big>[[G4896\|Συνιόντος]]</big>**  |Suniontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

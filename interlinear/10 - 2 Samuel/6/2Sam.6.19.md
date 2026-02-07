@@ -1,4 +1,4 @@
-**2 Samuel 6:19** 
+**2 Samuel 6:19**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dealt among all the people, [even] among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece [of flesh], and a flagon [of wine]. So all the people departed every one to his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he distributed to every man and woman among the multitude of Israel a loaf 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.18|<< 2 Samuel 6:18]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.20|2 Samuel 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he distributed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2505A\|יְחַלֵּ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Lek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

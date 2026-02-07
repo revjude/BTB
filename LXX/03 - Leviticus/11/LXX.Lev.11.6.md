@@ -1,10 +1,7 @@
 **LXX Leviticus 11:6** 
 <small><sub>**LXX:**</sub></small>
 And the hyrax, for this one \[does\] not take up chewing the cud, and \[the\] hoof \[is\] not cloven; this one \[is\] unclean to you. 
-<small><sub>**KJV:**</sub></small>
-And the hare, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-The rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.5|<< Leviticus 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.7|Leviticus 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

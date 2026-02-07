@@ -1,4 +1,4 @@
-**Ezra 5:8** 
+**Ezra 5:8**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let it be known to the king that we went into the province of Judah, to the hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.7|<< Ezra 5:7]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.9|Ezra 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | known  |**<big>&#8207;[[H3046\|יְדִ֣יעַ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Di.a'<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it be  |**<big>&#8207;[[H1934\|לֶהֱוֵ֣א]]&#8207; </big>**| le.he.Ve'<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

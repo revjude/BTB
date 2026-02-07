@@ -1,10 +1,7 @@
 **LXX Genesis 24:3** 
 <small><sub>**LXX:**</sub></small>
 And I adjure you \[by the\] <span class="smallcaps">lord</span>  God of the heaven, and the God of the earth, that you should not take a wife \[to\] my son Isaac from the daughters of the Canaanites, with whom I live among them. 
-<small><sub>**KJV:**</sub></small>
-And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
-<small><sub>**BSB:**</sub></small>
-and I will have you swear by the LORD, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I am dwelling,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.2|<< Genesis 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.4|Genesis 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

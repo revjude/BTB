@@ -1,10 +1,7 @@
 **LXX Zechariah 8:5** 
 <small><sub>**LXX:**</sub></small>
 And the squares of the city shall be filled with boys and girls playing in  her squares. 
-<small><sub>**KJV:**</sub></small>
-And the streets of the city shall be full of boys and girls playing in the streets thereof.
-<small><sub>**BSB:**</sub></small>
-And the streets of the city will be filled with boys and girls playing there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

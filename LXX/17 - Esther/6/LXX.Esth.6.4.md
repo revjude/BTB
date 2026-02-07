@@ -1,10 +1,7 @@
 **LXX Esther 6:4** 
 <small><sub>**LXX:**</sub></small>
 And during the inquiring by the king concerning the good-will of Mordecai, behold, Haman \[was\] in the courtyard. And the king said, Who \[is\] in the courtyard?  And he entered to speak to the king to hang  Mordecai upon the tree which he prepared. 
-<small><sub>**KJV:**</sub></small>
-And the king said, Who [is] in the court? Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.
-<small><sub>**BSB:**</sub></small>
-“Who is in the court?” the king asked. Now Haman had just entered the outer court of the palace to ask the king to hang Mordecai on the gallows he had prepared for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.3|<< Esther 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.5|Esther 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

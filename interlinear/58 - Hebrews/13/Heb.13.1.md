@@ -1,12 +1,12 @@
-**Hebrews 13:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:1**<big><big>[[Heb.13.1 Brotherly Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let brotherly love continue.
 <small><sub>**BSB:**</sub></small>
 Continue in brotherly love.
 <small><sub>**Literal:**</sub></small>
 <the> Brotherly love should abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.29|<< Hebrews 12:29]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.2|Hebrews 13:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Brotherly love |**<big>[[G5360\|φιλαδελφία]]</big>**  |philadelphia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

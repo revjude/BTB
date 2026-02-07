@@ -1,4 +1,4 @@
-**Joshua 17:5** 
+**Joshua 17:5**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which [were] on the other side Jordan;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus ten shares fell to Manasseh, in addition to the land of Gilead and Bashan b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.4|<< Joshua 17:4]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.6|Joshua 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307J\|יִּפְּל֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.pe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] allotted portions of  |**<big>&#8207;[[H2256M\|חַבְלֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chav.lei-<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

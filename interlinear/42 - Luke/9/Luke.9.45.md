@@ -1,12 +1,12 @@
-**Luke 9:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:45**<big><big>[[Luke.9.43 The Second Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.
 <small><sub>**BSB:**</sub></small>
 But they did not understand this statement. It was veiled from them so that they could not comprehend it, and they were afraid to ask Him about it.
 <small><sub>**Literal:**</sub></small>
 <the> But they were not understanding <the> declaration this, and it was veiled from them that not they may understand it. And they were afraid to ask Him concerning <the> declaration this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.44|<< Luke 9:44]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.46|Luke 9:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

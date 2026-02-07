@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:5** 
 <small><sub>**LXX:**</sub></small>
 The one keeping \[the\] commandment shall not know an evil matter. And \[the\] heart of \[the\] wise knows \[the\] time of judgment. 
-<small><sub>**KJV:**</sub></small>
-Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.
-<small><sub>**BSB:**</sub></small>
-Whoever keeps his command will come to no harm, and a wise heart knows the right time and procedure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.4|<< Ecclesiastes 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.6|Ecclesiastes 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

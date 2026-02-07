@@ -1,12 +1,12 @@
-**Revelation 16:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:18**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, [and] so great.
 <small><sub>**BSB:**</sub></small>
 And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake the likes of which had not occurred since men were upon the earth—so mighty was the great quake.
 <small><sub>**Literal:**</sub></small>
 And there were flashes of lightning and voices and thunders and an earthquake there was great such as not had there been since when <the> man was upon the earth, so great [was the] earthquake so mighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.17|<< Revelation 16:17]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.19|Revelation 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there were |**<big>[[G1096\|ἐγένοντο]]</big>**  |egenonto <small><sup>[[V-2ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

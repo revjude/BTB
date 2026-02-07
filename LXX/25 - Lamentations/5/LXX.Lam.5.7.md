@@ -1,10 +1,7 @@
 **LXX Lamentations 5:7** 
 <small><sub>**LXX:**</sub></small>
  Our fathers sinned, and they do not exist; we  underwent their violations of the law. 
-<small><sub>**KJV:**</sub></small>
-Our fathers have sinned, [and are] not; and we have borne their iniquities.
-<small><sub>**BSB:**</sub></small>
-Our fathers sinned and are no more, but we bear their punishment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.6|<< Lamentations 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.8|Lamentations 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

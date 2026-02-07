@@ -1,4 +1,4 @@
-**Exodus 37:6** 
+**Exodus 37:6**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the mercy seat [of] pure gold: two cubits and a half [was] the length thereof, and one cubit and a half the breadth thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He constructed a mercy seat of pure gold, two and a half cubits long and a cubit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.5|<< Exodus 37:5]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.7|Exodus 37:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an atonement cover of  |**<big>&#8207;[[H3727\|כַּפֹּ֖רֶת]]&#8207; </big>**| ka.Po.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

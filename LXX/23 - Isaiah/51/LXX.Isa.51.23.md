@@ -1,10 +1,7 @@
 **LXX Isaiah 51:23** 
 <small><sub>**LXX:**</sub></small>
 And I give it into the hand of the ones wronging you, and of the ones humbling you; \[the\] ones who said \[to\] your soul, Bow! that we should go by. And you put the \[things\] in your midst equal to the ground outside to the ones coming near. 
-<small><sub>**KJV:**</sub></small>
-But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
-<small><sub>**BSB:**</sub></small>
-I will place it in the hands of your tormentors, who told you: ‘Lie down, so we can walk over you,’ so that you made your back like the ground, like a street to be traversed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
 | Translation | Greek |

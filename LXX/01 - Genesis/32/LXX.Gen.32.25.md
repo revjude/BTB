@@ -1,10 +1,7 @@
 **LXX Genesis 32:25** 
 <small><sub>**LXX:**</sub></small>
 And he saw that he was not able to \[prevail against\] him; and he touched the wide \[part\]  of his thigh, and he paralyzed the wide part of the thigh of Jacob in  his wrestling with him. 
-<small><sub>**KJV:**</sub></small>
-And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.
-<small><sub>**BSB:**</sub></small>
-When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.24|<< Genesis 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.26|Genesis 32:26 >>]]</td></tr></table>
 
 | Translation | Greek |

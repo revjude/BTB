@@ -1,4 +1,4 @@
-**Proverbs 28:20** 
+**Proverbs 28:20**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A faithful man will abound with blessings, but one eager to be rich will not go 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.19|<< Proverbs 28:19]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.21|Proverbs 28:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithfulness\<es>  |**<big>&#8207;[[H0530\|אֱ֭מוּנוֹת]]&#8207; </big>**| 'E.mu.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

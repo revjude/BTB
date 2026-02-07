@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:14** 
 <small><sub>**LXX:**</sub></small>
 And I shall stretch out  my hand against them, and I shall make the land for extinction; even from the wilderness of Diblath for ruin of all  their habitation. And you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will stretch out My hand against them, and wherever they live I will make the land a desolate waste, from the wilderness to Diblah. Then they will know that I am the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.13|<< Ezekiel 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.1|Ezekiel 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

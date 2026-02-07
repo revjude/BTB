@@ -1,10 +1,7 @@
 **LXX Judges 20:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin numbered in  that day of the cities, twenty  five thousand men unsheathing \[the\] broadsword, apart from the ones dwelling  in Gibeah. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men.
-<small><sub>**BSB:**</sub></small>
-On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.14|<< Judges 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.16|Judges 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

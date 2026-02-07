@@ -1,12 +1,12 @@
-**Luke 12:56
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:56**<big><big>[[Luke.12.54 Interpreting the Present Time|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?
 <small><sub>**BSB:**</sub></small>
 You hypocrites! You know how to interpret the appearance of the earth and sky. Why don’t you know how to interpret the present time?
 <small><sub>**Literal:**</sub></small>
 Hypocrites! The appearance of the earth and of the sky you know [how] to discern, the time however this how not do you know to discern?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.55|<< Luke 12:55]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.57|Luke 12:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hypocrites! |**<big>[[G5273\|ὑποκριταί,]]</big>**  |hupokritai <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

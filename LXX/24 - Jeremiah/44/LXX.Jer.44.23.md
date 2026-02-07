@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:23** 
 <small><sub>**LXX:**</sub></small>
 from in front of which you burned incense, and which you sinned \[against\] the <span class="smallcaps">lord</span>, and hearkened not to the voice of \[the\] <span class="smallcaps">lord</span>, and to  his orders, and to  his law; and by  his testimonies you did not go; and these evils took hold of you as  this day. 
-<small><sub>**KJV:**</sub></small>
-Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.
-<small><sub>**BSB:**</sub></small>
-Because you burned incense and sinned against the LORD and did not obey the voice of the LORD or walk in His instruction, His statutes, and His testimonies, this disaster has befallen you, as you see today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.22|<< Jeremiah 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.24|Jeremiah 44:24 >>]]</td></tr></table>
 
 | Translation | Greek |

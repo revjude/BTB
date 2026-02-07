@@ -1,6 +1,6 @@
 (KJV) **Psalm 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7|<< Psalm 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9|Psalm 9 >>]]</td></tr></table>
 
-***How Majestic Is Your Name!*** ^bsb1301
+<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥃]]</big></big>***How Majestic Is Your Name!***
 
 
 

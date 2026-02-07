@@ -1,4 +1,4 @@
-**Jeremiah 22:28** 
+**Jeremiah 22:28**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] this man Coniah a despised broken idol? [is he] a vessel wherein [is] no pleasure? wherefore are they cast out, he and his seed, and are cast into a land which they know not?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is this man Coniah a despised and shattered pot, a jar that no one wants? Why ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.27|<< Jeremiah 22:27]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.29|Jeremiah 22:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a pot  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H6089B\|עֶ֨צֶב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'E.tzev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | despised  |**<big>&#8207;[[H0959\|נִבְזֶ֜ה]]&#8207; </big>**| niv.Zeh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

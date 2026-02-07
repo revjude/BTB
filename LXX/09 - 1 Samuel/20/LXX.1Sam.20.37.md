@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:37** 
 <small><sub>**LXX:**</sub></small>
 And the servant-lad came unto the place of the arrows which Jonathan shot. And Jonathan yelled out after the boy, and said, the dart \[is\] there \[away\] from you and beyond. 
-<small><sub>**KJV:**</sub></small>
-And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, [Is] not the arrow beyond thee?
-<small><sub>**BSB:**</sub></small>
-When the boy reached the place where Jonathan’s arrow had fallen, Jonathan called to him, “Isn’t the arrow beyond you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.36|<< 1 Samuel 20:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.38|1 Samuel 20:38 >>]]</td></tr></table>
 
 | Translation | Greek |

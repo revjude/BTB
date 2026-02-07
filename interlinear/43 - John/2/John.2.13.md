@@ -1,12 +1,12 @@
-**John 2:13
-**<small><sub>**KJV:**</sub></small>
+**John 2:13**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Jews’ passover was at hand, and Jesus went up to Jerusalem,
 <small><sub>**BSB:**</sub></small>
 When the Jewish Passover was near, Jesus went up to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 And near was the Passover of the Jews, and went up to Jerusalem <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.12|<< John 2:12]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.14|John 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | near |**<big>[[G1451\|ἐγγὺς]]</big>**  |engus <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

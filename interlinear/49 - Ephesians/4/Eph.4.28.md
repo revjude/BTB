@@ -1,12 +1,12 @@
-**Ephesians 4:28
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:28**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let him that stole steal no more: but rather let him labour, working with [his] hands the thing which is good, that he may have to give to him that needeth.
 <small><sub>**BSB:**</sub></small>
 He who has been stealing must steal no longer, but must work, doing good with his own hands, that he may have something to share with the one in need.
 <small><sub>**Literal:**</sub></small>
 who is stealing no longer he should steal, rather however he should toil working <the> with [their] own hands what [is] good, so that he may have [something] to impart to the [one] need having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.27|<< Ephesians 4:27]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.29|Ephesians 4:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is stealing |**<big>[[G2813\|κλέπτων]]</big>**  |kleptōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

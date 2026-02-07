@@ -1,10 +1,7 @@
 **LXX Psalm 7:2** 
 <small><sub>**LXX:**</sub></small>
 Lest at any time my soul should be snatched away as \[by\] a lion, \[while there is\] none being for ransoming nor delivering. 
-<small><sub>**KJV:**</sub></small>
-Lest he tear my soul like a lion, rending [it] in pieces, while [there is] none to deliver.
-<small><sub>**BSB:**</sub></small>
-or they will shred my soul like a lion and tear me to pieces with no one to rescue me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.1|<< Psalm 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.3|Psalm 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

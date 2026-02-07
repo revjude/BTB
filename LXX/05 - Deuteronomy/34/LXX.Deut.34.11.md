@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:11** 
 <small><sub>**LXX:**</sub></small>
 in all the signs and miracles, which \[the\] <span class="smallcaps">lord</span> sent him to do them in \[the\] land of Egypt, to Pharaoh, and \[to\] his attendants, and to all  his land; 
-<small><sub>**KJV:**</sub></small>
-In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
-<small><sub>**BSB:**</sub></small>
-no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.10|<< Deuteronomy 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.12|Deuteronomy 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

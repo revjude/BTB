@@ -1,10 +1,7 @@
 **LXX Psalm 146:5** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] of whom the God of Jacob \[is\] his helper;  his hope \[is\] upon \[the\] <span class="smallcaps">lord</span>  his God; 
-<small><sub>**KJV:**</sub></small>
-Happy [is he] that [hath] the God of Jacob for his help, whose hope [is] in the LORD his God:
-<small><sub>**BSB:**</sub></small>
-Blessed is he whose help is the God of Jacob, whose hope is in the LORD his God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.146.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.4|<< Psalm 146:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.6|Psalm 146:6 >>]]</td></tr></table>
 
 | Translation | Greek |

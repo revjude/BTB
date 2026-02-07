@@ -1,4 +1,4 @@
-**Proverbs 2:21** 
+**Proverbs 2:21**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the upright shall dwell in the land, and the perfect shall remain in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the upright will inhabit the land, and the blameless will remain in it;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | upright [people]  |**<big>&#8207;[[H3477G\|יְשָׁרִ֥ים]]&#8207; </big>**| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

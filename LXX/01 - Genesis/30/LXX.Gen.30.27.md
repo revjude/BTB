@@ -1,10 +1,7 @@
 **LXX Genesis 30:27** 
 <small><sub>**LXX:**</sub></small>
 And Laban said to him, If I found favor before you, could I foretell even -- God blessed me \[in\] your entrance. 
-<small><sub>**KJV:**</sub></small>
-And Laban said unto him, I pray thee, if I have found favour in thine eyes, [tarry: for] I have learned by experience that the LORD hath blessed me for thy sake.
-<small><sub>**BSB:**</sub></small>
-But Laban replied, “If I have found favor in your eyes, please stay. I have learned by divination that the LORD has blessed me because of you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.26|<< Genesis 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.28|Genesis 30:28 >>]]</td></tr></table>
 
 | Translation | Greek |

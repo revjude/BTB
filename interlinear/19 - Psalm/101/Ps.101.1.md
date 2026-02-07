@@ -1,12 +1,12 @@
-**Psalms 101:1** 
+**Psalms 101:1**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. I will sing of mercy and judgment: unto thee, O LORD, will I sing.
+I will sing of mercy and judgment: unto thee, O LORD, will I sing.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. I will sing of Your loving devotion and justice; to You, O LORD, I will sing praises.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.0|<< Psalms 101:0]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.2|Psalms 101:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶֽסֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| che.sed-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and justice  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941H\|מִשְׁפָּ֥ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

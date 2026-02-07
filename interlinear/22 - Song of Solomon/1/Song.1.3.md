@@ -1,4 +1,4 @@
-**Song of Solomon 1:3** 
+**Song of Solomon 1:3**<big><big>[[Song.1.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the savour of thy good ointments thy name [is as] ointment poured forth, therefore do the virgins love thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fragrance of your perfume is pleasing; your name is like perfume poured out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.2|<< Song of Solomon 1:2]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.4|Song of Solomon 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to odor  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7381\|רֵ֙יחַ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oils your  |**<big>&#8207;[[H8081\|שְׁמָנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| she.ma.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

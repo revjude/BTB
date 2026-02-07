@@ -1,4 +1,4 @@
-**1 Samuel 25:36** 
+**1 Samuel 25:36**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart [was] merry within him, for he [was] very drunken: wherefore she told him nothing, less or more, until the morning light.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Abigail returned to Nabal, there he was in the house, holding a feast fit f
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.35|<< 1 Samuel 25:35]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.37|1 Samuel 25:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abigail  |**<big>&#8207;[[H0026G\|אֲבִיגַ֣יִל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

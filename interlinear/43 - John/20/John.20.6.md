@@ -1,12 +1,12 @@
-**John 20:6
-**<small><sub>**KJV:**</sub></small>
+**John 20:6**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,
 <small><sub>**BSB:**</sub></small>
 Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there.
 <small><sub>**Literal:**</sub></small>
 Comes then also Simon Peter following after him and he entered into the tomb and sees the linen cloths lying [there]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.5|<< John 20:5]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.7|John 20:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Comes |**<big>[[G2064\|Ἔρχεται]]</big>**  |Erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

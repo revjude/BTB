@@ -1,10 +1,7 @@
 **LXX Numbers 15:22** 
 <small><sub>**LXX:**</sub></small>
 And whenever you should miss entirely, and should not observe all  these commandments which \[the\] <span class="smallcaps">lord</span> spoke to Moses; 
-<small><sub>**KJV:**</sub></small>
-And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,
-<small><sub>**BSB:**</sub></small>
-Now if you stray unintentionally and do not obey all these commandments that the LORD has spoken to Moses—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.21|<< Numbers 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.23|Numbers 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

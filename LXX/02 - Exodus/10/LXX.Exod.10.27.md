@@ -1,10 +1,7 @@
 **LXX Exodus 10:27** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] <span class="smallcaps">lord</span> hardened the heart of Pharaoh, and he did not want to send them. 
-<small><sub>**KJV:**</sub></small>
-But the LORD hardened Pharaoh’s heart, and he would not let them go.
-<small><sub>**BSB:**</sub></small>
-But the LORD hardened Pharaoh’s heart, and he was unwilling to let them go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.26|<< Exodus 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.28|Exodus 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

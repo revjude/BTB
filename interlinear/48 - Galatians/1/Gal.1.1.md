@@ -1,12 +1,12 @@
-**Galatians 1:1
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:1**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead—
 <small><sub>**Literal:**</sub></small>
 Paul an apostle not from men nor through man but through Jesus Christ and God [the] Father the [One who] having raised Him out from [the] dead —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.13|<< 2 Corinthians 13:13]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.2|Galatians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

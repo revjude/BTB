@@ -1,4 +1,4 @@
-**Ezra 5:14** 
+**Ezra 5:14**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also removed from the temple of Babylon the gold and silver articles belongin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.13|<< Ezra 5:13]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.15|Ezra 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0638\|אַף]]&#8207; </big>**| Ve.<small><sup>[[AC]]</sup></small> 'af<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vessels the  |**<big>&#8207;[[H3984\|מָאנַיָּ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ma.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

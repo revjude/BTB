@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:63** 
 <small><sub>**LXX:**</sub></small>
 And from the priests; sons of Habaiah, sons of Koz, sons of Barzillai, which took of \[the\] daughters of Barzillai the Gileadite \[for\] wife, and was called by their name. 
-<small><sub>**KJV:**</sub></small>
-And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took [one] of the daughters of Barzillai the Gileadite to wife, and was called after their name.
-<small><sub>**BSB:**</sub></small>
-And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.62|<< Nehemiah 7:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.64|Nehemiah 7:64 >>]]</td></tr></table>
 
 | Translation | Greek |

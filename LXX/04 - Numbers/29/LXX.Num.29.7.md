@@ -1,10 +1,7 @@
 **LXX Numbers 29:7** 
 <small><sub>**LXX:**</sub></small>
 And the tenth  of this month there shall be a holy summoning to you. And you shall afflict  your souls, and all work you shall not do. 
-<small><sub>**KJV:**</sub></small>
-And ye shall have on the tenth [day] of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work [therein]:
-<small><sub>**BSB:**</sub></small>
-On the tenth day of this seventh month, you are to hold a sacred assembly, and you shall humble yourselves; you must not do any work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.6|<< Numbers 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.8|Numbers 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

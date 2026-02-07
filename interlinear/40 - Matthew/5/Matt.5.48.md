@@ -1,5 +1,5 @@
-**Matthew 5:48
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:48**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye therefore perfect, even as your Father which is in heaven is perfect.
 <small><sub>**BSB:**</sub></small>
 Be perfect, therefore, as your heavenly Father is perfect.
@@ -10,7 +10,7 @@ Will be therefore you yourselves perfect how the Father of you who Heavenly perf
 > $\quad$ referencing: [[LXX.Gen.17.1|Gen 17:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will be |**<big>[[G1510\|ἔσεσθε]]</big>**  |esesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

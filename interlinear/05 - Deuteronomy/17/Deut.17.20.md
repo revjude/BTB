@@ -1,4 +1,4 @@
-**Deuteronomy 17:20** 
+**Deuteronomy 17:20**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, [to] the right hand, or [to] the left: to the end that he may prolong [his] days in his kingdom, he, and his children, in the midst of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then his heart will not be exalted above his countrymen, and he will not turn as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.19|<< Deuteronomy 17:19]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.1|Deuteronomy 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1115\|בִלְתִּ֤י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to be high  |**<big>&#8207;[[H7311A\|רוּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rum-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

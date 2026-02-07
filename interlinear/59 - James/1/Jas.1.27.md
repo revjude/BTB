@@ -1,12 +1,12 @@
-**James 1:27
-**<small><sub>**KJV:**</sub></small>
+**James 1:27**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, [and] to keep himself unspotted from the world.
 <small><sub>**BSB:**</sub></small>
 Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world.
 <small><sub>**Literal:**</sub></small>
 Religion pure and undefiled before the God and Father this is, to visit orphans and widows in the tribulation of them, unstained oneself to keep from the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.26|<< James 1:26]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.1|James 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Religion |**<big>[[G2356\|θρησκεία]]</big>**  |thrēskeia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | pure |**<big>[[G2513\|καθαρὰ]]</big>**  |kathara <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

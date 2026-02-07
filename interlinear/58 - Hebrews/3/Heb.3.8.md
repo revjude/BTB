@@ -1,5 +1,5 @@
-**Hebrews 3:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:8**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:
 <small><sub>**BSB:**</sub></small>
 do not harden your hearts, as you did in the rebellion, in the day of testing in the wilderness,
@@ -10,7 +10,7 @@ not shall harden the hearts of you as in the rebellion in the day <the> of testi
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shall harden |**<big>[[G4645\|σκληρύνητε]]</big>**  |sklērunēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

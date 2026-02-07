@@ -1,4 +1,4 @@
-**Jeremiah 41:16** 
+**Jeremiah 41:16**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took Johanan the son of Kareah, and all the captains of the forces that [were] with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after [that] he had slain Gedaliah the son of Ahikam, [even] mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Johanan son of Kareah and all the commanders of the armies with him took th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.15|<< Jeremiah 41:15]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.17|Jeremiah 41:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Johanan  |**<big>&#8207;[[H3110G\|יוֹחָנָ֨ן]]&#8207; </big>**| yo.cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

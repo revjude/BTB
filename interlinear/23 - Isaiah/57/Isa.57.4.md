@@ -1,4 +1,4 @@
-**Isaiah 57:4** 
+**Isaiah 57:4**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against whom do ye sport yourselves? against whom make ye a wide mouth, [and] draw out the tongue? [are] ye not children of transgression, a seed of falsehood,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whom are you mocking? At whom do you sneer and stick out your tongue? Are you no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.3|<< Isaiah 57:3]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.5|Isaiah 57:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom?  |**<big>&#8207;[[H4310\|מִי֙]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

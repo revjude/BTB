@@ -1,10 +1,7 @@
 **LXX Numbers 18:12** 
 <small><sub>**LXX:**</sub></small>
 Every first-fruit of olive oil, and every first-fruit of wine, and of their first-fruit of grain, as many \[things\] as they should give to the <span class="smallcaps">lord</span>, to you I have given them. 
-<small><sub>**KJV:**</sub></small>
-All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee.
-<small><sub>**BSB:**</sub></small>
-I give you all the freshest olive oil and all the finest new wine and grain that the Israelites give to the LORD as their firstfruits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.11|<< Numbers 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.13|Numbers 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

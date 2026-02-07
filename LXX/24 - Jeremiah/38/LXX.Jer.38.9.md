@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:9** 
 <small><sub>**LXX:**</sub></small>
 My master, O King, all these men did wickedly in which they did against  Jeremiah the prophet, dropping him into the pit, that he should die in it from \[the\] face  of hunger, for there are no longer bread loaves in the city. 
-<small><sub>**KJV:**</sub></small>
-My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for [there is] no more bread in the city.
-<small><sub>**BSB:**</sub></small>
-“My lord the king, these men have acted wickedly in all that they have done to Jeremiah the prophet. They have dropped him into the cistern, where he will starve to death, for there is no more bread in the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.8|<< Jeremiah 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.10|Jeremiah 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

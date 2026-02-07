@@ -1,4 +1,4 @@
-**Ezekiel 18:22** 
+**Ezekiel 18:22**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ None of the transgressions he has committed will be held against him. Because of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.21|<< Ezekiel 18:21]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.23|Ezekiel 18:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgressions his  |**<big>&#8207;[[H6588\|פְּשָׁעָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| pe.sha.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

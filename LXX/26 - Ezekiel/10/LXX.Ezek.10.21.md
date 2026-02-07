@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:21** 
 <small><sub>**LXX:**</sub></small>
 Four faces to the one, and four wings to the one; and having a likeness of hands of men from beneath  their wings, 
-<small><sub>**KJV:**</sub></small>
-Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man [was] under their wings.
-<small><sub>**BSB:**</sub></small>
-Each had four faces and four wings, with what looked like human hands under their wings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.20|<< Ezekiel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.22|Ezekiel 10:22 >>]]</td></tr></table>
 
 | Translation | Greek |

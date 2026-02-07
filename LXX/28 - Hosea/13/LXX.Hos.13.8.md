@@ -1,10 +1,7 @@
 **LXX Hosea 13:8** 
 <small><sub>**LXX:**</sub></small>
 I will meet them as a bear  being perplexed, and I will tear up \[the\] enclosure of their heart; and \[the\] cubs of \[the\] forest shall devour them there; and wild beasts of \[the\] field shall pull them apart. 
-<small><sub>**KJV:**</sub></small>
-I will meet them as a bear [that is] bereaved [of her whelps], and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.
-<small><sub>**BSB:**</sub></small>
-Like a bear robbed of her cubs I will attack them, and I will tear open their chests. There I will devour them like a lion, like a wild beast tearing them apart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.7|<< Hosea 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.9|Hosea 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

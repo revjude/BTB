@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:13** 
 <small><sub>**LXX:**</sub></small>
 This one was with David in Pas-dammin, and the Philistines were gathered together there for war, and \[there\] was a portion  of a field full of barley, and the people fled from \[the\] face of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-He was with David at Pasdammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.
-<small><sub>**BSB:**</sub></small>
-He was with David at Pas-dammim when the Philistines gathered there for battle. At a place with a field full of barley, the troops fled from the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.12|<< 1 Chronicles 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.14|1 Chronicles 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

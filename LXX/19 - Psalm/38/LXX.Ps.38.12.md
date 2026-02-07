@@ -1,10 +1,7 @@
 **LXX Psalm 38:12** 
 <small><sub>**LXX:**</sub></small>
 And the ones seeking my life expelled \[me\]; and the ones seeking  bad \[things\] for me spoke follies; and they meditated on deceits \[the\] entire day. 
-<small><sub>**KJV:**</sub></small>
-They also that seek after my life lay snares [for me]: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.
-<small><sub>**BSB:**</sub></small>
-Those who seek my life lay snares; those who wish me harm speak destruction, plotting deceit all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.11|<< Psalm 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.13|Psalm 38:13 >>]]</td></tr></table>
 
 | Translation | Greek |

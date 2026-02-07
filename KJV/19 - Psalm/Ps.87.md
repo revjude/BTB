@@ -1,6 +1,6 @@
 (KJV) **Psalm 87**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86|<< Psalm 86]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88|Psalm 88 >>]]</td></tr></table>
 
-***The LORD Loves the Gates of Zion*** ^bsb1380
+<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥃]]</big></big>***The LORD Loves the Gates of Zion***
 
 
 

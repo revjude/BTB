@@ -1,4 +1,4 @@
-**Ezekiel 4:4** 
+**Ezekiel 4:4**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: [according] to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then lie down on your left side and place the iniquity of the house of Israel up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.3|<< Ezekiel 4:3]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.5|Ezekiel 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lie down  |**<big>&#8207;[[H7901G\|שְׁכַב֙]]&#8207; </big>**| she.Khav<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

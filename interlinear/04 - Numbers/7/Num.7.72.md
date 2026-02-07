@@ -1,4 +1,4 @@
-**Numbers 7:72** 
+**Numbers 7:72**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, [offered]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the eleventh day Pagiel son of Ocran, the leader of the Asherites, drew near.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.72|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.71|<< Numbers 7:71]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.73|Numbers 7:73 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] one [plus]  |**<big>&#8207;[[H6249\|עַשְׁתֵּ֣י]]&#8207; </big>**| 'ash.Tei<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

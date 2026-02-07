@@ -1,10 +1,7 @@
 **LXX Psalm 49:14** 
 <small><sub>**LXX:**</sub></small>
 They placed \[them\] as sheep in Hades; death tends them; and the upright shall dominate them in the morning; and  their help shall grow old in  Hades; they were banished from their glory. 
-<small><sub>**KJV:**</sub></small>
-Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.
-<small><sub>**BSB:**</sub></small>
-Like sheep they are destined for Sheol. Death will be their shepherd. The upright will rule them in the morning, and their form will decay in Sheol, far from their lofty abode.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.13|<< Psalm 49:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.15|Psalm 49:15 >>]]</td></tr></table>
 
 | Translation | Greek |

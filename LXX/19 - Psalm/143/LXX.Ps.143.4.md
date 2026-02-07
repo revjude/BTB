@@ -1,10 +1,7 @@
 **LXX Psalm 143:4** 
 <small><sub>**LXX:**</sub></small>
 And my spirit was discouraged within me; my heart was disturbed within me. 
-<small><sub>**KJV:**</sub></small>
-Therefore is my spirit overwhelmed within me; my heart within me is desolate.
-<small><sub>**BSB:**</sub></small>
-My spirit grows faint within me; my heart is dismayed inside me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.3|<< Psalm 143:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.5|Psalm 143:5 >>]]</td></tr></table>
 
 | Translation | Greek |

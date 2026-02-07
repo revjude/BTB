@@ -1,4 +1,4 @@
-**Leviticus 23:38** 
+**Leviticus 23:38**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These offerings are in addition to the offerings for the LORD’s Sabbaths, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.37|<< Leviticus 23:37]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.39|Leviticus 23:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַ֖ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sabbaths of  |**<big>&#8207;[[H7676\|שַׁבְּתֹ֣ת]]&#8207; </big>**| sha.be.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

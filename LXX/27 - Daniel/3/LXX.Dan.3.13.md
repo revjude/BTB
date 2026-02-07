@@ -1,10 +1,7 @@
 **LXX Daniel 3:13** 
 <small><sub>**LXX:**</sub></small>
 Then Nebuchadnezzar in rage and anger said to lead \[in\]  Shadrach, Meshach, and Abed-nego. And they led \[them\] before the king. 
-<small><sub>**KJV:**</sub></small>
-Then Nebuchadnezzar in [his] rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.
-<small><sub>**BSB:**</sub></small>
-Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.12|<< Daniel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.14|Daniel 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

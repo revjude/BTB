@@ -1,10 +1,7 @@
 **LXX Exodus 15:7** 
 <small><sub>**LXX:**</sub></small>
 And in the magnitude  of your glory you broke the opponents. You sent  your anger, and it devoured them as stubble. 
-<small><sub>**KJV:**</sub></small>
-And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, [which] consumed them as stubble.
-<small><sub>**BSB:**</sub></small>
-You overthrew Your adversaries by Your great majesty. You unleashed Your burning wrath; it consumed them like stubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.6|<< Exodus 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.8|Exodus 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

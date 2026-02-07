@@ -1,10 +1,7 @@
 **LXX Psalm 18:23** 
 <small><sub>**LXX:**</sub></small>
 And I will be unblemished with him; and I shall guard myself from  my lawlessness. 
-<small><sub>**KJV:**</sub></small>
-I was also upright before him, and I kept myself from mine iniquity.
-<small><sub>**BSB:**</sub></small>
-And I have been blameless before Him and kept myself from iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.22|<< Psalm 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.24|Psalm 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

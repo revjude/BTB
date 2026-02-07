@@ -1,4 +1,4 @@
-**Jeremiah 40:5** 
+**Jeremiah 40:5**<big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now while he was not yet gone back, [he said], Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto thee to go. So the captain of the guard gave him victuals and a reward, and let him go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.4|<< Jeremiah 40:4]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.6|Jeremiah 40:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and still he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|עוֹדֶ֣]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

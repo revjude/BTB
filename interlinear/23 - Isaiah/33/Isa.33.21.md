@@ -1,4 +1,4 @@
-**Isaiah 33:21** 
+**Isaiah 33:21**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there the glorious LORD [will be] unto us a place of broad rivers [and] streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there the Majestic One, our LORD, will be for us a place of rivers and wide 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.20|<< Isaiah 33:20]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.22|Isaiah 33:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

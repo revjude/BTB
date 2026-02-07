@@ -1,10 +1,7 @@
 **LXX Ezra 10:2** 
 <small><sub>**LXX:**</sub></small>
 And answered one Shechaniah son of Jehiel, from \[the\] sons of Elam, and said  to Ezra, We broke contract \[with\] our God, and settled with alien wives from the peoples of the land. And now there is hope to Israel for this \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-And Shechaniah the son of Jehiel, [one] of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.
-<small><sub>**BSB:**</sub></small>
-Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.1|<< Ezra 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.3|Ezra 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

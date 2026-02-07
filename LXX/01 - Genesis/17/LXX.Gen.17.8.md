@@ -1,10 +1,7 @@
 **LXX Genesis 17:8** 
 <small><sub>**LXX:**</sub></small>
 And I will give to you and to your seed after you the land which you sojourn, all the land of Canaan for an eternal possession. And I myself will be to them for God. 
-<small><sub>**KJV:**</sub></small>
-And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God.
-<small><sub>**BSB:**</sub></small>
-And to you and your descendants I will give the land where you are residing—all the land of Canaan—as an eternal possession; and I will be their God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.7|<< Genesis 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.9|Genesis 17:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 17:8** is...

@@ -1,10 +1,7 @@
 **LXX Exodus 34:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Write to yourself  these words! for upon  these words I have established to you a covenant, and \[to\] Israel. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.
-<small><sub>**BSB:**</sub></small>
-The LORD also said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.26|<< Exodus 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.28|Exodus 34:28 >>]]</td></tr></table>
 
 | Translation | Greek |

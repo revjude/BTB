@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:31** 
 <small><sub>**LXX:**</sub></small>
 And they took also for themselves lots as  their brethren \[the\] sons of Aaron before  David the king -- even Zadok, and Ahimelech, and the rulers of the families of the priests, and the Levites, patriarchs Araab as  his younger brethren. 
-<small><sub>**KJV:**</sub></small>
-These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
-<small><sub>**BSB:**</sub></small>
-As their brothers the descendants of Aaron did, they also cast lots in the presence of King David and of Zadok, Ahimelech, and the heads of the families of the priests and Levites—the family heads and their younger brothers alike.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.30|<< 1 Chronicles 24:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.1|1 Chronicles 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

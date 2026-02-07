@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall take silver and gold, and you shall make crowns, and you shall place upon the head of Joshua the \[son of\] Josedech the great priest. 
-<small><sub>**KJV:**</sub></small>
-Then take silver and gold, and make crowns, and set [them] upon the head of Joshua the son of Josedech, the high priest;
-<small><sub>**BSB:**</sub></small>
-Take silver and gold, make an ornate crown, and set it on the head of the high priest, Joshua son of Jehozadak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.10|<< Zechariah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.12|Zechariah 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

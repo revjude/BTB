@@ -1,10 +1,7 @@
 **LXX Ezra 1:10** 
 <small><sub>**LXX:**</sub></small>
 and double \[items\] made of silver -- four hundred and ten, and other items -- a thousand. 
-<small><sub>**KJV:**</sub></small>
-Thirty basons of gold, silver basons of a second [sort] four hundred and ten, [and] other vessels a thousand.
-<small><sub>**BSB:**</sub></small>
-30 gold bowls, 410 matching silver bowls, and 1,000 other articles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.9|<< Ezra 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.11|Ezra 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

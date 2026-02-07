@@ -1,12 +1,12 @@
-**Luke 22:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:24**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was also a strife among them, which of them should be accounted the greatest.
 <small><sub>**BSB:**</sub></small>
 A dispute also arose among the disciples as to which of them should be considered the greatest.
 <small><sub>**Literal:**</sub></small>
 There was then also a dispute among them, <the> which of them is thought to be [the] greatest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.23|<< Luke 22:23]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.25|Luke 22:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

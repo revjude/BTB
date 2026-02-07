@@ -1,4 +1,4 @@
-**Isaiah 2:5** 
+**Isaiah 2:5**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of Jacob, come ye, and let us walk in the light of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, O house of Jacob, let us walk in the light of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.4|<< Isaiah 2:4]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.6|Isaiah 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֖ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֑ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

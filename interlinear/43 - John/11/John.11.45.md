@@ -1,12 +1,12 @@
-**John 11:45
-**<small><sub>**KJV:**</sub></small>
+**John 11:45**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
 <small><sub>**BSB:**</sub></small>
 Therefore many of the Jews who had come to Mary, and had seen what Jesus did, believed in Him.
 <small><sub>**Literal:**</sub></small>
 Many therefore of the Jews <the> having come to <the> Mary and having seen what things He did <the> Jesus believed in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.44|<< John 11:44]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.46|John 11:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|Πολλοὶ]]</big>**  |Polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

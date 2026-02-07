@@ -1,4 +1,4 @@
-**Isaiah 21:4** 
+**Isaiah 21:4**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My heart falters; fear makes me tremble. The twilight I desired has turned to ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.3|<< Isaiah 21:3]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.5|Isaiah 21:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has wandered  |**<big>&#8207;[[H8582\|תָּעָ֣ה]]&#8207; </big>**| ta.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart my  |**<big>&#8207;[[H3824\|לְבָבִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.va.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

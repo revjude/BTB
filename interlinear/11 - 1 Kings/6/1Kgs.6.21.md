@@ -1,4 +1,4 @@
-**1 Kings 6:21** 
+**1 Kings 6:21**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Solomon overlaid the inside of the temple with pure gold, and he extended gol
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.20|<< 1 Kings 6:20]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.22|1 Kings 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he overlaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6823\|יְצַ֨ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzaf<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֧ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

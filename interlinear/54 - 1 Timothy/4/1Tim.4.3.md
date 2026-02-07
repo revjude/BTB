@@ -1,12 +1,12 @@
-**1 Timothy 4:3
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:3**<big><big>[[1Tim.4.1 A Warning against Apostasy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forbidding to marry, [and commanding] to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
 <small><sub>**BSB:**</sub></small>
 They will prohibit marriage and require abstinence from certain foods that God has created to be received with thanksgiving by those who believe and know the truth.
 <small><sub>**Literal:**</sub></small>
 forbidding to marry, [commanding] to abstain from foods that <the> God created for reception with thanksgiving by the faithful and by [those] already knowing the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.2|<< 1 Timothy 4:2]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.4|1 Timothy 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | forbidding |**<big>[[G2967\|κωλυόντων]]</big>**  |kōluontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to marry, |**<big>[[G1060\|γαμεῖν,]]</big>**  |gamein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

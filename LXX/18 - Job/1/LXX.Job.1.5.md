@@ -1,10 +1,7 @@
 **LXX Job 1:5** 
 <small><sub>**LXX:**</sub></small>
 And whenever they completed the days of the banquet, Job sent and purified them, rising up in the morning, and offering for them a sacrifice according to  their number. For Job said, Lest at any time my sons sinned and raved against God with their heart. Thus then Job did all the days. 
-<small><sub>**KJV:**</sub></small>
-And it was so, when the days of [their] feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings [according] to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
-<small><sub>**BSB:**</sub></small>
-And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.4|<< Job 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.6|Job 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

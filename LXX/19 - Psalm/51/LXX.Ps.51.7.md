@@ -1,10 +1,7 @@
 **LXX Psalm 51:7** 
 <small><sub>**LXX:**</sub></small>
 You shall sprinkle me \[with\] hyssop, and I shall be cleansed; you shall wash me and I shall be whitened above snow. 
-<small><sub>**KJV:**</sub></small>
-Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
-<small><sub>**BSB:**</sub></small>
-Purify me with hyssop, and I will be clean; wash me, and I will be whiter than snow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.51.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.6|<< Psalm 51:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.8|Psalm 51:8 >>]]</td></tr></table>
 
 | Translation | Greek |

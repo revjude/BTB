@@ -1,10 +1,7 @@
 **LXX Isaiah 46:9** 
 <small><sub>**LXX:**</sub></small>
 Remember the \[things\] prior from the eon! For I am  God, and there is no other besides me; 
-<small><sub>**KJV:**</sub></small>
-Remember the former things of old: for I [am] God, and [there is] none else; [I am] God, and [there is] none like me,
-<small><sub>**BSB:**</sub></small>
-Remember what happened long ago, for I am God, and there is no other; I am God, and there is none like Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.8|<< Isaiah 46:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.10|Isaiah 46:10 >>]]</td></tr></table>
 
 | Translation | Greek |

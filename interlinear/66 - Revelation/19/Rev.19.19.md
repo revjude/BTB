@@ -1,5 +1,5 @@
-**Revelation 19:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:19**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
 <small><sub>**BSB:**</sub></small>
 Then I saw the beast and the kings of the earth with their armies assembled to wage war against the One seated on the horse, and against His army.
@@ -10,7 +10,7 @@ And I saw the beast and the kings of the earth and the armies of them gathered t
 > $\quad$ alluding to: [[LXX.Ps.2.2|Ps 2:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

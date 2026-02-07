@@ -1,4 +1,4 @@
-**Proverbs 27:7** 
+**Proverbs 27:7**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The soul that is full loathes honey, but to a hungry soul, any bitter thing is s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.6|<< Proverbs 27:6]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.8|Proverbs 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an appetite  |**<big>&#8207;[[H5315J\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | satisfied  |**<big>&#8207;[[H7649\|שְׂ֭בֵעָה]]&#8207; </big>**| Se.ve.'ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

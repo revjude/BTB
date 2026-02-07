@@ -1,5 +1,5 @@
-**Romans 10:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:20**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
 <small><sub>**BSB:**</sub></small>
 And Isaiah boldly says: “I was found by those who did not seek Me; I revealed Myself to those who did not ask for Me.”
@@ -10,7 +10,7 @@ Isaiah then is very bold and says: I was found by those Me myself not seeking, m
 > $\quad$ referencing: [[LXX.Isa.65.1|Isa 65:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Isaiah |**<big>[[G2268\|Ἠσαΐας]]</big>**  [^1] |Ēsaias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:18** 
 <small><sub>**LXX:**</sub></small>
  Jerusalem, and the cities of Judah, and \[the\] king of Judah, and his rulers --  to appoint them for desolation, and for an untrodden \[land\], and for a hissing, and for a curse as  this day; 
-<small><sub>**KJV:**</sub></small>
-[To wit], Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, to make them a desolation, an astonishment, an hissing, and a curse; as [it is] this day;
-<small><sub>**BSB:**</sub></small>
-to make them a ruin, an object of horror and contempt and cursing, as they are to this day—Jerusalem and the cities of Judah, its kings and officials;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.17|<< Jeremiah 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.19|Jeremiah 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

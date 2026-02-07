@@ -1,10 +1,7 @@
 **LXX Leviticus 10:5** 
 <small><sub>**LXX:**</sub></small>
 And they came forward, and lifted them by  their garments outside of the camp, in which manner Moses said. 
-<small><sub>**KJV:**</sub></small>
-So they went near, and carried them in their coats out of the camp; as Moses had said.
-<small><sub>**BSB:**</sub></small>
-So they came forward and carried them, still in their tunics, outside the camp, as Moses had directed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.4|<< Leviticus 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.6|Leviticus 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

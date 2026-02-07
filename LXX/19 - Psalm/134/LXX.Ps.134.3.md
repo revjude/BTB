@@ -1,10 +1,7 @@
 **LXX Psalm 134:3** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> bless you from out of Zion, the one making the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-The LORD that made heaven and earth bless thee out of Zion.
-<small><sub>**BSB:**</sub></small>
-May the LORD, the Maker of heaven and earth, bless you from Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.134.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.134.2|<< Psalm 134:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.1|Psalm 135:1 >>]]</td></tr></table>
 
 | Translation | Greek |

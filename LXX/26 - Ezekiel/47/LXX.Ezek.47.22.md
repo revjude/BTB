@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:22** 
 <small><sub>**LXX:**</sub></small>
 You shall cast it by lot to yourself, and to the foreigners  sojourning in your midst, whomever engendered sons in your midst. And they will be yours as native-born among the sons  of Israel; with you they shall eat by inheritance in \[the\] midst of the tribes  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-You shall allot it as an inheritance for yourselves and for the foreigners who dwell among you and who have children. You are to treat them as native-born Israelites; along with you, they shall be allotted an inheritance among the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.21|<< Ezekiel 47:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.23|Ezekiel 47:23 >>]]</td></tr></table>
 
 | Translation | Greek |

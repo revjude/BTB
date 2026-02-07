@@ -1,10 +1,7 @@
 **LXX Job 30:13** 
 <small><sub>**LXX:**</sub></small>
 they obliterated my paths; for he took off my  apparel; with his spear he ran me through; 
-<small><sub>**KJV:**</sub></small>
-They mar my path, they set forward my calamity, they have no helper.
-<small><sub>**BSB:**</sub></small>
-They tear up my path; they profit from my destruction, with no one to restrain them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.12|<< Job 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.14|Job 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

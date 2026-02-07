@@ -1,4 +1,4 @@
-**Daniel 8:12** 
+**Daniel 8:12**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And an host was given [him] against the daily [sacrifice] by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the rebellion, the host and the daily sacrifice were given over to the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.11|<< Daniel 8:11]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.13|Daniel 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and an army  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6635A\|צָבָ֛א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be set  |**<big>&#8207;[[H5414G\|תִּנָּתֵ֥ן]]&#8207; </big>**| ti.na.Ten<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

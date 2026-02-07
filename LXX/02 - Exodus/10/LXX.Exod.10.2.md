@@ -1,10 +1,7 @@
 **LXX Exodus 10:2** 
 <small><sub>**LXX:**</sub></small>
 that you may describe \[them\] into the ears  of your children, and to the children  of your children; as much as I mocked the Egyptians, and  my signs which I did among them. And you will know that \[it is\] I \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-and that you may tell your children and grandchildren how severely I dealt with the Egyptians when I performed miraculous signs among them, so that all of you may know that I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.1|<< Exodus 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.3|Exodus 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

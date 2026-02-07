@@ -1,12 +1,12 @@
-**Luke 9:58
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:58**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Foxes have holes, and birds of the air [have] nests; but the Son of man hath not where to lay [his] head.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
 <small><sub>**Literal:**</sub></small>
 And said to him <the> Jesus; The foxes holes have, and the birds of the air nests; <the> but the Son <the> of Man not has where the head He may lay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.57|<< Luke 9:57]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.59|Luke 9:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

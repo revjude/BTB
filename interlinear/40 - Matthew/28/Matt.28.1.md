@@ -1,12 +1,12 @@
-**Matthew 28:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:1**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the end of the sabbath, as it began to dawn toward the first [day] of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 <small><sub>**BSB:**</sub></small>
 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
 <small><sub>**Literal:**</sub></small>
 Late then of [the] Sabbaths when dawning toward [the] first [day] of [the] week came Mary <the> Magdalene and the other Mary to see the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.66|<< Matthew 27:66]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.2|Matthew 28:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Late |**<big>[[G3796\|Ὀψὲ]]</big>**  |Opse <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 29:40** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to the sons of Israel concerning all as many \[things\] as \[the\] <span class="smallcaps">lord</span> gave charge to Moses. 
-<small><sub>**KJV:**</sub></small>
-And Moses told the children of Israel according to all that the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-So Moses spoke all this to the Israelites just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.39|<< Numbers 29:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.1|Numbers 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

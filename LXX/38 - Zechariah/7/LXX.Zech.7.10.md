@@ -1,10 +1,7 @@
 **LXX Zechariah 7:10** 
 <small><sub>**LXX:**</sub></small>
 And tyrannize not \[the\] widow and orphan and foreigner and needy! and resent each not \[the\] hurt of his brother in  your hearts! 
-<small><sub>**KJV:**</sub></small>
-And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
-<small><sub>**BSB:**</sub></small>
-Do not oppress the widow or the fatherless, the foreigner or the poor. And do not plot evil in your hearts against one another.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.9|<< Zechariah 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.11|Zechariah 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

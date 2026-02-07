@@ -1,5 +1,5 @@
-**Luke 11:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:50**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
 <small><sub>**BSB:**</sub></small>
 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,
@@ -11,7 +11,7 @@ so that may be charged the blood of all the prophets which poured out from [the]
 > $\quad$ alluding to: [[LXX.Ezek.34.8|Ezek 34:8-10]] ☩ [[LXX.Zech.11.7|Zech 11:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be charged |**<big>[[G1567\|ἐκζητηθῇ]]</big>**  |ekzētēthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

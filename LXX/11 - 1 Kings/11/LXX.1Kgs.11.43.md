@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:43** 
 <small><sub>**LXX:**</sub></small>
 And Solomon slept with  his fathers, and they entombed him in \[the\] city of David  his father. And Rehoboam his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.42|<< 1 Kings 11:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.1|1 Kings 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

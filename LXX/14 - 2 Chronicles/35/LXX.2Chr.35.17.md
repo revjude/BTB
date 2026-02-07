@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:17** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel being found \[present\] observed the passover at  that time, and the holiday of the unleavened \[breads\] seven days. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.
-<small><sub>**BSB:**</sub></small>
-The Israelites who were present also observed the Passover at that time, as well as the Feast of Unleavened Bread for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.16|<< 2 Chronicles 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.18|2 Chronicles 35:18 >>]]</td></tr></table>
 
 | Translation | Greek |

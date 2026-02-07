@@ -1,10 +1,7 @@
 **LXX Genesis 20:8** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech rose early in the morning, and he called all  his servants. And he spoke all  these words into  their ears. And all the men feared exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.
-<small><sub>**BSB:**</sub></small>
-Early the next morning Abimelech got up and summoned all his servants; and when he described to them all that had happened, the men were terrified.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.7|<< Genesis 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.9|Genesis 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

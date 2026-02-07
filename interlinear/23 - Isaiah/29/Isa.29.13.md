@@ -1,4 +1,4 @@
-**Isaiah 29:13** 
+**Isaiah 29:13**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the Lord said, Forasmuch as this people draw near [me] with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore the Lord said: “These people draw near to Me with their mouths and h
 > $\quad$ referenced by: [[Matt.15.8|Matt 15:8-9]] ☩ [[Mark.7.6|Mark 7:6-7]] ☩ [[Col.2.22|Col 2:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֗י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

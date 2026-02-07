@@ -1,6 +1,6 @@
 (KJV) **1 Samuel 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21|<< 1 Samuel 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23|1 Samuel 23 >>]]</td></tr></table>
 
-***David Flees to Adullam and Mizpeh***&emsp;<small><sup>\[ [[Ps.57|Psalms 57:1–11]] <big>†</big> [[Ps.142|Psalms 142:1–7]] ]</sup></small> ^bsb704
+<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥃]]</big></big>***David Flees to Adullam and Mizpeh***&emsp;<small><sup>\[ [[Ps.57|Psalms 57:1–11]] <big>†</big> [[Ps.142|Psalms 142:1–7]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.22.1|1]]**<span class="endversemarker">]</span> David<small><small>[^2]</small></small> therefore departed thence, and escaped to the cave<small><small>[^3]</small></small> Adullam<small><small>[^4]</small></small>: and when his brethren and all his father’s house heard \[it\], they went down thither to him. <span class="startversemarker">[</span>**[[1Sam.22.2|2]]**<span class="endversemarker">]</span> And every one \[that was\] in distress<small><small>[^5]</small></small>, and every one that \[was\] in debt<small><small>[^6]</small></small>, and every one \[that was\] discontented<small><small>[^7]</small></small>, gathered themselves unto him; and he became a captain<small><small>[^8]</small></small> over them: and there were with him about four hundred men. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.22.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.22.5|5]]**<span class="endversemarker">]</span> [¶]And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.
 
-***Saul Slays the Priests of Nob***&emsp;<small><sup>\[ [[Ps.52|Psalms 52:1–9]] ]</sup></small> ^bsb705
+<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥃]]</big></big>***Saul Slays the Priests of Nob***&emsp;<small><sup>\[ [[Ps.52|Psalms 52:1–9]] ]</sup></small>
 
  
 

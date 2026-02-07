@@ -1,4 +1,4 @@
-**Joshua 24:15** 
+**Joshua 24:15**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that [were] on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if it is unpleasing in your sight to serve the LORD, then choose for yoursel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.14|<< Joshua 24:14]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.16|Joshua 24:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | is displeasing  |**<big>&#8207;[[H7489A\|רַ֨ע]]&#8207; </big>**| ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

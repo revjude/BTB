@@ -1,4 +1,4 @@
-**Proverbs 25:4** 
+**Proverbs 25:4**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take away the dross from the silver, and there shall come forth a vessel for the finer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remove the dross from the silver, and a vessel for a silversmith will come forth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.3|<< Proverbs 25:3]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.5|Proverbs 25:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remove  |**<big>&#8207;[[H1898\|הָג֣וֹ]]&#8207; </big>**| ha.Go<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dross\<es>  |**<big>&#8207;[[H5509\|סִיגִ֣ים]]&#8207; </big>**| si.Gim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

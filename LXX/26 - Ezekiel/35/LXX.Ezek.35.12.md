@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall know that I am \[the\] <span class="smallcaps">lord</span>. I heard the voice  of your blasphemies. That you said, The wilderness mountains of Israel have been given to us for a thing \[to be\] devoured. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt know that I [am] the LORD, [and that] I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I, the LORD, have heard every contemptuous word you uttered against the mountains of Israel when you said, ‘They are desolate; they are given to us to devour!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.11|<< Ezekiel 35:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.13|Ezekiel 35:13 >>]]</td></tr></table>
 
 | Translation | Greek |

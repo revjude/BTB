@@ -1,10 +1,7 @@
 **LXX Psalm 18:44** 
 <small><sub>**LXX:**</sub></small>
 in \[the\] hearing of \[the\] ear they obeyed me. Alien sons lied to me. 
-<small><sub>**KJV:**</sub></small>
-As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.
-<small><sub>**BSB:**</sub></small>
-When they hear me, they obey me; foreigners cower before me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.43|<< Psalm 18:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.45|Psalm 18:45 >>]]</td></tr></table>
 
 | Translation | Greek |

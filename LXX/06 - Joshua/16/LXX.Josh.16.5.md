@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] borders of \[the\] sons of Ephraim were according to their peoples; and the borders of their inheritance were from \[the\] east -- Ataroth Addar unto Beth-horon the upper. 
-<small><sub>**KJV:**</sub></small>
-And the border of the children of Ephraim according to their families was [thus]: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;
-<small><sub>**BSB:**</sub></small>
-This was the territory of the descendants of Ephraim by their clans: The border of their inheritance went from Ataroth-addar in the east to Upper Beth-horon<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.4|<< Joshua 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.6|Joshua 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

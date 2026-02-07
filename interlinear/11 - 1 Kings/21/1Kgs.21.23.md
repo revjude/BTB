@@ -1,4 +1,4 @@
-**1 Kings 21:23** 
+**1 Kings 21:23**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD also speaks concerning Jezebel: ‘The dogs will devour Jezebel by 
 > $\quad$ referenced by: [[Rev.2.20|Rev 2:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֨ם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Jezebel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0348\|אִיזֶ֔בֶל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 6:20** 
+**Numbers 6:20**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall wave them [for] a wave offering before the LORD: this [is] holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest shall then wave them as a wave offering before the LORD. This is a ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.19|<< Numbers 6:19]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.21|Numbers 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5130B\|הֵנִיף֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Nif<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ֨]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

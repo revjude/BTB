@@ -1,4 +1,4 @@
-**Judges 6:9** 
+**Judges 6:9**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I delivered you out of the hands of Egypt and all your oppressors. I drove them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.8|<< Judges 6:8]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.10|Judges 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I delivered  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5337\|אַצִּ֤ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Tzil<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

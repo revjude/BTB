@@ -1,10 +1,7 @@
 **LXX Joshua 15:17** 
 <small><sub>**LXX:**</sub></small>
 And Othniel son of Kenaz the younger brother of Caleb took it. And he gave to him Achsah his daughter to him for a wife. 
-<small><sub>**KJV:**</sub></small>
-And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
-<small><sub>**BSB:**</sub></small>
-So Othniel son of Caleb’s brother Kenaz captured the city, and Caleb gave his daughter Acsah to him in marriage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.16|<< Joshua 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.18|Joshua 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

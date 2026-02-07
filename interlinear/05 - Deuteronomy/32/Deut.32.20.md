@@ -1,4 +1,4 @@
-**Deuteronomy 32:20** 
+**Deuteronomy 32:20**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I will hide my face from them, I will see what their end [shall be]: for they [are] a very froward generation, children in whom [is] no faith.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He said: “I will hide My face from them; I will see what will be their end. Fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.19|<< Deuteronomy 32:19]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.21|Deuteronomy 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will hide  |**<big>&#8207;[[H5641\|אַסְתִּ֤ירָה]]&#8207; </big>**| 'as.Ti.rah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

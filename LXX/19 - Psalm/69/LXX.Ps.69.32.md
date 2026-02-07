@@ -1,10 +1,7 @@
 **LXX Psalm 69:32** 
 <small><sub>**LXX:**</sub></small>
 \[the\] poor see and let them be glad! Inquire  of God! and your soul shall live. 
-<small><sub>**KJV:**</sub></small>
-The humble shall see [this, and] be glad: and your heart shall live that seek God.
-<small><sub>**BSB:**</sub></small>
-The humble will see and rejoice. You who seek God, let your hearts be revived!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.31|<< Psalm 69:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.33|Psalm 69:33 >>]]</td></tr></table>
 
 | Translation | Greek |

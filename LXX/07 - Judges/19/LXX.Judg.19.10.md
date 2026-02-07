@@ -1,10 +1,7 @@
 **LXX Judges 19:10** 
 <small><sub>**LXX:**</sub></small>
 And the man did not want to lodge. And he rose up and went forth and came unto before Jebus, this is Jerusalem, and with him \[were\] a pair of beasts of burden being saddled, and  his concubine with him. 
-<small><sub>**KJV:**</sub></small>
-But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which [is] Jerusalem; and [there were] with him two asses saddled, his concubine also [was] with him.
-<small><sub>**BSB:**</sub></small>
-But the man was unwilling to spend the night. He got up and departed, and arrived opposite Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.9|<< Judges 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.11|Judges 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

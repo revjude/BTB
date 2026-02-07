@@ -1,4 +1,4 @@
-**Jeremiah 7:19** 
+**Jeremiah 7:19**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do they provoke me to anger? saith the LORD: [do they] not [provoke] themselves to the confusion of their own faces?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But am I the One they are provoking? declares the LORD. Is it not themselves the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.18|<< Jeremiah 7:18]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.20|Jeremiah 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ \<obj.> me  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0853\|אֹתִ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] they  |**<big>&#8207;[[H1992\|הֵ֥ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

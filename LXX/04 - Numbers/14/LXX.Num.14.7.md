@@ -1,10 +1,7 @@
 **LXX Numbers 14:7** 
 <small><sub>**LXX:**</sub></small>
 And they said to all \[the\] congregation of \[the\] sons of Israel, saying, The land which we surveyed it, it is good exceedingly exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, [is] an exceeding good land.
-<small><sub>**BSB:**</sub></small>
-and said to the whole congregation of Israel, “The land we passed through and explored is an exceedingly good land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.6|<< Numbers 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.8|Numbers 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

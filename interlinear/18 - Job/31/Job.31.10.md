@@ -1,4 +1,4 @@
-**Job 31:10** 
+**Job 31:10**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] let my wife grind unto another, and let others bow down upon her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may my own wife grind grain for another, and may other men sleep with her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.9|<< Job 31:9]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.11|Job 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let her grind  |**<big>&#8207;[[H2912\|תִּטְחַ֣ן]]&#8207; </big>**| tit.Chan<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for another  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0312\|אַחֵ֣ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

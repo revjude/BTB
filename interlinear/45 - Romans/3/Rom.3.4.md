@@ -1,5 +1,5 @@
-**Romans 3:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:4**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 <small><sub>**BSB:**</sub></small>
 Certainly not! Let God be true and every man a liar. As it is written: “So that You may be proved right when You speak and victorious when You judge.”
@@ -10,7 +10,7 @@ Never would it be! should it be however <the> God true, every now man a liar eve
 > $\quad$ referencing: [[LXX.Ps.51.4|Ps 51:4]] ☩ [[LXX.Ps.116.11|Ps 116:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Never |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | would it be! |**<big>[[G1096\|γένοιτο.¶]]</big>**  |genoito <small><sup>[[V-2ADO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

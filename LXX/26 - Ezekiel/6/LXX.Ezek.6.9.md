@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:9** 
 <small><sub>**LXX:**</sub></small>
 And the ones escaping of yours shall remember me among the nations of which they were taken captive there. I have sworn \[against\] their heart, against the one fornicating from me; and \[with\] their eyes  fornicating after  their practices. And they shall smite against their faces for the evils which they did in all  their abominations. 
-<small><sub>**KJV:**</sub></small>
-And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
-<small><sub>**BSB:**</sub></small>
-Then in the nations to which they have been carried captive, your survivors will remember Me—how I have been grieved by their adulterous hearts that turned away from Me, and by their eyes that lusted after idols. So they will loathe themselves for the evil they have done and for all their abominations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.8|<< Ezekiel 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.10|Ezekiel 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

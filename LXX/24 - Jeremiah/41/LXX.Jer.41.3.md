@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:3** 
 <small><sub>**LXX:**</sub></small>
 and all the Jews  being with him in Mizpah, and all the Chaldeans  being found there. And Ishmael stuck the men warriors. 
-<small><sub>**KJV:**</sub></small>
-Ishmael also slew all the Jews that were with him, [even] with Gedaliah, at Mizpah, and the Chaldeans that were found there, [and] the men of war.
-<small><sub>**BSB:**</sub></small>
-Ishmael also killed all the Jews who were with Gedaliah at Mizpah, as well as the Chaldean soldiers who were there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.2|<< Jeremiah 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.4|Jeremiah 41:4 >>]]</td></tr></table>
 
 | Translation | Greek |

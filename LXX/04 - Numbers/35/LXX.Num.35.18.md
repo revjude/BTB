@@ -1,10 +1,7 @@
 **LXX Numbers 35:18** 
 <small><sub>**LXX:**</sub></small>
 And if by an item of wood from \[his\] hand of which one should die, as he should strike him, and one should die, he is a murderer -- unto death the murderer shall die! 
-<small><sub>**KJV:**</sub></small>
-Or [if] he smite him with an hand weapon of wood, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-If anyone has in his hand a deadly object of wood, and he strikes and kills another, he is a murderer; the murderer must surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.17|<< Numbers 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.19|Numbers 35:19 >>]]</td></tr></table>
 
 | Translation | Greek |

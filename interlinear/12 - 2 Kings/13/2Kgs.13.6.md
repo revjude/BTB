@@ -1,4 +1,4 @@
-**2 Kings 13:6** 
+**2 Kings 13:6**<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, [but] walked therein: and there remained the grove also in Samaria.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, they did not turn away from the sins that the house of Jeroboam ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.5|<< 2 Kings 13:5]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.7|2 Kings 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֠ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

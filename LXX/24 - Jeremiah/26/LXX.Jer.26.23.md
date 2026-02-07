@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:23** 
 <small><sub>**LXX:**</sub></small>
 And they led him from there, and brought him to the king; and he struck him by \[the\] sword, and tossed him into the tomb of \[the\] sons of his people. 
-<small><sub>**KJV:**</sub></small>
-And they fetched forth Urijah out of Egypt, and brought him unto Jehoiakim the king; who slew him with the sword, and cast his dead body into the graves of the common people.
-<small><sub>**BSB:**</sub></small>
-They brought Uriah out of Egypt and took him to King Jehoiakim, who had him put to the sword and his body thrown into the burial place of the common people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.22|<< Jeremiah 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.24|Jeremiah 26:24 >>]]</td></tr></table>
 
 | Translation | Greek |

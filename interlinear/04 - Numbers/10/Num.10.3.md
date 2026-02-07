@@ -1,4 +1,4 @@
-**Numbers 10:3** 
+**Numbers 10:3**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When both are sounded, the whole congregation is to assemble before you at the e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.2|<< Numbers 10:2]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.4|Numbers 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will give a blast  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8628\|תָקְע֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.ke.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on \<the> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9039\|הֵ֑ן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

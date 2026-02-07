@@ -1,12 +1,12 @@
-**Galatians 1:19
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:19**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But other of the apostles saw I none, save James the Lord’s brother.
 <small><sub>**BSB:**</sub></small>
 But I saw none of the other apostles except James, the Lord’s brother.
 <small><sub>**Literal:**</sub></small>
 Other however of the apostles none I saw, only except James the brother of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.18|<< Galatians 1:18]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.20|Galatians 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Other |**<big>[[G2087\|ἕτερον]]</big>**  |heteron <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

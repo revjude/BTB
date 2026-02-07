@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada the priest gave charge to the commanders of hundreds, and to the overseers of the force, and said to them, Lead her outside the ranks and the one entering after her! To death she shall be put to death by \[the\] broadsword. For the priest said, She should not die in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said unto them, Have her forth without the ranges: and him that followeth her kill with the sword. For the priest had said, Let her not be slain in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Jehoiada the priest ordered the commanders of hundreds in charge of the army, “Bring her out between the ranks, and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the house of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.14|<< 2 Kings 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.16|2 Kings 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

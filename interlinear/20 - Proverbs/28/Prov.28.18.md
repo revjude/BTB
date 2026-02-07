@@ -1,4 +1,4 @@
-**Proverbs 28:18** 
+**Proverbs 28:18**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso walketh uprightly shall be saved: but [he that is] perverse [in his] ways shall fall at once.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who walks with integrity will be kept safe, but whoever is perverse in his wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.17|<< Proverbs 28:17]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.19|Proverbs 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] walks  |**<big>&#8207;[[H1980I\|הוֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blameless  |**<big>&#8207;[[H8549H\|תָּ֭מִים]]&#8207; </big>**| Ta.mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

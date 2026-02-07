@@ -1,4 +1,4 @@
-**Proverbs 22:27** 
+**Proverbs 22:27**<big><big>[[Prov.22.26 Saying 4|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou hast nothing to pay, why should he take away thy bed from under thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you have nothing with which to pay, why should your bed be taken from under y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.26|<< Proverbs 22:26]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.28|Proverbs 22:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

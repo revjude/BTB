@@ -1,10 +1,7 @@
 **LXX Genesis 7:19** 
 <small><sub>**LXX:**</sub></small>
 But the water prevailed exceedingly exceedingly upon the earth, and covered all the high mountains which \[were\] underneath the heaven. 
-<small><sub>**KJV:**</sub></small>
-And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered.
-<small><sub>**BSB:**</sub></small>
-Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.18|<< Genesis 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.20|Genesis 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

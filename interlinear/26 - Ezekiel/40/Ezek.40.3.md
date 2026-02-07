@@ -1,4 +1,4 @@
-**Ezekiel 40:3** 
+**Ezekiel 40:3**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me thither, and, behold, [there was] a man, whose appearance [was] like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So He took me there, and I saw a man whose appearance was like bronze. He was st
 > $\quad$ referenced by: [[Rev.11.1|Rev 11:1]] ☩ [[Rev.21.15|Rev 21:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֨יא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vei'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אוֹתִ֜]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

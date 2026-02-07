@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:14** 
 <small><sub>**LXX:**</sub></small>
 And Uzziah made preparations for them, \[giving to\] all the force shields, and spears, and helmets, and chest \[plates\], and bows, and slings for stones. 
-<small><sub>**KJV:**</sub></small>
-And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings [to cast] stones.
-<small><sub>**BSB:**</sub></small>
-Uzziah supplied the entire army with shields, spears, helmets, armor, bows, and slingstones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.13|<< 2 Chronicles 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.15|2 Chronicles 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 21:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:35**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.
 <small><sub>**BSB:**</sub></small>
 When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob.
 <small><sub>**Literal:**</sub></small>
 When now he came to the stairs, it happened that being carried he by the soldiers because of the violence of the crowd;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.34|<< Acts 21:34]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.36|Acts 21:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

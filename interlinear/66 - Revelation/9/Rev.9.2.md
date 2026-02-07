@@ -1,12 +1,12 @@
-**Revelation 9:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:2**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.
 <small><sub>**BSB:**</sub></small>
 The star opened the pit of the Abyss, and smoke rose out of it like the smoke of a great furnace, and the sun and the air were darkened by the smoke from the pit.
 <small><sub>**Literal:**</sub></small>
 And he opened the pit of the abyss; and went up smoke out of the pit like [the] smoke of a furnace great, and was darkened the sun and the air by the smoke of the pit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.1|<< Revelation 9:1]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.3|Revelation 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he opened |**<big>[[G0455\|ἤνοιξεν]]</big>**  |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

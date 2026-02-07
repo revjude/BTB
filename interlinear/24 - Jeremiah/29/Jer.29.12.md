@@ -1,4 +1,4 @@
-**Jeremiah 29:12** 
+**Jeremiah 29:12**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will call upon Me and come and pray to Me, and I will listen to you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.11|<< Jeremiah 29:11]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.13|Jeremiah 29:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will call on  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7121G\|קְרָאתֶ֤ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ke.ra.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:22** 
 <small><sub>**LXX:**</sub></small>
 And the second day you shall take a kid of \[the\] goats, unblemished for a sin \[offering\]; and they shall atone the altar in so far as they atoned with the calf. 
-<small><sub>**KJV:**</sub></small>
-And on the second day thou shalt offer a kid of the goats without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse [it] with the bullock.
-<small><sub>**BSB:**</sub></small>
-On the second day you are to present an unblemished male goat as a sin offering, and the altar is to be cleansed as it was with the bull.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.21|<< Ezekiel 43:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.23|Ezekiel 43:23 >>]]</td></tr></table>
 
 | Translation | Greek |

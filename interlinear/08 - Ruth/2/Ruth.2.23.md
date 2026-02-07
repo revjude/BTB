@@ -1,4 +1,4 @@
-**Ruth 2:23** 
+**Ruth 2:23**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ruth stayed close to the servant girls of Boaz to glean grain until the barle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she stayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1692\|תִּדְבַּ֞ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tid.Bak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with [the] female servants of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5291\|נַעֲר֥וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> na.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

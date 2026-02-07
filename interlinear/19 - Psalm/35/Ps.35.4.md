@@ -1,4 +1,4 @@
-**Psalms 35:4** 
+**Psalms 35:4**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who seek my life be disgraced and put to shame; may those who plan to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.3|<< Psalms 35:3]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.5|Psalms 35:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֣שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may be humiliated  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3637\|יִכָּלְמוּ֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.kal.Mu<small><sup>[[HVNu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 3:5** 
+**1 Samuel 3:5**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he ran unto Eli, and said, Here [am] I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He ran to Eli and said, “Here I am, for you have called me.” “I did not ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.4|<< 1 Samuel 3:4]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.6|1 Samuel 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he ran  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7323G\|יָּ֣רָץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

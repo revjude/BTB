@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:12** 
 <small><sub>**LXX:**</sub></small>
 And to Mephibosheth there was a small son, and \[the\] name to name \[was\] Micha. And all the household of the house of Ziba \[were\] servants \[to\] Mephibosheth. 
-<small><sub>**KJV:**</sub></small>
-And Mephibosheth had a young son, whose name [was] Micha. And all that dwelt in the house of Ziba [were] servants unto Mephibosheth.
-<small><sub>**BSB:**</sub></small>
-And Mephibosheth had a young son named Mica, and all who dwelt in the house of Ziba were servants of Mephibosheth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.11|<< 2 Samuel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.13|2 Samuel 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

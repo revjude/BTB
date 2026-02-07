@@ -1,10 +1,7 @@
 **LXX Isaiah 62:11** 
 <small><sub>**LXX:**</sub></small>
 For behold, \[the\] <span class="smallcaps">lord</span> made it audible unto \[the\] end of the earth. Say to the daughter of Zion! Behold, the deliverer is come to you, having  his own wage with him, and  his work before his face. 
-<small><sub>**KJV:**</sub></small>
-Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward [is] with him, and his work before him.
-<small><sub>**BSB:**</sub></small>
-Behold, the LORD has proclaimed to the ends of the earth, “Say to Daughter Zion: See, your Savior comes! Look, His reward is with Him, and His recompense goes before Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.10|<< Isaiah 62:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.12|Isaiah 62:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 62:11** is...

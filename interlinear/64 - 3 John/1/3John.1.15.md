@@ -1,12 +1,12 @@
-**3 John 1:15
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:15**<big><big>[[3John.1.13 Conclusion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peace [be] to thee. [Our] friends salute thee. Greet the friends by name.
 <small><sub>**BSB:**</sub></small>
 Peace to you. The friends here send you greetings. Greet each of our friends there by name.
 <small><sub>**Literal:**</sub></small>
 Peace to you. Greet you the friends. do greet the friends by name.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.14|<< 3 John 1:14]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.1|Jude 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peace |**<big>[[G1515\|εἰρήνη]]</big>**  |eirēnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | to you. |**<big>[[G4771\|σοι.]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

@@ -1,4 +1,4 @@
-**1 Chronicles 12:4** 
+**1 Chronicles 12:4**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ishmaiah the Gibeonite, a mighty man among the Thirty and a leader over the Thir
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.3|<< 1 Chronicles 12:3]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.5|1 Chronicles 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ishmaiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3460G\|יִֽשְׁמַֽעְיָ֧ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Gibeonite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1393\|גִּבְעוֹנִ֛י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> giv.'o.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

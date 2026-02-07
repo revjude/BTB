@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:12** 
 <small><sub>**LXX:**</sub></small>
 But she was broken off in pieces in rage; she was tossed upon the ground, and \[the\] burning wind dried  her choice \[branches\]. The rods of her strength were punished and were dried; fire consumed her. 
-<small><sub>**KJV:**</sub></small>
-But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
-<small><sub>**BSB:**</sub></small>
-But it was uprooted in fury, cast down to the ground, and the east wind dried up its fruit. Its strong branches were stripped off and they withered; the fire consumed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.11|<< Ezekiel 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.13|Ezekiel 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

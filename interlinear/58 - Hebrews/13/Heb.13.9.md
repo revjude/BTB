@@ -1,12 +1,12 @@
-**Hebrews 13:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:9**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not carried about with divers and strange doctrines. For [it is] a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.
 <small><sub>**BSB:**</sub></small>
 Do not be carried away by all kinds of strange teachings, for it is good for the heart to be strengthened by grace and not by foods of no value to those devoted to them.
 <small><sub>**Literal:**</sub></small>
 by teachings various and strange not do be taken away; [it is] good for by grace to be strengthened for the heart not by foods in which not they profited those being devoted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.8|<< Hebrews 13:8]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.10|Hebrews 13:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by teachings |**<big>[[G1322\|διδαχαῖς]]</big>**  |didachais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | various |**<big>[[G4164\|ποικίλαις]]</big>**  |poikilais <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

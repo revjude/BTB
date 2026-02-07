@@ -1,4 +1,4 @@
-**Isaiah 59:11** 
+**Isaiah 59:11**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We roar all like bears, and mourn sore like doves: we look for judgment, but [there is] none; for salvation, [but] it is far off from us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We all growl like bears and moan like doves. We hope for justice, but find none,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.10|<< Isaiah 59:10]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.12|Isaiah 59:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we growl  |**<big>&#8207;[[H1993\|נֶהֱמֶ֤ה]]&#8207; </big>**| ne.he.Meh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> bears  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1677\|דֻּבִּים֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> du.Bim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

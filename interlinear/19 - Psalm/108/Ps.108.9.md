@@ -1,4 +1,4 @@
-**Psalms 108:9** (108:10)
+**Psalms 108:9**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab [is] my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.8|<< Psalms 108:8]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.10|Psalms 108:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֤ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] pot of  |**<big>&#8207;[[H5518A\|סִ֬יר]]&#8207; </big>**| sir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

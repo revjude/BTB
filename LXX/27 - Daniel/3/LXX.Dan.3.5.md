@@ -1,10 +1,7 @@
 **LXX Daniel 3:5** 
 <small><sub>**LXX:**</sub></small>
 in which ever hour you should hear a sound of a trumpet, even flute, and harp, even sambuke and psaltery, and every harmony of sound of kinds of music -- falling, you shall do obeisance to the image  of gold which Nebuchadnezzar the king stationed. 
-<small><sub>**KJV:**</sub></small>
-[That] at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:
-<small><sub>**BSB:**</sub></small>
-As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.4|<< Daniel 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.6|Daniel 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

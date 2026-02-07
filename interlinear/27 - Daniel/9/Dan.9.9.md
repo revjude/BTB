@@ -1,4 +1,4 @@
-**Daniel 9:9** 
+**Daniel 9:9**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the Lord our God [belong] mercies and forgivenesses, though we have rebelled against him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the Lord our God belong compassion and forgiveness, even though we have rebel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.8|<< Daniel 9:8]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.10|Daniel 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belong] to [the] Lord  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H0136\|אדֹנָ֣י]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

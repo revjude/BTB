@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:35** 
 <small><sub>**LXX:**</sub></small>
 And I will lead you into the wilderness of the peoples, and I will litigate for you there face to face. 
-<small><sub>**KJV:**</sub></small>
-And I will bring you into the wilderness of the people, and there will I plead with you face to face.
-<small><sub>**BSB:**</sub></small>
-And I will bring you into the wilderness of the nations, where I will enter into judgment with you face to face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.34|<< Ezekiel 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.36|Ezekiel 20:36 >>]]</td></tr></table>
 
 | Translation | Greek |

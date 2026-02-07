@@ -1,12 +1,12 @@
-**Luke 2:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:32**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A light to lighten the Gentiles, and the glory of thy people Israel.
 <small><sub>**BSB:**</sub></small>
 a light for revelation to the Gentiles, and for glory to Your people Israel.”
 <small><sub>**Literal:**</sub></small>
 a light for revelation of [the] Gentiles and glory of [the] people of You of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.31|<< Luke 2:31]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.33|Luke 2:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a light |**<big>[[G5457\|φῶς]]</big>**  |phōs <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

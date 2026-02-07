@@ -1,4 +1,4 @@
-**Genesis 34:23** 
+**Genesis 34:23**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Shall] not their cattle and their substance and every beast of theirs [be] ours? only let us consent unto them, and they will dwell with us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will not their livestock, their possessions, and all their animals become ours? 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | livestock their  |**<big>&#8207;[[H4735\|מִקְנֵ]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207; </big>**| mik.ne.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and possession[s] their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7075\|קִנְיָנָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kin.ya.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 12:1** 
+**Numbers 12:1**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Miriam and Aaron criticized Moses because of the Cushite woman he had marri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|תְּדַבֵּ֨ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.da.Ber<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Miriam  |**<big>&#8207;[[H4813G\|מִרְיָ֤ם]]&#8207; </big>**| mir.Yam<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

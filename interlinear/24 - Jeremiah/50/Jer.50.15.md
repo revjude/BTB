@@ -1,4 +1,4 @@
-**Jeremiah 50:15** 
+**Jeremiah 50:15**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shout against her round about: she hath given her hand: her foundations are fallen, her walls are thrown down: for it [is] the vengeance of the LORD: take vengeance upon her; as she hath done, do unto her.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Raise a war cry against her on every side! She has thrown up her hands in surren
 > $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout out  |**<big>&#8207;[[H7321\|הָרִ֨יעוּ]]&#8207; </big>**| ha.Ri.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלֶ֤י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

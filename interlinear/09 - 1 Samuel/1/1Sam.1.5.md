@@ -1,4 +1,4 @@
-**1 Samuel 1:5** 
+**1 Samuel 1:5**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But to Hannah he would give a double portion, for he loved her even though the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.4|<< 1 Samuel 1:4]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.6|1 Samuel 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Hannah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2584\|חַנָּ֕ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gave  |**<big>&#8207;[[H5414G\|יִתֵּ֛ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

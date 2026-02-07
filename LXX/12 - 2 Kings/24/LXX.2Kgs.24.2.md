@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> sent \[against\] him the armed \[bands\] of the Chaldeans, and the armed \[bands\] of Syrians, and the armed \[bands\] of Moab, and the armed \[bands\] of \[the\] sons of Ammon. And he sent them against  Judah  to prevail against it, according to the word of \[the\] <span class="smallcaps">lord</span>, which he spoke by \[the\] hand of his servants the prophets. 
-<small><sub>**KJV:**</sub></small>
-And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets.
-<small><sub>**BSB:**</sub></small>
-And the LORD sent Chaldean, Aramean, Moabite, and Ammonite raiders against Jehoiakim in order to destroy Judah, according to the word that the LORD had spoken through His servants the prophets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.1|<< 2 Kings 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.3|2 Kings 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

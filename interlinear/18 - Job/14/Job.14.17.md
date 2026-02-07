@@ -1,4 +1,4 @@
-**Job 14:17** 
+**Job 14:17**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My transgression [is] sealed up in a bag, and thou sewest up mine iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My transgression would be sealed in a bag, and You would cover over my iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.16|<< Job 14:16]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.18|Job 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] sealed up  |**<big>&#8207;[[H2856\|חָתֻ֣ם]]&#8207; </big>**| cha.Tum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in a bag  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6872A\|צְר֣וֹר]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> tz.Ror<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

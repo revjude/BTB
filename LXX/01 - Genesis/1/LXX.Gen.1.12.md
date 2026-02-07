@@ -1,10 +1,7 @@
 **LXX Genesis 1:12** 
 <small><sub>**LXX:**</sub></small>
 And the earth brought forth pasturage of grass sowing seed, according to type, and according to likeness; and \[the\] fruitful tree producing fruit which the seed of it \[is\] in it, according to type upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And the earth brought forth grass, [and] herb yielding seed after his kind, and the tree yielding fruit, whose seed [was] in itself, after his kind: and God saw that [it was] good.
-<small><sub>**BSB:**</sub></small>
-The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.11|<< Genesis 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.13|Genesis 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

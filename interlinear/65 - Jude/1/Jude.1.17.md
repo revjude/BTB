@@ -1,12 +1,12 @@
-**Jude 1:17
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:17**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
 <small><sub>**BSB:**</sub></small>
 But you, beloved, remember what was foretold by the apostles of our Lord Jesus Christ
 <small><sub>**Literal:**</sub></small>
 You yourselves however beloved, do remember the declarations which spoken beforehand by the apostles of the Lord of us Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.16|<< Jude 1:16]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.18|Jude 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|Ὑμεῖς]]</big>**  |Humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Galatians 3:6
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:6**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as Abraham believed God, and it was accounted to him for righteousness.
 <small><sub>**BSB:**</sub></small>
 So also, “Abraham believed God, and it was credited to him as righteousness.”
@@ -10,7 +10,7 @@ Even as Abraham believed <the> in God and it was reckoned to him as righteousnes
 > $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Abraham |**<big>[[G0011\|Ἀβραὰμ]]</big>**  [^1] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

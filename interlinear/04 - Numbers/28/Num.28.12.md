@@ -1,4 +1,4 @@
-**Numbers 28:12** 
+**Numbers 28:12**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three tenth deals of flour [for] a meat offering, mingled with oil, for one bullock; and two tenth deals of flour [for] a meat offering, mingled with oil, for one ram;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with three-tenths of an ephah of fine flour mixed with oil as a grain offe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.11|<< Numbers 28:11]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.13|Numbers 28:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹשָׁ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tenths [of an ephah]  |**<big>&#8207;[[H6241\|עֶשְׂרֹנִ֗ים]]&#8207; </big>**| 'es.ro.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Lamentations 5:7** 
+**Lamentations 5:7**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our fathers have sinned, [and are] not; and we have borne their iniquities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our fathers sinned and are no more, but we bear their punishment.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.6|<< Lamentations 5:6]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.8|Lamentations 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ancestors our  |**<big>&#8207;[[H0001G\|אֲבֹתֵ֤י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they sinned  |**<big>&#8207;[[H2398\|חָֽטְאוּ֙]]&#8207; </big>**| cha.te.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

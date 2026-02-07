@@ -1,4 +1,4 @@
-**Deuteronomy 30:10** 
+**Deuteronomy 30:10**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, [and] if thou turn unto the LORD thy God with all thine heart, and with all thy soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if you obey the LORD your God by keeping His commandments and statutes that are 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.9|<< Deuteronomy 30:9]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.11|Deuteronomy 30:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will listen  |**<big>&#8207;[[H8085H\|תִשְׁמַ֗ע]]&#8207; </big>**| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

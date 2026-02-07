@@ -1,4 +1,4 @@
-**Daniel 6:5** (6:6)
+**Daniel 6:5**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said these men, We shall not find any occasion against this Daniel, except we find [it] against him concerning the law of his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally these men said, “We will never find any charge against this Daniel unl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.4|<< Daniel 6:4]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.6|Daniel 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱ֠דַיִן]]&#8207; </big>**| 'E.da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men the  |**<big>&#8207;[[H1400\|גֻּבְרַיָּ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

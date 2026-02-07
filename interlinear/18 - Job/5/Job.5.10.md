@@ -1,4 +1,4 @@
-**Job 5:10** 
+**Job 5:10**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who giveth rain upon the earth, and sendeth waters upon the fields:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He gives rain to the earth and sends water upon the fields.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.9|<< Job 5:9]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.11|Job 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who gives  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5414G\|נֹּתֵ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rain  |**<big>&#8207;[[H4306\|מָ֭טָר]]&#8207; </big>**| Ma.tor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

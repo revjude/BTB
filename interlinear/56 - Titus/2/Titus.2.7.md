@@ -1,12 +1,12 @@
-**Titus 2:7
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:7**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In all things shewing thyself a pattern of good works: in doctrine [shewing] uncorruptness, gravity, sincerity,
 <small><sub>**BSB:**</sub></small>
 In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity,
 <small><sub>**Literal:**</sub></small>
 In all things yourself be holding forth [as] a pattern of good works, in the teaching unspoilable incorruptable, dignity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.6|<< Titus 2:6]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.8|Titus 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

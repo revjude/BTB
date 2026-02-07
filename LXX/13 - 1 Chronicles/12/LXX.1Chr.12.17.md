@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:17** 
 <small><sub>**LXX:**</sub></small>
 And David came forth to meet them, and he answered and said to them, If in peace you have come to me to help me, may it be to me a heart with you for uniting. But if  to deliver me up \[to\] my enemies, not in truth of hand, the God of our fathers see it and reprove. 
-<small><sub>**KJV:**</sub></small>
-And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if [ye be come] to betray me to mine enemies, seeing [there is] no wrong in mine hands, the God of our fathers look [thereon], and rebuke [it].
-<small><sub>**BSB:**</sub></small>
-And David went out to meet them, saying, “If you have come to me in peace to help me, my heart will be united with you; but if you have come to betray me to my enemies when my hands are free of violence, may the God of our fathers see it and judge you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.16|<< 1 Chronicles 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.18|1 Chronicles 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

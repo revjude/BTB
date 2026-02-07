@@ -1,4 +1,4 @@
-**1 Samuel 11:8** 
+**1 Samuel 11:8**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Saul numbered them at Bezek, there were 300,000 Israelites and 30,000 m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.7|<< 1 Samuel 11:7]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.9|1 Samuel 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he mustered them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6485A\|יִּפְקְדֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.ke.De<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at Bezek  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0966H\|בָ֑זֶק]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Va.zek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

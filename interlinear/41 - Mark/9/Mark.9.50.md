@@ -1,12 +1,12 @@
-**Mark 9:50
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:50**<big><big>[[Mark.9.49 Good Salt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salt [is] good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.
 <small><sub>**BSB:**</sub></small>
 Salt is good, but if the salt loses its saltiness, with what will you season it? Have salt among yourselves, and be at peace with one another.”
 <small><sub>**Literal:**</sub></small>
 Good [is] the salt; if however the salt unsalty may become, with what it will you season? do have in yourselves salt and do be at peace with one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.49|<< Mark 9:49]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.1|Mark 10:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Good [is] |**<big>[[G2570G\|καλὸν]]</big>**  |kalon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

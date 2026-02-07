@@ -1,10 +1,7 @@
 **LXX Proverbs 20:5** 
 <small><sub>**LXX:**</sub></small>
 Counsel \[is\] deep water for \[the\] heart of a man; and an intelligent man shall draw it out. 
-<small><sub>**KJV:**</sub></small>
-Counsel in the heart of man [is like] deep water; but a man of understanding will draw it out.
-<small><sub>**BSB:**</sub></small>
-The intentions of a man’s heart are deep waters, but a man of understanding draws them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.4|<< Proverbs 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.6|Proverbs 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

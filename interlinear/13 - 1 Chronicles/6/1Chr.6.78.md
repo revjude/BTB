@@ -1,4 +1,4 @@
-**1 Chronicles 6:78** (6:63)
+**1 Chronicles 6:78**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the other side Jordan by Jericho, on the east side of Jordan, [were given them] out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the tribe of Reuben east of the Jordan opposite Jericho they were given Bez
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.77|<< 1 Chronicles 6:77]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.79|1 Chronicles 6:79 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] other side  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5676H\|עֵ֜בֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] Jordan  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3383\|יַרְדֵּ֣ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

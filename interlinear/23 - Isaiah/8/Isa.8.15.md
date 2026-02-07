@@ -1,4 +1,4 @@
-**Isaiah 8:15** 
+**Isaiah 8:15**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Many will stumble over these; they will fall and be broken; they will be ensnare
 > $\quad$ referenced by: [[Luke.2.34|Luke 2:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stumble  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3782\|כָ֥שְׁלוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Kha.she.lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over them  |**<big>&#8207;[[H9003\|בָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 35:5** 
+**2 Chronicles 35:5**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And stand in the holy [place] according to the divisions of the families of the fathers of your brethren the people, and [after] the division of the families of the Levites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, stand in the Holy Place by the divisions of the families of your kinsm
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.4|<< 2 Chronicles 35:4]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.6|2 Chronicles 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and stand  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5975G\|עִמְד֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the holy place  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H6944J\|קֹּ֗דֶשׁ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Ko.desh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

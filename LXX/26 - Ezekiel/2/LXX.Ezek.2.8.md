@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:8** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, hearken to the one speaking to you! Be not rebellious as the rebellious house! Gape wide  your mouth, and eat what I give to you! 
-<small><sub>**KJV:**</sub></small>
-But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.
-<small><sub>**BSB:**</sub></small>
-And you, son of man, listen to what I tell you. Do not be rebellious like that rebellious house. Open your mouth and eat what I give you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.7|<< Ezekiel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.9|Ezekiel 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 2:8** is...

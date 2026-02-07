@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:5** 
 <small><sub>**LXX:**</sub></small>
 I rose up to open  to my beloved \[man\]; my hands dripped myrrh, my fingers \[with\] full \[bodied\] of myrrh upon \[the\] handles of the bolt. 
-<small><sub>**KJV:**</sub></small>
-I rose up to open to my beloved; and my hands dropped [with] myrrh, and my fingers [with] sweet smelling myrrh, upon the handles of the lock.
-<small><sub>**BSB:**</sub></small>
-I rose up to open for my beloved. My hands dripped with myrrh, my fingers with flowing myrrh on the handles of the bolt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.4|<< Song of Solomon 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.6|Song of Solomon 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

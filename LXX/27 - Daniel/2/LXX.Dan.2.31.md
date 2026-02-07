@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You, O king, viewed. And behold, one great image.  That great image, and the aspect of it was overwhelming, standing before your face; and the vision of it was fearful. 
-<small><sub>**KJV:**</sub></small>
-Thou, O king, sawest, and behold a great image. This great image, whose brightness [was] excellent, stood before thee; and the form thereof [was] terrible.
-<small><sub>**BSB:**</sub></small>
-As you, O king, were watching, a great statue appeared. A great and dazzling statue stood before you, and its form was awesome.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.30|<< Daniel 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.32|Daniel 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

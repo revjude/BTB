@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] rulers of the people; Parosh, Pahath-moab, Elam, and Zatthu, sons of Bunni, 
-<small><sub>**KJV:**</sub></small>
-The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,
-<small><sub>**BSB:**</sub></small>
-And the leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.13|<< Nehemiah 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.15|Nehemiah 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

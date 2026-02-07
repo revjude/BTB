@@ -1,10 +1,7 @@
 **LXX Judges 6:20** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> said to him, Take the meats and the unleavened \[breads\], and put \[them\] on  that rock, and pour out the broth! And he did so. 
-<small><sub>**KJV:**</sub></small>
-And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay [them] upon this rock, and pour out the broth. And he did so.
-<small><sub>**BSB:**</sub></small>
-And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.19|<< Judges 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.21|Judges 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

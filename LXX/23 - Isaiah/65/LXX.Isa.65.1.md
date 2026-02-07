@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I became apparent to the ones not seeking for me. I was found \[by\] the ones not asking for me. I said, Behold, I am -- to the nation, the ones who did not call of me \[by\] name. 
-<small><sub>**KJV:**</sub></small>
-I am sought of [them that] asked not [for me]; I am found of [them that] sought me not: I said, Behold me, behold me, unto a nation [that] was not called by my name.
-<small><sub>**BSB:**</sub></small>
-“I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.12|<< Isaiah 64:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.2|Isaiah 65:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 65:1** is...

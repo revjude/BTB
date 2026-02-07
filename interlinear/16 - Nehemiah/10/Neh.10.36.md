@@ -1,4 +1,4 @@
-**Nehemiah 10:36** (10:37)
+**Nehemiah 10:36**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the firstborn of our sons, and of our cattle, as [it is] written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And we will bring the firstborn of our sons and our livestock, as it is written 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.35|<< Nehemiah 10:35]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.37|Nehemiah 10:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] firstborn\<s> of  |**<big>&#8207;[[H1060\|בְּכֹר֤וֹת]]&#8207; </big>**| be.kho.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

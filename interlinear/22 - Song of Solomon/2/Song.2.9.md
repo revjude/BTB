@@ -1,4 +1,4 @@
-**Song of Solomon 2:9** 
+**Song of Solomon 2:9**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My beloved is like a gazelle or a young stag. Look, he stands behind our wall, g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.8|<< Song of Solomon 2:8]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.10|Song of Solomon 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] like  |**<big>&#8207;[[H1819\|דּוֹמֶ֤ה]]&#8207; </big>**| do.Meh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lover my  |**<big>&#8207;[[H1730G\|דוֹדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 20:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:2**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had gone over those parts, and had given them much exhortation, he came into Greece,
 <small><sub>**BSB:**</sub></small>
 After traveling through that area and speaking many words of encouragement, he arrived in Greece,
 <small><sub>**Literal:**</sub></small>
 Having passed through then the districts those and having exhorted them with talk much he came to <the> Greece;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.1|<< Acts 20:1]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.3|Acts 20:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having passed through |**<big>[[G1330\|Διελθὼν]]</big>**  |Dielthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

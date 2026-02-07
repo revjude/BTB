@@ -1,12 +1,12 @@
-**1 Thessalonians 5:1
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:1**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But of the times and the seasons, brethren, ye have no need that I write unto you.
 <small><sub>**BSB:**</sub></small>
 Now about the times and seasons, brothers, we do not need to write to you.
 <small><sub>**Literal:**</sub></small>
 Concerning now the times and the seasons, brothers, no need you have to you to be written;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.18|<< 1 Thessalonians 4:18]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.2|1 Thessalonians 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

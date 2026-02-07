@@ -1,12 +1,12 @@
-**Acts 15:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:38**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.
 <small><sub>**BSB:**</sub></small>
 But Paul thought it best not to take him, because he had deserted them in Pamphylia and had not accompanied them in the work.
 <small><sub>**Literal:**</sub></small>
 Paul however was considering the [one] having withdrawn from them from Pamphylia and not having gone with them to the work not to take along him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.37|<< Acts 15:37]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.39|Acts 15:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

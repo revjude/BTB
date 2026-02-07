@@ -1,4 +1,4 @@
-**Numbers 15:10** 
+**Numbers 15:10**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt bring for a drink offering half an hin of wine, [for] an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also present half a hin of wine as a drink offering. It is a food offering, a pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.9|<< Numbers 15:9]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.11|Numbers 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and wine  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3196\|יַ֛יִן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will bring near  |**<big>&#8207;[[H7126H\|תַּקְרִ֥יב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

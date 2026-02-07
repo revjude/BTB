@@ -1,10 +1,7 @@
 **LXX Leviticus 15:9** 
 <small><sub>**LXX:**</sub></small>
 And every saddle upon which the one having a seminal emission should mount upon it, it will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And what saddle soever he rideth upon that hath the issue shall be unclean.
-<small><sub>**BSB:**</sub></small>
-Any saddle on which the man with the discharge rides will be unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.8|<< Leviticus 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.10|Leviticus 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

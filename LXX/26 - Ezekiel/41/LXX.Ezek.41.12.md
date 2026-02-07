@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:12** 
 <small><sub>**LXX:**</sub></small>
 And the separate \[space\] in front of the left over \[space\] of the \[place\] towards \[the\] west -- seventy cubits width of the wall of the separating; and five cubits the breadth round about, and its length -- ninety cubits. 
-<small><sub>**KJV:**</sub></small>
-Now the building that [was] before the separate place at the end toward the west [was] seventy cubits broad; and the wall of the building [was] five cubits thick round about, and the length thereof ninety cubits.
-<small><sub>**BSB:**</sub></small>
-Now the building that faced the temple courtyard on the west was seventy cubits wide, and the wall of the building was five cubits thick all around, with a length of ninety cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.11|<< Ezekiel 41:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.13|Ezekiel 41:13 >>]]</td></tr></table>
 
 | Translation | Greek |

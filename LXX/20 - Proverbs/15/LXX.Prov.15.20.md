@@ -1,10 +1,7 @@
 **LXX Proverbs 15:20** 
 <small><sub>**LXX:**</sub></small>
 A wise son gladdens a father; but a foolish son sneers at his mother. 
-<small><sub>**KJV:**</sub></small>
-A wise son maketh a glad father: but a foolish man despiseth his mother.
-<small><sub>**BSB:**</sub></small>
-A wise son brings joy to his father, but a foolish man despises his mother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.19|<< Proverbs 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.21|Proverbs 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

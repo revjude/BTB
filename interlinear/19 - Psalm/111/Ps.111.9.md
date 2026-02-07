@@ -1,4 +1,4 @@
-**Psalms 111:9** 
+**Psalms 111:9**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend [is] his name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has sent redemption to His people; He has ordained His covenant forever; holy
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.8|<< Psalms 111:8]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.10|Psalms 111:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | redemption  |**<big>&#8207;[[H6304\|פְּד֤וּת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pe.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁ֘לַ֤ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

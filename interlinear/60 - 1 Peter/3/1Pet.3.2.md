@@ -1,12 +1,12 @@
-**1 Peter 3:2
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:2**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While they behold your chaste conversation [coupled] with fear.
 <small><sub>**BSB:**</sub></small>
 when they see your pure and reverent demeanor.
 <small><sub>**Literal:**</sub></small>
 having witnessed the in respect pure conduct of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.1|<< 1 Peter 3:1]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.3|1 Peter 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having witnessed |**<big>[[G2029\|ἐποπτεύσαντες]]</big>**  |epopteusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

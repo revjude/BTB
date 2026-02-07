@@ -1,10 +1,7 @@
 **LXX Numbers 23:3** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, You stand beside  your sacrifice! and I shall go \[and see\] if God shall appear to meet with me. And \[the\] saying which ever he shall show to me I shall announce to you. And he went straight. 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.
-<small><sub>**BSB:**</sub></small>
-“Stay here by your burnt offering while I am gone,” Balaam said to Balak. “Perhaps the LORD will meet with me. And whatever He reveals to me, I will tell you.” So Balaam went off to a barren height,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

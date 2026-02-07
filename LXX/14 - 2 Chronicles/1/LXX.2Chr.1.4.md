@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:4** 
 <small><sub>**LXX:**</sub></small>
 But David brought the ark of God from out of \[the\] city of Kirjath Jearim, for David prepared for it; for he pitched a tent for it in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-But the ark of God had David brought up from Kirjathjearim to [the place which] David had prepared for it: for he had pitched a tent for it at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Now David had brought the ark of God from Kiriath-jearim to the place he had prepared for it, because he had pitched a tent for it in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.3|<< 2 Chronicles 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.5|2 Chronicles 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

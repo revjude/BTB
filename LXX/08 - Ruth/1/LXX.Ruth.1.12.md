@@ -1,10 +1,7 @@
 **LXX Ruth 1:12** 
 <small><sub>**LXX:**</sub></small>
 Turn back please, my daughters! Go please! for I grow old  to not \[have\] a husband. For I said, Is it to me a reality  to be to me a husband, and shall I give birth to sons? 
-<small><sub>**KJV:**</sub></small>
-Turn again, my daughters, go [your way]; for I am too old to have an husband. If I should say, I have hope, [if] I should have an husband also to night, and should also bear sons;
-<small><sub>**BSB:**</sub></small>
-Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

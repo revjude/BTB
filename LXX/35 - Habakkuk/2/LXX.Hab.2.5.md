@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But the one being arrogant and despising, \[the\] ostentatious man, not one \[thing\] in any way should he have achieved, who widened his soul as Hades, and so as death not being filled up, even he shall assemble unto himself all the nations, and will take in to himself all the peoples. 
-<small><sub>**KJV:**</sub></small>
-Yea also, because he transgresseth by wine, [he is] a proud man, neither keepeth at home, who enlargeth his desire as hell, and [is] as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
-<small><sub>**BSB:**</sub></small>
-and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.4|<< Habakkuk 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.6|Habakkuk 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

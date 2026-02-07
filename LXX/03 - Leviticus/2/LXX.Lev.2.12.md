@@ -1,10 +1,7 @@
 **LXX Leviticus 2:12** 
 <small><sub>**LXX:**</sub></small>
 Of first-fruit -- you shall bring them to the <span class="smallcaps">lord</span>, but upon the altar they shall not be brought up for a scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.
-<small><sub>**BSB:**</sub></small>
-You may bring them to the LORD as an offering of firstfruits, but they must not go up on the altar as a pleasing aroma.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.11|<< Leviticus 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.13|Leviticus 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

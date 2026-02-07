@@ -1,4 +1,4 @@
-**Isaiah 40:22** 
+**Isaiah 40:22**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] he that sitteth upon the circle of the earth, and the inhabitants thereof [are] as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sits enthroned above the circle of the earth; its dwellers are like grasshopp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.21|<< Isaiah 40:21]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.23|Isaiah 40:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] sits  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|יֹּשֵׁב֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | above  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

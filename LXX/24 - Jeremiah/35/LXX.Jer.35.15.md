@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:15** 
 <small><sub>**LXX:**</sub></small>
 And I sent to you  my servants the prophets rising early in the morning and sending, saying, each turn from  his evil way! And do better  in your practices! and you shall not go after other gods  to serve them. And you shall live upon the land which I gave to you, and \[to\] your fathers. And you leaned not  your ears, and you hearkened not. 
-<small><sub>**KJV:**</sub></small>
-I have sent also unto you all my servants the prophets, rising up early and sending [them], saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me.
-<small><sub>**BSB:**</sub></small>
-Again and again I have sent you all My servants the prophets, proclaiming: ‘Turn now, each of you, from your wicked ways, and correct your actions. Do not go after other gods to serve them. Live in the land that I have given to you and your fathers.’ But you have not inclined your ear or listened to Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.14|<< Jeremiah 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.16|Jeremiah 35:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the thirtieth \[and\] sixth year of the kingdom of Asa, Baasha king of Israel ascended against Judah. And he built  Ramah  to not give an exit nor entrance  to Asa king of Judah. 
-<small><sub>**KJV:**</sub></small>
-In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
-<small><sub>**BSB:**</sub></small>
-In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.19|<< 2 Chronicles 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.2|2 Chronicles 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

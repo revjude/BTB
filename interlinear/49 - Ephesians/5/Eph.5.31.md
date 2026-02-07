@@ -1,5 +1,5 @@
-**Ephesians 5:31
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:31**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 <small><sub>**BSB:**</sub></small>
 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”
@@ -10,7 +10,7 @@ Because of this will leave a man the father of him and <the> mother and will be 
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G0473\|ἀντὶ]]</big>**  |anti <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτου]]</big>**  |toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 22:25** 
 <small><sub>**LXX:**</sub></small>
 My high praise is about you. In \[the\] great assembly I shall confess to you.  My vows I shall render in the presence of the ones fearing him. 
-<small><sub>**KJV:**</sub></small>
-My praise [shall be] of thee in the great congregation: I will pay my vows before them that fear him.
-<small><sub>**BSB:**</sub></small>
-My praise for You resounds in the great assembly; I will fulfill my vows before those who fear You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.24|<< Psalm 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.26|Psalm 22:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:25** is...

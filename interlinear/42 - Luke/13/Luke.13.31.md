@@ -1,12 +1,12 @@
-**Luke 13:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:31**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.
 <small><sub>**BSB:**</sub></small>
 At that very hour, some Pharisees came to Jesus and told Him, “Leave this place and get away, because Herod wants to kill You.”
 <small><sub>**Literal:**</sub></small>
 In same the hour came near certain Pharisees saying to Him; do go out and do proceed from here, for Herod desires You to kill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.30|<< Luke 13:30]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.32|Luke 13:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | same |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

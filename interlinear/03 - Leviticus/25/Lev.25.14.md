@@ -1,4 +1,4 @@
-**Leviticus 25:14** 
+**Leviticus 25:14**<big><big>[[Lev.25.13 Return of Property|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou sell ought unto thy neighbour, or buyest [ought] of thy neighbour’s hand, ye shall not oppress one another:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you make a sale to your neighbor or a purchase from him, you must not take ad
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.13|<< Leviticus 25:13]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.15|Leviticus 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will sell  |**<big>&#8207;[[H4376\|תִמְכְּר֤וּ]]&#8207; </big>**| tim.ke.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 36:11** 
 <small><sub>**LXX:**</sub></small>
 And he made hooks of blue upon the edge of the one curtain \[joining\] the one part for the coupling. And thus he made upon the edge of the outer curtain for the second coupling. 
-<small><sub>**KJV:**</sub></small>
-And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of [another] curtain, in the coupling of the second.
-<small><sub>**BSB:**</sub></small>
-He made loops of blue material on the edge of the end curtain in the first set, and also on the end curtain in the second set.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.10|<< Exodus 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.12|Exodus 36:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 34:31** 
 <small><sub>**LXX:**</sub></small>
 And Moses called them; and Aaron turned towards him and all the rulers of the congregation. And Moses spoke to them. 
-<small><sub>**KJV:**</sub></small>
-And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.
-<small><sub>**BSB:**</sub></small>
-But Moses called out to them; so Aaron and all the leaders of the congregation returned to him, and Moses spoke to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.30|<< Exodus 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.32|Exodus 34:32 >>]]</td></tr></table>
 
 | Translation | Greek |

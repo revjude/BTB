@@ -1,4 +1,4 @@
-**2 Samuel 16:21** 
+**2 Samuel 16:21**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that [are] with thee be strong.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahithophel replied, “Sleep with your father’s concubines, whom he has left t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.20|<< 2 Samuel 16:20]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.22|2 Samuel 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahithophel  |**<big>&#8207;[[H0302\|אֲחִיתֹ֙פֶל֙]]&#8207; </big>**| 'a.chi.To.fel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 37:7** 
+**Genesis 37:7**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, we [were] binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We were binding sheaves of grain in the field, and suddenly my sheaf rose and st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.6|<< Genesis 37:6]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.8|Genesis 37:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we  |**<big>&#8207;[[H0587\|אֲנַ֜חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

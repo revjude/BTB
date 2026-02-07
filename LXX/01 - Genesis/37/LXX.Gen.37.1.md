@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob dwelt in the land of which his father sojourned in \[the\] land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
-<small><sub>**BSB:**</sub></small>
-Now Jacob lived in the land where his father had resided, the land of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.43|<< Genesis 36:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.2|Genesis 37:2 >>]]</td></tr></table>
 
 | Translation | Greek |

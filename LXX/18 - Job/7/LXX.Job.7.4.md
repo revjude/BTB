@@ -1,10 +1,7 @@
 **LXX Job 7:4** 
 <small><sub>**LXX:**</sub></small>
 When I should go to bed, I say, When \[will it be\] the day? and whenever I rise up, again \[I say\], When \[will it be\] evening? And I am full of griefs, from evening unto morning. 
-<small><sub>**KJV:**</sub></small>
-When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.
-<small><sub>**BSB:**</sub></small>
-When I lie down I think: ‘When will I get up?’ But the night drags on, and I toss and turn until dawn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.3|<< Job 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.5|Job 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

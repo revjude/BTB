@@ -1,4 +1,4 @@
-**1 Kings 20:33** 
+**1 Kings 20:33**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the men did diligently observe whether [any thing would come] from him, and did hastily catch [it]: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the men were looking for a sign of hope, and they quickly grasped at this wo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.32|<< 1 Kings 20:32]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.34|1 Kings 20:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁים֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they observed [the] signs  |**<big>&#8207;[[H5172\|יְנַחֲשׁ֨וּ]]&#8207; </big>**| ye.na.cha.Shu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

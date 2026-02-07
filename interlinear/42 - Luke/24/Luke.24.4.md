@@ -1,12 +1,12 @@
-**Luke 24:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:4**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:
 <small><sub>**BSB:**</sub></small>
 While they were puzzling over this, suddenly two men in radiant apparel stood beside them.
 <small><sub>**Literal:**</sub></small>
 And it came to pass while <the> perplexing they about this that behold men two stood by them in garment dazzling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.3|<< Luke 24:3]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.5|Luke 24:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

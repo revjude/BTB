@@ -1,10 +1,7 @@
 **LXX Exodus 18:26** 
 <small><sub>**LXX:**</sub></small>
 And they judged the people every hour, but the enormous matter they offered to Moses. But every light matter they judged themselves. 
-<small><sub>**KJV:**</sub></small>
-And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.
-<small><sub>**BSB:**</sub></small>
-And they judged the people at all times; they would bring the difficult cases to Moses, but any minor issue they would judge themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.25|<< Exodus 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.27|Exodus 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 18:1** 
+**Job 18:1**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Bildad the Shuhite, and said,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Bildad the Shuhite replied:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.16|<< Job 17:16]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.2|Job 18:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H6030B\|יַּעַן]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bildad  |**<big>&#8207;[[H1085\|בִּלְדַּ֥ד]]&#8207; </big>**| bil.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

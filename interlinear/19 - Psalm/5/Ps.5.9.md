@@ -1,4 +1,4 @@
-**Psalms 5:9** (5:10)
+**Psalms 5:9**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there is] no faithfulness in their mouth; their inward part [is] very wickedness; their throat [is] an open sepulchre; they flatter with their tongue.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For not a word they speak can be trusted; destruction lies within them. Their th
 > $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵ֪ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

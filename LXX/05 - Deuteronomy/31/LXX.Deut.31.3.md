@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  your God, the one going forth before your face, he shall utterly destroy  these nations from your face, and you shall inherit them; and Joshua \[is\] the one going forth before your face, as spoke \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The LORD thy God, he will go over before thee, [and] he will destroy these nations from before thee, and thou shalt possess them: [and] Joshua, he shall go over before thee, as the LORD hath said.
-<small><sub>**BSB:**</sub></small>
-The LORD your God Himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you, as the LORD has said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.2|<< Deuteronomy 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.4|Deuteronomy 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

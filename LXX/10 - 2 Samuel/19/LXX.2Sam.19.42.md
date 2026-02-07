@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:42** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men of Judah answered to \[the\] men of Israel, and said, Because the king is a near \[relative\] to us. And why \[is\] this you are enraged on account of  this matter? Or in eating have we eaten any food from the king, or a gift given to us? 
-<small><sub>**KJV:**</sub></small>
-And all the men of Judah answered the men of Israel, Because the king [is] near of kin to us: wherefore then be ye angry for this matter? have we eaten at all of the king’s [cost]? or hath he given us any gift?
-<small><sub>**BSB:**</sub></small>
-And all the men of Judah replied to the men of Israel, “We did this because the king is our relative. Why does this anger you? Have we ever eaten at the king’s expense or received anything for ourselves?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.41|<< 2 Samuel 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.43|2 Samuel 19:43 >>]]</td></tr></table>
 
 | Translation | Greek |

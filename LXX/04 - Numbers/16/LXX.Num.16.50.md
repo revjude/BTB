@@ -1,10 +1,7 @@
 **LXX Numbers 16:50** 
 <small><sub>**LXX:**</sub></small>
 And Aaron returned to Moses at the door of the tent of the testimony, and the devastation abated. 
-<small><sub>**KJV:**</sub></small>
-And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed.
-<small><sub>**BSB:**</sub></small>
-Then Aaron returned to Moses at the entrance to the Tent of Meeting, since the plague had been halted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.49|<< Numbers 16:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.1|Numbers 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

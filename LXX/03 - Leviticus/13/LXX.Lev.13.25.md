@@ -1,10 +1,7 @@
 **LXX Leviticus 13:25** 
 <small><sub>**LXX:**</sub></small>
 then the priest shall look at him, and behold, \[if the\] hair is turned white in the shining forth, and the appearance of it \[is\] deep under the skin, it is leprosy; it broke out in the inflammation, and the priest shall declare him defiled; it is an infection of leprosy. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall look upon it: and, behold, [if] the hair in the bright spot be turned white, and it [be in] sight deeper than the skin; it [is] a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it [is] the plague of leprosy.
-<small><sub>**BSB:**</sub></small>
-the priest must examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a disease that has broken out in the burn. The priest must pronounce him unclean; it is a diseased infection.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.24|<< Leviticus 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.26|Leviticus 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

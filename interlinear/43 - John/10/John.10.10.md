@@ -1,12 +1,12 @@
-**John 10:10
-**<small><sub>**KJV:**</sub></small>
+**John 10:10**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have [it] more abundantly.
 <small><sub>**BSB:**</sub></small>
 The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness.
 <small><sub>**Literal:**</sub></small>
 The thief not comes only except that he shall steal and shall kill and shall destroy; I myself came that life they may have and excessive may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.9|<< John 10:9]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.11|John 10:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | thief |**<big>[[G2812\|κλέπτης]]</big>**  |kleptēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

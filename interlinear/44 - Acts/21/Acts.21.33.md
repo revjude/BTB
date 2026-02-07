@@ -1,12 +1,12 @@
-**Acts 21:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:33**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the chief captain came near, and took him, and commanded [him] to be bound with two chains; and demanded who he was, and what he had done.
 <small><sub>**BSB:**</sub></small>
 The commander came up and arrested Paul, ordering that he be bound with two chains. Then he asked who he was and what he had done.
 <small><sub>**Literal:**</sub></small>
 Then having drawn near the commander laid hold of him and he commanded [him] to be bound with chains two and he was inquiring who maybe he would be and what it is he having done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.32|<< Acts 21:32]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.34|Acts 21:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then [^1] |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
 | having drawn near |**<big>[[G1448\|ἐγγίσας]]</big>**  |engisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 2:20** 
+**Proverbs 2:20**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest walk in the way of good [men], and keep the paths of the righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you will follow in the ways of the good, and keep to the paths of the righteo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.19|<< Proverbs 2:19]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.21|Proverbs 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֗עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may walk  |**<big>&#8207;[[H1980I\|תֵּ֭לֵךְ]]&#8207; </big>**| Te.lekh<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

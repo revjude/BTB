@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:21** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel came forth, and he took the horses, and the chariots, and he struck a great calamity against Syria. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter.
-<small><sub>**BSB:**</sub></small>
-Then the king of Israel marched out and attacked the horses and chariots, inflicting a great slaughter on the Arameans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.20|<< 1 Kings 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.22|1 Kings 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

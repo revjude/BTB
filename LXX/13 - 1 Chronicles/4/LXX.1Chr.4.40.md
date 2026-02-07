@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:40** 
 <small><sub>**LXX:**</sub></small>
 And they found fertile and good pasture, and the land broadly spaced before them, and in peace and rest; for the ones dwelling there before \[were\] of the sons of Ham. 
-<small><sub>**KJV:**</sub></small>
-And they found fat pasture and good, and the land [was] wide, and quiet, and peaceable; for [they] of Ham had dwelt there of old.
-<small><sub>**BSB:**</sub></small>
-There they found rich, good pasture, and the land was spacious, peaceful, and quiet; for some Hamites had lived there formerly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.39|<< 1 Chronicles 4:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.41|1 Chronicles 4:41 >>]]</td></tr></table>
 
 | Translation | Greek |

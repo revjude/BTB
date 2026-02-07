@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] releases of \[the\] sea were seen, and the foundations of the inhabitable world were uncovered at the reproach of the <span class="smallcaps">lord</span>, by \[the\] breath of spirit of his rage. 
-<small><sub>**KJV:**</sub></small>
-And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils.
-<small><sub>**BSB:**</sub></small>
-The channels of the sea appeared, and the foundations of the world were exposed at the rebuke of the LORD, at the blast of the breath of His nostrils.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.15|<< 2 Samuel 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.17|2 Samuel 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

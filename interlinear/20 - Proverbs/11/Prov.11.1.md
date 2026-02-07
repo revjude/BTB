@@ -1,4 +1,4 @@
-**Proverbs 11:1** 
+**Proverbs 11:1**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A false balance [is] abomination to the LORD: but a just weight [is] his delight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dishonest scales are an abomination to the LORD, but an accurate weight is His d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.32|<< Proverbs 10:32]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.2|Proverbs 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | scales of  |**<big>&#8207;[[H3976\|מֹאזְנֵ֣י]]&#8207; </big>**| moz.Nei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deceit  |**<big>&#8207;[[H4820\|מִ֭רְמָה]]&#8207; </big>**| Mir.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

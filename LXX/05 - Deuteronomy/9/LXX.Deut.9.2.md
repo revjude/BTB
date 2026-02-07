@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:2** 
 <small><sub>**LXX:**</sub></small>
 a people great and populous and tall -- sons of Anak whom you know, and you have heard \[said\], Who can withstand against \[the\] face of \[the\] sons of Anak? 
-<small><sub>**KJV:**</sub></small>
-A people great and tall, the children of the Anakims, whom thou knowest, and [of whom] thou hast heard [say], Who can stand before the children of Anak!
-<small><sub>**BSB:**</sub></small>
-The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.1|<< Deuteronomy 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.3|Deuteronomy 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

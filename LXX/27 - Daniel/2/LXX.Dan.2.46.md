@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then  king Nebuchadnezzar fell upon \[his\] face, and  did obeisance to Daniel, and said to offer a libation to him of a gift \[offering\] and of a pleasant aroma \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.
-<small><sub>**BSB:**</sub></small>
-At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordered that an offering and incense be presented to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.45|<< Daniel 2:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.47|Daniel 2:47 >>]]</td></tr></table>
 
 | Translation | Greek |

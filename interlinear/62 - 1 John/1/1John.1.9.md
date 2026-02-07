@@ -1,12 +1,12 @@
-**1 John 1:9
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:9**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.
 <small><sub>**BSB:**</sub></small>
 If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
 <small><sub>**Literal:**</sub></small>
 If we shall confess the sins of us, faithful He is and just that He may forgive us <the> [our] sins and may cleanse us from all unrighteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.8|<< 1 John 1:8]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.10|1 John 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we shall confess |**<big>[[G3670\|ὁμολογῶμεν]]</big>**  |homologōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

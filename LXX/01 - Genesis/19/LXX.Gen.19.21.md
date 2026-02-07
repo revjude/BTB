@@ -1,10 +1,7 @@
 **LXX Genesis 19:21** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Behold, I admired your  countenance over  this saying,  \[that I\] should not eradicate the city, concerning of which you spoke. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken.
-<small><sub>**BSB:**</sub></small>
-“Very well,” he answered, “I will grant this request as well, and will not demolish the town you indicate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.20|<< Genesis 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.22|Genesis 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

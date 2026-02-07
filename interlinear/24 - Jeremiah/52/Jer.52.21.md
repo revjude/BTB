@@ -1,4 +1,4 @@
-**Jeremiah 52:21** 
+**Jeremiah 52:21**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [concerning] the pillars, the height of one pillar [was] eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof [was] four fingers: [it was] hollow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each pillar was eighteen cubits tall and twelve cubits in circumference; each wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.20|<< Jeremiah 52:20]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.22|Jeremiah 52:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the pillars  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5982G\|עַמּוּדִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] eight-  |**<big>&#8207;[[H8083\|שְׁמֹנֶ֨ה]]&#8207; </big>**| she.mo.Neh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

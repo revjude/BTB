@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:5** 
 <small><sub>**LXX:**</sub></small>
 And the city came into conflict until \[the\] eleventh year \[to\] king Zedekiah. 
-<small><sub>**KJV:**</sub></small>
-So the city was besieged unto the eleventh year of king Zedekiah.
-<small><sub>**BSB:**</sub></small>
-And the city was kept under siege until King Zedekiah’s eleventh year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.4|<< Jeremiah 52:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.6|Jeremiah 52:6 >>]]</td></tr></table>
 
 | Translation | Greek |

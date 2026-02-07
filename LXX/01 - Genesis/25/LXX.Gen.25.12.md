@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these are the origins of Ishmael, the son of Abraham, whom Hagar bore (the Egyptian  maidservant of Sarah)  to Abraham. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:
-<small><sub>**BSB:**</sub></small>
-This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.11|<< Genesis 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.13|Genesis 25:13 >>]]</td></tr></table>
 
 | Translation | Greek |

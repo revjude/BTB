@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:21** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever many evils and afflictions shall find him, and this ode shall stand firm witnessing against their face. For they should not forget \[it\] from their mouth, and from \[the\] mouth  of their seed. For I perceive  their wickedness, as much as they do here today, before  my bringing them into the good land which I swore by an oath \[to\] their fathers. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.
-<small><sub>**BSB:**</sub></small>
-And when many troubles and afflictions have come upon them, this song will testify against them, because it will not be forgotten from the lips of their descendants. For I know their inclination, even before I bring them into the land that I swore to give them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.20|<< Deuteronomy 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.22|Deuteronomy 31:22 >>]]</td></tr></table>
 
 | Translation | Greek |

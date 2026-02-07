@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:25** 
 <small><sub>**LXX:**</sub></small>
 then you shall render for them of silver, and you shall take the silver in  your hands, and you shall go to the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose it. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou turn [it] into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:
-<small><sub>**BSB:**</sub></small>
-then exchange it for money, take the money in your hand, and go to the place the LORD your God will choose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.24|<< Deuteronomy 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.26|Deuteronomy 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

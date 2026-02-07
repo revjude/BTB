@@ -1,4 +1,4 @@
-**2 Kings 11:21** (12:1)
+**2 Kings 11:21**<big><big>[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven years old [was] Jehoash when he began to reign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joash was seven years old when he became king.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.20|<< 2 Kings 11:20]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.1|2 Kings 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֥בַע]]&#8207; </big>**| She.va'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

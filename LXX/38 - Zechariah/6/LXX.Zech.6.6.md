@@ -1,10 +1,7 @@
 **LXX Zechariah 6:6** 
 <small><sub>**LXX:**</sub></small>
 with which were the black horses -- they went forth upon \[the\] land of \[the\] north; and the white -- they went forth after them; and the spotted -- they went forth upon \[the\] land of \[the\] south, 
-<small><sub>**KJV:**</sub></small>
-The black horses which [are] therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
-<small><sub>**BSB:**</sub></small>
-The one with the black horses is going toward the land of the north, the one with the white horses toward the west, and the one with the dappled horses toward the south.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.5|<< Zechariah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.7|Zechariah 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

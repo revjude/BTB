@@ -1,12 +1,12 @@
-**1 Corinthians 14:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:1**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Follow after charity, and desire spiritual [gifts], but rather that ye may prophesy.
 <small><sub>**BSB:**</sub></small>
 Earnestly pursue love and eagerly desire spiritual gifts, especially the gift of prophecy.
 <small><sub>**Literal:**</sub></small>
 do earnestly pursue <the> love; do earnestly desire now <the> spiritual gifts, especially now that you may prophesy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.13|<< 1 Corinthians 13:13]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.2|1 Corinthians 14:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do earnestly pursue |**<big>[[G1377\|Διώκετε]]</big>**  |Diōkete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

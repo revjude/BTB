@@ -1,12 +1,12 @@
-**Galatians 3:19
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:19**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore then [serveth] the law? It was added because of transgressions, till the seed should come to whom the promise was made; [and it was] ordained by angels in the hand of a mediator.
 <small><sub>**BSB:**</sub></small>
 Why then was the law given? It was added because of transgressions, until the arrival of the seed to whom the promise referred. It was administered through angels by a mediator.
 <small><sub>**Literal:**</sub></small>
 Why then the Law? <the> transgressions Because of it was added until that may have come the seed to whom promise has been made, having been ordained through angels in [the] hand of a mediator.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.18|<< Galatians 3:18]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.20|Galatians 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

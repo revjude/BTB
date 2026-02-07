@@ -1,10 +1,7 @@
 **LXX Esther 9:6** 
 <small><sub>**LXX:**</sub></small>
 And in Shushan the city the Jews killed five hundred men -- 
-<small><sub>**KJV:**</sub></small>
-And in Shushan the palace the Jews slew and destroyed five hundred men.
-<small><sub>**BSB:**</sub></small>
-In the citadel of Susa, the Jews killed and destroyed five hundred men,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.4|<< Esther 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.7|Esther 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

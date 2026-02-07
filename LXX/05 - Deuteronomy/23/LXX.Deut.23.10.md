@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:10** 
 <small><sub>**LXX:**</sub></small>
 If there might be among you a man who is not clean because of his flow by night, then he shall go forth outside the camp, and he shall not enter into the camp. 
-<small><sub>**KJV:**</sub></small>
-If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:
-<small><sub>**BSB:**</sub></small>
-If any man among you becomes unclean because of a nocturnal emission, he must leave the camp and stay outside.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.9|<< Deuteronomy 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.11|Deuteronomy 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

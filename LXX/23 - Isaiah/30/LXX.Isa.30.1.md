@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe, O children of defectors! Thus says \[the\] <span class="smallcaps">lord</span>, You made counsel, but not through me; and treaties not by  my spirit, to add sins upon sins. 
-<small><sub>**KJV:**</sub></small>
-Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
-<small><sub>**BSB:**</sub></small>
-“Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.24|<< Isaiah 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.2|Isaiah 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

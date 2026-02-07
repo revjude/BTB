@@ -1,10 +1,7 @@
 **LXX Isaiah 60:19** 
 <small><sub>**LXX:**</sub></small>
 And the sun will not be to you any longer for \[the\] light of day, nor \[the\] rising moon shall give light to you  at night. But \[the\] <span class="smallcaps">lord</span> will be to you an eternal light, even the God of your glory. 
-<small><sub>**KJV:**</sub></small>
-The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.
-<small><sub>**BSB:**</sub></small>
-No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.18|<< Isaiah 60:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.20|Isaiah 60:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 60:19** is...

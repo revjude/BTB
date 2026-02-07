@@ -1,4 +1,4 @@
-**Isaiah 36:6** 
+**Isaiah 36:6**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt to all that trust in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look now, you are trusting in Egypt, that splintered reed of a staff that will p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.5|<< Isaiah 36:5]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.7|Isaiah 36:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you rely  |**<big>&#8207;[[H0982\|בָטַ֡חְתָּ]]&#8207; </big>**| va.Tach.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

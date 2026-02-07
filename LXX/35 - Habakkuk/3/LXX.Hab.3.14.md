@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:14** 
 <small><sub>**LXX:**</sub></small>
 You cut heads of mighty ones for astonishment; they shall shake in it; they shall open wide their bridles as the poor eating in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open  their reins as \[the\] poor chewing in concealment. 
-<small><sub>**KJV:**</sub></small>
-Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing [was] as to devour the poor secretly.
-<small><sub>**BSB:**</sub></small>
-With his own spear You pierced his head, when his warriors stormed out to scatter us, gloating as though ready to secretly devour the weak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

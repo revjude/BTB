@@ -1,12 +1,12 @@
-**John 1:34
-**<small><sub>**KJV:**</sub></small>
+**John 1:34**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw, and bare record that this is the Son of God.
 <small><sub>**BSB:**</sub></small>
 I have seen and testified that this is the Son of God.”
 <small><sub>**Literal:**</sub></small>
 And I myself have seen and have borne witness that this is the Son <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.33|<< John 1:33]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.35|John 1:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have seen |**<big>[[G3708\|ἑώρακα]]</big>**  |he'ōraka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

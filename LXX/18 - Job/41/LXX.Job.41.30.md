@@ -1,10 +1,7 @@
 **LXX Job 41:30** 
 <small><sub>**LXX:**</sub></small>
  His strewn bed \[is\] of sharp points; and all \[the\] gold of \[the\] sea under him \[is\] as untold mud. 
-<small><sub>**KJV:**</sub></small>
-Sharp stones [are] under him: he spreadeth sharp pointed things upon the mire.
-<small><sub>**BSB:**</sub></small>
-His undersides are jagged potsherds, spreading out the mud like a threshing sledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.29|<< Job 41:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.31|Job 41:31 >>]]</td></tr></table>
 
 | Translation | Greek |

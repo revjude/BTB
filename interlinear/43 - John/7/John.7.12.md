@@ -1,12 +1,12 @@
-**John 7:12
-**<small><sub>**KJV:**</sub></small>
+**John 7:12**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
 <small><sub>**BSB:**</sub></small>
 Many in the crowds were whispering about Him. Some said, “He is a good man.” But others replied, “No, He deceives the people.”
 <small><sub>**Literal:**</sub></small>
 And murmuring about Him there was much among the crowds. Some indeed were saying that Good He is, Others however were saying; No, but He deceives the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.11|<< John 7:11]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.13|John 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | murmuring |**<big>[[G1112\|γογγυσμὸς]]</big>**  |gongusmos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 64:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] city  of your holiness became desolate. Zion became as desolate. Jerusalem for a curse. 
-<small><sub>**KJV:**</sub></small>
-Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.
-<small><sub>**BSB:**</sub></small>
-Your holy cities have become a wilderness. Zion has become a wasteland and Jerusalem a desolation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.9|<< Isaiah 64:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.11|Isaiah 64:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 17:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:2**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,
 <small><sub>**BSB:**</sub></small>
 As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,
 <small><sub>**Literal:**</sub></small>
 According to now the being customary <the> with Paul he went in to them, and for Sabbaths three he reasoned with them from the Scriptures,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.1|<< Acts 17:1]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.3|Acts 17:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | According to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

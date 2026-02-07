@@ -1,10 +1,7 @@
 **LXX Psalm 39:11** 
 <small><sub>**LXX:**</sub></small>
 With rebukes for lawlessness you corrected man; and his life wastes away as a spider's; besides -- every man is folly. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man [is] vanity. Selah.
-<small><sub>**BSB:**</sub></small>
-You discipline and correct a man for his iniquity, consuming like a moth what he holds dear; surely each man is but a vapor. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.10|<< Psalm 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.12|Psalm 39:12 >>]]</td></tr></table>
 
 | Translation | Greek |

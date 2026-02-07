@@ -1,4 +1,4 @@
-**Hosea 10:14** 
+**Hosea 10:14**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon [her] children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the roar of battle will rise against your people, so that all your fortresses wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.13|<< Hosea 10:13]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.15|Hosea 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will arise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6965B\|קָ֣אם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Kam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an uproar  |**<big>&#8207;[[H7588\|שָׁאוֹן֮]]&#8207; </big>**| sha.'On<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 43:1** 
+**Psalms 43:1**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Vindicate me, O God, and plead my case against an ungodly nation; deliver me fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.11|<< Psalms 42:11]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.2|Psalms 43:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vindicate me  |**<big>&#8207;[[H8199\|שָׁפְטֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.fe.Te.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

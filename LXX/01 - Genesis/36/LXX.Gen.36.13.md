@@ -1,10 +1,7 @@
 **LXX Genesis 36:13** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] \[the\] sons of Reuel -- Nahath, Zerah, Shammah, and Mizzah. These were \[the\] sons of Bashemath wife of Esau. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau’s wife.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. They are the grandsons of Esau’s wife Basemath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.12|<< Genesis 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.14|Genesis 36:14 >>]]</td></tr></table>
 
 | Translation | Greek |

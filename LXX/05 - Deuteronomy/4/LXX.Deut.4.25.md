@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:25** 
 <small><sub>**LXX:**</sub></small>
 And if you should procreate sons and sons  of your sons, and you should pass time upon the land, and you should act lawlessly, and you should make a carving representation of any \[thing\], and you should do the wicked \[thing\] in the presence of \[the\] <span class="smallcaps">lord</span>  our God to provoke him to anger, 
-<small><sub>**KJV:**</sub></small>
-When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt [yourselves], and make a graven image, [or] the likeness of any [thing], and shall do evil in the sight of the LORD thy God, to provoke him to anger:
-<small><sub>**BSB:**</sub></small>
-After you have children and grandchildren and you have been in the land a long time, if you then act corruptly and make an idol of any form—doing evil in the sight of the LORD your God and provoking Him to anger—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.24|<< Deuteronomy 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.26|Deuteronomy 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

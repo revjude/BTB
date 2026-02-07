@@ -1,10 +1,7 @@
 **LXX Isaiah 44:4** 
 <small><sub>**LXX:**</sub></small>
 And they shall rise up as grass in the midst of water, and as willows upon water flowing by. 
-<small><sub>**KJV:**</sub></small>
-And they shall spring up [as] among the grass, as willows by the water courses.
-<small><sub>**BSB:**</sub></small>
-They will sprout among the grass like willows by flowing streams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.3|<< Isaiah 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.5|Isaiah 44:5 >>]]</td></tr></table>
 
 | Translation | Greek |

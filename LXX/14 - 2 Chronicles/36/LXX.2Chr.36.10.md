@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And at \[the\] turn of the year king Nebuchadnezzar sent and brought him unto Babylon, with the desirable items of \[the\] house of \[the\] <span class="smallcaps">lord</span>. And Zedekiah \[the\] brother of his father reigned over Judah and Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.
-<small><sub>**BSB:**</sub></small>
-In the spring, King Nebuchadnezzar summoned Jehoiachin and brought him to Babylon, along with the articles of value from the house of the LORD. And he made Jehoiachin’s relative Zedekiah king over Judah and Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.9|<< 2 Chronicles 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.11|2 Chronicles 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 6:17** 
+**Joshua 6:17**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the city shall be accursed, [even] it, and all that [are] therein, to the LORD: only Rahab the harlot shall live, she and all that [are] with her in the house, because she hid the messengers that we sent.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now the city and everything in it must be devoted to the LORD for destruction. O
 > $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֥יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

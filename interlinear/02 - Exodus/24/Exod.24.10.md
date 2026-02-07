@@ -1,4 +1,4 @@
-**Exodus 24:10** 
+**Exodus 24:10**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they saw the God of Israel: and [there was] under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in [his] clearness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and they saw the God of Israel. Under His feet was a work like a pavement made o
 > $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

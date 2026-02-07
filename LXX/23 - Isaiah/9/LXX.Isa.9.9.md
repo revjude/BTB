@@ -1,10 +1,7 @@
 **LXX Isaiah 9:9** 
 <small><sub>**LXX:**</sub></small>
 And all the people of Ephraim shall know, and the ones settling in Samaria, with insolence and a haughty heart, saying, 
-<small><sub>**KJV:**</sub></small>
-And all the people shall know, [even] Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,
-<small><sub>**BSB:**</sub></small>
-All the people will know it—Ephraim and the dwellers of Samaria. With pride and arrogance of heart they will say:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.8|<< Isaiah 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.10|Isaiah 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

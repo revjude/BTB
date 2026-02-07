@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:15** 
 <small><sub>**LXX:**</sub></small>
 Behold, I put before your face today  life and  death,  good and  bad. 
-<small><sub>**KJV:**</sub></small>
-See, I have set before thee this day life and good, and death and evil;
-<small><sub>**BSB:**</sub></small>
-See, I have set before you today life and prosperity, as well as death and disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.14|<< Deuteronomy 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.16|Deuteronomy 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Ephesians 5:1
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:1**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye therefore followers of God, as dear children;
 <small><sub>**BSB:**</sub></small>
 Be imitators of God, therefore, as beloved children,
 <small><sub>**Literal:**</sub></small>
 do be therefore imitators <the> of God as children beloved<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.32|<< Ephesians 4:32]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.2|Ephesians 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be |**<big>[[G1096\|Γίνεσθε]]</big>**  [^1] |Ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

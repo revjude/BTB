@@ -1,10 +1,7 @@
 **LXX Numbers 34:17** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the names of the men, the one who shall allot for you the land -- Eleazar the priest, and Joshua the \[son\] of Nun. 
-<small><sub>**KJV:**</sub></small>
-These [are] the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
-<small><sub>**BSB:**</sub></small>
-“These are the names of the men who are to assign the land as an inheritance for you: Eleazar the priest and Joshua son of Nun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.16|<< Numbers 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.18|Numbers 34:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 7:20** 
 <small><sub>**LXX:**</sub></small>
 And the soul which ever should eat from the meats of the sacrifice of the deliverance, which is \[to the\] <span class="smallcaps">lord</span>, then  his uncleanness \[is\] upon him, that soul shall be destroyed from  its people. 
-<small><sub>**KJV:**</sub></small>
-But the soul that eateth [of] the flesh of the sacrifice of peace offerings, that [pertain] unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.
-<small><sub>**BSB:**</sub></small>
-But if anyone who is unclean eats meat from the peace offering that belongs to the LORD, that person must be cut off from his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.19|<< Leviticus 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.21|Leviticus 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

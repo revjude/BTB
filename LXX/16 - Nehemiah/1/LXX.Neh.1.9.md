@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:9** 
 <small><sub>**LXX:**</sub></small>
 But if you should return to me, and should guard  my commandments, and observe them; and if your dispersion might be unto \[the\] tip of the heaven, from there I will gather them, and I will bring them into the place which I chose to encamp  my name there. 
-<small><sub>**KJV:**</sub></small>
-But [if] ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, [yet] will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.
-<small><sub>**BSB:**</sub></small>
-but if you return to Me and keep and practice My commandments, then even if your exiles have been banished to the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for My Name.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.8|<< Nehemiah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.10|Nehemiah 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 4:26** 
+**2 Kings 4:26**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Run now, I pray thee, to meet her, and say unto her, [Is it] well with thee? [is it] well with thy husband? [is it] well with the child? And she answered, [It is] well.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please run out now to meet her and ask, ‘Are you all right? Is your husband al
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.25|<< 2 Kings 4:25]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.27|2 Kings 4:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֮]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | run  |**<big>&#8207;[[H7323G\|רֽוּץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rutz-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

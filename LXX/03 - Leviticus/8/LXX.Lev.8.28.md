@@ -1,10 +1,7 @@
 **LXX Leviticus 8:28** 
 <small><sub>**LXX:**</sub></small>
 And Moses took from  their hands, and he offered them upon the altar, upon the whole burnt-offering of the consecration, which is a scent of pleasant aroma; it is a yield \[offering\] to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Moses took them from off their hands, and burnt [them] on the altar upon the burnt offering: they [were] consecrations for a sweet savour: it [is] an offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Moses took these from their hands and burned them on the altar with the burnt offering. This was an ordination offering, a pleasing aroma, a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.27|<< Leviticus 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.29|Leviticus 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

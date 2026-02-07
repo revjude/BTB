@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:17** 
 <small><sub>**LXX:**</sub></small>
 In  their standing, \[their wheels\] stood; and in  their rising up on high, \[the wheels\] rose up on high with them; because spirit of life was in them. 
-<small><sub>**KJV:**</sub></small>
-When they stood, [these] stood; and when they were lifted up, [these] lifted up themselves [also]: for the spirit of the living creature [was] in them.
-<small><sub>**BSB:**</sub></small>
-When the cherubim stood still, the wheels also stood still, and when they ascended, the wheels ascended with them, for the spirit of the living creatures was in the wheels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.16|<< Ezekiel 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.18|Ezekiel 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

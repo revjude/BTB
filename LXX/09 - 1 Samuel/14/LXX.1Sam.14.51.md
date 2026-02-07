@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:51** 
 <small><sub>**LXX:**</sub></small>
 And Kish \[was the\] father of Saul, and Ner \[the\] father of Abner son of of Abiel. 
-<small><sub>**KJV:**</sub></small>
-And Kish [was] the father of Saul; and Ner the father of Abner [was] the son of Abiel.
-<small><sub>**BSB:**</sub></small>
-Saul’s father Kish and Abner’s father Ner were sons of Abiel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.50|<< 1 Samuel 14:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.52|1 Samuel 14:52 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 36:40** 
+**Genesis 36:40**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the dukes [that came] of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of Esau’s chiefs, according to their families and regions,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.39|<< Genesis 36:39]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.41|Genesis 36:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0428\|אֵלֶּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֞וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:2** 
 <small><sub>**LXX:**</sub></small>
 And if your brother \[is\] not near to you, nor do you know him, you shall bring them inside into  your house; and it shall be with you until whenever your brother should seek them, and you shall give them back to him. 
-<small><sub>**KJV:**</sub></small>
-And if thy brother [be] not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.
-<small><sub>**BSB:**</sub></small>
-If your brother does not live near you, or if you do not know who he is, you are to take the animal home to remain with you until your brother comes seeking it; then you can return it to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.1|<< Deuteronomy 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.3|Deuteronomy 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 10:23** 
 <small><sub>**LXX:**</sub></small>
 And not did anyone know  his brother, and not did anyone rise up from  his bed \[for\] three days. But to all the sons of Israel \[there\] was light in all \[places\] in which they occupied. 
-<small><sub>**KJV:**</sub></small>
-They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
-<small><sub>**BSB:**</sub></small>
-No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.22|<< Exodus 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.24|Exodus 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

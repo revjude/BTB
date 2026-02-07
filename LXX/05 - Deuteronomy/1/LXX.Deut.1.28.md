@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:28** 
 <small><sub>**LXX:**</sub></small>
 Where do we ascend?  And our brethren our heart to abstain, saying, \[It is\] a great and populous nation, and mightier than we; and great cities, and walled unto the heaven; moreover also we saw sons of giants there. 
-<small><sub>**KJV:**</sub></small>
-Whither shall we go up? our brethren have discouraged our heart, saying, The people [is] greater and taller than we; the cities [are] great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
-<small><sub>**BSB:**</sub></small>
-Where can we go? Our brothers have made our hearts melt, saying: ‘The people are larger and taller than we are; the cities are large, with walls up to the heavens. We even saw the descendants of the Anakim there.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.27|<< Deuteronomy 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.29|Deuteronomy 1:29 >>]]</td></tr></table>
 
 | Translation | Greek |

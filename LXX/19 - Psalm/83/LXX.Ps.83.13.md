@@ -1,10 +1,7 @@
 **LXX Psalm 83:13** 
 <small><sub>**LXX:**</sub></small>
 O my God, make them as a whirlwind; as stubble against \[the\] face of \[the\] wind! 
-<small><sub>**KJV:**</sub></small>
-O my God, make them like a wheel; as the stubble before the wind.
-<small><sub>**BSB:**</sub></small>
-Make them like tumbleweed, O my God, like chaff before the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.12|<< Psalm 83:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.14|Psalm 83:14 >>]]</td></tr></table>
 
 | Translation | Greek |

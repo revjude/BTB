@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:22** 
 <small><sub>**LXX:**</sub></small>
 and Jokim, and \[the\] men of Chozeba, and Joash, and Saraph; the ones who exercised authority in Moab. And they returned to Lehem. And the words are old. 
-<small><sub>**KJV:**</sub></small>
-And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And [these are] ancient things.
-<small><sub>**BSB:**</sub></small>
-Jokim, the men of Cozeba, and Joash and Saraph, who ruled in Moab and Jashubi-lehem. (These names are from ancient records.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.21|<< 1 Chronicles 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.23|1 Chronicles 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

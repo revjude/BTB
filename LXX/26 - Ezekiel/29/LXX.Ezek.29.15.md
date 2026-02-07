@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:15** 
 <small><sub>**LXX:**</sub></small>
 more than all the rules,  it shall be least  to not be raised up high any more over the nations. And I will make them very few, \[so as for\] them to not be many among the nations. 
-<small><sub>**KJV:**</sub></small>
-It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
-<small><sub>**BSB:**</sub></small>
-Egypt will be the lowliest of kingdoms and will never again exalt itself above the nations. For I will diminish Egypt so that it will never again rule over the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.14|<< Ezekiel 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.16|Ezekiel 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:17** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the borders from the sea, from the courtyard  of Enan, \[the\] limits of Damascus, and the \[places\] towards \[the\] north, and the limits of Hamath the \[places\] towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And [this is] the north side.
-<small><sub>**BSB:**</sub></small>
-So the border will run from the Sea to Hazar-enan, along the northern border of Damascus, with the territory of Hamath to the north. This will be the northern boundary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.16|<< Ezekiel 47:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.18|Ezekiel 47:18 >>]]</td></tr></table>
 
 | Translation | Greek |

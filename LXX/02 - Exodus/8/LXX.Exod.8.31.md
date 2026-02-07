@@ -1,10 +1,7 @@
 **LXX Exodus 8:31** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did just as Moses said, and removed the dog-fly from Pharaoh, and from  his attendants, and from  his people; and he did not leave behind even one. 
-<small><sub>**KJV:**</sub></small>
-And the LORD did according to the word of Moses; and he removed the swarms [of flies] from Pharaoh, from his servants, and from his people; there remained not one.
-<small><sub>**BSB:**</sub></small>
-and the LORD did as Moses requested. He removed the swarms of flies from Pharaoh and his officials and his people; not one fly remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.30|<< Exodus 8:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.32|Exodus 8:32 >>]]</td></tr></table>
 
 | Translation | Greek |

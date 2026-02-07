@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:19** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Whenever I should appoint you a city for being made desolate, as the cities  not being dwelt in,  in my leading the deep upon you, and much water shall cover you up, 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘When I make you a desolate city like other deserted cities, and when I raise up the deep against you so that the mighty waters cover you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.18|<< Ezekiel 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.20|Ezekiel 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

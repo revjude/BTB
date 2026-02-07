@@ -1,4 +1,4 @@
-**Proverbs 8:27** 
+**Proverbs 8:27**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he prepared the heavens, I [was] there: when he set a compass upon the face of the depth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I was there when He established the heavens, when He inscribed a circle on the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.26|<< Proverbs 8:26]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.28|Proverbs 8:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when established he  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3559H\|הֲכִינ֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> ha.khi.N<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

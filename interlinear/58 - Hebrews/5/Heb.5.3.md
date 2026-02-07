@@ -1,12 +1,12 @@
-**Hebrews 5:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:3**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And by reason hereof he ought, as for the people, so also for himself, to offer for sins.
 <small><sub>**BSB:**</sub></small>
 That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people.
 <small><sub>**Literal:**</sub></small>
 and because of this he is obligated, even as for the people so also for himself to offer sacrifices for sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.2|<< Hebrews 5:2]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.4|Hebrews 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because of |**<big>[[G1223\|δι᾽]]</big>**  [^1] |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

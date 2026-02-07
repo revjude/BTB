@@ -1,10 +1,7 @@
 **LXX Daniel 2:39** 
 <small><sub>**LXX:**</sub></small>
 And after you shall arise another kingdom inferior of you, and a third kingdom which is the brass, which shall dominate \[over\] all the earth. 
-<small><sub>**KJV:**</sub></small>
-And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
-<small><sub>**BSB:**</sub></small>
-But after you, there will arise another kingdom, inferior to yours. Next, a third kingdom, one of bronze, will rule the whole earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.38|<< Daniel 2:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.40|Daniel 2:40 >>]]</td></tr></table>
 
 | Translation | Greek |

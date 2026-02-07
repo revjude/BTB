@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:5** 
 <small><sub>**LXX:**</sub></small>
 And they passed over the Jordan, and they camped in Aroer at \[the\] right of the city of the one in \[the\] midst of the ravine of Gad and Eleizer. 
-<small><sub>**KJV:**</sub></small>
-And they passed over Jordan, and pitched in Aroer, on the right side of the city that [lieth] in the midst of the river of Gad, and toward Jazer:
-<small><sub>**BSB:**</sub></small>
-They crossed the Jordan and camped near Aroer, south of the town in the middle of the valley, and proceeded toward Gad and Jazer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.4|<< 2 Samuel 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.6|2 Samuel 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

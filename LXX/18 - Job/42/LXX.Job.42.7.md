@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the <span class="smallcaps">lord</span> speaking all  these words  to Job, the <span class="smallcaps">lord</span> said to Eliphaz the Temanite, You sinned and  your two friends, for you spoke not anything before me true, as  my attendant Job. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me [the thing that is] right, as my servant Job [hath].
-<small><sub>**BSB:**</sub></small>
-After the LORD had spoken these words to Job, He said to Eliphaz the Temanite, “My wrath is kindled against you and your two friends. For you have not spoken about Me accurately, as My servant Job has.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.6|<< Job 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.8|Job 42:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,6 +1,6 @@
 (KJV) **Matthew 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18|<< Matthew 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20|Matthew 20 >>]]</td></tr></table>
 
-***Teachings about Divorce***&emsp;<small><sup>\[ [[Mark.10|Mark 10:1–12]] ]</sup></small> ^bsb2195
+<big><big>[[Matt.19.1 Teachings about Divorce|⥃]]</big></big>***Teachings about Divorce***&emsp;<small><sup>\[ [[Mark.10|Mark 10:1–12]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Matt.19.1|1]]**<span class="endversemarker">]</span> And it came to pass, \[that\] when<small><small>[^2]</small></small> Jesus had finished these sayings, he departed<small><small>[^3]</small></small> from Galilee, and came into the coasts of Judea beyond Jordan; <span class="startversemarker">[</span>**[[Matt.19.2|2]]**<span class="endversemarker">]</span> And great multitudes followed him; and he healed them there.<small><small>[^4]</small></small> 
 
@@ -8,13 +8,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.19.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Matt.19.10|10]]**<span class="endversemarker">]</span> His disciples say unto him, If the case of the man be so with \[his\] wife, it is not good to marry.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Matt.19.11|11]]**<span class="endversemarker">]</span> But he said unto them, <span style="color:red;">All \[men\] cannot receive this saying, save \[they\] to whom it is given.</span><small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[Matt.19.12|12]]**<span class="endversemarker">]</span> <span style="color:red;">For there are some eunuchs, which were so born from \[their\] mother’s womb: and there are some eunuchs, which were made<small><small>[^24]</small></small> eunuchs of men: and there be eunuchs, which have<small><small>[^25]</small></small> made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive \[it\], let him receive \[it\].</span>
 
-***Jesus Blesses the Children***&emsp;<small><sup>\[ [[Mark.10|Mark 10:13–16]] <big>†</big> [[Luke.18|Luke 18:15–17]] ]</sup></small> ^bsb2196
+<big><big>[[Matt.19.13 Jesus Blesses the Children|⥃]]</big></big>***Jesus Blesses the Children***&emsp;<small><sup>\[ [[Mark.10|Mark 10:13–16]] <big>†</big> [[Luke.18|Luke 18:15–17]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Matt.19.13|13]]**<span class="endversemarker">]</span> Then were there brought<small><small>[^26]</small></small> unto him little children, that he should put \[his\] hands on them, and pray: and the<small><small>[^27]</small></small> disciples rebuked them. <span class="startversemarker">[</span>**[[Matt.19.14|14]]**<span class="endversemarker">]</span> But Jesus said, <span style="color:red;">Suffer<small><small>[^28]</small></small> little children, and for<small><small>[^29]</small></small>bid them not, to come unto me: for of such is the kingdom of heaven.</span> <span class="startversemarker">[</span>**[[Matt.19.15|15]]**<span class="endversemarker">]</span> And he laid \[his\] hands on them, and departed thence.<small><small>[^30]</small></small>
 
-***The Rich Young Man***&emsp;<small><sup>\[ [[Mark.10|Mark 10:17–31]] <big>†</big> [[Luke.18|Luke 18:18–30]] ]</sup></small> ^bsb2197
+<big><big>[[Matt.19.16 The Rich Young Man|⥃]]</big></big>***The Rich Young Man***&emsp;<small><sup>\[ [[Mark.10|Mark 10:17–31]] <big>†</big> [[Luke.18|Luke 18:18–30]] ]</sup></small>
 
  
 

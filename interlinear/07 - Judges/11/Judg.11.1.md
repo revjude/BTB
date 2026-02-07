@@ -1,4 +1,4 @@
-**Judges 11:1** 
+**Judges 11:1**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jephthah the Gileadite was a mighty man of valour, and he [was] the son of an harlot: and Gilead begat Jephthah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prosti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.18|<< Judges 10:18]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.2|Judges 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jephthah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3316H\|יִפְתָּ֣ח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yif.Tach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Gileadite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1569\|גִּלְעָדִ֗י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

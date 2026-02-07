@@ -1,4 +1,4 @@
-**Ecclesiastes 3:16** 
+**Ecclesiastes 3:16**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And moreover I saw under the sun the place of judgment, [that] wickedness [was] there; and the place of righteousness, [that] iniquity [was] there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, I saw under the sun that in the place of judgment there is wickedne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.15|<< Ecclesiastes 3:15]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.17|Ecclesiastes 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and again  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have seen  |**<big>&#8207;[[H7200G\|רָאִ֖יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

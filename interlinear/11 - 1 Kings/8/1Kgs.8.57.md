@@ -1,4 +1,4 @@
-**1 Kings 8:57** 
+**1 Kings 8:57**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD our God be with us, as he was with our fathers: let him not leave us, nor forsake us:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the LORD our God be with us, as He was with our fathers. May He never leave 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.56|<< 1 Kings 8:56]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.58|1 Kings 8:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he be  |**<big>&#8207;[[H1961\|יְהִ֨י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

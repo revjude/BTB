@@ -1,10 +1,7 @@
 **LXX Genesis 43:5** 
 <small><sub>**LXX:**</sub></small>
 But if you do not send  our brother with us, we will not go, for the man said to us, saying, You shall not see my  face if your younger brother should not be with you. 
-<small><sub>**KJV:**</sub></small>
-But if thou wilt not send [him], we will not go down: for the man said unto us, Ye shall not see my face, except your brother [be] with you.
-<small><sub>**BSB:**</sub></small>
-But if you will not send him, we will not go; for the man told us, ‘You will not see my face again unless your brother is with you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
 
 | Translation | Greek |

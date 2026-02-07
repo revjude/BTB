@@ -1,12 +1,12 @@
-**1 Corinthians 3:22
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:22**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 <small><sub>**BSB:**</sub></small>
 whether Paul or Apollos or Cephas or the world or life or death or the present or the future. All of them belong to you,
 <small><sub>**Literal:**</sub></small>
 whether Paul or Apollos or Cephas or [the] world or life or death or things being present or things to come — all yours is —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.21|<< 1 Corinthians 3:21]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.23|1 Corinthians 3:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whether |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

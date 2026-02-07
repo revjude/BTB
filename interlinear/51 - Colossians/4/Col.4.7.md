@@ -1,12 +1,12 @@
-**Colossians 4:7
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:7**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:
 <small><sub>**BSB:**</sub></small>
 Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord.
 <small><sub>**Literal:**</sub></small>
 The [things] concerning me myself all will make known to you Tychicus the beloved brother and faithful servant and fellow bond-servant in [the] Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.6|<< Colossians 4:6]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.8|Colossians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [things] |**<big>[[G3588\|Τὰ]]</big>**  |Ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | concerning |**<big>[[G2596\|κατ᾽]]</big>**  |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

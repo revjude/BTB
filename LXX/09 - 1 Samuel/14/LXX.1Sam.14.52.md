@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:52** 
 <small><sub>**LXX:**</sub></small>
 And the war was strong against the Philistines all the days of Saul. And Saul in beholding any mighty man, and any man \[being a\] son of power, that he gathered them to himself. 
-<small><sub>**KJV:**</sub></small>
-And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.
-<small><sub>**BSB:**</sub></small>
-And the war with the Philistines was fierce for all the days of Saul. So whenever he noticed any strong or brave man, Saul would enlist him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.51|<< 1 Samuel 14:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.1|1 Samuel 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

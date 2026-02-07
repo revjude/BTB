@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he rose up and went into Sarepta. And he came unto the gate-house of the city. And behold, there a widow woman \[was\] collecting together wood. And Elijah yelled out after her, and said to her, Take indeed for me a little water into a container, and I shall drink. 
-<small><sub>**KJV:**</sub></small>
-So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman [was] there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.
-<small><sub>**BSB:**</sub></small>
-So Elijah got up and went to Zarephath. When he arrived at the city gate, there was a widow gathering sticks. Elijah called to her and said, “Please bring me a little water in a cup, so that I may drink.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.9|<< 1 Kings 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.11|1 Kings 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 19:21** 
 <small><sub>**LXX:**</sub></small>
 Many devices \[are\] in \[the\] heart of a man; but the counsel of the <span class="smallcaps">lord</span> abides into the eon. 
-<small><sub>**KJV:**</sub></small>
-[There are] many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.
-<small><sub>**BSB:**</sub></small>
-Many plans are in a man’s heart, but the purpose of the LORD will prevail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.20|<< Proverbs 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.22|Proverbs 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

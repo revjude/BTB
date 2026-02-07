@@ -1,4 +1,4 @@
-**Ecclesiastes 10:10** 
+**Ecclesiastes 10:10**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom [is] profitable to direct.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the axe is dull and the blade unsharpened, more strength must be exerted, but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.9|<< Ecclesiastes 10:9]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.11|Ecclesiastes 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is blunt  |**<big>&#8207;[[H6949\|קֵהָ֣ה]]&#8207; </big>**| ke.Hah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

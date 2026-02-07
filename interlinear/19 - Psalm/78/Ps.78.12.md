@@ -1,4 +1,4 @@
-**Psalms 78:12** 
+**Psalms 78:12**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Marvellous things did he in the sight of their fathers, in the land of Egypt, [in] the field of Zoan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He worked wonders before their fathers in the land of Egypt, in the region of Zo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.11|<< Psalms 78:11]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.13|Psalms 78:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ancestors their  |**<big>&#8207;[[H0001G\|אֲ֭בוֹתָ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'A.vo.to<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

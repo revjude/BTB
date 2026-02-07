@@ -1,12 +1,12 @@
-**James 1:23
-**<small><sub>**KJV:**</sub></small>
+**James 1:23**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
 <small><sub>**BSB:**</sub></small>
 For anyone who hears the word but does not carry it out is like a man who looks at his face in a mirror,
 <small><sub>**Literal:**</sub></small>
 because if anyone a hearer of [the] word is and not a doer, this one has been likened to a man looking at the face the natural of him in a mirror;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.22|<< James 1:22]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.24|James 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

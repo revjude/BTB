@@ -1,10 +1,7 @@
 **LXX Genesis 38:6** 
 <small><sub>**LXX:**</sub></small>
 And Judah took a wife \[for\] Er  his first-born, whose name \[was\] Tamar. 
-<small><sub>**KJV:**</sub></small>
-And Judah took a wife for Er his firstborn, whose name [was] Tamar.
-<small><sub>**BSB:**</sub></small>
-Now Judah acquired a wife for Er, his firstborn, and her name was Tamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.5|<< Genesis 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.7|Genesis 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

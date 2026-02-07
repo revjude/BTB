@@ -1,10 +1,7 @@
 **LXX Genesis 12:16** 
 <small><sub>**LXX:**</sub></small>
 And  they treated Abram well on account of her, and there existed to him sheep, and calves, and donkeys, and manservants, and maidservants, and mules and camels. 
-<small><sub>**KJV:**</sub></small>
-And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
-<small><sub>**BSB:**</sub></small>
-He treated Abram well on her account, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.15|<< Genesis 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.17|Genesis 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

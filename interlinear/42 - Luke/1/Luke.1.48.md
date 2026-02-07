@@ -1,5 +1,5 @@
-**Luke 1:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:48**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.
 <small><sub>**BSB:**</sub></small>
 For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed.
@@ -10,7 +10,7 @@ For He has looked upon the humiliation of the handmaiden of Him. Behold for from
 > $\quad$ alluding to: [[LXX.1Sam.1.11|1Sam 1:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He has looked |**<big>[[G1914\|ἐπέβλεψεν]]</big>**  |epeblepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 57:12** 
+**Isaiah 57:12**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will declare thy righteousness, and thy works; for they shall not profit thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will expose your righteousness and your works, and they will not profit you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.11|<< Isaiah 57:11]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.13|Isaiah 57:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will declare  |**<big>&#8207;[[H5046\|אַגִּ֖יד]]&#8207; </big>**| 'a.Gid<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

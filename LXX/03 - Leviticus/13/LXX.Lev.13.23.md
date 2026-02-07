@@ -1,10 +1,7 @@
 **LXX Leviticus 13:23** 
 <small><sub>**LXX:**</sub></small>
 And if in its place the radiance should abide, and should not diffuse, it is a discoloration of the lesion, and the priest shall cleanse him. 
-<small><sub>**KJV:**</sub></small>
-But if the bright spot stay in his place, [and] spread not, it [is] a burning boil; and the priest shall pronounce him clean.
-<small><sub>**BSB:**</sub></small>
-But if the spot remains unchanged and does not spread, it is only the scar from the boil, and the priest shall pronounce him clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.22|<< Leviticus 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.24|Leviticus 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

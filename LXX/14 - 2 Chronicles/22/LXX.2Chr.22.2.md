@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:2** 
 <small><sub>**LXX:**</sub></small>
 Ahaziah \[was\] a son being forty and two years \[old\] in  his reigning, and he reigned one year in Jerusalem. And \[the\] name  of his mother \[was\] Athaliah daughter of Omri. 
-<small><sub>**KJV:**</sub></small>
-Forty and two years old [was] Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also [was] Athaliah the daughter of Omri.
-<small><sub>**BSB:**</sub></small>
-Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, the granddaughter of Omri.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.1|<< 2 Chronicles 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.3|2 Chronicles 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

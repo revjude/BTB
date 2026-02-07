@@ -1,4 +1,4 @@
-**2 Chronicles 32:17** 
+**2 Chronicles 32:17**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of [other] lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also wrote letters mocking the LORD, the God of Israel, and saying against Hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.16|<< 2 Chronicles 32:16]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.18|2 Chronicles 32:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and letters  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5612A\|סְפָרִ֣ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he wrote  |**<big>&#8207;[[H3789\|כָּתַ֔ב]]&#8207; </big>**| ka.Tav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

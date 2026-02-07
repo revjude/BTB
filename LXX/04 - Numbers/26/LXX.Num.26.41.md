@@ -1,10 +1,7 @@
 **LXX Numbers 26:41** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the sons of Benjamin according to their peoples by their numbering -- five and forty thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-These [are] the sons of Benjamin after their families: and they that were numbered of them [were] forty and five thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Benjamin, and their registration numbered 45,600.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.42|Numbers 26:42 >>]]</td></tr></table>
 
 | Translation | Greek |

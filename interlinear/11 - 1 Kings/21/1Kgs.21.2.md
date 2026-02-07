@@ -1,4 +1,4 @@
-**1 Kings 21:2** 
+**1 Kings 21:2**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it [is] near unto my house: and I will give thee for it a better vineyard than it; [or], if it seem good to thee, I will give thee the worth of it in money.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.1|<< 1 Kings 21:1]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.3|1 Kings 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahab  |**<big>&#8207;[[H0256G\|אַחְאָ֣ב]]&#8207; </big>**| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

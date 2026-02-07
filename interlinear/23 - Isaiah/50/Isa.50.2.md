@@ -1,4 +1,4 @@
-**Isaiah 50:2** 
+**Isaiah 50:2**<big><big>[[Isa.50.1 Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore, when I came, [was there] no man? when I called, [was there] none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because [there is] no water, and dieth for thirst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why was no one there when I arrived? Why did no one answer when I called? Is My 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.1|<< Isaiah 50:1]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.3|Isaiah 50:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֨וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did I come  |**<big>&#8207;[[H0935G\|בָּ֜אתִי]]&#8207; </big>**| Ba.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

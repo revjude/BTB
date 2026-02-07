@@ -1,4 +1,4 @@
-**Leviticus 18:14** 
+**Leviticus 18:14**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she [is] thine aunt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not dishonor your father’s brother by approaching his wife to have se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.13|<< Leviticus 18:13]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.15|Leviticus 18:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֥ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

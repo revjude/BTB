@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:29** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Absalom did  to Amnon as he gave charge to them. And all the sons of the king rose up, and each mounted upon  his mule, and they fled. 
-<small><sub>**KJV:**</sub></small>
-And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man gat him up upon his mule, and fled.
-<small><sub>**BSB:**</sub></small>
-So Absalom’s young men did to Amnon just as Absalom had ordered. Then all the other sons of the king got up, and each one fled on his mule.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.28|<< 2 Samuel 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.30|2 Samuel 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

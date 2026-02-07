@@ -1,12 +1,12 @@
-**Acts 27:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:25**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.
 <small><sub>**BSB:**</sub></small>
 So take courage, men, for I believe God that it will happen just as He told me.
 <small><sub>**Literal:**</sub></small>
 Therefore take courage men; I believe for <the> in God that thus it will be according to the way it has been said to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.24|<< Acts 27:24]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.26|Acts 27:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | take courage |**<big>[[G2114\|εὐθυμεῖτε]]</big>**  |euthumeite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

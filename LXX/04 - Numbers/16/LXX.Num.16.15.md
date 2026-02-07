@@ -1,10 +1,7 @@
 **LXX Numbers 16:15** 
 <small><sub>**LXX:**</sub></small>
 And Moses \[was\] weighed down exceedingly. And he said to \[the\] <span class="smallcaps">lord</span>, Do not take heed to  their sacrifice, taken not \[the\] desire of any one of them, nor inflicted evil on any one of them. 
-<small><sub>**KJV:**</sub></small>
-And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
-<small><sub>**BSB:**</sub></small>
-Then Moses became very angry and said to the LORD, “Do not regard their offering. I have not taken one donkey from them or mistreated a single one of them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.14|<< Numbers 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.16|Numbers 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

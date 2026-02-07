@@ -1,10 +1,7 @@
 **LXX Psalm 105:34** 
 <small><sub>**LXX:**</sub></small>
 He spoke, and there came forth \[the\] locust and grasshopper, of which there was no number. 
-<small><sub>**KJV:**</sub></small>
-He spake, and the locusts came, and caterpillers, and that without number,
-<small><sub>**BSB:**</sub></small>
-He spoke, and the locusts came—young locusts without number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.33|<< Psalm 105:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.35|Psalm 105:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 16:12** 
 <small><sub>**LXX:**</sub></small>
 This one will be a rugged man;  his hands \[will be\] upon all, and the hands of all upon him. And he will dwell before \[the\] face of all his brothers. 
-<small><sub>**KJV:**</sub></small>
-And he will be a wild man; his hand [will be] against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren.
-<small><sub>**BSB:**</sub></small>
-He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.11|<< Genesis 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.13|Genesis 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

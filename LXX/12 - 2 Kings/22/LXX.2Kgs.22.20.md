@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:20** 
 <small><sub>**LXX:**</sub></small>
 Is it not so, behold, I add you to  your fathers, and you shall be brought into  your tomb in peace. And your eyes shall not see all the bad \[things\] which I bring against  this place. And they returned to the king the word. 
-<small><sub>**KJV:**</sub></small>
-Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.
-<small><sub>**BSB:**</sub></small>
-‘Therefore I will indeed gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the calamity that I will bring on this place.’” So they brought her answer back to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.19|<< 2 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.1|2 Kings 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 15:20
-**<small><sub>**KJV:**</sub></small>
+**John 15:20**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 <small><sub>**BSB:**</sub></small>
 Remember the word that I spoke to you: ‘No servant is greater than his master.’ If they persecuted Me, they will persecute you as well; if they kept My word, they will keep yours as well.
 <small><sub>**Literal:**</sub></small>
 do remember the word that I myself said to you: Not is a servant greater than the master of him. If Me myself they persecuted also you they will persecute; if the word of Mine they kept also <the> yours they will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.19|<< John 15:19]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.21|John 15:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|μνημονεύετε]]</big>**  |mnēmoneuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

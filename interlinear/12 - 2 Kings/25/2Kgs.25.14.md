@@ -1,4 +1,4 @@
-**2 Kings 25:14** 
+**2 Kings 25:14**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also took away the pots, shovels, wick trimmers, dishes, and all the articl
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.13|<< 2 Kings 25:13]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.15|2 Kings 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pots  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5518A\|סִּירֹ֨ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> si.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

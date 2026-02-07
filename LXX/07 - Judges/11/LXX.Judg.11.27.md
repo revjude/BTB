@@ -1,10 +1,7 @@
 **LXX Judges 11:27** 
 <small><sub>**LXX:**</sub></small>
 And I sinned not against you, but you do wickedness with me  to wage war against me. May \[the\] <span class="smallcaps">lord</span> judge, the one judging today, between \[the\] sons of Israel and between \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.26|<< Judges 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.28|Judges 11:28 >>]]</td></tr></table>
 
 | Translation | Greek |

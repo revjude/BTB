@@ -1,4 +1,4 @@
-**Ecclesiastes 2:16** 
+**Ecclesiastes 2:16**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there is] no remembrance of the wise more than of the fool for ever; seeing that which now [is] in the days to come shall all be forgotten. And how dieth the wise [man]? as the fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For there is no lasting remembrance of the wise, just as with the fool, seeing t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.15|<< Ecclesiastes 2:15]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.17|Ecclesiastes 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵ֨ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

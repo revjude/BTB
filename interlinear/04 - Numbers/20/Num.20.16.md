@@ -1,4 +1,4 @@
-**Numbers 20:16** 
+**Numbers 20:16**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we [are] in Kadesh, a city in the uttermost of thy border:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when we cried out to the LORD, He heard our voice, sent an angel, and brough
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.15|<< Numbers 20:15]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.17|Numbers 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|נִּצְעַ֤ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nitz.'Ak<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

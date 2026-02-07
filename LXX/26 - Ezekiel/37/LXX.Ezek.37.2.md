@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:2** 
 <small><sub>**LXX:**</sub></small>
 And he led me unto them, round about in a circuit. And behold, exceedingly many \[were\] upon \[the\] face of the plain -- exceedingly dry. 
-<small><sub>**KJV:**</sub></small>
-And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry.
-<small><sub>**BSB:**</sub></small>
-He led me all around among them, and I saw a great many bones on the floor of the valley, and indeed, they were very dry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.1|<< Ezekiel 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.3|Ezekiel 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

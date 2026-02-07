@@ -1,4 +1,4 @@
-**Numbers 11:13** 
+**Numbers 11:13**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where can I get meat for all these people? For they keep crying out to me, ‘Gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.12|<< Numbers 11:12]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.14|Numbers 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from where?  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0370\|אַ֤יִן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'A.yin<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belong] to \<the> me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 24:43
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:43**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
 <small><sub>**BSB:**</sub></small>
 But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into.
@@ -10,7 +10,7 @@ This then do know, that if [would] had known the master of the house in what tim
 > $\quad$ alluding to: [[LXX.Exod.22.2|Exod 22:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G1565\|ἐκεῖνο]]</big>**  |ekeino <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

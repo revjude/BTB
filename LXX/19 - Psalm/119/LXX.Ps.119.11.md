@@ -1,10 +1,7 @@
 **LXX Psalm 119:11** 
 <small><sub>**LXX:**</sub></small>
 In  my heart I hid  your oracles, so that I should not sin against you. 
-<small><sub>**KJV:**</sub></small>
-Thy word have I hid in mine heart, that I might not sin against thee.
-<small><sub>**BSB:**</sub></small>
-I have hidden Your word in my heart that I might not sin against You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.10|<< Psalm 119:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.12|Psalm 119:12 >>]]</td></tr></table>
 
 | Translation | Greek |

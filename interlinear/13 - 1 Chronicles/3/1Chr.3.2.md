@@ -1,4 +1,4 @@
-**1 Chronicles 3:2** 
+**1 Chronicles 3:2**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the third was Absalom the son of Maacah daughter of King Talmai of Geshur; the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.1|<< 1 Chronicles 3:1]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.3|1 Chronicles 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִׁי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֣וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

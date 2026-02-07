@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:4** 
 <small><sub>**LXX:**</sub></small>
 Being sanctified of the land there shall be a \[portion\] to the priests, to the ones ministering in the holy \[place\], and it will be for the ones approaching to minister to the <span class="smallcaps">lord</span>. And it will be to them a place for houses being separated  for their sanctification. 
-<small><sub>**KJV:**</sub></small>
-The holy [portion] of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary.
-<small><sub>**BSB:**</sub></small>
-It will be a holy portion of the land to be used by the priests who minister in the sanctuary, who draw near to minister before the LORD. It will be a place for their houses, as well as a holy area for the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.3|<< Ezekiel 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.5|Ezekiel 45:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 20:28** 
+**Ezekiel 20:28**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [For] when I had brought them into the land, [for] the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I brought them into the land that I swore to give them and they saw any hig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.27|<< Ezekiel 20:27]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.29|Ezekiel 20:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought them  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935P\|אֲבִיאֵ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vi.'E<small><sup>[[HVhw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

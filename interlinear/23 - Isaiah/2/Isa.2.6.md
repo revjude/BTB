@@ -1,4 +1,4 @@
-**Isaiah 2:6** 
+**Isaiah 2:6**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and [are] soothsayers like the Philistines, and they please themselves in the children of strangers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You have abandoned Your people, the house of Jacob, because they are filled 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.5|<< Isaiah 2:5]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.7|Isaiah 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have abandoned  |**<big>&#8207;[[H5203\|נָטַ֗שְׁתָּה]]&#8207; </big>**| na.Tash.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

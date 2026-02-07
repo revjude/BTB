@@ -1,5 +1,5 @@
-**1 Corinthians 6:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:16**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.
 <small><sub>**BSB:**</sub></small>
 Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.”
@@ -10,7 +10,7 @@ Or surely you know that who is being joined to the prostitute one body is? Will 
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

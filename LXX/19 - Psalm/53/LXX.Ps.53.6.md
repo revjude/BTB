@@ -1,10 +1,7 @@
 **LXX Psalm 53:6** 
 <small><sub>**LXX:**</sub></small>
 Who will appoint from out of Zion  deliverance  for Israel? In  God returning the captivity  of his people, Jacob shall exult and Israel shall be glad. 
-<small><sub>**KJV:**</sub></small>
-Oh that the salvation of Israel [were come] out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.
-<small><sub>**BSB:**</sub></small>
-Oh, that the salvation of Israel would come from Zion! When God restores His captive people, let Jacob rejoice, let Israel be glad!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.53.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.53.5|<< Psalm 53:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.54.1|Psalm 54:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 23:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:30**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when it was told me how that the Jews laid wait for the man, I sent straightway to thee, and gave commandment to his accusers also to say before thee what [they had] against him. Farewell.
 <small><sub>**BSB:**</sub></small>
 When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you.
 <small><sub>**Literal:**</sub></small>
 When was being disclosed then to me a plot that against the man to be about to going to happen by the Jews at once I sent [him] to you having instructed also to the accusers to speak the [things] against him before you. Farewell!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.29|<< Acts 23:29]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.31|Acts 23:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was being disclosed |**<big>[[G3377\|μηνυθείσης]]</big>**  |mēnutheisēs <small><sup>[[V-APP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

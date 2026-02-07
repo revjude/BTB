@@ -1,4 +1,4 @@
-**Job 4:6** 
+**Job 4:6**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is your reverence not your confidence, and the uprightness of your ways your hop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.5|<< Job 4:5]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.7|Job 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] fear your  |**<big>&#8207;[[H3374\|יִ֭רְאָתְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Yir.'a.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

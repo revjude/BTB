@@ -1,4 +1,4 @@
-**Isaiah 65:10** 
+**Isaiah 65:10**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sharon will become a pasture for flocks, and the Valley of Achor a resting place
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.9|<< Isaiah 65:9]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.11|Isaiah 65:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Sharon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8289I\|שָּׁרוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.rOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

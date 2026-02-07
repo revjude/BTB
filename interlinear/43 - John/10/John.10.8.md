@@ -1,12 +1,12 @@
-**John 10:8
-**<small><sub>**KJV:**</sub></small>
+**John 10:8**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All that ever came before me are thieves and robbers: but the sheep did not hear them.
 <small><sub>**BSB:**</sub></small>
 All who came before Me were thieves and robbers, but the sheep did not listen to them.
 <small><sub>**Literal:**</sub></small>
 All as many as came before Me thieves are and robbers; but not did listen to them the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.7|<< John 10:7]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.9|John 10:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as many as |**<big>[[G3745\|ὅσοι]]</big>**  |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

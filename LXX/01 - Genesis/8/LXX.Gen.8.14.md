@@ -1,10 +1,7 @@
 **LXX Genesis 8:14** 
 <small><sub>**LXX:**</sub></small>
 And in the second month, seventh and twentieth of the month, the earth was dried. 
-<small><sub>**KJV:**</sub></small>
-And in the second month, on the seven and twentieth day of the month, was the earth dried.
-<small><sub>**BSB:**</sub></small>
-By the twenty-seventh day of the second month, the earth was fully dry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.13|<< Genesis 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.15|Genesis 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

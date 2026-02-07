@@ -1,4 +1,4 @@
-**Ezekiel 24:5** 
+**Ezekiel 24:5**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the choice of the flock, and burn also the bones under it, [and] make it boil well, and let them seethe the bones of it therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the choicest of the flock and pile the fuel beneath it. Bring it to a boil 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.4|<< Ezekiel 24:4]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.6|Ezekiel 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] choicest of  |**<big>&#8207;[[H4005\|מִבְחַ֤ר]]&#8207; </big>**| miv.Char<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the flock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6629G\|צֹּאן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzoN<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

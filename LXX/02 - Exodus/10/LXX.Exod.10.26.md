@@ -1,10 +1,7 @@
 **LXX Exodus 10:26** 
 <small><sub>**LXX:**</sub></small>
 And  our cattle shall go with us, and we shall not leave behind a hoof. For of them we shall take to serve \[the\] <span class="smallcaps">lord</span>  our God. But we know not how we shall serve \[the\] <span class="smallcaps">lord</span>  our God until the arriving of us there. 
-<small><sub>**KJV:**</sub></small>
-Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither.
-<small><sub>**BSB:**</sub></small>
-Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.25|<< Exodus 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.27|Exodus 10:27 >>]]</td></tr></table>
 
 | Translation | Greek |

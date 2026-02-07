@@ -1,4 +1,4 @@
-**2 Chronicles 4:3** 
+**2 Chronicles 4:3**<big><big>[[2Chr.4.1 The Bronze Altar and Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under it [was] the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen [were] cast, when it was cast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Below the rim, figures of oxen encircled it, ten per cubit all the way around th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.2|<< 2 Chronicles 4:2]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.4|2 Chronicles 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] likeness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1823\|דְמ֣וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oxen  |**<big>&#8207;[[H1241\|בְּקָרִים֩]]&#8207; </big>**| be.ka.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 122:3** 
+**Psalms 122:3**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jerusalem is builded as a city that is compact together:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jerusalem is built up as a city united together,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.2|<< Psalms 122:2]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.4|Psalms 122:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֥ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which was built  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בְּנוּיָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.nu.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

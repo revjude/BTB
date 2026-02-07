@@ -1,4 +1,4 @@
-**Psalms 78:4** 
+**Psalms 78:4**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will not hide them from their children but will declare to the next generatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.3|<< Psalms 78:3]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.5|Psalms 78:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will hide  |**<big>&#8207;[[H3582\|נְכַחֵ֨ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ne.kha.Ched<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

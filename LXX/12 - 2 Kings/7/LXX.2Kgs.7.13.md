@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:13** 
 <small><sub>**LXX:**</sub></small>
 And answered one  of his servants, and said, Let them take indeed five of the horses, of the ones being left behind, which they left behind here. Behold, they are for all the multitude of Israel  faltering; for we will send there and see. 
-<small><sub>**KJV:**</sub></small>
-And one of his servants answered and said, Let [some] take, I pray thee, five of the horses that remain, which are left in the city, (behold, they [are] as all the multitude of Israel that are left in it: behold, [I say], they [are] even as all the multitude of the Israelites that are consumed:) and let us send and see.
-<small><sub>**BSB:**</sub></small>
-But one of his servants replied, “Please, have scouts take five of the horses that remain in the city. Their plight will be no worse than all the Israelites who are left here. You can see that all the Israelites here are doomed. So let us send them and find out.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 20:32** 
+**1 Kings 20:32**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they girded sackcloth on their loins, and [put] ropes on their heads, and came to the king of Israel, and said, Thy servant Benhadad saith, I pray thee, let me live. And he said, [Is] he yet alive? he [is] my brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So with sackcloth around their waists and ropes around their heads, they went to
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.31|<< 1 Kings 20:31]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.33|1 Kings 20:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they girded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2296\|יַּחְגְּרוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.ge.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sackcloth\<s>  |**<big>&#8207;[[H8242\|שַׂקִּ֨ים]]&#8207; </big>**| sa.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

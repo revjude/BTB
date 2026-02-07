@@ -1,4 +1,4 @@
-**Hosea 8:11** 
+**Hosea 8:11**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because Ephraim hath made many altars to sin, altars shall be unto him to sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though Ephraim multiplied the altars for sin, they became his altars for sinning
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.10|<< Hosea 8:10]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.12|Hosea 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has multiplied  |**<big>&#8207;[[H7235A\|הִרְבָּ֥ה]]&#8207; </big>**| hir.Bah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

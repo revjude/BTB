@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:12** 
 <small><sub>**LXX:**</sub></small>
 As if the shepherd seeks  his flock in \[the\] day whenever there might be dimness and cloud in \[the\] midst of his sheep having been parted, so shall I seek after  my sheep. And I will drive them away from every place of which they were scattered there, in \[the\] day of cloud and dimness. 
-<small><sub>**KJV:**</sub></small>
-As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
-<small><sub>**BSB:**</sub></small>
-As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.11|<< Ezekiel 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.13|Ezekiel 34:13 >>]]</td></tr></table>
 
 | Translation | Greek |

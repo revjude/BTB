@@ -1,4 +1,4 @@
-**Genesis 26:12** 
+**Genesis 26:12**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. An
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.11|<< Genesis 26:11]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.13|Genesis 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2232\|יִּזְרַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָק֙]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

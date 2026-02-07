@@ -1,4 +1,4 @@
-**Psalms 125:2** 
+**Psalms 125:2**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the mountains [are] round about Jerusalem, so the LORD [is] round about his people from henceforth even for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the mountains surround Jerusalem, so the LORD surrounds His people, both now 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.1|<< Psalms 125:1]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.3|Psalms 125:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְֽרוּשָׁלִַ֗ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִים֮]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

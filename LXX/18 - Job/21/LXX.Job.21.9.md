@@ -1,10 +1,7 @@
 **LXX Job 21:9** 
 <small><sub>**LXX:**</sub></small>
  Their houses prosper, and fear \[is not to them\] at all; and the whip of \[the\] <span class="smallcaps">lord</span> is not upon them. 
-<small><sub>**KJV:**</sub></small>
-Their houses [are] safe from fear, neither [is] the rod of God upon them.
-<small><sub>**BSB:**</sub></small>
-Their homes are safe from fear; no rod of punishment from God is upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.8|<< Job 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.10|Job 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

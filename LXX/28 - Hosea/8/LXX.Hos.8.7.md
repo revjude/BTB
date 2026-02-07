@@ -1,10 +1,7 @@
 **LXX Hosea 8:7** 
 <small><sub>**LXX:**</sub></small>
 For being destroyed by the wind they sowed, and  their final end looks out for them; a sheaf not having strength  to produce flour; and if even it should produce, strangers shall devour it. 
-<small><sub>**KJV:**</sub></small>
-For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.
-<small><sub>**BSB:**</sub></small>
-For they sow the wind, and they shall reap the whirlwind. There is no standing grain; what sprouts fails to yield flour. Even if it should produce, the foreigners would swallow it up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.6|<< Hosea 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.8|Hosea 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

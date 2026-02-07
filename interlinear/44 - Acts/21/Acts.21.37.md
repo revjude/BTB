@@ -1,12 +1,12 @@
-**Acts 21:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:37**<big><big>[[Acts.21.37 Paul Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?
 <small><sub>**BSB:**</sub></small>
 As they were about to take Paul into the barracks, he asked the commander, “May I say something to you?” “Do you speak Greek?” he replied.
 <small><sub>**Literal:**</sub></small>
 Being about then to be brought into the barracks <the> Paul says to the commander; If is it permitted to me to say something to you? <the> Then he was saying; Greek do you know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.36|<< Acts 21:36]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.38|Acts 21:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Being about |**<big>[[G3195\|μέλλων]]</big>**  |mellōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

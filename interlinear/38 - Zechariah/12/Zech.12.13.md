@@ -1,4 +1,4 @@
-**Zechariah 12:13** 
+**Zechariah 12:13**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the clan of the house of Levi and their wives, the clan of Shimei and their wive
 > $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֤חַת]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

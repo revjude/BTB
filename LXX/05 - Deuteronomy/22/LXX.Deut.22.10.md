@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:10** 
 <small><sub>**LXX:**</sub></small>
 You shall not plow with a calf and donkey upon the same \[yoke\]. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not plow with an ox and an ass together.
-<small><sub>**BSB:**</sub></small>
-Do not plow with an ox and a donkey yoked together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.9|<< Deuteronomy 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.11|Deuteronomy 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

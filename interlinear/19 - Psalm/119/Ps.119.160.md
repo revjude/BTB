@@ -1,4 +1,4 @@
-**Psalms 119:160** 
+**Psalms 119:160**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy word [is] true [from] the beginning: and every one of thy righteous judgments [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The entirety of Your word is truth, and all Your righteous judgments endure fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.160|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.159|<< Psalms 119:159]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.161|Psalms 119:161 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] head of  |**<big>&#8207;[[H7218K\|רֹאשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rosh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word your  |**<big>&#8207;[[H1697G\|דְּבָרְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| de.va.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

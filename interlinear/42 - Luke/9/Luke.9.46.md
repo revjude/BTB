@@ -1,12 +1,12 @@
-**Luke 9:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:46**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then there arose a reasoning among them, which of them should be greatest.
 <small><sub>**BSB:**</sub></small>
 Then an argument started among the disciples as to which of them would be the greatest.
 <small><sub>**Literal:**</sub></small>
 Came up then an argument among them this who maybe would be greater of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.45|<< Luke 9:45]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.47|Luke 9:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came up |**<big>[[G1525\|Εἰσῆλθεν]]</big>**  |Eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

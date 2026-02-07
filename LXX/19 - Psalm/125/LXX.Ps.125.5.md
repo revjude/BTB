@@ -1,10 +1,7 @@
 **LXX Psalm 125:5** 
 <small><sub>**LXX:**</sub></small>
 But the ones turning aside unto  perverseness, \[the\] <span class="smallcaps">lord</span> shall take away with the ones working  lawlessness. Peace unto  Israel. 
-<small><sub>**KJV:**</sub></small>
-As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: [but] peace [shall be] upon Israel.
-<small><sub>**BSB:**</sub></small>
-But those who turn to crooked ways the LORD will banish with the evildoers. Peace be upon Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.125.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.4|<< Psalm 125:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.1|Psalm 126:1 >>]]</td></tr></table>
 
 | Translation | Greek |

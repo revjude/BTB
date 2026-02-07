@@ -1,4 +1,4 @@
-**Psalms 11:5** 
+**Psalms 11:5**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD tests the righteous and the wicked; His soul hates the lover of violenc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.4|<< Psalms 11:4]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.6|Psalms 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֪יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 12:12** (12:13)
+**Hosea 12:12**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept [sheep].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jacob fled to the land of Aram and Israel worked for a wife—for a wife he tend
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.11|<< Hosea 12:11]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.13|Hosea 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1272\|יִּבְרַ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Rach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

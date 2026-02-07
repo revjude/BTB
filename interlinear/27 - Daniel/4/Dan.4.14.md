@@ -1,4 +1,4 @@
-**Daniel 4:14** (4:11)
+**Daniel 4:14**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He called out in a loud voice: ‘Cut down the tree and chop off its branches; s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.13|<< Daniel 4:13]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.15|Daniel 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he was] proclaiming  |**<big>&#8207;[[H7123\|קָרֵ֨א]]&#8207; </big>**| ka.Re'<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with power  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2429\|חַ֜יִל]]&#8207; </big>**| ve.<small><sup>[[AR]]</sup></small> Cha.yil<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

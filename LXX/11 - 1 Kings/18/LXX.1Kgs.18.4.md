@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when  Jezebel struck the prophets of \[the\] <span class="smallcaps">lord</span>, that Obadiah took a hundred prophets, and he hid them by fifty in two caves, and nourished them with bread and water. 
-<small><sub>**KJV:**</sub></small>
-For it was [so], when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)
-<small><sub>**BSB:**</sub></small>
-for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.3|<< 1 Kings 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.5|1 Kings 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

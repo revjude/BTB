@@ -1,4 +1,4 @@
-**Jeremiah 48:14** 
+**Jeremiah 48:14**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How say ye, We [are] mighty and strong men for the war?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can you say, ‘We are warriors, mighty men ready for battle’?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.13|<< Jeremiah 48:13]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.15|Jeremiah 48:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349A\|אֵ֚יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you say  |**<big>&#8207;[[H0559\|תֹּֽאמְר֔וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

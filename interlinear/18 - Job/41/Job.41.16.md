@@ -1,4 +1,4 @@
-**Job 41:16** (41:8)
+**Job 41:16**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One is so near to another, that no air can come between them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One scale is so near to another that no air can pass between them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.15|<< Job 41:15]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.17|Job 41:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one  |**<big>&#8207;[[H0259\|אֶחָ֣ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on one  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0259\|אֶחָ֣ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

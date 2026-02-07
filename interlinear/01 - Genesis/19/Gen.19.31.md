@@ -1,4 +1,4 @@
-**Genesis 19:31** 
+**Genesis 19:31**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn said unto the younger, Our father [is] old, and [there is] not a man in the earth to come in unto us after the manner of all the earth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One day the older daughter said to the younger, “Our father is old, and there 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.30|<< Genesis 19:30]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.32|Genesis 19:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<she> said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֧אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1067\|בְּכִירָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.khi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

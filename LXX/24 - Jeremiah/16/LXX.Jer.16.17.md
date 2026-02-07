@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:17** 
 <small><sub>**LXX:**</sub></small>
 For  my eyes \[are\] upon all  their ways, and their offences were not hid before  my eyes. 
-<small><sub>**KJV:**</sub></small>
-For mine eyes [are] upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
-<small><sub>**BSB:**</sub></small>
-For My eyes are on all their ways. They are not hidden from My face, and their guilt is not concealed from My eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.16|<< Jeremiah 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.18|Jeremiah 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

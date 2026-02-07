@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:17** 
 <small><sub>**LXX:**</sub></small>
 And you son of man, thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Speak to every winged bird, and to all the wild beasts of the plain! \[saying\], Gather together and come! Be gathered together from all the surrounding \[places\] unto  my sacrifice! which I sacrificed to you, a great sacrifice upon the mountains of Israel, and you shall eat meats, and drink blood. 
-<small><sub>**KJV:**</sub></small>
-And, thou son of man, thus saith the Lord GOD; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, [even] a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
-<small><sub>**BSB:**</sub></small>
-And as for you, son of man, this is what the Lord GOD says: Call out to every kind of bird and to every beast of the field: ‘Assemble and come together from all around to the sacrificial feast that I am preparing for you, a great feast on the mountains of Israel. There you will eat flesh and drink blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.16|<< Ezekiel 39:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.18|Ezekiel 39:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:17** is...

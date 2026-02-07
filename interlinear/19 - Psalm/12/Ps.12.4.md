@@ -1,4 +1,4 @@
-**Psalms 12:4** (12:5)
+**Psalms 12:4**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who have said, With our tongue will we prevail; our lips [are] our own: who [is] lord over us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They say, “With our tongues we will prevail. We own our lips—who can be our 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.3|<< Psalms 12:3]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.5|Psalms 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they say  |**<big>&#8207;[[H0559\|אָֽמְר֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

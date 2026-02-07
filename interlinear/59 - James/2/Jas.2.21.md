@@ -1,5 +1,5 @@
-**James 2:21
-**<small><sub>**KJV:**</sub></small>
+**James 2:21**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 <small><sub>**BSB:**</sub></small>
 Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?
@@ -10,7 +10,7 @@ Abraham the father of us not by works was justified having offered Isaac the son
 > $\quad$ alluding to: [[LXX.Gen.22.9|Gen 22:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Abraham |**<big>[[G0011\|Ἀβραὰμ]]</big>**  [^1] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **1 Chronicles 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17|<< 1 Chronicles 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19|1 Chronicles 19 >>]]</td></tr></table>
 
-***David’s Triumphs***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:1–14]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small> ^bsb1030
+<big><big>[[1Chr.18.1 David’s Triumphs|⥃]]</big></big>***David’s Triumphs***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:1–14]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.1|1]]**<span class="endversemarker">]</span> Now after this<small><small>[^2]</small></small> it came to pass, that David smote the Philistines, and subdued them, and took Gath<small><small>[^3]</small></small> and her towns out of the hand of the Philistines.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.18.2|2]]**<span class="endversemarker">]</span> And he smote<small><small>[^5]</small></small> Moab; and the Moabites became David’s servants, \[and\] brought gifts<small><small>[^6]</small></small>. 
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.11|11]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.13|13]]**<span class="endversemarker">]</span> [¶]And he put garrisons<small><small>[^35]</small></small> in Edom; and all the Edomites<small><small>[^36]</small></small> became David’s servants. Thus the <span class="smallcaps">Lord<small><small>[^37]</small></small></span> preserved David whithersoever he went.
 
-***David’s Officers***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:15–18]] ]</sup></small> ^bsb1031
+<big><big>[[1Chr.18.14 David’s Officers|⥃]]</big></big>***David’s Officers***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:15–18]] ]</sup></small>
 
  
 

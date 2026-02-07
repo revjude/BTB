@@ -1,10 +1,7 @@
 **LXX Psalm 12:4** 
 <small><sub>**LXX:**</sub></small>
 the ones having said,  We will magnify our tongues;  our lips are for us; who is our lord? 
-<small><sub>**KJV:**</sub></small>
-Who have said, With our tongue will we prevail; our lips [are] our own: who [is] lord over us?
-<small><sub>**BSB:**</sub></small>
-They say, “With our tongues we will prevail. We own our lips—who can be our master?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.3|<< Psalm 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.5|Psalm 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 7:18** 
 <small><sub>**LXX:**</sub></small>
 And the water prevailed and multiplied exceedingly upon the earth. And the ark was borne upon the water. 
-<small><sub>**KJV:**</sub></small>
-And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.
-<small><sub>**BSB:**</sub></small>
-So the waters continued to surge and rise greatly on the earth, and the ark floated on the surface of the waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.17|<< Genesis 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.19|Genesis 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

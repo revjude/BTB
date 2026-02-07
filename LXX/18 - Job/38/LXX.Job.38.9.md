@@ -1,10 +1,7 @@
 **LXX Job 38:9** 
 <small><sub>**LXX:**</sub></small>
 And I established \[the\] cloud for its clothing, and fog for its being swaddled. 
-<small><sub>**KJV:**</sub></small>
-When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
-<small><sub>**BSB:**</sub></small>
-when I made the clouds its garment and thick darkness its blanket,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.8|<< Job 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.10|Job 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

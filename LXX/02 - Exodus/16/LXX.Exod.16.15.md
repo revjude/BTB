@@ -1,10 +1,7 @@
 **LXX Exodus 16:15** 
 <small><sub>**LXX:**</sub></small>
 And seeing it, the sons of Israel said, an other to the other, What is this? For they had not known what it was. And Moses said to them, This \[is\] the bread which \[the\] <span class="smallcaps">lord</span> gave to you to eat. 
-<small><sub>**KJV:**</sub></small>
-And when the children of Israel saw [it], they said one to another, It [is] manna: for they wist not what it [was]. And Moses said unto them, This [is] the bread which the LORD hath given you to eat.
-<small><sub>**BSB:**</sub></small>
-When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. So Moses told them, “It is the bread that the LORD has given you to eat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.14|<< Exodus 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.16|Exodus 16:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 16:15** is...

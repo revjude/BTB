@@ -1,12 +1,12 @@
-**Ephesians 5:2
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:2**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 <small><sub>**BSB:**</sub></small>
 and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God.
 <small><sub>**Literal:**</sub></small>
 and do walk in love even as also <the> Christ loved us and gave up himself for us [as] an offering and a sacrifice <the> to God into an aroma of a sweet smell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.1|<< Ephesians 5:1]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.3|Ephesians 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do walk |**<big>[[G4043\|περιπατεῖτε]]</big>**  |peripateite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

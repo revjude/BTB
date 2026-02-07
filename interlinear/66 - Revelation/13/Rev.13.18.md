@@ -1,12 +1,12 @@
-**Revelation 13:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:18**<big><big>[[Rev.13.16 The Mark of the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number [is] Six hundred threescore [and] six.
 <small><sub>**BSB:**</sub></small>
 Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.
 <small><sub>**Literal:**</sub></small>
 Here the wisdom is. The [one] having <the> understanding he should count the number of the beast, number for a man’s it is, and the number of it is six hundred sixty six.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.17|<< Revelation 13:17]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.1|Revelation 14:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Here |**<big>[[G5602\|Ὧδε]]</big>**  |Hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 17:11** 
 <small><sub>**LXX:**</sub></small>
 And Manasseh will be with Issachar; and in Asher Beth-shean and  their towns, and Ibleam and  her daughter \[towns\], and unto the ones dwelling in Dor and  her towns; and unto the ones dwelling in En-dor and  her towns, and unto the ones dwelling Taanach and  her towns; and the ones dwelling Megiddo and  her towns; and the third \[part\]  of Napheta and  her towns. 
-<small><sub>**KJV:**</sub></small>
-And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, [even] three countries.
-<small><sub>**BSB:**</sub></small>
-Within Issachar and Asher, Manasseh was assigned Beth-shean, Ibleam, Dor (that is, Naphath), Endor, Taanach, and Megiddo, each with their surrounding settlements.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.10|<< Joshua 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.12|Joshua 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

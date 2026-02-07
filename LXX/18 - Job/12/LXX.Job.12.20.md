@@ -1,10 +1,7 @@
 **LXX Job 12:20** 
 <small><sub>**LXX:**</sub></small>
 reconciling \[the\] lips of \[the\] trustworthy; and \[the\] understanding of \[the\] elders he knew; 
-<small><sub>**KJV:**</sub></small>
-He removeth away the speech of the trusty, and taketh away the understanding of the aged.
-<small><sub>**BSB:**</sub></small>
-He deprives the trusted of speech and takes away the discernment of elders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.19|<< Job 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.21|Job 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

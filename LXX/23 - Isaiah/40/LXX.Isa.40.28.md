@@ -1,10 +1,7 @@
 **LXX Isaiah 40:28** 
 <small><sub>**LXX:**</sub></small>
 And now, did you not know? \[Have\] you not heard? \[the\] eternal God, the God  carefully preparing the tips of the earth, he shall not hunger nor tire, nor is \[there\] a finding out  of his intelligence; 
-<small><sub>**KJV:**</sub></small>
-Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.
-<small><sub>**BSB:**</sub></small>
-Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
 | Translation | Greek |

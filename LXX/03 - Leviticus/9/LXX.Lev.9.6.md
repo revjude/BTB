@@ -1,10 +1,7 @@
 **LXX Leviticus 9:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, This \[is\] the saying which \[the\] <span class="smallcaps">lord</span> gave orders, do \[it\]! And the glory \[of the\] <span class="smallcaps">lord</span> will appear among you. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, This [is] the thing which the LORD commanded that ye should do: and the glory of the LORD shall appear unto you.
-<small><sub>**BSB:**</sub></small>
-And Moses said, “This is what the LORD has commanded you to do, so that the glory of the LORD may appear to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.5|<< Leviticus 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.7|Leviticus 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

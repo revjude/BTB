@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:22** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel went in all \[the\] sins of Jeroboam which he did -- they did not abstain from them; 
-<small><sub>**KJV:**</sub></small>
-For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;
-<small><sub>**BSB:**</sub></small>
-The Israelites persisted in all the sins that Jeroboam had committed and did not turn away from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.21|<< 2 Kings 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.23|2 Kings 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

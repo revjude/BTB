@@ -1,4 +1,4 @@
-**Psalms 59:9** (59:10)
+**Psalms 59:9**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Because of] his strength will I wait upon thee: for God [is] my defence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will keep watch for You, O my strength, because You, O God, are my fortress.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.8|<< Psalms 59:8]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.10|Psalms 59:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | strength his  |**<big>&#8207;[[H5797\|עֻ֭זּ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

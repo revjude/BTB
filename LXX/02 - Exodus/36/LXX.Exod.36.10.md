@@ -1,10 +1,7 @@
 **LXX Exodus 36:10** 
 <small><sub>**LXX:**</sub></small>
 And five curtains were of one another, being held the other with the other. And five curtains were of one another, being held the other with the other. 
-<small><sub>**KJV:**</sub></small>
-And he coupled the five curtains one unto another: and [the other] five curtains he coupled one unto another.
-<small><sub>**BSB:**</sub></small>
-And he joined five of the curtains together, and the other five he joined as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.9|<< Exodus 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.11|Exodus 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

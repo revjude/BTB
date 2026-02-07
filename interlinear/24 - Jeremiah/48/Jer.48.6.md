@@ -1,4 +1,4 @@
-**Jeremiah 48:6** 
+**Jeremiah 48:6**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee, save your lives, and be like the heath in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Flee, save your lives, and be like the heath in the wilderness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.5|<< Jeremiah 48:5]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.7|Jeremiah 48:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flee  |**<big>&#8207;[[H5127\|נֻ֖סוּ]]&#8207; </big>**| Nu.su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | save  |**<big>&#8207;[[H4422\|מַלְּט֣וּ]]&#8207; </big>**| ma.le.Tu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

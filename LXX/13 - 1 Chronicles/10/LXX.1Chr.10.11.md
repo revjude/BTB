@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:11** 
 <small><sub>**LXX:**</sub></small>
 And all the ones dwelling in Jabesh Gilead heard all what the Philistines did  to Saul and \[to\] his sons, and  to Israel. 
-<small><sub>**KJV:**</sub></small>
-And when all Jabeshgilead heard all that the Philistines had done to Saul,
-<small><sub>**BSB:**</sub></small>
-When all the people of Jabesh-gilead heard about everything the Philistines had done to Saul,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.10|<< 1 Chronicles 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.12|1 Chronicles 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

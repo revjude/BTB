@@ -1,4 +1,4 @@
-**2 Chronicles 9:14** 
+**2 Chronicles 9:14**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside [that which] chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ not including the revenue from the merchants and traders. And all the Arabian ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.13|<< 2 Chronicles 9:13]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.15|2 Chronicles 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> apart  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַ֞ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] men of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֧י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

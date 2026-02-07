@@ -1,12 +1,12 @@
-**Matthew 14:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:28**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.
 <small><sub>**BSB:**</sub></small>
 “Lord, if it is You,” Peter replied, “command me to come to You on the water.”
 <small><sub>**Literal:**</sub></small>
 Answering now to Him <the> Peter said: Lord, if You yourself [it] is, do command me to come to You upon the waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.27|<< Matthew 14:27]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.29|Matthew 14:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

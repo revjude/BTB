@@ -1,10 +1,7 @@
 **LXX Psalm 119:89** 
 <small><sub>**LXX:**</sub></small>
 Into the eon, O <span class="smallcaps">lord</span>,  your word abides in the heaven. 
-<small><sub>**KJV:**</sub></small>
-LAMED. For ever, O LORD, thy word is settled in heaven.
-<small><sub>**BSB:**</sub></small>
-Your word, O LORD, is everlasting; it is firmly fixed in the heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.89|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.88|<< Psalm 119:88]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.90|Psalm 119:90 >>]]</td></tr></table>
 
 | Translation | Greek |

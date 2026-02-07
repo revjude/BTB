@@ -1,12 +1,12 @@
-**Acts 12:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:4**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had apprehended him, he put [him] in prison, and delivered [him] to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 <small><sub>**BSB:**</sub></small>
 He arrested him and put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out to the people after the Passover.
 <small><sub>**Literal:**</sub></small>
 whom also having seized he put in prison having delivered [him] to four sets of four soldiers to guard him, intending after the Passover to bring out him to the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.3|<< Acts 12:3]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.5|Acts 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Philippians 1:8
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:8**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 God is my witness how I long for all of you with the affection of Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 Witness for of mine is <the> God how I long after all you in [the] affection of Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.7|<< Philippians 1:7]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.9|Philippians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Witness |**<big>[[G3144\|Μάρτυς]]</big>**  |Martus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

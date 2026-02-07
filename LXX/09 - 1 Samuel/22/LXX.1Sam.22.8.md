@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:8** 
 <small><sub>**LXX:**</sub></small>
 For you \[are\] all situated together against me, and there is not  one uncovering  my ear, in that my son ordains a covenant with the son of Jesse. And there is the one toiling for me from you, and uncovering  my ear. For my son raised up  my servant against me for an enemy, as  \[it is\] this day? 
-<small><sub>**KJV:**</sub></small>
-That all of you have conspired against me, and [there is] none that sheweth me that my son hath made a league with the son of Jesse, and [there is] none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?
-<small><sub>**BSB:**</sub></small>
-Is that why all of you have conspired against me? Not one of you told me that my own son had made a covenant with the son of Jesse. Not one of you has shown concern for me or revealed to me that my son has stirred up my own servant to lie in wait against me, as is the case today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.7|<< 1 Samuel 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.9|1 Samuel 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

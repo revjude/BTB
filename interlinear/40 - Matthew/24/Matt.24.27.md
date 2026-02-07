@@ -1,12 +1,12 @@
-**Matthew 24:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:27**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
 <small><sub>**BSB:**</sub></small>
 For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man.
 <small><sub>**Literal:**</sub></small>
 Just as for the lightning comes forth from [the] east and shines until [the] west, so will be also the coming of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.26|<< Matthew 24:26]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.28|Matthew 24:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

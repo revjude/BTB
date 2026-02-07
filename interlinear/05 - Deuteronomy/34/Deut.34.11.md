@@ -1,4 +1,4 @@
-**Deuteronomy 34:11** 
+**Deuteronomy 34:11**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ no prophet who did all the signs and wonders that the LORD sent Moses to do in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.10|<< Deuteronomy 34:10]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.12|Deuteronomy 34:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the signs  |**<big>&#8207;[[H9009\|הָ֨]]&#8207;&#8207;[[H0226G\|אֹת֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 22:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:51**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “No more of this!” And He touched the man’s ear and healed him.
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Jesus said; do allow [only] as far as this! And having touched the ear of him He healed him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.50|<< Luke 22:50]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.52|Luke 22:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 20:4** 
 <small><sub>**LXX:**</sub></small>
 And if in disdain the native-born of the land should overlook \[with\] their eyes of  that man, in  his giving  his semen to a chief \[god\], to not kill him, 
-<small><sub>**KJV:**</sub></small>
-And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:
-<small><sub>**BSB:**</sub></small>
-And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.3|<< Leviticus 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.5|Leviticus 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

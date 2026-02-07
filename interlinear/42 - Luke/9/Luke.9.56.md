@@ -1,12 +1,12 @@
-**Luke 9:56
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:56**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Son of man is not come to destroy men’s lives, but to save [them]. And they went to another village.
 <small><sub>**BSB:**</sub></small>
 And He and His disciples went on to another village.
 <small><sub>**Literal:**</sub></small>
 <the> for the son <the> of man not came souls of men to destroy but to save. and they went to another village.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.55|<< Luke 9:55]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.57|Luke 9:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 19:8** 
+**2 Chronicles 19:8**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover in Jerusalem did Jehoshaphat set of the Levites, and [of] the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, Jehoshaphat appointed in Jerusalem some of the Levites, priests, and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.7|<< 2 Chronicles 19:7]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.9|2 Chronicles 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִּ֠]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַם]]&#8207; </big>**| Bi.<small><sup>[[HR]]</sup></small> ru.sha.lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

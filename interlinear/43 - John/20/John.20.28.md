@@ -1,12 +1,12 @@
-**John 20:28
-**<small><sub>**KJV:**</sub></small>
+**John 20:28**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Thomas answered and said unto him, My Lord and my God.
 <small><sub>**BSB:**</sub></small>
 Thomas replied, “My Lord and my God!”
 <small><sub>**Literal:**</sub></small>
 and Answered <the> Thomas and said to Him; O Lord of Mine and O God of mine!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.27|<< John 20:27]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.29|John 20:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

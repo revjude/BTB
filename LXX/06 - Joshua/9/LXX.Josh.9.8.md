@@ -1,10 +1,7 @@
 **LXX Joshua 9:8** 
 <small><sub>**LXX:**</sub></small>
 And they said to Joshua, We are your servants. And Joshua said to them, From what place are you, and from what place do you come? 
-<small><sub>**KJV:**</sub></small>
-And they said unto Joshua, We [are] thy servants. And Joshua said unto them, Who [are] ye? and from whence come ye?
-<small><sub>**BSB:**</sub></small>
-“We are your servants,” they said to Joshua. Then Joshua asked them, “Who are you and where have you come from?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.7|<< Joshua 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.9|Joshua 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

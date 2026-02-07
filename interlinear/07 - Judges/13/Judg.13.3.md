@@ -1,4 +1,4 @@
-**Judges 13:3** 
+**Judges 13:3**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD appeared unto the woman, and said unto her, Behold now, thou [art] barren, and bearest not: but thou shalt conceive, and bear a son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The angel of the LORD appeared to the woman and said to her, “It is true that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.2|<< Judges 13:2]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.4|Judges 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200L\|יֵּרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.'akh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

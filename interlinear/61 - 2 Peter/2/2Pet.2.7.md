@@ -1,12 +1,12 @@
-**2 Peter 2:7
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:7**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And delivered just Lot, vexed with the filthy conversation of the wicked:
 <small><sub>**BSB:**</sub></small>
 and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless
 <small><sub>**Literal:**</sub></small>
 and righteous Lot being distressed by the of the lawless in sensuality conduct He rescued;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.6|<< 2 Peter 2:6]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.8|2 Peter 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | righteous |**<big>[[G1342\|δίκαιον]]</big>**  |dikaion <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

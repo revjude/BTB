@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:29** 
 <small><sub>**LXX:**</sub></small>
 And Absalom sent for Joab  to send him to the king, and he did not want to come to him. And he sent again \[the\] second \[time\] to him, and he did not want to come. 
-<small><sub>**KJV:**</sub></small>
-Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come.
-<small><sub>**BSB:**</sub></small>
-Then he sent for Joab to send him to the king, but Joab refused to come to him. So Absalom sent a second time, but Joab still would not come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.28|<< 2 Samuel 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.30|2 Samuel 14:30 >>]]</td></tr></table>
 
 | Translation | Greek |

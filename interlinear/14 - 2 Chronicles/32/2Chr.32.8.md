@@ -1,4 +1,4 @@
-**2 Chronicles 32:8** 
+**2 Chronicles 32:8**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With him [is] an arm of flesh; but with us [is] the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With him is only the arm of flesh, but with us is the LORD our God to help us an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.7|<< 2 Chronicles 32:7]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.9|2 Chronicles 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] with him  |**<big>&#8207;[[H5973A\|עִמּ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an arm of  |**<big>&#8207;[[H2220\|זְר֣וֹעַ]]&#8207; </big>**| ze.Ro.a'<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

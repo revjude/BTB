@@ -1,4 +1,4 @@
-**Nehemiah 9:30** 
+**Nehemiah 9:30**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You were patient with them for many years, and Your Spirit admonished them throu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.29|<< Nehemiah 9:29]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.31|Nehemiah 9:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you prolonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4900\|תִּמְשֹׁ֤ךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tim.Shokh<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

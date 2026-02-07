@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:11** 
 <small><sub>**LXX:**</sub></small>
 And the priests and the false prophets said to the rulers, and to all the people, \[The\] judgment of death \[belongs\]  to this man, for he prophesied against  this city, as you heard with  your ears. 
-<small><sub>**KJV:**</sub></small>
-Then spake the priests and the prophets unto the princes and to all the people, saying, This man [is] worthy to die; for he hath prophesied against this city, as ye have heard with your ears.
-<small><sub>**BSB:**</sub></small>
-Then the priests and prophets said to the officials and all the people, “This man is worthy of death, for he has prophesied against this city, as you have heard with your own ears!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.10|<< Jeremiah 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.12|Jeremiah 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

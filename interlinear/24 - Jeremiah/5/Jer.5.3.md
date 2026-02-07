@@ -1,4 +1,4 @@
-**Jeremiah 5:3** 
+**Jeremiah 5:3**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, [are] not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, [but] they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, do not Your eyes look for truth? You struck them, but they felt no pain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.2|<< Jeremiah 5:2]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.4|Jeremiah 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] eyes your  |**<big>&#8207;[[H5869A\|עֵינֶי]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

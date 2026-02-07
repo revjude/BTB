@@ -1,4 +1,4 @@
-**Isaiah 4:5** 
+**Isaiah 4:5**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory [shall be] a defence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD will create over all of Mount Zion and over her assemblies a cloud
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.4|<< Isaiah 4:4]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.6|Isaiah 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will create  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1254A\|בָרָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ra'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֡ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

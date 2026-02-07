@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after many days, and \[the\] <span class="smallcaps">lord</span> said to me, Arise! Proceed unto the Euphrates, and take from there the loincloth! the one which I gave charge to you  to hide it there. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there.
-<small><sub>**BSB:**</sub></small>
-Many days later the LORD said to me, “Arise, go to Perath, and get the loincloth that I commanded you to hide there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.5|<< Jeremiah 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.7|Jeremiah 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

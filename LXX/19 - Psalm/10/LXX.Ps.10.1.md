@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Why, O <span class="smallcaps">lord</span>, have you abstained far off? neglected at opportune times in afflictions? 
-<small><sub>**KJV:**</sub></small>
-Why standest thou afar off, O LORD? [why] hidest thou [thyself] in times of trouble?
-<small><sub>**BSB:**</sub></small>
-Why, O LORD, do You stand far off? Why do You hide in times of trouble?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.20|<< Psalm 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.2|Psalm 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

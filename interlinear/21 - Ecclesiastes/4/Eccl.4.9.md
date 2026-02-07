@@ -1,4 +1,4 @@
-**Ecclesiastes 4:9** 
+**Ecclesiastes 4:9**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two [are] better than one; because they have a good reward for their labour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two are better than one, because they have a good return for their labor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.8|<< Ecclesiastes 4:8]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.10|Ecclesiastes 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] good  |**<big>&#8207;[[H2896A\|טוֹבִ֥ים]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> two [people]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8147\|שְּׁנַ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

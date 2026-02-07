@@ -1,4 +1,4 @@
-**Jeremiah 31:33** 
+**Jeremiah 31:33**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But this [shall be] the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
@@ -11,7 +11,7 @@ But this [shall be] the covenant that I will make with the house of Israel; Afte
 > $\quad$ referenced by: [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 23:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:2**<big><big>[[Luke.23.1 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they began to accuse him, saying, We found this [fellow] perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.
 <small><sub>**BSB:**</sub></small>
 And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”
 <small><sub>**Literal:**</sub></small>
 They began then to accuse Him saying; This [man] we found misleading the nation of us and forbidding tribute to Caesar to be given and declaring Himself Christ a king to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.1|<< Luke 23:1]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.3|Luke 23:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They began |**<big>[[G0757\|Ἤρξαντο]]</big>**  |Ērxanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

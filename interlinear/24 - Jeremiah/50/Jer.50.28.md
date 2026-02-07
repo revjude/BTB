@@ -1,4 +1,4 @@
-**Jeremiah 50:28** 
+**Jeremiah 50:28**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to the fugitives and refugees from the land of Babylon, declaring in Zion
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.27|<< Jeremiah 50:27]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.29|Jeremiah 50:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fugitives  |**<big>&#8207;[[H5127\|נָסִ֛ים]]&#8207; </big>**| na.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

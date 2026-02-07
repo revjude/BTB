@@ -1,5 +1,5 @@
-**Revelation 19:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:17**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
 <small><sub>**BSB:**</sub></small>
 Then I saw an angel standing in the sun, and he cried out in a loud voice to all the birds flying overhead, “Come, gather together for the great supper of God,
@@ -11,7 +11,7 @@ And I saw one angel standing in the sun, and he cried out in a voice loud saying
 > $\quad$ alluding to: [[LXX.Ezek.39.17|Ezek 39:17-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

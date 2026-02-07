@@ -1,12 +1,12 @@
-**Matthew 8:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:33**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.
 <small><sub>**BSB:**</sub></small>
 Those tending the pigs ran off into the town and reported all this, including the account of the demon-possessed men.
 <small><sub>**Literal:**</sub></small>
 Those now feeding [them] fled, and having gone away into the city they related everything including the [matter] of those being demonised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.32|<< Matthew 8:32]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.34|Matthew 8:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

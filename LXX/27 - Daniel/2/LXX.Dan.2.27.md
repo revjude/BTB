@@ -1,10 +1,7 @@
 **LXX Daniel 2:27** 
 <small><sub>**LXX:**</sub></small>
 And Daniel answered before the king, and he said, The mystery which the king asks is not of wise men, magi, enchanters, astrologers, to announce to the king. 
-<small><sub>**KJV:**</sub></small>
-Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise [men], the astrologers, the magicians, the soothsayers, shew unto the king;
-<small><sub>**BSB:**</sub></small>
-Daniel answered the king, “No wise man, enchanter, medium, or magician can explain to the king the mystery of which he inquires.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.26|<< Daniel 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.28|Daniel 2:28 >>]]</td></tr></table>
 
 | Translation | Greek |

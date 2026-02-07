@@ -1,12 +1,12 @@
-**1 Corinthians 8:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:9**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.
 <small><sub>**BSB:**</sub></small>
 Be careful, however, that your freedom does not become a stumbling block to the weak.
 <small><sub>**Literal:**</sub></small>
 do be careful however lest perhaps the right of you this an occasion of stumbling may become to those weak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.8|<< 1 Corinthians 8:8]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.10|1 Corinthians 8:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be careful |**<big>[[G0991\|βλέπετε]]</big>**  |blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

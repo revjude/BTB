@@ -1,4 +1,4 @@
-**Judges 4:15** 
+**Judges 4:15**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD discomfited Sisera, and all [his] chariots, and all [his] host, with the edge of the sword before Barak; so that Sisera lighted down off [his] chariot, and fled away on his feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in front of him the LORD routed with the sword Sisera, all his charioteers, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.14|<< Judges 4:14]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.16|Judges 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he routed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2000\|יָּ֣הָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.hom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

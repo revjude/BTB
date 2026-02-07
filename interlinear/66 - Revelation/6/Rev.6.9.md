@@ -1,12 +1,12 @@
-**Revelation 6:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:9**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony they had upheld.
 <small><sub>**Literal:**</sub></small>
 And when He opened the fifth seal, I saw under the altar the souls of those slain because of the word <the> of God and because of the testimony of the lamb which they were upholding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.8|<< Revelation 6:8]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.10|Revelation 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

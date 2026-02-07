@@ -1,10 +1,7 @@
 **LXX Numbers 8:19** 
 <small><sub>**LXX:**</sub></small>
 And I gave back the Levites \[as\] a gift, recompensing Aaron and to his sons from out of \[the\] midst of the sons of Israel, to work the works of the sons of Israel in the tent of the testimony, and to atone for the sons of Israel; and \[that\] a calamity shall not be among the sons of Israel whenever drawing near to the holy \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And I have given the Levites [as] a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.
-<small><sub>**BSB:**</sub></small>
-And I have given the Levites as a gift to Aaron and his sons from among the Israelites, to perform the service for the Israelites at the Tent of Meeting and to make atonement on their behalf, so that no plague will come against the Israelites when they approach the sanctuary.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.18|<< Numbers 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.20|Numbers 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

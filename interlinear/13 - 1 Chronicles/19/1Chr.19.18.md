@@ -1,4 +1,4 @@
-**1 Chronicles 19:18** 
+**1 Chronicles 19:18**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Syrians fled before Israel; and David slew of the Syrians seven thousand [men which fought in] chariots, and forty thousand footmen, and killed Shophach the captain of the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the Arameans fled before Israel, and David killed seven thousand of their ch
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.17|<< 1 Chronicles 19:17]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.19|1 Chronicles 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּ֣נָס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָם֮]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

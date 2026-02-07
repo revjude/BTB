@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:3** 
 <small><sub>**LXX:**</sub></small>
 And said the rulers of \[the\] sons of Ammon to Hanun, Is David glorifying  your father in your eyes, to send to you comforters? Is it not that they may search out the city, and  to spy out the land his servants came to you? 
-<small><sub>**KJV:**</sub></small>
-But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?
-<small><sub>**BSB:**</sub></small>
-the princes of the Ammonites said to Hanun, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Have not his servants come to you to explore the land, spy it out, and overthrow it?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.2|<< 1 Chronicles 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.4|1 Chronicles 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

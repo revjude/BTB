@@ -1,4 +1,4 @@
-**2 Kings 6:20** 
+**2 Kings 6:20**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these [men], that they may see. And the LORD opened their eyes, and they saw; and, behold, [they were] in the midst of Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had entered Samaria, Elisha said, “O LORD, open the eyes of these me
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.19|<< 2 Kings 6:19]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.21|2 Kings 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came they  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|בֹאָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

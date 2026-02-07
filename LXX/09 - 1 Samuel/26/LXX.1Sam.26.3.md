@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:3** 
 <small><sub>**LXX:**</sub></small>
 And Saul camped in the hill  of Hachilah, against \[the\] face of Jeshimon,  upon the way. And David stayed in the wilderness. And David saw that Saul comes after him into the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And Saul pitched in the hill of Hachilah, which [is] before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.
-<small><sub>**BSB:**</sub></small>
-Saul camped beside the road at the hill of Hachilah opposite Jeshimon, but David was living in the wilderness. When he realized that Saul had followed him there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.2|<< 1 Samuel 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.4|1 Samuel 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:16** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Reuben and \[to\] Gad I gave of  Gilead unto the rushing stream Arnon, between the rushing stream's border and unto the Jabbok; and the rushing streams \[are the\] border to the sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, [which is] the border of the children of Ammon;
-<small><sub>**BSB:**</sub></small>
-and to the Reubenites and Gadites I gave the territory from Gilead to the Arnon Valley (the middle of the valley was the border) and up to the Jabbok River, the border of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.15|<< Deuteronomy 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.17|Deuteronomy 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

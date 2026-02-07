@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:25** 
 <small><sub>**LXX:**</sub></small>
 And Nadab son of Jeroboam reigned over Israel in \[the\] second year  of Asa king of Judah. And he reigned over  Israel two years. 
-<small><sub>**KJV:**</sub></small>
-And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.
-<small><sub>**BSB:**</sub></small>
-In the second year of Asa’s reign over Judah, Nadab son of Jeroboam became king of Israel, and he reigned two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.24|<< 1 Kings 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.26|1 Kings 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

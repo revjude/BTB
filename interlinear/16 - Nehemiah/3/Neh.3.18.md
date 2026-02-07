@@ -1,4 +1,4 @@
-**Nehemiah 3:18** 
+**Nehemiah 3:18**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next to him, their countrymen made repairs under Binnui son of Henadad, ruler of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.17|<< Nehemiah 3:17]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.19|Nehemiah 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֣יקוּ]]&#8207; </big>**| he.che.Zi.ku<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 4:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:4**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
@@ -10,7 +10,7 @@ But Jesus answered, “It is written: ‘Man shall not live on bread alone, but 
 > $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

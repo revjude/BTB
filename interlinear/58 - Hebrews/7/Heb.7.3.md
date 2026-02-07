@@ -1,12 +1,12 @@
-**Hebrews 7:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:3**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.
 <small><sub>**BSB:**</sub></small>
 Without father or mother or genealogy, without beginning of days or end of life, like the Son of God, he remains a priest for all time.
 <small><sub>**Literal:**</sub></small>
 Without father, without mother, without genealogy, neither beginning of days nor of life end having, made like however as the Son <the> of God he remains a priest unto <the> all time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.2|<< Hebrews 7:2]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.4|Hebrews 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Without father, |**<big>[[G0540\|ἀπάτωρ,]]</big>**  |apatōr <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | without mother, |**<big>[[G0282\|ἀμήτωρ,]]</big>**  |amētōr <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

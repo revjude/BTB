@@ -1,4 +1,4 @@
-**Exodus 15:22** 
+**Exodus 15:22**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses led Israel from the Red Sea, and they went out into the Desert of Shu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.21|<< Exodus 15:21]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.23|Exodus 15:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he led out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יַּסַּ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sa'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֤ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 40:21** 
 <small><sub>**LXX:**</sub></small>
 And he carried the ark into the tent, and he set the covering of the veil, and it sheltered the ark of the testimony in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Then he brought the ark into the tabernacle, put up the veil for the screen, and shielded off the ark of the Testimony, just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.20|<< Exodus 40:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.22|Exodus 40:22 >>]]</td></tr></table>
 
 | Translation | Greek |

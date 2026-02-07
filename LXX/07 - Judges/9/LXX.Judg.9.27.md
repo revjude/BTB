@@ -1,10 +1,7 @@
 **LXX Judges 9:27** 
 <small><sub>**LXX:**</sub></small>
 And they went forth into \[the\] field, and gathered the vintage  of their vineyards, and they treaded, and they made a dance, and they entered into \[the\] house of their god, and they ate and drank, and they cursed  Abimelech. 
-<small><sub>**KJV:**</sub></small>
-And they went out into the fields, and gathered their vineyards, and trode [the grapes], and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech.
-<small><sub>**BSB:**</sub></small>
-And after they had gone out into the fields, gathered grapes from their vineyards, and trodden them, they held a festival and went into the house of their god; and as they ate and drank, they cursed Abimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.26|<< Judges 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.28|Judges 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

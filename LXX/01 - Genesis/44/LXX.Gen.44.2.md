@@ -1,10 +1,7 @@
 **LXX Genesis 44:2** 
 <small><sub>**LXX:**</sub></small>
 And  my silver drinking cup put into the bag of the younger, and the value  of his grain. And it happened according to the word of Joseph, as he said. 
-<small><sub>**KJV:**</sub></small>
-And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
-<small><sub>**BSB:**</sub></small>
-Put my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” So the steward did as Joseph had instructed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.1|<< Genesis 44:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.3|Genesis 44:3 >>]]</td></tr></table>
 
 | Translation | Greek |

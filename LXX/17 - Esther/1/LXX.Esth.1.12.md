@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And queen Vashti did not listen to him to come with the eunuchs. And the king fretted, and he was provoked to anger. 
-<small><sub>**KJV:**</sub></small>
-But the queen Vashti refused to come at the king’s commandment by [his] chamberlains: therefore was the king very wroth, and his anger burned in him.
-<small><sub>**BSB:**</sub></small>
-Queen Vashti, however, refused to come at the king’s command brought by his eunuchs. And the king became furious, and his anger burned within him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.11|<< Esther 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.13|Esther 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

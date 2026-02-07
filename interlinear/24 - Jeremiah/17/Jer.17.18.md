@@ -1,4 +1,4 @@
-**Jeremiah 17:18** 
+**Jeremiah 17:18**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let my persecutors be put to shame, but do not let me be put to shame. Let them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.17|<< Jeremiah 17:17]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.19|Jeremiah 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be put to shame  |**<big>&#8207;[[H0954\|יֵבֹ֤שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pursuers my  |**<big>&#8207;[[H7291\|רֹדְפַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| ro.de.Fa<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

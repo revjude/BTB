@@ -1,12 +1,12 @@
-**Acts 15:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:3**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.
 <small><sub>**BSB:**</sub></small>
 Sent on their way by the church, they passed through Phoenicia and Samaria, recounting the conversion of the Gentiles and bringing great joy to all the brothers.
 <small><sub>**Literal:**</sub></small>
 They indeed therefore having been sent forward by the church were passing through <the> both Phoenicia and Samaria relating in detail the conversion of the Gentiles and they were bringing joy great to all the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.2|<< Acts 15:2]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.4|Acts 15:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

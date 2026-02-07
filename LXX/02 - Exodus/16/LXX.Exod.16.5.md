@@ -1,10 +1,7 @@
 **LXX Exodus 16:5** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  the sixth day, and they shall prepare what ever they should carry in, and it shall be double what ever they should bring  according to day by day. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, that on the sixth day they shall prepare [that] which they bring in; and it shall be twice as much as they gather daily.
-<small><sub>**BSB:**</sub></small>
-Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.4|<< Exodus 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.6|Exodus 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

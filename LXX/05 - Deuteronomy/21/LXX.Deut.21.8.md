@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:8** 
 <small><sub>**LXX:**</sub></small>
 Let kindness come \[to\] your people Israel, whom you ransomed from \[the\] land of Egypt, O <span class="smallcaps">lord</span>, that there should not be innocent blood to  your people Israel. And the blood shall be atoned for to them. 
-<small><sub>**KJV:**</sub></small>
-Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.
-<small><sub>**BSB:**</sub></small>
-Accept this atonement, O LORD, for Your people Israel whom You have redeemed, and do not hold the shedding of innocent blood against them.” And the bloodshed will be atoned for.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

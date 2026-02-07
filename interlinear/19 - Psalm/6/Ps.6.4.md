@@ -1,4 +1,4 @@
-**Psalms 6:4** (6:5)
+**Psalms 6:4**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return, O LORD, deliver my soul: oh save me for thy mercies’ sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn, O LORD, and deliver my soul; save me because of Your loving devotion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.3|<< Psalms 6:3]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.5|Psalms 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return !  |**<big>&#8207;[[H7725G\|שׁוּבָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shu.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

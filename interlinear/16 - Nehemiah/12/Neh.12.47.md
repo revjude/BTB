@@ -1,4 +1,4 @@
-**Nehemiah 12:47** 
+**Nehemiah 12:47**<big><big>[[Neh.12.44 Provisions for Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified [holy things] unto the Levites; and the Levites sanctified [them] unto the children of Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So in the days of Zerubbabel and Nehemiah, all Israel contributed the daily port
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.46|<< Nehemiah 12:46]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.1|Nehemiah 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֩]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

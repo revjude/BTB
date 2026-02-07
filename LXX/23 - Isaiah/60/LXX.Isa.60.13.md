@@ -1,10 +1,7 @@
 **LXX Isaiah 60:13** 
 <small><sub>**LXX:**</sub></small>
 And the glory  of Lebanon shall come to you with cypress and pine and cedar together, to glorify  my holy place. And \[the\] place of their feet I will glorify. 
-<small><sub>**KJV:**</sub></small>
-The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
-<small><sub>**BSB:**</sub></small>
-The glory of Lebanon will come to you—its cypress, elm, and boxwood together—to adorn the place of My sanctuary, and I will glorify the place of My feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.12|<< Isaiah 60:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.14|Isaiah 60:14 >>]]</td></tr></table>
 
 | Translation | Greek |

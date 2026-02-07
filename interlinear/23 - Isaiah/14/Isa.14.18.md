@@ -1,4 +1,4 @@
-**Isaiah 14:18** 
+**Isaiah 14:18**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the kings of the nations, [even] all of them, lie in glory, every one in his own house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the kings of the nations lie in state, each in his own tomb.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.17|<< Isaiah 14:17]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.19|Isaiah 14:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֥י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

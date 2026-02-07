@@ -1,12 +1,12 @@
-**1 Timothy 5:2
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:2**<big><big>[[1Tim.5.1 Reproof and Respect|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The elder women as mothers; the younger as sisters, with all purity.
 <small><sub>**BSB:**</sub></small>
 older women as mothers, and younger women as sisters, with absolute purity.
 <small><sub>**Literal:**</sub></small>
 elder [women] as mothers, [and] younger [women] as sisters in all purity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.1|<< 1 Timothy 5:1]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.3|1 Timothy 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | elder [women] |**<big>[[G4245H\|πρεσβυτέρας]]</big>**  |presbuteras <small><sup>[[N-APF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

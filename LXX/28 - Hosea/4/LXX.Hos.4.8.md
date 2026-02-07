@@ -1,10 +1,7 @@
 **LXX Hosea 4:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sins of my people they shall eat, and in  their iniquities shall take  their lives. 
-<small><sub>**KJV:**</sub></small>
-They eat up the sin of my people, and they set their heart on their iniquity.
-<small><sub>**BSB:**</sub></small>
-They feed on the sins of My people and set their hearts on iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.7|<< Hosea 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.9|Hosea 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

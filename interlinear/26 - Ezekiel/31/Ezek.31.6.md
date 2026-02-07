@@ -1,4 +1,4 @@
-**Ezekiel 31:6** 
+**Ezekiel 31:6**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the fowls of heaven made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all great nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the birds of the air nested in its branches, and all the beasts of the field
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.5|<< Ezekiel 31:5]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.7|Ezekiel 31:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in boughs its  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5589\|סְעַפֹּתָ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> s.'a.po.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they made nests  |**<big>&#8207;[[H7077\|קִֽנְנוּ֙]]&#8207; </big>**| ki.Nu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

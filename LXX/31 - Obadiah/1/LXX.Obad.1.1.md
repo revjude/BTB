@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] vision of Obadiah. Thus says \[the\] <span class="smallcaps">lord</span>  God \[to\] Edom. I heard a report from \[the\] <span class="smallcaps">lord</span>, and a summary he sent out unto the nations, \[saying\], Rise up! even we should rise up against her for battle. 
-<small><sub>**KJV:**</sub></small>
-The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
-<small><sub>**BSB:**</sub></small>
-This is the vision of Obadiah: This is what the Lord GOD says about Edom—We have heard a message from the LORD; an envoy has been sent among the nations to say, “Rise up, and let us go to battle against her!”—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.15|<< Amos 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.2|Obadiah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

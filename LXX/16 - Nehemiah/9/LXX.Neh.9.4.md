@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:4** 
 <small><sub>**LXX:**</sub></small>
 And Jeshua stood upon \[the\] ascent of the Levites, and the sons of Kadmiel, Secheniah son of Sherebiah, son of Chenani. And they yelled \[with\] a great voice to \[the\] <span class="smallcaps">lord</span>  their God. 
-<small><sub>**KJV:**</sub></small>
-Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, [and] Chenani, and cried with a loud voice unto the LORD their God.
-<small><sub>**BSB:**</sub></small>
-And the Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani—stood on the raised platform and cried out in a loud voice to the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.3|<< Nehemiah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.5|Nehemiah 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

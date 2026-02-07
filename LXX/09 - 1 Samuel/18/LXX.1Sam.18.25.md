@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:25** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, Thus shall you say  to David, The king does not want a dowry, but only a hundred foreskins of \[the\] Philistines, to avenge against \[the\] enemies of the king. And Saul devised to put  David into the hands of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-Saul replied, “Say to David, ‘The king desires no other dowry but a hundred Philistine foreskins as revenge on his enemies.’” But Saul intended to cause David’s death at the hands of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.24|<< 1 Samuel 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.26|1 Samuel 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

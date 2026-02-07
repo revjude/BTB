@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:10** 
 <small><sub>**LXX:**</sub></small>
 And the Chaldeans will be for plunder; all the ones despoiling her will be filled up, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Chaldea will be plundered; all who plunder her will have their fill,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.9|<< Jeremiah 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.11|Jeremiah 50:11 >>]]</td></tr></table>
 
 | Translation | Greek |

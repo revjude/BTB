@@ -1,12 +1,12 @@
-**John 15:1
-**<small><sub>**KJV:**</sub></small>
+**John 15:1**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am the true vine, and my Father is the husbandman.
 <small><sub>**BSB:**</sub></small>
 “I am the true vine, and My Father is the keeper of the vineyard.
 <small><sub>**Literal:**</sub></small>
 I myself am the vine <the> true, and the Father of Mine the vinedresser is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.31|<< John 14:31]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.2|John 15:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγώ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | am |**<big>[[G1510\|εἰμι]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

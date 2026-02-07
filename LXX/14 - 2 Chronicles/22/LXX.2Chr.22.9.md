@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:9** 
 <small><sub>**LXX:**</sub></small>
 And Jehu told \[them\]  to seek  Ahaziah. And they overtook him \[in his\] being treated medically in Samaria, and they led him to Jehu, and he killed him. And they entombed him, for they said, He is a son of Jehoshaphat who sought the <span class="smallcaps">lord</span> with his entire heart. And there was not \[anyone\] in the house of Ahaziah prevailing with power over the kingdom. 
-<small><sub>**KJV:**</sub></small>
-And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he [is] the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
-<small><sub>**BSB:**</sub></small>
-Then Jehu looked for Ahaziah, and Jehu’s soldiers captured him while he was hiding in Samaria. So Ahaziah was brought to Jehu and put to death. They buried him, for they said, “He is the grandson of Jehoshaphat, who sought the LORD with all his heart.” So no one was left from the house of Ahaziah with the strength to rule the kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.8|<< 2 Chronicles 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.10|2 Chronicles 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

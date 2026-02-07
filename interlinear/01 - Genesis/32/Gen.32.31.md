@@ -1,4 +1,4 @@
-**Genesis 32:31** (32:32)
+**Genesis 32:31**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sun rose above him as he passed by Penuel, and he was limping because of his
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.30|<< Genesis 32:30]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.32|Genesis 32:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2224\|יִּֽזְרַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.rach-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Lamentations 4:9** 
+**Lamentations 4:9**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They that be] slain with the sword are better than [they that be] slain with hunger: for these pine away, stricken through for [want of] the fruits of the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those slain by the sword are better off than those who die of hunger, who waste 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | good  |**<big>&#8207;[[H2896A\|טוֹבִ֤ים]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are  |**<big>&#8207;[[H1961\|הָיוּ֙]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

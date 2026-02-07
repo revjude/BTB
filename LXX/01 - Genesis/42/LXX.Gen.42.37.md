@@ -1,10 +1,7 @@
 **LXX Genesis 42:37** 
 <small><sub>**LXX:**</sub></small>
 And Reuben said to his father, saying, The two sons of mine you may kill if I do not lead him to you. You give him into  my hand, and I will lead him to you. 
-<small><sub>**KJV:**</sub></small>
-And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.
-<small><sub>**BSB:**</sub></small>
-Then Reuben said to his father, “You may kill my two sons if I fail to bring him back to you. Put him in my care, and I will return him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.36|<< Genesis 42:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.38|Genesis 42:38 >>]]</td></tr></table>
 
 | Translation | Greek |

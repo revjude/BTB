@@ -1,10 +1,7 @@
 **LXX Psalm 5:4** 
 <small><sub>**LXX:**</sub></small>
 For you are not a God wanting lawlessness, nor the one being wicked sojourn with you; 
-<small><sub>**KJV:**</sub></small>
-For thou [art] not a God that hath pleasure in wickedness: neither shall evil dwell with thee.
-<small><sub>**BSB:**</sub></small>
-For You are not a God who delights in wickedness; no evil can dwell with You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.3|<< Psalm 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.5|Psalm 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

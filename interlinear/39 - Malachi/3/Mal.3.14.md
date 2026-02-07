@@ -1,4 +1,4 @@
-**Malachi 3:14** 
+**Malachi 3:14**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have said, It [is] vain to serve God: and what profit [is it] that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have said, ‘It is futile to serve God. What have we gained by keeping His 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.13|<< Malachi 3:13]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.15|Malachi 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have said  |**<big>&#8207;[[H0559\|אֲמַרְתֶּ֕ם]]&#8207; </big>**| 'a.mar.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] futility  |**<big>&#8207;[[H7723H\|שָׁ֖וְא]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

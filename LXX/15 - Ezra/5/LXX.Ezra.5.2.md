@@ -1,10 +1,7 @@
 **LXX Ezra 5:2** 
 <small><sub>**LXX:**</sub></small>
 Then rose up Zerubbabel the \[son of\] Shealtiel, and Jeshua son of Jozadak, and they began to build the house  of God, the one in Jerusalem; and with them \[were\] the prophets  of God to help them. 
-<small><sub>**KJV:**</sub></small>
-Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which [is] at Jerusalem: and with them [were] the prophets of God helping them.
-<small><sub>**BSB:**</sub></small>
-Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to rebuild the house of God in Jerusalem. And the prophets of God were with them, helping them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.1|<< Ezra 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.3|Ezra 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

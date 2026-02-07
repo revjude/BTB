@@ -1,10 +1,7 @@
 **LXX Job 18:20** 
 <small><sub>**LXX:**</sub></small>
 But in  his \[house\] others shall live; \[the\] last moaned for him, and \[the\] first had wonder. 
-<small><sub>**KJV:**</sub></small>
-They that come after [him] shall be astonied at his day, as they that went before were affrighted.
-<small><sub>**BSB:**</sub></small>
-Those in the west are appalled at his fate, while those in the east tremble in horror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.19|<< Job 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.21|Job 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:15** 
 <small><sub>**LXX:**</sub></small>
 Whole burnt-offerings being filled with marrow I will offer to you, with incense and rams. I will offer to you oxen with winter yearlings. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.
-<small><sub>**BSB:**</sub></small>
-I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.14|<< Psalm 66:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.16|Psalm 66:16 >>]]</td></tr></table>
 
 | Translation | Greek |

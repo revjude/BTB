@@ -1,4 +1,4 @@
-**Psalms 34:8** (34:9)
+**Psalms 34:8**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O taste and see that the LORD [is] good: blessed [is] the man [that] trusteth in him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Taste and see that the LORD is good; blessed is the man who takes refuge in Him!
 > $\quad$ referenced by: [[1Pet.2.3|1Pet 2:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | taste  |**<big>&#8207;[[H2938\|טַעֲמ֣וּ]]&#8207; </big>**| ta.'a.Mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and see  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H7200G\|רְאוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> re.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

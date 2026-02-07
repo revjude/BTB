@@ -1,4 +1,4 @@
-**Job 11:3** 
+**Job 11:3**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should your babbling put others to silence? Will you scoff without rebuke?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.2|<< Job 11:2]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.4|Job 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | empty boasts your  |**<big>&#8207;[[H0907\|בַּ֭דֶּי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Ba.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H4962\|מְתִ֣ים]]&#8207; </big>**| me.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

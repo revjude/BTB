@@ -1,10 +1,7 @@
 **LXX Psalm 79:12** 
 <small><sub>**LXX:**</sub></small>
 Repay \[to\] our neighbors seven-fold into  their bosom!  for their scorning which they berated you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.
-<small><sub>**BSB:**</sub></small>
-Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.11|<< Psalm 79:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.13|Psalm 79:13 >>]]</td></tr></table>
 
 | Translation | Greek |

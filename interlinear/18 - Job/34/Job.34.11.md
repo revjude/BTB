@@ -1,4 +1,4 @@
-**Job 34:11** 
+**Job 34:11**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the work of a man shall he render unto him, and cause every man to find according to [his] ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For according to a man’s deeds He repays him; according to a man’s ways He b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.10|<< Job 34:10]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.12|Job 34:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] work of  |**<big>&#8207;[[H6467\|פֹ֣עַל]]&#8207; </big>**| Fo.'al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

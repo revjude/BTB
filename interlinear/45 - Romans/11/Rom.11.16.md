@@ -1,12 +1,12 @@
-**Romans 11:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:16**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the firstfruit [be] holy, the lump [is] also [holy]: and if the root [be] holy, so [are] the branches.
 <small><sub>**BSB:**</sub></small>
 If the first part of the dough is holy, so is the whole batch; if the root is holy, so are the branches.
 <small><sub>**Literal:**</sub></small>
 If now the firstfruit [is] holy, also the lump; and if the root [is] holy, also the branches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.15|<< Romans 11:15]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.17|Romans 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

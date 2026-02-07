@@ -1,12 +1,12 @@
-**1 Timothy 5:8
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:8**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.
 <small><sub>**BSB:**</sub></small>
 If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.
 <small><sub>**Literal:**</sub></small>
 If now anyone <the> [their] own and especially of the [their] household not does provide for, the faith he has denied and he is than an unbeliever worse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.7|<< 1 Timothy 5:7]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.9|1 Timothy 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

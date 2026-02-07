@@ -1,10 +1,7 @@
 **LXX Job 19:14** 
 <small><sub>**LXX:**</sub></small>
 The ones near me pretend not \[to know\] me, and the ones knowing my  name forgot me. 
-<small><sub>**KJV:**</sub></small>
-My kinsfolk have failed, and my familiar friends have forgotten me.
-<small><sub>**BSB:**</sub></small>
-My kinsmen have failed me, and my friends have forgotten me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.13|<< Job 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.15|Job 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

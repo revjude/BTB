@@ -1,4 +1,4 @@
-**Jeremiah 4:12** 
+**Jeremiah 4:12**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] a full wind from those [places] shall come unto me: now also will I give sentence against them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a wind too strong for that comes from Me. Now I also pronounce judgments against
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.11|<< Jeremiah 4:11]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.13|Jeremiah 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wind  |**<big>&#8207;[[H7307H\|ר֧וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [too] full  |**<big>&#8207;[[H4392\|מָלֵ֛א]]&#8207; </big>**| ma.Le'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 8:26** 
 <small><sub>**LXX:**</sub></small>
 And was the weight of the ear-rings  of gold which he asked for -- a thousand and seven hundred shekels of gold, besides the ornaments of the crescents, and the wrap around \[garments\] of the ones of purple, of the ones upon the kings of Midian, even besides the collars of the ones on the necks  of their camels. 
-<small><sub>**KJV:**</sub></small>
-And the weight of the golden earrings that he requested was a thousand and seven hundred [shekels] of gold; beside ornaments, and collars, and purple raiment that [was] on the kings of Midian, and beside the chains that [were] about their camels’ necks.
-<small><sub>**BSB:**</sub></small>
-The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.25|<< Judges 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.27|Judges 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

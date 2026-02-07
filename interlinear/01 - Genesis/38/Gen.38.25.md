@@ -1,4 +1,4 @@
-**Genesis 38:25** 
+**Genesis 38:25**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When she [was] brought forth, she sent to her father in law, saying, By the man, whose these [are, am] I with child: and she said, Discern, I pray thee, whose [are] these, the signet, and bracelets, and staff.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As she was being brought out, Tamar sent a message to her father-in-law: “I am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.24|<< Genesis 38:24]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.26|Genesis 38:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she  |**<big>&#8207;[[H1931\|הִ֣וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was being] brought out  |**<big>&#8207;[[H3318H\|מוּצֵ֗את]]&#8207; </big>**| mu.Tzet<small><sup>[[HVHsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

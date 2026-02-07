@@ -1,4 +1,4 @@
-**Jeremiah 4:24** 
+**Jeremiah 4:24**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I looked at the mountains, and behold, they were quaking; all the hills were swa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.23|<< Jeremiah 4:23]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.25|Jeremiah 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I looked at  |**<big>&#8207;[[H7200G\|רָאִ֙יתִי֙]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountains  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2022G\|הָרִ֔ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:25** 
 <small><sub>**LXX:**</sub></small>
 And Judah and Israel dwelt being yielded each in  his grapevine and under  his fig-tree, from Dan and unto Beer-sheba, all the days of Solomon. 
-<small><sub>**KJV:**</sub></small>
-And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
-<small><sub>**BSB:**</sub></small>
-Throughout the days of Solomon, Judah and Israel dwelt securely from Dan to Beersheba, each man under his own vine and his own fig tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.24|<< 1 Kings 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.26|1 Kings 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

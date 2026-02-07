@@ -1,10 +1,7 @@
 **LXX Isaiah 66:2** 
 <small><sub>**LXX:**</sub></small>
 For all these \[things\] I made  by my hand, and all these are mine, says \[the\] <span class="smallcaps">lord</span>. And upon whom shall I look upon, but only upon the humble and unassuming, and \[the\] one trembling at  my words? 
-<small><sub>**KJV:**</sub></small>
-For all those [things] hath mine hand made, and all those [things] have been, saith the LORD: but to this [man] will I look, [even] to [him that is] poor and of a contrite spirit, and trembleth at my word.
-<small><sub>**BSB:**</sub></small>
-Has not My hand made all these things? And so they came into being,” declares the LORD. “This is the one I will esteem: he who is humble and contrite in spirit, who trembles at My word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.1|<< Isaiah 66:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.3|Isaiah 66:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 66:2** is...

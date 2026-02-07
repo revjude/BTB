@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:18** 
 <small><sub>**LXX:**</sub></small>
 if you should hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God, to guard all  his commandments, which I give charge to you today, to do the good and the pleasing \[thing\] before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do [that which is] right in the eyes of the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-because you obey the LORD your God, keeping all His commandments I am giving you today and doing what is right in the eyes of the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.17|<< Deuteronomy 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.1|Deuteronomy 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

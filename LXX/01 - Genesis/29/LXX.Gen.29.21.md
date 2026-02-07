@@ -1,10 +1,7 @@
 **LXX Genesis 29:21** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said  to Laban, Give to me  my wife, for the days are fulfilled so as to enter to her! 
-<small><sub>**KJV:**</sub></small>
-And Jacob said unto Laban, Give [me] my wife, for my days are fulfilled, that I may go in unto her.
-<small><sub>**BSB:**</sub></small>
-Finally Jacob said to Laban, “Grant me my wife, for my time is complete, and I want to sleep with her.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.20|<< Genesis 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.22|Genesis 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:21** 
 <small><sub>**LXX:**</sub></small>
 And forty years you nourished them in the wilderness, \[and\] they lacked not one \[thing\]; their garments did not become old, and their sandals were not torn up. 
-<small><sub>**KJV:**</sub></small>
-Yea, forty years didst thou sustain them in the wilderness, [so that] they lacked nothing; their clothes waxed not old, and their feet swelled not.
-<small><sub>**BSB:**</sub></small>
-For forty years You sustained them in the wilderness, so that they lacked nothing. Their clothes did not wear out and their feet did not swell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.20|<< Nehemiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.22|Nehemiah 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 24:4** 
 <small><sub>**LXX:**</sub></small>
 They turned aside \[the\] disabled from \[the\] just way; with one accord \[the\] gentle of \[the\] earth was hidden. 
-<small><sub>**KJV:**</sub></small>
-They turn the needy out of the way: the poor of the earth hide themselves together.
-<small><sub>**BSB:**</sub></small>
-They push the needy off the road and force all the poor of the land into hiding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.3|<< Job 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.5|Job 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

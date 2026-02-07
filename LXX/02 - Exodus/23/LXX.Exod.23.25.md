@@ -1,10 +1,7 @@
 **LXX Exodus 23:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall serve to \[the\] <span class="smallcaps">lord</span>  your God; and I will bless  your bread, and  your wine, and  your water; and I will turn infirmity from you. 
-<small><sub>**KJV:**</sub></small>
-And ye shall serve the LORD your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.
-<small><sub>**BSB:**</sub></small>
-So you shall serve the LORD your God, and He will bless your bread and your water. And I will take away sickness from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.24|<< Exodus 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.26|Exodus 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 7:17** 
 <small><sub>**LXX:**</sub></small>
 They shall lick dust as serpents dragging on \[the\] earth; they shall be confounded in their confinement; by the <span class="smallcaps">lord</span> our God they shall be amazed, and shall fear from you. 
-<small><sub>**KJV:**</sub></small>
-They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.
-<small><sub>**BSB:**</sub></small>
-They will lick the dust like a snake, like reptiles slithering on the ground. They will come trembling from their strongholds in the presence of the LORD our God; they will tremble in fear of You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.16|<< Micah 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.18|Micah 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

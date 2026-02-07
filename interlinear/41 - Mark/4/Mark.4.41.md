@@ -1,12 +1,12 @@
-**Mark 4:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:41**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
 <small><sub>**BSB:**</sub></small>
 Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”
 <small><sub>**Literal:**</sub></small>
 And they feared [with] fear great and were saying to each other; Who then this is that even the wind and the sea it obeys Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.40|<< Mark 4:40]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.1|Mark 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they feared |**<big>[[G5399\|ἐφοβήθησαν]]</big>**  |ephobēthēsan <small><sup>[[V-AOI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

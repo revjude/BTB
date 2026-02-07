@@ -1,5 +1,5 @@
-**Hebrews 2:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:6**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?
 <small><sub>**BSB:**</sub></small>
 But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him?
@@ -10,7 +10,7 @@ Has testified however somewhere someone saying; What is man that You are mindful
 > $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Has testified |**<big>[[G1263\|διεμαρτύρατο]]</big>**  |diemarturato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

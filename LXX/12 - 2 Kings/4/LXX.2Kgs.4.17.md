@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:17** 
 <small><sub>**LXX:**</sub></small>
 And the woman conceived, and bore a son at  this \[same\] time about the \[same\] hour living, as Elisha spoke to her. 
-<small><sub>**KJV:**</sub></small>
-And the woman conceived, and bare a son at that season that Elisha had said unto her, according to the time of life.
-<small><sub>**BSB:**</sub></small>
-But the woman did conceive, and at that time the next year she gave birth to a son, just as Elisha had told her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.16|<< 2 Kings 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.18|2 Kings 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

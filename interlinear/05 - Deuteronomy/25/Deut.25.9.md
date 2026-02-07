@@ -1,4 +1,4 @@
-**Deuteronomy 25:9** 
+**Deuteronomy 25:9**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ his brother’s widow shall go up to him in the presence of the elders, remove h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.8|<< Deuteronomy 25:8]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.10|Deuteronomy 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will draw near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5066G\|נִגְּשָׁ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.ge.Shah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother's wife his  |**<big>&#8207;[[H2994\|יְבִמְתּ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ye.vim.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

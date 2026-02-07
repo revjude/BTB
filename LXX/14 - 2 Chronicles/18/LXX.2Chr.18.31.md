@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:31** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the ones in charge of the chariots saw  Jehoshaphat, that they said, It is \[the\] king of Israel. And they encircled him  to do battle. And Jehoshaphat yelled, and \[the\] <span class="smallcaps">lord</span> delivered him, and God turned them from him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It [is] the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them [to depart] from him.
-<small><sub>**BSB:**</sub></small>
-When the chariot commanders saw Jehoshaphat, they said, “This is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out, and the LORD helped him. God drew them away from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.30|<< 2 Chronicles 18:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.32|2 Chronicles 18:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 26:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:17**<big><big>[[Matt.26.17 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the first [day] of the [feast of] unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?
 <small><sub>**BSB:**</sub></small>
 On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, “Where do You want us to prepare for You to eat the Passover?”
 <small><sub>**Literal:**</sub></small>
 On the now first [day] of the unleavened [bread] came the disciples <the> to Jesus saying to him: Where wish you [that] we may prepare for You to eat the Passover?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.16|<< Matthew 26:16]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.18|Matthew 26:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

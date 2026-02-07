@@ -1,10 +1,7 @@
 **LXX Psalm 78:31** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] anger  of God ascended upon them; and he killed in  their plenty; and the chosen ones  of Israel he impeded. 
-<small><sub>**KJV:**</sub></small>
-The wrath of God came upon them, and slew the fattest of them, and smote down the chosen [men] of Israel.
-<small><sub>**BSB:**</sub></small>
-God’s anger flared against them, and He put to death their strongest and subdued the young men of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.30|<< Psalm 78:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.32|Psalm 78:32 >>]]</td></tr></table>
 
 | Translation | Greek |

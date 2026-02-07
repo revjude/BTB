@@ -1,4 +1,4 @@
-**Jeremiah 38:7** 
+**Jeremiah 38:7**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Ebed-melech the Cushite, a court official in the royal palace, heard that Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.6|<< Jeremiah 38:6]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.8|Jeremiah 38:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֡ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ebed  |**<big>&#8207;[[H5663\|עֶֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

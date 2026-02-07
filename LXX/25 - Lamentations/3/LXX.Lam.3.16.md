@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΟΥΑΥ</p>
 
 and he knocked out my teeth by a small stone; he fed me ashes, 
-<small><sub>**KJV:**</sub></small>
-He hath also broken my teeth with gravel stones, he hath covered me with ashes.
-<small><sub>**BSB:**</sub></small>
-He has ground my teeth with gravel and trampled me in the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.15|<< Lamentations 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.17|Lamentations 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

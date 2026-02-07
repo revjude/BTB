@@ -1,12 +1,12 @@
-**Luke 20:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:23**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he perceived their craftiness, and said unto them, Why tempt ye me?
 <small><sub>**BSB:**</sub></small>
 But Jesus saw through their duplicity and said to them,
 <small><sub>**Literal:**</sub></small>
 having perceived however of them the craftiness He said to them why me do you test;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.22|<< Luke 20:22]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.24|Luke 20:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having perceived |**<big>[[G2657\|κατανοήσας]]</big>**  |katanoēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:63** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Merari according to their kin from \[the\] tribe of Reuben, and from \[the\] tribe of Gad, and from \[the\] tribe of Zebulun, by lot -- ten and two cities. 
-<small><sub>**KJV:**</sub></small>
-Unto the sons of Merari [were given] by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
-<small><sub>**BSB:**</sub></small>
-The Merarites, according to their clans, were allotted twelve cities from the tribes of Reuben, Gad, and Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.62|<< 1 Chronicles 6:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.64|1 Chronicles 6:64 >>]]</td></tr></table>
 
 | Translation | Greek |

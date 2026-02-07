@@ -1,10 +1,7 @@
 **LXX Isaiah 63:13** 
 <small><sub>**LXX:**</sub></small>
 He led them through the deep as a horse through a wilderness, and they tired not. 
-<small><sub>**KJV:**</sub></small>
-That led them through the deep, as an horse in the wilderness, [that] they should not stumble?
-<small><sub>**BSB:**</sub></small>
-who led them through the depths like a horse in the wilderness, so that they did not stumble?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.12|<< Isaiah 63:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.14|Isaiah 63:14 >>]]</td></tr></table>
 
 | Translation | Greek |

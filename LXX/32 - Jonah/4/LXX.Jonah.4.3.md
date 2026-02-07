@@ -1,10 +1,7 @@
 **LXX Jonah 4:3** 
 <small><sub>**LXX:**</sub></small>
 And now, master, O <span class="smallcaps">lord</span>, take  my soul from me, for \[it is\] good  for me to die than live! 
-<small><sub>**KJV:**</sub></small>
-Therefore now, O LORD, take, I beseech thee, my life from me; for [it is] better for me to die than to live.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD, please take my life from me, for it is better for me to die than to live.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.2|<< Jonah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.4|Jonah 4:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:3** is...

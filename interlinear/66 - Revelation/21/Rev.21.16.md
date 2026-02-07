@@ -1,12 +1,12 @@
-**Revelation 21:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:16**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
 <small><sub>**BSB:**</sub></small>
 The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal—12,000 stadia in length and width and height.
 <small><sub>**Literal:**</sub></small>
 And the city foursquare lies, and the length of it so great is [the] same as also the width. And he measured the city with the reed at stadia twelve thousand twelve [was] the length and the breadth and the height of it equal are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.15|<< Revelation 21:15]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.17|Revelation 21:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 8:11** 
+**Job 8:11**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can the rush grow up without mire? can the flag grow without water?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does papyrus grow where there is no marsh? Do reeds flourish without water?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.10|<< Job 8:10]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.12|Job 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will it grow tall  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H1342\|יִֽגְאֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yig.'eh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | papyrus  |**<big>&#8207;[[H1573\|גֹּ֭מֶא]]&#8207; </big>**| Go.me'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A son glorifies a father, and a servant  his master. And if I am father, where is  my glory? And if I am \[the\] <span class="smallcaps">lord</span>, where is the fear of me, says \[the\] <span class="smallcaps">lord</span> almighty? You, the priests, \[are\] the ones my name as worthless. And you said, We treated as worthless your name in what? 
-<small><sub>**KJV:**</sub></small>
-A son honoureth [his] father, and a servant his master: if then I [be] a father, where [is] mine honour? and if I [be] a master, where [is] my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?
-<small><sub>**BSB:**</sub></small>
-“A son honors his father, and a servant his master. But if I am a father, where is My honor? And if I am a master, where is your fear of Me?” says the LORD of Hosts to you priests who despise My name. “But you ask, ‘How have we despised Your name?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.5|<< Malachi 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.7|Malachi 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 19:23** 
+**Genesis 19:23**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun was risen upon the earth when Lot entered into Zoar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And by the time the sun had risen over the land, Lot had reached Zoar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.22|<< Genesis 19:22]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.24|Genesis 19:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the sun  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שֶּׁ֖מֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came out  |**<big>&#8207;[[H3318K\|יָצָ֣א]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

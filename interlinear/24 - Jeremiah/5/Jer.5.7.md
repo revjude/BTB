@@ -1,4 +1,4 @@
-**Jeremiah 5:7** 
+**Jeremiah 5:7**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall I pardon thee for this? thy children have forsaken me, and sworn by [them that are] no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How shall I pardon thee for this? thy children have forsaken me, and sworn by [t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0335\|אֵ֤י]]&#8207; </big>**| 'ei<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for this  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

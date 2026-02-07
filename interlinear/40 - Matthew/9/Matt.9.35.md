@@ -1,12 +1,12 @@
-**Matthew 9:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:35**<big><big>[[Matt.9.35 The Lord of the Harvest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
 <small><sub>**BSB:**</sub></small>
 Jesus went through all the towns and villages, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness.
 <small><sub>**Literal:**</sub></small>
 And was going throughout <the> Jesus the cities all and the villages teaching in the synagogues of them and proclaiming the gospel of the kingdom and healing every disease and every sickness in <the> people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.34|<< Matthew 9:34]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.36|Matthew 9:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was going throughout |**<big>[[G4013\|περιῆγεν]]</big>**  |periēgen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 39:25** 
+**Job 39:25**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the blast of the horn, he snorts with fervor. He catches the scent of battle 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.24|<< Job 39:24]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.26|Job 39:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] sufficiency of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1767\|דֵ֤י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a horn  |**<big>&#8207;[[H7782\|שֹׁפָ֨ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

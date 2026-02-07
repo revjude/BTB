@@ -1,10 +1,7 @@
 **LXX Daniel 4:12** 
 <small><sub>**LXX:**</sub></small>
  Its leaves \[were\] beautiful, and  its fruit abundant, and a nourishment for all \[was\] in it. And underneath it encamped the wild beasts, and in  its branches dwelt the birds of the heaven; from out of it all flesh was nourished. 
-<small><sub>**KJV:**</sub></small>
-The leaves thereof [were] fair, and the fruit thereof much, and in it [was] meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.
-<small><sub>**BSB:**</sub></small>
-Its leaves were beautiful, its fruit was abundant, and upon it was food for all. Under it the beasts of the field found shelter, in its branches the birds of the air nested, and from it every creature was fed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.11|<< Daniel 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.13|Daniel 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

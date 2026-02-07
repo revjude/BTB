@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:15** 
 <small><sub>**LXX:**</sub></small>
 And they answered \[to\] Jeremiah -- all the men  knowing that their wives burned incense to other gods, and all the women, a great gathering, and all the people  settling down in \[the\] land of Egypt in \[the\] land of Pathros, saying, 
-<small><sub>**KJV:**</sub></small>
-Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,
-<small><sub>**BSB:**</sub></small>
-Then all the men who knew that their wives were burning incense to other gods, and all the women standing by—a great assembly—along with all the people living in the land of Egypt and in Pathros, said to Jeremiah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.14|<< Jeremiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.16|Jeremiah 44:16 >>]]</td></tr></table>
 
 | Translation | Greek |

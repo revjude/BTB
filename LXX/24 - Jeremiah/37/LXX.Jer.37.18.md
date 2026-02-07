@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:18** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to the king, How did I wrong you, and  your servants, and  this people, that you put me into a prison house? 
-<small><sub>**KJV:**</sub></small>
-Moreover Jeremiah said unto king Zedekiah, What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison?
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah asked King Zedekiah, “How have I sinned against you or your servants or these people, that you have put me in prison?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.17|<< Jeremiah 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.19|Jeremiah 37:19 >>]]</td></tr></table>
 
 | Translation | Greek |

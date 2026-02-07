@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:20** 
 <small><sub>**LXX:**</sub></small>
 And Michal the daughter of Saul loved  David. And it was reported  to Saul, and the thing was pleasing in his eyes. 
-<small><sub>**KJV:**</sub></small>
-And Michal Saul’s daughter loved David: and they told Saul, and the thing pleased him.
-<small><sub>**BSB:**</sub></small>
-Now Saul’s daughter Michal loved David, and when this was reported to Saul, it pleased him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.19|<< 1 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.21|1 Samuel 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

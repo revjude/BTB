@@ -1,12 +1,12 @@
-**Acts 12:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:22**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people gave a shout, [saying, It is] the voice of a god, and not of a man.
 <small><sub>**BSB:**</sub></small>
 And they began to shout, “This is the voice of a god, not a man!”
 <small><sub>**Literal:**</sub></small>
 <the> And the people were crying out; Of a god [this is the] voice and not of a man!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.21|<< Acts 12:21]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.23|Acts 12:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

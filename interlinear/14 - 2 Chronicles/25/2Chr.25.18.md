@@ -1,4 +1,4 @@
-**2 Chronicles 25:18** 
+**2 Chronicles 25:18**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that [was] in Lebanon sent to the cedar that [was] in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that [was] in Lebanon, and trode down the thistle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehoash king of Israel replied to Amaziah king of Judah: “A thistle in Leb
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.17|<< 2 Chronicles 25:17]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.19|2 Chronicles 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joash  |**<big>&#8207;[[H3101J\|יוֹאָ֣שׁ]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

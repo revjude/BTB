@@ -1,4 +1,4 @@
-**Isaiah 66:3** 
+**Isaiah 66:3**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that killeth an ox [is as if] he slew a man; he that sacrificeth a lamb, [as if] he cut off a dog’s neck; he that offereth an oblation, [as if he offered] swine’s blood; he that burneth incense, [as if] he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever slaughters an ox is like one who slays a man; whoever sacrifices a lamb 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.2|<< Isaiah 66:2]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.4|Isaiah 66:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] slaughters  |**<big>&#8207;[[H7819A\|שׁוֹחֵ֨ט]]&#8207; </big>**| sho.Chet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> ox  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7794\|שּׁ֜וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

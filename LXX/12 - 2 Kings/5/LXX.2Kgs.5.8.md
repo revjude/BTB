@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Elisha \[the\] man of God heard that the king tore  his garments, that he sent to the king of Israel, saying, Why do you tear  your garments? indeed Naaman come to me! and he shall know that there is a prophet in Israel. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel.
-<small><sub>**BSB:**</sub></small>
-Now when Elisha the man of God heard that the king of Israel had torn his clothes, he sent a message to the king: “Why have you torn your clothes? Please let the man come to me, and he will know that there is a prophet in Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.7|<< 2 Kings 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.9|2 Kings 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

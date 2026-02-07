@@ -1,10 +1,7 @@
 **LXX Joshua 4:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall make manifest \[to\] your son, saying that, The Jordan river ceased from in front of \[the\] ark of the covenant of \[the\] <span class="smallcaps">lord</span> of all the earth as it passed over the Jordan -- even the water of the Jordan ceased. And these stones shall be to you a memorial to the sons of Israel unto the eon. 
-<small><sub>**KJV:**</sub></small>
-Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.
-<small><sub>**BSB:**</sub></small>
-you are to tell them, ‘The waters of the Jordan were cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the waters were cut off.’ Therefore these stones will be a memorial to the Israelites forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.6|<< Joshua 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.8|Joshua 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

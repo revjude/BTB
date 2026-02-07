@@ -1,4 +1,4 @@
-**Job 11:8** 
+**Job 11:8**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] as high as heaven; what canst thou do? deeper than hell; what canst thou know?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are higher than the heavens—what can you do? They are deeper than Sheol�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.7|<< Job 11:7]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.9|Job 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] heights of  |**<big>&#8207;[[H1363\|גָּבְהֵ֣י]]&#8207; </big>**| ga.ve.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

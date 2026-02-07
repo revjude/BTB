@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:48** 
 <small><sub>**LXX:**</sub></small>
 And all flesh shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. I kindled it, and it shall not be extinguished. 
-<small><sub>**KJV:**</sub></small>
-And all flesh shall see that I the LORD have kindled it: it shall not be quenched.
-<small><sub>**BSB:**</sub></small>
-Then all people will see that I, the LORD, have kindled it; it will not be quenched.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.47|<< Ezekiel 20:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.49|Ezekiel 20:49 >>]]</td></tr></table>
 
 | Translation | Greek |

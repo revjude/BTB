@@ -1,10 +1,7 @@
 **LXX Exodus 38:13** 
 <small><sub>**LXX:**</sub></small>
 And the side  towards \[the\] east -- shrouds of fifty cubits, 
-<small><sub>**KJV:**</sub></small>
-And for the east side eastward fifty cubits.
-<small><sub>**BSB:**</sub></small>
-And the east side, toward the sunrise, was also fifty cubits long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.12|<< Exodus 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.14|Exodus 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

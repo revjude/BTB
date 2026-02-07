@@ -1,10 +1,7 @@
 **LXX Numbers 31:54** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Eleazar the priest took the gold from the commanders of a thousand, and from the commanders of hundreds, and carried them into the tent of the testimony, a memorial of the sons of Israel before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, [for] a memorial for the children of Israel before the LORD.
-<small><sub>**BSB:**</sub></small>
-And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds and brought it into the Tent of Meeting as a memorial for the Israelites before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.53|<< Numbers 31:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.1|Numbers 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

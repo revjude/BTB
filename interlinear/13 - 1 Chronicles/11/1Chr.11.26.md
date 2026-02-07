@@ -1,4 +1,4 @@
-**1 Chronicles 11:26** 
+**1 Chronicles 11:26**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the valiant men of the armies [were], Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now these were the mighty men: Asahel the brother of Joab, Elhanan son of Dodo o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.25|<< 1 Chronicles 11:25]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.27|1 Chronicles 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] mighty [men] of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1368\|גִבּוֹרֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> strength\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2428G\|חֲיָלִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.ya.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

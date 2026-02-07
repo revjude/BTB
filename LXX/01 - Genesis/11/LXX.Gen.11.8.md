@@ -1,10 +1,7 @@
 **LXX Genesis 11:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> scattered them from there upon the face of all the earth; and they ceased building the city and the tower. 
-<small><sub>**KJV:**</sub></small>
-So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
-<small><sub>**BSB:**</sub></small>
-So the LORD scattered them from there over the face of all the earth, and they stopped building the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.7|<< Genesis 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.9|Genesis 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

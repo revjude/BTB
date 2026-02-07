@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:7** 
 <small><sub>**LXX:**</sub></small>
 And she offered  her harlotry unto them; the choice sons of \[the\] Assyrians -- all; and upon all upon whom she doted herself. With all  her thoughts she defiled herself. 
-<small><sub>**KJV:**</sub></small>
-Thus she committed her whoredoms with them, with all them [that were] the chosen men of Assyria, and with all on whom she doted: with all their idols she defiled herself.
-<small><sub>**BSB:**</sub></small>
-She offered sexual favors to all the elite of Assyria. She defiled herself with all the idols of those for whom she lusted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.6|<< Ezekiel 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.8|Ezekiel 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

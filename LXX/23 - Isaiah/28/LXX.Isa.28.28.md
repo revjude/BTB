@@ -1,10 +1,7 @@
 **LXX Isaiah 28:28** 
 <small><sub>**LXX:**</sub></small>
 But the cummin shall be eaten with bread, for I \[am\] not provoked to anger against you into the eon, nor \[shall the\] voice  of my bitterness trample you. 
-<small><sub>**KJV:**</sub></small>
-Bread [corn] is bruised; because he will not ever be threshing it, nor break [it with] the wheel of his cart, nor bruise it [with] his horsemen.
-<small><sub>**BSB:**</sub></small>
-Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.27|<< Isaiah 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.29|Isaiah 28:29 >>]]</td></tr></table>
 
 | Translation | Greek |

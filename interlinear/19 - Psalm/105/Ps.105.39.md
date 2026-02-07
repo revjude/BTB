@@ -1,4 +1,4 @@
-**Psalms 105:39** 
+**Psalms 105:39**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He spread a cloud for a covering; and fire to give light in the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He spread a cloud as a covering and a fire to light up the night.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.38|<< Psalms 105:38]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.40|Psalms 105:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he spread out  |**<big>&#8207;[[H6566\|פָּרַ֣שׂ]]&#8207; </big>**| pa.Ras<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cloud  |**<big>&#8207;[[H6051\|עָנָ֣ן]]&#8207; </big>**| 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

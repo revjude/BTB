@@ -1,4 +1,4 @@
-**Numbers 12:10** 
+**Numbers 12:10**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cloud departed from off the tabernacle; and, behold, Miriam [became] leprous, [white] as snow: and Aaron looked upon Miriam, and, behold, [she was] leprous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the cloud lifted from above the Tent, suddenly Miriam became leprous, white a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.9|<< Numbers 12:9]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.11|Numbers 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cloud  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H6051\|עָנָ֗ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it departed  |**<big>&#8207;[[H5493G\|סָ֚ר]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

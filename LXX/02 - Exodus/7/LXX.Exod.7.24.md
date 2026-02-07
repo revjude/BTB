@@ -1,10 +1,7 @@
 **LXX Exodus 7:24** 
 <small><sub>**LXX:**</sub></small>
 And all the Egyptians dug round about the river so as to drink water; and they were not able to drink water from the river. 
-<small><sub>**KJV:**</sub></small>
-And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.
-<small><sub>**BSB:**</sub></small>
-So all the Egyptians dug around the Nile for water to drink, because they could not drink the water from the river.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.23|<< Exodus 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.25|Exodus 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

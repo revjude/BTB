@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:11** 
 <small><sub>**LXX:**</sub></small>
 And Saul sent messengers to the house of David to guard him, \[so as\] to put him to death in the morning. And it was reported  to David by Michal  his wife, saying, If you shall not preserve  your life  this night, tomorrow you shall be put to death. 
-<small><sub>**KJV:**</sub></small>
-Saul also sent messengers unto David’s house, to watch him, and to slay him in the morning: and Michal David’s wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.
-<small><sub>**BSB:**</sub></small>
-Then Saul sent messengers to David’s house to watch him and kill him in the morning. But David’s wife Michal warned him, “If you do not run for your life tonight, tomorrow you will be dead!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.10|<< 1 Samuel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.12|1 Samuel 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

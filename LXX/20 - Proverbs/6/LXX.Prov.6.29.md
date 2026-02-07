@@ -1,10 +1,7 @@
 **LXX Proverbs 6:29** 
 <small><sub>**LXX:**</sub></small>
 So the one entering to a married woman; he shall not be acquitted, nor any \[one\]  touching her. 
-<small><sub>**KJV:**</sub></small>
-So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent.
-<small><sub>**BSB:**</sub></small>
-So is he who sleeps with another man’s wife; no one who touches her will go unpunished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.28|<< Proverbs 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.30|Proverbs 6:30 >>]]</td></tr></table>
 
 | Translation | Greek |

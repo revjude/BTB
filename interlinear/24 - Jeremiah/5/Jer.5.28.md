@@ -1,4 +1,4 @@
-**Jeremiah 5:28** 
+**Jeremiah 5:28**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have grown fat and sleek, and have excelled in the deeds of the wicked. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.27|<< Jeremiah 5:27]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.29|Jeremiah 5:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have become fat  |**<big>&#8207;[[H8080\|שָׁמְנ֣וּ]]&#8207; </big>**| sha.me.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have become smooth  |**<big>&#8207;[[H6245A\|עָשְׁת֗וּ]]&#8207; </big>**| 'a.she.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

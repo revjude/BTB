@@ -1,10 +1,7 @@
 **LXX Proverbs 21:19** 
 <small><sub>**LXX:**</sub></small>
 Better to live in the wilderness than with a wife being combative and talkative and prone to anger. 
-<small><sub>**KJV:**</sub></small>
-[It is] better to dwell in the wilderness, than with a contentious and an angry woman.
-<small><sub>**BSB:**</sub></small>
-Better to live in the desert than with a contentious and ill-tempered wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.18|<< Proverbs 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.20|Proverbs 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

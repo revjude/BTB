@@ -1,10 +1,7 @@
 **LXX Job 39:14** 
 <small><sub>**LXX:**</sub></small>
 for her eggs go unto \[the\] earth, and she shall incubate upon \[the\] dust; 
-<small><sub>**KJV:**</sub></small>
-Which leaveth her eggs in the earth, and warmeth them in dust,
-<small><sub>**BSB:**</sub></small>
-For she leaves her eggs on the ground and lets them warm in the sand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.13|<< Job 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.15|Job 39:15 >>]]</td></tr></table>
 
 | Translation | Greek |

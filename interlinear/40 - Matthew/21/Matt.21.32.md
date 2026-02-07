@@ -1,12 +1,12 @@
-**Matthew 21:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:32**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen [it], repented not afterward, that ye might believe him.
 <small><sub>**BSB:**</sub></small>
 For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him.
 <small><sub>**Literal:**</sub></small>
 Came for John to you in [the] way of righteousness, and not you did believe in him; <the> however the tax collectors and the prostitutes believed in him. you yourselves then having seen not even did repent afterward <the> to believe him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.31|<< Matthew 21:31]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.33|Matthew 21:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

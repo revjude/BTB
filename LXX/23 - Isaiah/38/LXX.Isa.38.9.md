@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] prayer of Hezekiah king  of Judea when he was infirm and he rose up from  his infirmity. 
-<small><sub>**KJV:**</sub></small>
-The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:
-<small><sub>**BSB:**</sub></small>
-This is a writing by Hezekiah king of Judah after his illness and recovery:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.8|<< Isaiah 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.10|Isaiah 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

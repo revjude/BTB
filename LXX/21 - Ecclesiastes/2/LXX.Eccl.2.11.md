@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:11** 
 <small><sub>**LXX:**</sub></small>
 And I looked upon all my actions, the things which I did  by my hands, and on \[the\] effort in which I made an effort  to do. And behold,  all \[things\] \[were\] folly and a resolve of spirit, and there is no advantage under the sun. 
-<small><sub>**KJV:**</sub></small>
-Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all [was] vanity and vexation of spirit, and [there was] no profit under the sun.
-<small><sub>**BSB:**</sub></small>
-Yet when I considered all the works that my hands had accomplished and what I had toiled to achieve, I found everything to be futile, a pursuit of the wind; there was nothing to be gained under the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.10|<< Ecclesiastes 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.12|Ecclesiastes 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

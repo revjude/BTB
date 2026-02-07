@@ -1,12 +1,12 @@
-**Luke 21:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:9**<big><big>[[Luke.21.5 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end [is] not by and by.
 <small><sub>**BSB:**</sub></small>
 When you hear of wars and rebellions, do not be alarmed. These things must happen first, but the end is not imminent.”
 <small><sub>**Literal:**</sub></small>
 When then you may hear of wars and commotions, not may be terrified; it behooves for these things to take place first but not immediately [is] the end.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.8|<< Luke 21:8]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.10|Luke 21:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

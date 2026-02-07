@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But on  mount Zion there will be deliverance, and there will be a holy place. And the house of Jacob shall inherit the ones inheriting them. 
-<small><sub>**KJV:**</sub></small>
-But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
-<small><sub>**BSB:**</sub></small>
-But on Mount Zion there will be deliverance, and it will be holy, and the house of Jacob will reclaim their possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.16|<< Obadiah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.18|Obadiah 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

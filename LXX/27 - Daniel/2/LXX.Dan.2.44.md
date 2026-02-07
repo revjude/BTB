@@ -1,10 +1,7 @@
 **LXX Daniel 2:44** 
 <small><sub>**LXX:**</sub></small>
 And in the days  of those kings the God of heaven shall raise up a kingdom, which shall not be corrupted into the eons. And  his kingdom shall not be left to another people, \[but\] it shall thin and winnow all the kingdoms, and this \[one\] shall rise up into the eons. 
-<small><sub>**KJV:**</sub></small>
-And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
-<small><sub>**BSB:**</sub></small>
-In the days of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will shatter all these kingdoms and bring them to an end, but will itself stand forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.43|<< Daniel 2:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.45|Daniel 2:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 2:44** is...

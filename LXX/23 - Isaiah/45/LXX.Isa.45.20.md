@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Gather together and come! Consult together! O ones being delivered from the nations. They are not knowing, the ones lifting  their wood carving, and  praying to a god which does not deliver. 
-<small><sub>**KJV:**</sub></small>
-Assemble yourselves and come; draw near together, ye [that are] escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god [that] cannot save.
-<small><sub>**BSB:**</sub></small>
-Come, gather together, and draw near, you fugitives from the nations. Ignorant are those who carry idols of wood and pray to a god that cannot save.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 
 | Translation | Greek |

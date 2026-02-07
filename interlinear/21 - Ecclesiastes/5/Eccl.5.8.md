@@ -1,4 +1,4 @@
-**Ecclesiastes 5:8** (5:7)
+**Ecclesiastes 5:8**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for [he that is] higher than the highest regardeth; and [there be] higher than they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you see the oppression of the poor and the denial of justice and righteousnes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.7|<< Ecclesiastes 5:7]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.9|Ecclesiastes 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oppression of  |**<big>&#8207;[[H6233\|עֹ֣שֶׁק]]&#8207; </big>**| 'O.shek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

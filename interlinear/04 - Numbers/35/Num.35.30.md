@@ -1,4 +1,4 @@
-**Numbers 35:30** 
+**Numbers 35:30**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person [to cause him] to die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone kills a person, the murderer is to be put to death on the testimony of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.29|<< Numbers 35:29]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.31|Numbers 35:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] strikes down  |**<big>&#8207;[[H5221\|מַ֨כֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ma.keh-<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

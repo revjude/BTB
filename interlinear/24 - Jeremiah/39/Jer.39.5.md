@@ -1,4 +1,4 @@
-**Jeremiah 39:5** 
+**Jeremiah 39:5**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the army of the Chaldeans pursued them and overtook Zedekiah in the plains o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.4|<< Jeremiah 39:4]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.6|Jeremiah 39:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] army of  |**<big>&#8207;[[H2428A\|חֵיל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cheil-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

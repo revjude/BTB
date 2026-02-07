@@ -1,12 +1,12 @@
-**Ephesians 3:7
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:7**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.
 <small><sub>**BSB:**</sub></small>
 I became a servant of this gospel by the gift of God’s grace, given me through the working of His power.
 <small><sub>**Literal:**</sub></small>
 of which I would be servant according to the gift of the grace <the> of God which having been given to me according to the working of the power of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.6|<< Ephesians 3:6]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.8|Ephesians 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of which |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I would be [^1] |**<big>[[G1096\|ἐγενήθην]]</big>**  |egenēthēn <small><sup>[[V-2AOI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

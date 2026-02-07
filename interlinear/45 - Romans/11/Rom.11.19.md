@@ -1,12 +1,12 @@
-**Romans 11:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:19**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou wilt say then, The branches were broken off, that I might be graffed in.
 <small><sub>**BSB:**</sub></small>
 You will say then, “Branches were broken off so that I could be grafted in.”
 <small><sub>**Literal:**</sub></small>
 You will say then; Were broken off <the> branches that I myself may be grafted in.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.18|<< Romans 11:18]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.20|Romans 11:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You will say |**<big>[[G4483\|ἐρεῖς]]</big>**  |ereis <small><sup>[[V-FAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then; |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

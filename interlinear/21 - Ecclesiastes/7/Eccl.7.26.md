@@ -1,4 +1,4 @@
-**Ecclesiastes 7:26** 
+**Ecclesiastes 7:26**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I find more bitter than death the woman, whose heart [is] snares and nets, [and] her hands [as] bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I find more bitter than death the woman who is a snare, whose heart is a net
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.25|<< Ecclesiastes 7:25]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.27|Ecclesiastes 7:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] finding  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4672\|מוֹצֶ֨א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֜י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

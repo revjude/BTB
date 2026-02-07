@@ -1,4 +1,4 @@
-**Exodus 34:2** 
+**Exodus 34:2**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be ready in the morning, and come up on Mount Sinai to present yourself before M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.1|<< Exodus 34:1]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.3|Exodus 34:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and be  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H1961\|הְיֵ֥ה]]&#8207; </big>**| ve<small><sup>[[HC]]</sup></small> h.Yeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prepared  |**<big>&#8207;[[H3559A\|נָכ֖וֹן]]&#8207; </big>**| na.Khon<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

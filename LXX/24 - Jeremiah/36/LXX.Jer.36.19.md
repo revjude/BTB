@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:19** 
 <small><sub>**LXX:**</sub></small>
 And the rulers said \[to\] Baruch, Proceed and be hid, you and Jeremiah! Let not a man know where you \[are\]! 
-<small><sub>**KJV:**</sub></small>
-Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be.
-<small><sub>**BSB:**</sub></small>
-Then the officials said to Baruch, “You and Jeremiah must hide yourselves and tell no one where you are.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.18|<< Jeremiah 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.20|Jeremiah 36:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 29:4** 
+**Isaiah 29:4**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt be brought down, [and] shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be brought low, you will speak from the ground, and out of the dust you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.3|<< Isaiah 29:3]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.5|Isaiah 29:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will become low  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8213\|שָׁפַלְתְּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.falT<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] ground  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

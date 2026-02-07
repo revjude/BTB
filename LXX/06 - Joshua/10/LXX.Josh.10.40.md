@@ -1,10 +1,7 @@
 **LXX Joshua 10:40** 
 <small><sub>**LXX:**</sub></small>
 And Joshua struck  all \[the\] land of the mountainous area, and the Negev, and the plain, and  Asedoth, and  all its kings; they did not leave behind in it one being delivered, and every one breathing life they utterly destroyed; in which manner \[the\] <span class="smallcaps">lord</span> God of Israel gave charge. 
-<small><sub>**KJV:**</sub></small>
-So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.
-<small><sub>**BSB:**</sub></small>
-So Joshua conquered the whole region—the hill country, the Negev, the foothills, and the slopes, together with all their kings—leaving no survivors. He devoted to destruction everything that breathed, just as the LORD, the God of Israel, had commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.39|<< Joshua 10:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.41|Joshua 10:41 >>]]</td></tr></table>
 
 | Translation | Greek |

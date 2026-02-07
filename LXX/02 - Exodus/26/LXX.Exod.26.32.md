@@ -1,10 +1,7 @@
 **LXX Exodus 26:32** 
 <small><sub>**LXX:**</sub></small>
 And you shall place it upon four posts of incorruptible \[wood\] being gilded in gold. And the tips of them in gold, and  their four bases made of silver. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt hang it upon four pillars of shittim [wood] overlaid with gold: their hooks [shall be of] gold, upon the four sockets of silver.
-<small><sub>**BSB:**</sub></small>
-Hang it with gold hooks on four posts of acacia wood, overlaid with gold and standing on four silver bases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.31|<< Exodus 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.33|Exodus 26:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 43:4** 
+**Ezekiel 43:4**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glory of the LORD came into the house by the way of the gate whose prospect [is] toward the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the glory of the LORD entered the temple through the gate facing east.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.3|<< Ezekiel 43:3]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.5|Ezekiel 43:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] glory of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3519\|כְב֥וֹד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

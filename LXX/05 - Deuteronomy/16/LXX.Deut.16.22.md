@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:22** 
 <small><sub>**LXX:**</sub></small>
 You shall not set \[up\] for yourself a monument which \[the\] <span class="smallcaps">lord</span> your God detests. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou set thee up [any] image; which the LORD thy God hateth.
-<small><sub>**BSB:**</sub></small>
-and do not set up for yourselves a sacred pillar, which the LORD your God hates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.21|<< Deuteronomy 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.1|Deuteronomy 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

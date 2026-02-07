@@ -1,4 +1,4 @@
-**1 Kings 7:17** 
+**1 Kings 7:17**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] nets of checker work, and wreaths of chain work, for the chapiters which [were] upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the capitals on top of the pillars he made a network of lattice, with wreath
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.16|<< 1 Kings 7:16]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.18|1 Kings 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | networks  |**<big>&#8207;[[H7639\|שְׂבָכִ֞ים]]&#8207; </big>**| se.va.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

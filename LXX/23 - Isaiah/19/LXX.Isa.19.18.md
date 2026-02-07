@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[In\] that day there will be five cities in  Egypt speaking the tongue of the Canaanites, and swearing by an oath to the name of \[the\] <span class="smallcaps">lord</span> of Hosts. The one city shall be called City of Asedek. 
-<small><sub>**KJV:**</sub></small>
-In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.
-<small><sub>**BSB:**</sub></small>
-In that day five cities in the land of Egypt will speak the language of Canaan and swear allegiance to the LORD of Hosts. One of them will be called the City of the Sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.17|<< Isaiah 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.19|Isaiah 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

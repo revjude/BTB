@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:15** 
 <small><sub>**LXX:**</sub></small>
 And Bath-sheba entered to the king in the inner chamber. And the king \[was\] an old man, exceedingly. And Abishag the Shunamite was ministering to the king. 
-<small><sub>**KJV:**</sub></small>
-And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.
-<small><sub>**BSB:**</sub></small>
-So Bathsheba went to see the king in his bedroom. Since the king was very old, Abishag the Shunammite was serving him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.14|<< 1 Kings 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.16|1 Kings 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

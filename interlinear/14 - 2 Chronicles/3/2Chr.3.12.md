@@ -1,4 +1,4 @@
-**2 Chronicles 3:12** 
+**2 Chronicles 3:12**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] wing of the other cherub [was] five cubits, reaching to the wall of the house: and the other wing [was] five cubits [also], joining to the wing of the other cherub.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wing of the second cherub also measured five cubits and touched the wall of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.11|<< 2 Chronicles 3:11]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.13|2 Chronicles 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] wing of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3671\|כְנַ֨ף]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Naf<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherub  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּר֤וּב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Ruv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

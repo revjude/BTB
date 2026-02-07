@@ -1,10 +1,7 @@
 **LXX Proverbs 27:24** 
 <small><sub>**LXX:**</sub></small>
 For might and strength to a man \[are\] not into the eon; nor does he deliver it up from generation to generation. 
-<small><sub>**KJV:**</sub></small>
-For riches [are] not for ever: and doth the crown [endure] to every generation?
-<small><sub>**BSB:**</sub></small>
-for riches are not forever, nor does a crown endure to every generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.23|<< Proverbs 27:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.25|Proverbs 27:25 >>]]</td></tr></table>
 
 | Translation | Greek |

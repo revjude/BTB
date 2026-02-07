@@ -1,4 +1,4 @@
-**Lamentations 4:5** 
+**Lamentations 4:5**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who once ate delicacies are destitute in the streets; those brought up in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.4|<< Lamentations 4:4]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.6|Lamentations 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [ones] eating  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0398\|אֹֽכְלִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.khe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> delicacies  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4574\|מַ֣עֲדַנִּ֔ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ma.'a.da.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

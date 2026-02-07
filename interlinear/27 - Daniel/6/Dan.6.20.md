@@ -1,4 +1,4 @@
-**Daniel 6:20** (6:21)
+**Daniel 6:20**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he came to the den, he cried with a lamentable voice unto Daniel: [and] the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he reached the den, he cried out in a voice of anguish, “O Daniel, servan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.19|<< Daniel 6:19]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.21|Daniel 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as approached he  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H7127\|מִקְרְבֵ֣]]&#8207;&#8207;[[H9043\|הּ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.<small><sup>[[AR]]</sup></small> mik.re.Ve<small><sup>[[AVqcc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to den the  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1358\|גֻבָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> gu.Ba<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

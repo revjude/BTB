@@ -1,4 +1,4 @@
-**Psalms 106:19** 
+**Psalms 106:19**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They made a calf in Horeb, and worshipped the molten image.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ At Horeb they made a calf and worshiped a molten image.
 > $\quad$ referenced by: [[1Cor.10.7|1Cor 10:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they made  |**<big>&#8207;[[H6213H\|יַעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.su-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a calf  |**<big>&#8207;[[H5695\|עֵ֥גֶל]]&#8207; </big>**| 'E.gel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

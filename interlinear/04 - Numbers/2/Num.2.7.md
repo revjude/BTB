@@ -1,4 +1,4 @@
-**Numbers 2:7** 
+**Numbers 2:7**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] the tribe of Zebulun: and Eliab the son of Helon [shall be] captain of the children of Zebulun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next will be the tribe of Zebulun. The leader of the Zebulunites is Eliab son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.6|<< Numbers 2:6]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.8|Numbers 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֖ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zebulun  |**<big>&#8207;[[H2074\|זְבוּלֻ֑ן]]&#8207; </big>**| ze.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

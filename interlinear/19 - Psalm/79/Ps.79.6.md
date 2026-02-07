@@ -1,4 +1,4 @@
-**Psalms 79:6** 
+**Psalms 79:6**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Pour out Your wrath on the nations that do not acknowledge You, on the kingdoms 
 > $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pour out  |**<big>&#8207;[[H8210G\|שְׁפֹ֤ךְ]]&#8207; </big>**| she.Fokh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger your  |**<big>&#8207;[[H2534\|חֲמָתְ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207; </big>**| cha.ma.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

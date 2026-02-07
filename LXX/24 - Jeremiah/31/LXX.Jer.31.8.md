@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:8** 
 <small><sub>**LXX:**</sub></small>
 Behold, I lead them from \[the\] north, and I will gather them from \[the\] ends of the earth, in a holiday passover. And you shall produce children, a great multitude, and they shall return here. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will bring them from the north country, and gather them from the coasts of the earth, [and] with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
-<small><sub>**BSB:**</sub></small>
-Behold, I will bring them from the land of the north and gather them from the farthest parts of the earth, including the blind and the lame, expectant mothers and women in labor. They will return as a great assembly!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.7|<< Jeremiah 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.9|Jeremiah 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

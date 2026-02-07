@@ -1,12 +1,12 @@
-**Luke 21:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:24**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
 <small><sub>**BSB:**</sub></small>
 They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the Gentiles, until the times of the Gentiles are fulfilled.
 <small><sub>**Literal:**</sub></small>
 And they will fall by [the] edge of [the] sword and will be led captive into the nations all and Jerusalem will be trodden down by [the] Gentiles until that may be fulfilled and will be [the] times of [the] Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.23|<< Luke 21:23]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.25|Luke 21:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will fall |**<big>[[G4098\|πεσοῦνται]]</big>**  |pesountai <small><sup>[[V-FNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Acts 2:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:19**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
 <small><sub>**BSB:**</sub></small>
 I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke.
@@ -10,7 +10,7 @@ and I will show wonders in <the> heaven above and signs on the earth below, bloo
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will show |**<big>[[G1325\|δώσω]]</big>**  |dōsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

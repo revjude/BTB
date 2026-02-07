@@ -1,10 +1,7 @@
 **LXX Psalm 140:12** 
 <small><sub>**LXX:**</sub></small>
 I know that \[the\] <span class="smallcaps">lord</span> shall deal with the case of the poor, and the cause of the needy. 
-<small><sub>**KJV:**</sub></small>
-I know that the LORD will maintain the cause of the afflicted, [and] the right of the poor.
-<small><sub>**BSB:**</sub></small>
-I know that the LORD upholds justice for the poor and defends the cause of the needy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.11|<< Psalm 140:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.13|Psalm 140:13 >>]]</td></tr></table>
 
 | Translation | Greek |

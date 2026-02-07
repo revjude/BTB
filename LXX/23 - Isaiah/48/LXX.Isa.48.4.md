@@ -1,10 +1,7 @@
 **LXX Isaiah 48:4** 
 <small><sub>**LXX:**</sub></small>
 I know that you are hardened, and your neck \[is\] a nerve of iron, and  your forehead \[is as\] brass. 
-<small><sub>**KJV:**</sub></small>
-Because I knew that thou [art] obstinate, and thy neck [is] an iron sinew, and thy brow brass;
-<small><sub>**BSB:**</sub></small>
-For I knew that you are stubborn; your neck is iron and your forehead is bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.3|<< Isaiah 48:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.5|Isaiah 48:5 >>]]</td></tr></table>
 
 | Translation | Greek |

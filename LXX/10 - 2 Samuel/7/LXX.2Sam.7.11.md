@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:11** 
 <small><sub>**LXX:**</sub></small>
 even from the days which I ordered judges over  my people Israel. And I will rest you from all  your enemies. And \[the\] <span class="smallcaps">lord</span> will report to you that he shall build a house to you. 
-<small><sub>**KJV:**</sub></small>
-And as since the time that I commanded judges [to be] over my people Israel, and have caused thee to rest from all thine enemies. Also the LORD telleth thee that he will make thee an house.
-<small><sub>**BSB:**</sub></small>
-and have done since the day I appointed judges over My people Israel. I will give you rest from all your enemies. The LORD declares to you that He Himself will establish a house for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.10|<< 2 Samuel 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.12|2 Samuel 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

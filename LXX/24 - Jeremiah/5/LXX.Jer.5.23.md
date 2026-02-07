@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:23** 
 <small><sub>**LXX:**</sub></small>
  But to this people there became an unhearing heart, and a resistance of persuasion. They turned aside and departed. 
-<small><sub>**KJV:**</sub></small>
-But this people hath a revolting and a rebellious heart; they are revolted and gone.
-<small><sub>**BSB:**</sub></small>
-But these people have stubborn and rebellious hearts. They have turned aside and gone away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.22|<< Jeremiah 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.24|Jeremiah 5:24 >>]]</td></tr></table>
 
 | Translation | Greek |

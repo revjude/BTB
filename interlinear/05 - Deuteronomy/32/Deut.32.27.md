@@ -1,4 +1,4 @@
-**Deuteronomy 32:27** 
+**Deuteronomy 32:27**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, [and] lest they should say, Our hand [is] high, and the LORD hath not done all this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if I had not dreaded the taunt of the enemy, lest their adversaries misunderstan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if not  |**<big>&#8207;[[H3884\|לוּלֵ֗י]]&#8207; </big>**| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] provocation of  |**<big>&#8207;[[H3708A\|כַּ֤עַס]]&#8207; </big>**| Ka.'as<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

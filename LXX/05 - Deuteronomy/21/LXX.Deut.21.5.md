@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:5** 
 <small><sub>**LXX:**</sub></small>
 and the priests the Levites shall come forward, for \[the\] <span class="smallcaps">lord</span> your God chose them to stand beside him, and to bless over  his name, and by  their mouth will be every dispute and every blow \[decided\]. 
-<small><sub>**KJV:**</sub></small>
-And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be [tried]:
-<small><sub>**BSB:**</sub></small>
-And the priests, the sons of Levi, shall come forward, for the LORD your God has chosen them to serve Him and pronounce blessings in His name and to give a ruling in every dispute and case of assault.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.4|<< Deuteronomy 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.6|Deuteronomy 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

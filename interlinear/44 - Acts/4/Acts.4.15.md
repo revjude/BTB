@@ -1,12 +1,12 @@
-**Acts 4:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:15**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they had commanded them to go aside out of the council, they conferred among themselves,
 <small><sub>**BSB:**</sub></small>
 So they ordered them to leave the Sanhedrin and then conferred together.
 <small><sub>**Literal:**</sub></small>
 Having commanded however them outside the Council to go, they were confering with one another<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.14|<< Acts 4:14]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.16|Acts 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having commanded |**<big>[[G2753\|Κελεύσαντες]]</big>**  |Keleusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

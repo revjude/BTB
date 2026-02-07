@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:9** 
 <small><sub>**LXX:**</sub></small>
 And all the people \[were\] arguing among all the tribes of Israel, saying,  King David rescued us from \[the\] hand of all  our enemies, and he delivered us from \[the\] hand of the Philistines. And now he fled from the land. 
-<small><sub>**KJV:**</sub></small>
-And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom.
-<small><sub>**BSB:**</sub></small>
-And all the people throughout the tribes of Israel were arguing, “The king rescued us from the hand of our enemies and delivered us from the hand of the Philistines, but now he has fled the land because of Absalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.8|<< 2 Samuel 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.10|2 Samuel 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

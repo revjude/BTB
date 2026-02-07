@@ -1,12 +1,12 @@
-**Luke 11:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:6**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a friend of mine in his journey is come to me, and I have nothing to set before him?
 <small><sub>**BSB:**</sub></small>
 because a friend of mine has come to me on a journey, and I have nothing to set before him.’
 <small><sub>**Literal:**</sub></small>
 since a friend of mine is come off a journey to me, and nothing I have what I will set before him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.5|<< Luke 11:5]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.7|Luke 11:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | since |**<big>[[G1894\|ἐπειδὴ]]</big>**  |epeidē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a friend |**<big>[[G5384\|φίλος]]</big>**  |philos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

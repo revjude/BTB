@@ -1,4 +1,4 @@
-**1 Samuel 25:18** 
+**1 Samuel 25:18**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched [corn], and an hundred clusters of raisins, and two hundred cakes of figs, and laid [them] on asses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abigail hurried and took two hundred loaves of bread, two skins of wine, fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.17|<< 1 Samuel 25:17]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.19|1 Samuel 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she made haste  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|תְּמַהֵ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ma.Her<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abigail  |**<big>&#8207;[[H0026G\|אֲבִיגַ֡יִל]]&#8207; </big>**[^1] [^2] | 'a.vo.ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

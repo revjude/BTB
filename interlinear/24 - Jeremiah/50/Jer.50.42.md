@@ -1,4 +1,4 @@
-**Jeremiah 50:42** 
+**Jeremiah 50:42**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall hold the bow and the lance: they [are] cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, [every one] put in array, like a man to the battle, against thee, O daughter of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They grasp the bow and spear; they are cruel and merciless. Their voice roars li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.41|<< Jeremiah 50:41]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.43|Jeremiah 50:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bow  |**<big>&#8207;[[H7198\|קֶ֣שֶׁת]]&#8207; </big>**| Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and javelin  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3591\|כִידֹ֞ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi.Don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

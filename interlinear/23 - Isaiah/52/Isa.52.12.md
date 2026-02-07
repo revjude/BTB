@@ -1,4 +1,4 @@
-**Isaiah 52:12** 
+**Isaiah 52:12**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel [will be] your rereward.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For you will not leave in a hurry nor flee in haste, for the LORD goes before yo
 > $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

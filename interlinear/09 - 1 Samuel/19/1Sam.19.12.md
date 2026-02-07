@@ -1,4 +1,4 @@
-**1 Samuel 19:12** 
+**1 Samuel 19:12**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Michal let David down through a window: and he went, and fled, and escaped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Michal lowered David from the window, and he ran away and escaped.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.11|<< 1 Samuel 19:11]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.13|1 Samuel 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she let down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|תֹּ֧רֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.red<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Michal  |**<big>&#8207;[[H4324G\|מִיכַ֛ל]]&#8207; </big>**| mi.Khal<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

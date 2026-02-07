@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:25** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Divide  the living child into two, and give the one half of him to this one, and the \[other\] half of him to this \[other\] one! 
-<small><sub>**KJV:**</sub></small>
-And the king said, Divide the living child in two, and give half to the one, and half to the other.
-<small><sub>**BSB:**</sub></small>
-and the king declared, “Cut the living child in two and give half to one and half to the other.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.24|<< 1 Kings 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.26|1 Kings 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

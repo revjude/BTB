@@ -1,10 +1,7 @@
 **LXX Malachi 2:8** 
 <small><sub>**LXX:**</sub></small>
 But you turned aside from the way, and you weakened many in \[following the\] law; you corrupted the covenant  of Levi, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-But you have departed from the way, and your instruction has caused many to stumble. You have violated the covenant of Levi,” says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.7|<< Malachi 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.9|Malachi 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

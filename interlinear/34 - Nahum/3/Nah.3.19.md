@@ -1,4 +1,4 @@
-**Nahum 3:19** 
+**Nahum 3:19**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no healing for your injury; your wound is severe. All who hear the news
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] relief  |**<big>&#8207;[[H3545\|כֵּהָ֣ה]]&#8207; </big>**| ke.Hah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

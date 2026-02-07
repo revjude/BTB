@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:13** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan ascended upon  his hands and upon  his feet, and the one carrying  his weapons after him. And they looked upon \[the\] person of Jonathan, and he struck among them, and the one carrying  his weapons gave over after him. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him.
-<small><sub>**BSB:**</sub></small>
-So Jonathan climbed up on his hands and feet, with his armor-bearer behind him. And the Philistines fell before Jonathan, and his armor-bearer followed and finished them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.12|<< 1 Samuel 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.14|1 Samuel 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

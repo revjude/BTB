@@ -1,12 +1,12 @@
-**1 John 2:20
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:20**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye have an unction from the Holy One, and ye know all things.
 <small><sub>**BSB:**</sub></small>
 You, however, have an anointing from the Holy One, and all of you know the truth.
 <small><sub>**Literal:**</sub></small>
 And you yourselves [the] anointing have from the Holy [One] and you know all [you].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.19|<< 1 John 2:19]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.21|1 John 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

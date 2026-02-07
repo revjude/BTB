@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they announced  to Jotham, and he went, and stood on the top  of mount Gerizim, and he lifted up  his voice, and he called, and he said to them, Hear me men of Shechem! and God shall hear you. 
-<small><sub>**KJV:**</sub></small>
-And when they told [it] to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you.
-<small><sub>**BSB:**</sub></small>
-When this was reported to Jotham, he climbed to the top of Mount Gerizim, raised his voice, and cried out: “Listen to me, O leaders of Shechem, and may God listen to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.6|<< Judges 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.8|Judges 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

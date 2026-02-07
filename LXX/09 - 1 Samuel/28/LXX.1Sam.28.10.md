@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:10** 
 <small><sub>**LXX:**</sub></small>
 And Saul swore by an oath to her according to  God, saying, As lives \[the\] <span class="smallcaps">lord</span>, shall injustice meet up with you in  this matter? \[No!\] 
-<small><sub>**KJV:**</sub></small>
-And Saul sware to her by the LORD, saying, [As] the LORD liveth, there shall no punishment happen to thee for this thing.
-<small><sub>**BSB:**</sub></small>
-Then Saul swore to her by the LORD: “As surely as the LORD lives, no punishment shall come upon you for this.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.9|<< 1 Samuel 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.11|1 Samuel 28:11 >>]]</td></tr></table>
 
 | Translation | Greek |

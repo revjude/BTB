@@ -1,12 +1,12 @@
-**Romans 7:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:18**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but [how] to perform that which is good I find not.
 <small><sub>**BSB:**</sub></small>
 I know that nothing good lives in me, that is, in my flesh; for I have the desire to do what is good, but I cannot carry it out.
 <small><sub>**Literal:**</sub></small>
 I know for that nothing dwells in me myself, That is in the flesh of mine, good; <the> for to wish [to do] is present with me, <the> but to do the good not find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.17|<< Romans 7:17]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.19|Romans 7:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

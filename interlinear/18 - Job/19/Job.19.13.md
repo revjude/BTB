@@ -1,4 +1,4 @@
-**Job 19:13** 
+**Job 19:13**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath put my brethren far from me, and mine acquaintance are verily estranged from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has removed my brothers from me; my acquaintances have abandoned me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.14|Job 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | brothers my  |**<big>&#8207;[[H0251G\|אַ֭חַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.cha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> me  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

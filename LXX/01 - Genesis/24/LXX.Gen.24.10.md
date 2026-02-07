@@ -1,10 +1,7 @@
 **LXX Genesis 24:10** 
 <small><sub>**LXX:**</sub></small>
 And the servant took ten camels from the camels  of his master, and from all the good \[things\]  of his master with himself. And rising up he went into  Mesopotamia, into the city of Nahor. 
-<small><sub>**KJV:**</sub></small>
-And the servant took ten camels of the camels of his master, and departed; for all the goods of his master [were] in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.
-<small><sub>**BSB:**</sub></small>
-Then the servant took ten of his master’s camels and departed with all manner of good things from his master in hand. And he set out for Nahor’s hometown in Aram-naharaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.9|<< Genesis 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.11|Genesis 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

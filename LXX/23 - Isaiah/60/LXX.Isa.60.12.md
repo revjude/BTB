@@ -1,10 +1,7 @@
 **LXX Isaiah 60:12** 
 <small><sub>**LXX:**</sub></small>
 For the nations and the kings which will not serve to you shall perish; and the nations shall be made desolate \[unto\] desolation. 
-<small><sub>**KJV:**</sub></small>
-For the nation and kingdom that will not serve thee shall perish; yea, [those] nations shall be utterly wasted.
-<small><sub>**BSB:**</sub></small>
-For the nation or kingdom that will not serve you will perish; it will be utterly destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.11|<< Isaiah 60:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.13|Isaiah 60:13 >>]]</td></tr></table>
 
 | Translation | Greek |

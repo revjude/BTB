@@ -1,10 +1,7 @@
 **LXX Leviticus 16:31** 
 <small><sub>**LXX:**</sub></small>
 A Sabbath of Sabbaths it shall be to you. And you shall humble  your souls -- an eternal law. 
-<small><sub>**KJV:**</sub></small>
-It [shall be] a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
-<small><sub>**BSB:**</sub></small>
-It is a Sabbath of complete rest for you, that you may humble yourselves; it is a permanent statute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.30|<< Leviticus 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.32|Leviticus 16:32 >>]]</td></tr></table>
 
 | Translation | Greek |

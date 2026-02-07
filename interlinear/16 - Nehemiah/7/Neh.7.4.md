@@ -1,4 +1,4 @@
-**Nehemiah 7:4** 
+**Nehemiah 7:4**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the city [was] large and great: but the people [were] few therein, and the houses [were] not builded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the city was large and spacious, but there were few people in it, and the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.3|<< Nehemiah 7:3]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.5|Nehemiah 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the city  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֞יר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] broad of  |**<big>&#8207;[[H7342H\|רַחֲבַ֤ת]]&#8207; </big>**| ra.cha.Vat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

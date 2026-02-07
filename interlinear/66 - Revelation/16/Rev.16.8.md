@@ -1,12 +1,12 @@
-**Revelation 16:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:8**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.
 <small><sub>**BSB:**</sub></small>
 Then the fourth angel poured out his bowl on the sun, and it was given power to scorch the people with fire.
 <small><sub>**Literal:**</sub></small>
 And the fourth angel poured out the bowl of him upon the sun, and there was given to it to scorch <the> men with fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.7|<< Revelation 16:7]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.9|Revelation 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

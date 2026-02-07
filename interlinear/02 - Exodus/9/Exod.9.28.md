@@ -1,4 +1,4 @@
-**Exodus 9:28** 
+**Exodus 9:28**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Intreat the LORD (for [it is] enough) that there be no [more] mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pray to the LORD, for there has been enough of God’s thunder and hail. I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.27|<< Exodus 9:27]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.29|Exodus 9:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pray  |**<big>&#8207;[[H6279\|הַעְתִּ֙ירוּ֙]]&#8207; </big>**| ha'.Ti.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

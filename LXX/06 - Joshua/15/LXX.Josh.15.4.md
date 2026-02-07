@@ -1,10 +1,7 @@
 **LXX Joshua 15:4** 
 <small><sub>**LXX:**</sub></small>
 And it goes forth upon Azmon, and it passes out unto \[the\] rushing stream of Egypt. And his outer reaches will be of the borders at the sea. This is their  borders from \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-[From thence] it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
-<small><sub>**BSB:**</sub></small>
-It proceeded to Azmon, joined the Brook of Egypt, and ended at the Sea. This was their southern border.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.3|<< Joshua 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.5|Joshua 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

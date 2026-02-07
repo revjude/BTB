@@ -1,12 +1,12 @@
-**1 Thessalonians 2:20
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:20**<big><big>[[1Thess.2.17 Paul’s Longing to Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye are our glory and joy.
 <small><sub>**BSB:**</sub></small>
 You are indeed our glory and our joy.
 <small><sub>**Literal:**</sub></small>
 You yourselves for are the glory of us and <the> joy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.19|<< 1 Thessalonians 2:19]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.1|1 Thessalonians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

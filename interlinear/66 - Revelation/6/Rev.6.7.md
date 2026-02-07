@@ -1,12 +1,12 @@
-**Revelation 6:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:7**<big><big>[[Rev.6.7 The Fourth Seal：Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”
 <small><sub>**Literal:**</sub></small>
 And when He opened the seal <the> fourth, I heard [the] voice of the fourth living creature saying; Come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.6|<< Revelation 6:6]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.8|Revelation 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

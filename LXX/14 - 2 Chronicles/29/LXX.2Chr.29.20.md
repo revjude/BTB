@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:20** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah the king rose early, and he brought together the rulers of the city. And he ascended into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Early the next morning King Hezekiah gathered the city officials and went up to the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.19|<< 2 Chronicles 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.21|2 Chronicles 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

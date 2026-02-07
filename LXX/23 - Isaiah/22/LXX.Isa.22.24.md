@@ -1,10 +1,7 @@
 **LXX Isaiah 22:24** 
 <small><sub>**LXX:**</sub></small>
 And every him honorable one in the house of his father will be relying upon, from small unto great; every  small vessel from vessels of the cups. And they will be hanging upon him in  that day. 
-<small><sub>**KJV:**</sub></small>
-And they shall hang upon him all the glory of his father’s house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons.
-<small><sub>**BSB:**</sub></small>
-So they will hang on him all the glory of his father’s house: the descendants and the offshoots—all the lesser vessels, from bowls to every kind of jar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.23|<< Isaiah 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.25|Isaiah 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

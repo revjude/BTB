@@ -1,4 +1,4 @@
-**Lamentations 1:2** 
+**Lamentations 1:2**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She weepeth sore in the night, and her tears [are] on her cheeks: among all her lovers she hath none to comfort [her]: all her friends have dealt treacherously with her, they are become her enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She weeps aloud in the night, with tears upon her cheeks. Among all her lovers t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.1|<< Lamentations 1:1]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.3|Lamentations 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bitterly \<weep>  |**<big>&#8207;[[H1058\|בָּכ֨וֹ]]&#8207; </big>**| ba.Kho<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she weeps  |**<big>&#8207;[[H1058\|תִבְכֶּ֜ה]]&#8207; </big>**| tiv.Keh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 40:17** (40:18)
+**Psalms 40:17**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [am] poor and needy; [yet] the Lord thinketh upon me: thou [art] my help and my deliverer; make no tarrying, O my God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But I am poor and needy; may the Lord think of me. You are my helper and deliver
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] poor  |**<big>&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

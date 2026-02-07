@@ -1,4 +1,4 @@
-**Exodus 37:15** 
+**Exodus 37:15**<big><big>[[Exod.37.10 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the staves [of] shittim wood, and overlaid them with gold, to bear the table.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made the poles of acacia wood for carrying the table and overlaid them with g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.14|<< Exodus 37:14]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.16|Exodus 37:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֤עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:7** 
 <small><sub>**LXX:**</sub></small>
 Who shall not fear you, O king of nations? For to you it is becoming. For among all the wise of the nations, and among all  their kingdoms, there is not one likened to you. 
-<small><sub>**KJV:**</sub></small>
-Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise [men] of the nations, and in all their kingdoms, [there is] none like unto thee.
-<small><sub>**BSB:**</sub></small>
-Who would not fear You, O King of nations? This is Your due. For among all the wise men of the nations, and in all their kingdoms, there is none like You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.6|<< Jeremiah 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.8|Jeremiah 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 10:7** is...

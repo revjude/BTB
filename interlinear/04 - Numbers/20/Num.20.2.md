@@ -1,4 +1,4 @@
-**Numbers 20:2** 
+**Numbers 20:2**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there was no water for the congregation, so they gathered against Moses and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.1|<< Numbers 20:1]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.3|Numbers 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it belonged  |**<big>&#8207;[[H1961\|הָ֥יָה]]&#8207; </big>**| Ha.yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

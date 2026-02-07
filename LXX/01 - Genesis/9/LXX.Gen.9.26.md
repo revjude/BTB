@@ -1,10 +1,7 @@
 **LXX Genesis 9:26** 
 <small><sub>**LXX:**</sub></small>
 And he said, Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God  of Shem, and Canaan will be his domestic servant. 
-<small><sub>**KJV:**</sub></small>
-And he said, Blessed [be] the LORD God of Shem; and Canaan shall be his servant.
-<small><sub>**BSB:**</sub></small>
-He also declared: “Blessed be the LORD, the God of Shem! May Canaan be the servant of Shem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.25|<< Genesis 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.27|Genesis 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

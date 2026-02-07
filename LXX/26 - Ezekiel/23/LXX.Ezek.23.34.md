@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:34** 
 <small><sub>**LXX:**</sub></small>
 And you shall drink it and strain it out. And  his potsherds you shall devour, and  you shall pull about your breasts. And  your holiday \[feasts\], and  your new moons I will pervert, for I have spoken, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt even drink it and suck [it] out, and thou shalt break the sherds thereof, and pluck off thine own breasts: for I have spoken [it], saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-You will drink it and drain it; you will dash it to pieces, and tear your breasts. For I have spoken,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.33|<< Ezekiel 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.35|Ezekiel 23:35 >>]]</td></tr></table>
 
 | Translation | Greek |

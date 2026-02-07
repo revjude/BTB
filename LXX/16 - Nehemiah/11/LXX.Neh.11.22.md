@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] overseer of \[the\] Levites in Jerusalem \[was\] Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Micha, from \[the\] sons of Asaph the singers before \[the\] work of \[the\] house  of God. 
-<small><sub>**KJV:**</sub></small>
-The overseer also of the Levites at Jerusalem [was] Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers [were] over the business of the house of God.
-<small><sub>**BSB:**</sub></small>
-Now the overseer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. He was one of Asaph’s descendants, who were the singers in charge of the service of the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.21|<< Nehemiah 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.23|Nehemiah 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

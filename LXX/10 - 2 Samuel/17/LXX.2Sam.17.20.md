@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:20** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Absalom came to the woman, into the house, and they said, Where \[is\] Ahimaaz and Jonathan? And the woman said to them, They went for a little  water. And they sought and did not find \[them\], and they returned unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when Absalom’s servants came to the woman to the house, they said, Where [is] Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find [them], they returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-When Absalom’s servants came to the woman at the house, they asked, “Where are Ahimaaz and Jonathan?” “They have crossed over the brook,” she replied. The men searched but did not find them, so they returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.19|<< 2 Samuel 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.21|2 Samuel 17:21 >>]]</td></tr></table>
 
 | Translation | Greek |

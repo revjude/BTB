@@ -1,4 +1,4 @@
-**Genesis 17:11** 
+**Genesis 17:11**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to circumcise the flesh of your foreskin, and this will be a sign of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.10|<< Genesis 17:10]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.12|Genesis 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be circumcised  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4135A\|נְמַלְתֶּ֕ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.mal.Tem<small><sup>[[HVNq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

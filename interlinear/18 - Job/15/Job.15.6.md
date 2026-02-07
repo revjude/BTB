@@ -1,4 +1,4 @@
-**Job 15:6** 
+**Job 15:6**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your own mouth, not mine, condemns you; your own lips testify against you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.5|<< Job 15:5]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.7|Job 15:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it condemns as guilty you  |**<big>&#8207;[[H7561\|יַרְשִֽׁיעֲ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| yar.shi.'a.<small><sup>[[HVhi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | own mouth your  |**<big>&#8207;[[H6310G\|פִ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Fi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

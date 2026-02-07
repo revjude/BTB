@@ -1,5 +1,5 @@
-**Acts 7:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:30**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 <small><sub>**BSB:**</sub></small>
 After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.
@@ -10,7 +10,7 @@ And when were passing years forty appeared to him in the wilderness of the Mount
 > $\quad$ referencing: [[LXX.Exod.3.2|Exod 3:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when were passing |**<big>[[G4137\|πληρωθέντων]]</big>**  |plērōthentōn <small><sup>[[V-APP-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

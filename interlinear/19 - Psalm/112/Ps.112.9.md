@@ -1,4 +1,4 @@
-**Psalms 112:9** 
+**Psalms 112:9**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He has scattered abroad his gifts to the poor; his righteousness endures forever
 > $\quad$ referenced by: [[2Cor.9.9|2Cor 9:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he scatters  |**<big>&#8207;[[H6340\|פִּזַּ֤ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pi.Zar<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gives  |**<big>&#8207;[[H5414G\|נָ֘תַ֤ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

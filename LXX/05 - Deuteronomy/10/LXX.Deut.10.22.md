@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:22** 
 <small><sub>**LXX:**</sub></small>
 With seventy souls your fathers went down into Egypt. But now \[the\] <span class="smallcaps">lord</span> your God made you as the stars of the heaven  in multitude. 
-<small><sub>**KJV:**</sub></small>
-Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude.
-<small><sub>**BSB:**</sub></small>
-Your fathers went down to Egypt, seventy in all, and now the LORD your God has made you as numerous as the stars in the sky.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.21|<< Deuteronomy 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.1|Deuteronomy 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

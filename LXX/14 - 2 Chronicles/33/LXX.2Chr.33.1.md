@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Manasseh \[was\] a son being twelve years \[old\] in  his taking reign, and fifty-five years he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Manasseh [was] twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
-<small><sub>**BSB:**</sub></small>
-Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.33|<< 2 Chronicles 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.2|2 Chronicles 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

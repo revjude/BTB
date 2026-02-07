@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:17** 
 <small><sub>**LXX:**</sub></small>
 And I took the cup from out of \[the\] hand of \[the\] <span class="smallcaps">lord</span>, and I gave to drink all the nations to whom the <span class="smallcaps">lord</span> sent me unto them; 
-<small><sub>**KJV:**</sub></small>
-Then took I the cup at the LORD’S hand, and made all the nations to drink, unto whom the LORD had sent me:
-<small><sub>**BSB:**</sub></small>
-So I took the cup from the LORD’s hand and made all the nations drink from it, each one to whom the LORD had sent me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.16|<< Jeremiah 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.18|Jeremiah 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

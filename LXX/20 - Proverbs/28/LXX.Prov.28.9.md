@@ -1,10 +1,7 @@
 **LXX Proverbs 28:9** 
 <small><sub>**LXX:**</sub></small>
 The one turning aside  his ear  to not hear \[the\] law, even he  abhors his \[own\] prayer. 
-<small><sub>**KJV:**</sub></small>
-He that turneth away his ear from hearing the law, even his prayer [shall be] abomination.
-<small><sub>**BSB:**</sub></small>
-Whoever turns his ear away from hearing the law, even his prayer is detestable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.8|<< Proverbs 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.10|Proverbs 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

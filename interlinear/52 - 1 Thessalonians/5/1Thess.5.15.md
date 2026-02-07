@@ -1,5 +1,5 @@
-**1 Thessalonians 5:15
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:15**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 See that none render evil for evil unto any [man]; but ever follow that which is good, both among yourselves, and to all [men].
 <small><sub>**BSB:**</sub></small>
 Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people.
@@ -10,7 +10,7 @@ do see that no one evil for evil to anyone may repay, but always the good do pur
 > $\quad$ alluding to: [[LXX.Prov.17.13|Prov 17:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do see that |**<big>[[G3708\|ὁρᾶτε]]</big>**  |horate <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

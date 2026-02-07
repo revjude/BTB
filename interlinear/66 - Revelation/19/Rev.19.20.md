@@ -1,5 +1,5 @@
-**Revelation 19:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:20**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 <small><sub>**BSB:**</sub></small>
 But the beast was captured along with the false prophet, who on its behalf had performed signs deceiving those who had the mark of the beast and worshiped its image. Both the beast and the false prophet were thrown alive into the fiery lake of burning sulfur.
@@ -10,7 +10,7 @@ And was captured the beast, and with him <the> false prophet the [one] having do
 > $\quad$ possibly alluding to: [[LXX.Isa.30.33|Isa 30:33]] ☩ [[LXX.Dan.7.11|Dan 7:11]] ☩ [[LXX.Dan.7.26|Dan 7:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was captured |**<big>[[G4084\|ἐπιάσθη]]</big>**  |epiasthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

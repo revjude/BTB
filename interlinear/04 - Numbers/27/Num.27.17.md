@@ -1,4 +1,4 @@
-**Numbers 27:17** 
+**Numbers 27:17**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ who will go out and come in before them, and who will lead them out and bring th
 > $\quad$ referenced by: [[Matt.9.36|Matt 9:36]] ☩ [[Mark.6.34|Mark 6:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will go out  |**<big>&#8207;[[H3318G\|יֵצֵ֣א]]&#8207; </big>**| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

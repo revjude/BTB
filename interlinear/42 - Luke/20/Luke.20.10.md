@@ -1,12 +1,12 @@
-**Luke 20:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:10**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent [him] away empty.
 <small><sub>**BSB:**</sub></small>
 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard. But the tenants beat the servant and sent him away empty-handed.
 <small><sub>**Literal:**</sub></small>
 And in [in the] season he sent to the farmers a servant that from the fruit of the vineyard they will give to him; <the> But the farmers sent away him having beaten [him] empty-handed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.9|<< Luke 20:9]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.11|Luke 20:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

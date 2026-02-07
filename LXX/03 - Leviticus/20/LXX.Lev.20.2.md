@@ -1,10 +1,7 @@
 **LXX Leviticus 20:2** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Israel, you shall speak, saying, If any from the sons of Israel, or of the ones being foreigners in Israel, who ever should give  his semen to a chief \[god\], to death let him be put to death! The nation, the \[people\] upon the land shall stone him with stones. 
-<small><sub>**KJV:**</sub></small>
-Again, thou shalt say to the children of Israel, Whosoever [he be] of the children of Israel, or of the strangers that sojourn in Israel, that giveth [any] of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites, ‘Any Israelite or foreigner living in Israel who gives any of his children to Molech must be put to death. The people of the land are to stone him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.1|<< Leviticus 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.3|Leviticus 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

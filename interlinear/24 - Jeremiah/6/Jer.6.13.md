@@ -1,4 +1,4 @@
-**Jeremiah 6:13** 
+**Jeremiah 6:13**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For from the least of them even unto the greatest of them every one [is] given to covetousness; and from the prophet even unto the priest every one dealeth falsely.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For from the least of them even unto the greatest of them every one [is] given t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from little their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6996A\|קְּטַנָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ke.ta.Na<small><sup>[[HAamsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:10** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to  his servant-lad, your word \[is\] good. Come, for we should go. And they went into the city of which was there the man, the one \[of\] God. 
-<small><sub>**KJV:**</sub></small>
-Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God [was].
-<small><sub>**BSB:**</sub></small>
-“Good,” said Saul to his servant. “Come, let us go.” So they set out for the city where the man of God was.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.9|<< 1 Samuel 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.11|1 Samuel 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

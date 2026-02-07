@@ -1,4 +1,4 @@
-**Isaiah 6:13** 
+**Isaiah 6:13**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But yet in it [shall be] a tenth, and [it] shall return, and shall be eaten: as a teil tree, and as an oak, whose substance [is] in them, when they cast [their leaves: so] the holy seed [shall be] the substance thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And though a tenth remains in the land, it will be burned again. As the terebint
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.12|<< Isaiah 6:12]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.1|Isaiah 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and still  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] in it  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

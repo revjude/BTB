@@ -1,4 +1,4 @@
-**Proverbs 10:20** 
+**Proverbs 10:20**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tongue of the just [is as] choice silver: the heart of the wicked [is] little worth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tongue of the righteous is choice silver, but the heart of the wicked has li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.19|<< Proverbs 10:19]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.21|Proverbs 10:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] silver  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chosen  |**<big>&#8207;[[H0977\|נִ֭בְחָר]]&#8207; </big>**| Niv.chor<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 56:10** 
+**Isaiah 56:10**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His watchmen [are] blind: they are all ignorant, they [are] all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | watchmen its  [^2]|**<big>&#8207;[[H6822\|צֹפָ֞י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**[^3] | tza.fi<small><sup>[[HVqrmpc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [are] blind  |**<big>&#8207;[[H5787\|עִוְרִ֤ים]]&#8207; </big>**| 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

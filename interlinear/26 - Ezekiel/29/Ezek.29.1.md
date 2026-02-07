@@ -1,4 +1,4 @@
-**Ezekiel 29:1** 
+**Ezekiel 29:1**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the tenth year, in the tenth [month], in the twelfth [day] of the month, the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the tenth year, on the twelfth day of the tenth month, the word of the LORD c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.26|<< Ezekiel 28:26]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.2|Ezekiel 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָה֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> tenth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6224\|עֲשִׂירִ֔ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.si.Rit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

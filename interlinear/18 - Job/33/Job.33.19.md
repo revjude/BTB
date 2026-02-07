@@ -1,4 +1,4 @@
-**Job 33:19** 
+**Job 33:19**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is chastened also with pain upon his bed, and the multitude of his bones with strong [pain]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man is also chastened on his bed with pain and constant distress in his bones,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.18|<< Job 33:18]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.20|Job 33:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he is chastened  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3198\|הוּכַ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.Khach<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with pain  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H4341\|מַכְאוֹב]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> makh.'ov<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Philippians 4:13
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:13**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I can do all things through Christ which strengtheneth me.
 <small><sub>**BSB:**</sub></small>
 I can do all things through Christ who gives me strength.
 <small><sub>**Literal:**</sub></small>
 [For] all things I have strength in the [One] strengthening me in Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.12|<< Philippians 4:12]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.14|Philippians 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [For] all things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have strength |**<big>[[G2480\|ἰσχύω]]</big>**  |ischuō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

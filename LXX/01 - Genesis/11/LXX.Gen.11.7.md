@@ -1,10 +1,7 @@
 **LXX Genesis 11:7** 
 <small><sub>**LXX:**</sub></small>
 Come, and going down, let us confound their language, that they should not each hearken to the voice of the neighbor. 
-<small><sub>**KJV:**</sub></small>
-Go to, let us go down, and there confound their language, that they may not understand one another’s speech.
-<small><sub>**BSB:**</sub></small>
-Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

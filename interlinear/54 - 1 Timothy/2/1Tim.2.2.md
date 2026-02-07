@@ -1,12 +1,12 @@
-**1 Timothy 2:2
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:2**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For kings, and [for] all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
 <small><sub>**BSB:**</sub></small>
 for kings and all those in authority—so that we may lead tranquil and quiet lives in all godliness and dignity.
 <small><sub>**Literal:**</sub></small>
 for kings and all those in authority being, so that a tranquil and quiet life we may lead in all godliness and in [all] dignity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.1|<< 1 Timothy 2:1]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.3|1 Timothy 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | kings |**<big>[[G0935\|βασιλέων]]</big>**  |basileōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

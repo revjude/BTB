@@ -1,10 +1,7 @@
 **LXX Genesis 2:25** 
 <small><sub>**LXX:**</sub></small>
 And the two were naked,  both Adam and  his wife. And they were not ashamed. 
-<small><sub>**KJV:**</sub></small>
-And they were both naked, the man and his wife, and were not ashamed.
-<small><sub>**BSB:**</sub></small>
-And the man and his wife were both naked, and they were not ashamed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.24|<< Genesis 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.1|Genesis 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

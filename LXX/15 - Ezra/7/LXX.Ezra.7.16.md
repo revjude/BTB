@@ -1,10 +1,7 @@
 **LXX Ezra 7:16** 
 <small><sub>**LXX:**</sub></small>
 And all \[the\] silver and gold, whatever you should find in every place of Babylon, \[let it be offered\] with a voluntary offering of the people, and \[the\] priests, of the ones willing \[to give\] for \[the\] house of God, the one in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which [is] in Jerusalem:
-<small><sub>**BSB:**</sub></small>
-together with all the silver and gold you may find in all the province of Babylon, as well as the freewill offerings of the people and priests to the house of their God in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.15|<< Ezra 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.17|Ezra 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

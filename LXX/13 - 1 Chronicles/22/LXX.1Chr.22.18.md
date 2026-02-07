@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:18** 
 <small><sub>**LXX:**</sub></small>
 Is not \[the\] <span class="smallcaps">lord</span> with you? And he will give you rest round about, for he delivered up into my hand the ones dwelling the land, and the land \[is\] submitted before \[the\] <span class="smallcaps">lord</span>, and before his people. 
-<small><sub>**KJV:**</sub></small>
-[Is] not the LORD your God with you? and hath he [not] given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people.
-<small><sub>**BSB:**</sub></small>
-“Is not the LORD your God with you, and has He not granted you rest on every side? For He has given the inhabitants of the land into my hand, and the land has been subdued before the LORD and His people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.17|<< 1 Chronicles 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.19|1 Chronicles 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

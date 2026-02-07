@@ -1,4 +1,4 @@
-**Psalms 98:6** 
+**Psalms 98:6**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With trumpets and sound of cornet make a joyful noise before the LORD, the King.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With trumpets and the blast of the ram’s horn shout for joy before the LORD, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.5|<< Psalms 98:5]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.7|Psalms 98:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with trumpets  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H2689\|חֲצֹ֣צְרוֹת]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.Tzo.tze.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963H\|ק֣וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

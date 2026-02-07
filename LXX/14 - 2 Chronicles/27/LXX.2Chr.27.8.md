@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 27:8** 
 <small><sub>**LXX:**</sub></small>
 Jotham was a son twenty and five years \[old\] in  his taking reign, and sixteen years he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.7|<< 2 Chronicles 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.9|2 Chronicles 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Hosea 7:13** 
 <small><sub>**LXX:**</sub></small>
 Woe to them, for they leaped back from me. Wretched are they, for they were impious against me. But I ransomed them; but they spoke ill against me with lies, 
-<small><sub>**KJV:**</sub></small>
-Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.
-<small><sub>**BSB:**</sub></small>
-Woe to them, for they have strayed from Me! Destruction to them, for they have rebelled against Me! Though I would redeem them, they speak lies against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.12|<< Hosea 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.14|Hosea 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after  these words, and  this truth, came Sennacherib king of \[the\] Assyrians. And he came unto Judah, and he camped about the walled cities, and he spoke at first to take them. 
-<small><sub>**KJV:**</sub></small>
-After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.
-<small><sub>**BSB:**</sub></small>
-After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.21|<< 2 Chronicles 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.2|2 Chronicles 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

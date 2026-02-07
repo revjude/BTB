@@ -1,12 +1,12 @@
-**Luke 22:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:44**<big><big>[[Luke.22.39 Jesus Prays on the Mount of Olives|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 <small><sub>**BSB:**</sub></small>
 And in His anguish, He prayed more earnestly, and His sweat became like drops of blood falling to the ground.
 <small><sub>**Literal:**</sub></small>
 And having been in agony more earnestly He was praying. And became now the sweat of Him like great drops of blood falling down upon the ground.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.43|<< Luke 22:43]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.45|Luke 22:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been |**<big>[[G1096\|γενόμενος]]</big>**  |genomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

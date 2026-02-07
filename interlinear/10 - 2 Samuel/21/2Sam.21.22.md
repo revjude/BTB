@@ -1,4 +1,4 @@
-**2 Samuel 21:22** 
+**2 Samuel 21:22**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So these four descendants of Rapha in Gath fell at the hands of David and his se
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.21|<< 2 Samuel 21:21]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.1|2 Samuel 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבַּ֥עַת]]&#8207; </big>**| 'ar.Ba.'at<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

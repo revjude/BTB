@@ -1,4 +1,4 @@
-**Nehemiah 5:14** 
+**Nehemiah 5:14**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, [that is], twelve years, I and my brethren have not eaten the bread of the governor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, from the day King Artaxerxes appointed me to be their governor in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.13|<< Nehemiah 5:13]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.15|Nehemiah 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֞ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] day  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

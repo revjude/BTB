@@ -1,10 +1,7 @@
 **LXX Exodus 21:6** 
 <small><sub>**LXX:**</sub></small>
 \[Then\] his master shall lead him to the judgment seat  of God, and then lead him to the door, unto the doorpost. And his master shall make a hole in the ear with the shoemaker's awl, and he shall serve to him into the eon. 
-<small><sub>**KJV:**</sub></small>
-Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.
-<small><sub>**BSB:**</sub></small>
-then his master is to bring him before the judges. And he shall take him to the door or doorpost and pierce his ear with an awl. Then he shall serve his master for life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.5|<< Exodus 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.7|Exodus 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

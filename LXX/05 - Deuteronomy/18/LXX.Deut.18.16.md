@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:16** 
 <small><sub>**LXX:**</sub></small>
 According to all as much as you asked of \[the\] <span class="smallcaps">lord</span>  your God in Horeb, in the day of the assembly, saying, We shall not add to hear the voice of \[the\] <span class="smallcaps">lord</span>  your God, and  this great fire we shall not see any longer, nor shall we die. 
-<small><sub>**KJV:**</sub></small>
-According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not.
-<small><sub>**BSB:**</sub></small>
-This is what you asked of the LORD your God at Horeb on the day of the assembly, when you said, “Let us not hear the voice of the LORD our God or see this great fire anymore, so that we will not die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.15|<< Deuteronomy 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.17|Deuteronomy 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

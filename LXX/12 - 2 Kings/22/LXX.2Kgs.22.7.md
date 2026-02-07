@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:7** 
 <small><sub>**LXX:**</sub></small>
 Only they did not call them to account for the money  being given to them, for they act in trust. 
-<small><sub>**KJV:**</sub></small>
-Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.
-<small><sub>**BSB:**</sub></small>
-But they need not account for the money put into their hands, since they work with integrity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.6|<< 2 Kings 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.8|2 Kings 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

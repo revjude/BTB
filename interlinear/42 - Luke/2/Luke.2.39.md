@@ -1,12 +1,12 @@
-**Luke 2:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:39**<big><big>[[Luke.2.39 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.
 <small><sub>**BSB:**</sub></small>
 When Jesus’ parents had done everything required by the Law of the Lord, they returned to Galilee, to their own town of Nazareth.
 <small><sub>**Literal:**</sub></small>
 And when they had performed everything <the> according to the law of [the] Lord, they returned to <the> Galilee to the town of themselves Nazareth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.38|<< Luke 2:38]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.40|Luke 2:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

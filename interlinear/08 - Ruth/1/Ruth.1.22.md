@@ -1,4 +1,4 @@
-**Ruth 1:22** 
+**Ruth 1:22**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.21|<< Ruth 1:21]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.1|Ruth 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|תָּ֣שָׁב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.shov<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naomi  |**<big>&#8207;[[H5281\|נָעֳמִ֗י]]&#8207; </big>**| no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

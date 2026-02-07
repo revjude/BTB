@@ -1,10 +1,7 @@
 **LXX Psalm 119:72** 
 <small><sub>**LXX:**</sub></small>
 The law of your mouth \[is\] good to me, above a thousand \[pieces\] of gold and silver. 
-<small><sub>**KJV:**</sub></small>
-The law of thy mouth [is] better unto me than thousands of gold and silver.
-<small><sub>**BSB:**</sub></small>
-The law from Your mouth is more precious to me than thousands of pieces of gold and silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.71|<< Psalm 119:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.73|Psalm 119:73 >>]]</td></tr></table>
 
 | Translation | Greek |

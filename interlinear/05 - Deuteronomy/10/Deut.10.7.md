@@ -1,4 +1,4 @@
-**Deuteronomy 10:7** 
+**Deuteronomy 10:7**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.6|<< Deuteronomy 10:6]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.8|Deuteronomy 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֥ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they set out  |**<big>&#8207;[[H5265\|נָסְע֖וּ]]&#8207; </big>**| na.se.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, says \[the\] <span class="smallcaps">lord</span>, Return to me with your entire heart in fasting, and weeping, and beating of the breast! 
-<small><sub>**KJV:**</sub></small>
-Therefore also now, saith the LORD, turn ye [even] to me with all your heart, and with fasting, and with weeping, and with mourning:
-<small><sub>**BSB:**</sub></small>
-“Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.11|<< Joel 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.13|Joel 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

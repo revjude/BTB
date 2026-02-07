@@ -1,10 +1,7 @@
 **LXX Numbers 32:21** 
 <small><sub>**LXX:**</sub></small>
 and you yourselves all shall go over the Jordan armed with large shields before \[the\] <span class="smallcaps">lord</span>, until his enemy shall be obliterated from his face, 
-<small><sub>**KJV:**</sub></small>
-And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,
-<small><sub>**BSB:**</sub></small>
-and if every one of your armed men crosses the Jordan before the LORD, until He has driven His enemies out before Him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.20|<< Numbers 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.22|Numbers 32:22 >>]]</td></tr></table>
 
 | Translation | Greek |

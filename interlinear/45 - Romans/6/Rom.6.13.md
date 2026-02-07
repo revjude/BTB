@@ -1,12 +1,12 @@
-**Romans 6:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:13**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither yield ye your members [as] instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members [as] instruments of righteousness unto God.
 <small><sub>**BSB:**</sub></small>
 Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness.
 <small><sub>**Literal:**</sub></small>
 Neither do yield the members of you [as] instruments of unrighteousness <the> to sin, but do yield yourselves <the> to God as out from [the] dead living and the members of you [as] instruments of righteousness <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.12|<< Romans 6:12]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.14|Romans 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do yield |**<big>[[G3936\|παριστάνετε]]</big>**  |paristanete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 103:17** 
+**Psalms 103:17**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the mercy of the LORD [is] from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But from everlasting to everlasting the loving devotion of the LORD extends to t
 > $\quad$ referenced by: [[Luke.1.50|Luke 1:50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] covenant loyalty of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2617A\|חֶ֤סֶד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Che.sed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

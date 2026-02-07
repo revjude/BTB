@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:10** 
 <small><sub>**LXX:**</sub></small>
 Ascend upon  her battlements, and raze! But you should not do it unto completion. Destroy  her supports! for  they are not of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they [are] not the LORD’S.
-<small><sub>**BSB:**</sub></small>
-Go up through her vineyards and ravage them, but do not finish them off. Strip off her branches, for they do not belong to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.9|<< Jeremiah 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.11|Jeremiah 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 7:2** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] reverent one \[is\] destroyed from the earth; and there does not exist one keeping straight among men. All adjudicate unto blood; each  squeezes out his neighbor by oppression; 
-<small><sub>**KJV:**</sub></small>
-The good [man] is perished out of the earth: and [there is] none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
-<small><sub>**BSB:**</sub></small>
-The godly man has perished from the earth; there is no one upright among men. They all lie in wait for blood; they hunt one another with a net.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.3|Micah 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

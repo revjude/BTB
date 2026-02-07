@@ -1,4 +1,4 @@
-**Isaiah 53:1** 
+**Isaiah 53:1**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath believed our report? and to whom is the arm of the LORD revealed?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who has believed our message? And to whom has the arm of the LORD been revealed?
 > $\quad$ referenced by: [[John.12.38|John 12:38]] ☩ [[Rom.10.16|Rom 10:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he believed  |**<big>&#8207;[[H0539\|הֶאֱמִ֖ין]]&#8207; </big>**| he.'e.Min<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

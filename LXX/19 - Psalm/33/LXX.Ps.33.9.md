@@ -1,10 +1,7 @@
 **LXX Psalm 33:9** 
 <small><sub>**LXX:**</sub></small>
 For he spoke, and they came to pass; he gave charge, and they were created. 
-<small><sub>**KJV:**</sub></small>
-For he spake, and it was [done]; he commanded, and it stood fast.
-<small><sub>**BSB:**</sub></small>
-For He spoke, and it came to be; He commanded, and it stood firm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.8|<< Psalm 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.10|Psalm 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

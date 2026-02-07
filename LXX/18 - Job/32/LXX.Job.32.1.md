@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they were quiet, and  his three friends no longer contradicted Job, for Job was righteous before them. 
-<small><sub>**KJV:**</sub></small>
-So these three men ceased to answer Job, because he [was] righteous in his own eyes.
-<small><sub>**BSB:**</sub></small>
-So these three men stopped answering Job, because he was righteous in his own eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.40|<< Job 31:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.2|Job 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

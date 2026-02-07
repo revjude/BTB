@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:18** 
 <small><sub>**LXX:**</sub></small>
 And concerning  this matter, \[the\] <span class="smallcaps">lord</span> shall deal kindly with me, \[to\] your servant in the entering  of my master into \[the\] house of Rimmon to do obeisance there, for he shall rest upon  my hand. And I shall do obeisance in \[the\] house of Rimmon, in  his doing obeisance in \[the\] house of Rimmon. And \[the\] <span class="smallcaps">lord</span> shall deal kindly with me \[to\] your servant over  this matter. 
-<small><sub>**KJV:**</sub></small>
-In this thing the LORD pardon thy servant, [that] when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing.
-<small><sub>**BSB:**</sub></small>
-Yet may the LORD forgive your servant this one thing: When my master goes into the temple of Rimmon to worship there, and he leans on my arm, and I bow down in the temple of Rimmon, may the LORD forgive your servant in this matter.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.17|<< 2 Kings 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.19|2 Kings 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

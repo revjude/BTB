@@ -1,4 +1,4 @@
-**Proverbs 13:17** 
+**Proverbs 13:17**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wicked messenger falleth into mischief: but a faithful ambassador [is] health.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wicked messenger falls into trouble, but a faithful envoy brings healing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a messenger  |**<big>&#8207;[[H4397G\|מַלְאָ֣ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

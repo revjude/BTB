@@ -1,10 +1,7 @@
 **LXX Joshua 16:10** 
 <small><sub>**LXX:**</sub></small>
 And Ephraim did not destroy the Canaanite  dwelling in Gezer; but the Canaanite dwelt in Ephraim until  this day, and they became bondmen subject to tribute. 
-<small><sub>**KJV:**</sub></small>
-And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.
-<small><sub>**BSB:**</sub></small>
-But they did not drive out the Canaanites who lived in Gezer. So the Canaanites dwell among the Ephraimites to this day, but they are forced laborers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.9|<< Joshua 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.1|Joshua 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

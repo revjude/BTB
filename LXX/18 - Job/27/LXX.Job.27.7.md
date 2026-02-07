@@ -1,10 +1,7 @@
 **LXX Job 27:7** 
 <small><sub>**LXX:**</sub></small>
 No rather, but my enemies be as the undoing of the impious, and the ones rising up against me as the destruction of the lawbreakers. 
-<small><sub>**KJV:**</sub></small>
-Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.
-<small><sub>**BSB:**</sub></small>
-May my enemy be like the wicked and my opponent like the unjust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.6|<< Job 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.8|Job 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

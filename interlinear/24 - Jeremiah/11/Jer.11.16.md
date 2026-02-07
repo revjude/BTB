@@ -1,4 +1,4 @@
-**Jeremiah 11:16** 
+**Jeremiah 11:16**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD called thy name, A green olive tree, fair, [and] of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD once called you a flourishing olive tree, beautiful with well-formed fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.15|<< Jeremiah 11:15]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.17|Jeremiah 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an olive tree  |**<big>&#8207;[[H2132H\|זַ֤יִת]]&#8207; </big>**| Za.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | luxuriant  |**<big>&#8207;[[H7488B\|רַֽעֲנָן֙]]&#8207; </big>**| ra.'a.Nan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:11** 
 <small><sub>**LXX:**</sub></small>
 For in no way \[the\] one lacking fail from  your land. Because of this I give charge to you to do  this thing, saying, In opening, you shall open  your hands \[to\] your needy brother, and to the one wanting  upon  your land. 
-<small><sub>**KJV:**</sub></small>
-For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.
-<small><sub>**BSB:**</sub></small>
-For there will never cease to be poor in the land; that is why I am commanding you to open wide your hand to your brother and to the poor and needy in your land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.10|<< Deuteronomy 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.12|Deuteronomy 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

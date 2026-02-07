@@ -1,4 +1,4 @@
-**Ezekiel 33:31** 
+**Ezekiel 33:31**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they come unto thee as the people cometh, and they sit before thee [as] my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, [but] their heart goeth after their covetousness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So My people come to you as usual, sit before you, and hear your words; but they
 > $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may come  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|יָב֣וֹאוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Vo.'u<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵ֠לֶי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'E.lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

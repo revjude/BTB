@@ -1,4 +1,4 @@
-**Jeremiah 20:7** 
+**Jeremiah 20:7**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have deceived me, O LORD, and I was deceived. You have overcome me and preva
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.6|<< Jeremiah 20:6]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.8|Jeremiah 20:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you deceived me  |**<big>&#8207;[[H6601B\|פִּתִּיתַ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| pi.ti.Ta.<small><sup>[[HVpp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

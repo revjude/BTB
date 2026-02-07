@@ -1,10 +1,7 @@
 **LXX Genesis 16:4** 
 <small><sub>**LXX:**</sub></small>
 And he entered to Hagar, and she conceived. And she saw that she had \[a child\] in \[the\] womb, and the lady was dishonored before her. 
-<small><sub>**KJV:**</sub></small>
-And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
-<small><sub>**BSB:**</sub></small>
-And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.3|<< Genesis 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.5|Genesis 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

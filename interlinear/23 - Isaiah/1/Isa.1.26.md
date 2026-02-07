@@ -1,4 +1,4 @@
-**Isaiah 1:26** 
+**Isaiah 1:26**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will restore thy judges as at the first, and thy counsellers as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will restore your judges as at first, and your counselors as at the beginning.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.25|<< Isaiah 1:25]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.27|Isaiah 1:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will restore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725H\|אָשִׁ֤יבָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shi.vah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judges your  |**<big>&#8207;[[H8199\|שֹׁפְטַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| sho.fe.Ta.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

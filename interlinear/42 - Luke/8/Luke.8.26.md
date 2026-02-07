@@ -1,12 +1,12 @@
-**Luke 8:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:26**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they arrived at the country of the Gadarenes, which is over against Galilee.
 <small><sub>**BSB:**</sub></small>
 Then they sailed to the region of the Gerasenes, across the lake from Galilee.
 <small><sub>**Literal:**</sub></small>
 And they sailed down to the region of the Gerasenes which is opposite <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.25|<< Luke 8:25]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.27|Luke 8:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they sailed down |**<big>[[G2668\|κατέπλευσαν]]</big>**  |katepleusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Revelation 4:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:1**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this I looked, and, behold, a door [was] opened in heaven: and the first voice which I heard [was] as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
 <small><sub>**BSB:**</sub></small>
 After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”
 <small><sub>**Literal:**</sub></small>
 After these things I looked, and behold a door opened in <the> heaven, and the voice <the> first that I heard like a trumpet was speaking with me saying; do come up here, and I will show to you what it behooves to take place after these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.22|<< Revelation 3:22]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.2|Revelation 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

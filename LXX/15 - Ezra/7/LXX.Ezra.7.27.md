@@ -1,10 +1,7 @@
 **LXX Ezra 7:27** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God  of our fathers, who put \[it\] in \[the\] heart of the king thus,  to glorify the house of \[the\] <span class="smallcaps">lord</span>, the one in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD God of our fathers, which hath put [such a thing] as this in the king’s heart, to beautify the house of the LORD which [is] in Jerusalem:
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD, the God of our fathers, who has put into the heart of the king to so honor the house of the LORD in Jerusalem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.26|<< Ezra 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.28|Ezra 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

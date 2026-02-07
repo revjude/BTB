@@ -1,4 +1,4 @@
-**1 Chronicles 29:23** 
+**1 Chronicles 29:23**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Solomon sat on the throne of the LORD as king in place of his father David. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.22|<< 1 Chronicles 29:22]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.24|1 Chronicles 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּ֣שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁ֠לֹמֹה]]&#8207; </big>**| She.lo.moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 41:24** 
+**Genesis 41:24**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thin ears devoured the seven good ears: and I told [this] unto the magicians; but [there was] none that could declare [it] to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the thin heads of grain swallowed the seven plump ones. I told this dream to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.23|<< Genesis 41:23]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.25|Genesis 41:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they swallowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1104\|תִּבְלַ֙עְןָ֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiv.La'.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ears of grain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7641B\|שִׁבֳּלִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

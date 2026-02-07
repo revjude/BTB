@@ -1,4 +1,4 @@
-**Ezekiel 27:11** 
+**Ezekiel 27:11**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The men of Arvad with thine army [were] upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men of Arvad and Helech manned your walls all around, and the men of Gammad were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.10|<< Ezekiel 27:10]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.12|Ezekiel 27:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֧י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Arvad  |**<big>&#8207;[[H0719\|אַרְוַ֣ד]]&#8207; </big>**| 'ar.Vad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 11:10** 
+**1 Kings 11:10**<big><big>[[1Kgs.11.9 God’s Anger against Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the LORD commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although He had warned Solomon explicitly not to follow other gods, Solomon did 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.9|<< 1 Kings 11:9]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.11|1 Kings 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had commanded  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Vah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

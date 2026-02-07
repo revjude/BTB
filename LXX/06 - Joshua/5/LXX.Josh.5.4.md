@@ -1,10 +1,7 @@
 **LXX Joshua 5:4** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the account for which Joshua circumcised all the people, the ones coming forth from Egypt. All the men of war  \[that\] died in the wilderness in the way of their coming forth from \[the\] land of Egypt, 
-<small><sub>**KJV:**</sub></small>
-And this [is] the cause why Joshua did circumcise: All the people that came out of Egypt, [that were] males, [even] all the men of war, died in the wilderness by the way, after they came out of Egypt.
-<small><sub>**BSB:**</sub></small>
-Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.3|<< Joshua 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.5|Joshua 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

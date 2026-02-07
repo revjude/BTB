@@ -1,4 +1,4 @@
-**Psalms 78:33** 
+**Psalms 78:33**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their days did he consume in vanity, and their years in trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So He ended their days in futility, and their years in sudden terror.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.32|<< Psalms 78:32]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.34|Psalms 78:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought to an end  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615J\|יְכַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.khal-<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> futility  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1892\|הֶ֥בֶל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

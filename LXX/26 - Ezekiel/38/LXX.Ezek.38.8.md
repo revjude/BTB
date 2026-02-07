@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:8** 
 <small><sub>**LXX:**</sub></small>
 After many more days he shall be prepared, and upon \[the\] latter end of years he shall come unto the land  returning from swords being gathered from many nations upon the land of Israel, which was desolate wholly. And this \[one\] comes forth from out of nations; and they shall dwell in peace all together. 
-<small><sub>**KJV:**</sub></small>
-After many days thou shalt be visited: in the latter years thou shalt come into the land [that is] brought back from the sword, [and is] gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them.
-<small><sub>**BSB:**</sub></small>
-After a long time you will be summoned. In the latter years you will enter a land that has recovered from war, whose people were gathered from many nations to the mountains of Israel, which had long been desolate. They had been brought out from the nations, and all now dwell securely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.7|<< Ezekiel 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.9|Ezekiel 38:9 >>]]</td></tr></table>
 
 | Translation | Greek |

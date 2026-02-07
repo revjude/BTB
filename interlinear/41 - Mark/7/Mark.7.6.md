@@ -1,5 +1,5 @@
-**Mark 7:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:6**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with [their] lips, but their heart is far from me.
 <small><sub>**BSB:**</sub></small>
 Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written: ‘These people honor Me with their lips, but their hearts are far from Me.
@@ -10,7 +10,7 @@ Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it 
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

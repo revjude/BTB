@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God did not give to you a heart to behold, and eyes to see, and ears to hear, until  this day. 
-<small><sub>**KJV:**</sub></small>
-Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.
-<small><sub>**BSB:**</sub></small>
-Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.3|<< Deuteronomy 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.5|Deuteronomy 29:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 29:4** is...

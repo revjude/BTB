@@ -1,4 +1,4 @@
-**Ezekiel 26:18** 
+**Ezekiel 26:18**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now shall the isles tremble in the day of thy fall; yea, the isles that [are] in the sea shall be troubled at thy departure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the coastlands tremble on the day of your downfall; the islands in the sea a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.17|<< Ezekiel 26:17]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.19|Ezekiel 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will tremble  |**<big>&#8207;[[H2729\|יֶחְרְד֣וּ]]&#8207; </big>**| yech.re.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

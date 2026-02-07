@@ -1,12 +1,12 @@
-**John 14:31
-**<small><sub>**KJV:**</sub></small>
+**John 14:31**<big><big>[[John.14.27 Peace I Leave with You|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
 <small><sub>**BSB:**</sub></small>
 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.
 <small><sub>**Literal:**</sub></small>
 but that may know the world that I love the Father, and even as He has commanded to Me the Father, thus I do. do rise up, let us go from here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.30|<< John 14:30]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.1|John 15:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

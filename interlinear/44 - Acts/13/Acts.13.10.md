@@ -1,12 +1,12 @@
-**Acts 13:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:10**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, O full of all subtilty and all mischief, [thou] child of the devil, [thou] enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
 <small><sub>**BSB:**</sub></small>
 and said, “O child of the devil and enemy of all righteousness, you are full of all kinds of deceit and trickery! Will you never stop perverting the straight ways of the Lord?
 <small><sub>**Literal:**</sub></small>
 said; O full of all deceit and all craft, son of [the] devil, enemy of all righteousness, not will you cease perverting the ways of the Lord <the> upright?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.9|<< Acts 13:9]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.11|Acts 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | O |**<big>[[G5599\|ὦ]]</big>**  |ō <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

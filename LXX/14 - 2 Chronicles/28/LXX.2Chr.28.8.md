@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel took captive of  their brethren two hundred thousand women, and sons, and daughters; and they despoiled many spoils of them, and they brought the spoils to Samaria. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

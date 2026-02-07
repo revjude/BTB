@@ -1,12 +1,12 @@
-**Acts 6:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:13**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:
 <small><sub>**BSB:**</sub></small>
 where they presented false witnesses who said, “This man never stops speaking against this holy place and against the law.
 <small><sub>**Literal:**</sub></small>
 They set also witnesses false saying; <the> man This not does stop speaking declarations blasphemous against the place <the> holy this and the law;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.12|<< Acts 6:12]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.14|Acts 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They set |**<big>[[G2476\|ἔστησάν]]</big>**  |estēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

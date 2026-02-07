@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:14** 
 <small><sub>**LXX:**</sub></small>
 Trump with \[the\] trumpet, and judge  all things! But there is not one going to the war, for  my wrath \[is\] upon all  her multitude. 
-<small><sub>**KJV:**</sub></small>
-They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath [is] upon all the multitude thereof.
-<small><sub>**BSB:**</sub></small>
-They have blown the trumpet and made everything ready, but no one goes to war, for My wrath is upon the whole multitude.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.13|<< Ezekiel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.15|Ezekiel 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

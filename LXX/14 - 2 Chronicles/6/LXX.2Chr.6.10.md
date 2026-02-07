@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> established the word which he spoke. And I became instead of David  my father, and I sit upon the throne of Israel, as \[the\] <span class="smallcaps">lord</span> said, and I built the house to the name of \[the\] <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-Now the LORD has fulfilled the word that He spoke. I have succeeded my father David, and I sit on the throne of Israel, as the LORD promised. I have built the house for the Name of the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.9|<< 2 Chronicles 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.11|2 Chronicles 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

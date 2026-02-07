@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:18** 
 <small><sub>**LXX:**</sub></small>
 And  these ten cheeses of the milk you shall bring to the commander of a thousand, and  you shall visit your brothers concerning \[their\] peace; and as much as they need you shall know. 
-<small><sub>**KJV:**</sub></small>
-And carry these ten cheeses unto the captain of [their] thousand, and look how thy brethren fare, and take their pledge.
-<small><sub>**BSB:**</sub></small>
-Take also these ten portions of cheese to the commander of their unit. Check on the welfare of your brothers and bring back an assurance from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.17|<< 1 Samuel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.19|1 Samuel 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

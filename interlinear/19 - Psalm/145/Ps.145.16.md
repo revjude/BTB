@@ -1,4 +1,4 @@
-**Psalms 145:16** 
+**Psalms 145:16**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou openest thine hand, and satisfiest the desire of every living thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You open Your hand and satisfy the desire of every living thing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.15|<< Psalms 145:15]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.17|Psalms 145:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [you are] opening  |**<big>&#8207;[[H6605A\|פּוֹתֵ֥חַ]]&#8207; </big>**| po.Te.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Lamentations 5:16** 
 <small><sub>**LXX:**</sub></small>
 The crown of our head fell; and woe to us for we sinned. 
-<small><sub>**KJV:**</sub></small>
-The crown is fallen [from] our head: woe unto us, that we have sinned!
-<small><sub>**BSB:**</sub></small>
-The crown has fallen from our head. Woe to us, for we have sinned!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.15|<< Lamentations 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.17|Lamentations 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

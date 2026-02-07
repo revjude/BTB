@@ -1,10 +1,7 @@
 **LXX Psalm 116:4** 
 <small><sub>**LXX:**</sub></small>
 And the name of \[the\] <span class="smallcaps">lord</span> I called upon. O <span class="smallcaps">lord</span> rescue  my soul! 
-<small><sub>**KJV:**</sub></small>
-Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.
-<small><sub>**BSB:**</sub></small>
-Then I called on the name of the LORD: “O LORD, deliver my soul!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.3|<< Psalm 116:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.5|Psalm 116:5 >>]]</td></tr></table>
 
 | Translation | Greek |

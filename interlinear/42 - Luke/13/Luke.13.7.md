@@ -1,12 +1,12 @@
-**Luke 13:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:7**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?
 <small><sub>**BSB:**</sub></small>
 So he said to the keeper of the vineyard, ‘Look, for the past three years I have come to search for fruit on this fig tree and haven’t found any. Therefore cut it down! Why should it use up the soil?’
 <small><sub>**Literal:**</sub></small>
 He said then to the vinedresser; Behold three years throughout these I come seeking fruit on <the> fig tree this and not do find [any]; do cut down therefore it; so why even the ground should it use up?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.6|<< Luke 13:6]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.8|Luke 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

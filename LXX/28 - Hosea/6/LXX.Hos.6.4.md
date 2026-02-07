@@ -1,10 +1,7 @@
 **LXX Hosea 6:4** 
 <small><sub>**LXX:**</sub></small>
 What shall I do to you, O Ephraim? What shall I do to you, O Judah? For your mercy \[is\] as an early morning cloud, and as early morning dew going \[away\]. 
-<small><sub>**KJV:**</sub></small>
-O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness [is] as a morning cloud, and as the early dew it goeth away.
-<small><sub>**BSB:**</sub></small>
-What shall I do with you, O Ephraim? What shall I do with you, O Judah? For your loyalty is like a morning mist, like the early dew that vanishes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.3|<< Hosea 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.5|Hosea 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

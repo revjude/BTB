@@ -1,4 +1,4 @@
-**Isaiah 37:27** 
+**Isaiah 37:27**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their inhabitants [were] of small power, they were dismayed and confounded: they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and inhabitants their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3427\|יֹֽשְׁבֵי]]&#8207;&#8207;[[H9029\|הֶן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.she.vei.<small><sup>[[HVqrmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] short of  |**<big>&#8207;[[H7116\|קִצְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kitz.rei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

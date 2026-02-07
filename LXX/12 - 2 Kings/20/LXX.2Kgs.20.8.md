@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:8** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah said to Isaiah, What is the sign that \[the\] <span class="smallcaps">lord</span> shall heal me, and I shall ascend into \[the\] house of \[the\] <span class="smallcaps">lord</span> \[on\] the third day? 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah said unto Isaiah, What [shall be] the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?
-<small><sub>**BSB:**</sub></small>
-Now Hezekiah had asked Isaiah, “What will be the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.7|<< 2 Kings 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.9|2 Kings 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

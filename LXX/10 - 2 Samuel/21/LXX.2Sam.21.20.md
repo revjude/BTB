@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:20** 
 <small><sub>**LXX:**</sub></small>
 And there was still war in Gath. And there was a man of Madon, and the fingers  of his hands, and the toes  of his feet \[were\] six and six, twenty-four in number; and indeed he was born \[to\] Rapha. 
-<small><sub>**KJV:**</sub></small>
-And there was yet a battle in Gath, where was a man of [great] stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant.
-<small><sub>**BSB:**</sub></small>
-And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.19|<< 2 Samuel 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.21|2 Samuel 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

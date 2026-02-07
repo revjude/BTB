@@ -1,4 +1,4 @@
-**Deuteronomy 7:7** 
+**Deuteronomy 7:7**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye [were] the fewest of all people:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD did not set His affection on you and choose you because you were more n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.6|<< Deuteronomy 7:6]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.8|Deuteronomy 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because were numerous you  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7231\|רֻבְּ]]&#8207;&#8207;[[H9046\|כֶ֞ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ru.be.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

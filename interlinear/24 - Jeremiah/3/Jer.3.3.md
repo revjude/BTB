@@ -1,4 +1,4 @@
-**Jeremiah 3:3** 
+**Jeremiah 3:3**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the showers have been withheld, and no spring rains have fallen. Yet y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.2|<< Jeremiah 3:2]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.4|Jeremiah 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have been withheld  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4513\|יִּמָּנְע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.ne.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | copious showers  |**<big>&#8207;[[H7241\|רְבִבִ֔ים]]&#8207; </big>**| re.vi.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

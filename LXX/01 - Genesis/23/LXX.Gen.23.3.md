@@ -1,10 +1,7 @@
 **LXX Genesis 23:3** 
 <small><sub>**LXX:**</sub></small>
 And Abraham rose up from  his dead. And Abraham said to the sons of Heth, saying, 
-<small><sub>**KJV:**</sub></small>
-And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,
-<small><sub>**BSB:**</sub></small>
-Then Abraham got up from beside his dead wife and said to the Hittites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.2|<< Genesis 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.4|Genesis 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

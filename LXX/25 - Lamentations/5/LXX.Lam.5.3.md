@@ -1,10 +1,7 @@
 **LXX Lamentations 5:3** 
 <small><sub>**LXX:**</sub></small>
 We were orphans; there does not exist a father; our mothers \[are\] as  widows. 
-<small><sub>**KJV:**</sub></small>
-We are orphans and fatherless, our mothers [are] as widows.
-<small><sub>**BSB:**</sub></small>
-We have become fatherless orphans; our mothers are widows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.2|<< Lamentations 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.4|Lamentations 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

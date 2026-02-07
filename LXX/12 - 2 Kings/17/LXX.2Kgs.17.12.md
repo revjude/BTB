@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:12** 
 <small><sub>**LXX:**</sub></small>
 And they served to the idols which \[the\] <span class="smallcaps">lord</span> said to them, Do not do  this thing! 
-<small><sub>**KJV:**</sub></small>
-For they served idols, whereof the LORD had said unto them, Ye shall not do this thing.
-<small><sub>**BSB:**</sub></small>
-They served idols, although the LORD had told them, “You shall not do this thing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.11|<< 2 Kings 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.13|2 Kings 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

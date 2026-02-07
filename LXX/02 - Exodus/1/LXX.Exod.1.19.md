@@ -1,10 +1,7 @@
 **LXX Exodus 1:19** 
 <small><sub>**LXX:**</sub></small>
 And the midwives said  to Pharaoh, Not as \[the\] women of Egypt \[are\] the Hebrews, for they give birth before  the midwives entered to them, and they bear. 
-<small><sub>**KJV:**</sub></small>
-And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.
-<small><sub>**BSB:**</sub></small>
-The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

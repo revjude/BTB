@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:2** 
 <small><sub>**LXX:**</sub></small>
 And I according to all  my power have prepared for the house  of my God -- the gold for a gold \[thing\], and the silver for a silver \[thing\], and the brass for a brass \[thing\], and the iron for an iron \[thing\], and wood for a wood \[thing\], and onyx stones, and fullness of very costly stones, and colored, and every valuable stone, and stones of Paros in multitude. 
-<small><sub>**KJV:**</sub></small>
-Now I have prepared with all my might for the house of my God the gold for [things to be made] of gold, and the silver for [things] of silver, and the brass for [things] of brass, the iron for [things] of iron, and wood for [things] of wood; onyx stones, and [stones] to be set, glistering stones, and of divers colours, and all manner of precious stones, and marble stones in abundance.
-<small><sub>**BSB:**</sub></small>
-Now with all my ability I have made provision for the house of my God—gold for the gold articles, silver for the silver, bronze for the bronze, iron for the iron, and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, all kinds of precious stones, and slabs of marble—all in abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.1|<< 1 Chronicles 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.3|1 Chronicles 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 2:13** 
+**Daniel 2:13**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the decree went forth that the wise [men] should be slain; and they sought Daniel and his fellows to be slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the decree went out that the wise men were to be executed, and men went to lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.12|<< Daniel 2:12]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.14|Daniel 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and decree the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1882\|דָתָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> da.Ta<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it went out  |**<big>&#8207;[[H5312\|נֶפְקַ֔ת]]&#8207; </big>**| nef.Kat<small><sup>[[AVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

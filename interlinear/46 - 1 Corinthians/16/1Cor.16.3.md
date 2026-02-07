@@ -1,12 +1,12 @@
-**1 Corinthians 16:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:3**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when I come, whomsoever ye shall approve by [your] letters, them will I send to bring your liberality unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then, on my arrival, I will send letters with those you recommend to carry your gift to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 When then I may have arrived, whomever maybe you shall approve, with letters these I will send to carry the bounty of you to Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.2|<< 1 Corinthians 16:2]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.4|1 Corinthians 16:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

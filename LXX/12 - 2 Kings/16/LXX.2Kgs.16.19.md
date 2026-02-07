@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:19** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Ahaz, as much as he did, behold \[are\] not these written upon \[the\] scroll of \[the\] words of the days of the kings of Judah? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Ahaz which he did, [are] they not written in the book of the chronicles of the kings of Judah?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Ahaz, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.18|<< 2 Kings 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.20|2 Kings 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

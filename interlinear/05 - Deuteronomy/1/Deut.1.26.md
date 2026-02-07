@@ -1,4 +1,4 @@
-**Deuteronomy 1:26** 
+**Deuteronomy 1:26**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you were unwilling to go up; you rebelled against the command of the LORD yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.25|<< Deuteronomy 1:25]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.27|Deuteronomy 1:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you were willing  |**<big>&#8207;[[H0014\|אֲבִיתֶ֖ם]]&#8207; </big>**| 'a.vi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

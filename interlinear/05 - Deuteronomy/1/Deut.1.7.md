@@ -1,4 +1,4 @@
-**Deuteronomy 1:7** 
+**Deuteronomy 1:7**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Resume your journey and go to the hill country of the Amorites; go to all the ne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.6|<< Deuteronomy 1:6]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.8|Deuteronomy 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H6437G\|פְּנ֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pe.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and set out  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5265\|סְע֣וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

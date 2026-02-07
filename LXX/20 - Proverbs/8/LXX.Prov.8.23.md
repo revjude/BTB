@@ -1,10 +1,7 @@
 **LXX Proverbs 8:23** 
 <small><sub>**LXX:**</sub></small>
 Before the eon he founded me in \[the\] beginning, before the making the earth; 
-<small><sub>**KJV:**</sub></small>
-I was set up from everlasting, from the beginning, or ever the earth was.
-<small><sub>**BSB:**</sub></small>
-From everlasting I was established, from the beginning, before the earth began.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.22|<< Proverbs 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.24|Proverbs 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

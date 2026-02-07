@@ -1,12 +1,12 @@
-**2 Corinthians 6:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:15**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
 <small><sub>**BSB:**</sub></small>
 What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever?
 <small><sub>**Literal:**</sub></small>
 What now harmony [has] Christ with Belial? Or what part [has] a believer with an unbeliever?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.14|<< 2 Corinthians 6:14]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.16|2 Corinthians 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

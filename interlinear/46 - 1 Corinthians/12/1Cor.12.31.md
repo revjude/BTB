@@ -1,12 +1,12 @@
-**1 Corinthians 12:31
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:31**<big><big>[[1Cor.12.27 The Greater Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
 <small><sub>**BSB:**</sub></small>
 But eagerly desire the greater gifts. And now I will show you the most excellent way.
 <small><sub>**Literal:**</sub></small>
 do be desirous of however the gifts <the> greater. And now according to a more surpassing way to you I show.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.30|<< 1 Corinthians 12:30]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.1|1 Corinthians 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be desirous of |**<big>[[G2206\|ζηλοῦτε]]</big>**  |zēloute <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

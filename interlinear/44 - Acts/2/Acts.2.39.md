@@ -1,12 +1,12 @@
-**Acts 2:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:39**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the promise is unto you, and to your children, and to all that are afar off, [even] as many as the Lord our God shall call.
 <small><sub>**BSB:**</sub></small>
 This promise belongs to you and your children and to all who are far off—to all whom the Lord our God will call to Himself.”
 <small><sub>**Literal:**</sub></small>
 To you for is the promise and to the children of you and to all those at a distance, as many as maybe may call to Himself [the] Lord the God of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.38|<< Acts 2:38]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.40|Acts 2:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

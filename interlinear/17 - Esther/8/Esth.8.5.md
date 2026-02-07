@@ -1,4 +1,4 @@
-**Esther 8:5** 
+**Esther 8:5**<big><big>[[Esth.8.1 Esther Appeals for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, If it please the king, and if I have found favour in his sight, and the thing [seem] right before the king, and I [be] pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which [are] in all the king’s provinces:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And said, If it please the king, and if I have found favour in his sight, and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.4|<< Esther 8:4]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.6|Esther 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0559\|תֹּאמֶר]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> to.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

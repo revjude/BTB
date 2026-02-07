@@ -1,4 +1,4 @@
-**Job 17:14** 
+**Job 17:14**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have said to corruption, Thou [art] my father: to the worm, [Thou art] my mother, and my sister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and say to corruption, ‘You are my father,’ and to the worm, ‘My mother,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.13|<< Job 17:13]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.15|Job 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the pit  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7845H\|שַּׁ֣חַת]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have called out  |**<big>&#8207;[[H7121I\|קָ֭רָאתִי]]&#8207; </big>**| Ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

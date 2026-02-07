@@ -1,4 +1,4 @@
-**Ezekiel 24:7** 
+**Ezekiel 24:7**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the blood she shed is still within her; she poured it out on the bare rock; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.6|<< Ezekiel 24:6]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.8|Ezekiel 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood its  |**<big>&#8207;[[H1818\|דָמָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| da.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

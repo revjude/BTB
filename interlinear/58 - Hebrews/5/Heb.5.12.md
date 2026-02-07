@@ -1,12 +1,12 @@
-**Hebrews 5:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:12**<big><big>[[Heb.5.11 Milk and Solid Food|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when for the time ye ought to be teachers, ye have need that one teach you again which [be] the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
 <small><sub>**BSB:**</sub></small>
 Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food!
 <small><sub>**Literal:**</sub></small>
 Even for you ought to be teachers by the time, again need of you have [one] to teach you what [is] the principles of the beginning of the oracles <the> of God and you have become need [those] having of milk and not of solid food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.11|<< Hebrews 5:11]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.13|Hebrews 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

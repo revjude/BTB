@@ -1,10 +1,10 @@
 (KJV) **Joshua 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13|<< Joshua 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15|Joshua 15 >>]]</td></tr></table>
 
-***Land Division West of the Jordan*** ^bsb573
+<big><big>[[Josh.14.1 Land Division West of the Jordan|⥃]]</big></big>***Land Division West of the Jordan***
 
  $\quad$ <span class="startversemarker">[</span>**[[Josh.14.1|1]]**<span class="endversemarker">]</span> And these \[are the countries\] which the children of Israel inherited in the land of Canaan, which Eleazar<small><small>[^2]</small></small> the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them. <span class="startversemarker">[</span>**[[Josh.14.2|2]]**<span class="endversemarker">]</span> By lot<small><small>[^3]</small></small> \[was\] their inheritance, as the <span class="smallcaps">Lord</span> commanded by the hand of Moses, for the nine tribes, and \[for\] the half tribe. <span class="startversemarker">[</span>**[[Josh.14.3|3]]**<span class="endversemarker">]</span> For Moses<small><small>[^4]</small></small> had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto<small><small>[^5]</small></small> the Levites he gave none inheritance among them. <span class="startversemarker">[</span>**[[Josh.14.4|4]]**<span class="endversemarker">]</span> For the children<small><small>[^6]</small></small> of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities<small><small>[^7]</small></small> to dwell \[in\], with their suburbs for their cattle and for their substance. <span class="startversemarker">[</span>**[[Josh.14.5|5]]**<span class="endversemarker">]</span> As the <span class="smallcaps">Lord</span> commanded Moses, so the children of Israel did, and they divided the land.
 
-***Caleb Requests Hebron*** ^bsb574
+<big><big>[[Josh.14.6 Caleb Requests Hebron|⥃]]</big></big>***Caleb Requests Hebron***
 
  
 

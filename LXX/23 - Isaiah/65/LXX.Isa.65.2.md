@@ -1,10 +1,7 @@
 **LXX Isaiah 65:2** 
 <small><sub>**LXX:**</sub></small>
 I spread forth  my hands \[the\] entire  day to a people resisting persuasion and speaking contrary; the ones not having gone \[the\] good way, but after  their sins. 
-<small><sub>**KJV:**</sub></small>
-I have spread out my hands all the day unto a rebellious people, which walketh in a way [that was] not good, after their own thoughts;
-<small><sub>**BSB:**</sub></small>
-All day long I have held out My hands to an obstinate people who walk in the wrong path, who follow their own imaginations,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.1|<< Isaiah 65:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.3|Isaiah 65:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 65:2** is...

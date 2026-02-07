@@ -1,4 +1,4 @@
-**Proverbs 5:23** 
+**Proverbs 5:23**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall die without instruction; and in the greatness of his folly he shall go astray.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He dies for lack of discipline, led astray by his own great folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.22|<< Proverbs 5:22]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.1|Proverbs 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will die  |**<big>&#8207;[[H4191\|יָ֭מוּת]]&#8207; </big>**| Ya.mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

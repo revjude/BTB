@@ -1,10 +1,7 @@
 **LXX Ezra 3:3** 
 <small><sub>**LXX:**</sub></small>
 And they prepared the altar upon  its preparation \[place\], but  terror \[was\] upon them, because of the peoples of the lands. And they brought unto it \[the\] whole burnt-offerings, to the <span class="smallcaps">lord</span> in the morning, and in \[the\] evening. 
-<small><sub>**KJV:**</sub></small>
-And they set the altar upon his bases; for fear [was] upon them because of the people of those countries: and they offered burnt offerings thereon unto the LORD, [even] burnt offerings morning and evening.
-<small><sub>**BSB:**</sub></small>
-They set up the altar on its foundation and sacrificed burnt offerings on it to the LORD—both the morning and evening burnt offerings—even though they feared the people of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.2|<< Ezra 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.4|Ezra 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

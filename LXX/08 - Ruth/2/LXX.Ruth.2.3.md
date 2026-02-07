@@ -1,10 +1,7 @@
 **LXX Ruth 2:3** 
 <small><sub>**LXX:**</sub></small>
 And she went. And having arrived, she collected together in the field after the ones harvesting. And she fell by chance in the portion of the field of Boaz, the one of the kin of Elimelech. 
-<small><sub>**KJV:**</sub></small>
-And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field [belonging] unto Boaz, who [was] of the kindred of Elimelech.
-<small><sub>**BSB:**</sub></small>
-So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.2|<< Ruth 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.4|Ruth 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

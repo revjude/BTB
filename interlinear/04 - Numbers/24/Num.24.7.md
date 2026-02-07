@@ -1,4 +1,4 @@
-**Numbers 24:7** 
+**Numbers 24:7**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall pour the water out of his buckets, and his seed [shall be] in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Water will flow from his buckets, and his seed will have abundant water. His kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.6|<< Numbers 24:6]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.8|Numbers 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will flow  |**<big>&#8207;[[H5140\|יִֽזַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.zal-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֙יִם֙]]&#8207; </big>**| ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

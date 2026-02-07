@@ -1,12 +1,12 @@
-**John 3:19
-**<small><sub>**KJV:**</sub></small>
+**John 3:19**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 <small><sub>**BSB:**</sub></small>
 And this is the verdict: The Light has come into the world, but men loved the darkness rather than the Light because their deeds were evil.
 <small><sub>**Literal:**</sub></small>
 This now is the judgement that the Light has come into the world, and loved <the> men rather the darkness than the Light; were for of them evil the deeds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.18|<< John 3:18]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.20|John 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

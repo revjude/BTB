@@ -1,10 +1,7 @@
 **LXX Isaiah 10:29** 
 <small><sub>**LXX:**</sub></small>
 And he shall go by \[the\] ravine, and shall come into Angai; fear shall take hold of Ramah; \[the\] city of Saul shall flee. 
-<small><sub>**KJV:**</sub></small>
-They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
-<small><sub>**BSB:**</sub></small>
-They have crossed at the ford: “We will spend the night at Geba.” Ramah trembles; Gibeah of Saul flees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.28|<< Isaiah 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.30|Isaiah 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

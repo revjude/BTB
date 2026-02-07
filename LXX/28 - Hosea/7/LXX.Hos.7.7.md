@@ -1,10 +1,7 @@
 **LXX Hosea 7:7** 
 <small><sub>**LXX:**</sub></small>
 They were all heated as an oven, and they devoured  their judges; all  their kings are fallen; there was not \[one\] among them  calling to me. 
-<small><sub>**KJV:**</sub></small>
-They are all hot as an oven, and have devoured their judges; all their kings are fallen: [there is] none among them that calleth unto me.
-<small><sub>**BSB:**</sub></small>
-All of them are hot as an oven, and they devour their rulers. All their kings fall; not one of them calls upon Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.6|<< Hosea 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.8|Hosea 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

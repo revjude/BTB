@@ -1,12 +1,12 @@
-**Acts 11:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:1**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.
 <small><sub>**BSB:**</sub></small>
 The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God.
 <small><sub>**Literal:**</sub></small>
 Heard now the apostles and the brothers those being in <the> Judea that also the Gentiles received the word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.48|<< Acts 10:48]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.2|Acts 11:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Heard |**<big>[[G0191\|Ἤκουσαν]]</big>**  |Ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

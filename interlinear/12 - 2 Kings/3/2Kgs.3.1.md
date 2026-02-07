@@ -1,4 +1,4 @@
-**2 Kings 3:1** 
+**2 Kings 3:1**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the eighteenth year of Jehoshaphat’s reign over Judah, Jehoram son of Ahab 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.25|<< 2 Kings 2:25]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.2|2 Kings 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehoram  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3088I\|יהוֹרָ֣ם]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

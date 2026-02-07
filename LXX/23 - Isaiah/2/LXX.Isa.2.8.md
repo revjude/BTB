@@ -1,10 +1,7 @@
 **LXX Isaiah 2:8** 
 <small><sub>**LXX:**</sub></small>
 And they filled up the land \[with the\] abominations of the works  of their hands; and they did obeisance to \[the\] ones which they made  by their fingers. 
-<small><sub>**KJV:**</sub></small>
-Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
-<small><sub>**BSB:**</sub></small>
-Their land is full of idols; they bow down to the work of their hands, to what their fingers have made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.7|<< Isaiah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.9|Isaiah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

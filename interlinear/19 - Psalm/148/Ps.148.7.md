@@ -1,4 +1,4 @@
-**Psalms 148:7** 
+**Psalms 148:7**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise the LORD from the earth, ye dragons, and all deeps:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Praise the LORD from the earth, all great sea creatures and ocean depths,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.6|<< Psalms 148:6]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.8|Psalms 148:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise  |**<big>&#8207;[[H1984B\|הַֽלְל֣וּ]]&#8207; </big>**| ha.Lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

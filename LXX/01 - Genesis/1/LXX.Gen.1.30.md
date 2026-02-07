@@ -1,10 +1,7 @@
 **LXX Genesis 1:30** 
 <small><sub>**LXX:**</sub></small>
 and to all the wild beasts of the earth, and to all the winged creatures of the heaven, and to every reptile crawling upon the earth, which has in itself breath of life, even every green grass for food. And it was so. 
-<small><sub>**KJV:**</sub></small>
-And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so.
-<small><sub>**BSB:**</sub></small>
-And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.” And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.29|<< Genesis 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.31|Genesis 1:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 29:16** 
+**Isaiah 29:16**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You have turned things upside down, as if the potter were regarded as clay. Shal
 > $\quad$ referenced by: [[Rom.9.20|Rom 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perversity your  |**<big>&#8207;[[H2017\|הַ֨פְכְּ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| haf.ke.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<if>?  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

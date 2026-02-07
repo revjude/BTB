@@ -1,10 +1,7 @@
 **LXX Job 19:29** 
 <small><sub>**LXX:**</sub></small>
 Venerate even to yourselves from a covering! For rage shall come upon \[the\] lawless ones, and then they shall know where their material is. 
-<small><sub>**KJV:**</sub></small>
-Be ye afraid of the sword: for wrath [bringeth] the punishments of the sword, that ye may know [there is] a judgment.
-<small><sub>**BSB:**</sub></small>
-then you should fear the sword yourselves, because wrath brings punishment by the sword, so that you may know there is a judgment.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.28|<< Job 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.1|Job 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

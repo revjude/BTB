@@ -1,4 +1,4 @@
-**Exodus 34:25** 
+**Exodus 34:25**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not offer the blood of a sacrifice to Me along with anything leavened, and do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.24|<< Exodus 34:24]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.26|Exodus 34:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must slaughter  |**<big>&#8207;[[H7819A\|תִשְׁחַ֥ט]]&#8207; </big>**| tish.Chat<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

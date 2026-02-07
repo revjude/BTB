@@ -1,4 +1,4 @@
-**Esther 4:17** 
+**Esther 4:17**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Mordecai went his way, and did according to all that Esther had commanded him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Mordecai went and did all that Esther had instructed him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.16|<< Esther 4:16]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.1|Esther 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed on  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֖ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכָ֑י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

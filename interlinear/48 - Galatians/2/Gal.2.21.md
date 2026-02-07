@@ -1,12 +1,12 @@
-**Galatians 2:21
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:21**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I do not frustrate the grace of God: for if righteousness [come] by the law, then Christ is dead in vain.
 <small><sub>**BSB:**</sub></small>
 I do not set aside the grace of God. For if righteousness comes through the law, then Christ died for nothing.
 <small><sub>**Literal:**</sub></small>
 Not I do set aside the grace <the> of God; if for through [the] Law righteousness [is], then Christ for naught died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.20|<< Galatians 2:20]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.1|Galatians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I do set aside |**<big>[[G0114\|ἀθετῶ]]</big>**  |athetō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

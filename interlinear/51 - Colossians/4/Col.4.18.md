@@ -1,12 +1,12 @@
-**Colossians 4:18
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:18**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The salutation by the hand of me Paul. Remember my bonds. Grace [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 This greeting is in my own hand—Paul. Remember my chains. Grace be with you.
 <small><sub>**Literal:**</sub></small>
 The greeting <the> in my own hand — by Paul. do remember my <the> chains. <the> Grace [be] with you Amen. to Colossian it was written from Rome through Tychicus and Onesimus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.17|<< Colossians 4:17]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.1|1 Thessalonians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | greeting |**<big>[[G0783\|ἀσπασμὸς]]</big>**  |aspasmos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

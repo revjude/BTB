@@ -1,12 +1,12 @@
-**Acts 15:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:9**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And put no difference between us and them, purifying their hearts by faith.
 <small><sub>**BSB:**</sub></small>
 He made no distinction between us and them, for He cleansed their hearts by faith.
 <small><sub>**Literal:**</sub></small>
 and no [thing] He made distinction between us also and them by the faith having purified the hearts of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.8|<< Acts 15:8]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.10|Acts 15:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [thing] |**<big>[[G3762\|οὐθὲν]]</big>**  [^1] |outhen <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

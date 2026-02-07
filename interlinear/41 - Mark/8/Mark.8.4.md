@@ -1,12 +1,12 @@
-**Mark 8:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:4**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples answered him, From whence can a man satisfy these [men] with bread here in the wilderness?
 <small><sub>**BSB:**</sub></small>
 His disciples replied, “Where in this desolate place could anyone find enough bread to feed all these people?”
 <small><sub>**Literal:**</sub></small>
 And answered Him the disciples of Him that From where these will be able anyone here to satisfy with bread in this desolate place?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.3|<< Mark 8:3]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.5|Mark 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

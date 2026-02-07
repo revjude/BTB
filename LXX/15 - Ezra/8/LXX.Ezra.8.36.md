@@ -1,10 +1,7 @@
 **LXX Ezra 8:36** 
 <small><sub>**LXX:**</sub></small>
 And they gave the mandate of the king to the administrators of the king, and chief rulers on the other side of the river; and they glorified the people, and the house  of God. 
-<small><sub>**KJV:**</sub></small>
-And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.
-<small><sub>**BSB:**</sub></small>
-They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates, who proceeded to assist the people and the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.35|<< Ezra 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.1|Ezra 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

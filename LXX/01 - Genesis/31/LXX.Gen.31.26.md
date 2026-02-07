@@ -1,10 +1,7 @@
 **LXX Genesis 31:26** 
 <small><sub>**LXX:**</sub></small>
 And Laban said  to Jacob, What did you do? Why did you secretly run away, and ransacked me, and took away  my daughters as captives \[taken by\] sword? 
-<small><sub>**KJV:**</sub></small>
-And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?
-<small><sub>**BSB:**</sub></small>
-Then Laban said to Jacob, “What have you done? You have deceived me and carried off my daughters like captives of war!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.25|<< Genesis 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.27|Genesis 31:27 >>]]</td></tr></table>
 
 | Translation | Greek |

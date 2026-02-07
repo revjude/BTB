@@ -1,12 +1,12 @@
-**1 Thessalonians 5:6
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:6**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore let us not sleep, as [do] others; but let us watch and be sober.
 <small><sub>**BSB:**</sub></small>
 So then, let us not sleep as the others do, but let us remain awake and sober.
 <small><sub>**Literal:**</sub></small>
 So then not we may sleep as also the others but we may watch and we may be sober.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.5|<< 1 Thessalonians 5:5]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.7|1 Thessalonians 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|Ἄρα]]</big>**  |Ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

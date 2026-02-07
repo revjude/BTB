@@ -1,10 +1,7 @@
 **LXX Psalm 20:5** 
 <small><sub>**LXX:**</sub></small>
 We will exult over  your deliverance; and in \[the\] name of \[the\] <span class="smallcaps">lord</span> our God we will be magnified. May \[the\] <span class="smallcaps">lord</span> fill all  your requests. 
-<small><sub>**KJV:**</sub></small>
-We will rejoice in thy salvation, and in the name of our God we will set up [our] banners: the LORD fulfil all thy petitions.
-<small><sub>**BSB:**</sub></small>
-May we shout for joy at your victory and raise a banner in the name of our God. May the LORD grant all your petitions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.4|<< Psalm 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.6|Psalm 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

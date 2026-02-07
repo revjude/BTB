@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:30** 
 <small><sub>**LXX:**</sub></small>
 And Benaiah came to Joab in the tent of \[the\] <span class="smallcaps">lord</span>, and he said to him, Thus says the king, Come forth! And Joab said, I do not go forth, for here I shall die. And Benaiah returned and said to the king, saying, Thus Joab has spoken, and thus he answered me. 
-<small><sub>**KJV:**</sub></small>
-And Benaiah came to the tabernacle of the LORD, and said unto him, Thus saith the king, Come forth. And he said, Nay; but I will die here. And Benaiah brought the king word again, saying, Thus said Joab, and thus he answered me.
-<small><sub>**BSB:**</sub></small>
-And Benaiah entered the tent of the LORD and said to Joab, “The king says, ‘Come out!’” But Joab replied, “No, I will die here.” So Benaiah relayed the message to the king, saying, “This is how Joab answered me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.29|<< 1 Kings 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.31|1 Kings 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

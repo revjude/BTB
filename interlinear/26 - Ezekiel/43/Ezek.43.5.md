@@ -1,4 +1,4 @@
-**Ezekiel 43:5** 
+**Ezekiel 43:5**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the spirit took me up, and brought me into the inner court; and, behold, the glory of the LORD filled the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit lifted me up and brought me into the inner court, and the glory 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.4|<< Ezekiel 43:4]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.6|Ezekiel 43:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it lifted up me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|תִּשָּׂאֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.sa.'E.<small><sup>[[HVqw3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a spirit  |**<big>&#8207;[[H7307G\|ר֔וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 5:31** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the days of Lamech, seven hundred and fifty three years, and he died. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Lamech were seven hundred seventy and seven years: and he died.
-<small><sub>**BSB:**</sub></small>
-So Lamech lived a total of 777 years, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.30|<< Genesis 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.32|Genesis 5:32 >>]]</td></tr></table>
 
 | Translation | Greek |

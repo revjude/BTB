@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:8** 
 <small><sub>**LXX:**</sub></small>
 as Jacob and his sons entered into Egypt, and Egypt humbled them. And our fathers yelled to \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> sent  Moses and  Aaron. And he led  our fathers out of Egypt, and settled them in  this place. 
-<small><sub>**KJV:**</sub></small>
-When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
-<small><sub>**BSB:**</sub></small>
-When Jacob went to Egypt, your fathers cried out to the LORD, and He sent them Moses and Aaron, who brought your fathers out of Egypt and settled them in this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.7|<< 1 Samuel 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.9|1 Samuel 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

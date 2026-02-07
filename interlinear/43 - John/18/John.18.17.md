@@ -1,12 +1,12 @@
-**John 18:17
-**<small><sub>**KJV:**</sub></small>
+**John 18:17**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith the damsel that kept the door unto Peter, Art not thou also [one] of this man’s disciples? He saith, I am not.
 <small><sub>**BSB:**</sub></small>
 At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered.
 <small><sub>**Literal:**</sub></small>
 Says therefore <the> to Peter the servant girl the doorkeeper: Surely also you yourself of the disciples are of the man this? Says he; Not I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.16|<< John 18:16]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.18|John 18:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

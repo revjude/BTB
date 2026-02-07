@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] vision which Isaiah son of Amoz beheld, which he beheld against  Judea, and against Jerusalem, during \[the\] kingdom of Uzziah, and Jotham, and Ahaz, and Hezekiah, the ones who reigned over  Judea. 
-<small><sub>**KJV:**</sub></small>
-The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, [and] Hezekiah, kings of Judah.
-<small><sub>**BSB:**</sub></small>
-This is the vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.14|<< Song of Solomon 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.2|Isaiah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:26** 
 <small><sub>**LXX:**</sub></small>
 And the woman answered of whom was \[the mother\] of the living son, and she said to the king, for her womb was disturbed over  her son, and she said, \[Hear\] me, O master. give to her the child, and to death it not be put to death! And she \[the other\] said, Neither to me nor to her let it be, divide it! 
-<small><sub>**KJV:**</sub></small>
-Then spake the woman whose the living child [was] unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, [but] divide [it].
-<small><sub>**BSB:**</sub></small>
-Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.25|<< 1 Kings 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.27|1 Kings 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

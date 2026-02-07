@@ -1,10 +1,7 @@
 **LXX Exodus 39:3** 
 <small><sub>**LXX:**</sub></small>
 And the panels were trimmed \[apart\], of the hairs of gold, so as to weave together with the blue and the purple, and with the scarlet  being spun, and with the linen  being twined -- a woven work they made it; 
-<small><sub>**KJV:**</sub></small>
-And they did beat the gold into thin plates, and cut [it into] wires, to work [it] in the blue, and in the purple, and in the scarlet, and in the fine linen, [with] cunning work.
-<small><sub>**BSB:**</sub></small>
-They hammered out thin sheets of gold and cut threads from them to interweave with the blue, purple, and scarlet yarn, and fine linen—the work of a skilled craftsman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.2|<< Exodus 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.4|Exodus 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

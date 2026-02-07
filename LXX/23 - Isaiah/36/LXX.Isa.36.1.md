@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass the fourteenth year of \[the\] reigning of Hezekiah, Sennacherib king of \[the\] Assyrians ascended upon the fortified cities of Judea, and took them. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass in the fourteenth year of king Hezekiah, [that] Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.
-<small><sub>**BSB:**</sub></small>
-In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.10|<< Isaiah 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.2|Isaiah 36:2 >>]]</td></tr></table>
 
 | Translation | Greek |

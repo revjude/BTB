@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:2** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, what ever may become of the wood of the vine from out of all the woods of the branches of the ones being in the woods of the forest? 
-<small><sub>**KJV:**</sub></small>
-Son of man, What is the vine tree more than any tree, [or than] a branch which is among the trees of the forest?
-<small><sub>**BSB:**</sub></small>
-“Son of man, how does the wood of the vine surpass any other branch among the trees in the forest?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.1|<< Ezekiel 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.3|Ezekiel 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

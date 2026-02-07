@@ -1,10 +1,7 @@
 **LXX Lamentations 3:8** 
 <small><sub>**LXX:**</sub></small>
 Yes indeed, for \[though\] I shall cry out and yell, he shut out my prayer. 
-<small><sub>**KJV:**</sub></small>
-Also when I cry and shout, he shutteth out my prayer.
-<small><sub>**BSB:**</sub></small>
-Even when I cry out and plead for help, He shuts out my prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.7|<< Lamentations 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.9|Lamentations 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

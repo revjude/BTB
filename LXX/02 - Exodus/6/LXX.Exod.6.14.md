@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the chiefs of \[the\] houses of their families. \[The\] sons of Reuben first-born of Israel -- Hanoch and Pallu, Hezron, and Carmi -- this \[is\] the kin of Reuben. 
-<small><sub>**KJV:**</sub></small>
-These [be] the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these [be] the families of Reuben.
-<small><sub>**BSB:**</sub></small>
-These were the heads of their fathers’ houses: The sons of Reuben, the firstborn of Israel, were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.13|<< Exodus 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.15|Exodus 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

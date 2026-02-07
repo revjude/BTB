@@ -1,10 +1,7 @@
 **LXX Psalm 71:18** 
 <small><sub>**LXX:**</sub></small>
 Even until old age, and of a senior, O my God, you should not abandon me until whenever I should report  your arm \[to\] every coming generation; 
-<small><sub>**KJV:**</sub></small>
-Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto [this] generation, [and] thy power to every one [that] is to come.
-<small><sub>**BSB:**</sub></small>
-Even when I am old and gray, do not forsake me, O God, until I proclaim Your power to the next generation, Your might to all who are to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.17|<< Psalm 71:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.19|Psalm 71:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:17** 
 <small><sub>**LXX:**</sub></small>
 And came forth the young men, \[the\] rulers of the regions at first. And \[the\] son of Hadad sent, and they led up to him, saying, Men have come forth from out of Samaria. 
-<small><sub>**KJV:**</sub></small>
-And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria.
-<small><sub>**BSB:**</sub></small>
-And the young officers of the district governors marched out first. Now Ben-hadad had sent out scouts, who reported to him, “Men are marching out of Samaria.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.16|<< 1 Kings 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.18|1 Kings 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

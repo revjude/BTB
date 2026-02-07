@@ -1,4 +1,4 @@
-**Ezekiel 38:13** 
+**Ezekiel 38:13**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sheba and Dedan and the merchants of Tarshish with all its villages will ask, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.12|<< Ezekiel 38:12]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.14|Ezekiel 38:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sheba  |**<big>&#8207;[[H7614J\|שְׁבָ֡א]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Dedan  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H1719A\|דְדָן]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> de.don<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

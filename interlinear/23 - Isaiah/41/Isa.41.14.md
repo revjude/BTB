@@ -1,4 +1,4 @@
-**Isaiah 41:14** 
+**Isaiah 41:14**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear not, thou worm Jacob, [and] ye men of Israel; I will help thee, saith the LORD, and thy redeemer, the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declare
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.13|<< Isaiah 41:13]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.15|Isaiah 41:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be afraid  |**<big>&#8207;[[H3372G\|תִּֽירְאִי֙]]&#8207; </big>**| ti.re.'I<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

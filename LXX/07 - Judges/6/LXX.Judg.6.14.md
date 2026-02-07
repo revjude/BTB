@@ -1,10 +1,7 @@
 **LXX Judges 6:14** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> looked towards him, and said to him, Go in  this your strength! and you shall deliver  Israel. Behold, I send you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?
-<small><sub>**BSB:**</sub></small>
-The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.13|<< Judges 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.15|Judges 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

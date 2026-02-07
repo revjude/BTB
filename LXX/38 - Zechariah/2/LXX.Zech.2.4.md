@@ -1,10 +1,7 @@
 **LXX Zechariah 2:4** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Run and speak to  that young man! saying, Fruitfully shall Jerusalem be inhabited because of a multitude of men and cattle in \[the\] midst of her. 
-<small><sub>**KJV:**</sub></small>
-And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited [as] towns without walls for the multitude of men and cattle therein:
-<small><sub>**BSB:**</sub></small>
-and said to him, “Run and tell that young man: ‘Jerusalem will be a city without walls because of the multitude of men and livestock within it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.3|<< Zechariah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.5|Zechariah 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

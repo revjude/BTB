@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:46** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] hand of \[the\] <span class="smallcaps">lord</span> came upon  Elijah, and he fastened  his loin, and he ran in front of Ahab unto Jezreel. 
-<small><sub>**KJV:**</sub></small>
-And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.
-<small><sub>**BSB:**</sub></small>
-And the hand of the LORD came upon Elijah, and he tucked his cloak into his belt and ran ahead of Ahab all the way to Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.45|<< 1 Kings 18:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.1|1 Kings 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

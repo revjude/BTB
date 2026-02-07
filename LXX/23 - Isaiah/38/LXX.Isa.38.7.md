@@ -1,10 +1,7 @@
 **LXX Isaiah 38:7** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the sign to you from \[the\] <span class="smallcaps">lord</span>, that God will do  this thing which he said. 
-<small><sub>**KJV:**</sub></small>
-And this [shall be] a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;
-<small><sub>**BSB:**</sub></small>
-This will be a sign to you from the LORD that He will do what He has promised:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.6|<< Isaiah 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.8|Isaiah 38:8 >>]]</td></tr></table>
 
 | Translation | Greek |

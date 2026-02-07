@@ -1,4 +1,4 @@
-**Proverbs 14:14** 
+**Proverbs 14:14**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The backslider in heart shall be filled with his own ways: and a good man [shall be satisfied] from himself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The backslider in heart receives the fill of his own ways, but a good man is rew
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.13|<< Proverbs 14:13]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.15|Proverbs 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from ways his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1870G\|דְּרָכָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> de.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be satisfied  |**<big>&#8207;[[H7646\|יִ֭שְׂבַּע]]&#8207; </big>**| Yis.ba'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

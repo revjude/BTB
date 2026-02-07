@@ -1,10 +1,7 @@
 **LXX Psalm 73:18** 
 <small><sub>**LXX:**</sub></small>
 Besides, on account of  their deceits you appointed evils unto them; you threw them down in their being lifted up. 
-<small><sub>**KJV:**</sub></small>
-Surely thou didst set them in slippery places: thou castedst them down into destruction.
-<small><sub>**BSB:**</sub></small>
-Surely You set them on slick ground; You cast them down into ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.17|<< Psalm 73:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.19|Psalm 73:19 >>]]</td></tr></table>
 
 | Translation | Greek |

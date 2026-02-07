@@ -1,4 +1,4 @@
-**1 Samuel 2:20** 
+**1 Samuel 2:20**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Eli would bless Elkanah and his wife, saying, “May the LORD give you child
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.19|<< 1 Samuel 2:19]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.21|1 Samuel 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1288\|בֵרַ֨ךְ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ve.Rakh<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eli  |**<big>&#8207;[[H5941\|עֵלִ֜י]]&#8207; </big>**| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

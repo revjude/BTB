@@ -1,4 +1,4 @@
-**Ezra 6:1** 
+**Ezra 6:1**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus King Darius ordered a search of the archives stored in the treasury of Baby
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.17|<< Ezra 5:17]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.2|Ezra 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֛יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Darius  |**<big>&#8207;[[H1868G\|דָּרְיָ֥וֶשׁ]]&#8207; </big>**| da.re.Ya.vesh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

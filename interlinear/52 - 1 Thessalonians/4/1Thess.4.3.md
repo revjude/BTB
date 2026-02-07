@@ -1,12 +1,12 @@
-**1 Thessalonians 4:3
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:3**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this is the will of God, [even] your sanctification, that ye should abstain from fornication:
 <small><sub>**BSB:**</sub></small>
 For it is God’s will that you should be holy: You must abstain from sexual immorality;
 <small><sub>**Literal:**</sub></small>
 This for is [the] will <the> of God, the sanctification of you: To abstain you [are] from <the> sexual immorality;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.2|<< 1 Thessalonians 4:2]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.4|1 Thessalonians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

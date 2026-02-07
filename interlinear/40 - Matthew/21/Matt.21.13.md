@@ -1,5 +1,5 @@
-**Matthew 21:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:13**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”
@@ -10,7 +10,7 @@ And He says to them; It has been written: The house of Mine a house of prayer wi
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

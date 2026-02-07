@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Azariah slept with  his fathers. And they entombed him with  his fathers in \[the\] city of David. And his son Jotham reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Azariah rested with his fathers and was buried near them in the City of David. And his son Jotham reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.6|<< 2 Kings 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.8|2 Kings 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 10:3** 
+**Daniel 10:3**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I ate no rich food, no meat or wine entered my mouth, and I did not anoint mysel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | food of  |**<big>&#8207;[[H3899G\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | desirableness\<es>  |**<big>&#8207;[[H2532B\|חֲמֻד֞וֹת]]&#8207; </big>**| cha.mu.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

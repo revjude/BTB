@@ -1,10 +1,7 @@
 **LXX Leviticus 16:30** 
 <small><sub>**LXX:**</sub></small>
 For in  this day he shall atone for you, to cleanse you from all  your sins before \[the\] <span class="smallcaps">lord</span>, and you shall be cleansed. 
-<small><sub>**KJV:**</sub></small>
-For on that day shall [the priest] make an atonement for you, to cleanse you, [that] ye may be clean from all your sins before the LORD.
-<small><sub>**BSB:**</sub></small>
-because on this day atonement will be made for you to cleanse you, and you will be clean from all your sins before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.29|<< Leviticus 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.31|Leviticus 16:31 >>]]</td></tr></table>
 
 | Translation | Greek |

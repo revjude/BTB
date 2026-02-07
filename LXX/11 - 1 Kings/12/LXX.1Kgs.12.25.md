@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:25** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam built  Shechem  in mount Ephraim, and he dwelt in it. And he went forth from there and built  Penuel. 
-<small><sub>**KJV:**</sub></small>
-Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
-<small><sub>**BSB:**</sub></small>
-Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And from there he went out and built Penuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.24|<< 1 Kings 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.26|1 Kings 12:26 >>]]</td></tr></table>
 
 | Translation | Greek |

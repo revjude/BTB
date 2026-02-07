@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:3** 
 <small><sub>**LXX:**</sub></small>
 Speak and say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you, O Pharaoh king of Egypt, the great dragon, the one lying in wait in \[the\] midst  of his rivers. The one saying, The rivers are mine, and I made them. 
-<small><sub>**KJV:**</sub></small>
-Speak, and say, Thus saith the Lord GOD; Behold, I [am] against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river [is] mine own, and I have made [it] for myself.
-<small><sub>**BSB:**</sub></small>
-Speak to him and tell him that this is what the Lord GOD says: Behold, I am against you, O Pharaoh king of Egypt, O great monster who lies among his rivers, who says, ‘The Nile is mine; I made it myself.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.2|<< Ezekiel 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.4|Ezekiel 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

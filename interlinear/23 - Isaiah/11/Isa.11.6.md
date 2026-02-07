@@ -1,4 +1,4 @@
-**Isaiah 11:6** 
+**Isaiah 11:6**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wolf will live with the lamb, and the leopard will lie down with the goat; t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.5|<< Isaiah 11:5]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.7|Isaiah 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will sojourn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1481A\|גָ֤ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Gar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wolf  |**<big>&#8207;[[H2061\|זְאֵב֙]]&#8207; </big>**| ze.'Ev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the decease of Joshua, that the sons of Israel asked in \[the\] <span class="smallcaps">lord</span>, saying, Who shall ascend with us against the Canaanite guiding  to wage war against them. 
-<small><sub>**KJV:**</sub></small>
-Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
-<small><sub>**BSB:**</sub></small>
-After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.33|<< Joshua 24:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.2|Judges 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 98:9** 
+**Psalms 98:9**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ before the LORD, for He comes to judge the earth. He will judge the world with r
 > $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H6440G\|פְֽנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

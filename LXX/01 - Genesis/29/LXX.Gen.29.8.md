@@ -1,10 +1,7 @@
 **LXX Genesis 29:8** 
 <small><sub>**LXX:**</sub></small>
 And they said, We are not able until the coming together of all the shepherds, for they should roll away the stone from the mouth of the well, and we shall water the sheep. 
-<small><sub>**KJV:**</sub></small>
-And they said, We cannot, until all the flocks be gathered together, and [till] they roll the stone from the well’s mouth; then we water the sheep.
-<small><sub>**BSB:**</sub></small>
-But they replied, “We cannot, until all the flocks have been gathered and the stone has been rolled away from the mouth of the well. Then we will water the sheep.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.7|<< Genesis 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.9|Genesis 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

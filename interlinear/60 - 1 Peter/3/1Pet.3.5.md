@@ -1,12 +1,12 @@
-**1 Peter 3:5
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:5**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
 <small><sub>**BSB:**</sub></small>
 For this is how the holy women of the past adorned themselves. They put their hope in God and were submissive to their husbands,
 <small><sub>**Literal:**</sub></small>
 In this way for formerly also the holy women those hoping in <the> God were adorning themselves being subject <the> to [their] own husbands;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.4|<< 1 Peter 3:4]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.6|1 Peter 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In this way |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

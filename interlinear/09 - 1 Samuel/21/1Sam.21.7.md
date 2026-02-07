@@ -1,4 +1,4 @@
-**1 Samuel 21:7** (21:8)
+**1 Samuel 21:7**<big><big>[[1Sam.21.1 David Takes the Consecrated Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now a certain man of the servants of Saul [was] there that day, detained before the LORD; and his name [was] Doeg, an Edomite, the chiefest of the herdmen that [belonged] to Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now one of Saul’s servants was there that day, detained before the LORD. And h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.6|<< 1 Samuel 21:6]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.8|1 Samuel 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8033G\|שָׁ֡ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִישׁ֩]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

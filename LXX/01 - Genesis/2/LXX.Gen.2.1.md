@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the heaven and the earth were completed, and all the cosmos of them. 
-<small><sub>**KJV:**</sub></small>
-Thus the heavens and the earth were finished, and all the host of them.
-<small><sub>**BSB:**</sub></small>
-Thus the heavens and the earth were completed in all their vast array.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.31|<< Genesis 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.2|Genesis 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Hadad sent to him saying, Thus the gods do to me, and thus may they add, if the dust of Samaria shall suffice for the handful to all the people, \[to\] my footmen. 
-<small><sub>**KJV:**</sub></small>
-And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
-<small><sub>**BSB:**</sub></small>
-Then Ben-hadad sent another message to Ahab: “May the gods deal with me, and ever so severely, if enough dust remains of Samaria for each of my men to have a handful.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.9|<< 1 Kings 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.11|1 Kings 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

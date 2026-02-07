@@ -1,4 +1,4 @@
-**Genesis 42:6** 
+**Genesis 42:6**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph [was] the governor over the land, [and] he [it was] that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him [with] their faces to the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Joseph was the ruler of the land; he was the one who sold grain to all its p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.5|<< Genesis 42:5]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.7|Genesis 42:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joseph  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3130G\|יוֹסֵ֗ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֚וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

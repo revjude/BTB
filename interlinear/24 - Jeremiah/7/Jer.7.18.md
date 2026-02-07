@@ -1,4 +1,4 @@
-**Jeremiah 7:18** 
+**Jeremiah 7:18**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children gather wood, and the fathers kindle the fire, and the women knead [their] dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons gather wood, the fathers light the fire, and the women knead the dough 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.17|<< Jeremiah 7:17]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.19|Jeremiah 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the children  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1121A\|בָּנִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] gathering  |**<big>&#8207;[[H3950\|מְלַקְּטִ֣ים]]&#8207; </big>**| me.la.ke.Tim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

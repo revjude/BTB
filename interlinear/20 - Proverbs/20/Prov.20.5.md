@@ -1,4 +1,4 @@
-**Proverbs 20:5** 
+**Proverbs 20:5**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Counsel in the heart of man [is like] deep water; but a man of understanding will draw it out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The intentions of a man’s heart are deep waters, but a man of understanding dr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.4|<< Proverbs 20:4]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.6|Proverbs 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] water  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deep  |**<big>&#8207;[[H6013\|עֲ֭מֻקִּים]]&#8207; </big>**| 'A.mu.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

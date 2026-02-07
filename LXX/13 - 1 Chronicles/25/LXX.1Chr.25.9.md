@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:9** 
 <small><sub>**LXX:**</sub></small>
 And the first lot came forth  to Asaph  of Joseph; Gedeliah the second, he and  his brethren and his sons -- twelve. 
-<small><sub>**KJV:**</sub></small>
-Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons [were] twelve:
-<small><sub>**BSB:**</sub></small>
-The first lot, which was for Asaph, fell to Joseph, his sons, and his brothers—12 in all; the second to Gedaliah, his sons, and his brothers—12 in all;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.8|<< 1 Chronicles 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.10|1 Chronicles 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

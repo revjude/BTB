@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:10** 
 <small><sub>**LXX:**</sub></small>
 Go and speak to David! saying, Thus says \[the\] <span class="smallcaps">lord</span>, Three \[things\] I will take up upon you; choose for yourself one of them! and I will do \[it\] unto you. 
-<small><sub>**KJV:**</sub></small>
-Go and tell David, saying, Thus saith the LORD, I offer thee three [things]: choose thee one of them, that I may do [it] unto thee.
-<small><sub>**BSB:**</sub></small>
-“Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.9|<< 1 Chronicles 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.11|1 Chronicles 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

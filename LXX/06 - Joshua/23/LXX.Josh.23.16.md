@@ -1,10 +1,7 @@
 **LXX Joshua 23:16** 
 <small><sub>**LXX:**</sub></small>
 in  your violating the covenant of \[the\] <span class="smallcaps">lord</span>  your God, which he gave charge to you, and going you shall serve other gods, and shall do obeisance to them, and \[the\] <span class="smallcaps">lord</span> shall be provoked to anger in rage with you, and you shall perish  quickly from the good land which \[the\] <span class="smallcaps">lord</span> gave to you. 
-<small><sub>**KJV:**</sub></small>
-When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you.
-<small><sub>**BSB:**</sub></small>
-If you transgress the covenant of the LORD your God, which He commanded you, and go and serve other gods and bow down to them, then the anger of the LORD will burn against you, and you will quickly perish from this good land He has given you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.15|<< Joshua 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.1|Joshua 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

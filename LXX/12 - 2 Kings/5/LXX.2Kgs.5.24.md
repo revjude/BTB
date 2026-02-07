@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:24** 
 <small><sub>**LXX:**</sub></small>
 And he came to  a dark \[place\], and he took from  their hands, and he placed them in \[the\] house, and sent out the men, and they left. 
-<small><sub>**KJV:**</sub></small>
-And when he came to the tower, he took [them] from their hand, and bestowed [them] in the house: and he let the men go, and they departed.
-<small><sub>**BSB:**</sub></small>
-When Gehazi came to the hill, he took the gifts from the servants and stored them in the house. Then he dismissed the men, and they departed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.23|<< 2 Kings 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.25|2 Kings 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

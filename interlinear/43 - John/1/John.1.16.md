@@ -1,12 +1,12 @@
-**John 1:16
-**<small><sub>**KJV:**</sub></small>
+**John 1:16**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And of his fulness have all we received, and grace for grace.
 <small><sub>**BSB:**</sub></small>
 From His fullness we have all received grace upon grace.
 <small><sub>**Literal:**</sub></small>
 For from the fullness of Him we ourselves all have received then grace for grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.15|<< John 1:15]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.17|John 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For [^1] [^2] |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

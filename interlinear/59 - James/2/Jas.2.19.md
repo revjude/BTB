@@ -1,12 +1,12 @@
-**James 2:19
-**<small><sub>**KJV:**</sub></small>
+**James 2:19**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou believest that there is one God; thou doest well: the devils also believe, and tremble.
 <small><sub>**BSB:**</sub></small>
 You believe that God is one. Good for you! Even the demons believe that—and shudder.
 <small><sub>**Literal:**</sub></small>
 You yourself believe that one is <the> God; Well you are doing! Even the demons believe [that] and shudder!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.18|<< James 2:18]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.20|James 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | believe |**<big>[[G4100\|πιστεύεις]]</big>**  |pisteueis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

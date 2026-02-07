@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:19** 
 <small><sub>**LXX:**</sub></small>
 And  my zeal in fire  of my anger I spoke. Assuredly, in  that day there will be a great quake upon \[the\] land of Israel. 
-<small><sub>**KJV:**</sub></small>
-For in my jealousy [and] in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;
-<small><sub>**BSB:**</sub></small>
-In My zeal and fiery rage I proclaim that on that day there will be a great earthquake in the land of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.18|<< Ezekiel 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.20|Ezekiel 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

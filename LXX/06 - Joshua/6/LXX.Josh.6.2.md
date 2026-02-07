@@ -1,10 +1,7 @@
 **LXX Joshua 6:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, Behold, I deliver up to you Jericho to you under your hand, and  its king, the one in it, and the mighty ones in strength. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, [and] the mighty men of valour.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Joshua, “Behold, I have delivered Jericho into your hand, along with its king and its mighty men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.1|<< Joshua 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.3|Joshua 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

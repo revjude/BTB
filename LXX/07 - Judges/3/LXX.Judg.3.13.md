@@ -1,10 +1,7 @@
 **LXX Judges 3:13** 
 <small><sub>**LXX:**</sub></small>
 And he brought together to himself all the sons of Ammon and Amalek, and he went and struck  Israel, and inherited the city of the palms. 
-<small><sub>**KJV:**</sub></small>
-And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.
-<small><sub>**BSB:**</sub></small>
-After enlisting the Ammonites and Amalekites to join forces with him, Eglon attacked and defeated Israel, taking possession of the City of Palms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.12|<< Judges 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.14|Judges 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

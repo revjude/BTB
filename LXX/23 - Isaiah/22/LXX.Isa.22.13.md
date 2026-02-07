@@ -1,10 +1,7 @@
 **LXX Isaiah 22:13** 
 <small><sub>**LXX:**</sub></small>
 But they were making glad and leaping for joy, slaying calves, and sacrificing sheep so as to eat meat and to drink wine, saying, We should eat and drink, for tomorrow we die. 
-<small><sub>**KJV:**</sub></small>
-And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
-<small><sub>**BSB:**</sub></small>
-But look, there is joy and gladness, butchering of cattle and slaughtering of sheep, eating of meat and drinking of wine: “Let us eat and drink, for tomorrow we die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.12|<< Isaiah 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.14|Isaiah 22:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 22:13** is...

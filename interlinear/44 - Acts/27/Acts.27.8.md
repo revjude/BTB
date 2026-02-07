@@ -1,12 +1,12 @@
-**Acts 27:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:8**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city [of] Lasea.
 <small><sub>**BSB:**</sub></small>
 After we had moved along the coast with difficulty, we came to a place called Fair Havens, near the town of Lasea.
 <small><sub>**Literal:**</sub></small>
 With difficulty and coasting along it we came to a place certain being called Fair Havens, to which near [the] city was of Lasea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.7|<< Acts 27:7]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.9|Acts 27:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With difficulty |**<big>[[G3433\|μόλις]]</big>**  |molis <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

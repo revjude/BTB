@@ -1,10 +1,7 @@
 **LXX Isaiah 35:3** 
 <small><sub>**LXX:**</sub></small>
 Be strong! O hands being forsaken, and knees being disabled. 
-<small><sub>**KJV:**</sub></small>
-Strengthen ye the weak hands, and confirm the feeble knees.
-<small><sub>**BSB:**</sub></small>
-Strengthen the limp hands and steady the feeble knees!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.2|<< Isaiah 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.4|Isaiah 35:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 35:3** is...

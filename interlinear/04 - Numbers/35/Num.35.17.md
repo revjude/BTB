@@ -1,4 +1,4 @@
-**Numbers 35:17** 
+**Numbers 35:17**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he smite him with throwing a stone, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if anyone has in his hand a stone of deadly size, and he strikes and kills an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.16|<< Numbers 35:16]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.18|Numbers 35:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֡ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with a stone of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0068G\|אֶ֣בֶן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.ven<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

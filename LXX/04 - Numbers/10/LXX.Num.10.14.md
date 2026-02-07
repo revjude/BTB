@@ -1,10 +1,7 @@
 **LXX Numbers 10:14** 
 <small><sub>**LXX:**</sub></small>
 And they lifted away in order, \[the\] camp of \[the\] sons of Judah first with their force. And over  their force \[was\] Nahshon son of Amminadab. 
-<small><sub>**KJV:**</sub></small>
-In the first [place] went the standard of the camp of the children of Judah according to their armies: and over his host [was] Nahshon the son of Amminadab.
-<small><sub>**BSB:**</sub></small>
-First, the divisions of the camp of Judah set out under their standard, with Nahshon son of Amminadab in command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.13|<< Numbers 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.15|Numbers 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

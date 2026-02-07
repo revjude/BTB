@@ -1,10 +1,7 @@
 **LXX Job 20:13** 
 <small><sub>**LXX:**</sub></small>
 \[and\] he shall not spare it, and will not abandon it, but brings it in \[the\] midst  of his throat. 
-<small><sub>**KJV:**</sub></small>
-[Though] he spare it, and forsake it not; but keep it still within his mouth:
-<small><sub>**BSB:**</sub></small>
-though he cannot bear to let it go and keeps it in his mouth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.12|<< Job 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.14|Job 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 8:16** 
+**Zechariah 8:16**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ These are the things you must do: Speak truth to one another, render true and so
 > $\quad$ referenced by: [[Eph.4.25|Eph 4:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דְּבָרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 34:23** 
 <small><sub>**LXX:**</sub></small>
 For put not upon a man any longer. 
-<small><sub>**KJV:**</sub></small>
-For he will not lay upon man more [than right]; that he should enter into judgment with God.
-<small><sub>**BSB:**</sub></small>
-For God need not examine a man further or have him approach for judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.22|<< Job 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.24|Job 34:24 >>]]</td></tr></table>
 
 | Translation | Greek |

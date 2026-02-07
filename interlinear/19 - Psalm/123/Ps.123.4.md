@@ -1,4 +1,4 @@
-**Psalms 123:4** 
+**Psalms 123:4**<big><big>[[Ps.123.1 I Lift Up My Eyes to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our soul is exceedingly filled with the scorning of those that are at ease, [and] with the contempt of the proud.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have endured much scorn from the arrogant, much contempt from the proud.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.123.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.123.3|<< Psalms 123:3]]</td><td align="center" style="border:none;">[[Ps.123|Psalms 123]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124.0|Psalms 124:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | much  |**<big>&#8207;[[H7227A\|רַבַּת֮]]&#8207; </big>**| ra.Bat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been surfeited  |**<big>&#8207;[[H7646\|שָֽׂבְעָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sa.ve.'ah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:13** 
 <small><sub>**LXX:**</sub></small>
 there is not one judging your case; you were treated medically for a painful \[state\]; there is no benefit to you; 
-<small><sub>**KJV:**</sub></small>
-[There is] none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
-<small><sub>**BSB:**</sub></small>
-There is no one to plead your cause, no remedy for your sores, no recovery for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.12|<< Jeremiah 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.14|Jeremiah 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

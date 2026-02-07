@@ -1,4 +1,4 @@
-**1 Kings 15:23** 
+**1 Kings 15:23**<big><big>[[1Kgs.15.23 Jehoshaphat Succeeds Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, [are] they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the rest of the acts of Asa, along with all his might, all his accomplishmen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.22|<< 1 Kings 15:22]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.24|1 Kings 15:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֣תֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

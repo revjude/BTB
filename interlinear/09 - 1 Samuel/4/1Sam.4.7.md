@@ -1,4 +1,4 @@
-**1 Samuel 4:7** 
+**1 Samuel 4:7**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Philistines were afraid. “The gods have entered their camp!” they said. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.6|<< 1 Samuel 4:6]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.8|1 Samuel 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽרְאוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Philistines  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6430G\|פְּלִשְׁתִּ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

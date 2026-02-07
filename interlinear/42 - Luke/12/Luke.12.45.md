@@ -1,12 +1,12 @@
-**Luke 12:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:45**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;
 <small><sub>**BSB:**</sub></small>
 But suppose that servant says in his heart, ‘My master will be a long time in coming,’ and he begins to beat the menservants and maidservants, and to eat and drink and get drunk.
 <small><sub>**Literal:**</sub></small>
 If however shall say the servant that [one] in the heart of him; Delays the master of Me to come, and shall begin to beat the men-servants and the maid-servants to eat also and to drink and to get drunk,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.44|<< Luke 12:44]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.46|Luke 12:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

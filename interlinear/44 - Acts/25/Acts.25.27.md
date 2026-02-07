@@ -1,12 +1,12 @@
-**Acts 25:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:27**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes [laid] against him.
 <small><sub>**BSB:**</sub></small>
 For it seems unreasonable to me to send on a prisoner without specifying the charges against him.”
 <small><sub>**Literal:**</sub></small>
 Absurd for to me it seems [in] sending a prisoner not also the against him charges to specify.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.26|<< Acts 25:26]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.1|Acts 26:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Absurd |**<big>[[G0249\|ἄλογον]]</big>**  |alogon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

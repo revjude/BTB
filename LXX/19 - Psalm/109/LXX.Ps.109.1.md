@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O God  of my praise, you should not remain silent; 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. Hold not thy peace, O God of my praise;
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. O God of my praise, be not silent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.13|<< Psalm 108:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.2|Psalm 109:2 >>]]</td></tr></table>
 
 | Translation | Greek |

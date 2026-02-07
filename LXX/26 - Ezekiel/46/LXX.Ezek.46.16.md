@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God; If the one guiding shall give a gift to one of  his sons out of  his inheritance, this  shall be to his sons a possession by inheritance. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it [shall be] their possession by inheritance.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘If the prince gives a gift to any of his sons as an inheritance, it will belong to his descendants. It will become their property by inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.15|<< Ezekiel 46:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.17|Ezekiel 46:17 >>]]</td></tr></table>
 
 | Translation | Greek |

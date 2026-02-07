@@ -1,4 +1,4 @@
-**Joshua 7:12** 
+**Joshua 7:12**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the children of Israel could not stand before their enemies, [but] turned [their] backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is why the Israelites cannot stand against their enemies. They will turn th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.11|<< Joshua 7:11]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.13|Joshua 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are able  |**<big>&#8207;[[H3201\|יֻכְל֜וּ]]&#8207; </big>**| yukh.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

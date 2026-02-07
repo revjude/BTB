@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:16** 
 <small><sub>**LXX:**</sub></small>
 And Ishbi of Nob, who was among the progeny  of Rapha, and the weight  of his spear \[was\] three hundred shekels scale-weight of brass, and he being girded with a truncheon, even considered  to strike  David. 
-<small><sub>**KJV:**</sub></small>
-And Ishbibenob, which [was] of the sons of the giant, the weight of whose spear [weighed] three hundred [shekels] of brass in weight, he being girded with a new [sword], thought to have slain David.
-<small><sub>**BSB:**</sub></small>
-Then Ishbi-benob, a descendant of Rapha, whose bronze spear weighed three hundred shekels and who was bearing a new sword, resolved to kill David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.15|<< 2 Samuel 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.17|2 Samuel 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

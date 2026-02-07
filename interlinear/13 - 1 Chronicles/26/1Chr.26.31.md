@@ -1,4 +1,4 @@
-**1 Chronicles 26:31** 
+**1 Chronicles 26:31**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the Hebronites [was] Jerijah the chief, [even] among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the Hebronites, Jerijah was the chief of the Hebronites, according to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the Hebronite[s]  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H2276\|חֶבְרוֹנִי֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> chev.ro.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeriah  |**<big>&#8207;[[H3404H\|יְרִיָּ֣ה]]&#8207; </big>**| ye.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

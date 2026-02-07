@@ -1,4 +1,4 @@
-**Proverbs 17:1** 
+**Proverbs 17:1**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] a dry morsel, and quietness therewith, than an house full of sacrifices [with] strife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better a dry morsel in quietness than a house full of feasting with strife.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.33|<< Proverbs 16:33]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.2|Proverbs 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a morsel  |**<big>&#8207;[[H6595A\|פַּ֣ת]]&#8207; </big>**| pat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

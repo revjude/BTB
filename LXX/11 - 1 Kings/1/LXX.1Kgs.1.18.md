@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:18** 
 <small><sub>**LXX:**</sub></small>
 And now behold, Adonijah reigns; and you, O my master, O king, do not know. 
-<small><sub>**KJV:**</sub></small>
-And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest [it] not:
-<small><sub>**BSB:**</sub></small>
-But now, behold, Adonijah has become king, and you, my lord the king, do not know it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.17|<< 1 Kings 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.19|1 Kings 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

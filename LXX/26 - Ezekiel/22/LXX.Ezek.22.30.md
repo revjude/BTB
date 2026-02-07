@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:30** 
 <small><sub>**LXX:**</sub></small>
 And I sought of them a man behaving rightly, and standing before my face soundly in the time of the anger, so as to not wipe her away unto \[the\] end -- but I did not find. 
-<small><sub>**KJV:**</sub></small>
-And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
-<small><sub>**BSB:**</sub></small>
-I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.29|<< Ezekiel 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.31|Ezekiel 22:31 >>]]</td></tr></table>
 
 | Translation | Greek |

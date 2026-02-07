@@ -1,4 +1,4 @@
-**Job 24:10** 
+**Job 24:10**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They cause [him] to go naked without clothing, and they take away the sheaf [from] the hungry;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Without clothing, they wander about naked. They carry the sheaves, but still go 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.9|<< Job 24:9]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.11|Job 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | naked  |**<big>&#8207;[[H6174\|עָר֣וֹם]]&#8207; </big>**| a.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they go about  |**<big>&#8207;[[H1980G\|הִ֭לְּכוּ]]&#8207; </big>**| Hi.le.khu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

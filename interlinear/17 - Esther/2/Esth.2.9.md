@@ -1,4 +1,4 @@
-**Esther 2:9** 
+**Esther 2:9**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, [which were] meet to be given her, out of the king’s house: and he preferred her and her maids unto the best [place] of the house of the women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the young woman pleased him and obtained his favor, so he quickly provided h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.8|<< Esther 2:8]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.10|Esther 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she was good  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3190\|תִּיטַ֨ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Tav<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the young woman  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

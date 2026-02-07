@@ -1,10 +1,7 @@
 **LXX Proverbs 22:10** 
 <small><sub>**LXX:**</sub></small>
 Cast out from \[the\] sanhedrin \[the\] mischievous one! and altercation shall go out together with him. For whenever he sits in \[the\] sanhedrin he dishonors all. 
-<small><sub>**KJV:**</sub></small>
-Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.
-<small><sub>**BSB:**</sub></small>
-Drive out the mocker, and conflict will depart; even quarreling and insults will cease.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.9|<< Proverbs 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.11|Proverbs 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

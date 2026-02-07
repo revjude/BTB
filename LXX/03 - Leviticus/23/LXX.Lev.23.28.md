@@ -1,10 +1,7 @@
 **LXX Leviticus 23:28** 
 <small><sub>**LXX:**</sub></small>
 All work you shall not do in it, \[in\] this day; for this is to you a day of making an atonement; to atone for you before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And ye shall do no work in that same day: for it [is] a day of atonement, to make an atonement for you before the LORD your God.
-<small><sub>**BSB:**</sub></small>
-On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.27|<< Leviticus 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.29|Leviticus 23:29 >>]]</td></tr></table>
 
 | Translation | Greek |

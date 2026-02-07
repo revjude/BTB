@@ -1,12 +1,12 @@
-**1 Corinthians 2:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:5**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That your faith should not stand in the wisdom of men, but in the power of God.
 <small><sub>**BSB:**</sub></small>
 so that your faith would not rest on men’s wisdom, but on God’s power.
 <small><sub>**Literal:**</sub></small>
 so that the faith of you not may be in wisdom of men but in power of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.4|<< 1 Corinthians 2:4]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.6|1 Corinthians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

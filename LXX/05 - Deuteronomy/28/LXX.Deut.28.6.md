@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:6** 
 <small><sub>**LXX:**</sub></small>
 Being blessed \[are\] you in  your entering, and being blessed \[are\] you in  your going forth. 
-<small><sub>**KJV:**</sub></small>
-Blessed [shalt] thou [be] when thou comest in, and blessed [shalt] thou [be] when thou goest out.
-<small><sub>**BSB:**</sub></small>
-You will be blessed when you come in and blessed when you go out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.5|<< Deuteronomy 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.7|Deuteronomy 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

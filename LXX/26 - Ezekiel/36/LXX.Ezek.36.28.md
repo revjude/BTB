@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall dwell upon the land which I gave \[to\] your fathers; and you will be to me for a people, and I will be to you for God. 
-<small><sub>**KJV:**</sub></small>
-And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.
-<small><sub>**BSB:**</sub></small>
-Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.27|<< Ezekiel 36:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.29|Ezekiel 36:29 >>]]</td></tr></table>
 
 | Translation | Greek |

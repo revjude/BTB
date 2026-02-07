@@ -1,4 +1,4 @@
-**Proverbs 31:29** 
+**Proverbs 31:29**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many daughters have done virtuously, but thou excellest them all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many daughters have done virtuously, but thou excellest them all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.28|<< Proverbs 31:28]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.30|Proverbs 31:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many  |**<big>&#8207;[[H7227A\|רַבּ֣וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | daughters  |**<big>&#8207;[[H1323G\|בָּ֭נוֹת]]&#8207; </big>**| Ba.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

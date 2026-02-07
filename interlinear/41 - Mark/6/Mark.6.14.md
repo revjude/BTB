@@ -1,12 +1,12 @@
-**Mark 6:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:14**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And king Herod heard [of him]; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.
 <small><sub>**BSB:**</sub></small>
 Now King Herod heard about this, for Jesus’ name had become well known, and people were saying, “John the Baptist has risen from the dead! That is why miraculous powers are at work in him.”
 <small><sub>**Literal:**</sub></small>
 And heard <the> King Herod; well known for became the name of Him. And they were saying that John the [one] baptizing he has been raised out from [the] dead and because of this operate the miraculous powers in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.13|<< Mark 6:13]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.15|Mark 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heard |**<big>[[G0191\|ἤκουσεν]]</big>**  |ēkousen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

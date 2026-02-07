@@ -1,4 +1,4 @@
-**Ezekiel 34:16** 
+**Ezekiel 34:16**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will seek that which was lost, and bring again that which was driven away, and will bind up [that which was] broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will seek the lost, bring back the strays, bind up the broken, and strengthen 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.15|<< Ezekiel 34:15]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.17|Ezekiel 34:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lost [one]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0006\|אֹבֶ֤דֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Ve.det<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

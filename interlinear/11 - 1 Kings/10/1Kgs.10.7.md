@@ -1,4 +1,4 @@
-**1 Kings 10:7** 
+**1 Kings 10:7**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I believed not the words, until I came, and mine eyes had seen [it]: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I did not believe these things until I came and saw with my own eyes. Indeed
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.6|<< 1 Kings 10:6]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.8|1 Kings 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I believed  |**<big>&#8207;[[H0539\|הֶאֱמַ֣נְתִּי]]&#8207; </big>**| he.'e.Man.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

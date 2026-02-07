@@ -1,4 +1,4 @@
-**Exodus 22:9** (22:8)
+**Exodus 22:9**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all manner of trespass, [whether it be] for ox, for ass, for sheep, for raiment, [or] for any manner of lost thing, which [another] challengeth to be his, the cause of both parties shall come before the judges; [and] whom the judges shall condemn, he shall pay double unto his neighbour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.8|<< Exodus 22:8]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.10|Exodus 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

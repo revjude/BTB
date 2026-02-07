@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:23** 
 <small><sub>**LXX:**</sub></small>
 And I besought \[the\] <span class="smallcaps">lord</span> in  that time, saying, 
-<small><sub>**KJV:**</sub></small>
-And I besought the LORD at that time, saying,
-<small><sub>**BSB:**</sub></small>
-At that time I also pleaded with the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.22|<< Deuteronomy 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.24|Deuteronomy 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

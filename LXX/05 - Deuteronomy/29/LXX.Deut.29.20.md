@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:20** 
 <small><sub>**LXX:**</sub></small>
 in no way should God want to propitiate for him, but then \[the\] anger \[of the\] <span class="smallcaps">lord</span> shall be burned away, and  his zeal against  that man. Then shall cleave to him all the imprecations  of this covenant, the ones being written in  this scroll of the law. And \[the\] <span class="smallcaps">lord</span> will wipe away  his name from  under  heaven. 
-<small><sub>**KJV:**</sub></small>
-The LORD will not spare him, but then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the LORD shall blot out his name from under heaven.
-<small><sub>**BSB:**</sub></small>
-The LORD will never be willing to forgive him. Instead, His anger and jealousy will burn against that man, and every curse written in this book will fall upon him. The LORD will blot out his name from under heaven<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.19|<< Deuteronomy 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.21|Deuteronomy 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

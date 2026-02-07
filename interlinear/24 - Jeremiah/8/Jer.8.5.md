@@ -1,4 +1,4 @@
-**Jeremiah 8:5** 
+**Jeremiah 8:5**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why [then] is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why then have these people turned away? Why does Jerusalem always turn away? The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.4|<< Jeremiah 8:4]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.6|Jeremiah 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֨וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has it turned away  |**<big>&#8207;[[H7725I\|שׁוֹבְבָ֜ה]]&#8207; </big>**| sho.Vah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 26:19** 
+**Genesis 26:19**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac’s servants digged in the valley, and found there a well of springing water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Isaac’s servants dug in the valley and found a well of fresh water there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.18|<< Genesis 26:18]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.20|Genesis 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dug  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2658\|יַּחְפְּר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.pe.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'av.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

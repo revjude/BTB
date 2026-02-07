@@ -1,10 +1,7 @@
 **LXX Leviticus 14:9** 
 <small><sub>**LXX:**</sub></small>
 And it will be on the seventh day, he shall shave all  of his hair, the \[hair\] of his head, and the beard, and the brows; even all  his hair he shall shave. And he shall wash  his garments, and shall bathe  his body in water, and he shall be clean. 
-<small><sub>**KJV:**</sub></small>
-But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
-<small><sub>**BSB:**</sub></small>
-On the seventh day he must shave off all his hair—his head, his beard, his eyebrows, and the rest of his hair. He must wash his clothes and bathe himself with water, and he will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.8|<< Leviticus 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.10|Leviticus 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

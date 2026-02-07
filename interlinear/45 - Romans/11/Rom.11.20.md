@@ -1,12 +1,12 @@
-**Romans 11:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:20**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:
 <small><sub>**BSB:**</sub></small>
 That is correct: They were broken off because of unbelief, but you stand by faith. Do not be arrogant, but be afraid.
 <small><sub>**Literal:**</sub></small>
 Rightly so; by the unbelief they were broken off, you yourself however <the> by faith have stood. Not high do be minded but do be afraid;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.19|<< Romans 11:19]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.21|Romans 11:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rightly so; |**<big>[[G2573\|καλῶς·]]</big>**  |kalōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

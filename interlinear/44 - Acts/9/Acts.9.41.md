@@ -1,12 +1,12 @@
-**Acts 9:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:41**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he gave her [his] hand, and lifted her up, and when he had called the saints and widows, presented her alive.
 <small><sub>**BSB:**</sub></small>
 Peter took her by the hand and helped her up. Then he called the saints and widows and presented her to them alive.
 <small><sub>**Literal:**</sub></small>
 Having given then to her [his] hand he raised up her; Having called then the saints and the widows he presented her living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.40|<< Acts 9:40]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.42|Acts 9:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having given |**<big>[[G1325\|δοὺς]]</big>**  |dous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

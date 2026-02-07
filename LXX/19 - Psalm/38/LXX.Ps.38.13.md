@@ -1,10 +1,7 @@
 **LXX Psalm 38:13** 
 <small><sub>**LXX:**</sub></small>
 But I, as a deaf-mute, did not hear; and \[was\] as one speechless not opening  his mouth. 
-<small><sub>**KJV:**</sub></small>
-But I, as a deaf [man], heard not; and [I was] as a dumb man [that] openeth not his mouth.
-<small><sub>**BSB:**</sub></small>
-But like a deaf man, I do not hear; and like a mute man, I do not open my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.12|<< Psalm 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.14|Psalm 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

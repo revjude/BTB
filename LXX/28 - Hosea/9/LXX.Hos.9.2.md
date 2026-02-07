@@ -1,10 +1,7 @@
 **LXX Hosea 9:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] threshing-floor and wine vat did not know them, and the wine lied to them. 
-<small><sub>**KJV:**</sub></small>
-The floor and the winepress shall not feed them, and the new wine shall fail in her.
-<small><sub>**BSB:**</sub></small>
-The threshing floor and winepress will not feed them, and the new wine will fail them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.1|<< Hosea 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.3|Hosea 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

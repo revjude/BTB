@@ -1,10 +1,7 @@
 **LXX Proverbs 22:12** 
 <small><sub>**LXX:**</sub></small>
 But the eyes of \[the\] <span class="smallcaps">lord</span> carefully keep good sense; but he treats as worthless \[the\] words of a lawbreaker. 
-<small><sub>**KJV:**</sub></small>
-The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.
-<small><sub>**BSB:**</sub></small>
-The LORD’s eyes keep watch over knowledge, but He frustrates the words of the faithless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.11|<< Proverbs 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.13|Proverbs 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

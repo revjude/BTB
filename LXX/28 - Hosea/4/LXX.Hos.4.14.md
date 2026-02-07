@@ -1,10 +1,7 @@
 **LXX Hosea 4:14** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall I pay a visit unto  your daughters whenever they should commit harlotry, nor unto  your daughters-in-law whenever they should commit adultery. For they themselves blended together with the harlots, and were sacrificed with the ones initiating \[rites\]. And the people not perceiving closely joined with \[the\] harlot. 
-<small><sub>**KJV:**</sub></small>
-I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people [that] doth not understand shall fall.
-<small><sub>**BSB:**</sub></small>
-I will not punish your daughters when they prostitute themselves, nor your daughters-in-law when they commit adultery. For the men themselves go off with prostitutes and offer sacrifices with shrine prostitutes. So a people without understanding will come to ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.13|<< Hosea 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.15|Hosea 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

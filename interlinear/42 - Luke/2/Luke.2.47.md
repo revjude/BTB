@@ -1,12 +1,12 @@
-**Luke 2:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:47**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all that heard him were astonished at his understanding and answers.
 <small><sub>**BSB:**</sub></small>
 And all who heard Him were astounded at His understanding and His answers.
 <small><sub>**Literal:**</sub></small>
 Were amazed then all those hearing Him at the understanding and at the answers of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.46|<< Luke 2:46]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.48|Luke 2:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were amazed |**<big>[[G1839\|ἐξίσταντο]]</big>**  |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

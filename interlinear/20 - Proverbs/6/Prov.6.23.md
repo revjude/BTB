@@ -1,4 +1,4 @@
-**Proverbs 6:23** 
+**Proverbs 6:23**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the commandment [is] a lamp; and the law [is] light; and reproofs of instruction [are] the way of life:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For this commandment is a lamp, this teaching is a light, and the reproofs of di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.22|<< Proverbs 6:22]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.24|Proverbs 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a lamp  |**<big>&#8207;[[H5216A\|נֵ֣ר]]&#8207; </big>**| ner<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

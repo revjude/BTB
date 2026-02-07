@@ -1,12 +1,12 @@
-**Acts 18:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:10**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
 <small><sub>**BSB:**</sub></small>
 For I am with you and no one will lay a hand on you, because I have many people in this city.”
 <small><sub>**Literal:**</sub></small>
 because I myself am with you, and no [one] will lay a hand on you <the> to harm you; because people there is to me many in <the> city this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.9|<< Acts 18:9]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.11|Acts 18:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγώ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

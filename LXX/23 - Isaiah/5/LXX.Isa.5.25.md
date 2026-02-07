@@ -1,10 +1,7 @@
 **LXX Isaiah 5:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> of Hosts was enraged in anger against  his people. And he put  a hand against them, and he struck them. And the mountains were provoked, and their decaying flesh became as dung in \[the\] midst of \[the\] way. And in all these his rage was not turned, but still  his hand \[is\] high. 
-<small><sub>**KJV:**</sub></small>
-Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases [were] torn in the midst of the streets. For all this his anger is not turned away, but his hand [is] stretched out still.
-<small><sub>**BSB:**</sub></small>
-Therefore the anger of the LORD burns against His people; His hand is raised against them to strike them down. The mountains quake, and the corpses lie like refuse in the streets. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.24|<< Isaiah 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.26|Isaiah 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

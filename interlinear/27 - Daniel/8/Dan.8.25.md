@@ -1,4 +1,4 @@
-**Daniel 8:25** 
+**Daniel 8:25**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And through his policy also he shall cause craft to prosper in his hand; and he shall magnify [himself] in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Through his craft and by his hand, he will cause deceit to prosper, and in his o
 > $\quad$ referenced by: [[Rev.17.14|Rev 17:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | insight his  |**<big>&#8207;[[H7922\|שִׂכְל֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| sikh.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

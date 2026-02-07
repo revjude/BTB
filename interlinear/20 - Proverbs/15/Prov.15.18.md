@@ -1,4 +1,4 @@
-**Proverbs 15:18** 
+**Proverbs 15:18**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wrathful man stirreth up strife: but [he that is] slow to anger appeaseth strife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A hot-tempered man stirs up strife, but he who is slow to anger calms dispute.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.17|<< Proverbs 15:17]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.19|Proverbs 15:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage  |**<big>&#8207;[[H2534\|חֵ֭מָה]]&#8207; </big>**| Che.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

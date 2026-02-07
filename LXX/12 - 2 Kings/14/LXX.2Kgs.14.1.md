@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] second year of Joash son of Jehoahaz king of Israel,  Amaziah son of Joash king of Judah reigned. 
-<small><sub>**KJV:**</sub></small>
-In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
-<small><sub>**BSB:**</sub></small>
-In the second year of the reign of Jehoash son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.25|<< 2 Kings 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.2|2 Kings 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

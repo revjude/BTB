@@ -1,12 +1,12 @@
-**Luke 7:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:7**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.
 <small><sub>**BSB:**</sub></small>
 That is why I did not consider myself worthy to come to You. But just say the word, and my servant will be healed.
 <small><sub>**Literal:**</sub></small>
 therefore neither myself counted I worthy to You to come. but do say a word, and let be healed the servant of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.6|<< Luke 7:6]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.8|Luke 7:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | neither |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

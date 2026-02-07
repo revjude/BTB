@@ -1,10 +1,7 @@
 **LXX Psalm 119:68** 
 <small><sub>**LXX:**</sub></small>
 You are gracious, O <span class="smallcaps">lord</span>; and in  your graciousness teach me  your ordinances! 
-<small><sub>**KJV:**</sub></small>
-Thou [art] good, and doest good; teach me thy statutes.
-<small><sub>**BSB:**</sub></small>
-You are good, and You do what is good; teach me Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.67|<< Psalm 119:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.69|Psalm 119:69 >>]]</td></tr></table>
 
 | Translation | Greek |

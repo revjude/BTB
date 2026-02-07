@@ -1,4 +1,4 @@
-**1 Kings 2:20** 
+**1 Kings 2:20**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she said, I desire one small petition of thee; [I pray thee], say me not nay. And the king said unto her, Ask on, my mother: for I will not say thee nay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she said, I desire one small petition of thee; [I pray thee], say me not na
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.19|<< 1 Kings 2:19]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.21|1 Kings 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֗אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a petition  |**<big>&#8207;[[H7596\|שְׁאֵלָ֨ה]]&#8207; </big>**| she.'e.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

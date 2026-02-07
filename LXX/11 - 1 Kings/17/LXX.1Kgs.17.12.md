@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:12** 
 <small><sub>**LXX:**</sub></small>
 And the woman said, \[the\] <span class="smallcaps">lord</span> your God lives, If there is to me a cake baked in hot ashes -- \[good\]? but \[I have\] only as much as a handful of flour in the pitcher, and a little olive oil in the jar. And behold, I shall collected together two sticks, and I shall enter and make it for myself and  my children, and we shall eat and die. 
-<small><sub>**KJV:**</sub></small>
-And she said, [As] the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I [am] gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.
-<small><sub>**BSB:**</sub></small>
-But she replied, “As surely as the LORD your God lives, I have no bread—only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks to take home and prepare a meal for myself and my son, so that we may eat it and die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.11|<< 1 Kings 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.13|1 Kings 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

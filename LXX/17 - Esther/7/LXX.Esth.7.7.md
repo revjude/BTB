@@ -1,10 +1,7 @@
 **LXX Esther 7:7** 
 <small><sub>**LXX:**</sub></small>
 And the king rose up from the party \[to go\] into the garden.  And Haman appealed to the queen, for he saw himself being in evils. 
-<small><sub>**KJV:**</sub></small>
-And the king arising from the banquet of wine in his wrath [went] into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
-<small><sub>**BSB:**</sub></small>
-In his fury, the king arose from drinking his wine and went to the palace garden, while Haman stayed behind to beg Queen Esther for his life, for he realized that the king was planning a terrible fate for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.6|<< Esther 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.8|Esther 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

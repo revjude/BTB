@@ -1,4 +1,4 @@
-**Ezekiel 16:16** 
+**Ezekiel 16:16**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: [the like things] shall not come, neither shall it be [so].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You took some of your garments and made colorful high places for yourself, and o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.15|<< Ezekiel 16:15]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.17|Ezekiel 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקְחִ֣י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Chi<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of clothes your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0899B\|בְּגָדַ֗יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.ga.Da.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

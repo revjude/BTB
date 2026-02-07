@@ -1,4 +1,4 @@
-**Ezekiel 23:47** 
+**Ezekiel 23:47**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the company shall stone them with stones, and dispatch them with their swords; they shall slay their sons and their daughters, and burn up their houses with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mob will stone them and cut them down with their swords. They will kill thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.46|<< Ezekiel 23:46]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.48|Ezekiel 23:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stone  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7275\|רָגְמ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.ge.Mu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9039\|הֶ֥ן]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

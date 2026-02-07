@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:11** 
 <small><sub>**LXX:**</sub></small>
 yet they will be among  my holy ones ministering as doorkeepers at the gates of the house, and ministering in the house. These shall slay the whole burnt-offerings and the sacrifices \[for\] the people; and these shall stand before the people  to minister to them. 
-<small><sub>**KJV:**</sub></small>
-Yet they shall be ministers in my sanctuary, [having] charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister unto them.
-<small><sub>**BSB:**</sub></small>
-Yet they shall be ministers in My sanctuary, having charge of the gates of the temple and ministering there. They shall slaughter the burnt offerings and other sacrifices for the people and stand before them to minister to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.10|<< Ezekiel 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.12|Ezekiel 44:12 >>]]</td></tr></table>
 
 | Translation | Greek |

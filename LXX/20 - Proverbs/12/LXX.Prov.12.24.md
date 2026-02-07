@@ -1,10 +1,7 @@
 **LXX Proverbs 12:24** 
 <small><sub>**LXX:**</sub></small>
 \[The\] hand of chosen men shall prevail easily; but \[the\] deceitful will be for plunder. 
-<small><sub>**KJV:**</sub></small>
-The hand of the diligent shall bear rule: but the slothful shall be under tribute.
-<small><sub>**BSB:**</sub></small>
-The hand of the diligent will rule, but laziness ends in forced labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.23|<< Proverbs 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.25|Proverbs 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

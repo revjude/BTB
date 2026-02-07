@@ -1,4 +1,4 @@
-**Leviticus 19:29** 
+**Leviticus 19:29**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not defile your daughter by making her a prostitute, or the land will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.28|<< Leviticus 19:28]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.30|Leviticus 19:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you profane  |**<big>&#8207;[[H2490H\|תְּחַלֵּ֥ל]]&#8207; </big>**| te.cha.Lel<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

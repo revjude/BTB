@@ -1,12 +1,12 @@
-**2 Timothy 4:8
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:8**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.
 <small><sub>**BSB:**</sub></small>
 From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but to all who crave His appearing.
 <small><sub>**Literal:**</sub></small>
 From now on is laid up for me the <the> of righteousness crown which will award to me the Lord in that [very] <the> day, the righteous judge; not only however to me myself, but also to all those already loving the appearing of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.7|<< 2 Timothy 4:7]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.9|2 Timothy 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From now on |**<big>[[G3063\|λοιπὸν]]</big>**  |loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is laid up |**<big>[[G0606\|ἀπόκειταί]]</big>**  |apokeitai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

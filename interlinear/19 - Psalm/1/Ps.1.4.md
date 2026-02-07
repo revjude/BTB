@@ -1,4 +1,4 @@
-**Psalms 1:4** 
+**Psalms 1:4**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ungodly [are] not so: but [are] like the chaff which the wind driveth away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Not so the wicked! For they are like chaff driven off by the wind.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.3|<< Psalms 1:3]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.5|Psalms 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] so  |**<big>&#8207;[[H3651C\|כֵ֥ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

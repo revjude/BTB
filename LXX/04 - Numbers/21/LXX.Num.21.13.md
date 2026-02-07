@@ -1,10 +1,7 @@
 **LXX Numbers 21:13** 
 <small><sub>**LXX:**</sub></small>
 From there departing they camped in the other side of Arnon, in the wilderness  protruding from the borders of the Amorites. For Arnon is \[the\] boundary of Moab between Moab and the Amorite. 
-<small><sub>**KJV:**</sub></small>
-From thence they removed, and pitched on the other side of Arnon, which [is] in the wilderness that cometh out of the coasts of the Amorites: for Arnon [is] the border of Moab, between Moab and the Amorites.
-<small><sub>**BSB:**</sub></small>
-From there they moved on and camped on the other side of the Arnon, in the wilderness that extends into the Amorite territory. Now the Arnon is the border between the Moabites and the Amorites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.12|<< Numbers 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.14|Numbers 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

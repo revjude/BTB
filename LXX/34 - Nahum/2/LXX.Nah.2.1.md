@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 He is finished, he is consumed, \[the\] one being lifted away from out of affliction ascended breathing in your face. Watch \[the\] way! Hold \[the\] loin! very manly \[in\] strength! 
-<small><sub>**KJV:**</sub></small>
-He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make [thy] loins strong, fortify [thy] power mightily.
-<small><sub>**BSB:**</sub></small>
-One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.15|<< Nahum 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.2|Nahum 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

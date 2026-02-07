@@ -1,4 +1,4 @@
-**2 Samuel 18:27** 
+**2 Samuel 18:27**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He [is] a good man, and cometh with good tidings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The watchman said, “The first man appears to me to be running like Ahimaaz son
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.26|<< 2 Samuel 18:26]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.28|2 Samuel 18:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the watchman  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6822\|צֹּפֶ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzo.Peh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

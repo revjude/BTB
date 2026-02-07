@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΓΙΜΕΛ</p>
 
 And indeed, dragons stripped \[the\] breasts, they nursed their cubs; \[the\] daughters of my people \[were\] for irretrievability as a sparrow in \[the\] wilderness. 
-<small><sub>**KJV:**</sub></small>
-Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people [is become] cruel, like the ostriches in the wilderness.
-<small><sub>**BSB:**</sub></small>
-Even jackals offer their breasts to nurse their young, but the daughter of my people has become cruel, like an ostrich in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.2|<< Lamentations 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.4|Lamentations 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

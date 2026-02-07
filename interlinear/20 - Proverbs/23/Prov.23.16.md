@@ -1,4 +1,4 @@
-**Proverbs 23:16** 
+**Proverbs 23:16**<big><big>[[Prov.23.15 Saying 14|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, my reins shall rejoice, when thy lips speak right things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My inmost being will rejoice when your lips speak what is right.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.15|<< Proverbs 23:15]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.17|Proverbs 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5937\|תַעְלֹ֥זְנָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta'.Lo.ze.nah<small><sup>[[HVqu3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kidneys my  |**<big>&#8207;[[H3629\|כִלְיוֹתָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| khil.yo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

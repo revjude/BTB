@@ -1,4 +1,4 @@
-**Deuteronomy 4:32** 
+**Deuteronomy 4:32**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and [ask] from the one side of heaven unto the other, whether there hath been [any such thing] as this great thing [is], or hath been heard like it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, ask now from one end of the heavens to the other about the days that lon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.31|<< Deuteronomy 4:31]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.33|Deuteronomy 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ask  |**<big>&#8207;[[H7592\|שְׁאַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.'al-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

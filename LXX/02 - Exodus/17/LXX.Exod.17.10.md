@@ -1,10 +1,7 @@
 **LXX Exodus 17:10** 
 <small><sub>**LXX:**</sub></small>
 And Joshua did as Moses told to him. And going forth he deployed against  Amalek. And Moses and Aaron and Hur ascended upon the top of the hill. 
-<small><sub>**KJV:**</sub></small>
-So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
-<small><sub>**BSB:**</sub></small>
-Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.9|<< Exodus 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.11|Exodus 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

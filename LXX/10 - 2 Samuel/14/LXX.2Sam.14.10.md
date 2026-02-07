@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:10** 
 <small><sub>**LXX:**</sub></small>
 And the king said, The one speaking to you a word, lead him to me! and in no way shall anyone proceed yet to touch you. 
-<small><sub>**KJV:**</sub></small>
-And the king said, Whosoever saith [ought] unto thee, bring him to me, and he shall not touch thee any more.
-<small><sub>**BSB:**</sub></small>
-“If anyone speaks to you,” said the king, “bring him to me, and he will not trouble you again!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.9|<< 2 Samuel 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.11|2 Samuel 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

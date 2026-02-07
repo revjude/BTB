@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:16** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to the member of his family, By reporting he reported to me that the donkeys were found. But the matter of the kingdom, he did not report to him, what Samuel said. 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spake, he told him not.
-<small><sub>**BSB:**</sub></small>
-And Saul replied, “He assured us that the donkeys had been found.” But Saul did not tell his uncle what Samuel had said about the kingship.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.15|<< 1 Samuel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.17|1 Samuel 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

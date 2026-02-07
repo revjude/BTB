@@ -1,10 +1,7 @@
 **LXX Numbers 24:11** 
 <small><sub>**LXX:**</sub></small>
 Now then, flee unto  your place! I said I will esteem you, but now \[the\] <span class="smallcaps">lord</span> deprived you of the glory. 
-<small><sub>**KJV:**</sub></small>
-Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour.
-<small><sub>**BSB:**</sub></small>
-Therefore, flee at once to your home! I said I would reward you richly, but instead the LORD has denied your reward.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.10|<< Numbers 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.12|Numbers 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

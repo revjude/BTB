@@ -1,4 +1,4 @@
-**Genesis 41:34** 
+**Genesis 41:34**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Pharaoh do [this], and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let Pharaoh take action and appoint commissioners over the land to take a fifth 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.33|<< Genesis 41:33]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.35|Genesis 41:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him act  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֣ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547H\|פַרְעֹ֔ה]]&#8207; </big>**| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

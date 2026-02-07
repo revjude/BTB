@@ -1,4 +1,4 @@
-**2 Kings 12:14** (12:15)
+**2 Kings 12:14**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they gave that to the workmen, and repaired therewith the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, it was paid to those doing the work, and with it they repaired the hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.13|<< 2 Kings 12:13]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.15|2 Kings 12:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] doers of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6213J\|עֹשֵׂ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

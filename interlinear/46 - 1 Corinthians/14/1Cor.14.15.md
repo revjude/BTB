@@ -1,12 +1,12 @@
-**1 Corinthians 14:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:15**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
 <small><sub>**BSB:**</sub></small>
 What then shall I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind.
 <small><sub>**Literal:**</sub></small>
 What then is it? I will pray with the spirit, I will pray however also with the mind; I will sing praise with the spirit, I will sing praise however also with the mind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.14|<< 1 Corinthians 14:14]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.16|1 Corinthians 14:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

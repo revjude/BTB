@@ -1,10 +1,7 @@
 **LXX Genesis 10:21** 
 <small><sub>**LXX:**</sub></small>
 And  to Shem was born, even to him, \[the\] father of all the sons of Eber, brother of Japheth the greater. 
-<small><sub>**KJV:**</sub></small>
-Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born.
-<small><sub>**BSB:**</sub></small>
-And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 
 | Translation | Greek |

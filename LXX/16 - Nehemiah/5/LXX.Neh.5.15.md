@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:15** 
 <small><sub>**LXX:**</sub></small>
 But the rulers, the ones before me, oppressed upon the people, and took from them in bread \[loaves\] and in wine; \[and\] last money of forty shekels. And also  their servants dominated over the people. But I did not do so because of \[the\] countenance of \[the\] fear of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But the former governors that [had been] before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.
-<small><sub>**BSB:**</sub></small>
-The governors before me had heavily burdened the people, taking from them bread and wine plus forty shekels of silver. Their servants also oppressed the people. But I did not do this, because of my fear of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.14|<< Nehemiah 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.16|Nehemiah 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

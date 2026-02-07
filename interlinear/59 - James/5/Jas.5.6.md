@@ -1,12 +1,12 @@
-**James 5:6
-**<small><sub>**KJV:**</sub></small>
+**James 5:6**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have condemned [and] killed the just; [and] he doth not resist you.
 <small><sub>**BSB:**</sub></small>
 You have condemned and murdered the righteous, who did not resist you.
 <small><sub>**Literal:**</sub></small>
 You have condemned [and] have put to death the righteous; not does he resist you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.5|<< James 5:5]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.7|James 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have condemned |**<big>[[G2613\|κατεδικάσατε,]]</big>**  |katedikasate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [and] have put to death |**<big>[[G5407\|ἐφονεύσατε]]</big>**  |ephoneusate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

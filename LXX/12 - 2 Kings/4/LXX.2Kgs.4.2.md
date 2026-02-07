@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:2** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to her, What should I do for you, announce it to me? What is there to you in the house?  And she said, There is not to your maidservant one \[thing\] in the house, only a vessel of olive oil in the house which I anoint with. 
-<small><sub>**KJV:**</sub></small>
-And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil.
-<small><sub>**BSB:**</sub></small>
-“How can I help you?” asked Elisha. “Tell me, what do you have in the house?” She answered, “Your servant has nothing in the house but a jar of oil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.1|<< 2 Kings 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.3|2 Kings 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

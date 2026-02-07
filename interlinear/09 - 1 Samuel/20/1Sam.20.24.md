@@ -1,4 +1,4 @@
-**1 Samuel 20:24** 
+**1 Samuel 20:24**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David hid in the field, and when the New Moon had come, the king sat down to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.23|<< 1 Samuel 20:23]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.25|1 Samuel 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he hid himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5641\|יִּסָּתֵ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa.Ter<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

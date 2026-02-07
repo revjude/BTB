@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, I shall put for the foundations of Zion a very costly chosen cornering stone of value for  its foundations; and the one trusting upon it in no way should be disgraced. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner [stone], a sure foundation: he that believeth shall not make haste.
-<small><sub>**BSB:**</sub></small>
-So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone, a sure foundation; the one who believes will never be shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 28:16** is...

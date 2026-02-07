@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:11** 
 <small><sub>**LXX:**</sub></small>
 And the woman said, the king remember indeed the <span class="smallcaps">lord</span> your God! to multiply a relative for blood  to utterly destroy, and in no way take away  my son. And he said, As \[the\] <span class="smallcaps">lord</span> lives, there shall not fall of the hair  of your son upon the ground. 
-<small><sub>**KJV:**</sub></small>
-Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, [As] the LORD liveth, there shall not one hair of thy son fall to the earth.
-<small><sub>**BSB:**</sub></small>
-“Please,” she replied, “may the king invoke the LORD your God to prevent the avenger of blood from increasing the devastation, so that my son may not be destroyed!” “As surely as the LORD lives,” he vowed, “not a hair of your son’s head will fall to the ground.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.10|<< 2 Samuel 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.12|2 Samuel 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

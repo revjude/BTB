@@ -1,12 +1,12 @@
-**1 Corinthians 8:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:5**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
 <small><sub>**BSB:**</sub></small>
 For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords),
 <small><sub>**Literal:**</sub></small>
 Even truly if indeed there are [those] named gods whether in heaven or on <the> earth, as there are gods many and lords many;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.4|<< 1 Corinthians 8:4]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.6|1 Corinthians 8:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | truly |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 22:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:30**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from [his] bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.
 <small><sub>**BSB:**</sub></small>
 The next day the commander, wanting to learn the real reason Paul was accused by the Jews, released him and ordered the chief priests and the whole Sanhedrin to assemble. Then he brought Paul down and had him stand before them.
 <small><sub>**Literal:**</sub></small>
 On the now next day desiring to know <the> for certain <the> why he is accused by the Jews, he unbound him from the chains and commanded to assemble the chief priests and all the council of them, And having brought down <the> Paul he set [him] among them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.29|<< Acts 22:29]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.1|Acts 23:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

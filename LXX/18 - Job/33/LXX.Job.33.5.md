@@ -1,10 +1,7 @@
 **LXX Job 33:5** 
 <small><sub>**LXX:**</sub></small>
 If you should be able, give to me an answer for these \[things\]! Wait, stand against me, and I against you! 
-<small><sub>**KJV:**</sub></small>
-If thou canst answer me, set [thy words] in order before me, stand up.
-<small><sub>**BSB:**</sub></small>
-Refute me if you can; prepare your case and confront me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.4|<< Job 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.6|Job 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

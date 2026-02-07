@@ -1,4 +1,4 @@
-**2 Samuel 23:30** 
+**2 Samuel 23:30**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Benaiah the Pirathonite, Hiddai of the brooks of Gaash,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Benaiah the Pirathonite, Hiddai from the brooks of Gaash,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.29|<< 2 Samuel 23:29]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.31|2 Samuel 23:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Benaiah  |**<big>&#8207;[[H1141H\|בְּנָיָ֙הוּ֙]]&#8207; </big>**| be.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Pirathonite  |**<big>&#8207;[[H6553\|פִּרְעָ֣תֹנִ֔י]]&#8207; </big>**| pir.'A.to.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

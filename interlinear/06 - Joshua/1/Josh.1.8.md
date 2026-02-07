@@ -1,4 +1,4 @@
-**Joshua 1:8** 
+**Joshua 1:8**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This Book of the Law must not depart from your mouth; meditate on it day and nig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will depart  |**<big>&#8207;[[H4185\|יָמ֡וּשׁ]]&#8207; </big>**| ya.Mush<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

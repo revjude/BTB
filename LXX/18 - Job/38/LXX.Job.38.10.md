@@ -1,10 +1,7 @@
 **LXX Job 38:10** 
 <small><sub>**LXX:**</sub></small>
 And I established limits for it, I put \[in place\] bolts and gates. 
-<small><sub>**KJV:**</sub></small>
-And brake up for it my decreed [place], and set bars and doors,
-<small><sub>**BSB:**</sub></small>
-when I fixed its boundaries and set in place its bars and doors,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.9|<< Job 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.11|Job 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

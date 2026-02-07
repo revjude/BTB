@@ -1,10 +1,7 @@
 **LXX Psalm 42:3** 
 <small><sub>**LXX:**</sub></small>
 My tears became bread for me day and night, while  saying to me each day, Where is  your God? 
-<small><sub>**KJV:**</sub></small>
-My tears have been my meat day and night, while they continually say unto me, Where [is] thy God?
-<small><sub>**BSB:**</sub></small>
-My tears have been my food both day and night, while men ask me all day long, “Where is your God?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.2|<< Psalm 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.4|Psalm 42:4 >>]]</td></tr></table>
 
 | Translation | Greek |

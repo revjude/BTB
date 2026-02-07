@@ -1,4 +1,4 @@
-**Exodus 31:4** 
+**Exodus 31:4**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To devise cunning works, to work in gold, and in silver, and in brass,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to design artistic works in gold, silver, and bronze,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.3|<< Exodus 31:3]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.5|Exodus 31:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to design  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2803G\|חְשֹׁ֖ב]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> ch.Sho<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | designs  |**<big>&#8207;[[H4284\|מַחֲשָׁבֹ֑ת]]&#8207; </big>**| ma.cha.sha.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 30:16** 
+**Ezekiel 30:16**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph [shall have] distresses daily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will set fire to Egypt, Pelusium will writhe in anguish, Thebes will be split 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.15|<< Ezekiel 30:15]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.17|Ezekiel 30:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַ֤תִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ta.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 8:15** 
+**Job 8:15**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He leans on his web, but it gives way; he holds fast, but it does not endure.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.14|<< Job 8:14]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.16|Job 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he supports himself  |**<big>&#8207;[[H8172\|יִשָּׁעֵ֣ן]]&#8207; </big>**| yi.sha.'En<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

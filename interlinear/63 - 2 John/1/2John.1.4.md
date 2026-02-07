@@ -1,12 +1,12 @@
-**2 John 1:4
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:4**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
 <small><sub>**BSB:**</sub></small>
 I was overjoyed to find some of your children walking in the truth, just as the Father has commanded us.
 <small><sub>**Literal:**</sub></small>
 I rejoiced exceedingly that I have found [some] of the children of you walking in truth even as commandment we received from the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.3|<< 2 John 1:3]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.5|2 John 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I rejoiced |**<big>[[G5463\|Ἐχάρην]]</big>**  |Echarēn <small><sup>[[V-2AOI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | exceedingly |**<big>[[G3029\|λίαν]]</big>**  |lian <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

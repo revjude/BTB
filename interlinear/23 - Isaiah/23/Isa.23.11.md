@@ -1,4 +1,4 @@
-**Isaiah 23:11** 
+**Isaiah 23:11**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He stretched out his hand over the sea, he shook the kingdoms: the LORD hath given a commandment against the merchant [city], to destroy the strong holds thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has stretched out His hand over the sea; He has made kingdoms tremble. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.10|<< Isaiah 23:10]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.12|Isaiah 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hand his  |**<big>&#8207;[[H3027G\|יָד]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has stretched out  |**<big>&#8207;[[H5186\|נָטָ֣ה]]&#8207; </big>**| na.Tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

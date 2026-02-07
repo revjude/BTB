@@ -1,10 +1,7 @@
 **LXX Exodus 34:7** 
 <small><sub>**LXX:**</sub></small>
 and observing righteousness, and doing mercy for thousands, removing lawlessnesses, and iniquities, and sins; and the \[ones\] liable he will not cleanse; bringing \[the\] lawlessnesses of \[the\] fathers upon \[the\] children, and upon \[the\] children of \[the\] children, unto \[the\] third and fourth generation. 
-<small><sub>**KJV:**</sub></small>
-Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty]; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth [generation].
-<small><sub>**BSB:**</sub></small>
-maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.6|<< Exodus 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.8|Exodus 34:8 >>]]</td></tr></table>
 
 | Translation | Greek |

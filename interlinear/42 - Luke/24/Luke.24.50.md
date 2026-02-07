@@ -1,12 +1,12 @@
-**Luke 24:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:50**<big><big>[[Luke.24.50 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.
 <small><sub>**BSB:**</sub></small>
 When Jesus had led them out as far as Bethany, He lifted up His hands and blessed them.
 <small><sub>**Literal:**</sub></small>
 He led now them out until to Bethany, and having lifted up the hands of Him He blessed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.49|<< Luke 24:49]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.51|Luke 24:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He led |**<big>[[G1806\|Ἐξήγαγεν]]</big>**  |Exēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

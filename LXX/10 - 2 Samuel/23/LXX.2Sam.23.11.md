@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:11** 
 <small><sub>**LXX:**</sub></small>
 And after him Shammah son of Agee the Hararite. And the Philistines gathered together in Theria, and there was there a portion of a field full of lentils. And the people fled from \[the\] face of \[the\] Philistines. 
-<small><sub>**KJV:**</sub></small>
-And after him [was] Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.
-<small><sub>**BSB:**</sub></small>
-And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.10|<< 2 Samuel 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.12|2 Samuel 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

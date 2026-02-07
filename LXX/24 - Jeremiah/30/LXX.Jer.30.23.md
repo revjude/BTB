@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:23** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] anger of \[the\] <span class="smallcaps">lord</span> went forth; rage went forth; turning anger shall come upon \[the\] impious. 
-<small><sub>**KJV:**</sub></small>
-Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
-<small><sub>**BSB:**</sub></small>
-Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.22|<< Jeremiah 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.24|Jeremiah 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

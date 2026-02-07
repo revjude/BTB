@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:24** 
 <small><sub>**LXX:**</sub></small>
 And  my servant David \[will be\] ruler in \[the\] midst of them; and there will be one shepherd for all. For by  my orders they shall go, and  my judgments they shall keep, and they shall do them. 
-<small><sub>**KJV:**</sub></small>
-And David my servant [shall be] king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
-<small><sub>**BSB:**</sub></small>
-My servant David will be king over them, and there will be one shepherd for all of them. They will follow My ordinances and keep and observe My statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.23|<< Ezekiel 37:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.25|Ezekiel 37:25 >>]]</td></tr></table>
 
 | Translation | Greek |

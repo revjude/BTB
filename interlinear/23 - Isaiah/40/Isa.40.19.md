@@ -1,4 +1,4 @@
-**Isaiah 40:19** 
+**Isaiah 40:19**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To an idol that a craftsman casts and a metalworker overlays with gold and fits 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.18|<< Isaiah 40:18]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.20|Isaiah 40:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the idol  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6459\|פֶּ֙סֶל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has cast  |**<big>&#8207;[[H5258A\|נָסַ֣ךְ]]&#8207; </big>**| na.Sakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 5:2** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said, Who is he, of whom I will listen to  his voice so as to send out the sons of Israel? I do not know the <span class="smallcaps">lord</span>, and  I will not send out Israel. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said, Who [is] the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.
-<small><sub>**BSB:**</sub></small>
-But Pharaoh replied, “Who is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.1|<< Exodus 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.3|Exodus 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

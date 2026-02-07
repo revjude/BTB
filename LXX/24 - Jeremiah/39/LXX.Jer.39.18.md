@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:18** 
 <small><sub>**LXX:**</sub></small>
 For by delivering, I shall deliver you, and by \[the\] broadsword in no way shall you fall. And your life will be for gain, for you relied upon me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-For I will surely rescue you so that you do not fall by the sword. Because you have trusted in Me, you will escape with your life like a spoil of war, declares the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.17|<< Jeremiah 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.1|Jeremiah 40:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 7:19** 
+**Ecclesiastes 7:19**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom strengtheneth the wise more than ten mighty [men] which are in the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom makes the wise man stronger than ten rulers in a city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.18|<< Ecclesiastes 7:18]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.20|Ecclesiastes 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> wisdom  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2451\|חָכְמָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it gives strength  |**<big>&#8207;[[H5810\|תָּעֹ֣ז]]&#8207; </big>**| ta.'Oz<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

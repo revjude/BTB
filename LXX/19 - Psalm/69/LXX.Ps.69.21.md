@@ -1,10 +1,7 @@
 **LXX Psalm 69:21** 
 <small><sub>**LXX:**</sub></small>
 And they gave bile for my food; and for  my thirst me vinegar to drink. 
-<small><sub>**KJV:**</sub></small>
-They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.
-<small><sub>**BSB:**</sub></small>
-They poisoned my food with gall and gave me vinegar to quench my thirst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.20|<< Psalm 69:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.22|Psalm 69:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 69:21** is...

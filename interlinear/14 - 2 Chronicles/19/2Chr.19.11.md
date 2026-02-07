@@ -1,4 +1,4 @@
-**2 Chronicles 19:11** 
+**2 Chronicles 19:11**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Amariah the chief priest [is] over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites [shall be] officers before you. Deal courageously, and the LORD shall be with the good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Note that Amariah, the chief priest, will be over you in all that pertains to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.10|<< 2 Chronicles 19:10]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.1|2 Chronicles 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and here!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amariah  |**<big>&#8207;[[H0568J\|אֲמַרְיָ֣הוּ]]&#8207; </big>**| 'a.mar.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

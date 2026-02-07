@@ -1,10 +1,7 @@
 **LXX Numbers 32:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked to anger in rage over  Israel; and he staggered them in the wilderness forty years, until all the generation doing evil before \[the\] <span class="smallcaps">lord</span> was completely consumed. 
-<small><sub>**KJV:**</sub></small>
-And the LORD’S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed.
-<small><sub>**BSB:**</sub></small>
-The anger of the LORD burned against Israel, and He made them wander in the wilderness forty years, until the whole generation who had done evil in His sight was gone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.12|<< Numbers 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.14|Numbers 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

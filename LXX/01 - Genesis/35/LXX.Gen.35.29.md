@@ -1,10 +1,7 @@
 **LXX Genesis 35:29** 
 <small><sub>**LXX:**</sub></small>
 And failing, Isaac died. And he was added to  his family, older and full of days. And Esau and Jacob his two sons entombed him. 
-<small><sub>**KJV:**</sub></small>
-And Isaac gave up the ghost, and died, and was gathered unto his people, [being] old and full of days: and his sons Esau and Jacob buried him.
-<small><sub>**BSB:**</sub></small>
-Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.28|<< Genesis 35:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.1|Genesis 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:21** 
 <small><sub>**LXX:**</sub></small>
 And he sent to him messengers, saying, What \[is it\] to me and to you, O king of Judah? I come not against you today to make war, but only against the place  of my war; and  God told  me to hasten. You take heed of the God, of the one with me, lest he ruin you. 
-<small><sub>**KJV:**</sub></small>
-But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? [I come] not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from [meddling with] God, who [is] with me, that he destroy thee not.
-<small><sub>**BSB:**</sub></small>
-But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or He will destroy you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.20|<< 2 Chronicles 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.22|2 Chronicles 35:22 >>]]</td></tr></table>
 
 | Translation | Greek |

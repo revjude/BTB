@@ -1,10 +1,7 @@
 **LXX Numbers 1:52** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel shall camp, \[every\] man in  his own order, and \[every\] man according to  his own governing \[authority\], with their force. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
-<small><sub>**BSB:**</sub></small>
-The Israelites are to camp by their divisions, each man in his own camp and under his own standard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.51|<< Numbers 1:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.53|Numbers 1:53 >>]]</td></tr></table>
 
 | Translation | Greek |

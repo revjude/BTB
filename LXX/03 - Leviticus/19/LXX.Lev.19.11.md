@@ -1,10 +1,7 @@
 **LXX Leviticus 19:11** 
 <small><sub>**LXX:**</sub></small>
 You shall not steal, and you shall not lie, nor shall you extort each his neighbor. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not steal, neither deal falsely, neither lie one to another.
-<small><sub>**BSB:**</sub></small>
-You must not steal. You must not lie or deceive one another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.10|<< Leviticus 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.12|Leviticus 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

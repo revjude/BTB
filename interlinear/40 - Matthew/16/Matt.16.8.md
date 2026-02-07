@@ -1,12 +1,12 @@
-**Matthew 16:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:8**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Which] when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
 <small><sub>**BSB:**</sub></small>
 Aware of their conversation, Jesus said, “You of little faith, why are you debating among yourselves about having no bread?
 <small><sub>**Literal:**</sub></small>
 Having known [this] however <the> Jesus said to them: Why reason you among yourselves, O [you] of little faith, because bread not you take?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.7|<< Matthew 16:7]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.9|Matthew 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known [this] |**<big>[[G1097\|Γνοὺς]]</big>**  |Gnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

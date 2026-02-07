@@ -1,10 +1,7 @@
 **LXX Numbers 1:3** 
 <small><sub>**LXX:**</sub></small>
 From twenty years and up, all  going forth in the force of Israel, you number them with  their force -- you and Aaron! 
-<small><sub>**KJV:**</sub></small>
-From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
-<small><sub>**BSB:**</sub></small>
-You and Aaron are to number those who are twenty years of age or older by their divisions—everyone who can serve in Israel’s army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.2|<< Numbers 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.4|Numbers 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

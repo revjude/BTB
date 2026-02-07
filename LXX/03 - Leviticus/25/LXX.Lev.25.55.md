@@ -1,10 +1,7 @@
 **LXX Leviticus 25:55** 
 <small><sub>**LXX:**</sub></small>
 For to me the sons of Israel \[are\] servants; these are of my children, whom I led from out of \[the\] land of Egypt. I am \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-For unto me the children of Israel [are] servants; they [are] my servants whom I brought forth out of the land of Egypt: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-For the Israelites are My servants. They are My servants, whom I brought out of the land of Egypt. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.54|<< Leviticus 25:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.1|Leviticus 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

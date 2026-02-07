@@ -1,10 +1,7 @@
 **LXX Hosea 6:3** 
 <small><sub>**LXX:**</sub></small>
 And we shall know, and shall pursue  to know the <span class="smallcaps">lord</span>. As dawn readied, we shall find him; and he shall come to us as rain early and late to the earth. 
-<small><sub>**KJV:**</sub></small>
-Then shall we know, [if] we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter [and] former rain unto the earth.
-<small><sub>**BSB:**</sub></small>
-So let us know—let us press on to know the LORD. As surely as the sun rises, He will appear; He will come to us like the rain, like the spring showers that water the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.2|<< Hosea 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.4|Hosea 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] queen of Sheba heard the name of Solomon, and the name of \[the\] <span class="smallcaps">lord</span>, and she came  to test him with enigmas. 
-<small><sub>**KJV:**</sub></small>
-And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
-<small><sub>**BSB:**</sub></small>
-Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.28|<< 1 Kings 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.2|1 Kings 10:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 10:1** is...

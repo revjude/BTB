@@ -1,4 +1,4 @@
-**Leviticus 11:11** 
+**Leviticus 11:11**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall be an abomination to you; you must not eat their meat, and you must d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.10|<< Leviticus 11:10]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.12|Leviticus 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and detestable thing[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8263\|שֶׁ֖קֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|יִהְי֣וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

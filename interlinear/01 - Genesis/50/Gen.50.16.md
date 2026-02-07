@@ -1,4 +1,4 @@
-**Genesis 50:16** 
+**Genesis 50:16**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they sent word to Joseph, saying, “Before he died, your father commanded,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.15|<< Genesis 50:15]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.17|Genesis 50:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַוּ֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.tza.Vu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

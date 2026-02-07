@@ -1,4 +1,4 @@
-**Jeremiah 46:11** 
+**Jeremiah 46:11**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; [for] thou shalt not be cured.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go up to Gilead for balm, O Virgin Daughter of Egypt! In vain you try many remed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.10|<< Jeremiah 46:10]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.12|Jeremiah 46:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲלִ֤י]]&#8207; </big>**| 'a.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gilead  |**<big>&#8207;[[H1568G\|גִלְעָד֙]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

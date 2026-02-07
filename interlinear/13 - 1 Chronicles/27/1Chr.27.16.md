@@ -1,4 +1,4 @@
-**1 Chronicles 27:16** 
+**1 Chronicles 27:16**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore over the tribes of Israel: the ruler of the Reubenites [was] Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These officers were in charge of the tribes of Israel: Over the Reubenites was E
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.15|<< 1 Chronicles 27:15]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.17|1 Chronicles 27:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tribes of  |**<big>&#8207;[[H7626H\|שִׁבְטֵ֣י]]&#8207; </big>**| shiv.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

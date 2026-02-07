@@ -1,4 +1,4 @@
-**Isaiah 55:6** 
+**Isaiah 55:6**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek ye the LORD while he may be found, call ye upon him while he is near:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seek the LORD while He may be found; call on Him while He is near.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.5|<< Isaiah 55:5]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.7|Isaiah 55:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seek  |**<big>&#8207;[[H1875\|דִּרְשׁ֥וּ]]&#8207; </big>**| dir.Shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

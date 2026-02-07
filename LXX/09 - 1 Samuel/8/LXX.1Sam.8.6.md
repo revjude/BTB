@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:6** 
 <small><sub>**LXX:**</sub></small>
 And the matter was wicked in \[the\] eyes of Samuel, as they said, Give to us a king  to adjudicate for us! And Samuel prayed to \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the LORD.
-<small><sub>**BSB:**</sub></small>
-But when they said, “Give us a king to judge us,” their demand was displeasing in the sight of Samuel; so he prayed to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.5|<< 1 Samuel 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.7|1 Samuel 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses called all Israel, and he said to them, Hear O Israel, the ordinances and the judgments! as many as I speak in  your ears in  this day. And you shall learn them, and guard to do them. 
-<small><sub>**KJV:**</sub></small>
-And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.
-<small><sub>**BSB:**</sub></small>
-Then Moses summoned all Israel and said to them: Hear, O Israel, the statutes and ordinances that I declare in your hearing this day. Learn them and observe them carefully.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.49|<< Deuteronomy 4:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.2|Deuteronomy 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

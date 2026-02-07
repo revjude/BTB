@@ -1,10 +1,7 @@
 **LXX Psalm 37:2** 
 <small><sub>**LXX:**</sub></small>
 For they shall be dried up quickly as grass, and as vegetation of tender shoots they shall quickly fall away. 
-<small><sub>**KJV:**</sub></small>
-For they shall soon be cut down like the grass, and wither as the green herb.
-<small><sub>**BSB:**</sub></small>
-For they wither quickly like grass and wilt like tender plants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.1|<< Psalm 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.3|Psalm 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

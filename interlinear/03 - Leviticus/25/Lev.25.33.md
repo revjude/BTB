@@ -1,4 +1,4 @@
-**Leviticus 25:33** 
+**Leviticus 25:33**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in [the year of] jubile: for the houses of the cities of the Levites [are] their possession among the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So whatever belongs to the Levites may be redeemed—a house sold in a city they
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.32|<< Leviticus 25:32]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.34|Leviticus 25:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will redeem  |**<big>&#8207;[[H1350A\|יִגְאַל֙]]&#8207; </big>**| yig.'Al<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

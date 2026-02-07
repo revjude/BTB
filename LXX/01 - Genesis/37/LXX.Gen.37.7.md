@@ -1,10 +1,7 @@
 **LXX Genesis 37:7** 
 <small><sub>**LXX:**</sub></small>
 I imagined you all were binding sheaves in the middle of the plain. And there rose up  my sheaf, and it was straight up. And your sheaves moving around, did obeisance to  my sheaf. 
-<small><sub>**KJV:**</sub></small>
-For, behold, we [were] binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
-<small><sub>**BSB:**</sub></small>
-We were binding sheaves of grain in the field, and suddenly my sheaf rose and stood upright, while your sheaves gathered around and bowed down to mine.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.6|<< Genesis 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.8|Genesis 37:8 >>]]</td></tr></table>
 
 | Translation | Greek |

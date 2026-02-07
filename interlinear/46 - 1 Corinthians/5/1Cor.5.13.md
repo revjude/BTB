@@ -1,5 +1,5 @@
-**1 Corinthians 5:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:13**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But them that are without God judgeth. Therefore put away from among yourselves that wicked person.
 <small><sub>**BSB:**</sub></small>
 God will judge those outside. “Expel the wicked man from among you.”
@@ -11,7 +11,7 @@ Those however outside <the> God will judge? and do yourselves expel the evil out
 > $\quad$ alluding to: [[LXX.Deut.17.9|Deut 17:9]] ☩ [[LXX.Deut.19.19|Deut 19:19]] ☩ [[LXX.Deut.24.7|Deut 24:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
 (KJV) **1 Samuel 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27|<< 1 Samuel 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29|1 Samuel 29 >>]]</td></tr></table>
 
-***The Philistines Gather against Israel*** ^bsb718
+<big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥃]]</big></big>***The Philistines Gather against Israel***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.28.1|1]]**<span class="endversemarker">]</span> And it came to pass in those days, that the<small><small>[^2]</small></small> Philistines<small><small>[^3]</small></small> gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go<small><small>[^4]</small></small> out with me to battle, thou and thy men. <span class="startversemarker">[</span>**[[1Sam.28.2|2]]**<span class="endversemarker">]</span> And David said to Achish, Surely<small><small>[^5]</small></small> thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever. 
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.28.3|3]]**<span class="endversemarker">]</span> [¶]Now Samuel<small><small>[^6]</small></small> was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away<small><small>[^7]</small></small> those that had familiar spirits, and the wizards, out of the land. <span class="startversemarker">[</span>**[[1Sam.28.4|4]]**<span class="endversemarker">]</span> And the Philistines gathered themselves together, and came and pitched in Shunem<small><small>[^8]</small></small>: and Saul gathered all Israel together, and they pitched in Gilboa<small><small>[^9]</small></small>. <span class="startversemarker">[</span>**[[1Sam.28.5|5]]**<span class="endversemarker">]</span> And when Saul saw the host of the Philistines, he was afraid<small><small>[^10]</small></small>, and his heart greatly trembled. <span class="startversemarker">[</span>**[[1Sam.28.6|6]]**<span class="endversemarker">]</span> And when Saul enquired<small><small>[^11]</small></small> of the <span class="smallcaps">Lord</span>, the <span class="smallcaps">Lord</span> answered him not, neither by dreams<small><small>[^12]</small></small>, nor by Urim<small><small>[^13]</small></small>, nor by prophets<small><small>[^14]</small></small>.
 
-***Saul and the Medium of Endor*** ^bsb719
+<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥃]]</big></big>***Saul and the Medium of Endor***
 
  
 

@@ -1,4 +1,4 @@
-**Psalms 37:40** 
+**Psalms 37:40**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD helps and delivers them; He rescues and saves them from the wicked, bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.39|<< Psalms 37:39]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.0|Psalms 38:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he helped them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5826\|יַּעְזְרֵ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya'.ze.Re<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:3** 
 <small><sub>**LXX:**</sub></small>
 And I surveyed if  my heart would draw my flesh \[with\] wine; and my heart guided me in wisdom; and  to hold upon gladness until I should see what kind \[was\] the good to the sons  of men, which they shall do under the sun \[with\] their numbered days of life. 
-<small><sub>**KJV:**</sub></small>
-I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what [was] that good for the sons of men, which they should do under the heaven all the days of their life.
-<small><sub>**BSB:**</sub></small>
-I sought to cheer my body with wine and to embrace folly—my mind still guiding me with wisdom—until I could see what was worthwhile for men to do under heaven during the few days of their lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.2|<< Ecclesiastes 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.4|Ecclesiastes 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

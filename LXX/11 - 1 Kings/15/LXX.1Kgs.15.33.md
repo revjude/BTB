@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:33** 
 <small><sub>**LXX:**</sub></small>
 In the third year  of Asa king of Judah, Baasha son of Ahijah reigned over Israel in Tizrah twenty and four years. 
-<small><sub>**KJV:**</sub></small>
-In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.
-<small><sub>**BSB:**</sub></small>
-In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king of all Israel, and he reigned in Tirzah twenty-four years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.32|<< 1 Kings 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.34|1 Kings 15:34 >>]]</td></tr></table>
 
 | Translation | Greek |

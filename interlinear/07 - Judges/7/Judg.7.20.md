@@ -1,4 +1,4 @@
-**Judges 7:20** 
+**Judges 7:20**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow [withal]: and they cried, The sword of the LORD, and of Gideon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The three companies blew their horns and shattered their jars. Holding the torch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.19|<< Judges 7:19]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.21|Judges 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave a blast  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H8628\|יִּתְקְעוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yit.ke.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] three  |**<big>&#8207;[[H7969\|שְׁלֹ֨שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

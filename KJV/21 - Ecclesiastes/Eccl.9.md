@@ -1,12 +1,12 @@
 (KJV) **Ecclesiastes 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8|<< Ecclesiastes 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10|Ecclesiastes 10 >>]]</td></tr></table>
 
-***Death Comes to Good and Bad*** ^bsb1528
+<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥃]]</big></big>***Death Comes to Good and Bad***
 
  $\quad$ <span class="startversemarker">[</span>**[[Eccl.9.1|1]]**<span class="endversemarker">]</span> For all this I considered in my heart<small><small>[^2]</small></small> even to declare all this, that the<small><small>[^3]</small></small> righteous, and the wise, and their works, \[are\] in the hand of God: no man<small><small>[^4]</small></small> knoweth either love or hatred \[by\] all \[that is\] before them. <span class="startversemarker">[</span>**[[Eccl.9.2|2]]**<span class="endversemarker">]</span> All \[things come\] alike<small><small>[^5]</small></small> to all: \[there is\] one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as \[is<small><small>[^6]</small></small>\] the good, so \[is\] the sinner; \[and\] he that sweareth, as \[he\] that feareth<small><small>[^7]</small></small> an oath. <span class="startversemarker">[</span>**[[Eccl.9.3|3]]**<span class="endversemarker">]</span> This \[is\] an evil among all \[things\] that are done under the sun, that \[there is\] one event unto all: yea, also<small><small>[^8]</small></small> the heart of the sons of men is full of evil, and madness<small><small>[^9]</small></small> \[is\] in their heart while they live, and after<small><small>[^10]</small></small> that \[they go\] to the dead. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Eccl.9.4|4]]**<span class="endversemarker">]</span> For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.<small><small>[^11]</small></small> <span class="startversemarker">[</span>**[[Eccl.9.5|5]]**<span class="endversemarker">]</span> For the living<small><small>[^12]</small></small> know that they shall die: but the dead<small><small>[^13]</small></small> know not any thing, neither have they any more a reward; for the<small><small>[^14]</small></small> memory of them is forgotten. <span class="startversemarker">[</span>**[[Eccl.9.6|6]]**<span class="endversemarker">]</span> Also their love<small><small>[^15]</small></small>, and their hatred, and their envy, is now perished; neither have they<small><small>[^16]</small></small> any more a portion for ever in any \[thing\] that is done under the sun.
 
-***Enjoy Your Portion in This Life*** ^bsb1529
+<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥃]]</big></big>***Enjoy Your Portion in This Life***
 
  
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Eccl.9.7|7]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Eccl.9.11|11]]**<span class="endversemarker">]</span> I returned<small><small>[^28]</small></small>, and saw under the sun, that the race<small><small>[^29]</small></small> \[is\] not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but<small><small>[^30]</small></small> time and chance happeneth to them all. <span class="startversemarker">[</span>**[[Eccl.9.12|12]]**<span class="endversemarker">]</span> For man<small><small>[^31]</small></small> also knoweth not his time: as the fishes<small><small>[^32]</small></small> that are taken in an evil net, and as the birds that are caught in the snare; so \[are\] the sons<small><small>[^33]</small></small> of men snared in an evil time, when it falleth suddenly upon them.
 
-***Wisdom Is Better than Strength*** ^bsb1530
+<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥃]]</big></big>***Wisdom Is Better than Strength***
 
  
 

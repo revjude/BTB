@@ -1,10 +1,7 @@
 **LXX Malachi 2:15** 
 <small><sub>**LXX:**</sub></small>
 But did he not do good, even a vestige of his spirit? And you said, What other than a seed \[does\] God seek? But guard in  your spirit, and \[the\] wife of your youth do not abandon! 
-<small><sub>**KJV:**</sub></small>
-And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.
-<small><sub>**BSB:**</sub></small>
-Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.14|<< Malachi 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.16|Malachi 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

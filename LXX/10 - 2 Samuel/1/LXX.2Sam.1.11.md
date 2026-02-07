@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David took hold  of his clothes, and tore them; and all the men, the ones with him. 
-<small><sub>**KJV:**</sub></small>
-Then David took hold on his clothes, and rent them; and likewise all the men that [were] with him:
-<small><sub>**BSB:**</sub></small>
-Then David took hold of his own clothes and tore them, and all the men who were with him did the same.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.10|<< 2 Samuel 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.12|2 Samuel 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

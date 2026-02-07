@@ -1,4 +1,4 @@
-**Psalms 89:20** (89:21)
+**Psalms 89:20**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have found David my servant; with my holy oil have I anointed him:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have found My servant David; with My sacred oil I have anointed him.
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have found  |**<big>&#8207;[[H4672\|מָ֭צָאתִי]]&#8207; </big>**| Ma.tza.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֣ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

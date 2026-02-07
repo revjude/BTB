@@ -1,4 +1,4 @@
-**2 Chronicles 18:34** 
+**2 Chronicles 18:34**<big><big>[[2Chr.18.28 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the battle increased that day: howbeit the king of Israel stayed [himself] up in [his] chariot against the Syrians until the even: and about the time of the sun going down he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The battle raged throughout that day, and the king of Israel propped himself up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.33|<< 2 Chronicles 18:33]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.1|2 Chronicles 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּ֤עַל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'al<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the battle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

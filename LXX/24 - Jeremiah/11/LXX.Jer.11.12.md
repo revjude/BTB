@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] cities of Judah and the ones dwelling in Jerusalem shall go, and they shall cry out to  their gods to whom they burn incense to them; the ones \[who\] shall not deliver them in the time  of their evils. 
-<small><sub>**KJV:**</sub></small>
-Then shall the cities of Judah and inhabitants of Jerusalem go, and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble.
-<small><sub>**BSB:**</sub></small>
-Then the cities of Judah and the residents of Jerusalem will go and cry out to the gods to which they have been burning incense, but these gods certainly will not save them in their time of disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.11|<< Jeremiah 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.13|Jeremiah 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

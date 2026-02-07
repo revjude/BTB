@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 27:7** 
 <small><sub>**LXX:**</sub></small>
 And the rest of \[the\] words of Jotham, and the war, and  his actions, behold \[they are\] written upon \[the\] scroll of \[the\] kings of Judah and Israel. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they [are] written in the book of the kings of Israel and Judah.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Jotham, along with all his wars and his ways, they are indeed written in the Book of the Kings of Israel and Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.6|<< 2 Chronicles 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.8|2 Chronicles 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

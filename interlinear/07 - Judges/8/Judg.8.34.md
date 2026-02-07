@@ -1,4 +1,4 @@
-**Judges 8:34** 
+**Judges 8:34**<big><big>[[Judg.8.32 Gideon’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites failed to remember the LORD their God who had delivered them from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.33|<< Judges 8:33]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.35|Judges 8:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they remembered  |**<big>&#8207;[[H2142\|זָֽכְרוּ֙]]&#8207; </big>**| za.khe.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

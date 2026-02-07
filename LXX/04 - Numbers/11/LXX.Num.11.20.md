@@ -1,10 +1,7 @@
 **LXX Numbers 11:20** 
 <small><sub>**LXX:**</sub></small>
 you shall eat for a month of days, until whenever \[it\] should come forth from out of  your nostrils; and it shall be to you for a cholera, that you resisted \[the\] <span class="smallcaps">lord</span> who is among you, and you wept before him, saying, What did we \[do\] to come out of Egypt? 
-<small><sub>**KJV:**</sub></small>
-[But] even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which [is] among you, and have wept before him, saying, Why came we forth out of Egypt?
-<small><sub>**BSB:**</sub></small>
-but for a whole month—until it comes out of your nostrils and makes you nauseous—because you have rejected the LORD, who is among you, and have cried out before Him, saying, ‘Why did we ever leave Egypt?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.19|<< Numbers 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.21|Numbers 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

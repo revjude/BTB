@@ -1,4 +1,4 @@
-**2 Chronicles 17:17** 
+**2 Chronicles 17:17**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Benjamin: Eliada, a mighty man of valor, and with him 200,000 armed with bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.16|<< 2 Chronicles 17:16]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.18|2 Chronicles 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִ֨ן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Benjamin  |**<big>&#8207;[[H1144G\|בִּנְיָמִ֔ן]]&#8207; </big>**| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 23:31** 
+**Exodus 23:31**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will establish your borders from the Red Sea to the Sea of the Philistines
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.30|<< Exodus 23:30]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.32|Exodus 23:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will fix  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7896G\|שַׁתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

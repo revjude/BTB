@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:14** 
 <small><sub>**LXX:**</sub></small>
 And Elisha became ill  with his illness of which he died. And Joash king of Israel went down to him and wept upon his face, and said, O father, O father, \[the\] chariot of Israel and his horseman. 
-<small><sub>**KJV:**</sub></small>
-Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.
-<small><sub>**BSB:**</sub></small>
-When Elisha had fallen sick with the illness from which he would die, Jehoash king of Israel came down to him and wept over him, saying, “My father, my father, the chariots and horsemen of Israel!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.13|<< 2 Kings 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.15|2 Kings 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

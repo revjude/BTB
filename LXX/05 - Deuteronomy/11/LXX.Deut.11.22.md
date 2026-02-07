@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:22** 
 <small><sub>**LXX:**</sub></small>
 And it will be if hearing you should hear all  these commandments which I give charge to you today, to do \[them\], to love \[the\] <span class="smallcaps">lord</span>  your God, and to go in all  his ways, and to cleave to him; 
-<small><sub>**KJV:**</sub></small>
-For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;
-<small><sub>**BSB:**</sub></small>
-For if you carefully keep all these commandments I am giving you to follow—to love the LORD your God, to walk in all His ways, and to hold fast to Him—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.21|<< Deuteronomy 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.23|Deuteronomy 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Mark 10:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:19**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.
 <small><sub>**BSB:**</sub></small>
 You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”
@@ -10,7 +10,7 @@ The commandments you know: Not shall you murder not shall you commit adultery no
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | commandments |**<big>[[G1785\|ἐντολὰς]]</big>**  |entolas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

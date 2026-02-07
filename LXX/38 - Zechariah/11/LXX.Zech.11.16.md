@@ -1,10 +1,7 @@
 **LXX Zechariah 11:16** 
 <small><sub>**LXX:**</sub></small>
 For behold, I shall arouse a shepherd against the land, one who in no way shall visit the one faltering; and in no way shall he seek the one being dispersed; and in no way shall he heal the one being broken; and in no way shall he conduct the whole. And  of the choice meats he shall devour, and  he shall distort their vertebrae. 
-<small><sub>**KJV:**</sub></small>
-For, lo, I will raise up a shepherd in the land, [which] shall not visit those that be cut off, neither shall seek the young one, nor heal that that is broken, nor feed that that standeth still: but he shall eat the flesh of the fat, and tear their claws in pieces.
-<small><sub>**BSB:**</sub></small>
-For behold, I will raise up a shepherd in the land who will neither care for the lost, nor seek the young, nor heal the broken, nor sustain the healthy, but he will devour the flesh of the choice sheep and tear off their hooves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.15|<< Zechariah 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.17|Zechariah 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

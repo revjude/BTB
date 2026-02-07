@@ -1,4 +1,4 @@
-**Proverbs 19:7** 
+**Proverbs 19:7**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth [them with] words, [yet] they [are] wanting [to him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the brothers of a poor man hate him—how much more do his friends avoid him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.6|<< Proverbs 19:6]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.8|Proverbs 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּ֥ל]]&#8207; </big>**| kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brothers of  |**<big>&#8207;[[H0251G\|אֲחֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

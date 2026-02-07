@@ -1,12 +1,12 @@
-**Revelation 9:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:14**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
 <small><sub>**BSB:**</sub></small>
 saying to the sixth angel with the trumpet, “Release the four angels who are bound at the great river Euphrates.”
 <small><sub>**Literal:**</sub></small>
 saying to the sixth angel the [one] having the trumpet; do release the four angels those bound at the river <the> great Euphrates.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.13|<< Revelation 9:13]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.15|Revelation 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying [^1] |**<big>[[G3004G\|λέγοντα]]</big>**  |legonta <small><sup>[[V-PAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

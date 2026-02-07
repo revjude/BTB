@@ -1,4 +1,4 @@
-**Leviticus 13:52** 
+**Leviticus 13:52**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it [is] a fretting leprosy; it shall be burnt in the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to burn the fabric, weave, or knit, whether the contaminated item is wool 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.51|<< Leviticus 13:51]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.53|Leviticus 13:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8313\|שָׂרַ֨ף]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Raf<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

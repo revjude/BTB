@@ -1,10 +1,7 @@
 **LXX Exodus 25:36** 
 <small><sub>**LXX:**</sub></small>
 The knobs and the branches from out of it -- let them be entirely turned from out of one \[piece\] of pure gold. 
-<small><sub>**KJV:**</sub></small>
-Their knops and their branches shall be of the same: all it [shall be] one beaten work [of] pure gold.
-<small><sub>**BSB:**</sub></small>
-The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.35|<< Exodus 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.37|Exodus 25:37 >>]]</td></tr></table>
 
 | Translation | Greek |

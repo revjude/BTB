@@ -1,10 +1,7 @@
 **LXX Genesis 40:7** 
 <small><sub>**LXX:**</sub></small>
 And he asked the eunuchs of Pharaoh, who were with him under  guard, by  his master, saying, Why \[is it\] that  your faces \[are\] looking downcast today? 
-<small><sub>**KJV:**</sub></small>
-And he asked Pharaoh’s officers that [were] with him in the ward of his lord’s house, saying, Wherefore look ye [so] sadly to day?
-<small><sub>**BSB:**</sub></small>
-So he asked the officials of Pharaoh who were in custody with him in his master’s house, “Why are your faces so downcast today?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.6|<< Genesis 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.8|Genesis 40:8 >>]]</td></tr></table>
 
 | Translation | Greek |

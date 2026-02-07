@@ -1,12 +1,12 @@
-**2 Timothy 1:14
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:14**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
 <small><sub>**BSB:**</sub></small>
 Guard the treasure entrusted to you, with the help of the Holy Spirit who dwells in us.
 <small><sub>**Literal:**</sub></small>
 The good entrusted deposit do keep through [the] Spirit Holy who is dwelling in us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.13|<< 2 Timothy 1:13]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.15|2 Timothy 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | good |**<big>[[G2570G\|καλὴν]]</big>**  |kalēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Leviticus 10:9** 
+**Leviticus 10:9**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: [it shall be] a statute for ever throughout your generations:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go int
 > $\quad$ referenced by: [[Luke.1.15|Luke 1:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wine  |**<big>&#8207;[[H3196\|יַ֣יִן]]&#8207; </big>**| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and strong drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7941\|שֵׁכָ֞ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 48:18** 
 <small><sub>**LXX:**</sub></small>
 And if you hearkened to  my commandments, your peace would have been as a river, and  your righteousness as a wave of \[the\] sea; 
-<small><sub>**KJV:**</sub></small>
-O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:
-<small><sub>**BSB:**</sub></small>
-If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like waves of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.17|<< Isaiah 48:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.19|Isaiah 48:19 >>]]</td></tr></table>
 
 | Translation | Greek |

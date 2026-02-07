@@ -1,10 +1,7 @@
 **LXX Daniel 5:26** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the interpretation of the saying, Mene -- God measured  your kingdom and finished it. 
-<small><sub>**KJV:**</sub></small>
-This [is] the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.
-<small><sub>**BSB:**</sub></small>
-And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.25|<< Daniel 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.27|Daniel 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

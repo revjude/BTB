@@ -1,10 +1,7 @@
 **LXX Psalm 138:6** 
 <small><sub>**LXX:**</sub></small>
 For high \[is the\] <span class="smallcaps">lord</span>, and he watches over the humble, and the high \[things\] he knows from afar off. 
-<small><sub>**KJV:**</sub></small>
-Though the LORD [be] high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
-<small><sub>**BSB:**</sub></small>
-Though the LORD is on high, He attends to the lowly; but the proud He knows from afar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.138.5|<< Psalm 138:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.7|Psalm 138:7 >>]]</td></tr></table>
 
 | Translation | Greek |

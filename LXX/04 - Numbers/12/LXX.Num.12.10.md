@@ -1,10 +1,7 @@
 **LXX Numbers 12:10** 
 <small><sub>**LXX:**</sub></small>
 And the cloud left from the tent. And behold, Miriam became leprous as snow. And Aaron looked upon Miriam, and behold, she was leprous. 
-<small><sub>**KJV:**</sub></small>
-And the cloud departed from off the tabernacle; and, behold, Miriam [became] leprous, [white] as snow: and Aaron looked upon Miriam, and, behold, [she was] leprous.
-<small><sub>**BSB:**</sub></small>
-As the cloud lifted from above the Tent, suddenly Miriam became leprous, white as snow. Aaron turned toward her, saw that she was leprous,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.9|<< Numbers 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.11|Numbers 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

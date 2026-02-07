@@ -1,10 +1,7 @@
 **LXX Leviticus 25:54** 
 <small><sub>**LXX:**</sub></small>
 And if he should not pay ransom according to these \[things\], then he shall go forth in the year of the release; he and  his children with him. 
-<small><sub>**KJV:**</sub></small>
-And if he be not redeemed in these [years], then he shall go out in the year of jubile, [both] he, and his children with him.
-<small><sub>**BSB:**</sub></small>
-Even if he is not redeemed in any of these ways, he and his children shall be released in the Year of Jubilee.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.53|<< Leviticus 25:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.55|Leviticus 25:55 >>]]</td></tr></table>
 
 | Translation | Greek |

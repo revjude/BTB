@@ -1,10 +1,7 @@
 **LXX Numbers 11:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to him, \[Are\] you zealous for me? and O how it would be given all the people of \[the\] <span class="smallcaps">lord</span> \[were\] prophets, whenever \[the\] <span class="smallcaps">lord</span> should put  his spirit upon them. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto him, Enviest thou for my sake? would God that all the LORD’S people were prophets, [and] that the LORD would put his spirit upon them!
-<small><sub>**BSB:**</sub></small>
-But Moses replied, “Are you jealous on my account? I wish that all the LORD’s people were prophets and that the LORD would place His Spirit on them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.28|<< Numbers 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.30|Numbers 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

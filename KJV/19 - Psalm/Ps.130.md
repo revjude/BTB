@@ -1,6 +1,6 @@
 (KJV) **Psalm 130**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129|<< Psalm 129]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131|Psalm 131 >>]]</td></tr></table>
 
-***Out of the Depths*** ^bsb1423
+<big><big>[[Ps.130.1 Out of the Depths|⥃]]</big></big>***Out of the Depths***
 
 
 

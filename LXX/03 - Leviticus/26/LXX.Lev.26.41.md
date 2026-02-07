@@ -1,10 +1,7 @@
 **LXX Leviticus 26:41** 
 <small><sub>**LXX:**</sub></small>
 And I went with them in rage sideways, and I will destroy them in the land  of their enemies. Then their uncircumcised heart shall have felt shame, and then they shall think well on  their sins. 
-<small><sub>**KJV:**</sub></small>
-And [that] I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:
-<small><sub>**BSB:**</sub></small>
-and I acted with hostility toward them and brought them into the land of their enemies—and if their uncircumcised hearts will be humbled and they will make amends for their iniquity,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.40|<< Leviticus 26:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.42|Leviticus 26:42 >>]]</td></tr></table>
 
 | Translation | Greek |

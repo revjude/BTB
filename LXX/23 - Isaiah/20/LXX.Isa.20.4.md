@@ -1,10 +1,7 @@
 **LXX Isaiah 20:4** 
 <small><sub>**LXX:**</sub></small>
 for thus \[the\] king of \[the\] Assyrians shall lead the captivity of Egypt and Ethiopia, young men and old men, naked and barefoot, uncovering the shame of Egypt. 
-<small><sub>**KJV:**</sub></small>
-So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with [their] buttocks uncovered, to the shame of Egypt.
-<small><sub>**BSB:**</sub></small>
-so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old alike, naked and barefoot, with bared buttocks—to Egypt’s shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.3|<< Isaiah 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.20.5|Isaiah 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:29** 
 <small><sub>**LXX:**</sub></small>
 Why have you looked upon  my incense \[offering\], and upon  my sacrifice \[offering\] \[with an\] impudent eye, and glorified  your sons above me, in \[them\] blessing themselves \[with the\] first-fruit of every sacrifice of Israel, prior of me? 
-<small><sub>**KJV:**</sub></small>
-Wherefore kick ye at my sacrifice and at mine offering, which I have commanded [in my] habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
-<small><sub>**BSB:**</sub></small>
-Why then do you kick at My sacrifice and offering that I have prescribed for My dwelling place? You have honored your sons more than Me by fattening yourselves with the best of all the offerings of My people Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.28|<< 1 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.30|1 Samuel 2:30 >>]]</td></tr></table>
 
 | Translation | Greek |

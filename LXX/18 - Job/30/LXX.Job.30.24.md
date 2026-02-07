@@ -1,10 +1,7 @@
 **LXX Job 30:24** 
 <small><sub>**LXX:**</sub></small>
 For ought \[that\] I should be able to lay hands upon myself, or indeed beseech another and he should do this to me. 
-<small><sub>**KJV:**</sub></small>
-Howbeit he will not stretch out [his] hand to the grave, though they cry in his destruction.
-<small><sub>**BSB:**</sub></small>
-Yet no one stretches out his hand against a ruined man when he cries for help in his distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.25|Job 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

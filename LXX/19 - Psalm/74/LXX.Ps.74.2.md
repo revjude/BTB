@@ -1,10 +1,7 @@
 **LXX Psalm 74:2** 
 <small><sub>**LXX:**</sub></small>
 Remember  your congregation! of which you acquired from \[the\] beginning. You ransomed \[the\] rod of your inheritance; this mount Zion where you encamped in it. 
-<small><sub>**KJV:**</sub></small>
-Remember thy congregation, [which] thou hast purchased of old; the rod of thine inheritance, [which] thou hast redeemed; this mount Zion, wherein thou hast dwelt.
-<small><sub>**BSB:**</sub></small>
-Remember Your congregation, which You purchased long ago and redeemed as the tribe of Your inheritance—Mount Zion, where You dwell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.1|<< Psalm 74:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.3|Psalm 74:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 33:18** 
 <small><sub>**LXX:**</sub></small>
 And departing from Hazeroth, and they camped in Rithmah. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Hazeroth, and pitched in Rithmah.
-<small><sub>**BSB:**</sub></small>
-They set out from Hazeroth and camped at Rithmah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.17|<< Numbers 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.19|Numbers 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

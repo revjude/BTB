@@ -1,5 +1,5 @@
-**Romans 1:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:17**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
 <small><sub>**BSB:**</sub></small>
 For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: “The righteous will live by faith.”
@@ -10,7 +10,7 @@ For the gospel reveals the righteousness of God that comes by faith from start t
 > $\quad$ referencing: [[LXX.Hab.2.4|Hab 2:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] righteousness |**<big>[[G1343\|δικαιοσύνη]]</big>**  |dikaiosunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

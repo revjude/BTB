@@ -1,4 +1,4 @@
-**Genesis 28:11** 
+**Genesis 28:11**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put [them for] his pillows, and lay down in that place to sleep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On reaching a certain place, he spent the night there because the sun had set. A
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.10|<< Genesis 28:10]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.12|Genesis 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reached  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6293\|יִּפְגַּ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Ga'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> the place  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4725\|מָּק֜וֹם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

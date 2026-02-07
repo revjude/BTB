@@ -1,10 +1,7 @@
 **LXX Genesis 18:15** 
 <small><sub>**LXX:**</sub></small>
 But Sarah denied, saying, I did not laugh; for she feared. And he said to her, No, but you laughed! 
-<small><sub>**KJV:**</sub></small>
-Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
-<small><sub>**BSB:**</sub></small>
-But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,” replied the LORD, “but you did laugh.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.14|<< Genesis 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.16|Genesis 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

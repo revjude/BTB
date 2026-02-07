@@ -1,4 +1,4 @@
-**Genesis 3:7** 
+**Genesis 3:7**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the eyes of them both were opened, and they knew that they [were] naked; and they sewed fig leaves together, and made themselves aprons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the eyes of both of them were opened, and they knew that they were naked; so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.6|<< Genesis 3:6]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.8|Genesis 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6491\|תִּפָּקַ֙חְנָה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.pa.Kach.nah<small><sup>[[HVNw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 6:10** 
+**Job 6:10**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It still brings me comfort, and joy through unrelenting pain, that I have not de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.9|<< Job 6:9]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.11|Job 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may it be  |**<big>&#8207;[[H9002\|וּ֥]]&#8207;&#8207;[[H1961\|תְהִי]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> te.hi<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֨וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

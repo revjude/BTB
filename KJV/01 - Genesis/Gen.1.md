@@ -1,36 +1,36 @@
 (KJV) **Genesis 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">&nbsp;</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2|Genesis 2 >>]]</td></tr></table>
 
-***The Creation***&emsp;<small><sup>\[ [[John.1|John 1:1–5]] <big>†</big> [[Heb.11|Hebrews 11:1–3]] ]</sup></small> ^bsb1
+<big><big>[[Gen.1.1 The Creation|⥃]]</big></big>***The Creation***&emsp;<small><sup>\[ [[John.1|John 1:1–5]] <big>†</big> [[Heb.11|Hebrews 11:1–3]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.1.1|1]]**<span class="endversemarker">]</span> In the beginning<small><small>[^3]</small></small> God<small><small>[^4]</small></small> created the heaven and the earth.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Gen.1.2|2]]**<span class="endversemarker">]</span> And the earth was without<small><small>[^6]</small></small> form and void; and darkness \[was\] upon the face of the deep. And the Spirit<small><small>[^7]</small></small> of God moved upon the face of the waters.
 
-*The First Day* ^bsb2
+<big><big>[[Gen.1.3 The First Day|⥃]]</big></big>*The First Day*
 
  <span class="startversemarker">[</span>**[[Gen.1.3|3]]**<span class="endversemarker">]</span> And God<small><small>[^8]</small></small> said, Let<small><small>[^9]</small></small> there be light: and there was light. <span class="startversemarker">[</span>**[[Gen.1.4|4]]**<span class="endversemarker">]</span> And God saw the light, that<small><small>[^10]</small></small> \[it was\] good: and God divided the light from the darkness<small><small>[^11]</small></small>. <span class="startversemarker">[</span>**[[Gen.1.5|5]]**<span class="endversemarker">]</span> And<small><small>[^12]</small></small> God called the light Day, and the darkness he called Night. And the evening and the morning were<small><small>[^13]</small></small> the first day.
 
-*The Second Day* ^bsb3
+<big><big>[[Gen.1.6 The Second Day|⥃]]</big></big>*The Second Day*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.1.6|6]]**<span class="endversemarker">]</span> And God said, Let there<small><small>[^14]</small></small> be a firmament<small><small>[^15]</small></small> in the midst of the waters, and let it divide the waters from the waters. <span class="startversemarker">[</span>**[[Gen.1.7|7]]**<span class="endversemarker">]</span> And God made the firmament, and divided<small><small>[^16]</small></small> the waters which \[were\] under the firmament from the waters which \[were\] above<small><small>[^17]</small></small> the firmament: and it<small><small>[^18]</small></small> was so. <span class="startversemarker">[</span>**[[Gen.1.8|8]]**<span class="endversemarker">]</span> And God<small><small>[^19]</small></small> called the firmament Heaven. And the evening<small><small>[^20]</small></small> and the morning were the second day.
 
-*The Third Day* ^bsb4
+<big><big>[[Gen.1.9 The Third Day|⥃]]</big></big>*The Third Day*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.1.9|9]]**<span class="endversemarker">]</span> And God said, Let the waters under the heaven be gathered together unto one place, and let the dry \[land\] appear: and it was so.<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Gen.1.10|10]]**<span class="endversemarker">]</span> And God called the dry \[land\] Earth; and the gathering together of the waters called he Seas: and God saw<small><small>[^22]</small></small> that \[it was\] good. <span class="startversemarker">[</span>**[[Gen.1.11|11]]**<span class="endversemarker">]</span> And God said, Let the<small><small>[^23]</small></small> earth bring forth grass<small><small>[^24]</small></small>, the herb yielding seed, \[and\] the fruit<small><small>[^25]</small></small> tree yielding fruit after his kind, whose seed \[is\] in itself, upon the earth: and it was so. <span class="startversemarker">[</span>**[[Gen.1.12|12]]**<span class="endversemarker">]</span> And the earth<small><small>[^26]</small></small> brought forth grass, \[and\] herb<small><small>[^27]</small></small> yielding seed after his kind, and the tree yielding fruit, whose seed \[was\] in itself, after his kind: and God saw that \[it was\] good. <span class="startversemarker">[</span>**[[Gen.1.13|13]]**<span class="endversemarker">]</span> And the evening and the morning were the third day.
 
-*The Fourth Day* ^bsb5
+<big><big>[[Gen.1.14 The Fourth Day|⥃]]</big></big>*The Fourth Day*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.1.14|14]]**<span class="endversemarker">]</span> And God said, Let there<small><small>[^28]</small></small> be lights<small><small>[^29]</small></small> in the firmament of the heaven to divide the day from the night<small><small>[^30]</small></small>; and let<small><small>[^31]</small></small> them be for signs, and for seasons, and for days, and years: <span class="startversemarker">[</span>**[[Gen.1.15|15]]**<span class="endversemarker">]</span> And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. <span class="startversemarker">[</span>**[[Gen.1.16|16]]**<span class="endversemarker">]</span> And God made two great lights; the greater light to rule<small><small>[^32]</small></small> the day, and the lesser light to rule the night: \[he made\] the stars also<small><small>[^33]</small></small>. <span class="startversemarker">[</span>**[[Gen.1.17|17]]**<span class="endversemarker">]</span> And God set them in the firmament of the heaven to give light upon the earth,<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Gen.1.18|18]]**<span class="endversemarker">]</span> And to rule over the day and over the night, and to divide the light from the darkness: and God saw that \[it was\] good.<small><small>[^35]</small></small> <span class="startversemarker">[</span>**[[Gen.1.19|19]]**<span class="endversemarker">]</span> And the evening and the morning were the fourth day.
 
-*The Fifth Day* ^bsb6
+<big><big>[[Gen.1.20 The Fifth Day|⥃]]</big></big>*The Fifth Day*
 
  <span class="startversemarker">[</span>**[[Gen.1.20|20]]**<span class="endversemarker">]</span> And God said, Let the waters<small><small>[^36]</small></small> bring forth abundantly the moving<small><small>[^37]</small></small> creature that hath life<small><small>[^38]</small></small>, and fowl \[that\] may fly<small><small>[^39]</small></small> above the earth in the open firmament<small><small>[^40]</small></small> of heaven. <span class="startversemarker">[</span>**[[Gen.1.21|21]]**<span class="endversemarker">]</span> And God created great<small><small>[^41]</small></small> whales, and every living creature that moveth, which the waters brought<small><small>[^42]</small></small> forth abundantly, after their kind, and every winged fowl after his kind: and God saw<small><small>[^43]</small></small> that \[it was\] good. <span class="startversemarker">[</span>**[[Gen.1.22|22]]**<span class="endversemarker">]</span> And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.<small><small>[^44]</small></small> <span class="startversemarker">[</span>**[[Gen.1.23|23]]**<span class="endversemarker">]</span> And the evening and the morning were the fifth day.
 
-*The Sixth Day* ^bsb7
+<big><big>[[Gen.1.24 The Sixth Day|⥃]]</big></big>*The Sixth Day*
 
  
 

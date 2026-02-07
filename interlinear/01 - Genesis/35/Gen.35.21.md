@@ -1,4 +1,4 @@
-**Genesis 35:21** 
+**Genesis 35:21**<big><big>[[Gen.35.21 The Sons of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel journeyed, and spread his tent beyond the tower of Edar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel again set out and pitched his tent beyond the Tower of Eder.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.20|<< Genesis 35:20]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.22|Genesis 35:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסַּ֖ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

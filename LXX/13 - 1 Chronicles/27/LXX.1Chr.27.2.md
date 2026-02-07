@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:2** 
 <small><sub>**LXX:**</sub></small>
 And over the first division of the first month \[was\] Jashobeam the \[son of\] Zabdiel; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-Over the first course for the first month [was] Jashobeam the son of Zabdiel: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.1|<< 1 Chronicles 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.3|1 Chronicles 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

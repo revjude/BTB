@@ -1,12 +1,12 @@
-**Acts 24:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:5**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we have found this man [a] pestilent [fellow], and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:
 <small><sub>**BSB:**</sub></small>
 We have found this man to be a pestilence, stirring up dissension among the Jews all over the world. He is a ringleader of the sect of the Nazarenes,
 <small><sub>**Literal:**</sub></small>
 Having found for <the> man this a pest and stirring insurrections among all the Jews <the> in the world a leader then of the of the Nazarenes sect;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.4|<< Acts 24:4]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.6|Acts 24:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having found |**<big>[[G2147\|εὑρόντες]]</big>**  |heurontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:11** 
 <small><sub>**LXX:**</sub></small>
 And they gave \[it\] to the fabricators and to the builders to buy quadrangular stones, and wood for beams to roof the houses which \[the\] kings of Judah utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-Even to the artificers and builders gave they [it], to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed.
-<small><sub>**BSB:**</sub></small>
-They also gave money to the carpenters and builders to buy dressed stone, as well as timbers for couplings and beams for the buildings that the kings of Judah had allowed to deteriorate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.10|<< 2 Chronicles 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.12|2 Chronicles 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

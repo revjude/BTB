@@ -1,10 +1,7 @@
 **LXX Esther 8:9** 
 <small><sub>**LXX:**</sub></small>
 And the scribes were called in the first month, which is Nisan, on the third and twentieth day of the same year. And it was written to the Jews, as much as was given charge to the \[local\] managers, and to the rulers of the satrapies from  India unto  Ethiopia -- a hundred twenty-seven satrapies, according to place by place, according to  their form of speech. 
-<small><sub>**KJV:**</sub></small>
-Then were the king’s scribes called at that time in the third month, that [is], the month Sivan, on the three and twentieth [day] thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which [are] from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.
-<small><sub>**BSB:**</sub></small>
-At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.8|<< Esther 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.10|Esther 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

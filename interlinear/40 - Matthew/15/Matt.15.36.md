@@ -1,12 +1,12 @@
-**Matthew 15:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:36**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took the seven loaves and the fishes, and gave thanks, and brake [them], and gave to his disciples, and the disciples to the multitude.
 <small><sub>**BSB:**</sub></small>
 Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
 <small><sub>**Literal:**</sub></small>
 and having taken the seven loaves and the fish, and having given thanks He broke [them] and was giving to the disciples of him <the> and the disciples to the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.35|<< Matthew 15:35]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.37|Matthew 15:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | having taken [^1] |**<big>[[G2983\|ἔλαβεν]]</big>**  |elaben <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

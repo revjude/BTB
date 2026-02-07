@@ -1,4 +1,4 @@
-**Jeremiah 19:7** 
+**Jeremiah 19:7**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in this place I will ruin the plans of Judah and Jerusalem. I will make them
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.6|<< Jeremiah 19:6]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.8|Jeremiah 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make void  |**<big>&#8207;[[H9001\|וּ֠]]&#8207;&#8207;[[H1238B\|בַקֹּתִי]]&#8207; </big>**| U.<small><sup>[[Hc]]</sup></small> va.ko.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

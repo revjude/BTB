@@ -1,4 +1,4 @@
-**Hosea 10:5** 
+**Hosea 10:5**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof [that] rejoiced on it, for the glory thereof, because it is departed from it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people of Samaria will fear for the calf of Beth-aven. Indeed, its people wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] heifers of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5697A\|עֶגְלוֹת֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'eg.lOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Beth  |**<big>&#8207;[[H1007\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

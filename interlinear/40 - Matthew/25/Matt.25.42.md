@@ -1,12 +1,12 @@
-**Matthew 25:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:42**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:
 <small><sub>**BSB:**</sub></small>
 For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink,
 <small><sub>**Literal:**</sub></small>
 I hungered for and nothing you gave to Me to eat, and I thirsted and nothing You gave to drink Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.41|<< Matthew 25:41]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.43|Matthew 25:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I hungered |**<big>[[G3983\|ἐπείνασα]]</big>**  |epeinasa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

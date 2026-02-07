@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:7** 
 <small><sub>**LXX:**</sub></small>
 All the ones finding them consumed them.  Their enemies said, We should not spare them, because they sinned \[against\] the <span class="smallcaps">lord</span>, \[the\] pasture of righteousness to the one gathering  their fathers -- the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the LORD, the habitation of justice, even the LORD, the hope of their fathers.
-<small><sub>**BSB:**</sub></small>
-All who found them devoured them, and their enemies said, ‘We are not guilty, for they have sinned against the LORD, their true pasture, the LORD, the hope of their fathers.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.6|<< Jeremiah 50:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.8|Jeremiah 50:8 >>]]</td></tr></table>
 
 | Translation | Greek |

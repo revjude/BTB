@@ -1,10 +1,7 @@
 **LXX Judges 4:10** 
 <small><sub>**LXX:**</sub></small>
 And Barak summoned  Zebulun and  Naphtali to Kedesh. And ascended by his feet ten thousand men; and Deborah ascended with him. 
-<small><sub>**KJV:**</sub></small>
-And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
-<small><sub>**BSB:**</sub></small>
-where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Deborah also went with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.9|<< Judges 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.11|Judges 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

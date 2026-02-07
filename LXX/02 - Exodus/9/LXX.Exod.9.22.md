@@ -1,10 +1,7 @@
 **LXX Exodus 9:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Stretch out  your hand unto  heaven! and there will be hail upon all the land of Egypt; upon both the men, and the cattle, and upon all pasturage  upon the land. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Stretch out your hand toward heaven, so that hail may fall on all the land of Egypt—on man and beast and every plant of the field throughout the land of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.21|<< Exodus 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.23|Exodus 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

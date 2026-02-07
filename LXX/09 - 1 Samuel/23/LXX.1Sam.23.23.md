@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:23** 
 <small><sub>**LXX:**</sub></small>
 And look and know of all the places where he hides there! And return to me at ready! and I shall go with you. And it will be if he is in the land, that I shall search him out among all \[the\] thousands of Judah. 
-<small><sub>**KJV:**</sub></small>
-See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.
-<small><sub>**BSB:**</sub></small>
-Observe and find out all the places where he hides. Then come back to me with certainty, and I will go with you. If he is in the land, I will search him out among all the clans of Judah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

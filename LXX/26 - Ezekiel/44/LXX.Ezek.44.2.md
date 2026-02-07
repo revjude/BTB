@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me,  This gate having been locked will not be opened, and no one will go through it, for \[the\] <span class="smallcaps">lord</span>  God of Israel will go through it, and it will be locked. 
-<small><sub>**KJV:**</sub></small>
-Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to me, “This gate is to remain shut. It shall not be opened, and no man shall enter through it, because the LORD, the God of Israel, has entered through it. Therefore it will remain shut.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.1|<< Ezekiel 44:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.3|Ezekiel 44:3 >>]]</td></tr></table>
 
 | Translation | Greek |

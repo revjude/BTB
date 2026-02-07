@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:22** 
 <small><sub>**LXX:**</sub></small>
 And after him the priests repaired, \[the\] men of Ekchechar. 
-<small><sub>**KJV:**</sub></small>
-And after him repaired the priests, the men of the plain.
-<small><sub>**BSB:**</sub></small>
-And next to him, the priests from the surrounding area made repairs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.21|<< Nehemiah 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.23|Nehemiah 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

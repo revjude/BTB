@@ -1,4 +1,4 @@
-**1 Chronicles 9:38** 
+**1 Chronicles 9:38**<big><big>[[1Chr.9.35 The Descendants of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mikloth was the father of Shimeam. They too lived alongside their relatives in J
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.37|<< 1 Chronicles 9:37]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.39|1 Chronicles 9:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mikloth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4732G\|מִקְל֖וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mik.Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

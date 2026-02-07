@@ -1,10 +1,7 @@
 **LXX Numbers 14:45** 
 <small><sub>**LXX:**</sub></small>
 And Amalekite came down, and the Canaanite  lying in wait in  that mountain, and they routed them, and they slew them unto Hormah. 
-<small><sub>**KJV:**</sub></small>
-Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, [even] unto Hormah.
-<small><sub>**BSB:**</sub></small>
-Then the Amalekites and Canaanites who lived in that part of the hill country came down, attacked them, and routed them all the way to Hormah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.44|<< Numbers 14:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.1|Numbers 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

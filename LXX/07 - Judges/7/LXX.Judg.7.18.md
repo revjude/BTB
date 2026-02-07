@@ -1,10 +1,7 @@
 **LXX Judges 7:18** 
 <small><sub>**LXX:**</sub></small>
 When I shall trump with the horn, I and all with me, then you shall trump with the horns round about \[the\] entire  camp, and you shall say, For the <span class="smallcaps">lord</span> and  for Gideon. 
-<small><sub>**KJV:**</sub></small>
-When I blow with a trumpet, I and all that [are] with me, then blow ye the trumpets also on every side of all the camp, and say, [The sword] of the LORD, and of Gideon.
-<small><sub>**BSB:**</sub></small>
-When I and all who are with me blow our horns, then you are also to blow your horns from all around the camp and shout, ‘For the LORD and for Gideon!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

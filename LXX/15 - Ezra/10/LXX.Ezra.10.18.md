@@ -1,10 +1,7 @@
 **LXX Ezra 10:18** 
 <small><sub>**LXX:**</sub></small>
 And there were found of \[the\] sons of the priests, the ones settling with alien wives, \[some\] of \[the\] sons of Jeshua son of Jozadak, and of his brethren Maaseiah, and Eliezer, and Jarib, and Gedaliah. 
-<small><sub>**KJV:**</sub></small>
-And among the sons of the priests there were found that had taken strange wives: [namely], of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
-<small><sub>**BSB:**</sub></small>
-Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.17|<< Ezra 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.19|Ezra 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

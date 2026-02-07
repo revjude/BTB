@@ -1,10 +1,7 @@
 **LXX Daniel 9:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall know and perceive, from \[the\] delivery of \[the\] word  to respond and  to build Jerusalem until \[the\] anointed one leading -- seven periods of seven, and sixty-two periods of seven. Again \[the\] square and wall shall be built in straits of the times. 
-<small><sub>**KJV:**</sub></small>
-Know therefore and understand, [that] from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince [shall be] seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
-<small><sub>**BSB:**</sub></small>
-Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.24|<< Daniel 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.26|Daniel 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

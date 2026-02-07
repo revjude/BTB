@@ -1,10 +1,7 @@
 **LXX Zechariah 9:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this, \[the\] <span class="smallcaps">lord</span> will inherit her, and he shall strike her power in \[the\] sea; and she shall be consumed by fire. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.
-<small><sub>**BSB:**</sub></small>
-Behold, the Lord will impoverish her and cast her wealth into the sea, and she will be consumed by fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.3|<< Zechariah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.5|Zechariah 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

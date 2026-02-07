@@ -1,10 +1,7 @@
 **LXX Psalm 69:29** 
 <small><sub>**LXX:**</sub></small>
 I am poor and aching;  your deliverance, O God, may it take hold of me. 
-<small><sub>**KJV:**</sub></small>
-But I [am] poor and sorrowful: let thy salvation, O God, set me up on high.
-<small><sub>**BSB:**</sub></small>
-But I am in pain and distress; let Your salvation protect me, O God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.28|<< Psalm 69:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.30|Psalm 69:30 >>]]</td></tr></table>
 
 | Translation | Greek |

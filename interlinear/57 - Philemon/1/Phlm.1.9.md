@@ -1,12 +1,12 @@
-**Philemon 1:9
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:9**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet for love’s sake I rather beseech [thee], being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 I prefer to appeal on the basis of love. For I, Paul, am now aged, and a prisoner of Christ Jesus as well.
 <small><sub>**Literal:**</sub></small>
 for the sake of <the> love rather I exhort [you], such a one being as Paul aged now then also a prisoner of Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.8|<< Philemon 1:8]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.10|Philemon 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for the sake of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

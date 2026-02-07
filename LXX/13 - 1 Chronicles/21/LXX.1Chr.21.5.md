@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:5** 
 <small><sub>**LXX:**</sub></small>
 And Joab gave the number of the numbering of the people  to David. And all Israel was a thousand thousand and a hundred thousand men unsheathing \[the\] broadsword. And of Judah -- four hundred and seventy thousand men unsheathing \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And Joab gave the sum of the number of the people unto David. And all [they of] Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah [was] four hundred threescore and ten thousand men that drew sword.
-<small><sub>**BSB:**</sub></small>
-And Joab reported to David the total number of the troops. In all Israel there were 1,100,000 men who drew the sword, including 470,000 in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.4|<< 1 Chronicles 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.6|1 Chronicles 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

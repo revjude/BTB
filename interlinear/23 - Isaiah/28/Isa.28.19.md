@@ -1,4 +1,4 @@
-**Isaiah 28:19** 
+**Isaiah 28:19**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only [to] understand the report.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As often as it passes through, it will carry you away; it will sweep through mor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.18|<< Isaiah 28:18]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.20|Isaiah 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as often as  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1767\|דֵּ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | passes by it  |**<big>&#8207;[[H5674A\|עָבְר]]&#8207;&#8207;[[H9043\|וֹ֙]]&#8207; </big>**| a.ve.R<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

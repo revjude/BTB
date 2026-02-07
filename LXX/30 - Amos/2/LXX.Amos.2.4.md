@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of the sons of Judah, even for the four, I will not turn away from it; Because  of their thrusting away the law of \[the\] <span class="smallcaps">lord</span>, and  his orders they kept not, and their vain \[idols\] which they made caused them to wander, the ones which their fathers followed after them. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away [the punishment] thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.3|<< Amos 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.5|Amos 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

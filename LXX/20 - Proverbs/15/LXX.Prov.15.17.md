@@ -1,10 +1,7 @@
 **LXX Proverbs 15:17** 
 <small><sub>**LXX:**</sub></small>
 Better hospitality of vegetables with friendship and favor, than a fete of calves with hatred. 
-<small><sub>**KJV:**</sub></small>
-Better [is] a dinner of herbs where love is, than a stalled ox and hatred therewith.
-<small><sub>**BSB:**</sub></small>
-Better a dish of vegetables where there is love than a fattened ox with hatred.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

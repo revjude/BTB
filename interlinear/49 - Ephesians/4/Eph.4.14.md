@@ -1,12 +1,12 @@
-**Ephesians 4:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:14**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That we [henceforth] be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, [and] cunning craftiness, whereby they lie in wait to deceive;
 <small><sub>**BSB:**</sub></small>
 Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming.
 <small><sub>**Literal:**</sub></small>
 so that no longer we may be infants being tossed by waves and being carried about by every wind <the> of teaching in the cunning <the> of men in craftiness with a view to the scheming <the> of deceit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.13|<< Ephesians 4:13]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.15|Ephesians 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no longer |**<big>[[G3371\|μηκέτι]]</big>**  |mēketi <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Thessalonians 4:12
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:12**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may walk honestly toward them that are without, and [that] ye may have lack of nothing.
 <small><sub>**BSB:**</sub></small>
 Then you will behave properly toward outsiders, without being dependent on anyone.
 <small><sub>**Literal:**</sub></small>
 so that you may walk properly toward those outside and of no one need may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.11|<< 1 Thessalonians 4:11]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.13|1 Thessalonians 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you may walk |**<big>[[G4043\|περιπατῆτε]]</big>**  |peripatēte <small><sup>[[V-PAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

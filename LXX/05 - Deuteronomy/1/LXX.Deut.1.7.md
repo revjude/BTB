@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:7** 
 <small><sub>**LXX:**</sub></small>
 You turn and depart, and enter into \[the\] mountain of \[the\] Amorites, and to all the ones adjacent to \[the\] wilderness, to \[the\] mountain, and \[the\] plain, and to \[the\] south, and \[the\] coast land of \[the\] Canaanites, and Antilebanon, unto the river of the great Euphrates! 
-<small><sub>**KJV:**</sub></small>
-Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
-<small><sub>**BSB:**</sub></small>
-Resume your journey and go to the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the hill country, in the foothills, in the Negev, and along the seacoast to the land of the Canaanites and to Lebanon, as far as the great River Euphrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.6|<< Deuteronomy 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.8|Deuteronomy 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

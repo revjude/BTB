@@ -1,4 +1,4 @@
-**Obadiah 1:20** 
+**Obadiah 1:20**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captivity of this host of the children of Israel [shall possess] that of the Canaanites, [even] unto Zarephath; and the captivity of Jerusalem, which [is] in Sepharad, shall possess the cities of the south.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the exiles of this host of the Israelites will possess the land of the Canaa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.19|<< Obadiah 1:19]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.21|Obadiah 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] exile[s] of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1546\|גָלֻ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Lut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fortress  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2426\|חֵל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chel-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

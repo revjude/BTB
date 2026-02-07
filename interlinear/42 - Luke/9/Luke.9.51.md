@@ -1,12 +1,12 @@
-**Luke 9:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:51**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
 <small><sub>**BSB:**</sub></small>
 As the day of His ascension approached, Jesus resolutely set out for Jerusalem.
 <small><sub>**Literal:**</sub></small>
 It came to pass then in the completing the days of the ascension of Him that He himself the face of him steadfastly set <the> to go to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.50|<< Luke 9:50]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.52|Luke 9:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

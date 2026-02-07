@@ -1,4 +1,4 @@
-**Ezekiel 30:23** 
+**Ezekiel 30:23**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter the Egyptians among the nations, and will disperse them through the countries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will disperse the Egyptians among the nations and scatter them throughout the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.22|<< Ezekiel 30:22]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.24|Ezekiel 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will scatter  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|הֲפִצוֹתִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.fi.tzo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

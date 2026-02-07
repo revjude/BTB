@@ -1,10 +1,7 @@
 **LXX Psalm 133:3** 
 <small><sub>**LXX:**</sub></small>
 as dew of Hermon  going down upon the mountains of Zion; for there \[the\] <span class="smallcaps">lord</span> gave charge to the blessing -- life unto the eon. 
-<small><sub>**KJV:**</sub></small>
-As the dew of Hermon, [and as the dew] that descended upon the mountains of Zion: for there the LORD commanded the blessing, [even] life for evermore.
-<small><sub>**BSB:**</sub></small>
-It is like the dew of Hermon falling on the mountains of Zion. For there the LORD has bestowed the blessing of life forevermore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.133.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.133.2|<< Psalm 133:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.134.1|Psalm 134:1 >>]]</td></tr></table>
 
 | Translation | Greek |

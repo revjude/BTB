@@ -1,4 +1,4 @@
-**Malachi 3:12** 
+**Malachi 3:12**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all nations shall call you blessed: for ye shall be a delightsome land, sait
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.11|<< Malachi 3:11]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.13|Malachi 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will call blessed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0833\|אִשְּׁר֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'i.she.Ru<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

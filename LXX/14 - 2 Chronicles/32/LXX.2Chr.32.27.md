@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:27** 
 <small><sub>**LXX:**</sub></small>
 And there came \[to\] Hezekiah riches and glory -- exceedingly much. And he made himself treasuries of silver, and of gold, and of valuable stone, and for  aromatics; and he made armories, and storehouses for all the items of the desirable \[things\]; 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;
-<small><sub>**BSB:**</sub></small>
-Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.26|<< 2 Chronicles 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.28|2 Chronicles 32:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 50:11** 
+**Jeremiah 50:11**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.10|<< Jeremiah 50:10]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.12|Jeremiah 50:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are rejoicing  [^1]|**<big>&#8207;[[H8055\|תִשְׂמְחוּ֙]]&#8207; </big>**[^2] | tis.me.chi<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
@@ -28,7 +28,7 @@ Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, bec
 [^4]: ==L== spelled: **<span class="ashebrew"><big>תַֽעַלְז֔יּ</big></span>**
 [^5]: ==K==: you are skipping about  | **<big>[[H6335A|תָפוּשִׁי]]</big> ** | ta.fu.shi<small><sup>[[HVqi2fs]]</sup></small> 
 [^6]: ==L== spelled: **<span class="ashebrew"><big>תָפ֙וּשׁיּ֙</big></span>**
-[^7]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
-[^8]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
+[^7]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> 
+[^8]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> 
 [^9]: ==L== spelled: **<span class="ashebrew"><big>וְתִצְהֲל֖יּ</big></span>**
 

@@ -1,10 +1,7 @@
 **LXX Leviticus 24:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man who ever should strike \[the\] life of a man, and he should die, to death let him be put to death! 
-<small><sub>**KJV:**</sub></small>
-And he that killeth any man shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-And if a man takes the life of anyone else, he must surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.16|<< Leviticus 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.18|Leviticus 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

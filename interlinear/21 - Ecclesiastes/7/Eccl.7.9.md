@@ -1,4 +1,4 @@
-**Ecclesiastes 7:9** 
+**Ecclesiastes 7:9**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be quickly provoked in your spirit, for anger settles in the lap of a foo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.8|<< Ecclesiastes 7:8]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.10|Ecclesiastes 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be hasty  |**<big>&#8207;[[H0926\|תְּבַהֵ֥ל]]&#8207; </big>**| te.va.Hel<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

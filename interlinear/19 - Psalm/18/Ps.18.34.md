@@ -1,4 +1,4 @@
-**Psalms 18:34** (18:35)
+**Psalms 18:34**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He teacheth my hands to war, so that a bow of steel is broken by mine arms.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He trains my hands for battle; my arms can bend a bow of bronze.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.33|<< Psalms 18:33]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.35|Psalms 18:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he has] trained  |**<big>&#8207;[[H3925G\|מְלַמֵּ֣ד]]&#8207; </big>**| me.la.Med<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands my  |**<big>&#8207;[[H3027G\|יָ֭דַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ya.da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

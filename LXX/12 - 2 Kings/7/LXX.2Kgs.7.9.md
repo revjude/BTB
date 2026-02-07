@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:9** 
 <small><sub>**LXX:**</sub></small>
 And said \[one\] man to  his neighbor, We are not thus doing \[right\].  This day is a day of good news, and we keep silent, and are waiting until light of the morning, and we shall find iniquity. Now then, come, we should go and announce to the house of the king. 
-<small><sub>**KJV:**</sub></small>
-Then they said one to another, We do not well: this day [is] a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king’s household.
-<small><sub>**BSB:**</sub></small>
-Finally, they said to one another, “We are not doing what is right. Today is a day of good news. If we are silent and wait until morning light, our sin will overtake us. Now, therefore, let us go and tell the king’s household.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.8|<< 2 Kings 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.10|2 Kings 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

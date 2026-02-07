@@ -1,4 +1,4 @@
-**Genesis 22:17** 
+**Genesis 22:17**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which [is] upon the sea shore; and thy seed shall possess the gate of his enemies;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will surely bless you, and I will multiply your descendants like the stars in 
 > $\quad$ referenced by: [[Heb.6.13|Heb 6:13-14]] ☩ [[Heb.11.12|Heb 11:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | surely \<bless>  |**<big>&#8207;[[H1288\|בָרֵ֣ךְ]]&#8207; </big>**| va.Rekh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

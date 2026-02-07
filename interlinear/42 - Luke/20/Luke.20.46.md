@@ -1,12 +1,12 @@
-**Luke 20:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:46**<big><big>[[Luke.20.45 Beware of the Scribes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
 <small><sub>**BSB:**</sub></small>
 “Beware of the scribes. They like to walk around in long robes, and they love the greetings in the marketplaces, the chief seats in the synagogues, and the places of honor at banquets.
 <small><sub>**Literal:**</sub></small>
 do beware of the scribes who are desiring to walk in long robes and loving greetings in the marketplaces and first seats in the synagogues and first places in the banquets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.45|<< Luke 20:45]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.47|Luke 20:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do beware |**<big>[[G4337\|προσέχετε]]</big>**  |prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

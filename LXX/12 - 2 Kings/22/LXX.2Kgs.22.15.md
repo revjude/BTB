@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:15** 
 <small><sub>**LXX:**</sub></small>
 And she said to them, Thus says \[the\] <span class="smallcaps">lord</span> the God of Israel, Speak to the man  sending you to me, 
-<small><sub>**KJV:**</sub></small>
-And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,
-<small><sub>**BSB:**</sub></small>
-And Huldah said to them, “This is what the LORD, the God of Israel, says: ‘Tell the man who sent you<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.14|<< 2 Kings 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.16|2 Kings 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:11** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[have\] you not heard what \[the\] kings of \[the\] Assyrians did, how they destroyed \[the\] whole earth? and shall you be rescued? 
-<small><sub>**KJV:**</sub></small>
-Behold, thou hast heard what the kings of Assyria have done to all lands by destroying them utterly; and shalt thou be delivered?
-<small><sub>**BSB:**</sub></small>
-Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.10|<< Isaiah 37:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.12|Isaiah 37:12 >>]]</td></tr></table>
 
 | Translation | Greek |

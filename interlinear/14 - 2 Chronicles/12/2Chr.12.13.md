@@ -1,4 +1,4 @@
-**2 Chronicles 12:13** 
+**2 Chronicles 12:13**<big><big>[[2Chr.12.13 Rehoboam’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam [was] one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother’s name [was] Naamah an Ammonitess.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus King Rehoboam established himself in Jerusalem and reigned. He was forty-on
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.12|<< 2 Chronicles 12:12]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.14|2 Chronicles 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he strengthened himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יִּתְחַזֵּ֞ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.cha.Zek<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֧לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

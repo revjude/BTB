@@ -1,4 +1,4 @@
-**Song of Solomon 7:1** (7:2)
+**Song of Solomon 7:1**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs [are] like jewels, the work of the hands of a cunning workman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How beautiful are your sandaled feet, O daughter of the prince! The curves of yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.13|<< Song of Solomon 6:13]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.2|Song of Solomon 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are beautiful  |**<big>&#8207;[[H3302\|יָּפ֧וּ]]&#8207; </big>**| ya.Fu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

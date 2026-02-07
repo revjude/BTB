@@ -1,5 +1,5 @@
-**Hebrews 10:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:16**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This [is] the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;
 <small><sub>**BSB:**</sub></small>
 “This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.”
@@ -10,7 +10,7 @@ This [is] the covenant that I will make with them after the days those, says [th
 > $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This [is] |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

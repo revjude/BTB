@@ -1,4 +1,4 @@
-**2 Chronicles 9:1** 
+**2 Chronicles 9:1**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when the queen of Sheba heard about the fame of Solomon, she came to test hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.18|<< 2 Chronicles 8:18]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.2|2 Chronicles 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] queen of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4436G\|מַֽלְכַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.kat-<small><sup>[[HNtfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheba  |**<big>&#8207;[[H7614J\|שְׁבָ֗א]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

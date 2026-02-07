@@ -1,4 +1,4 @@
-**Deuteronomy 22:26** 
+**Deuteronomy 22:26**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the damsel thou shalt do nothing; [there is] in the damsel no sin [worthy] of death: for as when a man riseth against his neighbour, and slayeth him, even so [is] this matter:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do nothing to the young woman, because she has committed no sin worthy of death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.25|<< Deuteronomy 22:25]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.27|Deuteronomy 22:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to the young woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָה֙]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> na.'ar<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:32** 
 <small><sub>**LXX:**</sub></small>
 And sons of Keturah, concubine of Abraham -- and she bore  Zimran, and  Jokshan, and Medan and Midian, and Ishbak, and Shuah. And \[the\] sons of Jokshan -- Sheba and Dedan. 
-<small><sub>**KJV:**</sub></small>
-Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
-<small><sub>**BSB:**</sub></small>
-The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 9:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:22**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [What] if God, willing to shew [his] wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 <small><sub>**BSB:**</sub></small>
 What if God, intending to show His wrath and make His power known, bore with great patience the vessels of His wrath, prepared for destruction?
 <small><sub>**Literal:**</sub></small>
 What if now desiring <the> God to show the wrath and to make known the power of Him bore with much patience [the] vessels of wrath fitted for destruction,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.21|<< Romans 9:21]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.23|Romans 9:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What if |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 47:8** 
 <small><sub>**LXX:**</sub></small>
 But now hear these \[things\]! O delicate one, O one sitting down,  O one yielding. O one saying in  her heart, I am, and there is not another; I shall not sit as a widow, nor shall I know bereavement. 
-<small><sub>**KJV:**</sub></small>
-Therefore hear now this, [thou that art] given to pleasures, that dwellest carelessly, that sayest in thine heart, I [am], and none else beside me; I shall not sit [as] a widow, neither shall I know the loss of children:
-<small><sub>**BSB:**</sub></small>
-So now hear this, O lover of luxury who sits securely, who says to herself, ‘I am, and there is none besides me. I will never be a widow or know the loss of children.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
 
 | Translation | Greek |

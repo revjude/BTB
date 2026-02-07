@@ -1,4 +1,4 @@
-**1 Samuel 16:10** 
+**1 Samuel 16:10**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus Jesse made seven of his sons pass before Samuel, but Samuel told him, “Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.9|<< 1 Samuel 16:9]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.11|1 Samuel 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made pass by  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֵ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Ver<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jesse  |**<big>&#8207;[[H3448\|יִשַׁ֛י]]&#8207; </big>**| yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elisha spoke to the woman of whom the son was enlivened, saying, Rise up and go, you and  your household, and sojourn of which ever \[place\] you should \[want to\] sojourn! for \[the\] <span class="smallcaps">lord</span> has called a famine upon the land; and it will be at hand upon the land \[for\] seven years. 
-<small><sub>**KJV:**</sub></small>
-Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
-<small><sub>**BSB:**</sub></small>
-Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

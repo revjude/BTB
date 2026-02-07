@@ -6,10 +6,7 @@
 <p style="text-align:center;font-weight:600;">ΑΛΕΦ</p>
 
 O How \[the\] <span class="smallcaps">lord</span> darkened his anger for the daughter of Zion. He hurled down from out of heaven unto \[the\] earth \[the\] glory of Israel, and he remembered not \[the\] stool of his feet in a day of wrath of his rage. 
-<small><sub>**KJV:**</sub></small>
-How hath the Lord covered the daughter of Zion with a cloud in his anger, [and] cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
-<small><sub>**BSB:**</sub></small>
-How the Lord has covered the Daughter of Zion with the cloud of His anger! He has cast the glory of Israel from heaven to earth. He has abandoned His footstool in the day of His anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.22|<< Lamentations 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.2|Lamentations 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 5:26** 
+**Daniel 5:26**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this is the interpretation of the message: MENE means that God has numbered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.25|<< Daniel 5:25]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.27|Daniel 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H1836\|דְּנָ֖ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] interpretation of  |**<big>&#8207;[[H6591\|פְּשַֽׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.shar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

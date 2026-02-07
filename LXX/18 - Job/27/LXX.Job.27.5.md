@@ -1,10 +1,7 @@
 **LXX Job 27:5** 
 <small><sub>**LXX:**</sub></small>
 May it not be to me to sentence you as just ones. Until whenever I die for I will not dismiss from me  my innocence, 
-<small><sub>**KJV:**</sub></small>
-God forbid that I should justify you: till I die I will not remove mine integrity from me.
-<small><sub>**BSB:**</sub></small>
-I will never say that you are right; I will maintain my integrity until I die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.6|Job 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 36:7** 
+**Jeremiah 36:7**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It may be they will present their supplication before the LORD, and will return every one from his evil way: for great [is] the anger and the fury that the LORD hath pronounced against this people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Perhaps they will bring their petition before the LORD, and each one will turn f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.6|<< Jeremiah 36:6]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.8|Jeremiah 36:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֞י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will fall  |**<big>&#8207;[[H5307G\|תִּפֹּ֤ל]]&#8207; </big>**| ti.Pol<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

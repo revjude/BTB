@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:8** 
 <small><sub>**LXX:**</sub></small>
 And Hiram sent to Solomon, saying, I have heard concerning all which you have sent to me. I will do all your will for timbers of cedars and of pines. 
-<small><sub>**KJV:**</sub></small>
-And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: [and] I will do all thy desire concerning timber of cedar, and concerning timber of fir.
-<small><sub>**BSB:**</sub></small>
-Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.7|<< 1 Kings 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.9|1 Kings 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 35:3** 
+**2 Chronicles 35:3**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; [it shall] not [be] a burden upon [your] shoulders: serve now the LORD your God, and his people Israel,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the Levites who taught all Israel and were holy to the LORD, Josiah said: “
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.2|<< 2 Chronicles 35:2]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.4|2 Chronicles 35:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the Levites  |**<big>&#8207;[[H9005\|לַ֠]]&#8207;&#8207;[[H3881\|לְוִיִּם]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> l.vi.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

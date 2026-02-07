@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I shall stretch out  my hand against the Philistines. And will utterly destroy \[the\] Cherethim, and I will destroy the ones remaining, the ones dwelling  on the coast. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.
-<small><sub>**BSB:**</sub></small>
-therefore this is what the Lord GOD says: Behold, I will stretch out My hand against the Philistines, and I will cut off the Cherethites and destroy the remnant along the coast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.15|<< Ezekiel 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.17|Ezekiel 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

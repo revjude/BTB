@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:28** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the Nethinim, and all \[the\] ones being parted from the peoples of the land to \[the\] law  of God -- their wives, their sons, their daughters, every one  knowing and perceiving, 
-<small><sub>**KJV:**</sub></small>
-And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
-<small><sub>**BSB:**</sub></small>
-“The rest of the people—the priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the land to obey the Law of God—along with their wives and all their sons and daughters who are able to understand,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.27|<< Nehemiah 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.29|Nehemiah 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

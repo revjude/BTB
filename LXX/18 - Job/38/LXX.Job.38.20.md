@@ -1,10 +1,7 @@
 **LXX Job 38:20** 
 <small><sub>**LXX:**</sub></small>
 If you could lead me into their limits, and even if you know their paths. 
-<small><sub>**KJV:**</sub></small>
-That thou shouldest take it to the bound thereof, and that thou shouldest know the paths [to] the house thereof?
-<small><sub>**BSB:**</sub></small>
-so you can lead it back to its border? Do you know the paths to its home?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.19|<< Job 38:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.21|Job 38:21 >>]]</td></tr></table>
 
 | Translation | Greek |

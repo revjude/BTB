@@ -1,10 +1,7 @@
 **LXX Jonah 4:5** 
 <small><sub>**LXX:**</sub></small>
 And Jonah went forth from out of the city, and he sat before the city, and he made for himself there a tent, and he sat down underneath it, unto of which he could look over what will be of the city. 
-<small><sub>**KJV:**</sub></small>
-So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.
-<small><sub>**BSB:**</sub></small>
-Then Jonah left the city and sat down east of it, where he made himself a shelter and sat in its shade to see what would happen to the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.4|<< Jonah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.6|Jonah 4:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:5** is...

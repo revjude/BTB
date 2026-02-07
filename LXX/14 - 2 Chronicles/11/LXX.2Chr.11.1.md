@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam came into Jerusalem, and he held an assembly  of Judah and Benjamin -- a hundred eighty thousand young men for making war,  to wage war against Israel,  to return the kingdom \[to\] Rehoboam. 
-<small><sub>**KJV:**</sub></small>
-And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen [men], which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.
-<small><sub>**BSB:**</sub></small>
-When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.19|<< 2 Chronicles 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.2|2 Chronicles 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

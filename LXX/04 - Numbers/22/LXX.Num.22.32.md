@@ -1,10 +1,7 @@
 **LXX Numbers 22:32** 
 <small><sub>**LXX:**</sub></small>
 And the angel of God said to him, Why do you strike  your donkey this third time? Now behold, I came forth to distract you, for your way \[was\] not fair before me. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because [thy] way is perverse before me:
-<small><sub>**BSB:**</sub></small>
-The angel of the LORD asked him, “Why have you beaten your donkey these three times? Behold, I have come out to oppose you, because your way is perverse before me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.31|<< Numbers 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.33|Numbers 22:33 >>]]</td></tr></table>
 
 | Translation | Greek |

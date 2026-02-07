@@ -1,4 +1,4 @@
-**Ezekiel 28:2** 
+**Ezekiel 28:2**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart [is] lifted up, and thou hast said, I [am] a God, I sit [in] the seat of God, in the midst of the seas; yet thou [art] a man, and not God, though thou set thine heart as the heart of God:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine
 > $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֡ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

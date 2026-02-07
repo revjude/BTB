@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:64** 
 <small><sub>**LXX:**</sub></small>
 In  that day the king sanctified the middle of the courtyard  in front of the house of \[the\] <span class="smallcaps">lord</span>; for he prepared there the whole burnt-offering, and the sacrifice \[offerings\], and the fat of the peace \[offerings\], because the altar  of brass  before \[the\] <span class="smallcaps">lord</span> \[was\] small  \[so as\] to not be able to receive the whole burnt-offering, and the gift \[offering\], and the sacrifices of the peace \[offerings\]. 
-<small><sub>**KJV:**</sub></small>
-The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.
-<small><sub>**BSB:**</sub></small>
-On that same day the king consecrated the middle of the courtyard in front of the house of the LORD, and there he offered the burnt offerings, the grain offerings, and the fat of the peace offerings, since the bronze altar before the LORD was too small to contain all these offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.63|<< 1 Kings 8:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.65|1 Kings 8:65 >>]]</td></tr></table>
 
 | Translation | Greek |

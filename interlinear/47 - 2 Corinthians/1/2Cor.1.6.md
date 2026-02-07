@@ -1,12 +1,12 @@
-**2 Corinthians 1:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:6**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whether we be afflicted, [it is] for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, [it is] for your consolation and salvation.
 <small><sub>**BSB:**</sub></small>
 If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which accomplishes in you patient endurance of the same sufferings we experience.
 <small><sub>**Literal:**</sub></small>
 If however we are constricted, [it is] for <the> your comfort and salvation if we are encouraged, [it is] for <the> your comfort and salvation which is operating in [the] endurance of the same sufferings that also we ourselves suffer,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.5|<< 2 Corinthians 1:5]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.7|2 Corinthians 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

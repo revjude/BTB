@@ -1,4 +1,4 @@
-**Proverbs 23:35** 
+**Proverbs 23:35**<big><big>[[Prov.23.29 Saying 19|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have stricken me, [shalt thou say, and] I was not sick; they have beaten me, [and] I felt [it] not: when shall I awake? I will seek it yet again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have stricken me, [shalt thou say, and] I was not sick; they have beaten me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.34|<< Proverbs 23:34]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.1|Proverbs 24:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they struck me  |**<big>&#8207;[[H5221\|הִכּ֥וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| hi.Ku.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

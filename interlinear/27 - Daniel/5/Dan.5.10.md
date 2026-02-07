@@ -1,4 +1,4 @@
-**Daniel 5:10** 
+**Daniel 5:10**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] the queen, by reason of the words of the king and his lords, came into the banquet house: [and] the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hearing the outcry of the king and his nobles, the queen entered the banquet hal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.9|<< Daniel 5:9]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.11|Daniel 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | queen the  |**<big>&#8207;[[H4433\|מַלְכְּתָ֕]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.ke.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H6903G\|קֳבֵ֨ל]]&#8207; </big>**| lo.<small><sup>[[AR]]</sup></small> ko.Vel<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

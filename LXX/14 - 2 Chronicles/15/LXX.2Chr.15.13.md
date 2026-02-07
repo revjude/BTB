@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:13** 
 <small><sub>**LXX:**</sub></small>
 And all who ever did not seek after the <span class="smallcaps">lord</span>  God  of Israel shall die, from younger unto older, from man unto woman. 
-<small><sub>**KJV:**</sub></small>
-That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman.
-<small><sub>**BSB:**</sub></small>
-And whoever would not seek the LORD, the God of Israel, would be put to death, whether young or old, man or woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.12|<< 2 Chronicles 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.14|2 Chronicles 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

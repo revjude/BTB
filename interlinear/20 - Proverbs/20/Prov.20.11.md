@@ -1,4 +1,4 @@
-**Proverbs 20:11** 
+**Proverbs 20:11**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even a child is known by his doings, whether his work [be] pure, and whether [it be] right.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even a young man is known by his actions—whether his conduct is pure and uprig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.10|<< Proverbs 20:10]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.12|Proverbs 20:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by deeds his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H4611\|מַעֲלָלָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> ma.'a.la.la<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

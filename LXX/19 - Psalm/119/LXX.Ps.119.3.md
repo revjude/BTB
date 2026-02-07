@@ -1,10 +1,7 @@
 **LXX Psalm 119:3** 
 <small><sub>**LXX:**</sub></small>
 For the ones practicing lawlessness gone not in his ways. 
-<small><sub>**KJV:**</sub></small>
-They also do no iniquity: they walk in his ways.
-<small><sub>**BSB:**</sub></small>
-They do no iniquity; they walk in His ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.2|<< Psalm 119:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.4|Psalm 119:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 14:22** 
+**Job 14:22**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his flesh upon him shall have pain, and his soul within him shall mourn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He feels only the pain of his own body and mourns only for himself.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.21|<< Job 14:21]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.1|Job 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | own flesh his  |**<big>&#8207;[[H1320\|בְּ֭שָׂר]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.sa.r<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 38:28** 
 <small><sub>**LXX:**</sub></small>
 And the thousand seven hundred seventy five shekels he made for the hooks for the posts; and he gilded  their tips, and adorned them. 
-<small><sub>**KJV:**</sub></small>
-And of the thousand seven hundred seventy and five [shekels] he made hooks for the pillars, and overlaid their chapiters, and filleted them.
-<small><sub>**BSB:**</sub></small>
-With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.27|<< Exodus 38:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.29|Exodus 38:29 >>]]</td></tr></table>
 
 | Translation | Greek |

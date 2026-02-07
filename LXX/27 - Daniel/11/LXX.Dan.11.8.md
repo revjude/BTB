@@ -1,10 +1,7 @@
 **LXX Daniel 11:8** 
 <small><sub>**LXX:**</sub></small>
 And indeed  their gods with  their molten \[images\], \[and\] every desirable item of theirs of silver and of gold, with \[the\] captivity, he shall bring into Egypt. And he shall stand over \[the\] king of the north. 
-<small><sub>**KJV:**</sub></small>
-And shall also carry captives into Egypt their gods, with their princes, [and] with their precious vessels of silver and of gold; and he shall continue [more] years than the king of the north.
-<small><sub>**BSB:**</sub></small>
-He will take even their gods captive to Egypt, with their metal images and their precious vessels of silver and gold. For some years he will stay away from the king of the North,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.7|<< Daniel 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.9|Daniel 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

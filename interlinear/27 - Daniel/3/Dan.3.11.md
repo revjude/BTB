@@ -1,4 +1,4 @@
-**Daniel 3:11** 
+**Daniel 3:11**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whoso falleth not down and worshippeth, [that] he should be cast into the midst of a burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and that whoever does not fall down and worship will be thrown into the blazing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.10|<< Daniel 3:10]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.12|Daniel 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and whoever  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4479\|מַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> man-<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1768\|דִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

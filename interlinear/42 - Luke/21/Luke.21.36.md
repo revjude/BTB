@@ -1,12 +1,12 @@
-**Luke 21:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:36**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 <small><sub>**BSB:**</sub></small>
 So keep watch at all times, and pray that you may have the strength to escape all that is about to happen and to stand before the Son of Man.”
 <small><sub>**Literal:**</sub></small>
 do watch also at every season praying that you may have strength to escape these things all that are soon to come to pass and to stand before the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.35|<< Luke 21:35]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.37|Luke 21:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do watch |**<big>[[G0069\|ἀγρυπνεῖτε]]</big>**  |agrupneite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also [^1] [^2] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

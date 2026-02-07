@@ -1,10 +1,7 @@
 **LXX Proverbs 14:22** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ones wandering contrive evils; but mercy and truth are contrived by \[the\] good. \[The\] fabricators of evils do not have knowledge of mercy and trust; but charity and trust \[are\] by good fabricators. 
-<small><sub>**KJV:**</sub></small>
-Do they not err that devise evil? but mercy and truth [shall be] to them that devise good.
-<small><sub>**BSB:**</sub></small>
-Do not those who contrive evil go astray? But those who plan goodness find loving devotion and faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.21|<< Proverbs 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.23|Proverbs 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

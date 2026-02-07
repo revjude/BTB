@@ -1,4 +1,4 @@
-**Psalms 118:28** 
+**Psalms 118:28**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] my God, and I will praise thee: [thou art] my God, I will exalt thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are my God, and I will give You thanks. You are my God, and I will exalt You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.27|<< Psalms 118:27]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.29|Psalms 118:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] God my  |**<big>&#8207;[[H0410G\|אֵלִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

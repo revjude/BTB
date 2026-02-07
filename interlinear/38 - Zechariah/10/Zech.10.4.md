@@ -1,4 +1,4 @@
-**Zechariah 10:4** 
+**Zechariah 10:4**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cornerstone will come from Judah, the tent peg from him, as well as the batt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.3|<< Zechariah 10:3]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.5|Zechariah 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֤]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a corner  |**<big>&#8207;[[H6438H\|פִנָּה֙]]&#8207; </big>**| fi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

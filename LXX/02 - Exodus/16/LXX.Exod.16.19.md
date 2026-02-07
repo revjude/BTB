@@ -1,10 +1,7 @@
 **LXX Exodus 16:19** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to them, Let no one leave behind of his into the morning! 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Let no man leave of it till the morning.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to them, “No one may keep any of it until morning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.18|<< Exodus 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.20|Exodus 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

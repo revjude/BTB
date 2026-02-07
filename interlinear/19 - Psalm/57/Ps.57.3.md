@@ -1,4 +1,4 @@
-**Psalms 57:3** (57:4)
+**Psalms 57:3**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall send from heaven, and save me [from] the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He reaches down from heaven and saves me; He rebukes those who trample me. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.2|<< Psalms 57:2]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.4|Psalms 57:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will send  |**<big>&#8207;[[H7971G\|יִשְׁלַ֤ח]]&#8207; </big>**| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

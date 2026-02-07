@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:17** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada ordained a covenant between \[the\] <span class="smallcaps">lord</span> and between the king and between the people, \[for them\] to be a people to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’S people; between the king also and the people.
-<small><sub>**BSB:**</sub></small>
-Then Jehoiada made a covenant between the LORD and the king and the people that they would be the LORD’s people. He also made a covenant between the king and the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.16|<< 2 Kings 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.18|2 Kings 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

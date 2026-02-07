@@ -1,10 +1,7 @@
 **LXX Genesis 12:8** 
 <small><sub>**LXX:**</sub></small>
 And he left from there into the mountain according to \[the\] east of Beth-el. And he set up there  his tent in Beth-el according to \[the\] west, and Hai according to \[the\] east. And he built there an altar to the <span class="smallcaps">lord</span>, and he called upon the name of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, [having] Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 11:29** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] unclean to you of the crawling things, of the ones crawling upon the earth -- the weasel, and the mouse, and the dry land crocodile, and the ones likened to it. 
-<small><sub>**KJV:**</sub></small>
-These also [shall be] unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,
-<small><sub>**BSB:**</sub></small>
-The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.28|<< Leviticus 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.30|Leviticus 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

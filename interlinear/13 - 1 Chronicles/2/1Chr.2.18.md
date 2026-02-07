@@ -1,4 +1,4 @@
-**1 Chronicles 2:18** 
+**1 Chronicles 2:18**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Caleb the son of Hezron begat [children] of Azubah [his] wife, and of Jerioth: her sons [are] these; Jesher, and Shobab, and Ardon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Caleb son of Hezron had children by his wife Azubah and by Jerioth. These were t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.17|<< 1 Chronicles 2:17]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.19|1 Chronicles 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Caleb  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3612H\|כָלֵ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

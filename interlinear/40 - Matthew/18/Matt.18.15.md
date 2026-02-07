@@ -1,5 +1,5 @@
-**Matthew 18:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:15**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
 <small><sub>**BSB:**</sub></small>
 If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over.
@@ -10,7 +10,7 @@ If now shall sin against you the brother of you, do go and do reprove him betwee
 > $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

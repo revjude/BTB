@@ -1,12 +1,12 @@
-**Acts 2:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:13**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Others mocking said, These men are full of new wine.
 <small><sub>**BSB:**</sub></small>
 But others mocked them and said, “They are drunk on new wine!”
 <small><sub>**Literal:**</sub></small>
 Others however mocking were saying that Of new wine filled they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.12|<< Acts 2:12]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.14|Acts 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G2087\|ἕτεροι]]</big>**  |heteroi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

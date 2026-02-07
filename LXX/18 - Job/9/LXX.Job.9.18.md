@@ -1,10 +1,7 @@
 **LXX Job 9:18** 
 <small><sub>**LXX:**</sub></small>
 For he allows me not to breathe, and he filled me \[with\] bitterness. 
-<small><sub>**KJV:**</sub></small>
-He will not suffer me to take my breath, but filleth me with bitterness.
-<small><sub>**BSB:**</sub></small>
-He does not let me catch my breath, but overwhelms me with bitterness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.17|<< Job 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.19|Job 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

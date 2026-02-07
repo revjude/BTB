@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:23** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat it before \[the\] <span class="smallcaps">lord</span>  your God in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose his name to be called upon there. You shall bring the tithes  of your grain, and  of your wine, and  of your olive oil, and the first-born  of your oxen, and  of your sheep, that you should learn to fear \[the\] <span class="smallcaps">lord</span>  your God all the days. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.
-<small><sub>**BSB:**</sub></small>
-And you are to eat a tenth of your grain, new wine, and oil, and the firstborn of your herds and flocks, in the presence of the LORD your God at the place He will choose as a dwelling for His Name, so that you may learn to fear the LORD your God always.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.22|<< Deuteronomy 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.24|Deuteronomy 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

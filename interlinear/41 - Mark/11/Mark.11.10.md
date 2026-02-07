@@ -1,5 +1,5 @@
-**Mark 11:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:10**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [be] the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.
 <small><sub>**BSB:**</sub></small>
 “Blessed is the coming kingdom of our father David!” “Hosanna in the highest!”
@@ -10,7 +10,7 @@ Blessed [is] the coming kingdom in name of the Lord of the father of us David! H
 > $\quad$ referencing: [[LXX.Job.16.19|Job 16:19]] ☩ [[LXX.Ps.148.1|Ps 148:1]] ☩ [[LXX.Ps.118.25|Ps 118:25-26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [is] |**<big>[[G2127\|εὐλογημένη]]</big>**  |eulogēmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

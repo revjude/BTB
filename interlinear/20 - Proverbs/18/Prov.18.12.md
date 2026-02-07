@@ -1,4 +1,4 @@
-**Proverbs 18:12** 
+**Proverbs 18:12**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before destruction the heart of man is haughty, and before honour [is] humility.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before his downfall a man’s heart is proud, but humility comes before honor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.11|<< Proverbs 18:11]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.13|Proverbs 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.She-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | destruction  |**<big>&#8207;[[H7667\|שֶׁ֭בֶר]]&#8207; </big>**| She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

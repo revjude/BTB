@@ -1,12 +1,12 @@
-**Acts 2:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:4**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
 <small><sub>**BSB:**</sub></small>
 And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.
 <small><sub>**Literal:**</sub></small>
 And they were filled with all Spirit Holy and began to speak in other tongues even as the Spirit was giving to utter forth to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.3|<< Acts 2:3]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.5|Acts 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were filled with |**<big>[[G4130\|ἐπλήσθησαν]]</big>**  |eplēsthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 36:12** 
 <small><sub>**LXX:**</sub></small>
 And Timnah was a concubine of Eliphaz, the son of Esau. And she bore  to Eliphaz,  Amalek. These \[were\] \[the\] sons of Adah, wife of Esau. 
-<small><sub>**KJV:**</sub></small>
-And Timna was concubine to Eliphaz Esau’s son; and she bare to Eliphaz Amalek: these [were] the sons of Adah Esau’s wife.
-<small><sub>**BSB:**</sub></small>
-Additionally, Timna, a concubine of Esau’s son Eliphaz, gave birth to Amalek. These are the grandsons of Esau’s wife Adah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.11|<< Genesis 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.13|Genesis 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

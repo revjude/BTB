@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:27** 
 <small><sub>**LXX:**</sub></small>
 And they shall lodge surrounding the house of God, for upon them  \[was\] their watch \[responsibility\], and they \[were\] over the keys morning \[by\] morning, to open the doors of the temple. 
-<small><sub>**KJV:**</sub></small>
-And they lodged round about the house of God, because the charge [was] upon them, and the opening thereof every morning [pertained] to them.
-<small><sub>**BSB:**</sub></small>
-They would spend the night stationed around the house of God, because they were responsible for guarding it and opening it every morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.26|<< 1 Chronicles 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.28|1 Chronicles 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

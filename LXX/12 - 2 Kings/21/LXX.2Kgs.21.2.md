@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:2** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>; and he went according to the abominations of the nations, which \[the\] <span class="smallcaps">lord</span> removed from in front of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD, after the abominations of the heathen, whom the LORD cast out before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.1|<< 2 Kings 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.3|2 Kings 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

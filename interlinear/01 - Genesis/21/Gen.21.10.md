@@ -1,4 +1,4 @@
-**Genesis 21:10** 
+**Genesis 21:10**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, [even] with Isaac.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and she said to Abraham, “Expel the slave woman and her son, for the slave wom
 > $\quad$ referenced by: [[Gal.4.30|Gal 4:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Abraham  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

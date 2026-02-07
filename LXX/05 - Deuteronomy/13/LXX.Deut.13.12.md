@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:12** 
 <small><sub>**LXX:**</sub></small>
 And if it should be heard in one  of your cities, which \[the\] <span class="smallcaps">lord</span>  your God gives to you for you to dwell there, saying, 
-<small><sub>**KJV:**</sub></small>
-If thou shalt hear [say] in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,
-<small><sub>**BSB:**</sub></small>
-If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.11|<< Deuteronomy 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.13|Deuteronomy 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

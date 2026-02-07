@@ -1,10 +1,7 @@
 **LXX Job 14:12** 
 <small><sub>**LXX:**</sub></small>
 But man going to sleep shall certainly not rise up, until whenever the heaven in no way shall be sewn together, and they shall not wake up from their sleep. 
-<small><sub>**KJV:**</sub></small>
-So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
-<small><sub>**BSB:**</sub></small>
-so a man lies down and does not rise. Until the heavens are no more, he will not be awakened or roused from sleep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.11|<< Job 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.13|Job 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

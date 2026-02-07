@@ -1,4 +1,4 @@
-**Judges 21:24** 
+**Judges 21:24**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And at that time, each of the Israelites returned from there to his own tribe an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.23|<< Judges 21:23]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.25|Judges 21:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dispersed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יִּתְהַלְּכ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ha.le.Khu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֤ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

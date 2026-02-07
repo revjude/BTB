@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:24** 
 <small><sub>**LXX:**</sub></small>
 But in the turning \[the\] just from  his righteousness, and he should commit iniquity, according to all the iniquities which the lawless one did; if he should do \[thus\], he shall not live. In all the \[things\] of his righteousness, which he did, in no way shall they be remembered; in  his transgression in which he fell, and in  his sins in which he sinned, in them he shall die. 
-<small><sub>**KJV:**</sub></small>
-But when the righteous turneth away from his righteousness, and committeth iniquity, [and] doeth according to all the abominations that the wicked [man] doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.
-<small><sub>**BSB:**</sub></small>
-But if a righteous man turns from his righteousness and practices iniquity, committing the same abominations as the wicked, will he live? None of the righteous acts he did will be remembered. Because of the unfaithfulness and sin he has committed, he will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.23|<< Ezekiel 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.25|Ezekiel 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

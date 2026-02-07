@@ -1,4 +1,4 @@
-**Proverbs 10:26** 
+**Proverbs 10:26**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As vinegar to the teeth, and as smoke to the eyes, so [is] the sluggard to them that send him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like vinegar to the teeth and smoke to the eyes, so is the slacker to those who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.25|<< Proverbs 10:25]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.27|Proverbs 10:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like \<the> vinegar  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2558\|חֹ֤מֶץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Cho.metz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the teeth  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8127G\|שִּׁנַּ֗יִם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> shi.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

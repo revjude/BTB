@@ -1,12 +1,12 @@
-**Acts 10:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:8**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had declared all [these] things unto them, he sent them to Joppa.
 <small><sub>**BSB:**</sub></small>
 He explained what had happened and sent them to Joppa.
 <small><sub>**Literal:**</sub></small>
 and having related all things to them he sent them to <the> Joppa.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.7|<< Acts 10:7]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.9|Acts 10:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having related |**<big>[[G1834\|ἐξηγησάμενος]]</big>**  |exēgēsamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

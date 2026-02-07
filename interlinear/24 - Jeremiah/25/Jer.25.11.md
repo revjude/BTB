@@ -1,4 +1,4 @@
-**Jeremiah 25:11** 
+**Jeremiah 25:11**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this whole land shall be a desolation, [and] an astonishment; and these nations shall serve the king of Babylon seventy years.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And this whole land will become a desolate wasteland, and these nations will ser
 > $\quad$ referenced by: [[Dan.9.2|Dan 9:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָֽיְתָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

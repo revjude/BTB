@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:25** 
 <small><sub>**LXX:**</sub></small>
 and in every city; and in a city of Judah he made high \[places\]  to burn incense to alien gods. And he provoked to anger \[the\] <span class="smallcaps">lord</span>  God  of his fathers. 
-<small><sub>**KJV:**</sub></small>
-And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.
-<small><sub>**BSB:**</sub></small>
-In every city of Judah he built high places to offer incense to other gods, and so he provoked the LORD, the God of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.24|<< 2 Chronicles 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.26|2 Chronicles 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

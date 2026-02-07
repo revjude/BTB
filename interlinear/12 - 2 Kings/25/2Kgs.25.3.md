@@ -1,4 +1,4 @@
-**2 Kings 25:3** 
+**2 Kings 25:3**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the ninth [day] of the [fourth] month the famine prevailed in the city, and there was no bread for the people of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the ninth day of the fourth month, the famine in the city was so severe that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.2|<< 2 Kings 25:2]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.4|2 Kings 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹדֶשׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Based on Greek sources">X</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִי]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAobsa]]</sup></small> | <abbr title="Based on Greek sources">X</abbr> |

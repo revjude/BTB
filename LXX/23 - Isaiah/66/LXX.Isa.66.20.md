@@ -1,10 +1,7 @@
 **LXX Isaiah 66:20** 
 <small><sub>**LXX:**</sub></small>
 And they shall lead  your brethren from out of all the nations, \[as\] a gift \[to the\] <span class="smallcaps">lord</span>, with horses, and chariots, in royal chariots \[drawn by\] mules with awnings, into the holy city Jerusalem. And \[the\] <span class="smallcaps">lord</span> said, As  the sons of Israel may offer  their sacrifices to me with psalms in the house of \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And they shall bring all your brethren [for] an offering unto the LORD out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the LORD, as the children of Israel bring an offering in a clean vessel into the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And they will bring all your brothers from all the nations as a gift to the LORD on horses and chariots and wagons, on mules and camels, to My holy mountain Jerusalem,” says the LORD, “just as the Israelites bring an offering in a clean vessel to the house of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.19|<< Isaiah 66:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.21|Isaiah 66:21 >>]]</td></tr></table>
 
 | Translation | Greek |

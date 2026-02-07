@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:14** 
 <small><sub>**LXX:**</sub></small>
 For every  action  God shall lead into judgment, with all being looked over, if good and if evil. 
-<small><sub>**KJV:**</sub></small>
-For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.
-<small><sub>**BSB:**</sub></small>
-For God will bring every deed into judgment, along with every hidden thing, whether good or evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.13|<< Ecclesiastes 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.1|Song of Solomon 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

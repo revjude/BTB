@@ -1,4 +1,4 @@
-**Isaiah 40:16** 
+**Isaiah 40:16**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lebanon [is] not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lebanon is not sufficient for fuel, nor its animals enough for a burnt offering.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.15|<< Isaiah 40:15]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.17|Isaiah 40:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Lebanon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3844G\|לְבָנ֕וֹן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

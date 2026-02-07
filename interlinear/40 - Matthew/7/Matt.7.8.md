@@ -1,12 +1,12 @@
-**Matthew 7:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:8**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 <small><sub>**BSB:**</sub></small>
 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.
 <small><sub>**Literal:**</sub></small>
 Everyone for who is asking receives, and the [one] seeking finds, and to the [one] knocking it will be opened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.7|<< Matthew 7:7]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.9|Matthew 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

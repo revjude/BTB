@@ -1,10 +1,7 @@
 **LXX Exodus 29:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall take of the oil of the scented unguent, and pour it upon  his head, and anoint him. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou take the anointing oil, and pour [it] upon his head, and anoint him.
-<small><sub>**BSB:**</sub></small>
-Then take the anointing oil and anoint him by pouring it on his head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.6|<< Exodus 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.8|Exodus 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

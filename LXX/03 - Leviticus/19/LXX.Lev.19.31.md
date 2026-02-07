@@ -1,10 +1,7 @@
 **LXX Leviticus 19:31** 
 <small><sub>**LXX:**</sub></small>
 You shall not follow after ones who deliver oracles, and to the enchanters you shall not cleave to be thoroughly defiled by them. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You must not turn to mediums or spiritists; do not seek them out, or you will be defiled by them. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.30|<< Leviticus 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.32|Leviticus 19:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 51:24** 
+**Jeremiah 51:24**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before your very eyes I will repay Babylon and all the dwellers of Chaldea for a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.23|<< Jeremiah 51:23]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.25|Jeremiah 51:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will repay  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7999A\|שִׁלַּמְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lam.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Babylon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0894\|בָבֶ֜ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

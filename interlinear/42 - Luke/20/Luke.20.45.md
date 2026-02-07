@@ -1,12 +1,12 @@
-**Luke 20:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:45**<big><big>[[Luke.20.45 Beware of the Scribes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then in the audience of all the people he said unto his disciples,
 <small><sub>**BSB:**</sub></small>
 In the hearing of all the people, Jesus said to His disciples,
 <small><sub>**Literal:**</sub></small>
 When are listening now all the people He said to the disciples of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.44|<< Luke 20:44]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.46|Luke 20:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are listening |**<big>[[G0191\|Ἀκούοντος]]</big>**  |Akouontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

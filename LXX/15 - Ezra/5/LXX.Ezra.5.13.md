@@ -1,10 +1,7 @@
 **LXX Ezra 5:13** 
 <small><sub>**LXX:**</sub></small>
 But in \[the\] first year of Cyrus the king of the Babylonians, Cyrus the king rendered a decree  to build this house of God. 
-<small><sub>**KJV:**</sub></small>
-But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.
-<small><sub>**BSB:**</sub></small>
-In the first year of his reign, however, Cyrus king of Babylon issued a decree to rebuild this house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

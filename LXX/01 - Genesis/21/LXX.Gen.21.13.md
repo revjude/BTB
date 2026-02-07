@@ -1,10 +1,7 @@
 **LXX Genesis 21:13** 
 <small><sub>**LXX:**</sub></small>
 But also the son  of this maidservant I will make into a great nation, for he is your seed. 
-<small><sub>**KJV:**</sub></small>
-And also of the son of the bondwoman will I make a nation, because he [is] thy seed.
-<small><sub>**BSB:**</sub></small>
-But I will also make a nation of the slave woman’s son, because he is your offspring.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.12|<< Genesis 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.14|Genesis 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

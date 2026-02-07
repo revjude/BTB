@@ -1,12 +1,12 @@
-**Revelation 18:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:1**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 <small><sub>**BSB:**</sub></small>
 After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory.
 <small><sub>**Literal:**</sub></small>
 and After these things I saw another angel descending out of <the> heaven, having authority great, and the earth was illuminated from the glory of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.18|<< Revelation 17:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.2|Revelation 18:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

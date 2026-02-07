@@ -1,12 +1,12 @@
-**Matthew 6:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:12**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And forgive us our debts, as we forgive our debtors.
 <small><sub>**BSB:**</sub></small>
 And forgive us our debts, as we also have forgiven our debtors.
 <small><sub>**Literal:**</sub></small>
 And do forgive us the debts of us, as also we ourselves forgive the debtors of us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.11|<< Matthew 6:11]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.13|Matthew 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do forgive |**<big>[[G0863H\|ἄφες]]</big>**  |aphes <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:21** 
 <small><sub>**LXX:**</sub></small>
 In  their going, \[the wheels\] went; and in  their standing, \[the wheels\] stood; and in  their lifting away from the earth, \[the wheels\] lifted away with them; for spirit of life was in the wheels. 
-<small><sub>**KJV:**</sub></small>
-When those went, [these] went; and when those stood, [these] stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels.
-<small><sub>**BSB:**</sub></small>
-When the creatures moved, the wheels moved; when the creatures stood still, the wheels stood still; and when the creatures rose from the ground, the wheels rose alongside them, because the spirit of the living creatures was in the wheels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

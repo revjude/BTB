@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:27** 
 <small><sub>**LXX:**</sub></small>
 And every man of Judah returned to Jerusalem, and Jehoshaphat the one leading them returned to Jerusalem in great gladness, for \[the\] <span class="smallcaps">lord</span> gladdened them from  their enemies. 
-<small><sub>**KJV:**</sub></small>
-Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies.
-<small><sub>**BSB:**</sub></small>
-Then all the men of Judah and Jerusalem, with Jehoshaphat at their head, returned joyfully to Jerusalem, for the LORD had made them rejoice over their enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.26|<< 2 Chronicles 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.28|2 Chronicles 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

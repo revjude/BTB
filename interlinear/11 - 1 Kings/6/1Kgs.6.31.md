@@ -1,4 +1,4 @@
-**1 Kings 6:31** 
+**1 Kings 6:31**<big><big>[[1Kgs.6.31 The Doors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the entering of the oracle he made doors [of] olive tree: the lintel [and] side posts [were] a fifth part [of the wall].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the entrance to the inner sanctuary, Solomon constructed doors of olive wood
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.30|<< 1 Kings 6:30]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.32|1 Kings 6:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] entrance of  |**<big>&#8207;[[H6607\|פֶּ֣תַח]]&#8207; </big>**| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

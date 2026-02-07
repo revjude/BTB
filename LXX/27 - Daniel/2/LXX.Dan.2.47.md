@@ -1,10 +1,7 @@
 **LXX Daniel 2:47** 
 <small><sub>**LXX:**</sub></small>
 And responding the king said  to Daniel, In truth  your God, he is God of gods, and lord of the kings, and uncovering mysteries, for you were able to uncover  this mystery. 
-<small><sub>**KJV:**</sub></small>
-The king answered unto Daniel, and said, Of a truth [it is], that your God [is] a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.
-<small><sub>**BSB:**</sub></small>
-The king said to Daniel, “Your God is truly the God of gods and Lord of kings, the Revealer of Mysteries, since you were able to reveal this mystery.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.46|<< Daniel 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.48|Daniel 2:48 >>]]</td></tr></table>
 
 | Translation | Greek |

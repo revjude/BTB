@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:13** 
 <small><sub>**LXX:**</sub></small>
 And the messenger, the one going to call  Micaiah spoke to him, saying, Behold, indeed all the prophets speak by one mouth good \[things\] concerning the king. Let it be indeed that you \[be\] with words according to the words of one of these, and speak good! 
-<small><sub>**KJV:**</sub></small>
-And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets [declare] good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak [that which is] good.
-<small><sub>**BSB:**</sub></small>
-Then the messenger who had gone to call Micaiah instructed him, “Behold now, with one accord the words of the prophets are favorable to the king. So please let your words be like theirs, and speak favorably.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.12|<< 1 Kings 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.14|1 Kings 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

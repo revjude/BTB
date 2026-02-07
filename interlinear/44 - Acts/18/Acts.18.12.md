@@ -1,12 +1,12 @@
-**Acts 18:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:12**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,
 <small><sub>**BSB:**</sub></small>
 While Gallio was proconsul of Achaia, the Jews coordinated an attack on Paul and brought him before the judgment seat.
 <small><sub>**Literal:**</sub></small>
 When Gallio however proconsul being <the> of Achaia rose up with one accord the Jews <the> against Paul and led him to the judgment seat,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.11|<< Acts 18:11]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.13|Acts 18:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When Gallio |**<big>[[G1058\|Γαλλίωνος]]</big>**  |Galliōnos <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

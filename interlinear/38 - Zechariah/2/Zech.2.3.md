@@ -1,4 +1,4 @@
-**Zechariah 2:3** (2:7)
+**Zechariah 2:3**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the angel that talked with me went forth, and another angel went out to meet him,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the angel who was speaking with me went forth, and another angel came forwa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.2|<< Zechariah 2:2]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.4|Zechariah 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the angel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397H\|מַּלְאָ֛ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

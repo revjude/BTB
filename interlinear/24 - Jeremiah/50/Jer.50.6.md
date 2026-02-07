@@ -1,4 +1,4 @@
-**Jeremiah 50:6** 
+**Jeremiah 50:6**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away [on] the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My people are lost sheep; their shepherds have led them astray, causing them to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.5|<< Jeremiah 50:5]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.7|Jeremiah 50:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sheep  |**<big>&#8207;[[H6629G\|צֹ֤אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lost  |**<big>&#8207;[[H0006\|אֹֽבְדוֹת֙]]&#8207; </big>**| 'oe.dOt<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

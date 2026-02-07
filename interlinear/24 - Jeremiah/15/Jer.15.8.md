@@ -1,4 +1,4 @@
-**Jeremiah 15:8** 
+**Jeremiah 15:8**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their widows are increased to me above the sand of the seas: I have brought upon them against the mother of the young men a spoiler at noonday: I have caused [him] to fall upon it suddenly, and terrors upon the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make their widows more numerous than the sand of the sea. I will bring a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.7|<< Jeremiah 15:7]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.9|Jeremiah 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are numerous  |**<big>&#8207;[[H6105A\|עָֽצְמוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tze.mu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

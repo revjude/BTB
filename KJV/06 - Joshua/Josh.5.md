@@ -1,6 +1,6 @@
 (KJV) **Joshua 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4|<< Joshua 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6|Joshua 6 >>]]</td></tr></table>
 
-***The Circumcision and Passover at Gilgal*** ^bsb553
+<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥃]]</big></big>***The Circumcision and Passover at Gilgal***
 
  $\quad$ <span class="startversemarker">[</span>**[[Josh.5.1|1]]**<span class="endversemarker">]</span> And it came to pass, when all the kings<small><small>[^2]</small></small> of the Amorites, which \[were\] on the side of Jordan westward, and all the kings of the Canaanites<small><small>[^3]</small></small>, which \[were\] by<small><small>[^4]</small></small> the sea, heard<small><small>[^5]</small></small> that the <span class="smallcaps">Lord</span> had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was<small><small>[^6]</small></small> there spirit in them any more, because of the children of Israel. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.5.10|10]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Josh.5.12|12]]**<span class="endversemarker">]</span> [¶]And the manna<small><small>[^24]</small></small> ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat<small><small>[^25]</small></small> of the fruit of the land of Canaan that year.
 
-***The Commander of the LORD’s Army*** ^bsb554
+<big><big>[[Josh.5.13 The Commander of the LORD’s Army|⥃]]</big></big>***The Commander of the LORD’s Army***
 
  
 

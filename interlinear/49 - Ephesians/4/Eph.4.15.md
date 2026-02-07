@@ -1,12 +1,12 @@
-**Ephesians 4:15
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:15**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But speaking the truth in love, may grow up into him in all things, which is the head, [even] Christ:
 <small><sub>**BSB:**</sub></small>
 Instead, speaking the truth in love, we will in all things grow up into Christ Himself, who is the head.
 <small><sub>**Literal:**</sub></small>
 Speaking the truth however in love we may grow up into Him <the> in all things who is the head, <the> Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.14|<< Ephesians 4:14]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.16|Ephesians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Speaking the truth |**<big>[[G0226\|ἀληθεύοντες]]</big>**  |alētheuontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

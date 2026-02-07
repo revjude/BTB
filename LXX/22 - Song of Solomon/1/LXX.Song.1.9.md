@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:9** 
 <small><sub>**LXX:**</sub></small>
 \[To\] my horse among \[the\] chariots of Pharaoh, I likened you,  my dear one. 
-<small><sub>**KJV:**</sub></small>
-I have compared thee, O my love, to a company of horses in Pharaoh’s chariots.
-<small><sub>**BSB:**</sub></small>
-I compare you, my darling, to a mare among Pharaoh’s chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.8|<< Song of Solomon 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.10|Song of Solomon 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

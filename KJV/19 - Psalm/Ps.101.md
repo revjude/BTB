@@ -1,6 +1,6 @@
 (KJV) **Psalm 101**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100|<< Psalm 100]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102|Psalm 102 >>]]</td></tr></table>
 
-***I Will Set No Worthless Thing before My Eyes*** ^bsb1394
+<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥃]]</big></big>***I Will Set No Worthless Thing before My Eyes***
 
 
 

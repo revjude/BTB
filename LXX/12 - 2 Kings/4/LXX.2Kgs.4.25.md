@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:25** 
 <small><sub>**LXX:**</sub></small>
 And she went, and came unto the man  of God in the mountain. And it came to pass as the man of God saw her right opposite, that he said to Gehazi, \[to\] his servant, Behold,  that Shunammite. 
-<small><sub>**KJV:**</sub></small>
-So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, [yonder is] that Shunammite:
-<small><sub>**BSB:**</sub></small>
-So she set out and went to the man of God at Mount Carmel. When the man of God saw her at a distance, he said to his servant Gehazi, “Look, there is the Shunammite woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.24|<< 2 Kings 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.26|2 Kings 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

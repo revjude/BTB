@@ -1,4 +1,4 @@
-**Proverbs 20:13** 
+**Proverbs 20:13**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Love not sleep, lest thou come to poverty; open thine eyes, [and] thou shalt be satisfied with bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not love sleep, or you will grow poor; open your eyes, and you will have plen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.12|<< Proverbs 20:12]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.14|Proverbs 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you love  |**<big>&#8207;[[H0157G\|תֶּֽאֱהַ֣ב]]&#8207; </big>**| te.'e.Hav<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 17:18** 
+**Proverbs 17:18**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man void of understanding striketh hands, [and] becometh surety in the presence of his friend.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man lacking judgment strikes hands in pledge and puts up security for his neig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.17|<< Proverbs 17:17]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.19|Proverbs 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lacking of  |**<big>&#8207;[[H2638\|חֲסַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.sar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

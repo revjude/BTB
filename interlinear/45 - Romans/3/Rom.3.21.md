@@ -1,12 +1,12 @@
-**Romans 3:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:21**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
 <small><sub>**BSB:**</sub></small>
 But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets.
 <small><sub>**Literal:**</sub></small>
 Now however apart from law [the] righteousness of God has been revealed being borne witness to by the Law and the Prophets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.20|<< Romans 3:20]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.22|Romans 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

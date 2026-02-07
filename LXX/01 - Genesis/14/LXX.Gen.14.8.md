@@ -1,10 +1,7 @@
 **LXX Genesis 14:8** 
 <small><sub>**LXX:**</sub></small>
 And came forth \[the\] king of Sodom, and \[the\] king of Gomorrah, and \[the\] king of Admah, and \[the\] king of Zeboiim, and \[the\] king of Bela -- this is Zoar. And they deployed themselves for war in the salty valley 
-<small><sub>**KJV:**</sub></small>
-And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar;) and they joined battle with them in the vale of Siddim;
-<small><sub>**BSB:**</sub></small>
-Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) marched out and arrayed themselves for battle in the Valley of Siddim<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.7|<< Genesis 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.9|Genesis 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

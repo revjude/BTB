@@ -1,4 +1,4 @@
-**Malachi 3:18** 
+**Malachi 3:18**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you will again distinguish between the righteous and the wicked, between thos
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.17|<< Malachi 3:17]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.1|Malachi 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725J\|שַׁבְתֶּם֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will see  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתֶ֔ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

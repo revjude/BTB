@@ -1,4 +1,4 @@
-**Isaiah 3:17** 
+**Isaiah 3:17**<big><big>[[Isa.3.16 A Warning to the Daughters of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Lord will bring sores on the heads of the daughters of Zion, and the LORD wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.16|<< Isaiah 3:16]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.18|Isaiah 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make scabby  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5596B\|שִׂפַּ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> si.Pach<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֔י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

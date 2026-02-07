@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:11** 
 <small><sub>**LXX:**</sub></small>
 But Jehoshabeath the daughter of the king took  Joash son of Ahaziah, and stole him from \[the\] midst of the sons of the king, of the ones being put to death. And she put him and  his nourishment in the storeroom of the beds. And the daughter of king Jehoram hid him, Jehoshabeath the sister of Ahaziah the wife of Jehoiada the priest. And she hid him from \[the\] face  of Athaliah, and she did not kill him. 
-<small><sub>**KJV:**</sub></small>
-But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
-<small><sub>**BSB:**</sub></small>
-But Jehoshabeath daughter of King Jehoram took Joash son of Ahaziah and stole him away from among the sons of the king who were being murdered, and she put him and his nurse in a bedroom. Because Jehoshabeath, the daughter of King Jehoram and the wife of Jehoiada the priest, was Ahaziah’s sister, she hid Joash from Athaliah so that she could not kill him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.10|<< 2 Chronicles 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.12|2 Chronicles 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

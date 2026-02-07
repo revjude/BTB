@@ -1,10 +1,7 @@
 **LXX Proverbs 14:35** 
 <small><sub>**LXX:**</sub></small>
 An intelligent officer \[is\] acceptable to a king;  and by his own versatility he removes dishonor. 
-<small><sub>**KJV:**</sub></small>
-The king’s favour [is] toward a wise servant: but his wrath is [against] him that causeth shame.
-<small><sub>**BSB:**</sub></small>
-A king delights in a wise servant, but his anger falls on the shameful.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.34|<< Proverbs 14:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.1|Proverbs 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:43** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] his servant-lad, Ascend, and look \[the\] way of the sea! And the servant-lad ascended and looked. And he said, There is nothing. And Elijah said, Return seven times! 
-<small><sub>**KJV:**</sub></small>
-And said to his servant, Go up now, look toward the sea. And he went up, and looked, and said, [There is] nothing. And he said, Go again seven times.
-<small><sub>**BSB:**</sub></small>
-“Go and look toward the sea,” he said to his servant. So the servant went and looked, and he said, “There is nothing there.” Seven times Elijah said, “Go back.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.42|<< 1 Kings 18:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.44|1 Kings 18:44 >>]]</td></tr></table>
 
 | Translation | Greek |

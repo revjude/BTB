@@ -6,10 +6,7 @@ A prayer by Moses \[the\] man  of God.
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, you became a refuge for us unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-A Prayer of Moses the man of God. Lord, thou hast been our dwelling place in all generations.
-<small><sub>**BSB:**</sub></small>
-A prayer of Moses the man of God. Lord, You have been our dwelling place through all generations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.52|<< Psalm 89:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.2|Psalm 90:2 >>]]</td></tr></table>
 
 | Translation | Greek |

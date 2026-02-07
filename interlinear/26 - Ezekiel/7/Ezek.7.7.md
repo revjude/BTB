@@ -1,4 +1,4 @@
-**Ezekiel 7:7** 
+**Ezekiel 7:7**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The morning is come unto thee, O thou that dwellest in the land: the time is come, the day of trouble [is] near, and not the sounding again of the mountains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Doom has come to you, O inhabitants of the land. The time has come; the day is n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.6|<< Ezekiel 7:6]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.8|Ezekiel 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has come  |**<big>&#8207;[[H0935G\|בָּ֧אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> doom  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6843\|צְּפִירָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.fi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

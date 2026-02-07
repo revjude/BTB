@@ -1,4 +1,4 @@
-**Ezekiel 23:49** 
+**Ezekiel 23:49**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I [am] the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will repay you for your indecency, and you will bear the consequences of yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.48|<< Ezekiel 23:48]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.1|Ezekiel 24:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will requite  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414N\|נָתְנ֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | licentiousness your  |**<big>&#8207;[[H2154\|זִמַּתְ]]&#8207;&#8207;[[H9027\|כֶ֙נָה֙]]&#8207; </big>**| zi.mat.<small><sup>[[HNcfsc]]</sup></small> Khe.nah<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

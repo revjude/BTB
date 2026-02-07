@@ -1,4 +1,4 @@
-**Numbers 21:22** 
+**Numbers 21:22**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink [of] the waters of the well: [but] we will go along by the king’s [high] way, until we be past thy borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let me pass through thy land: we will not turn into the fields, or into the vine
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.23|Numbers 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me pass  |**<big>&#8207;[[H5674A\|אֶעְבְּרָ֣ה]]&#8207; </big>**| 'e'.be.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in land your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0776G\|אַרְצֶ֗]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ar.Tze.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

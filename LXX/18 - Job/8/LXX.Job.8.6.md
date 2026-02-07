@@ -1,10 +1,7 @@
 **LXX Job 8:6** 
 <small><sub>**LXX:**</sub></small>
 If you are pure and true, he will heed your supplication, and he will restore to you \[the\] habitation of righteousness. 
-<small><sub>**KJV:**</sub></small>
-If thou [wert] pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.
-<small><sub>**BSB:**</sub></small>
-if you are pure and upright, even now He will rouse Himself on your behalf and restore your righteous estate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.5|<< Job 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.7|Job 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

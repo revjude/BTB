@@ -1,10 +1,7 @@
 **LXX Genesis 34:4** 
 <small><sub>**LXX:**</sub></small>
 And said Shechem to Hamor  his father, saying, Take for me  this maidservant for a wife. 
-<small><sub>**KJV:**</sub></small>
-And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.
-<small><sub>**BSB:**</sub></small>
-So Shechem told his father Hamor, “Get me this girl as a wife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.3|<< Genesis 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.5|Genesis 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

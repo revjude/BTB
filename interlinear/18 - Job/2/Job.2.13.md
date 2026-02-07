@@ -1,4 +1,4 @@
-**Job 2:13** 
+**Job 2:13**<big><big>[[Job.2.11 Job’s Three Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that [his] grief was very great.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they sat on the ground with him for seven days and seven nights, but no one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.12|<< Job 2:12]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.1|Job 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשְׁב֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H0854\|אִתּ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'i.T<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**2 Corinthians 6:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:2**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now [is] the accepted time; behold, now [is] the day of salvation.)
 <small><sub>**BSB:**</sub></small>
 For He says: “In the time of favor I heard you, and in the day of salvation I helped you.” Behold, now is the time of favor; now is the day of salvation!
@@ -10,7 +10,7 @@ He says for: In a time acceptable I listened to you and in a day of salvation I 
 > $\quad$ referencing: [[LXX.Isa.49.8|Isa 49:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for: |**<big>[[G1063\|γάρ·]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

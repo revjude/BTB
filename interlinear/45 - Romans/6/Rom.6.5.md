@@ -1,12 +1,12 @@
-**Romans 6:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:5**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if we have been planted together in the likeness of his death, we shall be also [in the likeness] of [his] resurrection:
 <small><sub>**BSB:**</sub></small>
 For if we have been united with Him like this in His death, we will certainly also be united with Him in His resurrection.
 <small><sub>**Literal:**</sub></small>
 If for united we have become in the likeness of the death of Him, certainly also of the resurrection we will be;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.4|<< Romans 6:4]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.6|Romans 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 38:16** 
 <small><sub>**LXX:**</sub></small>
 For I spoke, lest at any time my enemies rejoice over me, and at the shaking of my feet they spoke great words against me. 
-<small><sub>**KJV:**</sub></small>
-For I said, [Hear me], lest [otherwise] they should rejoice over me: when my foot slippeth, they magnify [themselves] against me.
-<small><sub>**BSB:**</sub></small>
-For I said, “Let them not gloat over me—those who taunt me when my foot slips.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.15|<< Psalm 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.17|Psalm 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 11:24** 
+**Genesis 11:24**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nahor lived nine and twenty years, and begat Terah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Nahor was 29 years old, he became the father of Terah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.23|<< Genesis 11:23]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.25|Genesis 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nahor  |**<big>&#8207;[[H5152G\|נָח֔וֹר]]&#8207; </big>**| na.Chor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

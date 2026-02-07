@@ -1,4 +1,4 @@
-**Isaiah 54:7** 
+**Isaiah 54:7**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a small moment have I forsaken thee; but with great mercies will I gather thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a small moment have I forsaken thee; but with great mercies will I gather th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.6|<< Isaiah 54:6]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.8|Isaiah 54:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for a moment  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7281\|רֶ֥גַע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | small  |**<big>&#8207;[[H6996B\|קָטֹ֖ן]]&#8207; </big>**| ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

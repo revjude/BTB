@@ -1,4 +1,4 @@
-**Deuteronomy 5:31** 
+**Deuteronomy 5:31**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do [them] in the land which I give them to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you stand here with Me, that I may speak to you all the commandments and sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.30|<< Deuteronomy 5:30]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.32|Deuteronomy 5:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here  |**<big>&#8207;[[H6311\|פֹּה֮]]&#8207; </big>**| poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Ephesians 6:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:19**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
 <small><sub>**BSB:**</sub></small>
 Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel,
 <small><sub>**Literal:**</sub></small>
 and also for me, that to me may be given divine utterance in [the] opening of the mouth of mine with boldness to make known the mystery of the gospel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.18|<< Ephesians 6:18]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.20|Ephesians 6:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

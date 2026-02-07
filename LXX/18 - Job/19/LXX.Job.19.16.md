@@ -1,10 +1,7 @@
 **LXX Job 19:16** 
 <small><sub>**LXX:**</sub></small>
 I called my attendant, and he obeyed not; and my mouth beseeched \[him\]. 
-<small><sub>**KJV:**</sub></small>
-I called my servant, and he gave [me] no answer; I intreated him with my mouth.
-<small><sub>**BSB:**</sub></small>
-I call for my servant, but he does not answer, though I implore him with my own mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.15|<< Job 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.17|Job 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

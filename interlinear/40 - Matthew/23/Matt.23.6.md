@@ -1,12 +1,12 @@
-**Matthew 23:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:6**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And love the uppermost rooms at feasts, and the chief seats in the synagogues,
 <small><sub>**BSB:**</sub></small>
 They love the places of honor at banquets, the chief seats in the synagogues,
 <small><sub>**Literal:**</sub></small>
 They love now the chief place at the banquets and the first seats in the synagogues<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.5|<< Matthew 23:5]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.7|Matthew 23:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They love |**<big>[[G5368\|φιλοῦσιν]]</big>**  |philousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

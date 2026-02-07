@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:20** 
 <small><sub>**LXX:**</sub></small>
 And Absalom her brother said to her, \[Has\] Amnon  your brother been with you? And now my sister be silent! for he \[is\] your brother. Do not put \[it to\]  your heart to say anything! And Tamar sat expiring in the house of Absalom  her brother. 
-<small><sub>**KJV:**</sub></small>
-And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he [is] thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house.
-<small><sub>**BSB:**</sub></small>
-Her brother Absalom said to her, “Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart.” So Tamar lived as a desolate woman in the house of her brother Absalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.19|<< 2 Samuel 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.21|2 Samuel 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

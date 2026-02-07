@@ -1,5 +1,5 @@
-**Revelation 3:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:19**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 <small><sub>**BSB:**</sub></small>
 Those I love I rebuke and discipline. Therefore be earnest and repent.
@@ -10,7 +10,7 @@ I myself as many as if shall love I rebuke and discipline. do be jealous therefo
 > $\quad$ possibly alluding to: [[LXX.Prov.3.11|Prov 3:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as many as |**<big>[[G3745\|ὅσους]]</big>**  |hosous <small><sup>[[K-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

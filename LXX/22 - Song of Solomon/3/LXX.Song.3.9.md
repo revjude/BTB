@@ -1,10 +1,7 @@
 **LXX Song of Solomon 3:9** 
 <small><sub>**LXX:**</sub></small>
 King Solomon made a carriage for himself from woods  of Lebanon. 
-<small><sub>**KJV:**</sub></small>
-King Solomon made himself a chariot of the wood of Lebanon.
-<small><sub>**BSB:**</sub></small>
-King Solomon has made his carriage out of the timber of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.8|<< Song of Solomon 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.10|Song of Solomon 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

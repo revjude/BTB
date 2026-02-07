@@ -1,12 +1,12 @@
-**Ephesians 6:23
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:23**<big><big>[[Eph.6.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peace [be] to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Peace to the brothers and love with faith from God the Father and the Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Peace to the brothers and love with faith from God [the] Father and [the] Lord Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.22|<< Ephesians 6:22]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.24|Ephesians 6:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peace |**<big>[[G1515\|εἰρήνη]]</big>**  |eirēnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

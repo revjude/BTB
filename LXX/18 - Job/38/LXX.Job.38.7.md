@@ -1,10 +1,7 @@
 **LXX Job 38:7** 
 <small><sub>**LXX:**</sub></small>
 When \[the\] stars came to pass, all my angels praised me with a great voice. 
-<small><sub>**KJV:**</sub></small>
-When the morning stars sang together, and all the sons of God shouted for joy?
-<small><sub>**BSB:**</sub></small>
-while the morning stars sang together and all the sons of God shouted for joy?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.6|<< Job 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.8|Job 38:8 >>]]</td></tr></table>
 
 | Translation | Greek |

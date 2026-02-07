@@ -1,4 +1,4 @@
-**Isaiah 33:8** 
+**Isaiah 33:8**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The highways are deserted; travel has ceased. The treaty has been broken, the wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.7|<< Isaiah 33:7]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.9|Isaiah 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have been made desolate  |**<big>&#8207;[[H8074G\|נָשַׁ֣מּוּ]]&#8207; </big>**| na.Sha.mu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | highways  |**<big>&#8207;[[H4546\|מְסִלּ֔וֹת]]&#8207; </big>**| me.si.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

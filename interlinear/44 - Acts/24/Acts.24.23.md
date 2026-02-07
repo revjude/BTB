@@ -1,12 +1,12 @@
-**Acts 24:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:23**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded a centurion to keep Paul, and to let [him] have liberty, and that he should forbid none of his acquaintance to minister or come unto him.
 <small><sub>**BSB:**</sub></small>
 He ordered the centurion to keep Paul under guard, but to allow him some freedom and permit his friends to minister to his needs.
 <small><sub>**Literal:**</sub></small>
 having commanded also to the centurion to keep <the> him, to [let him] have then ease and not to forbid the private [friends] of him to minister or to come near to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.22|<< Acts 24:22]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.24|Acts 24:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having commanded |**<big>[[G1299\|διαταξάμενος]]</big>**  |diataxamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

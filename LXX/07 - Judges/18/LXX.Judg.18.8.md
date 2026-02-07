@@ -1,10 +1,7 @@
 **LXX Judges 18:8** 
 <small><sub>**LXX:**</sub></small>
 And the five men came to  their brethren in Zorah and in Esthaol. And their brethren said to them, Why do you sit down? 
-<small><sub>**KJV:**</sub></small>
-And they came unto their brethren to Zorah and Eshtaol: and their brethren said unto them, What [say] ye?
-<small><sub>**BSB:**</sub></small>
-When the men returned to Zorah and Eshtaol, their brothers asked them, “What did you find?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.7|<< Judges 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.9|Judges 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

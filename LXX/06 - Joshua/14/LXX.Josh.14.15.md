@@ -1,10 +1,7 @@
 **LXX Joshua 14:15** 
 <small><sub>**LXX:**</sub></small>
 And the name  of Hebron  formerly \[was\] City Arbai, this \[is the\] mother-city of the Anakim. Then the land abated  of war. 
-<small><sub>**KJV:**</sub></small>
-And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man among the Anakims. And the land had rest from war.
-<small><sub>**BSB:**</sub></small>
-(Hebron used to be called Kiriath-arba, after Arba, the greatest man among the Anakim.) Then the land had rest from war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.14|<< Joshua 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.1|Joshua 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 32:24** 
+**Deuteronomy 32:24**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They shall be] burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will be wasted from hunger and ravaged by pestilence and bitter plague; I w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.23|<< Deuteronomy 32:23]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.25|Deuteronomy 32:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [people] weakened of  |**<big>&#8207;[[H4198\|מְזֵ֥י]]&#8207; </big>**| me.Zei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | famine  |**<big>&#8207;[[H7458\|רָעָ֛ב]]&#8207; </big>**| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

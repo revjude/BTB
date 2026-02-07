@@ -1,12 +1,12 @@
-**Luke 10:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:9**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.
 <small><sub>**BSB:**</sub></small>
 Heal the sick who are there and tell them, ‘The kingdom of God is near you.’
 <small><sub>**Literal:**</sub></small>
 And do heal <the> in it [the] sick and do say to them; Has drawn near to you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.8|<< Luke 10:8]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.10|Luke 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do heal |**<big>[[G2323\|θεραπεύετε]]</big>**  |therapeuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

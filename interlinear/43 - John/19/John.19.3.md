@@ -1,12 +1,12 @@
-**John 19:3
-**<small><sub>**KJV:**</sub></small>
+**John 19:3**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, Hail, King of the Jews! and they smote him with their hands.
 <small><sub>**BSB:**</sub></small>
 And they went up to Him again and again, saying, “Hail, King of the Jews!” and slapping Him in the face.
 <small><sub>**Literal:**</sub></small>
 and they were coming up to Him and were saying; Hail! O King of the Jews! And they were giving to Him blows with the palm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.2|<< John 19:2]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.4|John 19:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
 | they were coming up |**<big>[[G2064\|ἤρχοντο]]</big>**  |ērchonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

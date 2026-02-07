@@ -1,4 +1,4 @@
-**Song of Solomon 1:6** 
+**Song of Solomon 1:6**<big><big>[[Song.1.5 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look not upon me, because I [am] black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; [but] mine own vineyard have I not kept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not stare because I am dark, for the sun has gazed upon me. My mother’s son
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.5|<< Song of Solomon 1:5]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.7|Song of Solomon 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you look at me  |**<big>&#8207;[[H7200G\|תִּרְא֙וּ]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| tir.'U.<small><sup>[[HVqj2mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

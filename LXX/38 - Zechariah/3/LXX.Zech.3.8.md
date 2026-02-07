@@ -1,10 +1,7 @@
 **LXX Zechariah 3:8** 
 <small><sub>**LXX:**</sub></small>
 Hear indeed, O Joshua the great priest! you and  your neighbors, the ones sitting down before in front of you. For they are men \[that are\] observers of signs. For behold, I will bring  my servant -- rising. 
-<small><sub>**KJV:**</sub></small>
-Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they [are] men wondered at: for, behold, I will bring forth my servant the BRANCH.
-<small><sub>**BSB:**</sub></small>
-Hear now, O high priest Joshua, you and your companions seated before you, who are indeed a sign. For behold, I am going to bring My servant, the Branch.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.7|<< Zechariah 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.9|Zechariah 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

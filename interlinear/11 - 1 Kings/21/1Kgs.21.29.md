@@ -1,4 +1,4 @@
-**1 Kings 21:29** 
+**1 Kings 21:29**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: [but] in his son’s days will I bring the evil upon his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seest thou how Ahab humbleth himself before me? because he humbleth himself befo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.28|<< 1 Kings 21:28]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.1|1 Kings 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ have you seen  |**<big>&#8207;[[H9008\|הֲֽ]]&#8207;&#8207;[[H7200G\|רָאִ֔יתָ]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> ra.'I.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

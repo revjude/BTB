@@ -1,12 +1,12 @@
-**Revelation 17:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:16**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
 <small><sub>**BSB:**</sub></small>
 And the ten horns and the beast that you saw will hate the prostitute. They will leave her desolate and naked, and they will eat her flesh and burn her with fire.
 <small><sub>**Literal:**</sub></small>
 And the ten horns that you saw and the beast, these will hate the prostitute and desolated they will make her and naked they will make her and the flesh of her they will eat and her they will burn with fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.15|<< Revelation 17:15]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.17|Revelation 17:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

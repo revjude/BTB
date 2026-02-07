@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall come to the priests of the Levites, and to the judge, who ever happens to be in  those days; and seeking after \[the matter\] they shall announce to you the judgment. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:
-<small><sub>**BSB:**</sub></small>
-You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.8|<< Deuteronomy 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.10|Deuteronomy 17:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 17:9** is...

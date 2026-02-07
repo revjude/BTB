@@ -1,12 +1,12 @@
-**1 Corinthians 15:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:24**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then [cometh] the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
 <small><sub>**BSB:**</sub></small>
 Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power.
 <small><sub>**Literal:**</sub></small>
 then the end, when He may hand over the kingdom to the God and Father, when He may have annulled all dominion and all authority and power;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.23|<< 1 Corinthians 15:23]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.25|1 Corinthians 15:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

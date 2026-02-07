@@ -1,10 +1,7 @@
 **LXX Proverbs 28:12** 
 <small><sub>**LXX:**</sub></small>
 Through \[the\] help of \[the\] just ones much glory comes to pass; but in \[the\] places of \[the\] impious men are being captured. 
-<small><sub>**KJV:**</sub></small>
-When righteous [men] do rejoice, [there is] great glory: but when the wicked rise, a man is hidden.
-<small><sub>**BSB:**</sub></small>
-When the righteous triumph, there is great glory, but when the wicked rise, men hide themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.11|<< Proverbs 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.13|Proverbs 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

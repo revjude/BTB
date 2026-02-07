@@ -1,4 +1,4 @@
-**Ezekiel 36:18** 
+**Ezekiel 36:18**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols [wherewith] they had polluted it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I poured out My wrath upon them because of the blood they had shed on the lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.17|<< Ezekiel 36:17]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.19|Ezekiel 36:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I poured out  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8210G\|אֶשְׁפֹּ֤ךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Pokh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage my  |**<big>&#8207;[[H2534\|חֲמָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

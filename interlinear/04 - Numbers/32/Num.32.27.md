@@ -1,4 +1,4 @@
-**Numbers 32:27** 
+**Numbers 32:27**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But your servants are equipped for war, and every man will cross over to the bat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.26|<< Numbers 32:26]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.28|Numbers 32:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and servants your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5650\|עֲבָדֶ֨י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will pass over  |**<big>&#8207;[[H5674A\|יַֽעַבְר֜וּ]]&#8207; </big>**| ya.'av.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:17** 
 <small><sub>**LXX:**</sub></small>
 that taking hold of the two tablets, I tossed them from  my two hands, and I broke them before you. 
-<small><sub>**KJV:**</sub></small>
-And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
-<small><sub>**BSB:**</sub></small>
-So I took the two tablets and threw them out of my hands, shattering them before your eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

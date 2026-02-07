@@ -1,10 +1,7 @@
 **LXX Ruth 2:13** 
 <small><sub>**LXX:**</sub></small>
  And she said, May I find favor in your eyes, O my master; for you comforted me, and because you spoke in \[your\] heart \[to\] your maidservant; and behold, I shall be as one  of your maidservants. 
-<small><sub>**KJV:**</sub></small>
-Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.
-<small><sub>**BSB:**</sub></small>
-“My lord,” she said, “may I continue to find favor in your eyes, for you have comforted and spoken kindly to your maidservant, though I am not like one of your servant girls.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.12|<< Ruth 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.14|Ruth 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

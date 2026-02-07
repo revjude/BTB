@@ -1,10 +1,7 @@
 **LXX Job 1:19** 
 <small><sub>**LXX:**</sub></small>
 Suddenly a great wind came upon \[them\] from out of the wilderness, and it touched the four corners of their house, and the house fell upon  your children, and they came to an end; and I alone escaped, and I came  to report to you. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.
-<small><sub>**BSB:**</sub></small>
-when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on the young people and they are dead, and I alone have escaped to tell you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.18|<< Job 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.20|Job 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

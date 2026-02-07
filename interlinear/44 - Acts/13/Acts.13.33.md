@@ -1,5 +1,5 @@
-**Acts 13:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:33**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
 He has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘You are My Son; today I have become Your Father.’
@@ -10,7 +10,7 @@ that this <the> God has fulfilled to the children of them to us having raised up
 > $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|ταύτην]]</big>**  |tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

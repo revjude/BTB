@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:13** 
 <small><sub>**LXX:**</sub></small>
 Come, enter unto  king David. And you shall say to him, Have you not, O my master, O king, sworn by an oath \[to\] your maidservant, saying that, Solomon  your son, he shall reign after me, and he shall sit upon  my throne. Then why \[is it\] that Adonijah reigns? 
-<small><sub>**KJV:**</sub></small>
-Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?
-<small><sub>**BSB:**</sub></small>
-Go at once to King David and say, ‘My lord the king, did you not swear to your maidservant, “Surely your son Solomon will reign after me, and he will sit on my throne”? Why then has Adonijah become king?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.12|<< 1 Kings 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.14|1 Kings 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

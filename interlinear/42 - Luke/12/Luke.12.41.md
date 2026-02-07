@@ -1,12 +1,12 @@
-**Luke 12:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:41**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Peter, “are You addressing this parable to us, or to everyone else as well?”
 <small><sub>**Literal:**</sub></small>
 Said then to him <the> Peter; Lord, to us <the> parable this speak You or also to all?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.40|<< Luke 12:40]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.42|Luke 12:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

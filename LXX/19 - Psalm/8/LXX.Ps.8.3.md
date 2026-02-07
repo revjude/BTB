@@ -1,10 +1,7 @@
 **LXX Psalm 8:3** 
 <small><sub>**LXX:**</sub></small>
 For I shall see the heavens, \[the\] works  of your fingers; \[the\] moon and stars which you founded. 
-<small><sub>**KJV:**</sub></small>
-When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;
-<small><sub>**BSB:**</sub></small>
-When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.2|<< Psalm 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.4|Psalm 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

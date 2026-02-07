@@ -1,4 +1,4 @@
-**Amos 7:9** 
+**Amos 7:9**<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The high places of Isaac will be deserted, and the sanctuaries of Israel will be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.8|<< Amos 7:8]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.10|Amos 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be made desolate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8074G\|נָשַׁ֙מּוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sha.mu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] high places of  |**<big>&#8207;[[H1116\|בָּמ֣וֹת]]&#8207; </big>**| ba.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

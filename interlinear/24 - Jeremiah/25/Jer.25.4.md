@@ -1,4 +1,4 @@
-**Jeremiah 25:4** 
+**Jeremiah 25:4**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath sent unto you all his servants the prophets, rising early and sending [them]; but ye have not hearkened, nor inclined your ear to hear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD has sent all His servants the prophets to you again and again, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.3|<< Jeremiah 25:3]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.5|Jeremiah 25:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7971G\|שָׁלַח֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

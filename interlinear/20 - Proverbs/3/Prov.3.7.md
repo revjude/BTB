@@ -1,4 +1,4 @@
-**Proverbs 3:7** 
+**Proverbs 3:7**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not wise in thine own eyes: fear the LORD, and depart from evil.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Be not wise in your own eyes; fear the LORD and turn away from evil.
 > $\quad$ referenced by: [[Rom.12.16|Rom 12:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be  |**<big>&#8207;[[H1961\|תְּהִ֣י]]&#8207; </big>**| te.Hi<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

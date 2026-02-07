@@ -1,4 +1,4 @@
-**Proverbs 2:14** 
+**Proverbs 2:14**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who rejoice to do evil, [and] delight in the frowardness of the wicked;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from those who enjoy doing evil and rejoice in the twistedness of evil,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.13|<< Proverbs 2:13]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.15|Proverbs 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [ones] joyful  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H8056\|שְּׂמֵחִים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> se.me.chim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

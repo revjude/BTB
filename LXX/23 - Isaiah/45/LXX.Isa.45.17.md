@@ -1,10 +1,7 @@
 **LXX Isaiah 45:17** 
 <small><sub>**LXX:**</sub></small>
 Israel is delivered by \[the\] <span class="smallcaps">lord</span> \[with\] an eternal deliverance; they shall not be ashamed, nor should they feel remorse unto the eon still. 
-<small><sub>**KJV:**</sub></small>
-[But] Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end.
-<small><sub>**BSB:**</sub></small>
-But Israel will be saved by the LORD with an everlasting salvation; you will not be put to shame or humiliated, to ages everlasting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.16|<< Isaiah 45:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.18|Isaiah 45:18 >>]]</td></tr></table>
 
 | Translation | Greek |

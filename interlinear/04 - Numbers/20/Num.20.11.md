@@ -1,4 +1,4 @@
-**Numbers 20:11** 
+**Numbers 20:11**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts [also].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Moses raised his hand and struck the rock twice with his staff, so that a g
 > $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he raised  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|יָּ֨רֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֜ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

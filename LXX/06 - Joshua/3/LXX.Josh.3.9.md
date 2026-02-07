@@ -1,10 +1,7 @@
 **LXX Joshua 3:9** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to the sons of Israel, Lead forward here and hearken to the word of \[the\] <span class="smallcaps">lord</span>  your God! 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God.
-<small><sub>**BSB:**</sub></small>
-So Joshua told the Israelites, “Come here and listen to the words of the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.8|<< Joshua 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.10|Joshua 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 30:36** 
 <small><sub>**LXX:**</sub></small>
 And he left a journey of three days between them and between Jacob. And Jacob tended the flocks of Laban -- the \[ones\] left behind. 
-<small><sub>**KJV:**</sub></small>
-And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.
-<small><sub>**BSB:**</sub></small>
-Then he put a three-day journey between himself and Jacob, while Jacob was shepherding the rest of Laban’s flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.35|<< Genesis 30:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.37|Genesis 30:37 >>]]</td></tr></table>
 
 | Translation | Greek |

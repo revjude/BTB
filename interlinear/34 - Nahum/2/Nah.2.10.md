@@ -1,4 +1,4 @@
-**Nahum 2:10** (2:11)
+**Nahum 2:10**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She is empty, and void, and waste: and the heart melteth, and the knees smite together, and much pain [is] in all loins, and the faces of them all gather blackness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She is emptied! Yes, she is desolate and laid waste! Hearts melt, knees knock, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.9|<< Nahum 2:9]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.11|Nahum 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | emptiness  |**<big>&#8207;[[H0950\|בּוּקָ֥ה]]&#8207; </big>**| bu.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and emptiness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4003\|מְבוּקָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.vu.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

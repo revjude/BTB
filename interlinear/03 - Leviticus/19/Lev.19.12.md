@@ -1,4 +1,4 @@
-**Leviticus 19:12** 
+**Leviticus 19:12**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You must not swear falsely by My name and so profane the name of your God. I am 
 > $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will swear an oath  |**<big>&#8207;[[H7650\|תִשָּׁבְע֥וּ]]&#8207; </big>**| ti.sha.ve.'U<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

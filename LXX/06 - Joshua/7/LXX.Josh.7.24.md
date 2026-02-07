@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua took  Achan son of Zerah, and the silver, and the robe, and the gold wedge, and  his sons, and  his daughters, and  his calves, and  his beasts of burden, and  his sheep, and  his tent, and all  his possessions, and all Israel with him. And they led them into Emek Achor. 
-<small><sub>**KJV:**</sub></small>
-And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.
-<small><sub>**BSB:**</sub></small>
-Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the cloak, the bar of gold, his sons and daughters, his oxen and donkeys and sheep, his tent, and everything else he owned, and brought them to the Valley of Achor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.23|<< Joshua 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.25|Joshua 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

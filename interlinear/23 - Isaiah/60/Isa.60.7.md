@@ -1,4 +1,4 @@
-**Isaiah 60:7** 
+**Isaiah 60:7**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.6|<< Isaiah 60:6]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.8|Isaiah 60:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> flock of  |**<big>&#8207;[[H6629G\|צֹ֤אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

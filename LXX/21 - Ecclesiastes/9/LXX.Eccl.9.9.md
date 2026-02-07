@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:9** 
 <small><sub>**LXX:**</sub></small>
 And behold life with \[the\] wife which you loved all the days of \[the\] life of your folly! the ones being given to you under the sun, all the days of \[the\] life of your folly. For it is your portion in  your life, and in  your effort wherein you made an effort under the sun. 
-<small><sub>**KJV:**</sub></small>
-Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that [is] thy portion in [this] life, and in thy labour which thou takest under the sun.
-<small><sub>**BSB:**</sub></small>
-Enjoy life with your beloved wife all the days of the fleeting life that God has given you under the sun—all your fleeting days. For this is your portion in life and in your labor under the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.8|<< Ecclesiastes 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.10|Ecclesiastes 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

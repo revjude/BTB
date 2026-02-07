@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:18** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to him, Take arrows! And he took. And he said to the king of Israel, Strike against the ground! And he struck three times and stopped. 
-<small><sub>**KJV:**</sub></small>
-And he said, Take the arrows. And he took [them]. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.
-<small><sub>**BSB:**</sub></small>
-Then Elisha said, “Take the arrows!” So he took them, and Elisha said to the king of Israel, “Strike the ground!” So he struck the ground three times and stopped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.17|<< 2 Kings 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.19|2 Kings 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

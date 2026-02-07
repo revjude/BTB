@@ -1,4 +1,4 @@
-**Exodus 17:12** 
+**Exodus 17:12**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Moses’ hands [were] heavy; and they took a stone, and put [it] under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Moses’ hands grew heavy, they took a stone and put it under him, and he s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.11|<< Exodus 17:11]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.13|Exodus 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] hands of  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3027G\|ידֵ֤י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

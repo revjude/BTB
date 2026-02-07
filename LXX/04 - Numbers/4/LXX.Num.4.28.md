@@ -1,10 +1,7 @@
 **LXX Numbers 4:28** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the ministration of the sons of Gershon in the tent of the testimony, and  their watch by \[the\] hand of Ithamar the son of Aaron the priest. 
-<small><sub>**KJV:**</sub></small>
-This [is] the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge [shall be] under the hand of Ithamar the son of Aaron the priest.
-<small><sub>**BSB:**</sub></small>
-This is the service of the Gershonite clans at the Tent of Meeting, and their duties shall be under the direction of Ithamar son of Aaron the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.27|<< Numbers 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.29|Numbers 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

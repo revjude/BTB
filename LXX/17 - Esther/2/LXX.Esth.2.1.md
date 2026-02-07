@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after  these matters the king's rage was abated, and no longer Vashti mentioned, remembering as much as she spoke, and how he condemned her. 
-<small><sub>**KJV:**</sub></small>
-After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.
-<small><sub>**BSB:**</sub></small>
-Some time later, when the anger of King Xerxes had subsided, he remembered Vashti and what she had done, and what had been decreed against her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.22|<< Esther 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.2|Esther 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

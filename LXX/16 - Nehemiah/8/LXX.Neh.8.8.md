@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:8** 
 <small><sub>**LXX:**</sub></small>
 And they read in the scroll  of \[the\] law  of God; and Ezra taught and gave orders in a higher knowledge of \[the\] <span class="smallcaps">lord</span>, and the people perceived in the reading. 
-<small><sub>**KJV:**</sub></small>
-So they read in the book in the law of God distinctly, and gave the sense, and caused [them] to understand the reading.
-<small><sub>**BSB:**</sub></small>
-So they read from the Book of the Law of God, explaining it and giving insight, so that the people could understand what was being read.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.7|<< Nehemiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.9|Nehemiah 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

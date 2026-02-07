@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:5** 
 <small><sub>**LXX:**</sub></small>
 And they sent the \[ones\] over the household, and the ones over the city, and the elders, and the wet-nurses to Jehu, saying, We are your servants, and all as much as you should say to us we shall do. anyone reign. The \[thing\] good in your eyes we will do. 
-<small><sub>**KJV:**</sub></small>
-And he that [was] over the house, and he that [was] over the city, the elders also, and the bringers up [of the children], sent to Jehu, saying, We [are] thy servants, and will do all that thou shalt bid us; we will not make any king: do thou [that which is] good in thine eyes.
-<small><sub>**BSB:**</sub></small>
-So the palace administrator, the overseer of the city, the elders, and the guardians sent a message to Jehu: “We are your servants, and we will do whatever you say. We will not make anyone king. Do whatever is good in your sight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.4|<< 2 Kings 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.6|2 Kings 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 2:8** 
 <small><sub>**LXX:**</sub></small>
 And the king answered and said, In truth I know that you buy back time, even in so far as you knew that the word departed from me. 
-<small><sub>**KJV:**</sub></small>
-The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
-<small><sub>**BSB:**</sub></small>
-The king replied, “I know for sure that you are stalling for time because you see that my word is final.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.7|<< Daniel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.9|Daniel 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

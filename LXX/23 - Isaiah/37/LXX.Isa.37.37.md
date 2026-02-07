@@ -1,10 +1,7 @@
 **LXX Isaiah 37:37** 
 <small><sub>**LXX:**</sub></small>
 And he went forth returning. And Sennacherib king of \[the\] Assyrians returned, and lived in Nineveh. 
-<small><sub>**KJV:**</sub></small>
-So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
-<small><sub>**BSB:**</sub></small>
-So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.36|<< Isaiah 37:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.38|Isaiah 37:38 >>]]</td></tr></table>
 
 | Translation | Greek |

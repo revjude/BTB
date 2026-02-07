@@ -1,4 +1,4 @@
-**Isaiah 46:13** 
+**Isaiah 46:13**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I am bringing My righteousness near; it is not far away, and My salvation will n
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have brought near  |**<big>&#8207;[[H7126G\|קֵרַ֤בְתִּי]]&#8207; </big>**| ke.Rav.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness my  |**<big>&#8207;[[H6666\|צִדְקָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| tzid.ka.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

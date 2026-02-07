@@ -1,4 +1,4 @@
-**Jeremiah 49:25** 
+**Jeremiah 49:25**<big><big>[[Jer.49.23 Judgment on Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is the city of praise not left, the city of my joy!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How is the city of praise not forsaken, the town that brings Me joy?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.24|<< Jeremiah 49:24]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.26|Jeremiah 49:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֥יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

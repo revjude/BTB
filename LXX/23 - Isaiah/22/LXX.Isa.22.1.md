@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The matter of the ravine of Zion. What happened to you that now all ascended unto \[the\] roofs in vain? 
-<small><sub>**KJV:**</sub></small>
-The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?
-<small><sub>**BSB:**</sub></small>
-This is the burden against the Valley of Vision: What ails you now, that you have all gone up to the rooftops,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 8:22** 
+**2 Kings 8:22**<big><big>[[2Kgs.8.20 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So to this day Edom has been in rebellion against the hand of Judah. Likewise, L
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.21|<< 2 Kings 8:21]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.23|2 Kings 8:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has rebelled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6586\|יִּפְשַׁ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Sha'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֗וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

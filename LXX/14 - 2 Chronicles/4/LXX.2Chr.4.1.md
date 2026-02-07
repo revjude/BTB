@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he made an altar of brass -- twenty cubits \[was\] the length, and twenty cubits the breadth, and ten cubits the height. 
-<small><sub>**KJV:**</sub></small>
-Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.
-<small><sub>**BSB:**</sub></small>
-He made a bronze altar twenty cubits long, twenty cubits wide, and ten cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.17|<< 2 Chronicles 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.2|2 Chronicles 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:4** 
 <small><sub>**LXX:**</sub></small>
 And he rose up and went into Gibeon to sacrifice there, for it \[was\] highest and great. Solomon offered a thousand whole burnt-offerings upon the altar in Gibeon. 
-<small><sub>**KJV:**</sub></small>
-And the king went to Gibeon to sacrifice there; for that [was] the great high place: a thousand burnt offerings did Solomon offer upon that altar.
-<small><sub>**BSB:**</sub></small>
-Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.3|<< 1 Kings 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.5|1 Kings 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

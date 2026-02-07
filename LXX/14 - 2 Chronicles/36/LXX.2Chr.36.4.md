@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Egypt placed  Eliakim son of Josiah \[as\] king over Judah and Jerusalem, and converted  his name to Jehoiakim. And  Pharaoh Necho took Jehoahaz his brother, and brought him to Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
-<small><sub>**BSB:**</sub></small>
-Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.3|<< 2 Chronicles 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.5|2 Chronicles 36:5 >>]]</td></tr></table>
 
 | Translation | Greek |

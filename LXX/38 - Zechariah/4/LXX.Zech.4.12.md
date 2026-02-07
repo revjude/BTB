@@ -1,10 +1,7 @@
 **LXX Zechariah 4:12** 
 <small><sub>**LXX:**</sub></small>
 And I asked of a second \[time\], and I said to him, What \[are\] the two branches of the olive trees, the ones by the handles of the two tubes  of gold of the ones pouring and returning back the oil by funnels  of gold? 
-<small><sub>**KJV:**</sub></small>
-And I answered again, and said unto him, What [be these] two olive branches which through the two golden pipes empty the golden [oil] out of themselves?
-<small><sub>**BSB:**</sub></small>
-And I questioned him further, “What are the two olive branches beside the two gold pipes from which the golden oil pours?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.11|<< Zechariah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.13|Zechariah 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

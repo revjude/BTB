@@ -1,10 +1,7 @@
 **LXX Psalm 39:4** 
 <small><sub>**LXX:**</sub></small>
 Make known to me, O <span class="smallcaps">lord</span>,  my limit! and the number  of my days, what it is, that I should know what I lack. 
-<small><sub>**KJV:**</sub></small>
-LORD, make me to know mine end, and the measure of my days, what it [is; that] I may know how frail I [am].
-<small><sub>**BSB:**</sub></small>
-“Show me, O LORD, my end and the measure of my days. Let me know how fleeting my life is.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.3|<< Psalm 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.5|Psalm 39:5 >>]]</td></tr></table>
 
 | Translation | Greek |

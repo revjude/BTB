@@ -1,4 +1,4 @@
-**Isaiah 37:31** 
+**Isaiah 37:31**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the surviving remnant of the house of Judah will again take root below and b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.30|<< Isaiah 37:30]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.32|Isaiah 37:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will add  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3254G\|יָ֨סְפָ֜ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ya.se.Fah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] escaped remnant of  |**<big>&#8207;[[H6413\|פְּלֵיטַ֧ת]]&#8207; </big>**| pe.lei.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

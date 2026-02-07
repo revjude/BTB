@@ -1,4 +1,4 @@
-**Habakkuk 1:13** 
+**Habakkuk 1:13**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thou art] of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, [and] holdest thy tongue when the wicked devoureth [the man that is] more righteous than he?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your eyes are too pure to look upon evil, and You cannot tolerate wrongdoing. So
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.12|<< Habakkuk 1:12]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.14|Habakkuk 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [you are too] pure of  |**<big>&#8207;[[H2890\|טְה֤וֹר]]&#8207; </big>**| te.Hor<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes  |**<big>&#8207;[[H5869A\|עֵינַ֙יִם֙]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

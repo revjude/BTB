@@ -1,4 +1,4 @@
-**Deuteronomy 4:5** 
+**Deuteronomy 4:5**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have taught you statutes and ordinances just as the LORD my God has comma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.4|<< Deuteronomy 4:4]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.6|Deuteronomy 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאֵ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have taught  |**<big>&#8207;[[H3925G\|לִמַּ֣דְתִּי]]&#8207; </big>**| li.Mad.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

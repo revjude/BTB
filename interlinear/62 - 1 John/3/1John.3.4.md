@@ -1,12 +1,12 @@
-**1 John 3:4
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:4**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
 <small><sub>**BSB:**</sub></small>
 Everyone who practices sin practices lawlessness as well. Indeed, sin is lawlessness.
 <small><sub>**Literal:**</sub></small>
 Everyone who is committing <the> sin also <the> lawlessness commits, and <the> sin is <the> lawlessness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.3|<< 1 John 3:3]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.5|1 John 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Nehemiah 3:30** 
+**Nehemiah 3:30**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next to him, Hananiah son of Shelemiah, as well as Hanun the sixth son of Zalaph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.29|<< Nehemiah 3:29]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.31|Nehemiah 3:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  [^2]|**<big>&#8207;[[H0310A\|אַחֲרָ֨י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**[^3] | 'a.cha.rei<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֜יק]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

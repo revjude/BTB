@@ -1,5 +1,5 @@
-**Revelation 11:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:2**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty [and] two months.
 <small><sub>**BSB:**</sub></small>
 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.
@@ -10,7 +10,7 @@ And the courtyard <the> outside the temple do leave outside, and not it may meas
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

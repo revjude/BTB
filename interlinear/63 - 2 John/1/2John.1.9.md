@@ -1,12 +1,12 @@
-**2 John 1:9
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:9**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
 <small><sub>**BSB:**</sub></small>
 Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son.
 <small><sub>**Literal:**</sub></small>
 Anyone who is progressing and not abiding in the teaching <the> of Christ God not has; The [one] abiding in the teaching of the Christ this [one] both the Father and the Son has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.8|<< 2 John 1:8]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.10|2 John 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Anyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

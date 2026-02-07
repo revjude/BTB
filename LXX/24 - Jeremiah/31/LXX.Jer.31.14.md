@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:14** 
 <small><sub>**LXX:**</sub></small>
 I will magnify and intoxicate the soul of the priests, sons of Levi. And  my people  shall be filled up of my good \[things\]. Thus said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will fill the souls of the priests abundantly, and will fill My people with My goodness,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.13|<< Jeremiah 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.15|Jeremiah 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

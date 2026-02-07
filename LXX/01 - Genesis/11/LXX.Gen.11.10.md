@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the generations of Shem. And Shem was a hundred years \[old\] when he procreated  Arphaxad, \[the\] second year after the flood. 
-<small><sub>**KJV:**</sub></small>
-These [are] the generations of Shem: Shem [was] an hundred years old, and begat Arphaxad two years after the flood:
-<small><sub>**BSB:**</sub></small>
-This is the account of Shem. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.9|<< Genesis 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.11|Genesis 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

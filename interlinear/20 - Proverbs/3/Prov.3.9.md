@@ -1,4 +1,4 @@
-**Proverbs 3:9** 
+**Proverbs 3:9**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Honour the LORD with thy substance, and with the firstfruits of all thine increase:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Honor the LORD with your wealth and with the firstfruits of all your crops;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.8|<< Proverbs 3:8]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.10|Proverbs 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | honor  |**<big>&#8207;[[H3513G\|כַּבֵּ֣ד]]&#8207; </big>**| ka.Bed<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

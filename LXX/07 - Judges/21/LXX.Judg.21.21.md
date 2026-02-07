@@ -1,10 +1,7 @@
 **LXX Judges 21:21** 
 <small><sub>**LXX:**</sub></small>
 And look and behold, whenever the daughters of the ones dwelling in Shiloh should come forth joining in a dance with a company of dancers, then you shall come forth from the vineyards, and a man seize by force to himself a wife from the daughters of Shiloh! then you shall depart unto the land of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
-<small><sub>**BSB:**</sub></small>
-and watch. When you see the daughters of Shiloh come out to perform their dances, each of you is to come out of the vineyards, catch for himself a wife from the daughters of Shiloh, and go to the land of Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.20|<< Judges 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.22|Judges 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

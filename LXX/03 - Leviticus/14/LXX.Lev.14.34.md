@@ -1,10 +1,7 @@
 **LXX Leviticus 14:34** 
 <small><sub>**LXX:**</sub></small>
 When ever you should enter into the land of the Canaanites, which I give to you for a possession, and I put an infection of leprosy in the houses of the land  procured by you; 
-<small><sub>**KJV:**</sub></small>
-When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;
-<small><sub>**BSB:**</sub></small>
-“When you enter the land of Canaan, which I am giving you as your possession, and I put a contamination of mildew into a house in that land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.33|<< Leviticus 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.35|Leviticus 14:35 >>]]</td></tr></table>
 
 | Translation | Greek |

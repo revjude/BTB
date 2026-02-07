@@ -1,10 +1,7 @@
 **LXX Job 4:18** 
 <small><sub>**LXX:**</sub></small>
 If he does not even trust his servants, and even \[considers\] his angels as crooked in what he thinks about, 
-<small><sub>**KJV:**</sub></small>
-Behold, he put no trust in his servants; and his angels he charged with folly:
-<small><sub>**BSB:**</sub></small>
-If God puts no trust in His servants, and He charges His angels with error,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.17|<< Job 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.19|Job 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

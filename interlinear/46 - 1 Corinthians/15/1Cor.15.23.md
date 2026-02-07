@@ -1,12 +1,12 @@
-**1 Corinthians 15:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:23**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.
 <small><sub>**BSB:**</sub></small>
 But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him.
 <small><sub>**Literal:**</sub></small>
 each however in the own order: [the] firstfruit Christ, then those <the> of Christ at the coming of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.22|<< 1 Corinthians 15:22]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.24|1 Corinthians 15:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | each |**<big>[[G1538\|ἕκαστος]]</big>**  |hekastos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

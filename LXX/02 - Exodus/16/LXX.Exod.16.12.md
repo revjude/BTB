@@ -1,10 +1,7 @@
 **LXX Exodus 16:12** 
 <small><sub>**LXX:**</sub></small>
 I have heard the grumbling of the sons of Israel. Speak to them! saying,  Towards evening you shall eat meats, and in the morning you will be filled of bread loaves. And you shall know that I am \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-“I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.11|<< Exodus 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.13|Exodus 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

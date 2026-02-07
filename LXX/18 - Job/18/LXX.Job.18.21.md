@@ -1,10 +1,7 @@
 **LXX Job 18:21** 
 <small><sub>**LXX:**</sub></small>
 These are the houses of \[the\] unjust, and this \[is\] the place of the ones not knowing the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Surely such [are] the dwellings of the wicked, and this [is] the place [of him that] knoweth not God.
-<small><sub>**BSB:**</sub></small>
-Surely such is the dwelling of the wicked and the place of one who does not know God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.20|<< Job 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.1|Job 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

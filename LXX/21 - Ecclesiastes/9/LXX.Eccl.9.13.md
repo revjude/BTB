@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:13** 
 <small><sub>**LXX:**</sub></small>
 And indeed this I beheld -- wisdom under the sun, and it is great to me. 
-<small><sub>**KJV:**</sub></small>
-This wisdom have I seen also under the sun, and it [seemed] great unto me:
-<small><sub>**BSB:**</sub></small>
-I have also seen this wisdom under the sun, and it was great to me:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.12|<< Ecclesiastes 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.14|Ecclesiastes 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

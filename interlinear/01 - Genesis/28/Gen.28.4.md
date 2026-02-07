@@ -1,4 +1,4 @@
-**Genesis 28:4** 
+**Genesis 28:4**<big><big>[[Gen.28.1 Jacob’s Departure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And may He give the blessing of Abraham to you and your descendants, so that you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.3|<< Genesis 28:3]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.5|Genesis 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may he give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִֽתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ten-<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

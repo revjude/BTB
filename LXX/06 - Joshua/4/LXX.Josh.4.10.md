@@ -1,10 +1,7 @@
 **LXX Joshua 4:10** 
 <small><sub>**LXX:**</sub></small>
 And the priests stood, the ones lifting the ark of the covenant, in the midst the Jordan, until of which he completed all the words which \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Joshua to announce to the people, according to all as much as Moses gave charge \[to\] Joshua. And the people hastened, and passed over. 
-<small><sub>**KJV:**</sub></small>
-For the priests which bare the ark stood in the midst of Jordan, until every thing was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over.
-<small><sub>**BSB:**</sub></small>
-Now the priests who carried the ark remained standing in the middle of the Jordan until the people had completed everything the LORD had commanded Joshua to tell them, just as Moses had directed Joshua. The people hurried across,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.9|<< Joshua 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.11|Joshua 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 26:36** 
+**Exodus 26:36**<big><big>[[Exod.26.36 The Curtain for the Entrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make an hanging for the door of the tent, [of] blue, and purple, and scarlet, and fine twined linen, wrought with needlework.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the entrance to the tent, you are to make a curtain embroidered with blue, p
 > $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֤יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a screen  |**<big>&#8207;[[H4539\|מָסָךְ֙]]&#8207; </big>**| ma.soKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

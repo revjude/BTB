@@ -1,4 +1,4 @@
-**Job 41:3** (40:27)
+**Job 41:3**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he make many supplications unto thee? will he speak soft [words] unto thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will he beg you for mercy or speak to you softly?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.2|<< Job 41:2]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.4|Job 41:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will it multiply  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7235A\|יַרְבֶּ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yar.Beh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵ֭לֶי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'E.lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

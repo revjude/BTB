@@ -1,10 +1,7 @@
 **LXX Job 27:17** 
 <small><sub>**LXX:**</sub></small>
 all these \[things\] \[the\] just shall procure,  and of his \[things\] \[the\] true ones will control. 
-<small><sub>**KJV:**</sub></small>
-He may prepare [it], but the just shall put [it] on, and the innocent shall divide the silver.
-<small><sub>**BSB:**</sub></small>
-what he lays up, the righteous will wear, and his silver will be divided by the innocent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.16|<< Job 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.18|Job 27:18 >>]]</td></tr></table>
 
 | Translation | Greek |

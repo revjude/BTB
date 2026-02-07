@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:5** 
 <small><sub>**LXX:**</sub></small>
 And king Zedekiah said, Behold, he \[is\] in your hands; for the king was not able to \[resist\] them. 
-<small><sub>**KJV:**</sub></small>
-Then Zedekiah the king said, Behold, he [is] in your hand: for the king [is] not [he that] can do [any] thing against you.
-<small><sub>**BSB:**</sub></small>
-“Here he is,” replied King Zedekiah. “He is in your hands, since the king can do nothing to stop you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.4|<< Jeremiah 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.6|Jeremiah 38:6 >>]]</td></tr></table>
 
 | Translation | Greek |

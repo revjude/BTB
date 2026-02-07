@@ -1,5 +1,5 @@
-**Luke 1:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:10**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the whole multitude of the people were praying without at the time of incense.
 <small><sub>**BSB:**</sub></small>
 And at the hour of the incense offering, the whole congregation was praying outside.
@@ -10,7 +10,7 @@ And all the multitude were of the people praying outside at the hour of the ince
 > $\quad$ alluding to: [[LXX.Lev.16.17|Lev 16:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:37** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, If the heaven should be raised up in  elevation, and if the floor of the earth should be lowered below, yet I shall not reject the race of Israel, says \[the\] <span class="smallcaps">lord</span>, for all which they did. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Only if the heavens above could be measured and the foundations of the earth below searched out would I reject all of Israel’s descendants because of all they have done,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.36|<< Jeremiah 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.38|Jeremiah 31:38 >>]]</td></tr></table>
 
 | Translation | Greek |

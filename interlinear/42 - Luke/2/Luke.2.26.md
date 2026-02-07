@@ -1,12 +1,12 @@
-**Luke 2:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:26**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ.
 <small><sub>**BSB:**</sub></small>
 The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ.
 <small><sub>**Literal:**</sub></small>
 And it was to him revealed by the Spirit <the> Holy not to see death before than when he may see the Christ of [the] Lord<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.25|<< Luke 2:25]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.27|Luke 2:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

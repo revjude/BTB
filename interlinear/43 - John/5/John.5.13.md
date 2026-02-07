@@ -1,12 +1,12 @@
-**John 5:13
-**<small><sub>**KJV:**</sub></small>
+**John 5:13**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in [that] place.
 <small><sub>**BSB:**</sub></small>
 But the man who was healed did not know who it was, for Jesus had slipped away while the crowd was there.
 <small><sub>**Literal:**</sub></small>
 The [one] now having been healed not knew who it is; <the> for Jesus moved away a crowd being in the place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.12|<< John 5:12]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.14|John 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

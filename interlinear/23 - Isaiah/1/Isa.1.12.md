@@ -1,4 +1,4 @@
-**Isaiah 1:12** 
+**Isaiah 1:12**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye come to appear before me, who hath required this at your hand, to tread my courts?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you come to appear before Me, who has required this of you—this trampling
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.11|<< Isaiah 1:11]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.13|Isaiah 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you come  |**<big>&#8207;[[H0935G\|תָבֹ֔אוּ]]&#8207; </big>**| ta.Vo.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

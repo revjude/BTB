@@ -1,12 +1,12 @@
-**Mark 10:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:40**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to sit on my right hand and on my left hand is not mine to give; but [it shall be given to them] for whom it is prepared.
 <small><sub>**BSB:**</sub></small>
 But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.”
 <small><sub>**Literal:**</sub></small>
 <the> but to sit at [the] right hand of Me or at [the] left hand of me not is Mine to give but [to those] for whom it has been prepared.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.39|<< Mark 10:39]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.41|Mark 10:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

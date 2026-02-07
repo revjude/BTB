@@ -1,4 +1,4 @@
-**Hosea 2:23** (2:25)
+**Hosea 2:23**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to [them which were] not my people, Thou [art] my people; and they shall say, [Thou art] my God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will sow her as My own in the land, and I will have compassion on ‘No Co
 > $\quad$ referenced by: [[Rom.9.25|Rom 9:25]] ☩ [[1Pet.2.10|1Pet 2:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will sow her  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H2232\|זְרַעְתִּ֤י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ze.ra'.Ti.<small><sup>[[HVqq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for myself  |**<big>&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

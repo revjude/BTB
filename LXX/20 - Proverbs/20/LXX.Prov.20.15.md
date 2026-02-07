@@ -1,10 +1,7 @@
 **LXX Proverbs 20:15** 
 <small><sub>**LXX:**</sub></small>
 There is gold and multitude of very costly stones, and \[the\] valued vessel -- lips of understanding. 
-<small><sub>**KJV:**</sub></small>
-There is gold, and a multitude of rubies: but the lips of knowledge [are] a precious jewel.
-<small><sub>**BSB:**</sub></small>
-There is an abundance of gold and rubies, but lips of knowledge are a rare treasure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.14|<< Proverbs 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.16|Proverbs 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

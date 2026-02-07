@@ -1,12 +1,12 @@
-**Luke 10:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:33**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion [on him],
 <small><sub>**BSB:**</sub></small>
 But a Samaritan on a journey came upon him, and when he saw him, he had compassion.
 <small><sub>**Literal:**</sub></small>
 A Samaritan however one journeying came to him, and having seen him was moved with compassion,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.32|<< Luke 10:32]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.34|Luke 10:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A Samaritan |**<big>[[G4541\|Σαμαρίτης]]</big>**  [^1] |Samaritēs <small><sup>[[N-NSM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

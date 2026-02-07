@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΤΗΘ</p>
 
 Her uncleanness \[is\] before her feet, she did not remember her end, and she brought down enormously. There is no  comforting her. Behold O <span class="smallcaps">lord</span>  my humiliation, for the enemy was magnified! 
-<small><sub>**KJV:**</sub></small>
-Her filthiness [is] in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified [himself].
-<small><sub>**BSB:**</sub></small>
-Her uncleanness stains her skirts; she did not consider her end. Her downfall was astounding; there was no one to comfort her. Look, O LORD, on my affliction, for the enemy has triumphed!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Peter 3:18
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:18**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But grow in grace, and [in] the knowledge of our Lord and Saviour Jesus Christ. To him [be] glory both now and for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory both now and to the day of eternity. Amen.
 <small><sub>**Literal:**</sub></small>
 do grow however in grace and in knowledge of the Lord of us and Savior Jesus Christ. To Him [be] the glory both now and to [the] day of eternity, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.17|<< 2 Peter 3:17]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.1|1 John 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do grow |**<big>[[G0837\|αὐξάνετε]]</big>**  |auxanete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

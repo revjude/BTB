@@ -1,4 +1,4 @@
-**Ezekiel 48:13** 
+**Ezekiel 48:13**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over against the border of the priests the Levites [shall have] five and twenty thousand in length, and ten thousand in breadth: all the length [shall be] five and twenty thousand, and the breadth ten thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bordering the territory of the priests, the Levites shall have an area 25,000 cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.12|<< Ezekiel 48:12]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.14|Ezekiel 48:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> close to  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5980\|עֻמַּת֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'u.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 21:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:21**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise [their] children, neither to walk after the customs.
 <small><sub>**BSB:**</sub></small>
 But they are under the impression that you teach all the Jews who live among the Gentiles to forsake Moses, telling them not to circumcise their children or observe our customs.
 <small><sub>**Literal:**</sub></small>
 They have been informed now about you that apostasy you teach from Moses those among the Gentiles all Jews telling not to circumcise them the children nor in the customs to walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.20|<< Acts 21:20]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.22|Acts 21:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They have been informed |**<big>[[G2727\|κατηχήθησαν]]</big>**  |katēchēthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

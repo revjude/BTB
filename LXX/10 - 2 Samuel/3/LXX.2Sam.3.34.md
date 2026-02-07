@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:34** 
 <small><sub>**LXX:**</sub></small>
  Your hands were not tied, nor  your feet not in shackles; you did not lead as Nabal; you fell in the presence of a son of injustice. And all the people were brought together  to weep for him. 
-<small><sub>**KJV:**</sub></small>
-Thy hands [were] not bound, nor thy feet put into fetters: as a man falleth before wicked men, [so] fellest thou. And all the people wept again over him.
-<small><sub>**BSB:**</sub></small>
-Your hands were not bound, your feet were not fettered. As a man falls before the wicked, so also you fell.” And all the people wept over him even more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.33|<< 2 Samuel 3:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.35|2 Samuel 3:35 >>]]</td></tr></table>
 
 | Translation | Greek |

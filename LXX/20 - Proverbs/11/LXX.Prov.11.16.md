@@ -1,10 +1,7 @@
 **LXX Proverbs 11:16** 
 <small><sub>**LXX:**</sub></small>
 A gracious wife raises glory to \[her\] husband; but a throne of dishonor \[is\] a wife detesting righteous \[things\]. \[The\] lazy become lacking of riches; but the vigorous establish riches. 
-<small><sub>**KJV:**</sub></small>
-A gracious woman retaineth honour: and strong [men] retain riches.
-<small><sub>**BSB:**</sub></small>
-A gracious woman attains honor, but ruthless men gain only wealth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.15|<< Proverbs 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.17|Proverbs 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

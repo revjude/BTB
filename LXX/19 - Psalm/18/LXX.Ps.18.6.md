@@ -1,10 +1,7 @@
 **LXX Psalm 18:6** 
 <small><sub>**LXX:**</sub></small>
 And in  my being afflicted I called upon the <span class="smallcaps">lord</span>, and to  my God I cried out. He heard my voice from out of his holy temple, and  my cry before him shall enter into  his ears. 
-<small><sub>**KJV:**</sub></small>
-In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, [even] into his ears.
-<small><sub>**BSB:**</sub></small>
-In my distress I called upon the LORD; I cried to my God for help. From His temple He heard my voice, and my cry for His help reached His ears.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.5|<< Psalm 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.7|Psalm 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 8:17** 
+**Leviticus 8:17**<big><big>[[Lev.8.14 The Priests’ Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the bull with its hide, flesh, and dung he burned outside the camp, as the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.16|<< Leviticus 8:16]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.18|Leviticus 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bull  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6499\|פָּ֤ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

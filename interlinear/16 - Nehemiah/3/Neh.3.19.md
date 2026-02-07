@@ -1,4 +1,4 @@
-**Nehemiah 3:19** 
+**Nehemiah 3:19**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning [of the wall].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repaired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יְחַזֵּ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

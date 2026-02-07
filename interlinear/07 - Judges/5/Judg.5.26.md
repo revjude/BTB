@@ -1,4 +1,4 @@
-**Judges 5:26** 
+**Judges 5:26**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She reached for the tent peg, her right hand for the workman’s hammer. She str
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.25|<< Judges 5:25]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.27|Judges 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hand her  |**<big>&#8207;[[H3027G\|יָדָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| ya.Da<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the peg  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3489\|יָּתֵ֣ד]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> i.ya.Ted<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

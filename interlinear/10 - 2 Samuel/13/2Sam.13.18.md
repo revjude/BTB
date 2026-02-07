@@ -1,4 +1,4 @@
-**2 Samuel 13:18** 
+**2 Samuel 13:18**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [she had] a garment of divers colours upon her: for with such robes were the king’s daughters [that were] virgins apparelled. Then his servant brought her out, and bolted the door after her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Amnon’s attendant threw her out and bolted the door behind her. Now Tamar w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.17|<< 2 Samuel 13:17]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.19|2 Samuel 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] on her  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עָלֶ֙י]]&#8207;&#8207;[[H9034\|הָ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a long garment of  |**<big>&#8207;[[H3801\|כְּתֹ֣נֶת]]&#8207; </big>**| ke.To.net<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

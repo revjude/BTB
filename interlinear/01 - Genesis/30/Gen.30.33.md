@@ -1,4 +1,4 @@
-**Genesis 30:33** 
+**Genesis 30:33**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that [is] not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So my honesty will testify for me when you come to check on my wages in the futu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.32|<< Genesis 30:32]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.34|Genesis 30:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will testify  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6030B\|עָֽנְתָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.ne.tah-<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for me  |**<big>&#8207;[[H9003\|בִּ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

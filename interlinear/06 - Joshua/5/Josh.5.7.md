@@ -1,4 +1,4 @@
-**Joshua 5:7** 
+**Joshua 5:7**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their children, [whom] he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He raised up their sons in their place, and these were the ones Joshua circu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.6|<< Joshua 5:6]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.8|Joshua 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children their  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

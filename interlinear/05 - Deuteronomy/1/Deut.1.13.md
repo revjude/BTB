@@ -1,4 +1,4 @@
-**Deuteronomy 1:13** 
+**Deuteronomy 1:13**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Choose for yourselves wise, understanding, and respected men from each of your t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.12|<< Deuteronomy 1:12]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.14|Deuteronomy 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | provide  |**<big>&#8207;[[H3051\|הָב֣וּ]]&#8207; </big>**| ha.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for yourselves  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H9036\|כֶם]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 3:10** 
+**Isaiah 3:10**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye to the righteous, that [it shall be] well [with him]: for they shall eat the fruit of their doings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell the righteous it will be well with them, for they will enjoy the fruit of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.9|<< Isaiah 3:9]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.11|Isaiah 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tell  |**<big>&#8207;[[H0559\|אִמְר֥וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֖יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

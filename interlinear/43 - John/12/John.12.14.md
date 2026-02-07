@@ -1,5 +1,5 @@
-**John 12:14
-**<small><sub>**KJV:**</sub></small>
+**John 12:14**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, when he had found a young ass, sat thereon; as it is written,
 <small><sub>**BSB:**</sub></small>
 Finding a young donkey, Jesus sat on it, as it is written:
@@ -10,7 +10,7 @@ Having found then <the> Jesus a young donkey He sat upon it, even as it is writt
 > $\quad$ referencing: [[LXX.Zech.9.9|Zech 9:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having found |**<big>[[G2147\|Εὑρὼν]]</big>**  |Heurōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

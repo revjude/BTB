@@ -1,4 +1,4 @@
-**Daniel 11:31** 
+**Daniel 11:31**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily [sacrifice], and they shall place the abomination that maketh desolate.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ His forces will rise up and desecrate the temple fortress. They will abolish the
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and forces  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2220\|זְרֹעִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ze.ro.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from him  |**<big>&#8207;[[H4480A\|מִמֶּ֣]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

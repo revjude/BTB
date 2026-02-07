@@ -1,10 +1,7 @@
 **LXX Esther 4:14** 
 <small><sub>**LXX:**</sub></small>
 So that if you should disregard at this  time, from elsewhere help and protection will be to the Jews, but you and the house  of your father will be destroyed; and who knows if \[it be\] for  this occasion you reigned. 
-<small><sub>**KJV:**</sub></small>
-For if thou altogether holdest thy peace at this time, [then] shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for [such] a time as this?
-<small><sub>**BSB:**</sub></small>
-For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s house will perish. And who knows if perhaps you have come to the kingdom for such a time as this?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.13|<< Esther 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.15|Esther 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

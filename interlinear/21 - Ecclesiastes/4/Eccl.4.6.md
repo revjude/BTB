@@ -1,4 +1,4 @@
-**Ecclesiastes 4:6** 
+**Ecclesiastes 4:6**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] an handful [with] quietness, than both the hands full [with] travail and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better one handful with tranquility than two handfuls with toil and pursuit of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֕וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fullness of  |**<big>&#8207;[[H4393\|מְלֹ֥א]]&#8207; </big>**| me.Lo'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

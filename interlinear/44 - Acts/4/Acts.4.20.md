@@ -1,12 +1,12 @@
-**Acts 4:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:20**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we cannot but speak the things which we have seen and heard.
 <small><sub>**BSB:**</sub></small>
 For we cannot stop speaking about what we have seen and heard.”
 <small><sub>**Literal:**</sub></small>
 not we are able for we ourselves what we have seen and we heard not to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.19|<< Acts 4:19]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.21|Acts 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we are able |**<big>[[G1410\|δυνάμεθα]]</big>**  |dunametha <small><sup>[[V-PNI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

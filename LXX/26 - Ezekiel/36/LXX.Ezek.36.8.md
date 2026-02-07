@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:8** 
 <small><sub>**LXX:**</sub></small>
 But your grape and your fruit my people shall eat O mountains of Israel; for they are hoping  to come. 
-<small><sub>**KJV:**</sub></small>
-But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.
-<small><sub>**BSB:**</sub></small>
-But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.7|<< Ezekiel 36:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.9|Ezekiel 36:9 >>]]</td></tr></table>
 
 | Translation | Greek |

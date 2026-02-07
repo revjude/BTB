@@ -1,4 +1,4 @@
-**Genesis 7:23** 
+**Genesis 7:23**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained [alive], and they that [were] with him in the ark.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And every living thing on the face of the earth was destroyed—man and livestoc
 > $\quad$ referenced by: [[2Pet.2.5|2Pet 2:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wiped out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4229A\|יִּ֜מַח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.mach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

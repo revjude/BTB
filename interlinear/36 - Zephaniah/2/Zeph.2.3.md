@@ -1,4 +1,4 @@
-**Zephaniah 2:3** 
+**Zephaniah 2:3**<big><big>[[Zeph.2.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD’S anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seek the LORD, all you humble of the earth who carry out His justice. Seek right
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.2|<< Zephaniah 2:2]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.4|Zephaniah 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seek  |**<big>&#8207;[[H1245\|בַּקְּשׁ֤וּ]]&#8207; </big>**| ba.ke.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

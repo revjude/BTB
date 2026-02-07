@@ -1,4 +1,4 @@
-**Proverbs 25:21** 
+**Proverbs 25:21**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If your enemy is hungry, give him food to eat, and if he is thirsty, give him wa
 > $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] hungry  |**<big>&#8207;[[H7457\|רָעֵ֣ב]]&#8207; </big>**| ra.'Ev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

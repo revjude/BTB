@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:6** 
 <small><sub>**LXX:**</sub></small>
 And great and small shall die in  this land. They shall not be buried, and they shall not be lamented, they shall not beat their chest for them, nor shall they make cuts, and they shall not be shaven; 
-<small><sub>**KJV:**</sub></small>
-Both the great and the small shall die in this land: they shall not be buried, neither shall [men] lament for them, nor cut themselves, nor make themselves bald for them:
-<small><sub>**BSB:**</sub></small>
-“Both great and small will die in this land. They will not be buried or mourned, nor will anyone cut himself or shave his head for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.5|<< Jeremiah 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.7|Jeremiah 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

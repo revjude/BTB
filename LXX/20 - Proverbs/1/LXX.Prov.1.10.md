@@ -1,10 +1,7 @@
 **LXX Proverbs 1:10** 
 <small><sub>**LXX:**</sub></small>
 O son, you should not have impious men to wander you, nor should you consent. 
-<small><sub>**KJV:**</sub></small>
-My son, if sinners entice thee, consent thou not.
-<small><sub>**BSB:**</sub></small>
-My son, if sinners entice you, do not yield to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.9|<< Proverbs 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.11|Proverbs 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Hosea 9:6** 
+**Hosea 9:6**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant [places] for their silver, nettles shall possess them: thorns [shall be] in their tabernacles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For even if they flee destruction, Egypt will gather them and Memphis will bury 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.5|<< Hosea 9:5]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.7|Hosea 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

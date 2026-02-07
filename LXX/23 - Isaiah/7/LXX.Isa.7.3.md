@@ -1,10 +1,7 @@
 **LXX Isaiah 7:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Isaiah, Go forth to meet with Ahaz, you and the one being left behind, Jasub  your son, to the upper pool by way of \[the\] field of the fuller. 
-<small><sub>**KJV:**</sub></small>
-Then said the LORD unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller’s field;
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Isaiah, “Go out with your son Shear-jashub to meet Ahaz at the end of the aqueduct that feeds the upper pool, on the road to the Launderer’s Field,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.2|<< Isaiah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.4|Isaiah 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

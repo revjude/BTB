@@ -1,10 +1,7 @@
 **LXX Proverbs 29:5** 
 <small><sub>**LXX:**</sub></small>
 The one who makes preparations with a net against \[the\] person of his own friend puts it around  his own feet. 
-<small><sub>**KJV:**</sub></small>
-A man that flattereth his neighbour spreadeth a net for his feet.
-<small><sub>**BSB:**</sub></small>
-A man who flatters his neighbor spreads a net for his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.4|<< Proverbs 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.6|Proverbs 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

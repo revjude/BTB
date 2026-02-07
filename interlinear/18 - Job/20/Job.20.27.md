@@ -1,4 +1,4 @@
-**Job 20:27** 
+**Job 20:27**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heaven shall reveal his iniquity; and the earth shall rise up against him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heavens will expose his iniquity, and the earth will rise up against him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.26|<< Job 20:26]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.28|Job 20:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will reveal  |**<big>&#8207;[[H1540H\|יְגַלּ֣וּ]]&#8207; </big>**| ye.ga.Lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

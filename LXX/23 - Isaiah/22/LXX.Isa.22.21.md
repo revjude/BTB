@@ -1,10 +1,7 @@
 **LXX Isaiah 22:21** 
 <small><sub>**LXX:**</sub></small>
 and I will put on him  your apparel, and  I will give to him your crown. And  might, and  your administration I will put into  his hands; and he shall be as a father to the ones dwelling Jerusalem, and to the ones dwelling Judah. 
-<small><sub>**KJV:**</sub></small>
-And I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand: and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah.
-<small><sub>**BSB:**</sub></small>
-I will clothe him with your robe and tie your sash around him. I will put your authority in his hand, and he will be a father to the dwellers of Jerusalem and to the house of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.20|<< Isaiah 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.22|Isaiah 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

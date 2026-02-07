@@ -1,4 +1,4 @@
-**Ezekiel 11:24** 
+**Ezekiel 11:24**<big><big>[[Ezek.11.22 God’s Glory Leaves Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.23|<< Ezekiel 11:23]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.25|Ezekiel 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a spirit  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it lifted up me  |**<big>&#8207;[[H5375G\|נְשָׂאַ֗תְ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ne.sa.'At.<small><sup>[[HVqp3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 16:13** 
+**Job 16:13**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His archers surround me. He pierces my kidneys without mercy and spills my gall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.12|<< Job 16:12]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.14|Job 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they surround  |**<big>&#8207;[[H5437H\|יָ֘סֹ֤בּוּ]]&#8207; </big>**| ya.So.bu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on> me  |**<big>&#8207;[[H5921A\|עָלַ֨]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

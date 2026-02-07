@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:12** 
 <small><sub>**LXX:**</sub></small>
 And the first-fruit shall be to them having been given from out of the first-fruits of the land, a holy of holies from the borders of the Levites. 
-<small><sub>**KJV:**</sub></small>
-And [this] oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites.
-<small><sub>**BSB:**</sub></small>
-It will be a special portion for them set apart from the land, a most holy portion adjacent to the territory of the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.11|<< Ezekiel 48:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.13|Ezekiel 48:13 >>]]</td></tr></table>
 
 | Translation | Greek |

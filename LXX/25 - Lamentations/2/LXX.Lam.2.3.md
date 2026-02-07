@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΓΙΜΕΛ</p>
 
 He broke in pieces in anger of his rage all \[the\] horn of Israel. He turned back his right \[hand\] from \[the\] face of \[the\] enemy, and he lit in Jacob a flame as fire, and it devoured all the \[things\] round about. 
-<small><sub>**KJV:**</sub></small>
-He hath cut off in [his] fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, [which] devoureth round about.
-<small><sub>**BSB:**</sub></small>
-In fierce anger He has cut off every horn of Israel and withdrawn His right hand at the approach of the enemy. He has burned in Jacob like a flaming fire that consumes everything around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.2|<< Lamentations 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.4|Lamentations 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

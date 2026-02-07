@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  coming to Isaiah son of Amoz concerning  Judea, and concerning Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
-<small><sub>**BSB:**</sub></small>
-This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.31|<< Isaiah 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.2|Isaiah 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

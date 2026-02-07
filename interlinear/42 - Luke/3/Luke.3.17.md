@@ -1,12 +1,12 @@
-**Luke 3:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:17**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose fan [is] in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
 <small><sub>**BSB:**</sub></small>
 His winnowing fork is in His hand to clear His threshing floor and to gather the wheat into His barn; but He will burn up the chaff with unquenchable fire.”
 <small><sub>**Literal:**</sub></small>
 of whom the winnowing fork [is] in the hand of Him and to scour the threshing floor of Him and to gather the wheat into the barn of Him. <the> But the chaff He will burn up with fire unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.16|<< Luke 3:16]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.18|Luke 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

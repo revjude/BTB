@@ -1,4 +1,4 @@
-**Isaiah 33:15** 
+**Isaiah 33:15**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who walks righteously and speaks with sincerity, who refuses gain from extort
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.14|<< Isaiah 33:14]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.16|Isaiah 33:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] walks  |**<big>&#8207;[[H1980I\|הֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness\<es>  |**<big>&#8207;[[H6666\|צְדָק֔וֹת]]&#8207; </big>**| tze.da.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

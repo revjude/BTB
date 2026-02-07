@@ -1,4 +1,4 @@
-**Nehemiah 1:9** 
+**Nehemiah 1:9**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [if] ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, [yet] will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but if you return to Me and keep and practice My commandments, then even if your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.8|<< Nehemiah 1:8]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.10|Nehemiah 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725O\|שַׁבְתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

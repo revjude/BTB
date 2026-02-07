@@ -1,4 +1,4 @@
-**Isaiah 48:6** 
+**Isaiah 48:6**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast heard, see all this; and will not ye declare [it]? I have shewed thee new things from this time, even hidden things, and thou didst not know them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have heard these things; look at them all. Will you not acknowledge them? Fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.5|<< Isaiah 48:5]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.7|Isaiah 48:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֤עְתָּֽ]]&#8207; </big>**| sha.Ma'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | look at  |**<big>&#8207;[[H2372\|חֲזֵה֙]]&#8207; </big>**| cha.Zeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

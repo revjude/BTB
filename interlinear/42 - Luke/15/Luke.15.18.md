@@ -1,12 +1,12 @@
-**Luke 15:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:18**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
 <small><sub>**BSB:**</sub></small>
 I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you.
 <small><sub>**Literal:**</sub></small>
 Having risen up I will go to the father of mine and I will say to him; Father, I have sinned against <the> heaven and before you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.17|<< Luke 15:17]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.19|Luke 15:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will go |**<big>[[G4198\|πορεύσομαι]]</big>**  |poreusomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

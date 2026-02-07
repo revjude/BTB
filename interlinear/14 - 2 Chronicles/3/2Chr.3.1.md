@@ -1,4 +1,4 @@
-**2 Chronicles 3:1** 
+**2 Chronicles 3:1**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where [the LORD] appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.18|<< 2 Chronicles 2:18]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.2|2 Chronicles 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he began  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2490C\|יָּ֣חֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.chel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

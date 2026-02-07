@@ -1,4 +1,4 @@
-**Jeremiah 2:21** 
+**Jeremiah 2:21**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I had planted you like a choice vine from the very best seed. How could you turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.20|<< Jeremiah 2:20]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.22|Jeremiah 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I had planted you  |**<big>&#8207;[[H5193\|נְטַעְתִּ֣י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| ne.ta'.Ti<small><sup>[[HVqp1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

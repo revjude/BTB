@@ -1,10 +1,7 @@
 **LXX Amos 5:12** 
 <small><sub>**LXX:**</sub></small>
 For I knew many impious deeds of yours, and your mighty sins -- trampling \[the\] just, taking prices, and turning aside \[the\] needy at \[the\] gates. 
-<small><sub>**KJV:**</sub></small>
-For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate [from their right].
-<small><sub>**BSB:**</sub></small>
-For I know that your transgressions are many and your sins are numerous. You oppress the righteous by taking bribes; you deprive the poor of justice in the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.11|<< Amos 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.13|Amos 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

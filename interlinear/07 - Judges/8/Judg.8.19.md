@@ -1,4 +1,4 @@
-**Judges 8:19** 
+**Judges 8:19**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, They [were] my brethren, [even] the sons of my mother: [as] the LORD liveth, if ye had saved them alive, I would not slay you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, They [were] my brethren, [even] the sons of my mother: [as] the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.18|<< Judges 8:18]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.20|Judges 8:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֕ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] brothers my  |**<big>&#8207;[[H0251G\|אַחַ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.Cha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

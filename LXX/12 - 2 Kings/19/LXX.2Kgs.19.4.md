@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:4** 
 <small><sub>**LXX:**</sub></small>
 If by any means \[the\] <span class="smallcaps">lord</span> your God shall hearken to all the words of Rabshakeh, whom \[the\] king of the Assyrians his master sent him to berate \[the\] living God, and to reprove by words which \[the\] <span class="smallcaps">lord</span> your God heard, that you shall take \[up\] a prayer for the remnant  being found. 
-<small><sub>**KJV:**</sub></small>
-It may be the LORD thy God will hear all the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up [thy] prayer for the remnant that are left.
-<small><sub>**BSB:**</sub></small>
-Perhaps the LORD your God will hear all the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.3|<< 2 Kings 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.5|2 Kings 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

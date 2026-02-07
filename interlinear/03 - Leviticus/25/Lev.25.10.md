@@ -1,4 +1,4 @@
-**Leviticus 25:10** 
+**Leviticus 25:10**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall hallow the fiftieth year, and proclaim liberty throughout [all] the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you are to consecrate the fiftieth year and proclaim liberty in the land for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.9|<< Leviticus 25:9]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.11|Leviticus 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will set apart as holy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|קִדַּשְׁתֶּ֗ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

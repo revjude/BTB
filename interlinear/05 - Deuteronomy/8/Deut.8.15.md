@@ -1,4 +1,4 @@
-**Deuteronomy 8:15** 
+**Deuteronomy 8:15**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who led thee through that great and terrible wilderness, [wherein were] fiery serpents, and scorpions, and drought, where [there was] no water; who brought thee forth water out of the rock of flint;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He led you through the vast and terrifying wilderness with its venomous snakes a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.14|<< Deuteronomy 8:14]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.16|Deuteronomy 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who led you  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1980J\|מּוֹלִ֨יכֲ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mo.Li.kha.<small><sup>[[HVhrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

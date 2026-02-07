@@ -1,4 +1,4 @@
-**Psalms 105:28** 
+**Psalms 105:28**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent darkness, and made it dark; and they rebelled not against his word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent darkness, and it became dark—yet they defied His words.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.27|<< Psalms 105:27]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.29|Psalms 105:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁ֣לַֽח]]&#8207; </big>**| Sha.lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹ֭שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

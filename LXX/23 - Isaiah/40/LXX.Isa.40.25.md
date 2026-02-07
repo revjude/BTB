@@ -1,10 +1,7 @@
 **LXX Isaiah 40:25** 
 <small><sub>**LXX:**</sub></small>
 Now then, to whom did you liken me that I shall be exalted, said the holy one? 
-<small><sub>**KJV:**</sub></small>
-To whom then will ye liken me, or shall I be equal? saith the Holy One.
-<small><sub>**BSB:**</sub></small>
-“To whom will you liken Me, or who is My equal?” asks the Holy One.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.24|<< Isaiah 40:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.26|Isaiah 40:26 >>]]</td></tr></table>
 
 | Translation | Greek |

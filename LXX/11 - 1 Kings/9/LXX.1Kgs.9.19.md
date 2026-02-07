@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:19** 
 <small><sub>**LXX:**</sub></small>
 and all the cities, the ones fortified which were \[to\] Solomon, and all the cities of the chariots, and all the cities of the horsemen, and the matters which Solomon engaged in to construct in Jerusalem, and in  Lebanon, and in all the land  of his dominion. 
-<small><sub>**KJV:**</sub></small>
-And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.
-<small><sub>**BSB:**</sub></small>
-as well as all the store cities that Solomon had for his chariots and horses—whatever he desired to build in Jerusalem, Lebanon, and throughout the land of his dominion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.18|<< 1 Kings 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.20|1 Kings 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

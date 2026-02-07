@@ -1,4 +1,4 @@
-**Proverbs 3:16** 
+**Proverbs 3:16**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Length of days [is] in her right hand; [and] in her left hand riches and honour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Long life is in her right hand; in her left hand are riches and honor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.15|<< Proverbs 3:15]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.17|Proverbs 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָ֭מִים]]&#8207; </big>**| Ya.mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

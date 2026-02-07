@@ -1,4 +1,4 @@
-**Isaiah 9:18** (9:17)
+**Isaiah 9:18**<big><big>[[Isa.9.18 Judgment against Israel’s Unrepentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up [like] the lifting up of smoke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For wickedness burns like a fire that consumes the thorns and briers and kindles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.17|<< Isaiah 9:17]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.19|Isaiah 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has burned  |**<big>&#8207;[[H1197A\|בָעֲרָ֤ה]]&#8207; </big>**| va.'a.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

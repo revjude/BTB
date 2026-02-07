@@ -1,4 +1,4 @@
-**Isaiah 5:13** 
+**Isaiah 5:13**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore my people are gone into captivity, because [they have] no knowledge: and their honourable men [are] famished, and their multitude dried up with thirst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore My people will go into exile for their lack of understanding; their di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.12|<< Isaiah 5:12]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.14|Isaiah 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֛ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go into exile  |**<big>&#8207;[[H1540K\|גָּלָ֥ה]]&#8207; </big>**| ga.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

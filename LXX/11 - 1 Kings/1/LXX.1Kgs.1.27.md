@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:27** 
 <small><sub>**LXX:**</sub></small>
 If this thing has taken place through my master the king, then you did not make known \[to\] your servant who shall sit upon the throne  of my master the king after him. 
-<small><sub>**KJV:**</sub></small>
-Is this thing done by my lord the king, and thou hast not shewed [it] unto thy servant, who should sit on the throne of my lord the king after him?
-<small><sub>**BSB:**</sub></small>
-Has my lord the king let this happen without informing your servant who should sit on the throne after my lord the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.26|<< 1 Kings 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.28|1 Kings 1:28 >>]]</td></tr></table>
 
 | Translation | Greek |

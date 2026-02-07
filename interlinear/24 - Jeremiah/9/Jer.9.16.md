@@ -1,4 +1,4 @@
-**Jeremiah 9:16** (9:15)
+**Jeremiah 9:16**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will scatter them also among the heathen, whom neither they nor their fathers have known: and I will send a sword after them, till I have consumed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will scatter them among the nations that neither they nor their fathers have k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.15|<< Jeremiah 9:15]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.17|Jeremiah 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will scatter them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|הֲפִֽצוֹתִי]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.fi.tzo.Ti<small><sup>[[HVhq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

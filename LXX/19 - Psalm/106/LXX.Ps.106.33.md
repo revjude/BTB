@@ -1,10 +1,7 @@
 **LXX Psalm 106:33** 
 <small><sub>**LXX:**</sub></small>
 for they greatly embittered  his spirit, and he drew apart with  his lips. 
-<small><sub>**KJV:**</sub></small>
-Because they provoked his spirit, so that he spake unadvisedly with his lips.
-<small><sub>**BSB:**</sub></small>
-For they rebelled against His Spirit, and Moses spoke rashly with his lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.32|<< Psalm 106:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.34|Psalm 106:34 >>]]</td></tr></table>
 
 | Translation | Greek |

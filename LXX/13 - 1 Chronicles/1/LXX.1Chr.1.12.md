@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:12** 
 <small><sub>**LXX:**</sub></small>
 And the Pathrusim, and the Casluhim from where \[the\] Philistines came forth from there, and the Caphthorim. 
-<small><sub>**KJV:**</sub></small>
-And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.
-<small><sub>**BSB:**</sub></small>
-the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.11|<< 1 Chronicles 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.13|1 Chronicles 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

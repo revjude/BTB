@@ -1,12 +1,12 @@
-**John 20:11
-**<small><sub>**KJV:**</sub></small>
+**John 20:11**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, [and looked] into the sepulchre,
 <small><sub>**BSB:**</sub></small>
 But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,
 <small><sub>**Literal:**</sub></small>
 Mary however had stood at the tomb outside weeping. As therefore she was weeping, she stooped down into the tomb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.10|<< John 20:10]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.12|John 20:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Mary |**<big>[[G3137I\|Μαρία]]</big>**  |Maria <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

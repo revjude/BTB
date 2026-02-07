@@ -1,12 +1,12 @@
-**Luke 12:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:13**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
 <small><sub>**BSB:**</sub></small>
 Someone in the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.”
 <small><sub>**Literal:**</sub></small>
 Said then one from the crowd to Him: Teacher, do say to the brother of mine to divide with me the inheritance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.12|<< Luke 12:12]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.14|Luke 12:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

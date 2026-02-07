@@ -1,10 +1,7 @@
 **LXX Ezra 9:13** 
 <small><sub>**LXX:**</sub></small>
 And after all the \[things\] coming upon us by our actions in the wicked \[things\], and by our great trespasses, that you  our God lightened of us the lawless deeds, and gave to us deliverance; 
-<small><sub>**KJV:**</sub></small>
-And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities [deserve], and hast given us [such] deliverance as this;
-<small><sub>**BSB:**</sub></small>
-After all that has come upon us because of our evil deeds and our great guilt (though You, our God, have punished us less than our iniquities deserve and have given us such a remnant as this),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.12|<< Ezra 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.14|Ezra 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

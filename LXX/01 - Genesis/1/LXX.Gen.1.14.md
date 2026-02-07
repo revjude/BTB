@@ -1,10 +1,7 @@
 **LXX Genesis 1:14** 
 <small><sub>**LXX:**</sub></small>
 And God said, Let there be luminaries in the firmament of the heaven for giving light upon the earth,  to part between the day and between the night! And let them be for signs, and for times, and for days, and for years! 
-<small><sub>**KJV:**</sub></small>
-And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
-<small><sub>**BSB:**</sub></small>
-And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.13|<< Genesis 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.15|Genesis 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 28:38** 
 <small><sub>**LXX:**</sub></small>
 And it shall be upon the forehead of Aaron; and Aaron shall lift away the sins of the holy \[things\] whatever as much as the sons of Israel should sanctify -- every gift  of their holy \[things\]; and it will be upon the forehead of Aaron always -- accepted for them before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD.
-<small><sub>**BSB:**</sub></small>
-And it will be worn on Aaron’s forehead, so that he may bear the iniquity of the holy things that the sons of Israel consecrate with regard to all their holy gifts. It shall always be on his forehead, so that they may be acceptable before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.37|<< Exodus 28:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.39|Exodus 28:39 >>]]</td></tr></table>
 
 | Translation | Greek |

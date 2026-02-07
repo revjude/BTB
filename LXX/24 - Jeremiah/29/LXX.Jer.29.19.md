@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:19** 
 <small><sub>**LXX:**</sub></small>
 For they hearkened not to  my words, says \[the\] <span class="smallcaps">lord</span>, which I sent to them through  my servants the prophets, rising early and sending; and they hearkened not, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending [them]; but ye would not hear, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will do this because they have not listened to My words, declares the LORD, which I sent to them again and again through My servants the prophets. And neither have you exiles listened, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.18|<< Jeremiah 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.20|Jeremiah 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 8:11** 
+**Leviticus 8:11**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sprinkled some of the oil on the altar seven times, anointing the altar and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.10|<< Leviticus 8:10]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.12|Leviticus 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spattered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5137A\|יַּ֥ז]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yaz<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of it  |**<big>&#8207;[[H4480A\|מִמֶּ֛]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

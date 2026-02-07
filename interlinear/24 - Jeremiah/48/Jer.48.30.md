@@ -1,4 +1,4 @@
-**Jeremiah 48:30** 
+**Jeremiah 48:30**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know his wrath, saith the LORD; but [it shall] not [be] so; his lies shall not so effect [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know his insolence,” declares the LORD, “but it is futile. His boasting is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.29|<< Jeremiah 48:29]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.31|Jeremiah 48:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֙עְתִּי֙]]&#8207; </big>**| ya.Da'.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

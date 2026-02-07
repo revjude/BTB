@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:33** 
 <small><sub>**LXX:**</sub></small>
 They were fearing the <span class="smallcaps">lord</span>, and  they served their gods, according to the distinguishing \[manner\] of the nations from where he resettled them from there. 
-<small><sub>**KJV:**</sub></small>
-They feared the LORD, and served their own gods, after the manner of the nations whom they carried away from thence.
-<small><sub>**BSB:**</sub></small>
-They worshiped the LORD, but they also served their own gods according to the customs of the nations from which they had been carried away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.32|<< 2 Kings 17:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.34|2 Kings 17:34 >>]]</td></tr></table>
 
 | Translation | Greek |

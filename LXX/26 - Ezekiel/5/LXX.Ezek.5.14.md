@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:14** 
 <small><sub>**LXX:**</sub></small>
 And I shall make you into a wilderness, even  your daughters round about you, in the presence of all traveling through. 
-<small><sub>**KJV:**</sub></small>
-Moreover I will make thee waste, and a reproach among the nations that [are] round about thee, in the sight of all that pass by.
-<small><sub>**BSB:**</sub></small>
-I will make you a ruin and a disgrace among the nations around you, in the sight of all who pass by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.13|<< Ezekiel 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.15|Ezekiel 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

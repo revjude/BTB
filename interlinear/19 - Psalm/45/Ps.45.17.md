@@ -1,4 +1,4 @@
-**Psalms 45:17** (45:18)
+**Psalms 45:17**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will commemorate your name through all generations; therefore the nations will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.16|<< Psalms 45:16]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.0|Psalms 46:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will cause to be remembered  |**<big>&#8207;[[H2142\|אַזְכִּ֣ירָה]]&#8207; </big>**| 'az.Ki.rah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁ֭מְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Shim.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

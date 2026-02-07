@@ -1,4 +1,4 @@
-**Jeremiah 9:12** (9:11)
+**Jeremiah 9:12**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] the wise man, that may understand this? and [who is he] to whom the mouth of the LORD hath spoken, that he may declare it, for what the land perisheth [and] is burned up like a wilderness, that none passeth through?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who is the man wise enough to understand this? To whom has the mouth of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the person  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֤ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

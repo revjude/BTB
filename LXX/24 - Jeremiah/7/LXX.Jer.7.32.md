@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:32** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and they shall not say any more, Shrine  of Tophet, and Ravine of \[the\] Son of Hinnom, but, The Ravine of the ones Being done away with. And they shall entomb in  Tophet, on account of  a place not existing. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.
-<small><sub>**BSB:**</sub></small>
-So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth and the Valley of Ben-hinnom, but the Valley of Slaughter. For they will bury the dead in Topheth until there is no more room.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.31|<< Jeremiah 7:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.33|Jeremiah 7:33 >>]]</td></tr></table>
 
 | Translation | Greek |

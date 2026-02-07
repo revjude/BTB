@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:28** 
 <small><sub>**LXX:**</sub></small>
 As \[the\] vision of a bow whenever it might be in the cloud in a day of rain, thus \[was\] the position of the brightness round about. This \[is\] the vision of \[the\] likeness of the glory of \[the\] <span class="smallcaps">lord</span>. And I beheld, and I fell upon my face, and I heard a voice speaking. 
-<small><sub>**KJV:**</sub></small>
-As the appearance of the bow that is in the cloud in the day of rain, so [was] the appearance of the brightness round about. This [was] the appearance of the likeness of the glory of the LORD. And when I saw [it], I fell upon my face, and I heard a voice of one that spake.
-<small><sub>**BSB:**</sub></small>
-The appearance of the brilliant light all around Him was like that of a rainbow in a cloud on a rainy day. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell facedown and heard a voice speaking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.27|<< Ezekiel 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.1|Ezekiel 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 1:28** is...

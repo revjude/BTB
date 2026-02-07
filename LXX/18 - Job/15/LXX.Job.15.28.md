@@ -1,10 +1,7 @@
 **LXX Job 15:28** 
 <small><sub>**LXX:**</sub></small>
 And may he be lodged in desolate cities, and enter uninhabited houses; and what these prepared, others shall carry away. 
-<small><sub>**KJV:**</sub></small>
-And he dwelleth in desolate cities, [and] in houses which no man inhabiteth, which are ready to become heaps.
-<small><sub>**BSB:**</sub></small>
-he will dwell in ruined cities, in abandoned houses destined to become rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.27|<< Job 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.29|Job 15:29 >>]]</td></tr></table>
 
 | Translation | Greek |

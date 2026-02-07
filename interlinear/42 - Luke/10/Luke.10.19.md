@@ -1,12 +1,12 @@
-**Luke 10:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:19**<big><big>[[Luke.10.17 The Joyful Return|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
 <small><sub>**BSB:**</sub></small>
 Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy. Nothing will harm you.
 <small><sub>**Literal:**</sub></small>
 Behold I have given you the authority <the> to tread upon serpents and scorpions and upon all the power of the enemy, and no [thing] you certainly not may injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.18|<< Luke 10:18]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.20|Luke 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have given [^1] |**<big>[[G1325\|δέδωκα]]</big>**  |dedōka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

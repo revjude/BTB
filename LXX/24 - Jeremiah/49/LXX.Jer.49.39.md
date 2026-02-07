@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:39** 
 <small><sub>**LXX:**</sub></small>
 And it will be at \[the\] latter ends of the days I will return the captivity of Elam, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But it shall come to pass in the latter days, [that] I will bring again the captivity of Elam, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Yet in the last days, I will restore Elam from captivity,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.38|<< Jeremiah 49:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.1|Jeremiah 50:1 >>]]</td></tr></table>
 
 | Translation | Greek |

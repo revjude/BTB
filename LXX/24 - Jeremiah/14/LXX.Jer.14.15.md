@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:15** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, concerning the prophets, of the ones prophesying lies in my name, and I did not send them, who say, Sword and famine will not be upon  this land. By a diseased death the prophets shall die and by hunger they shall be finished off entirely, 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says about the prophets who prophesy in My name: I did not send them, yet they say, ‘No sword or famine will touch this land.’ By sword and famine these very prophets will meet their end!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

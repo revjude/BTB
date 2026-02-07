@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:3** 
 <small><sub>**LXX:**</sub></small>
 And you, take to yourself a frying pan of iron! And you shall make it a wall of iron between you and between the city. And you shall prepare  your face against it, and it will be for a siege, and you shall besiege it. This is a sign to the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Moreover take thou unto thee an iron pan, and set it [for] a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This [shall be] a sign to the house of Israel.
-<small><sub>**BSB:**</sub></small>
-Then take an iron plate and set it up as an iron wall between yourself and the city. Turn your face toward it so that it is under siege, and besiege it. This will be a sign to the house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.2|<< Ezekiel 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.4|Ezekiel 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

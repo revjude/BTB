@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:9** 
 <small><sub>**LXX:**</sub></small>
 then the wife of his brother coming forward to him, before the council of elders, then shall untie  his sandal, the one from  his foot, and shall spit into  his face; and responding she shall say, Thus shall they do to the man who shall not build the house  of his brother. 
-<small><sub>**KJV:**</sub></small>
-Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house.
-<small><sub>**BSB:**</sub></small>
-his brother’s widow shall go up to him in the presence of the elders, remove his sandal, spit in his face, and declare, “This is what is done to the man who will not maintain his brother’s line.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.8|<< Deuteronomy 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.10|Deuteronomy 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

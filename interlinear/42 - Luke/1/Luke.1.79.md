@@ -1,5 +1,5 @@
-**Luke 1:79
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:79**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To give light to them that sit in darkness and [in] the shadow of death, to guide our feet into the way of peace.
 <small><sub>**BSB:**</sub></small>
 to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”
@@ -10,7 +10,7 @@ to shine upon those in darkness and in [the] shadow of death sitting, <the> to d
 > $\quad$ alluding to: [[LXX.Isa.9.2|Isa 9:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to shine upon |**<big>[[G2014\|ἐπιφᾶναι]]</big>**  |epiphanai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

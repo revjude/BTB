@@ -1,10 +1,7 @@
 **LXX Leviticus 25:53** 
 <small><sub>**LXX:**</sub></small>
 As a hireling, year to year he shall be with him. You shall not violently strain him in \[his\] trouble before you. 
-<small><sub>**KJV:**</sub></small>
-[And] as a yearly hired servant shall he be with him: [and the other] shall not rule with rigour over him in thy sight.
-<small><sub>**BSB:**</sub></small>
-He shall be treated like a man hired from year to year, but a foreign owner must not rule over him harshly in your sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.52|<< Leviticus 25:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.54|Leviticus 25:54 >>]]</td></tr></table>
 
 | Translation | Greek |

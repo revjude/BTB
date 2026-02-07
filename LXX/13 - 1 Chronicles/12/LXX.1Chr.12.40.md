@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:40** 
 <small><sub>**LXX:**</sub></small>
 And the ones adjoining them, near Issachar and Zebulun and Naphtali, brought to them upon the donkeys, and upon the camels, and upon the mules, and upon the calves, foods -- flour, dried clusters of figs, dried grapes, wine, and olive oil, calves, and sheep in multitude, for gladness \[was\] in Israel. 
-<small><sub>**KJV:**</sub></small>
-Moreover they that were nigh them, [even] unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, [and] meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for [there was] joy in Israel.
-<small><sub>**BSB:**</sub></small>
-And their neighbors from as far away as Issachar, Zebulun, and Naphtali came bringing food on donkeys, camels, mules, and oxen—abundant supplies of flour, fig cakes and raisin cakes, wine and oil, oxen and sheep. Indeed, there was joy in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.39|<< 1 Chronicles 12:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.1|1 Chronicles 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

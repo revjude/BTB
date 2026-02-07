@@ -1,4 +1,4 @@
-**Genesis 10:22** 
+**Genesis 10:22**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.21|<< Genesis 10:21]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.23|Genesis 10:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shem  |**<big>&#8207;[[H8035\|שֵׁ֖ם]]&#8207; </big>**| shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

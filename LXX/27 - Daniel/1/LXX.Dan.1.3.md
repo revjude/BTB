@@ -1,10 +1,7 @@
 **LXX Daniel 1:3** 
 <small><sub>**LXX:**</sub></small>
 And the king told  Ashpenaz  his chief eunuch to bring in \[some\] from the sons of the captivity of Israel, and from the seed  of royalty, and from the nobles; 
-<small><sub>**KJV:**</sub></small>
-And the king spake unto Ashpenaz the master of his eunuchs, that he should bring [certain] of the children of Israel, and of the king’s seed, and of the princes;
-<small><sub>**BSB:**</sub></small>
-Then the king ordered Ashpenaz, the chief of his court officials, to bring in some Israelites from the royal family and the nobility—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.2|<< Daniel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.4|Daniel 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

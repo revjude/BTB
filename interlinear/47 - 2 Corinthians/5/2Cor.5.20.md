@@ -1,12 +1,12 @@
-**2 Corinthians 5:20
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:20**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now then we are ambassadors for Christ, as though God did beseech [you] by us: we pray [you] in Christ’s stead, be ye reconciled to God.
 <small><sub>**BSB:**</sub></small>
 Therefore we are ambassadors for Christ, as though God were making His appeal through us. We implore you on behalf of Christ: Be reconciled to God.
 <small><sub>**Literal:**</sub></small>
 For Christ therefore we are ambassadors, as though <the> God is beseeching through us; We implore on behalf of Christ: do be reconciled <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.19|<< 2 Corinthians 5:19]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.21|2 Corinthians 5:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G5228\|Ὑπὲρ]]</big>**  |Huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Christ |**<big>[[G5547\|Χριστοῦ]]</big>**  |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

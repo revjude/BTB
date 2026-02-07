@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:29** 
 <small><sub>**LXX:**</sub></small>
 And nation \[by\] nation were making  their gods. And they put them in \[the\] houses of the high \[places\], which the Samaritans made, nation \[by\] nation in  their cities in which they dwelt. 
-<small><sub>**KJV:**</sub></small>
-Howbeit every nation made gods of their own, and put [them] in the houses of the high places which the Samaritans had made, every nation in their cities wherein they dwelt.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the people of each nation continued to make their own gods in the cities where they had settled, and they set them up in the shrines that the people of Samaria had made on the high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.28|<< 2 Kings 17:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.30|2 Kings 17:30 >>]]</td></tr></table>
 
 | Translation | Greek |

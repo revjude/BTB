@@ -1,10 +1,7 @@
 **LXX Job 24:20** 
 <small><sub>**LXX:**</sub></small>
 So then his sin is called to mind, and as fog of dew he vanishes; and may it be recompensed to him what he acted; and be destroyed every unjust one equally as incurable \[rotten\] wood. 
-<small><sub>**KJV:**</sub></small>
-The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.
-<small><sub>**BSB:**</sub></small>
-The womb forgets them; the worm feeds on them; they are remembered no more. So injustice is broken like a tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.19|<< Job 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.21|Job 24:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 10:1** 
+**1 Kings 10:1**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now when the queen of Sheba heard about the fame of Solomon concerning the name 
 > $\quad$ referenced by: [[Matt.12.42|Matt 12:42]] ☩ [[Luke.11.31|Luke 11:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] queen of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4436G\|מַֽלְכַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.kat-<small><sup>[[HNtfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheba  |**<big>&#8207;[[H7614J\|שְׁבָ֗א]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

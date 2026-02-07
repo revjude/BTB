@@ -1,5 +1,5 @@
-**Romans 10:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:11**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the scripture saith, Whosoever believeth on him shall not be ashamed.
 <small><sub>**BSB:**</sub></small>
 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”
@@ -10,7 +10,7 @@ Says for the Scripture; Everyone who is believing on Him not will be put to sham
 > $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

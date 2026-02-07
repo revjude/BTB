@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:20** 
 <small><sub>**LXX:**</sub></small>
 And Joab said to him, You are not a man of good news in  this day, but you shall announce good news in another day. But in  this day you shall not announce good news, for a son of the king has died. 
-<small><sub>**KJV:**</sub></small>
-And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead.
-<small><sub>**BSB:**</sub></small>
-But Joab replied, “You are not the man to take good news today. You may do it another day, but you must not do so today, because the king’s son is dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

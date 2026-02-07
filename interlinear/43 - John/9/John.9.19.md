@@ -1,12 +1,12 @@
-**John 9:19
-**<small><sub>**KJV:**</sub></small>
+**John 9:19**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?
 <small><sub>**BSB:**</sub></small>
 and asked, “Is this your son, the one you say was born blind? So how is it that he can now see?”
 <small><sub>**Literal:**</sub></small>
 And they asked them saying; This is the son of you of whom you yourselves say that blind he was born? How then does he see presently<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.18|<< John 9:18]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.20|John 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they asked |**<big>[[G2065\|ἠρώτησαν]]</big>**  |ērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

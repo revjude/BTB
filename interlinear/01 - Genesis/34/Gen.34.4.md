@@ -1,4 +1,4 @@
-**Genesis 34:4** 
+**Genesis 34:4**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Shechem told his father Hamor, “Get me this girl as a wife.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.3|<< Genesis 34:3]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.5|Genesis 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shechem  |**<big>&#8207;[[H7927H\|שְׁכֶ֔ם]]&#8207; </big>**| she.Khem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

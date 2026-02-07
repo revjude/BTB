@@ -1,4 +1,4 @@
-**Numbers 4:22** 
+**Numbers 4:22**<big><big>[[Num.4.21 The Duties of the Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take also the sum of the sons of Gershon, throughout the houses of their fathers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.21|<< Numbers 4:21]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.23|Numbers 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375V\|נָשֹׂ֗א]]&#8207; </big>**| na.So'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

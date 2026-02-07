@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:32** 
 <small><sub>**LXX:**</sub></small>
 And now, O our God, the strong, the great, the fortified and fearsome; guarding  your covenant, and  your mercy; do not let \[your attention\] be lessened before you \[concerning\] all the trouble which found us, and  our kings, and  our rulers, and  our priests, and  our prophets, and  our fathers, and among all  your people from \[the\] days of \[the\] kings of Assyria, and until  this day! 
-<small><sub>**KJV:**</sub></small>
-Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.
-<small><sub>**BSB:**</sub></small>
-So now, our God, the great and mighty and awesome God who keeps His gracious covenant, do not view lightly all the hardship that has come upon us, and upon our kings and leaders, our priests and prophets, our ancestors and all Your people, from the days of the kings of Assyria until today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.31|<< Nehemiah 9:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.33|Nehemiah 9:33 >>]]</td></tr></table>
 
 | Translation | Greek |

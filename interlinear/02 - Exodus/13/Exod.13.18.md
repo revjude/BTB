@@ -1,4 +1,4 @@
-**Exodus 13:18** 
+**Exodus 13:18**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God led the people about, [through] the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So God led the people around by the way of the wilderness toward the Red Sea. An
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.17|<< Exodus 13:17]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.19|Exodus 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he caused to go around  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|יַּסֵּ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֧ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Hosea 6:9** 
 <small><sub>**LXX:**</sub></small>
 And  your strength \[is as\] a man \[who is\] a maruader. \[The\] priests hid; they murdered \[in the\] way of Shechem; for they committed lawlessness in the house  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And as troops of robbers wait for a man, [so] the company of priests murder in the way by consent: for they commit lewdness.
-<small><sub>**BSB:**</sub></small>
-Like raiders who lie in ambush, so does a band of priests; they murder on the way to Shechem; surely they have committed atrocities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.8|<< Hosea 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.10|Hosea 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 51:6** (51:8)
+**Psalms 51:6**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely You desire truth in the inmost being; You teach me wisdom in the inmost p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.5|<< Psalms 51:5]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.7|Psalms 51:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithfulness  |**<big>&#8207;[[H0571H\|אֱ֭מֶת]]&#8207; </big>**| 'E.met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

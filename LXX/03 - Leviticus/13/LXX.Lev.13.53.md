@@ -1,10 +1,7 @@
 **LXX Leviticus 13:53** 
 <small><sub>**LXX:**</sub></small>
 But if the priest should look, and the infection should not be diffused in the garment, or in the warp, or in the woof, or in any item made of skin; 
-<small><sub>**KJV:**</sub></small>
-And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
-<small><sub>**BSB:**</sub></small>
-But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.52|<< Leviticus 13:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.54|Leviticus 13:54 >>]]</td></tr></table>
 
 | Translation | Greek |

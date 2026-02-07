@@ -1,4 +1,4 @@
-**Isaiah 3:14** 
+**Isaiah 3:14**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor [is] in your houses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD brings this charge against the elders and leaders of His people: “You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.13|<< Isaiah 3:13]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.15|Isaiah 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in judgment  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4941G\|מִשְׁפָּ֣ט]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

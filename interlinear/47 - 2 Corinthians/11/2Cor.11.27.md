@@ -1,12 +1,12 @@
-**2 Corinthians 11:27
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:27**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
 <small><sub>**BSB:**</sub></small>
 in labor and toil and often without sleep, in hunger and thirst and often without food, in cold and exposure.
 <small><sub>**Literal:**</sub></small>
 in labor and toil, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.26|<< 2 Corinthians 11:26]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.28|2 Corinthians 11:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | labor |**<big>[[G2873\|κόπῳ]]</big>**  |kopō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:2** 
 <small><sub>**LXX:**</sub></small>
 And Saul rose up, and went down unto the wilderness of Ziph, and with him three thousand chosen men of Israel,  to seek  David in the wilderness of Ziph. 
-<small><sub>**KJV:**</sub></small>
-Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.
-<small><sub>**BSB:**</sub></small>
-So Saul, accompanied by three thousand chosen men of Israel, went down to the Wilderness of Ziph to search for David there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.1|<< 1 Samuel 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.3|1 Samuel 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

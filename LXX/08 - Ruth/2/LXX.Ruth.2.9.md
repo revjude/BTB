@@ -1,10 +1,7 @@
 **LXX Ruth 2:9** 
 <small><sub>**LXX:**</sub></small>
 And  \[let\] your eyes \[be\] unto the field where ever \[mine\] should harvest! and you should go after them. Behold, I gave charge to the servants  to not touch you. And when you shall thirst, then you shall go to the vessels, and you shall drink from where the servants should draw water. 
-<small><sub>**KJV:**</sub></small>
-[Let] thine eyes [be] on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of [that] which the young men have drawn.
-<small><sub>**BSB:**</sub></small>
-Let your eyes be on the field they are harvesting, and follow along after these girls. Indeed, I have ordered the young men not to touch you. And when you are thirsty, go and drink from the jars the young men have filled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.8|<< Ruth 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.10|Ruth 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

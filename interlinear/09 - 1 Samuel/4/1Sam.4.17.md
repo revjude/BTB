@@ -1,4 +1,4 @@
-**1 Samuel 4:17** 
+**1 Samuel 4:17**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The messenger answered, “Israel has fled before the Philistines, and there has
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.16|<< 1 Samuel 4:16]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.18|1 Samuel 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bearer of news  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H1319\|מְבַשֵּׂ֜ר]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.va.Ser<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

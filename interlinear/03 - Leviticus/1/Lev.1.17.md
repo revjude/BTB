@@ -1,4 +1,4 @@
-**Leviticus 1:17** 
+**Leviticus 1:17**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cleave it with the wings thereof, [but] shall not divide [it] asunder: and the priest shall burn it upon the altar, upon the wood that [is] upon the fire: it [is] a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall tear it open by its wings, without dividing the bird completely. And th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.16|<< Leviticus 1:16]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.1|Leviticus 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will tear apart  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8156\|שִׁסַּ֨ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Sa'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

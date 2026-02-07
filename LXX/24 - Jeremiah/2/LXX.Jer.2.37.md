@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:37** 
 <small><sub>**LXX:**</sub></small>
 For even from here you shall go forth, and  your hands \[will be\] upon  your head. For \[the\] <span class="smallcaps">lord</span> thrusted away  your hope, and you shall not be prosperous in it. 
-<small><sub>**KJV:**</sub></small>
-Yea, thou shalt go forth from him, and thine hands upon thine head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them.
-<small><sub>**BSB:**</sub></small>
-Moreover, you will leave that place with your hands on your head, for the LORD has rejected those you trust; you will not prosper by their help.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.36|<< Jeremiah 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.1|Jeremiah 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

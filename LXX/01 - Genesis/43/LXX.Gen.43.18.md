@@ -1,10 +1,7 @@
 **LXX Genesis 43:18** 
 <small><sub>**LXX:**</sub></small>
 And the men seeing that they were brought into the house of Joseph, said, On account of the silver  returned in  our bags in the beginning we are brought in --  to extort us, and to place \[charge\] upon us,  to take us as servants, and  our donkeys. 
-<small><sub>**KJV:**</sub></small>
-And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
-<small><sub>**BSB:**</sub></small>
-But the brothers were frightened that they had been taken to Joseph’s house. “We have been brought here because of the silver that was returned in our bags the first time,” they said. “They intend to overpower us and take us as slaves, along with our donkeys.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.17|<< Genesis 43:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.19|Genesis 43:19 >>]]</td></tr></table>
 
 | Translation | Greek |

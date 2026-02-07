@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:4** 
 <small><sub>**LXX:**</sub></small>
 My beloved \[man\] sent his hand through the opening, and  my belly was alarmed over him. 
-<small><sub>**KJV:**</sub></small>
-My beloved put in his hand by the hole [of the door], and my bowels were moved for him.
-<small><sub>**BSB:**</sub></small>
-My beloved put his hand to the latch; my heart pounded for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.3|<< Song of Solomon 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.5|Song of Solomon 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

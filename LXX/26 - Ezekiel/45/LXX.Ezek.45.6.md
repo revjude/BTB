@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:6** 
 <small><sub>**LXX:**</sub></small>
 And for the possession of the city you shall appoint five thousand \[for\] the breadth, and the length five and twenty thousand. In which manner the first-fruit of the holies \[is\] to all \[the\] house of Israel, \[so\] it shall be. 
-<small><sub>**KJV:**</sub></small>
-And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, over against the oblation of the holy [portion]: it shall be for the whole house of Israel.
-<small><sub>**BSB:**</sub></small>
-As the property of the city, you are to set aside an area 5,000 cubits wide and 25,000 cubits long, adjacent to the holy district. It will belong to the whole house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.5|<< Ezekiel 45:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.7|Ezekiel 45:7 >>]]</td></tr></table>
 
 | Translation | Greek |

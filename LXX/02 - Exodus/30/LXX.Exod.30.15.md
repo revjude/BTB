@@ -1,10 +1,7 @@
 **LXX Exodus 30:15** 
 <small><sub>**LXX:**</sub></small>
 The ones being rich shall not add \[more\], and the ones needing shall not \[add\] less from the half of the double-drachma in the giving the contribution \[to the\] <span class="smallcaps">lord</span> to atone for  your souls. 
-<small><sub>**KJV:**</sub></small>
-The rich shall not give more, and the poor shall not give less than half a shekel, when [they] give an offering unto the LORD, to make an atonement for your souls.
-<small><sub>**BSB:**</sub></small>
-In making the offering to the LORD to atone for your lives, the rich shall not give more than a half shekel, nor shall the poor give less.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.14|<< Exodus 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.16|Exodus 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

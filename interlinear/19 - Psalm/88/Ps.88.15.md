@@ -1,4 +1,4 @@
-**Psalms 88:15** (88:16)
+**Psalms 88:15**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] afflicted and ready to die from [my] youth up: [while] I suffer thy terrors I am distracted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From my youth I was afflicted and near death. I have borne Your terrors; I am in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.14|<< Psalms 88:14]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.16|Psalms 88:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [have been] afflicted  |**<big>&#8207;[[H6041\|עָ֘נִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

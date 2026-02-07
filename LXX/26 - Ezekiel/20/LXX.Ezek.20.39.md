@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:39** 
 <small><sub>**LXX:**</sub></small>
 And to you, O house of Israel, thus says Adonai \[the\] <span class="smallcaps">lord</span>; remove each his \[evil\] practices! And after these \[things\], if you listen to me, and  shall not profane my holy name any longer by  your gifts, and by  your practices, 
-<small><sub>**KJV:**</sub></small>
-As for you, O house of Israel, thus saith the Lord GOD; Go ye, serve ye every one his idols, and hereafter [also], if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.
-<small><sub>**BSB:**</sub></small>
-And as for you, O house of Israel, this is what the Lord GOD says: Go and serve your idols, every one of you. But afterward, you will surely listen to Me, and you will no longer defile My holy name with your gifts and idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
 
 | Translation | Greek |

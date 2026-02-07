@@ -1,4 +1,4 @@
-**Judges 10:3** 
+**Judges 10:3**<big><big>[[Judg.10.3 Jair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him arose Jair, a Gileadite, and judged Israel twenty and two years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tola was followed by Jair the Gileadite, who judged Israel twenty-two years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.2|<< Judges 10:2]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.4|Judges 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

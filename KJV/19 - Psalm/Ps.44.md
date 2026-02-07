@@ -1,6 +1,6 @@
 (KJV) **Psalm 44**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43|<< Psalm 43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45|Psalm 45 >>]]</td></tr></table>
 
-***Redeem Us, O God***&emsp;<small><sup>\[ [[Rom.8|Romans 8:35–39]] ]</sup></small> ^bsb1337
+<big><big>[[Ps.44.1 Redeem Us, O God|⥃]]</big></big>***Redeem Us, O God***&emsp;<small><sup>\[ [[Rom.8|Romans 8:35–39]] ]</sup></small>
 
 
 

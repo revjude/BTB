@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:23** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon swore by an oath according to the <span class="smallcaps">lord</span>, saying, Thus God do to me, and thus may he add \[to it\] for Adonijah spoke this word against his \[own\] life. 
-<small><sub>**KJV:**</sub></small>
-Then king Solomon sware by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life.
-<small><sub>**BSB:**</sub></small>
-Then King Solomon swore by the LORD: “May God punish me, and ever so severely, if Adonijah has not made this request at the expense of his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.22|<< 1 Kings 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.24|1 Kings 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 21:19** 
+**Genesis 21:19**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then God opened her eyes, and she saw a well of water. So she went and filled th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.18|<< Genesis 21:18]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.20|Genesis 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6491\|יִּפְקַ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

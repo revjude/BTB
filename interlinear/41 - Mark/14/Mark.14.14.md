@@ -1,12 +1,12 @@
-**Mark 14:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:14**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?
 <small><sub>**BSB:**</sub></small>
 and whichever house he enters, say to the owner, ‘The Teacher asks: Where is My guest room, where I may eat the Passover with My disciples?’
 <small><sub>**Literal:**</sub></small>
 And wherever maybe he shall enter, do say to the master of the house that the Teacher says; Where is the guest room of Mine where the Passover with the disciples of Mine I may eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.13|<< Mark 14:13]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.15|Mark 14:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wherever |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

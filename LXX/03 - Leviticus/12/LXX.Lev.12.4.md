@@ -1,10 +1,7 @@
 **LXX Leviticus 12:4** 
 <small><sub>**LXX:**</sub></small>
 And thirty and three days she shall sit in \[the\] blood of her cleansing; anything holy she shall not touch, and she shall not enter into the sanctuary, until whenever the days of her cleansing should have been fulfilled. 
-<small><sub>**KJV:**</sub></small>
-And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
-<small><sub>**BSB:**</sub></small>
-The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 12:4** is...

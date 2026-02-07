@@ -1,10 +1,7 @@
 **LXX Joshua 15:21** 
 <small><sub>**LXX:**</sub></small>
 And their cities became foremost cities of \[the\] tribe of \[the\] sons of Judah, upon \[the\] borders of Edom, by the wilderness Kabzeel, and Eder, and Jagur, 
-<small><sub>**KJV:**</sub></small>
-And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,
-<small><sub>**BSB:**</sub></small>
-These were the southernmost cities of the tribe of Judah in the Negev toward the border of Edom: Kabzeel, Eder, Jagur,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.20|<< Joshua 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.22|Joshua 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

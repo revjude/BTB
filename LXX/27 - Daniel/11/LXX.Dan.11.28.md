@@ -1,10 +1,7 @@
 **LXX Daniel 11:28** 
 <small><sub>**LXX:**</sub></small>
 And he shall return unto  his land with much substance, and  his heart against holy covenant. And he shall act, and he shall return unto  his land. 
-<small><sub>**KJV:**</sub></small>
-Then shall he return into his land with great riches; and his heart [shall be] against the holy covenant; and he shall do [exploits], and return to his own land.
-<small><sub>**BSB:**</sub></small>
-The king of the North will return to his land with great wealth, but his heart will be set against the holy covenant; so he will do damage and return to his own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.27|<< Daniel 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.29|Daniel 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

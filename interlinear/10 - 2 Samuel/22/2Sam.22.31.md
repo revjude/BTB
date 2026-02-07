@@ -1,4 +1,4 @@
-**2 Samuel 22:31** 
+**2 Samuel 22:31**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for God, His way is perfect; the word of the LORD is flawless. He is a shield
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.30|<< 2 Samuel 22:30]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.32|2 Samuel 22:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] blameless  |**<big>&#8207;[[H8549G\|תָּמִ֣ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

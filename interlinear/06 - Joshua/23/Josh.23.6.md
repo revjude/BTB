@@ -1,4 +1,4 @@
-**Joshua 23:6** 
+**Joshua 23:6**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom [to] the right hand or [to] the left;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be very strong, then, so that you can keep and obey all that is written in the B
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.5|<< Joshua 23:5]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.7|Joshua 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be strong  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|חֲזַקְתֶּ֣ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> cha.zak.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | very  |**<big>&#8207;[[H3966\|מְאֹ֔ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

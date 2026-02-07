@@ -1,10 +1,7 @@
 **LXX Genesis 38:8** 
 <small><sub>**LXX:**</sub></small>
 And Judah said  to Onan, Enter to the wife  of your brother, and ally to her by marriage, and raise up seed to your brother! 
-<small><sub>**KJV:**</sub></small>
-And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother.
-<small><sub>**BSB:**</sub></small>
-Then Judah said to Onan, “Sleep with your brother’s wife. Perform your duty as her brother-in-law and raise up offspring for your brother.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.7|<< Genesis 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.9|Genesis 38:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 38:8** is...

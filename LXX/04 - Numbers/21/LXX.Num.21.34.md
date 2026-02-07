@@ -1,10 +1,7 @@
 **LXX Numbers 21:34** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Do not fear him, for into  your hands I have delivered him, and all  his people, and all  his land; and you shall do to him as you did  to Sihon king of the Amorites, who dwelt in Heshbon. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to Moses, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.33|<< Numbers 21:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.35|Numbers 21:35 >>]]</td></tr></table>
 
 | Translation | Greek |

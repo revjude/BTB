@@ -1,4 +1,4 @@
-**Job 32:8** 
+**Job 32:8**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [there is] a spirit in man: and the inspiration of the Almighty giveth them understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there is a spirit in a man, the breath of the Almighty, that gives him under
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.7|<< Job 32:7]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.9|Job 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0403\|אָ֭כֵן]]&#8207; </big>**| 'A.khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] spirit  |**<big>&#8207;[[H7307G\|רֽוּחַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ru.ach-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

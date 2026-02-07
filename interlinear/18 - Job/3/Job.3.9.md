@@ -1,4 +1,4 @@
-**Job 3:9** 
+**Job 3:9**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the stars of the twilight thereof be dark; let it look for light, but [have] none; neither let it see the dawning of the day:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May its morning stars grow dark; may it wait in vain for daylight; may it not se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.8|<< Job 3:8]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.10|Job 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them grow dark  |**<big>&#8207;[[H2821\|יֶחְשְׁכוּ֮]]&#8207; </big>**| yech.she.Khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] stars of  |**<big>&#8207;[[H3556\|כּוֹכְבֵ֪י]]&#8207; </big>**| kokh.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

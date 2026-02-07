@@ -1,12 +1,12 @@
-**Hebrews 13:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:18**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
 <small><sub>**BSB:**</sub></small>
 Pray for us; we are convinced that we have a clear conscience and desire to live honorably in every way.
 <small><sub>**Literal:**</sub></small>
 do pray for us; we are assured for that a good conscience we have in all things well desiring to conduct ourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.17|<< Hebrews 13:17]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.19|Hebrews 13:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do pray |**<big>[[G4336\|Προσεύχεσθε]]</big>**  |Proseuchesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

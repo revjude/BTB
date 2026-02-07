@@ -1,10 +1,7 @@
 **LXX Joshua 6:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was with Joshua, and his name was in all the land. 
-<small><sub>**KJV:**</sub></small>
-So the LORD was with Joshua; and his fame was [noised] throughout all the country.
-<small><sub>**BSB:**</sub></small>
-So the LORD was with Joshua, and his fame spread throughout the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.26|<< Joshua 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.1|Joshua 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

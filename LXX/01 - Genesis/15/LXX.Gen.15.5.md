@@ -1,10 +1,7 @@
 **LXX Genesis 15:5** 
 <small><sub>**LXX:**</sub></small>
 And he led him outside, and said to him, Look up indeed into the heaven, and count out the stars, if you are able to count them! And he said, Thus will be  your seed. 
-<small><sub>**KJV:**</sub></small>
-And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
-<small><sub>**BSB:**</sub></small>
-And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.4|<< Genesis 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.6|Genesis 15:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 15:5** is...

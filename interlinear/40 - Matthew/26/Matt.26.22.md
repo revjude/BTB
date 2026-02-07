@@ -1,12 +1,12 @@
-**Matthew 26:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:22**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?
 <small><sub>**BSB:**</sub></small>
 They were deeply grieved and began to ask Him one after another, “Surely not I, Lord?”
 <small><sub>**Literal:**</sub></small>
 And being grieved exceedingly they began to say to Him one each of them: surely not ever I myself is it, Lord?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.21|<< Matthew 26:21]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.23|Matthew 26:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being grieved |**<big>[[G3076\|λυπούμενοι]]</big>**  |lupoumenoi <small><sup>[[V-PPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

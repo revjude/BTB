@@ -1,4 +1,4 @@
-**Isaiah 33:6** 
+**Isaiah 33:6**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wisdom and knowledge shall be the stability of thy times, [and] strength of salvation: the fear of the LORD [is] his treasure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will be the sure foundation for your times, a storehouse of salvation, wisdom
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.5|<< Isaiah 33:5]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.7|Isaiah 33:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] steadiness of  |**<big>&#8207;[[H0530\|אֱמוּנַ֣ת]]&#8207; </big>**| 'e.mu.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

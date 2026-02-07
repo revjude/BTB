@@ -1,12 +1,12 @@
-**Revelation 17:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:11**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 <small><sub>**BSB:**</sub></small>
 The beast that was, and now is not, is an eighth king, who belongs to the other seven and is going into destruction.
 <small><sub>**Literal:**</sub></small>
 And the beast which was and not is, also himself an eighth is and of the seven is and into destruction goes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.10|<< Revelation 17:10]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.12|Revelation 17:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

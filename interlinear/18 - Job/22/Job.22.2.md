@@ -1,4 +1,4 @@
-**Job 22:2** 
+**Job 22:2**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a man be profitable unto God, as he that is wise may be profitable unto himself?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can a man be profitable unto God, as he that is wise may be profitable unto hims
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.1|<< Job 22:1]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.3|Job 22:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ to God  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0410G\|אֵ֥ל]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he be of use  |**<big>&#8207;[[H5532\|יִסְכָּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yis.kon-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

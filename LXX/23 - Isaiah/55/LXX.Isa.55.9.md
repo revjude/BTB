@@ -1,10 +1,7 @@
 **LXX Isaiah 55:9** 
 <small><sub>**LXX:**</sub></small>
 But as \[the\] distance the heaven \[is\] from the earth, so my way \[is\] at a distance from  your ways, and  your considerations from  my mind. 
-<small><sub>**KJV:**</sub></small>
-For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
-<small><sub>**BSB:**</sub></small>
-“For as the heavens are higher than the earth, so My ways are higher than your ways and My thoughts than your thoughts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.8|<< Isaiah 55:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.10|Isaiah 55:10 >>]]</td></tr></table>
 
 | Translation | Greek |

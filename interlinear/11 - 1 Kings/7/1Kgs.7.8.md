@@ -1,4 +1,4 @@
-**1 Kings 7:8** 
+**1 Kings 7:8**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his house where he dwelt [had] another court within the porch, [which] was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken [to wife], like unto this porch.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the palace where Solomon would live, set further back, was of similar constr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and own house his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בֵית]]&#8207;&#8207;[[H9023\|וֹ֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

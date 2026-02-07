@@ -1,10 +1,7 @@
 **LXX Malachi 2:13** 
 <small><sub>**LXX:**</sub></small>
 And these \[things\] which I detested you did. You covered the altar \[of the\] <span class="smallcaps">lord</span> in tears in weeping and moaning because of troubles, yet \[thinking it\] worthy to look upon \[your\] sacrifice, or to take as acceptable from out of  your hands. 
-<small><sub>**KJV:**</sub></small>
-And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth [it] with good will at your hand.
-<small><sub>**BSB:**</sub></small>
-And this is another thing you do: You cover the altar of the LORD with tears, with weeping and groaning, because He no longer regards your offerings or receives them gladly from your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.12|<< Malachi 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.14|Malachi 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

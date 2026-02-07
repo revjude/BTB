@@ -1,10 +1,7 @@
 **LXX Joshua 8:14** 
 <small><sub>**LXX:**</sub></small>
 And it happened as the king of Ai beheld, that he hastened and rose early. And there went forth the men of the city to meet them straight on into the battle, he and all  his people at the opportune \[time\], in front of the Araba. And he did not know that an ambush against him is behind the city. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the king of Ai saw [it], that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that [there were] liers in ambush against him behind the city.
-<small><sub>**BSB:**</sub></small>
-When the king of Ai saw the Israelites, he hurried out early in the morning with the men of the city to engage them in battle at an appointed place overlooking the Arabah. But he did not know that an ambush had been set up against him behind the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.13|<< Joshua 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.15|Joshua 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 29:7** 
+**Jeremiah 29:7**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seek the prosperity of the city to which I have sent you as exiles. Pray to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.6|<< Jeremiah 29:6]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.8|Jeremiah 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and seek  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1875\|דִרְשׁ֞וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> dir.Shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said \[to\] his servants, Shall we find such a man who has spirit of God in him? 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto his servants, Can we find [such a one] as this [is], a man in whom the Spirit of God [is]?
-<small><sub>**BSB:**</sub></small>
-So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.37|<< Genesis 41:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.39|Genesis 41:39 >>]]</td></tr></table>
 
 | Translation | Greek |

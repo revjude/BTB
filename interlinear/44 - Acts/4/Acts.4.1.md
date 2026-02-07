@@ -1,12 +1,12 @@
-**Acts 4:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:1**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 <small><sub>**BSB:**</sub></small>
 While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,
 <small><sub>**Literal:**</sub></small>
 When are speaking now they to the people came upon them the priests and the captain of the temple and the Sadducees,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.26|<< Acts 3:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.2|Acts 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are speaking |**<big>[[G2980\|Λαλούντων]]</big>**  |Lalountōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this thus says \[the\] <span class="smallcaps">lord</span>, The bed upon which you ascended upon it, you shall not go from it, for to death you shall die. And Elijah went, and spoke to them. 
-<small><sub>**KJV:**</sub></small>
-Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: ‘You will not get up from the bed on which you are lying. You will surely die.’” So Elijah departed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.3|<< 2 Kings 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.5|2 Kings 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 30:29** 
 <small><sub>**LXX:**</sub></small>
 And you shall sanctify them. And \[they\] shall be a holy of the holies. Every  one touching them shall be sanctified. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy.
-<small><sub>**BSB:**</sub></small>
-You are to consecrate them so that they will be most holy. Whatever touches them shall be holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.28|<< Exodus 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.30|Exodus 30:30 >>]]</td></tr></table>
 
 | Translation | Greek |

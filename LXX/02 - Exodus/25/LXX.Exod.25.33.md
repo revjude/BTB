@@ -1,10 +1,7 @@
 **LXX Exodus 25:33** 
 <small><sub>**LXX:**</sub></small>
 And three basins being shaped nut-like on the one branch, \[with\] a knob and a lily; thus to the six branches of the \[ones\] going forth from out of the lamp-stand. 
-<small><sub>**KJV:**</sub></small>
-Three bowls made like unto almonds, [with] a knop and a flower in one branch; and three bowls made like almonds in the other branch, [with] a knop and a flower: so in the six branches that come out of the candlestick.
-<small><sub>**BSB:**</sub></small>
-There are to be three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extend from the lampstand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.32|<< Exodus 25:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.34|Exodus 25:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 2:2** 
 <small><sub>**LXX:**</sub></small>
 your ear shall obey wisdom, and you shall set aside your heart unto understanding; and you shall set it for admonition \[to\] your son. 
-<small><sub>**KJV:**</sub></small>
-So that thou incline thine ear unto wisdom, [and] apply thine heart to understanding;
-<small><sub>**BSB:**</sub></small>
-if you incline your ear to wisdom and direct your heart to understanding,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.1|<< Proverbs 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.3|Proverbs 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

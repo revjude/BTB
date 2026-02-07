@@ -1,10 +1,7 @@
 **LXX Joshua 23:14** 
 <small><sub>**LXX:**</sub></small>
 But I run today the way as also all the ones upon the earth. And you shall know in your whole heart, and in your whole soul, that one word failed not from all of the good words of which \[the\] <span class="smallcaps">lord</span> your God spoke concerning you; all the \[things\] being related to us -- he did not dissent from them one word. 
-<small><sub>**KJV:**</sub></small>
-And, behold, this day I [am] going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, [and] not one thing hath failed thereof.
-<small><sub>**BSB:**</sub></small>
-Now behold, today I am going the way of all the earth, and you know with all your heart and soul that not one of the good promises the LORD your God made to you has failed. Everything was fulfilled for you; not one promise has failed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.13|<< Joshua 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.15|Joshua 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 7:27** 
 <small><sub>**LXX:**</sub></small>
 And the kingdom, and the authority, and the greatness of the kings  underneath all the heaven was given to holy ones of \[the\] highest. And  his kingdom \[is\] an eternal kingdom, and all the sovereignties shall serve and obey him. 
-<small><sub>**KJV:**</sub></small>
-And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.
-<small><sub>**BSB:**</sub></small>
-Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.26|<< Daniel 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.28|Daniel 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

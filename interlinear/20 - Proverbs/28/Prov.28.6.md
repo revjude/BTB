@@ -1,4 +1,4 @@
-**Proverbs 28:6** 
+**Proverbs 28:6**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the poor that walketh in his uprightness, than [he that is] perverse [in his] ways, though he [be] rich.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better a poor man who walks with integrity than a rich man whose ways are perver
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.5|<< Proverbs 28:5]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.7|Proverbs 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a poor [person]  |**<big>&#8207;[[H7326\|רָ֭שׁ]]&#8207; </big>**| rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

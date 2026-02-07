@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:11** 
 <small><sub>**LXX:**</sub></small>
 And all the land will be for extinction, and these nations shall serve to the king  of Babylon seventy years. 
-<small><sub>**KJV:**</sub></small>
-And this whole land shall be a desolation, [and] an astonishment; and these nations shall serve the king of Babylon seventy years.
-<small><sub>**BSB:**</sub></small>
-And this whole land will become a desolate wasteland, and these nations will serve the king of Babylon for seventy years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.10|<< Jeremiah 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.12|Jeremiah 25:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 25:11** is...

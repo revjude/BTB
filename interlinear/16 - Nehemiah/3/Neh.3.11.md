@@ -1,4 +1,4 @@
-**Nehemiah 3:11** 
+**Nehemiah 3:11**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Malchijah the son of Harim, and Hashub the son of Pahathmoab, repaired the other piece, and the tower of the furnaces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Malchijah son of Harim and Hasshub son of Pahath-moab repaired another section, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.10|<< Nehemiah 3:10]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.12|Nehemiah 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a measured portion  |**<big>&#8207;[[H4060A\|מִדָּ֣ה]]&#8207; </big>**| mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | second  |**<big>&#8207;[[H8145\|שֵׁנִ֗ית]]&#8207; </big>**| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

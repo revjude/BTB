@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:4** 
 <small><sub>**LXX:**</sub></small>
 And now behold, I untied you from the manacles, of the ones upon  your hands. If \[it is\] good before you to go with me into Babylon, come! and I will put  my eyes upon you. But if not run from \[here\]! Behold, all the land before you \[is\] for good; and for \[what is\] pleasing in your eyes  to go there, go! 
-<small><sub>**KJV:**</sub></small>
-And now, behold, I loose thee this day from the chains which [were] upon thine hand. If it seem good unto thee to come with me into Babylon, come; and I will look well unto thee: but if it seem ill unto thee to come with me into Babylon, forbear: behold, all the land [is] before thee: whither it seemeth good and convenient for thee to go, thither go.
-<small><sub>**BSB:**</sub></small>
-But now, behold, I am freeing you today from the chains that were on your wrists. If it pleases you to come with me to Babylon, then come, and I will take care of you. But if it seems wrong to you to come with me to Babylon, go no farther. Look, the whole land is before you. Wherever it seems good and right to you, go there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.3|<< Jeremiah 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.5|Jeremiah 40:5 >>]]</td></tr></table>
 
 | Translation | Greek |

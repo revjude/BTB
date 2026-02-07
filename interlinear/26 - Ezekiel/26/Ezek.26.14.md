@@ -1,4 +1,4 @@
-**Ezekiel 26:14** 
+**Ezekiel 26:14**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thee like the top of a rock: thou shalt be [a place] to spread nets upon; thou shalt be built no more: for I the LORD have spoken [it], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make you a bare rock, and you will become a place to spread the fishing n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.13|<< Ezekiel 26:13]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.15|Ezekiel 26:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414I\|נְתַתִּ֞י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into bareness of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6706\|צְחִ֣יחַ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> tz.Chi.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

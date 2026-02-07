@@ -1,12 +1,12 @@
-**Luke 22:58
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:58**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.
 <small><sub>**BSB:**</sub></small>
 A short time later, someone else saw him and said, “You also are one of them.” But Peter said, “Man, I am not.”
 <small><sub>**Literal:**</sub></small>
 And after a little another having seen him was saying; Also you yourself of them are. <the> But Peter was saying; Man, not I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.57|<< Luke 22:57]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.59|Luke 22:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 10:6** 
+**Exodus 10:6**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will fill your houses and the houses of all your officials and every Egypti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.5|<< Exodus 10:5]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.7|Exodus 10:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be full  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מָלְא֨וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mal.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | houses your  |**<big>&#8207;[[H1004B\|בָתֶּ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| va.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

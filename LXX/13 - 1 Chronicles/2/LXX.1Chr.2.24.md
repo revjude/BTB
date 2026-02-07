@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:24** 
 <small><sub>**LXX:**</sub></small>
 And after the dying of Hezron, Caleb came into Ephratah. And the wife of Hezron \[was\] Abiah, and she bore to him  Ashur father of Tekoa. 
-<small><sub>**KJV:**</sub></small>
-And after that Hezron was dead in Calebephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa.
-<small><sub>**BSB:**</sub></small>
-After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the father of Tekoa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.23|<< 1 Chronicles 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.25|1 Chronicles 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 12:6** 
+**Ezekiel 12:6**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their sight shalt thou bear [it] upon [thy] shoulders, [and] carry [it] forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee [for] a sign unto the house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as they watch, lift your bags to your shoulder and take them out at dusk; co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.5|<< Ezekiel 12:5]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.7|Ezekiel 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to eyes their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5869H\|עֵ֨ינֵי]]&#8207;&#8207;[[H9028\|הֶ֜ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ei.nei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

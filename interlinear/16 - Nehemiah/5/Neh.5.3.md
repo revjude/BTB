@@ -1,4 +1,4 @@
-**Nehemiah 5:3** 
+**Nehemiah 5:3**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Some] also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Others were saying, “We are mortgaging our fields, our vineyards, and our home
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.2|<< Nehemiah 5:2]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.4|Nehemiah 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵשׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

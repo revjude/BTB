@@ -1,10 +1,7 @@
 **LXX Psalm 119:49** 
 <small><sub>**LXX:**</sub></small>
 Remember  your words \[to\] your servant! which you raised my hope. 
-<small><sub>**KJV:**</sub></small>
-ZAIN. Remember the word unto thy servant, upon which thou hast caused me to hope.
-<small><sub>**BSB:**</sub></small>
-Remember Your word to Your servant, upon which You have given me hope.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.48|<< Psalm 119:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.50|Psalm 119:50 >>]]</td></tr></table>
 
 | Translation | Greek |

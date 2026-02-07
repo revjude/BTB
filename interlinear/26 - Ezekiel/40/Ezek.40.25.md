@@ -1,4 +1,4 @@
-**Ezekiel 40:25** 
+**Ezekiel 40:25**<big><big>[[Ezek.40.24 The South Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] windows in it and in the arches thereof round about, like those windows: the length [was] fifty cubits, and the breadth five and twenty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Both the gateway and its portico had windows all around, like the other windows.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.24|<< Ezekiel 40:24]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.26|Ezekiel 40:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and windows  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2474\|חַלּוֹנִ֨ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.lo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belonged] to it  |**<big>&#8207;[[H9005\|ל֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

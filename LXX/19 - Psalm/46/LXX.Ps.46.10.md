@@ -1,10 +1,7 @@
 **LXX Psalm 46:10** 
 <small><sub>**LXX:**</sub></small>
 Relax, and know that I am  God! I shall be raised up high in the nations. I shall be raised up high in the earth. 
-<small><sub>**KJV:**</sub></small>
-Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.
-<small><sub>**BSB:**</sub></small>
-“Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.9|<< Psalm 46:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.11|Psalm 46:11 >>]]</td></tr></table>
 
 | Translation | Greek |

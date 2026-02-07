@@ -1,10 +1,7 @@
 **LXX Ezra 5:11** 
 <small><sub>**LXX:**</sub></small>
 And such a word they answered to us, saying to us, We are menservants of the God of the heaven and of the earth, and we are building the house which was built many years before this, and a great king of Israel built it, and readied it for them. 
-<small><sub>**KJV:**</sub></small>
-And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up.
-<small><sub>**BSB:**</sub></small>
-And this is the answer they returned: “We are servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, which a great king of Israel built and completed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.10|<< Ezra 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.12|Ezra 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

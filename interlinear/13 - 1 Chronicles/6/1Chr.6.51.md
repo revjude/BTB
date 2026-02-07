@@ -1,4 +1,4 @@
-**1 Chronicles 6:51** (6:36)
+**1 Chronicles 6:51**<big><big>[[1Chr.6.48 The Descendants of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bukki his son, Uzzi his son, Zerahiah his son,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bukki his son, Uzzi his son, Zerahiah his son,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.50|<< 1 Chronicles 6:50]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.52|1 Chronicles 6:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Bukki  |**<big>&#8207;[[H1231H\|בֻּקִּ֥י]]&#8207; </big>**| bu.Ki<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

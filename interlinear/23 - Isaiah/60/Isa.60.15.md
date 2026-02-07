@@ -1,4 +1,4 @@
-**Isaiah 60:15** 
+**Isaiah 60:15**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas thou hast been forsaken and hated, so that no man went through [thee], I will make thee an eternal excellency, a joy of many generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whereas you have been forsaken and despised, with no one passing through, I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.14|<< Isaiah 60:14]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.16|Isaiah 60:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֧חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | being you  |**<big>&#8207;[[H1961\|הֱיוֹתֵ֛]]&#8207;&#8207;[[H9042\|ךְ]]&#8207; </big>**| he.yo.Te<small><sup>[[HVqcc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 7:13** 
+**2 Kings 7:13**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one of his servants answered and said, Let [some] take, I pray thee, five of the horses that remain, which are left in the city, (behold, they [are] as all the multitude of Israel that are left in it: behold, [I say], they [are] even as all the multitude of the Israelites that are consumed:) and let us send and see.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But one of his servants replied, “Please, have scouts take five of the horses 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶחָ֨ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

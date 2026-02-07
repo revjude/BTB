@@ -1,10 +1,7 @@
 **LXX Proverbs 2:8** 
 <small><sub>**LXX:**</sub></small>
  to guard \[the\] way of right actions; and \[the\] way of \[the\] ones venerating him he will protect. 
-<small><sub>**KJV:**</sub></small>
-He keepeth the paths of judgment, and preserveth the way of his saints.
-<small><sub>**BSB:**</sub></small>
-to guard the paths of justice and protect the way of His saints.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.7|<< Proverbs 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.9|Proverbs 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 40:8** 
 <small><sub>**LXX:**</sub></small>
 The grass is dried, \[the\] flower fell off, but the word  of our God abides into the eon. 
-<small><sub>**KJV:**</sub></small>
-The grass withereth, the flower fadeth: but the word of our God shall stand for ever.
-<small><sub>**BSB:**</sub></small>
-The grass withers and the flowers fall, but the word of our God stands forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.7|<< Isaiah 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.9|Isaiah 40:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 40:8** is...

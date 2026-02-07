@@ -1,10 +1,7 @@
 **LXX Daniel 11:41** 
 <small><sub>**LXX:**</sub></small>
 And he shall enter into the land  of glory, and many shall be weakened. And these shall be delivered from out of his hand -- Edom and Moab, and \[the\] sovereignty of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-He shall enter also into the glorious land, and many [countries] shall be overthrown: but these shall escape out of his hand, [even] Edom, and Moab, and the chief of the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-He will also invade the Beautiful Land, and many countries will fall. But these will be delivered from his hand: Edom, Moab, and the leaders of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.40|<< Daniel 11:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.42|Daniel 11:42 >>]]</td></tr></table>
 
 | Translation | Greek |

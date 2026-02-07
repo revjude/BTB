@@ -1,10 +1,7 @@
 **LXX Daniel 9:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, in all your charity let turn indeed  your rage, and  your anger from  your city Jerusalem, your holy mountain! For we sinned in  our iniquities, and of the ones of our fathers. Jerusalem and  your people became for scorn among all the ones surrounding us. 
-<small><sub>**KJV:**</sub></small>
-O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people [are become] a reproach to all [that are] about us.
-<small><sub>**BSB:**</sub></small>
-O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.15|<< Daniel 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.17|Daniel 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

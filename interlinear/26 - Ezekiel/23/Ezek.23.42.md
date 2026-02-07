@@ -1,4 +1,4 @@
-**Ezekiel 23:42** 
+**Ezekiel 23:42**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a voice of a multitude being at ease [was] with her: and with the men of the common sort [were] brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ accompanied by the sound of a carefree crowd. Drunkards were brought in from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963H\|ק֣וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a multitude  |**<big>&#8207;[[H1995A\|הָמוֹן֮]]&#8207; </big>**| ha.mOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

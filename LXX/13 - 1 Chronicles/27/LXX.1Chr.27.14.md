@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:14** 
 <small><sub>**LXX:**</sub></small>
 The eleventh \[ruler\] for the eleventh month \[was\] Benaiah the \[one\] of Piarathon, of the sons of Ephraim; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-The eleventh [captain] for the eleventh month [was] Benaiah the Pirathonite, of the children of Ephraim: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.13|<< 1 Chronicles 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.15|1 Chronicles 27:15 >>]]</td></tr></table>
 
 | Translation | Greek |

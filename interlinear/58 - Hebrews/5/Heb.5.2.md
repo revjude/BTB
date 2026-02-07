@@ -1,12 +1,12 @@
-**Hebrews 5:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:2**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.
 <small><sub>**BSB:**</sub></small>
 He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness.
 <small><sub>**Literal:**</sub></small>
 to exercise forbearance being able with those being ignorant and with those going astray, since also he himself is encompassed by weakness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.1|<< Hebrews 5:1]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.3|Hebrews 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to exercise forbearance |**<big>[[G3356\|μετριοπαθεῖν]]</big>**  |metriopathein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being able |**<big>[[G1410\|δυνάμενος]]</big>**  |dunamenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

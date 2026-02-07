@@ -1,10 +1,7 @@
 **LXX Haggai 1:11** 
 <small><sub>**LXX:**</sub></small>
 And I will bring \[the\] broadsword upon the land, and upon the mountains, and upon the grain, and upon the wine, and upon the olive oil, and as much as the earth brings forth, and upon the men, and upon the cattle, and upon all the toils  of their hands. 
-<small><sub>**KJV:**</sub></small>
-And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon [that] which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
-<small><sub>**BSB:**</sub></small>
-I have summoned a drought on the fields and on the mountains, on the grain, new wine, and oil, and on whatever the ground yields, on man and beast, and on all the labor of your hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.10|<< Haggai 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.12|Haggai 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

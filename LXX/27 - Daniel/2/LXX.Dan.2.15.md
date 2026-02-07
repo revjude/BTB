@@ -1,10 +1,7 @@
 **LXX Daniel 2:15** 
 <small><sub>**LXX:**</sub></small>
 And he inquired of him, saying, O Ruler of the king, for what \[reason\] came forth the decree which \[is\] impudent from in front of the king? And Arioch made known the saying  to Daniel. 
-<small><sub>**KJV:**</sub></small>
-He answered and said to Arioch the king’s captain, Why [is] the decree [so] hasty from the king? Then Arioch made the thing known to Daniel.
-<small><sub>**BSB:**</sub></small>
-“Why is the decree from the king so harsh?” he asked. Then Arioch explained the situation to Daniel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.14|<< Daniel 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.16|Daniel 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

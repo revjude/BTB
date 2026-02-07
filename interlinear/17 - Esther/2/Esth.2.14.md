@@ -1,4 +1,4 @@
-**Esther 2:14** 
+**Esther 2:14**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king’s chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She would go there in the evening, and in the morning she would return to a seco
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.13|<< Esther 2:13]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.15|Esther 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the evening  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H6153\|עֶ֣רֶב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she  |**<big>&#8207;[[H1931\|הִ֣יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

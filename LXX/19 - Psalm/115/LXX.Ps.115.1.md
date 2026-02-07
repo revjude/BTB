@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Not to us, O <span class="smallcaps">lord</span>, not to us, but only \[to\] your name give glory, because of  your mercy and  your truth! 
-<small><sub>**KJV:**</sub></small>
-Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, [and] for thy truth’s sake.
-<small><sub>**BSB:**</sub></small>
-Not to us, O LORD, not to us, but to Your name be the glory, because of Your loving devotion, because of Your faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.114.8|<< Psalm 114:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.2|Psalm 115:2 >>]]</td></tr></table>
 
 | Translation | Greek |

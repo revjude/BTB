@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:7** 
 <small><sub>**LXX:**</sub></small>
 And if you should capture a man stealing \[the\] life of  his brethren of the sons of Israel, and tyrannizing him to sell \[him\]; that thief shall die; and you shall lift away the evil from yourselves of them. 
-<small><sub>**KJV:**</sub></small>
-If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.
-<small><sub>**BSB:**</sub></small>
-If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.6|<< Deuteronomy 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.8|Deuteronomy 24:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 24:7** is...

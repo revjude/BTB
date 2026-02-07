@@ -1,4 +1,4 @@
-**Psalms 86:13** 
+**Psalms 86:13**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For great [is] thy mercy toward me: and thou hast delivered my soul from the lowest hell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For great is Your loving devotion to me; You have delivered me from the depths o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.12|<< Psalms 86:12]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.14|Psalms 86:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty your  |**<big>&#8207;[[H2617A\|חַ֭סְדְּ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Chas.de.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

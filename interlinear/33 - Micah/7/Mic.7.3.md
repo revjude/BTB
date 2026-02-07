@@ -1,4 +1,4 @@
-**Micah 7:3** 
+**Micah 7:3**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may do evil with both hands earnestly, the prince asketh, and the judge [asketh] for a reward; and the great [man], he uttereth his mischievous desire: so they wrap it up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Both hands are skilled at evil; the prince and the judge demand a bribe. When th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.2|<< Micah 7:2]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.4|Micah 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451B\|רַ֤ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

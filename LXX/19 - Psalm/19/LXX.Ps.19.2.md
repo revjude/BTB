@@ -1,10 +1,7 @@
 **LXX Psalm 19:2** 
 <small><sub>**LXX:**</sub></small>
 Day \[to\] day bubbles up a saying; and night \[unto\] night announces knowledge. 
-<small><sub>**KJV:**</sub></small>
-Day unto day uttereth speech, and night unto night sheweth knowledge.
-<small><sub>**BSB:**</sub></small>
-Day after day they pour forth speech; night after night they reveal knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.1|<< Psalm 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.3|Psalm 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

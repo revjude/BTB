@@ -1,4 +1,4 @@
-**2 Chronicles 28:6** 
+**2 Chronicles 28:6**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, [which were] all valiant men; because they had forsaken the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.5|<< 2 Chronicles 28:5]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.7|2 Chronicles 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he killed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2026\|יַּהֲרֹג֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ha.Rog<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pekah  |**<big>&#8207;[[H6492\|פֶּ֨קַח]]&#8207; </big>**| Pe.kach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

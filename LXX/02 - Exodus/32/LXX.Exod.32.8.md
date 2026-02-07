@@ -1,10 +1,7 @@
 **LXX Exodus 32:8** 
 <small><sub>**LXX:**</sub></small>
 They violate quickly from the way which I gave charge to them; they made to themselves a calf, and they do obeisance to it, and they have sacrificed to it. And they said, These \[are\]  your gods, O Israel, who hauled you from \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These [be] thy gods, O Israel, which have brought thee up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten calf and have bowed down to it. They have sacrificed to it and said, ‘These, O Israel, are your gods, who brought you up out of the land of Egypt.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.7|<< Exodus 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.9|Exodus 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

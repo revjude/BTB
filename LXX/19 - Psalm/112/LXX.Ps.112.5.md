@@ -1,10 +1,7 @@
 **LXX Psalm 112:5** 
 <small><sub>**LXX:**</sub></small>
 A gracious man \[is\] the one pitying and lending; he shall manage  his matters in equity. 
-<small><sub>**KJV:**</sub></small>
-A good man sheweth favour, and lendeth: he will guide his affairs with discretion.
-<small><sub>**BSB:**</sub></small>
-It is well with the man who is generous and lends freely, whose affairs are guided by justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.112.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.4|<< Psalm 112:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.6|Psalm 112:6 >>]]</td></tr></table>
 
 | Translation | Greek |

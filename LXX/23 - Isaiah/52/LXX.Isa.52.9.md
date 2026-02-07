@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 the desolate places of Jerusalem break asunder with gladness together! for \[the\] <span class="smallcaps">lord</span> showed mercy on her, and rescued Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Break forth in joy, sing together, O ruins of Jerusalem, for the LORD has comforted His people; He has redeemed Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.8|<< Isaiah 52:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.10|Isaiah 52:10 >>]]</td></tr></table>
 
 | Translation | Greek |

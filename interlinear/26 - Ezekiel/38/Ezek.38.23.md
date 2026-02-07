@@ -1,4 +1,4 @@
-**Ezekiel 38:23** 
+**Ezekiel 38:23**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will magnify and sanctify Myself, and I will reveal Myself in the sight of man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.22|<< Ezekiel 38:22]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.1|Ezekiel 39:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will show myself great  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1431\|הִתְגַּדִּלְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.ga.dil.Ti<small><sup>[[HVtq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will show myself holy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942K\|הִתְקַדִּשְׁתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.ka.dish.Ti<small><sup>[[HVtq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

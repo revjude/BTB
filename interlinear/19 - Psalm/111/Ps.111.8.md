@@ -1,4 +1,4 @@
-**Psalms 111:8** 
+**Psalms 111:8**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They stand fast for ever and ever, [and are] done in truth and uprightness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are upheld forever and ever, enacted in truth and uprightness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.7|<< Psalms 111:7]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.9|Psalms 111:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [they are] sustained  |**<big>&#8207;[[H5564\|סְמוּכִ֣ים]]&#8207; </big>**| se.mu.Khim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5703\|עַ֣ד]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

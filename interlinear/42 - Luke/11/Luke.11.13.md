@@ -1,12 +1,12 @@
-**Luke 11:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:13**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye then, being evil, know how to give good gifts unto your children: how much more shall [your] heavenly Father give the Holy Spirit to them that ask him?
 <small><sub>**BSB:**</sub></small>
 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask Him!”
 <small><sub>**Literal:**</sub></small>
 If therefore you yourselves evil being you know gifts good to give to the children of you, how much more the Father who [is] in heaven will give [the] Spirit Holy to those asking Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.12|<< Luke 11:12]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.14|Luke 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 15:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:35**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.
 <small><sub>**BSB:**</sub></small>
 But Paul and Barnabas remained at Antioch, along with many others, teaching and preaching the word of the Lord.
 <small><sub>**Literal:**</sub></small>
 Paul however and Barnabas were staying in Antioch teaching and evangelising with also others many the word of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.34|<< Acts 15:34]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.36|Acts 15:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 19:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:17**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto him, Why callest thou me good? [there is] none good but one, [that is], God: but if thou wilt enter into life, keep the commandments.
 <small><sub>**BSB:**</sub></small>
 “Why do you ask Me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said to him; Why Me you ask about what is good? One is <the> good only except one <the> God. If however you desire into <the> life to enter, do keep the commandments.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.16|<< Matthew 19:16]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.18|Matthew 19:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

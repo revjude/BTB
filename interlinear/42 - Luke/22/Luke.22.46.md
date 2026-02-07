@@ -1,12 +1,12 @@
-**Luke 22:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:46**<big><big>[[Luke.22.39 Jesus Prays on the Mount of Olives|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.
 <small><sub>**BSB:**</sub></small>
 “Why are you sleeping?” He asked. “Get up and pray so that you will not enter into temptation.”
 <small><sub>**Literal:**</sub></small>
 and He said to them; Why are you sleeping? Having risen up do pray that not you may enter into temptation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.45|<< Luke 22:45]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.47|Luke 22:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

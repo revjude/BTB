@@ -1,12 +1,12 @@
-**2 Corinthians 13:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:13**<big><big>[[2Cor.13.11 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All the saints salute you.
 <small><sub>**BSB:**</sub></small>
 All the saints send you greetings.
 <small><sub>**Literal:**</sub></small>
 [14] The grace of the Lord Jesus Christ and the love <the> of God and the fellowship of the Holy Spirit [be] with all of you Amen to Corinthians second it was written from Philippi <the> of Macedonia through of Titus and Luke.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.12|<< 2 Corinthians 13:12]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.1|Galatians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [14] The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

@@ -1,5 +1,5 @@
-**John 3:14
-**<small><sub>**KJV:**</sub></small>
+**John 3:14**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
 <small><sub>**BSB:**</sub></small>
 Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up,
@@ -10,7 +10,7 @@ And even as Moses lifted up the serpent in the wilderness, thus to be lifted up 
 > $\quad$ alluding to: [[LXX.Num.21.8|Num 21:8-9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

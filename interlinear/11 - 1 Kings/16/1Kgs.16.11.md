@@ -1,4 +1,4 @@
-**1 Kings 16:11** 
+**1 Kings 16:11**<big><big>[[1Kgs.16.8 Elah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he began to reign, as soon as he sat on his throne, [that] he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as Zimri began to reign and was seated on the throne, he struck down the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.10|<< 1 Kings 16:10]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.12|1 Kings 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֨י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when became king he  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4427A\|מָלְכ֜]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ma.le.Kh<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

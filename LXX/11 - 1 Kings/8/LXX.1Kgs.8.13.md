@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:13** 
 <small><sub>**LXX:**</sub></small>
 And I built a house \[to\] your name, holy to you, and readied, and \[to\] your chair  for you to encamp in it into the eons. 
-<small><sub>**KJV:**</sub></small>
-I have surely built thee an house to dwell in, a settled place for thee to abide in for ever.
-<small><sub>**BSB:**</sub></small>
-I have indeed built You an exalted house, a place for You to dwell forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.12|<< 1 Kings 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.14|1 Kings 8:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 8:13** is...

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the disposition of the letter which they sent to him -- To Artaxerxes \[the\] king.  \[By\] your servants, \[the\] men on the other side of the river. 
-<small><sub>**KJV:**</sub></small>
-This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
-<small><sub>**BSB:**</sub></small>
-(This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

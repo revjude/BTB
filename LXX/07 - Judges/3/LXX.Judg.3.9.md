@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel cried out to \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> raised up a deliver  for Israel, and he delivered them --  Othniel son of Kenaz, brother of Caleb the one younger than him. 
-<small><sub>**KJV:**</sub></small>
-And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, [even] Othniel the son of Kenaz, Caleb’s younger brother.
-<small><sub>**BSB:**</sub></small>
-But when the Israelites cried out to the LORD, He raised up Othniel son of Caleb’s younger brother Kenaz as a deliverer to save them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.8|<< Judges 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.10|Judges 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

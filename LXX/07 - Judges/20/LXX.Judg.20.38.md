@@ -1,10 +1,7 @@
 **LXX Judges 20:38** 
 <small><sub>**LXX:**</sub></small>
 And the arranged order was \[with the\] man of Israel with the ambush,  for them to offer a signal-fire  of smoke from the city. 
-<small><sub>**KJV:**</sub></small>
-Now there was an appointed sign between the men of Israel and the liers in wait, that they should make a great flame with smoke rise up out of the city.
-<small><sub>**BSB:**</sub></small>
-The men of Israel had arranged a signal with the men in ambush: When they sent up a great cloud of smoke from the city,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.37|<< Judges 20:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.39|Judges 20:39 >>]]</td></tr></table>
 
 | Translation | Greek |

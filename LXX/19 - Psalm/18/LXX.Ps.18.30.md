@@ -1,10 +1,7 @@
 **LXX Psalm 18:30** 
 <small><sub>**LXX:**</sub></small>
  My God -- unblemished \[is\]  his way. The oracles of \[the\] <span class="smallcaps">lord</span> are tried by fire. He is a defender of all the ones hoping upon him. 
-<small><sub>**KJV:**</sub></small>
-[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.
-<small><sub>**BSB:**</sub></small>
-As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.29|<< Psalm 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.31|Psalm 18:31 >>]]</td></tr></table>
 
 | Translation | Greek |

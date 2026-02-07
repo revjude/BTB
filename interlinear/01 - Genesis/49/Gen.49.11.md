@@ -1,4 +1,4 @@
-**Genesis 49:11** 
+**Genesis 49:11**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He ties his donkey to the vine, his colt to the choicest branch. He washes his g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.10|<< Genesis 49:10]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.12|Genesis 49:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | binding  |**<big>&#8207;[[H0631\|אֹסְרִ֤י]]&#8207; </big>**| 'o.se.Ri<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the vine  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1612\|גֶּ֙פֶן֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

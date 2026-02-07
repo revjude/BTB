@@ -1,10 +1,7 @@
 **LXX Numbers 36:6** 
 <small><sub>**LXX:**</sub></small>
 This is the saying which \[the\] <span class="smallcaps">lord</span> ordered to the daughters of Zelophehad, saying, Of whom ever it is pleasing before them 1let them be wives, only from the people  of their father let them be wives! 
-<small><sub>**KJV:**</sub></small>
-This [is] the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD has commanded concerning the daughters of Zelophehad: They may marry anyone they please, provided they marry within a clan of the tribe of their father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.5|<< Numbers 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.7|Numbers 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

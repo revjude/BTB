@@ -1,4 +1,4 @@
-**2 Samuel 16:22** 
+**2 Samuel 16:22**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father’s concubines in the sight of all Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they pitched a tent for Absalom on the roof, and he slept with his father’s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.21|<< 2 Samuel 16:21]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.23|2 Samuel 16:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pitched  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יַּטּ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֛וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

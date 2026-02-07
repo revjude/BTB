@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Rise early in the morning, and stand before Pharaoh! And behold, he will come forth near the water. And you shall say to him, Thus says \[the\] <span class="smallcaps">lord</span>, Send out  my people! that they shall serve me in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.19|<< Exodus 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.21|Exodus 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

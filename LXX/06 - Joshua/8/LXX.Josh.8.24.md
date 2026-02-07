@@ -1,10 +1,7 @@
 **LXX Joshua 8:24** 
 <small><sub>**LXX:**</sub></small>
 And it happened as the sons of Israel ceased killing all the ones in  Ai, and in the plains, and in the mountain upon the descent of which they pursued them, that all fell by \[the\] mouth of \[the\] broadsword, by it unto completion. And Joshua returned to Ai, and struck it by \[the\] mouth of \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness wherein they chased them, and when they were all fallen on the edge of the sword, until they were consumed, that all the Israelites returned unto Ai, and smote it with the edge of the sword.
-<small><sub>**BSB:**</sub></small>
-When Israel had finished killing all the men of Ai who had pursued them into the field and wilderness, and when every last one of them had fallen by the sword, all the Israelites returned to Ai and put it to the sword as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.23|<< Joshua 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.25|Joshua 8:25 >>]]</td></tr></table>
 
 | Translation | Greek |

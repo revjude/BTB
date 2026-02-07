@@ -1,4 +1,4 @@
-**Proverbs 25:5** 
+**Proverbs 25:5**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take away the wicked [from] before the king, and his throne shall be established in righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remove the wicked from the king’s presence, and his throne will be established
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.4|<< Proverbs 25:4]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.6|Proverbs 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remove  |**<big>&#8207;[[H1898\|הָג֣וֹ]]&#8207; </big>**| ha.Go<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wicked  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

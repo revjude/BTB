@@ -1,6 +1,6 @@
 (KJV) **Exodus 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12|<< Exodus 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14|Exodus 14 >>]]</td></tr></table>
 
-***The Dedication of the Firstborn***&emsp;<small><sup>\[ [[Deut.15|Deuteronomy 15:19–23]] ]</sup></small> ^bsb182
+<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥃]]</big></big>***The Dedication of the Firstborn***&emsp;<small><sup>\[ [[Deut.15|Deuteronomy 15:19–23]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.13.1|1]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> spake unto Moses, saying, <span class="startversemarker">[</span>**[[Exod.13.2|2]]**<span class="endversemarker">]</span> Sanctify<small><small>[^2]</small></small> unto me all the firstborn, whatsoever openeth the womb among the children of Israel, \[both\] of man and of beast: it \[is\] mine. 
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.13.11|11]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.13.14|14]]**<span class="endversemarker">]</span> [¶]And it shall be when thy son<small><small>[^27]</small></small> asketh thee in time to come<small><small>[^28]</small></small>, saying, What \[is\] this? that thou shalt say unto him, By strength<small><small>[^29]</small></small> of hand the <span class="smallcaps">Lord</span> brought us out from Egypt, from the house of bondage: <span class="startversemarker">[</span>**[[Exod.13.15|15]]**<span class="endversemarker">]</span> And it came to pass, when Pharaoh would hardly let us go, that the <span class="smallcaps">Lord</span> slew<small><small>[^30]</small></small> all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I<small><small>[^31]</small></small> sacrifice to the <span class="smallcaps">Lord</span> all that openeth the matrix, being males; but all the firstborn of my children I redeem. <span class="startversemarker">[</span>**[[Exod.13.16|16]]**<span class="endversemarker">]</span> And it shall be for a token<small><small>[^32]</small></small> upon thine hand, and for frontlets<small><small>[^33]</small></small> between thine eyes: for by<small><small>[^34]</small></small> strength of hand the <span class="smallcaps">Lord</span> brought us forth out of Egypt.
 
-***The Pillars of Cloud and Fire*** ^bsb183
+<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥃]]</big></big>***The Pillars of Cloud and Fire***
 
  
 

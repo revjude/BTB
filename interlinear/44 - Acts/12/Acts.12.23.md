@@ -1,12 +1,12 @@
-**Acts 12:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:23**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
 <small><sub>**BSB:**</sub></small>
 Immediately, because Herod did not give glory to God, an angel of the Lord struck him down, and he was eaten by worms and died.
 <small><sub>**Literal:**</sub></small>
 Immediately then struck him an angel of [the] Lord in return for that not he gave the glory <the> to God, and having been eaten by worms he breathed his last.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.22|<< Acts 12:22]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.24|Acts 12:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Immediately |**<big>[[G3916\|παραχρῆμα]]</big>**  |parachrēma <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

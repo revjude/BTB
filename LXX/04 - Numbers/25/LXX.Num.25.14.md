@@ -1,10 +1,7 @@
 **LXX Numbers 25:14** 
 <small><sub>**LXX:**</sub></small>
 And the name of the Israelitish man  being struck, who was stricken with the Midianitish \[woman\], \[was\] Zimri son of Salu, ruler of \[the\] house of \[the\] family of Simeon. 
-<small><sub>**KJV:**</sub></small>
-Now the name of the Israelite that was slain, [even] that was slain with the Midianitish woman, [was] Zimri, the son of Salu, a prince of a chief house among the Simeonites.
-<small><sub>**BSB:**</sub></small>
-The name of the Israelite who was slain with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.13|<< Numbers 25:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.15|Numbers 25:15 >>]]</td></tr></table>
 
 | Translation | Greek |

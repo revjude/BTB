@@ -1,4 +1,4 @@
-**Jeremiah 48:19** 
+**Jeremiah 48:19**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, [and] say, What is done?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stand by the road and watch, O dweller of Aroer! Ask the man fleeing or the woma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.18|<< Jeremiah 48:18]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.20|Jeremiah 48:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] road  |**<big>&#8207;[[H1870K\|דֶּ֛רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

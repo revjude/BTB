@@ -1,4 +1,4 @@
-**Jeremiah 17:11** 
+**Jeremiah 17:11**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the partridge sitteth [on eggs], and hatcheth [them] not; [so] he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a partridge hatching eggs it did not lay is the man who makes a fortune unj
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a partridge  |**<big>&#8207;[[H7124\|קֹרֵ֤א]]&#8207; </big>**| ko.Re'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] it gathers a brood  |**<big>&#8207;[[H1716\|דָגַר֙]]&#8207; </big>**| da.Gar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

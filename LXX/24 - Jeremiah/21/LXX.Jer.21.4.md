@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:4** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, the God of Israel, Behold, I turn back the weapons  of warfare which \[are\] in  your hands, and by which you wage war with them against the Chaldeans, the ones hemming you \[in\] \[who are\] outside the wall; and I will gather them into the midst  of this city. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that [are] in your hands, wherewith ye fight against the king of Babylon, and [against] the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.
-<small><sub>**BSB:**</sub></small>
-this is what the LORD, the God of Israel, says: ‘I will turn against you the weapons of war in your hands, with which you are fighting the king of Babylon and the Chaldeans who besiege you outside the wall, and I will assemble their forces in the center of this city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.3|<< Jeremiah 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.5|Jeremiah 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

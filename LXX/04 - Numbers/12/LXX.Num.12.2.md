@@ -1,10 +1,7 @@
 **LXX Numbers 12:2** 
 <small><sub>**LXX:**</sub></small>
 And they said, \[Has\] \[the\] <span class="smallcaps">lord</span> spoken only to Moses? Did he not also speak to us? And \[the\] <span class="smallcaps">lord</span> heard. 
-<small><sub>**KJV:**</sub></small>
-And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard [it].
-<small><sub>**BSB:**</sub></small>
-“Does the LORD speak only through Moses?” they said. “Does He not also speak through us?” And the LORD heard this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.1|<< Numbers 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.3|Numbers 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

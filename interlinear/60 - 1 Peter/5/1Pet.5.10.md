@@ -1,12 +1,12 @@
-**1 Peter 5:10
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:10**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle [you].
 <small><sub>**BSB:**</sub></small>
 And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you.
 <small><sub>**Literal:**</sub></small>
 The now God of all grace the [one] having called you to the eternal of Him glory in Christ Jesus a little while [of you] having suffered He Himself will perfect you he will confirm [you], he will strengthen [you], [and] he will establish [you].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.9|<< 1 Peter 5:9]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.11|1 Peter 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 28:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall make holy apparel for Aaron  your brother, for honor and glory. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make holy garments for Aaron thy brother for glory and for beauty.
-<small><sub>**BSB:**</sub></small>
-Make holy garments for your brother Aaron, to give him glory and splendor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.1|<< Exodus 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.3|Exodus 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

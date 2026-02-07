@@ -1,10 +1,7 @@
 **LXX Judges 11:12** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah sent messengers to \[the\] king of \[the\] sons of Ammon, saying, What \[is it\] to me and to you, that you come to me  to wage war in  my land? 
-<small><sub>**KJV:**</sub></small>
-And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?
-<small><sub>**BSB:**</sub></small>
-Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.11|<< Judges 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.13|Judges 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

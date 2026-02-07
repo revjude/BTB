@@ -6,10 +6,7 @@ To the director; for the one inheriting; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
  Give ear to my words, O <span class="smallcaps">lord</span>! Take notice  of my cry! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Nehiloth, A Psalm of David. Give ear to my words, O LORD, consider my meditation.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.8|<< Psalm 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.2|Psalm 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

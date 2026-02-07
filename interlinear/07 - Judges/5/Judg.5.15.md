@@ -1,4 +1,4 @@
-**Judges 5:15** 
+**Judges 5:15**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes of Issachar [were] with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben [there were] great thoughts of heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes of Issachar were with Deborah, and Issachar was with Barak, rushing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.14|<< Judges 5:14]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.16|Judges 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and princes my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרַ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Issachar  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3485G\|יִשָּׂשכָר֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yi.sa.sh.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

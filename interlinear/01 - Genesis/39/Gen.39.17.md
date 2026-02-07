@@ -1,4 +1,4 @@
-**Genesis 39:17** 
+**Genesis 39:17**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she told him the same story: “The Hebrew slave you brought us came to me 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.16|<< Genesis 39:16]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.18|Genesis 39:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|תְּדַבֵּ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.da.Ber<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

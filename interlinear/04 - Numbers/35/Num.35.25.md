@@ -1,4 +1,4 @@
-**Numbers 35:25** 
+**Numbers 35:25**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The assembly is to protect the manslayer from the hand of the avenger of blood. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.24|<< Numbers 35:24]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.26|Numbers 35:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will deliver  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5337\|הִצִּ֨ילוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Tzi.lu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the congregation  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5712\|עֵדָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

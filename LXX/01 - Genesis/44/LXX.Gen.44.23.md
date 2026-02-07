@@ -1,10 +1,7 @@
 **LXX Genesis 44:23** 
 <small><sub>**LXX:**</sub></small>
 And you said \[to\] your servants, If Your younger brother \[does\] not go down with you, you shall not proceed to see  my face. 
-<small><sub>**KJV:**</sub></small>
-And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.
-<small><sub>**BSB:**</sub></small>
-But you said to your servants, ‘Unless your younger brother comes down with you, you will not see my face again.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.22|<< Genesis 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.24|Genesis 44:24 >>]]</td></tr></table>
 
 | Translation | Greek |

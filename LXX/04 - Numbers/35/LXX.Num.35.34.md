@@ -1,10 +1,7 @@
 **LXX Numbers 35:34** 
 <small><sub>**LXX:**</sub></small>
 And you shall not defile the land upon which you dwell upon it, of which I should encamp among you. For I am \[the\] <span class="smallcaps">lord</span> encamping in \[the\] midst of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Do not defile the land where you live and where I dwell. For I, the LORD, dwell among the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.33|<< Numbers 35:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.1|Numbers 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

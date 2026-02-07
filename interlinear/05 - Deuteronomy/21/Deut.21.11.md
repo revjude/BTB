@@ -1,4 +1,4 @@
-**Deuteronomy 21:11** 
+**Deuteronomy 21:11**<big><big>[[Deut.21.10 Marrying a Captive Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if you see a beautiful woman among them, and you desire her and want to take her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.10|<< Deuteronomy 21:10]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.12|Deuteronomy 21:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִיתָ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'i.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the [female] captive[s]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7633\|שִּׁבְיָ֔ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> shiv.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

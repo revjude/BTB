@@ -1,10 +1,7 @@
 **LXX Genesis 23:13** 
 <small><sub>**LXX:**</sub></small>
 And he said  to Ephron in the ears before the people of the land, Since you are with me hear me! The silver for the field, you take from me! and I will entomb  my dead there. 
-<small><sub>**KJV:**</sub></small>
-And he spake unto Ephron in the audience of the people of the land, saying, But if thou [wilt give it], I pray thee, hear me: I will give thee money for the field; take [it] of me, and I will bury my dead there.
-<small><sub>**BSB:**</sub></small>
-and said to Ephron in their presence, “If you will please listen to me, I will pay you the price of the field. Accept it from me, so that I may bury my dead there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.12|<< Genesis 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.14|Genesis 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

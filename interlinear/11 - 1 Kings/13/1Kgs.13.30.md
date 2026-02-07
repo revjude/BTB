@@ -1,4 +1,4 @@
-**1 Kings 13:30** 
+**1 Kings 13:30**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he laid his carcase in his own grave; and they mourned over him, [saying], Alas, my brother!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he laid the body in his own tomb, and they lamented over him, “Oh, my bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.29|<< 1 Kings 13:29]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.31|1 Kings 13:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he placed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

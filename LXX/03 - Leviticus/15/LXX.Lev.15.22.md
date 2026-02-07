@@ -1,10 +1,7 @@
 **LXX Leviticus 15:22** 
 <small><sub>**LXX:**</sub></small>
 And every one touching any item upon which ever she should sit upon it, he shall wash  his garments, and shall bathe in water, and shall be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Whoever touches any furniture on which she was sitting must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.21|<< Leviticus 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.23|Leviticus 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

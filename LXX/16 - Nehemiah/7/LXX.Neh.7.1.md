@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the wall was built, and I set the doors, and numbered \[out\] the gatekeepers, and the singers, and the Levites, 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
-<small><sub>**BSB:**</sub></small>
-When the wall had been rebuilt and I had set the doors in place, the gatekeepers, singers, and Levites were appointed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.19|<< Nehemiah 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.2|Nehemiah 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

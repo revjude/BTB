@@ -1,12 +1,12 @@
-**Hebrews 3:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:13**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
 <small><sub>**BSB:**</sub></small>
 But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness.
 <small><sub>**Literal:**</sub></small>
 But do encourage each other each every day while this <the> today it is called so that not may be hardened one of you by [the] deceitfulness <the> of sin;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.12|<< Hebrews 3:12]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.14|Hebrews 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do encourage |**<big>[[G3870\|παρακαλεῖτε]]</big>**  |parakaleite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:16** 
 <small><sub>**LXX:**</sub></small>
 Three times of the year every male of yours shall appear before \[the\] <span class="smallcaps">lord</span>  your God in the place in which ever \[the\] <span class="smallcaps">lord</span> should have chosen in the holiday of the unleavened \[breads\], and in the holiday of the period of sevens, and in the holiday of the pitching of tents. You shall not appear in the presence of \[the\] <span class="smallcaps">lord</span>  your God empty. 
-<small><sub>**KJV:**</sub></small>
-Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
-<small><sub>**BSB:**</sub></small>
-Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles. No one should appear before the LORD empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.15|<< Deuteronomy 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.17|Deuteronomy 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

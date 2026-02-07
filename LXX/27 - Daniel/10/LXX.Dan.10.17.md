@@ -1,10 +1,7 @@
 **LXX Daniel 10:17** 
 <small><sub>**LXX:**</sub></small>
 And how your servant be able, O lord, to speak after  this my lord? And I, from the present shall not stand with strength in me, and there is no breath left in me. 
-<small><sub>**KJV:**</sub></small>
-For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
-<small><sub>**BSB:**</sub></small>
-How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.16|<< Daniel 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.18|Daniel 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

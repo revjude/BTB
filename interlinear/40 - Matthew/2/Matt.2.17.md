@@ -1,12 +1,12 @@
-**Matthew 2:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:17**<big><big>[[Matt.2.16 Weeping and Great Mourning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then was fulfilled that which was spoken by Jeremy the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 Then what was spoken through the prophet Jeremiah was fulfilled:
 <small><sub>**Literal:**</sub></small>
 Then was fulfilled that having been spoken through Jeremiah the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.16|<< Matthew 2:16]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.18|Matthew 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was fulfilled |**<big>[[G4137\|ἐπληρώθη]]</big>**  |eplērōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

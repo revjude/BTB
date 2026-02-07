@@ -1,4 +1,4 @@
-**Deuteronomy 3:24** 
+**Deuteronomy 3:24**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God [is there] in heaven or in earth, that can do according to thy works, and according to thy might?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.23|<< Deuteronomy 3:23]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.25|Deuteronomy 3:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֣י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

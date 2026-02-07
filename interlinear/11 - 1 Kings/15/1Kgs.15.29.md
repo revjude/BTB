@@ -1,4 +1,4 @@
-**1 Kings 15:29** 
+**1 Kings 15:29**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he reigned, [that] he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as Baasha became king, he struck down the entire household of Jeroboam. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.28|<< 1 Kings 15:28]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.30|1 Kings 15:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when became king he  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H4427A\|מָלְכ֗]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> ma.le.Kh<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

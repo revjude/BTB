@@ -1,10 +1,7 @@
 **LXX Psalm 50:7** 
 <small><sub>**LXX:**</sub></small>
 Hear, O my people! and I will speak to you O Israel, and I will testify to you. The God,  I am your God. 
-<small><sub>**KJV:**</sub></small>
-Hear, O my people, and I will speak; O Israel, and I will testify against thee: I [am] God, [even] thy God.
-<small><sub>**BSB:**</sub></small>
-“Hear, O My people, and I will speak, O Israel, and I will testify against you: I am God, your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.6|<< Psalm 50:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.8|Psalm 50:8 >>]]</td></tr></table>
 
 | Translation | Greek |

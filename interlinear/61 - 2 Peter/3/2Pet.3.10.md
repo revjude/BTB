@@ -1,5 +1,5 @@
-**2 Peter 3:10
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:10**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
 <small><sub>**BSB:**</sub></small>
 But the Day of the Lord will come like a thief. The heavens will disappear with a roar, the elements will be destroyed by fire, and the earth and its works will be laid bare.
@@ -10,7 +10,7 @@ Will come however the day of [the] Lord like a thief in [the] night in which the
 > $\quad$ possibly alluding to: [[LXX.Ps.102.26|Ps 102:26-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will come |**<big>[[G2240\|ἥξει]]</big>**  |hēxei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

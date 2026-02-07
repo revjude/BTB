@@ -1,10 +1,7 @@
 **LXX Amos 6:10** 
 <small><sub>**LXX:**</sub></small>
 And their family members shall be left behind, and they should press  to bring forth  their bones from out of the house; and \[one\] shall say to the ones set over the house, Is \[there\] still \[any\] existing with you? And he shall say, No longer, and \[the other\] shall say, Quiet, so as to not name the name of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that [is] by the sides of the house, [Is there] yet [any] with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, “Is anyone else with you?” “None,” that person will answer. “Silence,” the relative will retort, “for the name of the LORD must not be invoked.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.9|<< Amos 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.11|Amos 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

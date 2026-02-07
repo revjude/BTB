@@ -1,12 +1,12 @@
-**Acts 5:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:41**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.
 <small><sub>**BSB:**</sub></small>
 The apostles left the Sanhedrin, rejoicing that they had been counted worthy of suffering disgrace for the Name.
 <small><sub>**Literal:**</sub></small>
 They indeed therefore were departing rejoicing from [the] presence of the Council, that they had been counted worthy for the Name <the> of him to suffer dishonor;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.40|<< Acts 5:40]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.42|Acts 5:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

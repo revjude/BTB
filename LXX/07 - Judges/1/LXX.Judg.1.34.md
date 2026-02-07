@@ -1,10 +1,7 @@
 **LXX Judges 1:34** 
 <small><sub>**LXX:**</sub></small>
 And the Amorite squeezed out the sons of Dan into the mountain; for they did not let him go down into the valley. 
-<small><sub>**KJV:**</sub></small>
-And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:
-<small><sub>**BSB:**</sub></small>
-The Amorites forced the Danites into the hill country and did not allow them to come down into the plain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.33|<< Judges 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.35|Judges 1:35 >>]]</td></tr></table>
 
 | Translation | Greek |

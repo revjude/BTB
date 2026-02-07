@@ -1,4 +1,4 @@
-**2 Samuel 19:16** (19:17)
+**2 Samuel 19:16**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shimei the son of Gera, a Benjamite, which [was] of Bahurim, hasted and came down with the men of Judah to meet king David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.15|<< 2 Samuel 19:15]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.17|2 Samuel 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he hurried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|יְמַהֵ֗ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Her<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shimei  |**<big>&#8207;[[H8096H\|שִׁמְעִ֤י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 18:18** 
 <small><sub>**LXX:**</sub></small>
 And it shall go by unto Geliloth, which is before by \[the\] ascent of Adummim. And it shall go down upon \[the\] stone of Bohan of \[the\] sons of Reuben. And shall go by \[the\] back of Beth-araba from \[the\] north, and shall go down to Arabah. And it shall go by at the borders at \[the\] back of \[the\] sea from \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And passed along toward the side over against Arabah northward, and went down unto Arabah:
-<small><sub>**BSB:**</sub></small>
-Then it went on to the northern slope of Beth-arabah and went down into the valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.17|<< Joshua 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.19|Joshua 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 16:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:9**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?
 <small><sub>**BSB:**</sub></small>
 Do you still not understand? Do you not remember the five loaves for the five thousand, and how many basketfuls you gathered?
 <small><sub>**Literal:**</sub></small>
 Not yet do you understand nor remember the five loaves for the five thousand and how many hand-baskets you gathered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.8|<< Matthew 16:8]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.10|Matthew 16:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not yet |**<big>[[G3768\|οὔπω]]</big>**  |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do you understand |**<big>[[G3539\|νοεῖτε]]</big>**  |noeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 4:3** 
+**Isaiah 4:3**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that he that is] left in Zion, and [he that] remaineth in Jerusalem, shall be called holy, [even] every one that is written among the living in Jerusalem:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever remains in Zion and whoever is left in Jerusalem will be called holy—a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.2|<< Isaiah 4:2]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.4|Isaiah 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who remains  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7604\|נִּשְׁאָ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nish.'Ar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 11:10** 
 <small><sub>**LXX:**</sub></small>
 And  his sons shall gather a multitude of many forces. And one coming shall come, even inundating, and shall go by. And he shall settle, and shall grapple together unto  his strength. 
-<small><sub>**KJV:**</sub></small>
-But his sons shall be stirred up, and shall assemble a multitude of great forces: and [one] shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, [even] to his fortress.
-<small><sub>**BSB:**</sub></small>
-But his sons will stir up strife and assemble a great army, which will advance forcefully, sweeping through like a flood, and will again carry the battle as far as his fortress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.9|<< Daniel 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.11|Daniel 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

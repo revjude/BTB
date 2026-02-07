@@ -1,10 +1,7 @@
 **LXX Exodus 7:17** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, In this you will know that I \[am\] \[the\] <span class="smallcaps">lord</span>. Behold, I strike with the rod  in  my hand upon the water  in the river, and it will turn into blood. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, In this thou shalt know that I [am] the LORD: behold, I will smite with the rod that [is] in mine hand upon the waters which [are] in the river, and they shall be turned to blood.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: By this you will know that I am the LORD. Behold, with the staff in my hand I will strike the water of the Nile, and it will turn to blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.16|<< Exodus 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.18|Exodus 7:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 7:17** is...

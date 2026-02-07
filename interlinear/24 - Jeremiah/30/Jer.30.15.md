@@ -1,4 +1,4 @@
-**Jeremiah 30:15** 
+**Jeremiah 30:15**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why criest thou for thine affliction? thy sorrow [is] incurable for the multitude of thine iniquity: [because] thy sins were increased, I have done these things unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you cry out over your wound? Your pain has no cure! Because of your great
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.14|<< Jeremiah 30:14]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.16|Jeremiah 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you cry out  |**<big>&#8207;[[H2199\|תִּזְעַק֙]]&#8207; </big>**| tiz.'Ak<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

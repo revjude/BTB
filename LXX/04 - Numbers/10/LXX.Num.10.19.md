@@ -1,10 +1,7 @@
 **LXX Numbers 10:19** 
 <small><sub>**LXX:**</sub></small>
 And over the force of \[the\] tribe of \[the\] sons of Simeon \[was\] Shelumiel son of Zurishaddai. 
-<small><sub>**KJV:**</sub></small>
-And over the host of the tribe of the children of Simeon [was] Shelumiel the son of Zurishaddai.
-<small><sub>**BSB:**</sub></small>
-Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.18|<< Numbers 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.20|Numbers 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

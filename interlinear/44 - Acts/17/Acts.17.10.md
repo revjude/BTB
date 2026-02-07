@@ -1,12 +1,12 @@
-**Acts 17:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:10**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the brethren immediately sent away Paul and Silas by night unto Berea: who coming [thither] went into the synagogue of the Jews.
 <small><sub>**BSB:**</sub></small>
 As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue.
 <small><sub>**Literal:**</sub></small>
 <the> And the brothers immediately through <the> night sent away <the> both Paul and <the> Silas to Berea, who having arrived into the synagogue of the Jews were going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.9|<< Acts 17:9]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.11|Acts 17:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

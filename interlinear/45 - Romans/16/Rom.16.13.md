@@ -1,12 +1,12 @@
-**Romans 16:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:13**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute Rufus chosen in the Lord, and his mother and mine.
 <small><sub>**BSB:**</sub></small>
 Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as well.
 <small><sub>**Literal:**</sub></small>
 do greet Rufus the chosen in [the] Lord and the mother of him and of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.12|<< Romans 16:12]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.14|Romans 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Rufus |**<big>[[G4504H\|Ῥοῦφον]]</big>**  [^1] |Rhouphon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 2:24** 
 <small><sub>**LXX:**</sub></small>
 And they said to Joshua that, \[The\] <span class="smallcaps">lord</span> has delivered all the land in our hand, and all dwelling in that land are struck with awe at us. 
-<small><sub>**KJV:**</sub></small>
-And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
-<small><sub>**BSB:**</sub></small>
-“The LORD has surely delivered the entire land into our hands,” they said to Joshua. “Indeed, all who dwell in the land are melting in fear of us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.23|<< Joshua 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.1|Joshua 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

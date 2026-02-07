@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:16** 
 <small><sub>**LXX:**</sub></small>
 And the king swore by an oath to him secretly, saying, As \[the\] <span class="smallcaps">lord</span> lives, who appointed us  this life, Shall I kill you, and shall I put you into \[the\] hands  of these men, the ones seeking  your life, \[No!\] 
-<small><sub>**KJV:**</sub></small>
-So Zedekiah the king sware secretly unto Jeremiah, saying, [As] the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life.
-<small><sub>**BSB:**</sub></small>
-But King Zedekiah swore secretly to Jeremiah, “As surely as the LORD lives, who has given us this life, I will not kill you, nor will I deliver you into the hands of these men who are seeking your life.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.15|<< Jeremiah 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.17|Jeremiah 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

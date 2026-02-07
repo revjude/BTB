@@ -1,10 +1,7 @@
 **LXX Joshua 9:5** 
 <small><sub>**LXX:**</sub></small>
 and the hollows  in their shoes, and  their sandals old and mended on  their feet, and  their garments being old upon them, and the bread loaves  of their provisions were dry and moldy and \[worm\] eaten, 
-<small><sub>**KJV:**</sub></small>
-And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry [and] mouldy.
-<small><sub>**BSB:**</sub></small>
-They put worn, patched sandals on their feet and threadbare clothing on their bodies, and their whole supply of bread was dry and moldy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.4|<< Joshua 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.6|Joshua 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

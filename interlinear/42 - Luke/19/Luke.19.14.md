@@ -1,12 +1,12 @@
-**Luke 19:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:14**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But his citizens hated him, and sent a message after him, saying, We will not have this [man] to reign over us.
 <small><sub>**BSB:**</sub></small>
 But his subjects hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’
 <small><sub>**Literal:**</sub></small>
 <the> But the citizens of him were hating him and sent a delegation after him saying; Not we are willing [for] this [man] to reign over us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.13|<< Luke 19:13]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.15|Luke 19:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

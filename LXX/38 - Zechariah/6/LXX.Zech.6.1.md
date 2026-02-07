@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I turned, and lifted  my eyes; and I beheld, and behold, four chariots going forth from out of \[the\] midst of two mountains; and the mountains \[were\] mountains of brass. 
-<small><sub>**KJV:**</sub></small>
-And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains [were] mountains of brass.
-<small><sub>**BSB:**</sub></small>
-And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.11|<< Zechariah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.2|Zechariah 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

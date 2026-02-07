@@ -1,10 +1,7 @@
 **LXX Numbers 23:16** 
 <small><sub>**LXX:**</sub></small>
 And God met with  Balaam, and he put a word into  his mouth. And said, Return to Balak! and thus you shall speak. 
-<small><sub>**KJV:**</sub></small>
-And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
-<small><sub>**BSB:**</sub></small>
-And the LORD met with Balaam and put a message in his mouth, saying, “Return to Balak and speak what I tell you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.15|<< Numbers 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.17|Numbers 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

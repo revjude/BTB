@@ -1,10 +1,7 @@
 **LXX Joshua 7:7** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said, I beseech, O Lord, O <span class="smallcaps">lord</span>, why in causing to pass over your servant caused to pass over  this people the Jordan, to deliver it to the Amorite to destroy us? And if we stayed and were settled by the Jordan, what is it to me, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said, Alas, O Lord GOD, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!
-<small><sub>**BSB:**</sub></small>
-“O, Lord GOD,” Joshua said, “why did You ever bring this people across the Jordan to deliver us into the hand of the Amorites to be destroyed? If only we had been content to stay on the other side of the Jordan!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.6|<< Joshua 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.8|Joshua 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 17:51** 
+**1 Samuel 17:51**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David ran and stood over him. He grabbed the Philistine’s sword and pulled it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.50|<< 1 Samuel 17:50]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.52|1 Samuel 17:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he ran  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7323G\|יָּ֣רָץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּ֠וִד]]&#8207; </big>**| Da.vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

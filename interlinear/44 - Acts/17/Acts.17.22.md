@@ -1,12 +1,12 @@
-**Acts 17:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:22**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Paul stood in the midst of Mars’ hill, and said, [Ye] men of Athens, I perceive that in all things ye are too superstitious.
 <small><sub>**BSB:**</sub></small>
 Then Paul stood up in the meeting of the Areopagus and said, “Men of Athens, I see that in every way you are very religious.
 <small><sub>**Literal:**</sub></small>
 Having stood then <the> Paul in [the] midst of the Ares Hill he was saying; Men Athenians, in all things as very religious you I behold;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.21|<< Acts 17:21]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.23|Acts 17:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having stood |**<big>[[G2476\|Σταθεὶς]]</big>**  |Statheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

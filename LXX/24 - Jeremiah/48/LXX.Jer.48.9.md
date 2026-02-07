@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:9** 
 <small><sub>**LXX:**</sub></small>
 Put signs \[upon\] Moab, for by an infection she shall be kindled; and all  her cities shall be for an untrodden \[land\], because of the not being one dwelling in her. 
-<small><sub>**KJV:**</sub></small>
-Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.
-<small><sub>**BSB:**</sub></small>
-Put salt on Moab, for she will be laid waste; her cities will become desolate, with no one to dwell in them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.8|<< Jeremiah 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.10|Jeremiah 48:10 >>]]</td></tr></table>
 
 | Translation | Greek |

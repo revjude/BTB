@@ -1,4 +1,4 @@
-**Judges 3:25** 
+**Judges 3:25**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened [them]: and, behold, their lord [was] fallen down dead on the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they waited until they became worried and saw that he had still not opened th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.24|<< Judges 3:24]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.26|Judges 3:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they writhed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2342K\|יָּחִ֣ילוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Chi.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

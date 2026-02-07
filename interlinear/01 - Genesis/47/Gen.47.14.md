@@ -1,4 +1,4 @@
-**Genesis 47:14** 
+**Genesis 47:14**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph collected all the money to be found in the land of Egypt and the land of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.13|<< Genesis 47:13]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.15|Genesis 47:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gathered up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3950\|יְלַקֵּ֣ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.la.Ket<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֗ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

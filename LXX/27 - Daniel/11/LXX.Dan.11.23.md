@@ -1,10 +1,7 @@
 **LXX Daniel 11:23** 
 <small><sub>**LXX:**</sub></small>
 And because of the interminglings with him he shall deal in treachery. And he shall ascend, and shall excel in strength over him by a little nation. 
-<small><sub>**KJV:**</sub></small>
-And after the league [made] with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.
-<small><sub>**BSB:**</sub></small>
-After an alliance is made with him, he will act deceitfully; for he will rise to power with only a few people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.22|<< Daniel 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.24|Daniel 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

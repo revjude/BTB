@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abijah and his people struck them \[with\] a great calamity. And there fell slain of Israel -- five hundred thousand mighty men. 
-<small><sub>**KJV:**</sub></small>
-And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.
-<small><sub>**BSB:**</sub></small>
-Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.16|<< 2 Chronicles 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.18|2 Chronicles 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 67:7** 
 <small><sub>**LXX:**</sub></small>
 God bless us, and all the ends of the earth fear him! 
-<small><sub>**KJV:**</sub></small>
-God shall bless us; and all the ends of the earth shall fear him.
-<small><sub>**BSB:**</sub></small>
-God blesses us, that all the ends of the earth shall fear Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.67.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.67.6|<< Psalm 67:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.1|Psalm 68:1 >>]]</td></tr></table>
 
 | Translation | Greek |

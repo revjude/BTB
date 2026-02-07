@@ -1,12 +1,12 @@
-**Acts 13:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:13**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 After setting sail from Paphos, Paul and his companions came to Perga in Pamphylia, where John left them to return to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 Having sailed then from <the> Paphos [with] those around [him] <the> Paul came to Perga <the> of Pamphylia. John however having departed from them he returned to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.12|<< Acts 13:12]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.14|Acts 13:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having sailed |**<big>[[G0321\|Ἀναχθέντες]]</big>**  |Anachthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:18** 
 <small><sub>**LXX:**</sub></small>
 And Bath-sheba said, Well, I will speak for you to the king. 
-<small><sub>**KJV:**</sub></small>
-And Bathsheba said, Well; I will speak for thee unto the king.
-<small><sub>**BSB:**</sub></small>
-“Very well,” Bathsheba replied. “I will speak to the king for you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.17|<< 1 Kings 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.19|1 Kings 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

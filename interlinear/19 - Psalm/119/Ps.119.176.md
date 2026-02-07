@@ -1,4 +1,4 @@
-**Psalms 119:176** 
+**Psalms 119:176**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have strayed like a lost sheep; seek Your servant, for I have not forgotten Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.176|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.175|<< Psalms 119:175]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.0|Psalms 120:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have gone astray  |**<big>&#8207;[[H8582\|תָּעִ֗יתִי]]&#8207; </big>**| ta.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a sheep  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7716\|שֶׂ֣ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

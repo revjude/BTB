@@ -1,4 +1,4 @@
-**Jeremiah 14:8** 
+**Jeremiah 14:8**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man [that] turneth aside to tarry for a night?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Hope of Israel, its Savior in times of distress, why are You like a stranger i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.7|<< Jeremiah 14:7]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.9|Jeremiah 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O hope of  |**<big>&#8207;[[H4723B\|מִקְוֵה֙]]&#8207; </big>**| mik.Veh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

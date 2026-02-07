@@ -1,4 +1,4 @@
-**1 Chronicles 27:6** 
+**1 Chronicles 27:6**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is that] Benaiah, [who was] mighty [among] the thirty, and above the thirty: and in his course [was] Ammizabad his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This Benaiah was mighty among the Thirty and was over the Thirty, and his son Am
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.5|<< 1 Chronicles 27:5]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.7|1 Chronicles 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1931\|ה֧וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Benaiah  |**<big>&#8207;[[H1141G\|בְנָיָ֛הוּ]]&#8207; </big>**| ve.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 20:26** 
+**1 Kings 20:26**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the return of the year, that Benhadad numbered the Syrians, and went up to Aphek, to fight against Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the spring, Ben-hadad mobilized the Arameans and went up to Aphek to fight ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.25|<< 1 Kings 20:25]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.27|1 Kings 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] return of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8666\|תְשׁוּבַ֣ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.shu.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

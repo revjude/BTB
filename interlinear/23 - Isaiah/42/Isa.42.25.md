@@ -1,4 +1,4 @@
-**Isaiah 42:25** 
+**Isaiah 42:25**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid [it] not to heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So He poured out on them His furious anger and the fierceness of battle. It enve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.24|<< Isaiah 42:24]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.1|Isaiah 43:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he poured out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8210G\|יִּשְׁפֹּ֤ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

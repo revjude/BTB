@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:31** 
 <small><sub>**LXX:**</sub></small>
 and in Beth-marcaboth and Hazar-susim, and in Beth-birei, and in Shaaraim. These \[were\]  their cities until the \[reign\] of king David. 
-<small><sub>**KJV:**</sub></small>
-And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These [were] their cities unto the reign of David.
-<small><sub>**BSB:**</sub></small>
-Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until the reign of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.30|<< 1 Chronicles 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.32|1 Chronicles 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

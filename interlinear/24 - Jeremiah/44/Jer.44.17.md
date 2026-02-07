@@ -1,4 +1,4 @@
-**Jeremiah 44:17** 
+**Jeremiah 44:17**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for [then] had we plenty of victuals, and were well, and saw no evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, we will do everything we vowed to do: We will burn incense to the Queen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.16|<< Jeremiah 44:16]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.18|Jeremiah 44:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֩י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to do>  |**<big>&#8207;[[H6213A\|עָשֹׂ֨ה]]&#8207; </big>**| 'a.Soh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

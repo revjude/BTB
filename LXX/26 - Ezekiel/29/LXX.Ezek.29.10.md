@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I \[am\] against you, and against all  your rivers. And I will give the land of Egypt unto desolation, broadsword, and destruction, from Migdol and Syene even unto \[the\] borders of \[the\] Ethiopians. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I [am] against thee, and against thy rivers, and I will make the land of Egypt utterly waste [and] desolate, from the tower of Syene even unto the border of Ethiopia.
-<small><sub>**BSB:**</sub></small>
-therefore I am against you and against your rivers. I will turn the land of Egypt into a ruin, a desolate wasteland from Migdol to Syene, and as far as the border of Cush.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.9|<< Ezekiel 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.11|Ezekiel 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

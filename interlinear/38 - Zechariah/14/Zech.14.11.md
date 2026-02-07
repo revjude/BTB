@@ -1,4 +1,4 @@
-**Zechariah 14:11** 
+**Zechariah 14:11**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [men] shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ People will live there, and never again will there be an utter destruction. So J
 > $\quad$ referenced by: [[Rev.22.3|Rev 22:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָ֣שְׁבוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ya.she.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in it  |**<big>&#8207;[[H9003\|בָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

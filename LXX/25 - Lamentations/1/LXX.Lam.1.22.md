@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΘΑΥ</p>
 
 all their evils enter before your face. And glean them! in which manner they made a gleaning for all  of my sins. for my moanings \[are\] many, and  my heart frets. 
-<small><sub>**KJV:**</sub></small>
-Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs [are] many, and my heart [is] faint.
-<small><sub>**BSB:**</sub></small>
-Let all their wickedness come before You, and deal with them as You have dealt with me because of all my transgressions. For my groans are many, and my heart is faint.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.21|<< Lamentations 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.1|Lamentations 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

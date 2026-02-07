@@ -1,10 +1,7 @@
 **LXX Psalm 61:7** 
 <small><sub>**LXX:**</sub></small>
 He shall abide into the eon before  God. Who will seek his mercy and truth? 
-<small><sub>**KJV:**</sub></small>
-He shall abide before God for ever: O prepare mercy and truth, [which] may preserve him.
-<small><sub>**BSB:**</sub></small>
-May he sit enthroned in God’s presence forever; appoint Your loving devotion and Your faithfulness to guard him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.6|<< Psalm 61:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.8|Psalm 61:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] Assyrians resettled the Samarian into Assyria, and he put them in Halah, and in Habor \[by the\] river Gozan, and in \[the\] mountains of \[the\] Medes; 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes:
-<small><sub>**BSB:**</sub></small>
-The king of Assyria exiled the Israelites to Assyria and settled them in Halah, in Gozan by the Habor River, and in the cities of the Medes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 2:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:15**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And deliver them who through fear of death were all their lifetime subject to bondage.
 <small><sub>**BSB:**</sub></small>
 and free those who all their lives were held in slavery by their fear of death.
 <small><sub>**Literal:**</sub></small>
 and may set free those as many as fear of death through all [times] of them to live subject they were to slavery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.14|<< Hebrews 2:14]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.16|Hebrews 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may set free |**<big>[[G0525\|ἀπαλλάξῃ]]</big>**  |apallaxē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

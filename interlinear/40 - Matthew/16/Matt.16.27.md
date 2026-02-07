@@ -1,5 +1,5 @@
-**Matthew 16:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:27**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
 <small><sub>**BSB:**</sub></small>
 For the Son of Man will come in His Father’s glory with His angels, and then He will repay each one according to what he has done.
@@ -10,7 +10,7 @@ Is about for the Son of the man to come in the glory of the Father of Him with t
 > $\quad$ referencing: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is about |**<big>[[G3195\|μέλλει]]</big>**  |mellei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

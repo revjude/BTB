@@ -1,12 +1,12 @@
-**Luke 5:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:15**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 <small><sub>**BSB:**</sub></small>
 But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses.
 <small><sub>**Literal:**</sub></small>
 Was spread abroad now still more the report concerning Him; and were coming crowds great to hear and to be healed by him from the sicknesses of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.14|<< Luke 5:14]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.16|Luke 5:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was spread abroad |**<big>[[G1330\|Διήρχετο]]</big>**  |Diērcheto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Philippians 3:18
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:18**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For many walk, of whom I have told you often, and now tell you even weeping, [that they are] the enemies of the cross of Christ:
 <small><sub>**BSB:**</sub></small>
 For as I have often told you before, and now say again even with tears: Many live as enemies of the cross of Christ.
 <small><sub>**Literal:**</sub></small>
 Many for are walking — [of] whom often I was telling you, now indeed even weeping I say — [as] the  enemies of the cross <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.17|<< Philippians 3:17]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.19|Philippians 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

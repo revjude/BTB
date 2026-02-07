@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:3** 
 <small><sub>**LXX:**</sub></small>
 And to the needy there was not anything, but only one small ewe-lamb which he acquired, and protected, and nourished it. And it matured with him, and with  his sons at the same \[time\]. It ate from his bread, and it drank from his cup, and it slept in his bosom, and it was to him as a daughter. 
-<small><sub>**KJV:**</sub></small>
-But the poor [man] had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.
-<small><sub>**BSB:**</sub></small>
-but the poor man had nothing except one small ewe lamb that he had bought. He raised it, and it grew up with him and his children. It shared his food and drank from his cup; it slept in his arms and was like a daughter to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.2|<< 2 Samuel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.4|2 Samuel 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

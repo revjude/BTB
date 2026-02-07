@@ -1,4 +1,4 @@
-**Numbers 34:14** 
+**Numbers 34:14**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received [their inheritance]; and half the tribe of Manasseh have received their inheritance:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the tribes of the Reubenites and Gadites, along with the half-tribe of Manas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.13|<< Numbers 34:13]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.15|Numbers 34:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have taken  |**<big>&#8207;[[H3947H\|לָקְח֞וּ]]&#8207; </big>**| la.ke.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

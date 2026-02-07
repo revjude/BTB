@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And whenever you should enter into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you, you shall not learn to do according to the abominations  of those nations. 
-<small><sub>**KJV:**</sub></small>
-When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.
-<small><sub>**BSB:**</sub></small>
-When you enter the land that the LORD your God is giving you, do not imitate the detestable ways of the nations there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.8|<< Deuteronomy 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.10|Deuteronomy 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

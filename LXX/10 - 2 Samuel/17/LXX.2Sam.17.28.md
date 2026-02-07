@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:28** 
 <small><sub>**LXX:**</sub></small>
 brought beds, and spreads, and kettles, and ceramic utensils, and wheat, and barley, and flour, and beans, and lentils and toasted grain, 
-<small><sub>**KJV:**</sub></small>
-Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched [corn], and beans, and lentiles, and parched [pulse],
-<small><sub>**BSB:**</sub></small>
-They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:13** 
 <small><sub>**LXX:**</sub></small>
 And  to Joseph he said, His hand is of \[the\] blessing of \[the\] <span class="smallcaps">lord</span>, of seasons of heaven, and of dew, and of \[the\] deeps of springs below, 
-<small><sub>**KJV:**</sub></small>
-And of Joseph he said, Blessed of the LORD [be] his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
-<small><sub>**BSB:**</sub></small>
-Concerning Joseph he said: “May his land be blessed by the LORD with the precious dew from heaven above and the deep waters that lie beneath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.12|<< Deuteronomy 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.14|Deuteronomy 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 23:4** 
+**Exodus 23:4**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you encounter your enemy’s stray ox or donkey, you must return it to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.3|<< Exodus 23:3]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.5|Exodus 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will meet  |**<big>&#8207;[[H6293\|תִפְגַּ֞ע]]&#8207; </big>**| tif.Ga'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

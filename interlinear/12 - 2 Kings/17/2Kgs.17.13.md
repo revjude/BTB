@@ -1,4 +1,4 @@
-**2 Kings 17:13** 
+**2 Kings 17:13**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the LORD testified against Israel, and against Judah, by all the prophets, [and by] all the seers, saying, Turn ye from your evil ways, and keep my commandments [and] my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet through all His prophets and seers, the LORD warned Israel and Judah, saying
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.12|<< 2 Kings 17:12]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.14|2 Kings 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he warned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5749B\|יָּ֣עַד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'ad<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֡ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

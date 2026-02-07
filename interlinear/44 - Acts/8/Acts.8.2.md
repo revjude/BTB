@@ -1,12 +1,12 @@
-**Acts 8:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:2**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And devout men carried Stephen [to his burial], and made great lamentation over him.
 <small><sub>**BSB:**</sub></small>
 God-fearing men buried Stephen and mourned deeply over him.
 <small><sub>**Literal:**</sub></small>
 Buried now <the> Stephen men devout and they made lamentation great over him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.1|<< Acts 8:1]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.3|Acts 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Buried |**<big>[[G4792\|συνεκόμισαν]]</big>**  |sunekomisan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

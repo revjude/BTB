@@ -1,10 +1,7 @@
 **LXX Job 5:6** 
 <small><sub>**LXX:**</sub></small>
 For toil can not come forth out of the earth, nor \[shall\] misery sprout up from \[the\] mountains. 
-<small><sub>**KJV:**</sub></small>
-Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;
-<small><sub>**BSB:**</sub></small>
-For distress does not spring from the dust, and trouble does not sprout from the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.5|<< Job 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.7|Job 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

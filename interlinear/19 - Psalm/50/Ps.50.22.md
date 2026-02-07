@@ -1,4 +1,4 @@
-**Psalms 50:22** 
+**Psalms 50:22**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now consider this, ye that forget God, lest I tear [you] in pieces, and [there be] none to deliver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now consider this, you who forget God, lest I tear you to pieces, with no one to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.21|<< Psalms 50:21]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.23|Psalms 50:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consider  |**<big>&#8207;[[H0995\|בִּֽינוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bi.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

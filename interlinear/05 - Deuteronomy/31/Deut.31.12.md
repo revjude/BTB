@@ -1,4 +1,4 @@
-**Deuteronomy 31:12** 
+**Deuteronomy 31:12**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather the people together, men, and women, and children, and thy stranger that [is] within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Assemble the people—men, women, children, and the foreigners within your gates
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.11|<< Deuteronomy 31:11]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.13|Deuteronomy 31:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | assemble  |**<big>&#8207;[[H6950\|הַקְהֵ֣ל]]&#8207; </big>**| hak.Hel<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

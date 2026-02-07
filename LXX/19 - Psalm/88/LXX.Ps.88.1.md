@@ -6,10 +6,7 @@ An ode of a psalm to the sons of Korah; for the director; by \[the\] harp  to re
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, the God  of my deliverance; I cried out before you day and at night. 
-<small><sub>**KJV:**</sub></small>
-A Song [or] Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. O LORD God of my salvation, I have cried day [and] night before thee:
-<small><sub>**BSB:**</sub></small>
-A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, day and night I cry out before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.87.7|<< Psalm 87:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.2|Psalm 88:2 >>]]</td></tr></table>
 
 | Translation | Greek |

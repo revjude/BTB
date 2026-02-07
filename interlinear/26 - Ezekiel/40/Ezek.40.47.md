@@ -1,4 +1,4 @@
-**Ezekiel 40:47** 
+**Ezekiel 40:47**<big><big>[[Ezek.40.47 The Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar [that was] before the house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Next he measured the court. It was square, a hundred cubits long and a hundred c
 > $\quad$ referenced by: [[Rev.11.1|Rev 11:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּ֨מָד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

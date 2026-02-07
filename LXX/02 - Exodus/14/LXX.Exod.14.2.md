@@ -1,10 +1,7 @@
 **LXX Exodus 14:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And turning let them encamp before the property between Migdol and between the sea, right opposite Baal-Zephon! Before them you shall encamp by the sea. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea.
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.1|<< Exodus 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.3|Exodus 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

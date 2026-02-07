@@ -1,4 +1,4 @@
-**Numbers 14:31** 
+**Numbers 14:31**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will bring your children, whom you said would become plunder, into the lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.30|<< Numbers 14:30]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.32|Numbers 14:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and little one[s] your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2945\|טַ֨פְּ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ta.pe.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

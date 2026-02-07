@@ -1,4 +1,4 @@
-**Deuteronomy 12:2** 
+**Deuteronomy 12:2**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Destroy completely all the places where the nations you are dispossessing have s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.1|<< Deuteronomy 12:1]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.3|Deuteronomy 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<destroy>  |**<big>&#8207;[[H0006\|אַבֵּ֣ד]]&#8207; </big>**| 'a.Bed<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will destroy !  |**<big>&#8207;[[H0006\|תְּ֠אַבְּדוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| Te.'a.be.du<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

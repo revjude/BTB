@@ -1,4 +1,4 @@
-**Job 20:19** 
+**Job 20:19**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he hath oppressed [and] hath forsaken the poor; [because] he hath violently taken away an house which he builded not;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For he has oppressed and forsaken the poor; he has seized houses he did not buil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.18|<< Job 20:18]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.20|Job 20:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has crushed  |**<big>&#8207;[[H7533\|רִ֭צַּץ]]&#8207; </big>**| Ri.tzatz<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

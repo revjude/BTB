@@ -1,10 +1,7 @@
 **LXX Exodus 15:16** 
 <small><sub>**LXX:**</sub></small>
 May there fall upon them fear and trembling; \[by the\] greatness of your arm they are petrified, until whenever your people may go by, O <span class="smallcaps">lord</span>, until whenever this your people may go by, whom you acquired. 
-<small><sub>**KJV:**</sub></small>
-Fear and dread shall fall upon them; by the greatness of thine arm they shall be [as] still as a stone; till thy people pass over, O LORD, till the people pass over, [which] thou hast purchased.
-<small><sub>**BSB:**</sub></small>
-and terror and dread will fall on them. By the power of Your arm they will be as still as a stone until Your people pass by, O LORD, until the people You have bought pass by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.15|<< Exodus 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.17|Exodus 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

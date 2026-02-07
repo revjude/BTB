@@ -1,10 +1,7 @@
 **LXX Hosea 4:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this the land shall mourn, and shall be diminished with all the ones dwelling it; with the wild beasts of the field, and with the winged creatures of the heaven; and the fishes of the sea shall fail, 
-<small><sub>**KJV:**</sub></small>
-Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
-<small><sub>**BSB:**</sub></small>
-Therefore the land mourns, and all who dwell in it will waste away with the beasts of the field and the birds of the air; even the fish of the sea disappear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.2|<< Hosea 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.4|Hosea 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:40** 
 <small><sub>**LXX:**</sub></small>
 And Shimei rose up, and saddled  his donkey, and went unto Gath to Achish  to seek after  his servants. And Shimei went and led  his servants from Gath. 
-<small><sub>**KJV:**</sub></small>
-And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath.
-<small><sub>**BSB:**</sub></small>
-So Shimei saddled his donkey and set out to Achish at Gath in search of his slaves, and he brought them back from Gath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.39|<< 1 Kings 2:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.41|1 Kings 2:41 >>]]</td></tr></table>
 
 | Translation | Greek |

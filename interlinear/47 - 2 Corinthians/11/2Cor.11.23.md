@@ -1,12 +1,12 @@
-**2 Corinthians 11:23
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:23**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Are they ministers of Christ? (I speak as a fool) I [am] more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
 <small><sub>**BSB:**</sub></small>
 Are they servants of Christ? (I am speaking as if I were out of my mind.) I am so much more: in harder labor, in more imprisonments, in worse beatings, in frequent danger of death.
 <small><sub>**Literal:**</sub></small>
 Servants of Christ are they? As being beside myself I speak; above [measure] I  myself[am]. in labors more abundantly in imprisonments more abundantly, in beatings above measure, in deaths often.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.22|<< 2 Corinthians 11:22]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.24|2 Corinthians 11:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Servants |**<big>[[G1249\|διάκονοι]]</big>**  |diakonoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Christ |**<big>[[G5547\|Χριστοῦ]]</big>**  |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

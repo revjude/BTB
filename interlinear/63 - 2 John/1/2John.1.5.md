@@ -1,12 +1,12 @@
-**2 John 1:5
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:5**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
 <small><sub>**BSB:**</sub></small>
 And now I urge you, dear lady—not as a new commandment to you, but one we have had from the beginning—that we love one another.
 <small><sub>**Literal:**</sub></small>
 And now I implore you, lady, not as a commandment new I am writing to you but that which we have had from [the] beginning, that we may love one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.4|<< 2 John 1:4]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.6|2 John 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

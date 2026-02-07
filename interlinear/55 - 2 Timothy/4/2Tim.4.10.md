@@ -1,12 +1,12 @@
-**2 Timothy 4:10
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:10**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.
 <small><sub>**BSB:**</sub></small>
 because Demas, in his love of this world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.
 <small><sub>**Literal:**</sub></small>
 Demas for me has deserted having loved the present age and he has gone to Thessalonica; Crescens to Galatia, [and] Titus to Dalmatia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.9|<< 2 Timothy 4:9]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.11|2 Timothy 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Demas |**<big>[[G1214\|Δημᾶς]]</big>**  |Dēmas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

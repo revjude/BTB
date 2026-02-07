@@ -1,4 +1,4 @@
-**Malachi 1:12** 
+**Malachi 1:12**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye have profaned it, in that ye say, The table of the LORD [is] polluted; and the fruit thereof, [even] his meat, [is] contemptible.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But ye have profaned it, in that ye say, The table of the LORD [is] polluted; an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.11|<< Malachi 1:11]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.13|Malachi 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] profaning  |**<big>&#8207;[[H2490H\|מְחַלְּלִ֣ים]]&#8207; </big>**| me.cha.le.Lim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 12:4** 
+**1 Kings 12:4**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thy father made our yoke grievous: now therefore make thou the grievous service 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.3|<< 1 Kings 12:3]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.5|1 Kings 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | father your  |**<big>&#8207;[[H0001G\|אָבִ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made hard  |**<big>&#8207;[[H7185\|הִקְשָׁ֣ה]]&#8207; </big>**| hik.Shah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

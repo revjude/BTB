@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:17** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  God of Israel, let be trustworthy indeed  your saying, which you spoke \[to\] your manservant David. 
-<small><sub>**KJV:**</sub></small>
-Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD, God of Israel, please confirm what You promised to Your servant David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.16|<< 2 Chronicles 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.18|2 Chronicles 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

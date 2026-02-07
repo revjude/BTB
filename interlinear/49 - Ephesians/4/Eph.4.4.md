@@ -1,12 +1,12 @@
-**Ephesians 4:4
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:4**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [There is] one body, and one Spirit, even as ye are called in one hope of your calling;
 <small><sub>**BSB:**</sub></small>
 There is one body and one Spirit, just as you were called to one hope when you were called;
 <small><sub>**Literal:**</sub></small>
 one body and one Spirit even as also you were called into one hope of the calling of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.3|<< Ephesians 4:3]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.5|Ephesians 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one |**<big>[[G1520\|ἓν]]</big>**  |hen <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | body |**<big>[[G4983\|σῶμα]]</big>**  |sōma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

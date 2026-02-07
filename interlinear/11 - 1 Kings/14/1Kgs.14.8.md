@@ -1,4 +1,4 @@
-**1 Kings 14:8** 
+**1 Kings 14:8**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And rent the kingdom away from the house of David, and gave it thee: and [yet] thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do [that] only [which was] right in mine eyes;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I tore the kingdom away from the house of David and gave it to you. But you have
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.7|<< 1 Kings 14:7]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.9|1 Kings 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I tore away  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7167\|אֶקְרַ֤ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.Ra'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

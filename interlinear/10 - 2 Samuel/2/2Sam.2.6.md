@@ -1,4 +1,4 @@
-**2 Samuel 2:6** 
+**2 Samuel 2:6**<big><big>[[2Sam.2.1 David Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now may the LORD show you loving devotion and faithfulness, and I will also show
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may he do  |**<big>&#8207;[[H6213A\|יַֽעַשׂ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'as-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 18:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] indecency  of your sister of your father or of your mother, natural or being procreated outside, you shall not uncover  their indecency. 
-<small><sub>**KJV:**</sub></small>
-The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, [whether she be] born at home, or born abroad, [even] their nakedness thou shalt not uncover.
-<small><sub>**BSB:**</sub></small>
-You must not have sexual relations with your sister, either your father’s daughter or your mother’s daughter, whether she was born in the same home or elsewhere.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.8|<< Leviticus 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.10|Leviticus 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 36:34** 
+**Ezekiel 36:34**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The desolate land will be cultivated instead of lying desolate in the sight of a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.33|<< Ezekiel 36:33]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.35|Ezekiel 36:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the land  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֥רֶץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> desolated  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8074G\|נְּשַׁמָּ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.sha.Mah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

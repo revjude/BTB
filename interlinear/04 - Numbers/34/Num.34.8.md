@@ -1,4 +1,4 @@
-**Numbers 34:8** 
+**Numbers 34:8**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From mount Hor ye shall point out [your border] unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and from Mount Hor to Lebo-hamath, then extend to Zedad,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Hor  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2023H\|הֹ֣ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

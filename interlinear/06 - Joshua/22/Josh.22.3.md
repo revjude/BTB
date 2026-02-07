@@ -1,4 +1,4 @@
-**Joshua 22:3** 
+**Joshua 22:3**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All this time you have not deserted your brothers, up to this very day, but have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.2|<< Joshua 22:2]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.4|Joshua 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have forsaken  |**<big>&#8207;[[H5800A\|עֲזַבְתֶּ֣ם]]&#8207; </big>**| 'a.zav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

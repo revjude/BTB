@@ -1,4 +1,4 @@
-**Genesis 9:29** 
+**Genesis 9:29**<big><big>[[Gen.9.26 Shem’s Blessing and Noah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the days of Noah were nine hundred and fifty years: and he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Noah lived a total of 950 years, and then he died.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.28|<< Genesis 9:28]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.1|Genesis 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְיוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

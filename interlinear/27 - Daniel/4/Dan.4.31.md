@@ -1,4 +1,4 @@
-**Daniel 4:31** (4:28)
+**Daniel 4:31**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While the word [was] in the king’s mouth, there fell a voice from heaven, [saying], O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While the words were still in the king’s mouth, a voice came from heaven: “I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.30|<< Daniel 4:30]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.32|Daniel 4:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still  |**<big>&#8207;[[H5751\|ע֗וֹד]]&#8207; </big>**| od<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word the  |**<big>&#8207;[[H4406\|מִלְּתָ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| mi.le.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

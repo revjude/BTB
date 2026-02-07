@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:35** 
 <small><sub>**LXX:**</sub></small>
 And the whole burnt-offering was abundant with the fats of the one consecrated of the deliverance \[offering\], and the libations of the whole burnt-offering. And the work in \[the\] house \[of the\] <span class="smallcaps">lord</span> was set up. 
-<small><sub>**KJV:**</sub></small>
-And also the burnt offerings [were] in abundance, with the fat of the peace offerings, and the drink offerings for [every] burnt offering. So the service of the house of the LORD was set in order.
-<small><sub>**BSB:**</sub></small>
-Furthermore, the burnt offerings were abundant, along with the fat of the peace offerings and the drink offerings for the burnt offerings. So the service of the house of the LORD was established.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.34|<< 2 Chronicles 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.36|2 Chronicles 29:36 >>]]</td></tr></table>
 
 | Translation | Greek |

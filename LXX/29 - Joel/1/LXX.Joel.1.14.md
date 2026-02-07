@@ -1,10 +1,7 @@
 **LXX Joel 1:14** 
 <small><sub>**LXX:**</sub></small>
 Sanctify a fast! Proclaim a \[sacred\] service! Bring together elders! all the ones dwelling the land, into \[the\] house of \[the\] <span class="smallcaps">lord</span> your God. And cry out to \[the\] <span class="smallcaps">lord</span> fervently! 
-<small><sub>**KJV:**</sub></small>
-Sanctify ye a fast, call a solemn assembly, gather the elders [and] all the inhabitants of the land [into] the house of the LORD your God, and cry unto the LORD,
-<small><sub>**BSB:**</sub></small>
-Consecrate a fast; proclaim a solemn assembly! Gather the elders and all the residents of the land to the house of the LORD your God, and cry out to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.13|<< Joel 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.15|Joel 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

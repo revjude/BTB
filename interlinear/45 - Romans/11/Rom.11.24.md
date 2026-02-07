@@ -1,12 +1,12 @@
-**Romans 11:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:24**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural [branches], be graffed into their own olive tree?
 <small><sub>**BSB:**</sub></small>
 For if you were cut from a wild olive tree, and contrary to nature were grafted into one that is cultivated, how much more readily will these, the natural branches, be grafted into their own olive tree!
 <small><sub>**Literal:**</sub></small>
 If for you yourself out of the according to nature were cut off a wild olive tree and contrary to nature were grafted into a cultivated olive tree, how much more these who according to nature [are] will be grafted into their own olive tree?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.23|<< Romans 11:23]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.25|Romans 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

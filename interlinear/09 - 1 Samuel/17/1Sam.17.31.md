@@ -1,4 +1,4 @@
-**1 Samuel 17:31** 
+**1 Samuel 17:31**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the words were heard which David spake, they rehearsed [them] before Saul: and he sent for him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now David’s words were overheard and reported to Saul, who sent for him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.30|<< 1 Samuel 17:30]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.32|1 Samuel 17:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יְּשָּֽׁמְעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.sha.me.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the words  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דְּבָרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

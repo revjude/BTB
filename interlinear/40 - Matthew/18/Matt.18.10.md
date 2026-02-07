@@ -1,12 +1,12 @@
-**Matthew 18:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:10**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.
 <small><sub>**Literal:**</sub></small>
 do see [that] not may you despise one of the little ones of these; I say for to you that the angels of them in [the] heavens through all [times] behold the face of the Father of mine who [is] in [the] heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.9|<< Matthew 18:9]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.11|Matthew 18:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do see [that] |**<big>[[G3708\|Ὁρᾶτε]]</big>**  |Horate <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

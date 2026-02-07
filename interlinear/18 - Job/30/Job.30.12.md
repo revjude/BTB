@@ -1,4 +1,4 @@
-**Job 30:12** 
+**Job 30:12**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon [my] right [hand] rise the youth; they push away my feet, and they raise up against me the ways of their destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rabble arises at my right; they lay snares for my feet and build siege ramps
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.11|<< Job 30:11]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.13|Job 30:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] right [side]  |**<big>&#8207;[[H3225G\|יָמִין֮]]&#8207; </big>**| ya.Min<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

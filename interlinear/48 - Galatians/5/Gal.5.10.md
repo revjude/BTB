@@ -1,12 +1,12 @@
-**Galatians 5:10
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:10**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
 <small><sub>**BSB:**</sub></small>
 I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.
 <small><sub>**Literal:**</sub></small>
 I myself have been confident as to you in [the] Lord that no [thing] other you will reason; The [one] however troubling you he will bear the judgment whoever maybe he shall be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.9|<< Galatians 5:9]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.11|Galatians 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have been confident |**<big>[[G3982\|πέποιθα]]</big>**  |pepoitha <small><sup>[[V-2RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

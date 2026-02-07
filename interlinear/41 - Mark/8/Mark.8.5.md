@@ -1,12 +1,12 @@
-**Mark 8:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:5**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he asked them, How many loaves have ye? And they said, Seven.
 <small><sub>**BSB:**</sub></small>
 “How many loaves do you have?” Jesus asked. “Seven,” they replied.
 <small><sub>**Literal:**</sub></small>
 And He was asking them; How many have you loaves? <the> And they said; Seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.4|<< Mark 8:4]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.6|Mark 8:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was asking [^1] |**<big>[[G2065\|ἠρώτα]]</big>**  |ērōta <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

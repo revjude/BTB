@@ -1,10 +1,7 @@
 **LXX Psalm 35:19** 
 <small><sub>**LXX:**</sub></small>
 the ones hating me unjustly not rejoice against me; \[even\] the ones detesting me without a charge, and shunning \[their\] eyes. 
-<small><sub>**KJV:**</sub></small>
-Let not them that are mine enemies wrongfully rejoice over me: [neither] let them wink with the eye that hate me without a cause.
-<small><sub>**BSB:**</sub></small>
-Let not my enemies gloat over me without cause, nor those who hate me without reason wink in malice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.18|<< Psalm 35:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.20|Psalm 35:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 35:19** is...

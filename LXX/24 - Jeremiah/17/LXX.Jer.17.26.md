@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:26** 
 <small><sub>**LXX:**</sub></small>
 And they shall come from out of the cities of Judah, and round about Jerusalem, and from out of \[the\] land of Benjamin, and from out of the plain, and from out of the mountain, and from out of the \[country\] to \[the\] south, bringing whole burnt-offerings, and sacrifices, and incenses, and manna, and frankincense; bringing praise into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And people will come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, and from the foothills, the hill country, and the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and thank offerings to the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.25|<< Jeremiah 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.27|Jeremiah 17:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 29:23** 
 <small><sub>**LXX:**</sub></small>
 As \[the\] earth thirsting, favorably receiving the rain, so \[were\] these  at my speech. 
-<small><sub>**KJV:**</sub></small>
-And they waited for me as for the rain; and they opened their mouth wide [as] for the latter rain.
-<small><sub>**BSB:**</sub></small>
-They waited for me as for rain and drank in my words like spring showers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.22|<< Job 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.24|Job 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

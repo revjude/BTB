@@ -1,4 +1,4 @@
-**1 Chronicles 17:3** 
+**1 Chronicles 17:3**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the same night, that the word of God came to Nathan, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But that night the word of God came to Nathan, saying,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.2|<< 1 Chronicles 17:2]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.4|1 Chronicles 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the night  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3915\|לַּ֣יְלָה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

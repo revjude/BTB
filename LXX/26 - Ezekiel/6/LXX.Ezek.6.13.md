@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span> in  your slain being in \[the\] midst  of your idols, round about  your altars, upon every high hill, and on all \[the\] tops of the mountains, and underneath \[every\] shady tree,  underneath every bushy oak, of which they offered there a scent of pleasant aroma to all  their idols. 
-<small><sub>**KJV:**</sub></small>
-Then shall ye know that I [am] the LORD, when their slain [men] shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I am the LORD, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, and under every green tree and leafy oak—the places where they offered fragrant incense to all their idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.12|<< Ezekiel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.14|Ezekiel 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

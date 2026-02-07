@@ -1,4 +1,4 @@
-**Hosea 9:8** 
+**Hosea 9:8**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The watchman of Ephraim [was] with my God: [but] the prophet [is] a snare of a fowler in all his ways, [and] hatred in the house of his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prophet is Ephraim’s watchman, along with my God, yet the snare of the fow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.7|<< Hosea 9:7]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.9|Hosea 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a watchman  |**<big>&#8207;[[H6822\|צֹפֶ֥ה]]&#8207; </big>**| tzo.Peh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

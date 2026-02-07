@@ -1,4 +1,4 @@
-**Proverbs 29:1** 
+**Proverbs 29:1**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He, that being often reproved hardeneth [his] neck, shall suddenly be destroyed, and that without remedy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man who remains stiff-necked after much reproof will suddenly be shattered bey
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.28|<< Proverbs 28:28]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.2|Proverbs 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rebukes  |**<big>&#8207;[[H8433B\|תּ֭וֹכָחוֹת]]&#8207; </big>**| To.kha.chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

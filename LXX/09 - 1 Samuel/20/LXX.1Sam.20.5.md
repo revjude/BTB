@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:5** 
 <small><sub>**LXX:**</sub></small>
 And David said to Jonathan, Behold indeed, \[it is\] a new moon tomorrow, and I in sitting should sit down with the king to eat. And you shall send me, and I shall be hid in the plain until afternoon. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Jonathan, Behold, to morrow [is] the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third [day] at even.
-<small><sub>**BSB:**</sub></small>
-So David told him, “Look, tomorrow is the New Moon, and I am supposed to dine with the king. Instead, let me go and hide in the field until the third evening from now.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.4|<< 1 Samuel 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.6|1 Samuel 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

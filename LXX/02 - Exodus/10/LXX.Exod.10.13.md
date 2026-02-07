@@ -1,10 +1,7 @@
 **LXX Exodus 10:13** 
 <small><sub>**LXX:**</sub></small>
 And Moses stretched out the rod into the heaven, and \[the\] <span class="smallcaps">lord</span> brought \[the\] south wind upon the land that entire day and entire  night. In the morning came the south wind lifting up the locust, 
-<small><sub>**KJV:**</sub></small>
-And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all [that] night; [and] when it was morning, the east wind brought the locusts.
-<small><sub>**BSB:**</sub></small>
-So Moses stretched out his staff over the land of Egypt, and throughout that day and night the LORD sent an east wind across the land. By morning the east wind had brought the locusts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.12|<< Exodus 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.14|Exodus 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

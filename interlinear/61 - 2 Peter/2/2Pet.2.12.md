@@ -1,12 +1,12 @@
-**2 Peter 2:12
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:12**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
 <small><sub>**BSB:**</sub></small>
 These men are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed.
 <small><sub>**Literal:**</sub></small>
 These however like irrational animals they were born as creatures of instinct for capture and destruction, in what they are ignorant of blaspheming in the destruction of them also will be destroyed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.11|<< 2 Peter 2:11]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.13|2 Peter 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

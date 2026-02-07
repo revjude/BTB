@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:26** 
 <small><sub>**LXX:**</sub></small>
 And Joab went from David, and sent messengers after Abner, and they returned him from the well of Sirah; and David did not know. 
-<small><sub>**KJV:**</sub></small>
-And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew [it] not.
-<small><sub>**BSB:**</sub></small>
-As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.25|<< 2 Samuel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.27|2 Samuel 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 22:8** 
 <small><sub>**LXX:**</sub></small>
 But if the \[one\] stealing should not be found, the master of the house shall come forward before  God, and shall swear by an oath \[that\] assuredly he did not do wickedly regarding all that was in deposit for the care of \[his\] neighbor. 
-<small><sub>**KJV:**</sub></small>
-If the thief be not found, then the master of the house shall be brought unto the judges, [to see] whether he have put his hand unto his neighbour’s goods.
-<small><sub>**BSB:**</sub></small>
-If the thief is not found, the owner of the house must appear before the judges to determine whether he has taken his neighbor’s property.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.7|<< Exodus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.9|Exodus 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

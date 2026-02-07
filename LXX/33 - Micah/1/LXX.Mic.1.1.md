@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Micah the one of the Morasthite, in \[the\] days of Jotham, and Ahaz, and Hezekiah, kings of Judah, over what he saw concerning Samaria and concerning Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, [and] Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

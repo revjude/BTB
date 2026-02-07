@@ -1,10 +1,7 @@
 **LXX Isaiah 2:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall judge in the midst of the nations; and he shall completely refute many people. And they shall cut down  their swords into plows, and  their pikes into sickles. And a nation shall not take a sword against a nation, and in no way should they learn yet to wage war. 
-<small><sub>**KJV:**</sub></small>
-And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
-<small><sub>**BSB:**</sub></small>
-Then He will judge between the nations and arbitrate for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor train anymore for war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.3|<< Isaiah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.5|Isaiah 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

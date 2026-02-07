@@ -1,10 +1,7 @@
 **LXX Leviticus 13:18** 
 <small><sub>**LXX:**</sub></small>
 And if flesh should have a lesion in his skin, and should heal, 
-<small><sub>**KJV:**</sub></small>
-The flesh also, in which, [even] in the skin thereof, was a boil, and is healed,
-<small><sub>**BSB:**</sub></small>
-When a boil appears on someone’s skin and it heals,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.17|<< Leviticus 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.19|Leviticus 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

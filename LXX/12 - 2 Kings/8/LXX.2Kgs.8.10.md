@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:10** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to him, Go, say to him, To life you shall live! But \[the\] <span class="smallcaps">lord</span> showed to me that to death he shall die. 
-<small><sub>**KJV:**</sub></small>
-And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die.
-<small><sub>**BSB:**</sub></small>
-Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD has shown me that in fact he will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 34:28** 
 <small><sub>**LXX:**</sub></small>
 And Moses was there before \[the\] <span class="smallcaps">lord</span> forty days and forty nights. Bread he did not eat, and water he did not drink. And he wrote upon the tablets  these words of the covenant -- the ten words. 
-<small><sub>**KJV:**</sub></small>
-And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
-<small><sub>**BSB:**</sub></small>
-So Moses was there with the LORD forty days and forty nights without eating bread or drinking water. He wrote on the tablets the words of the covenant—the Ten Commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.27|<< Exodus 34:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.29|Exodus 34:29 >>]]</td></tr></table>
 
 | Translation | Greek |

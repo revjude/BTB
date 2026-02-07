@@ -1,10 +1,7 @@
 **LXX Jonah 2:5** 
 <small><sub>**LXX:**</sub></small>
 Water was poured about me unto \[the\] soul. \[The\] deep encircled me to \[the\] extreme; my head went down. 
-<small><sub>**KJV:**</sub></small>
-The waters compassed me about, [even] to the soul: the depth closed me round about, the weeds were wrapped about my head.
-<small><sub>**BSB:**</sub></small>
-The waters engulfed me to take my life; the watery depths closed around me; the seaweed wrapped around my head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.4|<< Jonah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.6|Jonah 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

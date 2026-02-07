@@ -1,4 +1,4 @@
-**Isaiah 28:6** 
+**Isaiah 28:6**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for a spirit of judgment to him that sitteth in judgment, and for strength to them that turn the battle to the gate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a spirit of justice to him who sits in judgment, and a strength to those who rep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.5|<< Isaiah 28:5]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.7|Isaiah 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<into> a spirit of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7307G\|ר֖וּחַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֑ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

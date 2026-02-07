@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:2** 
 <small><sub>**LXX:**</sub></small>
 And Amnon was afflicted so as to be ill over Tamar  his sister, for she was a virgin, and it was an enormous \[thing\] in \[the\] eyes of Amnon  to do anything to her. 
-<small><sub>**KJV:**</sub></small>
-And Amnon was so vexed, that he fell sick for his sister Tamar; for she [was] a virgin; and Amnon thought it hard for him to do any thing to her.
-<small><sub>**BSB:**</sub></small>
-Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.1|<< 2 Samuel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.3|2 Samuel 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

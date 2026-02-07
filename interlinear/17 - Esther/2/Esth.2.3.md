@@ -1,4 +1,4 @@
-**Esther 2:3** 
+**Esther 2:3**<big><big>[[Esth.2.1 Seeking Vashti’s Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king’s chamberlain, keeper of the women; and let their things for purification be given [them]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and let the king appoint commissioners in each province of his kingdom to assemb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.2|<< Esther 2:2]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.4|Esther 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let him appoint  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6485J\|יַפְקֵ֨ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yaf.Ked<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

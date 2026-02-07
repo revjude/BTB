@@ -1,12 +1,12 @@
-**Matthew 9:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:9**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.
 <small><sub>**BSB:**</sub></small>
 As Jesus went on from there, He saw a man named Matthew sitting at the tax booth. “Follow Me,” He told him, and Matthew got up and followed Him.
 <small><sub>**Literal:**</sub></small>
 And passing on <the> Jesus from there He saw a man sitting at the tax booth, Matthew named, And He says to him; do follow Me. And having arisen he followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.8|<< Matthew 9:8]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.10|Matthew 9:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | passing on |**<big>[[G3855\|παράγων]]</big>**  |paragōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

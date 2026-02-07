@@ -1,4 +1,4 @@
-**Ezekiel 40:18** 
+**Ezekiel 40:18**<big><big>[[Ezek.40.17 The Outer Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pavement by the side of the gates over against the length of the gates [was] the lower pavement.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ which flanked the gateways and corresponded to the length of the gates; this was
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.17|<< Ezekiel 40:17]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.19|Ezekiel 40:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the pavement  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7531A\|רִֽצְפָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ritz.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

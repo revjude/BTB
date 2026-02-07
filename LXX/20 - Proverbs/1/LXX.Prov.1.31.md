@@ -1,10 +1,7 @@
 **LXX Proverbs 1:31** 
 <small><sub>**LXX:**</sub></small>
 Accordingly they shall eat  the fruits of their own way, and  shall be filled with their own impiety. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall they eat of the fruit of their own way, and be filled with their own devices.
-<small><sub>**BSB:**</sub></small>
-So they will eat the fruit of their own way, and be filled with their own devices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.30|<< Proverbs 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.32|Proverbs 1:32 >>]]</td></tr></table>
 
 | Translation | Greek |

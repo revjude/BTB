@@ -1,12 +1,12 @@
-**Luke 24:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:10**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It was Mary Magdalene, and Joanna, and Mary [the mother] of James, and other [women that were] with them, which told these things unto the apostles.
 <small><sub>**BSB:**</sub></small>
 It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.
 <small><sub>**Literal:**</sub></small>
 It was now <the> Magdalene Mary and Joanna and Mary the [mother] of James and the other women with them; who were telling to the apostles these things,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.9|<< Luke 24:9]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.11|Luke 24:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

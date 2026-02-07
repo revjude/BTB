@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:41** 
 <small><sub>**LXX:**</sub></small>
 Kerioth was taken, and the fortresses were seized. And the heart of the might of Moab shall be in  that day as \[the\] heart of a woman in travail. 
-<small><sub>**KJV:**</sub></small>
-Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
-<small><sub>**BSB:**</sub></small>
-Kirioth has been taken, and the strongholds seized. In that day the heart of Moab’s warriors will be like the heart of a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.40|<< Jeremiah 48:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.42|Jeremiah 48:42 >>]]</td></tr></table>
 
 | Translation | Greek |

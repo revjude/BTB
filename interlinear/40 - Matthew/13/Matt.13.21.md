@@ -1,12 +1,12 @@
-**Matthew 13:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:21**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
 <small><sub>**BSB:**</sub></small>
 But since he has no root, he remains for only a season. When trouble or persecution comes because of the word, he quickly falls away.
 <small><sub>**Literal:**</sub></small>
 no he has now root in himself but temporary is. when is coming however tribulation or persecution on account of the word immediately he falls away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.20|<< Matthew 13:20]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.22|Matthew 13:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he has |**<big>[[G2192\|ἔχει]]</big>**  |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:13** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> your God place you as head, and not as \[the\] tail; and you will be then above, and you will not be underneath, if you should hearken to the commandments of \[the\] <span class="smallcaps">lord</span>  your God, as many as I give charge to you today, to guard and to observe. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do [them]:
-<small><sub>**BSB:**</sub></small>
-The LORD will make you the head and not the tail; you will only move upward and never downward, if you hear and carefully follow the commandments of the LORD your God, which I am giving you today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.12|<< Deuteronomy 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.14|Deuteronomy 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

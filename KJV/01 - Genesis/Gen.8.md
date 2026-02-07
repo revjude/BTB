@@ -1,16 +1,16 @@
 (KJV) **Genesis 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7|<< Genesis 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9|Genesis 9 >>]]</td></tr></table>
 
-***The Ark Rests on Ararat*** ^bsb25
+<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥃]]</big></big>***The Ark Rests on Ararat***
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.8.1|1]]**<span class="endversemarker">]</span> And God remembered<small><small>[^2]</small></small> Noah, and every living thing, and all the cattle<small><small>[^3]</small></small> that \[was\] with him in the ark: and God made a wind<small><small>[^4]</small></small> to pass over the earth, and the waters asswaged; <span class="startversemarker">[</span>**[[Gen.8.2|2]]**<span class="endversemarker">]</span> The fountains<small><small>[^5]</small></small> also of the deep and the windows of heaven were stopped, and the rain<small><small>[^6]</small></small> from heaven was restrained; <span class="startversemarker">[</span>**[[Gen.8.3|3]]**<span class="endversemarker">]</span> And the waters returned from off the earth continually<small><small>[^7]</small></small>: and after the end of the hundred<small><small>[^8]</small></small> and fifty days the waters were abated. <span class="startversemarker">[</span>**[[Gen.8.4|4]]**<span class="endversemarker">]</span> And the ark<small><small>[^9]</small></small> rested in the seventh month<small><small>[^10]</small></small>, on the seventeenth day of the month, upon the mountains of Ararat<small><small>[^11]</small></small>. <span class="startversemarker">[</span>**[[Gen.8.5|5]]**<span class="endversemarker">]</span> And the waters decreased continually<small><small>[^12]</small></small> until the tenth month: in the tenth \[month\], on the first \[day\] of the month, were the tops of the mountains seen.
 
-***Noah Sends a Raven and a Dove*** ^bsb26
+<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥃]]</big></big>***Noah Sends a Raven and a Dove***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.8.6|6]]**<span class="endversemarker">]</span> And it came to pass at the end of forty days, that Noah opened the window<small><small>[^13]</small></small> of the ark which he had made: <span class="startversemarker">[</span>**[[Gen.8.7|7]]**<span class="endversemarker">]</span> And he sent forth a raven<small><small>[^14]</small></small>, which went forth to and fro<small><small>[^15]</small></small>, until the waters were dried up from off the earth. <span class="startversemarker">[</span>**[[Gen.8.8|8]]**<span class="endversemarker">]</span> Also he sent forth a dove<small><small>[^16]</small></small> from him, to see if the waters were abated from off the face of the ground; <span class="startversemarker">[</span>**[[Gen.8.9|9]]**<span class="endversemarker">]</span> But the dove found<small><small>[^17]</small></small> no rest for the sole of her foot, and she<small><small>[^18]</small></small> returned unto him into the ark, for the waters \[were\] on the face of the whole earth: then he put forth his hand, and took her, and pulled her<small><small>[^19]</small></small> in unto him into the ark. <span class="startversemarker">[</span>**[[Gen.8.10|10]]**<span class="endversemarker">]</span> And he stayed<small><small>[^20]</small></small> yet other seven<small><small>[^21]</small></small> days; and again he sent forth the dove out of the ark; <span class="startversemarker">[</span>**[[Gen.8.11|11]]**<span class="endversemarker">]</span> And the dove came in to him in the evening; and, lo, in her mouth \[was\] an olive<small><small>[^22]</small></small> leaf pluckt off: so Noah knew that the waters were abated from off the earth. <span class="startversemarker">[</span>**[[Gen.8.12|12]]**<span class="endversemarker">]</span> And he<small><small>[^23]</small></small> stayed yet other seven<small><small>[^24]</small></small> days; and sent forth the dove; which returned not again unto him any more.
 
-***Exiting the Ark*** ^bsb27
+<big><big>[[Gen.8.13 Exiting the Ark|⥃]]</big></big>***Exiting the Ark***
 
  
 
@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.8.13|13]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.8.15|15]]**<span class="endversemarker">]</span> And God spake unto Noah, saying, <span class="startversemarker">[</span>**[[Gen.8.16|16]]**<span class="endversemarker">]</span> Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.<small><small>[^28]</small></small> <span class="startversemarker">[</span>**[[Gen.8.17|17]]**<span class="endversemarker">]</span> Bring<small><small>[^29]</small></small> forth with thee every living thing that \[is\] with thee, of all flesh, \[both\] of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed<small><small>[^30]</small></small> abundantly in the earth, and be fruitful, and multiply upon the earth. <span class="startversemarker">[</span>**[[Gen.8.18|18]]**<span class="endversemarker">]</span> And Noah went forth, and his sons, and his wife, and his sons’ wives with him:<small><small>[^31]</small></small> <span class="startversemarker">[</span>**[[Gen.8.19|19]]**<span class="endversemarker">]</span> Every beast, every creeping thing, and every fowl, \[and\] whatsoever creepeth upon the earth, after their kinds<small><small>[^32]</small></small>, went forth out of the ark.
 
-***Noah Builds an Altar*** ^bsb28
+<big><big>[[Gen.8.20 Noah Builds an Altar|⥃]]</big></big>***Noah Builds an Altar***
 
  
 

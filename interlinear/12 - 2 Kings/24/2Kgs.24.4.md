@@ -1,4 +1,4 @@
-**2 Kings 24:4** 
+**2 Kings 24:4**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and also for the innocent blood he had shed. For he had filled Jerusalem with in
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.3|<< 2 Kings 24:3]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.5|2 Kings 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] blood of  |**<big>&#8207;[[H1818\|דַּֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

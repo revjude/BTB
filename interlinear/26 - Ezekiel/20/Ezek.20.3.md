@@ -1,4 +1,4 @@
-**Ezekiel 20:3** 
+**Ezekiel 20:3**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to inquire of me? [As] I live, saith the Lord GOD, I will not be inquired of by you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, speak unto the elders of Israel, and say unto them, Thus saith the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.2|<< Ezekiel 20:2]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.4|Ezekiel 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

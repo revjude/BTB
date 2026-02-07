@@ -1,4 +1,4 @@
-**Ezekiel 38:22** 
+**Ezekiel 38:22**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that [are] with him, an overflowing rain, and great hailstones, fire, and brimstone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will execute judgment upon him with plague and bloodshed. I will pour out torr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.21|<< Ezekiel 38:21]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.23|Ezekiel 38:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will enter into judgment  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|נִשְׁפַּטְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.pa.Ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H0854\|אִתּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'i.T<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

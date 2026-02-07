@@ -1,5 +1,5 @@
-**James 1:19
-**<small><sub>**KJV:**</sub></small>
+**James 1:19**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 <small><sub>**BSB:**</sub></small>
 My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger,
@@ -10,7 +10,7 @@ You should know brothers of mine beloved; should be however every man swift unto
 > $\quad$ possibly alluding to: [[LXX.Prov.17.27|Prov 17:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You should know [^1] [^2] |**<big>[[G6063\|Ἴστε,]]</big>**  |Iste <small><sup>[[V-RAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

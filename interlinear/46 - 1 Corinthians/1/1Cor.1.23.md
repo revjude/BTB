@@ -1,12 +1,12 @@
-**1 Corinthians 1:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:23**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;
 <small><sub>**BSB:**</sub></small>
 but we preach Christ crucified, a stumbling block to Jews and foolishness to Gentiles,
 <small><sub>**Literal:**</sub></small>
 we ourselves however preach Christ crucified, to [the] Jews indeed a stumbling block to Gentiles however foolishness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.22|<< 1 Corinthians 1:22]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.24|1 Corinthians 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

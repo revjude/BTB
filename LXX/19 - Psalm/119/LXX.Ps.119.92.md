@@ -1,10 +1,7 @@
 **LXX Psalm 119:92** 
 <small><sub>**LXX:**</sub></small>
 Were it not that  your law is my meditation, then would I have been destroyed in  my humiliation. 
-<small><sub>**KJV:**</sub></small>
-Unless thy law [had been] my delights, I should then have perished in mine affliction.
-<small><sub>**BSB:**</sub></small>
-If Your law had not been my delight, then I would have perished in my affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.92|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.91|<< Psalm 119:91]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.93|Psalm 119:93 >>]]</td></tr></table>
 
 | Translation | Greek |

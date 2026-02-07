@@ -1,4 +1,4 @@
-**Proverbs 19:11** 
+**Proverbs 19:11**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The discretion of a man deferreth his anger; and [it is] his glory to pass over a transgression.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man’s insight gives him patience, and his virtue is to overlook an offense.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.10|<< Proverbs 19:10]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.12|Proverbs 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] prudence of  |**<big>&#8207;[[H7922\|שֵׂ֣כֶל]]&#8207; </big>**| Se.khel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Peter 3:16
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:16**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As also in all [his] epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as [they do] also the other scriptures, unto their own destruction.
 <small><sub>**BSB:**</sub></small>
 He writes this way in all his letters, speaking in them about such matters. Some parts of his letters are hard to understand, which ignorant and unstable people distort, as they do the rest of the Scriptures, to their own destruction.
 <small><sub>**Literal:**</sub></small>
 as also in all the letters speaking in them concerning these things; among which [letters] are difficult to be understood some things, which the ignorant and unestablished distort as also the other Scriptures to the own of them destruction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.15|<< 2 Peter 3:15]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.17|2 Peter 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

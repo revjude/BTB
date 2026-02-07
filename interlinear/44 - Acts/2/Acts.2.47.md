@@ -1,12 +1,12 @@
-**Acts 2:47
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:47**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 <small><sub>**BSB:**</sub></small>
 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.
 <small><sub>**Literal:**</sub></small>
 praising <the> God and having favor with all the people. <the> And the Lord was adding those who were being saved every day to <the> them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.46|<< Acts 2:46]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.1|Acts 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praising |**<big>[[G0134\|αἰνοῦντες]]</big>**  |ainountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

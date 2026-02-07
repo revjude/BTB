@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:20** 
 <small><sub>**LXX:**</sub></small>
 Ascend unto  Lebanon, and cry out! And give out your voice unto Bashan, and yell unto the end of the sea! for all your lovers were defeated. 
-<small><sub>**KJV:**</sub></small>
-Go up to Lebanon, and cry; and lift up thy voice in Bashan, and cry from the passages: for all thy lovers are destroyed.
-<small><sub>**BSB:**</sub></small>
-Go up to Lebanon and cry out; raise your voice in Bashan; cry out from Abarim, for all your lovers have been crushed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.19|<< Jeremiah 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.21|Jeremiah 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

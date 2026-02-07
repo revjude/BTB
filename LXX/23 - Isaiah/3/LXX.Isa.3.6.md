@@ -1,10 +1,7 @@
 **LXX Isaiah 3:6** 
 <small><sub>**LXX:**</sub></small>
 For a man shall take hold of  his brother, or  a member of the family  of his father, saying, You have a garment, you become our chief; and  be my food \[needs\] under you! 
-<small><sub>**KJV:**</sub></small>
-When a man shall take hold of his brother of the house of his father, [saying], Thou hast clothing, be thou our ruler, and [let] this ruin [be] under thy hand:
-<small><sub>**BSB:**</sub></small>
-A man will seize his brother within his father’s house: “You have a cloak—you be our leader! Take charge of this heap of rubble.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.5|<< Isaiah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.7|Isaiah 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

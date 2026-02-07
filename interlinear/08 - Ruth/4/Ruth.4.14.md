@@ -1,4 +1,4 @@
-**Ruth 4:14** 
+**Ruth 4:14**<big><big>[[Ruth.4.13 Boaz Marries Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the women said unto Naomi, Blessed [be] the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the women said to Naomi, “Blessed be the LORD, who has not left you this 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.13|<< Ruth 4:13]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.15|Ruth 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמַ֤רְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Mar.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the women  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0802G\|נָּשִׁים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

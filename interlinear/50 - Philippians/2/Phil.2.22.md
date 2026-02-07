@@ -1,12 +1,12 @@
-**Philippians 2:22
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:22**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.
 <small><sub>**BSB:**</sub></small>
 But you know Timothy’s proven worth, that as a child with his father he has served with me to advance the gospel.
 <small><sub>**Literal:**</sub></small>
 <the> But the proven worth of him you know, that as a father [with] a child with me myself he has served in the gospel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.21|<< Philippians 2:21]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.23|Philippians 2:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

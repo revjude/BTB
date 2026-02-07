@@ -1,12 +1,12 @@
-**James 2:24
-**<small><sub>**KJV:**</sub></small>
+**James 2:24**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye see then how that by works a man is justified, and not by faith only.
 <small><sub>**BSB:**</sub></small>
 As you can see, a man is justified by his deeds and not by faith alone.
 <small><sub>**Literal:**</sub></small>
 You see therefore that by works is justified a man and not by faith alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.23|<< James 2:23]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.25|James 2:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You see |**<big>[[G3708\|ὁρᾶτε]]</big>**  |horate <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G5106\|τοίνυν]]</big>**  |toinun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

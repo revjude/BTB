@@ -6,10 +6,7 @@ To the director; for the wine vats; a psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 Exult  to God  our helper! Shout to the God of Jacob! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Gittith, [A Psalm] of Asaph. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. According to Gittith. Of Asaph. Sing for joy to God our strength; make a joyful noise to the God of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.19|<< Psalm 80:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.2|Psalm 81:2 >>]]</td></tr></table>
 
 | Translation | Greek |

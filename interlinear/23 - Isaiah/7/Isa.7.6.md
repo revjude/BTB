@@ -1,4 +1,4 @@
-**Isaiah 7:6** 
+**Isaiah 7:6**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, [even] the son of Tabeal:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let us go up against Judah, and vex it, and let us make a breach therein for us,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.5|<< Isaiah 7:5]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.7|Isaiah 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us go up  |**<big>&#8207;[[H5927G\|נַעֲלֶ֤ה]]&#8207; </big>**| na.'a.Leh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on Judah  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָה֙]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

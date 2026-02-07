@@ -1,10 +1,7 @@
 **LXX Isaiah 22:2** 
 <small><sub>**LXX:**</sub></small>
 the city was filled up of ones yelling.  Your slain are not slain ones by swords, nor  your dead dead ones by war. 
-<small><sub>**KJV:**</sub></small>
-Thou that art full of stirs, a tumultuous city, a joyous city: thy slain [men are] not slain with the sword, nor dead in battle.
-<small><sub>**BSB:**</sub></small>
-O city of commotion, O town of revelry? Your slain did not die by the sword, nor were they killed in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.1|<< Isaiah 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.3|Isaiah 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

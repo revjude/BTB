@@ -1,12 +1,12 @@
-**Ephesians 5:4
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:4**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
 <small><sub>**BSB:**</sub></small>
 Nor should there be obscenity, foolish talk, or crude joking, which are out of character, but rather thanksgiving.
 <small><sub>**Literal:**</sub></small>
 and filthiness and foolish talking or crude joking which not were fit but rather thanksgiving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.3|<< Ephesians 5:3]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.5|Ephesians 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | filthiness |**<big>[[G0151\|αἰσχρότης]]</big>**  |aischrotēs <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

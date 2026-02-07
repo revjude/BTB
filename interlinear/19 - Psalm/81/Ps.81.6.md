@@ -1,4 +1,4 @@
-**Psalms 81:6** (81:7)
+**Psalms 81:6**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I removed his shoulder from the burden: his hands were delivered from the pots.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I removed his shoulder from the burden: his hands were delivered from the pots.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.5|<< Psalms 81:5]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.7|Psalms 81:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I removed  |**<big>&#8207;[[H5493G\|הֲסִיר֣וֹתִי]]&#8207; </big>**| ha.si.Ro.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a burden  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5447\|סֵּ֣בֶל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Se.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

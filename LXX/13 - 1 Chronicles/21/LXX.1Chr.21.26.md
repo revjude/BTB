@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:26** 
 <small><sub>**LXX:**</sub></small>
 And David built there an altar \[to the\] <span class="smallcaps">lord</span>. And he offered whole burnt-offerings, and a deliverance \[offering\], and he yelled to \[the\] <span class="smallcaps">lord</span>. And he heeded him by fire from out of the heaven on the altar of the whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
-<small><sub>**BSB:**</sub></small>
-And there he built an altar to the LORD and offered burnt offerings and peace offerings. He called upon the LORD, who answered him with fire from heaven on the altar of burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.25|<< 1 Chronicles 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.27|1 Chronicles 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

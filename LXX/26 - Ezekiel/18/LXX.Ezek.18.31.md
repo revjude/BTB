@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:31** 
 <small><sub>**LXX:**</sub></small>
 Throw away from yourself all  your impiety which you were impious against me, and make to yourself a new heart and a new spirit! And why do you die, O house of Israel? 
-<small><sub>**KJV:**</sub></small>
-Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
-<small><sub>**BSB:**</sub></small>
-Cast away from yourselves all the transgressions you have committed, and fashion for yourselves a new heart and a new spirit. Why should you die, O house of Israel?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.30|<< Ezekiel 18:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.32|Ezekiel 18:32 >>]]</td></tr></table>
 
 | Translation | Greek |

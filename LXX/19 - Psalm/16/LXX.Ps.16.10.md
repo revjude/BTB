@@ -1,10 +1,7 @@
 **LXX Psalm 16:10** 
 <small><sub>**LXX:**</sub></small>
 For you shall not abandon  my soul in Hades, nor shall you give  your sacred one to see corruption. 
-<small><sub>**KJV:**</sub></small>
-For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
-<small><sub>**BSB:**</sub></small>
-For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.9|<< Psalm 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.11|Psalm 16:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 16:10** is...

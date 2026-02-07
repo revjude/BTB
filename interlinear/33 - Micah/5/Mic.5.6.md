@@ -1,4 +1,4 @@
-**Micah 5:6** (5:5)
+**Micah 5:6**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver [us] from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will rule the land of Assyria with the sword, and the land of Nimrod wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.5|<< Micah 5:5]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.7|Micah 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will shepherd  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7462B\|רָע֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

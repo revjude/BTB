@@ -1,4 +1,4 @@
-**Psalms 132:14** 
+**Psalms 132:14**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] my rest for ever: here will I dwell; for I have desired it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This [is] my rest for ever: here will I dwell; for I have desired it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.13|<< Psalms 132:13]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.15|Psalms 132:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹאת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zot-<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] resting place my  |**<big>&#8207;[[H4496H\|מְנוּחָתִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.nu.cha.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

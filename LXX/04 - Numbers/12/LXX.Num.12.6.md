@@ -1,10 +1,7 @@
 **LXX Numbers 12:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Hear  my words. If there should be a prophet among you \[to the\] <span class="smallcaps">lord</span>, I will be made known to him in a vision, and in sleep I will speak to him. 
-<small><sub>**KJV:**</sub></small>
-And he said, Hear now my words: If there be a prophet among you, [I] the LORD will make myself known unto him in a vision, [and] will speak unto him in a dream.
-<small><sub>**BSB:**</sub></small>
-He said, “Hear now My words: If there is a prophet among you, I, the LORD, will reveal Myself to him in a vision; I will speak to him in a dream.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.5|<< Numbers 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.7|Numbers 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

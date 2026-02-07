@@ -1,12 +1,12 @@
-**John 17:11
-**<small><sub>**KJV:**</sub></small>
+**John 17:11**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we [are].
 <small><sub>**BSB:**</sub></small>
 I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one.
 <small><sub>**Literal:**</sub></small>
 And no longer I am in the world, and yet themselves in the world they are, and I myself to You am coming. Father Holy, do keep them in the name of You which [name] You have given to Me that they may be one even as also we ourselves [are].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.10|<< John 17:10]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.12|John 17:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no longer |**<big>[[G3756\|οὐκέτι]]</big>**  |ouketi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

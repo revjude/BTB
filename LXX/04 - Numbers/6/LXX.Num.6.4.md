@@ -1,10 +1,7 @@
 **LXX Numbers 6:4** 
 <small><sub>**LXX:**</sub></small>
 All the days  of his vow, from all as many \[things\] as come from \[the\] grapevine, wine, from dregs unto grape-stone, he shall not eat. 
-<small><sub>**KJV:**</sub></small>
-All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.
-<small><sub>**BSB:**</sub></small>
-All the days of his separation, he is not to eat anything that comes from the grapevine, not even the seeds or skins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.3|<< Numbers 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.5|Numbers 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

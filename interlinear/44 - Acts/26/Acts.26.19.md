@@ -1,12 +1,12 @@
-**Acts 26:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:19**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:
 <small><sub>**BSB:**</sub></small>
 So then, King Agrippa, I was not disobedient to the heavenly vision.
 <small><sub>**Literal:**</sub></small>
 So then, O king Agrippa, not I was disobedient to the heavenly vision,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.18|<< Acts 26:18]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.20|Acts 26:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So then, |**<big>[[G3606\|Ὅθεν,]]</big>**  |Hothen <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | O king |**<big>[[G0935\|βασιλεῦ]]</big>**  |basileu <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

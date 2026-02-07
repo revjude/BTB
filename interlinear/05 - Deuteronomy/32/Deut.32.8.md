@@ -1,4 +1,4 @@
-**Deuteronomy 32:8** 
+**Deuteronomy 32:8**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Most High gave the nations their inheritance, when He divided the sons 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.7|<< Deuteronomy 32:7]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.9|Deuteronomy 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when gave inheritances to  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5157\|הַנְחֵ֤ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> han.Chel<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Most High  |**<big>&#8207;[[H5945B\|עֶלְיוֹן֙]]&#8207; </big>**| 'el.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

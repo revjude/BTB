@@ -1,4 +1,4 @@
-**1 Kings 10:5** 
+**1 Kings 10:5**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the LORD; there was no more spirit in her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the food at his table, the seating of his servants, the service and attire of hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.4|<< 1 Kings 10:4]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.6|1 Kings 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] food of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3978\|מַאֲכַ֣ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Khal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | table his  |**<big>&#8207;[[H7979\|שֻׁלְחָנ֡]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| shul.cha.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

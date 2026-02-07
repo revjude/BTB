@@ -1,4 +1,4 @@
-**2 Chronicles 36:18** 
+**2 Chronicles 36:18**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all [these] he brought to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who carried off everything to Babylon—all the articles of the house of God, bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.17|<< 2 Chronicles 36:17]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.19|2 Chronicles 36:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H3605\|כֹל]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] articles of  |**<big>&#8207;[[H3627\|כְּלֵ֞י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

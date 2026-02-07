@@ -1,10 +1,7 @@
 **LXX Psalm 106:13** 
 <small><sub>**LXX:**</sub></small>
 They hastened; they forgot  his works; they did not wait  for his counsel. 
-<small><sub>**KJV:**</sub></small>
-They soon forgat his works; they waited not for his counsel:
-<small><sub>**BSB:**</sub></small>
-Yet they soon forgot His works and failed to wait for His counsel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.12|<< Psalm 106:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.14|Psalm 106:14 >>]]</td></tr></table>
 
 | Translation | Greek |

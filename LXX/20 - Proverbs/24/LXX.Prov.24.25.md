@@ -1,10 +1,7 @@
 **LXX Proverbs 24:25** 
 <small><sub>**LXX:**</sub></small>
 But the ones reproving shall appear \[the\] best, and a good blessing shall come upon them; 
-<small><sub>**KJV:**</sub></small>
-But to them that rebuke [him] shall be delight, and a good blessing shall come upon them.
-<small><sub>**BSB:**</sub></small>
-but it will go well with those who convict the guilty, and rich blessing will come upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.24|<< Proverbs 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.26|Proverbs 24:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:15** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said to Joseph, I have seen a dream, and  there is not \[one\] interpreting it. But I have heard concerning you, saying, In your hearing dreams \[you\] interpret them. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that can interpret it: and I have heard say of thee, [that] thou canst understand a dream to interpret it.
-<small><sub>**BSB:**</sub></small>
-Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.14|<< Genesis 41:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.16|Genesis 41:16 >>]]</td></tr></table>
 
 | Translation | Greek |

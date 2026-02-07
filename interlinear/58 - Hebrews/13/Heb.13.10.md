@@ -1,12 +1,12 @@
-**Hebrews 13:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:10**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We have an altar, whereof they have no right to eat which serve the tabernacle.
 <small><sub>**BSB:**</sub></small>
 We have an altar from which those who serve at the tabernacle have no right to eat.
 <small><sub>**Literal:**</sub></small>
 We have an altar from which to eat not they have authority those in the tabernacle serving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.9|<< Hebrews 13:9]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.11|Hebrews 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We have |**<big>[[G2192\|ἔχομεν]]</big>**  |echomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an altar |**<big>[[G2379\|θυσιαστήριον]]</big>**  |thusiastērion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

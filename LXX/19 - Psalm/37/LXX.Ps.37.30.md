@@ -1,10 +1,7 @@
 **LXX Psalm 37:30** 
 <small><sub>**LXX:**</sub></small>
 \[The\] mouth of \[the\] just shall meditate upon wisdom, and  his tongue shall speak equity. 
-<small><sub>**KJV:**</sub></small>
-The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
-<small><sub>**BSB:**</sub></small>
-The mouth of the righteous man utters wisdom, and his tongue speaks justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.29|<< Psalm 37:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.31|Psalm 37:31 >>]]</td></tr></table>
 
 | Translation | Greek |

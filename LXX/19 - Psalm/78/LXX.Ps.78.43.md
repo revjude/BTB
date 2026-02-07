@@ -1,10 +1,7 @@
 **LXX Psalm 78:43** 
 <small><sub>**LXX:**</sub></small>
 \[or\] how he made his signs in Egypt, and  his miracles in \[the\] plain of Tanis; 
-<small><sub>**KJV:**</sub></small>
-How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
-<small><sub>**BSB:**</sub></small>
-when He performed His signs in Egypt and His wonders in the fields of Zoan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.42|<< Psalm 78:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.44|Psalm 78:44 >>]]</td></tr></table>
 
 | Translation | Greek |

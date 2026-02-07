@@ -1,4 +1,4 @@
-**Daniel 10:6** 
+**Daniel 10:6**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His body also [was] like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ His body was like beryl, his face like the brilliance of lightning, his eyes lik
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]] ☩ [[Rev.19.12|Rev 19:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and body his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1472\|גְוִיָּת֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.vi.ya.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] like topaz  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H8658\|תַרְשִׁ֗ישׁ]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> tar.Shish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

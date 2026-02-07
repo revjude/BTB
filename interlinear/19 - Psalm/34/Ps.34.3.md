@@ -1,4 +1,4 @@
-**Psalms 34:3** (34:4)
+**Psalms 34:3**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O magnify the LORD with me, and let us exalt his name together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Magnify the LORD with me; let us exalt His name together.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.2|<< Psalms 34:2]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.4|Psalms 34:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | magnify  |**<big>&#8207;[[H1431\|גַּדְּל֣וּ]]&#8207; </big>**| ga.de.Lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

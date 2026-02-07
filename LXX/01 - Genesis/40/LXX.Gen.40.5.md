@@ -1,10 +1,7 @@
 **LXX Genesis 40:5** 
 <small><sub>**LXX:**</sub></small>
 And both saw a dream in one night. And the vision of the dream of the chief wine taster and \[the\] chief baker, the ones who were \[in service\] to the king of Egypt, the \[ones\] being in the jail, was this. 
-<small><sub>**KJV:**</sub></small>
-And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which [were] bound in the prison.
-<small><sub>**BSB:**</sub></small>
-both of these men—the Egyptian king’s cupbearer and baker, who were being held in the prison—had a dream on the same night, and each dream had its own meaning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.4|<< Genesis 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.6|Genesis 40:6 >>]]</td></tr></table>
 
 | Translation | Greek |

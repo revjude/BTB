@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:12** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> judge between me and you, and \[the\] <span class="smallcaps">lord</span> render justice to me because of you. But my hand will not be against you. 
-<small><sub>**KJV:**</sub></small>
-The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee.
-<small><sub>**BSB:**</sub></small>
-May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.11|<< 1 Samuel 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.13|1 Samuel 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

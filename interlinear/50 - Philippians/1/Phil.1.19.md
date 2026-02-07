@@ -1,5 +1,5 @@
-**Philippians 1:19
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:19**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 because I know that through your prayers and the provision of the Spirit of Jesus Christ, my distress will turn out for my deliverance.
@@ -10,7 +10,7 @@ I know for that this for me will turn out to deliverance through <the> your pray
 > $\quad$ alluding to: [[LXX.Job.13.16|Job 13:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

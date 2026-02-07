@@ -1,4 +1,4 @@
-**Leviticus 11:43** 
+**Leviticus 11:43**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not defile yourselves by any crawling creature; do not become unclean or defi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.42|<< Leviticus 11:42]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.44|Leviticus 11:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you make detestable  |**<big>&#8207;[[H8262\|תְּשַׁקְּצוּ֙]]&#8207; </big>**| te.sha.ke.Tzu<small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

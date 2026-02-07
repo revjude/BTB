@@ -1,10 +1,7 @@
 **LXX Micah 2:11** 
 <small><sub>**LXX:**</sub></small>
 You were pursued by no one pursuing. \[Your\] spirit established lying, it trickled you with wine and for strong drink; and it will be from the drop  of this people. 
-<small><sub>**KJV:**</sub></small>
-If a man walking in the spirit and falsehood do lie, [saying], I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
-<small><sub>**BSB:**</sub></small>
-If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,” he would be just the preacher for this people!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.10|<< Micah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.12|Micah 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

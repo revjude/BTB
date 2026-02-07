@@ -1,10 +1,7 @@
 **LXX Psalm 137:5** 
 <small><sub>**LXX:**</sub></small>
 If I should forget you, O Jerusalem, my right \[hand\] be forgotten. 
-<small><sub>**KJV:**</sub></small>
-If I forget thee, O Jerusalem, let my right hand forget [her cunning].
-<small><sub>**BSB:**</sub></small>
-If I forget you, O Jerusalem, may my right hand cease to function.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.137.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.4|<< Psalm 137:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.6|Psalm 137:6 >>]]</td></tr></table>
 
 | Translation | Greek |

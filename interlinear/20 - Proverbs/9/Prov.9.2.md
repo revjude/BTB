@@ -1,4 +1,4 @@
-**Proverbs 9:2** 
+**Proverbs 9:2**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She has prepared her meat and mixed her wine; she has also set her table.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.1|<< Proverbs 9:1]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.3|Proverbs 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she has slaughtered  |**<big>&#8207;[[H2873\|טָבְחָ֣ה]]&#8207; </big>**| ta.ve.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | slaughtering her  |**<big>&#8207;[[H2874\|טִ֭בְחָ]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| Tiv.cha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

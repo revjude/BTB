@@ -1,10 +1,7 @@
 **LXX Daniel 11:2** 
 <small><sub>**LXX:**</sub></small>
 And now I shall announce truth to you, Behold, still three kings shall arise in  Persia; and the fourth shall be rich in great riches, more than all. And after  his prevailing  by his riches, he shall rise up against all \[the\] kingdoms of \[the\] Greeks. 
-<small><sub>**KJV:**</sub></small>
-And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than [they] all: and by his strength through his riches he shall stir up all against the realm of Grecia.
-<small><sub>**BSB:**</sub></small>
-Now then, I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. By the power of his wealth, he will stir up everyone against the kingdom of Greece.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.1|<< Daniel 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.3|Daniel 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

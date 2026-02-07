@@ -1,4 +1,4 @@
-**Proverbs 19:28** 
+**Proverbs 19:28**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A corrupt witness mocks justice, and a wicked mouth swallows iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.27|<< Proverbs 19:27]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.29|Proverbs 19:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a witness of  |**<big>&#8207;[[H5707\|עֵ֣ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worthlessness  |**<big>&#8207;[[H1100I\|בְּ֭לִיַּעַל]]&#8207; </big>**| Be.li.ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 49:19** (49:20)
+**Psalms 49:19**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall go to the generation of his fathers; they shall never see light.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he will join the generation of his fathers, who will never see the light of day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.18|<< Psalms 49:18]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.20|Psalms 49:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will go  |**<big>&#8207;[[H0935G\|תָּ֭בוֹא]]&#8207; </big>**| Ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

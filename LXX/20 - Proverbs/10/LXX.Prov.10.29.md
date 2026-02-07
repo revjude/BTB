@@ -1,10 +1,7 @@
 **LXX Proverbs 10:29** 
 <small><sub>**LXX:**</sub></small>
 \[The\] fear \[of the\] <span class="smallcaps">lord</span> is \[the\] fortress of \[the\] sacred; but destruction to the ones working evils. 
-<small><sub>**KJV:**</sub></small>
-The way of the LORD [is] strength to the upright: but destruction [shall be] to the workers of iniquity.
-<small><sub>**BSB:**</sub></small>
-The way of the LORD is a refuge to the upright, but destruction awaits those who do evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.28|<< Proverbs 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.30|Proverbs 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

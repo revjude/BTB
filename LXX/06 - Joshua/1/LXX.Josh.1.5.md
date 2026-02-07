@@ -1,10 +1,7 @@
 **LXX Joshua 1:5** 
 <small><sub>**LXX:**</sub></small>
 A man shall not withstand before you all the days  of your life. And as I was with Moses, so I will be also with you, and I will not abandon you, nor will I neglect you. 
-<small><sub>**KJV:**</sub></small>
-There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, [so] I will be with thee: I will not fail thee, nor forsake thee.
-<small><sub>**BSB:**</sub></small>
-No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.4|<< Joshua 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.6|Joshua 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 1:5** is...

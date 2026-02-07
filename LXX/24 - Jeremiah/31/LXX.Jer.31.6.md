@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:6** 
 <small><sub>**LXX:**</sub></small>
 For it is \[the\] day of calling, of ones pleading on \[the\] mountains of Ephraim, \[saying\], Rise up, and ascend in Zion to \[the\] <span class="smallcaps">lord</span>  your God! 
-<small><sub>**KJV:**</sub></small>
-For there shall be a day, [that] the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.
-<small><sub>**BSB:**</sub></small>
-For there will be a day when watchmen will call out on the hills of Ephraim, ‘Arise, let us go up to Zion, to the LORD our God!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

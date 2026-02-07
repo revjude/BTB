@@ -1,12 +1,12 @@
-**1 Thessalonians 4:15
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:15**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this we say unto you by the word of the Lord, that we which are alive [and] remain unto the coming of the Lord shall not prevent them which are asleep.
 <small><sub>**BSB:**</sub></small>
 By the word of the Lord, we declare to you that we who are alive and remain until the coming of the Lord will by no means precede those who have fallen asleep.
 <small><sub>**Literal:**</sub></small>
 This for to you we declare in [the] word of [the] Lord that we ourselves the living who are remaining untill the coming of the Lord certainly not may precede those having fallen asleep;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.14|<< 1 Thessalonians 4:14]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.16|1 Thessalonians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

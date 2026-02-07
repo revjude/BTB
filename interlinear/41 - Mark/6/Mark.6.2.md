@@ -1,12 +1,12 @@
-**Mark 6:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:2**<big><big>[[Mark.6.1 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the sabbath day was come, he began to teach in the synagogue: and many hearing [him] were astonished, saying, From whence hath this [man] these things? and what wisdom [is] this which is given unto him, that even such mighty works are wrought by his hands?
 <small><sub>**BSB:**</sub></small>
 When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. “Where did this man get these ideas?” they asked. “What is this wisdom He has been given? And how can He perform such miracles?
 <small><sub>**Literal:**</sub></small>
 And when was becoming [the] Sabbath He began to teach in the synagogue; and <the> many hearing were astonished saying; From where to this [man] these things, and what [is] the wisdom which having been given to Him for even the miracles such through the hands of Him are done?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.1|<< Mark 6:1]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.3|Mark 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was becoming |**<big>[[G1096\|γενομένου]]</big>**  |genomenou <small><sup>[[V-2ADP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

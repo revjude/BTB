@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Jacob,  my child, I shall take hold of him. Israel,  my chosen, my soul favorably received him. I have put  my spirit upon him, he shall bring forth judgment to the nations. 
-<small><sub>**KJV:**</sub></small>
-Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
-<small><sub>**BSB:**</sub></small>
-“Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.29|<< Isaiah 41:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.2|Isaiah 42:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 42:1** is...

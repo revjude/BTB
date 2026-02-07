@@ -1,12 +1,12 @@
-**Mark 9:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:8**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.
 <small><sub>**BSB:**</sub></small>
 Suddenly, when they looked around, they saw no one with them except Jesus.
 <small><sub>**Literal:**</sub></small>
 And suddenly having looked around no longer no [one] they saw except <the> Jesus alone with themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.7|<< Mark 9:7]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.9|Mark 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | suddenly |**<big>[[G1819\|ἐξάπινα]]</big>**  |exapina <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

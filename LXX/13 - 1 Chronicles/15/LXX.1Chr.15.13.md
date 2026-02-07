@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:13** 
 <small><sub>**LXX:**</sub></small>
 For you \[were\] not being ready prior, \[and the\] <span class="smallcaps">lord</span> our God cut through among us, for we did not seek him in practice. 
-<small><sub>**KJV:**</sub></small>
-For because ye [did it] not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order.
-<small><sub>**BSB:**</sub></small>
-It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.12|<< 1 Chronicles 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.14|1 Chronicles 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

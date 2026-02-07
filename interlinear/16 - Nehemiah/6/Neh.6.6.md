@@ -1,4 +1,4 @@
-**Nehemiah 6:6** 
+**Nehemiah 6:6**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherein [was] written, It is reported among the heathen, and Gashmu saith [it, that] thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that read: “It is reported among the nations—and Geshem agrees—that you an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.5|<< Nehemiah 6:5]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.7|Nehemiah 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] written  |**<big>&#8207;[[H3789\|כָּת֣וּב]]&#8207; </big>**| ka.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in it  |**<big>&#8207;[[H9003\|בָּ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

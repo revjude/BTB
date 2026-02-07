@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:6** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiakim slept with  his fathers. And Jehoiachin his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Jehoiakim rested with his fathers, and his son Jehoiachin reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.5|<< 2 Kings 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.7|2 Kings 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

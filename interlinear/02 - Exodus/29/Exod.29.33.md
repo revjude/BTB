@@ -1,4 +1,4 @@
-**Exodus 29:33** 
+**Exodus 29:33**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall eat those things wherewith the atonement was made, to consecrate [and] to sanctify them: but a stranger shall not eat [thereof], because they [are] holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They must eat those things by which atonement was made for their ordination and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.32|<< Exodus 29:32]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.34|Exodus 29:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכְל֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

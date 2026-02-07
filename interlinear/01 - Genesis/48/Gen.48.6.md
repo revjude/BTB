@@ -1,4 +1,4 @@
-**Genesis 48:6** 
+**Genesis 48:6**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy issue, which thou begettest after them, shall be thine, [and] shall be called after the name of their brethren in their inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Any children born to you after them shall be yours, and they shall be called by 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.5|<< Genesis 48:5]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.7|Genesis 48:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and offspring your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4138\|מוֹלַדְתְּ]]&#8207;&#8207;[[H9021\|ךָ֛]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.lad.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

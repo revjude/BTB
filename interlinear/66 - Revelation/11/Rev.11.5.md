@@ -1,5 +1,5 @@
-**Revelation 11:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:5**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed.
 <small><sub>**BSB:**</sub></small>
 If anyone wants to harm them, fire proceeds from their mouths and devours their enemies. In this way, anyone who wants to harm them must be killed.
@@ -10,7 +10,7 @@ And if anyone them should desire to harm, fire goes out of the mouth of them and
 > $\quad$ possibly alluding to: [[LXX.2Kgs.1.9|2Kgs 1:9-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

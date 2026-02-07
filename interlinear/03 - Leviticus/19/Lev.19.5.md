@@ -1,4 +1,4 @@
-**Leviticus 19:5** 
+**Leviticus 19:5**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you sacrifice a peace offering to the LORD, you shall offer it for your acc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.4|<< Leviticus 19:4]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.6|Leviticus 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֧י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will sacrifice  |**<big>&#8207;[[H2076\|תִזְבְּח֛וּ]]&#8207; </big>**| tiz.be.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

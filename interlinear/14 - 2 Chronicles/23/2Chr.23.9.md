@@ -1,4 +1,4 @@
-**2 Chronicles 23:9** 
+**2 Chronicles 23:9**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that [had been] king David’s, which [were] in the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoiada the priest gave to the commanders of hundreds the spears and the l
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.8|<< 2 Chronicles 23:8]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.10|2 Chronicles 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֵּן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָ֨ע]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

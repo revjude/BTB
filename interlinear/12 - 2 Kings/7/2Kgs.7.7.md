@@ -1,4 +1,4 @@
-**2 Kings 7:7** 
+**2 Kings 7:7**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it [was], and fled for their life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the Arameans had arisen and fled at twilight, abandoning their tents and ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.6|<< 2 Kings 7:6]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.8|2 Kings 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקוּמוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ku.Mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנ֣וּסוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

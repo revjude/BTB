@@ -1,4 +1,4 @@
-**Job 4:12** 
+**Job 4:12**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now a thing was secretly brought to me, and mine ear received a little thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a word came to me secretly; my ears caught a whisper of it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.11|<< Job 4:11]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.13|Job 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to me  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'e.la<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a word  |**<big>&#8207;[[H1697G\|דָּבָ֣ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

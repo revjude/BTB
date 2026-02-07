@@ -1,4 +1,4 @@
-**Isaiah 58:5** 
+**Isaiah 58:5**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is it such a fast that I have chosen? a day for a man to afflict his soul? [is it] to bow down his head as a bulrush, and to spread sackcloth and ashes [under him]? wilt thou call this a fast, and an acceptable day to the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is this the fast I have chosen: a day for a man to deny himself, to bow his head
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.4|<< Isaiah 58:4]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.6|Isaiah 58:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ like this  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H2088\|זֶ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> kha.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | is it  |**<big>&#8207;[[H1961\|יִֽהְיֶה֙]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

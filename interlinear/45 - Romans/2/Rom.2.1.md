@@ -1,12 +1,12 @@
-**Romans 2:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:1**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
 <small><sub>**BSB:**</sub></small>
 You, therefore, have no excuse, you who pass judgment on another. For on whatever grounds you judge the other, you are condemning yourself, because you who pass judgment do the same things.
 <small><sub>**Literal:**</sub></small>
 Therefore inexcusable you are, O man everyone you who [are] judging; In that which for you judge the other, yourself you are condemning; <the> for the same things you do who are judging.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.32|<< Romans 1:32]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.2|Romans 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | inexcusable |**<big>[[G0379\|ἀναπολόγητος]]</big>**  |anapologētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

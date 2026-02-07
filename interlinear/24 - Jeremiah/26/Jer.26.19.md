@@ -1,4 +1,4 @@
-**Jeremiah 26:19** 
+**Jeremiah 26:19**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the LORD, and besought the LORD, and the LORD repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Did Hezekiah king of Judah or anyone else in Judah put him to death? Did Hezekia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.18|<< Jeremiah 26:18]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.20|Jeremiah 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ really \<to put to death>  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H4191\|הָמֵ֣ת]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> ha.Met<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did they put to death him  |**<big>&#8207;[[H4191\|הֱ֠מִתֻ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| He.mi.tu.<small><sup>[[HVhp3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

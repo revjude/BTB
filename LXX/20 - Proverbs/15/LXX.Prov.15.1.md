@@ -1,10 +1,7 @@
 **LXX Proverbs 15:1** 
 <small><sub>**LXX:**</sub></small>
 Anger destroys even \[the\] intelligent; but \[the\] answer of a penitent man returns rage; but a distressing word raises up angers. 
-<small><sub>**KJV:**</sub></small>
-A soft answer turneth away wrath: but grievous words stir up anger.
-<small><sub>**BSB:**</sub></small>
-A gentle answer turns away wrath, but a harsh word stirs up anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.35|<< Proverbs 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.2|Proverbs 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

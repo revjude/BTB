@@ -1,10 +1,7 @@
 **LXX Job 5:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall come unto \[the\] grave as grain in season, according to \[the\] time of harvesting; or as a heap of \[the\] threshing-floor according to \[the\] hour of its being collected. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt come to [thy] grave in a full age, like as a shock of corn cometh in in his season.
-<small><sub>**BSB:**</sub></small>
-You will come to the grave in full vigor, like a sheaf of grain gathered in season.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.25|<< Job 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.27|Job 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 7:19** 
+**Daniel 7:19**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth [were of] iron, and his nails [of] brass; [which] devoured, brake in pieces, and stamped the residue with his feet;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I wanted to know the true meaning of the fourth beast, which was different 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.18|<< Daniel 7:18]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.20|Daniel 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֗יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I desired  |**<big>&#8207;[[H6634\|צְבִית֙]]&#8207; </big>**| tze.Vit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

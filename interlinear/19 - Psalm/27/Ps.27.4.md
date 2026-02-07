@@ -1,4 +1,4 @@
-**Psalms 27:4** 
+**Psalms 27:4**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One [thing] have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to inquire in his temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One thing I have asked of the LORD; this is what I desire: to dwell in the house
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.3|<< Psalms 27:3]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.5|Psalms 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one [thing]  |**<big>&#8207;[[H0259\|אַחַ֤ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have asked  |**<big>&#8207;[[H7592\|שָׁאַ֣לְתִּי]]&#8207; </big>**| sha.'Al.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

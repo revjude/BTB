@@ -1,4 +1,4 @@
-**Esther 5:10** 
+**Esther 5:10**<big><big>[[Esth.5.9 Haman’s Plot against Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, Haman restrained himself and went home. And calling for his friend
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.9|<< Esther 5:9]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.11|Esther 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he restrained himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0662\|יִּתְאַפַּ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Pak<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haman  |**<big>&#8207;[[H2001\|הָמָ֔ן]]&#8207; </big>**| ha.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

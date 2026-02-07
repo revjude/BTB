@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:14** 
 <small><sub>**LXX:**</sub></small>
 And all the honorable \[men\] of Judah, and the priests, and the people of the land multiplied  to disregard \[good\], \[to do\] wickedness according to the abominations of \[the\] nations; and they defiled the house of \[the\] <span class="smallcaps">lord</span>  in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Furthermore, all the leaders of the priests and the people multiplied their unfaithful deeds, following all the abominations of the nations, and they defiled the house of the LORD, which He had consecrated in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.13|<< 2 Chronicles 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.15|2 Chronicles 36:15 >>]]</td></tr></table>
 
 | Translation | Greek |

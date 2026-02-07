@@ -1,5 +1,5 @@
-**Acts 7:50
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:50**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hath not my hand made all these things?
 <small><sub>**BSB:**</sub></small>
 Has not My hand made all these things?’
@@ -10,7 +10,7 @@ Surely the hand of Mine has made these things all?’<br><table width="100%" bor
 > $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

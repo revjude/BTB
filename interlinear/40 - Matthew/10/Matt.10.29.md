@@ -1,12 +1,12 @@
-**Matthew 10:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:29**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.
 <small><sub>**BSB:**</sub></small>
 Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father.
 <small><sub>**Literal:**</sub></small>
 Surely two sparrows for an assarion are sold? And one of them not will fall to the ground apart from the Father of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.28|<< Matthew 10:28]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.30|Matthew 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

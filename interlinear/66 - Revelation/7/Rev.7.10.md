@@ -1,12 +1,12 @@
-**Revelation 7:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:10**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 <small><sub>**BSB:**</sub></small>
 And they cried out in a loud voice: “Salvation to our God, who sits on the throne, and to the Lamb!”
 <small><sub>**Literal:**</sub></small>
 And they were crying out in a voice loud saying: <the> Salvation to the God of us to the [One] sitting on the throne and to the Lamb!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.9|<< Revelation 7:9]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.11|Revelation 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were crying out [^1] |**<big>[[G2896\|κράζουσιν]]</big>**  |krazousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

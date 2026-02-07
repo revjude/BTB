@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:10** 
 <small><sub>**LXX:**</sub></small>
 And Amasa did not guard from the sword, of the one in the hand of Joab. And Joab hit him with it in his flank, and his belly poured out upon the ground, and \[it was\] not repeated a second time to him, and he died. And Joab and Abishai  his brother pursued after Sheba son of Bichri. 
-<small><sub>**KJV:**</sub></small>
-But Amasa took no heed to the sword that [was] in Joab’s hand: so he smote him therewith in the fifth [rib], and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
-<small><sub>**BSB:**</sub></small>
-Amasa was not on guard against the dagger in Joab’s hand, and Joab stabbed him in the stomach and spilled out his intestines on the ground. And Joab did not need to strike him again, for Amasa was dead. Then Joab and his brother Abishai pursued Sheba son of Bichri.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.9|<< 2 Samuel 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.11|2 Samuel 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 86:9** 
+**Psalms 86:9**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All the nations You have made will come and bow before You, O Lord, and they wil
 > $\quad$ referenced by: [[Rev.15.4|Rev 15:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

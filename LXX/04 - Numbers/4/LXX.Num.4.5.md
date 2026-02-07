@@ -1,10 +1,7 @@
 **LXX Numbers 4:5** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall enter and  his sons, whenever the camp should lift away. And they shall lower the veil, the one overshadowing, and they shall cover with it the ark of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:
-<small><sub>**BSB:**</sub></small>
-Whenever the camp sets out, Aaron and his sons are to go in, take down the veil of the curtain, and cover the ark of the Testimony with it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.4|<< Numbers 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.6|Numbers 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

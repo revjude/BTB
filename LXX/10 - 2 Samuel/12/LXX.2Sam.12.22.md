@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:22** 
 <small><sub>**LXX:**</sub></small>
 And David said, While  the boy \[was\] still living, I fasted and wept. For I said, Who knows if \[the\] <span class="smallcaps">lord</span> will show mercy on me, and the boy shall live? 
-<small><sub>**KJV:**</sub></small>
-And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell [whether] GOD will be gracious to me, that the child may live?
-<small><sub>**BSB:**</sub></small>
-David answered, “While the child was alive, I fasted and wept, for I said, ‘Who knows? The LORD may be gracious to me and let him live.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.21|<< 2 Samuel 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.23|2 Samuel 12:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 9:16** 
+**Zechariah 9:16**<big><big>[[Zech.9.14 The LORD Will Save His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD their God shall save them in that day as the flock of his people: for [they shall be as] the stones of a crown, lifted up as an ensign upon his land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day the LORD their God will save them as the flock of His people; for li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.15|<< Zechariah 9:15]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.17|Zechariah 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will deliver them  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H3467\|הוֹשִׁיעָ֞]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.shi.'A<small><sup>[[HVhq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

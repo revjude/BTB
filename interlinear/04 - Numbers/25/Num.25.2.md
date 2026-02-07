@@ -1,4 +1,4 @@
-**Numbers 25:2** 
+**Numbers 25:2**<big><big>[[Num.25.1 Moab Seduces Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ who also invited them to the sacrifices for their gods. And the people ate and b
 > $\quad$ referenced by: [[Rev.2.14|Rev 2:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they invited  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|תִּקְרֶ֣אןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Re.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> the people  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

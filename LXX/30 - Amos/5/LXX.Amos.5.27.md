@@ -1,10 +1,7 @@
 **LXX Amos 5:27** 
 <small><sub>**LXX:**</sub></small>
 And I will displace you beyond Damascus, says \[the\] <span class="smallcaps">lord</span>.  God almighty \[is the\] name to him. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name [is] The God of hosts.
-<small><sub>**BSB:**</sub></small>
-Therefore I will send you into exile beyond Damascus,” says the LORD, whose name is the God of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.26|<< Amos 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.1|Amos 6:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 5:27** is...

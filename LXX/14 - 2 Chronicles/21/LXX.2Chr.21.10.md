@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:10** 
 <small><sub>**LXX:**</sub></small>
 And Edom revolted from \[the\] hand of Judah until  this day. Then Libnah revolted in  that time from under his hand, for he abandoned \[the\] <span class="smallcaps">lord</span>  God  of his fathers. 
-<small><sub>**KJV:**</sub></small>
-So the Edomites revolted from under the hand of Judah unto this day. The same time [also] did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers.
-<small><sub>**BSB:**</sub></small>
-So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.9|<< 2 Chronicles 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.11|2 Chronicles 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

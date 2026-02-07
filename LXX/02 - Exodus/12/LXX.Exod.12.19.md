@@ -1,10 +1,7 @@
 **LXX Exodus 12:19** 
 <small><sub>**LXX:**</sub></small>
 \[For\] seven days yeast shall not be found in  your houses. All whosoever should eat leavened \[bread\], that soul shall utterly be destroyed from out of \[the\] congregation of Israel, unto both  foreigners and native born of the land. 
-<small><sub>**KJV:**</sub></small>
-Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
-<small><sub>**BSB:**</sub></small>
-For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.18|<< Exodus 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.20|Exodus 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 24:42** 
+**Genesis 24:42**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So when I came to the spring today, I prayed: O LORD, God of my master Abraham, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.41|<< Genesis 24:41]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.43|Genesis 24:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I came  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935G\|אָבֹ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vo'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

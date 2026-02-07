@@ -1,12 +1,12 @@
-**Ephesians 1:15
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:15**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
 <small><sub>**BSB:**</sub></small>
 For this reason, ever since I heard about your faith in the Lord Jesus and your love for all the saints,
 <small><sub>**Literal:**</sub></small>
 Because of this I myself also having heard of the among you faith in the Lord Jesus and the love <the> toward all the saints<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.14|<< Ephesians 1:14]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.16|Ephesians 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

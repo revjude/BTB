@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:4** 
 <small><sub>**LXX:**</sub></small>
 and the one hearing shall hear the sound of the trumpet, and should not take guard, and the broadsword comes and overtakes him,  his blood shall be upon his own head. 
-<small><sub>**KJV:**</sub></small>
-Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
-<small><sub>**BSB:**</sub></small>
-Then if anyone hears the sound of the horn but fails to heed the warning, and the sword comes and takes him away, his blood will be on his own head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.3|<< Ezekiel 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.5|Ezekiel 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 26:2** 
+**Deuteronomy 26:2**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put [it] in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you are to take some of the firstfruits of all your produce from the soil of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.1|<< Deuteronomy 26:1]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.3|Deuteronomy 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] first of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7225G\|רֵאשִׁ֣ית]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 15:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:12**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?
 <small><sub>**BSB:**</sub></small>
 Then the disciples came to Him and said, “Are You aware that the Pharisees were offended when they heard this?”
 <small><sub>**Literal:**</sub></small>
 Then having come near the disciples of him spoke to Him; Know You that the Pharisees having heard the saying were offended?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.11|<< Matthew 15:11]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.13|Matthew 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come near |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

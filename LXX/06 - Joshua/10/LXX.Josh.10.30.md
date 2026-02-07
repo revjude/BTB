@@ -1,10 +1,7 @@
 **LXX Joshua 10:30** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> delivered it also into \[the\] hand of Israel. And they took it, and  its king. And they slaughtered it by \[the\] mouth of \[the\] sword, and every one breathing \[that\] was in it; there was not left behind in her not even one surviving and having escaped. And they did \[to\] its king in which manner they did to the king of Jericho. 
-<small><sub>**KJV:**</sub></small>
-And the LORD delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that [were] therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho.
-<small><sub>**BSB:**</sub></small>
-And the LORD also delivered that city and its king into the hand of Israel, and Joshua put all the people to the sword, leaving no survivors. And he did to the king of Libnah as he had done to the king of Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.29|<< Joshua 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.31|Joshua 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

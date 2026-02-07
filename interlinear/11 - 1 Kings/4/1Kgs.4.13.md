@@ -1,4 +1,4 @@
-**1 Kings 4:13** 
+**1 Kings 4:13**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Geber, in Ramothgilead; to him [pertained] the towns of Jair the son of Manasseh, which [are] in Gilead; to him [also pertained] the region of Argob, which [is] in Bashan, threescore great cities with walls and brasen bars:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belon
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ben-  |**<big>&#8207;[[H1127\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Geber  |**<big>&#8207;[[H1127\|גֶּ֖בֶר]]&#8207; </big>**| Ge.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

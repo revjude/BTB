@@ -1,10 +1,7 @@
 **LXX Proverbs 12:10** 
 <small><sub>**LXX:**</sub></small>
 A just one pities \[the\] lives of his cattle; but the feelings of compassion of the impious are unmerciful. 
-<small><sub>**KJV:**</sub></small>
-A righteous [man] regardeth the life of his beast: but the tender mercies of the wicked [are] cruel.
-<small><sub>**BSB:**</sub></small>
-A righteous man regards the life of his animal, but the tender mercies of the wicked are only cruelty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.9|<< Proverbs 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.11|Proverbs 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:5** 
 <small><sub>**LXX:**</sub></small>
 And the Levites said, Jeshua and Kadmiel, Bani, Sherebiah, Hodijah Shebaniah, Pethahiah, Rise up, bless the <span class="smallcaps">lord</span> our God from the eon and unto the eon! And they shall bless your glorious name, and shall raise \[it\] up high with all blessing and praise. 
-<small><sub>**KJV:**</sub></small>
-Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, [and] Pethahiah, said, Stand up [and] bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.
-<small><sub>**BSB:**</sub></small>
-Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.4|<< Nehemiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.6|Nehemiah 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

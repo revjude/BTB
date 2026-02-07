@@ -1,12 +1,12 @@
-**1 Corinthians 9:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:19**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though I be free from all [men], yet have I made myself servant unto all, that I might gain the more.
 <small><sub>**BSB:**</sub></small>
 Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible.
 <small><sub>**Literal:**</sub></small>
 Free for being from all to all myself I became servant so that the more I may gain;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.18|<< 1 Corinthians 9:18]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.20|1 Corinthians 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Free |**<big>[[G1658\|Ἐλεύθερος]]</big>**  |Eleutheros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

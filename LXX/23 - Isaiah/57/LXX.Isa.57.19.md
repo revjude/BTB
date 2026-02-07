@@ -1,10 +1,7 @@
 **LXX Isaiah 57:19** 
 <small><sub>**LXX:**</sub></small>
 Peace upon peace to the ones far off, and to the ones being near. And \[the\] <span class="smallcaps">lord</span> said, I will heal them. 
-<small><sub>**KJV:**</sub></small>
-I create the fruit of the lips; Peace, peace to [him that is] far off, and to [him that is] near, saith the LORD; and I will heal him.
-<small><sub>**BSB:**</sub></small>
-bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.18|<< Isaiah 57:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.20|Isaiah 57:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 57:19** is...

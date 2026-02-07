@@ -1,10 +1,7 @@
 **LXX Exodus 19:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall separate the people round about, saying, Take heed to yourselves  ascending unto the mountain, and any lightly touching of it. All  touching the mountain, by death he will come to an end. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, [that ye] go [not] up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
-<small><sub>**BSB:**</sub></small>
-And you are to set up a boundary for the people around the mountain and tell them, ‘Be careful not to go up on the mountain or touch its base. Whoever touches the mountain shall surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.11|<< Exodus 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.13|Exodus 19:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 19:12** is...

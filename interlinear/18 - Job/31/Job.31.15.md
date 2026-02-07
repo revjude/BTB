@@ -1,4 +1,4 @@
-**Job 31:15** 
+**Job 31:15**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did not he that made me in the womb make him? and did not one fashion us in the womb?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Did not He who made me in the womb also make them? Did not the same One form us 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.14|<< Job 31:14]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.16|Job 31:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲֽ֝]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> Lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the belly  |**<big>&#8207;[[H9003\|בַ֭]]&#8207;&#8207;[[H0990H\|בֶּטֶן]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> be.ten<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

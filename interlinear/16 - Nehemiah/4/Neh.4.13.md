@@ -1,4 +1,4 @@
-**Nehemiah 4:13** (4:7)
+**Nehemiah 4:13**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore set I in the lower places behind the wall, [and] on the higher places, I even set the people after their families with their swords, their spears, and their bows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I stationed men behind the lowest sections of the wall, at the vulnerable are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I stationed  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H5975J\|אַעֲמִ֞יד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.'a.Mid<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] lower parts  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H8482\|תַּחְתִּיּ֧וֹת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tach.ti.Yot<small><sup>[[HAafpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 30:6** 
+**Isaiah 30:6**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the beasts of the south: into the land of trouble and anguish, from whence [come] the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people [that] shall not profit [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against the beasts of the Negev: Through a land of hardship a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.5|<< Isaiah 30:5]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.7|Isaiah 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] animals of  |**<big>&#8207;[[H0929\|בַּהֲמ֣וֹת]]&#8207; </big>**| ba.ha.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

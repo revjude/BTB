@@ -1,4 +1,4 @@
-**1 Kings 3:5** 
+**1 Kings 3:5**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One night at Gibeon the LORD appeared to Solomon in a dream, and God said, “As
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.4|<< 1 Kings 3:4]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.6|1 Kings 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at Gibeon  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1391\|גִבְע֗וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> giv.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he appeared  |**<big>&#8207;[[H7200G\|נִרְאָ֧ה]]&#8207; </big>**| nir.'Ah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:23** 
 <small><sub>**LXX:**</sub></small>
 And after him Benjamin repaired and Hashub over against their house. And after them Azariah repaired, son of Maaseiah, son of Ananiah, next to his house. 
-<small><sub>**KJV:**</sub></small>
-After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
-<small><sub>**BSB:**</sub></small>
-Beyond them, Benjamin and Hasshub made repairs in front of their house, and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.22|<< Nehemiah 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.24|Nehemiah 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

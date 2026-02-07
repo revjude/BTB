@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:10** 
 <small><sub>**LXX:**</sub></small>
 And the young men having been brought up with him said to him, saying, Thus shall you speak to the people, to the one speaking to you, saying,  Your father oppressed  our yoke, and you now lighten from  our yoke! Thus you shall say to them, My small finger \[is\] thicker than the loin  of my father. 
-<small><sub>**KJV:**</sub></small>
-And the young men that were brought up with him spake unto him, saying, Thus shalt thou answer the people that spake unto thee, saying, Thy father made our yoke heavy, but make thou [it] somewhat lighter for us; thus shalt thou say unto them, My little [finger] shall be thicker than my father’s loins.
-<small><sub>**BSB:**</sub></small>
-The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.9|<< 2 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.11|2 Chronicles 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

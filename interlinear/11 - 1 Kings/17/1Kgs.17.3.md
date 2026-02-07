@@ -1,4 +1,4 @@
-**1 Kings 17:3** 
+**1 Kings 17:3**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that [is] before Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.2|<< 1 Kings 17:2]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.4|1 Kings 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵ֣ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from here  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2088\|זֶּ֔ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

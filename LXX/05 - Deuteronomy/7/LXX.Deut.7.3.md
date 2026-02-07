@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:3** 
 <small><sub>**LXX:**</sub></small>
 nor contract a marriage with them.  You shall not give your daughter \[to\] his son, and  his daughter you shall not take \[to\] your son. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
-<small><sub>**BSB:**</sub></small>
-Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.2|<< Deuteronomy 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.4|Deuteronomy 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

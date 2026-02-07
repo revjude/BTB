@@ -1,10 +1,7 @@
 **LXX Isaiah 49:7** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, the one rescuing you, the God of Israel, Sanctify the his life as worthless, the one being abhorred by the nations of the servant of the rulers. Kings shall see him, and rulers shall rise up, and they shall do obeisance to him because of \[the\] <span class="smallcaps">lord</span>; for the holy one of Israel is trustworthy, and I chose you. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, the Redeemer of Israel, [and] his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, [and] the Holy One of Israel, and he shall choose thee.
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD, the Redeemer and Holy One of Israel, to Him who was despised and abhorred by the nation, to the Servant of rulers: “Kings will see You and rise, and princes will bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.6|<< Isaiah 49:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.8|Isaiah 49:8 >>]]</td></tr></table>
 
 | Translation | Greek |

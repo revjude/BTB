@@ -1,4 +1,4 @@
-**Numbers 21:16** 
+**Numbers 21:16**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from thence [they went] to Beer: that [is] the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there they went on to Beer, the well where the LORD said to Moses, “Gathe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.15|<< Numbers 21:15]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.17|Numbers 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from there  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Beer towards  |**<big>&#8207;[[H0876G\|בְּאֵ֑רָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| be.'E.ra<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

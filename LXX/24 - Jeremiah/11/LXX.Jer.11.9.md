@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, A conspiracy \[is\] found among \[the\] men of Judah, and among \[the\] ones dwelling in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And the LORD told me, “There is a conspiracy among the men of Judah and the residents of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.8|<< Jeremiah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.10|Jeremiah 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

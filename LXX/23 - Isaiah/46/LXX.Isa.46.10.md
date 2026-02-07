@@ -1,10 +1,7 @@
 **LXX Isaiah 46:10** 
 <small><sub>**LXX:**</sub></small>
 announcing formerly the last \[things\] before their taking place, and are completed. And I said, All  my counsel will stand, and all as much as I have planned I will do; 
-<small><sub>**KJV:**</sub></small>
-Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:
-<small><sub>**BSB:**</sub></small>
-I declare the end from the beginning, and from ancient times what is still to come. I say, ‘My purpose will stand, and all My good pleasure I will accomplish.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.9|<< Isaiah 46:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.11|Isaiah 46:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:27** 
 <small><sub>**LXX:**</sub></small>
 And it became midday, and Elijah the Tishbite sneered at them, and he said, Call with a great voice! perhaps he is himself meditation some, and at the same time perhaps he is executing \[business\], or perhaps he sleeps and shall rise up. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he [is] a god; either he is talking, or he is pursuing, or he is in a journey, [or] peradventure he sleepeth, and must be awaked.
-<small><sub>**BSB:**</sub></small>
-At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.26|<< 1 Kings 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.28|1 Kings 18:28 >>]]</td></tr></table>
 
 | Translation | Greek |

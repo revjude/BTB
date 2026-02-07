@@ -1,10 +1,7 @@
 **LXX Daniel 1:20** 
 <small><sub>**LXX:**</sub></small>
 And in every discourse of wisdom and higher knowledge, as much as the king sought from them, he found them ten-times more than all of the enchanters, and the magi, the ones being in all  of his kingdom. 
-<small><sub>**KJV:**</sub></small>
-And in all matters of wisdom [and] understanding, that the king inquired of them, he found them ten times better than all the magicians [and] astrologers that [were] in all his realm.
-<small><sub>**BSB:**</sub></small>
-In every matter of wisdom and understanding about which the king consulted them, he found them ten times better than all the magicians and enchanters in his entire kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.19|<< Daniel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.21|Daniel 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

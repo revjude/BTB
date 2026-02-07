@@ -1,10 +1,7 @@
 **LXX Psalm 102:5** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] sound  of my moaning my bone cleaves to my flesh. 
-<small><sub>**KJV:**</sub></small>
-By reason of the voice of my groaning my bones cleave to my skin.
-<small><sub>**BSB:**</sub></small>
-Through my loud groaning my skin hangs on my bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.4|<< Psalm 102:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.6|Psalm 102:6 >>]]</td></tr></table>
 
 | Translation | Greek |

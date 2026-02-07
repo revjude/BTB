@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:10** 
 <small><sub>**LXX:**</sub></small>
 And Baruch read in the scroll the words of Jeremiah in \[the\] house of \[the\] <span class="smallcaps">lord</span>, in \[the\] house of Gemariah son of Shaphan the scribe, in the upper courtyard, in \[the\] thresholds of the new gate of the house \[of the\] <span class="smallcaps">lord</span>, in \[the\] ears of all the people. 
-<small><sub>**KJV:**</sub></small>
-Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD’S house, in the ears of all the people.
-<small><sub>**BSB:**</sub></small>
-From the chamber of Gemariah son of Shaphan the scribe, which was in the upper courtyard at the opening of the New Gate of the house of the LORD, Baruch read from the scroll the words of Jeremiah in the hearing of all the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.9|<< Jeremiah 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.11|Jeremiah 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

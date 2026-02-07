@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:21** 
 <small><sub>**LXX:**</sub></small>
 And now swear by an oath to me according to \[the\] <span class="smallcaps">lord</span>, that you should not utterly destroy  my seed after me, and you should not obliterate  my name from the house  of my father. 
-<small><sub>**KJV:**</sub></small>
-Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.
-<small><sub>**BSB:**</sub></small>
-So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.20|<< 1 Samuel 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.22|1 Samuel 24:22 >>]]</td></tr></table>
 
 | Translation | Greek |

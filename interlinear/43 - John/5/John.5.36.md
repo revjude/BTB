@@ -1,12 +1,12 @@
-**John 5:36
-**<small><sub>**KJV:**</sub></small>
+**John 5:36**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I have greater witness than [that] of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
 <small><sub>**BSB:**</sub></small>
 But I have testimony more substantial than that of John. For the works that the Father has given Me to accomplish—the very works I am doing—testify about Me that the Father has sent Me.
 <small><sub>**Literal:**</sub></small>
 I myself however have the testimony greater than that of John; <the> For the works that has given Me the Father that I may complete them, same the works which I myself I do, bear witness concerning Me that the Father Me has sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.35|<< John 5:35]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.37|John 5:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

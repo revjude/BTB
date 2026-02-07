@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:8** 
 <small><sub>**LXX:**</sub></small>
 \[And\] in  my saying to the sinner, To death you shall die; and you should not speak  to guard the impious from  his way, he, the lawless one,  shall die of his lawlessness,  but his blood I will require of your hand. 
-<small><sub>**KJV:**</sub></small>
-When I say unto the wicked, O wicked [man], thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand.
-<small><sub>**BSB:**</sub></small>
-If I say to the wicked, ‘O wicked man, you will surely die,’ but you do not speak out to dissuade him from his way, then that wicked man will die in his iniquity, yet I will hold you accountable for his blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.7|<< Ezekiel 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.9|Ezekiel 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

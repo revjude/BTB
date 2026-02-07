@@ -1,4 +1,4 @@
-**Ezekiel 44:4** 
+**Ezekiel 44:4**<big><big>[[Ezek.44.1 The East Gate Assigned to the Prince|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then brought he me the way of the north gate before the house: and I looked, and, behold, the glory of the LORD filled the house of the LORD: and I fell upon my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man brought me to the front of the temple by way of the north gate. I l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.3|<< Ezekiel 44:3]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.5|Ezekiel 44:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִיאֵ֜]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] way of  |**<big>&#8207;[[H1870K\|דֶּֽרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.rekh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

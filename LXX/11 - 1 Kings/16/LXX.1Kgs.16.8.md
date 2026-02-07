@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the eighth and twentieth year of Asa king of Judah, Elah son of Baasha reigned over Israel in Tirzah two years. 
-<small><sub>**KJV:**</sub></small>
-In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.
-<small><sub>**BSB:**</sub></small>
-In the twenty-sixth year of Asa’s reign over Judah, Elah son of Baasha became king of Israel, and he reigned in Tirzah two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.7|<< 1 Kings 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.9|1 Kings 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

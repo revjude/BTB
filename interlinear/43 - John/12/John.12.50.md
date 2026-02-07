@@ -1,12 +1,12 @@
-**John 12:50
-**<small><sub>**KJV:**</sub></small>
+**John 12:50**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
 <small><sub>**BSB:**</sub></small>
 And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”
 <small><sub>**Literal:**</sub></small>
 And I know that the commandment of Him life eternal is. What therefore I myself speak even as has said to Me the Father, so I speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.49|<< John 12:49]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.1|John 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

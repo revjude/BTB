@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:6** 
 <small><sub>**LXX:**</sub></small>
 And he brought the scroll to the king of Israel, saying, And now when ever this scroll should come to you, behold, I sent to you Naaman  my servant, and you shall cure him from  his leprosy. 
-<small><sub>**KJV:**</sub></small>
-And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have [therewith] sent Naaman my servant to thee, that thou mayest recover him of his leprosy.
-<small><sub>**BSB:**</sub></small>
-And the letter that he took to the king of Israel stated: “With this letter I am sending my servant Naaman, so that you may cure him of his leprosy.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.5|<< 2 Kings 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.7|2 Kings 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

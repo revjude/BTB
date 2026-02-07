@@ -1,10 +1,7 @@
 **LXX Genesis 31:22** 
 <small><sub>**LXX:**</sub></small>
 And it was announced to Laban the Syrian on the third day that Jacob ran away. 
-<small><sub>**KJV:**</sub></small>
-And it was told Laban on the third day that Jacob was fled.
-<small><sub>**BSB:**</sub></small>
-On the third day Laban was informed that Jacob had fled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.21|<< Genesis 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.23|Genesis 31:23 >>]]</td></tr></table>
 
 | Translation | Greek |

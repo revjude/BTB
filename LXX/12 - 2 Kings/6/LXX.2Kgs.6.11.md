@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:11** 
 <small><sub>**LXX:**</sub></small>
 And the soul of the king of Syria was startled on account of  this word. And he called  his servants, and he said to them, Shall you not announce to me who betrays me to the king of Israel? 
-<small><sub>**KJV:**</sub></small>
-Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us [is] for the king of Israel?
-<small><sub>**BSB:**</sub></small>
-For this reason the king of Aram became enraged and called his servants to demand of them, “Tell me, which one of us is on the side of the king of Israel?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.10|<< 2 Kings 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.12|2 Kings 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

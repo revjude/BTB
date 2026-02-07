@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Gad went to David, and he announced, and he said to him, Choose for yourself \[what\] is to be to you! Three years of famine in  your land, or three months for you to flee before  your enemies, and they will be pursuing you, or three days of plague to be in  your land. Now then, know and perceive! what I shall answer to the one sending me. 
-<small><sub>**KJV:**</sub></small>
-So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me.
-<small><sub>**BSB:**</sub></small>
-So Gad went and said to David, “Do you choose to endure three years of famine in your land, three months of fleeing the pursuit of your enemies, or three days of plague upon your land? Now then, think it over and decide how I should reply to Him who sent me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.12|<< 2 Samuel 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.14|2 Samuel 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

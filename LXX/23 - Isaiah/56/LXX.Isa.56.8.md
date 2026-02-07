@@ -1,10 +1,7 @@
 **LXX Isaiah 56:8** 
 <small><sub>**LXX:**</sub></small>
 said \[the\] <span class="smallcaps">lord</span>, the one gathering the ones having been dispersed of Israel. For I will gather unto him a congregation. 
-<small><sub>**KJV:**</sub></small>
-The Lord GOD which gathereth the outcasts of Israel saith, Yet will I gather [others] to him, beside those that are gathered unto him.
-<small><sub>**BSB:**</sub></small>
-Thus declares the Lord GOD, who gathers the dispersed of Israel: “I will gather to them still others besides those already gathered.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.7|<< Isaiah 56:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.9|Isaiah 56:9 >>]]</td></tr></table>
 
 | Translation | Greek |

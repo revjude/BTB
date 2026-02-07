@@ -1,10 +1,7 @@
 **LXX Job 6:18** 
 <small><sub>**LXX:**</sub></small>
 So I also was left by all; and I am destroyed, and I became homeless. 
-<small><sub>**KJV:**</sub></small>
-The paths of their way are turned aside; they go to nothing, and perish.
-<small><sub>**BSB:**</sub></small>
-Caravans turn aside from their routes; they go into the wasteland and perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.19|Job 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

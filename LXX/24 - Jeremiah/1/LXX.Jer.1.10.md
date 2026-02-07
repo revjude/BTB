@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:10** 
 <small><sub>**LXX:**</sub></small>
 Behold, I have ordained you today over nations, and over kingdoms, to root out, and to raze, and to loosen, and to rebuild, and to plant. 
-<small><sub>**KJV:**</sub></small>
-See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.
-<small><sub>**BSB:**</sub></small>
-See, I have appointed you today over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and plant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.9|<< Jeremiah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.11|Jeremiah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

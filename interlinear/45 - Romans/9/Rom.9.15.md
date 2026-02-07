@@ -1,5 +1,5 @@
-**Romans 9:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:15**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 <small><sub>**BSB:**</sub></small>
 For He says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
@@ -10,7 +10,7 @@ For He says to Moses: “I will have mercy on whom I have mercy, and I will have
 > $\quad$ referencing: [[LXX.Exod.33.19|Exod 33:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | To Moses |**<big>[[G3475\|Μωϋσεῖ]]</big>**  [^1] |Mōusei <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

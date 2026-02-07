@@ -1,4 +1,4 @@
-**Exodus 3:18** 
+**Exodus 3:18**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The elders of Israel will listen to what you say, and you must go with them to t
 > $\quad$ referenced by: [[Acts.7.35|Acts 7:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will listen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמְע֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to voice your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963A\|קֹלֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ko.Le.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

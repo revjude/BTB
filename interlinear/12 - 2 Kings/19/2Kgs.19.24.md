@@ -1,4 +1,4 @@
-**2 Kings 19:24** 
+**2 Kings 19:24**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have dug wells and drunk foreign waters. With the soles of my feet I have drie
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.23|<< 2 Kings 19:23]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.25|2 Kings 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have dug  |**<big>&#8207;[[H6979A\|קַ֔רְתִּי]]&#8207; </big>**| Kar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 2:28** 
 <small><sub>**LXX:**</sub></small>
 But there is a God in heaven uncovering mysteries, and he made known  to king Nebuchadnezzar what must take place at \[the\] last of the days. The dream of yours, and the visions  of your head upon  your bed, is this, 
-<small><sub>**KJV:**</sub></small>
-But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;
-<small><sub>**BSB:**</sub></small>
-But there is a God in heaven who reveals mysteries, and He has made known to King Nebuchadnezzar what will happen in the latter days. Your dream and the visions that came into your mind as you lay on your bed were these:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.27|<< Daniel 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.29|Daniel 2:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 33:14** 
 <small><sub>**LXX:**</sub></small>
 And departing from Alush, and they camped in Rephidim, and there was no water there for the people to drink. 
-<small><sub>**KJV:**</sub></small>
-And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
-<small><sub>**BSB:**</sub></small>
-They set out from Alush and camped at Rephidim, where there was no water for the people to drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.13|<< Numbers 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.15|Numbers 33:15 >>]]</td></tr></table>
 
 | Translation | Greek |

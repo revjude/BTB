@@ -1,4 +1,4 @@
-**Exodus 13:8** 
+**Exodus 13:8**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt shew thy son in that day, saying, [This is done] because of that [which] the LORD did unto me when I came forth out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that day you are to explain to your son, ‘This is because of what the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.7|<< Exodus 13:7]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.9|Exodus 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will tell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5046\|הִגַּדְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.gad.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to child your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בִנְ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vin.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

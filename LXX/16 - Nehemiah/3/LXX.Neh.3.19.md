@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:19** 
 <small><sub>**LXX:**</sub></small>
 And repaired near his hand Ezer son of Jeshua ruler  of Mizpah a second measured \[section\] right opposite \[the\] ascending \[unto\] the weapons \[site\], of the one joining together at the corner. 
-<small><sub>**KJV:**</sub></small>
-And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning [of the wall].
-<small><sub>**BSB:**</sub></small>
-And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory, near the angle in the wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

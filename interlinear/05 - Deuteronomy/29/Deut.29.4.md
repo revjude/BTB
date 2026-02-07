@@ -1,4 +1,4 @@
-**Deuteronomy 29:4** (29:3)
+**Deuteronomy 29:4**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet to this day the LORD has not given you a mind to understand, eyes to see, or
 > $\quad$ referenced by: [[Rom.11.8|Rom 11:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has given  |**<big>&#8207;[[H5414G\|נָתַן֩]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

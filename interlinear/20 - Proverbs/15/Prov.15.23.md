@@ -1,4 +1,4 @@
-**Proverbs 15:23** 
+**Proverbs 15:23**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man hath joy by the answer of his mouth: and a word [spoken] in due season, how good [is it]!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man takes joy in a fitting reply—and how good is a timely word!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.22|<< Proverbs 15:22]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.24|Proverbs 15:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | joy  |**<big>&#8207;[[H8057\|שִׂמְחָ֣ה]]&#8207; </big>**| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to \<the> person  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0376G\|אִישׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

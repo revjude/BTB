@@ -1,10 +1,7 @@
 **LXX Joshua 23:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span>  your God, he shall utterly destroy them from in front of you, and he shall utterly destroy them from your face; and you shall inherit  their land, as \[the\] <span class="smallcaps">lord</span> your God spoke to you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you.
-<small><sub>**BSB:**</sub></small>
-The LORD your God will push them out of your way and drive them out before you, so that you can take possession of their land, as the LORD your God promised you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.4|<< Joshua 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.6|Joshua 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:9** 
 <small><sub>**LXX:**</sub></small>
 And the prophet, if he should be mislead and should say a word, I \[the\] <span class="smallcaps">lord</span> have misled  that prophet; and I will stretch out  my hand against him, and I will remove him from out of \[the\] midst  of my people Israel. 
-<small><sub>**KJV:**</sub></small>
-And if the prophet be deceived when he hath spoken a thing, I the LORD have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.
-<small><sub>**BSB:**</sub></small>
-But if the prophet is enticed to speak a message, then it was I the LORD who enticed him, and I will stretch out My hand against him and destroy him from among My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.8|<< Ezekiel 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.10|Ezekiel 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

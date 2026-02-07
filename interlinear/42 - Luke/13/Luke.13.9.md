@@ -1,12 +1,12 @@
-**Luke 13:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:9**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if it bear fruit, [well]: and if not, [then] after that thou shalt cut it down.
 <small><sub>**BSB:**</sub></small>
 If it bears fruit next year, fine. But if not, you can cut it down.’”
 <small><sub>**Literal:**</sub></small>
 and perhaps indeed it shall bear fruit in the [time] soon happening. lest however except yet you will cut down it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.8|<< Luke 13:8]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.10|Luke 13:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and perhaps |**<big>[[G2532\|κἂν]]</big>**  |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

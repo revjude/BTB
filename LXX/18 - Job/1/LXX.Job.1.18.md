@@ -1,10 +1,7 @@
 **LXX Job 1:18** 
 <small><sub>**LXX:**</sub></small>
 While this one \[was\] speaking, another messenger came, saying  to Job,  Your sons and  your daughters \[were\] eating and drinking with  their elder brother. 
-<small><sub>**KJV:**</sub></small>
-While he [was] yet speaking, there came also another, and said, Thy sons and thy daughters [were] eating and drinking wine in their eldest brother’s house:
-<small><sub>**BSB:**</sub></small>
-While he was still speaking, another messenger came and reported: “Your sons and daughters were eating and drinking wine in their oldest brother’s house,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.17|<< Job 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.19|Job 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

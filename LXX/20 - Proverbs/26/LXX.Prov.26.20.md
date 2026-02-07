@@ -1,10 +1,7 @@
 **LXX Proverbs 26:20** 
 <small><sub>**LXX:**</sub></small>
 With much wood fire flourishes; but where there is no man at variance \[with others\] a fight is stilled. 
-<small><sub>**KJV:**</sub></small>
-Where no wood is, [there] the fire goeth out: so where [there is] no talebearer, the strife ceaseth.
-<small><sub>**BSB:**</sub></small>
-Without wood, a fire goes out; without gossip, a conflict ceases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.19|<< Proverbs 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.21|Proverbs 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

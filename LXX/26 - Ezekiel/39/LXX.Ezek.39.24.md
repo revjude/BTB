@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:24** 
 <small><sub>**LXX:**</sub></small>
 Because of  their uncleannesses, and because of  their violations of the law I did \[it\] to them, and I turned  my face from them. 
-<small><sub>**KJV:**</sub></small>
-According to their uncleanness and according to their transgressions have I done unto them, and hid my face from them.
-<small><sub>**BSB:**</sub></small>
-I dealt with them according to their uncleanness and transgressions, and I hid My face from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.23|<< Ezekiel 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.25|Ezekiel 39:25 >>]]</td></tr></table>
 
 | Translation | Greek |

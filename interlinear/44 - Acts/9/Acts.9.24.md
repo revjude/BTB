@@ -1,12 +1,12 @@
-**Acts 9:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:24**<big><big>[[Acts.9.23 The Escape from Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But their laying await was known of Saul. And they watched the gates day and night to kill him.
 <small><sub>**BSB:**</sub></small>
 but Saul learned of their plot. Day and night they watched the city gates in order to kill him.
 <small><sub>**Literal:**</sub></small>
 became known however <the> to Saul the plot of them. They were themselves watching now also the gates by day and also night, so that him they may execute;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.23|<< Acts 9:23]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.25|Acts 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | became known |**<big>[[G1097\|ἐγνώσθη]]</big>**  |egnōsthē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

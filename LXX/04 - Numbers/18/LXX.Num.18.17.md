@@ -1,10 +1,7 @@
 **LXX Numbers 18:17** 
 <small><sub>**LXX:**</sub></small>
 Except \[the\] first-born of calves, and \[the\] first-born of sheep, and \[the\] first-born of goats you shall not ransom, \[they are\] holy. And  their blood you shall pour upon the altar, and the fat you shall offer as a yield \[offering\] for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they [are] holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat [for] an offering made by fire, for a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-But you must not redeem the firstborn of an ox, a sheep, or a goat; they are holy. You are to splatter their blood on the altar and burn their fat as a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.16|<< Numbers 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.18|Numbers 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:5** 
 <small><sub>**LXX:**</sub></small>
 And David was enraged in anger exceedingly against the man. And he said to Nathan, As \[the\] <span class="smallcaps">lord</span> lives, that man doing this \[is\] a son of death. 
-<small><sub>**KJV:**</sub></small>
-And David’s anger was greatly kindled against the man; and he said to Nathan, [As] the LORD liveth, the man that hath done this [thing] shall surely die:
-<small><sub>**BSB:**</sub></small>
-David burned with anger against the man and said to Nathan: “As surely as the LORD lives, the man who did this deserves to die!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.4|<< 2 Samuel 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.6|2 Samuel 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:17** 
 <small><sub>**LXX:**</sub></small>
 Then I said to them, You see  this wickedness in which we are in it, how Jerusalem \[is\] desolate, and  its gates were given to fire. Come, and let us build throughout the wall of Jerusalem! and we shall not be any longer for scorn. 
-<small><sub>**KJV:**</sub></small>
-Then said I unto them, Ye see the distress that we [are] in, how Jerusalem [lieth] waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
-<small><sub>**BSB:**</sub></small>
-Then I said to them, “You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.16|<< Nehemiah 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.18|Nehemiah 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 20:2** 
 <small><sub>**LXX:**</sub></small>
 Then \[the\] <span class="smallcaps">lord</span> spoke to Isaiah son of Amoz, saying, Go and remove the sackcloth from  your loin, and  untie your sandals from  your feet! And he did thus, going naked and barefoot. 
-<small><sub>**KJV:**</sub></small>
-At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot.
-<small><sub>**BSB:**</sub></small>
-the LORD had already spoken through Isaiah son of Amoz, saying, “Go, remove the sackcloth from your waist and the sandals from your feet.” And Isaiah did so, walking around naked and barefoot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.1|<< Isaiah 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.20.3|Isaiah 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

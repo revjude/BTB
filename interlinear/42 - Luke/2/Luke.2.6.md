@@ -1,12 +1,12 @@
-**Luke 2:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:6**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so it was, that, while they were there, the days were accomplished that she should be delivered.
 <small><sub>**BSB:**</sub></small>
 While they were there, the time came for her Child to be born.
 <small><sub>**Literal:**</sub></small>
 It came to pass then in their being them there were fulfilled the days of the giving birth of her,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.5|<< Luke 2:5]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.7|Luke 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

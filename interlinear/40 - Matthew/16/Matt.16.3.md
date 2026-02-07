@@ -1,12 +1,12 @@
-**Matthew 16:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:3**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in the morning, [It will be] foul weather to day: for the sky is red and lowring. O [ye] hypocrites, ye can discern the face of the sky; but can ye not [discern] the signs of the times?
 <small><sub>**BSB:**</sub></small>
 and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but not the signs of the times.
 <small><sub>**Literal:**</sub></small>
 And in the morning; Today a storm, is red for being overcast the sky. hypocrites The indeed appearance of the sky you know [how] to discern, <the> however the signs of the times not you are able?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.2|<< Matthew 16:2]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.4|Matthew 16:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in the morning; |**<big>[[G4404\|πρωΐ·]]</big>**  |prōi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

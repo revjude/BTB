@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:3** 
 <small><sub>**LXX:**</sub></small>
 And Solomon went out and all the assembly with him unto the high \[place\]  in Gibeon, of which the tent of the testimony of God was located, which Moses \[the\] servant \[of the\] <span class="smallcaps">lord</span> made in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-So Solomon, and all the congregation with him, went to the high place that [was] at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
-<small><sub>**BSB:**</sub></small>
-And Solomon and the whole assembly went to the high place at Gibeon because it was the location of God’s Tent of Meeting, which Moses the servant of the LORD had made in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.2|<< 2 Chronicles 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.4|2 Chronicles 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

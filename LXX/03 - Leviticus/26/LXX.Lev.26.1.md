@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You shall not make to yourselves a handmade thing, nor a carving, nor shall you raise up a monument to yourselves; nor a stone exemplar shall you stand in  your land to do obeisance to it. I am \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up [any] image of stone in your land, to bow down unto it: for I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-“You must not make idols for yourselves or set up a carved image or sacred pillar; you must not place a sculpted stone in your land to bow down to it. For I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.55|<< Leviticus 25:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.2|Leviticus 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

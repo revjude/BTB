@@ -1,10 +1,7 @@
 **LXX Isaiah 17:6** 
 <small><sub>**LXX:**</sub></small>
 and stubble should be left behind in it, or as two or three olive stones elevated at \[the\] top \[of the tree\], or four or five should be left behind upon their tender branches. Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two [or] three berries in the top of the uppermost bough, four [or] five in the outmost fruitful branches thereof, saith the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-Yet gleanings will remain, like an olive tree that has been beaten—two or three berries atop the tree, four or five on its fruitful branches,” declares the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

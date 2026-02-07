@@ -1,4 +1,4 @@
-**Ezekiel 18:26** 
+**Ezekiel 18:26**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a righteous [man] turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a righteous man turns from his righteousness and practices iniquity, he will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.25|<< Ezekiel 18:25]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.27|Ezekiel 18:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when turns away  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725O\|שׁוּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shuv-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַדִּ֧יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 24:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:45**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
 <small><sub>**BSB:**</sub></small>
 Who then is the faithful and wise servant, whom the master has put in charge of his household, to give the others their food at the proper time?
 <small><sub>**Literal:**</sub></small>
 Who then is the faithful servant and wise whom has set the master of him over the household of him <the> to give to them the food in season?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.44|<< Matthew 24:44]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.46|Matthew 24:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|Τίς]]</big>**  |Tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

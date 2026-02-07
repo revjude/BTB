@@ -1,12 +1,12 @@
-**Acts 17:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:34**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit certain men clave unto him, and believed: among the which [was] Dionysius the Areopagite, and a woman named Damaris, and others with them.
 <small><sub>**BSB:**</sub></small>
 But some joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them.
 <small><sub>**Literal:**</sub></small>
 Some however men having joined themselves to him believed, among whom also [were] Dionysius the Areopagite and a woman named Damaris and others with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.33|<< Acts 17:33]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.1|Acts 18:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|Τινὲς]]</big>**  |Tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

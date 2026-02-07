@@ -1,4 +1,4 @@
-**Proverbs 24:12** 
+**Proverbs 24:12**<big><big>[[Prov.24.10 Saying 25|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider [it]? and he that keepeth thy soul, doth [not] he know [it]? and shall [not] he render to [every] man according to his works?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If you say, “Behold, we did not know about this,” does not He who weighs hea
 > $\quad$ referenced by: [[Matt.16.27|Matt 16:27]] ☩ [[Rom.2.6|Rom 2:6]] ☩ [[2Tim.4.14|2Tim 4:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמַ֗ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

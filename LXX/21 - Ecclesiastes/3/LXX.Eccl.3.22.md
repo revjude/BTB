@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:22** 
 <small><sub>**LXX:**</sub></small>
 And I saw that there is no good, except where man shall be glad in his actions; for it \[is\] his portion. For who will lead him  to see in what ever should take place after him? 
-<small><sub>**KJV:**</sub></small>
-Wherefore I perceive that [there is] nothing better, than that a man should rejoice in his own works; for that [is] his portion: for who shall bring him to see what shall be after him?
-<small><sub>**BSB:**</sub></small>
-I have seen that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will come after him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.21|<< Ecclesiastes 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.1|Ecclesiastes 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

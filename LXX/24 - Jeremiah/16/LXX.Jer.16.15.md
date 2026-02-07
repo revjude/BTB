@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:15** 
 <small><sub>**LXX:**</sub></small>
 But \[they shall say\], As \[the\] <span class="smallcaps">lord</span> lives, who led the house of Israel from \[the\] land of \[the\] north, and from all the places where they were pushed out there. And I shall restore them unto  their land which I gave \[to\] their fathers. 
-<small><sub>**KJV:**</sub></small>
-But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
-<small><sub>**BSB:**</sub></small>
-Instead they will say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of the north and all the other lands to which He had banished them.’ For I will return them to their land that I gave to their forefathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.14|<< Jeremiah 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.16|Jeremiah 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 28:3** 
+**1 Samuel 28:3**<big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now by this time Samuel had died, and all Israel had mourned for him and buried 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.2|<< 1 Samuel 28:2]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.4|1 Samuel 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Samuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8050G\|שְׁמוּאֵ֣ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had died  |**<big>&#8207;[[H4191\|מֵ֔ת]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

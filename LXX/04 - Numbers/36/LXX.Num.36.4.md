@@ -1,10 +1,7 @@
 **LXX Numbers 36:4** 
 <small><sub>**LXX:**</sub></small>
 And if there should be the release of the sons of Israel, then their inheritance shall be added unto the inheritance of the tribe in which ever \[the\] women become \[wives\]; and from the inheritance of \[the\] tribe of our family their inheritance shall be removed. 
-<small><sub>**KJV:**</sub></small>
-And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
-<small><sub>**BSB:**</sub></small>
-And when the Jubilee for the Israelites comes, their inheritance will be added to the tribe into which they marry and taken away from the tribe of our fathers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.3|<< Numbers 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.5|Numbers 36:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 9:3** 
 <small><sub>**LXX:**</sub></small>
 And Tyre built a fortress to herself, and treasured up silver as dust, and gathered gold as mud of streets. 
-<small><sub>**KJV:**</sub></small>
-And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
-<small><sub>**BSB:**</sub></small>
-Tyre has built herself a fortress; she has heaped up silver like dust, and gold like the dirt of the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.2|<< Zechariah 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.4|Zechariah 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

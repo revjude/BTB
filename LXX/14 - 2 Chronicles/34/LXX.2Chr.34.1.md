@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Josiah \[was\] a son being eight years \[old\] in  his taking reign, and thirty and one year he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Josiah [was] eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
-<small><sub>**BSB:**</sub></small>
-Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.25|<< 2 Chronicles 33:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.2|2 Chronicles 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

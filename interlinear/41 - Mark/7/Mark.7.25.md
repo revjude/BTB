@@ -1,12 +1,12 @@
-**Mark 7:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:25**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a [certain] woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
 <small><sub>**BSB:**</sub></small>
 Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet.
 <small><sub>**Literal:**</sub></small>
 But immediately having heard for a woman about Him of whom had the little daughter of her spirit unclean, having come she fell at the feet of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.24|<< Mark 7:24]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.26|Mark 7:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
 | immediately [^1] |**<big>[[G2112\|εὐθὺς]]</big>**  |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

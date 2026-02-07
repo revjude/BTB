@@ -1,4 +1,4 @@
-**Nehemiah 4:17** (4:11)
+**Nehemiah 4:17**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They which builded on the wall, and they that bare burdens, with those that laded, [every one] with one of his hands wrought in the work, and with the other [hand] held a weapon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who were rebuilding the wall. The laborers who carried materials worked with one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.16|<< Nehemiah 4:16]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.18|Nehemiah 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who were rebuilding  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בּוֹנִ֧ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on> the wall  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2346G\|חוֹמָ֛ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

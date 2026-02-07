@@ -1,4 +1,4 @@
-**Isaiah 56:9** 
+**Isaiah 56:9**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All ye beasts of the field, come to devour, [yea], all ye beasts in the forest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, all you beasts of the field; eat greedily, all you beasts of the forest.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.8|<< Isaiah 56:8]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.10|Isaiah 56:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O every  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | animal of  |**<big>&#8207;[[H2416C\|חַיְת֣וֹ]]&#8207; </big>**| chay.To<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

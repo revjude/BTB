@@ -1,10 +1,7 @@
 **LXX Ezra 1:5** 
 <small><sub>**LXX:**</sub></small>
 And rose up \[the\] rulers of the families  of Judah, and Benjamin, and the priests, and the Levites -- all which God awakened  their spirit  to ascend to build the house of \[the\] <span class="smallcaps">lord</span>, the one in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all [them] whose spirit God had raised, to go up to build the house of the LORD which [is] in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So the family heads of Judah and Benjamin, along with the priests and Levites—everyone whose spirit God had stirred—prepared to go up and rebuild the house of the LORD in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.4|<< Ezra 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.6|Ezra 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

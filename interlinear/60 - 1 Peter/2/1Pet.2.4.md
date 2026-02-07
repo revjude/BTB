@@ -1,5 +1,5 @@
-**1 Peter 2:4
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:4**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom coming, [as unto] a living stone, disallowed indeed of men, but chosen of God, [and] precious,
 <small><sub>**BSB:**</sub></small>
 As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight,
@@ -10,7 +10,7 @@ To whom coming a stone living, by men indeed rejected in the sight of however Go
 > $\quad$ alluding to: [[LXX.Ps.118.22|Ps 118:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

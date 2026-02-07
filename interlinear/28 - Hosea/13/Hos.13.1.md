@@ -1,4 +1,4 @@
-**Hosea 13:1** 
+**Hosea 13:1**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.14|<< Hosea 12:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.2|Hosea 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when spoke  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1696G\|דַבֵּ֤ר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

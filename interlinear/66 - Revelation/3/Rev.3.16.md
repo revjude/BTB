@@ -1,12 +1,12 @@
-**Revelation 3:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:16**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
 <small><sub>**BSB:**</sub></small>
 So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth!
 <small><sub>**Literal:**</sub></small>
 So because lukewarm you are and neither hot nor cold, I am about you to spit out of the mouth of Mine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.15|<< Revelation 3:15]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.17|Revelation 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

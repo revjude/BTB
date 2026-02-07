@@ -1,12 +1,12 @@
-**Romans 11:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:7**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded
 <small><sub>**BSB:**</sub></small>
 What then? What Israel was seeking, it failed to obtain, but the elect did. The others were hardened,
 <small><sub>**Literal:**</sub></small>
 What then? What is seeking Israel, this not it has obtained, <the> but the elect obtained [it]; The now rest were hardened<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.6|<< Romans 11:6]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.8|Romans 11:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then? |**<big>[[G3767\|οὖν;]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

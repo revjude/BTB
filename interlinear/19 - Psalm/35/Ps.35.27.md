@@ -1,4 +1,4 @@
-**Psalms 35:27** 
+**Psalms 35:27**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who favor my vindication shout for joy and gladness; may they always s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.26|<< Psalms 35:26]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.28|Psalms 35:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they shout for joy  |**<big>&#8207;[[H7442B\|יָרֹ֣נּוּ]]&#8207; </big>**| ya.Ro.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|יִשְׂמְחוּ֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.me.Chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

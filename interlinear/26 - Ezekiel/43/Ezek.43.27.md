@@ -1,4 +1,4 @@
-**Ezekiel 43:27** 
+**Ezekiel 43:27**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when these days are expired, it shall be, [that] upon the eighth day, and [so] forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the end of these days, from the eighth day on, the priests are to present you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.26|<< Ezekiel 43:26]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.1|Ezekiel 44:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may complete  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3615G\|יכַלּ֖וּ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> kha.Lu<small><sup>[[HVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

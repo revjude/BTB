@@ -1,4 +1,4 @@
-**Jeremiah 2:7** 
+**Jeremiah 2:7**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I brought you into a fertile land to eat its fruit and bounty, but you came and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.6|<< Jeremiah 2:6]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.8|Jeremiah 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935P\|אָבִ֤יא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vi'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

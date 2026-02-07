@@ -1,4 +1,4 @@
-**Leviticus 14:48** 
+**Leviticus 14:48**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the priest shall come in, and look [upon it], and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, however, the priest comes and inspects it, and the mildew has not spread aft
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.47|<< Leviticus 14:47]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.49|Leviticus 14:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | indeed \<come>  |**<big>&#8207;[[H0935G\|בֹּ֨א]]&#8207; </big>**| bo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

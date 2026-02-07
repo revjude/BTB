@@ -1,4 +1,4 @@
-**Proverbs 3:11** 
+**Proverbs 3:11**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, despise not the chastening of the LORD; neither be weary of his correction:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My son, do not reject the discipline of the LORD, and do not loathe His rebuke;
 > $\quad$ referenced by: [[Heb.12.5|Heb 12:5-6]] ☩ [[Rev.3.19|Rev 3:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] discipline of  |**<big>&#8207;[[H4148G\|מוּסַ֣ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

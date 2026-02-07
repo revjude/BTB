@@ -1,12 +1,12 @@
-**Matthew 27:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:24**<big><big>[[Matt.27.24 Pilate Washes His Hands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Pilate saw that he could prevail nothing, but [that] rather a tumult was made, he took water, and washed [his] hands before the multitude, saying, I am innocent of the blood of this just person: see ye [to it].
 <small><sub>**BSB:**</sub></small>
 When Pilate saw that he was accomplishing nothing, but that instead a riot was breaking out, he took water and washed his hands before the crowd. “I am innocent of this man’s blood,” he said. “You bear the responsibility.”
 <small><sub>**Literal:**</sub></small>
 Having seen now <the> Pilate that no [thing] it availed but rather a riot is arising, having taken water he washed the hands opposite the crowd saying; Guiltless I am of the blood <the> righteous [one] of this; For yourselves you will behold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.23|<< Matthew 27:23]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.25|Matthew 27:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

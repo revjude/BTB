@@ -1,5 +1,5 @@
-**2 Thessalonians 1:8
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:8**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 in blazing fire, inflicting vengeance on those who do not know God and do not obey the gospel of our Lord Jesus.
@@ -10,7 +10,7 @@ in a fire of flame, {8} inflicting vengeance on those not knowing God and on tho
 > $\quad$ alluding to: [[LXX.Isa.66.15|Isa 66:15]] ☩ [[LXX.Jer.10.25|Jer 10:25]] ☩ [[LXX.Ps.79.6|Ps 79:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | a fire [^2] |**<big>[[G4442\|πυρὶ]]</big>**  |puri <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">NK(o)</abbr>[^3] | |

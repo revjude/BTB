@@ -1,12 +1,12 @@
 (KJV) **Genesis 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18|<< Genesis 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20|Genesis 20 >>]]</td></tr></table>
 
-***Lot Welcomes the Angels***&emsp;<small><sup>\[ [[Judg.19|Judges 19:1–30]] ]</sup></small> ^bsb55
+<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥃]]</big></big>***Lot Welcomes the Angels***&emsp;<small><sup>\[ [[Judg.19|Judges 19:1–30]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.19.1|1]]**<span class="endversemarker">]</span> And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing \[them\] rose<small><small>[^2]</small></small> up to meet them; and he bowed<small><small>[^3]</small></small> himself with his face toward the ground;<small><small>[^4]</small></small><small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Gen.19.2|2]]**<span class="endversemarker">]</span> And he said, Behold now, my lords, turn<small><small>[^6]</small></small> in, I pray you, into your servant’s house, and tarry all night, and wash<small><small>[^7]</small></small> your feet, and ye shall rise up early, and go on your ways. And they said, Nay<small><small>[^8]</small></small>; but we will abide in the street all night. <span class="startversemarker">[</span>**[[Gen.19.3|3]]**<span class="endversemarker">]</span> And he pressed<small><small>[^9]</small></small> upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast<small><small>[^10]</small></small>, and did bake unleavened<small><small>[^11]</small></small> bread, and they did eat. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.19.4|4]]**<span class="endversemarker">]</span> But<small><small>[^12]</small></small> before they lay down, the men of the city, \[even\] the men of Sodom, compassed the house round, both old and young, all<small><small>[^13]</small></small> the people from every quarter: <span class="startversemarker">[</span>**[[Gen.19.5|5]]**<span class="endversemarker">]</span> And they called unto Lot, and said unto him, Where \[are\] the men which came in to thee this night? bring them out unto us, that we may know them.<small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[Gen.19.6|6]]**<span class="endversemarker">]</span> And Lot<small><small>[^15]</small></small> went out at the door<small><small>[^16]</small></small> unto them, and shut the door after him, <span class="startversemarker">[</span>**[[Gen.19.7|7]]**<span class="endversemarker">]</span> And said, I pray you, brethren, do not so wickedly.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Gen.19.8|8]]**<span class="endversemarker">]</span> Behold now, I have<small><small>[^18]</small></small> two daughters which have not known man; let<small><small>[^19]</small></small> me, I pray you, bring them out unto you, and do ye to them as \[is\] good in your eyes: only unto these men do nothing; for therefore<small><small>[^20]</small></small> came they under the shadow of my roof. <span class="startversemarker">[</span>**[[Gen.19.9|9]]**<span class="endversemarker">]</span> And they said, Stand<small><small>[^21]</small></small> back. And they said \[again\], This<small><small>[^22]</small></small> one \[fellow\] came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed<small><small>[^23]</small></small> sore upon the man, \[even\] Lot, and came near to break the door. <span class="startversemarker">[</span>**[[Gen.19.10|10]]**<span class="endversemarker">]</span> But the men put forth their hand, and pulled Lot into the house to them, and shut to the door. <span class="startversemarker">[</span>**[[Gen.19.11|11]]**<span class="endversemarker">]</span> And they smote the men that \[were\] at the door of the house with blindness<small><small>[^24]</small></small>, both small and great: so that they<small><small>[^25]</small></small> wearied themselves to find the door.
 
-***Lot Flees to Zoar*** ^bsb56
+<big><big>[[Gen.19.12 Lot Flees to Zoar|⥃]]</big></big>***Lot Flees to Zoar***
 
  
 
@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.19.17|17]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.19.23|23]]**<span class="endversemarker">]</span> [¶]The sun was risen<small><small>[^53]</small></small> upon the earth when Lot entered into Zoar.
 
-***The Destruction of Sodom and Gomorrah***&emsp;<small><sup>\[ [[Luke.17|Luke 17:20–37]] ]</sup></small> ^bsb57
+<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥃]]</big></big>***The Destruction of Sodom and Gomorrah***&emsp;<small><sup>\[ [[Luke.17|Luke 17:20–37]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Gen.19.24|24]]**<span class="endversemarker">]</span> Then the <span class="smallcaps">Lord<small><small>[^54]</small></small></span> rained upon Sodom and upon Gomorrah brimstone<small><small>[^55]</small></small> and fire from the <span class="smallcaps">Lord</span> out of heaven; <span class="startversemarker">[</span>**[[Gen.19.25|25]]**<span class="endversemarker">]</span> And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground.<small><small>[^56]</small></small> 
 
@@ -28,7 +28,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.19.27|27]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.19.29|29]]**<span class="endversemarker">]</span> [¶]And it came to pass, when God destroyed the cities of the plain, that God<small><small>[^62]</small></small> remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 
-***Lot and His Daughters*** ^bsb58
+<big><big>[[Gen.19.30 Lot and His Daughters|⥃]]</big></big>***Lot and His Daughters***
 
  
 

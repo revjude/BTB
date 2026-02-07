@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:7** 
 <small><sub>**LXX:**</sub></small>
 And David sent for Tamar to the house, saying, Go indeed to the house of Amnon  your brother, and make food for him! 
-<small><sub>**KJV:**</sub></small>
-Then David sent home to Tamar, saying, Go now to thy brother Amnon’s house, and dress him meat.
-<small><sub>**BSB:**</sub></small>
-Then David sent word to Tamar at the palace: “Please go to the house of Amnon your brother and prepare a meal for him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.6|<< 2 Samuel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.8|2 Samuel 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 1:9** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\]  their number -- wine-coolers of gold -- thirty, and wine-coolers of silver -- a thousand, \[knives\] for altering -- nine and twenty, basins of gold -- thirty, 
-<small><sub>**KJV:**</sub></small>
-And this [is] the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives,
-<small><sub>**BSB:**</sub></small>
-This was the inventory: 30 gold dishes, 1,000 silver dishes, 29 silver utensils,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.8|<< Ezra 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.10|Ezra 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**John 7:39
-**<small><sub>**KJV:**</sub></small>
+**John 7:39**<big><big>[[John.7.37 Living Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet [given]; because that Jesus was not yet glorified.)
 <small><sub>**BSB:**</sub></small>
 He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.
@@ -10,7 +10,7 @@ This now He said concerning the Spirit which were about to receive those having 
 > $\quad$ alluding to: [[LXX.Isa.44.3|Isa 44:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

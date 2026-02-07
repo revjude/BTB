@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:28** 
 <small><sub>**LXX:**</sub></small>
 Again take to yourself another papyrus paper \[scroll\], and write all the words  being on the papyrus paper \[scroll\] which king Jehoaikim incinerated! 
-<small><sub>**KJV:**</sub></small>
-Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned.
-<small><sub>**BSB:**</sub></small>
-“Take another scroll and rewrite on it the very words that were on the original scroll, which Jehoiakim king of Judah has burned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.27|<< Jeremiah 36:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.29|Jeremiah 36:29 >>]]</td></tr></table>
 
 | Translation | Greek |

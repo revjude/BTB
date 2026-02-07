@@ -1,10 +1,7 @@
 **LXX Ruth 1:13** 
 <small><sub>**LXX:**</sub></small>
 Shall you wait for them until of which \[time\] they should become manly? Or, for them shall you hold up  to not have a husband? No, my daughters; for it is made bitter to me exceedingly for you, that \[the\] hand \[of the\] <span class="smallcaps">lord</span> came forth against me. 
-<small><sub>**KJV:**</sub></small>
-Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.
-<small><sub>**BSB:**</sub></small>
-would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.12|<< Ruth 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.14|Ruth 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

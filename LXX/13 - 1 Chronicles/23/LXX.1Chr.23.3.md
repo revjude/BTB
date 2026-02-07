@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:3** 
 <small><sub>**LXX:**</sub></small>
 And the Levites were counted from thirty years old and up. And the number of them was according to their head \[count\] of males -- thirty and eight thousand. 
-<small><sub>**KJV:**</sub></small>
-Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.
-<small><sub>**BSB:**</sub></small>
-The Levites thirty years of age or older were counted, and the total number of men was 38,000.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.2|<< 1 Chronicles 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.4|1 Chronicles 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

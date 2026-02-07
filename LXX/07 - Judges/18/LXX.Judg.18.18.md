@@ -1,10 +1,7 @@
 **LXX Judges 18:18** 
 <small><sub>**LXX:**</sub></small>
 And \[when\] these entered into \[the\] house of Micah, and took the carved \[image\], and the ephod, and the teraphim, and the molten \[image\], that the priest said to them, What do you do? 
-<small><sub>**KJV:**</sub></small>
-And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?
-<small><sub>**BSB:**</sub></small>
-When they entered Micah’s house and took the graven image, the ephod, the household idols, and the molten idol, the priest said to them, “What are you doing?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.17|<< Judges 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.19|Judges 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

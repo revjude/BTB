@@ -1,4 +1,4 @@
-**Genesis 19:37** 
+**Genesis 19:37**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn bare a son, and called his name Moab: the same [is] the father of the Moabites unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The older daughter gave birth to a son and named him Moab. He is the father of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.36|<< Genesis 19:36]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.38|Genesis 19:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֤לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1067\|בְּכִירָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.khi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

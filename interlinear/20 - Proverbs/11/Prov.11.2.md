@@ -1,4 +1,4 @@
-**Proverbs 11:2** 
+**Proverbs 11:2**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [When] pride cometh, then cometh shame: but with the lowly [is] wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When pride comes, disgrace follows, but with humility comes wisdom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.1|<< Proverbs 11:1]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.3|Proverbs 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it comes  |**<big>&#8207;[[H0935G\|בָּֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba'-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pride  |**<big>&#8207;[[H2087\|זָ֭דוֹן]]&#8207; </big>**| Za.don<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

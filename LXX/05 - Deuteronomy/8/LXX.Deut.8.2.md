@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember the whole journey which \[the\] <span class="smallcaps">lord</span> your God led you this fortieth year in the wilderness, how he should afflict you, and should test you, and should determine the \[things\] in  your heart, if you shall guard  his commandments or not. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, [and] to prove thee, to know what [was] in thine heart, whether thou wouldest keep his commandments, or no.
-<small><sub>**BSB:**</sub></small>
-Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.1|<< Deuteronomy 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.3|Deuteronomy 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

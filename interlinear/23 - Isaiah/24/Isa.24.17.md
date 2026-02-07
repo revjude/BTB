@@ -1,4 +1,4 @@
-**Isaiah 24:17** 
+**Isaiah 24:17**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear, and the pit, and the snare, [are] upon thee, O inhabitant of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Terror and pit and snare await you, O dweller of the earth.
 > $\quad$ referenced by: [[Luke.21.35|Luke 21:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | dread  |**<big>&#8207;[[H6343\|פַּ֥חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and pit  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6354\|פַ֖חַת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Fa.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 29:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall slay it, and take of the blood of it, and place \[it\] upon the lobe of the ear of Aaron -- of the right \[one\], and upon the big toe of the foot -- of the right \[one\], and upon the lobes of the right ears of his sons, and upon the thumbs  of their right hands, and upon the big toes  of their right feet. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou kill the ram, and take of his blood, and put [it] upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.
-<small><sub>**BSB:**</sub></small>
-Slaughter the ram, take some of its blood, and put it on the right earlobes of Aaron and his sons, on the thumbs of their right hands, and on the big toes of their right feet. Splatter the remaining blood on all sides of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.19|<< Exodus 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.21|Exodus 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

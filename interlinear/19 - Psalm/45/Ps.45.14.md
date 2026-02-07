@@ -1,4 +1,4 @@
-**Psalms 45:14** (45:15)
+**Psalms 45:14**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In colorful garments she is led to the king; her virgin companions are brought b
 > $\quad$ referenced by: [[Rev.19.8|Rev 19:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to embroidered robes  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7553\|רְקָמוֹת֮]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.ka.mOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she is brought  |**<big>&#8207;[[H2986\|תּוּבַ֪ל]]&#8207; </big>**| tu.Val<small><sup>[[HVHi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

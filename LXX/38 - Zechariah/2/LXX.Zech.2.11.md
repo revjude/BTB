@@ -1,10 +1,7 @@
 **LXX Zechariah 2:11** 
 <small><sub>**LXX:**</sub></small>
 And many nations shall take refuge unto the <span class="smallcaps">lord</span> in  that day, and they will be to him for a people. And I will encamp in your midst, and you shall realize that \[the\] <span class="smallcaps">lord</span> almighty has sent me to you. 
-<small><sub>**KJV:**</sub></small>
-And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.
-<small><sub>**BSB:**</sub></small>
-“On that day many nations will join themselves to the LORD, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.10|<< Zechariah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.12|Zechariah 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

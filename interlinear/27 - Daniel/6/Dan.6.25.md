@@ -1,4 +1,4 @@
-**Daniel 6:25** (6:26)
+**Daniel 6:25**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then King Darius wrote to the people of every nation and language throughout the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.24|<< Daniel 6:24]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.26|Daniel 6:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֜יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Darius  |**<big>&#8207;[[H1868H\|דָּרְיָ֣וֶשׁ]]&#8207; </big>**| da.re.Ya.vesh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

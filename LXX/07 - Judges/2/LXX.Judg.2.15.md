@@ -1,10 +1,7 @@
 **LXX Judges 2:15** 
 <small><sub>**LXX:**</sub></small>
 In all wherever they went, even \[the\] hand of \[the\] <span class="smallcaps">lord</span> was against them for bad, as \[the\] <span class="smallcaps">lord</span> said, and as \[the\] <span class="smallcaps">lord</span> swore to them; and he squeezed them exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Whithersoever they went out, the hand of the LORD was against them for evil, as the LORD had said, and as the LORD had sworn unto them: and they were greatly distressed.
-<small><sub>**BSB:**</sub></small>
-Wherever Israel marched out, the hand of the LORD was against them to bring calamity, just as He had sworn to them. So they were greatly distressed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.14|<< Judges 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.16|Judges 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

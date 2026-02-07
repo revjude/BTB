@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:21** 
 <small><sub>**LXX:**</sub></small>
 And a spirit came forth, and stood before \[the\] <span class="smallcaps">lord</span>. And he said, I will deceive him. 
-<small><sub>**KJV:**</sub></small>
-And there came forth a spirit, and stood before the LORD, and said, I will persuade him.
-<small><sub>**BSB:**</sub></small>
-Then a spirit came forward, stood before the LORD, and said, ‘I will entice him.’ ‘By what means?’ asked the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.20|<< 1 Kings 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.22|1 Kings 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

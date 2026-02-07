@@ -1,10 +1,7 @@
 **LXX Numbers 11:33** 
 <small><sub>**LXX:**</sub></small>
 The meats still was in  their teeth before the dissipating. And \[the\] <span class="smallcaps">lord</span> was enraged in wrath at the people. And \[the\] <span class="smallcaps">lord</span> struck the people an exceedingly great calamity. 
-<small><sub>**KJV:**</sub></small>
-And while the flesh [was] yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
-<small><sub>**BSB:**</sub></small>
-But while the meat was still between their teeth, before it was chewed, the anger of the LORD burned against the people, and the LORD struck them with a severe plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.32|<< Numbers 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.34|Numbers 11:34 >>]]</td></tr></table>
 
 | Translation | Greek |

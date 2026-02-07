@@ -1,10 +1,7 @@
 **LXX Numbers 5:15** 
 <small><sub>**LXX:**</sub></small>
 then the man shall lead  his wife to the priest, and he shall bring the gift for her, the tenth of the ephah of flour of barley; he shall not pour upon it olive oil, nor shall he place upon it frankincense; for it is a sacrifice for jealousy, a sacrifice of memorial, calling to mind sin. 
-<small><sub>**KJV:**</sub></small>
-Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth [part] of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it [is] an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
-<small><sub>**BSB:**</sub></small>
-then he is to bring his wife to the priest. He must also bring for her an offering of a tenth of an ephah of barley flour. He is not to pour oil over it or put frankincense on it, because it is a grain offering for jealousy, an offering of memorial as a reminder of iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.14|<< Numbers 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.16|Numbers 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 35:16** 
 <small><sub>**LXX:**</sub></small>
 And if by an item of iron one should strike him, and he should come to an end -- \[that one\] is a murderer -- unto death the murderer be put to death! 
-<small><sub>**KJV:**</sub></small>
-And if he smite him with an instrument of iron, so that he die, he [is] a murderer: the murderer shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-If, however, anyone strikes a person with an iron object and kills him, he is a murderer; the murderer must surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.15|<< Numbers 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.17|Numbers 35:17 >>]]</td></tr></table>
 
 | Translation | Greek |

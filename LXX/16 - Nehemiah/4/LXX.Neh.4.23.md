@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:23** 
 <small><sub>**LXX:**</sub></small>
 And I was \[there\], and  my brethren, and the young men, and the men of the advance guard \[were\] behind me; and there was not of us a man being stripped  of his own garments; a man and his weapons into the water. 
-<small><sub>**KJV:**</sub></small>
-So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, [saving that] every one put them off for washing.
-<small><sub>**BSB:**</sub></small>
-So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.22|<< Nehemiah 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.1|Nehemiah 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

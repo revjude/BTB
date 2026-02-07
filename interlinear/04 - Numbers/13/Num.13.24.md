@@ -1,4 +1,4 @@
-**Numbers 13:24** 
+**Numbers 13:24**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of the cluster of grapes the Israelites cut there, that place was called
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> the place  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4725\|מָּק֣וֹם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֔וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

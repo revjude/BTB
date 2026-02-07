@@ -1,10 +1,7 @@
 **LXX Proverbs 28:7** 
 <small><sub>**LXX:**</sub></small>
 A discerning son keeps \[the\] law; but the one who tends carnality dishonors his father. 
-<small><sub>**KJV:**</sub></small>
-Whoso keepeth the law [is] a wise son: but he that is a companion of riotous [men] shameth his father.
-<small><sub>**BSB:**</sub></small>
-A discerning son keeps the law, but a companion of gluttons disgraces his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

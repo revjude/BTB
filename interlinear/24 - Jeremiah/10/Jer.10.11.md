@@ -1,4 +1,4 @@
-**Jeremiah 10:11** 
+**Jeremiah 10:11**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall ye say unto them, The gods that have not made the heavens and the earth, [even] they shall perish from the earth, and from under these heavens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus you are to tell them: “These gods, who have made neither the heavens nor 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.10|<< Jeremiah 10:10]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.12|Jeremiah 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like this  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1836\|דְנָה֙]]&#8207; </big>**| ki<small><sup>[[AR]]</sup></small> d.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0560\|תֵּאמְר֣וּן]]&#8207; </big>**| tem.Run<small><sup>[[AVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

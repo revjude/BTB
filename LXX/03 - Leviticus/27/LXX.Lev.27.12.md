@@ -1,10 +1,7 @@
 **LXX Leviticus 27:12** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall value it, between good and between bad. And as far as the priest valuing it, so it will stand. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall value it, whether it be good or bad: as thou valuest it, [who art] the priest, so shall it be.
-<small><sub>**BSB:**</sub></small>
-The priest shall set its value, whether high or low; as the priest values it, the price will be set.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.11|<< Leviticus 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.13|Leviticus 27:13 >>]]</td></tr></table>
 
 | Translation | Greek |

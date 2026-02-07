@@ -1,4 +1,4 @@
-**Psalms 110:3** 
+**Psalms 110:3**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy people [shall be] willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your people shall be willing on Your day of battle. Arrayed in holy splendor, fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.2|<< Psalms 110:2]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.4|Psalms 110:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] freewill offerings  |**<big>&#8207;[[H5071\|נְדָבֹת֮]]&#8207; </big>**| ne.da.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

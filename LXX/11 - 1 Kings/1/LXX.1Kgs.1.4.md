@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:4** 
 <small><sub>**LXX:**</sub></small>
 And the young woman \[was\] goodly to the sight, exceedingly, and was warming the king. And she ministered to him, and the king did not know her. 
-<small><sub>**KJV:**</sub></small>
-And the damsel [was] very fair, and cherished the king, and ministered to him: but the king knew her not.
-<small><sub>**BSB:**</sub></small>
-The girl was unsurpassed in beauty; she cared for the king and served him, but he had no relations with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.3|<< 1 Kings 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.5|1 Kings 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

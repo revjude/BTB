@@ -1,4 +1,4 @@
-**Ezekiel 40:39** 
+**Ezekiel 40:39**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the porch of the gate [were] two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Inside the portico of the gateway were two tables on each side, on which the bur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.38|<< Ezekiel 40:38]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.40|Ezekiel 40:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] in [the] porch of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0197J\|אֻלָ֣ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'u.Lam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gate  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8179G\|שַּׁ֗עַר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

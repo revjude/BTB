@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:10** 
 <small><sub>**LXX:**</sub></small>
 You deliberated shame \[to\] your house; you finished off many peoples, and your soul was led into sin. 
-<small><sub>**KJV:**</sub></small>
-Thou hast consulted shame to thy house by cutting off many people, and hast sinned [against] thy soul.
-<small><sub>**BSB:**</sub></small>
-You have plotted shame for your house by cutting off many peoples and forfeiting your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.9|<< Habakkuk 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.11|Habakkuk 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

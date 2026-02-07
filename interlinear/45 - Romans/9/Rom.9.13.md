@@ -1,5 +1,5 @@
-**Romans 9:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:13**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written, Jacob have I loved, but Esau have I hated.
 <small><sub>**BSB:**</sub></small>
 So it is written: “Jacob I loved, but Esau I hated.”
@@ -10,7 +10,7 @@ Even as it has been written: <the> Jacob I loved, <the> but Esau I hated.<br><ta
 > $\quad$ referencing: [[LXX.Mal.1.2|Mal 1:2-3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as [^1] |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

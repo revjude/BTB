@@ -1,10 +1,7 @@
 **LXX Isaiah 7:16** 
 <small><sub>**LXX:**</sub></small>
 For before  the male child knows good or evil, in resisting persuasion of wickedness he chooses the good. And the land shall be abandoned which you fear of in front of the two kings. 
-<small><sub>**KJV:**</sub></small>
-For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
-<small><sub>**BSB:**</sub></small>
-For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.15|<< Isaiah 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.17|Isaiah 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

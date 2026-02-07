@@ -1,12 +1,12 @@
-**Hebrews 9:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:19**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
 <small><sub>**BSB:**</sub></small>
 For when Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people,
 <small><sub>**Literal:**</sub></small>
 When was being spoken for every commandment according to the law under Moses to all the people, having taken the blood <the> of calves and <the> of goats with water and wool scarlet and hyssop, itself both the book and all the people he sprinkled<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.18|<< Hebrews 9:18]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.20|Hebrews 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was being spoken |**<big>[[G2980\|λαληθείσης]]</big>**  |lalētheisēs <small><sup>[[V-APP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

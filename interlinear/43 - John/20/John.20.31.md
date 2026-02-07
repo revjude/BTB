@@ -1,12 +1,12 @@
-**John 20:31
-**<small><sub>**KJV:**</sub></small>
+**John 20:31**<big><big>[[John.20.30 The Purpose of John’s Book|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
 <small><sub>**BSB:**</sub></small>
 But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name.
 <small><sub>**Literal:**</sub></small>
 these however have been written that you may believe that <the> Jesus is the Christ the Son <the> of God and that believing life you may have in the name of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.30|<< John 20:30]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.1|John 21:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

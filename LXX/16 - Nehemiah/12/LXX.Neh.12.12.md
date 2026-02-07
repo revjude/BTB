@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:12** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] days of Joiakim were the priests, and the rulers of the families -- \[to\] Seraiah, Meraiah; \[to\] Jeremiah, Hananiah; 
-<small><sub>**KJV:**</sub></small>
-And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
-<small><sub>**BSB:**</sub></small>
-In the days of Joiakim, these were the heads of the priestly families: of the family of Seraiah, Meraiah; of Jeremiah, Hananiah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

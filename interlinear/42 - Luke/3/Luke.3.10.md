@@ -1,5 +1,5 @@
-**Luke 3:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:10**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people asked him, saying, What shall we do then?
 <small><sub>**BSB:**</sub></small>
 The crowds asked him, “What then should we do?”
@@ -10,7 +10,7 @@ And were asking him the crowds saying; What then shall we do?<br><table width="1
 > $\quad$ referencing: [[LXX.Mal.3.7|Mal 3:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were asking |**<big>[[G1905\|ἐπηρώτων]]</big>**  |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

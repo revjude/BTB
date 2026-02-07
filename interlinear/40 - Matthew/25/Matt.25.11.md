@@ -1,12 +1,12 @@
-**Matthew 25:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:11**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Afterward came also the other virgins, saying, Lord, Lord, open to us.
 <small><sub>**BSB:**</sub></small>
 Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’
 <small><sub>**Literal:**</sub></small>
 Afterward then come also the other virgins saying; lord lord, do open to us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.10|<< Matthew 25:10]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.12|Matthew 25:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Afterward |**<big>[[G5306\|ὕστερον]]</big>**  |husteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

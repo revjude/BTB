@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever all these things should come upon you, the blessing and the curse, which I put before your face, and you shall take \[them\] into  your heart in all the nations of which ever \[the\] <span class="smallcaps">lord</span> your God should disperse you there; 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call [them] to mind among all the nations, whither the LORD thy God hath driven thee,
-<small><sub>**BSB:**</sub></small>
-“When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.29|<< Deuteronomy 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.2|Deuteronomy 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

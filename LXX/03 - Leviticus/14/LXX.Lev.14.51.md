@@ -1,10 +1,7 @@
 **LXX Leviticus 14:51** 
 <small><sub>**LXX:**</sub></small>
 And he shall take the wood  of cedar, and the twined scarlet, and the hyssop, and the living small bird; and he shall dip them into the blood of the small bird  having been slain over living water; and he shall sprinkle about with them upon the house seven times. 
-<small><sub>**KJV:**</sub></small>
-And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:
-<small><sub>**BSB:**</sub></small>
-Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.50|<< Leviticus 14:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.52|Leviticus 14:52 >>]]</td></tr></table>
 
 | Translation | Greek |

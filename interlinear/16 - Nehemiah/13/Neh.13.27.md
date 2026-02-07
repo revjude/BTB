@@ -1,4 +1,4 @@
-**Nehemiah 13:27** 
+**Nehemiah 13:27**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Must we now hear that you too are doing all this terrible evil and acting unfait
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.26|<< Nehemiah 13:26]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.28|Nehemiah 13:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ is it heard  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H8085G\|נִשְׁמַ֗ע]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

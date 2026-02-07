@@ -1,4 +1,4 @@
-**Job 20:12** 
+**Job 20:12**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though wickedness be sweet in his mouth, [though] he hide it under his tongue;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though evil is sweet in his mouth and he conceals it under his tongue,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.11|<< Job 20:11]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.13|Job 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is sweet  |**<big>&#8207;[[H4985\|תַּמְתִּ֣יק]]&#8207; </big>**| tam.Tik<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if his gift \[offering\] \[be a\] sacrifice of deliverance to the <span class="smallcaps">lord</span>, \[and\] if then from  his oxen he should bring \[it\]; if indeed a male, \[and\] if indeed a female, he shall bring it unblemished before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And if his oblation [be] a sacrifice of peace offering, if he offer [it] of the herd; whether [it be] a male or female, he shall offer it without blemish before the LORD.
-<small><sub>**BSB:**</sub></small>
-“If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.16|<< Leviticus 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.2|Leviticus 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

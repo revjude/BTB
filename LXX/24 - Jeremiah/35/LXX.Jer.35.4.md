@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:4** 
 <small><sub>**LXX:**</sub></small>
 and they brought them into \[the\] house of \[the\] <span class="smallcaps">lord</span>, into the cubicle of \[the\] sons of Hanan son of Igdaliah, a man  of God, which is near the house of the rulers, above the house of Maaseiah \[the\] son of Shallum, the one guarding the way. 
-<small><sub>**KJV:**</sub></small>
-And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which [was] by the chamber of the princes, which [was] above the chamber of Maaseiah the son of Shallum, the keeper of the door:
-<small><sub>**BSB:**</sub></small>
-and I brought them into the house of the LORD, to a chamber occupied by the sons of Hanan son of Igdaliah, a man of God. This room was near the chamber of the officials, which was above the chamber of Maaseiah son of Shallum the doorkeeper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.3|<< Jeremiah 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.5|Jeremiah 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

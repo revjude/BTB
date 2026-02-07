@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of Moab, even for four, I shall not turn away from it. Because they incinerated the bones of \[the\] king of Edom into powder. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away [the punishment] thereof; because he burned the bones of the king of Edom into lime:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom’s king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.15|<< Amos 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.2|Amos 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

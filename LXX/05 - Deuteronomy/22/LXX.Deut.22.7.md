@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:7** 
 <small><sub>**LXX:**</sub></small>
 By discharge you shall send off the mother, but the offspring you shall take to yourself; that it should be good for you, and you shall be of many days. 
-<small><sub>**KJV:**</sub></small>
-[But] thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and [that] thou mayest prolong [thy] days.
-<small><sub>**BSB:**</sub></small>
-You may take the young, but be sure to let the mother go, so that it may be well with you and that you may prolong your days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.6|<< Deuteronomy 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.8|Deuteronomy 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

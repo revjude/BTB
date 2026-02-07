@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:4** 
 <small><sub>**LXX:**</sub></small>
 And David sent spies, and he knew that Saul was come prepared from there. 
-<small><sub>**KJV:**</sub></small>
-David therefore sent out spies, and understood that Saul was come in very deed.
-<small><sub>**BSB:**</sub></small>
-David sent out spies to verify that Saul had arrived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.3|<< 1 Samuel 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.5|1 Samuel 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

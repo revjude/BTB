@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  coming from \[the\] <span class="smallcaps">lord</span> to Jeremiah, saying, 
-<small><sub>**KJV:**</sub></small>
-The word that came to Jeremiah from the LORD, saying,
-<small><sub>**BSB:**</sub></small>
-This is the word that came to Jeremiah from the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.25|<< Jeremiah 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.2|Jeremiah 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

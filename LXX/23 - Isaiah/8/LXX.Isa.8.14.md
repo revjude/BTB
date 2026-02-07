@@ -1,10 +1,7 @@
 **LXX Isaiah 8:14** 
 <small><sub>**LXX:**</sub></small>
 You should be yielding even upon him, he will be to you for a sanctuary; and not as a stone of stumbling for you to meet up with, nor as a rock downfall; but the houses of Jacob \[are\] in a snare, and in a hollow lying in wait in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And He will be a sanctuary—but to both houses of Israel a stone of stumbling and a rock of offense, to the dwellers of Jerusalem a trap and a snare.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.13|<< Isaiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.15|Isaiah 8:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 8:14** is...

@@ -1,10 +1,7 @@
 **LXX Ezra 7:13** 
 <small><sub>**LXX:**</sub></small>
 From me was rendered a decree, that all the ones willing in my kingdom from \[the\] people of Israel, and priests, and Levites, to go to Jerusalem -- with you let \[them\] go! 
-<small><sub>**KJV:**</sub></small>
-I make a decree, that all they of the people of Israel, and [of] his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.
-<small><sub>**BSB:**</sub></small>
-I hereby decree that any volunteers among the Israelites in my kingdom, including the priests and Levites, may go up with you to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.12|<< Ezra 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.14|Ezra 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

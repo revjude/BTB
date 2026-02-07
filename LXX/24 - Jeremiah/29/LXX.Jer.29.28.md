@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:28** 
 <small><sub>**LXX:**</sub></small>
 For on account of this, he sent to us in Babylon, saying, \[Freedom\] is far off -- build houses, and inhabit them, and plant gardens, and eat  their fruit! 
-<small><sub>**KJV:**</sub></small>
-For therefore he sent unto us [in] Babylon, saying, This [captivity is] long: build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them.
-<small><sub>**BSB:**</sub></small>
-For he has sent to us in Babylon, claiming: Since the exile will be lengthy, build houses and settle down; plant gardens and eat their produce.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.27|<< Jeremiah 29:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.29|Jeremiah 29:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 22:22** 
+**Joshua 22:22**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if [it be] in rebellion, or if in transgression against the LORD, (save us not this day,)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.21|<< Joshua 22:21]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.23|Joshua 22:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | El  |**<big>&#8207;[[H0410G\|אֵל֩]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

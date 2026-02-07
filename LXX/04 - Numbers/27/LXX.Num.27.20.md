@@ -1,10 +1,7 @@
 **LXX Numbers 27:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall put  your glory upon him, so that the sons of Israel should hearken to him. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put [some] of thine honour upon him, that all the congregation of the children of Israel may be obedient.
-<small><sub>**BSB:**</sub></small>
-Confer on him some of your authority, so that the whole congregation of Israel will obey him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.19|<< Numbers 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.21|Numbers 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

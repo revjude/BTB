@@ -1,4 +1,4 @@
-**Job 5:21** 
+**Job 5:21**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be hidden from the scourge of the tongue, and will not fear havoc when 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.20|<< Job 5:20]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.22|Job 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] whip of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7752\|שׁ֣וֹט]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tongue  |**<big>&#8207;[[H3956G\|לָ֭שׁוֹן]]&#8207; </big>**| La.shon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

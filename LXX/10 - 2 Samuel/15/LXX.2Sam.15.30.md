@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:30** 
 <small><sub>**LXX:**</sub></small>
 And David ascended upon the ascent of the olive \[groves\], ascending and weeping, and  his head being covered over, and he went barefoot. And all the people, the one with him, each man covered  his head. And they ascended -- ascending and weeping. 
-<small><sub>**KJV:**</sub></small>
-And David went up by the ascent of [mount] Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that [was] with him covered every man his head, and they went up, weeping as they went up.
-<small><sub>**BSB:**</sub></small>
-But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.29|<< 2 Samuel 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.31|2 Samuel 15:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 4:22** 
+**Leviticus 4:22**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a ruler hath sinned, and done [somewhat] through ignorance [against] any of the commandments of the LORD his God [concerning things] which should not be done, and is guilty;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a leader sins unintentionally and does what is prohibited by any of the com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.21|<< Leviticus 4:21]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.23|Leviticus 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a leader  |**<big>&#8207;[[H5387A\|נָשִׂ֖יא]]&#8207; </big>**| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

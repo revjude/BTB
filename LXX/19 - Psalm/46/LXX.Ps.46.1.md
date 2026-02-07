@@ -6,10 +6,7 @@ To the director; for the sons of Korah; a psalm. concerning the secrets
 
 <small><sub>**LXX:**</sub></small>
  Our God \[is\] a refuge and power; a helper in afflictions, to the ones exceedingly having found us. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician for the sons of Korah, A Song upon Alamoth. God [is] our refuge and strength, a very present help in trouble.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. Of the sons of Korah. According to Alamoth. A song. God is our refuge and strength, an ever-present help in times of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.17|<< Psalm 45:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.2|Psalm 46:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 16:24
-**<small><sub>**KJV:**</sub></small>
+**John 16:24**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.
 <small><sub>**BSB:**</sub></small>
 Until now you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete.
 <small><sub>**Literal:**</sub></small>
 Until now not you have asked no [thing] in the name of Me; do ask and you will receive, that the joy of you may be filled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.23|<< John 16:23]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.25|John 16:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Until |**<big>[[G2193\|ἕως]]</big>**  |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G0737\|ἄρτι]]</big>**  |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

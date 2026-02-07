@@ -1,12 +1,12 @@
-**Luke 17:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:20**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:
 <small><sub>**BSB:**</sub></small>
 When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs.
 <small><sub>**Literal:**</sub></small>
 Having been asked now by the Pharisees when is coming the kingdom <the> of God, He answered to them and said; Not comes the kingdom <the> of God with careful observation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.19|<< Luke 17:19]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.21|Luke 17:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been asked |**<big>[[G1905\|Ἐπερωτηθεὶς]]</big>**  |Eperōtētheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

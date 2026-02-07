@@ -1,12 +1,12 @@
-**Matthew 17:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:22**<big><big>[[Matt.17.22 The Second Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:
 <small><sub>**BSB:**</sub></small>
 When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men.
 <small><sub>**Literal:**</sub></small>
 When are abiding now they in <the> Galilee said to them <the> Jesus; Is about the Son <the> of Man to be betrayed into [the] hands of men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.21|<< Matthew 17:21]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.23|Matthew 17:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are abiding [^1] [^2] |**<big>[[G4962\|Συστρεφομένων]]</big>**  |Sustrephomenōn <small><sup>[[V-PPP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

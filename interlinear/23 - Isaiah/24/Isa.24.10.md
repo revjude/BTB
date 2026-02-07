@@ -1,4 +1,4 @@
-**Isaiah 24:10** 
+**Isaiah 24:10**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The city of confusion is broken down: every house is shut up, that no man may come in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The city of chaos is shattered; every house is closed to entry.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.9|<< Isaiah 24:9]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.11|Isaiah 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been broken  |**<big>&#8207;[[H7665\|נִשְׁבְּרָ֖ה]]&#8207; </big>**| nish.be.Rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] town of  |**<big>&#8207;[[H7151\|קִרְיַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kir.yat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

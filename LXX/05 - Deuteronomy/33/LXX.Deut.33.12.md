@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:12** 
 <small><sub>**LXX:**</sub></small>
 And  to Benjamin he said, One being loved by \[the\] <span class="smallcaps">lord</span>; he shall encamp being yielded, and  God shadows over him all the days, and he rested between his shoulders. 
-<small><sub>**KJV:**</sub></small>
-[And] of Benjamin he said, The beloved of the LORD shall dwell in safety by him; [and the LORD] shall cover him all the day long, and he shall dwell between his shoulders.
-<small><sub>**BSB:**</sub></small>
-Concerning Benjamin he said: “May the beloved of the LORD rest secure in Him; God shields him all day long, and upon His shoulders he rests.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.11|<< Deuteronomy 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.13|Deuteronomy 33:13 >>]]</td></tr></table>
 
 | Translation | Greek |

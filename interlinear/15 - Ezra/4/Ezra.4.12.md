@@ -1,4 +1,4 @@
-**Ezra 4:12** 
+**Ezra 4:12**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls [thereof], and joined the foundations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let it be known to the king that the Jews who came from you to us have returned 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.11|<< Ezra 4:11]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.13|Ezra 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | known  |**<big>&#8207;[[H3046\|יְדִ֙יעַ֙]]&#8207; </big>**| ye.Di.a'<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it be  |**<big>&#8207;[[H1934\|לֶהֱוֵ֣א]]&#8207; </big>**| le.he.Ve'<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

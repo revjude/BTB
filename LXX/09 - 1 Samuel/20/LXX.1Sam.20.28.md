@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:28** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan answered  Saul, and said, David asks pardon of me, so as to go to Beth-lehem his city. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan answered Saul, David earnestly asked [leave] of me [to go] to Bethlehem:
-<small><sub>**BSB:**</sub></small>
-Jonathan answered, “David urgently requested my permission to go to Bethlehem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.27|<< 1 Samuel 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.29|1 Samuel 20:29 >>]]</td></tr></table>
 
 | Translation | Greek |

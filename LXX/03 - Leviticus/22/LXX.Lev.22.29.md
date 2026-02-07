@@ -1,10 +1,7 @@
 **LXX Leviticus 22:29** 
 <small><sub>**LXX:**</sub></small>
 And if you should sacrifice a sacrifice vow of joyfulness to the <span class="smallcaps">lord</span>, you shall sacrifice it acceptable to you; 
-<small><sub>**KJV:**</sub></small>
-And when ye will offer a sacrifice of thanksgiving unto the LORD, offer [it] at your own will.
-<small><sub>**BSB:**</sub></small>
-When you sacrifice a thank offering to the LORD, offer it so that it may be acceptable on your behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.28|<< Leviticus 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.30|Leviticus 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

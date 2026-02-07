@@ -1,4 +1,4 @@
-**Isaiah 42:3** 
+**Isaiah 42:3**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A bruised reed He will not break and a smoldering wick He will not extinguish; H
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a reed  |**<big>&#8207;[[H7070H\|קָנֶ֤ה]]&#8207; </big>**| ka.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | crushed  |**<big>&#8207;[[H7533\|רָצוּץ֙]]&#8207; </big>**| ra.Tzutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 7:30** 
+**1 Chronicles 7:30**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.29|<< 1 Chronicles 7:29]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.31|1 Chronicles 7:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asher  |**<big>&#8207;[[H0836\|אָשֵׁ֗ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

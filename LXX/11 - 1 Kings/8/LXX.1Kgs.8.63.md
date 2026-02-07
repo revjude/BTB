@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:63** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon sacrificed the sacrifices of the peace \[offerings\] which he sacrificed to the <span class="smallcaps">lord</span> -- two and twenty thousand oxen, and a hundred and twenty thousand sheep. And the king dedicated the house \[of the\] <span class="smallcaps">lord</span>, and \[with\] all the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, two and twenty thousand oxen, and an hundred and twenty thousand sheep. So the king and all the children of Israel dedicated the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep. So the king and all the Israelites dedicated the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.62|<< 1 Kings 8:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.64|1 Kings 8:64 >>]]</td></tr></table>
 
 | Translation | Greek |

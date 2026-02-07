@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:12** 
 <small><sub>**LXX:**</sub></small>
 And all Judah brought a tenth of the wheat and of the wine and of the olive oil into the treasuries. 
-<small><sub>**KJV:**</sub></small>
-Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries.
-<small><sub>**BSB:**</sub></small>
-and all Judah brought a tenth of the grain, new wine, and oil into the storerooms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.11|<< Nehemiah 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.13|Nehemiah 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 30:27** 
 <small><sub>**LXX:**</sub></small>
 and all  \[its\] utensils, and the lamp-stand, and  \[its\] utensils, and the altar  of incense, 
-<small><sub>**KJV:**</sub></small>
-And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,
-<small><sub>**BSB:**</sub></small>
-the table and all its utensils, the lampstand and its utensils, the altar of incense,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.26|<< Exodus 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.28|Exodus 30:28 >>]]</td></tr></table>
 
 | Translation | Greek |

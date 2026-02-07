@@ -1,4 +1,4 @@
-**Isaiah 6:6** 
+**Isaiah 6:6**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then flew one of the seraphims unto me, having a live coal in his hand, [which] he had taken with the tongs from off the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then one of the seraphim flew to me, and in his hand was a glowing coal that he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.5|<< Isaiah 6:5]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.7|Isaiah 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he flew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5774A\|יָּ֣עָף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'of<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

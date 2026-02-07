@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:12** 
 <small><sub>**LXX:**</sub></small>
 Except in  your days I will not do them on account of David  your father -- from out of \[the\] hand of your son I will take it. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding in thy days I will not do it for David thy father’s sake: [but] I will rend it out of the hand of thy son.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, for the sake of your father David, I will not do it during your lifetime; I will tear it out of the hand of your son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.11|<< 1 Kings 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.13|1 Kings 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

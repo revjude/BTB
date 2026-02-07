@@ -1,4 +1,4 @@
-**1 Samuel 24:11** (24:12)
+**1 Samuel 24:11**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that [there is] neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, my father, look at the corner of your robe in my hand. For I cut it off, bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.10|<< 1 Samuel 24:10]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.12|1 Samuel 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and O father my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0001G\|אָבִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.V<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | see  |**<big>&#8207;[[H7200I\|רְאֵ֔ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

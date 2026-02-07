@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:5** 
 <small><sub>**LXX:**</sub></small>
 Not because of  your righteousness, nor because of the sacredness  of your heart do you enter to inherit  their land. But because of the impiety  of these nations \[the\] <span class="smallcaps">lord</span> shall utterly destroy them from your presence, and that he should establish the covenant which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers -- \[to\] Abraham, and \[to\] Isaac, and \[to\] Jacob. 
-<small><sub>**KJV:**</sub></small>
-Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.
-<small><sub>**BSB:**</sub></small>
-It is not because of your righteousness or uprightness of heart that you are going in to possess their land, but it is because of their wickedness that the LORD your God is driving out these nations before you, to keep the promise He swore to your fathers, to Abraham, Isaac, and Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.4|<< Deuteronomy 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.6|Deuteronomy 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

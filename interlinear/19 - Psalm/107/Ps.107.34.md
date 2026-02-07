@@ -1,4 +1,4 @@
-**Psalms 107:34** 
+**Psalms 107:34**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fruitful land into barrenness, for the wickedness of them that dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and fruitful land into fields of salt, because of the wickedness of its dwellers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.33|<< Psalms 107:33]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.35|Psalms 107:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a land of  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fruit  |**<big>&#8207;[[H6529\|פְּ֭רִי]]&#8207; </big>**| Pe.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

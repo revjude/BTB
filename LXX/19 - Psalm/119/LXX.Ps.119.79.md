@@ -1,10 +1,7 @@
 **LXX Psalm 119:79** 
 <small><sub>**LXX:**</sub></small>
 Turn towards me the ones fearing you, and the ones knowing  your testimonies! 
-<small><sub>**KJV:**</sub></small>
-Let those that fear thee turn unto me, and those that have known thy testimonies.
-<small><sub>**BSB:**</sub></small>
-May those who fear You turn to me, those who know Your testimonies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.79|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.78|<< Psalm 119:78]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.80|Psalm 119:80 >>]]</td></tr></table>
 
 | Translation | Greek |

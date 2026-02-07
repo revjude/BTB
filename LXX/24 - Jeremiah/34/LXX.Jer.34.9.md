@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:9** 
 <small><sub>**LXX:**</sub></small>
  for each to send out  his manservant, and each  his maidservant, the Hebrew man and the Hebrew woman free, so that  no man from Judah should slave. 
-<small><sub>**KJV:**</sub></small>
-That every man should let his manservant, and every man his maidservant, [being] an Hebrew or an Hebrewess, go free; that none should serve himself of them, [to wit], of a Jew his brother.
-<small><sub>**BSB:**</sub></small>
-that each man should free his Hebrew slaves, both male and female, and no one should hold his fellow Jew in bondage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.8|<< Jeremiah 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.10|Jeremiah 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

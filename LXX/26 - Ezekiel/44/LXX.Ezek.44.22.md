@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall not take a widow and one being cast out for themselves for a wife, but only a virgin from out of the seed of \[the\] house of Israel; but if there shall be a widow of a priest they shall take \[her\]. 
-<small><sub>**KJV:**</sub></small>
-Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before.
-<small><sub>**BSB:**</sub></small>
-And they shall not marry a widow or a divorced woman, but must marry a virgin of the descendants of the house of Israel, or a widow of a priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
 
 | Translation | Greek |

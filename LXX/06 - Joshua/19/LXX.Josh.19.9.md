@@ -1,10 +1,7 @@
 **LXX Joshua 19:9** 
 <small><sub>**LXX:**</sub></small>
 From the lot of Judah \[was\] the inheritance of \[the\] tribe of \[the\] sons of Simeon, for it was \[that\] the portion of \[the\] sons of Judah was greater than  theirs; and the sons of Simeon inherited in \[the\] midst  of their lot. 
-<small><sub>**KJV:**</sub></small>
-Out of the portion of the children of Judah [was] the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.
-<small><sub>**BSB:**</sub></small>
-The inheritance of the Simeonites was taken from the territory of Judah, because the share for Judah’s descendants was too large for them. So the Simeonites received an inheritance within Judah’s portion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.8|<< Joshua 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.10|Joshua 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

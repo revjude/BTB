@@ -1,4 +1,4 @@
-**Psalms 139:22** 
+**Psalms 139:22**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I hate them with perfect hatred: I count them mine enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hate them with perfect hatred; I count them as my enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.21|<< Psalms 139:21]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.23|Psalms 139:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | completeness of  |**<big>&#8207;[[H8503\|תַּכְלִ֣ית]]&#8207; </big>**| takh.Lit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hatred  |**<big>&#8207;[[H8135\|שִׂנְאָ֣ה]]&#8207; </big>**| sin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Revelation 21:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:1**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 <small><sub>**BSB:**</sub></small>
 Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.
@@ -10,7 +10,7 @@ And I saw a heaven new and an earth new. <the> for the first heaven and the firs
 > $\quad$ alluding to: [[LXX.Isa.65.17|Isa 65:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

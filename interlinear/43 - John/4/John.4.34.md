@@ -1,12 +1,12 @@
-**John 4:34
-**<small><sub>**KJV:**</sub></small>
+**John 4:34**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.
 <small><sub>**BSB:**</sub></small>
 Jesus explained, “My food is to do the will of Him who sent Me and to finish His work.
 <small><sub>**Literal:**</sub></small>
 Says to them <the> Jesus; My own food is that I may do the will of the [One who] having sent Me and may finish of Him the work.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.33|<< John 4:33]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.35|John 4:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

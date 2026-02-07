@@ -1,4 +1,4 @@
-**Joel 2:3** 
+**Joel 2:3**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fire devoureth before them; and behind them a flame burneth: the land [is] as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Before them a fire devours, and behind them a flame scorches. The land before th
 > $\quad$ referenced by: [[Ezek.36.35|Ezek 36:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has consumed  |**<big>&#8207;[[H0398\|אָ֣כְלָה]]&#8207; </big>**| 'A.khe.lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

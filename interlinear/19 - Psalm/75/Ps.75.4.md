@@ -1,4 +1,4 @@
-**Psalms 75:4** (75:5)
+**Psalms 75:4**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.3|<< Psalms 75:3]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.5|Psalms 75:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say  |**<big>&#8207;[[H0559\|אָמַ֣רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the boasters  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H1984C\|הוֹלְלִים]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> ho.lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

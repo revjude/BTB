@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:11** 
 <small><sub>**LXX:**</sub></small>
 and behold, they make an attempt against us,  to come and to cast us from  our inheritance, of which you have given to us. 
-<small><sub>**KJV:**</sub></small>
-Behold, [I say, how] they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.
-<small><sub>**BSB:**</sub></small>
-See how they are repaying us by coming to drive us out of the possession that You gave us as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.10|<< 2 Chronicles 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.12|2 Chronicles 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

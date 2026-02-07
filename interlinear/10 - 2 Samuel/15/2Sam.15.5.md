@@ -1,4 +1,4 @@
-**2 Samuel 15:5** 
+**2 Samuel 15:5**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that when any man came nigh [to him] to do him obeisance, he put forth his hand, and took him, and kissed him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also, when anyone approached to bow down to him, Absalom would reach out his han
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.4|<< 2 Samuel 15:4]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.6|2 Samuel 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when drew near  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7126G\|קְרָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.rov-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

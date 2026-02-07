@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:7** 
 <small><sub>**LXX:**</sub></small>
 And there gathered together with him mischievous men, sons of lawbreakers, and they grew in strength against Rehoboam son of Solomon, and Rehoboam was younger and timid  in heart, and he did not fortify against their face. 
-<small><sub>**KJV:**</sub></small>
-And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.
-<small><sub>**BSB:**</sub></small>
-Then worthless and wicked men gathered around him to resist Rehoboam son of Solomon when he was young, inexperienced, and unable to resist them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.6|<< 2 Chronicles 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.8|2 Chronicles 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

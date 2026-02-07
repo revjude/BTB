@@ -1,4 +1,4 @@
-**Ezekiel 44:3** 
+**Ezekiel 44:3**<big><big>[[Ezek.44.1 The East Gate Assigned to the Prince|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of [that] gate, and shall go out by the way of the same.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only the prince himself may sit inside the gateway to eat in the presence of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.2|<< Ezekiel 44:2]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.4|Ezekiel 44:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prince  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נָּשִׂ֗יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

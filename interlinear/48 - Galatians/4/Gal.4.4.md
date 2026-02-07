@@ -1,12 +1,12 @@
-**Galatians 4:4
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:4**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 <small><sub>**BSB:**</sub></small>
 But when the time had fully come, God sent His Son, born of a woman, born under the law,
 <small><sub>**Literal:**</sub></small>
 When however had come the fullness of the time, sent forth <the> God the Son of him, having been born of a woman, having been born under [the] Law,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.3|<< Galatians 4:3]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.5|Galatians 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

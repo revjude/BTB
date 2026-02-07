@@ -1,4 +1,4 @@
-**Numbers 5:2** 
+**Numbers 5:2**<big><big>[[Num.5.1 Cleansing the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command the children of Israel, that they put out of the camp every leper, and e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.1|<< Numbers 5:1]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.3|Numbers 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַ֚ו]]&#8207; </big>**| tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

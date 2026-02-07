@@ -1,6 +1,6 @@
 (KJV) **Psalm 120**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119|<< Psalm 119]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121|Psalm 121 >>]]</td></tr></table>
 
-***In My Distress I Cried to the LORD*** ^bsb1413
+<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥃]]</big></big>***In My Distress I Cried to the LORD***
 
 
 

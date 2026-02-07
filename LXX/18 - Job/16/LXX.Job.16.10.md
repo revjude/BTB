@@ -1,10 +1,7 @@
 **LXX Job 16:10** 
 <small><sub>**LXX:**</sub></small>
 he assailed \[me\] \[with the\] sharp points of \[his\] eyes; he smote me onto \[my\] knees; and with one accord they ran upon me. 
-<small><sub>**KJV:**</sub></small>
-They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
-<small><sub>**BSB:**</sub></small>
-They open their mouths against me and strike my cheeks with contempt; they join together against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.9|<< Job 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.11|Job 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

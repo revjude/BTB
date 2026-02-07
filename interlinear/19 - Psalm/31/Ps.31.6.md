@@ -1,4 +1,4 @@
-**Psalms 31:6** (31:7)
+**Psalms 31:6**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have hated them that regard lying vanities: but I trust in the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hate those who cling to worthless idols, but in the LORD I trust.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.5|<< Psalms 31:5]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.7|Psalms 31:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I hate  |**<big>&#8207;[[H8130\|שָׂנֵ֗אתִי]]&#8207; </big>**| sa.Ne.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] keep  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8104I\|שֹּׁמְרִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

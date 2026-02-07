@@ -1,10 +1,7 @@
 **LXX Judges 5:23** 
 <small><sub>**LXX:**</sub></small>
 Curse Meroz! said the angel of \[the\] <span class="smallcaps">lord</span>. \[With\] a curse, curse every one  dwelling in it! for they came not to the help of \[the\] <span class="smallcaps">lord</span>. \[The\] <span class="smallcaps">lord</span> \[is\] a helper against warriors. 
-<small><sub>**KJV:**</sub></small>
-Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.
-<small><sub>**BSB:**</sub></small>
-‘Curse Meroz,’ says the angel of the LORD. ‘Bitterly curse her inhabitants; for they did not come to help the LORD, to help the LORD against the mighty.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.22|<< Judges 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.24|Judges 5:24 >>]]</td></tr></table>
 
 | Translation | Greek |

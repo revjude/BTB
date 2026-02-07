@@ -1,4 +1,4 @@
-**Jeremiah 3:2** 
+**Jeremiah 3:2**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up thine eyes unto the high places, and see where thou hast not been lien w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.1|<< Jeremiah 3:1]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.3|Jeremiah 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375M\|שְׂאִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵינַ֨יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'ei.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

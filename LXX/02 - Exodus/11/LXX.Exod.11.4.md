@@ -1,10 +1,7 @@
 **LXX Exodus 11:4** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, Thus says \[the\] <span class="smallcaps">lord</span>, Around the middle \[of the\] night I will enter into \[the\] midst of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Thus saith the LORD, About midnight will I go out into the midst of Egypt:
-<small><sub>**BSB:**</sub></small>
-So Moses declared, “This is what the LORD says: ‘About midnight I will go throughout Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.3|<< Exodus 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.5|Exodus 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

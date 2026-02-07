@@ -1,10 +1,7 @@
 **LXX Exodus 14:4** 
 <small><sub>**LXX:**</sub></small>
 But I will harden the heart of Pharaoh, and he will pursue after them, and I will be glorified by Pharaoh, and by all  his military; and all the Egyptians shall know that I \[am the\] <span class="smallcaps">lord</span>. And they did thus. 
-<small><sub>**KJV:**</sub></small>
-And I will harden Pharaoh’s heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I [am] the LORD. And they did so.
-<small><sub>**BSB:**</sub></small>
-And I will harden Pharaoh’s heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So this is what the Israelites did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.3|<< Exodus 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.5|Exodus 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

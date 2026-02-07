@@ -1,10 +1,7 @@
 **LXX Exodus 29:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall take from the blood of the calf, and put \[it\] upon the horns of the altar with your finger. And all the remaining blood you shall discharge by the base of the altar. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take of the blood of the bullock, and put [it] upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.
-<small><sub>**BSB:**</sub></small>
-Take some of the blood of the bull and put it on the horns of the altar with your finger; then pour out the rest of the blood at the base of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

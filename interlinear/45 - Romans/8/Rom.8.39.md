@@ -1,12 +1,12 @@
-**Romans 8:39
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:39**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 <small><sub>**BSB:**</sub></small>
 neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
 <small><sub>**Literal:**</sub></small>
 nor height nor depth nor any created thing other will be able us to separate from the love <the> of God <the> in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.38|<< Romans 8:38]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.1|Romans 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | height |**<big>[[G5313\|ὕψωμα]]</big>**  |hupsōma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

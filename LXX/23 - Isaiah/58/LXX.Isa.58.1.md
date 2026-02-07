@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Yell out in strength! and you should not spare. As a trumpet, raise up high  your voice, and announce \[to\] my people  their sins, and to the house of Jacob  their lawless deeds! 
-<small><sub>**KJV:**</sub></small>
-Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
-<small><sub>**BSB:**</sub></small>
-“Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
 
 | Translation | Greek |

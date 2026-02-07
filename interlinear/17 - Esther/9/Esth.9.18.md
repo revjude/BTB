@@ -1,4 +1,4 @@
-**Esther 9:18** 
+**Esther 9:18**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Jews that [were] at Shushan assembled together on the thirteenth [day] thereof, and on the fourteenth thereof; and on the fifteenth [day] of the same they rested, and made it a day of feasting and gladness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Jews in Susa, however, had assembled on the thirteenth and the fourteenth da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.17|<< Esther 9:17]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.19|Esther 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Jews  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3064\|יְּהוּדִ֣ים]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> ye.hu.di.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

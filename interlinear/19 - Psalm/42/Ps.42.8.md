@@ -1,4 +1,4 @@
-**Psalms 42:8** (42:9)
+**Psalms 42:8**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] the LORD will command his lovingkindness in the daytime, and in the night his song [shall be] with me, [and] my prayer unto the God of my life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD decrees His loving devotion by day, and at night His song is with me as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.7|<< Psalms 42:7]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.9|Psalms 42:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by day  |**<big>&#8207;[[H3119\|יוֹמָ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he commands  |**<big>&#8207;[[H6680\|יְצַוֶּ֬ה]]&#8207; </big>**| ye.tza.Veh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

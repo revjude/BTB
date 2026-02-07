@@ -1,4 +1,4 @@
-**Deuteronomy 16:12** 
+**Deuteronomy 16:12**<big><big>[[Deut.16.9 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember that you were slaves in Egypt, and carefully follow these statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.11|<< Deuteronomy 16:11]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.13|Deuteronomy 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָ֣כַרְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Za.khar.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

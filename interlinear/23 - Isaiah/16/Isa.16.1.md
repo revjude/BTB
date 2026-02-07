@@ -1,4 +1,4 @@
-**Isaiah 16:1** 
+**Isaiah 16:1**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Send the tribute lambs to the ruler of the land, from Sela in the desert to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.9|<< Isaiah 15:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.2|Isaiah 16:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | send  |**<big>&#8207;[[H7971G\|שִׁלְחוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shil.chu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lamb  |**<big>&#8207;[[H3733C\|כַ֥ר]]&#8207; </big>**| khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

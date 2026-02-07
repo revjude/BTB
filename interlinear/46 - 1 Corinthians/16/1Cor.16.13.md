@@ -1,12 +1,12 @@
-**1 Corinthians 16:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:13**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Watch ye, stand fast in the faith, quit you like men, be strong.
 <small><sub>**BSB:**</sub></small>
 Be on the alert. Stand firm in the faith. Be men of courage. Be strong.
 <small><sub>**Literal:**</sub></small>
 do watch, do stand firm in the faith, do act like men, do be strong.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.12|<< 1 Corinthians 16:12]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.14|1 Corinthians 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do watch, |**<big>[[G1127\|Γρηγορεῖτε,]]</big>**  |Grēgoreite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do stand firm |**<big>[[G4739\|στήκετε]]</big>**  |stēkete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

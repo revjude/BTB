@@ -1,4 +1,4 @@
-**2 Kings 3:4** 
+**2 Kings 3:4**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Mesha king of Moab was a sheep breeder, and he would render to the king of I
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.3|<< 2 Kings 3:3]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.5|2 Kings 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mesha  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4338\|מֵישַׁ֥ע]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mei.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

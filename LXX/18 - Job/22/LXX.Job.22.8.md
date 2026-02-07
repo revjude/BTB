@@ -1,10 +1,7 @@
 **LXX Job 22:8** 
 <small><sub>**LXX:**</sub></small>
 And you admired \[the\] faces of some; you resettled \[the\] poor upon the earth; 
-<small><sub>**KJV:**</sub></small>
-But [as for] the mighty man, he had the earth; and the honourable man dwelt in it.
-<small><sub>**BSB:**</sub></small>
-while the land belonged to a mighty man, and a man of honor lived on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.7|<< Job 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.9|Job 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

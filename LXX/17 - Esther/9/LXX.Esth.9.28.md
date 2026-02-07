@@ -1,10 +1,7 @@
 **LXX Esther 9:28** 
 <small><sub>**LXX:**</sub></small>
  And these days were celebrated for  all time, and  their memorial in no way should fail unto generations. 
-<small><sub>**KJV:**</sub></small>
-And [that] these days [should be] remembered and kept throughout every generation, every family, every province, and every city; and [that] these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed.
-<small><sub>**BSB:**</sub></small>
-These days should be remembered and celebrated by every generation, family, province, and city, so that these days of Purim should not fail to be observed among the Jews, nor should the memory of them fade from their descendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.27|<< Esther 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.29|Esther 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

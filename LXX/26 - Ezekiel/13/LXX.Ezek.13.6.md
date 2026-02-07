@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:6** 
 <small><sub>**LXX:**</sub></small>
 Ones seeing false \[visions\], vain oracles, the ones saying, \[Thus\] says \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> has not sent them. And they began  to raise up a \[false\] word. 
-<small><sub>**KJV:**</sub></small>
-They have seen vanity and lying divination, saying, The LORD saith: and the LORD hath not sent them: and they have made [others] to hope that they would confirm the word.
-<small><sub>**BSB:**</sub></small>
-They see false visions and speak lying divinations. They claim, ‘Thus declares the LORD,’ when the LORD did not send them; yet they wait for the fulfillment of their message.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.5|<< Ezekiel 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.7|Ezekiel 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

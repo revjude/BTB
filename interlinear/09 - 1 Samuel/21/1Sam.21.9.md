@@ -1,4 +1,4 @@
-**1 Samuel 21:9** (21:10)
+**1 Samuel 21:9**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it [is here] wrapped in a cloth behind the ephod: if thou wilt take that, take [it]: for [there is] no other save that here. And David said, [There is] none like that; give it me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest replied, “The sword of Goliath the Philistine, whom you killed in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.8|<< 1 Samuel 21:8]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.10|1 Samuel 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֗ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

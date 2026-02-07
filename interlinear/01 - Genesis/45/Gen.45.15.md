@@ -1,4 +1,4 @@
-**Genesis 45:15** 
+**Genesis 45:15**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph kissed each of his brothers as he wept over them. And afterward his broth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.14|<< Genesis 45:14]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.16|Genesis 45:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he kissed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5401A\|יְנַשֵּׁ֥ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.Shek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

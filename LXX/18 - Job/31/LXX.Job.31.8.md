@@ -1,10 +1,7 @@
 **LXX Job 31:8** 
 <small><sub>**LXX:**</sub></small>
 then may I sow, and others eat; and may I become rootless upon \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-[Then] let me sow, and let another eat; yea, let my offspring be rooted out.
-<small><sub>**BSB:**</sub></small>
-then may another eat what I have sown, and may my crops be uprooted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.7|<< Job 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.9|Job 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

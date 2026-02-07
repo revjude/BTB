@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be as many as should be left of all the nations  coming against Jerusalem, \[that\] they shall ascend by year  to do obeisance to the king, \[to the\] <span class="smallcaps">lord</span> almighty, and  to solemnize the holiday of the pitching of tents. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.
-<small><sub>**BSB:**</sub></small>
-Then all the survivors from the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.15|<< Zechariah 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.17|Zechariah 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

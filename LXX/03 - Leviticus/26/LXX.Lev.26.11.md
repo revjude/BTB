@@ -1,10 +1,7 @@
 **LXX Leviticus 26:11** 
 <small><sub>**LXX:**</sub></small>
 And I will put  my tent among you, and my soul shall not abhor you. 
-<small><sub>**KJV:**</sub></small>
-And I will set my tabernacle among you: and my soul shall not abhor you.
-<small><sub>**BSB:**</sub></small>
-And I will make My dwelling place among you, and My soul will not despise you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.10|<< Leviticus 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.12|Leviticus 26:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 26:11** is...

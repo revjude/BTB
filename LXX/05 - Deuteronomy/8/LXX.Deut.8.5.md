@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall know in your heart, that as if any man should correct  his son, so \[the\] <span class="smallcaps">lord</span>  your God corrects you. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt also consider in thine heart, that, as a man chasteneth his son, [so] the LORD thy God chasteneth thee.
-<small><sub>**BSB:**</sub></small>
-So know in your heart that just as a man disciplines his son, so the LORD your God disciplines you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.4|<< Deuteronomy 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.6|Deuteronomy 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

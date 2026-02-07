@@ -1,12 +1,12 @@
-**John 19:19
-**<small><sub>**KJV:**</sub></small>
+**John 19:19**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate wrote a title, and put [it] on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 Pilate also had a notice posted on the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS.
 <small><sub>**Literal:**</sub></small>
 Wrote then also a title <the> Pilate and put [it] on the cross. It was now written: Jesus <the> of Nazareth the King of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.18|<< John 19:18]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.20|John 19:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Wrote |**<big>[[G1125\|Ἔγραψεν]]</big>**  |Egrapsen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

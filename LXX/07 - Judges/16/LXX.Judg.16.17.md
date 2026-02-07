@@ -1,10 +1,7 @@
 **LXX Judges 16:17** 
 <small><sub>**LXX:**</sub></small>
 And he reported to her all the \[things\] from his heart. And said to her, A razor shall not ascend upon  my head, for I am a Nazarite of God from \[the\] belly of my mother; and if I should be shaven, my strength shall leave from me, and I shall be weakened, and I will be as all the men. 
-<small><sub>**KJV:**</sub></small>
-That he told her all his heart, and said unto her, There hath not come a rasor upon mine head; for I [have been] a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any [other] man.
-<small><sub>**BSB:**</sub></small>
-Samson told her all that was in his heart: “My hair has never been cut, because I have been a Nazirite to God from my mother’s womb. If I am shaved, my strength will leave me, and I will become as weak as any other man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.16|<< Judges 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.18|Judges 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

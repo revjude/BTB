@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:6** 
 <small><sub>**LXX:**</sub></small>
 Lest the one acting as next of kin for blood pursue after the man-slayer, because his heart is overheated, and overtakes him, if it might be a longer  way, and he strikes his life and he should die. And there is no judgment of death to this man, for he was not detesting him before  yesterday and before the third \[day\]. 
-<small><sub>**KJV:**</sub></small>
-Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he [was] not worthy of death, inasmuch as he hated him not in time past.
-<small><sub>**BSB:**</sub></small>
-Otherwise, the avenger of blood might pursue the manslayer in a rage, overtake him if the distance is great, and strike him dead though he did not deserve to die, since he did not intend any harm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.5|<< Deuteronomy 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.7|Deuteronomy 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 17:22** 
+**Jeremiah 17:22**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not carry a load out of your houses or do any work on the Sabbath day, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bring out  |**<big>&#8207;[[H3318H\|תוֹצִ֨יאוּ]]&#8207; </big>**| to.Tzi.'u<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

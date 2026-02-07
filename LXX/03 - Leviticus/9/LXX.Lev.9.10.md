@@ -1,10 +1,7 @@
 **LXX Leviticus 9:10** 
 <small><sub>**LXX:**</sub></small>
 And the fat, and the kidneys, and the lobe of the liver of the one for the sin \[offering\] he offered upon the altar, in which manner \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-On the altar he burned the fat, the kidneys, and the lobe of the liver from the sin offering, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.9|<< Leviticus 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.11|Leviticus 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

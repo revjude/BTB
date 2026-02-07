@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For these are wandering in wine; wandering because of the liquor; \[the\] priest and prophet are startled because of the liquor; they are swallowed down because of the wine; they are shaken from the intoxication of the liquor; they wandered; this is a visible manifestation. 
-<small><sub>**KJV:**</sub></small>
-But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble [in] judgment.
-<small><sub>**BSB:**</sub></small>
-These also stagger from wine and stumble from strong drink: Priests and prophets reel from strong drink and are befuddled by wine. They stumble because of strong drink, muddled in their visions and stumbling in their judgments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.6|<< Isaiah 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.8|Isaiah 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 9:2** 
+**Deuteronomy 9:2**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A people great and tall, the children of the Anakims, whom thou knowest, and [of whom] thou hast heard [say], Who can stand before the children of Anak!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people are strong and tall, the descendants of the Anakim. You know about th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.1|<< Deuteronomy 9:1]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.3|Deuteronomy 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a people  |**<big>&#8207;[[H5971A\|עַֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great  |**<big>&#8207;[[H1419A\|גָּד֥וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

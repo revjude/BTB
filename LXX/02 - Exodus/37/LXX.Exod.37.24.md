@@ -1,10 +1,7 @@
 **LXX Exodus 37:24** 
 <small><sub>**LXX:**</sub></small>
 A talent of pure gold he made   all  \[its\] items. 
-<small><sub>**KJV:**</sub></small>
-[Of] a talent of pure gold made he it, and all the vessels thereof.
-<small><sub>**BSB:**</sub></small>
-He made the lampstand and all its utensils from a talent of pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.23|<< Exodus 37:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.25|Exodus 37:25 >>]]</td></tr></table>
 
 | Translation | Greek |

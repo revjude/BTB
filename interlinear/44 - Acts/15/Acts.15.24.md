@@ -1,12 +1,12 @@
-**Acts 15:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:24**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, [Ye must] be circumcised, and keep the law: to whom we gave no [such] commandment:
 <small><sub>**BSB:**</sub></small>
 It has come to our attention that some went out from us without our authorization and unsettled you, troubling your minds by what they said.
 <small><sub>**Literal:**</sub></small>
 Inasmuch as we have heard that some from us went out troubled you by words upsetting the minds of you saying to be circumcised and to keep the law to whom not we had given instructions,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.23|<< Acts 15:23]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.25|Acts 15:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Inasmuch as |**<big>[[G1894\|Ἐπειδὴ]]</big>**  |Epeidē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we have heard |**<big>[[G0191\|ἠκούσαμεν]]</big>**  |ēkousamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

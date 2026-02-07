@@ -1,10 +1,7 @@
 **LXX Leviticus 13:47** 
 <small><sub>**LXX:**</sub></small>
 And a garment which ever should have in it an infection of leprosy in a woolen garment, or in a garment made of hemp, 
-<small><sub>**KJV:**</sub></small>
-The garment also that the plague of leprosy is in, [whether it be] a woollen garment, or a linen garment;
-<small><sub>**BSB:**</sub></small>
-If any fabric is contaminated with mildew—any wool or linen garment,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.46|<< Leviticus 13:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.48|Leviticus 13:48 >>]]</td></tr></table>
 
 | Translation | Greek |

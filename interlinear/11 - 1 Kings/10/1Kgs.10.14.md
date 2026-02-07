@@ -1,4 +1,4 @@
-**1 Kings 10:14** 
+**1 Kings 10:14**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The weight of gold that came to Solomon each year was 666 talents,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.13|<< 1 Kings 10:13]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.15|1 Kings 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] weight of  |**<big>&#8207;[[H4948\|מִשְׁקַ֣ל]]&#8207; </big>**| mish.Kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

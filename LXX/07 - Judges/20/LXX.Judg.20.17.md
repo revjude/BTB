@@ -1,10 +1,7 @@
 **LXX Judges 20:17** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel -- they were numbered, separate from the sons  of Benjamin, four hundred thousand men unsheathing \[the\] broadsword; all these \[were\] men warriors. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel, beside Benjamin, were numbered four hundred thousand men that drew sword: all these [were] men of war.
-<small><sub>**BSB:**</sub></small>
-The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an experienced warrior.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.16|<< Judges 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.18|Judges 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

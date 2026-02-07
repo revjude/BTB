@@ -1,6 +1,6 @@
 (KJV) **Esther 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3|<< Esther 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5|Esther 5 >>]]</td></tr></table>
 
-***Mordecai Appeals to Esther*** ^bsb1232
+<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥃]]</big></big>***Mordecai Appeals to Esther***
 
  $\quad$ <span class="startversemarker">[</span>**[[Esth.4.1|1]]**<span class="endversemarker">]</span> When Mordecai perceived all that<small><small>[^2]</small></small> was done, Mordecai rent<small><small>[^3]</small></small> his clothes, and put on sackcloth with ashes<small><small>[^4]</small></small>, and went out into the midst of the city, and cried<small><small>[^5]</small></small> with a loud and a bitter cry; <span class="startversemarker">[</span>**[[Esth.4.2|2]]**<span class="endversemarker">]</span> And came even before the king’s gate: for none \[might\] enter into the king’s gate clothed with sackcloth. <span class="startversemarker">[</span>**[[Esth.4.3|3]]**<span class="endversemarker">]</span> And in every province<small><small>[^6]</small></small>, whithersoever the king’s commandment and his decree came, \[there was\] great mourning<small><small>[^7]</small></small> among the Jews, and fasting, and weeping<small><small>[^8]</small></small>, and wailing; and many lay in sackcloth and ashes<small><small>[^9]</small></small>. 
 

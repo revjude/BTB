@@ -1,5 +1,5 @@
-**Matthew 2:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:23**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
 <small><sub>**BSB:**</sub></small>
 and he went and lived in a town called Nazareth. So was fulfilled what was spoken through the prophets: “He will be called a Nazarene.”
@@ -10,7 +10,7 @@ and having come he dwelt in a city being named Nazareth, so that it may be fulfi
 > $\quad$ referencing: [[LXX.Judg.13.5|Judg 13:5]] ☩ [[LXX.Isa.11.1|Isa 11:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

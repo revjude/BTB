@@ -1,4 +1,4 @@
-**Ezekiel 40:26** 
+**Ezekiel 40:26**<big><big>[[Ezek.40.24 The South Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] seven steps to go up to it, and the arches thereof [were] before them: and it had palm trees, one on this side, and another on that side, upon the posts thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seven steps led up to it, and its portico was opposite them; it had palm trees o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.25|<< Ezekiel 40:25]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.27|Ezekiel 40:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] steps  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4609B\|מַעֲל֤וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שִׁבְעָה֙]]&#8207; </big>**| shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

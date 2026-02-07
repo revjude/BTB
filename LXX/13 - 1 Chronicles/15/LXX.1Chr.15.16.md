@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:16** 
 <small><sub>**LXX:**</sub></small>
 And David said to the rulers of the Levites, You shall station  their brethren the psalm singers with instruments for odes, with stringed instruments, lutes, and cymbals,  to sound out loud on high with \[the\] voice \[of\] gladness. 
-<small><sub>**KJV:**</sub></small>
-And David spake to the chief of the Levites to appoint their brethren [to be] the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
-<small><sub>**BSB:**</sub></small>
-David also told the leaders of the Levites to appoint their relatives as singers to lift up their voices with joy, accompanied by musical instruments—harps, lyres, and cymbals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.15|<< 1 Chronicles 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.17|1 Chronicles 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

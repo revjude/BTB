@@ -1,5 +1,5 @@
-**Matthew 22:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:37**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
 <small><sub>**BSB:**</sub></small>
 Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’
@@ -10,7 +10,7 @@ Jesus declared, “‘Love the Lord your God with all your heart and with all yo
 > $\quad$ referencing: [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

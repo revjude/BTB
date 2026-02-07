@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:22** 
 <small><sub>**LXX:**</sub></small>
 Until when shall you return, O daughter being disgraced? For \[the\] <span class="smallcaps">lord</span> created safety for a new planting; in your safety men shall go about. 
-<small><sub>**KJV:**</sub></small>
-How long wilt thou go about, O thou backsliding daughter? for the LORD hath created a new thing in the earth, A woman shall compass a man.
-<small><sub>**BSB:**</sub></small>
-How long will you wander, O faithless daughter? For the LORD has created a new thing in the land—a woman will shelter a man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.21|<< Jeremiah 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.23|Jeremiah 31:23 >>]]</td></tr></table>
 
 | Translation | Greek |

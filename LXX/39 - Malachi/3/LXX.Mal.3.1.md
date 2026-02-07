@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, I send out  my messenger who shall prepare \[the\] way before my face. And \[the\] <span class="smallcaps">lord</span> whom you seek shall suddenly come into his temple, even the messenger of the covenant, whom you want. Behold, he comes, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-“Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.17|<< Malachi 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.2|Malachi 3:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 3:1** is...

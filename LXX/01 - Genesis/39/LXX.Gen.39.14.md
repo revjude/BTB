@@ -1,10 +1,7 @@
 **LXX Genesis 39:14** 
 <small><sub>**LXX:**</sub></small>
 that she called the \[ones\] being in the house, and said to them, saying, See! he brought in to us a Hebrew servant to mock us. He entered to me, saying, Come to bed with me! And I yelled a great voice. 
-<small><sub>**KJV:**</sub></small>
-That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
-<small><sub>**BSB:**</sub></small>
-she called her household servants. “Look,” she said, “this Hebrew has been brought to us to make sport of us. He came to me so he could sleep with me, but I screamed as loud as I could.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.13|<< Genesis 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.15|Genesis 39:15 >>]]</td></tr></table>
 
 | Translation | Greek |

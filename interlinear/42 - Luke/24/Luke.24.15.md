@@ -1,12 +1,12 @@
-**Luke 24:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:15**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, while they communed [together] and reasoned, Jesus himself drew near, and went with them.
 <small><sub>**BSB:**</sub></small>
 And as they talked and deliberated, Jesus Himself came up and walked along with them.
 <small><sub>**Literal:**</sub></small>
 And it came to pass during the talking by them and reasoning that Himself <the> Jesus having drawn near He was walking along with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.14|<< Luke 24:14]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.16|Luke 24:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

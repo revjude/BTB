@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:4** 
 <small><sub>**LXX:**</sub></small>
 And before this Eliashib the priest lived in \[the\] treasury of \[the\] house of our God, near Tobiah. 
-<small><sub>**KJV:**</sub></small>
-And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, [was] allied unto Tobiah:
-<small><sub>**BSB:**</sub></small>
-Now before this, Eliashib the priest, a relative of Tobiah, had been put in charge of the storerooms of the house of our God<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

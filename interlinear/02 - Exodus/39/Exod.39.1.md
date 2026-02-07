@@ -1,4 +1,4 @@
-**Exodus 39:1** 
+**Exodus 39:1**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy [place], and made the holy garments for Aaron; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the blue, purple, and scarlet yarn they made specially woven garments for m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.31|<< Exodus 38:31]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.2|Exodus 39:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the violet stuff  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8504\|תְּכֵ֤לֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

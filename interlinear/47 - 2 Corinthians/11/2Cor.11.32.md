@@ -1,12 +1,12 @@
-**2 Corinthians 11:32
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:32**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
 <small><sub>**BSB:**</sub></small>
 In Damascus, the governor under King Aretas secured the city of the Damascenes in order to arrest me.
 <small><sub>**Literal:**</sub></small>
 In Damascus the governor under Aretas the king was guarding the city of the Damascenes to seize me wishing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.31|<< 2 Corinthians 11:31]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.33|2 Corinthians 11:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Damascus |**<big>[[G1154\|Δαμασκῷ]]</big>**  |Damaskō <small><sup>[[N-DSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

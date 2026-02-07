@@ -1,4 +1,4 @@
-**Joshua 23:13** 
+**Joshua 23:13**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know for a certainty that the LORD your God will no more drive out [any of] these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ know for sure that the LORD your God will no longer drive out these nations befo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.12|<< Joshua 23:12]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.14|Joshua 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to know>  |**<big>&#8207;[[H3045\|יָד֙וֹעַ֙]]&#8207; </big>**| ya.Do.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will know  |**<big>&#8207;[[H3045\|תֵּֽדְע֔וּ]]&#8207; </big>**| te.de.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

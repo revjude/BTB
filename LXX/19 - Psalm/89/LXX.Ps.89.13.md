@@ -1,10 +1,7 @@
 **LXX Psalm 89:13** 
 <small><sub>**LXX:**</sub></small>
 Your  arm \[is\] with dominations. your hand be fortified! your right \[hand\] be raised up high! 
-<small><sub>**KJV:**</sub></small>
-Thou hast a mighty arm: strong is thy hand, [and] high is thy right hand.
-<small><sub>**BSB:**</sub></small>
-Mighty is Your arm; strong is Your hand. Your right hand is exalted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.12|<< Psalm 89:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.14|Psalm 89:14 >>]]</td></tr></table>
 
 | Translation | Greek |

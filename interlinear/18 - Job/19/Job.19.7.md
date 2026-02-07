@@ -1,4 +1,4 @@
-**Job 19:7** 
+**Job 19:7**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I cry out of wrong, but I am not heard: I cry aloud, but [there is] no judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though I cry out, ‘Violence!’ I get no response; though I call for help, the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.6|<< Job 19:6]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.8|Job 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I cry out  |**<big>&#8207;[[H6817\|אֶצְעַ֣ק]]&#8207; </big>**| 'etz.'Ak<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

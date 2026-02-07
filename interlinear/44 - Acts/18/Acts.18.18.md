@@ -1,12 +1,12 @@
-**Acts 18:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:18**<big><big>[[Acts.18.18 Paul Returns to Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul [after this] tarried [there] yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn [his] head in Cenchrea: for he had a vow.
 <small><sub>**BSB:**</sub></small>
 Paul remained in Corinth for quite some time before saying goodbye to the brothers. He had his head shaved in Cenchrea to keep a vow he had made, and then he sailed for Syria, accompanied by Priscilla and Aquila.
 <small><sub>**Literal:**</sub></small>
 <the> Now Paul more having remained days many, of the brothers having taken leave he was sailing away to <the> Syria — and with him Priscilla and Aquila — having shaved in Cenchrea the head; he had for a vow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.17|<< Acts 18:17]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.19|Acts 18:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

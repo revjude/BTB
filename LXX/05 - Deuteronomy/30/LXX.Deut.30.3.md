@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:3** 
 <small><sub>**LXX:**</sub></small>
 that \[the\] <span class="smallcaps">lord</span> shall heal  your sins, and shall show mercy on you, and again shall bring you from out of all the nations into which \[the\] <span class="smallcaps">lord</span> your God dispersed you there. 
-<small><sub>**KJV:**</sub></small>
-That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee.
-<small><sub>**BSB:**</sub></small>
-then He will restore you from captivity and have compassion on you and gather you from all the nations to which the LORD your God has scattered you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.2|<< Deuteronomy 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.4|Deuteronomy 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

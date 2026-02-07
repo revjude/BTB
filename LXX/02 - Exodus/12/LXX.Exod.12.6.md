@@ -1,10 +1,7 @@
 **LXX Exodus 12:6** 
 <small><sub>**LXX:**</sub></small>
 And it will be to you for carefully keeping until the fourteenth  of this month. And they shall slay it -- all the multitude of \[the\] gathering of \[the\] sons of Israel towards evening. 
-<small><sub>**KJV:**</sub></small>
-And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.
-<small><sub>**BSB:**</sub></small>
-You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.5|<< Exodus 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.7|Exodus 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

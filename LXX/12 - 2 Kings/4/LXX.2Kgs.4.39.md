@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:39** 
 <small><sub>**LXX:**</sub></small>
 And he went forth into the field to collect together herbs. And he found a vine in the field, and he collected together from it a wild gourd to fill  his cloak, and he entered and put \[it\] into the kettle of the stew -- but they did not know. 
-<small><sub>**KJV:**</sub></small>
-And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred [them] into the pot of pottage: for they knew [them] not.
-<small><sub>**BSB:**</sub></small>
-One of them went out to the field to gather herbs, and he found a wild vine from which he gathered as many wild gourds as his garment could hold. Then he came back and cut them up into the pot of stew, though no one knew what they were.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.38|<< 2 Kings 4:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.40|2 Kings 4:40 >>]]</td></tr></table>
 
 | Translation | Greek |

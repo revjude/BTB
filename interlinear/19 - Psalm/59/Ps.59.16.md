@@ -1,4 +1,4 @@
-**Psalms 59:16** (59:17)
+**Psalms 59:16**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will sing of Your strength and proclaim Your loving devotion in the mornin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.15|<< Psalms 59:15]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.17|Psalms 59:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will sing  |**<big>&#8207;[[H7891\|אָשִׁ֣יר]]&#8207; </big>**| 'a.Shir<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

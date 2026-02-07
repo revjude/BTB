@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:13** 
 <small><sub>**LXX:**</sub></small>
 His jaws \[are\] as bowls of the aromatic, germinating scents. His lips \[are as\] lilies dripping full- \[bodied\] myrrh. 
-<small><sub>**KJV:**</sub></small>
-His cheeks [are] as a bed of spices, [as] sweet flowers: his lips [like] lilies, dropping sweet smelling myrrh.
-<small><sub>**BSB:**</sub></small>
-His cheeks are like beds of spice, towers of perfume. His lips are like lilies, dripping with flowing myrrh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.12|<< Song of Solomon 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.14|Song of Solomon 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

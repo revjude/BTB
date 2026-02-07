@@ -1,10 +1,7 @@
 **LXX Isaiah 42:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  God of the forces shall go forth, and shall break war. He shall rouse zeal, and shall yell against  his enemies with strength. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
-<small><sub>**BSB:**</sub></small>
-The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He shouts; yes, He roars in triumph over His enemies:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.12|<< Isaiah 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.14|Isaiah 42:14 >>]]</td></tr></table>
 
 | Translation | Greek |

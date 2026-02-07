@@ -1,4 +1,4 @@
-**Judges 11:16** 
+**Judges 11:16**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when Israel came up out of Egypt, they traveled through the wilderness to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.15|<< Judges 11:15]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.17|Judges 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came up they  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5927G\|עֲלוֹתָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.lo.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

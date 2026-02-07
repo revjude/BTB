@@ -1,10 +1,7 @@
 **LXX Genesis 44:27** 
 <small><sub>**LXX:**</sub></small>
 And our father your servant said to us, You know that my wife bore to me two; 
-<small><sub>**KJV:**</sub></small>
-And thy servant my father said unto us, Ye know that my wife bare me two [sons]:
-<small><sub>**BSB:**</sub></small>
-And your servant my father said to us, ‘You know that my wife bore me two sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.26|<< Genesis 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.28|Genesis 44:28 >>]]</td></tr></table>
 
 | Translation | Greek |

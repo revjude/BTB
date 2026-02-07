@@ -1,12 +1,12 @@
-**Hebrews 5:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:14**<big><big>[[Heb.5.11 Milk and Solid Food|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But strong meat belongeth to them that are of full age, [even] those who by reason of use have their senses exercised to discern both good and evil.
 <small><sub>**BSB:**</sub></small>
 But solid food is for the mature, who by constant use have trained their senses to distinguish good from evil.
 <small><sub>**Literal:**</sub></small>
 [for the] mature however is the solid food for those through <the> constant use the senses trained who are having [ability] to distinguish good both and evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.13|<< Hebrews 5:13]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.1|Hebrews 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [for the] mature |**<big>[[G5046\|τελείων]]</big>**  |teleiōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

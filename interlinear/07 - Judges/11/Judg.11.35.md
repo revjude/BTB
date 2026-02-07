@@ -1,4 +1,4 @@
-**Judges 11:35** 
+**Judges 11:35**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as Jephthah saw her, he tore his clothes and said, “No! Not my daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.34|<< Judges 11:34]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.36|Judges 11:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw he  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H7200G\|רְאוֹת֨]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> r.'o.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

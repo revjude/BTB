@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:16** 
 <small><sub>**LXX:**</sub></small>
 The word which you spoke to us in the name of \[the\] <span class="smallcaps">lord</span>, we will not hearken to you. 
-<small><sub>**KJV:**</sub></small>
-[As for] the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee.
-<small><sub>**BSB:**</sub></small>
-“As for the word you have spoken to us in the name of the LORD, we will not listen to you!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.15|<< Jeremiah 44:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.17|Jeremiah 44:17 >>]]</td></tr></table>
 
 | Translation | Greek |

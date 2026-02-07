@@ -1,10 +1,7 @@
 **LXX Psalm 94:23** 
 <small><sub>**LXX:**</sub></small>
 And he shall recompense to them  their lawlessness; and according to  their wickedness \[The\] <span class="smallcaps">lord</span> God shall remove them from view. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; [yea], the LORD our God shall cut them off.
-<small><sub>**BSB:**</sub></small>
-He will bring upon them their own iniquity and destroy them for their wickedness. The LORD our God will destroy them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.94.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.22|<< Psalm 94:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.1|Psalm 95:1 >>]]</td></tr></table>
 
 | Translation | Greek |

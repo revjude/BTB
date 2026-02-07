@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:32** 
 <small><sub>**LXX:**</sub></small>
 And of the sons of Issachar, ones perceiving with understanding concerning the times, knowing what Israel shall do in  their companies -- two hundred; and all their brethren with them. 
-<small><sub>**KJV:**</sub></small>
-And of the children of Issachar, [which were men] that had understanding of the times, to know what Israel ought to do; the heads of them [were] two hundred; and all their brethren [were] at their commandment.
-<small><sub>**BSB:**</sub></small>
-From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
 | Translation | Greek |

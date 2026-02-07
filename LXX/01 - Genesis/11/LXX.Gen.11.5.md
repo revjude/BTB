@@ -1,10 +1,7 @@
 **LXX Genesis 11:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> went down to look at the city and the tower, which the sons of men built. 
-<small><sub>**KJV:**</sub></small>
-And the LORD came down to see the city and the tower, which the children of men builded.
-<small><sub>**BSB:**</sub></small>
-Then the LORD came down to see the city and the tower that the sons of men were building.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.4|<< Genesis 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.6|Genesis 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

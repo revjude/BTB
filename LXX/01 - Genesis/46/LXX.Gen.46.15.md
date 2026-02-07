@@ -1,10 +1,7 @@
 **LXX Genesis 46:15** 
 <small><sub>**LXX:**</sub></small>
 These \[are the\] sons of Leah, whom she bore \[to\] Jacob in Mesopotamia  of Syria, and Dinah  his daughter. All the souls, sons and daughters, thirty three. 
-<small><sub>**KJV:**</sub></small>
-These [be] the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters [were] thirty and three.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daughter Dinah. The total number of sons and daughters was thirty-three.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.14|<< Genesis 46:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.16|Genesis 46:16 >>]]</td></tr></table>
 
 | Translation | Greek |

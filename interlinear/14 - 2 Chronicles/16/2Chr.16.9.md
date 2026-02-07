@@ -1,4 +1,4 @@
-**2 Chronicles 16:9** 
+**2 Chronicles 16:9**<big><big>[[2Chr.16.7 Hanani’s Message to Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of [them] whose heart [is] perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the eyes of the LORD roam to and fro over all the earth, to show Himself str
 > $\quad$ referenced by: [[Rev.5.6|Rev 5:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

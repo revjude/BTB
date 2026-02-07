@@ -1,10 +1,7 @@
 **LXX Genesis 26:30** 
 <small><sub>**LXX:**</sub></small>
 And he made a banquet for them. And they ate and drank. 
-<small><sub>**KJV:**</sub></small>
-And he made them a feast, and they did eat and drink.
-<small><sub>**BSB:**</sub></small>
-So Isaac prepared a feast for them, and they ate and drank.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.29|<< Genesis 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.31|Genesis 26:31 >>]]</td></tr></table>
 
 | Translation | Greek |

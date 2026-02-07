@@ -1,4 +1,4 @@
-**Proverbs 23:27** 
+**Proverbs 23:27**<big><big>[[Prov.23.26 Saying 18|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a whore [is] a deep ditch; and a strange woman [is] a narrow pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a prostitute is a deep pit, and an adulteress is a narrow well.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.26|<< Proverbs 23:26]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.28|Proverbs 23:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a pit  |**<big>&#8207;[[H7745\|שׁוּחָ֣ה]]&#8207; </big>**| shu.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

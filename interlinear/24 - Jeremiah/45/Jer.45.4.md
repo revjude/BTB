@@ -1,4 +1,4 @@
-**Jeremiah 45:4** 
+**Jeremiah 45:4**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou say unto him, The LORD saith thus; Behold, [that] which I have built will I break down, and that which I have planted I will pluck up, even this whole land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus Jeremiah was to say to Baruch: “This is what the LORD says: Throughout th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.3|<< Jeremiah 45:3]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.5|Jeremiah 45:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹּאמַ֣ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

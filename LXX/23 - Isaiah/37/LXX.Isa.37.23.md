@@ -1,10 +1,7 @@
 **LXX Isaiah 37:23** 
 <small><sub>**LXX:**</sub></small>
 Whom did you berate and provoke? or, to whom did you raise up high  your voice and lift your eyes unto \[the\] height against the holy one  of Israel? 
-<small><sub>**KJV:**</sub></small>
-Whom hast thou reproached and blasphemed? and against whom hast thou exalted [thy] voice, and lifted up thine eyes on high? [even] against the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.22|<< Isaiah 37:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.24|Isaiah 37:24 >>]]</td></tr></table>
 
 | Translation | Greek |

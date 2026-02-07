@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hazael said, Why \[is it\] that  my master weeps? And he said that, I have beheld as many \[things\] as you shall do to the sons of Israel -- bad \[things\].  You will send their fortresses \[up\] in fire, and  their chosen ones you will kill by broadsword, and  their infants you shall dash, and the ones of them having one in \[the\] womb you shall tear apart. 
-<small><sub>**KJV:**</sub></small>
-And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child.
-<small><sub>**BSB:**</sub></small>
-“Why is my lord weeping?” asked Hazael. “Because I know the evil you will do to the Israelites,” Elisha replied. “You will set fire to their fortresses, kill their young men with the sword, dash their little ones to pieces, and rip open their pregnant women.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.11|<< 2 Kings 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.13|2 Kings 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

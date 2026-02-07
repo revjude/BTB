@@ -1,12 +1,12 @@
-**1 Thessalonians 5:2
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:2**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
 <small><sub>**BSB:**</sub></small>
 For you are fully aware that the Day of the Lord will come like a thief in the night.
 <small><sub>**Literal:**</sub></small>
 Yourselves for fully you know that the day of [the] Lord as a thief by night in this manner comes;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.1|<< 1 Thessalonians 5:1]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.3|1 Thessalonians 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yourselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

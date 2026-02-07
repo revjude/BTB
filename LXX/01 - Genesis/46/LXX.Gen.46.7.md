@@ -1,10 +1,7 @@
 **LXX Genesis 46:7** 
 <small><sub>**LXX:**</sub></small>
 Sons, and sons  of his sons with him; daughters, and daughters  of his daughters, and all  his seed he led into Egypt. 
-<small><sub>**KJV:**</sub></small>
-His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.
-<small><sub>**BSB:**</sub></small>
-Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters—all his offspring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.6|<< Genesis 46:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.8|Genesis 46:8 >>]]</td></tr></table>
 
 | Translation | Greek |

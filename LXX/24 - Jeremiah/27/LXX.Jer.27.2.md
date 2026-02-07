@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, Make to yourself bonds and collars, and put \[them\] around  your neck! 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,
-<small><sub>**BSB:**</sub></small>
-This is what the LORD said to me: “Make for yourself a yoke out of leather straps and put it on your neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.1|<< Jeremiah 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.3|Jeremiah 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

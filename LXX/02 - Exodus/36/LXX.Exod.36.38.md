@@ -1,10 +1,7 @@
 **LXX Exodus 36:38** 
 <small><sub>**LXX:**</sub></small>
 and  \[its\] five posts, and  their tips. And he gilded  their tips with gold. And he cast for them five bases of brass. 
-<small><sub>**KJV:**</sub></small>
-And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets [were of] brass.
-<small><sub>**BSB:**</sub></small>
-together with five posts and their hooks. He overlaid the tops of the posts and their bands with gold, and their five bases were bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.37|<< Exodus 36:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.1|Exodus 37:1 >>]]</td></tr></table>
 
 | Translation | Greek |

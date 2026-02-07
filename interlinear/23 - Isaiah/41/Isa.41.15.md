@@ -1,4 +1,4 @@
-**Isaiah 41:15** 
+**Isaiah 41:15**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat [them] small, and shalt make the hills as chaff.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will make you into a threshing sledge, new and sharp, with many teeth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.14|<< Isaiah 41:14]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.16|Isaiah 41:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make you  |**<big>&#8207;[[H7760A\|שַׂמְתִּ֗י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| sam.Ti<small><sup>[[HVqp1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

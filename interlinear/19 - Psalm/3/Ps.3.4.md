@@ -1,4 +1,4 @@
-**Psalms 3:4** (3:5)
+**Psalms 3:4**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the LORD I cry aloud, and He answers me from His holy mountain. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.3|<< Psalms 3:3]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.5|Psalms 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | voice my  |**<big>&#8207;[[H6963A\|ק֭וֹלִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ko.l<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

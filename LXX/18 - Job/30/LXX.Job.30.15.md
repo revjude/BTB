@@ -1,10 +1,7 @@
 **LXX Job 30:15** 
 <small><sub>**LXX:**</sub></small>
 My griefs return; my hope was set out as if \[the\] wind, and my deliverance as if a cloud. 
-<small><sub>**KJV:**</sub></small>
-Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.
-<small><sub>**BSB:**</sub></small>
-Terrors are turned loose against me; they drive away my dignity as by the wind, and my prosperity has passed like a cloud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.14|<< Job 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.16|Job 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

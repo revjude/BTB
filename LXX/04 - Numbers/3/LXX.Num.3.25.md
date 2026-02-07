@@ -1,10 +1,7 @@
 **LXX Numbers 3:25** 
 <small><sub>**LXX:**</sub></small>
 And the watch of \[the\] sons of Gershon \[was\] in the tent of the testimony -- the tent, and the covering, and the overcovering of the door of the tent of the testimony, 
-<small><sub>**KJV:**</sub></small>
-And the charge of the sons of Gershon in the tabernacle of the congregation [shall be] the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,
-<small><sub>**BSB:**</sub></small>
-The duties of the Gershonites at the Tent of Meeting were the tabernacle and tent, its covering, the curtain for the entrance to the Tent of Meeting,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.24|<< Numbers 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.26|Numbers 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 23:15** 
+**Genesis 23:15**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lord, hearken unto me: the land [is worth] four hundred shekels of silver; what [is] that betwixt me and thee? bury therefore thy dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My lord, hearken unto me: the land [is worth] four hundred shekels of silver; wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.14|<< Genesis 23:14]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.16|Genesis 23:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | listen to me  |**<big>&#8207;[[H8085G\|שְׁמָעֵ֔]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| she.ma.'E.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

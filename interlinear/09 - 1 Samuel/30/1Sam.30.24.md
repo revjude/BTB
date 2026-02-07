@@ -1,4 +1,4 @@
-**1 Samuel 30:24** 
+**1 Samuel 30:24**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who will hearken unto you in this matter? but as his part [is] that goeth down to the battle, so [shall] his part [be] that tarrieth by the stuff: they shall part alike.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who will listen to your proposal? The share of the one who went to battle will m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.23|<< 1 Samuel 30:23]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.25|1 Samuel 30:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he listen  |**<big>&#8207;[[H8085G\|יִשְׁמַ֣ע]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

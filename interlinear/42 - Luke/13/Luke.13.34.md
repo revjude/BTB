@@ -1,12 +1,12 @@
-**Luke 13:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:34**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen [doth gather] her brood under [her] wings, and ye would not!
 <small><sub>**BSB:**</sub></small>
 O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together as a hen gathers her chicks under her wings, but you were unwilling!
 <small><sub>**Literal:**</sub></small>
 Jerusalem Jerusalem, You who [are] killing the prophets and stoning those sent to her, how often I have wanted to gather those children of you that way a hen [gathers] <the> her own brood under the wings, and not you were willing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.33|<< Luke 13:33]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.35|Luke 13:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jerusalem |**<big>[[G2419\|Ἰερουσαλὴμ]]</big>**  [^1] |Ierousalēm <small><sup>[[N-VSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jerusalem, |**<big>[[G2419\|Ἰερουσαλήμ,]]</big>**  [^2] |Ierousalēm <small><sup>[[N-VSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

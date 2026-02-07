@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:34** 
 <small><sub>**LXX:**</sub></small>
 And Samuel went forth unto Ramah, and Saul ascended unto  his house in Gibeah. 
-<small><sub>**KJV:**</sub></small>
-Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.
-<small><sub>**BSB:**</sub></small>
-Then Samuel went to Ramah, but Saul went up to his home in Gibeah of Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.33|<< 1 Samuel 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.35|1 Samuel 15:35 >>]]</td></tr></table>
 
 | Translation | Greek |

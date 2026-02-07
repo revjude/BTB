@@ -1,4 +1,4 @@
-**Exodus 5:14** 
+**Exodus 5:14**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Israelite foremen, whom Pharaoh’s taskmasters had set over the people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יֻּכּ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Ku<small><sup>[[HVHw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] foremen of  |**<big>&#8207;[[H7860\|שֹֽׁטְרֵי֙]]&#8207; </big>**| sho.te.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

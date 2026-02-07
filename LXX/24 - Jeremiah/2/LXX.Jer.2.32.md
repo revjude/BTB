@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:32** 
 <small><sub>**LXX:**</sub></small>
 Will \[the\] bride forget  her \[bridal\] ornament, and \[the\] virgin  her breastband?  But my people forgot me \[for\] days which there is no number. 
-<small><sub>**KJV:**</sub></small>
-Can a maid forget her ornaments, [or] a bride her attire? yet my people have forgotten me days without number.
-<small><sub>**BSB:**</sub></small>
-Does a maiden forget her jewelry or a bride her wedding sash? Yet My people have forgotten Me for days without number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.31|<< Jeremiah 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.33|Jeremiah 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

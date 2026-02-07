@@ -1,12 +1,12 @@
-**Matthew 27:56
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:56**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee’s children.
 <small><sub>**BSB:**</sub></small>
 Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee’s sons.
 <small><sub>**Literal:**</sub></small>
 among whom was Mary <the> Magdalene and Mary she <the> of James and of Joseph [the] mother and the mother of the sons of Zebedee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.55|<< Matthew 27:55]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.57|Matthew 27:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | among |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|αἷς]]</big>**  |hais <small><sup>[[R-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

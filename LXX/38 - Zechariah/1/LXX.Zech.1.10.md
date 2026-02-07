@@ -1,10 +1,7 @@
 **LXX Zechariah 1:10** 
 <small><sub>**LXX:**</sub></small>
 And the man answered, the one standing in the midst of the mountains, and he said to me, These are whom \[the\] <span class="smallcaps">lord</span> sent out to travel about the earth. 
-<small><sub>**KJV:**</sub></small>
-And the man that stood among the myrtle trees answered and said, These [are they] whom the LORD hath sent to walk to and fro through the earth.
-<small><sub>**BSB:**</sub></small>
-Then the man standing among the myrtle trees explained, “They are the ones the LORD has sent to patrol the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.9|<< Zechariah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.11|Zechariah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

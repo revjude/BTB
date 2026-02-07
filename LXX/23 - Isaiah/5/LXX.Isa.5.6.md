@@ -1,10 +1,7 @@
 **LXX Isaiah 5:6** 
 <small><sub>**LXX:**</sub></small>
 And I will forsake  my vineyard; for in no way should it be pruned, neither shall it be dug. And \[the\] thorn-bush shall ascend into it as in an uncultivated land. And I will give charge to the clouds  to not rain \[any\] rain upon it. 
-<small><sub>**KJV:**</sub></small>
-And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.
-<small><sub>**BSB:**</sub></small>
-I will make it a wasteland, neither pruned nor cultivated, and thorns and briers will grow up. I will command the clouds that rain shall not fall on it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.5|<< Isaiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.7|Isaiah 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

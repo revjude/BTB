@@ -1,10 +1,7 @@
 **LXX Judges 16:14** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  his going to sleep, that Delilah took the seven strands  of his head, and weaved \[them\] with the warp, and pinned \[them\] to the peg into the wall. And she said to him, \[The\] Philistines \[are\] upon you, Samson. And he was awakened from  his sleep, and he pulled out the pegs in the woven work from out of the wall, and the warp; for he did not know  his strength. 
-<small><sub>**KJV:**</sub></small>
-And she fastened [it] with the pin, and said unto him, The Philistines [be] upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
-<small><sub>**BSB:**</sub></small>
-So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, “Samson, the Philistines are here!” But he awoke from his sleep and pulled out the pin with the loom and the web.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.13|<< Judges 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.15|Judges 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

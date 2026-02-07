@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:5** 
 <small><sub>**LXX:**</sub></small>
 For hearing the sound of the trumpet he did not take guard;  his blood shall be upon him. But this one that guarded  rescued his life. 
-<small><sub>**KJV:**</sub></small>
-He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.
-<small><sub>**BSB:**</sub></small>
-Since he heard the sound of the horn but failed to heed the warning, his blood will be on his own head. If he had heeded the warning, he would have saved his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.4|<< Ezekiel 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.6|Ezekiel 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

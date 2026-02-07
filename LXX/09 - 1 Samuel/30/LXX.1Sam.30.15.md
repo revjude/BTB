@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:15** 
 <small><sub>**LXX:**</sub></small>
 And David said to him, Will you lead me to  this troop? And he said, \[If\] you swear by an oath indeed to me according to  God to not put me to death, and not to deliver me into \[the\] hands  of my master, then I will lead you to  this troop. 
-<small><sub>**KJV:**</sub></small>
-And David said to him, Canst thou bring me down to this company? And he said, Swear unto me by God, that thou wilt neither kill me, nor deliver me into the hands of my master, and I will bring thee down to this company.
-<small><sub>**BSB:**</sub></small>
-“Will you lead me to these raiders?” David asked. And the man replied, “Swear to me by God that you will not kill me or deliver me into the hand of my master, and I will lead you to them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.14|<< 1 Samuel 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.16|1 Samuel 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

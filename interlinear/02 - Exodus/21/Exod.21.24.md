@@ -1,4 +1,4 @@
-**Exodus 21:24** 
+**Exodus 21:24**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eye for eye, tooth for tooth, hand for hand, foot for foot,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ eye for eye, tooth for tooth, hand for hand, foot for foot,
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an eye  |**<big>&#8207;[[H5869A\|עַ֚יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

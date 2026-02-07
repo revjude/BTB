@@ -1,4 +1,4 @@
-**Judges 14:4** 
+**Judges 14:4**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his father and his mother knew not that it [was] of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But his father and his mother knew not that it [was] of the LORD, that he sought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.3|<< Judges 14:3]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.5|Judges 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and father his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0001G\|אָבִ֨י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and mother his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0517\|אִמּ֜]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

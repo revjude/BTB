@@ -1,4 +1,4 @@
-**2 Chronicles 21:8** 
+**2 Chronicles 21:8**<big><big>[[2Chr.21.8 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the days of Jehoram, Edom rebelled against the hand of Judah and appointed th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.7|<< 2 Chronicles 21:7]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.9|2 Chronicles 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it rebelled  |**<big>&#8207;[[H6586\|פָּשַׁ֣ע]]&#8207; </big>**| pa.Sha'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

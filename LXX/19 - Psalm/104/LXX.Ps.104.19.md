@@ -1,10 +1,7 @@
 **LXX Psalm 104:19** 
 <small><sub>**LXX:**</sub></small>
 He made \[the\] moon for seasons; the sun knows  his setting. 
-<small><sub>**KJV:**</sub></small>
-He appointed the moon for seasons: the sun knoweth his going down.
-<small><sub>**BSB:**</sub></small>
-He made the moon to mark the seasons; the sun knows when to set.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.18|<< Psalm 104:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.20|Psalm 104:20 >>]]</td></tr></table>
 
 | Translation | Greek |

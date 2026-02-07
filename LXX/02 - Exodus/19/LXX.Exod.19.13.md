@@ -1,10 +1,7 @@
 **LXX Exodus 19:13** 
 <small><sub>**LXX:**</sub></small>
 His hand shall not touch it, for with stones they shall be stoned or \[with an\] arrow they shall be shot; if \[it be\] also cattle, \[or\] if \[it be\] also man, he shall not live. And whenever the voices, and the trumpets, and the cloud go forth from the mountain, they shall ascend to the mountain. 
-<small><sub>**KJV:**</sub></small>
-There shall not an hand touch it, but he shall surely be stoned, or shot through; whether [it be] beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
-<small><sub>**BSB:**</sub></small>
-No hand shall touch him, but he shall surely be stoned or shot with arrows—whether man or beast, he must not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.12|<< Exodus 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.14|Exodus 19:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 19:13** is...

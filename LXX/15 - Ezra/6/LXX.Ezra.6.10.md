@@ -1,10 +1,7 @@
 **LXX Ezra 6:10** 
 <small><sub>**LXX:**</sub></small>
 That there might be a pleasant aroma offering to the God of the heaven, and they might pray for \[the\] life of the king, and  his sons. 
-<small><sub>**KJV:**</sub></small>
-That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
-<small><sub>**BSB:**</sub></small>
-Then they will be able to offer sacrifices of a sweet aroma to the God of heaven and to pray for the lives of the king and his sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.9|<< Ezra 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.11|Ezra 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 1:17** 
+**Lamentations 1:17**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zion spreadeth forth her hands, [and there is] none to comfort her: the LORD hath commanded concerning Jacob, [that] his adversaries [should be] round about him: Jerusalem is as a menstruous woman among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zion stretches out her hands, but there is no one to comfort her. The LORD has d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.16|<< Lamentations 1:16]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.18|Lamentations 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has spread out  |**<big>&#8207;[[H6566\|פֵּֽרְשָׂ֨ה]]&#8207; </big>**| pe.re.Sah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֜וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 45:3** 
+**Jeremiah 45:3**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have said, ‘Woe is me because the LORD has added sorrow to my pain! I am w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.2|<< Jeremiah 45:2]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.4|Jeremiah 45:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you said  |**<big>&#8207;[[H0559\|אָמַ֙רְתָּ֙]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | woe!  |**<big>&#8207;[[H0188\|אֽוֹי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

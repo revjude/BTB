@@ -1,5 +1,5 @@
-**Hebrews 3:15
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:15**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.
 <small><sub>**BSB:**</sub></small>
 As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”
@@ -10,7 +10,7 @@ As the saying: Today if the voice of Him you shall hear, not shall harden the he
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

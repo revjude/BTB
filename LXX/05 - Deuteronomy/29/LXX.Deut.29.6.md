@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:6** 
 <small><sub>**LXX:**</sub></small>
 You did not eat bread; you did not drink wine and liquor, that you should know that I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye have not eaten bread, neither have ye drunk wine or strong drink: that ye might know that I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You ate no bread and drank no wine or strong drink, so that you might know that I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.5|<< Deuteronomy 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.7|Deuteronomy 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

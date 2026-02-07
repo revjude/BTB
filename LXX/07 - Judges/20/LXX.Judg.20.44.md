@@ -1,10 +1,7 @@
 **LXX Judges 20:44** 
 <small><sub>**LXX:**</sub></small>
 And eighteen thousand men of Benjamin fell;  all these men of power. 
-<small><sub>**KJV:**</sub></small>
-And there fell of Benjamin eighteen thousand men; all these [were] men of valour.
-<small><sub>**BSB:**</sub></small>
-And 18,000 Benjamites fell, all men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.43|<< Judges 20:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.45|Judges 20:45 >>]]</td></tr></table>
 
 | Translation | Greek |

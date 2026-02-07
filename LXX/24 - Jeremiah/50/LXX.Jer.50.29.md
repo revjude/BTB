@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:29** 
 <small><sub>**LXX:**</sub></small>
 Exhort many against Babylon! to every one stretching tight \[the\] bow. Camp upon her round about! Let there not be her escaping! Recompense to her according to  her works! According to all as much as she did, you do to her! For she withstood against the <span class="smallcaps">lord</span> God, \[the\] holy one of Israel. 
-<small><sub>**KJV:**</sub></small>
-Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-Summon the archers against Babylon, all who string the bow. Encamp all around her; let no one escape. Repay her according to her deeds; do to her as she has done. For she has defied the LORD, the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 50:29** is...

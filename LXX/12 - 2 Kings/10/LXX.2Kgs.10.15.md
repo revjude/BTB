@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:15** 
 <small><sub>**LXX:**</sub></small>
 And he went from there, and he found  Jehonadab son of Rechab in the way for meeting him. And he blessed him, and Jehu said to him, Is your heart straight with  my heart, as  my heart \[is\] with  your heart? And Jehonadab said, It is. And Jehu said, Then if it is, give  your hand! And he gave  his hand. And he hauled him to himself upon the chariot. 
-<small><sub>**KJV:**</sub></small>
-And when he was departed thence, he lighted on Jehonadab the son of Rechab [coming] to meet him: and he saluted him, and said to him, Is thine heart right, as my heart [is] with thy heart? And Jehonadab answered, It is. If it be, give [me] thine hand. And he gave [him] his hand; and he took him up to him into the chariot.
-<small><sub>**BSB:**</sub></small>
-When he left there, he found Jehonadab son of Rechab, who was coming to meet him. Jehu greeted him and asked, “Is your heart as true to mine as my heart is to yours?” “It is!” Jehonadab replied. “If it is,” said Jehu, “give me your hand.” So he gave him his hand, and Jehu helped him into his chariot,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.14|<< 2 Kings 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.16|2 Kings 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

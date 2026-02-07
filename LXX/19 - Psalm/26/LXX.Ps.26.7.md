@@ -1,10 +1,7 @@
 **LXX Psalm 26:7** 
 <small><sub>**LXX:**</sub></small>
  to hear my voice of praise of you, and to describe all  your wonders. 
-<small><sub>**KJV:**</sub></small>
-That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.
-<small><sub>**BSB:**</sub></small>
-to raise my voice in thanksgiving and declare all Your wonderful works.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.6|<< Psalm 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.8|Psalm 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

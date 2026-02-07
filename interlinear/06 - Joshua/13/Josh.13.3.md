@@ -1,4 +1,4 @@
-**Joshua 13:3** 
+**Joshua 13:3**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Sihor, which [is] before Egypt, even unto the borders of Ekron northward, [which] is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from the Shihor east of Egypt to the territory of Ekron on the north (considered
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.2|<< Joshua 13:2]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.4|Joshua 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4480A\|מִֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Shihor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7883G\|שִּׁיח֞וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.Chor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

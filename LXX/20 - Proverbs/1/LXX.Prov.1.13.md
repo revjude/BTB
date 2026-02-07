@@ -1,10 +1,7 @@
 **LXX Proverbs 1:13** 
 <small><sub>**LXX:**</sub></small>
 the very costly property of his we should overtake, and we should fill our houses of spoils. 
-<small><sub>**KJV:**</sub></small>
-We shall find all precious substance, we shall fill our houses with spoil:
-<small><sub>**BSB:**</sub></small>
-We will find all manner of precious goods; we will fill our houses with plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.12|<< Proverbs 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.14|Proverbs 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

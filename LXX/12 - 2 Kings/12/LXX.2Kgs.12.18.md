@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:18** 
 <small><sub>**LXX:**</sub></small>
 And Joash king of Judah took all the holy \[things\] which Jehoshaphat sanctified, and Jehoram, and Ahaziah,  his fathers, kings of Judah, and  his holy \[things\], and all the gold  being found in \[the\] treasuries of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and of \[the\] house of the king, and sent \[them\]  to Hazael king  of Syria. And he ascended away from Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold [that was] found in the treasures of the house of the LORD, and in the king’s house, and sent [it] to Hazael king of Syria: and he went away from Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So King Joash of Judah took all the sacred objects dedicated by his fathers—Jehoshaphat, Jehoram, and Ahaziah, the kings of Judah—along with his own consecrated items and all the gold found in the treasuries of the house of the LORD and the royal palace, and he sent them to Hazael king of Aram. So Hazael withdrew from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.17|<< 2 Kings 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.19|2 Kings 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 26:56
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:56**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
 <small><sub>**BSB:**</sub></small>
 But this has all happened so that the writings of the prophets would be fulfilled.” Then all the disciples deserted Him and fled.
 <small><sub>**Literal:**</sub></small>
 This then all has come to pass that may be fulfilled the Scriptures of the prophets. Then the disciples all having forsaken Him fled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.55|<< Matthew 26:55]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.57|Matthew 26:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

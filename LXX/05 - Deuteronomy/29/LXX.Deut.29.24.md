@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:24** 
 <small><sub>**LXX:**</sub></small>
 and all the nations shall say, Why \[the\] <span class="smallcaps">lord do</span> thus  to this land? What is  this great rage of anger? 
-<small><sub>**KJV:**</sub></small>
-Even all nations shall say, Wherefore hath the LORD done thus unto this land? what [meaneth] the heat of this great anger?
-<small><sub>**BSB:**</sub></small>
-So all the nations will ask, ‘Why has the LORD done such a thing to this land? Why this great outburst of anger?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.23|<< Deuteronomy 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.25|Deuteronomy 29:25 >>]]</td></tr></table>
 
 | Translation | Greek |

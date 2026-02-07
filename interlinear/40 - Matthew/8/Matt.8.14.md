@@ -1,12 +1,12 @@
-**Matthew 8:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:14**<big><big>[[Matt.8.14 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever.
 <small><sub>**BSB:**</sub></small>
 When Jesus arrived at Peter’s house, He saw Peter’s mother-in-law sick in bed with a fever.
 <small><sub>**Literal:**</sub></small>
 And having come <the> Jesus to the house of Peter He saw the mother-in-law of him lain down and fevering<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.13|<< Matthew 8:13]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.15|Matthew 8:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

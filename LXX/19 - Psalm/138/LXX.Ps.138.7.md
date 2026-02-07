@@ -1,10 +1,7 @@
 **LXX Psalm 138:7** 
 <small><sub>**LXX:**</sub></small>
 If I should go in \[the\] midst of affliction, he shall enliven me. You stretched out your hands against \[the\] anger of my enemies, and your right \[hand\] delivered me. 
-<small><sub>**KJV:**</sub></small>
-Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
-<small><sub>**BSB:**</sub></small>
-If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.138.6|<< Psalm 138:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.8|Psalm 138:8 >>]]</td></tr></table>
 
 | Translation | Greek |

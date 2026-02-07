@@ -1,12 +1,12 @@
-**Mark 13:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:15**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let him that is on the housetop not go down into the house, neither enter [therein], to take any thing out of his house:
 <small><sub>**BSB:**</sub></small>
 Let no one on the housetop go back inside to retrieve anything from his house.
 <small><sub>**Literal:**</sub></small>
 the [one] and upon the housetop not he should come down into <the> house nor should go in to take anything out of the house of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.14|<< Mark 13:14]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.16|Mark 13:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NKO</abbr> | |

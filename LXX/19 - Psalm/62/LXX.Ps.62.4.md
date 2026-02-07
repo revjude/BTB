@@ -1,10 +1,7 @@
 **LXX Psalm 62:4** 
 <small><sub>**LXX:**</sub></small>
 But  they consulted to thrust away my honor. I ran in thirst; with their mouth blessing, but \[in\] their heart they cursed. 
-<small><sub>**KJV:**</sub></small>
-They only consult to cast [him] down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.
-<small><sub>**BSB:**</sub></small>
-They fully intend to cast him down from his lofty perch; they delight in lies; with their mouths they bless, but inwardly they curse. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.3|<< Psalm 62:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.5|Psalm 62:5 >>]]</td></tr></table>
 
 | Translation | Greek |

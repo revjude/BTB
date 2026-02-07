@@ -1,10 +1,7 @@
 **LXX Exodus 25:16** 
 <small><sub>**LXX:**</sub></small>
 And you shall put into the ark the testimonies which ever I give to you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put into the ark the testimony which I shall give thee.
-<small><sub>**BSB:**</sub></small>
-And place inside the ark the Testimony, which I will give you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.15|<< Exodus 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.17|Exodus 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

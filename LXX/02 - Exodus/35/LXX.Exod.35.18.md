@@ -1,10 +1,7 @@
 **LXX Exodus 35:18** 
 <small><sub>**LXX:**</sub></small>
 and the pegs of the tent, and the pegs of the courtyard, and  their cords, and the holy apparels of Aaron the priest, 
-<small><sub>**KJV:**</sub></small>
-The pins of the tabernacle, and the pins of the court, and their cords,
-<small><sub>**BSB:**</sub></small>
-the tent pegs for the tabernacle and for the courtyard, along with their ropes;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.17|<< Exodus 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.19|Exodus 35:19 >>]]</td></tr></table>
 
 | Translation | Greek |

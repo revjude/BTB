@@ -1,4 +1,4 @@
-**Ezekiel 20:22** 
+**Ezekiel 20:22**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I withheld My hand and acted for the sake of My name, so that it would not b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.21|<< Ezekiel 20:21]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.23|Ezekiel 20:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725I\|הֲשִׁבֹ֙תִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.Vo.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

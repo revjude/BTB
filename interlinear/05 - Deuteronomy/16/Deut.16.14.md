@@ -1,4 +1,4 @@
-**Deuteronomy 16:14** 
+**Deuteronomy 16:14**<big><big>[[Deut.16.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that [are] within thy gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall rejoice in your feast—you, your sons and daughters, your menserv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.13|<< Deuteronomy 16:13]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.15|Deuteronomy 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will rejoice  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8055\|שָׂמַחְתָּ֖]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.mach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at festival your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2282\|חַגֶּ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Ge.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

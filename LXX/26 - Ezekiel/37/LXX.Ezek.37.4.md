@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:4** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Prophesy over  these bones! and you shall say to them, O dry bones, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-And He said to me, “Prophesy concerning these bones and tell them, ‘Dry bones, hear the word of the LORD!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.3|<< Ezekiel 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.5|Ezekiel 37:5 >>]]</td></tr></table>
 
 | Translation | Greek |

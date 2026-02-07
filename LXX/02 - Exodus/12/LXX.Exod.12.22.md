@@ -1,10 +1,7 @@
 **LXX Exodus 12:22** 
 <small><sub>**LXX:**</sub></small>
 But you shall take a bundle of hyssop, and having dipped it from the blood, of the \[blood\] by the door, you shall place \[it\] on the lintel and upon both of the doorposts, of the blood which is by the door; and you shall not go forth -- each from the door  of his house until morning. 
-<small><sub>**KJV:**</sub></small>
-And ye shall take a bunch of hyssop, and dip [it] in the blood that [is] in the bason, and strike the lintel and the two side posts with the blood that [is] in the bason; and none of you shall go out at the door of his house until the morning.
-<small><sub>**BSB:**</sub></small>
-Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.21|<< Exodus 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.23|Exodus 12:23 >>]]</td></tr></table>
 
 | Translation | Greek |

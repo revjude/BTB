@@ -1,4 +1,4 @@
-**Exodus 22:31** (22:30)
+**Exodus 22:31**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be holy men unto me: neither shall ye eat [any] flesh [that is] torn of beasts in the field; ye shall cast it to the dogs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to be My holy people. You must not eat the meat of a mauled animal found
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.30|<< Exodus 22:30]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.1|Exodus 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | holiness  |**<big>&#8207;[[H6944G\|קֹ֖דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

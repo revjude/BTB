@@ -1,10 +1,7 @@
 **LXX Psalm 146:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> guards the foreigners; orphan and widow he takes up; and \[the\] way of sinners he obliterates. 
-<small><sub>**KJV:**</sub></small>
-The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
-<small><sub>**BSB:**</sub></small>
-The LORD protects foreigners; He sustains the fatherless and the widow, but the ways of the wicked He frustrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.146.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.8|<< Psalm 146:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.10|Psalm 146:10 >>]]</td></tr></table>
 
 | Translation | Greek |

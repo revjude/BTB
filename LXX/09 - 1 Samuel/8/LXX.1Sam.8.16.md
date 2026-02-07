@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:16** 
 <small><sub>**LXX:**</sub></small>
 And  your menservants, and  your maidservants, and  your good herds, and  your donkeys he shall take; and he will take a tenth for  his works. 
-<small><sub>**KJV:**</sub></small>
-And he will take your menservants, and your maidservants, and your goodliest young men, and your asses, and put [them] to his work.
-<small><sub>**BSB:**</sub></small>
-And he will take your menservants and maidservants and your best cattle and donkeys and put them to his own use.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.15|<< 1 Samuel 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.17|1 Samuel 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

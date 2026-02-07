@@ -1,12 +1,12 @@
-**1 Thessalonians 4:8
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:8**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.
 <small><sub>**BSB:**</sub></small>
 Anyone, then, who rejects this command does not reject man but God, the very One who gives you His Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 So then the [one] rejecting [this] not man disregards but <the> God the [One] also giving the Spirit of Him <the> Holy to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.7|<< 1 Thessalonians 4:7]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.9|1 Thessalonians 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So then |**<big>[[G5105\|τοιγαροῦν]]</big>**  |toigaroun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:145** 
 <small><sub>**LXX:**</sub></small>
 I cried out with my whole heart. Heed me, O <span class="smallcaps">lord</span>!  I will seek after your ordinances. 
-<small><sub>**KJV:**</sub></small>
-KOPH. I cried with [my] whole heart; hear me, O LORD: I will keep thy statutes.
-<small><sub>**BSB:**</sub></small>
-I call with all my heart; answer me, O LORD! I will obey Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.145|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.144|<< Psalm 119:144]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.146|Psalm 119:146 >>]]</td></tr></table>
 
 | Translation | Greek |

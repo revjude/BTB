@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:13** 
 <small><sub>**LXX:**</sub></small>
 And I will throw you away from  this land, into a land which you knew not -- you and  your fathers. And you shall serve there strange gods day and night, the ones \[that\] shall not grant mercy to you. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I cast you out of this land into a land that ye know not, [neither] ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.
-<small><sub>**BSB:**</sub></small>
-So I will cast you out of this land into a land that neither you nor your fathers have known. There you will serve other gods day and night, for I will show you no favor.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.12|<< Jeremiah 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.14|Jeremiah 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

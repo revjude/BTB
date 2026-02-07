@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:28** 
 <small><sub>**LXX:**</sub></small>
 and upon all the holy \[things\]  of God as much as was sanctified by Samuel the seer, and Saul the \[son of\] Kish, and Abner the \[son of\] Ner, and Joab the \[son of\] Zeruiah, and all  being sanctified through \[the\] hand of Shelomith and  his brethren. 
-<small><sub>**KJV:**</sub></small>
-And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; [and] whosoever had dedicated [any thing, it was] under the hand of Shelomith, and of his brethren.
-<small><sub>**BSB:**</sub></small>
-Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah, along with everything else that was dedicated, was under the care of Shelomith and his brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.27|<< 1 Chronicles 26:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.29|1 Chronicles 26:29 >>]]</td></tr></table>
 
 | Translation | Greek |

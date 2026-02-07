@@ -1,6 +1,6 @@
 (KJV) **Psalm 121**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120|<< Psalm 120]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122|Psalm 122 >>]]</td></tr></table>
 
-***I Lift Up My Eyes to the Hills*** ^bsb1414
+<big><big>[[Ps.121.1 I Lift Up My Eyes to the Hills|⥃]]</big></big>***I Lift Up My Eyes to the Hills***
 
 
 

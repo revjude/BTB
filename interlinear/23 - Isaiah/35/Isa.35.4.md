@@ -1,4 +1,4 @@
-**Isaiah 35:4** 
+**Isaiah 35:4**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say to them [that are] of a fearful heart, Be strong, fear not: behold, your God will come [with] vengeance, [even] God [with] a recompence; he will come and save you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Say to those with anxious hearts: “Be strong, do not fear! Behold, your God wi
 > $\quad$ referenced by: [[John.12.15|John 12:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אִמְרוּ֙]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [people] hasty of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4116A\|נִמְהֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> nim.ha.rei-<small><sup>[[HVNrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

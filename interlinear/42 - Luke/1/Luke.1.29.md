@@ -1,12 +1,12 @@
-**Luke 1:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:29**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she saw [him], she was troubled at his saying, and cast in her mind what manner of salutation this should be.
 <small><sub>**BSB:**</sub></small>
 Mary was greatly troubled at his words and wondered what kind of greeting this might be.
 <small><sub>**Literal:**</sub></small>
 <the> And having seen [him] at the statement she was troubled of him and was pondering what kind would be <the> salutation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.28|<< Luke 1:28]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.30|Luke 1:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

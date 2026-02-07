@@ -1,4 +1,4 @@
-**Ezekiel 37:21** 
+**Ezekiel 37:21**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you are to tell them that this is what the Lord GOD says: ‘I will take the Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.20|<< Ezekiel 37:20]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.22|Ezekiel 37:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and speak  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1696G\|דַבֵּ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

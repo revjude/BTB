@@ -1,10 +1,7 @@
 **LXX Isaiah 5:12** 
 <small><sub>**LXX:**</sub></small>
 For with \[the\] harp, and psaltery, and tambourines, and pipes,  they drink wine; but the works of \[the\] <span class="smallcaps">lord</span> they do not look at, and the works  of his hands they do not contemplate. 
-<small><sub>**KJV:**</sub></small>
-And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.
-<small><sub>**BSB:**</sub></small>
-At their feasts are the lyre and harp, tambourines and flutes and wine. They disregard the actions of the LORD and fail to see the work of His hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.11|<< Isaiah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.13|Isaiah 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

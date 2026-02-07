@@ -1,12 +1,12 @@
-**Matthew 17:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:25**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 <small><sub>**BSB:**</sub></small>
 “Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”
 <small><sub>**Literal:**</sub></small>
 He says; Yes. And when he having entered into the house anticipated him <the> Jesus saying; What you do think, Simon? The kings of the earth from whom do they receive custom or tribute? From the sons of them or from <the> strangers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.24|<< Matthew 17:24]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.26|Matthew 17:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says; |**<big>[[G3004G\|λέγει·]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Yes. |**<big>[[G3483\|ναί.]]</big>**  |nai <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

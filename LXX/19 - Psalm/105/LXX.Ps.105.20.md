@@ -1,10 +1,7 @@
 **LXX Psalm 105:20** 
 <small><sub>**LXX:**</sub></small>
 \[The\] king sent and untied him, \[even\] a ruler of \[the\] people, and let him go. 
-<small><sub>**KJV:**</sub></small>
-The king sent and loosed him; [even] the ruler of the people, and let him go free.
-<small><sub>**BSB:**</sub></small>
-The king sent and released him; the ruler of peoples set him free.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.19|<< Psalm 105:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.21|Psalm 105:21 >>]]</td></tr></table>
 
 | Translation | Greek |

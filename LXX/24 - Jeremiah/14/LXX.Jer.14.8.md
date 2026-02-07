@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:8** 
 <small><sub>**LXX:**</sub></small>
 \[You are\] the endurance of Israel, O <span class="smallcaps">lord</span>, delivering in time of evils. Why did you become as a sojourner upon the earth, and as a native-born turning aside for lodging? 
-<small><sub>**KJV:**</sub></small>
-O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man [that] turneth aside to tarry for a night?
-<small><sub>**BSB:**</sub></small>
-O Hope of Israel, its Savior in times of distress, why are You like a stranger in the land, like a traveler who stays but a night?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.7|<< Jeremiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.9|Jeremiah 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

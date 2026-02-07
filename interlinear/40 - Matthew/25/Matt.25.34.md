@@ -1,12 +1,12 @@
-**Matthew 25:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:34**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:
 <small><sub>**BSB:**</sub></small>
 Then the King will say to those on His right, ‘Come, you who are blessed by My Father, inherit the kingdom prepared for you from the foundation of the world.
 <small><sub>**Literal:**</sub></small>
 Then will say the King to those on [the] right hand of Him; Come you who [are] blessed of the Father of mine, do inherit the prepared for you kingdom from [the] foundation of [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.33|<< Matthew 25:33]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.35|Matthew 25:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will say |**<big>[[G4483\|ἐρεῖ]]</big>**  |erei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

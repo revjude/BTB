@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Behold, I bring upon Judah, and upon the ones dwelling Jerusalem all the bad \[things\] which I spoke against them. For I spoke to them and they hearkened not. And I called them, and they did not answer. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD God of Hosts, the God of Israel, says: ‘Behold, I will bring to Judah and to all the residents of Jerusalem all the disaster I have pronounced against them, because I have spoken to them but they have not obeyed, and I have called to them but they have not answered.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.16|<< Jeremiah 35:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.18|Jeremiah 35:18 >>]]</td></tr></table>
 
 | Translation | Greek |

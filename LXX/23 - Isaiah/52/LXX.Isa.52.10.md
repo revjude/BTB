@@ -1,10 +1,7 @@
 **LXX Isaiah 52:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall uncover  his holy arm in the presence of all the nations. And all the uttermost parts of the earth shall see the deliverance  by  our God. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
-<small><sub>**BSB:**</sub></small>
-The LORD has bared His holy arm in the sight of all the nations; all the ends of the earth will see the salvation of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.9|<< Isaiah 52:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.11|Isaiah 52:11 >>]]</td></tr></table>
 
 | Translation | Greek |

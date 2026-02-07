@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:14** 
 <small><sub>**LXX:**</sub></small>
 And Hilkiah the priest went, and Ahikam, and Achbor, and Shaphan, and Asahiah to Huldah the prophetess, wife of Shallum son of Tikvah, son of Harhas, the keeper of the cloaks. And she dwelt in Jerusalem in  Masena. And they spoke to her. 
-<small><sub>**KJV:**</sub></small>
-So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.
-<small><sub>**BSB:**</sub></small>
-So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went and spoke to Huldah the prophetess, the wife of Shallum son of Tikvah, the son of Harhas, the keeper of the wardrobe. She lived in Jerusalem, in the Second District.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.13|<< 2 Kings 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.15|2 Kings 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

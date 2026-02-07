@@ -1,12 +1,12 @@
-**Acts 8:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:6**<big><big>[[Acts.8.4 Philip in Samaria|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did.
 <small><sub>**BSB:**</sub></small>
 The crowds all paid close attention to Philip’s message and to the signs they saw him perform.
 <small><sub>**Literal:**</sub></small>
 Were giving heed now the crowds to the [things] being spoken by <the> Philip with one accord in the [time] to hear them and to see the signs that he was performing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.5|<< Acts 8:5]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.7|Acts 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were giving heed |**<big>[[G4337\|προσεῖχον]]</big>**  |proseichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

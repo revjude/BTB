@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:23** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the potters, the ones dwelling in Netaim and Gadera with the king in  his works. They grew in strength and dwelt there. 
-<small><sub>**KJV:**</sub></small>
-These [were] the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.
-<small><sub>**BSB:**</sub></small>
-These were the potters who lived at Netaim and Gederah. They lived there in the service of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.22|<< 1 Chronicles 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.24|1 Chronicles 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

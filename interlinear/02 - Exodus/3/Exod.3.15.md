@@ -1,4 +1,4 @@
-**Exodus 3:15** 
+**Exodus 3:15**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this [is] my name for ever, and this [is] my memorial unto all generations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ God also told Moses, “Say to the Israelites, ‘The LORD, the God of your fath
 > $\quad$ referenced by: [[Matt.22.32|Matt 22:32]] ☩ [[Mark.12.26|Mark 12:26]] ☩ [[Luke.20.37|Luke 20:37]] ☩ [[Acts.3.13|Acts 3:13]] ☩ [[Acts.7.32|Acts 7:32]] ☩ [[Acts.7.35|Acts 7:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֨וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

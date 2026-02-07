@@ -1,4 +1,4 @@
-**Proverbs 23:8** 
+**Proverbs 23:8**<big><big>[[Prov.23.6 Saying 9|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will vomit up what little you have eaten and waste your pleasant words.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.7|<< Proverbs 23:7]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.9|Proverbs 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | morsel your  |**<big>&#8207;[[H6595A\|פִּֽתְּ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pi.te.<small><sup>[[HNcfsc]]</sup></small> kha-<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] you have eaten  |**<big>&#8207;[[H0398\|אָכַ֥לְתָּ]]&#8207; </big>**| 'a.Khal.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

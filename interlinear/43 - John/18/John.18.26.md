@@ -1,12 +1,12 @@
-**John 18:26
-**<small><sub>**KJV:**</sub></small>
+**John 18:26**<big><big>[[John.18.25 Peter’s Second and Third Denials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 One of the servants of the high priest, being [his] kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?
 <small><sub>**BSB:**</sub></small>
 One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?”
 <small><sub>**Literal:**</sub></small>
 Says one of the servants of the high priest kinsman being [of him] of whom cut off Peter the ear; Surely I myself you saw in the garden with Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.25|<< John 18:25]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.27|John 18:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

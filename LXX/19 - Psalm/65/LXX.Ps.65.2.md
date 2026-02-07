@@ -1,10 +1,7 @@
 **LXX Psalm 65:2** 
 <small><sub>**LXX:**</sub></small>
 Listen to my prayer! All flesh shall come to you. 
-<small><sub>**KJV:**</sub></small>
-O thou that hearest prayer, unto thee shall all flesh come.
-<small><sub>**BSB:**</sub></small>
-O You who listen to prayer, all people will come to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.1|<< Psalm 65:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.3|Psalm 65:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 32:37** 
+**Jeremiah 32:37**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will surely gather My people from all the lands to which I have banished them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.36|<< Jeremiah 32:36]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.38|Jeremiah 32:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֤י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] gathering them  |**<big>&#8207;[[H6908\|מְקַבְּצָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| me.ka.be.Tza<small><sup>[[HVprmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

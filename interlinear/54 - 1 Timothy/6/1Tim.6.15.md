@@ -1,12 +1,12 @@
-**1 Timothy 6:15
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:15**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which in his times he shall shew, [who is] the blessed and only Potentate, the King of kings, and Lord of lords;
 <small><sub>**BSB:**</sub></small>
 which the blessed and only Sovereign One—the King of kings and Lord of lords—will bring about in His own time.
 <small><sub>**Literal:**</sub></small>
 which in seasons [their] own He will display the blessed and alone Sovereign, the King of those being kings and [the] Lord of those being lords,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.14|<< 1 Timothy 6:14]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.16|1 Timothy 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in seasons |**<big>[[G2540\|καιροῖς]]</big>**  |kairois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 13:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:7**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when ye shall hear of wars and rumours of wars, be ye not troubled: for [such things] must needs be; but the end [shall] not [be] yet.
 <small><sub>**BSB:**</sub></small>
 When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is still to come.
 <small><sub>**Literal:**</sub></small>
 When then you may hear of wars and rumors of wars, not do be disturbed; it must for come to pass, but not yet [is] the end.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.6|<< Mark 13:6]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.8|Mark 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

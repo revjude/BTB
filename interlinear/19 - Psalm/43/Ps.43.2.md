@@ -1,4 +1,4 @@
-**Psalms 43:2** 
+**Psalms 43:2**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You are the God of my refuge. Why have You rejected me? Why must I walk in s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.1|<< Psalms 43:1]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.3|Psalms 43:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 50:11** 
 <small><sub>**LXX:**</sub></small>
 I know all the winged creatures of the heaven; and \[the\] beauty of \[the\] field is with me. 
-<small><sub>**KJV:**</sub></small>
-I know all the fowls of the mountains: and the wild beasts of the field [are] mine.
-<small><sub>**BSB:**</sub></small>
-I know every bird in the mountains, and the creatures of the field are Mine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.10|<< Psalm 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.12|Psalm 50:12 >>]]</td></tr></table>
 
 | Translation | Greek |

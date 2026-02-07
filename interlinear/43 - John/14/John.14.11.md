@@ -1,12 +1,12 @@
-**John 14:11
-**<small><sub>**KJV:**</sub></small>
+**John 14:11**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Believe me that I [am] in the Father, and the Father in me: or else believe me for the very works’ sake.
 <small><sub>**BSB:**</sub></small>
 Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves.
 <small><sub>**Literal:**</sub></small>
 do believe Me that I myself [am] in the Father and the Father in Me myself; lest then except, because of the works themselves do believe to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.10|<< John 14:10]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.12|John 14:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do believe |**<big>[[G4100\|πιστεύετέ]]</big>**  |pisteuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Me |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

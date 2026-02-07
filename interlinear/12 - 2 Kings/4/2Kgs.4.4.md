@@ -1,4 +1,4 @@
-**2 Kings 4:4** 
+**2 Kings 4:4**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then go inside, shut the door behind you and your sons, and pour oil into all th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.3|<< 2 Kings 4:3]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.5|2 Kings 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֗את]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Vat<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will shut  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5462\|סָגַ֤רְתְּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Gart<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

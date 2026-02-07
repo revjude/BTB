@@ -1,4 +1,4 @@
-**Judges 4:14** 
+**Judges 4:14**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Deborah said unto Barak, Up; for this [is] the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Deborah said to Barak, “Arise, for this is the day that the LORD has deli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.13|<< Judges 4:13]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.15|Judges 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמֶר֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Deborah  |**<big>&#8207;[[H1683H\|דְּבֹרָ֨ה]]&#8207; </big>**| de.vo.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

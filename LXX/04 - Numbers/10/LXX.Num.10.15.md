@@ -1,10 +1,7 @@
 **LXX Numbers 10:15** 
 <small><sub>**LXX:**</sub></small>
 And over the force of \[the\] tribe of \[the\] sons of Issachar \[was\] Nethaneel son of Zuar. 
-<small><sub>**KJV:**</sub></small>
-And over the host of the tribe of the children of Issachar [was] Nethaneel the son of Zuar.
-<small><sub>**BSB:**</sub></small>
-Nethanel son of Zuar was over the division of the tribe of Issachar,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.14|<< Numbers 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.16|Numbers 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

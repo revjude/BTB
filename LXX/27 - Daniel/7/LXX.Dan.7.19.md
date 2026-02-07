@@ -1,10 +1,7 @@
 **LXX Daniel 7:19** 
 <small><sub>**LXX:**</sub></small>
 And I sought exactly concerning the fourth wild beast, that was diverse from every wild beast, extremely fearsome,  its teeth of iron, and  its fingernails of brass; devouring, and making fine; and it trampled upon the rest with its feet. 
-<small><sub>**KJV:**</sub></small>
-Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth [were of] iron, and his nails [of] brass; [which] devoured, brake in pieces, and stamped the residue with his feet;
-<small><sub>**BSB:**</sub></small>
-Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.18|<< Daniel 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.20|Daniel 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

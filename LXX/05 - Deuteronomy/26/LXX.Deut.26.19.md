@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:19** 
 <small><sub>**LXX:**</sub></small>
 and for you to be above all the nations, as he made you famous, and a boasting, and glorious; for you to be a holy people \[to the\] <span class="smallcaps">lord</span>  your God as he spoke. 
-<small><sub>**KJV:**</sub></small>
-And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken.
-<small><sub>**BSB:**</sub></small>
-that He will set you high in praise and name and honor above all the nations He has made, and that you will be a holy people to the LORD your God, as He has promised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.18|<< Deuteronomy 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.1|Deuteronomy 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

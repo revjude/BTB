@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:22** 
 <small><sub>**LXX:**</sub></small>
 And if they stood with my support, and they hearkened  to my words, then  my people would have turned from  their wicked practices. 
-<small><sub>**KJV:**</sub></small>
-But if they had stood in my counsel, and had caused my people to hear my words, then they should have turned them from their evil way, and from the evil of their doings.
-<small><sub>**BSB:**</sub></small>
-But if they had stood in My council, they would have proclaimed My words to My people and turned them back from their evil ways and deeds.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.21|<< Jeremiah 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.23|Jeremiah 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

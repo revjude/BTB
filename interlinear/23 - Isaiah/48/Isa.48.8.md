@@ -1,4 +1,4 @@
-**Isaiah 48:8** 
+**Isaiah 48:8**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thou heardest not; yea, thou knewest not; yea, from that time [that] thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have never heard; you have never understood; for a long time your ears have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.7|<< Isaiah 48:7]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.9|Isaiah 48:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | neither  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

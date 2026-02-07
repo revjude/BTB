@@ -1,4 +1,4 @@
-**Leviticus 20:2** 
+**Leviticus 20:2**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, thou shalt say to the children of Israel, Whosoever [he be] of the children of Israel, or of the strangers that sojourn in Israel, that giveth [any] of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again, thou shalt say to the children of Israel, Whosoever [he be] of the childr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.1|<< Leviticus 20:1]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.3|Leviticus 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

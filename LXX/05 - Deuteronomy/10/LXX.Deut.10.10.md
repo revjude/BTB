@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:10** 
 <small><sub>**LXX:**</sub></small>
 And I stayed in the mountain forty days and forty nights; and \[the\] <span class="smallcaps">lord</span> listened to me, And in  that time \[the\] <span class="smallcaps">lord</span> did not want to utterly destroy you. 
-<small><sub>**KJV:**</sub></small>
-And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, [and] the LORD would not destroy thee.
-<small><sub>**BSB:**</sub></small>
-I stayed on the mountain forty days and forty nights, like the first time, and that time the LORD again listened to me and agreed not to destroy you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.9|<< Deuteronomy 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.11|Deuteronomy 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 16:6** 
+**2 Chronicles 16:6**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then King Asa brought all the men of Judah, and they carried away the stones of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.5|<< 2 Chronicles 16:5]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.7|2 Chronicles 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Asa  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0609G\|אָסָ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֗לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

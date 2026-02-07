@@ -1,12 +1,12 @@
-**Luke 1:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:42**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she spake out with a loud voice, and said, Blessed [art] thou among women, and blessed [is] the fruit of thy womb.
 <small><sub>**BSB:**</sub></small>
 In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb!
 <small><sub>**Literal:**</sub></small>
 and she cried out in a shout loud and said; Blessed [are] you yourself among women, and blessed [is] the fruit of the womb of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.41|<< Luke 1:41]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.43|Luke 1:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she cried out |**<big>[[G0400\|ἀνεφώνησεν]]</big>**  |anephōnēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

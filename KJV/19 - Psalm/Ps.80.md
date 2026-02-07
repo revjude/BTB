@@ -1,6 +1,6 @@
 (KJV) **Psalm 80**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79|<< Psalm 79]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81|Psalm 81 >>]]</td></tr></table>
 
-***Hear Us, O Shepherd of Israel*** ^bsb1373
+<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥃]]</big></big>***Hear Us, O Shepherd of Israel***
 
 
 

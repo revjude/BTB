@@ -1,10 +1,7 @@
 **LXX Judges 15:5** 
 <small><sub>**LXX:**</sub></small>
 And he kindled fire in the lamps, and he sent \[them\] out in the ears of corn of the Philistines. And he burned the ears of corn from \[the\] threshing-floor, and unto \[the\] straight standing ears of corn, and unto \[the\] vineyard, and olive \[orchards\]. 
-<small><sub>**KJV:**</sub></small>
-And when he had set the brands on fire, he let [them] go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards [and] olives.
-<small><sub>**BSB:**</sub></small>
-Then he lit the torches and released the foxes into the standing grain of the Philistines, burning up the piles of grain and the standing grain, as well as the vineyards and olive groves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.4|<< Judges 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.6|Judges 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

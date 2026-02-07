@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:8** 
 <small><sub>**LXX:**</sub></small>
 And the vestibule of the side of the one from beneath \[was\] by the protrusion of the house on the right \[side\], and \[there was\] a winding ascent into the middle, and from the middle unto the third story. 
-<small><sub>**KJV:**</sub></small>
-The door for the middle chamber [was] in the right side of the house: and they went up with winding stairs into the middle [chamber], and out of the middle into the third.
-<small><sub>**BSB:**</sub></small>
-The entrance to the bottom floor was on the south side of the temple. A stairway led up to the middle level, and from there to the third floor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.7|<< 1 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.9|1 Kings 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

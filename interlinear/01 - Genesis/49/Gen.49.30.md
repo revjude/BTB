@@ -1,4 +1,4 @@
-**Genesis 49:30** 
+**Genesis 49:30**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the cave that [is] in the field of Machpelah, which [is] before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.29|<< Genesis 49:29]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.31|Genesis 49:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the cave  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4631\|מְּעָרָ֞ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

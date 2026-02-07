@@ -1,10 +1,7 @@
 **LXX Psalm 16:7** 
 <small><sub>**LXX:**</sub></small>
 I will bless the <span class="smallcaps">lord</span>, the one bringing understanding to me; but still also until night my kidneys corrected me. 
-<small><sub>**KJV:**</sub></small>
-I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.
-<small><sub>**BSB:**</sub></small>
-I will bless the LORD who counsels me; even at night my conscience instructs me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.6|<< Psalm 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.8|Psalm 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

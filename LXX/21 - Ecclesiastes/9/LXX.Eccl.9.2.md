@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:2** 
 <small><sub>**LXX:**</sub></small>
 Folly \[is\] in  all \[things\]; \[there is\] one event to the just, and one to the impious; to the good and to the bad; and to the clean and to the unclean; and to the one sacrificing and to the one not sacrificing; as \[is\] the good, as \[is\] the one sinning; as the one swearing by an oath, as \[is\] the one fearing the oath. 
-<small><sub>**KJV:**</sub></small>
-All [things come] alike to all: [there is] one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as [is] the good, so [is] the sinner; [and] he that sweareth, as [he] that feareth an oath.
-<small><sub>**BSB:**</sub></small>
-It is the same for all: There is a common fate for the righteous and the wicked, for the good and the bad, for the clean and the unclean, for the one who sacrifices and the one who does not. As it is for the good, so it is for the sinner; as it is for the one who makes a vow, so it is for the one who refuses to take a vow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.1|<< Ecclesiastes 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.3|Ecclesiastes 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

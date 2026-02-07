@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:4** 
 <small><sub>**LXX:**</sub></small>
 For someone who participates with all the living there is hope; for the living dog himself \[is\] good over the dead lion. 
-<small><sub>**KJV:**</sub></small>
-For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
-<small><sub>**BSB:**</sub></small>
-There is hope, however, for anyone who is among the living; for even a live dog is better than a dead lion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.3|<< Ecclesiastes 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.5|Ecclesiastes 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

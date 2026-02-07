@@ -1,4 +1,4 @@
-**1 Samuel 8:20** 
+**1 Samuel 8:20**<big><big>[[1Sam.8.19 God Grants the Request|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then we will be like all the other nations, with a king to judge us, to go out b
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.19|<< 1 Samuel 8:19]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.21|1 Samuel 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֥ינוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.nu<small><sup>[[HVqq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

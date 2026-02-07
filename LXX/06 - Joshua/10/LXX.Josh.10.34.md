@@ -1,10 +1,7 @@
 **LXX Joshua 10:34** 
 <small><sub>**LXX:**</sub></small>
 And Joshua went forth, and all Israel with him, from Lachish unto Eglon, and he besieged it, and captured it. 
-<small><sub>**KJV:**</sub></small>
-And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:
-<small><sub>**BSB:**</sub></small>
-So Joshua moved on from Lachish to Eglon, and all Israel with him. They laid siege to it and fought against it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.33|<< Joshua 10:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.35|Joshua 10:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 12:44
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:44**<big><big>[[Matt.12.43 An Unclean Spirit Returns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then he saith, I will return into my house from whence I came out; and when he is come, he findeth [it] empty, swept, and garnished.
 <small><sub>**BSB:**</sub></small>
 Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order.
 <small><sub>**Literal:**</sub></small>
 Then it says; To the house of mine I will return from where I came out. And having come it finds [it] being unoccupied, and swept and ordered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.43|<< Matthew 12:43]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.45|Matthew 12:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it says; |**<big>[[G3004G\|λέγει·]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

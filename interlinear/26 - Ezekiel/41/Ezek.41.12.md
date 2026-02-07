@@ -1,4 +1,4 @@
-**Ezekiel 41:12** 
+**Ezekiel 41:12**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the building that [was] before the separate place at the end toward the west [was] seventy cubits broad; and the wall of the building [was] five cubits thick round about, and the length thereof ninety cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the building that faced the temple courtyard on the west was seventy cubits 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.11|<< Ezekiel 41:11]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.13|Ezekiel 41:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the structure  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1146\|בִּנְיָ֡ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> bin.Yan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

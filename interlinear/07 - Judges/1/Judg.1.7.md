@@ -1,4 +1,4 @@
-**Judges 1:7** 
+**Judges 1:7**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered [their meat] under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Adoni-bezek said, “Seventy kings with their thumbs and big toes cut off h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.6|<< Judges 1:6]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.8|Judges 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adoni-  |**<big>&#8207;[[H0137\|אֲדֹֽנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.do.ni-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

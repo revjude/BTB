@@ -1,4 +1,4 @@
-**Joshua 10:33** 
+**Joshua 10:33**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Horam king of Gezer went to help Lachish, but Joshua struck him dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.32|<< Joshua 10:32]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.34|Joshua 10:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came up  |**<big>&#8207;[[H5927G\|עָלָ֗ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

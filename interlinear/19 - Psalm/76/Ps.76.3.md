@@ -1,4 +1,4 @@
-**Psalms 76:3** (76:4)
+**Psalms 76:3**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There He shattered the flaming arrows, the shield and sword and weapons of war. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.2|<< Psalms 76:2]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.4|Psalms 76:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֭מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he shattered  |**<big>&#8207;[[H7665\|שִׁבַּ֣ר]]&#8207; </big>**| shi.Bar<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

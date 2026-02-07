@@ -1,4 +1,4 @@
-**Jeremiah 32:35** 
+**Jeremiah 32:35**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they built the high places of Baal, which [are] in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have built the high places of Baal in the Valley of Ben-hinnom to make thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.34|<< Jeremiah 32:34]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.36|Jeremiah 32:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבְנוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the angel speaking with me returned; and he awakened me, in which manner whenever a man should be awakened from out of his sleep. 
-<small><sub>**KJV:**</sub></small>
-And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
-<small><sub>**BSB:**</sub></small>
-Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.10|<< Zechariah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.2|Zechariah 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

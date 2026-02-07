@@ -1,4 +1,4 @@
-**Job 4:10** 
+**Job 4:10**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lion may roar, and the fierce lion may growl, yet the teeth of the young lio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.9|<< Job 4:9]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.11|Job 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] roaring of  |**<big>&#8207;[[H7581\|שַׁאֲגַ֣ת]]&#8207; </big>**| sha.'a.Gat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lion  |**<big>&#8207;[[H0738B\|אַ֭רְיֵה]]&#8207; </big>**| 'Ar.yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

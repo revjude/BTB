@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:13** 
 <small><sub>**LXX:**</sub></small>
 And the king proceeded again to send a third commander of fifty and  his fifty. And the third commander of fifty came, and he bent upon  his knees in front of  Elijah, and beseeched him, and spoke to him, and said, O man  of God, value indeed  my life, and the lives  of your servants -- these  fifty, in your eyes! 
-<small><sub>**KJV:**</sub></small>
-And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.
-<small><sub>**BSB:**</sub></small>
-So the king sent a third captain with his fifty men. And the third captain went up, fell on his knees before Elijah, and begged him, “Man of God, may my life and the lives of these fifty servants of yours please be precious in your sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.12|<< 2 Kings 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.14|2 Kings 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

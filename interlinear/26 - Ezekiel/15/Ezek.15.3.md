@@ -1,4 +1,4 @@
-**Ezekiel 15:3** 
+**Ezekiel 15:3**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall wood be taken thereof to do any work? or will [men] take a pin of it to hang any vessel thereon?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can wood be taken from it to make something useful? Or can one make from it a pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.2|<< Ezekiel 15:2]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.4|Ezekiel 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ is it taken  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3947G\|יֻקַּ֤ח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yu.Kach<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֙]]&#8207;&#8207;[[H9033\|נּוּ֙]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] extra things of Jeroboam, as much as he waged war, and as much as he reigned, behold, they are written in \[the\] scroll of \[the\] words of the days of the kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they [are] written in the book of the chronicles of the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Jeroboam, how he waged war and how he reigned, they are indeed written in the Book of the Chronicles of the Kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.18|<< 1 Kings 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.20|1 Kings 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

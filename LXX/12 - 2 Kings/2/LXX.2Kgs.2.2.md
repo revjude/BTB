@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:2** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said to Elisha, Sit down indeed here! for \[the\] <span class="smallcaps">lord</span> has sent me unto Bethel. And Elisha said, As \[the\] <span class="smallcaps">lord</span> lives, and \[as\] your soul lives, shall I abandon you, \[no\]. And they came unto Bethel. 
-<small><sub>**KJV:**</sub></small>
-And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Bethel. And Elisha said [unto him, As] the LORD liveth, and [as] thy soul liveth, I will not leave thee. So they went down to Bethel.
-<small><sub>**BSB:**</sub></small>
-and Elijah said to Elisha, “Please stay here, for the LORD has sent me on to Bethel.” But Elisha replied, “As surely as the LORD lives and as you yourself live, I will not leave you.” So they went down to Bethel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.1|<< 2 Kings 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.3|2 Kings 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

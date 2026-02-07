@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the Philistines waged war against Israel. And the men of Israel fled from \[the\] face of the Philistines, and they fell slain in  mount Gilboa. 
-<small><sub>**KJV:**</sub></small>
-Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
-<small><sub>**BSB:**</sub></small>
-Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.31|<< 1 Samuel 30:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.2|1 Samuel 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

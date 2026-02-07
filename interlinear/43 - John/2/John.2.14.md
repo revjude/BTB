@@ -1,12 +1,12 @@
-**John 2:14
-**<small><sub>**KJV:**</sub></small>
+**John 2:14**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
 <small><sub>**BSB:**</sub></small>
 In the temple courts He found men selling cattle, sheep, and doves, and money changers seated at their tables.
 <small><sub>**Literal:**</sub></small>
 And He found in the temple those selling oxen and sheep and doves and the money changers sitting,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.13|<< John 2:13]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.15|John 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He found |**<big>[[G2147\|εὗρεν]]</big>**  |heuren <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

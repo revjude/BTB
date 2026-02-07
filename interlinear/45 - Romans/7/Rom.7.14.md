@@ -1,12 +1,12 @@
-**Romans 7:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:14**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we know that the law is spiritual: but I am carnal, sold under sin.
 <small><sub>**BSB:**</sub></small>
 We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.
 <small><sub>**Literal:**</sub></small>
 We know for that the Law spiritual is, I myself however fleshly am sold under <the> sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.13|<< Romans 7:13]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.15|Romans 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|Οἴδαμεν]]</big>**  |Oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

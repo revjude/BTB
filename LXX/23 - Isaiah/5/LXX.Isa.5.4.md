@@ -1,10 +1,7 @@
 **LXX Isaiah 5:4** 
 <small><sub>**LXX:**</sub></small>
 What shall I do still to my vineyard that I did not \[do\] to it? For I waited  \[for it\] to produce a grape, but it produced thorn-bushes. 
-<small><sub>**KJV:**</sub></small>
-What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?
-<small><sub>**BSB:**</sub></small>
-What more could have been done for My vineyard than I have done for it? Why, when I expected sweet grapes, did it bring forth sour fruit?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.3|<< Isaiah 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.5|Isaiah 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

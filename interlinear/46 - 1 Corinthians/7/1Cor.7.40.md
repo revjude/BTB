@@ -1,12 +1,12 @@
-**1 Corinthians 7:40
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:40**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.
 <small><sub>**BSB:**</sub></small>
 In my judgment, however, she is happier if she remains as she is. And I think that I too have the Spirit of God.
 <small><sub>**Literal:**</sub></small>
 More blessed however she is if in the same manner she shall remain, according to <the> my judgment; I think now myself also [the] Spirit of God to have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.39|<< 1 Corinthians 7:39]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.1|1 Corinthians 8:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | More blessed |**<big>[[G3107\|μακαριωτέρα]]</big>**  |makariōtera <small><sup>[[A-NSF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

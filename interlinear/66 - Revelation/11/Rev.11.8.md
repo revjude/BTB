@@ -1,12 +1,12 @@
-**Revelation 11:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:8**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And their dead bodies [shall lie] in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 <small><sub>**BSB:**</sub></small>
 Their bodies will lie in the street of the great city—figuratively called Sodom and Egypt—where their Lord was also crucified.
 <small><sub>**Literal:**</sub></small>
 And the body of them [will be] upon the street of the city the great, which is called figuratively Sodom and Egypt, where also the Lord of them was crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.7|<< Revelation 11:7]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.9|Revelation 11:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [^1] |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

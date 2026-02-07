@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Egypt did not proceed any longer  to come forth out of  his land, for \[the\] king of Babylon took from the rushing stream of Egypt unto the river Euphrates all as much as was of the king of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.
-<small><sub>**BSB:**</sub></small>
-Now the king of Egypt did not march out of his land again, because the king of Babylon had taken all his territory, from the Brook of Egypt to the Euphrates River.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.6|<< 2 Kings 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.8|2 Kings 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

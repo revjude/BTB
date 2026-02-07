@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:4** 
 <small><sub>**LXX:**</sub></small>
 and Benaiah son of Jehoiada \[was\] over the force; and Zadok and Abiathar \[were\] priests; 
-<small><sub>**KJV:**</sub></small>
-And Benaiah the son of Jehoiada [was] over the host: and Zadok and Abiathar [were] the priests:
-<small><sub>**BSB:**</sub></small>
-Benaiah son of Jehoiada was in charge of the army; Zadok and Abiathar were priests;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.3|<< 1 Kings 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.5|1 Kings 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

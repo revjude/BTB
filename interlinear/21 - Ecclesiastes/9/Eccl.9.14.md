@@ -1,4 +1,4 @@
-**Ecclesiastes 9:14** 
+**Ecclesiastes 9:14**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There was] a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was a small city with few men. A mighty king came against it, surrounded i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.13|<< Ecclesiastes 9:13]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.15|Ecclesiastes 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a city  |**<big>&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | small  |**<big>&#8207;[[H6996A\|קְטַנָּ֔ה]]&#8207; </big>**| ke.ta.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 12:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:23**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
 <small><sub>**BSB:**</sub></small>
 In the resurrection, then, whose wife will she be? For all seven were married to her.”
 <small><sub>**Literal:**</sub></small>
 In the therefore resurrection when they may rise of which of them will she be wife? <the> For the seven had her as wife.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.22|<< Mark 12:22]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.24|Mark 12:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

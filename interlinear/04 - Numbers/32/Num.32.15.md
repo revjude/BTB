@@ -1,4 +1,4 @@
-**Numbers 32:15** 
+**Numbers 32:15**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For if you turn away from following Him, He will once again leave this people in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.14|<< Numbers 32:14]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.16|Numbers 32:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn back !  |**<big>&#8207;[[H7725I\|תְשׁוּבֻ]]&#8207;&#8207;[[H9013\|ן֙]]&#8207; </big>**| te.shu.Vu<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

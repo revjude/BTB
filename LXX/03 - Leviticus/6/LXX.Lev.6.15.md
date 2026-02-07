@@ -1,10 +1,7 @@
 **LXX Leviticus 6:15** 
 <small><sub>**LXX:**</sub></small>
 And he shall remove from it  a handful of  fine flour of the sacrifice \[offering\] with  its olive oil, and with all  its frankincense  being upon the sacrifice. And he shall offer up upon the altar a yield \[offering\] scent of pleasant aroma, a memorial of it to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which [is] upon the meat offering, and shall burn [it] upon the altar [for] a sweet savour, [even] the memorial of it, unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The priest is to remove a handful of fine flour and olive oil, together with all the frankincense from the grain offering, and burn the memorial portion on the altar as a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.14|<< Leviticus 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.16|Leviticus 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall know today that \[the\] <span class="smallcaps">lord</span>  your God, he shall go forth before your face. He is a consuming fire. He shall utterly destroy them, and he shall turn them away before your presence. And he shall utterly destroy them, and he will destroy them quickly, just as \[the\] <span class="smallcaps">lord</span> said to you. 
-<small><sub>**KJV:**</sub></small>
-Understand therefore this day, that the LORD thy God [is] he which goeth over before thee; [as] a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee.
-<small><sub>**BSB:**</sub></small>
-But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.2|<< Deuteronomy 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.4|Deuteronomy 9:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 9:3** is...

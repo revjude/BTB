@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:4** 
 <small><sub>**LXX:**</sub></small>
 Praiseworthy, I shall call upon \[the\] <span class="smallcaps">lord</span>, and from  my enemies I shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-I will call on the LORD, [who is] worthy to be praised: so shall I be saved from mine enemies.
-<small><sub>**BSB:**</sub></small>
-I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.3|<< 2 Samuel 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.5|2 Samuel 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

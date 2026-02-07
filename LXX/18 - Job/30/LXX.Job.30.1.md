@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now \[the\] least of them ridicule me; now they admonish me in turn -- whom their fathers with contempt, whom I did not esteem to be worthy of dogs  of my grazing \[flocks\]. 
-<small><sub>**KJV:**</sub></small>
-But now [they that are] younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
-<small><sub>**BSB:**</sub></small>
-“But now they mock me, men younger than I am, whose fathers I would have refused to put with my sheep dogs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.25|<< Job 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.2|Job 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

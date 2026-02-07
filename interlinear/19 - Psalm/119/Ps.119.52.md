@@ -1,4 +1,4 @@
-**Psalms 119:52** 
+**Psalms 119:52**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I remembered thy judgments of old, O LORD; and have comforted myself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I remember Your judgments of old, O LORD, and in them I find comfort.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.51|<< Psalms 119:51]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.53|Psalms 119:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I remember  |**<big>&#8207;[[H2142\|זָ֘כַ֤רְתִּי]]&#8207; </big>**| za.Khar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments your  |**<big>&#8207;[[H4941G\|מִשְׁפָּטֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mish.pa.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

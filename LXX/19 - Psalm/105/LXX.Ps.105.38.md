@@ -1,10 +1,7 @@
 **LXX Psalm 105:38** 
 <small><sub>**LXX:**</sub></small>
 Egypt was glad in  their exodus; for the fear of them fell upon them. 
-<small><sub>**KJV:**</sub></small>
-Egypt was glad when they departed: for the fear of them fell upon them.
-<small><sub>**BSB:**</sub></small>
-Egypt was glad when they departed, for the dread of Israel had fallen on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.37|<< Psalm 105:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.39|Psalm 105:39 >>]]</td></tr></table>
 
 | Translation | Greek |

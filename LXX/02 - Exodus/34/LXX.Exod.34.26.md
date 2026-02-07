@@ -1,10 +1,7 @@
 **LXX Exodus 34:26** 
 <small><sub>**LXX:**</sub></small>
 The first produce  of your land you shall carry into the house of \[the\] <span class="smallcaps">lord</span>  your God. You shall not boil a lamb in \[the\] milk of \[its\] mother. 
-<small><sub>**KJV:**</sub></small>
-The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
-<small><sub>**BSB:**</sub></small>
-Bring the best of the firstfruits of your soil to the house of the LORD your God. You must not cook a young goat in its mother’s milk.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.25|<< Exodus 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.27|Exodus 34:27 >>]]</td></tr></table>
 
 | Translation | Greek |

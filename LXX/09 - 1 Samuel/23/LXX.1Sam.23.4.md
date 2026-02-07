@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:4** 
 <small><sub>**LXX:**</sub></small>
 And David proceeded yet to ask of the <span class="smallcaps">lord</span>. And \[the\] <span class="smallcaps">lord</span> answered him, and said to him, Rise up and go down unto Keilah! for I deliver up the Philistines into your hands. 
-<small><sub>**KJV:**</sub></small>
-Then David inquired of the LORD yet again. And the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.
-<small><sub>**BSB:**</sub></small>
-Once again, David inquired of the LORD, and the LORD answered him: “Go at once to Keilah, for I will deliver the Philistines into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.3|<< 1 Samuel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.5|1 Samuel 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:34** 
 <small><sub>**LXX:**</sub></small>
 But in the way in which he came by it, he shall return; and in no way shall he enter into this city. Thus says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-He will go back the way he came, and he will not enter this city,’ declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.33|<< Isaiah 37:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.35|Isaiah 37:35 >>]]</td></tr></table>
 
 | Translation | Greek |

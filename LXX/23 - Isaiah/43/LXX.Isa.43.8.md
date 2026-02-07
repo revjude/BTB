@@ -1,10 +1,7 @@
 **LXX Isaiah 43:8** 
 <small><sub>**LXX:**</sub></small>
 And I brought out a blind people, and \[the\] eyes are likewise blind; and deaf ones having the ears. 
-<small><sub>**KJV:**</sub></small>
-Bring forth the blind people that have eyes, and the deaf that have ears.
-<small><sub>**BSB:**</sub></small>
-Bring out a people who have eyes but are blind, and who have ears but are deaf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.7|<< Isaiah 43:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.9|Isaiah 43:9 >>]]</td></tr></table>
 
 | Translation | Greek |

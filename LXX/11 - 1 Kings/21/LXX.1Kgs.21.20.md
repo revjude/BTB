@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:20** 
 <small><sub>**LXX:**</sub></small>
 And Ahab said to Elijah, Have you found me, O my enemy? And he said, I have found \[you\], for you sell \[yourself\] in folly  to act  wickedly before \[the\] <span class="smallcaps">lord</span>,  to provoke him to anger. 
-<small><sub>**KJV:**</sub></small>
-And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found [thee]: because thou hast sold thyself to work evil in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-When Elijah arrived, Ahab said to him, “So you have found me out, my enemy.” He replied, “I have found you out because you have sold yourself to do evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.19|<< 1 Kings 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.21|1 Kings 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

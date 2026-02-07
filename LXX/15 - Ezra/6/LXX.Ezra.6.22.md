@@ -1,10 +1,7 @@
 **LXX Ezra 6:22** 
 <small><sub>**LXX:**</sub></small>
 And they observed the holiday of the unleavened \[breads\] seven days with gladness; for \[the\] <span class="smallcaps">lord</span> gladdened them, and turned \[the\] heart of \[the\] king of Assyria to them, to fortify  their hands in \[the\] works of \[the\] house of the God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel.
-<small><sub>**BSB:**</sub></small>
-For seven days they kept the Feast of Unleavened Bread with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

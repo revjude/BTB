@@ -1,4 +1,4 @@
-**Ezekiel 48:20** 
+**Ezekiel 48:20**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the oblation [shall be] five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.19|<< Ezekiel 48:19]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.21|Ezekiel 48:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the contribution  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8641\|תְּרוּמָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

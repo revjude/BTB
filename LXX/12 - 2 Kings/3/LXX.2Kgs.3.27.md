@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:27** 
 <small><sub>**LXX:**</sub></small>
 And he took  his first-born son whom he gave reign instead of him, and offered him as a whole burnt-offering upon the wall. And came to pass a great repentance in Israel. And they departed from him, and they returned to the land. 
-<small><sub>**KJV:**</sub></small>
-Then he took his eldest son that should have reigned in his stead, and offered him [for] a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to [their own] land.
-<small><sub>**BSB:**</sub></small>
-So he took his firstborn son, who was to succeed him, and offered him as a burnt offering on the city wall. And there was great fury against the Israelites, so they withdrew and returned to their own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.26|<< 2 Kings 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.1|2 Kings 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

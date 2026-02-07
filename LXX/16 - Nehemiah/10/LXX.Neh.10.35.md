@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:35** 
 <small><sub>**LXX:**</sub></small>
 and to bring the first produce  of our land, and \[the\] first produce of \[the\] fruit of every tree, year by year, into \[the\] house of \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:
-<small><sub>**BSB:**</sub></small>
-We will also bring the firstfruits of our land and of every fruit tree to the house of the LORD year by year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.34|<< Nehemiah 10:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.36|Nehemiah 10:36 >>]]</td></tr></table>
 
 | Translation | Greek |

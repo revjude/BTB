@@ -1,10 +1,7 @@
 **LXX Genesis 42:10** 
 <small><sub>**LXX:**</sub></small>
  And they said, Not \[so\], O lord,  your servants came to buy foods. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Nay, my lord, but to buy food are thy servants come.
-<small><sub>**BSB:**</sub></small>
-“Not so, my lord,” they replied. “Your servants have come to buy food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.9|<< Genesis 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.11|Genesis 42:11 >>]]</td></tr></table>
 
 | Translation | Greek |

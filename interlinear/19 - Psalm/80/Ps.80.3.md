@@ -1,4 +1,4 @@
-**Psalms 80:3** (80:4)
+**Psalms 80:3**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn us again, O God, and cause thy face to shine; and we shall be saved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Restore us, O God, and cause Your face to shine upon us, that we may be saved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.2|<< Psalms 80:2]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.4|Psalms 80:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | restore us  |**<big>&#8207;[[H7725H\|הֲשִׁיבֵ֑]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ha.shi.Ve.<small><sup>[[HVhv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

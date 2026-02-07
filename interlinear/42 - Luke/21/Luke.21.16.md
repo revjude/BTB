@@ -1,12 +1,12 @@
-**Luke 21:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:16**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and [some] of you shall they cause to be put to death.
 <small><sub>**BSB:**</sub></small>
 You will be betrayed even by parents and brothers and relatives and friends, and some of you will be put to death.
 <small><sub>**Literal:**</sub></small>
 You will be betrayed then even by parents and brothers and relatives and friends and they will put to death [some] from among you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.15|<< Luke 21:15]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.17|Luke 21:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You will be betrayed |**<big>[[G3860\|παραδοθήσεσθε]]</big>**  |paradothēsesthe <small><sup>[[V-FPI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

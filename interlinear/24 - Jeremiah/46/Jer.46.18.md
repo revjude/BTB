@@ -1,4 +1,4 @@
-**Jeremiah 46:18** 
+**Jeremiah 46:18**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the King, whose name [is] the LORD of hosts, Surely as Tabor [is] among the mountains, and as Carmel by the sea, [so] shall he come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As surely as I live, declares the King, whose name is the LORD of Hosts, there w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.17|<< Jeremiah 46:17]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.19|Jeremiah 46:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H0589\|אָ֙נִי֙]]&#8207; </big>**| 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

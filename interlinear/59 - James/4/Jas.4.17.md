@@ -1,12 +1,12 @@
-**James 4:17
-**<small><sub>**KJV:**</sub></small>
+**James 4:17**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore to him that knoweth to do good, and doeth [it] not, to him it is sin.
 <small><sub>**BSB:**</sub></small>
 Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.
 <small><sub>**Literal:**</sub></small>
 To [him] knowing therefore good to do and not doing [it], sin to him it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.16|<< James 4:16]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.1|James 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To [him] knowing |**<big>[[G6063\|εἰδότι]]</big>**  |eidoti <small><sup>[[V-RAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

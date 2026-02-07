@@ -1,4 +1,4 @@
-**2 Chronicles 21:4** 
+**2 Chronicles 21:4**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and [divers] also of the princes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Jehoram had established himself over his father’s kingdom, he strengthene
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.3|<< 2 Chronicles 21:3]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.5|2 Chronicles 21:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֨קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoram  |**<big>&#8207;[[H3088G\|יְהוֹרָ֜ם]]&#8207; </big>**| ye.ho.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

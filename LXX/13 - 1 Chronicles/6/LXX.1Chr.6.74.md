@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:74** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] tribe of Asher --  Mashal and  her outskirts, and  Abdon and  her outskirts, 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,
-<small><sub>**BSB:**</sub></small>
-From the tribe of Asher they were given Mashal, Abdon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.74|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.73|<< 1 Chronicles 6:73]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.75|1 Chronicles 6:75 >>]]</td></tr></table>
 
 | Translation | Greek |

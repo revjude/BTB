@@ -1,10 +1,7 @@
 **LXX Ezra 2:65** 
 <small><sub>**LXX:**</sub></small>
 separate from their menservants and their maidservants; these \[were\] -- seven thousand three hundred thirty-seven; and with them \[male\] singers and \[female\] singers -- two hundred; 
-<small><sub>**KJV:**</sub></small>
-Beside their servants and their maids, of whom [there were] seven thousand three hundred thirty and seven: and [there were] among them two hundred singing men and singing women.
-<small><sub>**BSB:**</sub></small>
-in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
 
 | Translation | Greek |

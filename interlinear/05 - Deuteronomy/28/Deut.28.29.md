@@ -1,4 +1,4 @@
-**Deuteronomy 28:29** 
+**Deuteronomy 28:29**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save [thee].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and at noon you will grope about like a blind man in the darkness. You will not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.28|<< Deuteronomy 28:28]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.30|Deuteronomy 28:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֜יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | groping  |**<big>&#8207;[[H4959\|מְמַשֵּׁ֣שׁ]]&#8207; </big>**| me.ma.Shesh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

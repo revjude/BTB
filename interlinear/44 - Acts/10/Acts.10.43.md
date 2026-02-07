@@ -1,12 +1,12 @@
-**Acts 10:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:43**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
 <small><sub>**BSB:**</sub></small>
 All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”
 <small><sub>**Literal:**</sub></small>
 To Him all the prophets bear witness [that] forgiveness of sins receiving through the name of Him everyone who is believing in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.42|<< Acts 10:42]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.44|Acts 10:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Him |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

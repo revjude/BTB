@@ -1,4 +1,4 @@
-**2 Chronicles 29:35** 
+**2 Chronicles 29:35**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also the burnt offerings [were] in abundance, with the fat of the peace offerings, and the drink offerings for [every] burnt offering. So the service of the house of the LORD was set in order.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, the burnt offerings were abundant, along with the fat of the peace 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.34|<< 2 Chronicles 29:34]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.36|2 Chronicles 29:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | burnt offering[s]  |**<big>&#8207;[[H5930A\|עֹלָ֨ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

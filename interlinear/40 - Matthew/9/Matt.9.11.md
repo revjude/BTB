@@ -1,12 +1,12 @@
-**Matthew 9:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:11**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the Pharisees saw [it], they said unto his disciples, Why eateth your Master with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 When the Pharisees saw this, they asked His disciples, “Why does your Teacher eat with tax collectors and sinners?”
 <small><sub>**Literal:**</sub></small>
 And having seen [it] the Pharisees was saying to the disciples of Him; Because of why with the tax collectors and sinners eats the Teacher of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.10|<< Matthew 9:10]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.12|Matthew 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen [it] |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

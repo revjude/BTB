@@ -1,10 +1,7 @@
 **LXX Numbers 9:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man who ever might be clean, and is not on a journey far away, and should lack to observe the passovers, that soul shall be utterly destroyed from  its people, because the gift \[to the\] <span class="smallcaps">lord</span> he did not offer according to  its time; that man shall take his sin. 
-<small><sub>**KJV:**</sub></small>
-But the man that [is] clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.
-<small><sub>**BSB:**</sub></small>
-But if a man who is ceremonially clean and is not on a journey still fails to observe the Passover, he must be cut off from his people, because he did not present the LORD’s offering at its appointed time. That man will bear the consequences of his sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.12|<< Numbers 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.14|Numbers 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

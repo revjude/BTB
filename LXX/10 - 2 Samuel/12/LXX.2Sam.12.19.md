@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:19** 
 <small><sub>**LXX:**</sub></small>
 And David perceived that  his servants were whispering, and David comprehended that the boy has died. And David said to  his servants, Has the boy died? And they said, He has died. 
-<small><sub>**KJV:**</sub></small>
-But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.
-<small><sub>**BSB:**</sub></small>
-When David saw that his servants were whispering to one another, he perceived that the child was dead. So he asked his servants, “Is the child dead?” “He is dead,” they replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.18|<< 2 Samuel 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.20|2 Samuel 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

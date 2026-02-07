@@ -1,4 +1,4 @@
-**Ezekiel 31:4** 
+**Ezekiel 31:4**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent out her little rivers unto all the trees of the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The waters made it grow; the deep springs made it tall, directing their streams 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.3|<< Ezekiel 31:3]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.5|Ezekiel 31:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | waters  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they made grow it  |**<big>&#8207;[[H1431\|גִּדְּל֔וּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| gi.de.Lu.<small><sup>[[HVpp3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

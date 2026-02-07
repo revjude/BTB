@@ -1,4 +1,4 @@
-**Deuteronomy 3:8** 
+**Deuteronomy 3:8**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took at that time out of the hand of the two kings of the Amorites the land that [was] on this side Jordan, from the river of Arnon unto mount Hermon;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time we took from the two kings of the Amorites the land across the Jord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.7|<< Deuteronomy 3:7]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.9|Deuteronomy 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|נִּקַּ֞ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ni.Kach<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at the time  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H6256\|עֵ֤ת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

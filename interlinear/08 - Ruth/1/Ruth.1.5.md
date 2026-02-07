@@ -1,4 +1,4 @@
-**Ruth 1:5** 
+**Ruth 1:5**<big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ both Mahlon and Chilion also died, and Naomi was left without her two sons and w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמ֥וּתוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mu.tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 17:6** 
 <small><sub>**LXX:**</sub></small>
 Children's children \[are the\] crown of \[the\] aged; and children \[are the\] boasting of their fathers. \[The\] entire world of things \[is\] of the trustworthy; but for the unbelieving not an obolus. 
-<small><sub>**KJV:**</sub></small>
-Children’s children [are] the crown of old men; and the glory of children [are] their fathers.
-<small><sub>**BSB:**</sub></small>
-Grandchildren are the crown of the aged, and the glory of a son is his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.5|<< Proverbs 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.7|Proverbs 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

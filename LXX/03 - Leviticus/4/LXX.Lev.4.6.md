@@ -1,10 +1,7 @@
 **LXX Leviticus 4:6** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall dip the finger into the blood, and shall sprinkle on from the blood seven times with the finger before \[the\] <span class="smallcaps">lord</span> at the holy veil. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-The priest is to dip his finger in the blood and sprinkle some of it seven times before the LORD, in front of the veil of the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.5|<< Leviticus 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.7|Leviticus 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

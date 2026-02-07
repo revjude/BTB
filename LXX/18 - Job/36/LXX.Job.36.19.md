@@ -1,10 +1,7 @@
 **LXX Job 36:19** 
 <small><sub>**LXX:**</sub></small>
 aside not the mind willingly you \[of the\] supplication of the ones being disabled in necessity! And all the ones fortifying strength. 
-<small><sub>**KJV:**</sub></small>
-Will he esteem thy riches? [no], not gold, nor all the forces of strength.
-<small><sub>**BSB:**</sub></small>
-Can your wealth or all your mighty effort keep you from distress?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.18|<< Job 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.20|Job 36:20 >>]]</td></tr></table>
 
 | Translation | Greek |

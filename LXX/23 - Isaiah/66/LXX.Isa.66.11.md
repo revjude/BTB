@@ -1,10 +1,7 @@
 **LXX Isaiah 66:11** 
 <small><sub>**LXX:**</sub></small>
 that you should nurse and be filled up from \[the\] breast of her comfort; that sucking out you should indulge at \[the\] introduction of her glory. 
-<small><sub>**KJV:**</sub></small>
-That ye may suck, and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.
-<small><sub>**BSB:**</sub></small>
-so that you may nurse and be satisfied at her comforting breasts; you may drink deeply and delight yourselves in her glorious abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.10|<< Isaiah 66:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.12|Isaiah 66:12 >>]]</td></tr></table>
 
 | Translation | Greek |

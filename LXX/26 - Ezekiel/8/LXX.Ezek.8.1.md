@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the sixth year, in the sixth month, \[the\] fifth of the month, I was sitting in  my house, and the elders of Judah were sitting down before me. And came upon me \[the\] hand of Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the sixth year, in the sixth [month], in the fifth [day] of the month, [as] I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.
-<small><sub>**BSB:**</sub></small>
-In the sixth year, on the fifth day of the sixth month, I was sitting in my house, and the elders of Judah were sitting before me; and there the hand of the Lord GOD fell upon me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.27|<< Ezekiel 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.2|Ezekiel 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

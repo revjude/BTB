@@ -1,12 +1,12 @@
-**Romans 11:33
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:33**<big><big>[[Rom.11.33 A Hymn of Praise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O the depth of the riches both of the wisdom and knowledge of God! how unsearchable [are] his judgments, and his ways past finding out!
 <small><sub>**BSB:**</sub></small>
 O, the depth of the riches of the wisdom and knowledge of God! How unsearchable are His judgments, and untraceable His ways!
 <small><sub>**Literal:**</sub></small>
 O [the] depth of riches both of wisdom and knowledge of God! How unsearchable the judgments of Him and untraceable the ways of Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.32|<< Romans 11:32]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.34|Romans 11:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O |**<big>[[G5599\|Ὦ]]</big>**  |Ō <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] depth |**<big>[[G0899\|βάθος]]</big>**  |bathos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

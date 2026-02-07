@@ -1,4 +1,4 @@
-**Ezekiel 21:27** (21:32)
+**Ezekiel 21:27**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will overturn, overturn, overturn, it: and it shall be no [more], until he come whose right it is; and I will give it [him].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A ruin, a ruin, I will make it a ruin! And it will not be restored until the arr
 > $\quad$ referencing: [[Gen.49.10|Gen 49:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a ruin  |**<big>&#8207;[[H5754\|עַוָּ֥ה]]&#8207; </big>**| 'a.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ruin  |**<big>&#8207;[[H5754\|עַוָּ֖ה]]&#8207; </big>**| 'a.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

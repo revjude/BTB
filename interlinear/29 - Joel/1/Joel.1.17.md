@@ -1,4 +1,4 @@
-**Joel 1:17** 
+**Joel 1:17**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The seeds lie shriveled beneath the clods; the storehouses are in ruins; the gra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.16|<< Joel 1:16]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.18|Joel 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have shriveled  |**<big>&#8207;[[H5685\|עָבְשׁ֣וּ]]&#8207; </big>**| 'a.ve.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] seeds  |**<big>&#8207;[[H6507\|פְרֻד֗וֹת]]&#8207; </big>**| fe.ru.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

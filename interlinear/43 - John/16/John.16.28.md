@@ -1,12 +1,12 @@
-**John 16:28
-**<small><sub>**KJV:**</sub></small>
+**John 16:28**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
 <small><sub>**BSB:**</sub></small>
 I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”
 <small><sub>**Literal:**</sub></small>
 I came forth from with the Father and have come into the world; again I leave the world and go to the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.27|<< John 16:27]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.29|John 16:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I came forth |**<big>[[G1831\|ἐξῆλθον]]</big>**  |exēlthon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from with [^1] |**<big>[[G3844\|παρὰ]]</big>**  |para <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(o)</abbr> | |

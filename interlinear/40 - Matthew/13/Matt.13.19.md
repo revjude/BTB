@@ -1,12 +1,12 @@
-**Matthew 13:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:19**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When any one heareth the word of the kingdom, and understandeth [it] not, then cometh the wicked [one], and catcheth away that which was sown in his heart. This is he which received seed by the way side.
 <small><sub>**BSB:**</sub></small>
 When anyone hears the message of the kingdom but does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path.
 <small><sub>**Literal:**</sub></small>
 Everyone hearing the word of the kingdom and not understanding comes the evil one and snatches away that having been sown in the heart of him; This is the [one] on the path having been sown.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.18|<< Matthew 13:18]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.20|Matthew 13:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | hearing |**<big>[[G0191\|ἀκούοντος]]</big>**  |akouontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

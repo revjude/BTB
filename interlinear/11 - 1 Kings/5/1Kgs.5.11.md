@@ -1,4 +1,4 @@
-**1 Kings 5:11** (5:25)
+**1 Kings 5:11**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon gave Hiram twenty thousand measures of wheat [for] food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and year after year Solomon would provide Hiram with 20,000 cors of wheat as foo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Solomon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹה֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gave  |**<big>&#8207;[[H5414G\|נָתַ֨ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

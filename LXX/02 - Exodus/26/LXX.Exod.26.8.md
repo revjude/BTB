@@ -1,10 +1,7 @@
 **LXX Exodus 26:8** 
 <small><sub>**LXX:**</sub></small>
 The length of the one hide covering will be thirty cubits; and four cubits the breadth of the one hide covering; the same measure will be to the eleven hide coverings. 
-<small><sub>**KJV:**</sub></small>
-The length of one curtain [shall be] thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains [shall be all] of one measure.
-<small><sub>**BSB:**</sub></small>
-Each of the eleven curtains is to be the same size—thirty cubits long and four cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.7|<< Exodus 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.9|Exodus 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

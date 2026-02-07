@@ -1,10 +1,7 @@
 **LXX Genesis 38:17** 
 <small><sub>**LXX:**</sub></small>
 And he said, I will send to you a kid of \[the\] goats from out of  my flocks. And she said, You should give a deposit until  you send \[it\]. 
-<small><sub>**KJV:**</sub></small>
-And he said, I will send [thee] a kid from the flock. And she said, Wilt thou give [me] a pledge, till thou send [it]?
-<small><sub>**BSB:**</sub></small>
-“I will send you a young goat from my flock,” Judah answered. But she replied, “Only if you leave me something as a pledge until you send it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.16|<< Genesis 38:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.18|Genesis 38:18 >>]]</td></tr></table>
 
 | Translation | Greek |

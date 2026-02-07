@@ -1,10 +1,7 @@
 **LXX Isaiah 2:12** 
 <small><sub>**LXX:**</sub></small>
 For the day of \[the\] <span class="smallcaps">lord</span> of Hosts \[is\] upon every one insulting and proud; and upon every one high and elevated -- and they shall be abased; 
-<small><sub>**KJV:**</sub></small>
-For the day of the LORD of hosts [shall be] upon every [one that is] proud and lofty, and upon every [one that is] lifted up; and he shall be brought low:
-<small><sub>**BSB:**</sub></small>
-For the Day of the LORD of Hosts will come against all the proud and lofty, against all that is exalted—it will be humbled—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.11|<< Isaiah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.13|Isaiah 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 8:13** 
 <small><sub>**LXX:**</sub></small>
 And he arranged all the people \[of\] the camp, which was from north of the city,  the ends of it west of the city. And Joshua went  that night in the midst of the valley. 
-<small><sub>**KJV:**</sub></small>
-And when they had set the people, [even] all the host that [was] on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley.
-<small><sub>**BSB:**</sub></small>
-So the forces were stationed with the main camp to the north of the city and the rear guard to the west of the city. And that night Joshua went into the valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.12|<< Joshua 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.14|Joshua 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

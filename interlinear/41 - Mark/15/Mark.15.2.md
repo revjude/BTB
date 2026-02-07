@@ -1,12 +1,12 @@
-**Mark 15:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:2**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest [it].
 <small><sub>**BSB:**</sub></small>
 So Pilate questioned Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.
 <small><sub>**Literal:**</sub></small>
 And questioned Him <the> Pilate; You yourself are the King of the Jews? <the> And answering to him He says; You yourself have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.1|<< Mark 15:1]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.3|Mark 15:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | questioned |**<big>[[G1905\|ἐπηρώτησεν]]</big>**  |epērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

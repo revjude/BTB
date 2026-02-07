@@ -1,12 +1,12 @@
-**Galatians 1:21
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:21**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Afterwards I came into the regions of Syria and Cilicia;
 <small><sub>**BSB:**</sub></small>
 Later I went to the regions of Syria and Cilicia.
 <small><sub>**Literal:**</sub></small>
 Then I went into the regions <the> of Syria and <the> Cilicia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.20|<< Galatians 1:20]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.22|Galatians 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1899\|ἔπειτα]]</big>**  |epeita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I went |**<big>[[G2064\|ἦλθον]]</big>**  |ēlthon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

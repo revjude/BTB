@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there was a man from the sons of Benjamin, and his name \[was\] Kish, son of Abiel, son of Zeror, son of Bechorath, son of Aphiah, son of a man of Benjamin, a mighty man in strength. 
-<small><sub>**KJV:**</sub></small>
-Now there was a man of Benjamin, whose name [was] Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
-<small><sub>**BSB:**</sub></small>
-Now there was a Benjamite, a powerful man, whose name was Kish son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah of Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.22|<< 1 Samuel 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.2|1 Samuel 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 13:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:3**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
 <small><sub>**BSB:**</sub></small>
 While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,
 <small><sub>**Literal:**</sub></small>
 And when is sitting He upon the Mount <the> of Olives opposite the temple he was asking Him in private Peter and James and John and Andrew;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.2|<< Mark 13:2]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.4|Mark 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is sitting |**<big>[[G2521\|καθημένου]]</big>**  |kathēmenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

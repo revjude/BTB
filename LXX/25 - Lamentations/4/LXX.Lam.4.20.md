@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΡΗΣ</p>
 
 \[The\] breath of our face, \[the\] anointed one, \[the\] <span class="smallcaps">lord</span> was seized in  our corruptions, of whom we said, In  his shadow we shall live among the nations. 
-<small><sub>**KJV:**</sub></small>
-The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.
-<small><sub>**BSB:**</sub></small>
-The LORD’s anointed, the breath of our life, was captured in their pits. We had said of him, “Under his shadow we will live among the nations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.19|<< Lamentations 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.21|Lamentations 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

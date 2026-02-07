@@ -1,12 +1,12 @@
-**2 Timothy 1:4
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:4**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;
 <small><sub>**BSB:**</sub></small>
 Recalling your tears, I long to see you so that I may be filled with joy.
 <small><sub>**Literal:**</sub></small>
 longing you to see, having yourself recalled your <the> tears, so that with joy I may be filled<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.3|<< 2 Timothy 1:3]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.5|2 Timothy 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | longing |**<big>[[G1971\|ἐπιποθῶν]]</big>**  |epipothōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

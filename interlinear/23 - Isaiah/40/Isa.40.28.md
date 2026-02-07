@@ -1,4 +1,4 @@
-**Isaiah 40:28** 
+**Isaiah 40:28**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you not know? Have you not heard? The LORD is the everlasting God, the Creato
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֨וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you know  |**<big>&#8207;[[H3045\|יָדַ֜עְתָּ]]&#8207; </big>**| ya.Da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

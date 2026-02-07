@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:18** 
 <small><sub>**LXX:**</sub></small>
 And in Tehaphnehes the day shall darken in  my breaking there the chiefdoms of Egypt. And the insolence of her strength shall perish there. And a cloud shall cover her, and  her daughters shall be led captives. 
-<small><sub>**KJV:**</sub></small>
-At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
-<small><sub>**BSB:**</sub></small>
-The day will be darkened in Tahpanhes when I break the yoke of Egypt and her proud strength comes to an end. A cloud will cover her, and her daughters will go into captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.17|<< Ezekiel 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.19|Ezekiel 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

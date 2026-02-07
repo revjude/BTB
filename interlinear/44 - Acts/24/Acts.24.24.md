@@ -1,12 +1,12 @@
-**Acts 24:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:24**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.
 <small><sub>**BSB:**</sub></small>
 After several days, Felix returned with his wife Drusilla, who was a Jewess. He sent for Paul and listened to him speak about faith in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 After then days some having arrived <the> Felix with Drusilla the own wife being a Jewess he sent for <the> Paul and heard him concerning the in Christ Jesus faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.23|<< Acts 24:23]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.25|Acts 24:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 6:33** 
+**Proverbs 6:33**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wound and dishonour shall he get; and his reproach shall not be wiped away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wounds and dishonor will befall him, and his reproach will never be wiped away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.32|<< Proverbs 6:32]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.34|Proverbs 6:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wound  |**<big>&#8207;[[H5061\|נֶֽגַע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.ga'-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and shame  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7036\|קָל֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 27:21** 
+**1 Chronicles 27:21**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the half [tribe] of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ over the half-tribe of Manasseh in Gilead was Iddo son of Zechariah; over Benjam
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.20|<< 1 Chronicles 27:20]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.22|1 Chronicles 27:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] half of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2677\|חֲצִ֤י]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Manasseh  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4519G\|מְנַשֶּׁה֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.na.Sheh<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

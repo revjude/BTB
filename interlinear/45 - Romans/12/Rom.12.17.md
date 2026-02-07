@@ -1,5 +1,5 @@
-**Romans 12:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:17**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Recompense to no man evil for evil. Provide things honest in the sight of all men.
 <small><sub>**BSB:**</sub></small>
 Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody.
@@ -10,7 +10,7 @@ To no one evil for evil repaying, providing right before all men;<br><table widt
 > $\quad$ referencing: [[LXX.Prov.3.4|Prov 3:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To no one |**<big>[[G3367\|μηδενὶ]]</big>**  |mēdeni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | evil |**<big>[[G2556G\|κακὸν]]</big>**  |kakon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

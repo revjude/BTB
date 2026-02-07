@@ -1,10 +1,7 @@
 **LXX Psalm 109:14** 
 <small><sub>**LXX:**</sub></small>
 the lawlessness of his fathers be called to mind before \[the\] <span class="smallcaps">lord</span>; and may the sin of his mother not be wiped away. 
-<small><sub>**KJV:**</sub></small>
-Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out.
-<small><sub>**BSB:**</sub></small>
-May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.13|<< Psalm 109:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.15|Psalm 109:15 >>]]</td></tr></table>
 
 | Translation | Greek |

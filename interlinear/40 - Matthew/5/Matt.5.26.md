@@ -1,12 +1,12 @@
-**Matthew 5:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:26**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, you will not get out until you have paid the last penny.
 <small><sub>**Literal:**</sub></small>
 Amen I say to you; certainly not you may come out from there until when you may pay the last kodranten!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.25|<< Matthew 5:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.27|Matthew 5:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

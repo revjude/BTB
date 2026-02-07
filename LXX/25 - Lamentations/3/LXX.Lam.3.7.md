@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΓΙΜΕΛ</p>
 
 He built against me, and I shall not come forth. He weighed down my brass \[chain\]. 
-<small><sub>**KJV:**</sub></small>
-He hath hedged me about, that I cannot get out: he hath made my chain heavy.
-<small><sub>**BSB:**</sub></small>
-He has walled me in so I cannot escape; He has weighed me down with chains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.6|<< Lamentations 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.8|Lamentations 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

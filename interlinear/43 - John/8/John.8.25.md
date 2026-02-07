@@ -1,12 +1,12 @@
-**John 8:25
-**<small><sub>**KJV:**</sub></small>
+**John 8:25**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they unto him, Who art thou? And Jesus saith unto them, Even [the same] that I said unto you from the beginning.
 <small><sub>**BSB:**</sub></small>
 “Who are You?” they asked. “Just what I have been telling you from the beginning,” Jesus replied.
 <small><sub>**Literal:**</sub></small>
 They were saying therefore to Him; You yourself who are? and Said to them <the> Jesus; From the beginning [which] one also I am saying to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.24|<< John 8:24]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.26|John 8:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:3** 
 <small><sub>**LXX:**</sub></small>
 Being blessed \[are\] you in \[the\] city, and being blessed \[are\] you in \[the\] field. 
-<small><sub>**KJV:**</sub></small>
-Blessed [shalt] thou [be] in the city, and blessed [shalt] thou [be] in the field.
-<small><sub>**BSB:**</sub></small>
-You will be blessed in the city and blessed in the country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.2|<< Deuteronomy 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.4|Deuteronomy 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

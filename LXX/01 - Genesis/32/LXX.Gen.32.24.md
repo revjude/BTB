@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob was left behind alone, and a man wrestled with him until morning. 
-<small><sub>**KJV:**</sub></small>
-And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
-<small><sub>**BSB:**</sub></small>
-So Jacob was left all alone, and there a man wrestled with him until daybreak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.23|<< Genesis 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.25|Genesis 32:25 >>]]</td></tr></table>
 
 | Translation | Greek |

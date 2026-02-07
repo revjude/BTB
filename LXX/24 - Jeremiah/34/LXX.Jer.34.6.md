@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:6** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah spoke to  king Zedekiah all  these words in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,
-<small><sub>**BSB:**</sub></small>
-In Jerusalem, then, Jeremiah the prophet relayed all these words to Zedekiah king of Judah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.5|<< Jeremiah 34:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.7|Jeremiah 34:7 >>]]</td></tr></table>
 
 | Translation | Greek |

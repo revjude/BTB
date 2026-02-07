@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 For how long, O <span class="smallcaps">lord</span>, will you forget me -- unto \[the\] end? For how long do you turn  your face from me? 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.8|<< Psalm 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.2|Psalm 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 19:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:11**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw heaven opened, and behold a white horse; and he that sat upon him [was] called Faithful and True, and in righteousness he doth judge and make war.
 <small><sub>**BSB:**</sub></small>
 Then I saw heaven standing open, and there before me was a white horse. And its rider is called Faithful and True. With righteousness He judges and wages war.
@@ -10,7 +10,7 @@ And I saw <the> heaven opened and behold a horse white and the [One] sitting upo
 > $\quad$ possibly alluding to: [[LXX.Ps.72.2|Ps 72:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

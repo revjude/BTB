@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:17** 
 <small><sub>**LXX:**</sub></small>
 O son of man, \[the\] house of Israel dwelt upon  their land, and they defiled it by  their way, and by  their uncleannesses; and according to the uncleanness  \[of a woman\] sitting apart was  their way before my face. 
-<small><sub>**KJV:**</sub></small>
-Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.
-<small><sub>**BSB:**</sub></small>
-“Son of man, when the people of Israel lived in their land, they defiled it by their own ways and deeds. Their behavior before Me was like the uncleanness of a woman’s impurity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.16|<< Ezekiel 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.18|Ezekiel 36:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:29** 
 <small><sub>**LXX:**</sub></small>
 And he made cities for himself, and possessions of sheep and oxen in abundance; for \[the\] <span class="smallcaps">lord</span> gave to him exceedingly vast belongings. 
-<small><sub>**KJV:**</sub></small>
-Moreover he provided him cities, and possessions of flocks and herds in abundance: for God had given him substance very much.
-<small><sub>**BSB:**</sub></small>
-He made cities for himself, and he acquired herds of sheep and cattle in abundance, for God gave him very great wealth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.28|<< 2 Chronicles 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.30|2 Chronicles 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

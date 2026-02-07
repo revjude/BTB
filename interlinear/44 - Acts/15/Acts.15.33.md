@@ -1,12 +1,12 @@
-**Acts 15:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:33**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after they had tarried [there] a space, they were let go in peace from the brethren unto the apostles.
 <small><sub>**BSB:**</sub></small>
 After spending some time there, they were sent off by the brothers in peace to return to those who had sent them.
 <small><sub>**Literal:**</sub></small>
 Having continued then a time they were sent away in peace from the brothers to those having sent them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.32|<< Acts 15:32]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.34|Acts 15:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having continued |**<big>[[G4160J\|ποιήσαντες]]</big>**  |poiēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

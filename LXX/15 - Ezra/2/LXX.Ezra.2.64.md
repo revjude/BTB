@@ -1,10 +1,7 @@
 **LXX Ezra 2:64** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly together \[were\] as four ten thousand, two thousand, three hundred, sixty; 
-<small><sub>**KJV:**</sub></small>
-The whole congregation together [was] forty and two thousand three hundred [and] threescore,
-<small><sub>**BSB:**</sub></small>
-The whole assembly numbered 42,360,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
 
 | Translation | Greek |

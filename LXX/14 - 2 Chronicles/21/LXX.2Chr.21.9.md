@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:9** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram set out with  his rulers, and all  his chariots, and all the cavalry, the one with him. And it came to pass that he arose \[by\] night and struck  Edom, the one encircling him, and the rulers of the chariots. 
-<small><sub>**KJV:**</sub></small>
-Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him in, and the captains of the chariots.
-<small><sub>**BSB:**</sub></small>
-So Jehoram crossed into Edom with his officers and all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.8|<< 2 Chronicles 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.10|2 Chronicles 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

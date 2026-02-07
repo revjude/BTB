@@ -1,12 +1,12 @@
-**Matthew 5:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:12**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Rejoice, and be exceeding glad: for great [is] your reward in heaven: for so persecuted they the prophets which were before you.
 <small><sub>**BSB:**</sub></small>
 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets before you.
 <small><sub>**Literal:**</sub></small>
 do rejoice and do exult, for the reward of you [is] great in the heavens; thus for they persecuted the prophets <the> before you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.11|<< Matthew 5:11]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.13|Matthew 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do rejoice |**<big>[[G5463\|χαίρετε]]</big>**  |chairete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

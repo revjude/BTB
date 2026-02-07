@@ -1,4 +1,4 @@
-**Proverbs 21:8** 
+**Proverbs 21:8**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of man [is] froward and strange: but [as for] the pure, his work [is] right.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The way of a guilty man is crooked, but the conduct of the innocent is upright.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.7|<< Proverbs 21:7]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.9|Proverbs 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] crooked  |**<big>&#8207;[[H2019\|הֲפַכְפַּ֬ךְ]]&#8207; </big>**| ha.fakh.Pakh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 8:15** 
 <small><sub>**LXX:**</sub></small>
 If one should overlook  his house, in no way shall it stand; and grasping it, in no way shall it remain. 
-<small><sub>**KJV:**</sub></small>
-He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.
-<small><sub>**BSB:**</sub></small>
-He leans on his web, but it gives way; he holds fast, but it does not endure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.14|<< Job 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.16|Job 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 23:29** 
+**1 Chronicles 23:29**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for [that which is baked in] the pan, and for that which is fried, and for all manner of measure and size;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as for the rows of the showbread, the fine flour for the grain offering,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.28|<< 1 Chronicles 23:28]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.30|1 Chronicles 23:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] bread of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3899H\|לֶ֨חֶם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the row  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4635\|מַּעֲרֶ֜כֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Re.khet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

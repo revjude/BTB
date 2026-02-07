@@ -1,4 +1,4 @@
-**Exodus 35:7** 
+**Exodus 35:7**<big><big>[[Exod.35.4 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And rams’ skins dyed red, and badgers’ skins, and shittim wood,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ ram skins dyed red and fine leather; acacia wood;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.6|<< Exodus 35:6]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.8|Exodus 35:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and hides of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5785\|עֹרֹ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rams  |**<big>&#8207;[[H0352A\|אֵילִ֧ם]]&#8207; </big>**| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

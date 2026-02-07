@@ -1,10 +1,7 @@
 **LXX Psalm 36:3** 
 <small><sub>**LXX:**</sub></small>
 The sayings  of his mouth are lawlessness and treachery; he wanted not to perceive  \[how\] to do good. 
-<small><sub>**KJV:**</sub></small>
-The words of his mouth [are] iniquity and deceit: he hath left off to be wise, [and] to do good.
-<small><sub>**BSB:**</sub></small>
-The words of his mouth are wicked and deceitful; he has ceased to be wise and well-doing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.2|<< Psalm 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.4|Psalm 36:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:8** 
 <small><sub>**LXX:**</sub></small>
 The priests said not, Where is \[the\] <span class="smallcaps">lord</span>? And the ones resisting the law have not made acknowledgment to me; and the shepherds \[were\] impious to me; and the prophets prophesied  by Baal, and they went after unprofitable \[things\]. 
-<small><sub>**KJV:**</sub></small>
-The priests said not, Where [is] the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after [things that] do not profit.
-<small><sub>**BSB:**</sub></small>
-The priests did not ask, ‘Where is the LORD?’ The experts in the law no longer knew Me, and the leaders rebelled against Me. The prophets prophesied by Baal and followed useless idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.7|<< Jeremiah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.9|Jeremiah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

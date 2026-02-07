@@ -1,4 +1,4 @@
-**2 Kings 23:34** 
+**2 Kings 23:34**<big><big>[[2Kgs.23.31 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.33|<< 2 Kings 23:33]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.35|2 Kings 23:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יַּמְלֵךְ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.leKh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547Q\|פַּרְעֹ֨ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

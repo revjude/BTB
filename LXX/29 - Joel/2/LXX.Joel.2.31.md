@@ -1,10 +1,7 @@
 **LXX Joel 2:31** 
 <small><sub>**LXX:**</sub></small>
 The sun shall convert into darkness, and the moon into blood, before \[the\] coming \[of\] the great and apparent day \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.
-<small><sub>**BSB:**</sub></small>
-The sun will be turned to darkness and the moon to blood before the coming of the great and awesome Day of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.30|<< Joel 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.32|Joel 2:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:31** is...

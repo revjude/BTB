@@ -1,4 +1,4 @@
-**Numbers 31:35** 
+**Numbers 31:35**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thirty and two thousand persons in all, of women that had not known man by lying with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and 32,000 women who had not slept with a man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.34|<< Numbers 31:34]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.36|Numbers 31:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] person[s] of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315J\|נֶ֣פֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֔ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

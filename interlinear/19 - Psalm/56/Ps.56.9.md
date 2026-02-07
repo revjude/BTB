@@ -1,4 +1,4 @@
-**Psalms 56:9** (56:10)
+**Psalms 56:9**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I cry [unto thee], then shall mine enemies turn back: this I know; for God [is] for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then my enemies will retreat on the day I cry for help. By this I will know that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.8|<< Psalms 56:8]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.10|Psalms 56:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֥֨ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will turn back  |**<big>&#8207;[[H7725G\|יָ֘שׁ֤וּבוּ]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

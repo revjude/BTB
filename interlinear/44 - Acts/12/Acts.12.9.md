@@ -1,12 +1,12 @@
-**Acts 12:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:9**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.
 <small><sub>**BSB:**</sub></small>
 So Peter followed him out, but he was unaware that what the angel was doing was real. He thought he was only seeing a vision.
 <small><sub>**Literal:**</sub></small>
 And having gone forth he was following him; and not did know that real is what is happening through the angel, he was thinking however a vision to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.8|<< Acts 12:8]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.10|Acts 12:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forth |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

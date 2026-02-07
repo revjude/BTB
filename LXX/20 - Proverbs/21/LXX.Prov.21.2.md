@@ -1,10 +1,7 @@
 **LXX Proverbs 21:2** 
 <small><sub>**LXX:**</sub></small>
 Every man appears just to himself; but \[the\] <span class="smallcaps">lord</span> straightens out \[the\] heart. 
-<small><sub>**KJV:**</sub></small>
-Every way of a man [is] right in his own eyes: but the LORD pondereth the hearts.
-<small><sub>**BSB:**</sub></small>
-All a man’s ways seem right to him, but the LORD weighs the heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.1|<< Proverbs 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.3|Proverbs 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

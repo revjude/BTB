@@ -1,4 +1,4 @@
-**1 Chronicles 7:36** 
+**1 Chronicles 7:36**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.35|<< 1 Chronicles 7:35]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.37|1 Chronicles 7:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֖י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zophah  |**<big>&#8207;[[H6690\|צוֹפָ֑ח]]&#8207; </big>**| tzo.Fach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

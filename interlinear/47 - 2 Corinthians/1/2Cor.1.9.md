@@ -1,12 +1,12 @@
-**2 Corinthians 1:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:9**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 <small><sub>**BSB:**</sub></small>
 Indeed, we felt we were under the sentence of death, in order that we would not trust in ourselves, but in God, who raises the dead.
 <small><sub>**Literal:**</sub></small>
 But we in ourselves the sentence <the> of death has, in order that not having trusted we may be in ourselves but in <the> God who is raising the dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.8|<< 2 Corinthians 1:8]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.10|2 Corinthians 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

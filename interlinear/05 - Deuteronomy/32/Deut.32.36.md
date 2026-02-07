@@ -1,4 +1,4 @@
-**Deuteronomy 32:36** 
+**Deuteronomy 32:36**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall judge his people, and repent himself for his servants, when he seeth that [their] power is gone, and [there is] none shut up, or left.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD will vindicate His people and have compassion on His servants when 
 > $\quad$ referenced by: [[Heb.10.30|Heb 10:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will judge  |**<big>&#8207;[[H1777\|יָדִ֤ין]]&#8207; </big>**| ya.Din<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

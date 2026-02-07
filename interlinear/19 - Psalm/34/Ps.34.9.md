@@ -1,4 +1,4 @@
-**Psalms 34:9** (34:10)
+**Psalms 34:9**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O fear the LORD, ye his saints: for [there is] no want to them that fear him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fear the LORD, you His saints, for those who fear Him lack nothing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.8|<< Psalms 34:8]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.10|Psalms 34:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fear  |**<big>&#8207;[[H3372H\|יְר֣אוּ]]&#8207; </big>**| ye.R.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

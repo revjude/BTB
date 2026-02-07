@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Athaliah the mother of Ahaziah saw that her son died, and she rose up and destroyed all the seed of the kingdom in the house of Judah. 
-<small><sub>**KJV:**</sub></small>
-But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.
-<small><sub>**BSB:**</sub></small>
-When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs of the house of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.9|<< 2 Chronicles 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.11|2 Chronicles 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

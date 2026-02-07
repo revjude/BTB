@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:27** 
 <small><sub>**LXX:**</sub></small>
 And \[there was\] a gate opposite of the gate of the inner courtyard to \[the\] south. And he measured the courtyard from gate unto gate -- a hundred cubits \[was\] the breadth towards \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And [there was] a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.
-<small><sub>**BSB:**</sub></small>
-The inner court also had a gate facing south, and he measured the distance from gateway to gateway toward the south to be a hundred cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.26|<< Ezekiel 40:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.28|Ezekiel 40:28 >>]]</td></tr></table>
 
 | Translation | Greek |

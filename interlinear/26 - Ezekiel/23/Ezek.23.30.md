@@ -1,4 +1,4 @@
-**Ezekiel 23:30** 
+**Ezekiel 23:30**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will do these [things] unto thee, because thou hast gone a whoring after the heathen, [and] because thou art polluted with their idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ have brought these things upon you, because you have prostituted yourself with t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.29|<< Ezekiel 23:29]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.31|Ezekiel 23:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have done  |**<big>&#8207;[[H6213A\|עָשֹׂ֥ה]]&#8207; </big>**| 'a.Soh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

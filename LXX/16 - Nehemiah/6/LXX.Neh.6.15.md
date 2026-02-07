@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the wall was finished \[the\] fifth and twentieth of the month Elul, in fifty two days. 
-<small><sub>**KJV:**</sub></small>
-So the wall was finished in the twenty and fifth [day] of [the month] Elul, in fifty and two days.
-<small><sub>**BSB:**</sub></small>
-So the wall was completed in fifty-two days, on the twenty-fifth of Elul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.14|<< Nehemiah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.16|Nehemiah 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

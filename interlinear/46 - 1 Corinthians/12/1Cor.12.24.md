@@ -1,12 +1,12 @@
-**1 Corinthians 12:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:24**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For our comely [parts] have no need: but God hath tempered the body together, having given more abundant honour to that [part] which lacked:
 <small><sub>**BSB:**</sub></small>
 whereas our presentable parts have no such need. But God has composed the body and has given greater honor to the parts that lacked it,
 <small><sub>**Literal:**</sub></small>
 <the> and the presentable [parts] of us no need have. but <the> God [who] has composed the body to that which is become lacking more excessive having given honor,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.23|<< 1 Corinthians 12:23]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.25|1 Corinthians 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

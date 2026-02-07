@@ -1,10 +1,7 @@
 **LXX Numbers 34:14** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] tribe of \[the\] sons of Reuben received \[it\] according to \[the\] houses of their patrimony, and \[the\] tribe of \[the\] sons of Gad according to \[the\] houses of their patrimony, and the half tribe of Manasseh took  their lots. 
-<small><sub>**KJV:**</sub></small>
-For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received [their inheritance]; and half the tribe of Manasseh have received their inheritance:
-<small><sub>**BSB:**</sub></small>
-For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.13|<< Numbers 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.15|Numbers 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 10:15** 
 <small><sub>**LXX:**</sub></small>
 The shoulder of the cut-away portion and the breast of the separation \[offering\] upon the yield \[offerings\] of the fats, they shall bring as a separation \[offering\] to separate before \[the\] <span class="smallcaps">lord</span>. And it will be to you, and \[to\] your sons, and \[to\] your daughters with you, an eternal law; in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave [it for] a wave offering before the LORD; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the LORD hath commanded.
-<small><sub>**BSB:**</sub></small>
-They are to bring the thigh of the contribution and the breast of the wave offering, together with the fat portions of the food offerings, to wave as a wave offering before the LORD. It will belong permanently to you and your children, as the LORD has commanded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.14|<< Leviticus 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.16|Leviticus 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

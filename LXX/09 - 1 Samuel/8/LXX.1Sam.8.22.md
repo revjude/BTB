@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Samuel, Hearken \[to\] their voice, and a king reign unto them! And Samuel said to \[the\] men of Israel, each \[man\] run to  his city! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.
-<small><sub>**BSB:**</sub></small>
-“Listen to their voice,” the LORD said to Samuel. “Appoint a king for them.” Then Samuel told the men of Israel, “Everyone must go back to his city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.21|<< 1 Samuel 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.1|1 Samuel 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

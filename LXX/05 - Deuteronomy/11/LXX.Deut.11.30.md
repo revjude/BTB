@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:30** 
 <small><sub>**LXX:**</sub></small>
 Behold are these not on the other side of the Jordan, behind \[the\] way of \[the\] descent of \[the\] sun in \[the\] land of Canaan, the \[people\] dwelling upon \[the\] descent, being next to  Gilgal, neighboring the high oak? 
-<small><sub>**KJV:**</sub></small>
-[Are] they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?
-<small><sub>**BSB:**</sub></small>
-Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the Oak of Moreh?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.29|<< Deuteronomy 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.31|Deuteronomy 11:31 >>]]</td></tr></table>
 
 | Translation | Greek |

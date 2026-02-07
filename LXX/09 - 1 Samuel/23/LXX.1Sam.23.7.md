@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:7** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to Saul that David was come to Keilah. And Saul said, God has sold him into  my hands, for he is locked up, having entered into a city of doors and bars. 
-<small><sub>**KJV:**</sub></small>
-And it was told Saul that David was come to Keilah. And Saul said, God hath delivered him into mine hand; for he is shut in, by entering into a town that hath gates and bars.
-<small><sub>**BSB:**</sub></small>
-When Saul was told that David had gone to Keilah, he said, “God has delivered him into my hand, for he has trapped himself by entering a town with gates and bars.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.6|<< 1 Samuel 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.8|1 Samuel 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

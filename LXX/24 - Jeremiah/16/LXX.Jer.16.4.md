@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:4** 
 <small><sub>**LXX:**</sub></small>
 by a diseased death they shall die; they shall not be lamented, and they shall not be entombed; for they will be an example upon \[the\] face of the earth. By \[the\] sword they shall fall, and in hunger they shall be finished off entirely. And their corpses shall be for food to the wild beasts of the earth, and to the winged creatures of the heaven. 
-<small><sub>**KJV:**</sub></small>
-They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; [but] they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth.
-<small><sub>**BSB:**</sub></small>
-“They will die from deadly diseases. They will not be mourned or buried, but will lie like dung on the ground. They will be finished off by sword and famine, and their corpses will become food for the birds of the air and beasts of the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.3|<< Jeremiah 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.5|Jeremiah 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

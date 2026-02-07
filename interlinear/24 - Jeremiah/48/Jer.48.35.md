@@ -1,4 +1,4 @@
-**Jeremiah 48:35** 
+**Jeremiah 48:35**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In Moab, declares the LORD, I will bring an end to those who make offerings on t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.34|<< Jeremiah 48:34]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.36|Jeremiah 48:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will put an end to  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|הִשְׁבַּתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Moab  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4124G\|מוֹאָ֖ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

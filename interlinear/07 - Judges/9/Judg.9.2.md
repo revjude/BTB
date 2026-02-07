@@ -1,4 +1,4 @@
-**Judges 9:2** 
+**Judges 9:2**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak, I pray you, in the ears of all the men of Shechem, Whether [is] better for you, either that all the sons of Jerubbaal, [which are] threescore and ten persons, reign over you, or that one reign over you? remember also that I [am] your bone and your flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak, I pray you, in the ears of all the men of Shechem, Whether [is] better fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.1|<< Judges 9:1]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.3|Judges 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| da.be.ru-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֞א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

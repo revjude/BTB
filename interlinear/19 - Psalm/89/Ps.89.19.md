@@ -1,4 +1,4 @@
-**Psalms 89:19** (89:20)
+**Psalms 89:19**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou spakest in vision to thy holy one, and saidst, I have laid help upon [one that is] mighty; I have exalted [one] chosen out of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You once spoke in a vision; to Your godly ones You said, “I have bestowed help
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.18|<< Psalms 89:18]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.20|Psalms 89:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you spoke  |**<big>&#8207;[[H1696G\|דִּבַּ֥רְתָּֽ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di.Bar.ta-<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

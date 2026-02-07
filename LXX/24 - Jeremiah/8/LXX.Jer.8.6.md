@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:6** 
 <small><sub>**LXX:**</sub></small>
 Give ear indeed, and hearken! Will they not rightly speak? There is not a man repenting from  his evil, saying, What did I \[do\]? The one running stopped from  his race, as a horse sweating in his snorting. 
-<small><sub>**KJV:**</sub></small>
-I hearkened and heard, [but] they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle.
-<small><sub>**BSB:**</sub></small>
-I have listened and heard; they do not speak what is right. No one repents of his wickedness, asking, ‘What have I done?’ Everyone has pursued his own course like a horse charging into battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.5|<< Jeremiah 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.7|Jeremiah 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

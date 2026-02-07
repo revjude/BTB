@@ -1,4 +1,4 @@
-**Proverbs 16:29** 
+**Proverbs 16:29**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A violent man enticeth his neighbour, and leadeth him into the way [that is] not good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A violent man entices his neighbor and leads him down a path that is not good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.28|<< Proverbs 16:28]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.30|Proverbs 16:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | violence  |**<big>&#8207;[[H2555\|חָ֭מָס]]&#8207; </big>**| Cha.mos<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 28:22** 
 <small><sub>**LXX:**</sub></small>
  Destruction and  death said, We have heard of her  fame. 
-<small><sub>**KJV:**</sub></small>
-Destruction and death say, We have heard the fame thereof with our ears.
-<small><sub>**BSB:**</sub></small>
-Abaddon and Death say, ‘We have heard a rumor about it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.21|<< Job 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.23|Job 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

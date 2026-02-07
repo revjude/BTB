@@ -1,12 +1,12 @@
-**Mark 13:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:30**<big><big>[[Mark.13.28 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, that this generation shall not pass, till all these things be done.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, this generation will not pass away until all these things have happened.
 <small><sub>**Literal:**</sub></small>
 Amen I say to you that certainly not may have passed away <the> generation this until when these things all may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.29|<< Mark 13:29]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.31|Mark 13:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

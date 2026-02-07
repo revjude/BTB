@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he stayed in place three years, and there was no war between Syria and between Israel. 
-<small><sub>**KJV:**</sub></small>
-And they continued three years without war between Syria and Israel.
-<small><sub>**BSB:**</sub></small>
-Then three years passed without war between Aram and Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.29|<< 1 Kings 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.2|1 Kings 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

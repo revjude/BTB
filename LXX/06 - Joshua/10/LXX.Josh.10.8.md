@@ -1,10 +1,7 @@
 **LXX Joshua 10:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, Do not fear them! for into  your hands I have delivered them; there shall not stand even one of them before you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.
-<small><sub>**BSB:**</sub></small>
-The LORD said to Joshua, “Do not be afraid of them, for I have delivered them into your hand. Not one of them shall stand against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.7|<< Joshua 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.9|Joshua 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 2:18** 
+**Lamentations 2:18**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hearts of the people cry out to the Lord. O wall of the Daughter of Zion, le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has cried out  |**<big>&#8207;[[H6817\|צָעַ֥ק]]&#8207; </big>**| tza.'Ak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart their  |**<big>&#8207;[[H3820A\|לִבָּ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

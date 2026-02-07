@@ -1,12 +1,12 @@
-**1 Thessalonians 2:12
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:12**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye would walk worthy of God, who hath called you unto his kingdom and glory.
 <small><sub>**BSB:**</sub></small>
 encouraging you, comforting you, and urging you to walk in a manner worthy of God, who calls you into His own kingdom and glory.
 <small><sub>**Literal:**</sub></small>
 exhorting you and comforting and charging [12] unto <the> to walk you worthily <the> of God who is calling you to the His own kingdom and glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.11|<< 1 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.13|1 Thessalonians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | exhorting |**<big>[[G3870\|παρακαλοῦντες]]</big>**  |parakalountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

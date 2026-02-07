@@ -1,5 +1,5 @@
-**Romans 15:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:3**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.
 <small><sub>**BSB:**</sub></small>
 For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.”
@@ -10,7 +10,7 @@ Even for <the> Christ not Himself pleased but even as it has been written: The r
 > $\quad$ referencing: [[LXX.Ps.69.9|Ps 69:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

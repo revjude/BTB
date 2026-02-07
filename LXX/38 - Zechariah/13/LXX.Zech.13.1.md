@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that day every place will be opening wide to the house of David and to the ones dwelling in Jerusalem for the removal and for the sprinkling. 
-<small><sub>**KJV:**</sub></small>
-In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
-<small><sub>**BSB:**</sub></small>
-“On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.14|<< Zechariah 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.2|Zechariah 13:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 13:1** is...

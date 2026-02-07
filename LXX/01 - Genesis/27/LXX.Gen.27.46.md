@@ -1,10 +1,7 @@
 **LXX Genesis 27:46** 
 <small><sub>**LXX:**</sub></small>
 And Rebekah said to Isaac, I loathe  my life, on account of the daughters of the sons of Heth. If Jacob shall take a wife from the daughters  of this land, why \[is it\] for me  to live? 
-<small><sub>**KJV:**</sub></small>
-And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these [which are] of the daughters of the land, what good shall my life do me?
-<small><sub>**BSB:**</sub></small>
-Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.45|<< Genesis 27:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.1|Genesis 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

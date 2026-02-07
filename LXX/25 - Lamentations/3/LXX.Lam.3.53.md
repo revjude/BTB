@@ -1,10 +1,7 @@
 **LXX Lamentations 3:53** 
 <small><sub>**LXX:**</sub></small>
 They put to death my life in \[the\] pit, and they placed a stone upon me. 
-<small><sub>**KJV:**</sub></small>
-They have cut off my life in the dungeon, and cast a stone upon me.
-<small><sub>**BSB:**</sub></small>
-They dropped me alive into a pit and cast stones upon me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.52|<< Lamentations 3:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.54|Lamentations 3:54 >>]]</td></tr></table>
 
 | Translation | Greek |

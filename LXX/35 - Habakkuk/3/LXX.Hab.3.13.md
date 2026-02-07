@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:13** 
 <small><sub>**LXX:**</sub></small>
 You came forth for deliverance of your people,  to deliver  your anointed one. You threw death onto \[the\] heads of lawless ones; For the completion you rose bonds unto the neck. 
-<small><sub>**KJV:**</sub></small>
-Thou wentest forth for the salvation of thy people, [even] for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
-<small><sub>**BSB:**</sub></small>
-You went forth for the salvation of Your people, to save Your anointed. You crushed the head of the house of the wicked and stripped him from head to toe. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

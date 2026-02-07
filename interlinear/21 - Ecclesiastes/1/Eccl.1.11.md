@@ -1,4 +1,4 @@
-**Ecclesiastes 1:11** 
+**Ecclesiastes 1:11**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no remembrance of former [things]; neither shall there be [any] remembrance of [things] that are to come with [those] that shall come after.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no remembrance of those who came before, and those yet to come will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.10|<< Ecclesiastes 1:10]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.12|Ecclesiastes 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] remembrance  |**<big>&#8207;[[H2146\|זִכְר֖וֹן]]&#8207; </big>**| zikh.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

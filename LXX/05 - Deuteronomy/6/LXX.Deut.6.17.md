@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:17** 
 <small><sub>**LXX:**</sub></small>
 Guarding, you shall guard the commandments of \[the\] <span class="smallcaps">lord</span>  your God, and  his testimonies, and  his ordinances, as many as he gave charge to you. 
-<small><sub>**KJV:**</sub></small>
-Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.
-<small><sub>**BSB:**</sub></small>
-You are to diligently keep the commandments of the LORD your God and the testimonies and statutes He has given you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.16|<< Deuteronomy 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.18|Deuteronomy 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

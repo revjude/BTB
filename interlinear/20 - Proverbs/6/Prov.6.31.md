@@ -1,4 +1,4 @@
-**Proverbs 6:31** 
+**Proverbs 6:31**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [if] he be found, he shall restore sevenfold; he shall give all the substance of his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet if caught, he must pay sevenfold; he must give up all the wealth of his hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.30|<< Proverbs 6:30]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.32|Proverbs 6:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will be found out  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H4672\|נִמְצָא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> nim.tza'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will make restitution  |**<big>&#8207;[[H7999A\|יְשַׁלֵּ֣ם]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

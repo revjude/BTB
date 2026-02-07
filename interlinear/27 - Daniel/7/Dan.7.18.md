@@ -1,4 +1,4 @@
-**Daniel 7:18** 
+**Daniel 7:18**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the saints of the Most High will receive the kingdom and possess it forever�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.17|<< Daniel 7:17]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.19|Daniel 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may receive  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H6902\|יקַבְּלוּן֙]]&#8207; </big>**| vi.<small><sup>[[AC]]</sup></small> ka.be.Lun<small><sup>[[AVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kingdom the  |**<big>&#8207;[[H4437\|מַלְכוּתָ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.khu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

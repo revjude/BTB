@@ -1,12 +1,12 @@
-**2 Corinthians 7:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:4**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Great [is] my boldness of speech toward you, great [is] my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.
 <small><sub>**BSB:**</sub></small>
 Great is my confidence in you; great is my pride in you; I am filled with encouragement; in all our troubles my joy overflows.
 <small><sub>**Literal:**</sub></small>
 Great [is] my boldness toward you, great my boasting on behalf of you; I have been filled <the> with encouragement, I overabound <the> with joy upon all the affliction of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.3|<< 2 Corinthians 7:3]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.5|2 Corinthians 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Great [is] |**<big>[[G4183\|πολλή]]</big>**  |pollē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | my |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

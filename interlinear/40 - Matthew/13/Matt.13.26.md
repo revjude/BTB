@@ -1,12 +1,12 @@
-**Matthew 13:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:26**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
 <small><sub>**BSB:**</sub></small>
 When the wheat sprouted and bore grain, then the weeds also appeared.
 <small><sub>**Literal:**</sub></small>
 When now sprouted the plants and fruit produced, then appeared also the weeds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.25|<< Matthew 13:25]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.27|Matthew 13:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

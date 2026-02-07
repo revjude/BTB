@@ -1,12 +1,12 @@
-**James 1:25
-**<small><sub>**KJV:**</sub></small>
+**James 1:25**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whoso looketh into the perfect law of liberty, and continueth [therein], he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 <small><sub>**BSB:**</sub></small>
 But the one who looks intently into the perfect law of freedom, and continues to do so—not being a forgetful hearer, but an effective doer—he will be blessed in what he does.
 <small><sub>**Literal:**</sub></small>
 The [one] however having looked intently into [the] law perfect that <the> of freedom and having continued in [it], this not a hearer forgetful having been but a doer of [the] work — this one blessed in the work to be done by him will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.24|<< James 1:24]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.26|James 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

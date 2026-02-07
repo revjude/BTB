@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:17** 
 <small><sub>**LXX:**</sub></small>
 And the atonement-seat \[was\] fourteen cubits  \[in\] length by fourteen cubits  \[in\] breadth upon its four parts; and  its molding encircling it round about -- a half cubit; and  its encircling \[base\] \[was\] a cubit round about; and  its steps looked according to \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-And the settle [shall be] fourteen [cubits] long and fourteen broad in the four squares thereof; and the border about it [shall be] half a cubit; and the bottom thereof [shall be] a cubit about; and his stairs shall look toward the east.
-<small><sub>**BSB:**</sub></small>
-The ledge shall also be square, fourteen cubits long and fourteen cubits wide, with a rim of half a cubit and a gutter of a cubit all around it. The steps of the altar shall face east.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.16|<< Ezekiel 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.18|Ezekiel 43:18 >>]]</td></tr></table>
 
 | Translation | Greek |

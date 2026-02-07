@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:31** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, and I shall utterly destroy  your seed, and the seed of the house of your father. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.
-<small><sub>**BSB:**</sub></small>
-Behold, the days are coming when I will cut off your strength and the strength of your father’s house, so that no one in it will reach old age.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.30|<< 1 Samuel 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.32|1 Samuel 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

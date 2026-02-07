@@ -1,4 +1,4 @@
-**Jeremiah 2:25** 
+**Jeremiah 2:25**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You should have kept your feet from going bare and your throat from being thirst
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.24|<< Jeremiah 2:24]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.26|Jeremiah 2:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | restrain  |**<big>&#8207;[[H4513\|מִנְעִ֤י]]&#8207; </big>**| min.'I<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foot your  |**<big>&#8207;[[H7272\|רַגְלֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| rag.le<small><sup>[[HNcfsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

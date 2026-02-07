@@ -1,4 +1,4 @@
-**Leviticus 26:43** 
+**Leviticus 26:43**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the land will be abandoned by them, and it will enjoy its Sabbaths by lying 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.42|<< Leviticus 26:42]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.44|Leviticus 26:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the land  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָרֶץ֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.Retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be forsaken  |**<big>&#8207;[[H5800A\|תֵּעָזֵ֨ב]]&#8207; </big>**| te.'a.Zev<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

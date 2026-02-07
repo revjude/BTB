@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:17** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; O Gog, you are concerning of whom I spoke about in former days, by \[the\] hand  of my servants the prophets  of Israel, the ones prophesying in  those days and years,  to lead you unto them. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; [Art] thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days [many] years that I would bring thee against them?
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: Are you the one of whom I have spoken in former days through My servants, the prophets of Israel, who in those times prophesied for years that I would bring you against them?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.16|<< Ezekiel 38:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.18|Ezekiel 38:18 >>]]</td></tr></table>
 
 | Translation | Greek |

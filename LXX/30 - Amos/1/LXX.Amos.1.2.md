@@ -1,10 +1,7 @@
 **LXX Amos 1:2** 
 <small><sub>**LXX:**</sub></small>
 And he said, \[The\] <span class="smallcaps">lord</span> uttered a sound from Zion, and from Jerusalem he gave his voice; and the pastures of the shepherds mourned, and the top of Carmel was dried up. 
-<small><sub>**KJV:**</sub></small>
-And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.
-<small><sub>**BSB:**</sub></small>
-He said: “The LORD roars from Zion and raises His voice from Jerusalem; the pastures of the shepherds mourn, and the summit of Carmel withers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.1|<< Amos 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.3|Amos 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

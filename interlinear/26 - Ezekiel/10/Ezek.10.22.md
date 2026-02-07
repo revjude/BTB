@@ -1,4 +1,4 @@
-**Ezekiel 10:22** 
+**Ezekiel 10:22**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the likeness of their faces [was] the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their faces looked like the faces I had seen by the River Kebar. Each creature w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.21|<< Ezekiel 10:21]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.1|Ezekiel 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] likeness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1823\|דְמ֣וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces their  |**<big>&#8207;[[H6440H\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

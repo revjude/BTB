@@ -1,10 +1,7 @@
 **LXX Leviticus 1:11** 
 <small><sub>**LXX:**</sub></small>
 And they shall slay it by \[the\] side of the altar, towards \[the\] north before \[the\] <span class="smallcaps">lord</span>. And the sons of Aaron the priests shall pour the blood of it upon the altar round about. 
-<small><sub>**KJV:**</sub></small>
-And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar.
-<small><sub>**BSB:**</sub></small>
-He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons the priests are to splatter its blood against the altar on all sides.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.10|<< Leviticus 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.12|Leviticus 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

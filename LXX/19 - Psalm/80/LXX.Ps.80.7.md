@@ -1,10 +1,7 @@
 **LXX Psalm 80:7** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  God of the forces, turn towards us, and your face appear! and we shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.
-<small><sub>**BSB:**</sub></small>
-Restore us, O God of Hosts, and cause Your face to shine upon us, that we may be saved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.6|<< Psalm 80:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.8|Psalm 80:8 >>]]</td></tr></table>
 
 | Translation | Greek |

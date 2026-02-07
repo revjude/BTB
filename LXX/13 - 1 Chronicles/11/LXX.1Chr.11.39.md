@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:39** 
 <small><sub>**LXX:**</sub></small>
 Zelek the Ammonite, Naarai the Berothite, one carrying \[the\] weapons of Joab son of Zeruiah, 
-<small><sub>**KJV:**</sub></small>
-Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,
-<small><sub>**BSB:**</sub></small>
-Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.38|<< 1 Chronicles 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.40|1 Chronicles 11:40 >>]]</td></tr></table>
 
 | Translation | Greek |

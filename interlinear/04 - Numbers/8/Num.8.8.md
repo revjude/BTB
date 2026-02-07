@@ -1,4 +1,4 @@
-**Numbers 8:8** 
+**Numbers 8:8**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then let them take a young bullock with his meat offering, [even] fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then have them take a young bull with its grain offering of fine flour mixed wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.7|<< Numbers 8:7]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.9|Numbers 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָֽקְחוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a young bull  |**<big>&#8207;[[H6499\|פַּ֣ר]]&#8207; </big>**| par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

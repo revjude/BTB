@@ -1,4 +1,4 @@
-**Proverbs 17:27** 
+**Proverbs 17:27**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath knowledge spareth his words: [and] a man of understanding is of an excellent spirit.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A man of knowledge restrains his words, and a man of understanding maintains a c
 > $\quad$ referenced by: [[Jas.1.19|Jas 1:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] restrains  |**<big>&#8207;[[H2820\|חוֹשֵׂ֣ךְ]]&#8207; </big>**| cho.Sekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words his  |**<big>&#8207;[[H0561\|אֲ֭מָרָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'A.ma.ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

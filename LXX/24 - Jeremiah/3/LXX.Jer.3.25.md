@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:25** 
 <small><sub>**LXX:**</sub></small>
 We were gone to bed in  our shame, and our dishonor covered us. For before  our God we and our fathers sinned from our youth until  this day, and we hearkened not of the voice of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-We lie down in our shame, and our confusion covereth us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God.
-<small><sub>**BSB:**</sub></small>
-Let us lie down in our shame; let our disgrace cover us. We have sinned against the LORD our God, both we and our fathers; from our youth even to this day we have not obeyed the voice of the LORD our God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.24|<< Jeremiah 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.1|Jeremiah 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

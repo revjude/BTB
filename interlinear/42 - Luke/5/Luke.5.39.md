@@ -1,12 +1,12 @@
-**Luke 5:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:39**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man also having drunk old [wine] straightway desireth new: for he saith, The old is better.
 <small><sub>**BSB:**</sub></small>
 And no one after drinking old wine wants new, for he says, ‘The old is better.’”
 <small><sub>**Literal:**</sub></small>
 And no [one] having drunk old [wine] immediately desires new, he says for; The old good is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.38|<< Luke 5:38]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.1|Luke 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NKO</abbr> | |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 4:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:11**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the devil leaveth him, and, behold, angels came and ministered unto him.
 <small><sub>**BSB:**</sub></small>
 Then the devil left Him, and angels came and ministered to Him.
 <small><sub>**Literal:**</sub></small>
 Then leaves Him the devil, and behold angels came and they were ministering to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.10|<< Matthew 4:10]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.12|Matthew 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | leaves |**<big>[[G0863G\|ἀφίησιν]]</big>**  |aphiēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

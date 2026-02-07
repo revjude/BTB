@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:6** 
 <small><sub>**LXX:**</sub></small>
 And David was afflicted very much, for the people said to stone him, for all the people were in severe pain of soul, each over  his sons, and over  his daughters. And David was fortified by \[the\] <span class="smallcaps">lord</span> his God. 
-<small><sub>**KJV:**</sub></small>
-And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
-<small><sub>**BSB:**</sub></small>
-And David was greatly distressed because the people spoke of stoning him, because the soul of every man grieved for his sons and daughters. But David found strength in the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.5|<< 1 Samuel 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.7|1 Samuel 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:33** 
 <small><sub>**LXX:**</sub></small>
 And the courtyard will be for a pastime of ostriches, and an untrodden \[place\] unto \[the\] eon; in no way a man be seated there, nor in any way a son of man dwell there. 
-<small><sub>**KJV:**</sub></small>
-And Hazor shall be a dwelling for dragons, [and] a desolation for ever: there shall no man abide there, nor [any] son of man dwell in it.
-<small><sub>**BSB:**</sub></small>
-“Hazor will become a haunt for jackals, a desolation forever. No one will dwell there; no man will abide there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.32|<< Jeremiah 49:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.34|Jeremiah 49:34 >>]]</td></tr></table>
 
 | Translation | Greek |

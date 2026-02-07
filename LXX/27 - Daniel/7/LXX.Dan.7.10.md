@@ -1,10 +1,7 @@
 **LXX Daniel 7:10** 
 <small><sub>**LXX:**</sub></small>
 A river of fire drew exiting before him; a thousand thousands ministering to him; and ten thousand ten thousands were present before him. A judgment seat was set, and books were opened. 
-<small><sub>**KJV:**</sub></small>
-A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
-<small><sub>**BSB:**</sub></small>
-A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.9|<< Daniel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.11|Daniel 7:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:10** is...

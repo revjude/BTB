@@ -6,10 +6,7 @@ An ode of the steps.
 
 <small><sub>**LXX:**</sub></small>
 The ones yielding upon \[the\] <span class="smallcaps">lord</span> \[are\] as mount Zion; the one dwelling in Jerusalem shall not be shaken into the eon. 
-<small><sub>**KJV:**</sub></small>
-A Song of degrees. They that trust in the LORD [shall be] as mount Zion, [which] cannot be removed, [but] abideth for ever.
-<small><sub>**BSB:**</sub></small>
-A song of ascents. Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.125.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.8|<< Psalm 124:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.2|Psalm 125:2 >>]]</td></tr></table>
 
 | Translation | Greek |

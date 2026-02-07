@@ -1,4 +1,4 @@
-**Jeremiah 37:5** 
+**Jeremiah 37:5**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh’s army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh’s army had left Egypt, and when the Chaldeans who were besieging Jerus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.4|<< Jeremiah 37:4]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.6|Jeremiah 37:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] army of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2428A\|חֵ֥יל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Cheil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547R\|פַּרְעֹ֖ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

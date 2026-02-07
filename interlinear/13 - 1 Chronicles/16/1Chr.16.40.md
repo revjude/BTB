@@ -1,4 +1,4 @@
-**1 Chronicles 16:40** 
+**1 Chronicles 16:40**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and [to do] according to all that is written in the law of the LORD, which he commanded Israel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to regularly present burnt offerings to the LORD on the altar of burnt offerings
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.39|<< 1 Chronicles 16:39]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.41|1 Chronicles 16:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to offer up  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H5927I\|הַעֲלוֹת֩]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.lOt<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | burnt offerings  |**<big>&#8207;[[H5930A\|עֹל֨וֹת]]&#8207; </big>**| o.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

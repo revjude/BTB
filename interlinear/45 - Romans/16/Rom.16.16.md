@@ -1,12 +1,12 @@
-**Romans 16:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:16**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute one another with an holy kiss. The churches of Christ salute you.
 <small><sub>**BSB:**</sub></small>
 Greet one another with a holy kiss. All the churches of Christ send you greetings.
 <small><sub>**Literal:**</sub></small>
 do greet one another with a kiss holy. Greet you the churches all <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.15|<< Romans 16:15]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.17|Romans 16:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one another |**<big>[[G0240\|ἀλλήλους]]</big>**  |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 32:35** 
+**Deuteronomy 32:35**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To me [belongeth] vengeance, and recompence; their foot shall slide in [due] time: for the day of their calamity [is] at hand, and the things that shall come upon them make haste.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Vengeance is Mine; I will repay. In due time their foot will slip; for their day
 > $\quad$ referenced by: [[Rom.12.19|Rom 12:19]] ☩ [[Heb.10.30|Heb 10:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belong] to \<the> me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vengeance  |**<big>&#8207;[[H5359\|נָקָם֙]]&#8207; </big>**| na.Kam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

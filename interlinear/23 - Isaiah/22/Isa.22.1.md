@@ -1,4 +1,4 @@
-**Isaiah 22:1** 
+**Isaiah 22:1**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against the Valley of Vision: What ails you now, that you hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.17|<< Isaiah 21:17]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.2|Isaiah 22:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] valley of  |**<big>&#8207;[[H1516R\|גֵּ֣יא]]&#8207; </big>**| gei'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

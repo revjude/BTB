@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:12** 
 <small><sub>**LXX:**</sub></small>
 Only \[the\] <span class="smallcaps">lord</span> give to you wisdom and understanding, and strengthen you over Israel,  to guard and  to observe the law of \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-Above all, may the LORD give you insight and understanding when He puts you in command over Israel, so that you may keep the Law of the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.11|<< 1 Chronicles 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.13|1 Chronicles 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

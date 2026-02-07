@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:16** 
 <small><sub>**LXX:**</sub></small>
 In  that time Hezekiah king of Judah cut off the doors of the temple of \[the\] <span class="smallcaps">lord</span>, and the supports which Hezekiah the king of Judah gilded, and gave them to the king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-At that time did Hezekiah cut off [the gold from] the doors of the temple of the LORD, and [from] the pillars which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-At that time Hezekiah stripped the gold with which he had plated the doors and doorposts of the temple of the LORD, and he gave it to the king of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.15|<< 2 Kings 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.17|2 Kings 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

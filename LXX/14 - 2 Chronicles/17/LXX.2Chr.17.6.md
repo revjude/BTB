@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:6** 
 <small><sub>**LXX:**</sub></small>
 And his heart was raised up high in \[the\] ways of \[the\] <span class="smallcaps">lord</span>. And again he removed the high \[places\] and the sacred groves from the land of Judah. 
-<small><sub>**KJV:**</sub></small>
-And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah.
-<small><sub>**BSB:**</sub></small>
-And his heart took delight in the ways of the LORD; furthermore, he removed the high places and Asherah poles from Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.5|<< 2 Chronicles 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.7|2 Chronicles 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 22:18** 
+**Isaiah 22:18**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will surely violently turn and toss thee [like] a ball into a large country: there shalt thou die, and there the chariots of thy glory [shall be] the shame of thy lord’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ roll you into a ball, and sling you into a wide land. There you will die, and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.17|<< Isaiah 22:17]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.19|Isaiah 22:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to wind up>  |**<big>&#8207;[[H6801\|צָנ֤וֹף]]&#8207; </big>**| tza.Nof<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will wind up you  |**<big>&#8207;[[H6801\|יִצְנָפְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| yitz.na.fe.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

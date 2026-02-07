@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:12** 
 <small><sub>**LXX:**</sub></small>
 behold, I have done according to  your word; behold, I give to you an intelligent and wise heart. There has not been \[one\] as you before you, and after you there shall not rise up \[one\] likened to you. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee.
-<small><sub>**BSB:**</sub></small>
-behold, I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been another like you, nor will there ever be.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.11|<< 1 Kings 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.13|1 Kings 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

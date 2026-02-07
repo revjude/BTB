@@ -1,12 +1,12 @@
-**Luke 17:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:22**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see [it].
 <small><sub>**BSB:**</sub></small>
 Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it.
 <small><sub>**Literal:**</sub></small>
 He said then to the disciples; Will come days when you will desire one of the days of the Son <the> of Man to see and not you will behold [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.21|<< Luke 17:21]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.23|Luke 17:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

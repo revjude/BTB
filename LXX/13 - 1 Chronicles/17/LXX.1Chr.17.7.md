@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:7** 
 <small><sub>**LXX:**</sub></small>
 And now, thus you shall say \[to\] my servant David, Thus says \[the\] <span class="smallcaps">lord</span> of the forces, I took you from out of the haven, from following the flocks,  to be as one leading over  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, [even] from following the sheep, that thou shouldest be ruler over my people Israel:
-<small><sub>**BSB:**</sub></small>
-Now then, you are to tell My servant David that this is what the LORD of Hosts says: I took you from the pasture, from following the flock, to be the ruler over My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.6|<< 1 Chronicles 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.8|1 Chronicles 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

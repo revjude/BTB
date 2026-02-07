@@ -1,4 +1,4 @@
-**Ezekiel 42:10** 
+**Ezekiel 42:10**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The chambers [were] in the thickness of the wall of the court toward the east, over against the separate place, and over against the building.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the south side along the length of the wall of the outer court were chambers 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.9|<< Ezekiel 42:9]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.11|Ezekiel 42:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] breadth of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7341\|רֹ֣חַב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro.chav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wall of  |**<big>&#8207;[[H1444\|גֶּ֣דֶר]]&#8207; </big>**| Ge.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

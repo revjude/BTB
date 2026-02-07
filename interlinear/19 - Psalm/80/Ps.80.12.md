@@ -1,4 +1,4 @@
-**Psalms 80:12** (80:13)
+**Psalms 80:12**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why hast thou [then] broken down her hedges, so that all they which pass by the way do pluck her?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why have You broken down its walls, so that all who pass by pick its fruit?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.11|<< Psalms 80:11]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.13|Psalms 80:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you broken down  |**<big>&#8207;[[H6555\|פָּרַ֣צְתָּ]]&#8207; </big>**| pa.Ratz.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

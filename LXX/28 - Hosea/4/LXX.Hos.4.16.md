@@ -1,10 +1,7 @@
 **LXX Hosea 4:16** 
 <small><sub>**LXX:**</sub></small>
 For Israel was heated as a heifer being in heat. Now \[the\] <span class="smallcaps">lord</span> will feed them as a lamb in a broad space. 
-<small><sub>**KJV:**</sub></small>
-For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.
-<small><sub>**BSB:**</sub></small>
-For Israel is as obstinate as a stubborn heifer. Can the LORD now shepherd them like lambs in an open meadow?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.15|<< Hosea 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.17|Hosea 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

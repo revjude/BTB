@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall love \[the\] <span class="smallcaps">lord</span>  your God, and you shall guard  his injunctions, and  his ordinances, and  his commandments, and  his judgments all the days. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
-<small><sub>**BSB:**</sub></small>
-You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.22|<< Deuteronomy 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.2|Deuteronomy 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

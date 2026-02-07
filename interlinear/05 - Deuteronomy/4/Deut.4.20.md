@@ -1,4 +1,4 @@
-**Deuteronomy 4:20** 
+**Deuteronomy 4:20**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD hath taken you, and brought you forth out of the iron furnace, [even] out of Egypt, to be unto him a people of inheritance, as [ye are] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet the LORD has taken you and brought you out of the iron furnace, out of Egypt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.19|<< Deuteronomy 4:19]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.21|Deuteronomy 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he took  |**<big>&#8207;[[H3947G\|לָקַ֣ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

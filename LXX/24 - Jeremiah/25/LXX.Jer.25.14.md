@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:14** 
 <small><sub>**LXX:**</sub></small>
 as many things as Jeremiah prophesied against all the nations, for they laid service against them when they were many nations and great kings. And I will recompense to them according to  their works,  according to the actions  of their hands. 
-<small><sub>**KJV:**</sub></small>
-For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.
-<small><sub>**BSB:**</sub></small>
-For many nations and great kings will enslave them, and I will repay them according to their deeds and according to the work of their hands.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.13|<< Jeremiah 25:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.15|Jeremiah 25:15 >>]]</td></tr></table>
 
 | Translation | Greek |

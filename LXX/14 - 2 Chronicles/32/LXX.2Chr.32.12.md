@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:12** 
 <small><sub>**LXX:**</sub></small>
 Is this not Hezekiah who removed  his altars, and  his high \[places\], and said to Judah, and to the ones dwelling in Jerusalem, saying, Before  this altar you shall do obeisance, and upon it you shall burn incense? 
-<small><sub>**KJV:**</sub></small>
-Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?
-<small><sub>**BSB:**</sub></small>
-Did not Hezekiah himself remove His high places and His altars and say to Judah and Jerusalem, ‘You must worship before one altar, and on it you shall burn sacrifices’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.11|<< 2 Chronicles 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.13|2 Chronicles 32:13 >>]]</td></tr></table>
 
 | Translation | Greek |

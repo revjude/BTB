@@ -1,4 +1,4 @@
-**Isaiah 60:17** 
+**Isaiah 60:17**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead of bronze I will bring you gold; I will bring silver in place of iron, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.16|<< Isaiah 60:16]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.18|Isaiah 60:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bronze  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5178A\|נְּחֹ֜שֶׁת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

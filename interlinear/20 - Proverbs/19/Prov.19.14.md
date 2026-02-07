@@ -1,4 +1,4 @@
-**Proverbs 19:14** 
+**Proverbs 19:14**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 House and riches [are] the inheritance of fathers: and a prudent wife [is] from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Houses and wealth are inherited from fathers, but a prudent wife is from the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.13|<< Proverbs 19:13]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.15|Proverbs 19:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | house  |**<big>&#8207;[[H1004B\|בַּ֣יִת]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wealth  |**<big>&#8207;[[H9002\|וָ֭]]&#8207;&#8207;[[H1952\|הוֹן]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

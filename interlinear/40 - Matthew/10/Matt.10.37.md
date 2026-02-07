@@ -1,12 +1,12 @@
-**Matthew 10:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:37**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
 <small><sub>**BSB:**</sub></small>
 Anyone who loves his father or mother more than Me is not worthy of Me; anyone who loves his son or daughter more than Me is not worthy of Me;
 <small><sub>**Literal:**</sub></small>
 The [one] loving father or mother above Me myself not is of Me worthy, and the [one] loving son or daughter above Me myself not is of Me worthy;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.36|<< Matthew 10:36]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.38|Matthew 10:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | loving |**<big>[[G5368\|φιλῶν]]</big>**  |philōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

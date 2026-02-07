@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Ahaz was a son twenty and five years \[old\] in  his taking reign, and sixteen years he reigned in Jerusalem. And He did not do the upright \[thing\] before \[the\] <span class="smallcaps">lord</span> as David  his father. 
-<small><sub>**KJV:**</sub></small>
-Ahaz [was] twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not [that which was] right in the sight of the LORD, like David his father:
-<small><sub>**BSB:**</sub></small>
-Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.9|<< 2 Chronicles 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.2|2 Chronicles 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

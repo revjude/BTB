@@ -1,12 +1,12 @@
-**Mark 12:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:7**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.
 <small><sub>**BSB:**</sub></small>
 But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’
 <small><sub>**Literal:**</sub></small>
 Those however <the> farmers to themselves they said that This is the heir; come let us kill him, and ours will be the inheritance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.6|<< Mark 12:6]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.8|Mark 12:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G1565\|ἐκεῖνοι]]</big>**  |ekeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

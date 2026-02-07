@@ -1,12 +1,12 @@
-**Acts 21:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:3**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
 <small><sub>**BSB:**</sub></small>
 After sighting Cyprus and passing south of it, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo.
 <small><sub>**Literal:**</sub></small>
 Having sighted then <the> Cyprus and having left it on the left we were sailing to Syria and we disembarked at Tyre; There for the ship was unloading the cargo.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.2|<< Acts 21:2]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.4|Acts 21:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having sighted [^1] |**<big>[[G0398\|ἀναφάναντες]]</big>**  |anaphanantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR">NK(o)</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

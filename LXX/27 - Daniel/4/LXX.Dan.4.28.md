@@ -1,10 +1,7 @@
 **LXX Daniel 4:28** 
 <small><sub>**LXX:**</sub></small>
 All these \[things\] came upon Nebuchadnezzar the king. 
-<small><sub>**KJV:**</sub></small>
-All this came upon the king Nebuchadnezzar.
-<small><sub>**BSB:**</sub></small>
-All this happened to King Nebuchadnezzar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.27|<< Daniel 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.29|Daniel 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

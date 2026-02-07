@@ -1,4 +1,4 @@
-**1 Samuel 17:5** 
+**1 Samuel 17:5**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he had] an helmet of brass upon his head, and he [was] armed with a coat of mail; and the weight of the coat [was] five thousand shekels of brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he had a bronze helmet on his head. He wore a bronze coat of mail weighing f
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.4|<< 1 Samuel 17:4]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.6|1 Samuel 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a helmet of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3553\|כ֤וֹבַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khoa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bronze  |**<big>&#8207;[[H5178A\|נְחֹ֙שֶׁת֙]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:21** 
 <small><sub>**LXX:**</sub></small>
 And the columns -- eighteen cubits \[was the\] height of the one column, and a string \[measure\] of twelve cubits surrounded it, and  its thickness \[was\] of four fingers round about. 
-<small><sub>**KJV:**</sub></small>
-And [concerning] the pillars, the height of one pillar [was] eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof [was] four fingers: [it was] hollow.
-<small><sub>**BSB:**</sub></small>
-Each pillar was eighteen cubits tall and twelve cubits in circumference; each was hollow, four fingers thick.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.20|<< Jeremiah 52:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.22|Jeremiah 52:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 4:35
-**<small><sub>**KJV:**</sub></small>
+**John 4:35**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Say not ye, There are yet four months, and [then] cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 <small><sub>**BSB:**</sub></small>
 Do you not say, ‘There are still four months until the harvest’? I tell you, lift up your eyes and look at the fields, for they are ripe for harvest.
 <small><sub>**Literal:**</sub></small>
 Surely you yourselves say that yet four months it is and the harvest comes? Behold I say to you; do lift up the eyes of you and do see the fields because white they are toward harvest already!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.34|<< John 4:34]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.36|John 4:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

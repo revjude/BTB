@@ -1,4 +1,4 @@
-**Genesis 43:9** 
+**Genesis 43:9**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will guarantee his safety. You may hold me personally responsible. If I do not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.8|<< Genesis 43:8]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.10|Genesis 43:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will stand surety for him  |**<big>&#8207;[[H6148\|אֶֽעֶרְבֶ֔]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'e.'er.Ve.<small><sup>[[HVqi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

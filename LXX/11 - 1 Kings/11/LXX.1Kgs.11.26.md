@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:26** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam son of Nebat the Ephrathite from  Zereda, son of a widow woman, \[was a\] servant  of Solomon. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name [was] Zeruah, a widow woman, even he lifted up [his] hand against the king.
-<small><sub>**BSB:**</sub></small>
-Now Jeroboam son of Nebat was an Ephraimite from Zeredah whose mother was a widow named Zeruah. Jeroboam was a servant of Solomon, but he rebelled against the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.25|<< 1 Kings 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.27|1 Kings 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

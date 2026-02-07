@@ -1,10 +1,7 @@
 **LXX Joshua 7:21** 
 <small><sub>**LXX:**</sub></small>
 I beheld in the spoils \[standing\] bare one goodly colored \[robe\], and two hundred double-drachmas of silver, and one wedge of gold -- fifty double-drachmas its scale weight. And I coveted them, and I took. And behold, these are hid in the ground in  my tent, and the silver is hid underneath them. 
-<small><sub>**KJV:**</sub></small>
-When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they [are] hid in the earth in the midst of my tent, and the silver under it.
-<small><sub>**BSB:**</sub></small>
-When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels of silver, and a bar of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.20|<< Joshua 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.22|Joshua 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

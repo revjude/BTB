@@ -1,12 +1,12 @@
-**Luke 10:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:22**<big><big>[[Luke.10.21 Jesus’ Prayer of Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and [he] to whom the Son will reveal [him].
 <small><sub>**BSB:**</sub></small>
 All things have been entrusted to Me by My Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal Him.”
 <small><sub>**Literal:**</sub></small>
 and having turned to <the> disciples said All things to Me was delivered by the Father of Mine, And no [one] knows who is the Son only except the Father, and who is the Father only except the Son and to whom maybe shall resolve the Son to reveal [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.21|<< Luke 10:21]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.23|Luke 10:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | having turned |**<big>[[G4762\|στραφείς]]</big>**  |strapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 9:20** (9:19)
+**Isaiah 9:20**<big><big>[[Isa.9.18 Judgment against Israel’s Unrepentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They carve out what is on the right, but they are still hungry; they eat what is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.19|<< Isaiah 9:19]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.21|Isaiah 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it devoured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1504\|יִּגְזֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.Zor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

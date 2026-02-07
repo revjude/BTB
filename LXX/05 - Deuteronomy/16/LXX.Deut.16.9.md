@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Seven entire periods of seven you shall count out to yourself; \[with the\] beginning of your sickle upon \[the\] harvest you shall begin to count out seven periods of seven. 
-<small><sub>**KJV:**</sub></small>
-Seven weeks shalt thou number unto thee: begin to number the seven weeks from [such time as] thou beginnest [to put] the sickle to the corn.
-<small><sub>**BSB:**</sub></small>
-You are to count off seven weeks from the time you first put the sickle to the standing grain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.8|<< Deuteronomy 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.10|Deuteronomy 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Galatians 3:12
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:12**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the law is not of faith: but, The man that doeth them shall live in them.
 <small><sub>**BSB:**</sub></small>
 The law, however, is not based on faith; on the contrary, “The man who does these things will live by them.”
@@ -10,7 +10,7 @@ The law, however, is not based on faith; on the contrary, “The man who does th
 > $\quad$ referencing: [[LXX.Lev.18.5|Lev 18:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 10:15** 
 <small><sub>**LXX:**</sub></small>
 Shall \[the\] axe be glorified without the one beating with it, \[no\]. or \[the\] saw be exalted without the one drawing with it, \[no\]. Likewise \[shall\] any lift a rod or wood and \[it shall\] not \[be\] so, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Shall the axe boast itself against him that heweth therewith? [or] shall the saw magnify itself against him that shaketh it? as if the rod should shake [itself] against them that lift it up, [or] as if the staff should lift up [itself, as if it were] no wood.
-<small><sub>**BSB:**</sub></small>
-Does an axe raise itself above the one who swings it? Does a saw boast over him who saws with it? It would be like a rod waving the one who lifts it, or a staff lifting him who is not wood!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.14|<< Isaiah 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.16|Isaiah 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

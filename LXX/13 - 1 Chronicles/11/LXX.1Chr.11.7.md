@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:7** 
 <small><sub>**LXX:**</sub></small>
 And David stayed in the citadel; because of this he called it, City of David. 
-<small><sub>**KJV:**</sub></small>
-And David dwelt in the castle; therefore they called it the city of David.
-<small><sub>**BSB:**</sub></small>
-So David took up residence in the fortress; that is why it was called the City of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.6|<< 1 Chronicles 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.8|1 Chronicles 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

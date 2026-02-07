@@ -1,4 +1,4 @@
-**Ezekiel 46:6** 
+**Ezekiel 46:6**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the day of the new moon [it shall be] a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day of the New Moon he shall offer a young, unblemished bull, six lambs, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] day of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the new moon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2320H\|חֹ֔דֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

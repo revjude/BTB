@@ -1,12 +1,12 @@
-**Luke 9:59
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:59**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
 <small><sub>**BSB:**</sub></small>
 Then He said to another man, “Follow Me.” The man replied, “Lord, first let me go and bury my father.”
 <small><sub>**Literal:**</sub></small>
 He said then to another; do follow Me. <the> But he said; Lord do allow me having gone away first to bury the father of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.58|<< Luke 9:58]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.60|Luke 9:60 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

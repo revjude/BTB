@@ -1,12 +1,12 @@
-**Matthew 12:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:39**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah.
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said to them; A generation evil and adulterous a sign seeks for; and a sign not will be given to it only except the sign of Jonah the prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.38|<< Matthew 12:38]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.40|Matthew 12:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

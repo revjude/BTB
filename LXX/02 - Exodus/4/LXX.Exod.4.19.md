@@ -1,10 +1,7 @@
 **LXX Exodus 4:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses in \[the\] land of Midian, Proceed, go forth into Egypt! For have died all the \[ones\] seeking your  life. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.
-<small><sub>**BSB:**</sub></small>
-Now the LORD had said to Moses in Midian, “Go back to Egypt, for all the men who sought to kill you are dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.18|<< Exodus 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.20|Exodus 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

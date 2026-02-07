@@ -1,4 +1,4 @@
-**Psalms 62:12** (62:13)
+**Psalms 62:12**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also unto thee, O Lord, [belongeth] mercy: for thou renderest to every man according to his work.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and loving devotion to You, O Lord. For You will repay each man according to his
 > $\quad$ referenced by: [[Matt.16.27|Matt 16:27]] ☩ [[1Cor.3.8|1Cor 3:8]] ☩ [[2Tim.4.14|2Tim 4:14]] ☩ [[Rom.2.6|Rom 2:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belongs] to \<the> you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָֽ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HRd]]</sup></small> kha-<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

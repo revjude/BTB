@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:22** 
 <small><sub>**LXX:**</sub></small>
 And Abner added yet, saying  to Asahel, Leave from me! that I should not strike you unto the ground. For how shall I lift  my face to Joab  your brother? 
-<small><sub>**KJV:**</sub></small>
-And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?
-<small><sub>**BSB:**</sub></small>
-Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.21|<< 2 Samuel 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.23|2 Samuel 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

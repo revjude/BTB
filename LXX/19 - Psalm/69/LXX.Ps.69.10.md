@@ -1,10 +1,7 @@
 **LXX Psalm 69:10** 
 <small><sub>**LXX:**</sub></small>
 And I covered my soul in fasting, and it became for scornings to me. 
-<small><sub>**KJV:**</sub></small>
-When I wept, [and chastened] my soul with fasting, that was to my reproach.
-<small><sub>**BSB:**</sub></small>
-I wept and fasted, but it brought me reproach.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.9|<< Psalm 69:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.11|Psalm 69:11 >>]]</td></tr></table>
 
 | Translation | Greek |

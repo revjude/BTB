@@ -1,12 +1,12 @@
-**Matthew 1:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:15**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 <small><sub>**BSB:**</sub></small>
 Eliud was the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,
 <small><sub>**Literal:**</sub></small>
 Eliud then begat <the> Eleazar; Eleazar then begat <the> Matthan; Matthan then begat <the> Jacob;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.14|<< Matthew 1:14]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.16|Matthew 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Eliud |**<big>[[G1664\|Ἐλιοὺδ]]</big>**  |Elioud <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

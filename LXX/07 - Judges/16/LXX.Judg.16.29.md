@@ -1,10 +1,7 @@
 **LXX Judges 16:29** 
 <small><sub>**LXX:**</sub></small>
 And Samson took hold of the two posts in \[the\] midst upon which the house stood, and he stayed against them, one at  his right \[hand\], and one at  at his left. 
-<small><sub>**KJV:**</sub></small>
-And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
-<small><sub>**BSB:**</sub></small>
-And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.28|<< Judges 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.30|Judges 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

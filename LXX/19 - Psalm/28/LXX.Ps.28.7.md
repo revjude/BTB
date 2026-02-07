@@ -1,10 +1,7 @@
 **LXX Psalm 28:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] my helper and my defender; upon him my heart hoped, and I was helped; and my flesh flourished again, and by my will I will make acknowledgment to him. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
-<small><sub>**BSB:**</sub></small>
-The LORD is my strength and my shield; my heart trusts in Him, and I am helped. Therefore my heart rejoices, and I give thanks to Him with my song.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.6|<< Psalm 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.8|Psalm 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

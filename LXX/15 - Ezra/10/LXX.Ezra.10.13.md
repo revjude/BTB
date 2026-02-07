@@ -1,10 +1,7 @@
 **LXX Ezra 10:13** 
 <small><sub>**LXX:**</sub></small>
 But the people \[are\] vast, and \[it is\] the time of winter, and there is no ability to stand outside, and the work \[is\] not for one day, nor two; for we multiplied the wrong in  this matter. 
-<small><sub>**KJV:**</sub></small>
-But the people [are] many, and [it is] a time of much rain, and we are not able to stand without, neither [is this] a work of one day or two: for we are many that have transgressed in this thing.
-<small><sub>**BSB:**</sub></small>
-But there are many people here, and it is the rainy season. We are not able to stay out in the open. Nor is this the work of one or two days, for we have transgressed greatly in this matter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.12|<< Ezra 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.14|Ezra 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

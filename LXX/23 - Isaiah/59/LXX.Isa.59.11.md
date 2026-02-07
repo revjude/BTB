@@ -1,10 +1,7 @@
 **LXX Isaiah 59:11** 
 <small><sub>**LXX:**</sub></small>
 As a bear and as a dove together they shall go. We awaited judgment, and there is no deliverance; it is removed far from us. 
-<small><sub>**KJV:**</sub></small>
-We roar all like bears, and mourn sore like doves: we look for judgment, but [there is] none; for salvation, [but] it is far off from us.
-<small><sub>**BSB:**</sub></small>
-We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.10|<< Isaiah 59:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.12|Isaiah 59:12 >>]]</td></tr></table>
 
 | Translation | Greek |

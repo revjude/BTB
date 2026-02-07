@@ -1,12 +1,12 @@
-**Acts 3:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:15**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses.
 <small><sub>**BSB:**</sub></small>
 You killed the Author of life, but God raised Him from the dead, and we are witnesses of this fact.
 <small><sub>**Literal:**</sub></small>
 <the> and the Author <the> of life you killed whom <the> God has raised up out from [the] dead, whereof we ourselves witnesses are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.14|<< Acts 3:14]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.16|Acts 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

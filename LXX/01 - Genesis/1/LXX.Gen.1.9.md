@@ -1,10 +1,7 @@
 **LXX Genesis 1:9** 
 <small><sub>**LXX:**</sub></small>
 And God said, the water underneath the heaven come together into one gathering, and the dry \[land\] appear! And it was so. And the water underneath the heaven gathered together into  their gatherings, and the dry \[land\] appeared. 
-<small><sub>**KJV:**</sub></small>
-And God said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: and it was so.
-<small><sub>**BSB:**</sub></small>
-And God said, “Let the waters under the sky be gathered into one place, so that the dry land may appear.” And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.8|<< Genesis 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.10|Genesis 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

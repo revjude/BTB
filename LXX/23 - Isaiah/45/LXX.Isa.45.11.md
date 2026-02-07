@@ -1,10 +1,7 @@
 **LXX Isaiah 45:11** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  God, the holy one of Israel, the one making the coming \[things\], Ask me concerning  my sons. And concerning the works  of my hands, shall you give charge to me! 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command ye me.
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD, the Holy One of Israel, and its Maker: “Concerning things to come, do you question Me about My sons, or instruct Me in the work of My hands?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.10|<< Isaiah 45:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.12|Isaiah 45:12 >>]]</td></tr></table>
 
 | Translation | Greek |

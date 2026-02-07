@@ -1,12 +1,12 @@
-**Acts 11:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:2**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,
 <small><sub>**BSB:**</sub></small>
 So when Peter went up to Jerusalem, the circumcised believers took issue with him
 <small><sub>**Literal:**</sub></small>
 and When also went up Peter to Jerusalem, were contending with him those of [the] circumcision<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.1|<< Acts 11:1]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.3|Acts 11:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

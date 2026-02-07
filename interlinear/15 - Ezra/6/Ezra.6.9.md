@@ -1,4 +1,4 @@
-**Ezra 6:9** 
+**Ezra 6:9**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which [are] at Jerusalem, let it be given them day by day without fail:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whatever is needed—young bulls, rams, and lambs for burnt offerings to the God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.8|<< Ezra 6:8]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.10|Ezra 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and whatever  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4101\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | things needed  |**<big>&#8207;[[H2818B\|חַשְׁחָ֡ן]]&#8207; </big>**| chash.Chan<small><sup>[[ANcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

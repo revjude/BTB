@@ -1,4 +1,4 @@
-**2 Kings 23:25** 
+**2 Kings 23:25**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there [any] like him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Neither before nor after Josiah was there any king like him, who turned to the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.24|<< 2 Kings 23:24]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.26|2 Kings 23:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and like him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3644G\|כָמֹ]]&#8207;&#8207;[[H9033\|הוּ֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.mo.<small><sup>[[HR]]</sup></small> Hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

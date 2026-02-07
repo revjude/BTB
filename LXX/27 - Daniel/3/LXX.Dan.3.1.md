@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Nebuchadnezzar the king made a gold image. Its height -- sixty cubits, its breadth -- six cubits, and he stationed it in \[the\] plain of Dura, in \[the\] region of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Nebuchadnezzar the king made an image of gold, whose height [was] threescore cubits, [and] the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
-<small><sub>**BSB:**</sub></small>
-King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.49|<< Daniel 2:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.2|Daniel 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

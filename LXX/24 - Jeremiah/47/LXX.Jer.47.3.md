@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:3** 
 <small><sub>**LXX:**</sub></small>
 from \[the\] sound of his thrust, from the hoofs  of his feet, and from \[the\] quake  of his chariots, \[the\] sound of his wheels. Fathers did not turn unto their sons because of \[the\] feebleness of their hands, 
-<small><sub>**KJV:**</sub></small>
-At the noise of the stamping of the hoofs of his strong [horses], at the rushing of his chariots, [and at] the rumbling of his wheels, the fathers shall not look back to [their] children for feebleness of hands;
-<small><sub>**BSB:**</sub></small>
-at the sound of the galloping hooves of stallions, the rumbling of chariots, and the clatter of their wheels. The fathers will not turn back for their sons; their hands will hang limp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:29** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan knew, and said, My father rids the land; for behold my eyes see \[now\] that I tasted a little something  of this honey. 
-<small><sub>**KJV:**</sub></small>
-Then said Jonathan, My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey.
-<small><sub>**BSB:**</sub></small>
-“My father has brought trouble to the land,” Jonathan replied. “Just look at how my eyes have brightened because I tasted a little of this honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.28|<< 1 Samuel 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.30|1 Samuel 14:30 >>]]</td></tr></table>
 
 | Translation | Greek |

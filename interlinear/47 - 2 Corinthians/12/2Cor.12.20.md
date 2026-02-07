@@ -1,12 +1,12 @@
-**2 Corinthians 12:20
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:20**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I fear, lest, when I come, I shall not find you such as I would, and [that] I shall be found unto you such as ye would not: lest [there be] debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 <small><sub>**BSB:**</sub></small>
 For I am afraid that when I come, I may not find you as I wish, and you may not find me as you wish. I fear that there may be quarreling, jealousy, rage, rivalry, slander, gossip, arrogance, and disorder.
 <small><sub>**Literal:**</sub></small>
 I fear for lest perhaps having come not such as I wish I may find you, and I myself may be found by you such as not you do wish, lest perhaps a quarrel, jealousy, anger, contentions slander, gossip, conceit, disorder,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.19|<< 2 Corinthians 12:19]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.21|2 Corinthians 12:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I fear |**<big>[[G5399\|φοβοῦμαι]]</big>**  |phoboumai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

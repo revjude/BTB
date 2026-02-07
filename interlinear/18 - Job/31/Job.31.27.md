@@ -1,4 +1,4 @@
-**Job 31:27** 
+**Job 31:27**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my heart hath been secretly enticed, or my mouth hath kissed my hand:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that my heart was secretly enticed and my hand threw a kiss from my mouth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.26|<< Job 31:26]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.28|Job 31:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was gullible  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6601B\|יִּ֣פְתְּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yift<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> secrecy  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5643A\|סֵּ֣תֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Se.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

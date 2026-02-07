@@ -1,10 +1,7 @@
 **LXX Judges 10:8** 
 <small><sub>**LXX:**</sub></small>
 And they disintegrated and crushed the sons of Israel in  that time -- eighteen years, all of the sons of Israel  on the other side of the Jordan, in \[the\] land of the Amorite, in  Gilead. 
-<small><sub>**KJV:**</sub></small>
-And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that [were] on the other side Jordan in the land of the Amorites, which [is] in Gilead.
-<small><sub>**BSB:**</sub></small>
-who that very year harassed and oppressed the Israelites, and they did so for eighteen years to all the Israelites on the other side of the Jordan in Gilead, the land of the Amorites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.7|<< Judges 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.9|Judges 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

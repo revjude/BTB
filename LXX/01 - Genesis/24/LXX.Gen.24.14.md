@@ -1,10 +1,7 @@
 **LXX Genesis 24:14** 
 <small><sub>**LXX:**</sub></small>
 And it shall be the virgin, who ever I should have said, Incline  your water-pitcher! that I might drink. And she should have said to me, You drink! and  I will water your camels until whenever they cease to drink -- this one you prepared  for your servant  Isaac, and in this I will know that you executed mercy with  my master Abraham. 
-<small><sub>**KJV:**</sub></small>
-And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: [let the same be] she [that] thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
-<small><sub>**BSB:**</sub></small>
-Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.13|<< Genesis 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.15|Genesis 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

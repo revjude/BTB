@@ -1,4 +1,4 @@
-**Ezekiel 1:9** 
+**Ezekiel 1:9**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their wings [were] joined one to another; they turned not when they went; they went every one straight forward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and their wings were touching one another. They did not turn as they moved; each
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.8|<< Ezekiel 1:8]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.10|Ezekiel 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [were] touching  |**<big>&#8207;[[H2266\|חֹֽבְרֹ֛ת]]&#8207; </big>**| choe.Rot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each  |**<big>&#8207;[[H0802I\|אִשָּׁ֥ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

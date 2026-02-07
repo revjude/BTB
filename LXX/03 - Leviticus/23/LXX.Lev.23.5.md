@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the first month, on the fourteenth day of the month, between the evenings \[is\] a passover to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-In the fourteenth [day] of the first month at even [is] the LORD’S passover.
-<small><sub>**BSB:**</sub></small>
-The Passover to the LORD begins at twilight on the fourteenth day of the first month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.4|<< Leviticus 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.6|Leviticus 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

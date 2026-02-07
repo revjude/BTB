@@ -1,4 +1,4 @@
-**Jeremiah 23:37** 
+**Jeremiah 23:37**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou say to the prophet, What hath the LORD answered thee? and, What hath the LORD spoken?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus you are to say to the prophet: ‘What has the LORD answered you?’ and �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.36|<< Jeremiah 23:36]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.38|Jeremiah 23:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמַ֖ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

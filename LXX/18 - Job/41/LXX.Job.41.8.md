@@ -1,10 +1,7 @@
 **LXX Job 41:8** 
 <small><sub>**LXX:**</sub></small>
 But shall you place a hand on him, remembering \[the\] war  taking place in his body, and let it no longer take place? 
-<small><sub>**KJV:**</sub></small>
-Lay thine hand upon him, remember the battle, do no more.
-<small><sub>**BSB:**</sub></small>
-If you lay a hand on him, you will remember the battle and never repeat it!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.7|<< Job 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.9|Job 41:9 >>]]</td></tr></table>
 
 | Translation | Greek |

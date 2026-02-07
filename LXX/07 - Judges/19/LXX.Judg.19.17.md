@@ -1,10 +1,7 @@
 **LXX Judges 19:17** 
 <small><sub>**LXX:**</sub></small>
 And he looked up  with his eyes, and he saw the man, the one journeying in the square of the city. And the old man said, Where \[are\] you going, and from what place come you? 
-<small><sub>**KJV:**</sub></small>
-And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?
-<small><sub>**BSB:**</sub></small>
-When he looked up and saw the traveler in the city square, the old man asked, “Where are you going, and where have you come from?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.16|<< Judges 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.18|Judges 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

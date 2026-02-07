@@ -1,12 +1,12 @@
-**John 12:17
-**<small><sub>**KJV:**</sub></small>
+**John 12:17**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify.
 <small><sub>**Literal:**</sub></small>
 was bearing witness therefore the crowd which is being with Him when <the> Lazarus He called out of the tomb and raised him out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.16|<< John 12:16]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.18|John 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was bearing witness |**<big>[[G3140\|Ἐμαρτύρει]]</big>**  |Emarturei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

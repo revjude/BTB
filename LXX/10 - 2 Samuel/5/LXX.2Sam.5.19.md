@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:19** 
 <small><sub>**LXX:**</sub></small>
 And David asked of \[the\] <span class="smallcaps">lord</span>, saying, Shall I ascend against the Philistines? and will you deliver them into  my hands? And \[the\] <span class="smallcaps">lord</span> said to David, Ascend! for in delivering I will deliver the Philistines into  your hands. 
-<small><sub>**KJV:**</sub></small>
-And David inquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.
-<small><sub>**BSB:**</sub></small>
-So David inquired of the LORD, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go up,” replied the LORD, “for I will surely deliver the Philistines into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.18|<< 2 Samuel 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.20|2 Samuel 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 31:29** 
+**Job 31:29**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I have rejoiced in my enemy’s ruin, or exulted when evil befell him—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.28|<< Job 31:28]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.30|Job 31:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I rejoiced  |**<big>&#8207;[[H8055\|אֶ֭שְׂמַח]]&#8207; </big>**| 'Es.mach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

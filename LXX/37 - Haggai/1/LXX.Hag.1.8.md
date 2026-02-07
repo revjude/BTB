@@ -1,10 +1,7 @@
 **LXX Haggai 1:8** 
 <small><sub>**LXX:**</sub></small>
 Ascend into the mountain, and cut wood! and you shall build the house. And I will think well by it, and I will be glorified, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Go up into the hills, bring down lumber, and build the house, so that I may take pleasure in it and be glorified, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

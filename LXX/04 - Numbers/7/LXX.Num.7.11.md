@@ -1,10 +1,7 @@
 **LXX Numbers 7:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, One ruler for \[each\] day, a ruler per day shall bring  his gift for the dedication of the altar. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses, “Each day one leader is to present his offering for the dedication of the altar.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.10|<< Numbers 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.12|Numbers 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

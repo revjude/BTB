@@ -1,4 +1,4 @@
-**Jeremiah 6:1** 
+**Jeremiah 6:1**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flee for refuge  |**<big>&#8207;[[H5756\|הָעִ֣זוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.'I.zu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

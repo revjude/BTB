@@ -1,4 +1,4 @@
-**Isaiah 43:19** 
+**Isaiah 43:19**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, [and] rivers in the desert.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, I am about to do something new; even now it is coming. Do you not see it
 > $\quad$ referenced by: [[2Cor.5.17|2Cor 5:17]] ☩ [[Rev.21.5|Rev 21:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to do  |**<big>&#8207;[[H6213A\|עֹשֶׂ֤ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

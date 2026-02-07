@@ -1,12 +1,12 @@
-**Matthew 13:49
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:49**<big><big>[[Matt.13.47 The Parable of the Net|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,
 <small><sub>**BSB:**</sub></small>
 So will it be at the end of the age: The angels will come and separate the wicked from the righteous
 <small><sub>**Literal:**</sub></small>
 Thus will it be in the consummation of the age; will go out the angels and will separate the evil from [the] midst of the righteous<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.48|<< Matthew 13:48]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.50|Matthew 13:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will it be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

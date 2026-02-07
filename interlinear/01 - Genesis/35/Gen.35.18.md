@@ -1,4 +1,4 @@
-**Genesis 35:18** 
+**Genesis 35:18**<big><big>[[Gen.35.16 Benjamin Born, Rachel Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And with her last breath—for she was dying—she named him Ben-oni. But his fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.17|<< Genesis 35:17]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.19|Genesis 35:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when went out  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵ֤את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

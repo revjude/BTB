@@ -1,5 +1,5 @@
-**Acts 2:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:27**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
 <small><sub>**BSB:**</sub></small>
 because You will not abandon my soul to Hades, nor will You let Your Holy One see decay.
@@ -10,7 +10,7 @@ for not You will abandon the soul of mine into Hades, nor will You allow the Hol
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

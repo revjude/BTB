@@ -1,10 +1,7 @@
 **LXX Numbers 16:48** 
 <small><sub>**LXX:**</sub></small>
 And he stood between the ones having died and the ones living, and the devastation abated. 
-<small><sub>**KJV:**</sub></small>
-And he stood between the dead and the living; and the plague was stayed.
-<small><sub>**BSB:**</sub></small>
-He stood between the living and the dead, and the plague was halted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.47|<< Numbers 16:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.49|Numbers 16:49 >>]]</td></tr></table>
 
 | Translation | Greek |

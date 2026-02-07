@@ -1,12 +1,12 @@
-**Luke 14:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:15**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when one of them that sat at meat with him heard these things, he said unto him, Blessed [is] he that shall eat bread in the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 When one of those reclining with Him heard this, he said to Jesus, “Blessed is everyone who will eat at the feast in the kingdom of God.”
 <small><sub>**Literal:**</sub></small>
 Having heard then one of those reclining with [Him] these things he said to Him; Blessed [is he] who will eat bread in the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.14|<< Luke 14:14]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.16|Luke 14:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 It shall be considered land of Raphaim, for even upon it the Raphaim formerly dwelt. And the Ammonites named them Zummim, 
-<small><sub>**KJV:**</sub></small>
-(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;
-<small><sub>**BSB:**</sub></small>
-(That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.19|<< Deuteronomy 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.21|Deuteronomy 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

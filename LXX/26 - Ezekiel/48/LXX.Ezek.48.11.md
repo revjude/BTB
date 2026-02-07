@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:11** 
 <small><sub>**LXX:**</sub></small>
 \[It shall be\] for the priests, the ones having been sanctified, \[the\] sons of Zadok, the ones keeping the watches of the house, who did not wander in the delusion of \[the\] sons of Israel, in which manner the Levites wandered. 
-<small><sub>**KJV:**</sub></small>
-[It shall be] for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.
-<small><sub>**BSB:**</sub></small>
-It will be for the consecrated priests, the descendants of Zadok, who kept My charge and did not go astray as the Levites did when the Israelites went astray.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.10|<< Ezekiel 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.12|Ezekiel 48:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 19:18** 
+**Numbers 19:18**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a clean person shall take hyssop, and dip [it] in the water, and sprinkle [it] upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a man who is ceremonially clean is to take some hyssop, dip it in the water
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.17|<< Numbers 19:17]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.19|Numbers 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֨ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hyssop  |**<big>&#8207;[[H0231\|אֵז֜וֹב]]&#8207; </big>**| 'e.Zov<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

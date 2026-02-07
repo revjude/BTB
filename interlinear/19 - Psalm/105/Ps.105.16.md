@@ -1,4 +1,4 @@
-**Psalms 105:16** 
+**Psalms 105:16**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he called for a famine upon the land: he brake the whole staff of bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He called down famine on the land and cut off all their supplies of food.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.15|<< Psalms 105:15]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.17|Psalms 105:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a famine  |**<big>&#8207;[[H7458\|רָ֭עָב]]&#8207; </big>**| ra.'o<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

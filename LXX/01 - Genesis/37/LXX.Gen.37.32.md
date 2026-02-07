@@ -1,10 +1,7 @@
 **LXX Genesis 37:32** 
 <small><sub>**LXX:**</sub></small>
 And they sent  the colored garment, and they carried it \[to\] their father, and said, This we found, \[do\] you recognize if \[the\] garment  is of your son or not? 
-<small><sub>**KJV:**</sub></small>
-And they sent the coat of [many] colours, and they brought [it] to their father; and said, This have we found: know now whether it [be] thy son’s coat or no.
-<small><sub>**BSB:**</sub></small>
-They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
 | Translation | Greek |

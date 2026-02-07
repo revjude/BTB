@@ -1,10 +1,7 @@
 **LXX Genesis 26:8** 
 <small><sub>**LXX:**</sub></small>
 And he became long-lived there. And Abimelech the king of Gerar leaned over through the window, \[and\] saw  Isaac playing with Rebekah  his wife. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac [was] sporting with Rebekah his wife.
-<small><sub>**BSB:**</sub></small>
-When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.7|<< Genesis 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.9|Genesis 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

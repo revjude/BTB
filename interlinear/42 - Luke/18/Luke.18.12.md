@@ -1,12 +1,12 @@
-**Luke 18:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:12**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I fast twice in the week, I give tithes of all that I possess.
 <small><sub>**BSB:**</sub></small>
 I fast twice a week and pay tithes of all that I acquire.’
 <small><sub>**Literal:**</sub></small>
 I fast twice in the week, I tithe all things as much as I gain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.11|<< Luke 18:11]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.13|Luke 18:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I fast |**<big>[[G3522\|νηστεύω]]</big>**  |nēsteuō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | twice |**<big>[[G1364\|δὶς]]</big>**  |dis <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

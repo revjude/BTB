@@ -1,4 +1,4 @@
-**Leviticus 6:15** (6:8)
+**Leviticus 6:15**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which [is] upon the meat offering, and shall burn [it] upon the altar [for] a sweet savour, [even] the memorial of it, unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to remove a handful of fine flour and olive oil, together with all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.14|<< Leviticus 6:14]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.16|Leviticus 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lift up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7311A\|הֵרִ֨ים]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Rim<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֜]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

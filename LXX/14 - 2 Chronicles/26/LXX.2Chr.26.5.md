@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:5** 
 <small><sub>**LXX:**</sub></small>
 And he was seeking after the <span class="smallcaps">lord</span> in the days of Zechariah, the one perceiving in a vision of God. And in the days in which he sought after the <span class="smallcaps">lord</span>, \[the\] <span class="smallcaps">lord</span> God prospered him. 
-<small><sub>**KJV:**</sub></small>
-And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.
-<small><sub>**BSB:**</sub></small>
-He sought God throughout the days of Zechariah, who instructed him in the fear of God. And as long as he sought the LORD, God gave him success.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.4|<< 2 Chronicles 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.6|2 Chronicles 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

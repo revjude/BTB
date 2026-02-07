@@ -1,12 +1,12 @@
-**Revelation 22:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:8**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I John saw these things, and heard [them]. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
 <small><sub>**BSB:**</sub></small>
 And I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had shown me these things.
 <small><sub>**Literal:**</sub></small>
 And I myself John who is hearing and is seeing these things; And when I heard and saw, I fell down to worship before the feet of the angel who is showing me these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.7|<< Revelation 22:7]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.9|Revelation 22:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | John |**<big>[[G2491H\|Ἰωάννης]]</big>**  |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Daniel 7:25** 
+**Daniel 7:25**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall speak [great] words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will speak out against the Most High and oppress the saints of the Most High,
 > $\quad$ referenced by: [[Rev.11.2|Rev 11:2]] ☩ [[Rev.12.14|Rev 12:14]] ☩ [[Rev.12.6|Rev 12:6]] ☩ [[Rev.13.5|Rev 13:5-6]] ☩ [[Rev.17.3|Rev 17:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and words  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4406\|מִלִּ֗ין]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.Lin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] side of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6655\|צַ֤ד]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> Tzad<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

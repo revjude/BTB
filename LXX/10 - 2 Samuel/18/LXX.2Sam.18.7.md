@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:7** 
 <small><sub>**LXX:**</sub></small>
 And the people of Israel failed there before the children of David. And there became  a great devastation in  that day -- twenty thousand men. 
-<small><sub>**KJV:**</sub></small>
-Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand [men].
-<small><sub>**BSB:**</sub></small>
-There the people of Israel were defeated by David’s servants, and the slaughter was great that day—twenty thousand men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.6|<< 2 Samuel 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.8|2 Samuel 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

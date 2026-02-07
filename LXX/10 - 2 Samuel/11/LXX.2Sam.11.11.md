@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:11** 
 <small><sub>**LXX:**</sub></small>
 And Uriah said to David, The ark, and Israel, and Judah, dwell in tents; and  my master Joab, and the man-servants  of my master camp upon \[the\] face of the field; and shall I enter into  my house to eat and to drink and to go to bed with  my wife? By  your life, and by the life  of your soul, in no way shall I do  this thing. 
-<small><sub>**KJV:**</sub></small>
-And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? [as] thou livest, and [as] thy soul liveth, I will not do this thing.
-<small><sub>**BSB:**</sub></small>
-Uriah answered, “The ark and Israel and Judah are dwelling in tents, and my master Joab and his soldiers are camped in the open field. How can I go to my house to eat and drink and sleep with my wife? As surely as you live, and as your soul lives, I will not do such a thing!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.10|<< 2 Samuel 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.12|2 Samuel 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

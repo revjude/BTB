@@ -1,10 +1,7 @@
 **LXX Genesis 10:5** 
 <small><sub>**LXX:**</sub></small>
 From out of these were separated islands of the nations in  their land, each according to tongue, among  their tribes, and among  their nations. 
-<small><sub>**KJV:**</sub></small>
-By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.
-<small><sub>**BSB:**</sub></small>
-From these, the maritime peoples separated into their territories, according to their languages, by clans within their nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.4|<< Genesis 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.6|Genesis 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

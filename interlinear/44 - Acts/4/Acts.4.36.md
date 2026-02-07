@@ -1,12 +1,12 @@
-**Acts 4:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:36**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, [and] of the country of Cyprus,
 <small><sub>**BSB:**</sub></small>
 Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement),
 <small><sub>**Literal:**</sub></small>
 Joseph now who having been called Barnabas by the apostles which is being translated Son of encouragement a Levite, a Cypriot at the birth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.35|<< Acts 4:35]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.37|Acts 4:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Joseph [^1] [^2] |**<big>[[G2501O\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

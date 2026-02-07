@@ -1,4 +1,4 @@
-**2 Chronicles 29:18** 
+**2 Chronicles 29:18**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they went in to King Hezekiah and reported, “We have cleansed the entire 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.17|<< 2 Chronicles 29:17]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.19|2 Chronicles 29:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּב֤וֹאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | within  |**<big>&#8207;[[H6441\|פְנִ֙ימָה֙]]&#8207; </big>**| fe.Ni.mah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

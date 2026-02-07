@@ -1,10 +1,7 @@
 **LXX Isaiah 27:3** 
 <small><sub>**LXX:**</sub></small>
 I \[am\] a fortified city, a city being assaulted. In folly I water her, for she shall be captured by night, and by day her wall shall fall. 
-<small><sub>**KJV:**</sub></small>
-I the LORD do keep it; I will water it every moment: lest [any] hurt it, I will keep it night and day.
-<small><sub>**BSB:**</sub></small>
-I, the LORD, am its keeper; I water it continually. I guard it night and day so no one can disturb it;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.2|<< Isaiah 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.4|Isaiah 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

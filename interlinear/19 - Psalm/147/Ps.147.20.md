@@ -1,4 +1,4 @@
-**Psalms 147:20** 
+**Psalms 147:20**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath not dealt so with any nation: and [as for his] judgments, they have not known them. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He has done this for no other nation; they do not know His judgments. Hallelujah
 > $\quad$ related to: [[Amos.3.2|Amos 3:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֘א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has done  |**<big>&#8207;[[H6213A\|עָ֤שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

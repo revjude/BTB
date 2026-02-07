@@ -1,10 +1,7 @@
 **LXX Leviticus 25:6** 
 <small><sub>**LXX:**</sub></small>
 And the Sabbath of the land will be foods to you, and \[to\] your children, and \[to\] your maidservant, and \[to\] your hireling, and to the sojourner  lying near to you, 
-<small><sub>**KJV:**</sub></small>
-And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
-<small><sub>**BSB:**</sub></small>
-Whatever the land yields during the Sabbath year shall be food for you—for yourself, your manservant and maidservant, the hired hand or foreigner who stays with you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.5|<< Leviticus 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.7|Leviticus 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

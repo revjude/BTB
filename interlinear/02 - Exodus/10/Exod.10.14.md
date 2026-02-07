@@ -1,4 +1,4 @@
-**Exodus 10:14** 
+**Exodus 10:14**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous [were they]; before them there were no such locusts as they, neither after them shall be such.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The locusts swarmed across the land and settled over the entire territory of Egy
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.13|<< Exodus 10:13]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.15|Exodus 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֣עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the locust[s]  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0697\|אַרְבֶּ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ar.Beh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

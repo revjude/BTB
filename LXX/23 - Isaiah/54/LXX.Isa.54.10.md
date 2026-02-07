@@ -1,10 +1,7 @@
 **LXX Isaiah 54:10** 
 <small><sub>**LXX:**</sub></small>
 Shall the mountains change over, nor  your hills be moved about; so not even  mercy shown by me to you shall fail, nor the covenant  for your peace in any way shall change; for \[the\] <span class="smallcaps">lord</span> spoke kindness to you. 
-<small><sub>**KJV:**</sub></small>
-For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.
-<small><sub>**BSB:**</sub></small>
-Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the LORD, who has compassion on you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.9|<< Isaiah 54:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.11|Isaiah 54:11 >>]]</td></tr></table>
 
 | Translation | Greek |

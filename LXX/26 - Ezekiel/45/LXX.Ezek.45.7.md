@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:7** 
 <small><sub>**LXX:**</sub></small>
 And \[a portion shall be\] to the one leading from out of this, and from this into the first-fruits of the holies for a possession of the city in front of the first-fruits of the holies, and in front of the possession of the city, the \[parts\] towards \[the\] west, and from the \[parts\] towards \[the\] west towards \[the\] east. And the length as one of the portions from the limits of the \[parts\] towards \[the\] west, unto the limits, \[the\] parts towards \[the\] east of the land. 
-<small><sub>**KJV:**</sub></small>
-And [a portion shall be] for the prince on the one side and on the other side of the oblation of the holy [portion], and of the possession of the city, before the oblation of the holy [portion], and before the possession of the city, from the west side westward, and from the east side eastward: and the length [shall be] over against one of the portions, from the west border unto the east border.
-<small><sub>**BSB:**</sub></small>
-Now the prince will have the area bordering each side of the area formed by the holy district and the property of the city, extending westward from the western side and eastward from the eastern side, running lengthwise from the western boundary to the eastern boundary and parallel to one of the tribal portions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.6|<< Ezekiel 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.8|Ezekiel 45:8 >>]]</td></tr></table>
 
 | Translation | Greek |

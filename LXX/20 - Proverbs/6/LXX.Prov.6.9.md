@@ -1,10 +1,7 @@
 **LXX Proverbs 6:9** 
 <small><sub>**LXX:**</sub></small>
 For how long, O lazy one, do you recline? And when will you arise from out of sleep? 
-<small><sub>**KJV:**</sub></small>
-How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
-<small><sub>**BSB:**</sub></small>
-How long will you lie there, O slacker? When will you get up from your sleep?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.8|<< Proverbs 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.10|Proverbs 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

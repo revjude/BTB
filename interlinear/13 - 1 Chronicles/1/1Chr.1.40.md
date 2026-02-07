@@ -1,4 +1,4 @@
-**1 Chronicles 1:40** 
+**1 Chronicles 1:40**<big><big>[[1Chr.1.38 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon:
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.39|<< 1 Chronicles 1:39]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.41|1 Chronicles 1:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shobal  |**<big>&#8207;[[H7732G\|שׁוֹבָ֔ל]]&#8207; </big>**| sho.Val<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

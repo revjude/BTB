@@ -1,10 +1,7 @@
 **LXX Psalm 139:16** 
 <small><sub>**LXX:**</sub></small>
 Your eyes saw my unfinished \[state\]; and on  your scroll all \[men\] shall be written. Days were shaped, and no one among them. 
-<small><sub>**KJV:**</sub></small>
-Thine eyes did see my substance, yet being unperfect; and in thy book all [my members] were written, [which] in continuance were fashioned, when [as yet there was] none of them.
-<small><sub>**BSB:**</sub></small>
-Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.15|<< Psalm 139:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.17|Psalm 139:17 >>]]</td></tr></table>
 
 | Translation | Greek |

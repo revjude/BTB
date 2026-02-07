@@ -1,12 +1,12 @@
-**Ephesians 4:24
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:24**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that ye put on the new man, which after God is created in righteousness and true holiness.
 <small><sub>**BSB:**</sub></small>
 and to put on the new self, created to be like God in true righteousness and holiness.
 <small><sub>**Literal:**</sub></small>
 and to have put on the new man <the> according to God having been created in righteousness and holiness <the> of truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.23|<< Ephesians 4:23]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.25|Ephesians 4:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to have put on |**<big>[[G1746\|ἐνδύσασθαι]]</big>**  |endusasthai <small><sup>[[V-AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

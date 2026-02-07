@@ -1,10 +1,7 @@
 **LXX Psalm 18:38** 
 <small><sub>**LXX:**</sub></small>
 I shall squeeze them, and in no way should they be able to stand; they shall fall under  my feet. 
-<small><sub>**KJV:**</sub></small>
-I have wounded them that they were not able to rise: they are fallen under my feet.
-<small><sub>**BSB:**</sub></small>
-I crushed them so they could not rise; they have fallen under my feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.37|<< Psalm 18:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.39|Psalm 18:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:26** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling in them weakened in the hand. They were alarmed and were disgraced. They became as grass of \[the\] field, and \[as the\] green pasturage; as tender shoots \[growing on\] roofs, and trampled before standing. 
-<small><sub>**KJV:**</sub></small>
-Therefore their inhabitants were of small power, they were dismayed and confounded; they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
-<small><sub>**BSB:**</sub></small>
-Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.25|<< 2 Kings 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.27|2 Kings 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

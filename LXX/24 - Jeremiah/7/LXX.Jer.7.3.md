@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:3** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Set right  your ways and  your practices! and I will settle you in  this place. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD of Hosts, the God of Israel: Correct your ways and deeds, and I will let you live in this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.2|<< Jeremiah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.4|Jeremiah 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

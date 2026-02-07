@@ -1,10 +1,7 @@
 **LXX Psalm 16:3** 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> wondered the holy ones in his land, all  his willing ones among them. 
-<small><sub>**KJV:**</sub></small>
-[But] to the saints that [are] in the earth, and [to] the excellent, in whom [is] all my delight.
-<small><sub>**BSB:**</sub></small>
-As for the saints in the land, they are the excellence in whom all my delight resides.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.2|<< Psalm 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.4|Psalm 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

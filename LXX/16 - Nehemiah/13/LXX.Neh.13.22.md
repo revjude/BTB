@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:22** 
 <small><sub>**LXX:**</sub></small>
 And I spoke to the Levites who were being cleansed, and \[the\] ones coming guarding the gates to sanctify the day of the Sabbath. For these \[things\] remember me, O my God, and spare me according to the magnitude  of your mercy! 
-<small><sub>**KJV:**</sub></small>
-And I commanded the Levites that they should cleanse themselves, and [that] they should come [and] keep the gates, to sanctify the sabbath day. Remember me, O my God, [concerning] this also, and spare me according to the greatness of thy mercy.
-<small><sub>**BSB:**</sub></small>
-Then I instructed the Levites to purify themselves and guard the gates in order to keep the Sabbath day holy. Remember me for this as well, O my God, and show me mercy according to Your abundant loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.21|<< Nehemiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.23|Nehemiah 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

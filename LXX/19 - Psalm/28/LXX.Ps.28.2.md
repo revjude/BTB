@@ -1,10 +1,7 @@
 **LXX Psalm 28:2** 
 <small><sub>**LXX:**</sub></small>
 Hear, O <span class="smallcaps">lord</span>, the voice  of my supplication! in  my beseeching to you, in  my lifting my hands towards your holy temple. 
-<small><sub>**KJV:**</sub></small>
-Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.
-<small><sub>**BSB:**</sub></small>
-Hear my cry for mercy when I call to You for help, when I lift up my hands toward Your holy sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.1|<< Psalm 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.3|Psalm 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

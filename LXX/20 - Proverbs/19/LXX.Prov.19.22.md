@@ -1,10 +1,7 @@
 **LXX Proverbs 19:22** 
 <small><sub>**LXX:**</sub></small>
 Charity \[is\] a fruit to a man; but better a poor just \[man\], than a rich liar. 
-<small><sub>**KJV:**</sub></small>
-The desire of a man [is] his kindness: and a poor man [is] better than a liar.
-<small><sub>**BSB:**</sub></small>
-The desire of a man is loving devotion; better to be poor than a liar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.21|<< Proverbs 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.23|Proverbs 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

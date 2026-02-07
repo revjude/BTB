@@ -1,4 +1,4 @@
-**Isaiah 27:5** 
+**Isaiah 27:5**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or let him take hold of my strength, [that] he may make peace with me; [and] he shall make peace with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or let them lay claim to My protection; let them make peace with Me—yes, let t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.4|<< Isaiah 27:4]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.6|Isaiah 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֚וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let anyone take hold  |**<big>&#8207;[[H2388H\|יַחֲזֵ֣ק]]&#8207; </big>**| ya.cha.Zek<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

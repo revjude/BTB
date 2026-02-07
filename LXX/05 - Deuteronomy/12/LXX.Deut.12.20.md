@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:20** 
 <small><sub>**LXX:**</sub></small>
 And if \[the\] <span class="smallcaps">lord</span> your God should widen  your borders, just as he spoke to you, and you shall say, I will eat meats; if your soul should desire so as to eat meats, in every desire  of your soul, you shall eat meats. 
-<small><sub>**KJV:**</sub></small>
-When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.
-<small><sub>**BSB:**</sub></small>
-When the LORD your God expands your territory as He has promised, and you crave meat and say, “I want to eat meat,” you may eat it whenever you want.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.19|<< Deuteronomy 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.21|Deuteronomy 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

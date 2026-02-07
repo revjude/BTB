@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:10** 
 <small><sub>**LXX:**</sub></small>
 And then I beheld \[the\] impious being brought into \[the\] tombs, and from out of the holy place; and they went and were praised in the city, because they did thus. And indeed this \[is\] folly. 
-<small><sub>**KJV:**</sub></small>
-And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this [is] also vanity.
-<small><sub>**BSB:**</sub></small>
-Then too, I saw the burial of the wicked who used to go in and out of the holy place, and they were praised in the city where they had done so. This too is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.9|<< Ecclesiastes 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.11|Ecclesiastes 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

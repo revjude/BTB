@@ -1,4 +1,4 @@
-**Genesis 31:28** 
+**Genesis 31:28**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in [so] doing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you did not even let me kiss my grandchildren and my daughters goodbye. Now 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.27|<< Genesis 31:27]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.29|Genesis 31:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did you allow? me  |**<big>&#8207;[[H5203\|נְטַשְׁתַּ֔]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ne.tash.Ta.<small><sup>[[HVqp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

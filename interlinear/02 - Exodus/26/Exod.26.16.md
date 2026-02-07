@@ -1,4 +1,4 @@
-**Exodus 26:16** 
+**Exodus 26:16**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ten cubits [shall be] the length of a board, and a cubit and a half [shall be] the breadth of one board.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each frame is to be ten cubits long and a cubit and a half wide.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.15|<< Exodus 26:15]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.17|Exodus 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] ten  |**<big>&#8207;[[H6235\|עֶ֥שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cubits  |**<big>&#8207;[[H0520A\|אַמּ֖וֹת]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

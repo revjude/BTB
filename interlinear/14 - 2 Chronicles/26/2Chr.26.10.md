@@ -1,4 +1,4 @@
-**2 Chronicles 26:10** 
+**2 Chronicles 26:10**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen [also], and vine dressers in the mountains, and in Carmel: for he loved husbandry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since he had much livestock in the foothills and in the plain, he built towers i
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.9|<< 2 Chronicles 26:9]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.11|2 Chronicles 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֨בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towers  |**<big>&#8207;[[H4026M\|מִגְדָּלִ֜ים]]&#8207; </big>**| mig.da.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

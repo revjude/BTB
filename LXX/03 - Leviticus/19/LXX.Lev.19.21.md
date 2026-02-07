@@ -1,10 +1,7 @@
 **LXX Leviticus 19:21** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring  his trespass \[offering\] to the <span class="smallcaps">lord</span> by the door of the tent of the testimony -- a ram for a trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, [even] a ram for a trespass offering.
-<small><sub>**BSB:**</sub></small>
-The man, however, must bring a ram to the entrance to the Tent of Meeting as his guilt offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.20|<< Leviticus 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.22|Leviticus 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

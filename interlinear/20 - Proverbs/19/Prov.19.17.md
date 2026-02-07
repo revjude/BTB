@@ -1,4 +1,4 @@
-**Proverbs 19:17** 
+**Proverbs 19:17**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kindness to the poor is a loan to the LORD, and He will repay the lender.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.16|<< Proverbs 19:16]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.18|Proverbs 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] lending to  |**<big>&#8207;[[H3867B\|מַלְוֵ֣ה]]&#8207; </big>**| mal.Veh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

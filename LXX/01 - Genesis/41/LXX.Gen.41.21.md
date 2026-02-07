@@ -1,10 +1,7 @@
 **LXX Genesis 41:21** 
 <small><sub>**LXX:**</sub></small>
 And they entered into  their bellies. And it did not become apparent that they entered into  their bellies. And  their appearance \[was\] shameful, as also in the beginning. And \[after\] awakening, I went \[back\] to bed. 
-<small><sub>**KJV:**</sub></small>
-And when they had eaten them up, it could not be known that they had eaten them; but they [were] still ill favoured, as at the beginning. So I awoke.
-<small><sub>**BSB:**</sub></small>
-When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.20|<< Genesis 41:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.22|Genesis 41:22 >>]]</td></tr></table>
 
 | Translation | Greek |

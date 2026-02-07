@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if your brother should be humbled by you, and should be sold to you, he shall not serve you \[in the\] slavery of a servant. 
-<small><sub>**KJV:**</sub></small>
-And if thy brother [that dwelleth] by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
-<small><sub>**BSB:**</sub></small>
-If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.38|<< Leviticus 25:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.40|Leviticus 25:40 >>]]</td></tr></table>
 
 | Translation | Greek |

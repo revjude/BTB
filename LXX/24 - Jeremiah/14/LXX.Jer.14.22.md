@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:22** 
 <small><sub>**LXX:**</sub></small>
  Is there \[one\] among \[the\] idols of the nations causing rain, and shall \[an idol\] give the heaven its fullness, \[no\]. Is it not you being he, O <span class="smallcaps">lord</span>  our God. And we shall wait on you, for you made all these. 
-<small><sub>**KJV:**</sub></small>
-Are there [any] among the vanities of the Gentiles that can cause rain? or can the heavens give showers? [art] not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these [things].
-<small><sub>**BSB:**</sub></small>
-Can the worthless idols of the nations bring rain? Do the skies alone send showers? Is this not by You, O LORD our God? So we put our hope in You, for You have done all these things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.21|<< Jeremiah 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.1|Jeremiah 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

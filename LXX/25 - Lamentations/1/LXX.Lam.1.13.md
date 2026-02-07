@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΜΗΜ</p>
 
 From out of his height he sent fire in  my bones, and he led it down. He opened and spread out a net  for my feet. He turned me to the rear. He appointed me for being removed from view; an entire  day for grieving. 
-<small><sub>**KJV:**</sub></small>
-From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate [and] faint all the day.
-<small><sub>**BSB:**</sub></small>
-He sent fire from on high, and it overpowered my bones. He spread a net for my feet and turned me back. He made me desolate, faint all the day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

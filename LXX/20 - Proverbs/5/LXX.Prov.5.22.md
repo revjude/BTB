@@ -1,10 +1,7 @@
 **LXX Proverbs 5:22** 
 <small><sub>**LXX:**</sub></small>
 Unlawful \[deeds\] ensnare a man; and each \[is\] grasped by chains of ones own sins. 
-<small><sub>**KJV:**</sub></small>
-His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.
-<small><sub>**BSB:**</sub></small>
-The iniquities of a wicked man entrap him; the cords of his sin entangle him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.21|<< Proverbs 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.23|Proverbs 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

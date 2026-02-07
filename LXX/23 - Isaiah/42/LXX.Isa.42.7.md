@@ -1,10 +1,7 @@
 **LXX Isaiah 42:7** 
 <small><sub>**LXX:**</sub></small>
 to open \[the\] eyes of \[the\] blind, to lead out of bonds ones being tied; from out of \[the\] house of prison also ones sitting in darkness. 
-<small><sub>**KJV:**</sub></small>
-To open the blind eyes, to bring out the prisoners from the prison, [and] them that sit in darkness out of the prison house.
-<small><sub>**BSB:**</sub></small>
-to open the eyes of the blind, to bring prisoners out of the dungeon and those sitting in darkness out from the prison house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.6|<< Isaiah 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.8|Isaiah 42:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 42:7** is...

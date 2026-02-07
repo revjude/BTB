@@ -1,4 +1,4 @@
-**Exodus 33:5** 
+**Exodus 33:5**<big><big>[[Exod.33.1 The Command to Leave Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD had said unto Moses, Say unto the children of Israel, Ye [are] a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necke
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.4|<< Exodus 33:4]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.6|Exodus 33:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

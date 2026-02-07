@@ -1,12 +1,12 @@
-**Mark 7:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:15**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.
 <small><sub>**BSB:**</sub></small>
 Nothing that enters a man from the outside can defile him; but the things that come out of a man, these are what defile him.”
 <small><sub>**Literal:**</sub></small>
 No [thing] there is outside of the man entering into him which is able to defile him but the [things] out of the man proceeding from of him that are those which are defiling the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.14|<< Mark 7:14]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.16|Mark 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [thing] |**<big>[[G3762\|οὐδέν]]</big>**  |ouden <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 21:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:4**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 <small><sub>**BSB:**</sub></small>
 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”
 <small><sub>**Literal:**</sub></small>
 all for these out of that which was abounding to them they cast in the gifts <the> of God she however out of the poverty of her all the livelihood that she had did cast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.3|<< Luke 21:3]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.5|Luke 21:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all [^1] |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

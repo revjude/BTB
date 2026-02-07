@@ -1,10 +1,7 @@
 **LXX Psalm 91:4** 
 <small><sub>**LXX:**</sub></small>
 With  his upper back he shall overshadow you, and under  his wings you shall hope. He shall encircle you \[with the\] shield  of his truth. 
-<small><sub>**KJV:**</sub></small>
-He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler.
-<small><sub>**BSB:**</sub></small>
-He will cover you with His feathers; under His wings you will find refuge; His faithfulness is a shield and rampart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.3|<< Psalm 91:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.5|Psalm 91:5 >>]]</td></tr></table>
 
 | Translation | Greek |

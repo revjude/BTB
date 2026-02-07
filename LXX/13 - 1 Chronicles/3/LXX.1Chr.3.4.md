@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:4** 
 <small><sub>**LXX:**</sub></small>
 Six were born to him in Hebron, and he reigned there seven years and six months. And thirty and three years he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-[These] six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.
-<small><sub>**BSB:**</sub></small>
-These six sons were born to David in Hebron, where he reigned seven years and six months. And David reigned in Jerusalem thirty-three years,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.3|<< 1 Chronicles 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.5|1 Chronicles 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

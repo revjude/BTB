@@ -1,10 +1,7 @@
 **LXX Joshua 14:12** 
 <small><sub>**LXX:**</sub></small>
 And now I ask you  this mountain as \[the\] <span class="smallcaps">lord</span> said  in that day, for you heard  this word in  that day, \[saying\], And now the Anakim are there, in cities great and fortified. If then \[the\] <span class="smallcaps">lord</span> should be with me, I shall utterly destroy them in which manner \[the\] <span class="smallcaps">lord</span> spoke to me. 
-<small><sub>**KJV:**</sub></small>
-Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.
-<small><sub>**BSB:**</sub></small>
-Now therefore give me this hill country that the LORD promised me on that day, for you yourself heard then that the Anakim were there, with great and fortified cities. Perhaps with the LORD’s help I will drive them out, as the LORD has spoken.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.11|<< Joshua 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.13|Joshua 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

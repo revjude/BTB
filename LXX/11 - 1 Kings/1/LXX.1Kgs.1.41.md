@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:41** 
 <small><sub>**LXX:**</sub></small>
 And Adonijah heard, and all the invited ones with him; and they completed eating. And Joab heard the sound of the horn, and said, What \[is\] the sound of the city sounding? 
-<small><sub>**KJV:**</sub></small>
-And Adonijah and all the guests that [were] with him heard [it] as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore [is this] noise of the city being in an uproar?
-<small><sub>**BSB:**</sub></small>
-Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.40|<< 1 Kings 1:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.42|1 Kings 1:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 35:7** 
 <small><sub>**LXX:**</sub></small>
 And he built there an altar, and he called the name of the place, Beth-el, for there God appeared to him in  his running away from \[the\] face of Esau  his brother. 
-<small><sub>**KJV:**</sub></small>
-And he built there an altar, and called the place Elbethel: because there God appeared unto him, when he fled from the face of his brother.
-<small><sub>**BSB:**</sub></small>
-There Jacob built an altar, and he called that place El-bethel, because it was there that God had revealed Himself to Jacob as he fled from his brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.6|<< Genesis 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.8|Genesis 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

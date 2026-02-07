@@ -1,4 +1,4 @@
-**Deuteronomy 7:9** 
+**Deuteronomy 7:9**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know therefore that the LORD thy God, he [is] God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know therefore that the LORD your God is God, the faithful God who keeps His cov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.8|<< Deuteronomy 7:8]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.10|Deuteronomy 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָ֣דַעְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ya.da'.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

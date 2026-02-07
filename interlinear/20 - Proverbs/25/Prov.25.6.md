@@ -1,4 +1,4 @@
-**Proverbs 25:6** 
+**Proverbs 25:6**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put not forth thyself in the presence of the king, and stand not in the place of great [men]:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not exalt yourself in the presence of the king, and do not stand in the place
 > $\quad$ referenced by: [[Luke.14.8|Luke 14:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you claim honor  |**<big>&#8207;[[H1921\|תִּתְהַדַּ֥ר]]&#8207; </big>**| tit.ha.Dar<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

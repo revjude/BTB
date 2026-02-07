@@ -1,4 +1,4 @@
-**Proverbs 17:2** 
+**Proverbs 17:2**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wise servant will rule over a disgraceful son and share his inheritance as one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.1|<< Proverbs 17:1]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.3|Proverbs 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a servant  |**<big>&#8207;[[H5650\|עֶֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] acts prudently  |**<big>&#8207;[[H7919A\|מַשְׂכִּ֗יל]]&#8207; </big>**| mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

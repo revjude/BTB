@@ -1,4 +1,4 @@
-**Ezekiel 26:5** 
+**Ezekiel 26:5**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall be [a place for] the spreading of nets in the midst of the sea: for I have spoken [it], saith the Lord GOD: and it shall become a spoil to the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She will become a place to spread nets in the sea, for I have spoken, declares t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.4|<< Ezekiel 26:4]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.6|Ezekiel 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a spreading place of  |**<big>&#8207;[[H4894A\|מִשְׁטַ֨ח]]&#8207; </big>**| mish.Tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nets  |**<big>&#8207;[[H2764B\|חֲרָמִ֤ים]]&#8207; </big>**| cha.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

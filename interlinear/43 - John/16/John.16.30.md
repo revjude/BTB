@@ -1,12 +1,12 @@
-**John 16:30
-**<small><sub>**KJV:**</sub></small>
+**John 16:30**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.
 <small><sub>**BSB:**</sub></small>
 Now we understand that You know all things and that You have no need for anyone to question You. Because of this, we believe that You came from God.”
 <small><sub>**Literal:**</sub></small>
 Now we know that You know all things and not need have that anyone You may ask. In this we believe that from God You came forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.29|<< John 16:29]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.31|John 16:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

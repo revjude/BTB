@@ -1,10 +1,7 @@
 **LXX Micah 6:12** 
 <small><sub>**LXX:**</sub></small>
 of which  they filled their riches of impiety, and the ones dwelling it spoke lies, and  their tongue was exalted in  their mouth, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue [is] deceitful in their mouth.
-<small><sub>**BSB:**</sub></small>
-For the wealthy of the city are full of violence, and its residents speak lies; their tongues are deceitful in their mouths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.11|<< Micah 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.13|Micah 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

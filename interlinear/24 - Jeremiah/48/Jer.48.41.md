@@ -1,4 +1,4 @@
-**Jeremiah 48:41** 
+**Jeremiah 48:41**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kirioth has been taken, and the strongholds seized. In that day the heart of Moa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.40|<< Jeremiah 48:40]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.42|Jeremiah 48:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be captured  |**<big>&#8207;[[H3920\|נִלְכְּדָה֙]]&#8207; </big>**| nil.ke.Dah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Kerioth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7152H\|קְּרִיּ֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ri.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

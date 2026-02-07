@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:9** 
 <small><sub>**LXX:**</sub></small>
 In weeping they went forth, and in comfort I will lead them. Lodging upon aqueducts of waters in \[the\] straight way, and in no way shall they wander in it. For I became  to Israel for a father, and Ephraim is my first-born. 
-<small><sub>**KJV:**</sub></small>
-They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim [is] my firstborn.
-<small><sub>**BSB:**</sub></small>
-They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.8|<< Jeremiah 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.10|Jeremiah 31:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 31:9** is...

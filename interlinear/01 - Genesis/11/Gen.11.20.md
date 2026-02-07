@@ -1,4 +1,4 @@
-**Genesis 11:20** 
+**Genesis 11:20**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reu lived two and thirty years, and begat Serug:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Reu was 32 years old, he became the father of Serug.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.19|<< Genesis 11:19]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.21|Genesis 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Reu  |**<big>&#8207;[[H7466\|רְע֔וּ]]&#8207; </big>**| re.'U<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:19** 
 <small><sub>**LXX:**</sub></small>
 And he spoke against the God of Jerusalem, as also against the gods of the peoples of the land -- \[the\] works of \[the\] hands of men. 
-<small><sub>**KJV:**</sub></small>
-And they spake against the God of Jerusalem, as against the gods of the people of the earth, [which were] the work of the hands of man.
-<small><sub>**BSB:**</sub></small>
-They spoke against the God of Jerusalem as they had spoken against the gods of the peoples of the earth—the work of human hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.18|<< 2 Chronicles 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.20|2 Chronicles 32:20 >>]]</td></tr></table>
 
 | Translation | Greek |

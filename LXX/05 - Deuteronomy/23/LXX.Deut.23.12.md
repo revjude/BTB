@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:12** 
 <small><sub>**LXX:**</sub></small>
 And a place will be for you outside the camp, and you shall go forth there outside, 
-<small><sub>**KJV:**</sub></small>
-Thou shalt have a place also without the camp, whither thou shalt go forth abroad:
-<small><sub>**BSB:**</sub></small>
-You must have a place outside the camp to go and relieve yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.11|<< Deuteronomy 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.13|Deuteronomy 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

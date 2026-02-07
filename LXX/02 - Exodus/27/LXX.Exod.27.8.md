@@ -1,10 +1,7 @@
 **LXX Exodus 27:8** 
 <small><sub>**LXX:**</sub></small>
 You shall make it hollow planked; according to the holding forth of the example to you on the mountain -- thus you shall make it. 
-<small><sub>**KJV:**</sub></small>
-Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make [it].
-<small><sub>**BSB:**</sub></small>
-Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

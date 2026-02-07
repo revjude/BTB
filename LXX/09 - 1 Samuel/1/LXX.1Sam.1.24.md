@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:24** 
 <small><sub>**LXX:**</sub></small>
 And she ascended with him unto Shiloh with a calf being three years old, and an ephah of fine flour, and a skin flask of wine. And she entered into \[the\] house of \[the\] <span class="smallcaps">lord</span> in Shiloh, and the boy with them. 
-<small><sub>**KJV:**</sub></small>
-And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child [was] young.
-<small><sub>**BSB:**</sub></small>
-Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 25:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:6**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.
 <small><sub>**BSB:**</sub></small>
 After spending no more than eight or ten days with them, Festus went down to Caesarea. The next day he sat on the judgment seat and ordered that Paul be brought in.
 <small><sub>**Literal:**</sub></small>
 Having spent then with them days not more than eight or ten, having gone down to Caesarea, on the next day having sat on the judgment seat he commanded <the> Paul to be brought.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.5|<< Acts 25:5]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.7|Acts 25:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having spent |**<big>[[G1304\|διατρίψας]]</big>**  |diatripsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

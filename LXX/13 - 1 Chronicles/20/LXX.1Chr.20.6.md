@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 20:6** 
 <small><sub>**LXX:**</sub></small>
 And came to pass yet again a war in Gath, and \[there\] was an immense man, and  his fingers and toes \[were\] six by six -- twenty and four; and this one was a descendant of the giants. 
-<small><sub>**KJV:**</sub></small>
-And yet again there was war at Gath, where was a man of [great] stature, whose fingers and toes [were] four and twenty, six [on each hand], and six [on each foot]: and he also was the son of the giant.
-<small><sub>**BSB:**</sub></small>
-And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.5|<< 1 Chronicles 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.7|1 Chronicles 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

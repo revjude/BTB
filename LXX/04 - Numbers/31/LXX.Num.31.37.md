@@ -1,10 +1,7 @@
 **LXX Numbers 31:37** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the tax to the <span class="smallcaps">lord</span> of the sheep -- six hundred and seventy five; 
-<small><sub>**KJV:**</sub></small>
-And the LORD’S tribute of the sheep was six hundred and threescore and fifteen.
-<small><sub>**BSB:**</sub></small>
-including a tribute to the LORD of 675,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.36|<< Numbers 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.38|Numbers 31:38 >>]]</td></tr></table>
 
 | Translation | Greek |

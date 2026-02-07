@@ -1,4 +1,4 @@
-**Proverbs 28:2** 
+**Proverbs 28:2**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the transgression of a land many [are] the princes thereof: but by a man of understanding [and] knowledge the state [thereof] shall be prolonged.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A land in rebellion has many rulers, but a man of understanding and knowledge ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] transgression of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6588\|פֶ֣שַֽׁע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fe.sha'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a land  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

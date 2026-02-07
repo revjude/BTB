@@ -1,12 +1,12 @@
 (KJV) **Ezra 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4|<< Ezra 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6|Ezra 6 >>]]</td></tr></table>
 
-***Temple Rebuilding Resumes***&emsp;<small><sup>\[ [[Hag.1|Haggai 1:1–11]] ]</sup></small> ^bsb1177
+<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥃]]</big></big>***Temple Rebuilding Resumes***&emsp;<small><sup>\[ [[Hag.1|Haggai 1:1–11]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Ezra.5.1|1]]**<span class="endversemarker">]</span> Then the prophets, Haggai<small><small>[^2]</small></small> the prophet, and Zechariah<small><small>[^3]</small></small> the son of Iddo<small><small>[^4]</small></small>, prophesied unto the Jews that \[were\] in Judah and Jerusalem in the name<small><small>[^5]</small></small> of the God of Israel, \[even\] unto them.<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Ezra.5.2|2]]**<span class="endversemarker">]</span> Then rose up<small><small>[^7]</small></small> Zerubbabel the son of Shealtiel, and Jeshua<small><small>[^8]</small></small> the son of Jozadak, and began to build the house of God which \[is\] at Jerusalem: and with them \[were\] the prophets<small><small>[^9]</small></small> of God helping them. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ezra.5.3|3]]**<span class="endversemarker">]</span> At the same time came to them Tatnai<small><small>[^10]</small></small>, governor on this side the river, and Shethar–boznai, and their companions, and said thus unto them, Who hath commanded you<small><small>[^11]</small></small> to build this house, and to make up this wall? <span class="startversemarker">[</span>**[[Ezra.5.4|4]]**<span class="endversemarker">]</span> Then said we unto them after this manner, What are<small><small>[^12]</small></small> the names of the men that make this building<small><small>[^13]</small></small>? <span class="startversemarker">[</span>**[[Ezra.5.5|5]]**<span class="endversemarker">]</span> But the eye<small><small>[^14]</small></small> of their God was upon the elders of the Jews, that they<small><small>[^15]</small></small> could not cause them to cease, till the matter came to Darius: and then they returned<small><small>[^16]</small></small> answer by letter concerning this \[matter\].
 
-***Tattenai’s Letter to Darius*** ^bsb1178
+<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥃]]</big></big>***Tattenai’s Letter to Darius***
 
  
 

@@ -1,10 +1,7 @@
 **LXX Judges 7:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Gideon, By the three hundred men  lapping I shall deliver you, and I will put  Midian into your hand. And all the people ran, \[each\] man to  his place. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the [other] people go every man unto his place.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Gideon, “With the three hundred men who lapped the water I will save you and deliver the Midianites into your hand. But all the others are to go home.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.6|<< Judges 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.8|Judges 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

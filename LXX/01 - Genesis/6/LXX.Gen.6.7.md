@@ -1,10 +1,7 @@
 **LXX Genesis 6:7** 
 <small><sub>**LXX:**</sub></small>
 And God said, I will wipe away the man, whom I made, from \[the\] face of the earth; from man unto beast, and from \[the\] reptiles unto the winged creatures of the heaven; for I repented that I made them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
-<small><sub>**BSB:**</sub></small>
-So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.6|<< Genesis 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.8|Genesis 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

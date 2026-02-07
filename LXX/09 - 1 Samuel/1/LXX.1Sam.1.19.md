@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:19** 
 <small><sub>**LXX:**</sub></small>
 And they rose early in the morning, and did obeisance to the <span class="smallcaps">lord</span>, and they went  their way. And Elkanah entered unto  his house in Ramah, and he knew Hannah his wife; and \[the\] <span class="smallcaps">lord</span> remembered her, and she conceived. 
-<small><sub>**KJV:**</sub></small>
-And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.
-<small><sub>**BSB:**</sub></small>
-The next morning they got up early to bow in worship before the LORD, and then they returned home to Ramah. And Elkanah had relations with his wife Hannah, and the LORD remembered her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.18|<< 1 Samuel 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.20|1 Samuel 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

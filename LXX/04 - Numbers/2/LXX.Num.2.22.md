@@ -1,10 +1,7 @@
 **LXX Numbers 2:22** 
 <small><sub>**LXX:**</sub></small>
 And the ones camping being next to him \[was the\] tribe of Benjamin. And the ruler of the sons of Benjamin \[was\] Abidan son of Gideoni. 
-<small><sub>**KJV:**</sub></small>
-Then the tribe of Benjamin: and the captain of the sons of Benjamin [shall be] Abidan the son of Gideoni.
-<small><sub>**BSB:**</sub></small>
-Next will be the tribe of Benjamin. The leader of the Benjamites is Abidan son of Gideoni,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.21|<< Numbers 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.23|Numbers 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

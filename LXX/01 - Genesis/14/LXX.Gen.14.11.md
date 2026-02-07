@@ -1,10 +1,7 @@
 **LXX Genesis 14:11** 
 <small><sub>**LXX:**</sub></small>
 And they took all the cavalry  of Sodom and Gomorrah, and all  their foods, and they went forth. 
-<small><sub>**KJV:**</sub></small>
-And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.
-<small><sub>**BSB:**</sub></small>
-The four kings seized all the goods of Sodom and Gomorrah and all their food, and they went on their way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.10|<< Genesis 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.12|Genesis 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

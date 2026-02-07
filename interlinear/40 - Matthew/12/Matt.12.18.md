@@ -1,5 +1,5 @@
-**Matthew 12:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:18**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 “Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I will put My Spirit on Him, and He will proclaim justice to the nations.
@@ -10,7 +10,7 @@ Behold the servant of Mine whom I have chosen, the beloved of Mine in whom has f
 > $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

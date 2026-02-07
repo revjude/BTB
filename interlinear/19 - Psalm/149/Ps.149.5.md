@@ -1,4 +1,4 @@
-**Psalms 149:5** 
+**Psalms 149:5**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the saints be joyful in glory: let them sing aloud upon their beds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the saints exult in glory; let them shout for joy upon their beds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.4|<< Psalms 149:4]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.6|Psalms 149:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them exult  |**<big>&#8207;[[H5937\|יַעְלְז֣וּ]]&#8207; </big>**| ya'.le.Zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithful [people]  |**<big>&#8207;[[H2623\|חֲסִידִ֣ים]]&#8207; </big>**| cha.si.Dim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 75:9** (75:10)
+**Psalms 75:9**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will declare for ever; I will sing praises to the God of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But I will proclaim Him forever; I will sing praise to the God of Jacob.
 > $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will declare  |**<big>&#8207;[[H5046\|אַגִּ֣יד]]&#8207; </big>**| 'a.Gid<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

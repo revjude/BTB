@@ -1,10 +1,7 @@
 **LXX Isaiah 63:15** 
 <small><sub>**LXX:**</sub></small>
 Turn from  heaven, and look from  your holy house, and \[from\] your glory! Where is  your zeal and  your strength? Where is the abundance  of your mercy and your compassions, that you withheld from us? 
-<small><sub>**KJV:**</sub></small>
-Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where [is] thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?
-<small><sub>**BSB:**</sub></small>
-Look down from heaven and see, from Your holy and glorious habitation. Where are Your zeal and might? Your yearning and compassion for me are restrained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.14|<< Isaiah 63:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.16|Isaiah 63:16 >>]]</td></tr></table>
 
 | Translation | Greek |

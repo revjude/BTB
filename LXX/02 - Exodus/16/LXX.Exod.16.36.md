@@ -1,10 +1,7 @@
 **LXX Exodus 16:36** 
 <small><sub>**LXX:**</sub></small>
 Now the homer was the tenth of three measures. 
-<small><sub>**KJV:**</sub></small>
-Now an omer [is] the tenth [part] of an ephah.
-<small><sub>**BSB:**</sub></small>
-(Now an omer is a tenth of an ephah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.35|<< Exodus 16:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.1|Exodus 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

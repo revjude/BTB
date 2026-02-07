@@ -1,4 +1,4 @@
-**1 Kings 2:2** 
+**1 Kings 2:2**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I go the way of all the earth: be thou strong therefore, and shew thyself a man;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I go the way of all the earth: be thou strong therefore, and shew thyself a man;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.1|<< 1 Kings 2:1]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.3|1 Kings 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to go  |**<big>&#8207;[[H1980G\|הֹלֵ֔ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

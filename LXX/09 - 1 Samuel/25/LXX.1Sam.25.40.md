@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:40** 
 <small><sub>**LXX:**</sub></small>
 And the servants of David came to Abigail in  Carmel. And they spoke to her, saying, David sends us to you, to take you to himself for a wife. 
-<small><sub>**KJV:**</sub></small>
-And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.
-<small><sub>**BSB:**</sub></small>
-When his servants came to Abigail at Carmel, they said, “David has sent us to take you as his wife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.39|<< 1 Samuel 25:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.41|1 Samuel 25:41 >>]]</td></tr></table>
 
 | Translation | Greek |

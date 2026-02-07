@@ -1,10 +1,7 @@
 **LXX Isaiah 31:9** 
 <small><sub>**LXX:**</sub></small>
 for as a rock, they shall be taken hold of as for a siege mound, and shall be vanquished; but the one fleeing shall be captured; thus says \[the\] <span class="smallcaps">lord</span>, Blessed \[is\] the one who has a seed in Zion, and members of a family in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire [is] in Zion, and his furnace in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Their rock will pass away for fear, and their princes will panic at the sight of the battle standard,” declares the LORD, whose fire is in Zion, whose furnace is in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.8|<< Isaiah 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.1|Isaiah 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

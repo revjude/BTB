@@ -1,10 +1,7 @@
 **LXX Numbers 8:3** 
 <small><sub>**LXX:**</sub></small>
 And Aaron did so; in front of the lamp-stand he lit up  its lamps as \[the\] <span class="smallcaps">lord</span> gave orders  to Moses. 
-<small><sub>**KJV:**</sub></small>
-And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-And Aaron did so; he set up the lamps facing toward the front of the lampstand, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.2|<< Numbers 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.4|Numbers 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

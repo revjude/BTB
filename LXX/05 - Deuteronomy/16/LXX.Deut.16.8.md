@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:8** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall eat unleavened \[breads\], and the seventh day \[is\] a recess holiday \[to the\] <span class="smallcaps">lord</span>  your God; you shall not do on it any work except as much as shall be done for your life. 
-<small><sub>**KJV:**</sub></small>
-Six days thou shalt eat unleavened bread: and on the seventh day [shall be] a solemn assembly to the LORD thy God: thou shalt do no work [therein].
-<small><sub>**BSB:**</sub></small>
-For six days you must eat unleavened bread, and on the seventh day you shall hold a solemn assembly to the LORD your God, and you must not do any work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.7|<< Deuteronomy 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.9|Deuteronomy 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

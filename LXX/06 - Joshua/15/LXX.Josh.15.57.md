@@ -1,10 +1,7 @@
 **LXX Joshua 15:57** 
 <small><sub>**LXX:**</sub></small>
 Cain, and Gibeah, and Timnah; ten cities and  their towns; 
-<small><sub>**KJV:**</sub></small>
-Cain, Gibeah, and Timnah; ten cities with their villages:
-<small><sub>**BSB:**</sub></small>
-Kain, Gibeah, and Timnah—ten cities, along with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.56|<< Joshua 15:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.58|Joshua 15:58 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:32** 
 <small><sub>**LXX:**</sub></small>
 and they shall guard the watches of the tent of the testimony, and the watch of the holy \[place\], and the watches of the sons of Aaron  their brethren,  to officiate in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy [place], and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

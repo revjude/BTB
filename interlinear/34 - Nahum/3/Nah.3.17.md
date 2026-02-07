@@ -1,4 +1,4 @@
-**Nahum 3:17** 
+**Nahum 3:17**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy crowned [are] as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, [but] when the sun ariseth they flee away, and their place is not known where they [are].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your guards are like the swarming locust, and your scribes like clouds of locust
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.16|<< Nahum 3:16]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.18|Nahum 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | courtiers your  |**<big>&#8207;[[H4502\|מִנְּזָרַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| mi.ne.za.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like the locust  |**<big>&#8207;[[H9004\|כָּֽ]]&#8207;&#8207;[[H0697\|אַרְבֶּ֔ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'ar.Beh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

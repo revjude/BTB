@@ -1,10 +1,7 @@
 **LXX Exodus 39:34** 
 <small><sub>**LXX:**</sub></small>
 and the leather coverings of \[the\] skins of rams dyed red, and the skin coverings of blue, and the veil, 
-<small><sub>**KJV:**</sub></small>
-And the covering of rams’ skins dyed red, and the covering of badgers’ skins, and the vail of the covering,
-<small><sub>**BSB:**</sub></small>
-the covering of ram skins dyed red, the covering of fine leather, and the veil of the covering;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.33|<< Exodus 39:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.35|Exodus 39:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob said \[to\] his father, I \[am\] Esau  your first-born. I did as you told me. In rising up \[come\] take a seat and eat from  my game! that your soul may bless me. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said unto his father, I [am] Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
-<small><sub>**BSB:**</sub></small>
-Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.18|<< Genesis 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.20|Genesis 27:20 >>]]</td></tr></table>
 
 | Translation | Greek |

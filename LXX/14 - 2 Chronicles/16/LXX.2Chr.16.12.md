@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:12** 
 <small><sub>**LXX:**</sub></small>
 And Asa was infirm in the thirtieth and ninth year  of his kingdom in  his feet, until his infirmity \[was\] higher. And in  his infirmity he did not seek the <span class="smallcaps">lord</span>, but the physicians. 
-<small><sub>**KJV:**</sub></small>
-And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease [was] exceeding [great]: yet in his disease he sought not to the LORD, but to the physicians.
-<small><sub>**BSB:**</sub></small>
-In the thirty-ninth year of his reign, Asa became diseased in his feet, and his disease became increasingly severe. Yet even in his illness he did not seek the LORD, but only the physicians.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.11|<< 2 Chronicles 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.13|2 Chronicles 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

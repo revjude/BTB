@@ -1,4 +1,4 @@
-**Psalms 9:4** (9:5)
+**Psalms 9:4**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast maintained my right and my cause; thou satest in the throne judging right.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You have upheld my just cause; You sit on Your throne judging righteously.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.3|<< Psalms 9:3]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.5|Psalms 9:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have done  |**<big>&#8207;[[H6213A\|עָ֭שִׂיתָ]]&#8207; </big>**| 'A.si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 7:14** 
 <small><sub>**LXX:**</sub></small>
 And his neighbor answered and said, This is not other than \[the\] broadsword of Gideon son of Joash, a man of Israel. God delivered up Midian into his hand, and all the camp. 
-<small><sub>**KJV:**</sub></small>
-And his fellow answered and said, This [is] nothing else save the sword of Gideon the son of Joash, a man of Israel: [for] into his hand hath God delivered Midian, and all the host.
-<small><sub>**BSB:**</sub></small>
-His friend replied: “This is nothing less than the sword of Gideon son of Joash, the Israelite. God has delivered Midian and the whole camp into his hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.13|<< Judges 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.15|Judges 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

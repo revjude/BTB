@@ -1,4 +1,4 @@
-**Esther 1:14** 
+**Esther 1:14**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the next unto him [was] Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, [and] Memucan, the seven princes of Persia and Media, which saw the king’s face, [and] which sat the first in the kingdom;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His closest advisors were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.13|<< Esther 1:13]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.15|Esther 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the [ones] close  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7138\|קָּרֹ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ka.Ro<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

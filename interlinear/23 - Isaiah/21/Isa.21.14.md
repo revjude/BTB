@@ -1,4 +1,4 @@
-**Isaiah 21:14** 
+**Isaiah 21:14**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring water for the thirsty, O dwellers of Tema; meet the refugees with food.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.13|<< Isaiah 21:13]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.15|Isaiah 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to meet  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרַ֥את]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.Rat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] thirsty  |**<big>&#8207;[[H6771\|צָמֵ֖א]]&#8207; </big>**| tza.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the being the war between the house of Saul, and between the house of David, that Abner was holding \[rule\] \[over\] the house of Saul. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.
-<small><sub>**BSB:**</sub></small>
-During the war between the house of Saul and the house of David, Abner had continued to strengthen his position in the house of Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.5|<< 2 Samuel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.7|2 Samuel 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

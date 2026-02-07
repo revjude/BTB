@@ -1,4 +1,4 @@
-**Job 24:1** 
+**Job 24:1**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why, seeing times are not hidden from the Almighty, do they that know him not see his days?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why, seeing times are not hidden from the Almighty, do they that know him not se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.17|<< Job 23:17]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.2|Job 24:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֗וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] Almighty  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H7706\|שַּׁדַּי]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> sha.dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

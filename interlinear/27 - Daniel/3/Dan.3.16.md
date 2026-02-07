@@ -1,4 +1,4 @@
-**Daniel 3:16** 
+**Daniel 3:16**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we [are] not careful to answer thee in this matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.15|<< Daniel 3:15]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.17|Daniel 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they replied  |**<big>&#8207;[[H6032\|עֲנ֗וֹ]]&#8207; </big>**| a.No<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shadrach  |**<big>&#8207;[[H7715\|שַׁדְרַ֤ךְ]]&#8207; </big>**| shad.Rakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

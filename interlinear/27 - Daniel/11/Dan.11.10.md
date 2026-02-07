@@ -1,4 +1,4 @@
-**Daniel 11:10** 
+**Daniel 11:10**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his sons shall be stirred up, and shall assemble a multitude of great forces: and [one] shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, [even] to his fortress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But his sons will stir up strife and assemble a great army, which will advance f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.9|<< Daniel 11:9]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.11|Daniel 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sons his  [^3]|**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בָנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | they will wage war  |**<big>&#8207;[[H1624\|יִתְגָּר֗וּ]]&#8207; </big>**| yit.ga.Ru<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

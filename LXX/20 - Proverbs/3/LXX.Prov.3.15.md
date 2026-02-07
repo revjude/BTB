@@ -1,10 +1,7 @@
 **LXX Proverbs 3:15** 
 <small><sub>**LXX:**</sub></small>
 And she is more valuable than very costly stones; and every valuable \[thing\] is not worth her. 
-<small><sub>**KJV:**</sub></small>
-She [is] more precious than rubies: and all the things thou canst desire are not to be compared unto her.
-<small><sub>**BSB:**</sub></small>
-She is more precious than rubies; nothing you desire compares with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.14|<< Proverbs 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.16|Proverbs 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

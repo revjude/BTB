@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:34** 
 <small><sub>**LXX:**</sub></small>
 And in no way each teach  his neighbor, and each  his brother, saying, Know the <span class="smallcaps">lord</span>! For all shall know me, from their small unto their great, says \[the\] <span class="smallcaps">lord</span>. For I will be kind \[to\] their iniquities, and  their sins in no way shall I remember any more. 
-<small><sub>**KJV:**</sub></small>
-And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more.
-<small><sub>**BSB:**</sub></small>
-No longer will each man teach his neighbor or his brother, saying, ‘Know the LORD,’ because they will all know Me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.33|<< Jeremiah 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.35|Jeremiah 31:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 31:34** is...

@@ -1,4 +1,4 @@
-**2 Samuel 21:16** 
+**2 Samuel 21:16**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ishbibenob, which [was] of the sons of the giant, the weight of whose spear [weighed] three hundred [shekels] of brass in weight, he being girded with a new [sword], thought to have slain David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ishbi-benob, a descendant of Rapha, whose bronze spear weighed three hundre
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.15|<< 2 Samuel 21:15]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.17|2 Samuel 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ishbi-  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3430\|יִשְׁבִּ֨י]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> yish.bo<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | Benob  |**<big>&#8207;[[H3430\|בְּנֹ֜ב]]&#8207; </big>**| be.No<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

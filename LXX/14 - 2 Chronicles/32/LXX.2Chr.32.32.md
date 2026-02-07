@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:32** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Hezekiah, and  his mercies, behold, they are written in the prophecy of Isaiah son of Amoz the prophet, and upon \[the\] scroll of \[the\] kings of Judah and Israel. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Hezekiah, and his goodness, behold, they [are] written in the vision of Isaiah the prophet, the son of Amoz, [and] in the book of the kings of Judah and Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.31|<< 2 Chronicles 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.33|2 Chronicles 32:33 >>]]</td></tr></table>
 
 | Translation | Greek |

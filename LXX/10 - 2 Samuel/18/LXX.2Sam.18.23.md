@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:23** 
 <small><sub>**LXX:**</sub></small>
 And Ahimaaz said, For what if I shall run? And Joab said to him, Run! And Ahimaaz ran by the way  of Kechar, and he surpassed  Cushi. 
-<small><sub>**KJV:**</sub></small>
-But howsoever, [said he], let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.
-<small><sub>**BSB:**</sub></small>
-“No matter what, I want to run!” he replied. “Then run!” Joab told him. So Ahimaaz ran by way of the plain and outran the Cushite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.22|<< 2 Samuel 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.24|2 Samuel 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

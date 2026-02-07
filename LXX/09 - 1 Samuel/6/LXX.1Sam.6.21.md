@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:21** 
 <small><sub>**LXX:**</sub></small>
 And they sent messengers to the ones dwelling in Kirjath-jearim, saying, The Philistines returned the ark of the <span class="smallcaps">lord</span>, and you go down and lead it up unto you! 
-<small><sub>**KJV:**</sub></small>
-And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, [and] fetch it up to you.
-<small><sub>**BSB:**</sub></small>
-So they sent messengers to the people of Kiriath-jearim, saying, “The Philistines have returned the ark of the LORD. Come down and take it up with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.20|<< 1 Samuel 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.1|1 Samuel 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

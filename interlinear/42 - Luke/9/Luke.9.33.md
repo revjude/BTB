@@ -1,12 +1,12 @@
-**Luke 9:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:33**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.
 <small><sub>**BSB:**</sub></small>
 As Moses and Elijah were leaving, Peter said to Jesus, “Master, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.” (He did not know what he was saying.)
 <small><sub>**Literal:**</sub></small>
 And it came to pass in the departing of them from Him said <the> Peter to <the> Jesus; Master, good it is for us here to be, also let us make tabernacles three, one for You and one for Moses and one for Elijah; not knowing what he is saying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.32|<< Luke 9:32]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.34|Luke 9:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

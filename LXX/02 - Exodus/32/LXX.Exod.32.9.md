@@ -1,10 +1,7 @@
 **LXX Exodus 32:9** 
 <small><sub>**LXX:**</sub></small>
 And now allow me! for being enraged in anger against them, I will obliterate them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, I have seen this people, and, behold, it [is] a stiffnecked people:
-<small><sub>**BSB:**</sub></small>
-The LORD also said to Moses, “I have seen this people, and they are indeed a stiff-necked people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.8|<< Exodus 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.10|Exodus 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

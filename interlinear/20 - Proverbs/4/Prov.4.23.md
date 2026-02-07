@@ -1,4 +1,4 @@
-**Proverbs 4:23** 
+**Proverbs 4:23**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thy heart with all diligence; for out of it [are] the issues of life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Guard your heart with all diligence, for from it flow springs of life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.22|<< Proverbs 4:22]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.24|Proverbs 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than all  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | guarding  |**<big>&#8207;[[H4929\|מִ֭שְׁמָר]]&#8207; </big>**| Mish.mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

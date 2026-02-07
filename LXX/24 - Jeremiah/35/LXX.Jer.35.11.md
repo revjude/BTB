@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when Nebuchadnezzar king of Babylon ascended upon the land, and we said, In ascending we shall enter into Jerusalem from in front of the Chaldeans, and from in front of the force of the Assyrians. And we lived there. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So when Nebuchadnezzar king of Babylon marched into the land, we said: ‘Come, let us go into Jerusalem to escape the armies of the Chaldeans and the Arameans.’ So we have remained in Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.10|<< Jeremiah 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.12|Jeremiah 35:12 >>]]</td></tr></table>
 
 | Translation | Greek |

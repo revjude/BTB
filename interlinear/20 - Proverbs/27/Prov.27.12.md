@@ -1,4 +1,4 @@
-**Proverbs 27:12** 
+**Proverbs 27:12**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A prudent [man] foreseeth the evil, [and] hideth himself; [but] the simple pass on, [and] are punished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prudent see danger and take cover, but the simple keep going and pay the pen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.11|<< Proverbs 27:11]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.13|Proverbs 27:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sensible [person]  |**<big>&#8207;[[H6175\|עָר֤וּם]]&#8207; </big>**| 'a.Rum<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sees  |**<big>&#8207;[[H7200G\|רָאָ֣ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

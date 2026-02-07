@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when Sanballat heard that we were building the wall, that it was evil to him, and he was angry very much, and he was laughing out loud over the Jews. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.
-<small><sub>**BSB:**</sub></small>
-Now when Sanballat heard that we were rebuilding the wall, he was furious and filled with indignation. He ridiculed the Jews<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.32|<< Nehemiah 3:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.2|Nehemiah 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

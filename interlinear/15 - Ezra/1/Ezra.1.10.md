@@ -1,4 +1,4 @@
-**Ezra 1:10** 
+**Ezra 1:10**<big><big>[[Ezra.1.7 Cyrus Restores the Holy Vessels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thirty basons of gold, silver basons of a second [sort] four hundred and ten, [and] other vessels a thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thirty basons of gold, silver basons of a second [sort] four hundred and ten, [a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.9|<< Ezra 1:9]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.11|Ezra 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bowls of  |**<big>&#8207;[[H3713A\|כְּפוֹרֵ֤י]]&#8207; </big>**| ke.fo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָב֙]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

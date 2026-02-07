@@ -1,4 +1,4 @@
-**Judges 16:3** 
+**Judges 16:3**<big><big>[[Judg.16.1 Samson Escapes Gaza|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put [them] upon his shoulders, and carried them up to the top of an hill that [is] before Hebron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Samson lay there only until midnight, when he got up, took hold of the doors
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.2|<< Judges 16:2]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.4|Judges 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901H\|יִּשְׁכַּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samson  |**<big>&#8207;[[H8123\|שִׁמְשׁוֹן֮]]&#8207; </big>**| shim.shOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

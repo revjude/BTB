@@ -1,4 +1,4 @@
-**Jeremiah 26:4** 
+**Jeremiah 26:4**<big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say unto them, Thus saith the LORD; If ye will not hearken to me, to walk in my law, which I have set before you,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to tell them that this is what the LORD says: ‘If you do not liste
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.3|<< Jeremiah 26:3]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.5|Jeremiah 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 31:13** 
+**Genesis 31:13**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the God of Bethel, where thou anointedst the pillar, [and] where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am the God of Bethel, where you anointed the pillar and made a solemn vow to M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.12|<< Genesis 31:12]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.14|Genesis 31:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֤י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] the God of  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

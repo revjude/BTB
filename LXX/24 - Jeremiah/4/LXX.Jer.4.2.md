@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:2** 
 <small><sub>**LXX:**</sub></small>
 and should swear by an oath, \[The\] <span class="smallcaps">lord</span> lives, with truth, in equity and in righteousness; then they shall bless nations by him. And by him they shall give praise \[to\] God in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt swear, The LORD liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.
-<small><sub>**BSB:**</sub></small>
-and if you can swear, ‘As surely as the LORD lives,’ in truth, in justice, and in righteousness, then the nations will be blessed by Him, and in Him they will glory.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.1|<< Jeremiah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.3|Jeremiah 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

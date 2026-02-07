@@ -1,4 +1,4 @@
-**Ezekiel 32:27** 
+**Ezekiel 32:27**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not lie with the mighty [that are] fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though [they were] the terror of the mighty in the land of the living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They do not lie down with the fallen warriors of old, who went down to Sheol wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.26|<< Ezekiel 32:26]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.28|Ezekiel 32:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they lie  |**<big>&#8207;[[H7901J\|יִשְׁכְּבוּ֙]]&#8207; </big>**| yish.ke.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

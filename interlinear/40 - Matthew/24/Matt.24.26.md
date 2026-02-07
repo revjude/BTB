@@ -1,12 +1,12 @@
-**Matthew 24:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:26**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, [he is] in the secret chambers; believe [it] not.
 <small><sub>**BSB:**</sub></small>
 So if they tell you, ‘There He is, in the wilderness,’ do not go out, or, ‘Here He is, in the inner rooms,’ do not believe it.
 <small><sub>**Literal:**</sub></small>
 If therefore they shall say to you; Behold in the wilderness He is, not shall go forth; [or] ‘Behold in the inner rooms, not shall believe [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.25|<< Matthew 24:25]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.27|Matthew 24:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 9:10** 
 <small><sub>**LXX:**</sub></small>
 The one doing great and untraceable \[things\]; honorable also, and extraordinary \[things\] which there is no number. 
-<small><sub>**KJV:**</sub></small>
-Which doeth great things past finding out; yea, and wonders without number.
-<small><sub>**BSB:**</sub></small>
-He does great things beyond searching out, and wonders without number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.9|<< Job 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.11|Job 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

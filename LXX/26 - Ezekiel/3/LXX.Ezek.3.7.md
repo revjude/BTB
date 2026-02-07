@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:7** 
 <small><sub>**LXX:**</sub></small>
 But the house  of Israel in no way shall want to listen to you; for they do not consent to listen to me. For all the house of Israel is contentious and hard-hearted. 
-<small><sub>**KJV:**</sub></small>
-But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel [are] impudent and hardhearted.
-<small><sub>**BSB:**</sub></small>
-But the house of Israel will be unwilling to listen to you, since they are unwilling to listen to Me. For the whole house of Israel is hard-headed and hard-hearted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.6|<< Ezekiel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.8|Ezekiel 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

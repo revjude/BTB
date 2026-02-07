@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:17** 
 <small><sub>**LXX:**</sub></small>
 And the king said to the bodyguards, to the ones standing by him, Lead forward, and put to death the priests of the <span class="smallcaps">lord</span>! for  their hand \[is\] with David, for they knew that he fled, and they did not uncover  my ear. And the servants of the king would not bear  their hands to encounter against the priests of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD; because their hand also [is] with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the king ordered the guards at his side, “Turn and kill the priests of the LORD, because they too sided with David. For they knew he was fleeing, but they did not tell me.” But the king’s servants would not lift a hand to strike the priests of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.16|<< 1 Samuel 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.18|1 Samuel 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

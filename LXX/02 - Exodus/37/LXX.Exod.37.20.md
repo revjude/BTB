@@ -1,10 +1,7 @@
 **LXX Exodus 37:20** 
 <small><sub>**LXX:**</sub></small>
 And on the lamp-stand \[were\] four basins being shaped nut-like to the one branch, \[with\] the knobs, and  \[its\] lilies. 
-<small><sub>**KJV:**</sub></small>
-And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:
-<small><sub>**BSB:**</sub></small>
-And on the lampstand were four cups shaped like almond blossoms with buds and petals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.19|<< Exodus 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.21|Exodus 37:21 >>]]</td></tr></table>
 
 | Translation | Greek |

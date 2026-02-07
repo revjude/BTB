@@ -1,4 +1,4 @@
-**2 Chronicles 28:18** 
+**2 Chronicles 28:18**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Bethshemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Philistines had also raided the cities of the foothills and the Negev of Jud
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.17|<< 2 Chronicles 28:17]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.19|2 Chronicles 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Philistines  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6430G\|פְלִשְׁתִּ֣ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had made a raid  |**<big>&#8207;[[H6584\|פָּשְׁט֗וּ]]&#8207; </big>**| pa.she.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

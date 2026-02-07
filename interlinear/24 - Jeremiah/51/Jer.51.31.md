@@ -1,4 +1,4 @@
-**Jeremiah 51:31** 
+**Jeremiah 51:31**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at [one] end,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One courier races to meet another, and messenger follows messenger, to announce 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.30|<< Jeremiah 51:30]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.32|Jeremiah 51:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a runner  |**<big>&#8207;[[H7323G\|רָ֤ץ]]&#8207; </big>**| ratz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to meet  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרַאת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.rat-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

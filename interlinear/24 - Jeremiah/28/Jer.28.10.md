@@ -1,4 +1,4 @@
-**Jeremiah 28:10** 
+**Jeremiah 28:10**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Hananiah the prophet took the yoke from off the prophet Jeremiah’s neck, and brake it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the prophet Hananiah took the yoke off the neck of Jeremiah the prophet and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.9|<< Jeremiah 28:9]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.11|Jeremiah 28:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hananiah  |**<big>&#8207;[[H2608A\|חֲנַנְיָ֤ה]]&#8207; </big>**| cha.nan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

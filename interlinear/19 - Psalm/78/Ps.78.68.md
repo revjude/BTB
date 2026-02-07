@@ -1,4 +1,4 @@
-**Psalms 78:68** 
+**Psalms 78:68**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But chose the tribe of Judah, the mount Zion which he loved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But He chose the tribe of Judah, Mount Zion, which He loved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.67|<< Psalms 78:67]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.69|Psalms 78:69 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he chose  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H0977\|יִּבְחַר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiv.char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:15** 
 <small><sub>**LXX:**</sub></small>
 And Johanan son of Kareah said  to Gedaliah secretly in Mizpah, I will go indeed, and I shall strike  Ishmael son of Nethaniah, and let no one know! lest he should strike your soul, and should scatter all Judah, the ones being brought together to you, and they shall destroy the rest of Judah. 
-<small><sub>**KJV:**</sub></small>
-Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know [it]: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish?
-<small><sub>**BSB:**</sub></small>
-Then Johanan son of Kareah spoke privately to Gedaliah at Mizpah. “Let me go and kill Ishmael son of Nethaniah,” he said. “No one will know it. Why should he take your life and scatter all the people of Judah who have gathered to you, so that the remnant of Judah would perish?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.14|<< Jeremiah 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.16|Jeremiah 40:16 >>]]</td></tr></table>
 
 | Translation | Greek |

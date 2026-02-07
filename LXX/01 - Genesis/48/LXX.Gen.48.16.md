@@ -1,10 +1,7 @@
 **LXX Genesis 48:16** 
 <small><sub>**LXX:**</sub></small>
 the angel  rescuing me from all  evils, bless  these boys! And my name shall be called upon them, and the name  of my fathers -- Abraham and Isaac. And may they multiply into a great multitude upon the earth. 
-<small><sub>**KJV:**</sub></small>
-The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
-<small><sub>**BSB:**</sub></small>
-the angel who has redeemed me from all harm—may He bless these boys. And may they be called by my name and the names of my fathers Abraham and Isaac, and may they grow into a multitude upon the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.15|<< Genesis 48:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.17|Genesis 48:17 >>]]</td></tr></table>
 
 | Translation | Greek |

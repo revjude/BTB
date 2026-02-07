@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:24** 
 <small><sub>**LXX:**</sub></small>
 And I will strengthen the arms of \[the\] king of Babylon, and I will put  my broadsword into  his hand. And he shall bring it upon Egypt, and he shall plunder  her plunder, and he shall despoil  her spoils. 
-<small><sub>**KJV:**</sub></small>
-And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh’s arms, and he shall groan before him with the groanings of a deadly wounded [man].
-<small><sub>**BSB:**</sub></small>
-I will strengthen the arms of Babylon’s king and place My sword in his hand, but I will break the arms of Pharaoh, who will groan before him like a mortally wounded man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.23|<< Ezekiel 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.25|Ezekiel 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

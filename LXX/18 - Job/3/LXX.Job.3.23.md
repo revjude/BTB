@@ -1,10 +1,7 @@
 **LXX Job 3:23** 
 <small><sub>**LXX:**</sub></small>
 The way was not concealed, for God hemmed in against him. 
-<small><sub>**KJV:**</sub></small>
-[Why is light given] to a man whose way is hid, and whom God hath hedged in?
-<small><sub>**BSB:**</sub></small>
-Why is life given to a man whose way is hidden, whom God has hedged in?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.22|<< Job 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.24|Job 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

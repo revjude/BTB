@@ -1,4 +1,4 @@
-**Deuteronomy 21:17** 
+**Deuteronomy 21:17**<big><big>[[Deut.21.15 Inheritance Rights of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall acknowledge the son of the hated [for] the firstborn, by giving him a double portion of all that he hath: for he [is] the beginning of his strength; the right of the firstborn [is] his.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, he must acknowledge the firstborn, the son of his unloved wife, by givi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.16|<< Deuteronomy 21:16]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.18|Deuteronomy 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

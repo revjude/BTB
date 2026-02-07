@@ -1,4 +1,4 @@
-**Zephaniah 1:18** 
+**Zephaniah 1:18**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither their silver nor their gold shall be able to deliver them in the day of the LORD’S wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Neither their silver nor their gold will be able to deliver them on the Day of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.17|<< Zephaniah 1:17]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.1|Zephaniah 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | neither  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver their  |**<big>&#8207;[[H3701G\|כַּסְפָּ֨]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| kas.Pa<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 14:48** 
 <small><sub>**LXX:**</sub></small>
 And if coming, the priest should enter and look, and behold, the infection is not dispersed in the house after the plastering the house, that the priest cleansed the house, for the infection is healed. 
-<small><sub>**KJV:**</sub></small>
-And if the priest shall come in, and look [upon it], and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
-<small><sub>**BSB:**</sub></small>
-If, however, the priest comes and inspects it, and the mildew has not spread after the house has been replastered, he shall pronounce the house clean, because the mildew is gone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.47|<< Leviticus 14:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.49|Leviticus 14:49 >>]]</td></tr></table>
 
 | Translation | Greek |

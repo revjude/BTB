@@ -1,4 +1,4 @@
-**Daniel 5:13** 
+**Daniel 5:13**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was Daniel brought in before the king. [And] the king spake and said unto Daniel, [Art] thou that Daniel, which [art] of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Daniel was brought before the king, who asked him, “Are you Daniel, one of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.12|<< Daniel 5:12]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.14|Daniel 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֙יִן֙]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָּֽנִיֵּ֔אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it became morning, and David wrote a scroll to Joab, and sent it by \[the\] hand of Uriah. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the morning, that David wrote a letter to Joab, and sent [it] by the hand of Uriah.
-<small><sub>**BSB:**</sub></small>
-The next morning David wrote a letter to Joab and sent it with Uriah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.13|<< 2 Samuel 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.15|2 Samuel 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

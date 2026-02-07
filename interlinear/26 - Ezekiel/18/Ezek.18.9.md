@@ -1,4 +1,4 @@
-**Ezekiel 18:9** 
+**Ezekiel 18:9**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath walked in my statutes, and hath kept my judgments, to deal truly; he [is] just, he shall surely live, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He follows My statutes and faithfully keeps My ordinances. That man is righteous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.8|<< Ezekiel 18:8]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.10|Ezekiel 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in statutes my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2708\|חֻקּוֹתַ֧]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he walked  |**<big>&#8207;[[H1980I\|יְהַלֵּ֛ךְ]]&#8207; </big>**| ye.ha.Lekh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

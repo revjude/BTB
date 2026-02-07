@@ -1,10 +1,7 @@
 **LXX Genesis 24:46** 
 <small><sub>**LXX:**</sub></small>
 And she hastened to lower the water-pitcher upon  her arm from herself, and she said, You drink! and  I will water your camels. And I drank, and she watered the camels. 
-<small><sub>**KJV:**</sub></small>
-And she made haste, and let down her pitcher from her [shoulder], and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.
-<small><sub>**BSB:**</sub></small>
-She quickly lowered her jar from her shoulder and said, ‘Drink, and I will water your camels as well.’ So I drank, and she also watered the camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.45|<< Genesis 24:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.47|Genesis 24:47 >>]]</td></tr></table>
 
 | Translation | Greek |

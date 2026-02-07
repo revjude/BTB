@@ -1,4 +1,4 @@
-**1 Chronicles 5:8** 
+**1 Chronicles 5:8**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baalmeon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Bela son of Azaz, the son of Shema, the son of Joel. They settled in Aroer a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.7|<< 1 Chronicles 5:7]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.9|1 Chronicles 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Bela  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1106H\|בֶ֙לַע֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ve.la'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

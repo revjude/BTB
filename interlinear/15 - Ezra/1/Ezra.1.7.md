@@ -1,4 +1,4 @@
-**Ezra 1:7** 
+**Ezra 1:7**<big><big>[[Ezra.1.7 Cyrus Restores the Holy Vessels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ King Cyrus also brought out the articles belonging to the house of the LORD that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.6|<< Ezra 1:6]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.8|Ezra 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the king  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cyrus  |**<big>&#8207;[[H3566\|כּ֔וֹרֶשׁ]]&#8207; </big>**| Ko.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

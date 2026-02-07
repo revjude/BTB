@@ -1,4 +1,4 @@
-**Genesis 25:2** 
+**Genesis 25:2**<big><big>[[Gen.25.1 Abraham and Keturah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.1|<< Genesis 25:1]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.3|Genesis 25:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֣לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

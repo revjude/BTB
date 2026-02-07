@@ -1,4 +1,4 @@
-**Judges 20:43** 
+**Judges 20:43**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thus] they inclosed the Benjamites round about, [and] chased them, [and] trode them down with ease over against Gibeah toward the sunrising.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They surrounded the Benjamites, pursued them, and easily overtook them in the vi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.42|<< Judges 20:42]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.44|Judges 20:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they surrounded  |**<big>&#8207;[[H3803\|כִּתְּר֤וּ]]&#8207; </big>**| ki.te.Ru<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Timothy 4:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:13**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Till I come, give attendance to reading, to exhortation, to doctrine.
 <small><sub>**BSB:**</sub></small>
 Until I come, devote yourself to the public reading of Scripture, to exhortation, and to teaching.
 <small><sub>**Literal:**</sub></small>
 Until I come, do give heed to the public reading of Scripture, <the> to exhortation, <the> to teaching,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.12|<< 1 Timothy 4:12]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.14|1 Timothy 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Until |**<big>[[G2193\|ἕως]]</big>**  |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I come, |**<big>[[G2064\|ἔρχομαι,]]</big>**  |erchomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

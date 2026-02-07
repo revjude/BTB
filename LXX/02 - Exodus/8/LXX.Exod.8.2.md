@@ -1,10 +1,7 @@
 **LXX Exodus 8:2** 
 <small><sub>**LXX:**</sub></small>
 you should not be willing to send, behold, I strike all  your boundaries with frogs. 
-<small><sub>**KJV:**</sub></small>
-And if thou refuse to let [them] go, behold, I will smite all thy borders with frogs:
-<small><sub>**BSB:**</sub></small>
-But if you refuse to let them go, I will plague your whole country with frogs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.1|<< Exodus 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.3|Exodus 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 15:11** 
+**2 Chronicles 15:11**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they offered unto the LORD the same time, of the spoil [which] they had brought, seven hundred oxen and seven thousand sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time they sacrificed to the LORD seven hundred oxen and seven thousand s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.10|<< 2 Chronicles 15:10]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.12|2 Chronicles 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבְּח֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.be.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

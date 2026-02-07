@@ -1,4 +1,4 @@
-**Zephaniah 3:9** 
+**Zephaniah 3:9**<big><big>[[Zeph.3.9 A Faithful Remnant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For then I will restore pure lips to the peoples, that all may call upon the nam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.8|<< Zephaniah 3:8]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.10|Zephaniah 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0227A\|אָ֛ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

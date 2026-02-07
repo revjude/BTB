@@ -1,4 +1,4 @@
-**2 Samuel 6:12** 
+**2 Samuel 6:12**<big><big>[[2Sam.6.12 The Ark Brought to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told king David, saying, The LORD hath blessed the house of Obededom, and all that [pertaineth] unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now it was reported to King David, “The LORD has blessed the house of Obed-edo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.11|<< 2 Samuel 6:11]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.13|2 Samuel 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֗ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

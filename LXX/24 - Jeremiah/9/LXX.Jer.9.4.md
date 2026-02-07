@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:4** 
 <small><sub>**LXX:**</sub></small>
 take guard each of his neighbor, and let \[them\] not rely upon their brethren! For every brother shall stomp with \[the\] heel, and every friend shall go deceitfully. 
-<small><sub>**KJV:**</sub></small>
-Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
-<small><sub>**BSB:**</sub></small>
-“Let everyone guard against his neighbor; do not trust any brother, for every brother deals craftily, and every friend spreads slander.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.3|<< Jeremiah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.5|Jeremiah 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

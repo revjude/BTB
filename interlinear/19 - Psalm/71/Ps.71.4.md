@@ -1,4 +1,4 @@
-**Psalms 71:4** 
+**Psalms 71:4**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Deliver me, O my God, from the hand of the wicked, from the grasp of the unjust 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.3|<< Psalms 71:3]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.5|Psalms 71:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God my  |**<big>&#8207;[[H0430G\|אֱֽלֹהַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'elo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deliver me  |**<big>&#8207;[[H6403\|פַּ֭לְּטֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Pa.le.te.<small><sup>[[HVpv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

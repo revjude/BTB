@@ -1,10 +1,7 @@
 **LXX Judges 7:20** 
 <small><sub>**LXX:**</sub></small>
 And the three companies trumped with the horns, and they broke the water-pitchers, and took the lamps in their left hand, and in  their right hand \[was\] the horns  to trump. And they shouted aloud, A broadsword for the <span class="smallcaps">lord</span> and for Gideon. 
-<small><sub>**KJV:**</sub></small>
-And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow [withal]: and they cried, The sword of the LORD, and of Gideon.
-<small><sub>**BSB:**</sub></small>
-The three companies blew their horns and shattered their jars. Holding the torches in their left hands and the horns in their right hands, they shouted, “A sword for the LORD and for Gideon!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.19|<< Judges 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.21|Judges 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

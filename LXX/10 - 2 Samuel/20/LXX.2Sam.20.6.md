@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:6** 
 <small><sub>**LXX:**</sub></small>
 And David said to Abishai, Now Sheba son of Bichri shall do us evil above Absalom. And now take with yourself the servants  of your master, and pursue after him! so that he should not find for himself fortified cities, and he should shadow  our eyes. 
-<small><sub>**KJV:**</sub></small>
-And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than [did] Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape us.
-<small><sub>**BSB:**</sub></small>
-And David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom. Take your lord’s servants and pursue him, or he will find fortified cities and elude us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.5|<< 2 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.7|2 Samuel 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

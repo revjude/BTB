@@ -1,4 +1,4 @@
-**Exodus 20:2** 
+**Exodus 20:2**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I [am] the LORD thy God, which have brought thee out of the land of Egypt, out o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.1|<< Exodus 20:1]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.3|Exodus 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָֽנֹכִ֖י֙]]&#8207; </big>**[^1] | 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

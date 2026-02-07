@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  our God, to all  this abundance which we prepared for you  to build a house \[to\] your name -- to the holy \[name\], for it is from your hand, and all \[things\] are yours. 
-<small><sub>**KJV:**</sub></small>
-O LORD our God, all this store that we have prepared to build thee an house for thine holy name [cometh] of thine hand, and [is] all thine own.
-<small><sub>**BSB:**</sub></small>
-O LORD our God, from Your hand comes all this abundance that we have provided to build You a house for Your holy Name, and all of it belongs to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.15|<< 1 Chronicles 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.17|1 Chronicles 29:17 >>]]</td></tr></table>
 
 | Translation | Greek |

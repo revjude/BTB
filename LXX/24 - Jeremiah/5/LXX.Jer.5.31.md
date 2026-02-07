@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:31** 
 <small><sub>**LXX:**</sub></small>
 The prophets prophesied unjustly, and the priests clapped  their hands; and  my people have loved it so. And what will you do in the \[times\] after these \[things\]? 
-<small><sub>**KJV:**</sub></small>
-The prophets prophesy falsely, and the priests bear rule by their means; and my people love [to have it] so: and what will ye do in the end thereof?
-<small><sub>**BSB:**</sub></small>
-The prophets prophesy falsely, and the priests rule by their own authority. My people love it so, but what will you do in the end?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.30|<< Jeremiah 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.1|Jeremiah 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 4:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:16**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
 <small><sub>**BSB:**</sub></small>
 Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.
 <small><sub>**Literal:**</sub></small>
 We may come therefore with boldness to the throne <the> of grace, so that we may receive mercy and grace may find for in time of need help.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.15|<< Hebrews 4:15]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.1|Hebrews 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We may come |**<big>[[G4334\|προσερχώμεθα]]</big>**  |proserchōmetha <small><sup>[[V-PNS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

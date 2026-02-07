@@ -1,4 +1,4 @@
-**Jeremiah 52:33** 
+**Jeremiah 52:33**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And changed his prison garments: and he did continually eat bread before him all the days of his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoiachin changed out of his prison clothes, and he dined regularly at the k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.32|<< Jeremiah 52:32]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.34|Jeremiah 52:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he changed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8138A\|שִׁנָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Nah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

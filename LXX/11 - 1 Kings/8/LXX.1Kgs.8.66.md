@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:66** 
 <small><sub>**LXX:**</sub></small>
 And on the eighth day he sent out the people, and they blessed the king. And each went forth unto  his tent rejoicing, and \[with\] good heart over the good \[things\] which \[the\] <span class="smallcaps">lord</span> did \[to\] David his servant, and  to Israel  his people. 
-<small><sub>**KJV:**</sub></small>
-On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
-<small><sub>**BSB:**</sub></small>
-On the fifteenth day Solomon sent the people away. So they blessed the king and went home, joyful and glad in heart for all the good things that the LORD had done for His servant David and for His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.65|<< 1 Kings 8:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.1|1 Kings 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

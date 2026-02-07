@@ -1,4 +1,4 @@
-**Judges 16:14** 
+**Judges 16:14**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she fastened [it] with the pin, and said unto him, The Philistines [be] upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So while he slept, Delilah took the seven braids of his hair and wove them into 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.13|<< Judges 16:13]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.15|Judges 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she made sleep him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3462\|תְּיַשְּׁנֵ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ya.she.Ne.<small><sup>[[HVpw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Based on Greek sources">X</abbr> |
 | and she wove  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0707\|תַּאֲרִיג]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.rig<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Based on Greek sources">X</abbr> |

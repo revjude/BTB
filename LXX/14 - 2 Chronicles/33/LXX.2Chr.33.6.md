@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:6** 
 <small><sub>**LXX:**</sub></small>
 And he led  his children in fire in \[the\] ground of \[the\] Son of Hinnom. And he prognosticated, and foretold, and administered potions, and established ones who deliver oracles, and enchanters. And he multiplied  to act  wickedly before \[the\] <span class="smallcaps">lord</span>,  to provoke him to anger. 
-<small><sub>**KJV:**</sub></small>
-And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger.
-<small><sub>**BSB:**</sub></small>
-He sacrificed his sons in the fire in the Valley of Ben-hinnom. He practiced sorcery, divination, and witchcraft, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.5|<< 2 Chronicles 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.7|2 Chronicles 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

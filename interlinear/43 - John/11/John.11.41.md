@@ -1,12 +1,12 @@
-**John 11:41
-**<small><sub>**KJV:**</sub></small>
+**John 11:41**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they took away the stone [from the place] where the dead was laid. And Jesus lifted up [his] eyes, and said, Father, I thank thee that thou hast heard me.
 <small><sub>**BSB:**</sub></small>
 So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me.
 <small><sub>**Literal:**</sub></small>
 They took away therefore the stone where was who having died laid. <the> Now Jesus lifted <the> [His] eyes upwards and said; Father, I thank You that You have heard Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.40|<< John 11:40]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.42|John 11:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They took away |**<big>[[G0142\|ἦραν]]</big>**  |ēran <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

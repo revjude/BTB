@@ -1,5 +1,5 @@
-**1 Peter 1:16
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:16**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because it is written, Be ye holy; for I am holy.
 <small><sub>**BSB:**</sub></small>
 for it is written: “Be holy, because I am holy.”
@@ -10,7 +10,7 @@ because it has been written: that Holy you will be, because I myself holy am.<br
 > $\quad$ referencing: [[LXX.Lev.11.44|Lev 11:44]] ☩ [[LXX.Lev.19.2|Lev 19:2]] ☩ [[LXX.Lev.20.7|Lev 20:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

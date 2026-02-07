@@ -1,12 +1,12 @@
-**2 Thessalonians 2:13
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:13**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
 <small><sub>**BSB:**</sub></small>
 But we should always thank God for you, brothers who are loved by the Lord, because God chose you from the beginning to be saved by the sanctification of the Spirit and by faith in the truth.
 <small><sub>**Literal:**</sub></small>
 We ourselves however ought to give thanks <the> to God always concerning you, brothers beloved by [the] Lord, that has chosen you <the> God from [the] beginning unto salvation in [the] sanctification of [the] Spirit and [by] faith of [the] truth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.12|<< 2 Thessalonians 2:12]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.14|2 Thessalonians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|Ἡμεῖς]]</big>**  |Hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

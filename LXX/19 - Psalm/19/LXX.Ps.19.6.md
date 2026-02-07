@@ -1,10 +1,7 @@
 **LXX Psalm 19:6** 
 <small><sub>**LXX:**</sub></small>
 From one tip  of heaven \[is\] his exiting, and  his arrival unto \[the other\] tip  of heaven; and there is not one who shall be concealed  from his heat. 
-<small><sub>**KJV:**</sub></small>
-His going forth [is] from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
-<small><sub>**BSB:**</sub></small>
-it rises at one end of the heavens and runs its circuit to the other; nothing is deprived of its warmth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.5|<< Psalm 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.7|Psalm 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

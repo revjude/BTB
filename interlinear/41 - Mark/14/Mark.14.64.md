@@ -1,12 +1,12 @@
-**Mark 14:64
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:64**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.
 <small><sub>**BSB:**</sub></small>
 You have heard the blasphemy. What is your verdict?” And they all condemned Him as deserving of death.
 <small><sub>**Literal:**</sub></small>
 You heard the blasphemy; What to you does it appear? <the> And all condemned Him deserving to be of death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.63|<< Mark 14:63]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.65|Mark 14:65 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You heard |**<big>[[G0191\|ἠκούσατε]]</big>**  |ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

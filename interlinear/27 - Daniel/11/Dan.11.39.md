@@ -1,4 +1,4 @@
-**Daniel 11:39** 
+**Daniel 11:39**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge [and] increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will attack the strongest fortresses with the help of a foreign god and will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.38|<< Daniel 11:38]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.40|Daniel 11:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will act  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] fortresses of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4013\|מִבְצְרֵ֤י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> miv.tze.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

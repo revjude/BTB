@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:15** 
 <small><sub>**LXX:**</sub></small>
 They were shamed for they failed; but neither as ones being disgraced were they disgraced; and  their dishonor they knew not. On account of this they shall fall in  their downfall, and in time of their visitation they shall perish, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore they shall fall among them that fall: at the time [that] I visit them they shall be cast down, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Are they ashamed of the abomination they have committed? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; when I punish them, they will collapse,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.14|<< Jeremiah 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.16|Jeremiah 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

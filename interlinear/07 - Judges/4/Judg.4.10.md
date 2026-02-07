@@ -1,4 +1,4 @@
-**Judges 4:10** 
+**Judges 4:10**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Debor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.9|<< Judges 4:9]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.11|Judges 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יַּזְעֵ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaz.'Ek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Barak  |**<big>&#8207;[[H1301\|בָּרָ֜ק]]&#8207; </big>**| ba.Rak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

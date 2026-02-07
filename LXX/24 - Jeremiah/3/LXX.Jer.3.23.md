@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:23** 
 <small><sub>**LXX:**</sub></small>
 Really the a lie hills and the powers of the mountains were for. Only through \[the\] <span class="smallcaps">lord</span>  our God \[is\] the deliverance  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Truly in vain [is salvation hoped for] from the hills, [and from] the multitude of mountains: truly in the LORD our God [is] the salvation of Israel.
-<small><sub>**BSB:**</sub></small>
-Surely deception comes from the hills, and commotion from the mountains. Surely the salvation of Israel is in the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.22|<< Jeremiah 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.24|Jeremiah 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

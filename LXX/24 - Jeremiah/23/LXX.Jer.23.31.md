@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:31** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am\] against the prophets, says \[the\] <span class="smallcaps">lord</span>, the ones casting out prophecies of \[the\] tongue, and slumbering of their own slumber. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against the prophets, saith the LORD, that use their tongues, and say, He saith.
-<small><sub>**BSB:**</sub></small>
-“Yes,” declares the LORD, “I am against the prophets who wag their own tongues and proclaim, ‘The LORD declares it.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.30|<< Jeremiah 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.32|Jeremiah 23:32 >>]]</td></tr></table>
 
 | Translation | Greek |

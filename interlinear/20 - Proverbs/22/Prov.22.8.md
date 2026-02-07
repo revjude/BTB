@@ -1,4 +1,4 @@
-**Proverbs 22:8** 
+**Proverbs 22:8**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He who sows injustice will reap disaster, and the rod of his fury will be destro
 > $\quad$ referenced by: [[2Cor.9.7|2Cor 9:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] sows  |**<big>&#8207;[[H2232\|זוֹרֵ֣עַ]]&#8207; </big>**| zo.Re.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unrighteousness  |**<big>&#8207;[[H5766B\|עַ֭וְלָה]]&#8207; </big>**| 'Av.lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

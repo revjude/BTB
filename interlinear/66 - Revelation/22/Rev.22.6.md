@@ -1,12 +1,12 @@
-**Revelation 22:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:6**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto me, These sayings [are] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
 <small><sub>**BSB:**</sub></small>
 Then the angel said to me, “These words are faithful and true. The Lord, the God of the spirits of the prophets, has sent His angel to show His servants what must soon take place.”
 <small><sub>**Literal:**</sub></small>
 And he said to me; These <the> words [are] faithful and true, And the Lord the God of the spirits of the prophets sent the angel of Him to show to the servants of Him [the things] that must come to pass with speed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.5|<< Revelation 22:5]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.7|Revelation 22:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he said [^1] |**<big>[[G2036\|εἶπέν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

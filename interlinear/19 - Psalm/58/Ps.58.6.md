@@ -1,4 +1,4 @@
-**Psalms 58:6** (58:7)
+**Psalms 58:6**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O God, shatter their teeth in their mouths; O LORD, tear out the fangs of the li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.5|<< Psalms 58:5]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.7|Psalms 58:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | break away  |**<big>&#8207;[[H2040\|הֲרָס]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.ros-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

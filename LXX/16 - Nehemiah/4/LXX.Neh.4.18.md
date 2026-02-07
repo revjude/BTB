@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:18** 
 <small><sub>**LXX:**</sub></small>
 And the builders -- a man \[had\] his broadsword tied upon  his loin, and they built. And the one trumpeting by the horn was next to me. 
-<small><sub>**KJV:**</sub></small>
-For the builders, every one had his sword girded by his side, and [so] builded. And he that sounded the trumpet [was] by me.
-<small><sub>**BSB:**</sub></small>
-And each of the builders worked with his sword strapped at his side. But the trumpeter stayed beside me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.17|<< Nehemiah 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.19|Nehemiah 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

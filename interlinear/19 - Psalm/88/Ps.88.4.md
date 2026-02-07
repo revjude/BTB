@@ -1,4 +1,4 @@
-**Psalms 88:4** (88:5)
+**Psalms 88:4**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am counted with them that go down into the pit: I am as a man [that hath] no strength:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am counted among those descending to the Pit. I am like a man without strength
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.3|<< Psalms 88:3]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.5|Psalms 88:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am reckoned  |**<big>&#8207;[[H2803H\|נֶ֭חְשַׁבְתִּי]]&#8207; </big>**| Nech.shav.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 8:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:9**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples asked him, saying, What might this parable be?
 <small><sub>**BSB:**</sub></small>
 Then His disciples asked Him what this parable meant.
 <small><sub>**Literal:**</sub></small>
 Were asking then Him the disciples of Him saying: What this would mean the parable<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.8|<< Luke 8:8]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.10|Luke 8:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were asking |**<big>[[G1905\|Ἐπηρώτων]]</big>**  |Epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

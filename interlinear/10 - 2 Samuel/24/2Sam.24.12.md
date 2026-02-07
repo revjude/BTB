@@ -1,4 +1,4 @@
-**2 Samuel 24:12** 
+**2 Samuel 24:12**<big><big>[[2Sam.24.10 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and say unto David, Thus saith the LORD, I offer thee three [things]; choose thee one of them, that I may [do it] unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go and say unto David, Thus saith the LORD, I offer thee three [things]; choose 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.11|<< 2 Samuel 24:11]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.13|2 Samuel 24:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|הָל֞וֹךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will speak  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבַּרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.bar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

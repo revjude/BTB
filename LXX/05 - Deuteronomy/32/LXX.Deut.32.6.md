@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:6** 
 <small><sub>**LXX:**</sub></small>
 Do you recompense these \[things\] \[to the\] <span class="smallcaps">lord</span> thus, O people, moronish and not wise? Did not he, this your father, acquire you, and make you, and shape you? 
-<small><sub>**KJV:**</sub></small>
-Do ye thus requite the LORD, O foolish people and unwise? [is] not he thy father [that] hath bought thee? hath he not made thee, and established thee?
-<small><sub>**BSB:**</sub></small>
-Is this how you repay the LORD, O foolish and senseless people? Is He not your Father and Creator? Has He not made you and established you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.5|<< Deuteronomy 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.7|Deuteronomy 32:7 >>]]</td></tr></table>
 
 | Translation | Greek |

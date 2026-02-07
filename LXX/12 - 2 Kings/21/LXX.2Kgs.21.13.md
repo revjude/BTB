@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:13** 
 <small><sub>**LXX:**</sub></small>
 And I stretch out over Jerusalem the measure of Samaria, and the weight of \[the\] house of Ahab. And I will wipe  Jerusalem as one wipes a writing tablet, and overturns it upon its face. 
-<small><sub>**KJV:**</sub></small>
-And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as [a man] wipeth a dish, wiping [it], and turning [it] upside down.
-<small><sub>**BSB:**</sub></small>
-I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl—wiping it and turning it upside down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.12|<< 2 Kings 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.14|2 Kings 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

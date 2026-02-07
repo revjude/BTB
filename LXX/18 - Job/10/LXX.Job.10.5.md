@@ -1,10 +1,7 @@
 **LXX Job 10:5** 
 <small><sub>**LXX:**</sub></small>
 Or  your existence -- is it mankind? or  your years -- a man's? 
-<small><sub>**KJV:**</sub></small>
-[Are] thy days as the days of man? [are] thy years as man’s days,
-<small><sub>**BSB:**</sub></small>
-Are Your days like those of a mortal, or Your years like those of a man,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.4|<< Job 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.6|Job 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

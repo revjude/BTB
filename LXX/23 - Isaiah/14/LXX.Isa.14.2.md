@@ -1,10 +1,7 @@
 **LXX Isaiah 14:2** 
 <small><sub>**LXX:**</sub></small>
 And nations shall take them, and bring \[them\] into  their place; and they shall inherit \[them\], and they shall be multiplied upon the land  of God for manservants and maidservants; and the ones capturing them shall be captives; and they shall dominate the ones dominating them. 
-<small><sub>**KJV:**</sub></small>
-And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the LORD for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
-<small><sub>**BSB:**</sub></small>
-The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as menservants and maidservants in the LORD’s land. They will make captives of their captors and rule over their oppressors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.1|<< Isaiah 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.3|Isaiah 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 14:2** is...

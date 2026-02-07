@@ -1,4 +1,4 @@
-**1 Samuel 20:21** 
+**1 Samuel 20:21**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I will send a lad, [saying], Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows [are] on this side of thee, take them; then come thou: for [there is] peace to thee, and no hurt; [as] the LORD liveth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will send a boy and say, ‘Go, find the arrows!’ Now, if I expressly s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.20|<< 1 Samuel 20:20]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.22|1 Samuel 20:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will send  |**<big>&#8207;[[H7971G\|אֶשְׁלַ֣ח]]&#8207; </big>**| 'esh.Lach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

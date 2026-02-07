@@ -1,4 +1,4 @@
-**Job 18:3** 
+**Job 18:3**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore are we counted as beasts, [and] reputed vile in your sight?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are we regarded as cattle, as stupid in your sight?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.2|<< Job 18:2]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.4|Job 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַ֭דּוּעַ]]&#8207; </big>**| Ma.du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | are we regarded  |**<big>&#8207;[[H2803J\|נֶחְשַׁ֣בְנוּ]]&#8207; </big>**| nech.Shav.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

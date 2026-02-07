@@ -1,10 +1,7 @@
 **LXX Proverbs 30:29** 
 <small><sub>**LXX:**</sub></small>
 And there are three which go prosperously, and the fourth which passes over well -- 
-<small><sub>**KJV:**</sub></small>
-There be three [things] which go well, yea, four are comely in going:
-<small><sub>**BSB:**</sub></small>
-There are three things that are stately in their stride, and four that are impressive in their walk:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.28|<< Proverbs 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.30|Proverbs 30:30 >>]]</td></tr></table>
 
 | Translation | Greek |

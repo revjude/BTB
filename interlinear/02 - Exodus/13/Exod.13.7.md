@@ -1,4 +1,4 @@
-**Exodus 13:7** 
+**Exodus 13:7**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Unleavened bread shall be eaten during those seven days. Nothing leavened may be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.6|<< Exodus 13:6]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.8|Exodus 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | unleavened bread\<s>  |**<big>&#8207;[[H4682\|מַצּוֹת֙]]&#8207; </big>**| ma.tzOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be eaten  |**<big>&#8207;[[H0398\|יֵֽאָכֵ֔ל]]&#8207; </big>**| ye.'a.Khel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

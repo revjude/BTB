@@ -1,10 +1,7 @@
 **LXX Exodus 33:20** 
 <small><sub>**LXX:**</sub></small>
 And he said, You will not be able to see  my face, for not in any way man see  my face, and shall live. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thou canst not see my face: for there shall no man see me, and live.
-<small><sub>**BSB:**</sub></small>
-But He added, “You cannot see My face, for no one can see Me and live.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.19|<< Exodus 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.21|Exodus 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

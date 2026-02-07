@@ -1,10 +1,7 @@
 **LXX Genesis 17:17** 
 <small><sub>**LXX:**</sub></small>
 And Abraham fell upon his face and laughed. And he said in  his mind, saying, Shall to the hundred year \[old\] be a son? And shall  Sarah at ninety years bear? 
-<small><sub>**KJV:**</sub></small>
-Then Abraham fell upon his face, and laughed, and said in his heart, Shall [a child] be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
-<small><sub>**BSB:**</sub></small>
-Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.16|<< Genesis 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.18|Genesis 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

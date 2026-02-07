@@ -1,4 +1,4 @@
-**Leviticus 27:23** 
+**Leviticus 27:23**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall reckon unto him the worth of thy estimation, [even] unto the year of the jubile: and he shall give thine estimation in that day, [as] a holy thing unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the priest shall calculate for him the value up to the Year of Jubilee, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.22|<< Leviticus 27:22]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.24|Leviticus 27:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will calculate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2803H\|חִשַּׁב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.shav-<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> himself  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

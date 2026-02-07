@@ -1,4 +1,4 @@
-**2 Chronicles 5:1** 
+**2 Chronicles 5:1**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in [all] the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the work that Solomon had performed for the house of the LORD was complet
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.22|<< 2 Chronicles 4:22]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.2|2 Chronicles 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was complete  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7999A\|תִּשְׁלַם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Lam<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 7:2** 
+**Exodus 7:2**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to speak all that I command you, and your brother Aaron is to tell Phara
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.1|<< Exodus 7:1]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.3|Exodus 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will speak  |**<big>&#8207;[[H1696G\|תְדַבֵּ֔ר]]&#8207; </big>**| te.da.Ber<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

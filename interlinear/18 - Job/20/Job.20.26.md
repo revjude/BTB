@@ -1,4 +1,4 @@
-**Job 20:26** 
+**Job 20:26**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All darkness [shall be] hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Total darkness is reserved for his treasures. A fire unfanned will consume him a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.25|<< Job 20:25]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.27|Job 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹשֶׁךְ֮]]&#8207; </big>**| cho.sheKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

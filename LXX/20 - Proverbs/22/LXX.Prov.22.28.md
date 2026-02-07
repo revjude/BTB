@@ -1,10 +1,7 @@
 **LXX Proverbs 22:28** 
 <small><sub>**LXX:**</sub></small>
 Do not remove \[the\] everlasting boundaries! which your fathers set. 
-<small><sub>**KJV:**</sub></small>
-Remove not the ancient landmark, which thy fathers have set.
-<small><sub>**BSB:**</sub></small>
-Do not move an ancient boundary stone which your fathers have placed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.27|<< Proverbs 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.29|Proverbs 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

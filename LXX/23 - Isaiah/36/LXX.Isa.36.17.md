@@ -1,10 +1,7 @@
 **LXX Isaiah 36:17** 
 <small><sub>**LXX:**</sub></small>
 until whenever I should come and should take you into a land as  your land; a land of grain, and wine, and bread \[loaves\], and vineyards. 
-<small><sub>**KJV:**</sub></small>
-Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.
-<small><sub>**BSB:**</sub></small>
-until I come and take you away to a land like your own—a land of grain and new wine, a land of bread and vineyards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.16|<< Isaiah 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.18|Isaiah 36:18 >>]]</td></tr></table>
 
 | Translation | Greek |

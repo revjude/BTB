@@ -1,4 +1,4 @@
-**Psalms 80:10** (80:11)
+**Psalms 80:10**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hills were covered with the shadow of it, and the boughs thereof [were like] the goodly cedars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains were covered by its shade, and the mighty cedars with its branches
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.9|<< Psalms 80:9]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.11|Psalms 80:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were covered  |**<big>&#8207;[[H3680\|כָּסּ֣וּ]]&#8207; </big>**| ka.Su<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

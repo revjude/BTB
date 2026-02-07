@@ -1,10 +1,7 @@
 **LXX Psalm 60:7** 
 <small><sub>**LXX:**</sub></small>
 Gilead is mine, and Manasseh is mine, and Ephraim is \[the\] fortification  of my head; Judah \[is\] my king; 
-<small><sub>**KJV:**</sub></small>
-Gilead [is] mine, and Manasseh [is] mine; Ephraim also [is] the strength of mine head; Judah [is] my lawgiver;
-<small><sub>**BSB:**</sub></small>
-Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.6|<< Psalm 60:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.8|Psalm 60:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 27:29** 
+**Leviticus 27:29**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None devoted, which shall be devoted of men, shall be redeemed; [but] shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No person set apart for destruction may be ransomed; he must surely be put to de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.28|<< Leviticus 27:28]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.30|Leviticus 27:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dedicated person  |**<big>&#8207;[[H2764A\|חֵ֗רֶם]]&#8207; </big>**| Che.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

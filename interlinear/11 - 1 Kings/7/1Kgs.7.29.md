@@ -1,4 +1,4 @@
-**1 Kings 7:29** 
+**1 Kings 7:29**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the borders that [were] between the ledges [were] lions, oxen, and cherubims: and upon the ledges [there was] a base above: and beneath the lions and oxen [were] certain additions made of thin work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and on the panels between the uprights were lions, oxen, and cherubim. On the up
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.28|<< 1 Kings 7:28]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.30|1 Kings 7:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rims  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4526\|מִּסְגְּר֞וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mis.ge.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

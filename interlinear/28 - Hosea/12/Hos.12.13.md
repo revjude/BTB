@@ -1,4 +1,4 @@
-**Hosea 12:13** (12:14)
+**Hosea 12:13**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But by a prophet the LORD brought Israel out of Egypt, and by a prophet he was p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.12|<< Hosea 12:12]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.14|Hosea 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and by a prophet  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5030\|נָבִ֕יא]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he brought up  |**<big>&#8207;[[H5927H\|הֶעֱלָ֧ה]]&#8207; </big>**| he.'e.Lah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

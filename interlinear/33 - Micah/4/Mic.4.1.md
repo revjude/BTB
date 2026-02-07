@@ -1,4 +1,4 @@
-**Micah 4:1** 
+**Micah 4:1**<big><big>[[Mic.4.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the last days it shall come to pass, [that] the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the last days the mountain of the house of the LORD will be established as th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] end of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0319\|אַחֲרִ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

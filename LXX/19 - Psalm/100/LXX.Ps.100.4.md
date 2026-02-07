@@ -1,10 +1,7 @@
 **LXX Psalm 100:4** 
 <small><sub>**LXX:**</sub></small>
 Enter into  his gates with acknowledgment, into  his courtyards with hymns! Make acknowledgment to him! Praise  his name! 
-<small><sub>**KJV:**</sub></small>
-Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.
-<small><sub>**BSB:**</sub></small>
-Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.100.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.100.3|<< Psalm 100:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.100.5|Psalm 100:5 >>]]</td></tr></table>
 
 | Translation | Greek |

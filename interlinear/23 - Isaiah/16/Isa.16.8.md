@@ -1,4 +1,4 @@
-**Isaiah 16:8** 
+**Isaiah 16:8**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the fields of Heshbon languish, [and] the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come [even] unto Jazer, they wandered [through] the wilderness: her branches are stretched out, they are gone over the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the fields of Heshbon have withered, along with the grapevines of Sibmah. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fields of  |**<big>&#8207;[[H7709\|שַׁדְמוֹת֩]]&#8207; </big>**| shad.mOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

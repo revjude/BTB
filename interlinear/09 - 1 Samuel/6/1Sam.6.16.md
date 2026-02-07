@@ -1,4 +1,4 @@
-**1 Samuel 6:16** 
+**1 Samuel 6:16**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the five lords of the Philistines had seen [it], they returned to Ekron the same day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the five rulers of the Philistines saw this, they returned to Ekron tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.15|<< 1 Samuel 6:15]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.17|1 Samuel 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֥ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rulers of  |**<big>&#8207;[[H5633A\|סַרְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

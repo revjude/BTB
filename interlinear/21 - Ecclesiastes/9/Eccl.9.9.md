@@ -1,4 +1,4 @@
-**Ecclesiastes 9:9** 
+**Ecclesiastes 9:9**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that [is] thy portion in [this] life, and in thy labour which thou takest under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Enjoy life with your beloved wife all the days of the fleeting life that God has
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.8|<< Ecclesiastes 9:8]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.10|Ecclesiastes 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200K\|רְאֵ֨ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life  |**<big>&#8207;[[H2416E\|חַיִּ֜ים]]&#8207; </big>**| chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

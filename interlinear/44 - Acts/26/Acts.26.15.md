@@ -1,12 +1,12 @@
-**Acts 26:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:15**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.
 <small><sub>**BSB:**</sub></small>
 ‘Who are You, Lord?’ I asked. ‘I am Jesus, whom you are persecuting,’ the Lord replied.
 <small><sub>**Literal:**</sub></small>
 I myself then said; Who are You Lord? <the> And the Lord said; I myself am Jesus whom you yourself are persecuting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.14|<< Acts 26:14]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.16|Acts 26:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

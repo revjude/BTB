@@ -1,5 +1,5 @@
-**Acts 13:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:41**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.
 <small><sub>**BSB:**</sub></small>
 ‘Look, you scoffers, wonder and perish! For I am doing a work in your days that you would never believe, even if someone told you.’”
@@ -10,7 +10,7 @@ Behold! you scoffers, and do wonder and do perish for a work am working I myself
 > $\quad$ referencing: [[LXX.Hab.1.5|Hab 1:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold! |**<big>[[G1492H\|ἴδετε,]]</big>**  |idete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

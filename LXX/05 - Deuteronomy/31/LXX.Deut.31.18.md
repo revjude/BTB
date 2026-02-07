@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:18** 
 <small><sub>**LXX:**</sub></small>
 And I in turning will turn away  my face from them in  that day because of all the evils which they did, for they turned away unto alien gods. 
-<small><sub>**KJV:**</sub></small>
-And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.
-<small><sub>**BSB:**</sub></small>
-And on that day I will surely hide My face because of all the evil they have done by turning to other gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.17|<< Deuteronomy 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.19|Deuteronomy 31:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 6:34** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] rage of her husband \[is\] full of zeal; he will not spare in \[the\] day of judgment. 
-<small><sub>**KJV:**</sub></small>
-For jealousy [is] the rage of a man: therefore he will not spare in the day of vengeance.
-<small><sub>**BSB:**</sub></small>
-For jealousy enrages a husband, and he will show no mercy in the day of vengeance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.33|<< Proverbs 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.35|Proverbs 6:35 >>]]</td></tr></table>
 
 | Translation | Greek |

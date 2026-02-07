@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:6** 
 <small><sub>**LXX:**</sub></small>
 And David divided them into daily rotations to the sons of Levi -- \[to\] Gershon, Kohath, and Merari. 
-<small><sub>**KJV:**</sub></small>
-And David divided them into courses among the sons of Levi, [namely], Gershon, Kohath, and Merari.
-<small><sub>**BSB:**</sub></small>
-Then David divided the Levites into divisions according to the sons of Levi: Gershon, Kohath, and Merari.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.5|<< 1 Chronicles 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.7|1 Chronicles 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

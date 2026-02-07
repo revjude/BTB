@@ -1,10 +1,7 @@
 **LXX Exodus 6:27** 
 <small><sub>**LXX:**</sub></small>
 These are the ones reasoning with Pharaoh king of Egypt, so as to lead the sons of Israel from out of Egypt -- Aaron himself and Moses, 
-<small><sub>**KJV:**</sub></small>
-These [are] they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these [are] that Moses and Aaron.
-<small><sub>**BSB:**</sub></small>
-Moses and Aaron were the ones who spoke to Pharaoh king of Egypt in order to bring the Israelites out of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.26|<< Exodus 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.28|Exodus 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

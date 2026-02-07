@@ -1,4 +1,4 @@
-**Esther 1:12** 
+**Esther 1:12**<big><big>[[Esth.1.9 Queen Vashti’s Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the queen Vashti refused to come at the king’s commandment by [his] chamberlains: therefore was the king very wroth, and his anger burned in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Queen Vashti, however, refused to come at the king’s command brought by his eu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.11|<< Esther 1:11]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.13|Esther 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|תְּמָאֵ֞ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ma.'En<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the queen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4436H\|מַּלְכָּ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

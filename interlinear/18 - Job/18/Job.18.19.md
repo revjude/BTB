@@ -1,4 +1,4 @@
-**Job 18:19** 
+**Job 18:19**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall neither have son nor nephew among his people, nor any remaining in his dwellings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has no offspring or posterity among his people, no survivor where he once liv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.18|<< Job 18:18]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.20|Job 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֘א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | posterity  |**<big>&#8207;[[H5209\|נִ֤ין]]&#8207; </big>**| nin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

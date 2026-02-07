@@ -1,10 +1,7 @@
 **LXX Joshua 13:10** 
 <small><sub>**LXX:**</sub></small>
 and all the cities of Sihon king of \[the\] Amorites, which reigned in Heshbon, unto the borders of \[the\] sons of Ammon; 
-<small><sub>**KJV:**</sub></small>
-And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;
-<small><sub>**BSB:**</sub></small>
-and all the cities of Sihon king of the Amorites who reigned in Heshbon, as far as the border of the Ammonites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.9|<< Joshua 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.11|Joshua 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

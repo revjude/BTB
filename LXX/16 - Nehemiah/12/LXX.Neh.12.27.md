@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] festival of dedication of \[the\] wall of Jerusalem they sought out the Levites in  their places,  to bring them into Jerusalem, to observe \[the\] holiday of rededication with gladness, and in praise, and in odes, playing cymbals, and psalteries, and lutes. 
-<small><sub>**KJV:**</sub></small>
-And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, [with] cymbals, psalteries, and with harps.
-<small><sub>**BSB:**</sub></small>
-At the dedication of the wall of Jerusalem, the Levites were sought out from all their homes and brought to Jerusalem to celebrate the joyous dedication with thanksgiving and singing, accompanied by cymbals, harps, and lyres.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.26|<< Nehemiah 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.28|Nehemiah 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

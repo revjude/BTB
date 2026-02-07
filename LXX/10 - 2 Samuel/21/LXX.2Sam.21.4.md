@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:4** 
 <small><sub>**LXX:**</sub></small>
 And the Gibeonites said to him, There is not \[a problem\] with us \[over\] silver nor gold with Saul, and with  his house; and there is no man for us to put to death from all Israel. 
-<small><sub>**KJV:**</sub></small>
-And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, [that] will I do for you.
-<small><sub>**BSB:**</sub></small>
-The Gibeonites said to him, “We need no silver or gold from Saul or his house, nor should you put to death anyone in Israel for us.” “Whatever you ask, I will do for you,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.3|<< 2 Samuel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.5|2 Samuel 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

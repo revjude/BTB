@@ -1,10 +1,7 @@
 **LXX Genesis 8:10** 
 <small><sub>**LXX:**</sub></small>
 And waiting still another seven days, again he sent out the dove from the ark. 
-<small><sub>**KJV:**</sub></small>
-And he stayed yet other seven days; and again he sent forth the dove out of the ark;
-<small><sub>**BSB:**</sub></small>
-Noah waited seven more days and again sent out the dove from the ark.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.9|<< Genesis 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.11|Genesis 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

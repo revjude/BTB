@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:21** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the word which \[the\] <span class="smallcaps">lord</span> spoke against him, \[The\] virgin daughter of Zion treats you with contempt and sneers at you. Over you \[the\] daughter of Jerusalem shakes her head. 
-<small><sub>**KJV:**</sub></small>
-This [is] the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, [and] laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
-<small><sub>**BSB:**</sub></small>
-This is the word that the LORD has spoken against him: ‘The Virgin Daughter of Zion despises you and mocks you; the Daughter of Jerusalem shakes her head behind you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.20|<< 2 Kings 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.22|2 Kings 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

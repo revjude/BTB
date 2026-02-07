@@ -1,12 +1,12 @@
-**John 8:19
-**<small><sub>**KJV:**</sub></small>
+**John 8:19**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.
 <small><sub>**BSB:**</sub></small>
 “Where is Your Father?” they asked Him. “You do not know Me or My Father,” Jesus answered. “If you knew Me, you would know My Father as well.”
 <small><sub>**Literal:**</sub></small>
 They were saying therefore to Him; Where is the Father of You? Answered <the> Jesus; Neither Me myself you know nor [know] the Father of Mine. If Me myself you had known also the Father of Mine then would you have known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.18|<< John 8:18]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.20|John 8:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

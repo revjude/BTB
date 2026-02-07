@@ -1,12 +1,12 @@
-**2 Thessalonians 3:1
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:1**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Finally, brethren, pray for us, that the word of the Lord may have [free] course, and be glorified, even as [it is] with you:
 <small><sub>**BSB:**</sub></small>
 Finally, brothers, pray for us, that the word of the Lord may spread quickly and be held in honor, just as it was with you.
 <small><sub>**Literal:**</sub></small>
 <the> Finally, do pray, brothers, for us, that the word of the Lord may spread quickly and may be glorified even as also with you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.17|<< 2 Thessalonians 2:17]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.2|2 Thessalonians 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Finally, |**<big>[[G3063\|λοιπόν,]]</big>**  |loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:7** 
 <small><sub>**LXX:**</sub></small>
 And sons of Carmi -- Achar the disturber  of Israel, who broke contract in the offering for consumption. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.
-<small><sub>**BSB:**</sub></small>
-The son of Carmi: Achar, who brought trouble upon Israel by violating the ban on devoted things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.6|<< 1 Chronicles 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.8|1 Chronicles 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

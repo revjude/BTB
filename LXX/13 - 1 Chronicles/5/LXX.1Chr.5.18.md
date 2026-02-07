@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:18** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Reuben and Gad and the half tribe of Manasseh, of \[the\] sons \[of the\] forces, men lifting shield and sword, and stretching \[the\] bow, and being taught war -- forty and four thousand and seven hundred and sixty, going forth unto \[the\] battle array. 
-<small><sub>**KJV:**</sub></small>
-The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, [were] four and forty thousand seven hundred and threescore, that went out to the war.
-<small><sub>**BSB:**</sub></small>
-The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors—valiant men who carried the shield and sword, drew the bow, and were trained for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.17|<< 1 Chronicles 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.19|1 Chronicles 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 18:5** 
 <small><sub>**LXX:**</sub></small>
 And I will bring bread, and you shall eat, and after this you shall go in  your journey, because of which you turned aside to  your servant. And they said, Thus do as you have said! 
-<small><sub>**KJV:**</sub></small>
-And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
-<small><sub>**BSB:**</sub></small>
-And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way.” “Yes,” they replied, “you may do as you have said.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

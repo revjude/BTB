@@ -1,12 +1,12 @@
-**Revelation 18:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:15**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,
 <small><sub>**BSB:**</sub></small>
 The merchants who sold these things and gained their wealth from her will stand at a distance, in fear of her torment. They will weep and mourn,
 <small><sub>**Literal:**</sub></small>
 The merchants of these things which having been enriched from her from afar will stand because of the fear of the torment of her weeping and mourning,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.14|<< Revelation 18:14]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.16|Revelation 18:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | merchants |**<big>[[G1713\|ἔμποροι]]</big>**  |emporoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

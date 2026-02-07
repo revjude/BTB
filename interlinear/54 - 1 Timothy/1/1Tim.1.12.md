@@ -1,12 +1,12 @@
-**1 Timothy 1:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:12**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
 <small><sub>**BSB:**</sub></small>
 I thank Christ Jesus our Lord, who has strengthened me, that He considered me faithful and appointed me to service.
 <small><sub>**Literal:**</sub></small>
 and Thankfulness I have for the [One] having strengthened me for Christ Jesus the Lord of us that faithful me He esteemed having appointed [me] to service,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.11|<< 1 Timothy 1:11]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.13|1 Timothy 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Thankfulness |**<big>[[G5485\|χάριν]]</big>**  |charin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

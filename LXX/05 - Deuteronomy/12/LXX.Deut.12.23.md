@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:23** 
 <small><sub>**LXX:**</sub></small>
 Take heed strongly!  to not eat blood, for  its blood \[is\] life. You shall not eat life with the meats. 
-<small><sub>**KJV:**</sub></small>
-Only be sure that thou eat not the blood: for the blood [is] the life; and thou mayest not eat the life with the flesh.
-<small><sub>**BSB:**</sub></small>
-Only be sure not to eat the blood, because the blood is the life, and you must not eat the life with the meat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.22|<< Deuteronomy 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.24|Deuteronomy 12:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:2** 
 <small><sub>**LXX:**</sub></small>
 I shall take you; I shall bring you into \[the\] house of my mother, and into \[the\] inner chamber of the one conceiving me. I will give you to drink from scented wine of \[the\] juice of my pomegranates. 
-<small><sub>**KJV:**</sub></small>
-I would lead thee, [and] bring thee into my mother’s house, [who] would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.
-<small><sub>**BSB:**</sub></small>
-I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.1|<< Song of Solomon 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.3|Song of Solomon 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

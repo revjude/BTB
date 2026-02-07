@@ -1,12 +1,12 @@
-**John 5:3
-**<small><sub>**KJV:**</sub></small>
+**John 5:3**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.
 <small><sub>**BSB:**</sub></small>
 On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed.
 <small><sub>**Literal:**</sub></small>
 In these were lying a multitude great of those ailing, blind, lame, paralyzed waiting for <the> of the water motion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.2|<< John 5:2]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.4|John 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|ταύταις]]</big>**  |tautais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

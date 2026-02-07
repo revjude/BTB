@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:23** 
 <small><sub>**LXX:**</sub></small>
 And she said to them, Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, Say to the man, to the one sending you to me, 
-<small><sub>**KJV:**</sub></small>
-And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me,
-<small><sub>**BSB:**</sub></small>
-And Huldah said to them, “This is what the LORD, the God of Israel, says: ‘Tell the man who sent you<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.22|<< 2 Chronicles 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.24|2 Chronicles 34:24 >>]]</td></tr></table>
 
 | Translation | Greek |

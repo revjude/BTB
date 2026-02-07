@@ -1,12 +1,12 @@
-**Acts 27:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:40**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had taken up the anchors, they committed [themselves] unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore.
 <small><sub>**BSB:**</sub></small>
 Cutting away the anchors, they left them in the sea as they loosened the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach.
 <small><sub>**Literal:**</sub></small>
 And the anchors having cut away they were leaving [them] in the sea, at the same time having loosened the ropes of the rudders And having hoisted the foresail to the blowing [wind] they were making for the shore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.39|<< Acts 27:39]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.41|Acts 27:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

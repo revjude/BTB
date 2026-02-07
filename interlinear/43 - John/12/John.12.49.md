@@ -1,5 +1,5 @@
-**John 12:49
-**<small><sub>**KJV:**</sub></small>
+**John 12:49**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
 <small><sub>**BSB:**</sub></small>
 I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.
@@ -10,7 +10,7 @@ For I myself from Myself not spoke, but the having sent Me Father Himself Me a c
 > $\quad$ alluding to: [[LXX.Deut.18.18|Deut 18:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

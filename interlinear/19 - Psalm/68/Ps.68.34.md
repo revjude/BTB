@@ -1,4 +1,4 @@
-**Psalms 68:34** (68:35)
+**Psalms 68:34**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ascribe ye strength unto God: his excellency [is] over Israel, and his strength [is] in the clouds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ascribe the power to God, whose majesty is over Israel, whose strength is in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.33|<< Psalms 68:33]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.35|Psalms 68:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ascribe  |**<big>&#8207;[[H5414G\|תְּנ֥וּ]]&#8207; </big>**| te.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H5797\|עֹ֗ז]]&#8207; </big>**| 'Oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

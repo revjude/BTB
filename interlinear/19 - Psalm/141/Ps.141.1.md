@@ -1,6 +1,6 @@
-**Psalms 141:1** 
+**Psalms 141:1**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
+LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice whe
 > $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I call out to you  |**<big>&#8207;[[H7121G\|קְ֭רָאתִי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Ke.ra.ti.<small><sup>[[HVqp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 106:44** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> beheld in  their being afflicted while at the same \[time\] listening to  their supplication. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless he regarded their affliction, when he heard their cry:
-<small><sub>**BSB:**</sub></small>
-Nevertheless He heard their cry; He took note of their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.43|<< Psalm 106:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.45|Psalm 106:45 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 47:14** 
+**Isaiah 47:14**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: [there shall] not [be] a coal to warm at, [nor] fire to sit before it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely they are like stubble; the fire will burn them up. They cannot deliver th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.13|<< Isaiah 47:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.15|Isaiah 47:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have become  |**<big>&#8207;[[H1961\|הָי֤וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

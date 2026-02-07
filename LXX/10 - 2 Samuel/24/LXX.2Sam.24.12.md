@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:12** 
 <small><sub>**LXX:**</sub></small>
 Go and speak to David! saying, Thus says \[the\] <span class="smallcaps">lord</span>, Three \[things\] I lift unto you; you choose for yourself one of them! and I will execute against you. 
-<small><sub>**KJV:**</sub></small>
-Go and say unto David, Thus saith the LORD, I offer thee three [things]; choose thee one of them, that I may [do it] unto thee.
-<small><sub>**BSB:**</sub></small>
-“Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.11|<< 2 Samuel 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.13|2 Samuel 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

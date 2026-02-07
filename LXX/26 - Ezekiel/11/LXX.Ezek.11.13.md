@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  my prophesying, that Pelatiah the \[son of\] Benaiah died. And I fell upon my face, and I yelled out \[with\] a great voice, and said, Alas, Adonai O <span class="smallcaps">lord</span>, unto consummation do you appoint the remnant  of Israel? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GOD! wilt thou make a full end of the remnant of Israel?
-<small><sub>**BSB:**</sub></small>
-Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and cried out in a loud voice, “Oh, Lord GOD, will You bring the remnant of Israel to a complete end?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.12|<< Ezekiel 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.14|Ezekiel 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

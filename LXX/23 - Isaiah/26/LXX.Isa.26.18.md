@@ -1,10 +1,7 @@
 **LXX Isaiah 26:18** 
 <small><sub>**LXX:**</sub></small>
 Because of the fear of you, O <span class="smallcaps">lord</span>, we conceived in \[the\] womb, and travailed, and birthed \[the\] breath of your deliverance, which you did upon the earth. We shall not fall, but all the ones dwelling upon the earth shall fall. 
-<small><sub>**KJV:**</sub></small>
-We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
-<small><sub>**BSB:**</sub></small>
-We were with child; we writhed in pain; but we gave birth to wind. We have given no salvation to the earth, nor brought any life into the world.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.17|<< Isaiah 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.19|Isaiah 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

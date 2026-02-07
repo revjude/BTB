@@ -1,12 +1,12 @@
-**Matthew 23:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:30**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
 <small><sub>**BSB:**</sub></small>
 And you say, ‘If we had lived in the days of our fathers, we would not have been partners with them in shedding the blood of the prophets.’
 <small><sub>**Literal:**</sub></small>
 and you say; If we were in the days of the fathers of us, not then would we were ourselves being with them partakers in the blood of the prophets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.29|<< Matthew 23:29]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.31|Matthew 23:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you say; |**<big>[[G3004G\|λέγετε·]]</big>**  |legete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

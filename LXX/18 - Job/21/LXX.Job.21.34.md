@@ -1,10 +1,7 @@
 **LXX Job 21:34** 
 <small><sub>**LXX:**</sub></small>
 And how do you comfort me in vain?  but for me to rest from you is nothing. 
-<small><sub>**KJV:**</sub></small>
-How then comfort ye me in vain, seeing in your answers there remaineth falsehood?
-<small><sub>**BSB:**</sub></small>
-So how can you comfort me with empty words? For your answers remain full of falsehood.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.33|<< Job 21:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.1|Job 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

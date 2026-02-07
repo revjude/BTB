@@ -1,4 +1,4 @@
-**Jeremiah 14:22** 
+**Jeremiah 14:22**<big><big>[[Jer.14.19 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Are there [any] among the vanities of the Gentiles that can cause rain? or can the heavens give showers? [art] not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these [things].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can the worthless idols of the nations bring rain? Do the skies alone send showe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.21|<< Jeremiah 14:21]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.1|Jeremiah 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [are] there  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3426\|יֵ֨שׁ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among [the] vanities of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1892\|הַבְלֵ֤י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hav.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

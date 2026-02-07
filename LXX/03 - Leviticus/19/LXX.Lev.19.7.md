@@ -1,10 +1,7 @@
 **LXX Leviticus 19:7** 
 <small><sub>**LXX:**</sub></small>
 And if food should be eaten the third day it is unfit, you shall not accept it. 
-<small><sub>**KJV:**</sub></small>
-And if it be eaten at all on the third day, it [is] abominable; it shall not be accepted.
-<small><sub>**BSB:**</sub></small>
-If any of it is eaten on the third day, it is tainted and will not be accepted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.6|<< Leviticus 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.8|Leviticus 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

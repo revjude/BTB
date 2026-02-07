@@ -1,4 +1,4 @@
-**Job 16:3** 
+**Job 16:3**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall vain words have an end? or what emboldeneth thee that thou answerest?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there no end to your long-winded speeches? What provokes you to continue test
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.2|<< Job 16:2]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.4|Job 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [does] an end  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7093\|קֵ֥ץ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belong] to words of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1697G\|דִבְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> div.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

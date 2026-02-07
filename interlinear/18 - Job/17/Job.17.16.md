@@ -1,4 +1,4 @@
-**Job 17:16** 
+**Job 17:16**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall go down to the bars of the pit, when [our] rest together [is] in the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will it go down to the gates of Sheol? Will we go down together into the dust?�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.15|<< Job 17:15]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.1|Job 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] poles of  |**<big>&#8207;[[H0905G\|בַּדֵּ֣י]]&#8207; </big>**| ba.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheol  |**<big>&#8207;[[H7585\|שְׁאֹ֣ל]]&#8207; </big>**| she.'Ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

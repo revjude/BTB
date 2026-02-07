@@ -1,12 +1,12 @@
-**Acts 17:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:17**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
 <small><sub>**BSB:**</sub></small>
 So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day.
 <small><sub>**Literal:**</sub></small>
 He was reasoning indeed therefore in the synagogue with the Jews and with those worshiping and in the marketplace on every day with those meeting [him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.16|<< Acts 17:16]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.18|Acts 17:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was reasoning |**<big>[[G1256\|διελέγετο]]</big>**  |dielegeto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

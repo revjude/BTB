@@ -1,10 +1,7 @@
 **LXX Isaiah 28:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, strong and hard \[is\] the rage of \[the\] <span class="smallcaps">lord</span>; as hail being carried down not having protection, with force being carried down; as a multitude of much water dragging a place \[along\]. In the land he shall cause rest to the hands. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Lord hath a mighty and strong one, [which] as a tempest of hail [and] a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand.
-<small><sub>**BSB:**</sub></small>
-Behold, the Lord has one who is strong and mighty. Like a hailstorm or destructive tempest, like a driving rain or flooding downpour, he will smash that crown to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.1|<< Isaiah 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.3|Isaiah 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Malachi 1:7** 
+**Malachi 1:7**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD [is] contemptible.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By presenting defiled food on My altar. But you ask, ‘How have we defiled You?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.6|<< Malachi 1:6]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.8|Malachi 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [you are] bringing near  |**<big>&#8207;[[H5066H\|מַגִּישִׁ֤ים]]&#8207; </big>**| ma.gi.Shim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

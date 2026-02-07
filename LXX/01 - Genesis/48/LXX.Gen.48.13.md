@@ -1,10 +1,7 @@
 **LXX Genesis 48:13** 
 <small><sub>**LXX:**</sub></small>
 And Joseph taking his two sons,  with Ephraim at the right, but from \[the\] left of Israel,  and Manasseh at the left, but from \[the\] right of Israel, and he approached them to him. 
-<small><sub>**KJV:**</sub></small>
-And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought [them] near unto him.
-<small><sub>**BSB:**</sub></small>
-And Joseph took both of them—with Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand—and brought them close to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.12|<< Genesis 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.14|Genesis 48:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Micah 6:3** 
+**Micah 6:3**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O my people, what have I done unto thee? and wherein have I wearied thee? testif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.2|<< Micah 6:2]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.4|Micah 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O people my  |**<big>&#8207;[[H5971A\|עַמִּ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| meh-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

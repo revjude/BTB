@@ -1,12 +1,12 @@
-**Matthew 24:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:1**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus went out, and departed from the temple: and his disciples came to [him] for to shew him the buildings of the temple.
 <small><sub>**BSB:**</sub></small>
 As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings.
 <small><sub>**Literal:**</sub></small>
 And having gone forth <the> Jesus from the temple He was going and came to [Him] the disciples of Him to point out to Him the buildings of the temple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.39|<< Matthew 23:39]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.2|Matthew 24:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forth |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

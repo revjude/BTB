@@ -1,4 +1,4 @@
-**1 Chronicles 29:11** 
+**1 Chronicles 29:11**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine, O LORD, [is] the greatness, and the power, and the glory, and the victory, and the majesty: for all [that is] in the heaven and in the earth [is thine]; thine [is] the kingdom, O LORD, and thou art exalted as head above all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yours, O LORD, is the greatness and the power and the glory and the splendor and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.10|<< 1 Chronicles 29:10]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.12|1 Chronicles 29:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belong] to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

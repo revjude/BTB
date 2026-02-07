@@ -1,10 +1,7 @@
 **LXX Psalm 1:2** 
 <small><sub>**LXX:**</sub></small>
 But his will \[is\] in the law \[of the\] <span class="smallcaps">lord</span>; and in  his law he shall meditate day and night. 
-<small><sub>**KJV:**</sub></small>
-But his delight [is] in the law of the LORD; and in his law doth he meditate day and night.
-<small><sub>**BSB:**</sub></small>
-But his delight is in the Law of the LORD, and on His law he meditates day and night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.1|<< Psalm 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.3|Psalm 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

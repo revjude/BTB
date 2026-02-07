@@ -1,10 +1,7 @@
 **LXX Genesis 20:3** 
 <small><sub>**LXX:**</sub></small>
 And God entered to Abimelech by sleep in the night. And he said, Behold, you die on account of the woman of whom you took, for she is living with a man. 
-<small><sub>**KJV:**</sub></small>
-But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a dead man, for the woman which thou hast taken; for she [is] a man’s wife.
-<small><sub>**BSB:**</sub></small>
-One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.2|<< Genesis 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.4|Genesis 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 9:26** 
+**1 Chronicles 9:26**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For these Levites, the four chief porters, were in [their] set office, and were over the chambers and treasuries of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the four chief gatekeepers, who were Levites, were entrusted with the rooms 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.25|<< 1 Chronicles 9:25]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.27|1 Chronicles 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in faithfulness  |**<big>&#8207;[[H9003\|בֶ]]&#8207;&#8207;[[H0530\|אֱמוּנָ֞ה]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'e.mu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

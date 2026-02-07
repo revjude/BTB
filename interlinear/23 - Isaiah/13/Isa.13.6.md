@@ -1,4 +1,4 @@
-**Isaiah 13:6** 
+**Isaiah 13:6**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl ye; for the day of the LORD [is] at hand; it shall come as a destruction from the Almighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail, for the Day of the LORD is near; it will come as destruction from the Almi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.5|<< Isaiah 13:5]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.7|Isaiah 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H3213\|הֵילִ֕ילוּ]]&#8207; </big>**| hei.Li.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

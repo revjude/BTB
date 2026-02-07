@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:12** 
 <small><sub>**LXX:**</sub></small>
 Baana son of Ahilud \[to whom was\] Taanach, and Magiddo, and all \[the\] house of Shean, the one by Zartanah below  Jezreel, from Beth-shean unto Abel-meholah unto Maeber Jokneam. 
-<small><sub>**KJV:**</sub></small>
-Baana the son of Ahilud; [to him pertained] Taanach and Megiddo, and all Bethshean, which [is] by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, [even] unto [the place that is] beyond Jokneam:
-<small><sub>**BSB:**</sub></small>
-Baana son of Ahilud in Taanach, in Megiddo, and in all of Beth-shean next to Zarethan below Jezreel, from Beth-shean to Abel-meholah and on past Jokmeam;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.11|<< 1 Kings 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.13|1 Kings 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:30** 
 <small><sub>**LXX:**</sub></small>
 What shall I do \[to\] your heart, says Adonai \[the\] <span class="smallcaps">lord</span>, \[while\] you do all these \[things\], works of a woman harlot speaking openly. And you fornicated thrice among  your daughters -- 
-<small><sub>**KJV:**</sub></small>
-How weak is thine heart, saith the Lord GOD, seeing thou doest all these [things], the work of an imperious whorish woman;
-<small><sub>**BSB:**</sub></small>
-How weak-willed is your heart, declares the Lord GOD, while you do all these things, the acts of a shameless prostitute!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.29|<< Ezekiel 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.31|Ezekiel 16:31 >>]]</td></tr></table>
 
 | Translation | Greek |

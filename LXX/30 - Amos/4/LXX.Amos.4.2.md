@@ -1,10 +1,7 @@
 **LXX Amos 4:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> swears an oath according to  his holy \[things\], For behold, days come upon you when they shall take you with weapons; and the ones with you they shall put into kettles being fired up with pestilent fires. 
-<small><sub>**KJV:**</sub></small>
-The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.
-<small><sub>**BSB:**</sub></small>
-The Lord GOD has sworn by His holiness: “Behold, the days are coming when you will be taken away with hooks, and your posterity with fishhooks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.1|<< Amos 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.3|Amos 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

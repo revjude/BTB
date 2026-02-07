@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:6** 
 <small><sub>**LXX:**</sub></small>
 and  Baalath, and all the fortified cities which were \[unto\] Solomon, and all the cities of the chariots, and the cities of the horsemen, and as much as Solomon desired according to the desire  to build in Jerusalem, and in  Lebanon, and in all the land  of his authority. 
-<small><sub>**KJV:**</sub></small>
-And Baalath, and all the store cities that Solomon had, and all the chariot cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem, and in Lebanon, and throughout all the land of his dominion.
-<small><sub>**BSB:**</sub></small>
-as well as Baalath, all the store cities that belonged to Solomon, and all the cities for his chariots and horses—whatever he desired to build in Jerusalem, Lebanon, and throughout the land of his dominion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.5|<< 2 Chronicles 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.7|2 Chronicles 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 41:1** (40:25)
+**Job 41:1**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou draw out leviathan with an hook? or his tongue with a cord [which] thou lettest down?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Canst thou draw out leviathan with an hook? or his tongue with a cord [which] th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.24|<< Job 40:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.2|Job 41:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will you draw out?  |**<big>&#8207;[[H4900\|תִּמְשֹׁ֣ךְ]]&#8207; </big>**| tim.Shokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Leviathan  |**<big>&#8207;[[H3882\|לִוְיָתָ֣ן]]&#8207; </big>**| liv.ya.Tan<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

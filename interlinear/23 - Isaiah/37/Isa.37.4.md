@@ -1,4 +1,4 @@
-**Isaiah 37:4** 
+**Isaiah 37:4**<big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up [thy] prayer for the remnant that is left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.3|<< Isaiah 37:3]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.5|Isaiah 37:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֡י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will hear  |**<big>&#8207;[[H8085G\|יִשְׁמַע֩]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

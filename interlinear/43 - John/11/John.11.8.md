@@ -1,12 +1,12 @@
-**John 11:8
-**<small><sub>**KJV:**</sub></small>
+**John 11:8**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [His] disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?
 <small><sub>**BSB:**</sub></small>
 “Rabbi,” they replied, “the Jews just tried to stone You, and You are going back there?”
 <small><sub>**Literal:**</sub></small>
 Say to Him the disciples; Rabbi, just now were seeking You to stone the Jews, and again You are going there?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.7|<< John 11:7]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.9|John 11:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Habakkuk 3:7** 
+**Habakkuk 3:7**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw the tents of Cushan in affliction: [and] the curtains of the land of Midian did tremble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw the tents of Cushan in distress; the curtains of Midian were trembling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.6|<< Habakkuk 3:6]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.8|Habakkuk 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | trouble  |**<big>&#8207;[[H0205H\|אָ֔וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

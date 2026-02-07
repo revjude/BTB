@@ -1,4 +1,4 @@
-**Numbers 26:50** 
+**Numbers 26:50**<big><big>[[Num.26.48 The Tribe of Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of Naphtali according to their families: and they that were numbered of them [were] forty and five thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the clans of Naphtali, and their registration numbered 45,400.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.49|<< Numbers 26:49]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.51|Numbers 26:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֥ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Timothy 3:11
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:11**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of [them] all the Lord delivered me.
 <small><sub>**BSB:**</sub></small>
 my persecutions, and the sufferings that came upon me in Antioch, Iconium, and Lystra. What persecutions I endured! Yet the Lord rescued me from all of them.
 <small><sub>**Literal:**</sub></small>
 <the> persecutions, <the> sufferings such as to me happened in Antioch, in Iconium, in Lystra; what manner of persecutions I endured! And yet out of all me delivered the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.10|<< 2 Timothy 3:10]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.12|2 Timothy 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | persecutions, |**<big>[[G1375\|διωγμοῖς,]]</big>**  |diōgmois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

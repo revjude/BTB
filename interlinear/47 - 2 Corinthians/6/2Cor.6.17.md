@@ -1,5 +1,5 @@
-**2 Corinthians 6:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:17**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean [thing]; and I will receive you,
 <small><sub>**BSB:**</sub></small>
 “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”
@@ -11,7 +11,7 @@ Therefore do come out from [the] midst of them and do be separate, says [the] Lo
 > $\quad$ alluding to: [[LXX.Ezek.20.34|Ezek 20:34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do come out |**<big>[[G1831\|ἐξέλθατε]]</big>**  [^1] |exelthate <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

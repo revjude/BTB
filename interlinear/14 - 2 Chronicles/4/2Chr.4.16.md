@@ -1,4 +1,4 @@
-**2 Chronicles 4:16** 
+**2 Chronicles 4:16**<big><big>[[2Chr.4.11 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the pots, shovels, meat forks, and all the other articles. All these objects
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.15|<< 2 Chronicles 4:15]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.17|2 Chronicles 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pots  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H5518A\|סִּירוֹת]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> si.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

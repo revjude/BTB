@@ -1,4 +1,4 @@
-**Joshua 4:13** 
+**Joshua 4:13**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ About 40,000 troops armed for battle crossed over before the LORD into the plain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.12|<< Joshua 4:12]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.14|Joshua 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | about forty  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

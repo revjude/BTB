@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:16** 
 <small><sub>**LXX:**</sub></small>
 Near \[is\] the day of Moab to come, and his harm very quickly. 
-<small><sub>**KJV:**</sub></small>
-The calamity of Moab [is] near to come, and his affliction hasteth fast.
-<small><sub>**BSB:**</sub></small>
-Moab’s calamity is at hand, and his affliction is rushing swiftly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.15|<< Jeremiah 48:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.17|Jeremiah 48:17 >>]]</td></tr></table>
 
 | Translation | Greek |

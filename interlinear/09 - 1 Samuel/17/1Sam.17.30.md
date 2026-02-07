@@ -1,4 +1,4 @@
-**1 Samuel 17:30** 
+**1 Samuel 17:30**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he turned from him toward another and asked about the offer, and those peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.29|<< 1 Samuel 17:29]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.31|1 Samuel 17:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned away  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|יִּסֹּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.So<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from beside him  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0681\|אֶצְל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'etz.L<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 6:30** 
 <small><sub>**LXX:**</sub></small>
 And the men of the city said to Joash, Lead out  your son and let him die! for he razed the altar  of Baal, and because he cut down the sacred grove  by it. 
-<small><sub>**KJV:**</sub></small>
-Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that [was] by it.
-<small><sub>**BSB:**</sub></small>
-Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.29|<< Judges 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.31|Judges 6:31 >>]]</td></tr></table>
 
 | Translation | Greek |

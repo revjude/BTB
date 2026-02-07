@@ -1,4 +1,4 @@
-**Numbers 16:21** 
+**Numbers 16:21**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Separate yourselves from among this congregation, that I may consume them in a moment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Separate yourselves from among this congregation, that I may consume them in a m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.20|<< Numbers 16:20]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.22|Numbers 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | separate yourselves  |**<big>&#8207;[[H0914\|הִבָּ֣דְל֔וּ]]&#8207; </big>**| hi.Ba.de.Lu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from among  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֖וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

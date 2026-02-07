@@ -1,12 +1,12 @@
-**John 5:29
-**<small><sub>**KJV:**</sub></small>
+**John 5:29**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
 <small><sub>**BSB:**</sub></small>
 and come out—those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
 <small><sub>**Literal:**</sub></small>
 and will come forth — those <the> good having done to [the] resurrection of life, <the> and those evil having done to [the] resurrection of judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.28|<< John 5:28]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.30|John 5:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will come forth — |**<big>[[G1607\|ἐκπορεύσονται,]]</big>**  |ekporeusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

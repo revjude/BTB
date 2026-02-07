@@ -1,12 +1,12 @@
-**Luke 17:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:10**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.
 <small><sub>**BSB:**</sub></small>
 So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”
 <small><sub>**Literal:**</sub></small>
 Thus also you yourselves, when you may have done all the [things] having been commanded you, do say that Servants unworthy are we; for that which we were obliged to do we have done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.9|<< Luke 17:9]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.11|Luke 17:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

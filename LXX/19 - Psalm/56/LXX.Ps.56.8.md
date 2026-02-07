@@ -1,10 +1,7 @@
 **LXX Psalm 56:8** 
 <small><sub>**LXX:**</sub></small>
 O God,  my life I declared to you; you put  my tears before you, as even according to  your promise. 
-<small><sub>**KJV:**</sub></small>
-Thou tellest my wanderings: put thou my tears into thy bottle: [are they] not in thy book?
-<small><sub>**BSB:**</sub></small>
-You have taken account of my wanderings. Put my tears in Your bottle—are they not in Your book?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.7|<< Psalm 56:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.9|Psalm 56:9 >>]]</td></tr></table>
 
 | Translation | Greek |

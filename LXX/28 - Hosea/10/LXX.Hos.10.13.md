@@ -1,10 +1,7 @@
 **LXX Hosea 10:13** 
 <small><sub>**LXX:**</sub></small>
 Why did impiety in silence, and  gathered the vintage of her iniquity? You ate false fruit, for you hoped in  your chariots, in \[the\] abundance of your power. 
-<small><sub>**KJV:**</sub></small>
-Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.
-<small><sub>**BSB:**</sub></small>
-You have plowed wickedness and reaped injustice; you have eaten the fruit of lies. Because you have trusted in your own way and in the multitude of your mighty men,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.12|<< Hosea 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.14|Hosea 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

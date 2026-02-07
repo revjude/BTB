@@ -1,10 +1,7 @@
 **LXX Proverbs 12:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just man reports by displaying trust; but the witness of the unjust \[is\] deceitful. 
-<small><sub>**KJV:**</sub></small>
-[He that] speaketh truth sheweth forth righteousness: but a false witness deceit.
-<small><sub>**BSB:**</sub></small>
-He who speaks the truth declares what is right, but a false witness speaks deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.16|<< Proverbs 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.18|Proverbs 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

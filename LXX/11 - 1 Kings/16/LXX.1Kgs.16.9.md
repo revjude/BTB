@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:9** 
 <small><sub>**LXX:**</sub></small>
 And his servant was confederated against him -- Zimri the ruler  of half the chariots. And \[Elah\] was in Tirzah drinking, being intoxicated in the house of Azra the manager, the one in Tirzah. 
-<small><sub>**KJV:**</sub></small>
-And his servant Zimri, captain of half [his] chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of [his] house in Tirzah.
-<small><sub>**BSB:**</sub></small>
-However, while Elah was in Tirzah getting drunk in the house of Arza the steward of his household there, Elah’s servant Zimri, the commander of half his chariots, conspired against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.8|<< 1 Kings 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.10|1 Kings 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

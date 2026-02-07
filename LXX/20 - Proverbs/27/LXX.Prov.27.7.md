@@ -1,10 +1,7 @@
 **LXX Proverbs 27:7** 
 <small><sub>**LXX:**</sub></small>
 A soul being in fullness mocks honeycombs; but to a soul lacking, even the bitter \[things\] appear sweet. 
-<small><sub>**KJV:**</sub></small>
-The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.
-<small><sub>**BSB:**</sub></small>
-The soul that is full loathes honey, but to a hungry soul, any bitter thing is sweet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.6|<< Proverbs 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.8|Proverbs 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

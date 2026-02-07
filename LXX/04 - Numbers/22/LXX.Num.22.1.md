@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And departing, the sons of Israel camped upon \[the\] descent of Moab by the Jordan near Jericho. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan [by] Jericho.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.35|<< Numbers 21:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.2|Numbers 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

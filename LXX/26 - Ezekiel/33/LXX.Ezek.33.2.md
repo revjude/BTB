@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, speak to the sons  of your people, and you shall say to them, \[The\] land upon which ever I bring \[the\] broadsword, that the people of the land should take one man from out of them, and put him for themselves as a watchman. 
-<small><sub>**KJV:**</sub></small>
-Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
-<small><sub>**BSB:**</sub></small>
-“Son of man, speak to your people and tell them: ‘Suppose I bring the sword against a land, and the people of that land choose a man from among them, appointing him as their watchman,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.1|<< Ezekiel 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.3|Ezekiel 33:3 >>]]</td></tr></table>
 
 | Translation | Greek |

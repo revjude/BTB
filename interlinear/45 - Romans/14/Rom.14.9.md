@@ -1,12 +1,12 @@
-**Romans 14:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:9**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.
 <small><sub>**BSB:**</sub></small>
 For this reason Christ died and returned to life, that He might be the Lord of both the dead and the living.
 <small><sub>**Literal:**</sub></small>
 Unto this for Christ and died and rose up and lived again, that both over [the] dead and living He may rule.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.8|<< Romans 14:8]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.10|Romans 14:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Unto |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

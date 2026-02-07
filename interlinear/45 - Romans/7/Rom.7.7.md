@@ -1,5 +1,5 @@
-**Romans 7:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:7**<big><big>[[Rom.7.7 God’s Law Is Holy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What shall we say then? [Is] the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 <small><sub>**BSB:**</sub></small>
 What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.”
@@ -10,7 +10,7 @@ What then will we say? [Is] the law sin? Never would it be! But <the> sin not I 
 > $\quad$ referencing: [[LXX.Exod.20.17|Exod 20:17]] ☩ [[LXX.Deut.5.21|Deut 5:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

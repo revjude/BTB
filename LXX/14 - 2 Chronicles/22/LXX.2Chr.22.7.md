@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:7** 
 <small><sub>**LXX:**</sub></small>
 And by  God came \[the\] final event of Ahaziah  \[in\] his coming to Jehoram. And in  his coming, Jehoram went forth with him against Jehu son of Nimshi, \[the\] anointed of \[the\] <span class="smallcaps">lord</span>, whom \[the\] <span class="smallcaps">lord</span> anointed him  to utterly destroy the house of Ahab. 
-<small><sub>**KJV:**</sub></small>
-And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.
-<small><sub>**BSB:**</sub></small>
-Ahaziah’s downfall came from God when he went to visit Joram. When Ahaziah arrived, he went out with Joram to meet Jehu son of Nimshi, whom the LORD had anointed to destroy the house of Ahab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.6|<< 2 Chronicles 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.8|2 Chronicles 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

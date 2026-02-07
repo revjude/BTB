@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall separate him for evils from all the sons of Israel, according to all the imprecations of the covenant, the ones being written in  this scroll of the law. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:
-<small><sub>**BSB:**</sub></small>
-and single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.20|<< Deuteronomy 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.22|Deuteronomy 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

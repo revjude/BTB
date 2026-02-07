@@ -1,10 +1,7 @@
 **LXX Genesis 19:32** 
 <small><sub>**LXX:**</sub></small>
 Come and our father wine to drink, and we should go to bed with him, that we might raise up seed from our father. 
-<small><sub>**KJV:**</sub></small>
-Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.
-<small><sub>**BSB:**</sub></small>
-Come, let us get our father drunk with wine so we can sleep with him and preserve his line.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.31|<< Genesis 19:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.33|Genesis 19:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 9:6** 
 <small><sub>**LXX:**</sub></small>
 that they came to Joshua into the camp of Israel in Gilgal. And they said to Joshua, and to all Israel, From out of a land far off we have come, and now ordain with us a covenant! 
-<small><sub>**KJV:**</sub></small>
-And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us.
-<small><sub>**BSB:**</sub></small>
-They went to Joshua in the camp at Gilgal and said to him and the men of Israel, “We have come from a distant land; please make a treaty with us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.5|<< Joshua 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.7|Joshua 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:15** 
 <small><sub>**LXX:**</sub></small>
 And they gathered  their brethren, and purified themselves according to the commandment of the king, by order of \[the\] <span class="smallcaps">lord</span>,  to cleanse the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the LORD, to cleanse the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-When they had assembled their brothers and consecrated themselves, they went in to cleanse the house of the LORD, according to the command of the king by the words of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.14|<< 2 Chronicles 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.16|2 Chronicles 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

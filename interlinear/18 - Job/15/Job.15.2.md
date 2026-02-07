@@ -1,4 +1,4 @@
-**Job 15:2** 
+**Job 15:2**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should a wise man utter vain knowledge, and fill his belly with the east wind?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should a wise man utter vain knowledge, and fill his belly with the east wind?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.1|<< Job 15:1]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.3|Job 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a wise [person]  |**<big>&#8207;[[H9008\|הֶֽ]]&#8207;&#8207;[[H2450\|חָכָ֗ם]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | does he answer  |**<big>&#8207;[[H6030B\|יַעֲנֶ֥ה]]&#8207; </big>**| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

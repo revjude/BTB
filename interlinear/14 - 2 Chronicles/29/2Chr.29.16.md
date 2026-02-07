@@ -1,4 +1,4 @@
-**2 Chronicles 29:16** 
+**2 Chronicles 29:16**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests went into the inner part of the house of the LORD, to cleanse [it], and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took [it], to carry [it] out abroad into the brook Kidron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the priests went inside the house of the LORD to cleanse it, and they brought
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.15|<< 2 Chronicles 29:15]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.17|2 Chronicles 29:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H3548\|כֹּהֲנִים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ko.ha.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

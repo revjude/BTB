@@ -1,4 +1,4 @@
-**Jeremiah 26:5** 
+**Jeremiah 26:5**<big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To hearken to the words of my servants the prophets, whom I sent unto you, both rising up early, and sending [them], but ye have not hearkened;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if you do not listen to the words of My servants the prophets, whom I have s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to listen  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֗עַ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

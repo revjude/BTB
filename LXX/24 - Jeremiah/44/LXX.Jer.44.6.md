@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:6** 
 <small><sub>**LXX:**</sub></small>
 And my anger dripped \[upon them\], and  my rage, and it was kindled in \[the\] cities of Judah, and outside Jerusalem. And they became for desolation and for an untrodden \[place\], as this day. 
-<small><sub>**KJV:**</sub></small>
-Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted [and] desolate, as at this day.
-<small><sub>**BSB:**</sub></small>
-Therefore My wrath and anger poured out and burned in the cities of Judah and in the streets of Jerusalem, so that they have become the desolate ruin they are today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.5|<< Jeremiah 44:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.7|Jeremiah 44:7 >>]]</td></tr></table>
 
 | Translation | Greek |

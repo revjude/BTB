@@ -1,10 +1,7 @@
 **LXX Micah 1:5** 
 <small><sub>**LXX:**</sub></small>
 All these \[things\] \[are\] on account of \[the\] impiety of Jacob, and because of \[the\] sin of \[the\] house of Israel. What \[is\] the impiety of Jacob? \[Is it\] not  Samaria? And what \[is\] the sin of \[the\] house of Judah? \[Is it\] not Jerusalem? 
-<small><sub>**KJV:**</sub></small>
-For the transgression of Jacob [is] all this, and for the sins of the house of Israel. What [is] the transgression of Jacob? [is it] not Samaria? and what [are] the high places of Judah? [are they] not Jerusalem?
-<small><sub>**BSB:**</sub></small>
-All this is for the transgression of Jacob and the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the high place of Judah? Is it not Jerusalem?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.4|<< Micah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.6|Micah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

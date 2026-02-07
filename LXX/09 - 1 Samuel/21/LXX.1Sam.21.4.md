@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:4** 
 <small><sub>**LXX:**</sub></small>
 And the priest responded  to David, and said, There are no profane bread \[loaves\] in  my hand, but there are only holy bread \[loaves\]. If the servants were having been kept from a woman, then they shall eat. 
-<small><sub>**KJV:**</sub></small>
-And the priest answered David, and said, [There is] no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
-<small><sub>**BSB:**</sub></small>
-“There is no common bread on hand,” the priest replied, “but there is some consecrated bread—provided that the young men have kept themselves from women.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.3|<< 1 Samuel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.5|1 Samuel 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

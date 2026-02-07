@@ -1,10 +1,7 @@
 **LXX Psalm 107:9** 
 <small><sub>**LXX:**</sub></small>
 For he fills \[the\] empty soul; and \[the\] soul hungering he filled up with good \[things\]; 
-<small><sub>**KJV:**</sub></small>
-For he satisfieth the longing soul, and filleth the hungry soul with goodness.
-<small><sub>**BSB:**</sub></small>
-For He satisfies the thirsty and fills the hungry with good things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.8|<< Psalm 107:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.10|Psalm 107:10 >>]]</td></tr></table>
 
 | Translation | Greek |

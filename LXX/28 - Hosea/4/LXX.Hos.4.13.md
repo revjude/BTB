@@ -1,10 +1,7 @@
 **LXX Hosea 4:13** 
 <small><sub>**LXX:**</sub></small>
 Upon the tops of the mountains they were sacrificed, and upon the hills they were sacrificed underneath \[the\] oak, and white poplar, and \[the\] overshadowing tree, for good protection. Because of this your daughters shall fornicate, and  your brides shall commit adultery. 
-<small><sub>**KJV:**</sub></small>
-They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof [is] good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.
-<small><sub>**BSB:**</sub></small>
-They sacrifice on the mountaintops and burn offerings on the hills, under oak, poplar, and terebinth, because their shade is pleasant. And so your daughters turn to prostitution and your daughters-in-law to adultery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.12|<< Hosea 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.14|Hosea 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

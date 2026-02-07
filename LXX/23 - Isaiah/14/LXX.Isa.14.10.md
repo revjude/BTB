@@ -1,10 +1,7 @@
 **LXX Isaiah 14:10** 
 <small><sub>**LXX:**</sub></small>
 All shall answer and shall say to you, You also captured as even we; and are you reckoned among us? 
-<small><sub>**KJV:**</sub></small>
-All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
-<small><sub>**BSB:**</sub></small>
-They will all respond to you, saying, “You too have become weak, as we are; you have become like us!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.9|<< Isaiah 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.11|Isaiah 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

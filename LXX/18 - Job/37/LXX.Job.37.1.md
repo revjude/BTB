@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And from this my heart is disturbed, and was dropped down from out of  its place. 
-<small><sub>**KJV:**</sub></small>
-At this also my heart trembleth, and is moved out of his place.
-<small><sub>**BSB:**</sub></small>
-“At this my heart also pounds and leaps from its place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.33|<< Job 36:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.2|Job 37:2 >>]]</td></tr></table>
 
 | Translation | Greek |

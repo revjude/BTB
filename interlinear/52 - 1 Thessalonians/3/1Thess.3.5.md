@@ -1,12 +1,12 @@
-**1 Thessalonians 3:5
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:5**<big><big>[[1Thess.3.1 Timothy’s Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.
 <small><sub>**BSB:**</sub></small>
 For this reason, when I could bear it no longer, I sent to find out about your faith, for fear that the tempter had somehow tempted you and that our labor might have been in vain.
 <small><sub>**Literal:**</sub></small>
 Because of this I myself also no longer enduring I sent in order <the> to know the faith of you, lest perhaps tempted you the [one] tempting and in vain may be the labor of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.4|<< 1 Thessalonians 3:4]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.6|1 Thessalonians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

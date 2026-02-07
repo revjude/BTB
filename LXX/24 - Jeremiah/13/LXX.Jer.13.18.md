@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:18** 
 <small><sub>**LXX:**</sub></small>
 Say to the king! and to the ones being in power, Be humbled, and sit down! for your crown of glory was demolished from your head. 
-<small><sub>**KJV:**</sub></small>
-Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, [even] the crown of your glory.
-<small><sub>**BSB:**</sub></small>
-Say to the king and to the queen mother: “Take a lowly seat, for your glorious crowns have fallen from your heads.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.17|<< Jeremiah 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.19|Jeremiah 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

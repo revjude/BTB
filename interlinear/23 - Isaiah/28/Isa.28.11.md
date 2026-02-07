@@ -1,4 +1,4 @@
-**Isaiah 28:11** 
+**Isaiah 28:11**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For with stammering lips and another tongue will he speak to this people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Indeed, with mocking lips and foreign tongues, He will speak to this people
 > $\quad$ referenced by: [[1Cor.14.21|1Cor 14:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by stammerings of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3934\|לַעֲגֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> la.'a.Gei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

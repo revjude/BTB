@@ -1,10 +1,7 @@
 **LXX Psalm 70:4** 
 <small><sub>**LXX:**</sub></small>
 Let them exult and be glad over you! \[even\] all the ones seeking you, O God. And let them say always, \[the\] <span class="smallcaps">lord</span> be magnified! \[even\] the ones loving  your deliverance. 
-<small><sub>**KJV:**</sub></small>
-Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
-<small><sub>**BSB:**</sub></small>
-May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.70.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.70.3|<< Psalm 70:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.70.5|Psalm 70:5 >>]]</td></tr></table>
 
 | Translation | Greek |

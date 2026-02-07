@@ -1,10 +1,7 @@
 **LXX Ezra 3:2** 
 <small><sub>**LXX:**</sub></small>
 And Jeshua the \[son\] of Jozadak rose up, and  his brethren the priests, and Zerubbabel the son of Shealtiel, and  his brethren, and they built the altar of the God of Israel,  to offer upon it whole burnt-offerings according as written in \[the\] law of Moses, \[the\] man  of God. 
-<small><sub>**KJV:**</sub></small>
-Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as [it is] written in the law of Moses the man of God.
-<small><sub>**BSB:**</sub></small>
-Then Jeshua son of Jozadak and his fellow priests, along with Zerubbabel son of Shealtiel and his associates, began to build the altar of the God of Israel to sacrifice burnt offerings on it, as it is written in the Law of Moses the man of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.1|<< Ezra 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.3|Ezra 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

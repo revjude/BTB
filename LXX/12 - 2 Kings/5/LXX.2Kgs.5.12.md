@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:12** 
 <small><sub>**LXX:**</sub></small>
 Are not \[the\] Abana and Phaphar rivers of Damascus good over the Jordan, and all the waters of Israel? Shall I not go bathe in them, and be cleansed? And he turned aside, and went forth in rage. 
-<small><sub>**KJV:**</sub></small>
-[Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
-<small><sub>**BSB:**</sub></small>
-Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not have washed in them and been cleansed?” So he turned and went away in a rage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.11|<< 2 Kings 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.13|2 Kings 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

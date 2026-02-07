@@ -1,10 +1,7 @@
 **LXX Psalm 135:13** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>,  your name \[is\] into the eon, and  your memorial unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-Thy name, O LORD, [endureth] for ever; [and] thy memorial, O LORD, throughout all generations.
-<small><sub>**BSB:**</sub></small>
-Your name, O LORD, endures forever, Your renown, O LORD, through all generations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.12|<< Psalm 135:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.14|Psalm 135:14 >>]]</td></tr></table>
 
 | Translation | Greek |

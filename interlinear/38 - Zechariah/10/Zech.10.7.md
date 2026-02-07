@@ -1,4 +1,4 @@
-**Zechariah 10:7** 
+**Zechariah 10:7**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they of] Ephraim shall be like a mighty [man], and their heart shall rejoice as through wine: yea, their children shall see [it], and be glad; their heart shall rejoice in the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim will be like a mighty man, and their hearts will be glad as with wine. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.6|<< Zechariah 10:6]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.8|Zechariah 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a warrior  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H1368\|גִבּוֹר֙]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> gi.bOr<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

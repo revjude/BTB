@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:25** 
 <small><sub>**LXX:**</sub></small>
 The carvings  of their gods you shall incinerate in fire. You shall not desire silver nor gold from them, to take for yourself, lest you should be at fault because of it, for it is an abomination \[to the\] <span class="smallcaps">lord</span> your God. 
-<small><sub>**KJV:**</sub></small>
-The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold [that is] on them, nor take [it] unto thee, lest thou be snared therein: for it [is] an abomination to the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-You must burn up the images of their gods; do not covet the silver and gold that is on them or take it for yourselves, or you will be ensnared by it; for it is detestable to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.24|<< Deuteronomy 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.26|Deuteronomy 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

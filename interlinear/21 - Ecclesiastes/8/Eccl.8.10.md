@@ -1,4 +1,4 @@
-**Ecclesiastes 8:10** 
+**Ecclesiastes 8:10**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this [is] also vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then too, I saw the burial of the wicked who used to go in and out of the holy p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.9|<< Ecclesiastes 8:9]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.11|Ecclesiastes 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in such  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3651C\|כֵ֡ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have seen  |**<big>&#8207;[[H7200G\|רָאִיתִי֩]]&#8207; </big>**| ra.'i.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

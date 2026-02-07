@@ -1,4 +1,4 @@
-**Psalms 139:2** 
+**Psalms 139:2**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You know when I sit and when I rise; You understand my thoughts from afar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.1|<< Psalms 139:1]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.3|Psalms 139:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you know  |**<big>&#8207;[[H3045\|יָ֭דַעְתָּ]]&#8207; </big>**| Ya.da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

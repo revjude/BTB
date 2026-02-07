@@ -1,10 +1,7 @@
 **LXX Leviticus 2:9** 
 <small><sub>**LXX:**</sub></small>
 the priest shall remove from the sacrifice the memorial \[portion\] of it. And the priest shall place \[it\] upon the altar -- a yield \[offering\] scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take from the meat offering a memorial thereof, and shall burn [it] upon the altar: [it is] an offering made by fire, of a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The priest is to remove the memorial portion from the grain offering and burn it on the altar as a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.8|<< Leviticus 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.10|Leviticus 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

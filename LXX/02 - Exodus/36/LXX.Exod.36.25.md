@@ -1,10 +1,7 @@
 **LXX Exodus 36:25** 
 <small><sub>**LXX:**</sub></small>
 And the second side  towards \[the\] north -- twenty posts, 
-<small><sub>**KJV:**</sub></small>
-And for the other side of the tabernacle, [which is] toward the north corner, he made twenty boards,
-<small><sub>**BSB:**</sub></small>
-For the second side of the tabernacle, the north side, he made twenty frames<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.24|<< Exodus 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.26|Exodus 36:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 17:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:24**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;
 <small><sub>**BSB:**</sub></small>
 The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands.
 <small><sub>**Literal:**</sub></small>
 The God who having made the world and all things that [are] in it, He of heaven and earth being Lord not in hand-made temples dwells,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.23|<< Acts 17:23]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.25|Acts 17:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | God |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Micah 6:14** 
+**Micah 6:14**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt eat, but not be satisfied; and thy casting down [shall be] in the midst of thee; and thou shalt take hold, but shalt not deliver; and [that] which thou deliverest will I give up to the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will eat but not be satisfied, and your hunger will remain with you. What yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.13|<< Micah 6:13]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.15|Micah 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will eat  |**<big>&#8207;[[H0398\|תֹאכַל֙]]&#8207; </big>**| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

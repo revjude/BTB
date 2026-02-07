@@ -1,5 +1,5 @@
-**Mark 3:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:33**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered them, saying, Who is my mother, or my brethren?
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Who are My mother and My brothers?”
@@ -10,7 +10,7 @@ And answering them He says; Who are the mother of Mine and the brothers of Mine?
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering [^1] |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

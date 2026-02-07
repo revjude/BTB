@@ -1,12 +1,12 @@
-**Philippians 4:21
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:21**<big><big>[[Phil.4.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute every saint in Christ Jesus. The brethren which are with me greet you.
 <small><sub>**BSB:**</sub></small>
 Greet all the saints in Christ Jesus. The brothers who are with me send you greetings.
 <small><sub>**Literal:**</sub></small>
 do greet every saint in Christ Jesus. Greet you the with me myself brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.20|<< Philippians 4:20]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.22|Philippians 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|Ἀσπάσασθε]]</big>**  |Aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

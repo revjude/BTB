@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:14** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah came from  Downfall, where \[the\] <span class="smallcaps">lord</span> sent him there  to prophesy. And he stood in the courtyard of \[the\] house of the <span class="smallcaps">lord</span>, and he said to all the people, 
-<small><sub>**KJV:**</sub></small>
-Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD’S house; and said to all the people,
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, and he stood in the courtyard of the house of the LORD and proclaimed to all the people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.13|<< Jeremiah 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.15|Jeremiah 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

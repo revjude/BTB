@@ -1,12 +1,12 @@
-**James 1:20
-**<small><sub>**KJV:**</sub></small>
+**James 1:20**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the wrath of man worketh not the righteousness of God.
 <small><sub>**BSB:**</sub></small>
 for man’s anger does not bring about the righteousness that God desires.
 <small><sub>**Literal:**</sub></small>
 [the] anger for of man [the] righteousness of God not works.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.19|<< James 1:19]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.21|James 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] anger |**<big>[[G3709\|ὀργὴ]]</big>**  |orgē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

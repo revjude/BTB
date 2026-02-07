@@ -1,10 +1,7 @@
 **LXX Psalm 18:8** 
 <small><sub>**LXX:**</sub></small>
 Smoke ascended in his anger, and fire from in front of him. Coals shall be ignited; they were lit by him. 
-<small><sub>**KJV:**</sub></small>
-There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
-<small><sub>**BSB:**</sub></small>
-Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.7|<< Psalm 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.9|Psalm 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 21:10** 
 <small><sub>**LXX:**</sub></small>
 And the great priest from among  his brethren, of the the oil of the anointing poured upon his head, and his hands having been perfected to put on the garments -- the head shall not be without a turban, and the garments he shall not tear up; 
-<small><sub>**KJV:**</sub></small>
-And [he that is] the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;
-<small><sub>**BSB:**</sub></small>
-The priest who is highest among his brothers, who has had the anointing oil poured on his head and has been ordained to wear the priestly garments, must not let his hair hang loose or tear his garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.9|<< Leviticus 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.11|Leviticus 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked to anger over  Judah and  Jerusalem. And he appointed them for an astonishment, and for extinction, and for a hissing, as you see \[with\] your eyes. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.
-<small><sub>**BSB:**</sub></small>
-Therefore, the wrath of the LORD has fallen upon Judah and Jerusalem, and He has made them an object of terror, horror, and scorn, as you can see with your own eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.7|<< 2 Chronicles 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.9|2 Chronicles 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

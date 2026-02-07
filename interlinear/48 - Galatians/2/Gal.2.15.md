@@ -1,12 +1,12 @@
-**Galatians 2:15
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:15**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We [who are] Jews by nature, and not sinners of the Gentiles,
 <small><sub>**BSB:**</sub></small>
 We who are Jews by birth and not Gentile “sinners”
 <small><sub>**Literal:**</sub></small>
 We ourselves by birth Jews and not of [the] Gentiles sinners;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.14|<< Galatians 2:14]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.16|Galatians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by birth |**<big>[[G5449\|φύσει]]</big>**  |phusei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

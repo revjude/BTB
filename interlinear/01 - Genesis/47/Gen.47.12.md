@@ -1,4 +1,4 @@
-**Genesis 47:12** 
+**Genesis 47:12**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to [their] families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph also provided his father and brothers and all his father’s household wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.11|<< Genesis 47:11]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.13|Genesis 47:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he provided for  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3557\|יְכַלְכֵּ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.khal.Kel<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵף֙]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

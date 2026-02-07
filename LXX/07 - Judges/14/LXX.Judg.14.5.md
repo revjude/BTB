@@ -1,10 +1,7 @@
 **LXX Judges 14:5** 
 <small><sub>**LXX:**</sub></small>
 And Samson went down, and  his father and  his mother unto Timnath. And he came to the vineyards of Timnath. And behold, a cub of a lion \[was\] roaring in meeting him. 
-<small><sub>**KJV:**</sub></small>
-Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him.
-<small><sub>**BSB:**</sub></small>
-Then Samson went down to Timnah with his father and mother and came to the vineyards of Timnah. Suddenly a young lion came roaring at him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.4|<< Judges 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.6|Judges 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

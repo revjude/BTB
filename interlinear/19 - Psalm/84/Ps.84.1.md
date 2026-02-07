@@ -1,12 +1,12 @@
-**Psalms 84:1** (84:2)
+**Psalms 84:1**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Gittith, A Psalm for the sons of Korah. How amiable [are] thy tabernacles, O LORD of hosts!
+How amiable [are] thy tabernacles, O LORD of hosts!
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. According to Gittith. A Psalm of the sons of Korah. How lovely is Your dwelling place, O LORD of Hosts!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.0|<< Psalms 84:0]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.2|Psalms 84:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lovely  |**<big>&#8207;[[H3039A\|יְּדִיד֥וֹת]]&#8207; </big>**| ye.di.Dot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

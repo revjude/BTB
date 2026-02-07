@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:23** 
 <small><sub>**LXX:**</sub></small>
 And I will hang him on an elevated mountain of Israel; and I will plant it, and there shall be brought forth a bud, and he shall produce fruit, and he will be for a great cedar; and there shall rest underneath him every bird; and every winged creature shall rest under the shadow of his tender branches; and  his vine branches shall be restored. 
-<small><sub>**KJV:**</sub></small>
-In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.
-<small><sub>**BSB:**</sub></small>
-I will plant it on the mountain heights of Israel so that it will bear branches; it will yield fruit and become a majestic cedar. Birds of every kind will nest under it, taking shelter in the shade of its branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.22|<< Ezekiel 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.24|Ezekiel 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

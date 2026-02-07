@@ -1,10 +1,7 @@
 **LXX Psalm 79:4** 
 <small><sub>**LXX:**</sub></small>
 We became scorn \[to\] our neighbors; \[for\] a sneering and taunting by the ones round about us. 
-<small><sub>**KJV:**</sub></small>
-We are become a reproach to our neighbours, a scorn and derision to them that are round about us.
-<small><sub>**BSB:**</sub></small>
-We have become a reproach to our neighbors, a scorn and derision to those around us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.3|<< Psalm 79:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.5|Psalm 79:5 >>]]</td></tr></table>
 
 | Translation | Greek |

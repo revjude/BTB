@@ -1,12 +1,12 @@
-**Romans 15:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:28**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 <small><sub>**BSB:**</sub></small>
 So after I have completed this service and have safely delivered this bounty to them, I will set off to Spain by way of you.
 <small><sub>**Literal:**</sub></small>
 This therefore having finished and having sealed to them <the> fruit this I will set off through you into <the> Spain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.27|<< Romans 15:27]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.29|Romans 15:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

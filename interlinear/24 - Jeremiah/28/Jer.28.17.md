@@ -1,4 +1,4 @@
-**Jeremiah 28:17** 
+**Jeremiah 28:17**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hananiah the prophet died the same year in the seventh month.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the seventh month of that very year, the prophet Hananiah died.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.16|<< Jeremiah 28:16]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.1|Jeremiah 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֛מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hananiah  |**<big>&#8207;[[H2608A\|חֲנַנְיָ֥ה]]&#8207; </big>**| cha.nan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

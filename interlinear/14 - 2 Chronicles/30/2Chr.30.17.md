@@ -1,4 +1,4 @@
-**2 Chronicles 30:17** 
+**2 Chronicles 30:17**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there were] many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one [that was] not clean, to sanctify [them] unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since there were many in the assembly who had not consecrated themselves, the Le
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.16|<< 2 Chronicles 30:16]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.18|2 Chronicles 30:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבַּ֥ת]]&#8207; </big>**| ra.Bat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:18** 
 <small><sub>**LXX:**</sub></small>
 And there was coming in one day -- one calf, and six choice sheep, and a winter yearling; \[there\] came to me also in the midst of ten days  all wine  in multitude. And with these I did not seek bread of my governing, for the slavery \[was\] heavy upon  this people. 
-<small><sub>**KJV:**</sub></small>
-Now [that] which was prepared [for me] daily [was] one ox [and] six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.
-<small><sub>**BSB:**</sub></small>
-Each day one ox, six choice sheep, and some fowl were prepared for me, and once every ten days an abundance of all kinds of wine was provided. But I did not demand the food allotted to the governor, because the burden on the people was so heavy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.17|<< Nehemiah 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.19|Nehemiah 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

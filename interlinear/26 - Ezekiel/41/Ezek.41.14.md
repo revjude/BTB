@@ -1,4 +1,4 @@
-**Ezekiel 41:14** 
+**Ezekiel 41:14**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the breadth of the face of the house, and of the separate place toward the east, an hundred cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The width of the temple courtyard on the east, including the front of the temple
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] breadth of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7341\|רֹחַב֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.Chav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵ֨י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

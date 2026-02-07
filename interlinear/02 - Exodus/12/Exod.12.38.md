@@ -1,4 +1,4 @@
-**Exodus 12:38** 
+**Exodus 12:38**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mixed multitude went up also with them; and flocks, and herds, [even] very much cattle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And a mixed multitude also went up with them, along with great droves of livesto
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.37|<< Exodus 12:37]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.39|Exodus 12:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mixed company  |**<big>&#8207;[[H6154M\|עֵ֥רֶב]]&#8207; </big>**| 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 19:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:2**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, [there was] a man named Zacchaeus, which was the chief among the publicans, and he was rich.
 <small><sub>**BSB:**</sub></small>
 And there was a man named Zacchaeus, a chief tax collector, who was very wealthy.
 <small><sub>**Literal:**</sub></small>
 And behold a man by name being called Zacchaeus and he himself was a chief tax collector and he himself was rich;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.1|<< Luke 19:1]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.3|Luke 19:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

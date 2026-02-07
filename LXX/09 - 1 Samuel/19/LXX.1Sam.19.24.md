@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:24** 
 <small><sub>**LXX:**</sub></small>
 And he took off  his clothes, and he prophesied before Samuel. And he fell naked that entire day, and that entire night. Because of this they said, Is also Saul among \[the\] prophets? 
-<small><sub>**KJV:**</sub></small>
-And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, [Is] Saul also among the prophets?
-<small><sub>**BSB:**</sub></small>
-Then Saul stripped off his robes and also prophesied before Samuel. And he collapsed and lay naked all that day and night. That is why it is said, “Is Saul also among the prophets?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.23|<< 1 Samuel 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.1|1 Samuel 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

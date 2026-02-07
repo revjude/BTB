@@ -1,4 +1,4 @@
-**Exodus 18:3** 
+**Exodus 18:3**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her two sons; of which the name of the one [was] Gershom; for he said, I have been an alien in a strange land:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ along with her two sons. One son was named Gershom, for Moses had said, “I hav
 > $\quad$ referenced by: [[Acts.7.29|Acts 7:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵ֣י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

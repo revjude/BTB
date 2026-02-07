@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as they rose early in the next day in the morning, and behold, Dagon was fallen upon his face before of the ark of \[the\] <span class="smallcaps">lord</span>. And the head of Dagon, and both the traces of his hands were removed unto the front of the doorposts, and both the wrists  of his hands were fallen upon the threshold. Only the spine of Dagon was left behind. 
-<small><sub>**KJV:**</sub></small>
-And when they arose early on the morrow morning, behold, Dagon [was] fallen upon his face to the ground before the ark of the LORD; and the head of Dagon and both the palms of his hands [were] cut off upon the threshold; only [the stump of] Dagon was left to him.
-<small><sub>**BSB:**</sub></small>
-But when they got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD, with his head and his hands broken off and lying on the threshold. Only the torso remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.3|<< 1 Samuel 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.5|1 Samuel 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

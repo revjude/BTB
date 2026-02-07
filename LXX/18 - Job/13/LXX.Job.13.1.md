@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, my eye has seen these \[things\], and my ear has heard. 
-<small><sub>**KJV:**</sub></small>
-Lo, mine eye hath seen all [this], mine ear hath heard and understood it.
-<small><sub>**BSB:**</sub></small>
-“Indeed, my eyes have seen all this; my ears have heard and understood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.25|<< Job 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.2|Job 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

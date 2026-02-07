@@ -1,10 +1,7 @@
 **LXX Exodus 32:13** 
 <small><sub>**LXX:**</sub></small>
 remembering Abraham, and Isaac, and Jacob  your servants, to whom you swore by an oath to them according to yourself. And you spoke to them, saying, I will greatly multiply  your seed as the stars of the heaven  in multitude, and all  this land which you spoke of to give it \[to\] their seed, \[so that\] they shall hold it into the eon. 
-<small><sub>**KJV:**</sub></small>
-Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit [it] for ever.
-<small><sub>**BSB:**</sub></small>
-Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.12|<< Exodus 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.14|Exodus 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men of Ai killed of them about thirty-six men, and they pursued them from the gate until they defeated them. And they struck them by the incline. And the heart of the people \[was\] terrified, and it became as water. 
-<small><sub>**KJV:**</sub></small>
-And the men of Ai smote of them about thirty and six men: for they chased them [from] before the gate [even] unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
-<small><sub>**BSB:**</sub></small>
-And the men of Ai struck down about thirty-six of them, chasing them from the gate as far as the quarries and striking them down on the slopes. So the hearts of the people melted and became like water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.4|<< Joshua 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.6|Joshua 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

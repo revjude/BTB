@@ -1,10 +1,7 @@
 **LXX Esther 6:11** 
 <small><sub>**LXX:**</sub></small>
 And Haman took the robe, and the horse, and he robed  Mordecai, and mounted him upon the horse, and went through the square of the city, and proclaimed, saying, So it will be to every man the king wants to extol. 
-<small><sub>**KJV:**</sub></small>
-Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.
-<small><sub>**BSB:**</sub></small>
-So Haman took the robe and the horse, arrayed Mordecai, and paraded him through the city square, crying out before him, “This is what is done for the man whom the king is delighted to honor!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.10|<< Esther 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.12|Esther 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

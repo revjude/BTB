@@ -1,12 +1,12 @@
-**1 Corinthians 7:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:10**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the married I command, [yet] not I, but the Lord, Let not the wife depart from [her] husband:
 <small><sub>**BSB:**</sub></small>
 To the married I give this command (not I, but the Lord): A wife must not separate from her husband.
 <small><sub>**Literal:**</sub></small>
 To those now having married I give this charge — not I myself but the Lord — A wife from a husband not is to be separated;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.9|<< 1 Corinthians 7:9]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.11|1 Corinthians 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To those |**<big>[[G3588\|Τοῖς]]</big>**  |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

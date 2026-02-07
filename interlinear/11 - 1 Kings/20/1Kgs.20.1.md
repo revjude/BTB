@@ -1,4 +1,4 @@
-**1 Kings 20:1** 
+**1 Kings 20:1**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benhadad the king of Syria gathered all his host together: and [there were] thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Ben-hadad king of Aram assembled his entire army. Accompanied by thirty-two 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.21|<< 1 Kings 19:21]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.2|1 Kings 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ben  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1130G\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hadad  |**<big>&#8207;[[H1130G\|הֲדַ֣ד]]&#8207; </big>**| ha.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

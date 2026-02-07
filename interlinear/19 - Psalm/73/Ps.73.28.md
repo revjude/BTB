@@ -1,4 +1,4 @@
-**Psalms 73:28** 
+**Psalms 73:28**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [it is] good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for me, it is good to draw near to God. I have made the Lord GOD my refug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.27|<< Psalms 73:27]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.0|Psalms 74:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] approach of  |**<big>&#8207;[[H7132\|קִֽרֲבַ֥ת]]&#8207; </big>**| ki.ra.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

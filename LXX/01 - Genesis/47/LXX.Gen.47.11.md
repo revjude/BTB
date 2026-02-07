@@ -1,10 +1,7 @@
 **LXX Genesis 47:11** 
 <small><sub>**LXX:**</sub></small>
 And Joseph settled  his father, and  his brothers, and he gave to them a possession in \[the\] land of Egypt, in the best land, in the land of Rameses, as Pharaoh assigned. 
-<small><sub>**KJV:**</sub></small>
-And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
-<small><sub>**BSB:**</sub></small>
-So Joseph settled his father and brothers in the land of Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.10|<< Genesis 47:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.12|Genesis 47:12 >>]]</td></tr></table>
 
 | Translation | Greek |

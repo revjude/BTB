@@ -1,4 +1,4 @@
-**Ezekiel 14:17** 
+**Ezekiel 14:17**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or [if] I bring a sword upon that land, and say, Sword, go through the land; so that I cut off man and beast from it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if I bring a sword against that land and say, ‘Let a sword pass through it,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.16|<< Ezekiel 14:16]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.18|Ezekiel 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֛וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֥רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 8:9** 
 <small><sub>**LXX:**</sub></small>
 And the dove no finding rest  for her feet, returned to him into the ark, for water was upon all the face of the earth. And stretching out the hand, he took her to himself, and he brought her into the ark. 
-<small><sub>**KJV:**</sub></small>
-But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters [were] on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.
-<small><sub>**BSB:**</sub></small>
-But the dove found no place to rest her foot, and she returned to him in the ark, because the waters were still covering the surface of all the earth. So he reached out his hand and brought her back inside the ark.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.8|<< Genesis 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.10|Genesis 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

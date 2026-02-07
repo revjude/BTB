@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And behold, a man  of God came from out of Judah with a word of \[the\] <span class="smallcaps">lord</span> unto Beth-el. And Jeroboam stood upon the altar to sacrifice. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense.
-<small><sub>**BSB:**</sub></small>
-Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.33|<< 1 Kings 12:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.2|1 Kings 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

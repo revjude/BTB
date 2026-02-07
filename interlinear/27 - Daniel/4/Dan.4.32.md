@@ -1,4 +1,4 @@
-**Daniel 4:32** (4:29)
+**Daniel 4:32**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall drive thee from men, and thy dwelling [shall be] with the beasts of the field: they shall make thee to eat grass as oxen, and seven times shall pass over thee, until thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be driven away from mankind to live with the beasts of the field, and y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.31|<< Daniel 4:31]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.33|Daniel 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and away from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> humankind  |**<big>&#8207;[[H0606\|אֲנָשָׁ]]&#8207;&#8207;[[H9010\|א֩]]&#8207; </big>**| 'a.na.Sha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 39:2** 
+**Ezekiel 39:2**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will turn you around, drive you along, bring you up from the far north, and se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn around you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שֹׁבַבְתִּ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shoav.Ti.<small><sup>[[HVpq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will lead on you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8338\|שִׁשֵּׁאתִ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.she.Ti.<small><sup>[[HVpq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

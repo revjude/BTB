@@ -1,12 +1,12 @@
-**2 Corinthians 13:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:5**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 <small><sub>**BSB:**</sub></small>
 Examine yourselves to see whether you are in the faith; test yourselves. Do you not realize that Jesus Christ is in you—unless you fail the test?
 <small><sub>**Literal:**</sub></small>
 Yourselves do examine whether you are in the faith, yourselves do test; Or surely you do recognize yourselves that Jesus Christ [is] in you is? except surely even failing you are!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.4|<< 2 Corinthians 13:4]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.6|2 Corinthians 13:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yourselves |**<big>[[G1438\|Ἑαυτοὺς]]</big>**  |He'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do examine |**<big>[[G3985H\|πειράζετε]]</big>**  |peirazete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 10:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:10**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
 <small><sub>**BSB:**</sub></small>
 He became hungry and wanted something to eat, but while the meal was being prepared, he fell into a trance.
 <small><sub>**Literal:**</sub></small>
 He became then hungry and was desiring to eat. when were preparing however [some] of them happened upon him a trance,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.9|<< Acts 10:9]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.11|Acts 10:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He became |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

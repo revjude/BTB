@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:12** 
 <small><sub>**LXX:**</sub></small>
 And he shall plunder  your force, and shall despoil  your possessions, and shall throw down  your walls, and  shall demolish your desirable houses. And  your stones, and  your wood, and  your dust he will cast into \[the\] midst of the sea. 
-<small><sub>**KJV:**</sub></small>
-And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.
-<small><sub>**BSB:**</sub></small>
-They will plunder your wealth and pillage your merchandise. They will demolish your walls, tear down your beautiful homes, and throw your stones and timber and soil into the water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.11|<< Ezekiel 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.13|Ezekiel 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

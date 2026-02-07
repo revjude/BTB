@@ -1,10 +1,7 @@
 **LXX Proverbs 17:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sovereignty of righteousness shall give authority to words; but faction and fighting lead to lack. 
-<small><sub>**KJV:**</sub></small>
-The beginning of strife [is as] when one letteth out water: therefore leave off contention, before it be meddled with.
-<small><sub>**BSB:**</sub></small>
-To start a quarrel is to release a flood; so abandon the dispute before it breaks out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.13|<< Proverbs 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.15|Proverbs 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

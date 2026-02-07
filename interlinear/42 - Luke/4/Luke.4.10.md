@@ -1,5 +1,5 @@
-**Luke 4:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:10**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written, He shall give his angels charge over thee, to keep thee:
 <small><sub>**BSB:**</sub></small>
 For it is written: ‘He will command His angels concerning You to guard You carefully,
@@ -10,7 +10,7 @@ It has been written for that To the angels of Him He will give orders concerning
 > $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

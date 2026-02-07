@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:5** 
 <small><sub>**LXX:**</sub></small>
 And she said to the king, The word \[is\] true which I heard in  my land concerning  your words, and concerning  your wisdom. 
-<small><sub>**KJV:**</sub></small>
-And she said to the king, [It was] a true report which I heard in mine own land of thine acts, and of thy wisdom:
-<small><sub>**BSB:**</sub></small>
-She said to the king, “The report I heard in my own country about your words and wisdom is true.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.4|<< 2 Chronicles 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.6|2 Chronicles 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

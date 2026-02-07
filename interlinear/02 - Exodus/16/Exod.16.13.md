@@ -1,4 +1,4 @@
-**Exodus 16:13** 
+**Exodus 16:13**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That evening quail came and covered the camp, and in the morning there was a lay
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.12|<< Exodus 16:12]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.14|Exodus 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the evening  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6153\|עֶ֔רֶב]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

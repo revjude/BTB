@@ -1,4 +1,4 @@
-**Ecclesiastes 2:8** 
+**Ecclesiastes 2:8**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, [as] musical instruments, and that of all sorts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I accumulated for myself silver and gold and the treasure of kings and provi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.7|<< Ecclesiastes 2:7]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.9|Ecclesiastes 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I gathered  |**<big>&#8207;[[H3664\|כָּנַ֤סְתִּי]]&#8207; </big>**| ka.Nas.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> myself  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

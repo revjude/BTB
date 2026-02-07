@@ -1,4 +1,4 @@
-**Psalms 142:7** (142:8)
+**Psalms 142:7**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Free my soul from prison, that I may praise Your name. The righteous will gather
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.6|<< Psalms 142:6]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.0|Psalms 143:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring out !  |**<big>&#8207;[[H3318H\|ה֘וֹצִ֤יאָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ho.Tzi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from prison  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4525\|מַּסְגֵּ֨ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mas.Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

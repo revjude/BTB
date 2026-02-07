@@ -1,10 +1,7 @@
 **LXX Job 5:13** 
 <small><sub>**LXX:**</sub></small>
 the one overtaking \[the\] wise with the intellect; and \[the\] counsel of \[the\] crafty ones he amazes. 
-<small><sub>**KJV:**</sub></small>
-He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
-<small><sub>**BSB:**</sub></small>
-He catches the wise in their craftiness, and sweeps away the plans of the cunning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.12|<< Job 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.14|Job 5:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 5:13** is...

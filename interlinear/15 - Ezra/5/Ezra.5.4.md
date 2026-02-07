@@ -1,4 +1,4 @@
-**Ezra 5:4** 
+**Ezra 5:4**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said we unto them after this manner, What are the names of the men that make this building?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also asked, “What are the names of the men who are constructing this buil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.3|<< Ezra 5:3]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.5|Ezra 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֥יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as follows  |**<big>&#8207;[[H3660\|כְּנֵ֖מָא]]&#8207; </big>**| ke.Ne.ma'<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

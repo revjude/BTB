@@ -1,4 +1,4 @@
-**2 Kings 9:16** 
+**2 Kings 9:16**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehu got into his chariot and went to Jezreel, because Joram was laid up th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.15|<< 2 Kings 9:15]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.17|2 Kings 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rode in a chariot  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יִּרְכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehu  |**<big>&#8207;[[H3058H\|יֵהוּא֙]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

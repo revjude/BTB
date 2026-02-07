@@ -1,12 +1,12 @@
-**John 18:32
-**<small><sub>**KJV:**</sub></small>
+**John 18:32**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
 <small><sub>**BSB:**</sub></small>
 This was to fulfill the word that Jesus had spoken to indicate the kind of death He was going to die.
 <small><sub>**Literal:**</sub></small>
 that the word <the> of Jesus may be fulfilled which He had spoken signifying as what death He was about to die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.31|<< John 18:31]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.33|John 18:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

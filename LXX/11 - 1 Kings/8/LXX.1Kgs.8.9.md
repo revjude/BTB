@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:9** 
 <small><sub>**LXX:**</sub></small>
 There was nothing in the ark except the two tablets of stone, tablets of the covenant, which Moses put there in Horeb, which \[the\] <span class="smallcaps">lord</span> ordained with the sons of Israel in  their going forth from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-[There was] nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made [a covenant] with the children of Israel, when they came out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-There was nothing in the ark except the two stone tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.8|<< 1 Kings 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.10|1 Kings 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

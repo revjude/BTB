@@ -1,4 +1,4 @@
-**Ecclesiastes 3:2** 
+**Ecclesiastes 3:2**<big><big>[[Eccl.3.1 To Everything There Is a Season|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A time to be born, and a time to die; a time to plant, and a time to pluck up [that which is] planted;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a time to be born and a time to die, a time to plant and a time to uproot,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.1|<< Ecclesiastes 3:1]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.3|Ecclesiastes 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a time  |**<big>&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to bear a child  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3205\|לֶ֖דֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

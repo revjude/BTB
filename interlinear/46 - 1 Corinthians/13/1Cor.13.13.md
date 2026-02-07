@@ -1,12 +1,12 @@
-**1 Corinthians 13:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:13**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now abideth faith, hope, charity, these three; but the greatest of these [is] charity.
 <small><sub>**BSB:**</sub></small>
 And now these three remain: faith, hope, and love; but the greatest of these is love.
 <small><sub>**Literal:**</sub></small>
 Now however abide faith, hope, love, <the> three these; [the] greatest however of these [is] <the> love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.12|<< 1 Corinthians 13:12]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.1|1 Corinthians 14:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|Νυνὶ]]</big>**  |Nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

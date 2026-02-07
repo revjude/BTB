@@ -1,4 +1,4 @@
-**Zephaniah 3:6** 
+**Zephaniah 3:6**<big><big>[[Zeph.3.6 Purification of the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have cut off the nations: their towers are desolate; I made their streets wast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.5|<< Zephaniah 3:5]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.7|Zephaniah 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have cut off  |**<big>&#8207;[[H3772I\|הִכְרַ֣תִּי]]&#8207; </big>**| hikh.Ra.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גוֹיִ֗ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

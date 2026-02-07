@@ -1,10 +1,7 @@
 **LXX Proverbs 19:7** 
 <small><sub>**LXX:**</sub></small>
 Every one who detests a poor brother be also far \[from\] friendship. Good insight approaches to the ones perceiving it; and an intelligent man will find it. The many doing evil perfect a work of evil; and the one who aggravates by words shall not be delivered. 
-<small><sub>**KJV:**</sub></small>
-All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth [them with] words, [yet] they [are] wanting [to him].
-<small><sub>**BSB:**</sub></small>
-All the brothers of a poor man hate him—how much more do his friends avoid him! He may pursue them with pleading, but they are nowhere to be found.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.6|<< Proverbs 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.8|Proverbs 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

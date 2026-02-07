@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:13** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to \[the\] king of Israel, What \[is there between\] me and you? Go to the prophets  of your father, and to the prophets  of your mother. And the king of Israel said to him, Is it that \[the\] <span class="smallcaps">lord</span> calls  these three kings  to deliver them into \[the\] hands of Moab? 
-<small><sub>**KJV:**</sub></small>
-And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab.
-<small><sub>**BSB:**</sub></small>
-Elisha, however, said to the king of Israel, “What have we to do with each other? Go to the prophets of your father and of your mother!” “No,” replied the king of Israel, “for it is the LORD who has summoned these three kings to deliver them into the hand of Moab.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.12|<< 2 Kings 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.14|2 Kings 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

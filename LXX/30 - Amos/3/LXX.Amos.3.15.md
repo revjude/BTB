@@ -1,10 +1,7 @@
 **LXX Amos 3:15** 
 <small><sub>**LXX:**</sub></small>
 I will confound and I will strike the turreted house upon the harvest house; and \[the\] ivory houses shall be destroyed, and many other houses shall be added, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will tear down the winter house along with the summer house; the houses of ivory will also perish, and the great houses will come to an end,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.14|<< Amos 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.1|Amos 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

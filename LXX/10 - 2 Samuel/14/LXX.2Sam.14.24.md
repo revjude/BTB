@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:24** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Let him return to  his house, but  let him not see my face! And Absalom returned to  his house, but the face of the king he did not see. 
-<small><sub>**KJV:**</sub></small>
-And the king said, Let him turn to his own house, and let him not see my face. So Absalom returned to his own house, and saw not the king’s face.
-<small><sub>**BSB:**</sub></small>
-But the king added, “He may return to his house, but he must not see my face.” So Absalom returned to his own house, but he did not see the face of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.23|<< 2 Samuel 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.25|2 Samuel 14:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah son of Josiah reigned instead of Coniah \[the\] son of Jehoiakim, whom Nebuchadnezzar king of Babylon gave reign to reign in \[the\] land of Judah. 
-<small><sub>**KJV:**</sub></small>
-And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.
-<small><sub>**BSB:**</sub></small>
-Nebuchadnezzar king of Babylon made Zedekiah son of Josiah the king of Judah, and he reigned in place of Coniah son of Jehoiakim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.32|<< Jeremiah 36:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.2|Jeremiah 37:2 >>]]</td></tr></table>
 
 | Translation | Greek |

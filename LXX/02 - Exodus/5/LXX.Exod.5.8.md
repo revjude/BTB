@@ -1,10 +1,7 @@
 **LXX Exodus 5:8** 
 <small><sub>**LXX:**</sub></small>
 And the rate of the making of bricks which they produce each day, you shall put it upon them. You shall not remove any of them, for they are idle. On account of this they cry out, saying, We should go and sacrifice \[to\] our God. 
-<small><sub>**KJV:**</sub></small>
-And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish [ought] thereof: for they [be] idle; therefore they cry, saying, Let us go [and] sacrifice to our God.
-<small><sub>**BSB:**</sub></small>
-But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.7|<< Exodus 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.9|Exodus 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

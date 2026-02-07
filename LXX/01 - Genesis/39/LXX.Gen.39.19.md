@@ -1,10 +1,7 @@
 **LXX Genesis 39:19** 
 <small><sub>**LXX:**</sub></small>
 And it happened as his master heard the words  of his wife, as much as she spoke to him, saying, Thus your servant did to me, that he was enraged \[with\] anger. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.
-<small><sub>**BSB:**</sub></small>
-When his master heard the story his wife told him, saying, “This is what your slave did to me,” he burned with anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.18|<< Genesis 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.20|Genesis 39:20 >>]]</td></tr></table>
 
 | Translation | Greek |

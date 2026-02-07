@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:3** 
 <small><sub>**LXX:**</sub></small>
 Only the high \[places\] he did not remove, and the people still sacrificed there, and burned incense in the high \[places\]. 
-<small><sub>**KJV:**</sub></small>
-But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the high places were not removed; the people continued sacrificing and burning incense there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.2|<< 2 Kings 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.4|2 Kings 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

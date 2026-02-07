@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:19** 
 <small><sub>**LXX:**</sub></small>
 They shall not turn aside a judgment, they shall not discriminate a person, nor shall they take bribes; for the bribes make blind \[the\] eyes of \[the\] wise, and lift away \[the\] words of \[the\] just. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
-<small><sub>**BSB:**</sub></small>
-Do not deny justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 18:9** 
 <small><sub>**LXX:**</sub></small>
 And Jethro was amazed by all the good \[things\] which \[the\] <span class="smallcaps">lord</span> did to them; that \[the\] <span class="smallcaps">lord</span> rescued them from out of \[the\] hand of the Egyptians, and from out of \[the\] hand of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Jethro rejoiced for all the goodness which the LORD had done to Israel, whom he had delivered out of the hand of the Egyptians.
-<small><sub>**BSB:**</sub></small>
-And Jethro rejoiced over all the good things the LORD had done for Israel, whom He had rescued from the hand of the Egyptians.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.8|<< Exodus 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.10|Exodus 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

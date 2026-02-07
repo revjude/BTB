@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:19** 
 <small><sub>**LXX:**</sub></small>
 Except you shall not build the house, but  your son, the one coming forth from out of  your sides, this \[one\] shall build the house to my name. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, you are not the one to build it; but your son, your own offspring, will build the house for My Name.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.18|<< 1 Kings 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.20|1 Kings 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

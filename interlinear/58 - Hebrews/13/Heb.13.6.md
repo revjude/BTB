@@ -1,5 +1,5 @@
-**Hebrews 13:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:6**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that we may boldly say, The Lord [is] my helper, and I will not fear what man shall do unto me.
 <small><sub>**BSB:**</sub></small>
 So we say with confidence: “The Lord is my helper; I will not be afraid. What can man do to me?”
@@ -10,7 +10,7 @@ So are confident we to say: [The] Lord [is] my helper, and not I will be afraid;
 > $\quad$ referencing: [[LXX.Ps.118.6|Ps 118:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are confident |**<big>[[G2292\|θαρροῦντας]]</big>**  |tharrountas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

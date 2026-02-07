@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:14** 
 <small><sub>**LXX:**</sub></small>
 And he went through among all the tribes  of Israel, to Abel and Beth-maacah. And they were assembled, and they came after him. 
-<small><sub>**KJV:**</sub></small>
-And he went through all the tribes of Israel unto Abel, and to Bethmaachah, and all the Berites: and they were gathered together, and went also after him.
-<small><sub>**BSB:**</sub></small>
-Sheba passed through all the tribes of Israel to Abel-beth-maacah and through the entire region of the Berites, who gathered together and followed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.13|<< 2 Samuel 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.15|2 Samuel 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

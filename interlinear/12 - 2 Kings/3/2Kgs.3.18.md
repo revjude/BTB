@@ -1,4 +1,4 @@
-**2 Kings 3:18** 
+**2 Kings 3:18**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this is [but] a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is a simple matter in the sight of the LORD, and He will also deliver the M
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.17|<< 2 Kings 3:17]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.19|2 Kings 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be trifling  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7043\|נָקַ֥ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Kal<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

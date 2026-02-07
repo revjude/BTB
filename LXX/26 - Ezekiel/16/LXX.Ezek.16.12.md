@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:12** 
 <small><sub>**LXX:**</sub></small>
 And I gave a ring for  your nose, and disks for  your ears, and a crown of boasting for  your head. 
-<small><sub>**KJV:**</sub></small>
-And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.
-<small><sub>**BSB:**</sub></small>
-I put a ring in your nose, earrings on your ears, and a beautiful crown upon your head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.11|<< Ezekiel 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.13|Ezekiel 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

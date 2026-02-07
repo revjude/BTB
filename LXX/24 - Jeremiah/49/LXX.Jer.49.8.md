@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:8** 
 <small><sub>**LXX:**</sub></small>
 Their place was beguiled. Deepen to yourselves into sitting, O ones dwelling in Dedan, for he made difficult; I led him in \[the\] time which I visited against him. 
-<small><sub>**KJV:**</sub></small>
-Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time [that] I will visit him.
-<small><sub>**BSB:**</sub></small>
-Turn and run! Lie low, O dwellers of Dedan, for I will bring disaster on Esau at the time I punish him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.7|<< Jeremiah 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.9|Jeremiah 49:9 >>]]</td></tr></table>
 
 | Translation | Greek |

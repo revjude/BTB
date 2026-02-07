@@ -1,4 +1,4 @@
-**Isaiah 64:6** (64:5)
+**Isaiah 64:6**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we are all as an unclean [thing], and all our righteousnesses [are] as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each of us has become like something unclean, and all our righteous acts are lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.5|<< Isaiah 64:5]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.7|Isaiah 64:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we have become  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|נְּהִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ne.Hi<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> unclean [person]  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H2931\|טָּמֵא֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

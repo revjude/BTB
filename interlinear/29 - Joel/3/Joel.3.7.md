@@ -1,4 +1,4 @@
-**Joel 3:7** (4:7)
+**Joel 3:7**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will rouse them from the places to which you sold them; I will return 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.6|<< Joel 3:6]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.8|Joel 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֣י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to rouse them  |**<big>&#8207;[[H5782\|מְעִירָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| me.'i.Ra<small><sup>[[HVhrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:5** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah strengthened himself, and built up every  wall  having been razed, and towers, and another outside wall around. And he strengthened the elevation of the city of David, and carefully prepared many weapons. 
-<small><sub>**KJV:**</sub></small>
-Also he strengthened himself, and built up all the wall that was broken, and raised [it] up to the towers, and another wall without, and repaired Millo [in] the city of David, and made darts and shields in abundance.
-<small><sub>**BSB:**</sub></small>
-Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces of the City of David, and he produced an abundance of weapons and shields.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.4|<< 2 Chronicles 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.6|2 Chronicles 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 107:17** 
 <small><sub>**LXX:**</sub></small>
 He took hold of them from out of \[the\] way of their lawlessnesses; for on account of  their lawlessnesses they were humbled. 
-<small><sub>**KJV:**</sub></small>
-Fools because of their transgression, and because of their iniquities, are afflicted.
-<small><sub>**BSB:**</sub></small>
-Fools, in their rebellious ways, and through their iniquities, suffered affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.16|<< Psalm 107:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.18|Psalm 107:18 >>]]</td></tr></table>
 
 | Translation | Greek |

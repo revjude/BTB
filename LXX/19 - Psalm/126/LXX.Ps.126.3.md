@@ -1,10 +1,7 @@
 **LXX Psalm 126:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> magnified himself  in dealing with us; we became ones being glad. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath done great things for us; [whereof] we are glad.
-<small><sub>**BSB:**</sub></small>
-The LORD has done great things for us; we are filled with joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.126.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.126.2|<< Psalm 126:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.4|Psalm 126:4 >>]]</td></tr></table>
 
 | Translation | Greek |

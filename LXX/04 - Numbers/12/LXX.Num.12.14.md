@@ -1,10 +1,7 @@
 **LXX Numbers 12:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, If  her father in spitting, spat into  her face, would she not feel shame? Seven days she shall be separated outside the camp, and after this she shall enter. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in [again].
-<small><sub>**BSB:**</sub></small>
-But the LORD answered Moses, “If her father had but spit in her face, would she not have been in disgrace for seven days? Let her be confined outside the camp for seven days; after that she may be brought back in.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.13|<< Numbers 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.15|Numbers 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

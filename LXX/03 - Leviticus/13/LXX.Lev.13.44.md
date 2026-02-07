@@ -1,10 +1,7 @@
 **LXX Leviticus 13:44** 
 <small><sub>**LXX:**</sub></small>
 he is a leprous man, he is unclean; in defilement the priest shall declare him defiled -- in  his head \[is\] his infection. 
-<small><sub>**KJV:**</sub></small>
-He is a leprous man, he [is] unclean: the priest shall pronounce him utterly unclean; his plague [is] in his head.
-<small><sub>**BSB:**</sub></small>
-the man is diseased; he is unclean. The priest must pronounce him unclean because of the infection on his head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.43|<< Leviticus 13:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.45|Leviticus 13:45 >>]]</td></tr></table>
 
 | Translation | Greek |

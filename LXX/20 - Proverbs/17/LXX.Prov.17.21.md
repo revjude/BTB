@@ -1,10 +1,7 @@
 **LXX Proverbs 17:21** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] heart of a fool is grief \[to\] its possessor. A father is not glad over an uninstructed son; but an intelligent son gladdens his mother. 
-<small><sub>**KJV:**</sub></small>
-He that begetteth a fool [doeth it] to his sorrow: and the father of a fool hath no joy.
-<small><sub>**BSB:**</sub></small>
-A man fathers a fool to his own grief; the father of a fool has no joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.20|<< Proverbs 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.22|Proverbs 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

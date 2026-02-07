@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:19** 
 <small><sub>**LXX:**</sub></small>
 And the Ziphites ascended up to Saul, unto the hill, saying, Behold \[is\] not David hid by us in the narrows, in  New, in the hill  of Hachilah, of the \[place\] at \[the\] right  of Jeshimon? 
-<small><sub>**KJV:**</sub></small>
-Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which [is] on the south of Jeshimon?
-<small><sub>**BSB:**</sub></small>
-Then the Ziphites came up to Saul at Gibeah and said, “Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah south of Jeshimon?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.18|<< 1 Samuel 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.20|1 Samuel 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

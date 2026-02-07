@@ -1,10 +1,7 @@
 **LXX Daniel 2:26** 
 <small><sub>**LXX:**</sub></small>
 And the king answered and said  to Daniel, of which the name \[was\] Belteshazzar, Are you able to announce to me the dream which I beheld, and the interpretation of it? 
-<small><sub>**KJV:**</sub></small>
-The king answered and said to Daniel, whose name [was] Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?
-<small><sub>**BSB:**</sub></small>
-The king responded to Daniel, whose name was Belteshazzar, “Are you able to tell me what I saw in the dream, as well as its interpretation?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.25|<< Daniel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.27|Daniel 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

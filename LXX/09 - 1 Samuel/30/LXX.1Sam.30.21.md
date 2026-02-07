@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:21** 
 <small><sub>**LXX:**</sub></small>
 And David came to the two hundred men (the ones being left behind of the \[troop\] going after David) that stayed at the rushing stream of Besor. And they came forth to meet David, and to meet the people of the one with him. And David came forward unto of the people, and he asked them the \[greetings\] for peace. 
-<small><sub>**KJV:**</sub></small>
-And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that [were] with him: and when David came near to the people, he saluted them.
-<small><sub>**BSB:**</sub></small>
-When David came to the two hundred men who had been too exhausted to follow him and who were left behind at the Brook of Besor, they came out to meet him and the troops with him. As David approached the men, he greeted them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.20|<< 1 Samuel 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.22|1 Samuel 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 38:19** 
 <small><sub>**LXX:**</sub></small>
 And  their posts -- four; and  their bases -- four, \[were of\] brass; and  their hooks \[were of\] silver, and  their tips being silver plated in silver. 
-<small><sub>**KJV:**</sub></small>
-And their pillars [were] four, and their sockets [of] brass four; their hooks [of] silver, and the overlaying of their chapiters and their fillets [of] silver.
-<small><sub>**BSB:**</sub></small>
-with four posts and four bronze bases. Their hooks were silver, as well as the bands and the plating of their tops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

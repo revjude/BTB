@@ -1,4 +1,4 @@
-**Psalms 148:14** 
+**Psalms 148:14**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He also exalteth the horn of his people, the praise of all his saints; [even] of the children of Israel, a people near unto him. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has raised up a horn for His people, the praise of all His saints, of Israel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.13|<< Psalms 148:13]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.1|Psalms 149:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has raised up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|יָּ֤רֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a horn  |**<big>&#8207;[[H7161A\|קֶ֨רֶן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ke.ren<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:30** 
 <small><sub>**LXX:**</sub></small>
 And he put  his body in  his tomb; and they lamented him, \[saying\], Woe O brother. 
-<small><sub>**KJV:**</sub></small>
-And he laid his carcase in his own grave; and they mourned over him, [saying], Alas, my brother!
-<small><sub>**BSB:**</sub></small>
-Then he laid the body in his own tomb, and they lamented over him, “Oh, my brother!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.29|<< 1 Kings 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.31|1 Kings 13:31 >>]]</td></tr></table>
 
 | Translation | Greek |

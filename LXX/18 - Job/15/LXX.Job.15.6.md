@@ -1,10 +1,7 @@
 **LXX Job 15:6** 
 <small><sub>**LXX:**</sub></small>
 your mouth reprove you, and not I.  And your lips, may they bear witness against you. 
-<small><sub>**KJV:**</sub></small>
-Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.
-<small><sub>**BSB:**</sub></small>
-Your own mouth, not mine, condemns you; your own lips testify against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.5|<< Job 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.7|Job 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

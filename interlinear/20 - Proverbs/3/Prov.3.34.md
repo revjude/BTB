@@ -1,4 +1,4 @@
-**Proverbs 3:34** 
+**Proverbs 3:34**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely he scorneth the scorners: but he giveth grace unto the lowly.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He mocks the mockers, but gives grace to the humble.
 > $\quad$ referenced by: [[Jas.4.6|Jas 4:6]] ☩ [[1Pet.5.5|1Pet 5:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to the> mockers  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3887\|לֵּצִ֥ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> le.Tzim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

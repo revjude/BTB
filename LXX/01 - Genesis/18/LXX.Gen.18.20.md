@@ -1,10 +1,7 @@
 **LXX Genesis 18:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, \[The\] cry of Sodom and Gomorrah has multiplied towards me, and  their sins \[are\] great, exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;
-<small><sub>**BSB:**</sub></small>
-Then the LORD said, “The outcry against Sodom and Gomorrah is great. Because their sin is so grievous,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.19|<< Genesis 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.21|Genesis 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

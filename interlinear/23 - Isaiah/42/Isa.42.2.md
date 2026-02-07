@@ -1,4 +1,4 @@
-**Isaiah 42:2** 
+**Isaiah 42:2**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not cry, nor lift up, nor cause his voice to be heard in the street.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will not cry out or raise His voice, nor make His voice heard in the streets.
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will cry out  |**<big>&#8207;[[H6817\|יִצְעַ֖ק]]&#8207; </big>**| yitz.'Ak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

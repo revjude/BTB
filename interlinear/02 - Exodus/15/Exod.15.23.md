@@ -1,4 +1,4 @@
-**Exodus 15:23** 
+**Exodus 15:23**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came to Marah, they could not drink of the waters of Marah, for they [were] bitter: therefore the name of it was called Marah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And when they came to Marah, they could not drink the water there because it was
 > $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Marah towards  |**<big>&#8207;[[H4785\|מָרָ֔תָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ma.Ra.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

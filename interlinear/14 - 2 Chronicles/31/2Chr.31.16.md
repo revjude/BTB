@@ -1,4 +1,4 @@
-**2 Chronicles 31:16** 
+**2 Chronicles 31:16**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their genealogy of males, from three years old and upward, [even] unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In addition, they distributed portions to the males registered by genealogy who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.15|<< 2 Chronicles 31:15]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.17|2 Chronicles 31:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַ֞ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | recording genealogy they  |**<big>&#8207;[[H3187\|הִתְיַחְשָׂ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| hit.yach.Sa<small><sup>[[HVtcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

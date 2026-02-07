@@ -1,4 +1,4 @@
-**Ecclesiastes 8:17** 
+**Ecclesiastes 8:17**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek [it] out, yet he shall not find [it]; yea further; though a wise [man] think to know [it], yet shall he not be able to find [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw every work of God, and that a man is unable to comprehend the work that is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.16|<< Ecclesiastes 8:16]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.1|Ecclesiastes 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִיתִי֮]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'i.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

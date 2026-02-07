@@ -1,10 +1,7 @@
 **LXX Genesis 24:9** 
 <small><sub>**LXX:**</sub></small>
 And the servant put  his hand under the thigh of Abraham  his master. And he swore by an oath to him on account of  this saying. 
-<small><sub>**KJV:**</sub></small>
-And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.
-<small><sub>**BSB:**</sub></small>
-So the servant placed his hand under the thigh of his master Abraham and swore an oath to him concerning this matter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.8|<< Genesis 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.10|Genesis 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

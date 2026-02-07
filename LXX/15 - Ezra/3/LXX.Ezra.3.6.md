@@ -1,10 +1,7 @@
 **LXX Ezra 3:6** 
 <small><sub>**LXX:**</sub></small>
 On day one of the seventh month they began to offer whole burnt-offerings to the <span class="smallcaps">lord</span>. But the house of the <span class="smallcaps">lord</span> was not laid of a foundation. 
-<small><sub>**KJV:**</sub></small>
-From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not [yet] laid.
-<small><sub>**BSB:**</sub></small>
-On the first day of the seventh month, the Israelites began to offer burnt offerings to the LORD, although the foundation of the temple of the LORD had not been laid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.5|<< Ezra 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.7|Ezra 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

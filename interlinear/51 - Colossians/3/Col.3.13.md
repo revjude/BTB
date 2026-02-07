@@ -1,12 +1,12 @@
-**Colossians 3:13
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:13**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also [do] ye.
 <small><sub>**BSB:**</sub></small>
 Bear with one another and forgive any complaint you may have against someone else. Forgive as the Lord forgave you.
 <small><sub>**Literal:**</sub></small>
 bearing with each other and forgiving each other If anyone against another shall have a complaint; even as also the Lord has forgiven you, so also you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.12|<< Colossians 3:12]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.14|Colossians 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bearing with |**<big>[[G0430\|ἀνεχόμενοι]]</big>**  |anechomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | each other |**<big>[[G0240\|ἀλλήλων]]</big>**  |allēlōn <small><sup>[[C-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

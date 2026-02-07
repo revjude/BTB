@@ -1,10 +1,7 @@
 **LXX Ruth 4:6** 
 <small><sub>**LXX:**</sub></small>
 And the relative said, I shall not be able to act as next of kin myself, lest at any time I ruin  my right of inheritance. You yourself act as next of kin  for my inheritance! for I shall not be able to act as next of kin. 
-<small><sub>**KJV:**</sub></small>
-And the kinsman said, I cannot redeem [it] for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem [it].
-<small><sub>**BSB:**</sub></small>
-The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardize my own inheritance. Take my right of redemption, because I cannot redeem it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

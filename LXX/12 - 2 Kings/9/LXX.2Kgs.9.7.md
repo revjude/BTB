@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall utterly destroy the house of Ahab  your master from my face, and you shall avenge the blood  of my servants the prophets, and the blood of all the servants of \[the\] <span class="smallcaps">lord</span>. at \[the\] hand of Jezebel, 
-<small><sub>**KJV:**</sub></small>
-And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
-<small><sub>**BSB:**</sub></small>
-And you are to strike down the house of your master Ahab, so that I may avenge the blood of My servants the prophets and the blood of all the servants of the LORD shed by the hand of Jezebel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.6|<< 2 Kings 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.8|2 Kings 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

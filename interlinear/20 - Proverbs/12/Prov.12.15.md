@@ -1,4 +1,4 @@
-**Proverbs 12:15** 
+**Proverbs 12:15**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of a fool [is] right in his own eyes: but he that hearkeneth unto counsel [is] wise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The way of a fool is right in his own eyes, but a wise man listens to counsel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.14|<< Proverbs 12:14]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.16|Proverbs 12:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fool  |**<big>&#8207;[[H0191\|אֱ֭וִיל]]&#8207; </big>**| 'E.vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 146:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall reign into the eon;  your God, O Zion, unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall reign for ever, [even] thy God, O Zion, unto all generations. Praise ye the LORD.
-<small><sub>**BSB:**</sub></small>
-The LORD reigns forever, your God, O Zion, for all generations. Hallelujah!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.146.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.9|<< Psalm 146:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.1|Psalm 147:1 >>]]</td></tr></table>
 
 | Translation | Greek |

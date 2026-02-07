@@ -1,4 +1,4 @@
-**Proverbs 15:7** 
+**Proverbs 15:7**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lips of the wise disperse knowledge: but the heart of the foolish [doeth] not so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lips of the wise spread knowledge, but not so the hearts of fools.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.6|<< Proverbs 15:6]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.8|Proverbs 15:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] lips of  |**<big>&#8207;[[H8193G\|שִׂפְתֵ֣י]]&#8207; </big>**| sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲ֭כָמִים]]&#8207; </big>**| Cha.kha.mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

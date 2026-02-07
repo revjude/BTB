@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:19** 
 <small><sub>**LXX:**</sub></small>
 And David ascended according to the word of Gad, which he spoke in \[the\] name of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David went up at the saying of Gad, which he spake in the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-So David went up at the word that Gad had spoken in the name of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.18|<< 1 Chronicles 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.20|1 Chronicles 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

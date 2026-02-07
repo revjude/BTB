@@ -1,4 +1,4 @@
-**1 Chronicles 23:22** 
+**1 Chronicles 23:22**<big><big>[[1Chr.23.21 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eleazar died without having any sons; he had only daughters. Their cousins, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.21|<< 1 Chronicles 23:21]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.23|1 Chronicles 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֙מָת֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499J\|אֶלְעָזָ֔ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

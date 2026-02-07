@@ -1,4 +1,4 @@
-**Numbers 33:54** 
+**Numbers 33:54**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall divide the land by lot for an inheritance among your families: [and] to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s [inheritance] shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to divide the land by lot according to your clans. Give a larger inh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.53|<< Numbers 33:53]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.55|Numbers 33:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will inherit  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5157\|הִתְנַחַלְתֶּם֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.na.chal.Tem<small><sup>[[HVtq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

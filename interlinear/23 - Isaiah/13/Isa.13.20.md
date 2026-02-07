@@ -1,4 +1,4 @@
-**Isaiah 13:20** 
+**Isaiah 13:20**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She will never be inhabited or settled from generation to generation; no nomad w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.19|<< Isaiah 13:19]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.21|Isaiah 13:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will remain  |**<big>&#8207;[[H3427\|תֵשֵׁ֣ב]]&#8207; </big>**| te.Shev<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

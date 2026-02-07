@@ -1,10 +1,7 @@
 **LXX Leviticus 13:10** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall look, and behold, \[if it is\] a white discoloration in the skin, and \[if\] it turned \[the\] hair white, and \[some\] of the healthy  flesh  be living in the discoloration -- 
-<small><sub>**KJV:**</sub></small>
-And the priest shall see [him]: and, behold, [if] the rising [be] white in the skin, and it have turned the hair white, and [there be] quick raw flesh in the rising;
-<small><sub>**BSB:**</sub></small>
-The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.9|<< Leviticus 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.11|Leviticus 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

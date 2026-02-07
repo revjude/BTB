@@ -1,12 +1,12 @@
-**Luke 18:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:35**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:
 <small><sub>**BSB:**</sub></small>
 As Jesus drew near to Jericho, a blind man was sitting beside the road, begging.
 <small><sub>**Literal:**</sub></small>
 It came to pass then in the drawing near by Him to Jericho a blind [man] certain was sitting beside the road begging.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.34|<< Luke 18:34]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.36|Luke 18:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

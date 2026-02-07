@@ -1,4 +1,4 @@
-**Deuteronomy 26:14** 
+**Deuteronomy 26:14**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have not eaten thereof in my mourning, neither have I taken away [ought] thereof for [any] unclean [use], nor given [ought] thereof for the dead: [but] I have hearkened to the voice of the LORD my God, [and] have done according to all that thou hast commanded me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have not eaten any of the sacred portion while in mourning, or removed any of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.13|<< Deuteronomy 26:13]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.15|Deuteronomy 26:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have eaten  |**<big>&#8207;[[H0398\|אָכַ֨לְתִּי]]&#8207; </big>**| 'a.Khal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

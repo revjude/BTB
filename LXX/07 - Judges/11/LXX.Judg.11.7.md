@@ -1,10 +1,7 @@
 **LXX Judges 11:7** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah said to the elders of Gilead, Did you not detest me, and cast me from out of the house  of my father, and sent me from you? And why \[is it\] that you came to me now when you are afflicted? 
-<small><sub>**KJV:**</sub></small>
-And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?
-<small><sub>**BSB:**</sub></small>
-Jephthah replied to the elders of Gilead, “Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.6|<< Judges 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.8|Judges 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

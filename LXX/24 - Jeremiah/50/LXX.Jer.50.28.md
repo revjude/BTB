@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:28** 
 <small><sub>**LXX:**</sub></small>
 A sound of ones fleeing and escaping from out of \[the\] land of Babylon,  to announce unto Zion the vengeance by \[the\] <span class="smallcaps">lord</span> our God -- vengeance of his temple. 
-<small><sub>**KJV:**</sub></small>
-The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple.
-<small><sub>**BSB:**</sub></small>
-Listen to the fugitives and refugees from the land of Babylon, declaring in Zion the vengeance of the LORD our God, the vengeance for His temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.27|<< Jeremiah 50:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.29|Jeremiah 50:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 4:6** 
+**Judges 4:6**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, [saying], Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She summoned Barak son of Abinoam from Kedesh in Naphtali and said to him, “Su
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.5|<< Judges 4:5]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.7|Judges 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|תִּשְׁלַ֗ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Lach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|תִּקְרָא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

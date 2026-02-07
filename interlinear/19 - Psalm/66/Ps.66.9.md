@@ -1,4 +1,4 @@
-**Psalms 66:9** 
+**Psalms 66:9**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which holdeth our soul in life, and suffereth not our feet to be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He preserves our lives and keeps our feet from slipping.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.8|<< Psalms 66:8]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.10|Psalms 66:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> [who] placed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7760H\|שָּׂ֣ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sam<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self our  |**<big>&#8207;[[H5315G\|נַ֭פְשֵׁ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| Naf.she.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

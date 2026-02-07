@@ -1,5 +1,5 @@
-**Mark 9:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:11**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they asked him, saying, Why say the scribes that Elias must first come?
 <small><sub>**BSB:**</sub></small>
 And they asked Jesus, “Why do the scribes say that Elijah must come first?”
@@ -10,7 +10,7 @@ And they were asking Him saying: that Say the scribes that Elijah it behooves to
 > $\quad$ referencing: [[LXX.Mal.4.5|Mal 4:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were asking |**<big>[[G1905\|ἐπηρώτων]]</big>**  |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

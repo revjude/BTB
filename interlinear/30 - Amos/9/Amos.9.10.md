@@ -1,4 +1,4 @@
-**Amos 9:10** 
+**Amos 9:10**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the sinners among My people will die by the sword—all those who say, ‘Di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.9|<< Amos 9:9]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.11|Amos 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by the sword  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will die  |**<big>&#8207;[[H4191\|יָמ֔וּתוּ]]&#8207; </big>**| ya.Mu.tu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

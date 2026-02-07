@@ -1,5 +1,5 @@
-**Romans 11:35
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:35**<big><big>[[Rom.11.33 A Hymn of Praise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or who hath first given to him, and it shall be recompensed unto him again?
 <small><sub>**BSB:**</sub></small>
 “Who has first given to God, that God should repay him?”
@@ -10,7 +10,7 @@ Or who has first given to Him, and it will be recompensed to him?<br><table widt
 > $\quad$ referencing: [[LXX.Job.41.11|Job 41:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

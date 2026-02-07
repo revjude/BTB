@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:13** 
 <small><sub>**LXX:**</sub></small>
 And whenever you should send him free from you, you shall not send him empty. 
-<small><sub>**KJV:**</sub></small>
-And when thou sendest him out free from thee, thou shalt not let him go away empty:
-<small><sub>**BSB:**</sub></small>
-And when you release him, do not send him away empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.12|<< Deuteronomy 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.14|Deuteronomy 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

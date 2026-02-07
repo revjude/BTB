@@ -1,10 +1,7 @@
 **LXX Isaiah 13:20** 
 <small><sub>**LXX:**</sub></small>
 It shall not be dwelt in into the eon, nor shall they enter into it through many generations, nor \[the\] Arabians go through it, nor shepherds in any way shall rest in it. 
-<small><sub>**KJV:**</sub></small>
-It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
-<small><sub>**BSB:**</sub></small>
-She will never be inhabited or settled from generation to generation; no nomad will pitch his tent there, no shepherd will rest his flock there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.19|<< Isaiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.21|Isaiah 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 77:19** 
 <small><sub>**LXX:**</sub></small>
 Your ways \[are\] in the sea, and  your roads \[are\] in many waters, and  your footsteps shall not be known. 
-<small><sub>**KJV:**</sub></small>
-Thy way [is] in the sea, and thy path in the great waters, and thy footsteps are not known.
-<small><sub>**BSB:**</sub></small>
-Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.18|<< Psalm 77:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.20|Psalm 77:20 >>]]</td></tr></table>
 
 | Translation | Greek |

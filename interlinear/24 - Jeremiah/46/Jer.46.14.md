@@ -1,4 +1,4 @@
-**Jeremiah 46:14** 
+**Jeremiah 46:14**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.13|<< Jeremiah 46:13]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.15|Jeremiah 46:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | declare  |**<big>&#8207;[[H5046\|הַגִּ֤ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Egypt  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 11:14** 
 <small><sub>**LXX:**</sub></small>
 And in  those times many shall rise up against \[the\] king of the south. And the sons of the pestilent ones  of your people shall be lifted up  to establish \[the\] vision; and they shall weaken. 
-<small><sub>**KJV:**</sub></small>
-And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
-<small><sub>**BSB:**</sub></small>
-In those times many will rise up against the king of the South. Violent ones among your own people will exalt themselves in fulfillment of the vision, but they will fail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.13|<< Daniel 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.15|Daniel 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

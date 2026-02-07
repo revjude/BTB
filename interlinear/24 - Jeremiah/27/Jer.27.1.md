@@ -1,4 +1,4 @@
-**Jeremiah 27:1** 
+**Jeremiah 27:1**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the beginning of the reign of Zedekiah son of Josiah king of Judah, this word
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.24|<< Jeremiah 26:24]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.2|Jeremiah 27:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] beginning of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7225G\|רֵאשִׁ֗ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] reign of  |**<big>&#8207;[[H4467\|מַמְלֶ֛כֶת]]&#8207; </big>**| mam.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

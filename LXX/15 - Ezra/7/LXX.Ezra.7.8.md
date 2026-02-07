@@ -1,10 +1,7 @@
 **LXX Ezra 7:8** 
 <small><sub>**LXX:**</sub></small>
 And they came to Jerusalem in the fifth month, this \[was\] the seventh year of the king. 
-<small><sub>**KJV:**</sub></small>
-And he came to Jerusalem in the fifth month, which [was] in the seventh year of the king.
-<small><sub>**BSB:**</sub></small>
-Ezra arrived in Jerusalem in the fifth month of the seventh year of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.7|<< Ezra 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.9|Ezra 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

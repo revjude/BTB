@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:15** 
 <small><sub>**LXX:**</sub></small>
 And he wrote in the scroll, saying, Bring  Uriah right opposite the battle of the fortified \[part\], and turn away from behind him! \[so that\] he shall be struck and shall die. 
-<small><sub>**KJV:**</sub></small>
-And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.
-<small><sub>**BSB:**</sub></small>
-In the letter he wrote: “Put Uriah at the front of the fiercest battle; then withdraw from him, so that he may be struck down and killed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.14|<< 2 Samuel 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.16|2 Samuel 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

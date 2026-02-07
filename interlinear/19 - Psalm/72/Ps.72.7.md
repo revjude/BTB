@@ -1,4 +1,4 @@
-**Psalms 72:7** 
+**Psalms 72:7**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the righteous flourish in his days and prosperity abound until the moon is n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.6|<< Psalms 72:6]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.8|Psalms 72:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will flourish  |**<big>&#8207;[[H6524A\|יִֽפְרַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yif.rach-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

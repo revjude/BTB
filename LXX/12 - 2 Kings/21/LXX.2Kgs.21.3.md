@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:3** 
 <small><sub>**LXX:**</sub></small>
 And he returned and built the high \[places\] which Hezekiah his father tore down. And he reestablished an altar  to Baal, and made the sacred groves as did Ahab king of Israel; and did obeisance to all the military of the heaven, and he served to them. 
-<small><sub>**KJV:**</sub></small>
-For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.
-<small><sub>**BSB:**</sub></small>
-For he rebuilt the high places that his father Hezekiah had destroyed, and he raised up altars for Baal. He made an Asherah pole, as King Ahab of Israel had done, and he worshiped and served all the host of heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.2|<< 2 Kings 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.4|2 Kings 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

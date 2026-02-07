@@ -1,4 +1,4 @@
-**Jeremiah 48:27** 
+**Jeremiah 48:27**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was not Israel your object of ridicule? Was he ever found among thieves? For whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.26|<< Jeremiah 48:26]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.28|Jeremiah 48:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<if>?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518I\|אִ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|ל֣וֹא]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

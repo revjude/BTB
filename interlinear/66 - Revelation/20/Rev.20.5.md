@@ -1,12 +1,12 @@
-**Revelation 20:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:5**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the rest of the dead lived not again until the thousand years were finished. This [is] the first resurrection.
 <small><sub>**BSB:**</sub></small>
 The rest of the dead did not come back to life until the thousand years were complete. This is the first resurrection.
 <small><sub>**Literal:**</sub></small>
 now The rest of the dead not lived until may have been completed the thousand years. This [is] the resurrection <the> first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.4|<< Revelation 20:4]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.6|Revelation 20:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k(o)</abbr> | |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

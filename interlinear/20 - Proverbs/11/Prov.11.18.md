@@ -1,4 +1,4 @@
-**Proverbs 11:18** 
+**Proverbs 11:18**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked worketh a deceitful work: but to him that soweth righteousness [shall be] a sure reward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked man earns an empty wage, but he who sows righteousness reaps a true r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.17|<< Proverbs 11:17]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.19|Proverbs 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֗ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] making  |**<big>&#8207;[[H6213A\|עֹשֶׂ֥ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

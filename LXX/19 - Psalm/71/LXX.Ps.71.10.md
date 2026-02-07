@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For my enemies spoke against me; and the ones watching out \[for\] my life consulted together, 
-<small><sub>**KJV:**</sub></small>
-For mine enemies speak against me; and they that lay wait for my soul take counsel together,
-<small><sub>**BSB:**</sub></small>
-For my enemies speak against me, and those who lie in wait for my life conspire,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.9|<< Psalm 71:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.11|Psalm 71:11 >>]]</td></tr></table>
 
 | Translation | Greek |

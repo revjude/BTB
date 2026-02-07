@@ -1,12 +1,12 @@
-**Luke 7:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:18**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the disciples of John shewed him of all these things.
 <small><sub>**BSB:**</sub></small>
 Then John’s disciples informed him about all these things.
 <small><sub>**Literal:**</sub></small>
 And brought word to John the disciples of him concerning all these things. [19] And having called near two certain the disciples of him <the> John<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.17|<< Luke 7:17]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.19|Luke 7:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brought word |**<big>[[G0518\|ἀπήγγειλαν]]</big>**  |apēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

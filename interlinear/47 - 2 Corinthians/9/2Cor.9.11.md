@@ -1,12 +1,12 @@
-**2 Corinthians 9:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:11**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.
 <small><sub>**BSB:**</sub></small>
 You will be enriched in every way to be generous on every occasion, and through us your generosity will produce thanksgiving to God.
 <small><sub>**Literal:**</sub></small>
 in every [way] enriching you to all generosity, which produces through us thanksgiving <the> to God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.10|<< 2 Corinthians 9:10]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.12|2 Corinthians 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every [way] |**<big>[[G3956\|παντὶ]]</big>**  |panti <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

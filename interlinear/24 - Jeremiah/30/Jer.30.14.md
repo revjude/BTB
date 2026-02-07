@@ -1,4 +1,4 @@
-**Jeremiah 30:14** 
+**Jeremiah 30:14**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; [because] thy sins were increased.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All your lovers have forgotten you; they no longer seek you, for I have struck y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.13|<< Jeremiah 30:13]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.15|Jeremiah 30:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lovers your  |**<big>&#8207;[[H0157G\|מְאַהֲבַ֣יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| me.'a.ha.Va.yi<small><sup>[[HVprmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

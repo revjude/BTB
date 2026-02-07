@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:3** 
 <small><sub>**LXX:**</sub></small>
 And Tobiah the Ammonite \[was\] next to him, and he said to them, And even if they shall build, shall not a fox ascend and demolish  their wall of stones? 
-<small><sub>**KJV:**</sub></small>
-Now Tobiah the Ammonite [was] by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
-<small><sub>**BSB:**</sub></small>
-Then Tobiah the Ammonite, who was beside him, said, “If even a fox were to climb up on what they are building, it would break down their wall of stones!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.2|<< Nehemiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.4|Nehemiah 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

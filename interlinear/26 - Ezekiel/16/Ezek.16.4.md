@@ -1,4 +1,4 @@
-**Ezekiel 16:4** 
+**Ezekiel 16:4**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple [thee]; thou wast not salted at all, nor swaddled at all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day of your birth your cord was not cut, nor were you washed with water f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.3|<< Ezekiel 16:3]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.5|Ezekiel 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and birth\<s> your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4138\|מוֹלְדוֹתַ֗יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mol.do.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֨וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

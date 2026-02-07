@@ -1,4 +1,4 @@
-**Leviticus 19:17** 
+**Leviticus 19:17**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You must not harbor hatred against your brother in your heart. Directly rebuke y
 > $\quad$ referenced by: [[Matt.18.15|Matt 18:15]] ☩ [[Luke.17.3|Luke 17:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will hate  |**<big>&#8207;[[H8130\|תִשְׂנָ֥א]]&#8207; </big>**| tis.Na'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

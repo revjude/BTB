@@ -1,10 +1,7 @@
 **LXX Isaiah 57:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says the highest, the one in \[the\] highest, dwelling the eon. Holy in \[the\] holies; \[the\] name to him -- \[the\] <span class="smallcaps">lord</span>; \[the\] one resting highest in \[the\] holies; and to \[the\] faint-hearted giving long-suffering, and giving life to the ones being broken  in heart. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the high and lofty One that inhabiteth eternity, whose name [is] Holy; I dwell in the high and holy [place], with him also [that is] of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
-<small><sub>**BSB:**</sub></small>
-For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.14|<< Isaiah 57:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.16|Isaiah 57:16 >>]]</td></tr></table>
 
 | Translation | Greek |

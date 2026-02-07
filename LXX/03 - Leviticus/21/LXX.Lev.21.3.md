@@ -1,10 +1,7 @@
 **LXX Leviticus 21:3** 
 <small><sub>**LXX:**</sub></small>
 and for his virgin sister  being near to him, the \[sister\] not being espoused to a man; for these he shall not defile himself 
-<small><sub>**KJV:**</sub></small>
-And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.
-<small><sub>**BSB:**</sub></small>
-or his unmarried sister who is near to him, since she has no husband.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.2|<< Leviticus 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.4|Leviticus 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

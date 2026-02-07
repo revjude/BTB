@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:32** 
 <small><sub>**LXX:**</sub></small>
 And they were officiating before the protection of the tent of the testimony with ode, until the building  by Solomon the house of \[the\] <span class="smallcaps">lord</span> in Jerusalem. And they stood according to  their ordinance, for  their ministrations. 
-<small><sub>**KJV:**</sub></small>
-And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and [then] they waited on their office according to their order.
-<small><sub>**BSB:**</sub></small>
-They ministered with song before the tabernacle, the Tent of Meeting, until Solomon built the house of the LORD in Jerusalem. And they performed their duties according to the regulations given them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.31|<< 1 Chronicles 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.33|1 Chronicles 6:33 >>]]</td></tr></table>
 
 | Translation | Greek |

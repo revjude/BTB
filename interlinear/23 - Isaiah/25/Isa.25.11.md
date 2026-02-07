@@ -1,4 +1,4 @@
-**Isaiah 25:11** 
+**Isaiah 25:11**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth [his hands] to swim: and he shall bring down their pride together with the spoils of their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will spread out his hands within it, as a swimmer spreads his arms to swim. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.10|<< Isaiah 25:10]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.12|Isaiah 25:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will spread out  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6566\|פֵרַ֤שׂ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fe.Ras<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands its  |**<big>&#8207;[[H3027G\|יָדָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

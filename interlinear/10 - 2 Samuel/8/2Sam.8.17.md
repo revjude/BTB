@@ -1,4 +1,4 @@
-**2 Samuel 8:17** 
+**2 Samuel 8:17**<big><big>[[2Sam.8.15 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, [were] the priests; and Seraiah [was] the scribe;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.16|<< 2 Samuel 8:16]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.18|2 Samuel 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zadok  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6659G\|צָד֧וֹק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 148:4** 
+**Psalms 148:4**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise him, ye heavens of heavens, and ye waters that [be] above the heavens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Praise Him, O highest heavens, and you waters above the skies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.3|<< Psalms 148:3]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.5|Psalms 148:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise him  |**<big>&#8207;[[H1984B\|הַֽ֭לְלוּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Ha.lu.<small><sup>[[HVpv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heaven of  |**<big>&#8207;[[H8064\|שְׁמֵ֣י]]&#8207; </big>**| she.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

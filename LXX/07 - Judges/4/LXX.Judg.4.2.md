@@ -1,10 +1,7 @@
 **LXX Judges 4:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> delivered them into \[the\] hand of Jabin king of Canaan, who reigned in Hazor; and the ruler  of his force \[was\] Sisera, and he dwelt in Harosheth of the nations. 
-<small><sub>**KJV:**</sub></small>
-And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host [was] Sisera, which dwelt in Harosheth of the Gentiles.
-<small><sub>**BSB:**</sub></small>
-So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his forces was Sisera, who lived in Harosheth-hagoyim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.1|<< Judges 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.3|Judges 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

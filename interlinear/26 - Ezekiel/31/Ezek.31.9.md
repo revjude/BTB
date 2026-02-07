@@ -1,4 +1,4 @@
-**Ezekiel 31:9** 
+**Ezekiel 31:9**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made him fair by the multitude of his branches: so that all the trees of Eden, that [were] in the garden of God, envied him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I made it beautiful with its many branches, the envy of all the trees of Eden, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.8|<< Ezekiel 31:8]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.10|Ezekiel 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | beautiful  |**<big>&#8207;[[H3303\|יָפֶ֣ה]]&#8207; </big>**| ya.Peh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I made it  |**<big>&#8207;[[H6213H\|עֲשִׂיתִ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.si.Ti<small><sup>[[HVqp1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

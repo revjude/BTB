@@ -1,4 +1,4 @@
-**Genesis 17:10** 
+**Genesis 17:10**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is My covenant with you and your descendants after you, which you are to ke
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]] ☩ [[Rom.4.11|Rom 4:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] covenant my  |**<big>&#8207;[[H1285\|בְּרִיתִ֞]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.ri.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

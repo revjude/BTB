@@ -1,4 +1,4 @@
-**1 Chronicles 9:33** 
+**1 Chronicles 9:33**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who were musicians, the heads of Levite families, stayed in the temple cha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the singers  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H7891\|מְשֹׁרְרִים]]&#8207; </big>**| Ha<small><sup>[[HTd]]</sup></small> m.sho.re.rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

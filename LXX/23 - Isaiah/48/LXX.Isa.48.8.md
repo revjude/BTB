@@ -1,10 +1,7 @@
 **LXX Isaiah 48:8** 
 <small><sub>**LXX:**</sub></small>
 Neither you knew, nor were knowing of, nor from \[the\] beginning when  \[your\] ears; for I knew that in disregarding you shall disregard, and you would be called lawless even from out of \[the\] belly. 
-<small><sub>**KJV:**</sub></small>
-Yea, thou heardest not; yea, thou knewest not; yea, from that time [that] thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
-<small><sub>**BSB:**</sub></small>
-You have never heard; you have never understood; for a long time your ears have not been open. For I knew how deceitful you are; you have been called a rebel from birth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.7|<< Isaiah 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.9|Isaiah 48:9 >>]]</td></tr></table>
 
 | Translation | Greek |

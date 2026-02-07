@@ -1,4 +1,4 @@
-**Ezra 6:7** 
+**Ezra 6:7**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Leave this work on the house of God alone. Let the governor and elders of the Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.6|<< Ezra 6:6]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.8|Ezra 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | leave!  |**<big>&#8207;[[H7662\|שְׁבֻ֕קוּ]]&#8207; </big>**| she.Vu.ku<small><sup>[[AVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> [the] work of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5673\|עֲבִידַ֖ת]]&#8207; </big>**| la.<small><sup>[[AR]]</sup></small> 'a.vi.Dat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

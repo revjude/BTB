@@ -1,12 +1,12 @@
-**Hebrews 13:21
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:21**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 equip you with every good thing to do His will. And may He accomplish in us what is pleasing in His sight through Jesus Christ, to whom be glory forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 would he equip you in everything work good in order <the> to do the will of Him working in us that which [is] well pleasing before Him through Jesus Christ; to whom [be] the glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.20|<< Hebrews 13:20]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.22|Hebrews 13:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | would he equip |**<big>[[G2675\|καταρτίσαι]]</big>**  |katartisai <small><sup>[[V-AAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

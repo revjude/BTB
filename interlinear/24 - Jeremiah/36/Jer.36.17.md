@@ -1,4 +1,4 @@
-**Jeremiah 36:17** 
+**Jeremiah 36:17**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they asked Baruch, saying, Tell us now, How didst thou write all these words
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.16|<< Jeremiah 36:16]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.18|Jeremiah 36:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶ֨ת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baruch  |**<big>&#8207;[[H1263J\|בָּר֔וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

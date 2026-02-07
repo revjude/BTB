@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:14** 
 <small><sub>**LXX:**</sub></small>
 And I will put my spirit into you, and you shall live. And I will put you upon  your land, and you shall know that I \[the\] <span class="smallcaps">lord</span> have spoken, and I will act, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the LORD have spoken [it], and performed [it], saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will put My Spirit in you and you will live, and I will settle you in your own land. Then you will know that I, the LORD, have spoken, and I will do it, declares the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.13|<< Ezekiel 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.15|Ezekiel 37:15 >>]]</td></tr></table>
 
 | Translation | Greek |

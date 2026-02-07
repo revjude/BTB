@@ -1,12 +1,12 @@
-**Luke 23:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:4**<big><big>[[Luke.23.1 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Pilate to the chief priests and [to] the people, I find no fault in this man.
 <small><sub>**BSB:**</sub></small>
 Then Pilate said to the chief priests and the crowds, “I find no basis for a charge against this man.”
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate said to the chief priests and the crowds; No [thing] find I guilty in <the> man this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.3|<< Luke 23:3]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.5|Luke 23:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

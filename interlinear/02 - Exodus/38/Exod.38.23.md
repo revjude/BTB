@@ -1,4 +1,4 @@
-**Exodus 38:23** 
+**Exodus 38:23**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with him [was] Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.22|<< Exodus 38:22]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.24|Exodus 38:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] with him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אִתּ֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Oholiab  |**<big>&#8207;[[H0171\|אָהֳלִיאָ֞ב]]&#8207; </big>**| 'o.ho.li.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

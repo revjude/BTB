@@ -1,10 +1,7 @@
 **LXX Psalm 109:10** 
 <small><sub>**LXX:**</sub></small>
 In being shaken up, his sons change residence, and let them beg! Let them be cast out from  their areas! 
-<small><sub>**KJV:**</sub></small>
-Let his children be continually vagabonds, and beg: let them seek [their bread] also out of their desolate places.
-<small><sub>**BSB:**</sub></small>
-May his children wander as beggars, seeking sustenance far from their ruined homes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.9|<< Psalm 109:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.11|Psalm 109:11 >>]]</td></tr></table>
 
 | Translation | Greek |

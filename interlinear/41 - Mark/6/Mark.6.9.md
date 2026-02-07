@@ -1,12 +1,12 @@
-**Mark 6:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:9**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But [be] shod with sandals; and not put on two coats.
 <small><sub>**BSB:**</sub></small>
 and to wear sandals, but not a second tunic.
 <small><sub>**Literal:**</sub></small>
 but having put on yourselves sandals, and not may put on two tunics.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.8|<< Mark 6:8]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.10|Mark 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having put on yourselves |**<big>[[G5265\|ὑποδεδεμένους]]</big>**  |hupodedemenous <small><sup>[[V-RMP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

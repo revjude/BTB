@@ -1,4 +1,4 @@
-**Hosea 13:12** 
+**Hosea 13:12**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The iniquity of Ephraim [is] bound up; his sin [is] hid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The iniquity of Ephraim is bound up; his sin is stored up.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.11|<< Hosea 13:11]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.13|Hosea 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] bound up  |**<big>&#8207;[[H6887B\|צָרוּר֙]]&#8207; </big>**| tza.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] iniquity of  |**<big>&#8207;[[H5771G\|עֲוֹ֣ן]]&#8207; </big>**| 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

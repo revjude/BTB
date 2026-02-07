@@ -1,4 +1,4 @@
-**2 Kings 4:20** 
+**2 Kings 4:20**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had taken him, and brought him to his mother, he sat on her knees till noon, and [then] died.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ After the servant had picked him up and carried him to his mother, the boy sat o
 > $\quad$ referenced by: [[Heb.11.35|Heb 11:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he carried him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|יִּשָּׂאֵ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa.'E.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he brought him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִיאֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

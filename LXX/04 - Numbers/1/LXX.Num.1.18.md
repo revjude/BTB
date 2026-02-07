@@ -1,10 +1,7 @@
 **LXX Numbers 1:18** 
 <small><sub>**LXX:**</sub></small>
 And all the congregation gathered on \[day\] one of the month, of the second year. and they were numbered according to their origins, according to  their patrimony, according to \[the\] number of their names from twenty years \[old\] and up, every male according to their head \[count\]. 
-<small><sub>**KJV:**</sub></small>
-And they assembled all the congregation together on the first [day] of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
-<small><sub>**BSB:**</sub></small>
-and on the first day of the second month they assembled the whole congregation and recorded their ancestry by clans and families, counting one by one the names of those twenty years of age or older,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.17|<< Numbers 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.19|Numbers 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

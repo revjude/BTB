@@ -1,10 +1,7 @@
 **LXX Exodus 12:31** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh called Moses and Aaron \[at\] night, and he said to them, Rise up, and go forth from  my people, both you and the sons of Israel! Proceed and serve \[to the\] <span class="smallcaps">lord</span>  your God! as you say. 
-<small><sub>**KJV:**</sub></small>
-And he called for Moses and Aaron by night, and said, Rise up, [and] get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh summoned Moses and Aaron by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.30|<< Exodus 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.32|Exodus 12:32 >>]]</td></tr></table>
 
 | Translation | Greek |

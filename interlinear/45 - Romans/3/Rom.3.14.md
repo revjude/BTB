@@ -1,5 +1,5 @@
-**Romans 3:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:14**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose mouth [is] full of cursing and bitterness:
 <small><sub>**BSB:**</sub></small>
 “Their mouths are full of cursing and bitterness.”
@@ -10,7 +10,7 @@ of whom the mouth of cursing and of bitterness is full.<br><table width="100%" b
 > $\quad$ referencing: [[LXX.Ps.10.7|Ps 10:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of whom |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

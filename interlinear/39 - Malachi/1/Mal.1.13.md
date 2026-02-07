@@ -1,4 +1,4 @@
-**Malachi 1:13** 
+**Malachi 1:13**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye said also, Behold, what a weariness [is it]! and ye have snuffed at it, saith the LORD of hosts; and ye brought [that which was] torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You also say: ‘Oh, what a nuisance!’ And you turn up your nose at it,” say
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.12|<< Malachi 1:12]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.14|Malachi 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּם֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

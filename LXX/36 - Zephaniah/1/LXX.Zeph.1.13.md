@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:13** 
 <small><sub>**LXX:**</sub></small>
 And their power will be for ravaging, and  their houses for extinction. And they shall build houses, but in no way shall they dwell in them. And they shall plant vineyards, and in no way shall they drink  of their wine. 
-<small><sub>**KJV:**</sub></small>
-Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit [them]; and they shall plant vineyards, but not drink the wine thereof.
-<small><sub>**BSB:**</sub></small>
-Their wealth will be plundered and their houses laid waste. They will build houses but not inhabit them, and plant vineyards but never drink their wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.12|<< Zephaniah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.14|Zephaniah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

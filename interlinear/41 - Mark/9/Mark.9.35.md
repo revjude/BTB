@@ -1,12 +1,12 @@
-**Mark 9:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:35**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sat down, and called the twelve, and saith unto them, If any man desire to be first, [the same] shall be last of all, and servant of all.
 <small><sub>**BSB:**</sub></small>
 Sitting down, Jesus called the Twelve and said, “If anyone wants to be first, he must be the last of all and the servant of all.”
 <small><sub>**Literal:**</sub></small>
 And having sat down He called the Twelve and He says to them; If anyone desires first to be, he will be of all last and of all servant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.34|<< Mark 9:34]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.36|Mark 9:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having sat down |**<big>[[G2523\|καθίσας]]</big>**  |kathisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

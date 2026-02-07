@@ -1,10 +1,7 @@
 **LXX Psalm 66:4** 
 <small><sub>**LXX:**</sub></small>
 Let all the earth do obeisance to you, and strum unto you! Let them strum \[to\] your name \[the\] highest! PAUSE. 
-<small><sub>**KJV:**</sub></small>
-All the earth shall worship thee, and shall sing unto thee; they shall sing [to] thy name. Selah.
-<small><sub>**BSB:**</sub></small>
-All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.3|<< Psalm 66:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.5|Psalm 66:5 >>]]</td></tr></table>
 
 | Translation | Greek |

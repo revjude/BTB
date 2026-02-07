@@ -1,4 +1,4 @@
-**Genesis 24:58** 
+**Genesis 24:58**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They called Rebekah and asked her, “Will you go with this man?” “I will go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.57|<< Genesis 24:57]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.59|Genesis 24:59 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרְא֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Rebekah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7259\|רִבְקָה֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

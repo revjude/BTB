@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:9** 
 <small><sub>**LXX:**</sub></small>
 And now, Solomon O my son, know the God  of your fathers, and serve to him with a perfect heart and a willing soul! For \[the\] <span class="smallcaps">lord</span> inquires diligently of all hearts, and every idea of thoughts he knows. If you should seek him, he will be found by you. And if you should leave him, he shall leave you to \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.
-<small><sub>**BSB:**</sub></small>
-As for you, Solomon my son, know the God of your father and serve Him wholeheartedly and with a willing mind, for the LORD searches every heart and understands the intent of every thought. If you seek Him, He will be found by you; but if you forsake Him, He will reject you forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.8|<< 1 Chronicles 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.10|1 Chronicles 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

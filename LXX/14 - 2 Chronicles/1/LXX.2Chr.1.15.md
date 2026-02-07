@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:15** 
 <small><sub>**LXX:**</sub></small>
 And the king established  silver and  gold in Jerusalem as \[the\] stones; and the cedars in  Judea as sycamine trees, the ones in the plains in multitude. 
-<small><sub>**KJV:**</sub></small>
-And the king made silver and gold at Jerusalem [as plenteous] as stones, and cedar trees made he as the sycomore trees that [are] in the vale for abundance.
-<small><sub>**BSB:**</sub></small>
-The king made silver and gold as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.14|<< 2 Chronicles 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.16|2 Chronicles 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

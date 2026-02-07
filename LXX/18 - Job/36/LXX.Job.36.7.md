@@ -1,10 +1,7 @@
 **LXX Job 36:7** 
 <small><sub>**LXX:**</sub></small>
 He will not remove his eyes from \[the\] righteous, and \[they shall be\] with kings on a throne; he shall seat them into victory, and they shall be exalted. 
-<small><sub>**KJV:**</sub></small>
-He withdraweth not his eyes from the righteous: but with kings [are they] on the throne; yea, he doth establish them for ever, and they are exalted.
-<small><sub>**BSB:**</sub></small>
-He does not take His eyes off the righteous, but He enthrones them with kings and exalts them forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.6|<< Job 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.8|Job 36:8 >>]]</td></tr></table>
 
 | Translation | Greek |

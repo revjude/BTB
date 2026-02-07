@@ -1,4 +1,4 @@
-**Exodus 27:19** 
+**Exodus 27:19**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, [shall be of] brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the utensils of the tabernacle for every use, including all its tent pegs an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.18|<< Exodus 27:18]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.20|Exodus 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] articles of  |**<big>&#8207;[[H3627\|כְּלֵ֣י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:8** 
 <small><sub>**LXX:**</sub></small>
 And  his rulers dedicated to the people, and to the priests, and to the Levites; and Helkiah and Zechariah and Jeiel the rulers of \[the\] house  of God gave to the priests for the passover -- sheeps and lambs and kids -- two thousand and six hundred, and three hundred calves. 
-<small><sub>**KJV:**</sub></small>
-And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred [small cattle], and three hundred oxen.
-<small><sub>**BSB:**</sub></small>
-His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the chief officials of the house of God, gave the priests 2,600 Passover offerings and 300 bulls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.7|<< 2 Chronicles 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.9|2 Chronicles 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

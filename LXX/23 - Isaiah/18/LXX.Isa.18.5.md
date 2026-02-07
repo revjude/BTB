@@ -1,10 +1,7 @@
 **LXX Isaiah 18:5** 
 <small><sub>**LXX:**</sub></small>
 Before the harvest, whenever \[the\] flower should be completely \[formed\], and \[the\] unripe grape should blossom a flower being sour, that he shall remove the small grape-clusters with the \[pruning\] sickles; and the small vine branches he shall remove and shall cut off. 
-<small><sub>**KJV:**</sub></small>
-For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away [and] cut down the branches.
-<small><sub>**BSB:**</sub></small>
-For before the harvest, when the blossom is gone and the flower becomes a ripening grape, He will cut off the shoots with a pruning knife and remove and discard the branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.4|<< Isaiah 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.6|Isaiah 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

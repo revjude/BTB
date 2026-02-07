@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:27** 
 <small><sub>**LXX:**</sub></small>
 And he stationed both the cherubim in the middle of the innermost house. And their wings were open and spread out, and the one wing touched the wall of the house, and the wing  of the second cherub touched the second wall, and  their wings \[were\] in \[the\] midst of the house, touching wing to wing. 
-<small><sub>**KJV:**</sub></small>
-And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the [one] wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.
-<small><sub>**BSB:**</sub></small>
-And he placed the cherubim inside the innermost room of the temple. Since their wings were spread out, the wing of the first cherub touched one wall, while the wing of the second cherub touched the other wall, and in the middle of the room their wingtips touched.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.26|<< 1 Kings 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.28|1 Kings 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

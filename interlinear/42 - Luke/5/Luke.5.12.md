@@ -1,12 +1,12 @@
-**Luke 5:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:12**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on [his] face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
 <small><sub>**BSB:**</sub></small>
 While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.”
 <small><sub>**Literal:**</sub></small>
 And it came to pass in <the> being Him in one of the cities that behold a man full of leprosy; and having seen then <the> Jesus, having fallen upon [his] face begged Him saying; Lord, if You shall be willing, You are able me to cleanse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.11|<< Luke 5:11]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.13|Luke 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

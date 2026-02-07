@@ -1,4 +1,4 @@
-**Deuteronomy 4:14** 
+**Deuteronomy 4:14**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time the LORD commanded me to teach you the statutes and ordinances you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.13|<< Deuteronomy 4:13]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.15|Deuteronomy 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֹתִ֞]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he commanded  |**<big>&#8207;[[H6680\|צִוָּ֤ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:11** 
 <small><sub>**LXX:**</sub></small>
 Hiram the king of Tyre assisted  Solomon with timbers of cedars, and with timbers of pines, and in gold, and in all his want. Then king Solomon gave  to Hiram twenty cities in the land  of Galilee. 
-<small><sub>**KJV:**</sub></small>
-([Now] Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
-<small><sub>**BSB:**</sub></small>
-King Solomon gave twenty towns in the land of Galilee to Hiram king of Tyre, who had supplied him with cedar and cypress logs and gold for his every desire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.10|<< 1 Kings 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.12|1 Kings 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

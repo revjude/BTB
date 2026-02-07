@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:5** 
 <small><sub>**LXX:**</sub></small>
 And God put \[it\] into  my heart, and I gathered the important ones, and the rulers, and the people into groups. And I found a scroll of the group, to the ones which ascended at first, and I found \[things\] being written in it. 
-<small><sub>**KJV:**</sub></small>
-And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,
-<small><sub>**BSB:**</sub></small>
-Then my God put it into my heart to assemble the nobles, the officials, and the people to be enrolled by genealogy. I found the genealogical register of those who had first returned, and I found the following written in it:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.4|<< Nehemiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.6|Nehemiah 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

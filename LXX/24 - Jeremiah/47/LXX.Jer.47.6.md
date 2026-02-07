@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:6** 
 <small><sub>**LXX:**</sub></small>
 How long will you smite, sword of the \[the\] <span class="smallcaps">lord</span>? Until when will you not be still? Restore it unto  your sheath! Cause it to rest and be lifted away! 
-<small><sub>**KJV:**</sub></small>
-O thou sword of the LORD, how long [will it be] ere thou be quiet? put up thyself into thy scabbard, rest, and be still.
-<small><sub>**BSB:**</sub></small>
-‘Alas, O sword of the LORD, how long until you rest? Return to your sheath; cease and be still!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.5|<< Jeremiah 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.7|Jeremiah 47:7 >>]]</td></tr></table>
 
 | Translation | Greek |

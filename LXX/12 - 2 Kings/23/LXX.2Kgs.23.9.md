@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:9** 
 <small><sub>**LXX:**</sub></small>
 Only the priests of the high \[places\] did not ascend to the altar of \[the\] <span class="smallcaps">lord</span> in Jerusalem; in no way they ate unleavened \[breads\] in \[the\] midst  of their brethren. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat of the unleavened bread among their brethren.
-<small><sub>**BSB:**</sub></small>
-Although the priests of the high places did not come up to the altar of the LORD in Jerusalem, they ate unleavened bread with their fellow priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.8|<< 2 Kings 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.10|2 Kings 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

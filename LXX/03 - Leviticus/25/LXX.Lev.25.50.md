@@ -1,10 +1,7 @@
 **LXX Leviticus 25:50** 
 <small><sub>**LXX:**</sub></small>
 And he shall reckon together with the one acquiring him from the year of which he sold himself to him until the year of the release. And the money of his sale will be as \[the\] day of a hireling. Year to year he will be with him. 
-<small><sub>**KJV:**</sub></small>
-And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
-<small><sub>**BSB:**</sub></small>
-He and his purchaser will then count the time from the year he sold himself up to the Year of Jubilee. The price of his sale will be determined by the number of years, based on the daily wages of a hired hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.49|<< Leviticus 25:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.51|Leviticus 25:51 >>]]</td></tr></table>
 
 | Translation | Greek |

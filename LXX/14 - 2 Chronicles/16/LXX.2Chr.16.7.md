@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in  that time Hanani the prophet came to Asa king of Judah, and said to him; Because  you relied upon \[the\] king of Syria, and you did not rely upon \[the\] <span class="smallcaps">lord</span> your God, on account of this the force of \[the\] king of Syria came through safe from  your hand. 
-<small><sub>**KJV:**</sub></small>
-And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand.
-<small><sub>**BSB:**</sub></small>
-At that time Hanani the seer came to King Asa of Judah and told him, “Because you have relied on the king of Aram and not on the LORD your God, the army of the king of Aram has escaped from your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.6|<< 2 Chronicles 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.8|2 Chronicles 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

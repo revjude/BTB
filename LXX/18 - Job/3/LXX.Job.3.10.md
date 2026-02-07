@@ -1,10 +1,7 @@
 **LXX Job 3:10** 
 <small><sub>**LXX:**</sub></small>
 For it did not close up \[the\] gates of my mother's womb, for it would have dismissed misery from my eyes. 
-<small><sub>**KJV:**</sub></small>
-Because it shut not up the doors of my [mother’s] womb, nor hid sorrow from mine eyes.
-<small><sub>**BSB:**</sub></small>
-For that night did not shut the doors of the womb to hide the sorrow from my eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.9|<< Job 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.11|Job 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

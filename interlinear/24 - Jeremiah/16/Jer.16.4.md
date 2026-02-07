@@ -1,4 +1,4 @@
-**Jeremiah 16:4** 
+**Jeremiah 16:4**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; [but] they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall die of grievous deaths; they shall not be lamented; neither shall the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.3|<< Jeremiah 16:3]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.5|Jeremiah 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deaths of  |**<big>&#8207;[[H4463\|מְמוֹתֵ֨י]]&#8207; </big>**| me.mo.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | diseases  |**<big>&#8207;[[H8463\|תַחֲלֻאִ֜ים]]&#8207; </big>**| ta.cha.lu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

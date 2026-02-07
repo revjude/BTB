@@ -1,12 +1,12 @@
-**Matthew 12:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:10**<big><big>[[Matt.12.9 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there was a man which had [his] hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 and a man with a withered hand was there. In order to accuse Jesus, they asked Him, “Is it lawful to heal on the Sabbath?”
 <small><sub>**Literal:**</sub></small>
 And behold a man was <the> a hand having withered; And they asked Him saying; Is it is lawful on the Sabbaths to heal? so that they may accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.9|<< Matthew 12:9]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.11|Matthew 12:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

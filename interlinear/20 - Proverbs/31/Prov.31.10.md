@@ -1,4 +1,4 @@
-**Proverbs 31:10** 
+**Proverbs 31:10**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can find a virtuous woman? for her price [is] far above rubies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wife of noble character, who can find? She is far more precious than rubies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.9|<< Proverbs 31:9]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.11|Proverbs 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ability  |**<big>&#8207;[[H2428I\|חַ֭יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

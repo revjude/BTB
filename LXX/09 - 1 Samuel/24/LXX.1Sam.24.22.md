@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:22** 
 <small><sub>**LXX:**</sub></small>
 And David swore by an oath  to Saul. And Saul went forth unto  his house. And David and  his men ascended unto Messara the narrows. 
-<small><sub>**KJV:**</sub></small>
-And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
-<small><sub>**BSB:**</sub></small>
-So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.21|<< 1 Samuel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.1|1 Samuel 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

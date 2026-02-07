@@ -1,10 +1,7 @@
 **LXX Haggai 1:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, saying,  This people say, The time is not come  to build the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’S house should be built.
-<small><sub>**BSB:**</sub></small>
-that this is what the LORD of Hosts says: “These people say, ‘The time has not yet come to rebuild the house of the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.1|<< Haggai 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.3|Haggai 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

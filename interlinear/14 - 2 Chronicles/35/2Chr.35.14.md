@@ -1,4 +1,4 @@
-**2 Chronicles 35:14** 
+**2 Chronicles 35:14**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron [were busied] in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Afterward, they made preparations for themselves and for the priests, since the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.13|<< 2 Chronicles 35:13]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.15|2 Chronicles 35:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֗ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they prepared  |**<big>&#8207;[[H3559A\|הֵכִ֤ינוּ]]&#8207; </big>**| he.Khi.nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

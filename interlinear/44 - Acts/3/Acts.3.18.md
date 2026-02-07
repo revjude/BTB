@@ -1,12 +1,12 @@
-**Acts 3:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:18**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
 <small><sub>**BSB:**</sub></small>
 But in this way God has fulfilled what He foretold through all the prophets, saying that His Christ would suffer.
 <small><sub>**Literal:**</sub></small>
 <the> But God who foretold through [the] mouth of all the prophets [the] suffering [of] the Christ of Him He has fulfilled thus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.17|<< Acts 3:17]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.19|Acts 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

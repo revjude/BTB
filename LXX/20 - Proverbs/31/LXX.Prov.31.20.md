@@ -1,10 +1,7 @@
 **LXX Proverbs 31:20** 
 <small><sub>**LXX:**</sub></small>
 And she opens wide her hands to \[the\] needy, and \[her\] wrist she stretches out to \[the\] poor. 
-<small><sub>**KJV:**</sub></small>
-She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
-<small><sub>**BSB:**</sub></small>
-She opens her arms to the poor and reaches out her hands to the needy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.19|<< Proverbs 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.21|Proverbs 31:21 >>]]</td></tr></table>
 
 | Translation | Greek |

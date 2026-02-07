@@ -1,5 +1,5 @@
-**Luke 1:55
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:55**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As he spake to our fathers, to Abraham, and to his seed for ever.
 <small><sub>**BSB:**</sub></small>
 as He promised to our fathers, to Abraham and his descendants forever.”
@@ -10,7 +10,7 @@ even as He spoke to the fathers of us, <the> to Abraham and to the descendants o
 > $\quad$ alluding to: [[LXX.Gen.17.19|Gen 17:19]] ☩ [[LXX.Gen.22.18|Gen 22:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He spoke |**<big>[[G2980\|ἐλάλησεν]]</big>**  |elalēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

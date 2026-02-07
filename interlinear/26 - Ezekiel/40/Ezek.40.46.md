@@ -1,4 +1,4 @@
-**Ezekiel 40:46** 
+**Ezekiel 40:46**<big><big>[[Ezek.40.44 Chambers for Ministry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chamber whose prospect [is] toward the north [is] for the priests, the keepers of the charge of the altar: these [are] the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the chamber that faces north is for the priests who keep charge of the altar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.45|<< Ezekiel 40:45]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.47|Ezekiel 40:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the room  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3957\|לִּשְׁכָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> lish.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

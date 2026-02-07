@@ -1,10 +1,7 @@
 **LXX Psalm 146:2** 
 <small><sub>**LXX:**</sub></small>
 I will praise \[the\] <span class="smallcaps">lord</span> in  my life. I shall strum \[to\] my God as long as I exist. 
-<small><sub>**KJV:**</sub></small>
-While I live will I praise the LORD: I will sing praises unto my God while I have any being.
-<small><sub>**BSB:**</sub></small>
-I will praise the LORD all my life; I will sing praises to my God while I have my being.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.146.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.146.1|<< Psalm 146:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.146.3|Psalm 146:3 >>]]</td></tr></table>
 
 | Translation | Greek |

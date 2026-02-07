@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:19** 
 <small><sub>**LXX:**</sub></small>
 And in the sinner turning from  his lawlessness, and should observe equity and righteousness; by them he shall live. 
-<small><sub>**KJV:**</sub></small>
-But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.
-<small><sub>**BSB:**</sub></small>
-But if a wicked man turns from his wickedness and does what is just and right, he will live because of this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.18|<< Ezekiel 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.20|Ezekiel 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

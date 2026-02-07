@@ -1,10 +1,7 @@
 **LXX Isaiah 8:18** 
 <small><sub>**LXX:**</sub></small>
 Behold, I and the children which God gave to me, even they will be for signs and miracles in the house of Israel by \[the\] <span class="smallcaps">lord</span> of Hosts who dwells on  mount Zion. 
-<small><sub>**KJV:**</sub></small>
-Behold, I and the children whom the LORD hath given me [are] for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion.
-<small><sub>**BSB:**</sub></small>
-Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.17|<< Isaiah 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.19|Isaiah 8:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 8:18** is...

@@ -1,10 +1,7 @@
 **LXX Isaiah 11:11** 
 <small><sub>**LXX:**</sub></small>
 And it will be \[in\] that day the <span class="smallcaps">lord</span> will proceed  to show  his hand  to be jealous for the vestige of the people left behind, which ever should be left behind by the Assyrians, and by Egypt, and by Babylon, and by Ethiopia, and by \[the\] Elamites, and by \[the\] dawn of \[the\] sun, and from out of Arabia. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
-<small><sub>**BSB:**</sub></small>
-On that day the Lord will extend His hand a second time to recover the remnant of His people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.10|<< Isaiah 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.12|Isaiah 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

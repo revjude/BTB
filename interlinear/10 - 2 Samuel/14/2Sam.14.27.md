@@ -1,4 +1,4 @@
-**2 Samuel 14:27** 
+**2 Samuel 14:27**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Absalom there were born three sons, and one daughter, whose name [was] Tamar: she was a woman of a fair countenance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three sons were born to Absalom, and a daughter named Tamar, who was a beautiful
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.26|<< 2 Samuel 14:26]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.28|2 Samuel 14:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were born  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יִּֽוָּלְד֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.val.Du<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלוֹם֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.lOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

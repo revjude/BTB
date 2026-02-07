@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the people  being after Omri prevailed against the people \[that followed\] after Tibni son of Ginath. And Tibni died, and Omri reigned. 
-<small><sub>**KJV:**</sub></small>
-But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.
-<small><sub>**BSB:**</sub></small>
-But the followers of Omri proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.21|<< 1 Kings 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.23|1 Kings 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 9:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:3**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:
 <small><sub>**BSB:**</sub></small>
 But I am sending the brothers in order that our boasting about you in this matter should not prove empty, but that you will be prepared, just as I said.
 <small><sub>**Literal:**</sub></small>
 I have sent however the brothers, that not the boasting of us which [is] about you may be made void in <the> matter this, that even as I was saying having prepared yourselves you may be,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.2|<< 2 Corinthians 9:2]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.4|2 Corinthians 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have sent |**<big>[[G3992\|ἔπεμψα]]</big>**  |epempsa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to the messengers, to the ones coming, Thus you shall say to the men of Jabish Gilead, Tomorrow there will be deliverance to you at \[the\] warming through of the sun. And the messengers came into the city, and they reported to the men of Jabish, and they were glad. 
-<small><sub>**KJV:**</sub></small>
-And they said unto the messengers that came, Thus shall ye say unto the men of Jabeshgilead, To morrow, by [that time] the sun be hot, ye shall have help. And the messengers came and shewed [it] to the men of Jabesh; and they were glad.
-<small><sub>**BSB:**</sub></small>
-So they said to the messengers who had come, “Tell the men of Jabesh-gilead: ‘Deliverance will be yours tomorrow by the time the sun is hot.’” And when the messengers relayed this to the men of Jabesh, they rejoiced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.8|<< 1 Samuel 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.10|1 Samuel 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

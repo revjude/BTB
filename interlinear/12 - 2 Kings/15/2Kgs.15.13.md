@@ -1,4 +1,4 @@
-**2 Kings 15:13** 
+**2 Kings 15:13**<big><big>[[2Kgs.15.13 Shallum Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the thirty-ninth year of Uzziah’s reign over Judah, Shallum son of Jabesh b
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.12|<< 2 Kings 15:12]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.14|2 Kings 15:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Shallum  |**<big>&#8207;[[H7967G\|שַׁלּ֤וּם]]&#8207; </big>**| sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

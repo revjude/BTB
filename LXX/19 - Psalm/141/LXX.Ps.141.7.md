@@ -1,10 +1,7 @@
 **LXX Psalm 141:7** 
 <small><sub>**LXX:**</sub></small>
 As thick ground was broken asunder upon the earth, his bones were dispersed by  Hades. 
-<small><sub>**KJV:**</sub></small>
-Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth [wood] upon the earth.
-<small><sub>**BSB:**</sub></small>
-As when one plows and breaks up the soil, so our bones have been scattered at the mouth of Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.6|<< Psalm 141:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.8|Psalm 141:8 >>]]</td></tr></table>
 
 | Translation | Greek |

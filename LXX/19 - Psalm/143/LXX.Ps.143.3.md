@@ -1,10 +1,7 @@
 **LXX Psalm 143:3** 
 <small><sub>**LXX:**</sub></small>
 For the enemy pursued  my soul; he humbled my life unto the ground; he seated me in dark \[places\] as \[the\] dead of \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.
-<small><sub>**BSB:**</sub></small>
-For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.2|<< Psalm 143:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.4|Psalm 143:4 >>]]</td></tr></table>
 
 | Translation | Greek |

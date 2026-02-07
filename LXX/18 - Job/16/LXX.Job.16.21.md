@@ -1,10 +1,7 @@
 **LXX Job 16:21** 
 <small><sub>**LXX:**</sub></small>
 And may it be reproof to man before \[the\] <span class="smallcaps">lord</span>, and to a son of man \[to\] his neighbor. 
-<small><sub>**KJV:**</sub></small>
-O that one might plead for a man with God, as a man [pleadeth] for his neighbour!
-<small><sub>**BSB:**</sub></small>
-Oh, that a man might plead with God as he pleads with his neighbor!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.20|<< Job 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.22|Job 16:22 >>]]</td></tr></table>
 
 | Translation | Greek |

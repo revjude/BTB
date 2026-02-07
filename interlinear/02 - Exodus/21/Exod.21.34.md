@@ -1,4 +1,4 @@
-**Exodus 21:34** 
+**Exodus 21:34**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The owner of the pit shall make [it] good, [and] give money unto the owner of them; and the dead [beast] shall be his.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the owner of the pit shall make restitution; he must pay its owner, and the dead
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.33|<< Exodus 21:33]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.35|Exodus 21:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] owner of  |**<big>&#8207;[[H1167G\|בַּ֤עַל]]&#8207; </big>**| Ba.'al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pit  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0953A\|בּוֹר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

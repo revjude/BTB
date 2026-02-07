@@ -1,12 +1,12 @@
-**Philippians 1:14
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:14**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 <small><sub>**BSB:**</sub></small>
 And most of the brothers, confident in the Lord by my chains, now dare more greatly to speak the word without fear.
 <small><sub>**Literal:**</sub></small>
 and <the> most of the brothers in [the] Lord already trusting by the chains of mine more abundantly to dare fearlessly the word of the God to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.13|<< Philippians 1:13]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.15|Philippians 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

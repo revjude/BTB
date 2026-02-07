@@ -1,4 +1,4 @@
-**Ezekiel 41:18** 
+**Ezekiel 41:18**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it was] made with cherubims and palm trees, so that a palm tree [was] between a cherub and a cherub; and [every] cherub had two faces;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ were alternating carved cherubim and palm trees. Each cherub had two faces:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.17|<< Ezekiel 41:17]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.19|Ezekiel 41:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] made  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213H\|עָשׂ֥וּי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Sui<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cherubim  |**<big>&#8207;[[H3742\|כְּרוּבִ֖ים]]&#8207; </big>**| ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

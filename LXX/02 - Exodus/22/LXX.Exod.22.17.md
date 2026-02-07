@@ -1,10 +1,7 @@
 **LXX Exodus 22:17** 
 <small><sub>**LXX:**</sub></small>
 But if in shaking he shakes his head in dissent, and her father should not be willing to give her to him as wife, he shall pay to the father silver, according to as much as is the dowry of the virgins. 
-<small><sub>**KJV:**</sub></small>
-If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
-<small><sub>**BSB:**</sub></small>
-If her father absolutely refuses to give her to him, the man still must pay an amount comparable to the bridal price of a virgin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 37:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] wild beasts entered under the protection, and are tranquil in \[their\] lair. 
-<small><sub>**KJV:**</sub></small>
-Then the beasts go into dens, and remain in their places.
-<small><sub>**BSB:**</sub></small>
-The wild animals enter their lairs; they settle down in their dens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.7|<< Job 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.9|Job 37:9 >>]]</td></tr></table>
 
 | Translation | Greek |

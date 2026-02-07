@@ -1,4 +1,4 @@
-**2 Samuel 17:11** 
+**2 Samuel 17:11**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beersheba, as the sand that [is] by the sea for multitude; and that thou go to battle in thine own person.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, I advise that all Israel from Dan to Beersheba—a multitude like the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.10|<< 2 Samuel 17:10]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.12|2 Samuel 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I counsel  |**<big>&#8207;[[H3289\|יָעַ֗צְתִּי]]&#8207; </big>**| ya.'Atz.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 6:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:19**<big><big>[[Luke.6.17 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the whole multitude sought to touch him: for there went virtue out of him, and healed [them] all.
 <small><sub>**BSB:**</sub></small>
 The entire crowd was trying to touch Him, because power was coming from Him and healing them all.
 <small><sub>**Literal:**</sub></small>
 And all the multitude were seeking to touch Him, because power from Him was going out and was healing all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.18|<< Luke 6:18]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.20|Luke 6:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

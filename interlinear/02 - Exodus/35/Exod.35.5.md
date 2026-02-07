@@ -1,4 +1,4 @@
-**Exodus 35:5** 
+**Exodus 35:5**<big><big>[[Exod.35.4 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye from among you an offering unto the LORD: whosoever [is] of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take from among you an offering to the LORD. Let everyone whose heart is willing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.4|<< Exodus 35:4]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.6|Exodus 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קְח֨וּ]]&#8207; </big>**| ke.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> you  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0854\|אִתְּ]]&#8207;&#8207;[[H9036\|כֶ֤ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.te.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

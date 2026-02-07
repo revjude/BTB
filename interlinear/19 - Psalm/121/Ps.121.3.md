@@ -1,4 +1,4 @@
-**Psalms 121:3** 
+**Psalms 121:3**<big><big>[[Ps.121.1 I Lift Up My Eyes to the Hills|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will not suffer thy foot to be moved: he that keepeth thee will not slumber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will not allow your foot to slip; your Protector will not slumber.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.121.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.2|<< Psalms 121:2]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.4|Psalms 121:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he permit  |**<big>&#8207;[[H5414K\|יִתֵּ֣ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

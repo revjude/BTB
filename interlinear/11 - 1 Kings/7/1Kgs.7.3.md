@@ -1,4 +1,4 @@
-**1 Kings 7:3** 
+**1 Kings 7:3**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it was] covered with cedar above upon the beams, that [lay] on forty five pillars, fifteen [in] a row.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The house was roofed with cedar above the beams that rested on the pillars—for
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.2|<< 1 Kings 7:2]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.4|1 Kings 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [it was] paneled  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5603\|סָפֻ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Fun<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> cedar  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0730\|אֶ֗רֶז]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'E.rez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

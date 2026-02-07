@@ -1,10 +1,7 @@
 **LXX Genesis 6:2** 
 <small><sub>**LXX:**</sub></small>
 And the sons of God were beholding the daughters of men, that they are good, \[that\] they took to themselves women from all of whom they chose. 
-<small><sub>**KJV:**</sub></small>
-That the sons of God saw the daughters of men that they [were] fair; and they took them wives of all which they chose.
-<small><sub>**BSB:**</sub></small>
-the sons of God saw that the daughters of men were beautiful, and they took as wives whomever they chose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.1|<< Genesis 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.3|Genesis 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

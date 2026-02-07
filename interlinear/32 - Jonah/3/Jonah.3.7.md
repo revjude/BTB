@@ -1,4 +1,4 @@
-**Jonah 3:7** 
+**Jonah 3:7**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he caused [it] to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he issued a proclamation in Nineveh: “By the decree of the king and his n
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had a proclamation made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יַּזְעֵ֗ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaz.'Ek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

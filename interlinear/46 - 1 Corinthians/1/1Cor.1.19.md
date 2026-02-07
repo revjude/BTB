@@ -1,5 +1,5 @@
-**1 Corinthians 1:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:19**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
 <small><sub>**BSB:**</sub></small>
 For it is written: “I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate.”
@@ -10,7 +10,7 @@ It has been written for: I will destroy the wisdom of the wise, and the intellig
 > $\quad$ referencing: [[LXX.Isa.29.14|Isa 29:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for: |**<big>[[G1063\|γάρ·]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

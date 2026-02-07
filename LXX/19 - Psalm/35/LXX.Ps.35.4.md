@@ -1,10 +1,7 @@
 **LXX Psalm 35:4** 
 <small><sub>**LXX:**</sub></small>
 the ones seeking my soul be ashamed and feel remorse! Let them be turned to the rear, and the ones considering evils against me be disgraced! 
-<small><sub>**KJV:**</sub></small>
-Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.
-<small><sub>**BSB:**</sub></small>
-May those who seek my life be disgraced and put to shame; may those who plan to harm me be driven back and confounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.3|<< Psalm 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.5|Psalm 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

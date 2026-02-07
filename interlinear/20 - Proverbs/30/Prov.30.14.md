@@ -1,4 +1,4 @@
-**Proverbs 30:14** 
+**Proverbs 30:14**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation, whose teeth [are as] swords, and their jaw teeth [as] knives, to devour the poor from off the earth, and the needy from [among] men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ there is a generation whose teeth are swords and whose jaws are knives, devourin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.13|<< Proverbs 30:13]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.15|Proverbs 30:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a generation  |**<big>&#8207;[[H1755\|דּ֤וֹר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] swords  |**<big>&#8207;[[H2719\|חֲרָב֣וֹת]]&#8207; </big>**| cha.ra.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

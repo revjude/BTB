@@ -1,12 +1,12 @@
-**Colossians 4:8
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:8**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;
 <small><sub>**BSB:**</sub></small>
 I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.
 <small><sub>**Literal:**</sub></small>
 whom I sent to you for this very purpose that you may know the [things] concerning us and he may encourage the hearts of you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.7|<< Colossians 4:7]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.9|Colossians 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I sent |**<big>[[G3992\|ἔπεμψα]]</big>**  |epempsa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

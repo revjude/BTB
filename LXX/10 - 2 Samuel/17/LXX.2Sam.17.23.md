@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:23** 
 <small><sub>**LXX:**</sub></small>
 And Ahithophel knew that he had not taken  his counsel, and he saddled  his donkey, and rose up, and went forth to  his house in  his city. And he gave charge \[to\] his household, and he hung himself, and died. And they entombed \[him\] in the burying-place  of his father. 
-<small><sub>**KJV:**</sub></small>
-And when Ahithophel saw that his counsel was not followed, he saddled [his] ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
-<small><sub>**BSB:**</sub></small>
-When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He put his affairs in order and hanged himself. So he died and was buried in his father’s tomb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.22|<< 2 Samuel 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.24|2 Samuel 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

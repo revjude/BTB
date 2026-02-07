@@ -1,12 +1,12 @@
-**Acts 27:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:4**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had launched from thence, we sailed under Cyprus, because the winds were contrary.
 <small><sub>**BSB:**</sub></small>
 After putting out from there, we sailed to the lee of Cyprus because the winds were against us.
 <small><sub>**Literal:**</sub></small>
 And from there having set sail we sailed under <the> Cyprus because of <the> the winds being contrary,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.3|<< Acts 27:3]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.5|Acts 27:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And from there |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having set sail |**<big>[[G0321\|ἀναχθέντες]]</big>**  |anachthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

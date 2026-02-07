@@ -1,12 +1,12 @@
-**1 Thessalonians 4:13
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:13**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
 <small><sub>**BSB:**</sub></small>
 Brothers, we do not want you to be uninformed about those who sleep in death, so that you will not grieve like the rest, who are without hope.
 <small><sub>**Literal:**</sub></small>
 Not we do want but you to be ignorant, brothers, concerning those themselves falling asleep, so that not you may be grieved even as also the rest those not having hope.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.12|<< 1 Thessalonians 4:12]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.14|1 Thessalonians 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we do want [^1] [^2] |**<big>[[G2309\|θέλομεν]]</big>**  |thelomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |

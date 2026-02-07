@@ -1,4 +1,4 @@
-**Amos 7:13** 
+**Amos 7:13**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But prophesy not again any more at Bethel: for it [is] the king’s chapel, and it [is] the king’s court.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But never prophesy at Bethel again, because it is the sanctuary of the king and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.12|<< Amos 7:12]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.14|Amos 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Beth-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1008G\|בֵֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -el  |**<big>&#8207;[[H1008G\|אֵ֔ל]]&#8207; </big>**| 'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

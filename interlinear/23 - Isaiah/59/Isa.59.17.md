@@ -1,4 +1,4 @@
-**Isaiah 59:17** 
+**Isaiah 59:17**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance [for] clothing, and was clad with zeal as a cloke.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He put on righteousness like a breastplate, and the helmet of salvation on His h
 > $\quad$ referenced by: [[Eph.6.14|Eph 6:14]] ☩ [[Eph.6.17|Eph 6:17]] ☩ [[1Thess.5.8|1Thess 5:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put on  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3847\|יִּלְבַּ֤שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.Bash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6666\|צְדָקָה֙]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

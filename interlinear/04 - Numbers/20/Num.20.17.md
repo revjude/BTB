@@ -1,4 +1,4 @@
-**Numbers 20:17** 
+**Numbers 20:17**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink [of] the water of the wells: we will go by the king’s [high] way, we will not turn to the right hand nor to the left, until we have passed thy borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please let us pass through your land. We will not go through any field or vineya
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us pass  |**<big>&#8207;[[H5674A\|נַעְבְּרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na'.be.rah-<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

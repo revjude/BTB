@@ -1,6 +1,6 @@
 (KJV) **Exodus 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13|<< Exodus 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15|Exodus 15 >>]]</td></tr></table>
 
-***Pharaoh Pursues the Israelites*** ^bsb184
+<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥃]]</big></big>***Pharaoh Pursues the Israelites***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.14.1|1]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> spake<small><small>[^2]</small></small> unto Moses, saying, <span class="startversemarker">[</span>**[[Exod.14.2|2]]**<span class="endversemarker">]</span> Speak unto the children of Israel, that they<small><small>[^3]</small></small> turn and encamp before Pi–hahiroth<small><small>[^4]</small></small>, between Migdol<small><small>[^5]</small></small> and the sea, over against Baal–zephon<small><small>[^6]</small></small>: before it shall ye encamp by the sea. <span class="startversemarker">[</span>**[[Exod.14.3|3]]**<span class="endversemarker">]</span> For Pharaoh<small><small>[^7]</small></small> will say of the children of Israel, They \[are\] entangled<small><small>[^8]</small></small> in the land, the wilderness hath shut them in. <span class="startversemarker">[</span>**[[Exod.14.4|4]]**<span class="endversemarker">]</span> And I will harden<small><small>[^9]</small></small> Pharaoh’s heart, that he shall follow after them; and I will be<small><small>[^10]</small></small> honoured upon Pharaoh, and upon all his host; that the Egyptians<small><small>[^11]</small></small> may know that I \[am\] the <span class="smallcaps">Lord</span>. And they did so. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.14.10|10]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.14.13|13]]**<span class="endversemarker">]</span> [¶]And Moses said unto the people, Fear ye not<small><small>[^27]</small></small>, stand still, and see the<small><small>[^28]</small></small> salvation of the <span class="smallcaps">Lord</span>, which he will shew to you to day: for the Egyptians whom ye have seen to day<small><small>[^29]</small></small>, ye shall see<small><small>[^30]</small></small> them again no more for ever. <span class="startversemarker">[</span>**[[Exod.14.14|14]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord<small><small>[^31]</small></small></span> shall fight for you, and ye shall hold<small><small>[^32]</small></small> your peace.
 
-***Parting the Red Sea*** ^bsb185
+<big><big>[[Exod.14.15 Parting the Red Sea|⥃]]</big></big>***Parting the Red Sea***
 
  
 

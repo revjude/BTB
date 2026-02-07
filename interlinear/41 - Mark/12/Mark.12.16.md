@@ -1,12 +1,12 @@
-**Mark 12:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:16**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they brought [it]. And he saith unto them, Whose [is] this image and superscription? And they said unto him, Caesar’s.
 <small><sub>**BSB:**</sub></small>
 So they brought it, and He asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they answered.
 <small><sub>**Literal:**</sub></small>
 <the> And they brought [it]. And He says to them; Of whom [is] <the> likeness this and the inscription? <the> And they said to Him; Caesar’s.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.15|<< Mark 12:15]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.17|Mark 12:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

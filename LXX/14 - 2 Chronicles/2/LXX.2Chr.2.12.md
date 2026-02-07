@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:12** 
 <small><sub>**LXX:**</sub></small>
 And Hiram said, Blessed be \[the\] <span class="smallcaps">lord</span>  God of Israel, who made the heaven and the earth, who gave \[to\] king David a wise son, and knowing understanding and higher knowledge, who shall build a house to the <span class="smallcaps">lord</span>, and a house  for his kingdom. 
-<small><sub>**KJV:**</sub></small>
-Huram said moreover, Blessed [be] the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom.
-<small><sub>**BSB:**</sub></small>
-And Hiram added: “Blessed be the LORD, the God of Israel, who made the heavens and the earth! He has given King David a wise son with insight and understanding, who will build a temple for the LORD and a royal palace for himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.11|<< 2 Chronicles 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.13|2 Chronicles 2:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Chronicles 2:12** is...

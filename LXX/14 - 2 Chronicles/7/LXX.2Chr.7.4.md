@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:4** 
 <small><sub>**LXX:**</sub></small>
 And the king and all the people \[were\] sacrificing the things offered for sacrifices before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then the king and all the people offered sacrifices before the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the king and all the people offered sacrifices before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.3|<< 2 Chronicles 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.5|2 Chronicles 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

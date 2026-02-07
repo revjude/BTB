@@ -1,4 +1,4 @@
-**Ezekiel 23:23** 
+**Ezekiel 23:23**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Babylonians and all the Chaldeans, the men of Pekod, Shoa, and Koa, and all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.22|<< Ezekiel 23:22]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.24|Ezekiel 23:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֧י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָבֶ֣ל]]&#8207; </big>**| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 3:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:27**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.
 <small><sub>**BSB:**</sub></small>
 Indeed, no one can enter a strong man’s house to steal his possessions unless he first ties up the strong man. Then he can plunder his house.
 <small><sub>**Literal:**</sub></small>
 But not is able no [one] into the house of the strong man having entered the goods of him to plunder, only unless first the strong man he shall bind, And then the house of him he will plunder.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.26|<< Mark 3:26]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.28|Mark 3:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But [^1] |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR">NKO</abbr> | |

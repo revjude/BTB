@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:26** 
 <small><sub>**LXX:**</sub></small>
 For impious men were found among my people. And they set a snare to corrupt men; and they conceive \[their plan\]. 
-<small><sub>**KJV:**</sub></small>
-For among my people are found wicked [men]: they lay wait, as he that setteth snares; they set a trap, they catch men.
-<small><sub>**BSB:**</sub></small>
-For among My people are wicked men; they watch like fowlers lying in wait; they set a trap to catch men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.25|<< Jeremiah 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.27|Jeremiah 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

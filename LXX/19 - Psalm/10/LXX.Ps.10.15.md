@@ -1,10 +1,7 @@
 **LXX Psalm 10:15** 
 <small><sub>**LXX:**</sub></small>
 Break the arm of the sinner and wicked one! His sin shall be sought for, and in no way shall he be found. 
-<small><sub>**KJV:**</sub></small>
-Break thou the arm of the wicked and the evil [man]: seek out his wickedness [till] thou find none.
-<small><sub>**BSB:**</sub></small>
-Break the arm of the wicked and evildoer; call him to account for his wickedness until none is left to be found.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.14|<< Psalm 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.16|Psalm 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

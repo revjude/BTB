@@ -1,10 +1,7 @@
 **LXX Genesis 36:18** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Aholibamah, wife of Esau -- prince Jeush, prince Jaalam, prince Korah. These \[were\] \[the\] princes of Aholibamah, daughter of Anah, wife of Esau. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these [were] the dukes [that came] of Aholibamah the daughter of Anah, Esau’s wife.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Esau’s wife Oholibamah: Chiefs Jeush, Jalam, and Korah. They are the chiefs descended from Esau’s wife Oholibamah, the daughter of Anah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.17|<< Genesis 36:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.19|Genesis 36:19 >>]]</td></tr></table>
 
 | Translation | Greek |

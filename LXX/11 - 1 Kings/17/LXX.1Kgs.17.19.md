@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elijah said to the woman, Give me  your son! And he took him from out of  her bosom, and brought him into the upper room in which he settled there, and he rested him upon  his bed. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.
-<small><sub>**BSB:**</sub></small>
-But Elijah said to her, “Give me your son.” So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.18|<< 1 Kings 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.20|1 Kings 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

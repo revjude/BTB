@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:21** 
 <small><sub>**LXX:**</sub></small>
 And the man Elkanah ascended, and all  his house, to sacrifice in Shiloh, for the sacrifice of the days, and  his vows. 
-<small><sub>**KJV:**</sub></small>
-And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.
-<small><sub>**BSB:**</sub></small>
-Then Elkanah and all his house went up to make the annual sacrifice to the LORD and to fulfill his vow,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.20|<< 1 Samuel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.22|1 Samuel 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

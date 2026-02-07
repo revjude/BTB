@@ -1,4 +1,4 @@
-**Psalms 37:8** 
+**Psalms 37:8**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Refrain from anger and abandon wrath; do not fret—it can only bring harm.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.7|<< Psalms 37:7]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.9|Psalms 37:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | refrain  |**<big>&#8207;[[H7503\|הֶ֣רֶף]]&#8207; </big>**| He.ref<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from anger  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H0639G\|אַף]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> 'af<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

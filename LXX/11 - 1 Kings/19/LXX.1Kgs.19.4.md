@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:4** 
 <small><sub>**LXX:**</sub></small>
 And he went by the wilderness way a day. And came and stayed underneath a broom shrub, and he asked  for his life to die. And he said, It is fit now, O <span class="smallcaps">lord</span>, take indeed  my life from me! for I am no better than  my fathers. 
-<small><sub>**KJV:**</sub></small>
-But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I [am] not better than my fathers.
-<small><sub>**BSB:**</sub></small>
-while he himself went a day’s journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.3|<< 1 Kings 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.5|1 Kings 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

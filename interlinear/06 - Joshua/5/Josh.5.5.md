@@ -1,4 +1,4 @@
-**Joshua 5:5** 
+**Joshua 5:5**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now all the people that came out were circumcised: but all the people [that were] born in the wilderness by the way as they came forth out of Egypt, [them] they had not circumcised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though all who had come out were circumcised, none of those born in the wilderne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.4|<< Joshua 5:4]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.6|Joshua 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | circumcised  |**<big>&#8207;[[H4135A\|מֻלִ֣ים]]&#8207; </big>**| mu.Lim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

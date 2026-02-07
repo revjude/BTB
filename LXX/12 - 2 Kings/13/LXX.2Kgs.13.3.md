@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked in anger to rage against  Israel. And he gave them into \[the\] hand of Hazael king of Syria, and in \[the\] hand of \[the\] son of Hadad, son of Hazael all the days. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, all [their] days.
-<small><sub>**BSB:**</sub></small>
-So the anger of the LORD burned against Israel, and He delivered them continually into the hands of Hazael king of Aram and his son Ben-hadad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.2|<< 2 Kings 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.4|2 Kings 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 64:5** (64:4)
+**Isaiah 64:5**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou meetest him that rejoiceth and worketh righteousness, [those that] remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You welcome those who gladly do right, who remember Your ways. Surely You were a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.4|<< Isaiah 64:4]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.6|Isaiah 64:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you meet  |**<big>&#8207;[[H6293\|פָּגַ֤עְתָּ]]&#8207; </big>**| pa.Ga'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

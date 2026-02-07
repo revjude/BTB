@@ -1,4 +1,4 @@
-**Judges 8:21** 
+**Judges 8:21**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man [is, so is] his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that [were] on their camels’ necks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Zebah and Zalmunna said, “Get up and kill us yourself, for as the man is,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.20|<< Judges 8:20]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.22|Judges 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֜אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zebah  |**<big>&#8207;[[H2078\|זֶ֣בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

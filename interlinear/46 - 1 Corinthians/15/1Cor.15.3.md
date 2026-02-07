@@ -1,5 +1,5 @@
-**1 Corinthians 15:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:3**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
 <small><sub>**BSB:**</sub></small>
 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,
@@ -10,7 +10,7 @@ I delivered for to you in [the] foremost what also I received that Christ died f
 > $\quad$ alluding to: [[LXX.Ps.22.1|Ps 22:1-31]] ☩ [[LXX.Isa.53.8|Isa 53:8-9]] ☩ [[LXX.Ps.40.1|Ps 40:1-17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I delivered |**<big>[[G3860\|παρέδωκα]]</big>**  |paredōka <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

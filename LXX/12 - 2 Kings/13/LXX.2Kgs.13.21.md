@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:21** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as they were entombing the man, that behold, they beheld the armed \[band\], and they tossed the man in the burying-place of Elisha, and it went and touched the bones of Elisha. And he came alive, and rose upon  his feet. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as they were burying a man, that, behold, they spied a band [of men]; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
-<small><sub>**BSB:**</sub></small>
-Once, as the Israelites were burying a man, suddenly they saw a band of raiders, so they threw the man’s body into Elisha’s tomb. And as soon as his body touched the bones of Elisha, the man was revived and stood up on his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.20|<< 2 Kings 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.22|2 Kings 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

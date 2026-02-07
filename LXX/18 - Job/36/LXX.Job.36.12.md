@@ -1,10 +1,7 @@
 **LXX Job 36:12** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] impious are not preserved -- by  their not willing to behold the <span class="smallcaps">lord</span>, and because being admonished they were unhearing. 
-<small><sub>**KJV:**</sub></small>
-But if they obey not, they shall perish by the sword, and they shall die without knowledge.
-<small><sub>**BSB:**</sub></small>
-But if they do not obey, then they perish by the sword and die without knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.11|<< Job 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.13|Job 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

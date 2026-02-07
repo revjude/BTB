@@ -1,10 +1,7 @@
 **LXX Joshua 3:13** 
 <small><sub>**LXX:**</sub></small>
 And it will be as whenever the feet of the priests shall rest, of the ones lifting the ark of the covenant of \[the\] <span class="smallcaps">lord</span> of all the earth in the water of the Jordan, the water of the Jordan shall fail, and the water  going down shall stand from above as a heap. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, [that] the waters of Jordan shall be cut off [from] the waters that come down from above; and they shall stand upon an heap.
-<small><sub>**BSB:**</sub></small>
-When the feet of the priests who carry the ark of the LORD—the Lord of all the earth—touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.12|<< Joshua 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.14|Joshua 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

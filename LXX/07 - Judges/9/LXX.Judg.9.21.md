@@ -1,10 +1,7 @@
 **LXX Judges 9:21** 
 <small><sub>**LXX:**</sub></small>
 And Jotham ran away and fled, and went unto Beer, and dwelt there away from \[the\] face of Abimelech  his brother. 
-<small><sub>**KJV:**</sub></small>
-And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.
-<small><sub>**BSB:**</sub></small>
-Then Jotham ran away, escaping to Beer, and he lived there for fear of his brother Abimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.20|<< Judges 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.22|Judges 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

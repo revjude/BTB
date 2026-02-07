@@ -1,5 +1,5 @@
-**Luke 6:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:24**<big><big>[[Luke.6.24 Woes to the Satisfied|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But woe unto you that are rich! for ye have received your consolation.
 <small><sub>**BSB:**</sub></small>
 But woe to you who are rich, for you have already received your comfort.
@@ -10,7 +10,7 @@ But woe to you who are rich, for you are receiving the comfort of you.<br><table
 > $\quad$ alluding to: [[LXX.Amos.6.1|Amos 6:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|Πλὴν]]</big>**  |Plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | woe |**<big>[[G3759\|οὐαὶ]]</big>**  |ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

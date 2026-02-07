@@ -1,4 +1,4 @@
-**Exodus 23:21** 
+**Exodus 23:21**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name [is] in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pay attention to him and listen to his voice; do not defy him, for he will not f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.20|<< Exodus 23:20]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.22|Exodus 23:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take care  |**<big>&#8207;[[H8104J\|הִשָּׁ֧מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before him  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פָּנָ֛י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

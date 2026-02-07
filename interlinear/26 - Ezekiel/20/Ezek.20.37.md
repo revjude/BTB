@@ -1,4 +1,4 @@
-**Ezekiel 20:37** 
+**Ezekiel 20:37**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make you pass under the rod and will bring you into the bond of the coven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.36|<< Ezekiel 20:36]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.38|Ezekiel 20:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make pass  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|הַעֲבַרְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.var.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 14:5** 
 <small><sub>**LXX:**</sub></small>
 And it was announced to the king of the Egyptians that the people have fled. And the heart of Pharaoh was converted, and the \[hearts\] of his attendants against the people. And they said, What is this we have done  to send out the sons of Israel  to not slave to us? 
-<small><sub>**KJV:**</sub></small>
-And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, and they said, Why have we done this, that we have let Israel go from serving us?
-<small><sub>**BSB:**</sub></small>
-When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.4|<< Exodus 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.6|Exodus 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

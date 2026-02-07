@@ -1,12 +1,12 @@
-**Mark 6:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:35**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time [is] far passed:
 <small><sub>**BSB:**</sub></small>
 By now the hour was already late. So the disciples came to Jesus and said, “This is a desolate place, and the hour is already late.
 <small><sub>**Literal:**</sub></small>
 And already when the hour late being having come to Him the disciples of Him were saying that Desolate is the place, and already [it is] an hour late;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.34|<< Mark 6:34]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.36|Mark 6:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | already |**<big>[[G2235\|ἤδη]]</big>**  |ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

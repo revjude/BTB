@@ -1,10 +1,7 @@
 **LXX Exodus 28:30** 
 <small><sub>**LXX:**</sub></small>
 And you shall place upon the oracle of the judgment, the Manifestation and the Truth; and they shall be upon the breast of Aaron, whenever he should enter into the holy place before \[the\] <span class="smallcaps">lord</span>. And Aaron shall bring the judgments of the sons of Israel upon the breast, before \[the\] <span class="smallcaps">lord</span> always. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
-<small><sub>**BSB:**</sub></small>
-And place the Urim and Thummim in the breastpiece of judgment, so that they will also be over Aaron’s heart whenever he comes before the LORD. Aaron will continually carry the judgment of the sons of Israel over his heart before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.29|<< Exodus 28:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.31|Exodus 28:31 >>]]</td></tr></table>
 
 | Translation | Greek |

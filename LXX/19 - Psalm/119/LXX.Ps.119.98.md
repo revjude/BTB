@@ -1,10 +1,7 @@
 **LXX Psalm 119:98** 
 <small><sub>**LXX:**</sub></small>
 Above  my enemies you made me wiser  by your commandment; for into the eon it is to me. 
-<small><sub>**KJV:**</sub></small>
-Thou through thy commandments hast made me wiser than mine enemies: for they [are] ever with me.
-<small><sub>**BSB:**</sub></small>
-Your commandments make me wiser than my enemies, for they are always with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.98|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.97|<< Psalm 119:97]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.99|Psalm 119:99 >>]]</td></tr></table>
 
 | Translation | Greek |

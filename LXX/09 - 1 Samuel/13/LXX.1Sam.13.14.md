@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:14** 
 <small><sub>**LXX:**</sub></small>
 And now  your kingdom shall not stand with you. And \[the\] <span class="smallcaps">lord</span> shall seek for himself a man according to  his heart. And \[the\] <span class="smallcaps">lord</span> shall give charge to him for ruler over  his people, for you did not keep as many \[things\] as the <span class="smallcaps">lord</span> gave charge to you. 
-<small><sub>**KJV:**</sub></small>
-But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him [to be] captain over his people, because thou hast not kept [that] which the LORD commanded thee.
-<small><sub>**BSB:**</sub></small>
-But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.13|<< 1 Samuel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.15|1 Samuel 13:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 13:14** is...

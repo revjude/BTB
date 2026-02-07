@@ -1,4 +1,4 @@
-**Proverbs 14:34** 
+**Proverbs 14:34**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteousness exalteth a nation: but sin [is] a reproach to any people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Righteousness exalts a nation, but sin is a disgrace to any people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.33|<< Proverbs 14:33]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.35|Proverbs 14:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteousness  |**<big>&#8207;[[H6666\|צְדָקָ֥ה]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it exalts  |**<big>&#8207;[[H7311A\|תְרֽוֹמֵֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.ro.mem-<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

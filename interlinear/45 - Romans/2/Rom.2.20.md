@@ -1,12 +1,12 @@
-**Romans 2:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:20**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
 <small><sub>**BSB:**</sub></small>
 an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth—
 <small><sub>**Literal:**</sub></small>
 an instructor of [the] foolish, a teacher of infants, having the embodiment <the> of knowledge and of the truth in the law;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.19|<< Romans 2:19]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.21|Romans 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an instructor |**<big>[[G3810\|παιδευτὴν]]</big>**  |paideutēn <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of [the] foolish, |**<big>[[G0878\|ἀφρόνων,]]</big>**  |aphronōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

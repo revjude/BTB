@@ -1,4 +1,4 @@
-**Deuteronomy 22:15** 
+**Deuteronomy 22:15**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the father of the damsel, and her mother, take and bring forth [the tokens of] the damsel’s virginity unto the elders of the city in the gate:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the young woman’s father and mother shall bring the proof of her virginit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.14|<< Deuteronomy 22:14]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.16|Deuteronomy 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֛ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֥י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

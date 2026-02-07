@@ -1,12 +1,12 @@
-**Luke 22:67
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:67**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:
 <small><sub>**BSB:**</sub></small>
 “If You are the Christ, tell us.” Jesus answered, “If I tell you, you will not believe.
 <small><sub>**Literal:**</sub></small>
 saying; If You yourself are the Christ, do tell us. He said then to them; If you I shall tell, certainly not you shall believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.66|<< Luke 22:66]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.68|Luke 22:68 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
